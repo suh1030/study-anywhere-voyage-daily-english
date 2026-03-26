@@ -67,6 +67,15 @@ async function upsert(table: string, rows: object[], conflictCol: string) {
   console.log(`  ✓ ${table}: ${rows.length} rows`)
 }
 
+async function truncateInsert(table: string, rows: object[]) {
+  if (!rows.length) return
+  const { error: delErr } = await supabase.from(table).delete().neq('id', '00000000-0000-0000-0000-000000000000')
+  if (delErr) throw new Error(`[${table}] delete failed: ${delErr.message}`)
+  const { error } = await supabase.from(table).insert(rows)
+  if (error) throw new Error(`[${table}] ${error.message}`)
+  console.log(`  ✓ ${table}: ${rows.length} rows`)
+}
+
 // ── seed episodes ─────────────────────────────────────────────────────────────
 
 async function seedEpisodes() {
@@ -83,7 +92,6 @@ async function seedEpisodes() {
       rows.push({
         week_number: ep.weekNumber,
         day_of_week: ep.dayOfWeek,
-        date:        ep.date,
         theme:       ep.theme,
         title:       ep.title,
         phase:       ep.phase,
@@ -146,7 +154,6 @@ async function seedFlashcards() {
     const cards: any[] = mod[exportName] ?? []
     for (const c of cards) {
       rows.push({
-        id:               c.id,
         source:           c.source,
         week_number:      c.weekNumber,
         english:          c.english,
@@ -156,7 +163,7 @@ async function seedFlashcards() {
     }
   }
 
-  await upsert('flashcards', rows, 'id')
+  await truncateInsert('flashcards', rows)
 }
 
 // ── seed questions ────────────────────────────────────────────────────────────
@@ -187,8 +194,7 @@ async function seedQuestions() {
     }
   }
 
-  // questions has no stable id — upsert on (week_number, day_of_week)
-  await upsert('questions', rows, 'week_number,day_of_week')
+  await truncateInsert('questions', rows)
 }
 
 // ── main ──────────────────────────────────────────────────────────────────────
