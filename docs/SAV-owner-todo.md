@@ -8,10 +8,10 @@
 
 ## 立即可做（不需要等開發）
 
-- [ ] **GitHub Pages 開啟**
-  - 進入 GitHub repo → Settings → Pages → Source → 選「GitHub Actions」
-  - 完成後隱私政策網址：`https://suh1030.github.io/study-anywhere-voyage-daily-english/privacy-policy.html`
-  - 這個網址要填入 App Store Connect
+- [x] **法律文件頁面上線**（Netlify，2026-03-26）
+  - 隱私政策：`https://sav-daily-english.netlify.app/privacy-policy.html`
+  - 使用條款：`https://sav-daily-english.netlify.app/terms-of-service.html`
+  - 填入 App Store Connect 的 Privacy Policy URL 欄位
 
 - [ ] **Supabase Dashboard → Auth → Providers 設定**
   - 開啟 Sign in with Apple：需要填入 Services ID + Team ID + Key ID + Private Key

@@ -123,15 +123,15 @@ Welcome to SAV Daily English! This is the initial release featuring the complete
 
 ## Support URL
 
-`https://suh1030.github.io/study-anywhere-voyage-daily-english/legal/`
+`https://sav-daily-english.netlify.app`
 
 ## Privacy Policy URL
 
-`https://suh1030.github.io/study-anywhere-voyage-daily-english/legal/privacy-policy.html`
+`https://sav-daily-english.netlify.app/privacy-policy.html`
 
 ## Marketing URL（optional）
 
-`https://suh1030.github.io/study-anywhere-voyage-daily-english/legal/`
+`https://sav-daily-english.netlify.app`
 
 ---
 
