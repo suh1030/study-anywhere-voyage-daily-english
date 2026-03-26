@@ -46,10 +46,14 @@ export const useCreditsStore = create<CreditsState>((set, get) => ({
 
       if (!pkg) return { success: false, error: 'No packages available' }
 
-      const { customerInfo } = await Purchases.purchasePackage(pkg)
-      // Webhook fires async — wait a moment then refresh balance
-      await new Promise((r) => setTimeout(r, 1500))
-      await get().fetchBalance()
+      await Purchases.purchasePackage(pkg)
+      // Webhook fires async — poll until balance increases
+      const prevBalance = get().balance
+      for (let i = 0; i < 8; i++) {
+        await new Promise((r) => setTimeout(r, 1000))
+        await get().fetchBalance()
+        if (get().balance > prevBalance) break
+      }
 
       return { success: true }
     } catch (e: unknown) {

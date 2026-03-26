@@ -30,11 +30,15 @@ Deno.serve(async (req) => {
       return jsonResponse({ error: 'missing_fields' }, 400)
     }
 
-    // ── 3. 每日使用上限（每人每天最多 20 次，防止濫用）────────
+    // ── 3. 每日使用上限（每人每天最多 5 次，防止濫用）────────
     const supabaseAdmin = createAdminClient()
     const DAILY_LIMIT = 5
-    const todayStart = new Date()
-    todayStart.setHours(0, 0, 0, 0)
+    // Use UTC+8 (Taiwan time) for daily reset
+    const now = new Date()
+    const utc8Offset = 8 * 60 * 60 * 1000
+    const todayUTC8 = new Date(now.getTime() + utc8Offset)
+    todayUTC8.setUTCHours(0, 0, 0, 0)
+    const todayStart = new Date(todayUTC8.getTime() - utc8Offset)
 
     const { count } = await supabaseAdmin
       .from('credit_transactions')

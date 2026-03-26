@@ -52,7 +52,16 @@ export default function SpeakScreen() {
     const paragraphs = parseParagraphs(article.text_en)
     if (activeParagraph >= paragraphs.length) return
     Speech.stop()
-    Speech.speak(paragraphs[activeParagraph], { language: 'en-US', rate: 0.9 })
+    Speech.speak(paragraphs[activeParagraph], {
+      language: 'en-US',
+      rate: 0.9,
+      onDone: () => {
+        setActiveParagraph((p) => {
+          const next = p + 1
+          return next < paragraphs.length ? next : -1
+        })
+      },
+    })
   }, [activeParagraph, article])
 
   // Detect playback finishing

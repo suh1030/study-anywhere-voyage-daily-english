@@ -83,10 +83,11 @@ export const useAuthStore = create<AuthState>((set) => ({
       const result = await WebBrowser.openAuthSessionAsync(data.url, redirectUri)
       if (result.type !== 'success') return null
 
-      // Extract tokens from redirect URL
+      // Extract tokens from redirect URL (may be in query params or hash fragment)
       const url = new URL(result.url)
-      const access_token = url.searchParams.get('access_token') ?? url.hash.match(/access_token=([^&]+)/)?.[1]
-      const refresh_token = url.searchParams.get('refresh_token') ?? url.hash.match(/refresh_token=([^&]+)/)?.[1]
+      const hashParams = new URLSearchParams(url.hash.replace(/^#/, ''))
+      const access_token = url.searchParams.get('access_token') ?? hashParams.get('access_token')
+      const refresh_token = url.searchParams.get('refresh_token') ?? hashParams.get('refresh_token')
       if (!access_token || !refresh_token) return 'Could not extract tokens from redirect'
 
       const { error: sessionError } = await supabase.auth.setSession({ access_token, refresh_token })

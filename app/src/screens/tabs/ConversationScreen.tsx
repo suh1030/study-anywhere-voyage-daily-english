@@ -64,9 +64,12 @@ export default function ConversationScreen() {
     if ('feedback' in result) {
       setFeedback(result.feedback)
     } else {
-      Alert.alert('Error', result.error === 'insufficient_credits'
-        ? 'Not enough credits.'
-        : 'Failed to get feedback. Please try again.')
+      const msg =
+        result.error === 'insufficient_credits' ? 'Not enough credits.' :
+        result.error === 'daily_limit_reached' ? 'You\'ve reached the 5 feedback limit for today. Come back tomorrow!' :
+        result.error === 'ai_unavailable' ? 'AI service is temporarily unavailable. Your credit was not deducted.' :
+        'Failed to get feedback. Please try again.'
+      Alert.alert('Error', msg)
     }
   }
 
