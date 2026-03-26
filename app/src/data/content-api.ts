@@ -50,7 +50,6 @@ export interface EpisodeRow {
   id: string
   week_number: number
   day_of_week: number
-  date: string
   theme: string
   title: string
   phase: string

@@ -43,11 +43,11 @@ export default function ListenScreen() {
     })
   }, [])
 
-  // Flatten all lines across parts for prev/next navigation
-  const allLines = useMemo<(EpisodeLine & { partIndex: number })[]>(() => {
-    const lines: (EpisodeLine & { partIndex: number })[] = []
+  // Flatten all lines across parts; store partIndex + lineIndex for reliable lookup
+  const allLines = useMemo<(EpisodeLine & { partIndex: number; lineIndex: number })[]>(() => {
+    const lines: (EpisodeLine & { partIndex: number; lineIndex: number })[] = []
     episode?.parts.forEach((part, pi) => {
-      part.lines.forEach((line) => lines.push({ ...line, partIndex: pi }))
+      part.lines.forEach((line, li) => lines.push({ ...line, partIndex: pi, lineIndex: li }))
     })
     return lines
   }, [episode])
@@ -165,7 +165,7 @@ export default function ListenScreen() {
             </View>
             {part.lines.map((line, li) => {
               const globalIndex = allLines.findIndex(
-                (al) => al.partIndex === pi && al.en === line.en
+                (al) => al.partIndex === pi && al.lineIndex === li
               )
               const isActive = globalIndex === currentLine
               const speakerColor = line.speaker === 'a' ? colors.ui : colors.green
