@@ -1,0 +1,10 @@
+# Environment variables (contain secrets)
+.env
+.env.*
+scripts/.env
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
