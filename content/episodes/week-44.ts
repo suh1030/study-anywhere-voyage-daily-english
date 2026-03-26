@@ -1,4 +1,4 @@
-import { Episode } from '../../app/src/data/episode-sample'
+import { Episode } from '../types'
 
 export const WEEK_44: Episode[] = [
   {
@@ -78,7 +78,7 @@ export const WEEK_44: Episode[] = [
     keyPhrases: [
       { en: 'recognizable', zh: '可識別的', example: 'A strong creative voice makes work instantly recognizable.' },
       { en: 'emerges', zh: '湧現', example: 'Your creative voice emerges from the life you\'ve lived.' },
-      { en: 'vulnerability', def: '脆弱性', example: 'Creative work requires vulnerability — you put yourself in it.' },
+      { en: 'vulnerability', zh: '脆弱性', example: 'Creative work requires vulnerability — you put yourself in it.' },
       { en: 'synthesize', zh: '融合', example: 'Great creators synthesize many influences into something uniquely their own.' },
       { en: 'inspiration follows action', zh: '靈感跟隨行動', example: 'Don\'t wait for inspiration — inspiration follows action.' },
       { en: 'intimidating', zh: '令人生畏的', example: 'The blank page is intimidating, but starting is the hardest part.' },

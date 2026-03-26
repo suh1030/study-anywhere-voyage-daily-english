@@ -1,4 +1,4 @@
-import { Episode } from '../../app/src/data/episode-sample'
+import { Episode } from '../types'
 
 // ─── Week imports ─────────────────────────────────────────────────────────
 import { WEEK_01 } from './week-01'      // New Year & Fresh Starts  (1/1–1/4)

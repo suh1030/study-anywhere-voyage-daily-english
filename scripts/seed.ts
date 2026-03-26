@@ -12,6 +12,7 @@
 import { createClient } from '@supabase/supabase-js'
 import * as path from 'path'
 import * as fs from 'fs'
+import { normalizeEpisodeParts, normalizeKeyPhrases } from '../app/src/data/episode-normalize'
 
 // ── env ──────────────────────────────────────────────────────────────────────
 
@@ -92,11 +93,12 @@ async function seedEpisodes() {
       rows.push({
         week_number: ep.weekNumber,
         day_of_week: ep.dayOfWeek,
+        date:        ep.date,
         theme:       ep.theme,
         title:       ep.title,
         phase:       ep.phase,
-        parts:       ep.parts,
-        key_phrases: ep.keyPhrases,
+        parts:       normalizeEpisodeParts(ep.parts),
+        key_phrases: normalizeKeyPhrases(ep.keyPhrases),
       })
     }
   }

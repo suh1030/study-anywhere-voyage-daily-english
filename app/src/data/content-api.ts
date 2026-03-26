@@ -1,5 +1,6 @@
 import { supabase } from '../lib/supabase'
 import { getCache, setCache } from '../lib/cache'
+import { normalizeEpisodeParts, normalizeKeyPhrases } from './episode-normalize'
 
 // ── DB row types ──────────────────────────────────────────────────────────────
 
@@ -50,6 +51,7 @@ export interface EpisodeRow {
   id: string
   week_number: number
   day_of_week: number
+  date: string
   theme: string
   title: string
   phase: string
@@ -65,6 +67,14 @@ export function parseParagraphs(html: string): string[] {
     .split(/<\/p>/i)
     .map((chunk) => chunk.replace(/<[^>]+>/g, '').trim())
     .filter(Boolean)
+}
+
+function normalizeEpisodeRow(row: any): EpisodeRow {
+  return {
+    ...row,
+    parts: normalizeEpisodeParts(row.parts),
+    key_phrases: normalizeKeyPhrases(row.key_phrases),
+  }
 }
 
 // ── API functions (cache-first) ───────────────────────────────────────────────
@@ -91,7 +101,11 @@ export async function fetchEpisode(
 ): Promise<EpisodeRow | null> {
   const cacheKey = `episode:${weekNumber}:${dayOfWeek}`
   const cached = await getCache<EpisodeRow>(cacheKey)
-  if (cached) return cached
+  if (cached) {
+    const normalized = normalizeEpisodeRow(cached)
+    await setCache(cacheKey, normalized)
+    return normalized
+  }
 
   const { data, error } = await supabase
     .from('episodes')
@@ -100,7 +114,7 @@ export async function fetchEpisode(
     .eq('day_of_week', dayOfWeek)
     .single()
   if (error || !data) return null
-  const row = data as EpisodeRow
+  const row = normalizeEpisodeRow(data)
   await setCache(cacheKey, row)
   return row
 }
