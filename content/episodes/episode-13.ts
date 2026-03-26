@@ -1,0 +1,87 @@
+import { Episode } from '../../app/src/data/episode-sample'
+
+export const EPISODE_13: Episode = {
+  weekNumber: 13,
+  theme: 'Personality & Character',
+  title: 'Who Are You: Talking About Personality Types',
+  phase: 'p2',
+  parts: [
+    {
+      title: 'Part 1 — How Well Do You Know Yourself?',
+      lines: [
+        { speaker: 'b', speakerName: 'Jamie', en: "Mira, how well do you think you actually know yourself? Like, your real personality versus the one you present to others?", zh: 'Mira，你覺得你有多了解你自己？就是，你真實的個性和你向他人展示的那個？' },
+        { speaker: 'a', speakerName: 'Mira', en: "I think I know myself reasonably well now, but it took a long time. In my twenties I had a very fixed idea of who I was, and a lot of it turned out to be who I thought I was supposed to be.", zh: '我覺得我現在對自己了解得相當好，但花了很長時間。在我二十多歲的時候，我對自己是誰有一個非常固定的想法，其中很多原來是我認為自己應該是的樣子。', vocab: [{ word: 'fixed idea', def: '固定的想法' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "That gap between who we are and who we think we should be is interesting. Where does that pressure come from?", zh: '我們是誰和我們認為我們應該是誰之間的差距很有趣。那種壓力從哪裡來？' },
+        { speaker: 'a', speakerName: 'Mira', en: "Family, culture, the people around us. We absorb expectations early and often confuse them with our own preferences. It takes years of living independently to sort out which is which.", zh: '家庭、文化、我們周圍的人。我們很早就吸收了期望，常常把它們和自己的偏好混淆。需要多年的獨立生活才能分清哪個是哪個。', vocab: [{ word: 'absorb', def: '吸收' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "Do you use any frameworks for thinking about personality? Like Myers-Briggs or Enneagram?", zh: '你有使用任何框架來思考個性嗎？比如MBTI或九型人格？', vocab: [{ word: 'frameworks', def: '框架' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "I've tried most of them. I take them with a grain of salt — they're useful for starting conversations about tendencies, but I'm skeptical of anyone who treats them as definitive.", zh: '我大多數都試過了。我不會完全依賴它們——對於開始關於傾向的對話很有用，但我對任何將它們視為決定性的人持懷疑態度。', vocab: [{ word: 'grain of salt', def: '保留一點懷疑' }, { word: 'skeptical', def: '懷疑的' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "The danger of over-identifying with a type, right? 'I can't help being this way, it's just my personality.'", zh: '過度認同某個類型的危險，對吧？「我沒辦法，這只是我的個性。」' },
+        { speaker: 'a', speakerName: 'Mira', en: "Exactly. Personality frameworks can become either a helpful lens or a convenient excuse. The difference is whether you use them to grow or to justify staying the same.", zh: '正是。個性框架可以成為有用的視角，也可以成為方便的藉口。差別在於你用它們來成長，還是用來為保持原樣辯護。' },
+      ],
+    },
+    {
+      title: 'Part 2 — Strengths and Weaknesses',
+      lines: [
+        { speaker: 'b', speakerName: 'Jamie', en: "What would you say your main personality strengths are? The things that genuinely help you?", zh: '你會說你主要的個性優點是什麼？真正幫助你的那些？' },
+        { speaker: 'a', speakerName: 'Mira', en: "I'm a good listener — people feel heard when they talk to me, and I notice things they don't say as much as what they do. I'm also fairly calm under pressure, which helps in difficult situations.", zh: '我是個好的傾聽者——人們和我說話時感到被聆聽，我注意到他們沒說的和他們說的一樣多。我在壓力下也相當冷靜，這在困難情況下很有幫助。' },
+        { speaker: 'b', speakerName: 'Jamie', en: "Those are genuinely useful traits. What about weaknesses — things you've had to actively work on?", zh: '那些是真正有用的特質。那弱點呢——你不得不積極努力的事情？' },
+        { speaker: 'a', speakerName: 'Mira', en: "I can be overly self-critical. I hold myself to high standards and sometimes that tips into perfectionism, which is its own kind of obstacle. I've learned to recognize when good enough is genuinely enough.", zh: '我可能過於自我批評。我對自己要求很高，有時那會變成完美主義，那本身就是一種障礙。我學會了認識什麼時候「夠好」真的就夠了。', vocab: [{ word: 'perfectionism', def: '完美主義' }, { word: 'obstacle', def: '障礙' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "Perfectionism is a sneaky one — it masquerades as ambition.", zh: '完美主義是個狡猾的——它偽裝成雄心壯志。', vocab: [{ word: 'masquerade as', def: '偽裝成' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "Exactly. And it can be paralyzing. I've had periods where I've not started things because I couldn't guarantee they'd be done well. Which is obviously counterproductive.", zh: '正是。而且它可以令人癱瘓。我有過一些時期因為無法保證事情會做得好而沒有開始。那顯然是適得其反的。', vocab: [{ word: 'paralyzing', def: '令人癱瘓的' }, { word: 'counterproductive', def: '適得其反的' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "I struggle with impatience. I want things to move quickly and I can get frustrated when they don't. It's useful as a driver but not great for relationships.", zh: '我在耐心方面有挑戰。我希望事情快速推進，當它們沒有時我會變得沮喪。作為推動力很有用，但對關係不太好。', vocab: [{ word: 'impatience', def: '不耐煩' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "That's an honest self-assessment. And recognizing that your strengths have shadow sides is the beginning of managing them better.", zh: '那是誠實的自我評估。而認識到你的優點有陰暗面，是更好地管理它們的開始。', vocab: [{ word: 'shadow sides', def: '陰暗面' }] },
+      ],
+    },
+    {
+      title: 'Part 3 — How Others See Us',
+      lines: [
+        { speaker: 'b', speakerName: 'Jamie', en: "Do you think the way others see you matches how you see yourself?", zh: '你覺得別人看你的方式和你看自己的方式一致嗎？' },
+        { speaker: 'a', speakerName: 'Mira', en: "Not entirely. I think I come across as more confident than I actually feel on the inside. Which is useful sometimes, but it also means people don't always offer me support when I actually need it.", zh: '不完全是。我覺得我表現出的自信比我內心實際感受的更多。有時很有用，但也意味著人們並不總是在我實際需要時給予我支持。' },
+        { speaker: 'b', speakerName: 'Jamie', en: "That's the paradox of competence — the more capable you appear, the less likely people are to check in on you.", zh: '那是能力的悖論——你看起來越有能力，人們越不可能關心你。', vocab: [{ word: 'paradox', def: '悖論' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "Which is why vulnerability matters. Occasionally letting the mask slip — showing that you're uncertain or struggling — actually invites more authentic connection.", zh: '這就是為什麼脆弱很重要。偶爾讓面具滑落——展示你不確定或在掙扎——實際上邀請了更真實的連結。', vocab: [{ word: 'vulnerability', def: '脆弱、易受傷害性' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "Have you ever received feedback about your personality that really surprised you?", zh: '你有沒有收到過真的讓你驚訝的關於你個性的反饋？' },
+        { speaker: 'a', speakerName: 'Mira', en: "Yes — someone told me once that I could seem intimidating to people who didn't know me. I was shocked. I think of myself as warm and approachable. But I can be reserved with new people, and apparently that reads as distant.", zh: '有——有人曾告訴我，我對不認識我的人來說可能看起來讓人畏懼。我很震驚。我認為自己溫暖且平易近人。但我對新人可能比較保守，顯然那被解讀為疏遠。', vocab: [{ word: 'intimidating', def: '讓人畏懼的' }, { word: 'reserved', def: '保守的、內斂的' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "That kind of feedback is valuable, even if it stings. It's a reminder that our internal experience and our external presentation don't always match.", zh: '那種反饋是有價值的，即使它刺痛了。它提醒我們，我們的內部體驗和外部呈現並不總是一致的。', vocab: [{ word: 'stings', def: '刺痛' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "And it's not always possible to know how we're coming across. That's why feedback from people who know us well is such a gift, even when it's uncomfortable.", zh: '而且我們不總是能知道自己給人什麼印象。這就是為什麼了解我們的人的反饋是一種禮物，即使它讓人不舒服。' },
+      ],
+    },
+    {
+      title: 'Part 4 — Can Personality Change?',
+      lines: [
+        { speaker: 'b', speakerName: 'Jamie', en: "Do you think personality fundamentally changes over a lifetime? Or are people basically the same at their core?", zh: '你認為個性在一生中會根本改變嗎？還是人們在核心上基本相同？' },
+        { speaker: 'a', speakerName: 'Mira', en: "I think the core tendencies stay fairly stable — I'll always be somewhat introverted and detail-oriented. But a lot changes in how those tendencies are expressed and managed.", zh: '我覺得核心傾向保持相當穩定——我永遠會有些內向且注重細節。但那些傾向如何表達和管理改變了很多。', vocab: [{ word: 'tendencies', def: '傾向' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "Experience shapes behavior even if the underlying traits persist. Someone anxious at twenty might be calm at forty — not because anxiety disappeared, but because they learned to manage it.", zh: '即使底層特質持續存在，經驗也會塑造行為。一個二十歲時焦慮的人四十歲時可能很平靜——不是因為焦慮消失了，而是因為他們學會了管理它。', vocab: [{ word: 'underlying', def: '底層的' }, { word: 'persist', def: '持續存在' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "Research suggests that the Big Five personality traits do shift slowly over a lifetime — people tend to become more agreeable and conscientious with age. So change is real, just slow.", zh: '研究表明，五大人格特質確實在一生中緩慢變化——人們隨著年齡往往變得更隨和和認真負責。所以改變是真實的，只是很慢。', vocab: [{ word: 'conscientious', def: '認真負責的' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "That's reassuring in a way. It means we're not stuck with our worst traits.", zh: '那以某種方式令人安慰。意思是我們不會被我們最糟糕的特質困住。', vocab: [{ word: 'reassuring', def: '令人安慰的' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "And that intention matters. People who actively work on themselves — therapy, honest self-reflection, seeking feedback — tend to change more than those who just let life happen to them.", zh: '而且意圖很重要。那些積極致力於自我提升的人——治療、誠實的自我反思、尋求反饋——比那些只是讓生活隨波逐流的人更容易改變。' },
+        { speaker: 'b', speakerName: 'Jamie', en: "So personality isn't destiny — it's a starting point.", zh: '所以個性不是命運——它是一個起點。' },
+        { speaker: 'a', speakerName: 'Mira', en: "Exactly. The raw material shapes you, but you still get to do something with it.", zh: '正是。原料塑造你，但你仍然可以對它做些事情。' },
+      ],
+    },
+    {
+      title: 'Part 5 — Character vs. Personality',
+      lines: [
+        { speaker: 'b', speakerName: 'Jamie', en: "Is there a difference between personality and character? I feel like people use those words interchangeably but they might mean different things.", zh: '個性和品格有區別嗎？我感覺人們可以互換使用這兩個詞，但它們可能意味著不同的事情。', vocab: [{ word: 'interchangeably', def: '可互換地' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "I think there is. Personality is how you tend to behave — your patterns, preferences, default responses. Character is about what you do when it's hard — how you act when no one is watching, how you treat people who can't help you.", zh: '我覺得有。個性是你傾向於如何行為——你的模式、偏好、預設反應。品格是關於你在困難時做什麼——當沒有人看的時候你怎麼行動，你如何對待無法幫助你的人。', vocab: [{ word: 'default responses', def: '預設反應' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "Character as the part that requires choice, not just tendency.", zh: '品格作為需要選擇的部分，而不只是傾向。' },
+        { speaker: 'a', speakerName: 'Mira', en: "Yes. You might be naturally impatient — that's personality. But you can still choose to be kind and fair, even when you're frustrated. That choice over time becomes character.", zh: '是的。你天生可能不耐煩——那是個性。但你仍然可以選擇善良和公正，即使你很沮喪。那種選擇隨著時間成為品格。' },
+        { speaker: 'b', speakerName: 'Jamie', en: "I like that framing. It puts agency back in the picture — you're not just the sum of your tendencies.", zh: '我喜歡那個框架。它把主體性放回了畫面——你不只是你傾向的總和。', vocab: [{ word: 'agency', def: '主體性、自主能力' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "And I think this is why character is something people find admirable — it represents conscious choices made repeatedly over time.", zh: '我覺得這就是為什麼品格是人們覺得值得欽佩的東西——它代表了隨著時間反覆做出的有意識的選擇。', vocab: [{ word: 'admirable', def: '值得欽佩的' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: "It's built, not born. That's both a challenge and a reassurance.", zh: '它是建立的，不是天生的。那既是一個挑戰，也是一種安慰。' },
+        { speaker: 'a', speakerName: 'Mira', en: "Perfectly put. We come with raw material, but we're also the architects of who we become.", zh: '說得很好。我們帶著原料而來，但我們也是我們成為誰的建築師。', vocab: [{ word: 'architects', def: '建築師、設計者' }] },
+      ],
+    },
+  ],
+  keyPhrases: [
+    { en: 'take with a grain of salt', zh: '保留一點懷疑', example: "Take online personality tests with a grain of salt — they're a starting point, not a verdict." },
+    { en: 'shadow side', zh: '陰暗面', example: "Every strength has a shadow side — determination can become stubbornness." },
+    { en: 'paradox of competence', zh: '能力的悖論', example: "The paradox of competence is that people stop offering help when you seem to have everything under control." },
+    { en: 'mask slip', zh: '面具滑落、露出真面目', example: "Letting the mask slip occasionally builds deeper trust with people." },
+    { en: 'counterproductive', zh: '適得其反的', example: "Working long hours without rest is often counterproductive." },
+    { en: 'reassuring', zh: '令人安慰的', example: "It's reassuring to know that character can be developed over time." },
+    { en: 'conscientious', zh: '認真負責的', example: "She is one of the most conscientious people I've worked with — always thorough and reliable." },
+    { en: 'default responses', zh: '預設反應', example: "Stress reveals your default responses — how you behave when you're not thinking carefully." },
+    { en: 'agency', zh: '主體性、自主能力', example: "Having a sense of agency means believing that your choices matter." },
+    { en: 'architects of who we become', zh: '我們成為誰的建築師', example: "We are the architects of who we become — our choices shape us daily." },
+  ],
+}
