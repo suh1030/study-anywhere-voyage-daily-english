@@ -1,0 +1,1718 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study Anywhere Voyage</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Outfit:wght@300;400;500;600&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#080808;
+  --surface:#111;
+  --surface2:#181818;
+  --surface3:#202020;
+  --border:#252525;
+  --border2:#333;
+  --gold:#c9a84c;
+  --gold2:#e8c97a;
+  --blue:#6aa8d4;
+  --green:#6db89a;
+  --clr-listen:#7ab8e8;
+  --clr-read:#c46a6a;
+  --clr-speak:#9b84c4;
+  --clr-review:#6db89a;
+  --ui:#C4B49A;
+  --ui-hover:#D4C8B2;
+  --ui-dim:#8a7d6e;
+  --text:#e2ddd4;
+  --muted:#5a5650;
+  --muted2:#3a3633;
+}
+html,body{height:100%;overflow:hidden}
+body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-weight:300}
+
+/* grain */
+body::after{content:'';position:fixed;inset:0;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.028'/%3E%3C/svg%3E");pointer-events:none;z-index:9999}
+
+/* ── LAYOUT ── */
+.app{display:flex;flex-direction:column;height:100vh;overflow:hidden}
+
+/* ── LOGO BAR ── */
+.logo-bar{display:flex;align-items:center;padding:0 16px 0 16px;border-right:1px solid var(--border);white-space:nowrap;flex-shrink:0;height:52px}
+.logo-bar.scrolled{background:rgba(8,8,8,.08);backdrop-filter:blur(20px)}
+/* ── NAV ── */
+nav{display:flex;align-items:center;background:var(--surface);padding:0 16px;height:52px;position:fixed;top:0;left:0;right:0;z-index:100;transition:background .3s,backdrop-filter .3s}
+nav::after{content:"";position:absolute;bottom:0;left:0;right:0;height:1px;background:var(--border)}
+nav.scrolled{background:rgba(8,8,8,.08);backdrop-filter:blur(20px)}
+
+
+.tabs{display:flex;gap:0;flex:1}
+.tab{font-family:'DM Mono',monospace;font-size:12px;letter-spacing:.15em;text-transform:uppercase;padding:0 22px;border:none;background:transparent;color:var(--muted);cursor:pointer;transition:color .2s;height:52px;display:inline-flex;align-items:center;gap:8px;position:relative}
+.tab:hover{color:var(--text)}
+.tab.active{color:var(--tab-active-color,var(--ui))}.tab.active::after{content:'';position:absolute;bottom:0;left:0;right:0;height:2px;background:var(--tab-active-color,var(--ui))}
+.tab-icon{font-size:14px;opacity:.7}
+.day-badge{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);padding:0;margin-left:auto;letter-spacing:.1em;display:flex;align-items:center;white-space:nowrap}
+
+/* ── PANELS ── */
+.panels{position:fixed;top:52px;left:0;right:0;bottom:0;overflow-y:auto}
+.panel{display:none;padding:32px 32px 80px;animation:fadeIn .25s ease}
+.panel.active{display:block}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── SHARED ── */
+.section-label{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);margin-bottom:16px}
+.panel-title{font-family:'Outfit',sans-serif;font-size:clamp(16px,2.5vw,20px);font-weight:500;line-height:1.2;margin-bottom:4px}
+.panel-title em{font-style:italic;color:var(--ui)}
+.panel-sub{font-size:13px;color:var(--muted);margin-bottom:32px;line-height:1.6}
+
+/* ══════════════════════════════════════
+   LISTEN TAB
+══════════════════════════════════════ */
+.episode-header{display:flex;align-items:center;gap:16px;padding:0 0 20px}
+.ep-week{font-family:"DM Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--muted);flex-shrink:0}
+.ep-theme{font-family:"Outfit",sans-serif;font-size:20px;font-weight:500;color:var(--ui);line-height:1.2}
+.ep-podcast{font-size:12px;color:var(--muted);margin-top:3px}
+.player-bar{display:flex;align-items:center;gap:10px;padding:14px 18px;background:var(--surface);border:1px solid var(--border);margin-bottom:14px;flex-wrap:wrap}
+.btn{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.13em;text-transform:uppercase;padding:8px 14px;border:1px solid var(--border2);background:transparent;color:var(--text);cursor:pointer;transition:all .2s;white-space:nowrap}
+.btn:hover{border-color:var(--ui);color:var(--ui)}
+.btn.primary{background:var(--ui);color:var(--bg);border-color:var(--ui)}
+.btn.primary:hover{background:var(--ui-hover)}
+.btn.sm-danger{border-color:#884040;color:#c06060}
+.btn.sm-danger:hover{background:#884040;color:#fff}
+.prog-wrap{flex:1;min-width:80px}
+.prog-track{height:1px;background:var(--border2);cursor:pointer}
+.prog-fill{height:100%;background:var(--ui);width:0%;transition:width .3s}
+.prog-label{font-family:'DM Mono',monospace;font-size:9px;color:var(--muted);margin-top:4px}
+.speed-wrap{display:flex;gap:4px;align-items:center}
+.speed-label{font-family:'DM Mono',monospace;font-size:9px;color:var(--muted)}
+.speed-btn{font-family:'DM Mono',monospace;font-size:9px;padding:3px 7px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .15s}
+.speed-btn.active,.speed-btn:hover{border-color:var(--ui);color:var(--ui)}
+.toggle-zh{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);background:none;border:1px solid var(--border);padding:5px 11px;cursor:pointer;transition:all .2s}
+.toggle-zh.on{border-color:var(--clr-listen);color:var(--clr-listen)}
+.listen-status{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);padding:6px 0 18px;min-height:24px}
+.listen-status.spk{color:var(--clr-listen)}
+
+/* script lines */
+.sec-div{display:flex;align-items:center;gap:12px;padding:24px 0 16px;opacity:.5}
+.sec-div span{font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
+.sec-div::before,.sec-div::after{content:'';flex:1;height:1px;background:var(--border)}
+.line{display:grid;grid-template-columns:64px 1fr;gap:14px;padding:14px 0;border-bottom:1px solid var(--border);cursor:pointer;transition:opacity .25s;opacity:.28;border-left:2px solid transparent}
+.script .line:first-of-type{border-top:1px solid var(--border)}
+.line:hover{opacity:.65}
+.line.active{opacity:1;border-left-color:var(--ui);padding-left:10px;background:rgba(196,180,154,.04)}
+.line.b.active{border-left-color:#8ab4a0;background:rgba(138,180,160,.03)}
+.line.done{opacity:.48}
+.line-meta{padding-top:2px}
+.spk{font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;margin-bottom:4px}
+.spk.a{color:var(--ui)}.spk.b{color:#8ab4a0}
+.lnum{font-family:'DM Mono',monospace;font-size:9px;color:var(--muted2)}
+.en{font-size:15px;line-height:1.75;margin-bottom:5px}
+.zh{font-size:12px;color:var(--muted);line-height:1.6;display:none}
+.zh.show{display:block}
+.vocab{margin-top:7px;display:none;flex-wrap:wrap;gap:5px}
+.vocab.show{display:flex}
+.vtag{display:inline-flex;align-items:baseline;gap:4px;padding:2px 8px;background:var(--surface2);border:1px solid var(--border)}
+.vw{font-family:'DM Mono',monospace;color:var(--ui);font-size:10px}
+.vd{color:var(--muted);font-size:10px}
+
+/* key phrases */
+.phrases-box{margin-top:40px;padding:24px;border:1px solid var(--border);background:var(--surface)}
+.phrases-box h3{font-family:'Outfit',sans-serif;font-size:15px;font-weight:500;color:var(--ui);margin-bottom:16px;letter-spacing:.04em}
+.pr{display:grid;grid-template-columns:1fr 1fr;gap:5px 18px;padding:7px 0;border-bottom:1px solid var(--border)}
+.pr:last-child{border-bottom:none}
+.pe{font-family:'DM Mono',monospace;font-size:11px;color:var(--text)}
+.pz{color:var(--muted);font-size:11px}
+
+/* ══════════════════════════════════════
+   SPEAK TAB
+══════════════════════════════════════ */
+.speak-card{background:var(--surface);border:1px solid var(--border);padding:28px;margin-bottom:20px}
+.q-label{font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.q-text{font-family:'Outfit',sans-serif;font-size:24px;font-weight:400;line-height:1.4;margin-bottom:6px}
+.q-zh{font-size:12px;color:var(--muted);display:none}
+.q-zh.show{display:block}
+.q-hint{font-size:12px;color:var(--muted);margin-top:10px;padding-top:10px;border-top:1px solid var(--border);display:none}
+.q-hint.show{display:block}
+.speak-meta{display:flex;gap:10px;align-items:center;margin-top:16px;flex-wrap:wrap}
+.tag{font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.14em;padding:3px 9px;border:1px solid var(--border);color:var(--muted)}
+.tag.focus{border-color:var(--clr-speak);color:var(--clr-speak)}
+
+.answer-area{margin-bottom:20px}
+.answer-area label{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:8px}
+textarea{width:100%;background:var(--surface2);border:1px solid var(--border);color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;font-weight:300;line-height:1.7;padding:14px 16px;resize:vertical;min-height:110px;outline:none;transition:border-color .2s}
+textarea:focus{border-color:var(--clr-speak)}
+textarea::placeholder{color:var(--muted2)}
+
+.speak-actions{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+
+.feedback-box{background:var(--surface);border:1px solid var(--border);padding:22px;display:none;animation:fadeIn .3s ease}
+.feedback-box.show{display:block}
+.fb-label{font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--clr-speak);margin-bottom:12px}
+.fb-content{font-size:13.5px;line-height:1.75;color:var(--text)}
+.fb-content strong{color:var(--ui-hover);font-weight:500}
+.fb-loading{font-family:'DM Mono',monospace;font-size:11px;color:var(--muted);display:flex;align-items:center;gap:8px}
+.dot-pulse{display:inline-flex;gap:4px}
+.dot-pulse span{width:5px;height:5px;border-radius:50%;background:var(--muted);animation:pulse 1.2s ease infinite}
+.dot-pulse span:nth-child(2){animation-delay:.2s}
+.dot-pulse span:nth-child(3){animation-delay:.4s}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+
+.q-nav{display:flex;gap:10px;align-items:center;padding-top:20px;border-top:1px solid var(--border)}
+.q-counter{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);margin-left:auto}
+
+/* ══════════════════════════════════════
+   REVIEW TAB
+══════════════════════════════════════ */
+.review-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-bottom:32px}
+.flashcard{background:var(--surface);border:1px solid var(--border);padding:20px;cursor:pointer;transition:all .2s;position:relative;min-height:110px;perspective:600px}
+.flashcard:hover{border-color:var(--border2);background:var(--surface2)}
+.flashcard.flipped .fc-front{display:none}
+.flashcard.flipped .fc-back{display:flex}
+.fc-front,.fc-back{display:flex;flex-direction:column;gap:8px}
+.fc-back{display:none}
+.fc-en{font-size:14px;line-height:1.6;color:var(--text)}
+.fc-zh{font-size:12px;color:var(--muted);line-height:1.5}
+.fc-example{font-size:11.5px;color:var(--muted);font-style:italic;padding-top:8px;border-top:1px solid var(--border);line-height:1.6}
+.fc-corner{position:absolute;top:10px;right:12px;font-family:'DM Mono',monospace;font-size:9px;color:var(--muted2);letter-spacing:.1em}
+.fc-hint{font-family:'DM Mono',monospace;font-size:9px;color:var(--muted2);letter-spacing:.1em;margin-top:auto}
+.mastered-btn{width:100%;font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;padding:5px;background:transparent;border:1px dashed var(--border);color:var(--muted2);cursor:pointer;margin-top:10px;transition:all .2s}
+.mastered-btn:hover{border-color:var(--clr-review);color:var(--clr-review)}
+.flashcard.mastered{opacity:.4;border-style:dashed}
+
+.review-header{display:flex;align-items:center;gap:16px;margin-bottom:24px;flex-wrap:wrap}
+.review-filter{display:flex;gap:6px}
+.rf-btn{font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.14em;text-transform:uppercase;padding:5px 12px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .2s}
+.rf-btn.active,.rf-btn:hover{border-color:var(--clr-review);color:var(--clr-review)}
+.review-count{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);margin-left:auto}
+
+@media(max-width:540px){
+  nav{padding:0 12px}
+  .logo-bar{height:40px;padding:0 14px}
+  .tab{padding:0 12px;font-size:10px}
+  .panel{padding:20px 14px 60px}
+  .line{grid-template-columns:48px 1fr;gap:10px}
+  .pr{grid-template-columns:1fr}
+  .review-grid{grid-template-columns:1fr}
+  .player-bar{gap:7px}
+}
+
+/* ══════════════════════════════════════
+   SCHEDULE TAB
+══════════════════════════════════════ */
+.sch-stats-bar{display:flex;align-items:center;gap:10px;margin-bottom:28px;flex-wrap:wrap}
+.stat-box{text-align:center;padding:10px 16px;border:0.5px solid var(--border);background:var(--surface);min-width:72px}
+.stat-num{font-family:'Outfit',sans-serif;font-size:26px;font-weight:300;line-height:1;color:var(--ui)}
+.stat-num.green{color:var(--green)}
+.stat-lbl{font-family:"DM Mono",monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+.sch-reset{font-family:"DM Mono",monospace;font-size:9px;letter-spacing:.12em;text-transform:uppercase;padding:6px 12px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .2s;margin-left:auto}
+.sch-reset:hover{border-color:#884040;color:#c06060}
+.week-block{border:0.5px solid var(--border);margin-bottom:6px;background:var(--surface)}
+.week-block.all-done{border-color:rgba(109,184,154,.4)}
+.week-head{display:flex;align-items:center;gap:0;cursor:pointer;user-select:none}
+.week-head:hover .week-title-wrap{background:var(--surface2)}
+.week-num{font-family:"DM Mono",monospace;font-size:11px;font-weight:500;color:var(--muted);width:44px;flex-shrink:0;display:flex;align-items:center;justify-content:center;border-right:0.5px solid var(--border);padding:14px 0;self-align:stretch}
+.week-num.p1,.week-num.p2,.week-num.p3,.week-num.p4,.week-num.p5{color:var(--muted)}
+.week-num.odd{color:#444444}
+.week-num.even{color:#888888}
+.week-title-wrap{flex:1;padding:12px 14px;transition:background .15s}
+.week-theme{font-size:14px;font-weight:500;color:var(--text);line-height:1.3;font-family:'Outfit',sans-serif}
+.week-podcast{font-size:11px;color:var(--muted);margin-top:3px}
+.week-prog{display:flex;align-items:center;gap:8px;padding:0 14px;flex-shrink:0}
+.week-prog-bar{width:60px;height:3px;background:var(--border2);border-radius:2px;overflow:hidden}
+.week-prog-fill{height:100%;background:var(--green);border-radius:2px;transition:width .3s}
+.week-prog-label{font-family:"DM Mono",monospace;font-size:9px;color:var(--muted);min-width:28px;text-align:right}
+.week-arrow{font-size:13px;color:var(--muted);padding:0 12px;transition:transform .2s;flex-shrink:0}
+.week-block.open .week-arrow{transform:rotate(90deg)}
+.week-days{display:none;border-top:0.5px solid var(--border)}
+.week-block.open .week-days{display:block}
+.day-row{display:grid;grid-template-columns:52px 1fr auto;gap:0;border-bottom:0.5px solid var(--border);align-items:center;cursor:pointer;transition:background .15s;min-height:60px}
+.day-row:last-child{border-bottom:none}
+.day-row:hover{background:var(--surface2)}
+.day-row.done{background:rgba(109,184,154,.05)}
+.day-tag{font-family:"DM Mono",monospace;font-size:10px;color:var(--muted);padding:12px 0 12px 14px;border-right:0.5px solid var(--border);display:flex;flex-direction:column;gap:3px;align-items:center;justify-content:center}
+.day-tag .dt-wd{font-size:9px;letter-spacing:.08em}
+.day-tag .dt-date{font-size:9px;color:var(--muted2)}
+.day-content{padding:12px 14px}
+.day-badges{display:flex;gap:8px;margin-bottom:6px;align-items:center}
+.day-type-badge{font-family:"DM Mono",monospace;font-size:9px;letter-spacing:.1em;text-transform:uppercase}
+.day-type-badge.speak{color:var(--gold)}
+.day-type-badge.listen{color:var(--blue)}
+.day-type-badge.review{color:var(--muted)}
+.day-topic{font-size:12.5px;color:var(--muted);line-height:1.4;margin-bottom:4px;display:flex;align-items:center}
+.day-prefix{font-family:"DM Mono",monospace;font-size:9px;letter-spacing:.1em;margin-right:5px;color:var(--muted)}
+.day-prefix-icon{display:inline-flex;align-items:center;margin-right:8px;vertical-align:middle;flex-shrink:0}
+.listen-topic .day-prefix{color:var(--clr-listen) !important}
+.speak-topic .day-prefix{color:var(--clr-speak) !important}
+.read-topic-row .day-prefix{color:var(--clr-read) !important}
+.day-topic:last-child{margin-bottom:0}
+.day-row.done .day-topic{color:var(--muted)}
+.listen-topic{color:var(--muted)}
+.speak-topic{color:var(--muted)}
+.read-topic-row{color:var(--muted);font-size:12.5px}
+.day-icon-row{display:flex;gap:14px;align-items:center;padding:4px 0}
+.day-icon-dot{display:inline-flex;align-items:center;justify-content:center;opacity:.7;cursor:default;transition:opacity .15s}
+.day-icon-dot:hover{opacity:1}
+
+.day-check-col{padding:0 16px;display:flex;align-items:center}
+.day-check-box{width:18px;height:18px;border:1px solid var(--border2);display:flex;align-items:center;justify-content:center;transition:all .2s;flex-shrink:0}
+.day-row.done .day-check-box{background:var(--green);border-color:var(--green)}
+.day-check-mark{font-size:11px;color:var(--bg);display:none}
+.day-row.done .day-check-mark{display:block}
+.day-row.today .day-tag{color:var(--gold)}
+.day-row.today .dt-wd{color:var(--gold)}
+@media(max-width:520px){
+  .week-prog{display:none}
+  .day-row{grid-template-columns:44px 1fr auto}
+}
+
+
+.mini-player{position:fixed;bottom:24px;right:24px;display:none;align-items:center;gap:8px;background:rgba(17,17,17,.85);border:1px solid var(--border2);padding:10px 16px;z-index:300;backdrop-filter:blur(12px);transition:opacity .2s}
+.mini-player.show{display:flex}
+.mini-btn{font-family:"DM Mono",monospace;font-size:10px;letter-spacing:.1em;padding:6px 12px;border:1px solid var(--border2);background:transparent;color:var(--text);cursor:pointer;transition:all .2s}
+.mini-btn:hover{border-color:var(--ui);color:var(--ui)}
+.mini-btn.primary{background:var(--ui);color:var(--bg);border-color:var(--ui)}
+.mini-info{font-family:"DM Mono",monospace;font-size:9px;color:var(--muted);letter-spacing:.08em;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* ══════════════════════════════════════
+   SPEAK (READ ALOUD) TAB
+══════════════════════════════════════ */
+.read-header{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:8px}
+.read-date{font-family:"DM Mono",monospace;font-size:10px;letter-spacing:.15em;color:var(--muted)}
+.read-meta{display:flex;gap:12px;align-items:center}
+.read-topic{font-family:"DM Mono",monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ui-dim)}
+.read-wordcount{font-family:"DM Mono",monospace;font-size:9px;color:var(--muted2)}
+.read-article{font-size:16px;line-height:1.9;color:var(--text);margin-bottom:28px;border-left:2px solid var(--border);padding-left:20px}
+.read-article p{margin-bottom:16px}
+.read-article p:last-child{margin-bottom:0}
+.read-article .highlight{background:rgba(122,184,232,.15);color:var(--clr-listen);border-radius:2px;padding:0 2px;cursor:pointer}
+.read-loading{font-family:"DM Mono",monospace;font-size:11px;color:var(--muted);padding:40px 0}
+.read-vocab-box{background:var(--surface);border:1px solid var(--border);padding:20px;margin-bottom:24px}
+.read-vocab-title{font-family:"DM Mono",monospace;font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin-bottom:14px}
+.read-vocab-list{display:flex;flex-wrap:wrap;gap:8px}
+.read-vtag{display:flex;align-items:baseline;gap:6px;padding:4px 10px;background:var(--surface2);border:1px solid var(--border)}
+.read-vw{font-family:"DM Mono",monospace;font-size:10px;color:var(--clr-read)}
+.read-vd{font-size:11px;color:var(--muted)}
+.read-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+.read-rec-status{font-family:"DM Mono",monospace;font-size:10px;color:var(--muted);letter-spacing:.08em}
+.read-rec-status.recording{color:#c47a6a}
+.read-recording-box{background:var(--surface);border:1px solid var(--border);padding:16px 20px}
+.read-rec-label{font-family:"DM Mono",monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+audio{accent-color:var(--clr-read)}
+.read-zh-para{color:var(--muted);font-size:14px;line-height:1.8;margin-top:-8px;margin-bottom:16px;padding-left:12px;border-left:2px solid var(--border2)}
+.read-highlight{background:rgba(196,106,106,.2);color:var(--clr-read);border-radius:2px;padding:0 1px}
+
+/* ── ONBOARDING ── */
+.onboard-hint{background:var(--surface);border:1px solid var(--border);padding:16px 20px;margin-bottom:24px;display:flex;gap:14px;align-items:flex-start}
+.onboard-icon{font-size:18px;flex-shrink:0;margin-top:1px}
+.onboard-body{flex:1}
+.onboard-title{font-family:"Outfit",sans-serif;font-size:13px;font-weight:500;color:var(--ui);margin-bottom:4px}
+.onboard-text{font-size:12px;color:var(--muted);line-height:1.6}
+.onboard-close{font-family:"DM Mono",monospace;font-size:9px;color:var(--muted2);background:none;border:none;cursor:pointer;padding:0;letter-spacing:.1em;margin-top:6px;display:block}
+.onboard-close:hover{color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="app">
+
+<!-- ── NAV ── -->
+<div class="logo-bar"><span style="font-family:'Cinzel',serif;font-size:17px;font-weight:400;letter-spacing:.02em;word-spacing:.25em"><span style="color:var(--ui)">S</span><span style="color:#e8e8e8">tudy</span>&nbsp;<span style="color:var(--ui)">A</span><span style="color:#e8e8e8">nywhere</span>&nbsp;<span style="color:var(--ui)">V</span><span style="color:#e8e8e8">oyage</span></span></div>
+<nav>
+  <div class="logo-bar"><span style="font-family:'Cinzel',serif;font-size:15px;font-weight:400;letter-spacing:.02em;word-spacing:.2em"><span style="color:var(--ui)">S</span><span style="color:#e8e8e8">tudy</span>&nbsp;<span style="color:var(--ui)">A</span><span style="color:#e8e8e8">nywhere</span>&nbsp;<span style="color:var(--ui)">V</span><span style="color:#e8e8e8">oyage</span></span></div>
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('listen')"><span class="tab-icon" style="color:var(--clr-listen)"><svg width="11" height="12" viewBox="0 0 11 12" fill="currentColor" style="display:inline-block;vertical-align:middle"><polygon points="0,0 11,6 0,12"/></svg></span>Listen</button>
+    <button class="tab" onclick="switchTab('speak')"><span class="tab-icon" style="color:var(--clr-speak)"><svg width="13" height="12" viewBox="0 0 13 12" fill="none" stroke="currentColor" stroke-width="1.3" style="display:inline-block;vertical-align:middle"><path d="M1 1h11v8H7l-3 3V9H1z"/></svg></span>Conversation</button>
+    <button class="tab" onclick="switchTab('review')"><span class="tab-icon" style="color:var(--clr-review)"><svg width="13" height="12" viewBox="0 0 13 12" fill="none" stroke="currentColor" stroke-width="1.3" style="display:inline-block;vertical-align:middle"><rect x="1" y="3" width="11" height="8" rx="1"/><rect x="3" y="1" width="7" height="8" rx="1" fill="var(--surface)"/></svg></span>Review</button>
+    <button class="tab" onclick="switchTab('read')"><span class="tab-icon" style="color:var(--clr-read)"><svg width="11" height="14" viewBox="0 0 11 14" fill="none" stroke="currentColor" stroke-width="1.3" style="display:inline-block;vertical-align:middle"><rect x="3" y="1" width="5" height="7" rx="2.5"/><path d="M1 7.5c0 2.5 1.8 4 4.5 4s4.5-1.5 4.5-4"/><line x1="5.5" y1="11.5" x2="5.5" y2="13"/></svg></span>Speak</button>
+    <button class="tab" onclick="switchTab('schedule')"><span class="tab-icon"><svg width="13" height="13" viewBox="0 0 14 14" fill="none" style="display:inline-block;vertical-align:middle"><rect x="1" y="2" width="12" height="11" rx="1.5" stroke="currentColor" stroke-width="1.2"/><line x1="1" y1="5.5" x2="13" y2="5.5" stroke="currentColor" stroke-width="1.2"/><line x1="4.5" y1="1" x2="4.5" y2="4" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/><line x1="9.5" y1="1" x2="9.5" y2="4" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg></span>Schedule</button>
+  </div>
+  <div class="day-badge" id="dayBadge"><span id="progressBadge" style="margin-left:12px;color:#6db89a;font-size:10px;font-family:DM Mono,monospace"></span></div>
+</nav>
+
+<div class="panels">
+
+<!-- ══════════════════════════════════
+     LISTEN PANEL
+══════════════════════════════════ -->
+<div class="panel active" id="panel-listen">
+
+  <div class="onboard-hint" id="hint-listen"><div class="onboard-icon"><svg width="14" height="14" viewBox="0 0 11 12" fill="var(--clr-listen)" style="vertical-align:middle"><polygon points="0,0 11,6 0,12"/></svg></div><div class="onboard-body"><div class="onboard-title">Listen</div><div class="onboard-text">Press Play to hear the podcast. Click any line to jump to it. Toggle 中文 for Chinese translation. Use 0.75× speed if it's too fast.</div><button class="onboard-close" onclick="dismissHint('hint-listen')">Got it &#10005;</button></div></div>
+    <div class="episode-header" id="episodeHeader">
+    <div class="ep-week" id="epWeek">W1</div>
+    <div class="ep-info">
+      <div class="ep-theme" id="epTheme">Morning Routines</div>
+      <div class="ep-podcast" id="epPodcast">A Day in the Life: Morning Habits</div>
+    </div>
+  </div>
+  <div class="player-bar">
+    <button class="btn primary" id="btnPlay" onclick="togglePlay()">&#9654; Play</button>
+    <button class="btn" onclick="prevLine()">&#8592;</button>
+    <button class="btn" onclick="nextLine()">&#8594;</button>
+    <button class="btn sm-danger" onclick="stopAll()">&#9632;</button>
+    <div class="prog-wrap">
+      <div class="prog-track"><div class="prog-fill" id="progFill"></div></div>
+      <div class="prog-label" id="progLabel">0 / 0</div>
+    </div>
+    <div class="speed-wrap">
+      <span class="speed-label">spd</span>
+      <button class="speed-btn" onclick="setSpeed(0.75)">0.75</button>
+      <button class="speed-btn active" onclick="setSpeed(1)">1.0</button>
+      <button class="speed-btn" onclick="setSpeed(1.25)">1.25</button>
+    </div>
+    <button class="toggle-zh" id="toggleZh" onclick="toggleZh()">中文 OFF</button>
+  </div>
+  <div class="listen-status" id="listenStatus">Press Play to start &mdash; or click any line.</div>
+
+  <div id="listenScript">
+<div class="sec-div"><span>Part 1 &mdash; Daily Routine</span></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Hey Mira! I've been meaning to ask you this for a while &mdash; what does a typical day actually look like for you?</div><div class="zh">嘿，Mira！我想問你這個問題很久了——你的日常到底是什麼樣子？</div><div class="vocab"><span class="vtag"><span class="vw">I've been meaning to</span><span class="vd">我一直想要（做某事）</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Ha, good question. Honestly, it's pretty structured. I live about an hour outside the city, but I work downtown. So just the geography alone means my day has to start really early.</div><div class="zh">哈，好問題。老實說蠻規律的。我住在離市區約一小時的地方，但在市中心上班，光是距離就意味著我的一天必須很早開始。</div><div class="vocab"><span class="vtag"><span class="vw">coastal</span><span class="vd">海岸的</span></span><span class="vtag"><span class="vw">geography</span><span class="vd">地理位置</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Wow, that's quite a distance. How long does the commute take?</div><div class="zh">哇，距離還蠻遠的。通勤要多久？</div><div class="vocab"><span class="vtag"><span class="vw">commute</span><span class="vd">通勤</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">About an hour each way on a good day. Sometimes longer if the train is delayed or if I have to transfer. I take the train &mdash; it's the most reliable option for me.</div><div class="zh">順利的話單程約一小時，有時更長。我搭火車——真的沒有其他實際的選擇。</div><div class="vocab"><span class="vtag"><span class="vw">transfer</span><span class="vd">轉乘</span></span><span class="vtag"><span class="vw">realistic</span><span class="vd">實際的、務實的</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">An hour each way every single day &mdash; does it ever feel exhausting?</div><div class="zh">每天單程一小時——你有沒有覺得很累？</div><div class="vocab"><span class="vtag"><span class="vw">exhausting</span><span class="vd">令人精疲力竭的</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">It did at first. The first few months were rough &mdash; I'd get home feeling completely drained. But I've genuinely gotten used to it. I use that time deliberately: podcasts in the morning, zone out on the way back. It's my decompression time.</div><div class="zh">剛開始確實是。前幾個月很辛苦——回到家都精力耗盡。但現在真的習慣了。我很刻意運用那段時間：早上聽 Podcast，回程放空。那是我的解壓時間。</div><div class="vocab"><span class="vtag"><span class="vw">drained</span><span class="vd">精力耗盡的</span></span><span class="vtag"><span class="vw">deliberately</span><span class="vd">刻意地</span></span><span class="vtag"><span class="vw">decompression</span><span class="vd">解壓、放鬆緩衝</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">What time do you usually wake up?</div><div class="zh">你通常幾點起床？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Around six, give or take. I need time to get ready without rushing. I try to arrive at the office by eight-thirty so I can ease into the day before things get busy.</div><div class="zh">大約六點，前後都有。我需要時間好好準備，不慌不忙。試著八點半前到辦公室，慢慢進入狀態再開始工作。</div><div class="vocab"><span class="vtag"><span class="vw">give or take</span><span class="vd">大約、誤差範圍</span></span><span class="vtag"><span class="vw">ease into</span><span class="vd">慢慢進入狀態</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Are you naturally a morning person?</div><div class="zh">你天生是晨型人嗎？</div><div class="vocab"><span class="vtag"><span class="vw">morning person</span><span class="vd">晨型人</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Definitely not. I used to hit snooze multiple times and still feel groggy for the first hour. But commuting forces you into a rhythm whether you like it or not. After a while your body just adapts. Now I wake up before my alarm most days.</div><div class="zh">絕對不是。我以前會一直按貪睡鍵，整個早上頭一小時還是昏昏沉沉的。但通勤不管你喜不喜歡都會強迫你進入節奏。過一段時間身體就適應了。現在大多數日子鬧鐘響之前就醒了。</div><div class="vocab"><span class="vtag"><span class="vw">groggy</span><span class="vd">昏昏沉沉的</span></span><span class="vtag"><span class="vw">adapts</span><span class="vd">適應</span></span></div></div></div>
+<div class="sec-div"><span>Part 2 &mdash; Work Life</span></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Let's talk about work. You work in tech &mdash; what does a typical day actually look like?</div><div class="zh">來聊聊工作。你在科技業——實際上一天是什麼樣子？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">I build and maintain software systems &mdash; a mix of backend engineering and working with AI models. There's a lot of problem-solving involved, and no two days are quite the same.</div><div class="zh">我建構和維護軟體系統——結合後端工程與 AI 模型的應用。涉及很多問題解決，每天都不太一樣。</div><div class="vocab"><span class="vtag"><span class="vw">infrastructure</span><span class="vd">基礎設施</span></span><span class="vtag"><span class="vw">data pipelines</span><span class="vd">資料管道</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Is every day different, or more repetitive?</div><div class="zh">每天都不一樣，還是比較重複性的？</div><div class="vocab"><span class="vtag"><span class="vw">repetitive</span><span class="vd">重複性的</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">It varies a lot. Some days I'm deep in code &mdash; debugging or designing something from scratch. Other days are meeting-heavy: reviewing work, discussing requirements, sometimes interviewing candidates. I prefer the deep work days. When I get into a flow state, hours pass without me noticing.</div><div class="zh">其實變化很大。有些日子深陷在程式碼裡——debugging 或從頭設計。其他日子會議比較多。我更喜歡深度工作的日子。進入心流狀態時，幾個小時可以在沒注意到的情況下流逝。</div><div class="vocab"><span class="vtag"><span class="vw">flow state</span><span class="vd">心流狀態</span></span><span class="vtag"><span class="vw">from scratch</span><span class="vd">從頭開始</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">What about stress?</div><div class="zh">那壓力呢？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">It can get overwhelming &mdash; especially when deadlines stack up, or a system breaks in production. There's also an invisible pressure from working in a fast-moving field. Things change rapidly and you always feel like there's something new you should be learning.</div><div class="zh">有時確實會讓人喘不過氣——尤其是截止日期堆積，或系統在生產環境崩潰的時候。在快速變動的領域工作也有一種無形的壓力。</div><div class="vocab"><span class="vtag"><span class="vw">stacking up</span><span class="vd">堆積、累積</span></span><span class="vtag"><span class="vw">in production</span><span class="vd">在正式上線的系統中</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">How do you manage that pressure?</div><div class="zh">你怎麼應對這些壓力？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">I've learned to break things down. When everything feels urgent, I step back and ask: what is the one thing that needs to happen right now? That helps me prioritize instead of panicking. I also try not to catastrophize &mdash; most problems have a solution.</div><div class="zh">我學會了把事情拆解。當所有事情同時感覺很緊急時，我退一步問自己：現在真正需要發生的一件事是什麼？這幫助我優先排序而不是恐慌。</div><div class="vocab"><span class="vtag"><span class="vw">prioritize</span><span class="vd">做優先排序</span></span><span class="vtag"><span class="vw">catastrophize</span><span class="vd">災難化思考</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Do you find it hard to switch off from work at home?</div><div class="zh">你回家後很難從工作模式切換出來嗎？</div><div class="vocab"><span class="vtag"><span class="vw">switch off</span><span class="vd">切換、抽離</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Sometimes. But the commute home helps &mdash; by the time I'm off the train, I've had an hour to let my brain shift gears. It acts like a buffer zone. Once I'm through the door, I make a deliberate transition: change clothes, make tea, decompress for a bit. Small rituals that signal work is done.</div><div class="zh">有時候。但回程通勤很有幫助——等下火車時，已經有一小時讓大腦自然換擋了。就像工作模式和居家模式之間的緩衝區。一進門，我做刻意的轉換：換衣服、泡茶、放鬆一下。這些小儀式在說：今天的工作結束了。</div><div class="vocab"><span class="vtag"><span class="vw">shift gears</span><span class="vd">換擋、轉換模式</span></span><span class="vtag"><span class="vw">buffer zone</span><span class="vd">緩衝區</span></span><span class="vtag"><span class="vw">rituals</span><span class="vd">儀式、固定習慣</span></span></div></div></div>
+<div class="sec-div"><span>Part 3 &mdash; Hobbies</span></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Photography, diving, crystals &mdash; where do you want to start?</div><div class="zh">攝影、潛水、水晶——你想從哪裡開始？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Photography. I've always had an eye for composition &mdash; even before a proper camera, I'd notice light and framing in everyday scenes. I only committed to it properly when I got a proper mirrorless camera.</div><div class="zh">攝影。我一直對構圖有感覺——即使在有正式相機之前，我也會注意到光線和取景。直到買了一台真正的無反相機才認真投入。</div><div class="vocab"><span class="vtag"><span class="vw">composition</span><span class="vd">構圖</span></span><span class="vtag"><span class="vw">framing</span><span class="vd">取景</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Why Fujifilm?</div><div class="zh">為什麼選富士？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">The color science &mdash; built-in profiles that give images a film-like quality. There's a warmth and grain to them that other brands don't quite replicate. And it's compact enough that I actually bring it with me, which is the whole point.</div><div class="zh">色彩科學——內建設定，讓照片有底片般的質感。有一種其他品牌無法完全複製的溫暖感和顆粒感。而且夠輕巧，讓我真的會帶出門，這才是重點。</div><div class="vocab"><span class="vtag"><span class="vw">film simulations</span><span class="vd">底片模擬</span></span><span class="vtag"><span class="vw">mimic</span><span class="vd">模仿</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Tell me about diving.</div><div class="zh">說說潛水。</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">I got my Open Water certification a couple of years ago and almost didn't go through with it &mdash; the pool sessions made me nervous. There are things underwater that feel counterintuitive, like flooding your mask on purpose and clearing it calmly. Your instinct is to panic, but you have to override that.</div><div class="zh">幾年前考到 OW 執照，差點沒堅持下去——泳池訓練讓我很緊張。水下有些事感覺違反直覺，比如故意讓面鏡進水然後冷靜清除。你的本能是恐慌，但你必須克服那個。</div><div class="vocab"><span class="vtag"><span class="vw">counterintuitive</span><span class="vd">違反直覺的</span></span><span class="vtag"><span class="vw">override</span><span class="vd">壓制本能</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">What made you stick with it?</div><div class="zh">是什麼讓你堅持下去的？</div><div class="vocab"><span class="vtag"><span class="vw">stick with it</span><span class="vd">堅持下去</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">The first time I actually descended into open water &mdash; everything went quiet. You hear your own breathing, see fish going about their lives completely indifferent to you, and the light underwater is unlike anything on the surface. I didn't expect to enjoy it this much.</div><div class="zh">第一次真正下沉到開放水域——一切都安靜了。你可以聽到自己的呼吸，看到魚兒完全無視你，水下的光線跟水面上的完全不同。我沒想到我會這麼喜歡它。</div><div class="vocab"><span class="vtag"><span class="vw">descended</span><span class="vd">下沉、下潛</span></span><span class="vtag"><span class="vw">indifferent to</span><span class="vd">無視、漠不關心</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">And the crystals?</div><div class="zh">那水晶呢？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Purely aesthetic for me. What I love is the geometry: the way minerals form perfectly structured shapes, the variation in color and transparency. Each piece is essentially a natural sculpture.</div><div class="zh">對我來說純粹是美學上的。我喜歡的是幾何形狀：礦石以完美結構形成的方式、顏色和透明度的變化。每一塊本質上都是天然雕塑。</div><div class="vocab"><span class="vtag"><span class="vw">geometry</span><span class="vd">幾何形狀</span></span><span class="vtag"><span class="vw">transparency</span><span class="vd">透明度</span></span></div></div></div>
+<div class="sec-div"><span>Part 4 &mdash; Weekends</span></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">With such a demanding week, how do you spend your weekends?</div><div class="zh">有這麼忙碌的一週，你週末怎麼度過？</div><div class="vocab"><span class="vtag"><span class="vw">demanding</span><span class="vd">要求高的</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">I've become much more protective of my weekends. I used to feel guilty if I wasn't being productive. But I've realized rest is part of the process &mdash; if I don't recharge properly, my work suffers anyway.</div><div class="zh">我對週末變得更有保護意識了。以前如果不夠有生產力會感到愧疚。但我意識到休息是過程的一部分——如果沒有好好充電，無論如何工作也會受影響。</div><div class="vocab"><span class="vtag"><span class="vw">protective of</span><span class="vd">珍視、有保護意識</span></span><span class="vtag"><span class="vw">recharge</span><span class="vd">充電、恢復精力</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">What does a good weekend look like?</div><div class="zh">一個好的週末是什麼樣子的？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">It starts slow &mdash; no alarm if I can help it. A slow morning with coffee and a good book. Then I might go out with my camera or stay home and write. Writing is how I process the week &mdash; observations, small moments that stuck with me, sometimes creative fragments.</div><div class="zh">開始得很慢——如果可以的話不設鬧鐘。喝咖啡配一本好書的悠閒早晨。然後可能帶相機出去或待在家寫作。寫作是我消化這一週的方式——觀察、讓我印象深刻的小時刻，有時候是創意片段。</div><div class="vocab"><span class="vtag"><span class="vw">if I can help it</span><span class="vd">如果能避免的話</span></span><span class="vtag"><span class="vw">fragments</span><span class="vd">片段</span></span></div></div></div>
+<div class="sec-div"><span>Part 5 &mdash; Wrap Up</span></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">Your life seems pretty full. Do you ever feel like it's too much?</div><div class="zh">你的生活感覺很充實。你有沒有覺得太多了？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Sometimes I feel stretched thin. But the key is none of these things feel like obligations &mdash; they're all things I genuinely chose. Even the commute is a trade-off I made consciously for the job I wanted. When you choose something, it's easier to accept the hard parts.</div><div class="zh">有時候感覺被拉得很薄。但關鍵是這些事情都不感覺像義務——都是我真正選擇的。即使是通勤，也是我為了想要的工作而有意識做出的取捨。</div><div class="vocab"><span class="vtag"><span class="vw">stretched thin</span><span class="vd">同時應付太多事</span></span><span class="vtag"><span class="vw">trade-off</span><span class="vd">取捨</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">What's one thing you're still working on?</div><div class="zh">有什麼你還在努力的事情？</div><div class="vocab"></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Speaking more naturally, for one. I can express ideas fine in writing, but saying things spontaneously without translating in my head first &mdash; that's where I still struggle. I want to reach a point where the language just flows, without the lag. That's partly why I started doing things like this.</div><div class="zh">更自然地表達，其中之一。我能用文字清楚表達想法，但即興說出來而不需要先在腦中翻譯——那是我仍然掙扎的地方。我想達到語言自然流暢的程度。這也是我開始做這類事情的部分原因。</div><div class="vocab"><span class="vtag"><span class="vw">the lag</span><span class="vd">延遲、腦中翻譯的停頓</span></span></div></div></div>
+<div class="line b"><div class="line-meta"><div class="spk b">Jamie</div><div class="lnum"></div></div><div><div class="en">For what it's worth, you're already doing it. Thanks so much for sharing all of this.</div><div class="zh">就目前而言，你已經在做了。非常感謝你分享這一切。</div><div class="vocab"><span class="vtag"><span class="vw">for what it's worth</span><span class="vd">就目前而言</span></span></div></div></div>
+<div class="line a"><div class="line-meta"><div class="spk a">Mira</div><div class="lnum"></div></div><div><div class="en">Thanks for having me. It was nice to talk through all of this out loud &mdash; in English, no less. See you in the next episode.</div><div class="zh">謝謝你邀請我。大聲說出這一切其實很不錯——而且還是用英文。下集見。</div><div class="vocab"><span class="vtag"><span class="vw">no less</span><span class="vd">而且還（強調）</span></span></div></div></div>
+  </div>
+
+  <div class="phrases-box">
+    <h3>Key Phrases</h3>
+    <div class="pr"><span class="pe">I've gotten used to it.</span><span class="pz">我已經習慣了。</span></div>
+    <div class="pr"><span class="pe">It forces you into a rhythm.</span><span class="pz">它迫使你進入一個節奏。</span></div>
+    <div class="pr"><span class="pe">It can get overwhelming sometimes.</span><span class="pz">有時候會讓人喘不過氣。</span></div>
+    <div class="pr"><span class="pe">I break things down.</span><span class="pz">我把事情拆解。</span></div>
+    <div class="pr"><span class="pe">It acts as a buffer zone.</span><span class="pz">它作為一個緩衝區。</span></div>
+    <div class="pr"><span class="pe">I didn't expect to enjoy it this much.</span><span class="pz">我沒想到我會這麼喜歡它。</span></div>
+    <div class="pr"><span class="pe">Balance is something you keep adjusting.</span><span class="pz">平衡是需要不斷調整的東西。</span></div>
+    <div class="pr"><span class="pe">Thanks for having me.</span><span class="pz">謝謝你邀請我。</span></div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════
+     SPEAK PANEL
+══════════════════════════════════ -->
+<div class="panel" id="panel-speak">
+
+  <div class="onboard-hint" id="hint-speak"><div class="onboard-icon"><svg width="14" height="14" viewBox="0 0 13 12" fill="none" stroke="var(--clr-speak)" stroke-width="1.3" style="vertical-align:middle"><path d="M1 1h11v8H7l-3 3V9H1z"/></svg></div><div class="onboard-body"><div class="onboard-title">Conversation</div><div class="onboard-text">Answer today's question in English. Don't translate — just express yourself naturally. Submit for AI feedback on grammar and natural phrasing.</div><button class="onboard-close" onclick="dismissHint('hint-speak')">Got it &#10005;</button></div></div>
+    <div class="speak-card">
+    <div class="q-label" style="display:flex;gap:12px;align-items:center">Daily Question &mdash; <span id="qNum">1</span> of <span id="qTotal">0</span><span id="qWeekTheme" style="color:var(--clr-speak);font-size:9px;letter-spacing:.08em"></span></div>
+    <div class="q-text" id="qText"></div>
+    <div class="q-zh" id="qZh"></div>
+    <div class="q-hint" id="qHint"></div>
+    <div class="speak-meta">
+      <span class="tag focus" id="qFocus"></span>
+      <button class="btn" style="font-size:9px;padding:4px 10px" onclick="toggleQZh()">中文提示</button>
+      <button class="btn" style="font-size:9px;padding:4px 10px" onclick="toggleQHint()">Hint</button>
+    </div>
+  </div>
+
+  <div class="answer-area">
+    <label>Your Answer</label>
+    <textarea id="answerInput" placeholder="Write your answer here in English..."></textarea>
+  </div>
+
+  <div class="speak-actions">
+    <button class="btn primary" onclick="submitAnswer()">Submit &amp; Get Feedback</button>
+    <button class="btn" onclick="clearAnswer()">Clear</button>
+  </div>
+
+  <div class="feedback-box" id="feedbackBox">
+    <div class="fb-label">Feedback</div>
+    <div class="fb-content" id="fbContent"></div>
+  </div>
+
+  <div class="q-nav">
+    <button class="btn" onclick="prevQ()">&#8592; Prev</button>
+    <button class="btn" onclick="nextQ()">Next &#8594;</button>
+    <div class="q-counter" id="qCounter"></div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════
+     REVIEW PANEL
+══════════════════════════════════ -->
+<div class="panel" id="panel-review">
+
+  <div class="onboard-hint" id="hint-review"><div class="onboard-icon"><svg width="14" height="14" viewBox="0 0 13 12" fill="none" stroke="var(--clr-review)" stroke-width="1.3" style="vertical-align:middle"><rect x="1" y="3" width="11" height="8" rx="1"/><rect x="3" y="1" width="7" height="8" rx="1" fill="var(--surface)"/></svg></div><div class="onboard-body"><div class="onboard-title">Review</div><div class="onboard-text">Click a card to flip and see the Chinese meaning and example sentence. Mark cards as mastered once you know them well.</div><button class="onboard-close" onclick="dismissHint('hint-review')">Got it &#10005;</button></div></div>
+    <div class="review-header">
+    <div class="review-filter">
+      <button class="rf-btn active" onclick="filterCards('all',this)">All</button>
+      <button class="rf-btn" onclick="filterCards('active',this)">Active</button>
+      <button class="rf-btn" onclick="filterCards('mastered',this)">Mastered</button>
+    </div>
+    <div class="review-count" id="reviewCount"></div>
+  </div>
+
+  <div class="review-grid" id="reviewGrid"></div>
+</div>
+
+<!-- ══════════════════════════════════
+     SPEAK (READ ALOUD) PANEL
+══════════════════════════════════ -->
+<div class="panel" id="panel-read">
+
+  <div class="onboard-hint" id="hint-read"><div class="onboard-icon"><svg width="14" height="16" viewBox="0 0 11 14" fill="none" stroke="var(--clr-read)" stroke-width="1.3" style="vertical-align:middle"><rect x="3" y="1" width="5" height="7" rx="2.5"/><path d="M1 7.5c0 2.5 1.8 4 4.5 4s4.5-1.5 4.5-4"/><line x1="5.5" y1="11.5" x2="5.5" y2="13"/></svg></div><div class="onboard-body"><div class="onboard-title">Speak</div><div class="onboard-text">Read today's article aloud. Listen first to hear the pronunciation, then record yourself and compare. Check Vocabulary for key words.</div><button class="onboard-close" onclick="dismissHint('hint-read')">Got it &#10005;</button></div></div>
+    <div class="read-header">
+    <div class="read-date" id="readDate"></div>
+    <div class="read-meta">
+      <span class="read-wordcount" id="readWordCount">~300 words · ~2 min</span>
+    </div>
+  </div>
+
+  <div class="read-topic-header" id="readTopicHeader" style="margin-bottom:20px">
+    <div style="font-family:'DM Mono',monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--ui-dim);margin-bottom:6px" id="readTopicLabel"></div>
+    <div style="font-family:'Outfit',sans-serif;font-size:20px;font-weight:500;color:var(--text);line-height:1.3" id="readTitleEl"></div>
+  </div>
+  <div class="read-article" id="readArticle">
+    <div class="read-loading">Loading today&rsquo;s article...</div>
+  </div>
+
+  <div class="read-vocab-box" id="readVocabBox" style="display:none">
+    <div class="read-vocab-title">Key Vocabulary</div>
+    <div class="read-vocab-list" id="readVocabList"></div>
+  </div>
+
+  <div class="read-controls">
+    <button class="btn primary" id="readPlayBtn" onclick="readTogglePlay()">&#9654; Listen first</button>
+    <button class="btn" onclick="readToggleVocab()">Vocabulary</button>
+    <button class="toggle-zh" id="readZhBtn" onclick="readToggleZh()">中文 OFF</button>
+    <button class="btn" id="readRecordBtn" onclick="readToggleRecord()">&#9679; Record</button>
+    <div class="read-rec-status" id="readRecStatus"></div>
+  </div>
+
+  <div class="read-recording-box" id="readRecordingBox" style="display:none">
+    <div class="read-rec-label">Your recording</div>
+    <audio id="readAudio" controls style="width:100%;margin-top:8px"></audio>
+  </div>
+
+</div>
+
+<!-- ══════════════════════════════════
+     SCHEDULE PANEL
+══════════════════════════════════ -->
+<div class="panel" id="panel-schedule">
+
+  <div class="sch-stats-bar">
+    <div class="stat-box"><div class="stat-num green" id="statDone">0</div><div class="stat-lbl">Done</div></div>
+    <div class="stat-box"><div class="stat-num" id="statLeft">288</div><div class="stat-lbl">Left</div></div>
+    <div class="stat-box"><div class="stat-num" id="statPct">0%</div><div class="stat-lbl">Complete</div></div>
+    <div class="stat-box"><div class="stat-num" id="streakVal">0</div><div class="stat-lbl">Streak</div></div>
+    <button class="sch-reset" id="schResetBtn" onclick="schResetConfirm()">Reset all</button>
+  </div>
+
+  <div id="scheduleWeeks"></div>
+</div>
+
+</div><!-- end .panels -->
+<div class="mini-player" id="miniPlayer">
+  <button class="mini-btn primary" id="miniPlayBtn" onclick="togglePlay()">&#9654;</button>
+  <button class="mini-btn" onclick="prevLine()">&#8592;</button>
+  <button class="mini-btn" onclick="nextLine()">&#8594;</button>
+  <div class="mini-info" id="miniInfo">Press play to start</div>
+</div>
+</div><!-- end .app -->
+
+
+<script>
+// ══════════════════════════════════════
+// INIT
+// ══════════════════════════════════════
+window.addEventListener('DOMContentLoaded', function(){
+  // Nav transparency - listen on .panels container scroll
+  var panelsEl = document.querySelector('.panels');
+  if(panelsEl){
+    panelsEl.addEventListener('scroll', function(){
+      var scrolled = this.scrollTop > 10;
+      var nav = document.querySelector('nav');
+      var logo = document.querySelector('.logo-bar');
+      if(nav) nav.classList.toggle('scrolled', scrolled);
+      if(logo) logo.classList.toggle('scrolled', scrolled);
+    }, {passive:true});
+  }
+  // Show mini player when listen panel scrolled past player bar
+  // Mini player on .panels scroll
+  if(panelsEl){
+    panelsEl.addEventListener('scroll', function(){
+      var playerBar = document.querySelector('.player-bar');
+      if(!playerBar) return;
+      var threshold = playerBar.offsetTop + playerBar.offsetHeight;
+      var mini = document.getElementById('miniPlayer');
+      var activeTab = document.querySelector('.tab.active');
+      var isListen = activeTab && activeTab.textContent.trim().indexOf('Listen') >= 0;
+      mini.classList.toggle('show', this.scrollTop > threshold && isListen);
+    }, {passive:true});
+  }
+
+  var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  var d = new Date();
+  document.getElementById('dayBadge').textContent = days[d.getDay()] + ' ' + (d.getMonth()+1) + '/' + d.getDate();
+  var container = document.getElementById('listenScript');
+  var lineEls = Array.from(container.querySelectorAll('.line'));
+  lineEls.forEach(function(el,i){ el.querySelector('.lnum').textContent = '#'+String(i+1).padStart(2,'0'); });
+  initListen(lineEls);
+  initSpeak();
+  initReview();
+  initSchedule();
+  updateEpisodeHeader();
+  initRead();
+  initHints();
+  // Set initial active tab color
+  var initTab = document.querySelector('.tab.active');
+  if(initTab) initTab.style.setProperty('--tab-active-color', 'var(--ui)');
+});
+
+// ══════════════════════════════════════
+// TAB SWITCHING
+// ══════════════════════════════════════
+var TAB_COLORS = {listen:'var(--clr-listen)',speak:'var(--clr-speak)',review:'var(--clr-review)',read:'var(--clr-read)',schedule:'var(--ui)'};
+function switchTab(name){
+  document.querySelectorAll('.tab').forEach(function(t){ t.classList.remove('active'); });
+  document.querySelectorAll('.panel').forEach(function(p){ p.classList.remove('active'); });
+  var activeTab = document.querySelector('.tab[onclick*="'+name+'"]');
+  activeTab.classList.add('active');
+  activeTab.style.setProperty('--tab-active-color', TAB_COLORS[name]||'var(--gold2)');
+  document.getElementById('panel-'+name).classList.add('active');
+  if(name==='schedule'){
+    setTimeout(function(){
+      var cur=document.getElementById('week-'+getCurrentWeekNum());
+      if(cur){
+        cur.classList.add('open');
+        cur.scrollIntoView({behavior:'smooth',block:'start'});
+      }
+    },150);
+  }
+}
+
+// ══════════════════════════════════════
+// LISTEN
+// ══════════════════════════════════════
+var listenLineEls=[], lCurrent=-1, lPlaying=false, lPaused=false, lSpeed=1, lZhOn=false;
+var lVoiceA=null, lVoiceB=null;
+
+function initListen(els){
+  listenLineEls = els;
+  var total = els.length;
+  document.getElementById('progLabel').textContent = '0 / '+total;
+  els.forEach(function(el,i){
+    el.addEventListener('click', function(){ lJumpTo(i); });
+  });
+  if('speechSynthesis' in window){
+    speechSynthesis.onvoiceschanged = lLoadVoices;
+    lLoadVoices();
+  }
+}
+
+function lLoadVoices(){
+  var v = speechSynthesis.getVoices();
+  if(!v.length) return;
+  var en = v.filter(function(x){ return x.lang.startsWith('en'); });
+  lVoiceA = en.find(function(x){ return /samantha|karen|victoria|zira|female|woman/i.test(x.name); }) || en[0] || null;
+  lVoiceB = en.find(function(x){ return /daniel|alex|fred|male|man|google uk/i.test(x.name); }) || en[1] || en[0] || null;
+}
+
+function lSetStatus(msg,cls){
+  var el=document.getElementById('listenStatus');
+  el.textContent=msg; el.className='listen-status'+(cls?' '+cls:'');
+  var miniInfo=document.getElementById('miniInfo');
+  if(miniInfo) miniInfo.textContent=msg;
+  var miniBtn=document.getElementById('miniPlayBtn');
+  if(miniBtn){
+    if(lPlaying&&!lPaused) miniBtn.innerHTML='&#9646;&#9646;';
+    else miniBtn.innerHTML='&#9654;';
+  }
+}
+function lUpdateProgress(){
+  var total=listenLineEls.length, done=Math.max(lCurrent+1,0);
+  document.getElementById('progFill').style.width=(done/total*100)+'%';
+  document.getElementById('progLabel').textContent=done+' / '+total;
+}
+function lHighlight(i){
+  listenLineEls.forEach(function(el,idx){
+    el.classList.remove('active','done');
+    if(idx<i) el.classList.add('done');
+    else if(idx===i){ el.classList.add('active'); el.querySelector('.vocab').classList.add('show'); el.scrollIntoView({behavior:'smooth',block:'center'}); }
+  });
+  lUpdateProgress();
+}
+function lGetText(i){ return listenLineEls[i].querySelector('.en').textContent; }
+function lGetRole(i){ return listenLineEls[i].classList.contains('a')?'a':'b'; }
+function lGetSpk(i){ return listenLineEls[i].querySelector('.spk').textContent; }
+
+function lSpeak(i){
+  if(!('speechSynthesis' in window)){ lSetStatus('TTS not supported. Use Chrome.',''); return; }
+  speechSynthesis.cancel();
+  var u=new SpeechSynthesisUtterance(lGetText(i));
+  u.rate=lSpeed; u.pitch=lGetRole(i)==='a'?1.1:0.9;
+  var vs=speechSynthesis.getVoices();
+  if(vs.length) u.voice=lGetRole(i)==='a'?lVoiceA:lVoiceB;
+  u.onstart=function(){ lSetStatus('Speaking: '+lGetSpk(i)+' \u2014 '+( i+1)+' / '+listenLineEls.length,'spk'); };
+  u.onend=function(){
+    if(lPlaying&&!lPaused){
+      if(i+1<listenLineEls.length){ lCurrent=i+1; lHighlight(lCurrent); lSpeak(lCurrent); }
+      else{ lPlaying=false; document.getElementById('btnPlay').textContent='\u25B6 Play'; lSetStatus('Finished.'); lCurrent=-1; lUpdateProgress(); }
+    }
+  };
+  u.onerror=function(e){ if(e.error!=='interrupted') lSetStatus('TTS error: '+e.error,''); };
+  speechSynthesis.speak(u);
+}
+
+function togglePlay(){
+  if(!('speechSynthesis' in window)){ lSetStatus('TTS not supported. Use Chrome.'); return; }
+  if(lPlaying&&!lPaused){
+    speechSynthesis.pause(); lPaused=true; lPlaying=false;
+    document.getElementById('btnPlay').textContent='\u25B6 Resume'; lSetStatus('Paused.');
+  } else if(lPaused){
+    speechSynthesis.resume(); lPaused=false; lPlaying=true;
+    document.getElementById('btnPlay').textContent='\u23F8 Pause'; lSetStatus('Resuming...','spk');
+  } else {
+    lPlaying=true; lPaused=false;
+    document.getElementById('btnPlay').textContent='\u23F8 Pause';
+    if(lCurrent<0||lCurrent>=listenLineEls.length-1) lCurrent=0;
+    lHighlight(lCurrent); lSpeak(lCurrent);
+  }
+}
+function stopAll(){
+  lPlaying=false; lPaused=false; speechSynthesis.cancel&&speechSynthesis.cancel();
+  document.getElementById('btnPlay').textContent='\u25B6 Play'; lSetStatus('Stopped.');
+}
+function lJumpTo(i){ stopAll(); lCurrent=i; lHighlight(i); lPlaying=true; document.getElementById('btnPlay').textContent='\u23F8 Pause'; lSpeak(i); }
+function nextLine(){ if(lCurrent<listenLineEls.length-1) lJumpTo(lCurrent+1); }
+function prevLine(){ lJumpTo(lCurrent>0?lCurrent-1:0); }
+function setSpeed(s){
+  lSpeed=s;
+  document.querySelectorAll('.speed-btn').forEach(function(b){ b.classList.toggle('active',b.textContent.trim()===String(s)); });
+  if(lPlaying&&lCurrent>=0){ speechSynthesis.cancel(); lSpeak(lCurrent); }
+}
+function toggleZh(){
+  lZhOn=!lZhOn;
+  var btn=document.getElementById('toggleZh');
+  btn.classList.toggle('on',lZhOn);
+  btn.textContent=lZhOn?'中文 ON':'中文 OFF';
+  document.querySelectorAll('#listenScript .zh').forEach(function(el){ el.classList.toggle('show',lZhOn); });
+}
+
+// ══════════════════════════════════════
+// SPEAK
+// ══════════════════════════════════════
+var questions = [
+  { q:"Describe your morning routine before going to work.", zh:"描述你上班前的早晨日常。", hint:"Try using: First I..., Then I..., After that...", focus:"Daily routine" },
+  { q:"What do you enjoy most about your commute? Is there anything you dislike?", zh:"你最喜歡通勤的哪個部分？有沒有什麼你不喜歡的？", hint:"Try using: What I enjoy most is... / On the other hand...", focus:"Commute" },
+  { q:"How would you describe your job to someone who doesn't work in tech?", zh:"你會怎麼向不在科技業的人描述你的工作？", hint:"Try using: In simple terms... / Basically what I do is...", focus:"Work explanation" },
+  { q:"Talk about one hobby you have. How did you get into it?", zh:"談談你的一個興趣愛好。你是怎麼接觸它的？", hint:"Try using: I got into it when... / What I love about it is...", focus:"Hobbies" },
+  { q:"How do you usually relax after a stressful day?", zh:"壓力大的一天過後你通常怎麼放鬆？", hint:"Try using: To unwind, I usually... / It helps me to...", focus:"Rest & wellbeing" },
+  { q:"Describe your ideal weekend. What would you do from morning to night?", zh:"描述你理想的週末。從早到晚你會做什麼？", hint:"Try using: I'd start by... / In the afternoon... / To end the day...", focus:"Weekend plans" },
+  { q:"What's something you're trying to improve about yourself this year?", zh:"今年你正在努力改進自己的哪一件事？", hint:"Try using: One thing I'm working on is... / I've been trying to...", focus:"Self-improvement" },
+  { q:"Tell me about a place you've traveled to that left a strong impression on you.", zh:"告訴我一個讓你印象深刻的旅行地點。", hint:"Try using: What struck me most was... / I remember...", focus:"Travel" }
+];
+var qIdx=0;
+
+function initSpeak(){
+  document.getElementById('qTotal').textContent=questions.length;
+  renderQ();
+}
+function renderQ(){
+  var q=questions[qIdx];
+  document.getElementById('qNum').textContent=qIdx+1;
+  // Show current week theme
+  var wn = getCurrentWeekNum ? getCurrentWeekNum() : 1;
+  var cur = CURRICULUM ? CURRICULUM.find(function(w){ return w.wn===wn; }) : null;
+  var themeEl = document.getElementById('qWeekTheme');
+  if(themeEl && cur) themeEl.textContent = cur.theme.toUpperCase();
+  document.getElementById('qText').textContent=q.q;
+  document.getElementById('qZh').textContent=q.zh;
+  document.getElementById('qZh').classList.remove('show');
+  document.getElementById('qHint').textContent='Hint: '+q.hint;
+  document.getElementById('qHint').classList.remove('show');
+  document.getElementById('qFocus').textContent=q.focus;
+  document.getElementById('qCounter').textContent=(qIdx+1)+' / '+questions.length;
+  document.getElementById('feedbackBox').classList.remove('show');
+  document.getElementById('answerInput').value='';
+}
+function toggleQZh(){ document.getElementById('qZh').classList.toggle('show'); }
+function toggleQHint(){ document.getElementById('qHint').classList.toggle('show'); }
+function clearAnswer(){ document.getElementById('answerInput').value=''; document.getElementById('feedbackBox').classList.remove('show'); }
+function prevQ(){ if(qIdx>0){ qIdx--; renderQ(); } }
+function nextQ(){ if(qIdx<questions.length-1){ qIdx++; renderQ(); } }
+
+function submitAnswer(){
+  var answer = document.getElementById('answerInput').value.trim();
+  if(!answer){
+    var ta = document.getElementById('answerInput');
+    ta.style.borderColor='var(--clr-speak)';
+    ta.placeholder='Please write your answer before submitting...';
+    ta.focus();
+    setTimeout(function(){ ta.style.borderColor=''; ta.placeholder='Write your answer here in English...'; }, 2000);
+    return;
+  }
+  var q = questions[qIdx];
+  var box = document.getElementById('feedbackBox');
+  var content = document.getElementById('fbContent');
+  box.classList.add('show');
+  content.innerHTML = '<div class="fb-loading"><div class="dot-pulse"><span></span><span></span><span></span></div>&nbsp; Analyzing your answer...</div>';
+
+  var prompt = "You are an English speaking coach for a Taiwanese adult learner at intermediate level (B1-B2). The learner is practicing spoken English.\n\nQuestion asked: \"" + q.q + "\"\n\nLearner's answer: \"" + answer + "\"\n\nPlease give concise, encouraging feedback in Traditional Chinese with English examples. Structure your feedback as:\n1. 整體評價 (1-2 sentences, positive first)\n2. 1-2個需要改進的地方 (with corrected example)\n3. 一個更道地的表達方式 (provide a natural English alternative for one phrase they used)\n\nKeep it brief and actionable. Do not be overly effusive. Use bold for English words/phrases.";
+
+  fetch('https://api.anthropic.com/v1/messages', {
+    method:'POST',
+    headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({
+      model:'claude-sonnet-4-20250514',
+      max_tokens:1000,
+      messages:[{role:'user',content:prompt}]
+    })
+  })
+  .then(function(r){ return r.json(); })
+  .then(function(data){
+    var text = (data.content&&data.content[0]&&data.content[0].text) ? data.content[0].text : 'Could not get feedback. Please try again.';
+    // Convert markdown bold to HTML
+    text = text.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
+    // Convert newlines
+    text = text.replace(/\n/g,'<br>');
+    content.innerHTML = text;
+  })
+  .catch(function(e){
+    content.innerHTML = '<span style="color:var(--muted)">Could not connect to feedback service. Check your network.</span>';
+  });
+}
+
+// ══════════════════════════════════════
+// REVIEW
+// ══════════════════════════════════════
+var cards = [
+  { en:"I've gotten used to it.", zh:"我已經習慣了。", ex:"The long commute was hard at first, but I've gotten used to it." },
+  { en:"It forces you into a rhythm.", zh:"它迫使你進入一個節奏。", ex:"Waking up early every day forces you into a rhythm." },
+  { en:"I like to zone out.", zh:"我喜歡放空。", ex:"On the train home, I just zone out and listen to music." },
+  { en:"It can get overwhelming.", zh:"有時候會讓人喘不過氣。", ex:"When too many deadlines stack up, it can get overwhelming." },
+  { en:"I break things down.", zh:"我把事情拆解。", ex:"When a problem feels too big, I break it down into smaller steps." },
+  { en:"It acts as a buffer zone.", zh:"它作為一個緩衝區。", ex:"The commute acts as a buffer zone between work and home." },
+  { en:"I didn't expect to enjoy it this much.", zh:"我沒想到我會這麼喜歡它。", ex:"I tried diving on a whim and didn't expect to enjoy it this much." },
+  { en:"I try to be more intentional about it.", zh:"我試著更有意識地去做這件事。", ex:"Instead of doomscrolling, I try to be more intentional about my free time." },
+  { en:"Balance is something you keep adjusting.", zh:"平衡是需要不斷調整的東西。", ex:"Work-life balance isn't something you achieve once — it's something you keep adjusting." },
+  { en:"It keeps me grounded.", zh:"這讓我保持踏實。", ex:"Writing in my journal every week keeps me grounded." },
+  { en:"I'm still figuring things out.", zh:"我還在摸索。", ex:"I don't have all the answers — I'm still figuring things out." },
+  { en:"shift gears", zh:"換擋、轉換模式", ex:"After work, I need some time to shift gears before I can relax." },
+  { en:"from scratch", zh:"從頭開始", ex:"We had to redesign the whole system from scratch." },
+  { en:"give or take", zh:"大約、誤差範圍", ex:"It takes an hour to get there, give or take." },
+  { en:"for what it's worth", zh:"就目前而言、姑且說一句", ex:"For what it's worth, I think you handled that really well." },
+  { en:"stretched thin", zh:"被拉得很薄（同時應付太多事）", ex:"Between work, commuting, and personal projects, I'm feeling stretched thin.", src:"listen"},
+  { en:"algorithm", zh:"演算法", ex:"The recommendation algorithm learns from your viewing history.", src:"speak"},
+  { en:"automate", zh:"自動化", ex:"Many factories now automate their assembly lines.", src:"speak"},
+  { en:"repetitive", zh:"重複性的", ex:"Data entry is repetitive work that AI can handle efficiently.", src:"speak"},
+  { en:"personalized", zh:"個人化的", ex:"The app creates a personalized study plan for each user.", src:"speak"},
+  { en:"regardless of", zh:"不管、無論", ex:"The service is available regardless of where you live.", src:"speak"},
+  { en:"over-reliance", zh:"過度依賴", ex:"Over-reliance on GPS can weaken your sense of direction.", src:"speak"},
+  { en:"bias", zh:"偏見、偏差", ex:"Researchers are working to reduce bias in AI systems.", src:"speak"},
+  { en:"collaborate", zh:"協作", ex:"Learning to collaborate with AI tools is a valuable skill.", src:"speak"},
+  { en:"neuroplasticity", zh:"神經可塑性", ex:"Neuroplasticity means the brain can keep forming new connections throughout life.", src:"speak"},
+  { en:"neural pathways", zh:"神經通路", ex:"Consistent practice strengthens the neural pathways for language.", src:"speak"},
+  { en:"consistent", zh:"持續的、一致的", ex:"Consistent daily practice is more effective than weekend marathons.", src:"speak"},
+  { en:"carbon footprint", zh:"碳足跡", ex:"Electric vehicles can reduce your carbon footprint significantly.", src:"speak"},
+  { en:"infrastructure", zh:"基礎設施", ex:"Governments are investing in charging infrastructure for EVs.", src:"speak"},
+  { en:"mainstream", zh:"主流", ex:"Electric vehicles have become mainstream in many countries.", src:"speak"}
+];
+var masterSet = {};
+var filterMode = 'all';
+
+function initReview(){ renderCards(); }
+
+function renderCards(){
+  var grid = document.getElementById('reviewGrid');
+  grid.innerHTML = '';
+  var visible = cards.filter(function(_,i){
+    if(filterMode==='mastered') return masterSet[i];
+    if(filterMode==='active') return !masterSet[i];
+    return true;
+  });
+  var count = visible.length;
+  document.getElementById('reviewCount').textContent = count + ' card' + (count!==1?'s':'');
+
+  if(!count){
+    grid.innerHTML = '<div style="font-family:\'DM Mono\',monospace;font-size:11px;color:var(--muted);padding:20px 0;">' + (filterMode==='mastered'?'No mastered cards yet.':'All cards mastered!') + '</div>';
+    return;
+  }
+
+  cards.forEach(function(c,i){
+    if(filterMode==='mastered'&&!masterSet[i]) return;
+    if(filterMode==='active'&&masterSet[i]) return;
+    var div = document.createElement('div');
+    div.className = 'flashcard' + (masterSet[i]?' mastered':'');
+    div.innerHTML =
+      '<div class="fc-corner">'+(c.src==='speak'?'<span style="color:var(--clr-read);font-size:8px;letter-spacing:.06em">SPEAK</span>':'<span style="color:var(--clr-listen);font-size:8px;letter-spacing:.06em">LISTEN</span>')+'</div>' +
+      '<div class="fc-front">' +
+        '<div class="fc-en">' + c.en + '</div>' +
+        '<div class="fc-hint">tap to see translation</div>' +
+      '</div>' +
+      '<div class="fc-back">' +
+        '<div class="fc-zh">' + c.zh + '</div>' +
+        '<div class="fc-example">' + c.ex + '</div>' +
+      '</div>';
+    var btn = document.createElement('button');
+    btn.className = 'mastered-btn';
+    btn.textContent = masterSet[i] ? 'Unmark' : 'Mark as mastered';
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      masterSet[i] = !masterSet[i];
+      renderCards();
+    });
+    div.addEventListener('click', function(){ div.classList.toggle('flipped'); });
+    div.appendChild(btn);
+    grid.appendChild(div);
+  });
+}
+
+function filterCards(mode, btn){
+  filterMode = mode;
+  document.querySelectorAll('.rf-btn').forEach(function(b){ b.classList.remove('active'); });
+  btn.classList.add('active');
+  renderCards();
+}
+
+// ══════════════════════════════════════
+// SCHEDULE
+// ══════════════════════════════════════
+const SCHEDULE = [
+  {key:"2026-03-19",label:"03/19",wd:"Thu",month:"March",week:1,theme:"Morning Routines",type:"Speak",topic:"What do you eat or drink in the morning?"},
+  {key:"2026-03-20",label:"03/20",wd:"Fri",month:"March",week:1,theme:"Morning Routines",type:"Speak",topic:"What would your ideal morning look like?"},
+  {key:"2026-03-21",label:"03/21",wd:"Sat",month:"March",week:1,theme:"Morning Routines",type:"Listen",topic:"A Day in the Life: Morning Habits"},
+  {key:"2026-03-22",label:"03/22",wd:"Sun",month:"March",week:1,theme:"Morning Routines",type:"Review",topic:"Review: Morning Routines"},
+  {key:"2026-03-23",label:"03/23",wd:"Mon",month:"March",week:2,theme:"Commuting",type:"Speak",topic:"How do you get to work or school?"},
+  {key:"2026-03-24",label:"03/24",wd:"Tue",month:"March",week:2,theme:"Commuting",type:"Speak",topic:"What do you do during your commute?"},
+  {key:"2026-03-25",label:"03/25",wd:"Wed",month:"March",week:2,theme:"Commuting",type:"Speak",topic:"Describe a memorable commute experience."},
+  {key:"2026-03-26",label:"03/26",wd:"Thu",month:"March",week:2,theme:"Commuting",type:"Speak",topic:"How does your commute affect your mood?"},
+  {key:"2026-03-27",label:"03/27",wd:"Fri",month:"March",week:2,theme:"Commuting",type:"Speak",topic:"What\'s the best and worst part of commuting?"},
+  {key:"2026-03-28",label:"03/28",wd:"Sat",month:"March",week:2,theme:"Commuting",type:"Listen",topic:"Getting Around: Commute Stories"},
+  {key:"2026-03-29",label:"03/29",wd:"Sun",month:"March",week:2,theme:"Commuting",type:"Review",topic:"Review: Commuting"},
+  {key:"2026-03-30",label:"03/30",wd:"Mon",month:"March",week:3,theme:"Home & Living Space",type:"Speak",topic:"Describe where you live."},
+  {key:"2026-03-31",label:"03/31",wd:"Tue",month:"March",week:3,theme:"Home & Living Space",type:"Speak",topic:"What does your room or apartment look like?"},
+  {key:"2026-04-01",label:"04/01",wd:"Wed",month:"April",week:3,theme:"Home & Living Space",type:"Speak",topic:"What do you like most about your home?"},
+  {key:"2026-04-02",label:"04/02",wd:"Thu",month:"April",week:3,theme:"Home & Living Space",type:"Speak",topic:"If you could change one thing about your home, what would it be?"},
+  {key:"2026-04-03",label:"04/03",wd:"Fri",month:"April",week:3,theme:"Home & Living Space",type:"Speak",topic:"Describe your ideal living space."},
+  {key:"2026-04-04",label:"04/04",wd:"Sat",month:"April",week:3,theme:"Home & Living Space",type:"Listen",topic:"Where I Live: Describing Your Home"},
+  {key:"2026-04-05",label:"04/05",wd:"Sun",month:"April",week:3,theme:"Home & Living Space",type:"Review",topic:"Review: Home & Living Space"},
+  {key:"2026-04-06",label:"04/06",wd:"Mon",month:"April",week:4,theme:"Food & Eating Habits",type:"Speak",topic:"What did you eat today? Describe your meals."},
+  {key:"2026-04-07",label:"04/07",wd:"Tue",month:"April",week:4,theme:"Food & Eating Habits",type:"Speak",topic:"What\'s your favorite food and why?"},
+  {key:"2026-04-08",label:"04/08",wd:"Wed",month:"April",week:4,theme:"Food & Eating Habits",type:"Speak",topic:"Do you cook? Describe a dish you can make."},
+  {key:"2026-04-09",label:"04/09",wd:"Thu",month:"April",week:4,theme:"Food & Eating Habits",type:"Speak",topic:"What foods do you dislike? Why?"},
+  {key:"2026-04-10",label:"04/10",wd:"Fri",month:"April",week:4,theme:"Food & Eating Habits",type:"Speak",topic:"Describe a memorable meal you\'ve had."},
+  {key:"2026-04-11",label:"04/11",wd:"Sat",month:"April",week:4,theme:"Food & Eating Habits",type:"Listen",topic:"Let\'s Eat: Food Preferences and Habits"},
+  {key:"2026-04-12",label:"04/12",wd:"Sun",month:"April",week:4,theme:"Food & Eating Habits",type:"Review",topic:"Review: Food & Eating Habits"},
+  {key:"2026-04-13",label:"04/13",wd:"Mon",month:"April",week:5,theme:"Weather & Seasons",type:"Speak",topic:"Describe the weather where you live."},
+  {key:"2026-04-14",label:"04/14",wd:"Tue",month:"April",week:5,theme:"Weather & Seasons",type:"Speak",topic:"What\'s your favorite season and why?"},
+  {key:"2026-04-15",label:"04/15",wd:"Wed",month:"April",week:5,theme:"Weather & Seasons",type:"Speak",topic:"How does weather affect your mood?"},
+  {key:"2026-04-16",label:"04/16",wd:"Thu",month:"April",week:5,theme:"Weather & Seasons",type:"Speak",topic:"Describe a day with extreme weather."},
+  {key:"2026-04-17",label:"04/17",wd:"Fri",month:"April",week:5,theme:"Weather & Seasons",type:"Speak",topic:"How do you dress for different weather?"},
+  {key:"2026-04-18",label:"04/18",wd:"Sat",month:"April",week:5,theme:"Weather & Seasons",type:"Listen",topic:"The Weather Today: Talking About Climate"},
+  {key:"2026-04-19",label:"04/19",wd:"Sun",month:"April",week:5,theme:"Weather & Seasons",type:"Review",topic:"Review: Weather & Seasons"},
+  {key:"2026-04-20",label:"04/20",wd:"Mon",month:"April",week:6,theme:"Shopping & Money",type:"Speak",topic:"Describe your shopping habits."},
+  {key:"2026-04-21",label:"04/21",wd:"Tue",month:"April",week:6,theme:"Shopping & Money",type:"Speak",topic:"What was the last thing you bought?"},
+  {key:"2026-04-22",label:"04/22",wd:"Wed",month:"April",week:6,theme:"Shopping & Money",type:"Speak",topic:"Do you prefer online or in-store shopping?"},
+  {key:"2026-04-23",label:"04/23",wd:"Thu",month:"April",week:6,theme:"Shopping & Money",type:"Speak",topic:"How do you decide if something is worth buying?"},
+  {key:"2026-04-24",label:"04/24",wd:"Fri",month:"April",week:6,theme:"Shopping & Money",type:"Speak",topic:"Describe something you\'ve been saving up for."},
+  {key:"2026-04-25",label:"04/25",wd:"Sat",month:"April",week:6,theme:"Shopping & Money",type:"Listen",topic:"Spending Habits: How We Buy Things"},
+  {key:"2026-04-26",label:"04/26",wd:"Sun",month:"April",week:6,theme:"Shopping & Money",type:"Review",topic:"Review: Shopping & Money"},
+  {key:"2026-04-27",label:"04/27",wd:"Mon",month:"April",week:7,theme:"Health & Body",type:"Speak",topic:"How do you take care of your health?"},
+  {key:"2026-04-28",label:"04/28",wd:"Tue",month:"April",week:7,theme:"Health & Body",type:"Speak",topic:"Describe your exercise habits."},
+  {key:"2026-04-29",label:"04/29",wd:"Wed",month:"April",week:7,theme:"Health & Body",type:"Speak",topic:"What do you do when you feel sick?"},
+  {key:"2026-04-30",label:"04/30",wd:"Thu",month:"April",week:7,theme:"Health & Body",type:"Speak",topic:"How important is sleep to you?"},
+  {key:"2026-05-01",label:"05/01",wd:"Fri",month:"May",week:7,theme:"Health & Body",type:"Speak",topic:"What\'s one healthy habit you want to build?"},
+  {key:"2026-05-02",label:"05/02",wd:"Sat",month:"May",week:7,theme:"Health & Body",type:"Listen",topic:"Taking Care of Yourself: Health Routines"},
+  {key:"2026-05-03",label:"05/03",wd:"Sun",month:"May",week:7,theme:"Health & Body",type:"Review",topic:"Review: Health & Body"},
+  {key:"2026-05-04",label:"05/04",wd:"Mon",month:"May",week:8,theme:"Daily Schedules",type:"Speak",topic:"Walk me through a typical weekday."},
+  {key:"2026-05-05",label:"05/05",wd:"Tue",month:"May",week:8,theme:"Daily Schedules",type:"Speak",topic:"How do you organize your time?"},
+  {key:"2026-05-06",label:"05/06",wd:"Wed",month:"May",week:8,theme:"Daily Schedules",type:"Speak",topic:"What\'s the busiest part of your week?"},
+  {key:"2026-05-07",label:"05/07",wd:"Thu",month:"May",week:8,theme:"Daily Schedules",type:"Speak",topic:"How do you wind down at the end of the day?"},
+  {key:"2026-05-08",label:"05/08",wd:"Fri",month:"May",week:8,theme:"Daily Schedules",type:"Speak",topic:"What\'s one thing you wish you had more time for?"},
+  {key:"2026-05-09",label:"05/09",wd:"Sat",month:"May",week:8,theme:"Daily Schedules",type:"Listen",topic:"My Week: Talking About Time and Schedules"},
+  {key:"2026-05-10",label:"05/10",wd:"Sun",month:"May",week:8,theme:"Daily Schedules",type:"Review",topic:"Review: Daily Schedules"},
+  {key:"2026-05-11",label:"05/11",wd:"Mon",month:"May",week:9,theme:"Friendship",type:"Speak",topic:"Describe a close friend of yours."},
+  {key:"2026-05-12",label:"05/12",wd:"Tue",month:"May",week:9,theme:"Friendship",type:"Speak",topic:"How did you meet your best friend?"},
+  {key:"2026-05-13",label:"05/13",wd:"Wed",month:"May",week:9,theme:"Friendship",type:"Speak",topic:"What do you and your friends do together?"},
+  {key:"2026-05-14",label:"05/14",wd:"Thu",month:"May",week:9,theme:"Friendship",type:"Speak",topic:"What makes someone a good friend?"},
+  {key:"2026-05-15",label:"05/15",wd:"Fri",month:"May",week:9,theme:"Friendship",type:"Speak",topic:"Describe a time a friend helped you."},
+  {key:"2026-05-16",label:"05/16",wd:"Sat",month:"May",week:9,theme:"Friendship",type:"Listen",topic:"Good Friends: What Makes a Great Friendship"},
+  {key:"2026-05-17",label:"05/17",wd:"Sun",month:"May",week:9,theme:"Friendship",type:"Review",topic:"Review: Friendship"},
+  {key:"2026-05-18",label:"05/18",wd:"Mon",month:"May",week:10,theme:"Family",type:"Speak",topic:"Describe your family."},
+  {key:"2026-05-19",label:"05/19",wd:"Tue",month:"May",week:10,theme:"Family",type:"Speak",topic:"What\'s your relationship with your family like?"},
+  {key:"2026-05-20",label:"05/20",wd:"Wed",month:"May",week:10,theme:"Family",type:"Speak",topic:"What\'s a family tradition you have?"},
+  {key:"2026-05-21",label:"05/21",wd:"Thu",month:"May",week:10,theme:"Family",type:"Speak",topic:"How has your family influenced who you are?"},
+  {key:"2026-05-22",label:"05/22",wd:"Fri",month:"May",week:10,theme:"Family",type:"Speak",topic:"Describe a happy family memory."},
+  {key:"2026-05-23",label:"05/23",wd:"Sat",month:"May",week:10,theme:"Family",type:"Listen",topic:"Family Life: Talking About the People We Grew Up With"},
+  {key:"2026-05-24",label:"05/24",wd:"Sun",month:"May",week:10,theme:"Family",type:"Review",topic:"Review: Family"},
+  {key:"2026-05-25",label:"05/25",wd:"Mon",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Speak",topic:"Describe your workplace or team."},
+  {key:"2026-05-26",label:"05/26",wd:"Tue",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Speak",topic:"What makes a good colleague?"},
+  {key:"2026-05-27",label:"05/27",wd:"Wed",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Speak",topic:"Describe a time you worked well with others."},
+  {key:"2026-05-28",label:"05/28",wd:"Thu",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Speak",topic:"How do you handle disagreements at work?"},
+  {key:"2026-05-29",label:"05/29",wd:"Fri",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Speak",topic:"What do you appreciate most about your coworkers?"},
+  {key:"2026-05-30",label:"05/30",wd:"Sat",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Listen",topic:"Working Together: Office Relationships"},
+  {key:"2026-05-31",label:"05/31",wd:"Sun",month:"May",week:11,theme:"Colleagues & Teamwork",type:"Review",topic:"Review: Colleagues & Teamwork"},
+  {key:"2026-06-01",label:"06/01",wd:"Mon",month:"June",week:12,theme:"Social Situations",type:"Speak",topic:"Describe a social event you attended recently."},
+  {key:"2026-06-02",label:"06/02",wd:"Tue",month:"June",week:12,theme:"Social Situations",type:"Speak",topic:"Are you more introverted or extroverted?"},
+  {key:"2026-06-03",label:"06/03",wd:"Wed",month:"June",week:12,theme:"Social Situations",type:"Speak",topic:"How do you feel meeting new people?"},
+  {key:"2026-06-04",label:"06/04",wd:"Thu",month:"June",week:12,theme:"Social Situations",type:"Speak",topic:"Describe a time you felt out of place socially."},
+  {key:"2026-06-05",label:"06/05",wd:"Fri",month:"June",week:12,theme:"Social Situations",type:"Speak",topic:"What\'s your idea of a perfect social gathering?"},
+  {key:"2026-06-06",label:"06/06",wd:"Sat",month:"June",week:12,theme:"Social Situations",type:"Listen",topic:"Being Social: Navigating Gatherings and Events"},
+  {key:"2026-06-07",label:"06/07",wd:"Sun",month:"June",week:12,theme:"Social Situations",type:"Review",topic:"Review: Social Situations"},
+  {key:"2026-06-08",label:"06/08",wd:"Mon",month:"June",week:13,theme:"Personality & Character",type:"Speak",topic:"How would you describe your own personality?"},
+  {key:"2026-06-09",label:"06/09",wd:"Tue",month:"June",week:13,theme:"Personality & Character",type:"Speak",topic:"What are your strongest traits?"},
+  {key:"2026-06-10",label:"06/10",wd:"Wed",month:"June",week:13,theme:"Personality & Character",type:"Speak",topic:"What\'s one thing you\'d like to change about yourself?"},
+  {key:"2026-06-11",label:"06/11",wd:"Thu",month:"June",week:13,theme:"Personality & Character",type:"Speak",topic:"How has your personality changed over time?"},
+  {key:"2026-06-12",label:"06/12",wd:"Fri",month:"June",week:13,theme:"Personality & Character",type:"Speak",topic:"Describe someone whose personality you admire."},
+  {key:"2026-06-13",label:"06/13",wd:"Sat",month:"June",week:13,theme:"Personality & Character",type:"Listen",topic:"Who Are You: Talking About Personality Types"},
+  {key:"2026-06-14",label:"06/14",wd:"Sun",month:"June",week:13,theme:"Personality & Character",type:"Review",topic:"Review: Personality & Character"},
+  {key:"2026-06-15",label:"06/15",wd:"Mon",month:"June",week:14,theme:"Communication Styles",type:"Speak",topic:"How do you prefer to communicate — text, call, or face to face?"},
+  {key:"2026-06-16",label:"06/16",wd:"Tue",month:"June",week:14,theme:"Communication Styles",type:"Speak",topic:"Describe a time communication went wrong."},
+  {key:"2026-06-17",label:"06/17",wd:"Wed",month:"June",week:14,theme:"Communication Styles",type:"Speak",topic:"How do you give feedback to others?"},
+  {key:"2026-06-18",label:"06/18",wd:"Thu",month:"June",week:14,theme:"Communication Styles",type:"Speak",topic:"How do you handle a difficult conversation?"},
+  {key:"2026-06-19",label:"06/19",wd:"Fri",month:"June",week:14,theme:"Communication Styles",type:"Speak",topic:"What makes someone a good communicator?"},
+  {key:"2026-06-20",label:"06/20",wd:"Sat",month:"June",week:14,theme:"Communication Styles",type:"Listen",topic:"How We Talk: Different Ways of Communicating"},
+  {key:"2026-06-21",label:"06/21",wd:"Sun",month:"June",week:14,theme:"Communication Styles",type:"Review",topic:"Review: Communication Styles"},
+  {key:"2026-06-22",label:"06/22",wd:"Mon",month:"June",week:15,theme:"Helping Others",type:"Speak",topic:"Describe a time you helped someone."},
+  {key:"2026-06-23",label:"06/23",wd:"Tue",month:"June",week:15,theme:"Helping Others",type:"Speak",topic:"How do you support friends going through hard times?"},
+  {key:"2026-06-24",label:"06/24",wd:"Wed",month:"June",week:15,theme:"Helping Others",type:"Speak",topic:"What\'s the most helpful thing someone has done for you?"},
+  {key:"2026-06-25",label:"06/25",wd:"Thu",month:"June",week:15,theme:"Helping Others",type:"Speak",topic:"How do you ask for help when you need it?"},
+  {key:"2026-06-26",label:"06/26",wd:"Fri",month:"June",week:15,theme:"Helping Others",type:"Speak",topic:"Why is it sometimes hard to accept help?"},
+  {key:"2026-06-27",label:"06/27",wd:"Sat",month:"June",week:15,theme:"Helping Others",type:"Listen",topic:"Lending a Hand: Acts of Kindness and Support"},
+  {key:"2026-06-28",label:"06/28",wd:"Sun",month:"June",week:15,theme:"Helping Others",type:"Review",topic:"Review: Helping Others"},
+  {key:"2026-06-29",label:"06/29",wd:"Mon",month:"June",week:16,theme:"Conflict & Resolution",type:"Speak",topic:"Describe a conflict you\'ve had and how it was resolved."},
+  {key:"2026-06-30",label:"06/30",wd:"Tue",month:"June",week:16,theme:"Conflict & Resolution",type:"Speak",topic:"How do you handle anger?"},
+  {key:"2026-07-01",label:"07/01",wd:"Wed",month:"July",week:16,theme:"Conflict & Resolution",type:"Speak",topic:"What\'s your approach when you disagree with someone?"},
+  {key:"2026-07-02",label:"07/02",wd:"Thu",month:"July",week:16,theme:"Conflict & Resolution",type:"Speak",topic:"Describe a time you had to apologize."},
+  {key:"2026-07-03",label:"07/03",wd:"Fri",month:"July",week:16,theme:"Conflict & Resolution",type:"Speak",topic:"What does a healthy argument look like to you?"},
+  {key:"2026-07-04",label:"07/04",wd:"Sat",month:"July",week:16,theme:"Conflict & Resolution",type:"Listen",topic:"Working It Out: How We Handle Disagreements"},
+  {key:"2026-07-05",label:"07/05",wd:"Sun",month:"July",week:16,theme:"Conflict & Resolution",type:"Review",topic:"Review: Conflict & Resolution"},
+  {key:"2026-07-06",label:"07/06",wd:"Mon",month:"July",week:17,theme:"Your Job & Role",type:"Speak",topic:"Explain your job in simple terms."},
+  {key:"2026-07-07",label:"07/07",wd:"Tue",month:"July",week:17,theme:"Your Job & Role",type:"Speak",topic:"What does a typical workday look like?"},
+  {key:"2026-07-08",label:"07/08",wd:"Wed",month:"July",week:17,theme:"Your Job & Role",type:"Speak",topic:"What do you enjoy most about your work?"},
+  {key:"2026-07-09",label:"07/09",wd:"Thu",month:"July",week:17,theme:"Your Job & Role",type:"Speak",topic:"What\'s the hardest part of your job?"},
+  {key:"2026-07-10",label:"07/10",wd:"Fri",month:"July",week:17,theme:"Your Job & Role",type:"Speak",topic:"How did you end up in your current role?"},
+  {key:"2026-07-11",label:"07/11",wd:"Sat",month:"July",week:17,theme:"Your Job & Role",type:"Listen",topic:"What I Do: Explaining Your Job to Anyone"},
+  {key:"2026-07-12",label:"07/12",wd:"Sun",month:"July",week:17,theme:"Your Job & Role",type:"Review",topic:"Review: Your Job & Role"},
+  {key:"2026-07-13",label:"07/13",wd:"Mon",month:"July",week:18,theme:"Meetings & Discussions",type:"Speak",topic:"Describe a meeting you had recently."},
+  {key:"2026-07-14",label:"07/14",wd:"Tue",month:"July",week:18,theme:"Meetings & Discussions",type:"Speak",topic:"What makes a meeting productive?"},
+  {key:"2026-07-15",label:"07/15",wd:"Wed",month:"July",week:18,theme:"Meetings & Discussions",type:"Speak",topic:"How do you prepare for an important meeting?"},
+  {key:"2026-07-16",label:"07/16",wd:"Thu",month:"July",week:18,theme:"Meetings & Discussions",type:"Speak",topic:"Describe a time a meeting didn\'t go well."},
+  {key:"2026-07-17",label:"07/17",wd:"Fri",month:"July",week:18,theme:"Meetings & Discussions",type:"Speak",topic:"How do you contribute in group discussions?"},
+  {key:"2026-07-18",label:"07/18",wd:"Sat",month:"July",week:18,theme:"Meetings & Discussions",type:"Listen",topic:"Let\'s Meet: Navigating Work Meetings"},
+  {key:"2026-07-19",label:"07/19",wd:"Sun",month:"July",week:18,theme:"Meetings & Discussions",type:"Review",topic:"Review: Meetings & Discussions"},
+  {key:"2026-07-20",label:"07/20",wd:"Mon",month:"July",week:19,theme:"Deadlines & Pressure",type:"Speak",topic:"How do you handle tight deadlines?"},
+  {key:"2026-07-21",label:"07/21",wd:"Tue",month:"July",week:19,theme:"Deadlines & Pressure",type:"Speak",topic:"Describe a stressful work situation and how you managed it."},
+  {key:"2026-07-22",label:"07/22",wd:"Wed",month:"July",week:19,theme:"Deadlines & Pressure",type:"Speak",topic:"What do you do when you feel overwhelmed?"},
+  {key:"2026-07-23",label:"07/23",wd:"Thu",month:"July",week:19,theme:"Deadlines & Pressure",type:"Speak",topic:"How do you prioritize when everything feels urgent?"},
+  {key:"2026-07-24",label:"07/24",wd:"Fri",month:"July",week:19,theme:"Deadlines & Pressure",type:"Speak",topic:"What helps you stay calm under pressure?"},
+  {key:"2026-07-25",label:"07/25",wd:"Sat",month:"July",week:19,theme:"Deadlines & Pressure",type:"Listen",topic:"Under Pressure: Managing Stress at Work"},
+  {key:"2026-07-26",label:"07/26",wd:"Sun",month:"July",week:19,theme:"Deadlines & Pressure",type:"Review",topic:"Review: Deadlines & Pressure"},
+  {key:"2026-07-27",label:"07/27",wd:"Mon",month:"July",week:20,theme:"Problem Solving",type:"Speak",topic:"Describe a problem you solved recently."},
+  {key:"2026-07-28",label:"07/28",wd:"Tue",month:"July",week:20,theme:"Problem Solving",type:"Speak",topic:"What\'s your approach to solving difficult problems?"},
+  {key:"2026-07-29",label:"07/29",wd:"Wed",month:"July",week:20,theme:"Problem Solving",type:"Speak",topic:"Describe a time your first solution didn\'t work."},
+  {key:"2026-07-30",label:"07/30",wd:"Thu",month:"July",week:20,theme:"Problem Solving",type:"Speak",topic:"How do you decide between multiple options?"},
+  {key:"2026-07-31",label:"07/31",wd:"Fri",month:"July",week:20,theme:"Problem Solving",type:"Speak",topic:"What\'s a skill that helps you solve problems better?"},
+  {key:"2026-08-01",label:"08/01",wd:"Sat",month:"August",week:20,theme:"Problem Solving",type:"Listen",topic:"Figuring It Out: How We Tackle Problems"},
+  {key:"2026-08-02",label:"08/02",wd:"Sun",month:"August",week:20,theme:"Problem Solving",type:"Review",topic:"Review: Problem Solving"},
+  {key:"2026-08-03",label:"08/03",wd:"Mon",month:"August",week:21,theme:"Career Goals",type:"Speak",topic:"Where do you see yourself in five years?"},
+  {key:"2026-08-04",label:"08/04",wd:"Tue",month:"August",week:21,theme:"Career Goals",type:"Speak",topic:"What\'s a skill you want to develop this year?"},
+  {key:"2026-08-05",label:"08/05",wd:"Wed",month:"August",week:21,theme:"Career Goals",type:"Speak",topic:"Describe your ideal job."},
+  {key:"2026-08-06",label:"08/06",wd:"Thu",month:"August",week:21,theme:"Career Goals",type:"Speak",topic:"What motivates you to keep improving?"},
+  {key:"2026-08-07",label:"08/07",wd:"Fri",month:"August",week:21,theme:"Career Goals",type:"Speak",topic:"What\'s one career goal you\'re working toward right now?"},
+  {key:"2026-08-08",label:"08/08",wd:"Sat",month:"August",week:21,theme:"Career Goals",type:"Listen",topic:"Where I\'m Headed: Talking About Career Ambitions"},
+  {key:"2026-08-09",label:"08/09",wd:"Sun",month:"August",week:21,theme:"Career Goals",type:"Review",topic:"Review: Career Goals"},
+  {key:"2026-08-10",label:"08/10",wd:"Mon",month:"August",week:22,theme:"Learning & Growth",type:"Speak",topic:"How do you learn best?"},
+  {key:"2026-08-11",label:"08/11",wd:"Tue",month:"August",week:22,theme:"Learning & Growth",type:"Speak",topic:"Describe something difficult you taught yourself."},
+  {key:"2026-08-12",label:"08/12",wd:"Wed",month:"August",week:22,theme:"Learning & Growth",type:"Speak",topic:"What\'s something you\'ve recently learned?"},
+  {key:"2026-08-13",label:"08/13",wd:"Thu",month:"August",week:22,theme:"Learning & Growth",type:"Speak",topic:"How do you stay motivated when learning is hard?"},
+  {key:"2026-08-14",label:"08/14",wd:"Fri",month:"August",week:22,theme:"Learning & Growth",type:"Speak",topic:"What subject or skill do you wish you\'d started learning earlier?"},
+  {key:"2026-08-15",label:"08/15",wd:"Sat",month:"August",week:22,theme:"Learning & Growth",type:"Listen",topic:"Always Learning: How We Grow and Improve"},
+  {key:"2026-08-16",label:"08/16",wd:"Sun",month:"August",week:22,theme:"Learning & Growth",type:"Review",topic:"Review: Learning & Growth"},
+  {key:"2026-08-17",label:"08/17",wd:"Mon",month:"August",week:23,theme:"Success & Failure",type:"Speak",topic:"Describe a success you\'re proud of."},
+  {key:"2026-08-18",label:"08/18",wd:"Tue",month:"August",week:23,theme:"Success & Failure",type:"Speak",topic:"Describe a failure and what you learned from it."},
+  {key:"2026-08-19",label:"08/19",wd:"Wed",month:"August",week:23,theme:"Success & Failure",type:"Speak",topic:"How do you define success?"},
+  {key:"2026-08-20",label:"08/20",wd:"Thu",month:"August",week:23,theme:"Success & Failure",type:"Speak",topic:"How do you handle criticism?"},
+  {key:"2026-08-21",label:"08/21",wd:"Fri",month:"August",week:23,theme:"Success & Failure",type:"Speak",topic:"What does resilience mean to you?"},
+  {key:"2026-08-22",label:"08/22",wd:"Sat",month:"August",week:23,theme:"Success & Failure",type:"Listen",topic:"Wins and Losses: What We Learn From Both"},
+  {key:"2026-08-23",label:"08/23",wd:"Sun",month:"August",week:23,theme:"Success & Failure",type:"Review",topic:"Review: Success & Failure"},
+  {key:"2026-08-24",label:"08/24",wd:"Mon",month:"August",week:24,theme:"Work-Life Balance",type:"Speak",topic:"How do you separate work life from personal life?"},
+  {key:"2026-08-25",label:"08/25",wd:"Tue",month:"August",week:24,theme:"Work-Life Balance",type:"Speak",topic:"What do you do to recharge after a hard week?"},
+  {key:"2026-08-26",label:"08/26",wd:"Wed",month:"August",week:24,theme:"Work-Life Balance",type:"Speak",topic:"Do you think you have a good work-life balance?"},
+  {key:"2026-08-27",label:"08/27",wd:"Thu",month:"August",week:24,theme:"Work-Life Balance",type:"Speak",topic:"What boundaries do you set around work?"},
+  {key:"2026-08-28",label:"08/28",wd:"Fri",month:"August",week:24,theme:"Work-Life Balance",type:"Speak",topic:"What would a perfectly balanced week look like for you?"},
+  {key:"2026-08-29",label:"08/29",wd:"Sat",month:"August",week:24,theme:"Work-Life Balance",type:"Listen",topic:"On and Off: Finding Balance Between Work and Rest"},
+  {key:"2026-08-30",label:"08/30",wd:"Sun",month:"August",week:24,theme:"Work-Life Balance",type:"Review",topic:"Review: Work-Life Balance"},
+  {key:"2026-08-31",label:"08/31",wd:"Mon",month:"August",week:25,theme:"Travel",type:"Speak",topic:"Describe a place you\'ve visited that left an impression."},
+  {key:"2026-09-01",label:"09/01",wd:"Tue",month:"September",week:25,theme:"Travel",type:"Speak",topic:"What\'s your travel style?"},
+  {key:"2026-09-02",label:"09/02",wd:"Wed",month:"September",week:25,theme:"Travel",type:"Speak",topic:"How do you prepare for a trip?"},
+  {key:"2026-09-03",label:"09/03",wd:"Thu",month:"September",week:25,theme:"Travel",type:"Speak",topic:"Describe a travel experience that didn\'t go as planned."},
+  {key:"2026-09-04",label:"09/04",wd:"Fri",month:"September",week:25,theme:"Travel",type:"Speak",topic:"Where would you go if you could travel anywhere?"},
+  {key:"2026-09-05",label:"09/05",wd:"Sat",month:"September",week:25,theme:"Travel",type:"Listen",topic:"Going Places: Travel Experiences and Dreams"},
+  {key:"2026-09-06",label:"09/06",wd:"Sun",month:"September",week:25,theme:"Travel",type:"Review",topic:"Review: Travel"},
+  {key:"2026-09-07",label:"09/07",wd:"Mon",month:"September",week:26,theme:"Photography & Visual Art",type:"Speak",topic:"How did you get into photography?"},
+  {key:"2026-09-08",label:"09/08",wd:"Tue",month:"September",week:26,theme:"Photography & Visual Art",type:"Speak",topic:"What do you like to photograph?"},
+  {key:"2026-09-09",label:"09/09",wd:"Wed",month:"September",week:26,theme:"Photography & Visual Art",type:"Speak",topic:"Describe a photo you\'re proud of."},
+  {key:"2026-09-10",label:"09/10",wd:"Thu",month:"September",week:26,theme:"Photography & Visual Art",type:"Speak",topic:"How has photography changed how you see the world?"},
+  {key:"2026-09-11",label:"09/11",wd:"Fri",month:"September",week:26,theme:"Photography & Visual Art",type:"Speak",topic:"What\'s the difference between a good photo and a great one?"},
+  {key:"2026-09-12",label:"09/12",wd:"Sat",month:"September",week:26,theme:"Photography & Visual Art",type:"Listen",topic:"Capturing the World: Photography as a Hobby"},
+  {key:"2026-09-13",label:"09/13",wd:"Sun",month:"September",week:26,theme:"Photography & Visual Art",type:"Review",topic:"Review: Photography & Visual Art"},
+  {key:"2026-09-14",label:"09/14",wd:"Mon",month:"September",week:27,theme:"Music & Podcasts",type:"Speak",topic:"What music do you listen to and when?"},
+  {key:"2026-09-15",label:"09/15",wd:"Tue",month:"September",week:27,theme:"Music & Podcasts",type:"Speak",topic:"Describe a song that means something to you."},
+  {key:"2026-09-16",label:"09/16",wd:"Wed",month:"September",week:27,theme:"Music & Podcasts",type:"Speak",topic:"What podcasts or audio content do you enjoy?"},
+  {key:"2026-09-17",label:"09/17",wd:"Thu",month:"September",week:27,theme:"Music & Podcasts",type:"Speak",topic:"How does music affect your mood?"},
+  {key:"2026-09-18",label:"09/18",wd:"Fri",month:"September",week:27,theme:"Music & Podcasts",type:"Speak",topic:"Could you live without music? Why or why not?"},
+  {key:"2026-09-19",label:"09/19",wd:"Sat",month:"September",week:27,theme:"Music & Podcasts",type:"Listen",topic:"Soundtrack of Life: How Music and Audio Shape Our Days"},
+  {key:"2026-09-20",label:"09/20",wd:"Sun",month:"September",week:27,theme:"Music & Podcasts",type:"Review",topic:"Review: Music & Podcasts"},
+  {key:"2026-09-21",label:"09/21",wd:"Mon",month:"September",week:28,theme:"Reading & Writing",type:"Speak",topic:"Do you enjoy reading? What do you read?"},
+  {key:"2026-09-22",label:"09/22",wd:"Tue",month:"September",week:28,theme:"Reading & Writing",type:"Speak",topic:"Describe a book that influenced you."},
+  {key:"2026-09-23",label:"09/23",wd:"Wed",month:"September",week:28,theme:"Reading & Writing",type:"Speak",topic:"Do you write? What do you write about?"},
+  {key:"2026-09-24",label:"09/24",wd:"Thu",month:"September",week:28,theme:"Reading & Writing",type:"Speak",topic:"How has reading changed your thinking?"},
+  {key:"2026-09-25",label:"09/25",wd:"Fri",month:"September",week:28,theme:"Reading & Writing",type:"Speak",topic:"What\'s the difference between reading for work and reading for pleasure?"},
+  {key:"2026-09-26",label:"09/26",wd:"Sat",month:"September",week:28,theme:"Reading & Writing",type:"Listen",topic:"Words on Pages: The Joy of Reading and Writing"},
+  {key:"2026-09-27",label:"09/27",wd:"Sun",month:"September",week:28,theme:"Reading & Writing",type:"Review",topic:"Review: Reading & Writing"},
+  {key:"2026-09-28",label:"09/28",wd:"Mon",month:"September",week:29,theme:"Pets & Animals",type:"Speak",topic:"Describe your pet or an animal you love."},
+  {key:"2026-09-29",label:"09/29",wd:"Tue",month:"September",week:29,theme:"Pets & Animals",type:"Speak",topic:"How has having a pet changed your life?"},
+  {key:"2026-09-30",label:"09/30",wd:"Wed",month:"September",week:29,theme:"Pets & Animals",type:"Speak",topic:"What\'s the funniest or strangest thing your pet has done?"},
+  {key:"2026-10-01",label:"10/01",wd:"Thu",month:"October",week:29,theme:"Pets & Animals",type:"Speak",topic:"What do pets teach us about responsibility?"},
+  {key:"2026-10-02",label:"10/02",wd:"Fri",month:"October",week:29,theme:"Pets & Animals",type:"Speak",topic:"Would you recommend having a pet? Why or why not?"},
+  {key:"2026-10-03",label:"10/03",wd:"Sat",month:"October",week:29,theme:"Pets & Animals",type:"Listen",topic:"Animal Companions: Life With Pets"},
+  {key:"2026-10-04",label:"10/04",wd:"Sun",month:"October",week:29,theme:"Pets & Animals",type:"Review",topic:"Review: Pets & Animals"},
+  {key:"2026-10-05",label:"10/05",wd:"Mon",month:"October",week:30,theme:"Hobbies & Collections",type:"Speak",topic:"Describe a hobby you\'re passionate about."},
+  {key:"2026-10-06",label:"10/06",wd:"Tue",month:"October",week:30,theme:"Hobbies & Collections",type:"Speak",topic:"How did you discover your current hobby?"},
+  {key:"2026-10-07",label:"10/07",wd:"Wed",month:"October",week:30,theme:"Hobbies & Collections",type:"Speak",topic:"What do you collect or accumulate?"},
+  {key:"2026-10-08",label:"10/08",wd:"Thu",month:"October",week:30,theme:"Hobbies & Collections",type:"Speak",topic:"How does your hobby affect your daily life?"},
+  {key:"2026-10-09",label:"10/09",wd:"Fri",month:"October",week:30,theme:"Hobbies & Collections",type:"Speak",topic:"What would you tell someone who wants to start your hobby?"},
+  {key:"2026-10-10",label:"10/10",wd:"Sat",month:"October",week:30,theme:"Hobbies & Collections",type:"Listen",topic:"Side Passions: Hobbies That Define Us"},
+  {key:"2026-10-11",label:"10/11",wd:"Sun",month:"October",week:30,theme:"Hobbies & Collections",type:"Review",topic:"Review: Hobbies & Collections"},
+  {key:"2026-10-12",label:"10/12",wd:"Mon",month:"October",week:31,theme:"Nature & Outdoors",type:"Speak",topic:"How often do you spend time in nature?"},
+  {key:"2026-10-13",label:"10/13",wd:"Tue",month:"October",week:31,theme:"Nature & Outdoors",type:"Speak",topic:"Describe a place in nature you love."},
+  {key:"2026-10-14",label:"10/14",wd:"Wed",month:"October",week:31,theme:"Nature & Outdoors",type:"Speak",topic:"How does being outdoors make you feel?"},
+  {key:"2026-10-15",label:"10/15",wd:"Thu",month:"October",week:31,theme:"Nature & Outdoors",type:"Speak",topic:"Describe an outdoor activity you enjoy."},
+  {key:"2026-10-16",label:"10/16",wd:"Fri",month:"October",week:31,theme:"Nature & Outdoors",type:"Speak",topic:"Why do you think people need nature?"},
+  {key:"2026-10-17",label:"10/17",wd:"Sat",month:"October",week:31,theme:"Nature & Outdoors",type:"Listen",topic:"Getting Outside: Nature, Hiking, and the Outdoors"},
+  {key:"2026-10-18",label:"10/18",wd:"Sun",month:"October",week:31,theme:"Nature & Outdoors",type:"Review",topic:"Review: Nature & Outdoors"},
+  {key:"2026-10-19",label:"10/19",wd:"Mon",month:"October",week:32,theme:"Sports & Fitness",type:"Speak",topic:"What physical activities do you do?"},
+  {key:"2026-10-20",label:"10/20",wd:"Tue",month:"October",week:32,theme:"Sports & Fitness",type:"Speak",topic:"Describe a sport you play or follow."},
+  {key:"2026-10-21",label:"10/21",wd:"Wed",month:"October",week:32,theme:"Sports & Fitness",type:"Speak",topic:"How do you motivate yourself to exercise?"},
+  {key:"2026-10-22",label:"10/22",wd:"Thu",month:"October",week:32,theme:"Sports & Fitness",type:"Speak",topic:"Describe a physical challenge you overcame."},
+  {key:"2026-10-23",label:"10/23",wd:"Fri",month:"October",week:32,theme:"Sports & Fitness",type:"Speak",topic:"What\'s the mental benefit of physical activity?"},
+  {key:"2026-10-24",label:"10/24",wd:"Sat",month:"October",week:32,theme:"Sports & Fitness",type:"Listen",topic:"Moving Your Body: Sports, Exercise, and Physical Goals"},
+  {key:"2026-10-25",label:"10/25",wd:"Sun",month:"October",week:32,theme:"Sports & Fitness",type:"Review",topic:"Review: Sports & Fitness"},
+  {key:"2026-10-26",label:"10/26",wd:"Mon",month:"October",week:33,theme:"Technology & Everyday Life",type:"Speak",topic:"How does technology affect your daily life?"},
+  {key:"2026-10-27",label:"10/27",wd:"Tue",month:"October",week:33,theme:"Technology & Everyday Life",type:"Speak",topic:"What\'s a piece of technology you can\'t live without?"},
+  {key:"2026-10-28",label:"10/28",wd:"Wed",month:"October",week:33,theme:"Technology & Everyday Life",type:"Speak",topic:"What\'s a downside of technology you\'ve noticed?"},
+  {key:"2026-10-29",label:"10/29",wd:"Thu",month:"October",week:33,theme:"Technology & Everyday Life",type:"Speak",topic:"How has technology changed the way you work?"},
+  {key:"2026-10-30",label:"10/30",wd:"Fri",month:"October",week:33,theme:"Technology & Everyday Life",type:"Speak",topic:"Do you think we rely too much on technology?"},
+  {key:"2026-10-31",label:"10/31",wd:"Sat",month:"October",week:33,theme:"Technology & Everyday Life",type:"Listen",topic:"Tech in Our Lives: How Devices Shape Our World"},
+  {key:"2026-11-01",label:"11/01",wd:"Sun",month:"November",week:33,theme:"Technology & Everyday Life",type:"Review",topic:"Review: Technology & Everyday Life"},
+  {key:"2026-11-02",label:"11/02",wd:"Mon",month:"November",week:34,theme:"Artificial Intelligence",type:"Speak",topic:"What do you know about AI?"},
+  {key:"2026-11-03",label:"11/03",wd:"Tue",month:"November",week:34,theme:"Artificial Intelligence",type:"Speak",topic:"How do you use AI in your work or life?"},
+  {key:"2026-11-04",label:"11/04",wd:"Wed",month:"November",week:34,theme:"Artificial Intelligence",type:"Speak",topic:"What excites you about AI?"},
+  {key:"2026-11-05",label:"11/05",wd:"Thu",month:"November",week:34,theme:"Artificial Intelligence",type:"Speak",topic:"What concerns you about AI?"},
+  {key:"2026-11-06",label:"11/06",wd:"Fri",month:"November",week:34,theme:"Artificial Intelligence",type:"Speak",topic:"How do you think AI will change your industry in five years?"},
+  {key:"2026-11-07",label:"11/07",wd:"Sat",month:"November",week:34,theme:"Artificial Intelligence",type:"Listen",topic:"The AI Age: Understanding and Living With AI"},
+  {key:"2026-11-08",label:"11/08",wd:"Sun",month:"November",week:34,theme:"Artificial Intelligence",type:"Review",topic:"Review: Artificial Intelligence"},
+  {key:"2026-11-09",label:"11/09",wd:"Mon",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Speak",topic:"How do you take care of your mental health?"},
+  {key:"2026-11-10",label:"11/10",wd:"Tue",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Speak",topic:"Describe a time you felt burned out."},
+  {key:"2026-11-11",label:"11/11",wd:"Wed",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Speak",topic:"What helps you manage anxiety or stress?"},
+  {key:"2026-11-12",label:"11/12",wd:"Thu",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Speak",topic:"How comfortable are you talking about emotions?"},
+  {key:"2026-11-13",label:"11/13",wd:"Fri",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Speak",topic:"What does good mental health look like to you?"},
+  {key:"2026-11-14",label:"11/14",wd:"Sat",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Listen",topic:"Mind Matters: Mental Health and Emotional Wellness"},
+  {key:"2026-11-15",label:"11/15",wd:"Sun",month:"November",week:35,theme:"Health & Mental Wellbeing",type:"Review",topic:"Review: Health & Mental Wellbeing"},
+  {key:"2026-11-16",label:"11/16",wd:"Mon",month:"November",week:36,theme:"Environment & Sustainability",type:"Speak",topic:"How do you think about your environmental impact?"},
+  {key:"2026-11-17",label:"11/17",wd:"Tue",month:"November",week:36,theme:"Environment & Sustainability",type:"Speak",topic:"What habits do you have that are eco-friendly?"},
+  {key:"2026-11-18",label:"11/18",wd:"Wed",month:"November",week:36,theme:"Environment & Sustainability",type:"Speak",topic:"Describe a change you\'ve made for the environment."},
+  {key:"2026-11-19",label:"11/19",wd:"Thu",month:"November",week:36,theme:"Environment & Sustainability",type:"Speak",topic:"How do you feel about climate change?"},
+  {key:"2026-11-20",label:"11/20",wd:"Fri",month:"November",week:36,theme:"Environment & Sustainability",type:"Speak",topic:"What could individuals do better for the planet?"},
+  {key:"2026-11-21",label:"11/21",wd:"Sat",month:"November",week:36,theme:"Environment & Sustainability",type:"Listen",topic:"Our Planet: Talking About Climate and Responsibility"},
+  {key:"2026-11-22",label:"11/22",wd:"Sun",month:"November",week:36,theme:"Environment & Sustainability",type:"Review",topic:"Review: Environment & Sustainability"},
+  {key:"2026-11-23",label:"11/23",wd:"Mon",month:"November",week:37,theme:"Money & Financial Goals",type:"Speak",topic:"How do you manage your money?"},
+  {key:"2026-11-24",label:"11/24",wd:"Tue",month:"November",week:37,theme:"Money & Financial Goals",type:"Speak",topic:"What\'s your approach to saving?"},
+  {key:"2026-11-25",label:"11/25",wd:"Wed",month:"November",week:37,theme:"Money & Financial Goals",type:"Speak",topic:"Describe a financial goal you have."},
+  {key:"2026-11-26",label:"11/26",wd:"Thu",month:"November",week:37,theme:"Money & Financial Goals",type:"Speak",topic:"What did you learn about money growing up?"},
+  {key:"2026-11-27",label:"11/27",wd:"Fri",month:"November",week:37,theme:"Money & Financial Goals",type:"Speak",topic:"How do you think about spending versus saving?"},
+  {key:"2026-11-28",label:"11/28",wd:"Sat",month:"November",week:37,theme:"Money & Financial Goals",type:"Listen",topic:"Talking Money: Financial Habits and Goals"},
+  {key:"2026-11-29",label:"11/29",wd:"Sun",month:"November",week:37,theme:"Money & Financial Goals",type:"Review",topic:"Review: Money & Financial Goals"},
+  {key:"2026-11-30",label:"11/30",wd:"Mon",month:"November",week:38,theme:"Change & Transitions",type:"Speak",topic:"Describe a major change in your life."},
+  {key:"2026-12-01",label:"12/01",wd:"Tue",month:"December",week:38,theme:"Change & Transitions",type:"Speak",topic:"How do you adapt to new situations?"},
+  {key:"2026-12-02",label:"12/02",wd:"Wed",month:"December",week:38,theme:"Change & Transitions",type:"Speak",topic:"What\'s the hardest change you\'ve experienced?"},
+  {key:"2026-12-03",label:"12/03",wd:"Thu",month:"December",week:38,theme:"Change & Transitions",type:"Speak",topic:"How do you feel about uncertainty?"},
+  {key:"2026-12-04",label:"12/04",wd:"Fri",month:"December",week:38,theme:"Change & Transitions",type:"Speak",topic:"What\'s something you\'re currently transitioning through?"},
+  {key:"2026-12-05",label:"12/05",wd:"Sat",month:"December",week:38,theme:"Change & Transitions",type:"Listen",topic:"Life Changes: Navigating Transitions and New Chapters"},
+  {key:"2026-12-06",label:"12/06",wd:"Sun",month:"December",week:38,theme:"Change & Transitions",type:"Review",topic:"Review: Change & Transitions"},
+  {key:"2026-12-07",label:"12/07",wd:"Mon",month:"December",week:39,theme:"Values & Beliefs",type:"Speak",topic:"What values are most important to you?"},
+  {key:"2026-12-08",label:"12/08",wd:"Tue",month:"December",week:39,theme:"Values & Beliefs",type:"Speak",topic:"Describe a belief you hold strongly."},
+  {key:"2026-12-09",label:"12/09",wd:"Wed",month:"December",week:39,theme:"Values & Beliefs",type:"Speak",topic:"Has your worldview changed significantly? How?"},
+  {key:"2026-12-10",label:"12/10",wd:"Thu",month:"December",week:39,theme:"Values & Beliefs",type:"Speak",topic:"What\'s something you used to believe but no longer do?"},
+  {key:"2026-12-11",label:"12/11",wd:"Fri",month:"December",week:39,theme:"Values & Beliefs",type:"Speak",topic:"How do your values influence your decisions?"},
+  {key:"2026-12-12",label:"12/12",wd:"Sat",month:"December",week:39,theme:"Values & Beliefs",type:"Listen",topic:"What I Stand For: Personal Values and Principles"},
+  {key:"2026-12-13",label:"12/13",wd:"Sun",month:"December",week:39,theme:"Values & Beliefs",type:"Review",topic:"Review: Values & Beliefs"},
+  {key:"2026-12-14",label:"12/14",wd:"Mon",month:"December",week:40,theme:"The Future",type:"Speak",topic:"Where do you hope to be in ten years?"},
+  {key:"2026-12-15",label:"12/15",wd:"Tue",month:"December",week:40,theme:"The Future",type:"Speak",topic:"What are you most excited about for the future?"},
+  {key:"2026-12-16",label:"12/16",wd:"Wed",month:"December",week:40,theme:"The Future",type:"Speak",topic:"What are you most worried about for the future?"},
+  {key:"2026-12-17",label:"12/17",wd:"Thu",month:"December",week:40,theme:"The Future",type:"Speak",topic:"What\'s one dream you haven\'t pursued yet?"},
+  {key:"2026-12-18",label:"12/18",wd:"Fri",month:"December",week:40,theme:"The Future",type:"Speak",topic:"How do you balance planning and living in the moment?"},
+  {key:"2026-12-19",label:"12/19",wd:"Sat",month:"December",week:40,theme:"The Future",type:"Listen",topic:"Looking Ahead: Dreams, Plans, and What Comes Next"},
+  {key:"2026-12-20",label:"12/20",wd:"Sun",month:"December",week:40,theme:"The Future",type:"Review",topic:"Review: The Future"},
+  {key:"2026-12-21",label:"12/21",wd:"Mon",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What\'s the most important thing you\'ve learned this year?"},
+  {key:"2026-12-22",label:"12/22",wd:"Tue",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What are you most proud of from this year?"},
+  {key:"2026-12-23",label:"12/23",wd:"Wed",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What would you tell yourself at the start of this year?"},
+  {key:"2026-12-24",label:"12/24",wd:"Thu",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What habit do you want to carry into next year?"},
+  {key:"2026-12-25",label:"12/25",wd:"Fri",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"How has your English improved? Describe the journey."},
+  {key:"2026-12-26",label:"12/26",wd:"Sat",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Listen",topic:"End of Year: Reflection and Intention"},
+  {key:"2026-12-27",label:"12/27",wd:"Sun",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Review",topic:"Review: Looking Back & Moving Forward"},
+  {key:"2026-12-28",label:"12/28",wd:"Mon",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What\'s the most important thing you\'ve learned this year?"},
+  {key:"2026-12-29",label:"12/29",wd:"Tue",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What are you most proud of from this year?"},
+  {key:"2026-12-30",label:"12/30",wd:"Wed",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What would you tell yourself at the start of this year?"},
+  {key:"2026-12-31",label:"12/31",wd:"Thu",month:"December",week:41,theme:"Looking Back & Moving Forward",type:"Speak",topic:"What habit do you want to carry into next year?"},
+];
+
+// ── Schedule state ──
+var schDone = {};
+var SCH_KEY = 'daily_english_sch_v2';
+
+function schLoad(){ try{ var s=localStorage.getItem(SCH_KEY); if(s) schDone=JSON.parse(s); }catch(e){} }
+function schSave(){ try{ localStorage.setItem(SCH_KEY, JSON.stringify(schDone)); }catch(e){} }
+
+function getTodayKey(){
+  var d=new Date();
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+}
+
+// ── Week curriculum data ──
+var CURRICULUM = [
+  {wn:1, theme:"Morning Routines", podcast:"A Day in the Life: Morning Habits", phase:"p1",
+   days:["Describe your morning routine step by step.","What's the first thing you do when you wake up?","Do you prefer a slow morning or a fast one? Why?","What do you eat or drink in the morning?","What would your ideal morning look like?"]},
+  {wn:2, theme:"Commuting", podcast:"Getting Around: Commute Stories", phase:"p1",
+   days:["How do you get to work or school?","What do you do during your commute?","Describe a memorable commute experience.","How does your commute affect your mood?","What's the best and worst part of commuting?"]},
+  {wn:3, theme:"Home & Living Space", podcast:"Where I Live: Describing Your Home", phase:"p1",
+   days:["Describe where you live.","What does your room or apartment look like?","What do you like most about your home?","If you could change one thing about your home, what would it be?","Describe your ideal living space."]},
+  {wn:4, theme:"Food & Eating Habits", podcast:"Let's Eat: Food Preferences and Habits", phase:"p1",
+   days:["What did you eat today? Describe your meals.","What's your favorite food and why?","Do you cook? Describe a dish you can make.","What foods do you dislike? Why?","Describe a memorable meal you've had."]},
+  {wn:5, theme:"Weather & Seasons", podcast:"The Weather Today: Talking About Climate", phase:"p1",
+   days:["Describe the weather where you live.","What's your favorite season and why?","How does weather affect your mood?","Describe a day with extreme weather.","How do you dress for different weather?"]},
+  {wn:6, theme:"Shopping & Money", podcast:"Spending Habits: How We Buy Things", phase:"p1",
+   days:["Describe your shopping habits.","What was the last thing you bought?","Do you prefer online or in-store shopping?","How do you decide if something is worth buying?","Describe something you've been saving up for."]},
+  {wn:7, theme:"Health & Body", podcast:"Taking Care of Yourself: Health Routines", phase:"p1",
+   days:["How do you take care of your health?","Describe your exercise habits.","What do you do when you feel sick?","How important is sleep to you?","What's one healthy habit you want to build?"]},
+  {wn:8, theme:"Daily Schedules", podcast:"My Week: Talking About Time and Schedules", phase:"p1",
+   days:["Walk me through a typical weekday.","How do you organize your time?","What's the busiest part of your week?","How do you wind down at the end of the day?","What's one thing you wish you had more time for?"]},
+  {wn:9, theme:"Friendship", podcast:"Good Friends: What Makes a Great Friendship", phase:"p2",
+   days:["Describe a close friend of yours.","How did you meet your best friend?","What do you and your friends do together?","What makes someone a good friend?","Describe a time a friend helped you."]},
+  {wn:10, theme:"Family", podcast:"Family Life: Talking About the People We Grew Up With", phase:"p2",
+   days:["Describe your family.","What's your relationship with your family like?","What's a family tradition you have?","How has your family influenced who you are?","Describe a happy family memory."]},
+  {wn:11, theme:"Colleagues & Teamwork", podcast:"Working Together: Office Relationships", phase:"p2",
+   days:["Describe your workplace or team.","What makes a good colleague?","Describe a time you worked well with others.","How do you handle disagreements at work?","What do you appreciate most about your coworkers?"]},
+  {wn:12, theme:"Social Situations", podcast:"Being Social: Navigating Gatherings and Events", phase:"p2",
+   days:["Describe a social event you attended recently.","Are you more introverted or extroverted?","How do you feel meeting new people?","Describe a time you felt out of place socially.","What's your idea of a perfect social gathering?"]},
+  {wn:13, theme:"Personality & Character", podcast:"Who Are You: Talking About Personality Types", phase:"p2",
+   days:["How would you describe your own personality?","What are your strongest traits?","What's one thing you'd like to change about yourself?","How has your personality changed over time?","Describe someone whose personality you admire."]},
+  {wn:14, theme:"Communication Styles", podcast:"How We Talk: Different Ways of Communicating", phase:"p2",
+   days:["How do you prefer to communicate — text, call, or face to face?","Describe a time communication went wrong.","How do you give feedback to others?","How do you handle a difficult conversation?","What makes someone a good communicator?"]},
+  {wn:15, theme:"Helping Others", podcast:"Lending a Hand: Acts of Kindness and Support", phase:"p2",
+   days:["Describe a time you helped someone.","How do you support friends going through hard times?","What's the most helpful thing someone has done for you?","How do you ask for help when you need it?","Why is it sometimes hard to accept help?"]},
+  {wn:16, theme:"Conflict & Resolution", podcast:"Working It Out: How We Handle Disagreements", phase:"p2",
+   days:["Describe a conflict you've had and how it was resolved.","How do you handle anger?","What's your approach when you disagree with someone?","Describe a time you had to apologize.","What does a healthy argument look like to you?"]},
+  {wn:17, theme:"Your Job & Role", podcast:"What I Do: Explaining Your Job to Anyone", phase:"p3",
+   days:["Explain your job in simple terms.","What does a typical workday look like?","What do you enjoy most about your work?","What's the hardest part of your job?","How did you end up in your current role?"]},
+  {wn:18, theme:"Meetings & Discussions", podcast:"Let's Meet: Navigating Work Meetings", phase:"p3",
+   days:["Describe a meeting you had recently.","What makes a meeting productive?","How do you prepare for an important meeting?","Describe a time a meeting didn't go well.","How do you contribute in group discussions?"]},
+  {wn:19, theme:"Deadlines & Pressure", podcast:"Under Pressure: Managing Stress at Work", phase:"p3",
+   days:["How do you handle tight deadlines?","Describe a stressful work situation and how you managed it.","What do you do when you feel overwhelmed?","How do you prioritize when everything feels urgent?","What helps you stay calm under pressure?"]},
+  {wn:20, theme:"Problem Solving", podcast:"Figuring It Out: How We Tackle Problems", phase:"p3",
+   days:["Describe a problem you solved recently.","What's your approach to solving difficult problems?","Describe a time your first solution didn't work.","How do you decide between multiple options?","What's a skill that helps you solve problems better?"]},
+  {wn:21, theme:"Career Goals", podcast:"Where I'm Headed: Talking About Career Ambitions", phase:"p3",
+   days:["Where do you see yourself in five years?","What's a skill you want to develop this year?","Describe your ideal job.","What motivates you to keep improving?","What's one career goal you're working toward right now?"]},
+  {wn:22, theme:"Learning & Growth", podcast:"Always Learning: How We Grow and Improve", phase:"p3",
+   days:["How do you learn best?","Describe something difficult you taught yourself.","What's something you've recently learned?","How do you stay motivated when learning is hard?","What subject or skill do you wish you'd started learning earlier?"]},
+  {wn:23, theme:"Success & Failure", podcast:"Wins and Losses: What We Learn From Both", phase:"p3",
+   days:["Describe a success you're proud of.","Describe a failure and what you learned from it.","How do you define success?","How do you handle criticism?","What does resilience mean to you?"]},
+  {wn:24, theme:"Work-Life Balance", podcast:"On and Off: Finding Balance Between Work and Rest", phase:"p3",
+   days:["How do you separate work life from personal life?","What do you do to recharge after a hard week?","Do you think you have a good work-life balance?","What boundaries do you set around work?","What would a perfectly balanced week look like for you?"]},
+  {wn:25, theme:"Travel", podcast:"Going Places: Travel Experiences and Dreams", phase:"p4",
+   days:["Describe a place you've visited that left an impression.","What's your travel style?","How do you prepare for a trip?","Describe a travel experience that didn't go as planned.","Where would you go if you could travel anywhere?"]},
+  {wn:26, theme:"Photography & Visual Art", podcast:"Capturing the World: Photography as a Hobby", phase:"p4",
+   days:["How did you get into photography?","What do you like to photograph?","Describe a photo you're proud of.","How has photography changed how you see the world?","What's the difference between a good photo and a great one?"]},
+  {wn:27, theme:"Music & Podcasts", podcast:"Soundtrack of Life: How Music and Audio Shape Our Days", phase:"p4",
+   days:["What music do you listen to and when?","Describe a song that means something to you.","What podcasts or audio content do you enjoy?","How does music affect your mood?","Could you live without music? Why or why not?"]},
+  {wn:28, theme:"Reading & Writing", podcast:"Words on Pages: The Joy of Reading and Writing", phase:"p4",
+   days:["Do you enjoy reading? What do you read?","Describe a book that influenced you.","Do you write? What do you write about?","How has reading changed your thinking?","What's the difference between reading for work and reading for pleasure?"]},
+  {wn:29, theme:"Pets & Animals", podcast:"Animal Companions: Life With Pets", phase:"p4",
+   days:["Describe your pet or an animal you love.","How has having a pet changed your life?","What's the funniest or strangest thing your pet has done?","What do pets teach us about responsibility?","Would you recommend having a pet? Why or why not?"]},
+  {wn:30, theme:"Hobbies & Collections", podcast:"Side Passions: Hobbies That Define Us", phase:"p4",
+   days:["Describe a hobby you're passionate about.","How did you discover your current hobby?","What do you collect or accumulate?","How does your hobby affect your daily life?","What would you tell someone who wants to start your hobby?"]},
+  {wn:31, theme:"Nature & Outdoors", podcast:"Getting Outside: Nature, Hiking, and the Outdoors", phase:"p4",
+   days:["How often do you spend time in nature?","Describe a place in nature you love.","How does being outdoors make you feel?","Describe an outdoor activity you enjoy.","Why do you think people need nature?"]},
+  {wn:32, theme:"Sports & Fitness", podcast:"Moving Your Body: Sports, Exercise, and Physical Goals", phase:"p4",
+   days:["What physical activities do you do?","Describe a sport you play or follow.","How do you motivate yourself to exercise?","Describe a physical challenge you overcame.","What's the mental benefit of physical activity?"]},
+  {wn:33, theme:"Technology & Everyday Life", podcast:"Tech in Our Lives: How Devices Shape Our World", phase:"p5",
+   days:["How does technology affect your daily life?","What's a piece of technology you can't live without?","What's a downside of technology you've noticed?","How has technology changed the way you work?","Do you think we rely too much on technology?"]},
+  {wn:34, theme:"Artificial Intelligence", podcast:"The AI Age: Understanding and Living With AI", phase:"p5",
+   days:["What do you know about AI?","How do you use AI in your work or life?","What excites you about AI?","What concerns you about AI?","How do you think AI will change your industry in five years?"]},
+  {wn:35, theme:"Health & Mental Wellbeing", podcast:"Mind Matters: Mental Health and Emotional Wellness", phase:"p5",
+   days:["How do you take care of your mental health?","Describe a time you felt burned out.","What helps you manage anxiety or stress?","How comfortable are you talking about emotions?","What does good mental health look like to you?"]},
+  {wn:36, theme:"Environment & Sustainability", podcast:"Our Planet: Talking About Climate and Responsibility", phase:"p5",
+   days:["How do you think about your environmental impact?","What habits do you have that are eco-friendly?","Describe a change you've made for the environment.","How do you feel about climate change?","What could individuals do better for the planet?"]},
+  {wn:37, theme:"Money & Financial Goals", podcast:"Talking Money: Financial Habits and Goals", phase:"p5",
+   days:["How do you manage your money?","What's your approach to saving?","Describe a financial goal you have.","What did you learn about money growing up?","How do you think about spending versus saving?"]},
+  {wn:38, theme:"Change & Transitions", podcast:"Life Changes: Navigating Transitions and New Chapters", phase:"p5",
+   days:["Describe a major change in your life.","How do you adapt to new situations?","What's the hardest change you've experienced?","How do you feel about uncertainty?","What's something you're currently transitioning through?"]},
+  {wn:39, theme:"Values & Beliefs", podcast:"What I Stand For: Personal Values and Principles", phase:"p5",
+   days:["What values are most important to you?","Describe a belief you hold strongly.","Has your worldview changed significantly? How?","What's something you used to believe but no longer do?","How do your values influence your decisions?"]},
+  {wn:40, theme:"The Future", podcast:"Looking Ahead: Dreams, Plans, and What Comes Next", phase:"p5",
+   days:["Where do you hope to be in ten years?","What are you most excited about for the future?","What are you most worried about for the future?","What's one dream you haven't pursued yet?","How do you balance planning and living in the moment?"]},
+  {wn:41, theme:"Looking Back & Moving Forward", podcast:"End of Year: Reflection and Intention", phase:"p5",
+   days:["What's the most important thing you've learned this year?","What are you most proud of from this year?","What would you tell yourself at the start of this year?","What habit do you want to carry into next year?","How has your English improved? Describe the journey."]}
+];
+
+// Map week number -> SCHEDULE days
+function getWeekDays(wn) {
+  return SCHEDULE.filter(function(d){ return d.week === wn; });
+}
+
+function initSchedule(){
+  schLoad();
+  renderScheduleWeeks();
+}
+
+function renderScheduleWeeks(){
+  var container = document.getElementById('scheduleWeeks');
+  if(!container) return;
+  container.innerHTML = '';
+  var todayKey = getTodayKey();
+
+  CURRICULUM.forEach(function(w){
+    var days = getWeekDays(w.wn);
+    var doneDays = days.filter(function(d){ return schDone[d.key]; }).length;
+    var totalDays = days.length;
+    var pct = totalDays > 0 ? Math.round(doneDays/totalDays*100) : 0;
+    var allDone = doneDays === totalDays && totalDays > 0;
+    var hasToday = days.some(function(d){ return d.key === todayKey; });
+    var isCurrentWeek = hasToday;
+
+    var block = document.createElement('div');
+    block.className = 'week-block' + (allDone ? ' all-done' : '') + (isCurrentWeek ? ' open' : '');
+    block.id = 'week-'+w.wn;
+
+    block.innerHTML =
+      '<div class="week-head">' +
+        '<div class="week-num '+w.phase+' '+(w.wn%2===0?'even':'odd')+'">W'+w.wn+'</div>' +
+        '<div class="week-title-wrap">' +
+          '<div class="week-theme">'+w.theme+'</div>' +
+        '</div>' +
+        '<div class="week-prog">' +
+          '<div class="week-prog-bar"><div class="week-prog-fill" style="width:'+pct+'%"></div></div>' +
+          '<div class="week-prog-label">'+doneDays+'/'+totalDays+'</div>' +
+        '</div>' +
+        '<div class="week-arrow">&#8250;</div>' +
+      '</div>' +
+      '<div class="week-days"></div>';
+
+    var head = block.querySelector('.week-head');
+    head.addEventListener('click', function(){
+      block.classList.toggle('open');
+    });
+
+    // Build day rows
+    var daysContainer = block.querySelector('.week-days');
+    var dayNames = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+    var dayTypes = ['Speak','Speak','Speak','Speak','Speak','Listen','Review'];
+    var dayTopics = w.days.concat([w.podcast, 'Review: '+w.theme]);
+
+    days.forEach(function(d, di){
+      var isDone = !!schDone[d.key];
+      var isToday = d.key === todayKey;
+      var isPast = d.key < todayKey;
+
+      // Speak topic: cycle through week's 5 topics by day index, wrap if needed
+      var speakTopic = w.days[di % w.days.length];
+
+      var row = document.createElement('div');
+      row.className = 'day-row' + (isDone?' done':'') + (isToday?' today':'') + (isPast&&!isDone?' past':'');
+
+      row.innerHTML =
+        '<div class="day-tag">' +
+          '<div class="dt-wd">'+d.wd+'</div>' +
+          '<div class="dt-date">'+d.label+'</div>' +
+        '</div>' +
+        '<div class="day-content">' +
+          '<div class="day-topic listen-topic"><span class="day-prefix-icon"><svg width="9" height="10" viewBox="0 0 11 12" fill="var(--clr-listen)"><polygon points="0,0 11,6 0,12"/></svg></span>'+w.podcast+'</div>' +
+          '<div class="day-topic speak-topic"><span class="day-prefix-icon"><svg width="10" height="10" viewBox="0 0 13 12" fill="none" stroke="var(--clr-speak)" stroke-width="1.5"><path d="M1 1h11v8H7l-3 3V9H1z"/></svg></span>'+speakTopic+'</div>' +
+          '<div class="day-topic read-topic-row"><span class="day-prefix-icon"><svg width="9" height="12" viewBox="0 0 11 14" fill="none" stroke="var(--clr-read)" stroke-width="1.5"><rect x="3" y="1" width="5" height="7" rx="2.5"/><path d="M1 7.5c0 2.5 1.8 4 4.5 4s4.5-1.5 4.5-4"/><line x1="5.5" y1="11.5" x2="5.5" y2="13"/></svg></span>Read aloud &mdash; '+w.theme+'</div>' +
+        '</div>' +
+        '<div class="day-check-col">' +
+          '<div class="day-check-box"><div class="day-check-mark">&#10003;</div></div>' +
+        '</div>';
+
+      row.addEventListener('click', function(e){
+        schDone[d.key] = !schDone[d.key];
+        schSave();
+        row.classList.toggle('done', !!schDone[d.key]);
+        row.querySelector('.day-check-box').style.background = schDone[d.key] ? 'var(--green)' : '';
+        row.querySelector('.day-check-box').style.borderColor = schDone[d.key] ? 'var(--green)' : '';
+        row.querySelector('.day-check-mark').style.display = schDone[d.key] ? 'block' : 'none';
+        updateWeekProgress(w.wn);
+        updateSchStats();
+        updateProgressBadge();
+      });
+      daysContainer.appendChild(row);
+    });
+
+    container.appendChild(block);
+  });
+
+  updateSchStats();
+  updateProgressBadge();
+
+  // Scroll to current week
+  setTimeout(function(){
+    var cur = document.getElementById('week-' + getCurrentWeekNum());
+    if(cur) cur.scrollIntoView({behavior:'smooth', block:'center'});
+  }, 150);
+}
+
+function getCurrentWeekNum(){
+  var todayKey = getTodayKey();
+  var match = SCHEDULE.find(function(d){ return d.key === todayKey; });
+  return match ? match.week : 1;
+}
+
+function updateWeekProgress(wn){
+  var block = document.getElementById('week-'+wn);
+  if(!block) return;
+  var days = getWeekDays(wn);
+  var done = days.filter(function(d){ return schDone[d.key]; }).length;
+  var total = days.length;
+  var pct = total > 0 ? Math.round(done/total*100) : 0;
+  var fill = block.querySelector('.week-prog-fill');
+  var label = block.querySelector('.week-prog-label');
+  if(fill) fill.style.width = pct+'%';
+  if(label) label.textContent = done+'/'+total;
+  block.classList.toggle('all-done', done === total && total > 0);
+}
+
+function updateSchStats(){
+  var done = Object.values(schDone).filter(Boolean).length;
+  var total = SCHEDULE.length;
+  var left = total - done;
+  var pct = total > 0 ? Math.round(done/total*100) : 0;
+  var d=document.getElementById('statDone'), l=document.getElementById('statLeft'), p=document.getElementById('statPct');
+  if(d) d.textContent = done;
+  if(l) l.textContent = left;
+  if(p) p.textContent = pct+'%';
+
+  // Current streak
+  var todayKey = getTodayKey();
+  var streak = 0;
+  for(var i=SCHEDULE.length-1; i>=0; i--){
+    if(SCHEDULE[i].key > todayKey) continue;
+    if(schDone[SCHEDULE[i].key]) streak++;
+    else break;
+  }
+  var sv = document.getElementById('streakVal');
+  if(sv) sv.textContent = streak;
+}
+
+function updateProgressBadge(){
+  var done = Object.values(schDone).filter(Boolean).length;
+  var badge = document.getElementById('progressBadge');
+  if(badge) badge.textContent = done > 0 ? done+'/288' : '';
+}
+
+function resetSchedule(){
+  schDone = {};
+  schSave();
+  renderScheduleWeeks();
+  updateSchStats();
+  updateProgressBadge();
+}
+
+
+function updateEpisodeHeader(){
+  var todayKey = getTodayKey();
+  var todayEntry = SCHEDULE.find(function(d){ return d.key === todayKey; });
+  var wn = todayEntry ? todayEntry.week : 1;
+  var curriculum = CURRICULUM.find(function(w){ return w.wn === wn; });
+  if(!curriculum) return;
+  var wEl = document.getElementById('epWeek');
+  var tEl = document.getElementById('epTheme');
+  var pEl = document.getElementById('epPodcast');
+  if(wEl) wEl.textContent = 'W' + wn;
+  if(tEl) tEl.textContent = curriculum.theme;
+  if(pEl) pEl.textContent = curriculum.podcast;
+}
+
+// ══════════════════════════════════════
+// SPEAK (READ ALOUD)
+// ══════════════════════════════════════
+
+// Article data - keyed by date 2026-MM-DD
+// Format: {topic, text (HTML paragraphs), vocab: [{w, d}]}
+var READ_ARTICLES = {
+  "2026-03-19": {
+    topic: "Technology",
+    title: "The Rise of Everyday AI",
+    text: "<p>Artificial intelligence is changing the way we work, communicate, and learn. In recent years, AI tools have moved out of research labs and into everyday life. From smart assistants on our phones to recommendation algorithms on streaming platforms, AI is quietly shaping the decisions we make every day.</p><p>One of the most significant changes has been in the workplace. Many companies are now using AI to automate repetitive tasks, analyze large amounts of data, and even assist with creative work. This has raised important questions about the future of certain jobs, but it has also created new opportunities for people who know how to work alongside these tools.</p><p>For language learners, AI offers exciting possibilities. Personalized study plans, instant feedback, and conversation practice with AI partners are already available. Experts believe that within the next decade, AI tutors could become as common as textbooks, helping millions of people around the world access high-quality education regardless of where they live.</p><p>However, not everyone agrees that AI is purely beneficial. Some researchers warn that over-reliance on AI tools can reduce critical thinking and genuine understanding. There is also the issue of bias — AI systems are trained on existing data, which may reflect historical inequalities or cultural assumptions that are not always appropriate for every user.</p><p>Despite these concerns, the pace of AI development shows no signs of slowing down. The key for individuals and organizations alike is to approach these tools thoughtfully — using them to enhance human capability rather than replace human judgment. Learning how to collaborate with AI effectively may well become one of the most important skills of the coming decade.</p>",
+    textZh: "<p>人工智慧正在改變我們工作、溝通和學習的方式。近年來，AI 工具已從研究實驗室走入日常生活。從手機上的智慧助理，到串流平台的推薦演算法，AI 正悄悄地影響著我們每天所做的決定。</p><p>職場是其中一個最顯著的變化領域。許多公司現在使用 AI 來自動化重複性的工作、分析大量數據，甚至協助創意工作。這引發了關於某些工作未來走向的重要問題，但同時也為那些懂得與這些工具共事的人創造了新機會。</p><p>對於語言學習者來說，AI 提供了令人期待的可能性。個人化的學習計畫、即時批改，以及與 AI 夥伴的對話練習，現在都已觸手可及。專家認為，在未來十年內，AI 家教可能會像教科書一樣普及，幫助全球數百萬人獲得高品質的教育，無論他們身在何處。</p><p>然而，並非所有人都認為 AI 是純粹有益的。部分研究人員警告，過度依賴 AI 工具可能會削弱批判性思考和真正的理解能力。此外還有偏見的問題——AI 系統是以既有數據訓練而成，這些數據可能反映出歷史上的不平等或文化假設，並不總是適用於每位使用者。</p><p>儘管有這些疑慮，AI 的發展速度並未顯示任何放緩的跡象。對個人和組織而言，關鍵在於以審慎的態度使用這些工具——讓它們增強人類能力，而非取代人類判斷。學會如何有效地與 AI 協作，很可能將成為未來十年最重要的技能之一。</p>",
+    vocab: [{w:"algorithm",d:"演算法"},{w:"automate",d:"自動化"},{w:"repetitive",d:"重複性的"},{w:"personalized",d:"個人化的"},{w:"regardless of",d:"不管、無論"},{w:"over-reliance",d:"過度依賴"},{w:"bias",d:"偏見、偏差"},{w:"collaborate",d:"協作"}]
+  },
+  "2026-03-20": {
+    topic: "Innovation",
+    title: "How Great Ideas Become Reality",
+    text: "<p>Innovation is often described as the process of turning new ideas into real-world solutions. But what separates a truly innovative idea from a passing thought? According to researchers and business leaders alike, it comes down to execution — the willingness to experiment, fail, and try again. The most transformative inventions in history were rarely the result of a single brilliant moment. They were the product of sustained effort and creative persistence.</p><p>One of the most important concepts in modern innovation is the idea of iteration. Instead of trying to build a perfect product from the start, successful innovators release early versions, gather feedback, and improve continuously. This approach, popularized by the tech industry, has now spread to fields as diverse as healthcare, education, and urban planning. The willingness to show something imperfect — and learn from it — is now considered a strength rather than a weakness.</p><p>Another key driver of innovation is interdisciplinary thinking. Many of the most exciting breakthroughs in recent years have come from people who combined knowledge from two or more unrelated fields. A biologist who understands materials science, or an architect who applies principles from ecology — these cross-domain perspectives often reveal solutions that specialists within a single field would never consider.</p><p>Collaboration also plays a crucial role. Research consistently shows that diverse teams — those with different backgrounds, skills, and perspectives — outperform homogeneous ones when it comes to creative problem-solving. This is why many of the world's most innovative companies deliberately build teams with varied expertise and encourage open dialogue across departments.</p><p>Ultimately, innovation is not reserved for geniuses or large corporations. It is a mindset that anyone can develop. It starts with curiosity — asking why things are done a certain way and wondering if they could be done better. The habit of questioning the obvious, combined with the courage to act on new ideas, is what drives human progress forward.</p>",
+    textZh: "<p>創新通常被描述為將新想法轉化為現實解決方案的過程。但什麼讓一個真正具創新性的想法脫穎而出？研究人員和商業領袖普遍認為，關鍵在於執行力——願意實驗、接受失敗、再次嘗試。歷史上最具變革性的發明，很少源於單一的靈感閃現，而是持續努力與創意堅持的成果。</p><p>現代創新最重要的概念之一是「迭代」。成功的創新者不是一開始就試圖打造完美產品，而是發布早期版本、收集回饋、持續改進。這種源自科技業的方法，現在已擴展到醫療、教育和城市規劃等各個領域。展示不完美並從中學習，如今被視為一種優勢而非弱點。</p><p>跨學科思維是驅動創新的另一關鍵因素。近年來許多令人振奮的突破，都來自能結合兩個或更多不相關領域知識的人。一位懂得材料科學的生物學家，或一位應用生態學原理的建築師——這些跨域視角往往能揭示單一領域專家永遠不會想到的解決方案。</p><p>協作也扮演著至關重要的角色。研究一再顯示，具有不同背景、技能和視角的多元團隊，在創造性問題解決方面表現優於同質化團隊。這正是為什麼許多全球最具創新力的公司，會刻意建立多元專業的團隊，並鼓勵跨部門的開放對話。</p><p>歸根結底，創新並非天才或大企業的專利。它是任何人都可以培養的思維方式，始於好奇心——質疑事物為何如此，思考是否能做得更好。習慣性地質疑理所當然之事，加上付諸行動的勇氣，正是推動人類進步的動力。</p>",
+    vocab: [{w:"iteration",d:"迭代、反覆修正"},{w:"interdisciplinary",d:"跨學科的"},{w:"breakthrough",d:"突破性進展"},{w:"homogeneous",d:"同質的、均一的"},{w:"persistence",d:"堅持、毅力"}]
+  },
+  "2026-03-21": {
+    topic: "Business & Career",
+    title: "The Shift Toward Electric Vehicles",
+    text: "<p>Electric vehicles, once considered a niche product for early adopters, are now becoming mainstream. Sales figures from the past few years show a dramatic increase in the number of people choosing to drive electric, and major car manufacturers around the world are investing billions of dollars to expand their electric lineups.</p><p>The shift is being driven by several factors. Improvements in battery technology have significantly extended the range of electric vehicles, addressing one of the most common concerns among potential buyers. At the same time, the cost of production has fallen, making electric cars more affordable for the average consumer. Governments in many countries are also offering tax incentives and building charging infrastructure to encourage adoption.</p><p>Critics point out that the environmental benefits depend heavily on how the electricity used to charge these vehicles is generated. In regions that still rely on coal, the overall carbon footprint may not be as small as advertised. Nevertheless, the direction of travel is clear. The age of the electric vehicle appears to have truly arrived.</p>",
+    vocab: [{w:"niche",d:"利基、小眾"},{w:"mainstream",d:"主流"},{w:"infrastructure",d:"基礎設施"},{w:"carbon footprint",d:"碳足跡"},{w:"adoption",d:"採用、普及"}]
+  }
+};
+
+// Get today's article or fallback to first available
+function getReadArticle(){
+  var today = getTodayKey();
+  if(READ_ARTICLES[today]) return READ_ARTICLES[today];
+  // fallback to first article
+  var keys = Object.keys(READ_ARTICLES);
+  return keys.length ? READ_ARTICLES[keys[0]] : null;
+}
+
+function initRead(){
+  var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var d = new Date();
+  document.getElementById('readDate').textContent = days[d.getDay()] + ', ' + months[d.getMonth()] + ' ' + d.getDate();
+
+  var article = getReadArticle();
+  if(!article){ document.getElementById('readArticle').innerHTML = '<div class="read-loading">No article available for today.</div>'; return; }
+
+  var readTopicEl = document.getElementById('readTopic'); if(readTopicEl) readTopicEl.textContent = article.topic;
+  var topicLbl = document.getElementById('readTopicLabel');
+  if(topicLbl) topicLbl.textContent = article.topic;
+  var titleEl = document.getElementById('readTitleEl');
+  if(titleEl) titleEl.textContent = article.title || '';
+  var articleEl = document.getElementById('readArticle');
+  articleEl.innerHTML = '';
+  // English-only view
+  var enDiv = document.createElement('div');
+  enDiv.id = 'readArticleEn';
+  enDiv.innerHTML = article.text;
+  // Bilingual view: interleave EN and ZH paragraphs
+  var biDiv = document.createElement('div');
+  biDiv.id = 'readArticleBilingual';
+  biDiv.style.display = 'none';
+  if(article.textZh){
+    var enParas = article.text.match(/<p>.*?<\/p>/gs) || [];
+    var zhParas = article.textZh.match(/<p>.*?<\/p>/gs) || [];
+    var biHtml = '';
+    enParas.forEach(function(ep, i){
+      biHtml += ep;
+      if(zhParas[i]) biHtml += '<p class="read-zh-para">'+zhParas[i].replace(/<\/?p>/g,'')+'</p>';
+    });
+    biDiv.innerHTML = biHtml;
+  } else {
+    biDiv.innerHTML = article.text + '<p class="read-zh-para">中文翻譯尚未提供。</p>';
+  }
+  articleEl.appendChild(enDiv);
+  articleEl.appendChild(biDiv);
+
+  // Store vocab for toggle
+  var vocabList = document.getElementById('readVocabList');
+  vocabList.innerHTML = article.vocab.map(function(v){
+    return '<div class="read-vtag"><span class="read-vw">'+v.w+'</span><span class="read-vd">'+v.d+'</span></div>';
+  }).join('');
+}
+
+// TTS for read-aloud
+var readUtterance = null, readPlaying = false;
+
+function readTogglePlay(){
+  if(!('speechSynthesis' in window)) return;
+  var btn = document.getElementById('readPlayBtn');
+  if(readPlaying){
+    speechSynthesis.cancel();
+    readPlaying = false;
+    btn.innerHTML = '&#9654; Listen first';
+    readClearHighlight();
+    return;
+  }
+  var article = getReadArticle();
+  if(!article) return;
+  // Split into sentences and speak each with word boundary tracking
+  var articleEl = document.getElementById('readArticle');
+  var paragraphs = articleEl.querySelectorAll('p');
+  var sentences = [];
+  paragraphs.forEach(function(p){
+    var text = p.textContent;
+    var parts = text.match(/[^.!?]+[.!?]+/g) || [text];
+    parts.forEach(function(s){ if(s.trim()) sentences.push(s.trim()); });
+  });
+  readPlaying = true;
+  btn.innerHTML = '&#9646;&#9646; Stop';
+  var idx = 0;
+  function speakNext(){
+    if(!readPlaying || idx >= sentences.length){
+      readPlaying = false;
+      btn.innerHTML = '&#9654; Listen first';
+      readClearHighlight();
+      return;
+    }
+    readHighlightSentence(sentences[idx]);
+    var u = new SpeechSynthesisUtterance(sentences[idx]);
+    u.rate = 0.9;
+    var voices = speechSynthesis.getVoices();
+    var enVoice = voices.find(function(v){ return v.lang.startsWith('en'); });
+    if(enVoice) u.voice = enVoice;
+    u.onend = function(){ idx++; speakNext(); };
+    u.onerror = function(e){ if(e.error!=='interrupted'){ idx++; speakNext(); } };
+    speechSynthesis.speak(u);
+  }
+  speakNext();
+}
+
+function readHighlightSentence(sentence){
+  readClearHighlight();
+  var articleEl = document.getElementById('readArticleEn') || document.getElementById('readArticle');
+  var html = articleEl.innerHTML;
+  // escape regex special chars
+  var escaped = sentence.split('').map(function(c){ return /[.*+?^${}()|[\]\\]/.test(c) ? '\\'+c : c; }).join('');
+  var re = new RegExp('('+escaped+')', 'g');
+  articleEl.innerHTML = html.replace(re,'<mark class="read-highlight">$1</mark>');
+}
+
+function readClearHighlight(){
+  var articleEl = document.getElementById('readArticleEn') || document.getElementById('readArticle');
+  if(!articleEl) return;
+  articleEl.innerHTML = articleEl.innerHTML.replace(/<\/?mark[^>]*>/g,'');
+}
+
+function readToggleVocab(){
+  var box = document.getElementById('readVocabBox');
+  box.style.display = box.style.display === 'none' ? 'block' : 'none';
+}
+
+// Recording
+var readMediaRecorder = null, readAudioChunks = [], readRecording = false;
+
+function readToggleRecord(){
+  var btn = document.getElementById('readRecordBtn');
+  var status = document.getElementById('readRecStatus');
+  var box = document.getElementById('readRecordingBox');
+
+  if(readRecording){
+    // Stop
+    readMediaRecorder.stop();
+    readRecording = false;
+    btn.innerHTML = '&#9679; Record';
+    btn.style.borderColor = '';
+    btn.style.color = '';
+    status.textContent = '';
+    status.className = 'read-rec-status';
+  } else {
+    // Start
+    if(!navigator.mediaDevices){ status.textContent = 'Microphone not supported'; return; }
+    navigator.mediaDevices.getUserMedia({audio:true}).then(function(stream){
+      readAudioChunks = [];
+      readMediaRecorder = new MediaRecorder(stream);
+      readMediaRecorder.ondataavailable = function(e){ readAudioChunks.push(e.data); };
+      readMediaRecorder.onstop = function(){
+        var blob = new Blob(readAudioChunks, {type:'audio/webm'});
+        var url = URL.createObjectURL(blob);
+        var audio = document.getElementById('readAudio');
+        audio.src = url;
+        box.style.display = 'block';
+        stream.getTracks().forEach(function(t){ t.stop(); });
+      };
+      readMediaRecorder.start();
+      readRecording = true;
+      btn.innerHTML = '&#9632; Stop';
+      btn.style.borderColor = 'var(--clr-speak)';
+      btn.style.color = 'var(--clr-speak)';
+      status.textContent = 'Recording...';
+      status.className = 'read-rec-status recording';
+    }).catch(function(){ status.textContent = 'Microphone access denied'; });
+  }
+}
+
+// ── ONBOARDING HINTS ──
+function dismissHint(id){
+  var el = document.getElementById(id);
+  if(el){ el.style.display='none'; }
+  try{ localStorage.setItem('sav_hint_'+id,'1'); }catch(e){}
+}
+function initHints(){
+  ['hint-listen','hint-speak','hint-review','hint-read'].forEach(function(id){
+    try{
+      if(localStorage.getItem('sav_hint_'+id)){
+        var el=document.getElementById(id);
+        if(el) el.style.display='none';
+      }
+    }catch(e){}
+  });
+}
+
+var readZhOn = false;
+function readToggleZh(){
+  readZhOn = !readZhOn;
+  var btn = document.getElementById('readZhBtn');
+  if(btn){
+    btn.textContent = readZhOn ? '中文 ON' : '中文 OFF';
+    btn.classList.toggle('on', readZhOn);
+  }
+  var biEl = document.getElementById('readArticleBilingual');
+  var enEl = document.getElementById('readArticleEn');
+  if(biEl) biEl.style.display = readZhOn ? 'block' : 'none';
+  if(enEl) enEl.style.display = readZhOn ? 'none' : 'block';
+}
+
+function schResetConfirm(){
+  var btn = document.getElementById('schResetBtn');
+  if(btn && btn.dataset.confirm === '1'){
+    resetSchedule();
+    btn.textContent = 'Reset all';
+    btn.dataset.confirm = '0';
+  } else {
+    btn.textContent = 'Tap again to confirm';
+    btn.dataset.confirm = '1';
+    setTimeout(function(){ 
+      if(btn.dataset.confirm==='1'){ btn.textContent='Reset all'; btn.dataset.confirm='0'; }
+    }, 3000);
+  }
+}
+
+</script>
+</body>
+</html>
