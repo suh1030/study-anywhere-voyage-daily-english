@@ -1,0 +1,31 @@
+{
+  "name": "study-anywhere-voyage-daily-english",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "tsx scripts/seed.ts",
+    "generate-audio": "tsx scripts/generate-audio.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suh1030/study-anywhere-voyage-daily-english.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suh1030/study-anywhere-voyage-daily-english/issues"
+  },
+  "homepage": "https://github.com/suh1030/study-anywhere-voyage-daily-english#readme",
+  "description": "",
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.100.0",
+    "openai": "^6.33.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

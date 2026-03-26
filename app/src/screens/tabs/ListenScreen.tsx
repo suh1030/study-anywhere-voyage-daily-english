@@ -9,9 +9,16 @@ import {
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import * as Speech from 'expo-speech'
+import { useAudioPlayer } from 'expo-audio'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
+
+const SUPABASE_URL = process.env.EXPO_PUBLIC_SUPABASE_URL ?? ''
+
+function getAudioUrl(weekNumber: number, dayOfWeek: number, partIndex: number, lineIndex: number) {
+  return `${SUPABASE_URL}/storage/v1/object/public/episode-audio/tts/w${weekNumber}_d${dayOfWeek}_p${partIndex}_l${lineIndex}.mp3`
+}
 
 type Speed = 0.75 | 1 | 1.25
 
@@ -29,7 +36,9 @@ export default function ListenScreen() {
   const [showChinese, setShowChinese] = useState(false)
   const [speed, setSpeed] = useState<Speed>(1)
   const [showKeyPhrases, setShowKeyPhrases] = useState(false)
+  const [audioUrl, setAudioUrl] = useState<string | null>(null)
   const scrollRef = useRef<ScrollView>(null)
+  const player = useAudioPlayer(audioUrl ? { uri: audioUrl } : null)
 
   useEffect(() => {
     const todayKey = getTodayKey()
@@ -52,25 +61,51 @@ export default function ListenScreen() {
     return lines
   }, [episode])
 
-  // Speak the active line whenever it changes
+  // Play audio when current line changes
   useEffect(() => {
-    Speech.stop()
-    if (currentLine >= 0 && currentLine < allLines.length) {
-      Speech.speak(allLines[currentLine].en, {
-        language: 'en-US',
-        rate: speed,
-      })
+    if (currentLine < 0 || currentLine >= allLines.length || !episode) {
+      Speech.stop()
+      setAudioUrl(null)
+      return
     }
+
+    const line = allLines[currentLine]
+    const url = getAudioUrl(episode.week_number, episode.day_of_week, line.partIndex, line.lineIndex)
+
+    // Try MP3 first; fall back to expo-speech if unavailable
+    fetch(url, { method: 'HEAD' })
+      .then((res) => {
+        if (res.ok) {
+          Speech.stop()
+          setAudioUrl(url)
+        } else {
+          setAudioUrl(null)
+          Speech.stop()
+          Speech.speak(line.en, { language: 'en-US', rate: speed })
+        }
+      })
+      .catch(() => {
+        setAudioUrl(null)
+        Speech.stop()
+        Speech.speak(line.en, { language: 'en-US', rate: speed })
+      })
   }, [currentLine]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Re-speak at new speed when speed control changes (if a line is active)
+  // Play MP3 when audioUrl is set
   useEffect(() => {
-    if (currentLine < 0 || currentLine >= allLines.length) return
-    Speech.stop()
-    Speech.speak(allLines[currentLine].en, { language: 'en-US', rate: speed })
-  }, [speed]) // eslint-disable-line react-hooks/exhaustive-deps
+    if (audioUrl && !player.playing) {
+      player.play()
+    }
+  }, [audioUrl]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Stop speech on unmount
+  // Auto-advance to next line when MP3 finishes
+  useEffect(() => {
+    if (audioUrl && !player.playing && currentLine >= 0) {
+      setCurrentLine((c) => Math.min(c + 1, allLines.length - 1))
+    }
+  }, [player.playing]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Stop on unmount
   useEffect(() => () => { Speech.stop() }, [])
 
   const handleLinePress = useCallback((index: number) => {
