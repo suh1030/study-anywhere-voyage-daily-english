@@ -73,8 +73,8 @@ english-app.html              # 單一自包含檔案（約 160KB）
     ├── Review 模組（字卡）
     ├── Schedule 模組（進度追蹤）
     ├── Speak 模組（朗讀 + 錄音）
-    ├── 資料：SCHEDULE[]（288 天）
-    ├── 資料：CURRICULUM[]（41 週）
+    ├── 資料：SCHEDULE[]（365 天）
+    ├── 資料：CURRICULUM[]（53 週）
     ├── 資料：READ_ARTICLES{}（以日期為鍵值）
     └── 輔助函式
 ```
@@ -171,26 +171,33 @@ html, body（overflow: hidden）
 ### 高層架構圖
 
 ```
-┌─────────────────────────────────────────────┐
-│              客戶端（行動 App）               │
-│  React Native / Expo                         │
-│  Listen │ Conversation │ Speak │ Schedule    │
-└────────────────────┬────────────────────────┘
-                     │ REST API
-┌────────────────────▼────────────────────────┐
-│               後端 API                       │
-│  ┌─────────────┐ ┌──────────┐ ┌──────────┐ │
-│  │  內容 API   │ │ AI 代理  │ │ 使用者   │ │
-│  │  /episodes  │ │/feedback │ │ /auth    │ │
-│  │  /articles  │ │（扣點）  │ │ /credits │ │
-│  └─────────────┘ └────┬─────┘ └────┬─────┘ │
-└───────────────────────┼─────────────┼───────┘
-                        │             │
-          ┌─────────────▼──┐  ┌───────▼──────────┐
-          │  Anthropic API │  │  資料庫           │
-          │  （Claude）    │  │  PostgreSQL       │
-          └────────────────┘  │  + Supabase Auth  │
-                              └──────────────────┘
+┌─────────────────────────────────────────────────┐
+│              客戶端（行動 App）                   │
+│  React Native / Expo                             │
+│  Listen │ Conversation │ Speak │ Schedule        │
+│  Supabase Auth（Email / Apple / Google）         │
+│  RevenueCat SDK（IAP 點數購買）                  │
+└──────────┬───────────────────────┬───────────────┘
+           │ REST API              │ 音訊 CDN
+           │                       │
+┌──────────▼──────────┐  ┌────────▼────────────────┐
+│  Supabase            │  │  Cloudflare R2           │
+│  Edge Functions      │  │  預生成 mp3 音訊檔       │
+│  ┌──────┐ ┌───────┐ │  │  （OpenAI TTS 一次性生成）│
+│  │ AI   │ │Credits│ │  └─────────────────────────┘
+│  │代理  │ │扣點   │ │
+│  └──┬───┘ └───┬───┘ │
+│  PostgreSQL + Auth   │
+│  Row Level Security  │
+└──────┬──────────┬────┘
+       │          │
+┌──────▼──┐  ┌───▼────────────┐  ┌─────────────────┐
+│Anthropic│  │  RevenueCat    │  │  Supabase        │
+│API      │  │  Webhook       │  │  Dashboard       │
+│(Claude) │  │  (IAP 驗證)    │  │  + Cloudflare    │
+└─────────┘  └────────────────┘  │  Analytics       │
+                                  │  （監控）        │
+                                  └─────────────────┘
 ```
 
 ### 點數系統後端設計
@@ -250,24 +257,47 @@ interface CreditTransaction {
 
 ### Episode（Listen）
 
+每週一個主題，每天一集全新 Podcast，全年 365 集。內容以週為單位組織（`week-01.ts` ~ `week-53.ts`），每檔輸出該週所有每日集數的陣列。
+
 ```typescript
 interface Episode {
   id: string;
-  weekNumber: number;          // 1–41
-  theme: string;
-  title: string;
-  phase: 'p1' | 'p2' | 'p3' | 'p4' | 'p5';
+  weekNumber: number;          // 1–53
+  dayOfWeek: number;           // 1–7（1=週一）；W1/W53 為 1–4
+  date: string;                // 'YYYY-MM-DD'，對應 2026 年實際日曆
+  theme: string;               // 當週主題（同週 7 集共用）
+  title: string;               // 當集專屬標題
+  phase: 'p1' | 'p2' | 'p3' | 'p4' | 'p5' | 'p6';
   parts: EpisodePart[];
   keyPhrases: KeyPhrase[];
 }
 
-interface DialogueLine {
-  id: string;
-  speaker: 'Mira' | 'Jamie';  // 固定虛構角色名
-  english: string;
-  chinese: string;
-  vocabulary: VocabItem[];
+interface EpisodePart {
+  title: string;
+  lines: EpisodeLine[];
 }
+
+interface EpisodeLine {
+  speaker: 'a' | 'b';
+  speakerName: 'Mira' | 'Jamie';
+  en: string;
+  zh: string;
+  vocab?: VocabItem[];
+}
+```
+
+**內容檔結構：**
+```typescript
+// content/episodes/week-02.ts
+export const WEEK_02: Episode[] = [
+  { weekNumber: 2, dayOfWeek: 1, date: '2026-01-05', theme: 'Morning Routines', ... },
+  { weekNumber: 2, dayOfWeek: 2, date: '2026-01-06', theme: 'Morning Routines', ... },
+  // ...共 7 集
+]
+
+// content/episodes/index.ts
+export function getEpisodeByDate(date: string): Episode | undefined
+export function getWeekEpisodes(weekNumber: number): Episode[]
 ```
 
 ### ReadArticle（Speak）
@@ -301,14 +331,23 @@ interface FlashCard {
 
 ```typescript
 interface ScheduleDay {
-  dateKey: string;
-  weekday: string;
-  weekNumber: number;
-  theme: string;
-  podcastTitle: string;
-  conversationPrompt: string;  // Conversation 題目
-  speakTheme: string;          // Speak 文章主題（= weekTheme）
+  dateKey: string;             // 'YYYY-MM-DD'
+  weekday: string;             // 'Monday' ~ 'Sunday'
+  weekNumber: number;          // 1–53
+  dayOfWeek: number;           // 1–7
+  theme: string;               // 當週主題
+  podcastTitle: string;        // 當天 Podcast 標題
+  conversationPrompt: string;  // 當天 Conversation 題目
+  speakTitle: string;          // 當天 Speak 文章標題
 }
+```
+
+**日期工具函式（app 層）：**
+```typescript
+// 根據日期字串取得週次（2026 年曆，週一為週首）
+function getWeekNumber(date: string): number  // 回傳 1–53
+function getDayOfWeek(date: string): number   // 回傳 1–7
+function getDateRange(weekNumber: number): { start: string; end: string }
 ```
 
 ---
@@ -607,18 +646,20 @@ stores/
 | 本地儲存 | AsyncStorage | 替換 localStorage |
 | 音訊播放 | expo-av | 跨平台可靠 |
 | 錄音 | expo-av RecordingObject | 原生錄音 |
-| TTS | ElevenLabs API | 高品質，語音一致 |
-| 付款 | Apple In-App Purchase + Google Play Billing | 點數購買 |
+| TTS | OpenAI TTS 預生成 mp3 + Cloudflare R2 CDN | 一次性生成（~$3–5 USD），之後 CDN 服務成本極低，品質一致 |
+| 付款 | RevenueCat（Apple IAP + Google Play Billing 代理） | 統一雙平台 IAP，含收據驗證與 Webhook |
+| 登入 | Supabase Auth（Email + Apple Sign In + Google Sign In） | Apple 規定必須提供 Sign in with Apple |
 
 ### 後端
 
 | 層級 | 建議 | 原因 |
 |------|------|------|
-| 執行環境 | Node.js (Express) | 輕量、JS 全端一致 |
-| 資料庫 | Supabase (PostgreSQL) | Auth + DB + Storage 一體 |
-| AI 代理 | Express 路由 + Anthropic SDK | 隱藏 API Key，管理點數 |
-| 付款 webhook | Stripe 或 RevenueCat | 處理 IAP 回調 |
-| 部署 | Railway / Render | 低維運成本 |
+| 執行環境 | Supabase Edge Functions（Deno，Serverless） | 免費額度充足（2M 次/月），冷啟動 < 200ms，流量成長後可平滑遷移 |
+| 資料庫 | Supabase (PostgreSQL) | Auth + DB + Storage + Edge Functions 一體 |
+| AI 代理 | Supabase Edge Function + Anthropic SDK | 隱藏 API Key，管理點數 |
+| 付款 webhook | RevenueCat → Supabase Edge Function | IAP 收據驗證後增加點數 |
+| 音訊 CDN | Cloudflare R2 | 前 10GB 免費，1M 次 GET 免費，適合靜態音訊檔案 |
+| 監控 | Supabase Dashboard + Cloudflare Analytics | 免費，流量超過免費上限時 Supabase 自動 email 通知 |
 
 ---
 
@@ -646,11 +687,18 @@ questions[]    → questions.json    （8 道，需補充至 205 道）
 
 ### 步驟三：實作優先順序
 
-1. Schedule（全本地，無 API 需求）
-2. Review（全本地，無 API 需求）
-3. Listen（TTS 可先用系統 API，後換 ElevenLabs）
-4. Speak（錄音功能，無 AI 需求）
-5. Conversation（需要後端 AI 代理 + 點數系統）
+**後端（與 App 並行開始）：**
+1. Supabase 專案設定（Auth + DB Schema + Edge Functions）
+2. RevenueCat 帳號設定 + IAP 產品建立
+3. Cloudflare R2 bucket 建立 + 上傳 TTS 音訊
+
+**App 模組（依序）：**
+1. 帳號系統（Auth screens：Email + Sign in with Apple + Google）
+2. Schedule（進度本地 + 雲端同步）
+3. Review（字卡本地 + 雲端同步）
+4. Listen（從 R2 載入 mp3）
+5. Speak（錄音功能，本地暫存）
+6. Conversation（後端 AI 代理 + 點數 + RevenueCat IAP）
 
 ---
 
@@ -660,13 +708,13 @@ questions[]    → questions.json    （8 道，需補充至 205 道）
 
 | 問題 | 嚴重度 | 解法 |
 |------|--------|------|
-| Web Speech API iOS Safari 不穩定 | 高 | 正式版改用 ElevenLabs 預生成音訊 |
-| AI 批改僅在 claude.ai 環境有效 | 高 | 後端代理 + 點數系統 |
-| 錄音不持久化（重新整理消失） | 中 | 上傳至 Supabase Storage |
-| 所有進度存 localStorage（單裝置） | 中 | 後端同步 |
-| 內容硬編碼在 HTML | 中 | 提取至 CMS |
-| 逐句高亮用字串比對（不穩定） | 低 | 預切分 `<span data-sentence-id>` |
-| `--gold`/`--blue`/`--green` 遺留變數 | 低 | 全部替換為語意變數 |
+| Web Speech API iOS Safari 不穩定 | 高 | **已決定**：OpenAI TTS 預生成 mp3，存 Cloudflare R2 |
+| AI 批改僅在 claude.ai 環境有效 | 高 | **已決定**：Supabase Edge Function 後端代理 + 點數系統 |
+| 錄音不持久化（重新整理消失） | 中 | v1 本地暫存可接受；v2 上傳至 Supabase Storage |
+| 所有進度存 localStorage（單裝置） | 中 | **已決定**：帳號系統 + 後端同步（v1 必做） |
+| 內容硬編碼在 HTML | 中 | 提取至 JSON，透過 Supabase Edge Function API 提供 |
+| 逐句高亮用字串比對（不穩定） | 低 | 正式版預切分 `<span data-sentence-id>` |
+| `--gold`/`--blue`/`--green` 遺留變數 | 低 | React Native 設計系統建立時全部使用語意變數 |
 
 ### 內容缺口
 
