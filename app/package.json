@@ -1,0 +1,49 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build:dev": "eas build --profile development",
+    "build:preview": "eas build --profile preview",
+    "build:prod": "eas build --profile production",
+    "submit:ios": "eas submit --platform ios --profile production",
+    "submit:android": "eas submit --platform android --profile production"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~55.0.6",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-navigation/bottom-tabs": "^7.15.6",
+    "@react-navigation/native": "^7.1.34",
+    "@supabase/supabase-js": "^2.99.3",
+    "expo": "~55.0.8",
+    "expo-apple-authentication": "~55.0.9",
+    "expo-auth-session": "~55.0.9",
+    "expo-av": "^16.0.8",
+    "expo-crypto": "~55.0.10",
+    "expo-speech": "~13.0.1",
+    "expo-secure-store": "~55.0.9",
+    "expo-status-bar": "~55.0.4",
+    "expo-web-browser": "~55.0.10",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-native": "0.83.2",
+    "react-native-purchases": "^9.14.0",
+    "react-native-purchases-ui": "^9.14.0",
+    "react-native-safe-area-context": "~5.6.2",
+    "react-native-screens": "~4.23.0",
+    "react-native-svg": "15.15.3",
+    "react-native-url-polyfill": "^3.0.0",
+    "react-native-web": "^0.21.0",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "eas-cli": "^18.4.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
