@@ -32,7 +32,7 @@ Deno.serve(async (req) => {
 
     // ── 3. 每日使用上限（每人每天最多 20 次，防止濫用）────────
     const supabaseAdmin = createAdminClient()
-    const DAILY_LIMIT = 20
+    const DAILY_LIMIT = 5
     const todayStart = new Date()
     todayStart.setHours(0, 0, 0, 0)
 
