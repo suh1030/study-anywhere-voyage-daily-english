@@ -31,10 +31,26 @@ if (!SUPABASE_SERVICE_KEY) {
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY })
 const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY)
 
-// Speaker voice mapping — nova (female) for 'a', onyx (male) for 'b'
-const VOICE: Record<string, 'nova' | 'onyx'> = {
-  a: 'nova',
-  b: 'onyx',
+// Speaker name → voice mapping
+// p1 (W1-10):  Mira=nova,    Jamie=onyx
+// p2 (W11-18): Lily=shimmer, Tom=echo
+// p3 (W19-26): Sara=nova,    Alex=onyx
+// p4 (W27-34): Nina=shimmer, Marcus=echo
+// p5 (W35-43): Jade=nova,    Ryan=onyx
+// p6 (W44-53): Maya=shimmer, James=echo
+const VOICE: Record<string, 'nova' | 'shimmer' | 'onyx' | 'echo'> = {
+  Mira: 'nova',
+  Sara: 'nova',
+  Jade: 'nova',
+  Lily: 'shimmer',
+  Nina: 'shimmer',
+  Maya: 'shimmer',
+  Jamie: 'onyx',
+  Alex: 'onyx',
+  Ryan: 'onyx',
+  Tom: 'echo',
+  Marcus: 'echo',
+  James: 'echo',
 }
 
 async function audioExists(path: string): Promise<boolean> {
@@ -93,7 +109,8 @@ async function main() {
         total++
         const fileName = `w${w}_d${d}_p${pi}_l${li}.mp3`
         const storagePath = `tts/${fileName}`
-        const voice = VOICE[line.speaker] ?? 'nova'
+        const speakerName = line.speakerName ?? ''
+        const voice = VOICE[speakerName] ?? (line.speaker === 'a' ? 'nova' : 'onyx')
 
         process.stdout.write(`[W${w}D${d} P${pi}L${li}] ${text.slice(0, 50)}... `)
 
