@@ -3,31 +3,14 @@ import { createAdminClient } from '../_shared/supabase-client.ts'
 
 // IAP 產品 ID → 點數對應（需與 App Store Connect / Google Play 設定一致）
 const CREDIT_PACKAGES: Record<string, number> = {
-  sav_credits_100: 100,
-  sav_credits_300: 300,
-  sav_credits_600: 600,
+  sav_credits_10: 10,
 }
 
-async function verifyRevenueCatSignature(req: Request, body: string): Promise<boolean> {
+function verifyRevenueCatAuth(req: Request): boolean {
   const secret = Deno.env.get('REVENUECAT_WEBHOOK_SECRET')
   if (!secret) return false
-
-  const signature = req.headers.get('X-RevenueCat-Signature')
-  if (!signature) return false
-
-  const key = await crypto.subtle.importKey(
-    'raw',
-    new TextEncoder().encode(secret),
-    { name: 'HMAC', hash: 'SHA-256' },
-    false,
-    ['sign']
-  )
-  const signatureBytes = await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(body))
-  const expectedHex = Array.from(new Uint8Array(signatureBytes))
-    .map((b) => b.toString(16).padStart(2, '0'))
-    .join('')
-
-  return signature === expectedHex
+  const authHeader = req.headers.get('Authorization')
+  return authHeader === secret
 }
 
 Deno.serve(async (req) => {
@@ -37,8 +20,8 @@ Deno.serve(async (req) => {
     const body = await req.text()
 
     // ── 1. 驗證 RevenueCat 簽名（防止偽造 webhook） ──────────
-    const isValid = await verifyRevenueCatSignature(req, body)
-    if (!isValid) return jsonResponse({ error: 'invalid_signature' }, 401)
+    const isValid = verifyRevenueCatAuth(req)
+    if (!isValid) return jsonResponse({ error: 'unauthorized' }, 401)
 
     const event = JSON.parse(body)
     const eventType: string = event.event?.type

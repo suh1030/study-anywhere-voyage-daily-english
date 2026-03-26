@@ -6,6 +6,7 @@ import {
   Modal,
   TouchableOpacity,
   TouchableWithoutFeedback,
+  Alert,
 } from 'react-native'
 import { colors, fonts, spacing, radius } from '../constants/theme'
 import { useAuthStore } from '../stores/authStore'
@@ -18,7 +19,16 @@ interface Props {
 
 export default function ProfileModal({ visible, onClose }: Props) {
   const { user, signOut } = useAuthStore()
-  const { balance } = useCreditsStore()
+  const { balance, purchasing, purchaseCredits } = useCreditsStore()
+
+  const handleBuyCredits = async () => {
+    const result = await purchaseCredits()
+    if (result.success) {
+      Alert.alert('Success', '10 credits added!')
+    } else if (result.error) {
+      Alert.alert('Purchase failed', result.error)
+    }
+  }
 
   const handleSignOut = async () => {
     onClose()
@@ -47,6 +57,16 @@ export default function ProfileModal({ visible, onClose }: Props) {
                 <Text style={styles.creditsLabel}>CREDITS</Text>
                 <Text style={styles.creditsValue}>{balance}</Text>
               </View>
+
+              <TouchableOpacity
+                style={[styles.buyBtn, purchasing && styles.buyBtnDisabled]}
+                onPress={handleBuyCredits}
+                disabled={purchasing}
+              >
+                <Text style={styles.buyBtnText}>
+                  {purchasing ? 'PROCESSING...' : 'BUY 10 CREDITS  NT$60'}
+                </Text>
+              </TouchableOpacity>
 
               <View style={styles.divider} />
 
@@ -119,6 +139,23 @@ const styles = StyleSheet.create({
   creditsValue: {
     fontFamily: fonts.mono,
     fontSize: 18,
+    color: colors.ui,
+  },
+  buyBtn: {
+    marginTop: spacing.sm,
+    paddingVertical: 12,
+    borderWidth: 1,
+    borderColor: colors.ui,
+    borderRadius: radius.md,
+    alignItems: 'center',
+  },
+  buyBtnDisabled: {
+    opacity: 0.5,
+  },
+  buyBtnText: {
+    fontFamily: fonts.mono,
+    fontSize: 11,
+    letterSpacing: 1.5,
     color: colors.ui,
   },
   signOutBtn: {

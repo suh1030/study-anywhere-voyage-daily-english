@@ -2,7 +2,7 @@
 
 這份清單記錄需要你（Savelyn）親自完成的事項，不屬於工程開發範疇。
 
-> 最後更新：2026-03-26
+> 最後更新：2026-03-26（下午）
 
 ---
 
@@ -19,9 +19,9 @@
   - 開啟 Google Sign In：需要填入 Google OAuth Client ID
     - 到 console.cloud.google.com 建立 OAuth 2.0 Client
 
-- [ ] **Supabase Dashboard → Edge Functions → Secrets 設定**
-  - `ANTHROPIC_API_KEY` — 從 console.anthropic.com 取得
-  - `REVENUECAT_WEBHOOK_SECRET` — RevenueCat dashboard → Integrations → Webhooks
+- [x] **Supabase Edge Functions → Secrets 設定**
+  - `ANTHROPIC_API_KEY` — 已設定（2026-03-26）
+  - `REVENUECAT_WEBHOOK_SECRET` — 等 RevenueCat 設定完後補上
 
 - [ ] **建立 RevenueCat 帳號**
   - 網址：revenuecat.com（免費方案）
@@ -29,30 +29,29 @@
   - RevenueCat → 建立 Offering → 綁定剛建立的產品
   - 取得 iOS Public SDK Key → 填入 `app/.env` 的 `EXPO_PUBLIC_REVENUECAT_API_KEY`
 
-- [ ] **建立 Anthropic 帳號並儲值**
-  - 網址：console.anthropic.com
-  - 建立 API Key → 填入 Supabase Edge Functions Secrets 的 `ANTHROPIC_API_KEY`
-  - 初期儲值 $10 USD 觀察用量
+- [x] **建立 Anthropic 帳號並儲值**（2026-03-26）
+  - API Key 已設定到 Supabase Secrets
+  - 初期儲值 $5 USD
 
 ---
 
 ## EAS Build 準備
 
-- [ ] **`eas login` + `eas init`**
-  - 在 terminal 執行：
-    ```bash
-    cd app
-    eas login          # 輸入 Expo 帳號（可用 savelyn.siao@gmail.com 或新建）
-    eas init           # 建立專案，自動填入 app.json 的 projectId
-    ```
+- [x] **`eas login` + `eas init`**（2026-03-26）
+  - projectId：`70bf336b-2ec8-4170-bbb3-68d7c81b9879`
+  - Distribution Certificate 已建立，有效至 2027-03-26
+  - Provisioning Profile 已建立（XJHCJ3RV7J）
 
-- [ ] **`eas build --platform ios --profile preview`**
-  - 建立 TestFlight 測試包
-  - 首次需要輸入 Apple ID 憑證
+- [x] **`expo-av` → `expo-audio` 遷移**（2026-03-26）
+  - 修正 SDK 55 build 錯誤（`EXEventEmitter.h not found`）
+  - SpeakScreen 已改用 `useAudioRecorder` / `useAudioPlayer`
+
+- [ ] **`eas build --platform ios --profile production`**（build #2 排隊中）
+  - 等通知確認是否成功
 
 - [ ] **`eas submit --platform ios --profile production`**
-  - 送出正式版
-  - 需先填好 `eas.json` submit 區段的 `appleId`、`ascAppId`、`appleTeamId`
+  - build 成功後執行
+  - 需先在 App Store Connect 建立 App 條目，取得 `ascAppId`
 
 ---
 

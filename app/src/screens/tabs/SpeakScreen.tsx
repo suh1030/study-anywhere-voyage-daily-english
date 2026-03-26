@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import {
   View,
   Text,
@@ -9,7 +9,7 @@ import {
   Alert,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
-import { Audio, type AVPlaybackStatus } from 'expo-av'
+import { useAudioRecorder, useAudioPlayer, AudioModule, RecordingPresets } from 'expo-audio'
 import * as Speech from 'expo-speech'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { fetchArticle, parseParagraphs, type ArticleRow } from '../../data/content-api'
@@ -28,9 +28,9 @@ export default function SpeakScreen() {
   const [isRecording, setIsRecording] = useState(false)
   const [isPlaying, setIsPlaying] = useState(false)
   const [activeParagraph, setActiveParagraph] = useState(-1)
-  const recordingRef = useRef<Audio.Recording | null>(null)
-  const soundRef = useRef<Audio.Sound | null>(null)
-  const recordingUriRef = useRef<string | null>(null)
+  const [recordingUri, setRecordingUri] = useState<string | null>(null)
+  const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
+  const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
 
   useEffect(() => {
     const todayKey = getTodayKey()
@@ -40,8 +40,6 @@ export default function SpeakScreen() {
     })
     return () => {
       Speech.stop()
-      soundRef.current?.unloadAsync()
-      recordingRef.current?.stopAndUnloadAsync()
     }
   }, [])
 
@@ -57,62 +55,51 @@ export default function SpeakScreen() {
     Speech.speak(paragraphs[activeParagraph], { language: 'en-US', rate: 0.9 })
   }, [activeParagraph, article])
 
+  // Detect playback finishing
+  useEffect(() => {
+    if (!player.playing && isPlaying) {
+      setIsPlaying(false)
+    }
+  }, [player.playing])
+
   const handleRecord = async () => {
     if (isRecording) {
       try {
-        await recordingRef.current?.stopAndUnloadAsync()
-        recordingUriRef.current = recordingRef.current?.getURI() ?? null
-        recordingRef.current = null
+        await recorder.stop()
+        setRecordingUri(recorder.uri ?? null)
       } catch {}
       setIsRecording(false)
     } else {
       try {
-        await soundRef.current?.unloadAsync()
-        soundRef.current = null
         setIsPlaying(false)
-
-        const { granted } = await Audio.requestPermissionsAsync()
+        const { granted } = await AudioModule.requestRecordingPermissionsAsync()
         if (!granted) {
           Alert.alert('Permission required', 'Microphone access is needed to record.')
           return
         }
         Speech.stop()
-        await Audio.setAudioModeAsync({ allowsRecordingIOS: true, playsInSilentModeIOS: true })
-        const { recording } = await Audio.Recording.createAsync(
-          Audio.RecordingOptionsPresets.HIGH_QUALITY
-        )
-        recordingRef.current = recording
-        recordingUriRef.current = null
+        await AudioModule.setAudioModeAsync({ allowsRecordingIOS: true, playsInSilentModeIOS: true })
+        await recorder.prepareToRecordAsync(RecordingPresets.HIGH_QUALITY)
+        recorder.record()
+        setRecordingUri(null)
         setIsRecording(true)
-      } catch (e) {
+      } catch {
         Alert.alert('Error', 'Could not start recording.')
       }
     }
   }
 
   const handlePlayback = async () => {
-    if (!recordingUriRef.current) return
+    if (!recordingUri) return
     try {
       if (isPlaying) {
-        await soundRef.current?.pauseAsync()
+        player.pause()
         setIsPlaying(false)
-        return
-      }
-      if (soundRef.current) {
-        await soundRef.current.playAsync()
+      } else {
+        await AudioModule.setAudioModeAsync({ allowsRecordingIOS: false, playsInSilentModeIOS: true })
+        player.play()
         setIsPlaying(true)
-        return
       }
-      await Audio.setAudioModeAsync({ allowsRecordingIOS: false, playsInSilentModeIOS: true })
-      const { sound } = await Audio.Sound.createAsync(
-        { uri: recordingUriRef.current },
-        { shouldPlay: true },
-        (status: AVPlaybackStatus) => {
-          if (status.isLoaded && status.didJustFinish) setIsPlaying(false)
-        }
-      )
-      soundRef.current = sound
-      setIsPlaying(true)
     } catch {
       Alert.alert('Error', 'Could not play recording.')
     }
@@ -180,7 +167,7 @@ export default function SpeakScreen() {
           </Text>
         </TouchableOpacity>
 
-        {recordingUriRef.current && !isRecording && (
+        {recordingUri && !isRecording && (
           <TouchableOpacity style={[styles.ctrlBtn, isPlaying && styles.ctrlBtnActive]} onPress={handlePlayback}>
             <Text style={[styles.ctrlBtnText, isPlaying && styles.ctrlBtnActiveText]}>
               {isPlaying ? 'PAUSE' : 'PLAYBACK'}
