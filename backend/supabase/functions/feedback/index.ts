@@ -30,8 +30,24 @@ Deno.serve(async (req) => {
       return jsonResponse({ error: 'missing_fields' }, 400)
     }
 
-    // ── 3. 原子扣點 ──────────────────────────────────────────
+    // ── 3. 每日使用上限（每人每天最多 20 次，防止濫用）────────
     const supabaseAdmin = createAdminClient()
+    const DAILY_LIMIT = 20
+    const todayStart = new Date()
+    todayStart.setHours(0, 0, 0, 0)
+
+    const { count } = await supabaseAdmin
+      .from('credit_transactions')
+      .select('*', { count: 'exact', head: true })
+      .eq('user_id', user.id)
+      .eq('type', 'deduct')
+      .gte('created_at', todayStart.toISOString())
+
+    if ((count ?? 0) >= DAILY_LIMIT) {
+      return jsonResponse({ error: 'daily_limit_reached', limit: DAILY_LIMIT }, 429)
+    }
+
+    // ── 4. 原子扣點 ──────────────────────────────────────────
     const { data: deductResult, error: deductError } = await supabaseAdmin.rpc(
       'deduct_credit',
       { p_user_id: user.id }
@@ -44,7 +60,7 @@ Deno.serve(async (req) => {
       )
     }
 
-    // ── 4. 呼叫 Claude API ───────────────────────────────────
+    // ── 5. 呼叫 Claude API ───────────────────────────────────
     // 使用 Haiku：對話批改任務品質足夠，成本比 Sonnet 低 ~75%
     const anthropic = new Anthropic({ apiKey: Deno.env.get('ANTHROPIC_API_KEY')! })
     let feedback: string
@@ -68,7 +84,7 @@ Deno.serve(async (req) => {
       return jsonResponse({ error: 'ai_unavailable' }, 503)
     }
 
-    // ── 5. 記錄交易 ──────────────────────────────────────────
+    // ── 6. 記錄交易 ──────────────────────────────────────────
     await supabaseAdmin.from('credit_transactions').insert({
       user_id: user.id,
       type: 'deduct',
