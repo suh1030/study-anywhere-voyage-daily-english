@@ -19,10 +19,7 @@
     },
     "production": {
       "channel": "production",
-      "autoIncrement": true,
-      "ios": {
-        "enterpriseProvisioning": "universal"
-      }
+      "autoIncrement": true
     }
   },
   "submit": {

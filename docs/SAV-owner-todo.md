@@ -2,91 +2,103 @@
 
 這份清單記錄需要你（Savelyn）親自完成的事項，不屬於工程開發範疇。
 
----
-
-## 上架前必做（不做就無法上架）
-
-- [ ] **申請 Apple Developer Program**
-  - 費用：$99 USD / 年
-  - 網址：developer.apple.com/programs/enroll
-  - 用途：才能使用 EAS Build 送審、TestFlight、App Store Connect
-
-- [ ] **申請 Google Play Console**
-  - 費用：$25 USD（一次性）
-  - 網址：play.google.com/console
-  - 用途：才能上架 Google Play
-
-- [ ] **申請 Apple Small Business Program（15% 抽成）**
-  - 費用：免費
-  - 時機：Apple Developer Program 申請完成後即可申請
-  - 網址：developer.apple.com/app-store/small-business-program
-  - 效果：App Store 抽成從 30% 降至 15%，每筆 NT$60 多拿 ~NT$9
-
-- [ ] **申請 Google Play 小型開發者方案（15% 抽成）**
-  - 費用：免費
-  - 時機：Google Play Console 建立後，在「付款設定」中確認
-  - 效果：年收入 $1M USD 以下自動適用 15%
+> 最後更新：2026-03-26
 
 ---
 
-## 服務帳號建立
+## 立即可做（不需要等開發）
 
-- [ ] **建立 Supabase 帳號**
-  - 網址：supabase.com
-  - 免費方案足夠 v1 使用
+- [ ] **GitHub Pages 開啟**
+  - 進入 GitHub repo → Settings → Pages → Source → 選「GitHub Actions」
+  - 完成後隱私政策網址：`https://suh1030.github.io/study-anywhere-voyage-daily-english/privacy-policy.html`
+  - 這個網址要填入 App Store Connect
 
-- [ ] **建立 Cloudflare 帳號**
-  - 網址：cloudflare.com
-  - 用途：R2 儲存 TTS 音訊檔（免費額度足夠）
+- [ ] **Supabase Dashboard → Auth → Providers 設定**
+  - 開啟 Sign in with Apple：需要填入 Services ID + Team ID + Key ID + Private Key
+    - 教學：dashboard → Authentication → Providers → Apple
+  - 開啟 Google Sign In：需要填入 Google OAuth Client ID
+    - 到 console.cloud.google.com 建立 OAuth 2.0 Client
 
-- [ ] **建立 OpenAI 帳號並儲值**
-  - 網址：platform.openai.com
-  - 用途：預生成所有 TTS 音訊（預估 $5–10 USD 一次性費用）
-  - 儲值 $10 USD 即可
+- [ ] **Supabase Dashboard → Edge Functions → Secrets 設定**
+  - `ANTHROPIC_API_KEY` — 從 console.anthropic.com 取得
+  - `REVENUECAT_WEBHOOK_SECRET` — RevenueCat dashboard → Integrations → Webhooks
 
 - [ ] **建立 RevenueCat 帳號**
-  - 網址：revenuecat.com
-  - 免費方案支援月收入 < $2,500 USD
+  - 網址：revenuecat.com（免費方案）
+  - 在 App Store Connect 建立 In-App Purchase 產品：`sav_credits_10`（Consumable，NT$60）
+  - RevenueCat → 建立 Offering → 綁定剛建立的產品
+  - 取得 iOS Public SDK Key → 填入 `app/.env` 的 `EXPO_PUBLIC_REVENUECAT_API_KEY`
 
 - [ ] **建立 Anthropic 帳號並儲值**
   - 網址：console.anthropic.com
-  - 用途：AI 批改（後端呼叫 Claude API）
-  - 按用量計費，初期儲值 $10 USD 觀察用量
+  - 建立 API Key → 填入 Supabase Edge Functions Secrets 的 `ANTHROPIC_API_KEY`
+  - 初期儲值 $10 USD 觀察用量
 
 ---
 
-## App Store 上架材料（開發後期準備）
+## EAS Build 準備
+
+- [ ] **`eas login` + `eas init`**
+  - 在 terminal 執行：
+    ```bash
+    cd app
+    eas login          # 輸入 Expo 帳號（可用 savelyn.siao@gmail.com 或新建）
+    eas init           # 建立專案，自動填入 app.json 的 projectId
+    ```
+
+- [ ] **`eas build --platform ios --profile preview`**
+  - 建立 TestFlight 測試包
+  - 首次需要輸入 Apple ID 憑證
+
+- [ ] **`eas submit --platform ios --profile production`**
+  - 送出正式版
+  - 需先填好 `eas.json` submit 區段的 `appleId`、`ascAppId`、`appleTeamId`
+
+---
+
+## App Store 上架材料
+
+- [x] **隱私政策** — 已撰寫完成（`docs/legal/privacy-policy.html`）
+- [x] **使用條款** — 已撰寫完成（`docs/legal/terms-of-service.html`）
+- [x] **App Store 描述文案** — 已完成（`docs/app-store-copy.md`，含中英文）
+- [x] **Privacy Nutrition Labels 填寫指南** — 已完成（`docs/privacy-nutrition-labels.md`）
 
 - [ ] **準備 App Store 截圖**
-  - 需要尺寸：iPhone 6.7"（必要）、iPhone 6.5"（建議）、iPad 12.9"（如支援）
-  - 至少 3 張，每個分頁各一張效果最好
+  - 需要尺寸：iPhone 6.7"（必要）、iPhone 6.5"（建議）
+  - 至少 5 張（建議：Schedule、Listen、Speak、Conversation、Review 各一張）
+  - 用 iOS Simulator 截圖，或用 Figma/Canva 製作帶背景的精美版
 
-- [ ] **撰寫 App Store 描述文案**
-  - 繁體中文（主要市場）
-  - 英文（選填，但建議有）
-  - 我可以幫你起草
-
-- [ ] **準備隱私政策頁面網址**
-  - Apple 上架強制要求
-  - 我會幫你寫內容；你需要一個可公開訪問的網址來放它
-  - 最簡單做法：GitHub Pages 或 Notion 公開頁面（免費）
-
-- [ ] **填寫 App Store Connect Privacy Nutrition Labels**
-  - 聲明 App 收集哪些用戶資料（帳號資料、麥克風使用等）
-  - 我會在隱私政策完成後協助你對照填寫
+- [ ] **App Store Connect 建立 App 條目**
+  - Bundle ID：`com.savelyn.studyanywherevoyage`
+  - 定價：NT$60（iOS Price Tier 1）
+  - 分類：Education / Reference
+  - 年齡分級：4+
+  - 填入隱私政策 URL
 
 - [ ] **設定 Apple 審核用測試帳號**
-  - 一組已有點數的帳號，提供給 Apple 審核員測試 AI 批改功能
-  - 在 App Store Connect 的「App 審查資訊」填入帳號密碼
+  - 建立一個 email/password 帳號（可用 + 記法，如 `savelyn.siao+review@gmail.com`）
+  - 在 Supabase Dashboard 手動為這個帳號加入 10 點 credits
+  - 在 App Store Connect → App 審查資訊 → 填入帳號/密碼
 
 ---
 
-## 財務與法律
+## 財務帳號設定（上架前必做）
 
-- [ ] **確認付款收款方式**
-  - Apple / Google 會匯款至你的銀行帳戶
-  - 需要在 Apple Store Connect 和 Google Play Console 設定銀行資訊、稅務資料
+- [x] **Apple Developer Program** — 已購買（savelyn.siao@gmail.com，2026-03-20）
+- [ ] **Google Play Console** — $25 USD 一次性（play.google.com/console）
+- [ ] **Apple Small Business Program（15% 抽成）** — 免費申請（developer.apple.com/app-store/small-business-program）
+- [ ] **Apple Store Connect 銀行資訊 + 稅務資料** — 在 App Store Connect → Agreements, Tax, and Banking
+- [ ] **Google Play 銀行資訊 + 稅務資料** — 在 Play Console → Setup → Payments profile
 
-- [ ] **確認是否需要統一編號 / 公司設立**
-  - 個人名義上架可行，但收入需要申報
-  - 如果規模成長，考慮設立公司（有限公司或行號）
+---
+
+## 可選（音訊品質升級，不影響初版上架）
+
+- [ ] **OpenAI TTS 音訊生成**
+  - 預估費用：$5–10 USD 一次性
+  - 用 `scripts/generate-audio.ts`（需另外建立）生成所有 Episode 台詞 mp3
+  - 上傳至 Cloudflare R2
+
+- [ ] **Cloudflare R2 bucket**
+  - 免費額度每月 10GB / 1000 萬次 GET
+  - 用於存放 TTS 音訊 CDN
