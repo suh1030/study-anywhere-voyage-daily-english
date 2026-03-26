@@ -1,6 +1,6 @@
 # SAV Daily English — Development Progress
 
-> Last updated: 2026-03-25（Phase 3 功能補完：TTS 播放整合（expo-speech）、ProfileModal + 登出功能、W42–W53 Speak 文章全部完成）
+> Last updated: 2026-03-26（後端全面就緒：Migrations 部署、7 支 Edge Functions 部署、DB 全資料 Seed 完成；App 功能全部實作）
 > Purpose: 讓新 session 的 AI 快速了解已完成的工作和待辦事項
 
 ---
@@ -29,12 +29,16 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
   - `restore_credit` — API 失敗補償
   - `add_credits` — 購買增點
 - [x] Trigger：`on_auth_user_created` — 新用戶自動建立 profile + credits + progress
-- [x] 5 支 Edge Functions 已部署：
+- [x] **7 支 Edge Functions 部署至雲端**（2026-03-26）：
   - `feedback` — AI 批改（JWT + 扣點 + Claude Haiku）
   - `credits-webhook` — RevenueCat IAP webhook（HMAC 驗證）
   - `progress-sync` — 學習進度雲端同步
   - `content-episode` — Podcast 集數 API
   - `content-article` — Speak 文章 API
+  - `content-flashcards` — 字卡 API
+  - `content-questions` — 對話題目 API
+- [x] **DB migrations 部署**（2026-03-26）：3 支 migrations 推至雲端（W42–W53 擴展、day_of_week、questions schema fix）
+- [x] **DB 全資料 Seed 完成**（2026-03-26）：episodes 365 筆、articles 365 筆、flashcards 586 筆、questions 265 筆
 - [x] Supabase config.toml（DB v17、Apple/Google auth placeholder）
 - [x] Backend README（部署指南 + 安全說明）
 
@@ -158,8 +162,8 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 
 ### Phase 6 — EAS Build & 送審
 - [x] EAS Build 設定（`eas.json` — development/preview/production profiles，`app.json` 完整 bundle ID / permissions / dark mode / expo-av plugin）
-- [ ] `npx expo install expo-speech` 在 `/app` 目錄執行（安裝 node_modules，package.json 已加入 `~13.0.1`）← 需在終端執行
-- [ ] `eas init` 取得真實 EAS project ID（替換 `app.json` 中 `YOUR_EAS_PROJECT_ID`）← 需 Expo 帳號
+- [x] `expo-speech` + 所有依賴已安裝（`npm install` 完成）
+- [ ] `eas login` + `eas init` 取得真實 EAS project ID（替換 `app.json` 中 `YOUR_EAS_PROJECT_ID`）← 需在終端互動式登入
 - [ ] TestFlight 內部測試
 - [ ] 完整功能測試（重點：IAP 購買、點數扣除、音訊播放、錄音、Auth flow）
 - [ ] App Store Connect 送審
@@ -176,7 +180,8 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 
 
 ### Owner TODO（使用者需自行處理）
-- [ ] 申請 Apple Developer Program（$99 USD/年）— 送審前必須
+- [x] Apple Developer Program 已購買（savelyn.siao@gmail.com，2026-03-20）
+- [x] EAS CLI 已安裝（`eas-cli` global）
 - [ ] 申請 Google Play Console（$25 USD 一次）— 送審前必須
 - [ ] 上架前申請 Apple Small Business Program（15% 抽成，免費申請）
 - [ ] 上架前申請 Google Play 小開發者方案（15% 抽成）
