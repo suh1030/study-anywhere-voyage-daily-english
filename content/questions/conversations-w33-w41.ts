@@ -1,6 +1,6 @@
-import { ConversationQuestion } from './conversations-w01-w08'
+import { ConversationQuestion, expandConversationWeeks } from './conversations-w01-w08'
 
-export const CONVERSATIONS_W33_W41: ConversationQuestion[] = [
+const RAW_CONVERSATIONS_W33_W41: ConversationQuestion[] = [
   // W33 — Technology's Role in Society
   {
     weekNumber: 33, theme: 'Technology\'s Role in Society', day: 'Monday',
@@ -289,3 +289,5 @@ export const CONVERSATIONS_W33_W41: ConversationQuestion[] = [
     structureTip: 'Use: The next chapter of my life will be about... / I see it as a time to... / I want it to be defined by...',
   },
 ]
+
+export const CONVERSATIONS_W33_W41 = expandConversationWeeks(RAW_CONVERSATIONS_W33_W41)

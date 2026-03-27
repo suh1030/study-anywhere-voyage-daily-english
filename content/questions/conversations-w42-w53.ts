@@ -1,13 +1,6 @@
-export interface ConversationQuestion {
-  weekNumber: number
-  theme: string
-  day: string
-  question: string
-  chineseHint: string
-  structureTip: string
-}
+import { ConversationQuestion, expandConversationWeeks } from './conversations-w01-w08'
 
-export const CONVERSATIONS_W42_W53: ConversationQuestion[] = [
+const RAW_CONVERSATIONS_W42_W53: ConversationQuestion[] = [
   // W42 — The Future
   {
     weekNumber: 42, theme: 'The Future', day: 'Monday',
@@ -392,3 +385,5 @@ export const CONVERSATIONS_W42_W53: ConversationQuestion[] = [
     structureTip: 'Use: My advice would be to... / The most important thing is... / I would tell them that...',
   },
 ]
+
+export const CONVERSATIONS_W42_W53 = expandConversationWeeks(RAW_CONVERSATIONS_W42_W53)

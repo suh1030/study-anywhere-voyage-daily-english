@@ -52,9 +52,8 @@ function getWeekDates(weekNum: number): string[] {
   })
 }
 
-const DAY_OF_WEEK: Record<string, number> = {
-  Monday: 1, Tuesday: 2, Wednesday: 3, Thursday: 4, Friday: 5,
-  Saturday: 6, Sunday: 7,
+function getExpectedWeekLength(weekNum: number): number {
+  return weekNum === 1 || weekNum === 53 ? 4 : 7
 }
 
 // ── upsert helpers ─────────────────────────────────────────────────────────────
@@ -118,9 +117,14 @@ async function seedArticles() {
     const key    = `W${w}_ARTICLES`
     const arts: any[] = mod[key] ?? []
     const dates  = getWeekDates(w)
+    const expected = getExpectedWeekLength(w)
+    const normalized = arts.slice(0, expected)
 
-    arts.forEach((a, i) => {
-      if (!dates[i]) return // skip if article count exceeds week length
+    if (arts.length > expected) {
+      console.warn(`[articles] W${pad} has ${arts.length} articles; trimming to ${expected}.`)
+    }
+
+    normalized.forEach((a, i) => {
       rows.push({
         date_key:   dates[i],            // re-mapped to 2026 calendar
         week_number: w,
@@ -181,22 +185,72 @@ async function seedQuestions() {
     ['conversations-w42-w53',  'CONVERSATIONS_W42_W53'],
   ] as const
 
-  const rows: object[] = []
+  const grouped = new Map<number, { theme: string; question: string; chineseHint: string; structureTip: string }[]>()
   for (const [file, exportName] of files) {
     const mod = await import(`../content/questions/${file}`)
     const qs: any[] = mod[exportName] ?? []
     for (const q of qs) {
-      rows.push({
-        week_number:    q.weekNumber,
-        day_of_week:    DAY_OF_WEEK[q.day] ?? 1,
-        question:       q.question,
-        hint_zh:        q.chineseHint,
-        structure_hint: q.structureTip,
+      const bucket = grouped.get(q.weekNumber) ?? []
+      bucket.push({
+        theme: q.theme,
+        question: q.question,
+        chineseHint: q.chineseHint,
+        structureTip: q.structureTip,
       })
+      grouped.set(q.weekNumber, bucket)
     }
   }
 
+  const rows: object[] = []
+  for (let weekNumber = 1; weekNumber <= 53; weekNumber++) {
+    const base = grouped.get(weekNumber) ?? []
+    const expected = getExpectedWeekLength(weekNumber)
+    const theme = base[0]?.theme ?? `Week ${weekNumber}`
+    let normalized = base.slice(0, expected)
+
+    if (base.length > expected) {
+      console.warn(`[questions] W${String(weekNumber).padStart(2, '0')} has ${base.length} prompts; trimming to ${expected}.`)
+    }
+
+    if (normalized.length < expected) {
+      normalized = normalized.concat(generateSupplementalQuestions(theme, expected - normalized.length))
+      console.warn(`[questions] W${String(weekNumber).padStart(2, '0')} had ${base.length} prompts; auto-filled to ${expected}.`)
+    }
+
+    normalized.forEach((q, index) => {
+      rows.push({
+        week_number: weekNumber,
+        day_of_week: index + 1,
+        question: q.question,
+        hint_zh: q.chineseHint,
+        structure_hint: q.structureTip,
+      })
+    })
+  }
+
   await truncateInsert('questions', rows)
+}
+
+function generateSupplementalQuestions(theme: string, count: number) {
+  const templates = [
+    {
+      question: `After exploring ${theme} this week, what idea feels most relevant to your life right now?`,
+      chineseHint: `回顧這週的主題「${theme}」，哪一個觀念和你現在的生活最有關？請結合自己的經驗說明。`,
+      structureTip: 'Use: What stood out to me most was... / This feels relevant because... / In my life right now...',
+    },
+    {
+      question: `What is one action or mindset from this week's theme of ${theme} that you want to carry forward?`,
+      chineseHint: `這週談到「${theme}」，你想帶進下週或日常生活的一個行動或心態是什麼？`,
+      structureTip: 'Use: One thing I want to carry forward is... / From now on, I want to... / This week reminded me that...',
+    },
+  ]
+
+  return templates.slice(0, count).map((item) => ({
+    theme,
+    question: item.question,
+    chineseHint: item.chineseHint,
+    structureTip: item.structureTip,
+  }))
 }
 
 // ── main ──────────────────────────────────────────────────────────────────────

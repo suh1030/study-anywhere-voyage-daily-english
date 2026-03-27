@@ -7,7 +7,63 @@ export interface ConversationQuestion {
   structureTip: string
 }
 
-export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
+const DAY_LABELS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+
+function getExpectedWeekLength(weekNumber: number): number {
+  return weekNumber === 1 || weekNumber === 53 ? 4 : 7
+}
+
+function buildSupplementalQuestions(theme: string): Omit<ConversationQuestion, 'weekNumber' | 'day'>[] {
+  return [
+    {
+      theme,
+      question: `After this week on ${theme}, what idea feels most relevant to your life right now?`,
+      chineseHint: `回顧這週的主題「${theme}」，哪個觀念和你現在的生活最有關？請結合自己的經驗回答。`,
+      structureTip: 'Use: What stood out to me most was... / This feels relevant because... / In my life right now...',
+    },
+    {
+      theme,
+      question: `What is one action or mindset from this week's theme of ${theme} that you want to carry into next week?`,
+      chineseHint: `從這週的主題「${theme}」裡，你想帶進下週生活的一個行動或心態是什麼？`,
+      structureTip: 'Use: One thing I want to carry forward is... / From now on, I want to... / This week reminded me that...',
+    },
+  ]
+}
+
+export function expandConversationWeeks(questions: ConversationQuestion[]): ConversationQuestion[] {
+  const grouped = new Map<number, ConversationQuestion[]>()
+
+  for (const question of questions) {
+    const bucket = grouped.get(question.weekNumber) ?? []
+    bucket.push(question)
+    grouped.set(question.weekNumber, bucket)
+  }
+
+  return Array.from(grouped.entries())
+    .sort((a, b) => a[0] - b[0])
+    .flatMap(([weekNumber, bucket]) => {
+      const expected = getExpectedWeekLength(weekNumber)
+      const trimmed = bucket.slice(0, expected).map((item, index) => ({
+        ...item,
+        day: DAY_LABELS[index],
+      }))
+
+      if (trimmed.length >= expected) return trimmed
+
+      const theme = trimmed[0]?.theme ?? bucket[0]?.theme ?? `Week ${weekNumber}`
+      const extras = buildSupplementalQuestions(theme)
+        .slice(0, expected - trimmed.length)
+        .map((item, index) => ({
+          weekNumber,
+          day: DAY_LABELS[trimmed.length + index],
+          ...item,
+        }))
+
+      return trimmed.concat(extras)
+    })
+}
+
+const RAW_CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   // W1 — Morning Routines
   {
     weekNumber: 1, theme: 'Morning Routines', day: 'Monday',
@@ -264,3 +320,5 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     structureTip: "Use: I wish I had more time for... / If I had an extra hour each day, I'd... / The one thing I never have enough time for is...",
   },
 ]
+
+export const CONVERSATIONS_W01_W08 = expandConversationWeeks(RAW_CONVERSATIONS_W01_W08)

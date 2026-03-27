@@ -1,6 +1,6 @@
-import { ConversationQuestion } from './conversations-w01-w08'
+import { ConversationQuestion, expandConversationWeeks } from './conversations-w01-w08'
 
-export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
+const RAW_CONVERSATIONS_W17_W24: ConversationQuestion[] = [
   // W17 — Your Job & Workplace
   {
     weekNumber: 17, theme: 'Your Job & Workplace', day: 'Monday',
@@ -257,3 +257,5 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     structureTip: 'Use: I would tell my younger self to... / Looking back, I wish I had... / The most important lesson I\'ve learned is...',
   },
 ]
+
+export const CONVERSATIONS_W17_W24 = expandConversationWeeks(RAW_CONVERSATIONS_W17_W24)
