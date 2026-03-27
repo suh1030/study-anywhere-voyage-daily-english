@@ -622,9 +622,9 @@ stores/
 ### 內容製作標準
 
 **Podcast 腳本：**
-- 說話者固定為 Mira（主角）和 Jamie（訪問者）
+- 說話者依階段輪替（詳見 SAV-spec-zh.md 角色設定表）：W1–W10 Mira/Jamie、W11–W18 Lily/Tom、W19–W26 Sara/Alex、W27–W34 Nina/Marcus、W35–W43 Jade/Ryan、W44–W53 Maya/James
 - 嚴禁真實地名、品牌名、個人識別資訊
-- 每集約 1,200 字，5 段，35–45 行
+- 每集約 500 字，3 段，16–20 行
 
 **Speak 文章：**
 - 約 600 字，5 段落

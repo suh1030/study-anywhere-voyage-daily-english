@@ -86,7 +86,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 > 以下為舊架構完成紀錄，新架構待辦見 Phase 2.5。
 
 #### 舊架構已完成（W1–W41，每週 1 集 Podcast）
-- [x] Podcast Episode 錨點集數 W2–W41（40 集，格式：每週 1 集，5 部分 × 8 行）
+- [x] Podcast Episode 錨點集數 W2–W41（40 集，舊格式：每週 1 集，5 部分 × 8 行）⚠️ 需依新規格重新生成（3 部分 × 6 行，共 16–20 行）
   - `content/episodes/episode-02.ts` 至 `episode-41.ts`
   - 注意：episode-01.ts 遺失，內容需補建至新架構的 week-02.ts Day1
 - [x] Speak 文章 W1–W41（287 篇）
