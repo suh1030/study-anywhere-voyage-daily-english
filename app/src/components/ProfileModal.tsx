@@ -1,3 +1,7 @@
+// Pricing constants — update here if price changes
+const BUY_CREDITS_AMOUNT = 10
+const BUY_CREDITS_PRICE = 'NT$60'
+
 import React from 'react'
 import {
   View,
@@ -24,7 +28,7 @@ export default function ProfileModal({ visible, onClose }: Props) {
   const handleBuyCredits = async () => {
     const result = await purchaseCredits()
     if (result.success) {
-      Alert.alert('Success', '10 credits added!')
+      Alert.alert('Success', `${BUY_CREDITS_AMOUNT} credits added to your account.`)
     } else if (result.error) {
       Alert.alert('Purchase failed', result.error)
     }
@@ -64,7 +68,7 @@ export default function ProfileModal({ visible, onClose }: Props) {
                 disabled={purchasing}
               >
                 <Text style={styles.buyBtnText}>
-                  {purchasing ? 'PROCESSING...' : 'BUY 10 CREDITS  NT$60'}
+                  {purchasing ? 'PROCESSING...' : `BUY ${BUY_CREDITS_AMOUNT} CREDITS  ${BUY_CREDITS_PRICE}`}
                 </Text>
               </TouchableOpacity>
 

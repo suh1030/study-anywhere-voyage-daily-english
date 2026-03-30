@@ -171,12 +171,30 @@ export default function ReviewScreen() {
         numColumns={NUM_COLUMNS}
         columnWrapperStyle={styles.row}
         contentContainerStyle={styles.listContent}
+        ListHeaderComponent={
+          filteredCards.length > 0 ? (
+            <Text style={styles.hint}>Long-press a card to mark as mastered</Text>
+          ) : null
+        }
         ListEmptyComponent={
-          <Text style={styles.emptyText}>No cards match this filter.</Text>
+          <View style={styles.emptyContainer}>
+            <Text style={styles.emptyText}>
+              {filter === 'mastered'
+                ? 'No mastered cards yet.\nLong-press any card to mark it.'
+                : filter === 'unmastered'
+                ? 'All cards are mastered!'
+                : filter === 'listen' || filter === 'speak'
+                ? `No ${filter} cards this week.`
+                : 'No flashcards for this week yet.'}
+            </Text>
+            {(filter !== 'all') && (
+              <TouchableOpacity style={styles.emptyFilterBtn} onPress={() => setFilter('all')}>
+                <Text style={styles.emptyFilterBtnText}>SHOW ALL CARDS</Text>
+              </TouchableOpacity>
+            )}
+          </View>
         }
       />
-
-      <Text style={styles.hint}>Long press a card to mark as mastered</Text>
     </SafeAreaView>
   )
 }
@@ -287,17 +305,38 @@ const styles = StyleSheet.create({
     letterSpacing: 1.5,
     color: colors.review,
   },
+  emptyContainer: {
+    alignItems: 'center',
+    paddingTop: spacing.xxl,
+    paddingHorizontal: spacing.xl,
+    gap: spacing.lg,
+  },
   emptyText: {
     ...typography.body,
     color: colors.muted,
     textAlign: 'center',
-    marginTop: spacing.xxl,
+    lineHeight: 22,
+  },
+  emptyFilterBtn: {
+    paddingHorizontal: spacing.lg,
+    paddingVertical: 8,
+    borderWidth: 1,
+    borderColor: colors.review + '60',
+    borderRadius: radius.sm,
+  },
+  emptyFilterBtnText: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    letterSpacing: 1.5,
+    color: colors.review,
   },
   hint: {
     fontFamily: fonts.mono,
     fontSize: 9,
     color: colors.muted2,
     textAlign: 'center',
+    paddingTop: spacing.xs,
     paddingBottom: spacing.sm,
+    paddingHorizontal: spacing.lg,
   },
 })

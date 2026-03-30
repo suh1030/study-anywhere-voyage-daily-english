@@ -243,11 +243,10 @@ export default function ScheduleScreen() {
       {/* Stats Header */}
       <View style={styles.header}>
         <View style={styles.headerTop}>
-          <TouchableOpacity onPress={handleReset}>
-            <Text style={[styles.resetBtn, resetConfirm && styles.resetBtnConfirm]}>
-              {resetConfirm ? 'TAP AGAIN TO CONFIRM' : 'RESET ALL'}
-            </Text>
-          </TouchableOpacity>
+          <View style={styles.headerBrand}>
+            <Text style={styles.brandSav}>SAV</Text>
+            <Text style={styles.brandSub}> · DAILY ENGLISH</Text>
+          </View>
           <TouchableOpacity style={styles.profileBtn} onPress={() => setShowProfile(true)}>
             <Text style={styles.profileBtnText}>{balance > 0 ? `${balance} CR` : 'PROFILE'}</Text>
           </TouchableOpacity>
@@ -266,8 +265,15 @@ export default function ScheduleScreen() {
             <Text style={styles.statLabel}>PROGRESS</Text>
           </View>
         </View>
-        <View style={styles.progressBar}>
-          <View style={[styles.progressFill, { width: `${stats.pct}%` }]} />
+        <View style={styles.progressBarRow}>
+          <View style={styles.progressBar}>
+            <View style={[styles.progressFill, { width: `${stats.pct}%` }]} />
+          </View>
+          <TouchableOpacity onPress={handleReset}>
+            <Text style={[styles.resetBtn, resetConfirm && styles.resetBtnConfirm]}>
+              {resetConfirm ? 'CONFIRM?' : 'RESET'}
+            </Text>
+          </TouchableOpacity>
         </View>
       </View>
 
@@ -305,26 +311,48 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginBottom: spacing.sm,
+    marginBottom: spacing.md,
+  },
+  headerBrand: {
+    flexDirection: 'row',
+    alignItems: 'baseline',
+  },
+  brandSav: {
+    fontFamily: fonts.mono,
+    fontSize: 14,
+    letterSpacing: 3,
+    color: colors.ui,
+    fontWeight: '600',
+  },
+  brandSub: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    letterSpacing: 2,
+    color: colors.muted,
   },
   profileBtn: {
-    paddingHorizontal: 8,
-    paddingVertical: 4,
+    paddingHorizontal: 10,
+    paddingVertical: 5,
     borderWidth: 1,
     borderColor: colors.border2,
     borderRadius: radius.sm,
   },
   profileBtnText: {
     fontFamily: fonts.mono,
-    fontSize: 8,
+    fontSize: 10,
     letterSpacing: 1.5,
     color: colors.ui,
   },
+  progressBarRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.md,
+  },
   resetBtn: {
     fontFamily: fonts.mono,
-    fontSize: 8,
-    letterSpacing: 1.5,
-    color: colors.muted,
+    fontSize: 9,
+    letterSpacing: 1,
+    color: colors.muted2,
   },
   resetBtnConfirm: {
     color: colors.error,
@@ -349,6 +377,7 @@ const styles = StyleSheet.create({
     marginTop: 2,
   },
   progressBar: {
+    flex: 1,
     height: 2,
     backgroundColor: colors.border2,
     borderRadius: 1,

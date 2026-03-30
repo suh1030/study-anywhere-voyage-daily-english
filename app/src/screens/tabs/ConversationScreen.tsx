@@ -10,6 +10,7 @@ import {
   Alert,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
+import { useNavigation } from '@react-navigation/native'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchQuestion, type QuestionRow } from '../../data/content-api'
@@ -23,6 +24,7 @@ function getTodayKey() {
 }
 
 export default function ConversationScreen() {
+  const navigation = useNavigation<any>()
   const [question, setQuestion] = useState<QuestionRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [answer, setAnswer] = useState('')
@@ -100,7 +102,11 @@ export default function ConversationScreen() {
     return (
       <SafeAreaView style={styles.container} edges={['top']}>
         <View style={styles.centered}>
-          <Text style={styles.emptyText}>No question for today.</Text>
+          <Text style={styles.emptyTitle}>No question today</Text>
+          <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
+          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigation.navigate('Schedule')}>
+            <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
+          </TouchableOpacity>
         </View>
       </SafeAreaView>
     )
@@ -108,21 +114,21 @@ export default function ConversationScreen() {
 
   return (
     <SafeAreaView style={styles.container} edges={['top']}>
-      <ScrollView contentContainerStyle={styles.scrollContent}>
-        {/* Header */}
-        <View style={styles.header}>
-          <Text style={styles.headerTitle}>Conversation</Text>
-          <View style={styles.creditsBadge}>
-            <Text style={styles.creditsText}>{balance} credits</Text>
-          </View>
+      {/* Fixed Header */}
+      <View style={styles.header}>
+        <View style={styles.headerLeft}>
+          <Text style={styles.weekLabel}>
+            W{String(question.week_number).padStart(2, '0')} · Day {question.day_of_week}
+          </Text>
         </View>
+        <View style={styles.creditsBadge}>
+          <Text style={styles.creditsText}>{balance} CR</Text>
+        </View>
+      </View>
 
+      <ScrollView contentContainerStyle={styles.scrollContent} keyboardShouldPersistTaps="handled">
         {/* Question Card */}
         <View style={styles.questionCard}>
-          <View style={styles.questionMeta}>
-            <Text style={styles.questionNum}>W{String(question.week_number).padStart(2, '0')} · Day {question.day_of_week}</Text>
-          </View>
-
           <Text style={styles.questionText}>{question.question}</Text>
           {question.hint_zh && (
             <Text style={styles.questionZh}>{question.hint_zh}</Text>
@@ -130,8 +136,8 @@ export default function ConversationScreen() {
 
           {question.structure_hint && (
             <>
-              <TouchableOpacity onPress={() => setShowHint(!showHint)}>
-                <Text style={styles.hintToggle}>{showHint ? 'Hide hint' : 'Show hint'}</Text>
+              <TouchableOpacity onPress={() => setShowHint(!showHint)} style={styles.hintToggleBtn}>
+                <Text style={styles.hintToggle}>{showHint ? '− Hide hint' : '+ Show hint'}</Text>
               </TouchableOpacity>
               {showHint && <Text style={styles.hintText}>{question.structure_hint}</Text>}
             </>
@@ -142,13 +148,14 @@ export default function ConversationScreen() {
         <View style={styles.answerSection}>
           <Text style={styles.sectionLabel}>YOUR ANSWER</Text>
           <TextInput
-            style={styles.answerInput}
+            style={[styles.answerInput, feedback && styles.answerInputDone]}
             placeholder="Write your answer in English..."
             placeholderTextColor={colors.muted}
             value={answer}
             onChangeText={setAnswer}
             multiline
             textAlignVertical="top"
+            editable={!feedback}
           />
         </View>
 
@@ -175,7 +182,7 @@ export default function ConversationScreen() {
               {creditsLoading ? (
                 <ActivityIndicator color={colors.bg} />
               ) : (
-                <Text style={styles.submitBtnText}>GET AI FEEDBACK (1 CREDIT)</Text>
+                <Text style={styles.submitBtnText}>GET AI FEEDBACK  ·  1 CREDIT</Text>
               )}
             </TouchableOpacity>
           )
@@ -206,17 +213,30 @@ export default function ConversationScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: colors.bg },
-  centered: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  emptyText: { fontSize: 14, color: colors.muted },
-  scrollContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.md },
+  centered: { flex: 1, justifyContent: 'center', alignItems: 'center', paddingHorizontal: spacing.xl },
+  emptyTitle: { ...typography.h2, color: colors.text, marginBottom: spacing.sm },
+  emptyHint: { fontSize: 13, color: colors.muted, textAlign: 'center', lineHeight: 20, marginBottom: spacing.lg },
+  emptyBtn: {
+    paddingHorizontal: spacing.lg,
+    paddingVertical: 10,
+    borderWidth: 1,
+    borderColor: colors.conversation + '60',
+    borderRadius: radius.sm,
+  },
+  emptyBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.conversation },
 
   header: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
     alignItems: 'center',
-    marginBottom: spacing.lg,
+    justifyContent: 'space-between',
+    paddingHorizontal: spacing.lg,
+    paddingTop: spacing.md,
+    paddingBottom: spacing.sm,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
   },
-  headerTitle: { ...typography.h1, color: colors.conversation },
+  headerLeft: { flex: 1 },
+  weekLabel: { fontFamily: fonts.mono, fontSize: 11, letterSpacing: 1, color: colors.muted },
   creditsBadge: {
     paddingHorizontal: 10,
     paddingVertical: 4,
@@ -227,20 +247,21 @@ const styles = StyleSheet.create({
   },
   creditsText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.gold },
 
+  scrollContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.lg },
+
   questionCard: {
     backgroundColor: colors.surface,
     borderWidth: 1,
     borderColor: colors.border,
+    borderLeftWidth: 3,
+    borderLeftColor: colors.conversation,
     borderRadius: radius.md,
     padding: spacing.lg,
     marginBottom: spacing.lg,
   },
-  questionMeta: {
-    marginBottom: spacing.md,
-  },
-  questionNum: { fontFamily: fonts.mono, fontSize: 10, color: colors.muted },
   questionText: { fontSize: 18, fontWeight: '500', color: colors.text, lineHeight: 28, marginBottom: spacing.sm },
-  questionZh: { fontSize: 14, color: colors.muted, lineHeight: 22, marginBottom: spacing.md },
+  questionZh: { fontSize: 14, color: colors.muted, lineHeight: 22, marginBottom: spacing.sm },
+  hintToggleBtn: { paddingVertical: 4 },
   hintToggle: { fontFamily: fonts.mono, fontSize: 10, color: colors.uiDim },
   hintText: {
     fontSize: 13,
@@ -268,6 +289,10 @@ const styles = StyleSheet.create({
     padding: spacing.md,
     borderRadius: radius.md,
     minHeight: 120,
+  },
+  answerInputDone: {
+    borderColor: colors.border,
+    color: colors.muted,
   },
 
   submitBtn: {

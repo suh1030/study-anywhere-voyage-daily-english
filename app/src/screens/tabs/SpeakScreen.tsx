@@ -11,6 +11,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useAudioRecorder, useAudioPlayer, AudioModule, RecordingPresets } from 'expo-audio'
 import * as Speech from 'expo-speech'
+import { useNavigation } from '@react-navigation/native'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { fetchArticle, parseParagraphs, type ArticleRow } from '../../data/content-api'
 
@@ -22,6 +23,7 @@ function getTodayKey() {
 }
 
 export default function SpeakScreen() {
+  const navigation = useNavigation<any>()
   const [article, setArticle] = useState<ArticleRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [showChinese, setShowChinese] = useState(false)
@@ -31,6 +33,8 @@ export default function SpeakScreen() {
   const [recordingUri, setRecordingUri] = useState<string | null>(null)
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
   const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
+
+  const isSpeaking = activeParagraph >= 0
 
   useEffect(() => {
     const todayKey = getTodayKey()
@@ -71,6 +75,15 @@ export default function SpeakScreen() {
     }
   }, [player.playing])
 
+  const handlePlayStop = () => {
+    if (isSpeaking) {
+      Speech.stop()
+      setActiveParagraph(-1)
+    } else {
+      setActiveParagraph(0)
+    }
+  }
+
   const handleRecord = async () => {
     if (isRecording) {
       try {
@@ -87,7 +100,8 @@ export default function SpeakScreen() {
           return
         }
         Speech.stop()
-        await AudioModule.setAudioModeAsync({ allowsRecordingIOS: true, playsInSilentModeIOS: true })
+        setActiveParagraph(-1)
+        await AudioModule.setAudioModeAsync({ allowsRecording: true, playsInSilentMode: true })
         await recorder.prepareToRecordAsync(RecordingPresets.HIGH_QUALITY)
         recorder.record()
         setRecordingUri(null)
@@ -105,7 +119,7 @@ export default function SpeakScreen() {
         player.pause()
         setIsPlaying(false)
       } else {
-        await AudioModule.setAudioModeAsync({ allowsRecordingIOS: false, playsInSilentModeIOS: true })
+        await AudioModule.setAudioModeAsync({ allowsRecording: false, playsInSilentMode: true })
         player.play()
         setIsPlaying(true)
       }
@@ -128,7 +142,11 @@ export default function SpeakScreen() {
     return (
       <SafeAreaView style={styles.container} edges={['top']}>
         <View style={styles.centered}>
-          <Text style={styles.emptyText}>No article for today.</Text>
+          <Text style={styles.emptyTitle}>No article today</Text>
+          <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
+          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigation.navigate('Schedule')}>
+            <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
+          </TouchableOpacity>
         </View>
       </SafeAreaView>
     )
@@ -152,10 +170,12 @@ export default function SpeakScreen() {
       {/* Controls */}
       <View style={styles.controlBar}>
         <TouchableOpacity
-          style={[styles.ctrlBtn, styles.ctrlBtnPrimary]}
-          onPress={() => setActiveParagraph((p) => (p < 0 ? 0 : (p + 1) % paragraphsEn.length))}
+          style={[styles.ctrlBtn, isSpeaking ? styles.ctrlBtnStop : styles.ctrlBtnPrimary]}
+          onPress={handlePlayStop}
         >
-          <Text style={styles.ctrlBtnPrimaryText}>PLAY</Text>
+          <Text style={isSpeaking ? styles.ctrlBtnStopText : styles.ctrlBtnPrimaryText}>
+            {isSpeaking ? 'STOP' : 'PLAY'}
+          </Text>
         </TouchableOpacity>
 
         <TouchableOpacity
@@ -163,7 +183,7 @@ export default function SpeakScreen() {
           onPress={() => setShowChinese(!showChinese)}
         >
           <Text style={[styles.ctrlBtnText, showChinese && styles.ctrlBtnActiveText]}>
-            {showChinese ? '中文 ON' : '中文 OFF'}
+            中文
           </Text>
         </TouchableOpacity>
 
@@ -191,7 +211,7 @@ export default function SpeakScreen() {
           {paragraphsEn.map((para, i) => (
             <View key={i}>
               <TouchableOpacity
-                onPress={() => setActiveParagraph(i)}
+                onPress={() => setActiveParagraph(activeParagraph === i ? -1 : i)}
                 activeOpacity={0.7}
               >
                 <Text
@@ -225,11 +245,14 @@ export default function SpeakScreen() {
           </View>
         )}
 
-        {/* Recording Box */}
+        {/* Recording Indicator */}
         {isRecording && (
           <View style={styles.recordingBox}>
-            <Text style={styles.recordingLabel}>RECORDING</Text>
-            <Text style={styles.recordingHint}>Read the article aloud. Tap STOP REC when done.</Text>
+            <View style={styles.recordingDot} />
+            <View style={styles.recordingContent}>
+              <Text style={styles.recordingLabel}>RECORDING</Text>
+              <Text style={styles.recordingHint}>Read the article aloud. Tap STOP REC when done.</Text>
+            </View>
           </View>
         )}
 
@@ -241,12 +264,24 @@ export default function SpeakScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: colors.bg },
-  centered: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  emptyText: { fontSize: 14, color: colors.muted },
+  centered: { flex: 1, justifyContent: 'center', alignItems: 'center', paddingHorizontal: spacing.xl },
+  emptyTitle: { ...typography.h2, color: colors.text, marginBottom: spacing.sm },
+  emptyHint: { fontSize: 13, color: colors.muted, textAlign: 'center', lineHeight: 20, marginBottom: spacing.lg },
+  emptyBtn: {
+    paddingHorizontal: spacing.lg,
+    paddingVertical: 10,
+    borderWidth: 1,
+    borderColor: colors.speak + '60',
+    borderRadius: radius.sm,
+  },
+  emptyBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.speak },
+
   header: {
     paddingHorizontal: spacing.lg,
     paddingTop: spacing.md,
     paddingBottom: spacing.sm,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
   },
   headerTop: {
     flexDirection: 'row',
@@ -278,6 +313,8 @@ const styles = StyleSheet.create({
   ctrlBtnText: { fontFamily: fonts.mono, fontSize: 9, letterSpacing: 1, color: colors.text },
   ctrlBtnPrimary: { backgroundColor: colors.speak, borderColor: colors.speak },
   ctrlBtnPrimaryText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.bg, fontWeight: '500' },
+  ctrlBtnStop: { backgroundColor: colors.muted, borderColor: colors.muted },
+  ctrlBtnStopText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.bg, fontWeight: '500' },
   ctrlBtnActive: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
   ctrlBtnActiveText: { color: colors.gold },
   recordingBtn: { borderColor: colors.error, backgroundColor: colors.error + '18' },
@@ -300,6 +337,7 @@ const styles = StyleSheet.create({
   paraEnActive: {
     backgroundColor: colors.speak + '12',
     borderRadius: radius.sm,
+    paddingHorizontal: 4,
   },
   paraZh: {
     fontSize: 14,
@@ -343,12 +381,23 @@ const styles = StyleSheet.create({
   vocabDef: { fontSize: 11, color: colors.muted },
 
   recordingBox: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    gap: spacing.md,
     backgroundColor: colors.surface,
     borderWidth: 1,
     borderColor: colors.error + '40',
     padding: spacing.lg,
     borderRadius: radius.md,
   },
+  recordingDot: {
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: colors.error,
+    marginTop: 4,
+  },
+  recordingContent: { flex: 1 },
   recordingLabel: {
     fontFamily: fonts.mono,
     fontSize: 9,

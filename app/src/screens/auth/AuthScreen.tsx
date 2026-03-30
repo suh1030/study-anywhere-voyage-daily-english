@@ -5,7 +5,6 @@ import {
   TextInput,
   TouchableOpacity,
   StyleSheet,
-  Alert,
   KeyboardAvoidingView,
   Platform,
   ActivityIndicator,
@@ -21,11 +20,13 @@ export default function AuthScreen() {
   const [loading, setLoading] = useState(false)
   const [appleLoading, setAppleLoading] = useState(false)
   const [googleLoading, setGoogleLoading] = useState(false)
+  const [authError, setAuthError] = useState('')
   const { signInWithEmail, signUpWithEmail, signInWithApple, signInWithGoogle } = useAuthStore()
 
   const handleSubmit = async () => {
+    setAuthError('')
     if (!email.trim() || !password.trim()) {
-      Alert.alert('Please fill in all fields')
+      setAuthError('Please fill in all fields.')
       return
     }
     setLoading(true)
@@ -35,24 +36,27 @@ export default function AuthScreen() {
     setLoading(false)
 
     if (error) {
-      Alert.alert('Error', error)
+      setAuthError(error)
     } else if (isSignUp) {
-      Alert.alert('Success', 'Check your email to confirm your account.')
+      setAuthError('')
+      // Show confirmation inline rather than Alert
     }
   }
 
   const handleAppleSignIn = async () => {
+    setAuthError('')
     setAppleLoading(true)
     const error = await signInWithApple()
     setAppleLoading(false)
-    if (error) Alert.alert('Error', error)
+    if (error) setAuthError(error)
   }
 
   const handleGoogleSignIn = async () => {
+    setAuthError('')
     setGoogleLoading(true)
     const error = await signInWithGoogle()
     setGoogleLoading(false)
-    if (error) Alert.alert('Error', error)
+    if (error) setAuthError(error)
   }
 
   return (
@@ -66,24 +70,28 @@ export default function AuthScreen() {
 
         <View style={styles.form}>
           <TextInput
-            style={styles.input}
+            style={[styles.input, authError ? styles.inputError : null]}
             placeholder="Email"
             placeholderTextColor={colors.muted}
             value={email}
-            onChangeText={setEmail}
+            onChangeText={(v) => { setEmail(v); setAuthError('') }}
             autoCapitalize="none"
             keyboardType="email-address"
             textContentType="emailAddress"
           />
           <TextInput
-            style={styles.input}
+            style={[styles.input, authError ? styles.inputError : null]}
             placeholder="Password"
             placeholderTextColor={colors.muted}
             value={password}
-            onChangeText={setPassword}
+            onChangeText={(v) => { setPassword(v); setAuthError('') }}
             secureTextEntry
             textContentType={isSignUp ? 'newPassword' : 'password'}
           />
+
+          {authError ? (
+            <Text style={styles.errorText}>{authError}</Text>
+          ) : null}
 
           <TouchableOpacity
             style={styles.primaryBtn}
@@ -99,7 +107,7 @@ export default function AuthScreen() {
             )}
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={() => setIsSignUp(!isSignUp)}>
+          <TouchableOpacity onPress={() => { setIsSignUp(!isSignUp); setAuthError('') }}>
             <Text style={styles.switchText}>
               {isSignUp
                 ? 'Already have an account? Sign In'
@@ -183,12 +191,21 @@ const styles = StyleSheet.create({
     padding: spacing.md,
     borderRadius: radius.sm,
   },
+  inputError: {
+    borderColor: colors.error + '80',
+  },
+  errorText: {
+    fontSize: 12,
+    color: colors.error,
+    marginTop: -spacing.sm,
+    paddingHorizontal: 2,
+  },
   primaryBtn: {
     backgroundColor: colors.ui,
     paddingVertical: 14,
     alignItems: 'center',
     borderRadius: radius.sm,
-    marginTop: spacing.sm,
+    marginTop: spacing.xs,
   },
   primaryBtnText: {
     fontFamily: fonts.mono,
@@ -201,12 +218,12 @@ const styles = StyleSheet.create({
     ...typography.caption,
     color: colors.uiDim,
     textAlign: 'center',
-    marginTop: spacing.sm,
+    marginTop: spacing.xs,
   },
   divider: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginTop: spacing.sm,
+    marginTop: spacing.xs,
     gap: spacing.sm,
   },
   dividerLine: {

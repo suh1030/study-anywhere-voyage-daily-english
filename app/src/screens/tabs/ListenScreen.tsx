@@ -8,11 +8,13 @@ import {
   ActivityIndicator,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
+import Svg, { Polygon, Path } from 'react-native-svg'
 import * as Speech from 'expo-speech'
 import { useAudioPlayer } from 'expo-audio'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
+import { useNavigation } from '@react-navigation/native'
 
 const SUPABASE_URL = process.env.EXPO_PUBLIC_SUPABASE_URL ?? ''
 
@@ -29,7 +31,40 @@ function getTodayKey() {
   return `${d.getFullYear()}-${mm}-${dd}`
 }
 
+function IconPrev({ color }: { color: string }) {
+  return (
+    <Svg width={10} height={12} viewBox="0 0 10 12" fill="none">
+      <Polygon points="10,0 0,6 10,12" fill={color} />
+    </Svg>
+  )
+}
+
+function IconNext({ color }: { color: string }) {
+  return (
+    <Svg width={10} height={12} viewBox="0 0 10 12" fill="none">
+      <Polygon points="0,0 10,6 0,12" fill={color} />
+    </Svg>
+  )
+}
+
+function IconPlay({ color }: { color: string }) {
+  return (
+    <Svg width={10} height={12} viewBox="0 0 10 12" fill="none">
+      <Polygon points="0,0 10,6 0,12" fill={color} />
+    </Svg>
+  )
+}
+
+function IconStop({ color }: { color: string }) {
+  return (
+    <Svg width={10} height={10} viewBox="0 0 10 10" fill="none">
+      <Path d="M0 0h10v10H0z" fill={color} />
+    </Svg>
+  )
+}
+
 export default function ListenScreen() {
+  const navigation = useNavigation<any>()
   const [episode, setEpisode] = useState<EpisodeRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [currentLine, setCurrentLine] = useState(-1)
@@ -39,6 +74,8 @@ export default function ListenScreen() {
   const [audioUrl, setAudioUrl] = useState<string | null>(null)
   const scrollRef = useRef<ScrollView>(null)
   const player = useAudioPlayer(audioUrl ? { uri: audioUrl } : null)
+
+  const isPlaying = currentLine >= 0
 
   useEffect(() => {
     const todayKey = getTodayKey()
@@ -52,7 +89,7 @@ export default function ListenScreen() {
     })
   }, [])
 
-  // Flatten all lines across parts; store partIndex + lineIndex for reliable lookup
+  // Flatten all lines across parts
   const allLines = useMemo<(EpisodeLine & { partIndex: number; lineIndex: number })[]>(() => {
     const lines: (EpisodeLine & { partIndex: number; lineIndex: number })[] = []
     episode?.parts.forEach((part, pi) => {
@@ -72,7 +109,6 @@ export default function ListenScreen() {
     const line = allLines[currentLine]
     const url = getAudioUrl(episode.week_number, episode.day_of_week, line.partIndex, line.lineIndex)
 
-    // Try MP3 first; fall back to expo-speech if unavailable
     fetch(url, { method: 'HEAD' })
       .then((res) => {
         if (res.ok) {
@@ -112,6 +148,16 @@ export default function ListenScreen() {
     setCurrentLine(index)
   }, [])
 
+  const handlePlayStop = useCallback(() => {
+    if (isPlaying) {
+      Speech.stop()
+      setAudioUrl(null)
+      setCurrentLine(-1)
+    } else {
+      setCurrentLine(0)
+    }
+  }, [isPlaying])
+
   const handlePrev = () => setCurrentLine((c) => Math.max(0, c - 1))
   const handleNext = () => setCurrentLine((c) => Math.min(allLines.length - 1, c + 1))
 
@@ -129,7 +175,11 @@ export default function ListenScreen() {
     return (
       <SafeAreaView style={styles.container} edges={['top']}>
         <View style={styles.centered}>
-          <Text style={styles.emptyText}>No episode for today.</Text>
+          <Text style={styles.emptyTitle}>No episode today</Text>
+          <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
+          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigation.navigate('Schedule')}>
+            <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
+          </TouchableOpacity>
         </View>
       </SafeAreaView>
     )
@@ -148,25 +198,49 @@ export default function ListenScreen() {
 
       {/* Player Bar */}
       <View style={styles.playerBar}>
-        <View style={styles.playerControls}>
-          <TouchableOpacity style={styles.controlBtn} onPress={handlePrev}>
-            <Text style={styles.controlBtnText}>{'<'}</Text>
-          </TouchableOpacity>
+        {/* Row 1: Controls + Progress */}
+        <View style={styles.playerRow}>
+          <View style={styles.playerControls}>
+            <TouchableOpacity
+              style={[styles.controlBtn, !isPlaying && styles.controlBtnDisabled]}
+              onPress={handlePrev}
+              disabled={!isPlaying}
+            >
+              <IconPrev color={isPlaying ? colors.text : colors.muted2} />
+            </TouchableOpacity>
+
+            <TouchableOpacity
+              style={[styles.playBtn, isPlaying && styles.playBtnActive]}
+              onPress={handlePlayStop}
+            >
+              {isPlaying
+                ? <IconStop color={colors.bg} />
+                : <IconPlay color={colors.bg} />}
+              <Text style={styles.playBtnText}>{isPlaying ? 'STOP' : 'PLAY'}</Text>
+            </TouchableOpacity>
+
+            <TouchableOpacity
+              style={[styles.controlBtn, !isPlaying && styles.controlBtnDisabled]}
+              onPress={handleNext}
+              disabled={!isPlaying}
+            >
+              <IconNext color={isPlaying ? colors.text : colors.muted2} />
+            </TouchableOpacity>
+          </View>
+
+          <Text style={styles.progressLabel}>
+            {isPlaying ? currentLine + 1 : 0} / {allLines.length}
+          </Text>
+
           <TouchableOpacity
-            style={[styles.controlBtn, styles.playBtn]}
-            onPress={() => setCurrentLine((c) => (c < 0 ? 0 : c))}
+            style={[styles.zhToggle, showChinese && styles.zhToggleOn]}
+            onPress={() => setShowChinese(!showChinese)}
           >
-            <Text style={styles.playBtnText}>PLAY</Text>
-          </TouchableOpacity>
-          <TouchableOpacity style={styles.controlBtn} onPress={handleNext}>
-            <Text style={styles.controlBtnText}>{'>'}</Text>
+            <Text style={[styles.zhToggleText, showChinese && styles.zhToggleTextOn]}>中文</Text>
           </TouchableOpacity>
         </View>
 
-        <Text style={styles.progressLabel}>
-          {Math.max(currentLine + 1, 0)} / {allLines.length}
-        </Text>
-
+        {/* Row 2: Speed */}
         <View style={styles.speedRow}>
           {([0.75, 1, 1.25] as Speed[]).map((s) => (
             <TouchableOpacity
@@ -175,20 +249,11 @@ export default function ListenScreen() {
               onPress={() => setSpeed(s)}
             >
               <Text style={[styles.speedBtnText, speed === s && styles.speedBtnTextActive]}>
-                {s === 1 ? '1.0' : String(s)}
+                {s === 1 ? '1.0×' : `${s}×`}
               </Text>
             </TouchableOpacity>
           ))}
         </View>
-
-        <TouchableOpacity
-          style={[styles.zhToggle, showChinese && styles.zhToggleOn]}
-          onPress={() => setShowChinese(!showChinese)}
-        >
-          <Text style={[styles.zhToggleText, showChinese && styles.zhToggleTextOn]}>
-            {showChinese ? '中文 ON' : '中文 OFF'}
-          </Text>
-        </TouchableOpacity>
       </View>
 
       {/* Script */}
@@ -262,8 +327,18 @@ export default function ListenScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: colors.bg },
-  centered: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  emptyText: { fontSize: 14, color: colors.muted },
+  centered: { flex: 1, justifyContent: 'center', alignItems: 'center', paddingHorizontal: spacing.xl },
+  emptyTitle: { ...typography.h2, color: colors.text, marginBottom: spacing.sm },
+  emptyHint: { fontSize: 13, color: colors.muted, textAlign: 'center', lineHeight: 20, marginBottom: spacing.lg },
+  emptyBtn: {
+    paddingHorizontal: spacing.lg,
+    paddingVertical: 10,
+    borderWidth: 1,
+    borderColor: colors.listen + '60',
+    borderRadius: radius.sm,
+  },
+  emptyBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.listen },
+
   header: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -271,6 +346,8 @@ const styles = StyleSheet.create({
     paddingTop: spacing.md,
     paddingBottom: spacing.sm,
     gap: spacing.md,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
   },
   weekLabel: {
     fontFamily: fonts.mono,
@@ -283,39 +360,44 @@ const styles = StyleSheet.create({
   podcast: { fontSize: 12, color: colors.muted, marginTop: 2 },
 
   playerBar: {
-    flexDirection: 'row',
-    alignItems: 'center',
     paddingHorizontal: spacing.lg,
     paddingVertical: spacing.sm,
     borderBottomWidth: 1,
     borderBottomColor: colors.border,
     gap: spacing.sm,
-    flexWrap: 'wrap',
   },
-  playerControls: { flexDirection: 'row', gap: 6 },
+  playerRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  playerControls: { flexDirection: 'row', alignItems: 'center', gap: 6 },
   controlBtn: {
-    paddingHorizontal: 10,
-    paddingVertical: 6,
+    width: 32,
+    height: 32,
+    justifyContent: 'center',
+    alignItems: 'center',
     borderWidth: 1,
     borderColor: colors.border2,
     borderRadius: radius.sm,
   },
-  controlBtnText: { fontFamily: fonts.mono, fontSize: 12, color: colors.text },
-  playBtn: { backgroundColor: colors.listen, borderColor: colors.listen },
+  controlBtnDisabled: { opacity: 0.3 },
+  playBtn: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+    paddingHorizontal: 14,
+    height: 32,
+    backgroundColor: colors.listen,
+    borderRadius: radius.sm,
+  },
+  playBtnActive: {
+    backgroundColor: colors.muted,
+  },
   playBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.bg, fontWeight: '500' },
-  progressLabel: { fontFamily: fonts.mono, fontSize: 10, color: colors.muted },
-  speedRow: { flexDirection: 'row', gap: 4 },
-  speedBtn: {
-    paddingHorizontal: 8,
-    paddingVertical: 4,
-    borderWidth: 1,
-    borderColor: colors.border2,
-    borderRadius: radius.sm,
-  },
-  speedBtnActive: { borderColor: colors.listen, backgroundColor: colors.listen + '20' },
-  speedBtnText: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted },
-  speedBtnTextActive: { color: colors.listen },
+  progressLabel: { fontFamily: fonts.mono, fontSize: 10, color: colors.muted, marginLeft: spacing.xs },
   zhToggle: {
+    marginLeft: 'auto',
     paddingHorizontal: 10,
     paddingVertical: 5,
     borderWidth: 1,
@@ -325,6 +407,17 @@ const styles = StyleSheet.create({
   zhToggleOn: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
   zhToggleText: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted },
   zhToggleTextOn: { color: colors.gold },
+  speedRow: { flexDirection: 'row', gap: 4 },
+  speedBtn: {
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderWidth: 1,
+    borderColor: colors.border2,
+    borderRadius: radius.sm,
+  },
+  speedBtnActive: { borderColor: colors.listen, backgroundColor: colors.listen + '20' },
+  speedBtnText: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted },
+  speedBtnTextActive: { color: colors.listen },
 
   scriptScroll: { flex: 1 },
   scriptContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.md },
