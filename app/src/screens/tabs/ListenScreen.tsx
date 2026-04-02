@@ -119,35 +119,48 @@ export default function ListenScreen() {
     const line = allLines[currentLine]
     const url = getAudioUrl(episode.week_number, episode.day_of_week, line.partIndex, line.lineIndex)
 
-    fetch(url, { method: 'HEAD' })
-      .then((res) => {
-        if (res.ok) {
-          Speech.stop()
-          setAudioUrl(url)
-        } else {
-          setAudioUrl(null)
-          Speech.stop()
-          Speech.speak(line.en, { language: 'en-US', rate: speed })
-        }
-      })
-      .catch(() => {
-        setAudioUrl(null)
-        Speech.stop()
-        Speech.speak(line.en, { language: 'en-US', rate: speed })
-      })
+    // Try MP3 directly; fall back to Speech on error (no HEAD round-trip)
+    Speech.stop()
+    setAudioUrl(url)
   }, [currentLine]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Play MP3 when audioUrl is set
+  // Play MP3 when audioUrl is set; fall back to Speech on load error
   useEffect(() => {
-    if (audioUrl && !player.playing) {
-      player.play()
+    if (!audioUrl) return
+    const line = allLines[currentLine]
+    if (!line) return
+
+    const handleSpeechFallback = () => {
+      setAudioUrl(null)
+      Speech.speak(line.en, {
+        language: 'en-US',
+        rate: speed,
+        onDone: () => {
+          if (currentLine < allLines.length - 1) {
+            setCurrentLine((c) => c + 1)
+          } else {
+            setCurrentLine(-1)
+          }
+        },
+      })
+    }
+
+    if (!player.playing) {
+      player.play().catch(handleSpeechFallback)
     }
   }, [audioUrl]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // Auto-advance to next line when MP3 finishes
   useEffect(() => {
-    if (audioUrl && !player.playing && currentLine >= 0) {
-      setCurrentLine((c) => Math.min(c + 1, allLines.length - 1))
+    if (!audioUrl || !player || currentLine < 0) return
+    if (!player.playing) {
+      if (currentLine < allLines.length - 1) {
+        setCurrentLine((c) => c + 1)
+      } else {
+        // Last line finished — stop cleanly
+        setCurrentLine(-1)
+        setAudioUrl(null)
+      }
     }
   }, [player.playing]) // eslint-disable-line react-hooks/exhaustive-deps
 

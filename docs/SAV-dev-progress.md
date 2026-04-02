@@ -93,7 +93,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] Supabase 內容資料已重新同步：episodes 365、articles 365、questions 365、flashcards 583
 - [x] 補上 `episodes.date` migration：`backend/supabase/migrations/20260329000000_add_date_to_episodes.sql`
 - [x] 舊短版 podcast 音檔已自 Storage 清除，避免新舊內容混播
-- [ ] 新版長篇 podcast 音檔重新生成中：目標 `17,520` 個 mp3，完成後再上傳並驗收
+- [x] 新版長篇 podcast 音檔重新生成並上傳至 Supabase Storage（`episode-audio/tts/`）：17,520 個 mp3，missingCount: 0，已驗證（2026-04-03）
 
 ---
 

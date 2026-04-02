@@ -54,7 +54,7 @@
 - [x] 按接近 10 分鐘的長篇規格重新生成 **全部 365 集**（6 parts、每集 48 行）
 - [x] 完成全年內容檔對齊與驗證：episodes / articles / questions / flashcards 已更新為 365 天版本，並驗證通過（角色階段、結構、主題對齊、內容檔覆蓋完整）
 - [x] 完成產品內容全量稽核：365 天 schedule 與 episodes / articles / questions / flashcards 全數對齊，無缺日、缺週、缺欄位
-- [ ] 全年 365 集新版 podcast 音檔重新生成並上傳（正式採用 `tts-1`；舊短版音檔已清除，新版長篇音檔重跑中，依目前內容量估算約 NT$1,230）
+- [x] 全年 365 集新版 podcast 音檔重新生成並上傳（`tts-1`；17,520 個 mp3，missingCount: 0，Supabase Storage `episode-audio/tts/` 已驗證，2026-04-03）
 - [ ] 每個階段各抽 1 集實際播放音檔，確認人聲自然、角色聲音正確對應
 
 ### 用戶體驗
