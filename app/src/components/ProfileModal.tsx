@@ -2,6 +2,9 @@
 const BUY_CREDITS_AMOUNT = 10
 const BUY_CREDITS_PRICE = 'NT$60'
 
+const PRIVACY_URL = 'https://sav-daily-english.netlify.app/privacy-policy.html'
+const TERMS_URL = 'https://sav-daily-english.netlify.app/terms-of-service.html'
+
 import React from 'react'
 import {
   View,
@@ -11,6 +14,7 @@ import {
   TouchableOpacity,
   TouchableWithoutFeedback,
   Alert,
+  Linking,
 } from 'react-native'
 import { colors, fonts, spacing, radius } from '../constants/theme'
 import { useAuthStore } from '../stores/authStore'
@@ -81,6 +85,16 @@ export default function ProfileModal({ visible, onClose }: Props) {
               <TouchableOpacity style={styles.cancelBtn} onPress={onClose}>
                 <Text style={styles.cancelText}>CANCEL</Text>
               </TouchableOpacity>
+
+              <View style={styles.legalRow}>
+                <TouchableOpacity onPress={() => Linking.openURL(PRIVACY_URL)}>
+                  <Text style={styles.legalLink}>Privacy Policy</Text>
+                </TouchableOpacity>
+                <Text style={styles.legalSep}>·</Text>
+                <TouchableOpacity onPress={() => Linking.openURL(TERMS_URL)}>
+                  <Text style={styles.legalLink}>Terms of Service</Text>
+                </TouchableOpacity>
+              </View>
             </View>
           </TouchableWithoutFeedback>
         </View>
@@ -186,5 +200,22 @@ const styles = StyleSheet.create({
     fontSize: 11,
     letterSpacing: 1.5,
     color: colors.muted,
+  },
+  legalRow: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    gap: spacing.sm,
+    marginTop: spacing.md,
+  },
+  legalLink: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    color: colors.muted2,
+    textDecorationLine: 'underline',
+  },
+  legalSep: {
+    fontSize: 10,
+    color: colors.muted2,
   },
 })

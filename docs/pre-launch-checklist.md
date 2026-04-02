@@ -33,10 +33,15 @@
 - [ ] 無音檔時 fallback 至系統 TTS，不 crash
 - [ ] 播完一行自動跳下一行
 
+### IAP — RevenueCat Webhook 設定（一次性）
+> RevenueCat Dashboard → Project → Integrations → Webhooks → Add Endpoint
+> - URL：`https://ioosxzbdkscllgesmeqw.supabase.co/functions/v1/credits-webhook`
+> - 將產生的 Authorization Secret 填入 Supabase → Edge Functions → Secrets → `REVENUECAT_WEBHOOK_SECRET`
+
 ### App Store 硬性需求
 - [ ] Apple Sign In 功能完整可用（Apple 規定：有第三方登入必須提供 Apple Sign In）
-- [ ] 隱私政策連結可開啟（設定頁 / App Store 頁面）
-- [ ] 條款連結可開啟
+- [x] 隱私政策連結可開啟（已加入 ProfileModal，開啟 `https://sav-daily-english.netlify.app/privacy-policy.html`）
+- [x] 條款連結可開啟（已加入 ProfileModal，開啟 `https://sav-daily-english.netlify.app/terms-of-service.html`）
 
 ---
 

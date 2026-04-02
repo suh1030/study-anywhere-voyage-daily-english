@@ -67,12 +67,9 @@
   - 至少 5 張（建議：Schedule、Listen、Speak、Conversation、Review 各一張）
   - 用 iOS Simulator 截圖，或用 Figma/Canva 製作帶背景的精美版
 
-- [ ] **App Store Connect 建立 App 條目**
-  - Bundle ID：`com.savelyn.studyanywherevoyage`
-  - 定價：NT$60（iOS Price Tier 1）
-  - 分類：Education / Reference
-  - 年齡分級：4+
-  - 填入隱私政策 URL
+- [x] **App Store Connect 建立 App 條目**（ascAppId: 6761168417，已填入 eas.json）
+  - Bundle ID：`com.savelyn.studyanywherevoyage` ✓
+  - 待確認：定價 NT$60、年齡分級 4+、隱私政策 URL 是否已在 ASC 填寫
 
 - [ ] **設定 Apple 審核用測試帳號**
   - 建立一個 email/password 帳號（可用 + 記法，如 `savelyn.siao+review@gmail.com`）
