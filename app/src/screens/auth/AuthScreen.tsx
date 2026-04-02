@@ -21,6 +21,7 @@ export default function AuthScreen() {
   const [appleLoading, setAppleLoading] = useState(false)
   const [googleLoading, setGoogleLoading] = useState(false)
   const [authError, setAuthError] = useState('')
+  const [signUpSuccess, setSignUpSuccess] = useState(false)
   const { signInWithEmail, signUpWithEmail, signInWithApple, signInWithGoogle } = useAuthStore()
 
   const handleSubmit = async () => {
@@ -38,8 +39,7 @@ export default function AuthScreen() {
     if (error) {
       setAuthError(error)
     } else if (isSignUp) {
-      setAuthError('')
-      // Show confirmation inline rather than Alert
+      setSignUpSuccess(true)
     }
   }
 
@@ -57,6 +57,27 @@ export default function AuthScreen() {
     const error = await signInWithGoogle()
     setGoogleLoading(false)
     if (error) setAuthError(error)
+  }
+
+  if (signUpSuccess) {
+    return (
+      <View style={styles.container}>
+        <View style={styles.inner}>
+          <Text style={styles.brand}>SAV</Text>
+          <Text style={styles.subtitle}>DAILY ENGLISH</Text>
+          <View style={styles.successBox}>
+            <Text style={styles.successTitle}>CHECK YOUR EMAIL</Text>
+            <Text style={styles.successText}>
+              We sent a confirmation link to{'\n'}<Text style={styles.successEmail}>{email}</Text>
+            </Text>
+            <Text style={styles.successHint}>Click the link in the email to activate your account, then come back to sign in.</Text>
+          </View>
+          <TouchableOpacity onPress={() => { setSignUpSuccess(false); setIsSignUp(false) }}>
+            <Text style={styles.switchText}>Back to Sign In</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    )
   }
 
   return (
@@ -261,5 +282,39 @@ const styles = StyleSheet.create({
     fontSize: 12,
     letterSpacing: 1,
     color: colors.text,
+  },
+  successBox: {
+    width: '100%',
+    maxWidth: 340,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border2,
+    borderRadius: radius.sm,
+    padding: spacing.lg,
+    gap: spacing.md,
+    marginBottom: spacing.lg,
+  },
+  successTitle: {
+    fontFamily: fonts.mono,
+    fontSize: 13,
+    letterSpacing: 3,
+    color: colors.ui,
+    textAlign: 'center',
+  },
+  successText: {
+    fontSize: 14,
+    color: colors.text,
+    textAlign: 'center',
+    lineHeight: 22,
+  },
+  successEmail: {
+    color: colors.ui,
+    fontWeight: '600',
+  },
+  successHint: {
+    fontSize: 12,
+    color: colors.muted,
+    textAlign: 'center',
+    lineHeight: 18,
   },
 })

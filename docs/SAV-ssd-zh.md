@@ -646,7 +646,7 @@ stores/
 | 本地儲存 | AsyncStorage | 替換 localStorage |
 | 音訊播放 | expo-av | 跨平台可靠 |
 | 錄音 | expo-av RecordingObject | 原生錄音 |
-| TTS | OpenAI TTS 預生成 mp3 + Cloudflare R2 CDN | 一次性生成（~$3–5 USD），之後 CDN 服務成本極低，品質一致 |
+| TTS | OpenAI `tts-1` 預生成 mp3 + Cloudflare R2 CDN | 已決定採低成本方案；依目前內容量一次性約 $11.6 USD，之後 CDN 服務成本極低，品質一致 |
 | 付款 | RevenueCat（Apple IAP + Google Play Billing 代理） | 統一雙平台 IAP，含收據驗證與 Webhook |
 | 登入 | Supabase Auth（Email + Apple Sign In + Google Sign In） | Apple 規定必須提供 Sign in with Apple |
 

@@ -2,6 +2,12 @@ import React, { useEffect, useRef } from 'react'
 import { StatusBar } from 'expo-status-bar'
 import { NavigationContainer } from '@react-navigation/native'
 import { AppState, type AppStateStatus, ActivityIndicator, View } from 'react-native'
+import { SafeAreaProvider } from 'react-native-safe-area-context'
+import { useFonts } from 'expo-font'
+import { DMSans_300Light, DMSans_400Regular, DMSans_500Medium } from '@expo-google-fonts/dm-sans'
+import { DMMono_300Light, DMMono_400Regular, DMMono_500Medium } from '@expo-google-fonts/dm-mono'
+import { Outfit_300Light, Outfit_400Regular, Outfit_500Medium } from '@expo-google-fonts/outfit'
+import { Cinzel_400Regular, Cinzel_500Medium } from '@expo-google-fonts/cinzel'
 import { supabase } from './src/lib/supabase'
 import { useAuthStore } from './src/stores/authStore'
 import { useProgressStore } from './src/stores/progressStore'
@@ -11,6 +17,20 @@ import AuthScreen from './src/screens/auth/AuthScreen'
 import { colors } from './src/constants/theme'
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    DMSans_300Light,
+    DMSans_400Regular,
+    DMSans_500Medium,
+    DMMono_300Light,
+    DMMono_400Regular,
+    DMMono_500Medium,
+    Outfit_300Light,
+    Outfit_400Regular,
+    Outfit_500Medium,
+    Cinzel_400Regular,
+    Cinzel_500Medium,
+  })
+
   const { session, loading, setSession } = useAuthStore()
   const { load: loadProgress, sync: syncProgress } = useProgressStore()
   const { fetchBalance, initRevenueCat } = useCreditsStore()
@@ -50,7 +70,7 @@ export default function App() {
     return () => sub.remove()
   }, [session])
 
-  if (loading) {
+  if (loading || !fontsLoaded) {
     return (
       <View style={{ flex: 1, backgroundColor: colors.bg, justifyContent: 'center', alignItems: 'center' }}>
         <ActivityIndicator color={colors.ui} size="large" />
@@ -59,9 +79,11 @@ export default function App() {
   }
 
   return (
-    <NavigationContainer>
-      <StatusBar style="light" />
-      {session ? <TabNavigator /> : <AuthScreen />}
-    </NavigationContainer>
+    <SafeAreaProvider>
+      <NavigationContainer>
+        <StatusBar style="light" />
+        {session ? <TabNavigator /> : <AuthScreen />}
+      </NavigationContainer>
+    </SafeAreaProvider>
   )
 }

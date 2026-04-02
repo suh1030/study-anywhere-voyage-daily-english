@@ -8,13 +8,13 @@ import {
   ActivityIndicator,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
-import Svg, { Polygon, Path } from 'react-native-svg'
+import Svg, { Polygon, Path, Circle } from 'react-native-svg'
 import * as Speech from 'expo-speech'
 import { useAudioPlayer } from 'expo-audio'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
-import { useNavigation } from '@react-navigation/native'
+import { useNav } from '../../navigation/NavContext'
 
 const SUPABASE_URL = process.env.EXPO_PUBLIC_SUPABASE_URL ?? ''
 
@@ -63,8 +63,17 @@ function IconStop({ color }: { color: string }) {
   )
 }
 
+function IconListen({ color }: { color: string }) {
+  return (
+    <Svg width={18} height={18} viewBox="0 0 24 24" fill="none">
+      <Circle cx="12" cy="12" r="10" stroke={color} strokeWidth="1.5" />
+      <Polygon points="10,8 17,12 10,16" fill={color} />
+    </Svg>
+  )
+}
+
 export default function ListenScreen() {
-  const navigation = useNavigation<any>()
+  const { navigate } = useNav()
   const [episode, setEpisode] = useState<EpisodeRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [currentLine, setCurrentLine] = useState(-1)
@@ -72,6 +81,7 @@ export default function ListenScreen() {
   const [speed, setSpeed] = useState<Speed>(1)
   const [showKeyPhrases, setShowKeyPhrases] = useState(false)
   const [audioUrl, setAudioUrl] = useState<string | null>(null)
+  const [showOnboardingHint, setShowOnboardingHint] = useState(true)
   const scrollRef = useRef<ScrollView>(null)
   const player = useAudioPlayer(audioUrl ? { uri: audioUrl } : null)
 
@@ -177,7 +187,7 @@ export default function ListenScreen() {
         <View style={styles.centered}>
           <Text style={styles.emptyTitle}>No episode today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
-          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigation.navigate('Schedule')}>
+          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigate('Schedule')}>
             <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
           </TouchableOpacity>
         </View>
@@ -196,51 +206,38 @@ export default function ListenScreen() {
         </View>
       </View>
 
-      {/* Player Bar */}
+      {/* Player Bar — single row */}
       <View style={styles.playerBar}>
-        {/* Row 1: Controls + Progress */}
-        <View style={styles.playerRow}>
-          <View style={styles.playerControls}>
-            <TouchableOpacity
-              style={[styles.controlBtn, !isPlaying && styles.controlBtnDisabled]}
-              onPress={handlePrev}
-              disabled={!isPlaying}
-            >
-              <IconPrev color={isPlaying ? colors.text : colors.muted2} />
-            </TouchableOpacity>
+        <TouchableOpacity
+          style={[styles.controlBtn, !isPlaying && styles.controlBtnDisabled]}
+          onPress={handlePrev}
+          disabled={!isPlaying}
+        >
+          <IconPrev color={isPlaying ? colors.text : colors.muted2} />
+        </TouchableOpacity>
 
-            <TouchableOpacity
-              style={[styles.playBtn, isPlaying && styles.playBtnActive]}
-              onPress={handlePlayStop}
-            >
-              {isPlaying
-                ? <IconStop color={colors.bg} />
-                : <IconPlay color={colors.bg} />}
-              <Text style={styles.playBtnText}>{isPlaying ? 'STOP' : 'PLAY'}</Text>
-            </TouchableOpacity>
+        <TouchableOpacity
+          style={[styles.playBtn, isPlaying && styles.playBtnActive]}
+          onPress={handlePlayStop}
+        >
+          {isPlaying
+            ? <IconStop color={colors.bg} />
+            : <IconPlay color={colors.bg} />}
+          <Text style={styles.playBtnText}>{isPlaying ? 'STOP' : 'PLAY'}</Text>
+        </TouchableOpacity>
 
-            <TouchableOpacity
-              style={[styles.controlBtn, !isPlaying && styles.controlBtnDisabled]}
-              onPress={handleNext}
-              disabled={!isPlaying}
-            >
-              <IconNext color={isPlaying ? colors.text : colors.muted2} />
-            </TouchableOpacity>
-          </View>
+        <TouchableOpacity
+          style={[styles.controlBtn, !isPlaying && styles.controlBtnDisabled]}
+          onPress={handleNext}
+          disabled={!isPlaying}
+        >
+          <IconNext color={isPlaying ? colors.text : colors.muted2} />
+        </TouchableOpacity>
 
-          <Text style={styles.progressLabel}>
-            {isPlaying ? currentLine + 1 : 0} / {allLines.length}
-          </Text>
+        <Text style={styles.progressLabel}>
+          {isPlaying ? currentLine + 1 : 0} / {allLines.length}
+        </Text>
 
-          <TouchableOpacity
-            style={[styles.zhToggle, showChinese && styles.zhToggleOn]}
-            onPress={() => setShowChinese(!showChinese)}
-          >
-            <Text style={[styles.zhToggleText, showChinese && styles.zhToggleTextOn]}>中文</Text>
-          </TouchableOpacity>
-        </View>
-
-        {/* Row 2: Speed */}
         <View style={styles.speedRow}>
           {([0.75, 1, 1.25] as Speed[]).map((s) => (
             <TouchableOpacity
@@ -254,14 +251,43 @@ export default function ListenScreen() {
             </TouchableOpacity>
           ))}
         </View>
+
+        <TouchableOpacity
+          style={[styles.zhToggle, showChinese && styles.zhToggleOn]}
+          onPress={() => setShowChinese(!showChinese)}
+        >
+          <Text style={[styles.zhToggleText, showChinese && styles.zhToggleTextOn]}>中文</Text>
+        </TouchableOpacity>
       </View>
 
       {/* Script */}
       <ScrollView ref={scrollRef} style={styles.scriptScroll} contentContainerStyle={styles.scriptContent}>
+
+        {/* Onboarding Hint */}
+        {showOnboardingHint && (
+          <View style={styles.hintBox}>
+            <View style={styles.hintIcon}>
+              <IconListen color={colors.listen} />
+            </View>
+            <View style={styles.hintContent}>
+              <Text style={styles.hintTitle}>收聽</Text>
+              <Text style={styles.hintDesc}>
+                按下播放收聽 Podcast。點擊任一行台詞可跳轉到該段。開啟「中文」可顯示翻譯，語速太快可切換 0.75×。
+              </Text>
+              <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
+                <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+
         {episode.parts.map((part, pi) => (
           <View key={pi}>
+            {/* Part divider — centered with lines on both sides */}
             <View style={styles.partDivider}>
-              <Text style={styles.partTitle}>{part.title}</Text>
+              <View style={styles.dividerLine} />
+              <Text style={styles.partTitle}>PART {pi + 1} — {part.title.toUpperCase()}</Text>
+              <View style={styles.dividerLine} />
             </View>
             {part.lines.map((line, li) => {
               const globalIndex = allLines.findIndex(
@@ -277,23 +303,34 @@ export default function ListenScreen() {
                   onPress={() => handleLinePress(globalIndex)}
                   activeOpacity={0.7}
                 >
-                  <Text style={[styles.speakerName, { color: speakerColor }]}>
-                    {line.speakerName}
-                  </Text>
-                  <Text style={[styles.lineEn, isActive && styles.lineEnActive]}>
-                    {line.en}
-                  </Text>
-                  {showChinese && <Text style={styles.lineZh}>{line.zh}</Text>}
-                  {line.vocab && line.vocab.length > 0 && (
-                    <View style={styles.vocabRow}>
-                      {line.vocab.map((v, vi) => (
-                        <View key={vi} style={styles.vocabTag}>
-                          <Text style={styles.vocabWord}>{v.word}</Text>
-                          <Text style={styles.vocabDef}>{v.def}</Text>
-                        </View>
-                      ))}
+                  <View style={styles.lineGrid}>
+                    {/* Left col: speaker + line number */}
+                    <View style={styles.lineLeft}>
+                      <Text style={[styles.speakerName, { color: speakerColor }]}>
+                        {line.speakerName}
+                      </Text>
+                      <Text style={styles.lineNumber}>
+                        #{String(globalIndex + 1).padStart(2, '0')}
+                      </Text>
                     </View>
-                  )}
+                    {/* Right col: text + zh + vocab */}
+                    <View style={styles.lineRight}>
+                      <Text style={[styles.lineEn, isActive && styles.lineEnActive]}>
+                        {line.en}
+                      </Text>
+                      {showChinese && <Text style={styles.lineZh}>{line.zh}</Text>}
+                      {line.vocab && line.vocab.length > 0 && (
+                        <View style={styles.vocabRow}>
+                          {line.vocab.map((v, vi) => (
+                            <View key={vi} style={styles.vocabTag}>
+                              <Text style={styles.vocabWord}>{v.word}</Text>
+                              <Text style={styles.vocabDef}>{v.def}</Text>
+                            </View>
+                          ))}
+                        </View>
+                      )}
+                    </View>
+                  </View>
                 </TouchableOpacity>
               )
             })}
@@ -356,19 +393,17 @@ const styles = StyleSheet.create({
     color: colors.muted,
   },
   headerInfo: { flex: 1 },
-  theme: { ...typography.h2, color: colors.listen },
+  theme: { fontFamily: fonts.outfitMedium, fontSize: 20, color: colors.ui, lineHeight: 26 },
   podcast: { fontSize: 12, color: colors.muted, marginTop: 2 },
 
+  // Player bar — single row
   playerBar: {
+    flexDirection: 'row',
+    alignItems: 'center',
     paddingHorizontal: spacing.lg,
     paddingVertical: spacing.sm,
     borderBottomWidth: 1,
     borderBottomColor: colors.border,
-    gap: spacing.sm,
-  },
-  playerRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
     gap: spacing.sm,
   },
   playerControls: { flexDirection: 'row', alignItems: 'center', gap: 6 },
@@ -395,9 +430,8 @@ const styles = StyleSheet.create({
     backgroundColor: colors.muted,
   },
   playBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.bg, fontWeight: '500' },
-  progressLabel: { fontFamily: fonts.mono, fontSize: 10, color: colors.muted, marginLeft: spacing.xs },
+  progressLabel: { fontFamily: fonts.mono, fontSize: 10, color: colors.muted },
   zhToggle: {
-    marginLeft: 'auto',
     paddingHorizontal: 10,
     paddingVertical: 5,
     borderWidth: 1,
@@ -407,9 +441,9 @@ const styles = StyleSheet.create({
   zhToggleOn: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
   zhToggleText: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted },
   zhToggleTextOn: { color: colors.gold },
-  speedRow: { flexDirection: 'row', gap: 4 },
+  speedRow: { flexDirection: 'row', gap: 4, flex: 1, justifyContent: 'flex-end' },
   speedBtn: {
-    paddingHorizontal: 10,
+    paddingHorizontal: 8,
     paddingVertical: 4,
     borderWidth: 1,
     borderColor: colors.border2,
@@ -419,15 +453,38 @@ const styles = StyleSheet.create({
   speedBtnText: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted },
   speedBtnTextActive: { color: colors.listen },
 
+  // Onboarding hint box
+  hintBox: {
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.md,
+    marginBottom: spacing.lg,
+    flexDirection: 'row',
+    gap: 14,
+    borderRadius: radius.md,
+  },
+  hintIcon: { paddingTop: 2 },
+  hintContent: { flex: 1 },
+  hintTitle: { fontFamily: fonts.outfitMedium, fontSize: 14, color: colors.ui, marginBottom: 4 },
+  hintDesc: { fontSize: 12, color: colors.muted, lineHeight: 18, marginBottom: 8 },
+  hintDismiss: { fontFamily: fonts.mono, fontSize: 11, color: colors.error, marginTop: 2 },
+
   scriptScroll: { flex: 1 },
   scriptContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.md },
+
+  // Part divider — centered with lines on both sides
   partDivider: {
-    paddingVertical: spacing.sm,
-    borderBottomWidth: 1,
-    borderBottomColor: colors.border,
-    marginBottom: spacing.md,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    paddingVertical: 24,
+    opacity: 0.5,
   },
-  partTitle: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.muted },
+  dividerLine: { flex: 1, height: 1, backgroundColor: colors.border },
+  partTitle: { fontFamily: fonts.mono, fontSize: 9, letterSpacing: 3, color: colors.muted },
+
+  // Script line — two-column grid
   line: {
     paddingVertical: spacing.sm,
     paddingHorizontal: spacing.sm,
@@ -440,12 +497,28 @@ const styles = StyleSheet.create({
     backgroundColor: colors.surface2,
     borderLeftColor: colors.listen,
   },
+  lineGrid: {
+    flexDirection: 'row',
+    gap: 8,
+  },
+  lineLeft: {
+    width: 64,
+    flexShrink: 0,
+  },
+  lineRight: {
+    flex: 1,
+  },
   speakerName: {
     fontFamily: fonts.mono,
     fontSize: 9,
     letterSpacing: 1.5,
     textTransform: 'uppercase',
-    marginBottom: 4,
+    marginBottom: 2,
+  },
+  lineNumber: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    color: colors.muted2,
   },
   lineEn: { fontSize: 15, lineHeight: 24, color: colors.text },
   lineEnActive: { color: colors.text },

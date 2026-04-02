@@ -9,11 +9,31 @@ import {
   Alert,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
+import Svg, { Path } from 'react-native-svg'
 import { useAudioRecorder, useAudioPlayer, AudioModule, RecordingPresets } from 'expo-audio'
 import * as Speech from 'expo-speech'
-import { useNavigation } from '@react-navigation/native'
+import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { fetchArticle, parseParagraphs, type ArticleRow } from '../../data/content-api'
+
+function IconSpeak({ color }: { color: string }) {
+  return (
+    <Svg width={18} height={18} viewBox="0 0 24 24" fill="none">
+      <Path
+        d="M12 1a3 3 0 00-3 3v8a3 3 0 006 0V4a3 3 0 00-3-3z"
+        stroke={color}
+        strokeWidth="1.5"
+        fill="none"
+      />
+      <Path
+        d="M19 10v2a7 7 0 01-14 0v-2M12 19v4M8 23h8"
+        stroke={color}
+        strokeWidth="1.5"
+        strokeLinecap="round"
+      />
+    </Svg>
+  )
+}
 
 function getTodayKey() {
   const d = new Date()
@@ -23,7 +43,7 @@ function getTodayKey() {
 }
 
 export default function SpeakScreen() {
-  const navigation = useNavigation<any>()
+  const { navigate } = useNav()
   const [article, setArticle] = useState<ArticleRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [showChinese, setShowChinese] = useState(false)
@@ -31,6 +51,7 @@ export default function SpeakScreen() {
   const [isPlaying, setIsPlaying] = useState(false)
   const [activeParagraph, setActiveParagraph] = useState(-1)
   const [recordingUri, setRecordingUri] = useState<string | null>(null)
+  const [showOnboardingHint, setShowOnboardingHint] = useState(true)
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
   const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
 
@@ -144,7 +165,7 @@ export default function SpeakScreen() {
         <View style={styles.centered}>
           <Text style={styles.emptyTitle}>No article today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
-          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigation.navigate('Schedule')}>
+          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigate('Schedule')}>
             <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
           </TouchableOpacity>
         </View>
@@ -206,6 +227,24 @@ export default function SpeakScreen() {
       </View>
 
       <ScrollView contentContainerStyle={styles.scrollContent}>
+        {/* Onboarding Hint */}
+        {showOnboardingHint && (
+          <View style={styles.hintBox}>
+            <View style={styles.hintIcon}>
+              <IconSpeak color={colors.speak} />
+            </View>
+            <View style={styles.hintContent}>
+              <Text style={styles.hintTitle}>朗讀練習</Text>
+              <Text style={styles.hintDesc}>
+                大聲朗讀今日文章。建議先聆聽發音，再錄下自己的聲音比較。可查看單字表學習關鍵詞彙。
+              </Text>
+              <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
+                <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+
         {/* Article */}
         <View style={styles.article}>
           {paragraphsEn.map((para, i) => (
@@ -292,7 +331,7 @@ const styles = StyleSheet.create({
   dateLabel: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.muted },
   topicLabel: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.uiDim },
   wordCount: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted2 },
-  title: { ...typography.h1, color: colors.speak },
+  title: { fontFamily: fonts.outfitMedium, fontSize: 22, lineHeight: 30, color: colors.ui },
 
   controlBar: {
     flexDirection: 'row',
@@ -321,6 +360,23 @@ const styles = StyleSheet.create({
   recordingText: { color: colors.error },
 
   scrollContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.lg },
+
+  // Onboarding hint box
+  hintBox: {
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.md,
+    marginBottom: spacing.lg,
+    flexDirection: 'row',
+    gap: 14,
+    borderRadius: radius.md,
+  },
+  hintIcon: { paddingTop: 2 },
+  hintContent: { flex: 1 },
+  hintTitle: { fontFamily: fonts.outfitMedium, fontSize: 14, color: colors.ui, marginBottom: 4 },
+  hintDesc: { fontSize: 12, color: colors.muted, lineHeight: 18, marginBottom: 8 },
+  hintDismiss: { fontFamily: fonts.mono, fontSize: 11, color: colors.error, marginTop: 2 },
 
   article: {
     borderLeftWidth: 2,

@@ -1,11 +1,13 @@
 /**
  * generate-audio.ts
  *
- * Generates TTS audio for all episode lines using OpenAI TTS API,
- * then uploads to Supabase Storage bucket "episode-audio".
+ * Generates TTS audio for all episode lines using OpenAI TTS API.
+ * If SUPABASE_SERVICE_KEY or SUPABASE_SERVICE_ROLE_KEY is available, uploads to Supabase Storage bucket
+ * "episode-audio"; otherwise writes MP3s to a local output directory.
  *
  * Usage:
- *   OPENAI_API_KEY=sk-... SUPABASE_URL=... SUPABASE_SERVICE_KEY=... npx tsx scripts/generate-audio.ts
+ *   OPENAI_API_KEY=sk-... npx tsx scripts/generate-audio.ts
+ *   OPENAI_API_KEY=sk-... SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npx tsx scripts/generate-audio.ts
  *
  * File naming: tts/w{week}_d{day}_p{partIndex}_l{lineIndex}.mp3
  * Public URL:  {SUPABASE_URL}/storage/v1/object/public/episode-audio/tts/w{week}_d{day}_p{partIndex}_l{lineIndex}.mp3
@@ -14,22 +16,23 @@
 import OpenAI from 'openai'
 import { createClient } from '@supabase/supabase-js'
 import { ALL_EPISODES } from '../content/episodes/index'
+import fs from 'fs'
+import path from 'path'
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY
 const SUPABASE_URL = process.env.SUPABASE_URL ?? 'https://ioosxzbdkscllgesmeqw.supabase.co'
-const SUPABASE_SERVICE_KEY = process.env.SUPABASE_SERVICE_KEY
+const SUPABASE_SERVICE_KEY =
+  process.env.SUPABASE_SERVICE_KEY ?? process.env.SUPABASE_SERVICE_ROLE_KEY
+const LOCAL_OUTPUT_DIR = process.env.AUDIO_OUTPUT_DIR ?? 'tmp/generated-audio'
 
 if (!OPENAI_API_KEY) {
   console.error('Missing OPENAI_API_KEY')
   process.exit(1)
 }
-if (!SUPABASE_SERVICE_KEY) {
-  console.error('Missing SUPABASE_SERVICE_KEY')
-  process.exit(1)
-}
 
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY })
-const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY)
+const supabase = SUPABASE_SERVICE_KEY ? createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY) : null
+const shouldUpload = Boolean(supabase)
 
 // Speaker name → voice mapping
 // p1 (W1-10):  Mira=nova,    Jamie=onyx
@@ -54,20 +57,24 @@ const VOICE: Record<string, 'nova' | 'shimmer' | 'onyx' | 'echo'> = {
 }
 
 async function audioExists(path: string): Promise<boolean> {
-  const { data } = await supabase.storage.from('episode-audio').list('tts', {
-    search: path.replace('tts/', ''),
-    limit: 1,
-  })
-  return (data?.length ?? 0) > 0
+  if (shouldUpload && supabase) {
+    const { data } = await supabase.storage.from('episode-audio').list('tts', {
+      search: path.replace('tts/', ''),
+      limit: 1,
+    })
+    return (data?.length ?? 0) > 0
+  }
+
+  return fs.existsSync(path)
 }
 
 async function generateAndUpload(
   text: string,
-  voice: 'nova' | 'onyx',
+  voice: 'nova' | 'shimmer' | 'onyx' | 'echo',
   storagePath: string
 ): Promise<void> {
   const response = await openai.audio.speech.create({
-    model: 'tts-1-hd',
+    model: 'tts-1',
     voice,
     input: text,
     response_format: 'mp3',
@@ -75,20 +82,27 @@ async function generateAndUpload(
 
   const buffer = Buffer.from(await response.arrayBuffer())
 
-  const { error } = await supabase.storage
-    .from('episode-audio')
-    .upload(storagePath, buffer, {
-      contentType: 'audio/mpeg',
-      upsert: false,
-    })
+  if (shouldUpload && supabase) {
+    const { error } = await supabase.storage
+      .from('episode-audio')
+      .upload(storagePath, buffer, {
+        contentType: 'audio/mpeg',
+        upsert: false,
+      })
 
-  if (error && error.message !== 'The resource already exists') {
-    throw new Error(`Upload failed for ${storagePath}: ${error.message}`)
+    if (error && error.message !== 'The resource already exists') {
+      throw new Error(`Upload failed for ${storagePath}: ${error.message}`)
+    }
+    return
   }
+
+  fs.mkdirSync(path.dirname(storagePath), { recursive: true })
+  fs.writeFileSync(storagePath, buffer)
 }
 
 async function main() {
   console.log(`Processing ${ALL_EPISODES.length} episodes...`)
+  console.log(shouldUpload ? `Mode: upload to ${SUPABASE_URL}` : `Mode: local output -> ${LOCAL_OUTPUT_DIR}`)
 
   let total = 0
   let skipped = 0
@@ -108,20 +122,22 @@ async function main() {
 
         total++
         const fileName = `w${w}_d${d}_p${pi}_l${li}.mp3`
-        const storagePath = `tts/${fileName}`
+        const outputPath = shouldUpload
+          ? `tts/${fileName}`
+          : path.join(LOCAL_OUTPUT_DIR, 'tts', fileName)
         const speakerName = line.speakerName ?? ''
         const voice = VOICE[speakerName] ?? (line.speaker === 'a' ? 'nova' : 'onyx')
 
         process.stdout.write(`[W${w}D${d} P${pi}L${li}] ${text.slice(0, 50)}... `)
 
         try {
-          if (await audioExists(storagePath)) {
+          if (await audioExists(outputPath)) {
             console.log('SKIP')
             skipped++
             continue
           }
 
-          await generateAndUpload(text, voice, storagePath)
+          await generateAndUpload(text, voice, outputPath)
           console.log(`OK (${voice})`)
           generated++
 

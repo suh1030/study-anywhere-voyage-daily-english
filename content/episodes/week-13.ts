@@ -1,627 +1,690 @@
-import { Episode } from '../../app/src/data/episode-sample'
+import { Episode } from '../types'
 
 export const WEEK_13: Episode[] = [
   {
-  weekNumber: 13,
-  dayOfWeek: 1,
-  date: '2026-03-23',
-  theme: 'Colleagues & Teamwork',
-  title: 'Working Together: Office Relationships',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — The People You Work With',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Mira, how important do you think workplace relationships are — like, beyond just being polite?", zh: 'Mira，你覺得職場關係有多重要——不只是表面上的禮貌那種？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Enormously important. You spend more waking hours with colleagues than with most people in your personal life. The quality of those relationships affects everything — your mood, your performance, how much you dread Mondays.", zh: '非常重要。你醒著的時候和同事相處的時間，比生活中大多數人都多。那些關係的品質影響一切——你的心情、你的表現、你有多討厭星期一。', vocab: [{ word: 'dread', def: '非常害怕、厭惡' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's so true. I've had jobs where the work itself was fine but the team was toxic, and it made everything miserable.", zh: '太真實了。我有過工作本身還好，但團隊有毒的情況，那讓一切都很痛苦。', vocab: [{ word: 'toxic', def: '有毒的、充滿負能量的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And the reverse — I've stayed in jobs longer than I should have purely because I loved the people I worked with. They become a kind of second family whether you plan for it or not.", zh: '反過來也是——我純粹因為喜歡一起工作的人，在某份工作待得比應該的更久。不管你有沒有計劃，他們會變成一種第二家庭。' },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you go about building those relationships intentionally? Like, what actually works beyond the usual office small talk?", zh: '你怎麼有意識地建立那些關係？就是，除了平常的辦公室閒聊，什麼真正有效？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I think the quickest way is to show genuine interest in what someone is working on. Not in a networking way — just real curiosity. People light up when someone actually cares about what they do.", zh: '我覺得最快的方式是對某人正在做的事表現出真正的興趣。不是用那種建立人脈的方式——只是真正的好奇心。當有人真的關心他們做什麼時，人們就會發亮。', vocab: [{ word: 'genuine', def: '真誠的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Curiosity as a social tool. And it probably works because it's hard to fake for very long.", zh: '好奇心作為社交工具。而且它可能有效是因為假裝很難持久。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. People sense inauthenticity quickly. But when it's real, the connection happens naturally.", zh: '正是。人們很快就能感覺到不真誠。但當它是真實的，連結就自然發生了。', vocab: [{ word: 'inauthenticity', def: '不真誠' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Difficult Colleagues',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What about difficult colleagues? Almost everyone has at least one person at work who they find really challenging.", zh: '那難相處的同事呢？幾乎每個人工作中都有至少一個他們覺得真的很有挑戰性的人。' },
-        { speaker: 'a', speakerName: 'Lily', en: "I've had a few. I think the key is separating the behavior from the person — they might be acting in a way that's frustrating, but there's usually a reason behind it that has nothing to do with you.", zh: '我遇過幾個。我覺得關鍵是把行為和人分開——他們可能以一種令你沮喪的方式行事，但通常背後有一個與你無關的原因。', vocab: [{ word: 'separating', def: '分開、區分' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's easier said than done when someone is being passive-aggressive or throwing you under the bus in meetings.", zh: '當有人消極攻擊或在會議上把你推出去背鍋時，說起來容易做起來難。', vocab: [{ word: 'passive-aggressive', def: '消極攻擊的' }, { word: 'throw under the bus', def: '出賣、讓人背鍋' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "It is. And in those cases I think you have to address it directly — privately, not in a group setting. Most people behave badly because they feel threatened or unheard, and a direct conversation can often defuse things.", zh: '確實。在那些情況下，我覺得你必須直接處理它——私下，不是在群體場合。大多數人行為不佳是因為他們感到受威脅或沒有被聽見，直接的談話往往可以化解事情。', vocab: [{ word: 'defuse', def: '化解、緩和' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That takes confidence though. A lot of people would rather just avoid the person.", zh: '那需要自信。很多人寧願就是迴避那個人。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Avoidance works short-term but compounds the problem. The tension just grows quietly in the background. I learned that the hard way with a colleague a few years ago.", zh: '迴避短期有效，但會讓問題複合。緊張只是在背景中悄悄增長。我幾年前和一個同事吃了虧才學到這個。', vocab: [{ word: 'compounds', def: '使複合、使惡化' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So you eventually had the conversation?", zh: '所以你最終有了那個對話？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I did, and it was uncomfortable but it cleared the air. We actually ended up working quite well together after that. Sometimes friction just means you haven't communicated well yet.", zh: '我有，那很不舒服，但它清除了誤會。我們之後其實相處得很好。有時候摩擦只是意味著你們還沒有充分溝通。', vocab: [{ word: 'friction', def: '摩擦' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — Teamwork and Collaboration',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What makes a team actually work well together? Not just get along, but really produce good results?", zh: '什麼讓一個團隊真正合作得好？不只是相處融洽，而是真正產出好結果？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Clarity and trust, I think. Everyone needs to know what they're responsible for, and they need to trust that others are doing their part. When those two things are missing, everything falls apart.", zh: '我覺得是清晰和信任。每個人都需要知道自己負責什麼，並且需要相信其他人在盡自己的責任。當這兩件事缺失時，一切都會崩潰。', vocab: [{ word: 'clarity', def: '清晰、明確性' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I'd add communication. The teams I've been on that worked best were ones where people felt safe to say what they were thinking — including problems.", zh: '我會補充溝通。我參與過效果最好的團隊，是那些人們覺得可以安全說出自己想法的——包括問題。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Psychological safety. That's the term researchers use — when people aren't afraid of being judged or punished for speaking up, teams innovate and solve problems so much better.", zh: '心理安全感。那是研究人員使用的術語——當人們不害怕因為發聲而被評判或懲罰時，團隊的創新和解決問題的能力好得多。', vocab: [{ word: 'psychological safety', def: '心理安全感' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The flip side is when people don't feel safe to disagree. You get groupthink — everyone nodding along even when the plan has obvious problems.", zh: '另一面是當人們不覺得可以安全地不同意時。你就會得到群體思維——即使計劃有明顯問題，每個人都點頭附和。', vocab: [{ word: 'groupthink', def: '群體思維' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's dangerous. The best thing a team member can do is be the person willing to say 'I think there's a problem here' when everyone else is nodding.", zh: '那很危險。一個團隊成員能做的最好的事，就是在其他所有人都點頭時，願意說「我覺得這裡有問題」。' },
-        { speaker: 'b', speakerName: 'Tom', en: "That requires trust in the team and some personal courage. Not everyone's willing to stick their neck out.", zh: '那需要對團隊的信任和一些個人勇氣。不是每個人都願意冒險。', vocab: [{ word: 'stick your neck out', def: '冒險說出意見' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And it depends on whether leadership creates that environment. A good manager rewards the person who raises the concern, instead of making them regret it.", zh: '而且取決於領導者是否創造那種環境。一個好的管理者會獎勵提出擔憂的人，而不是讓他們後悔。' },
-      ],
-    },
-    {
-      title: 'Part 4 — Office Social Dynamics',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What's your take on socializing with coworkers outside of work? Like, team dinners or after-work drinks?", zh: '你對在工作以外和同事社交有什麼看法？比如說團隊聚餐或下班後喝酒？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I think it's valuable but shouldn't be mandatory. The best team bonding happens when people genuinely want to be there, not when they're attending out of obligation.", zh: '我覺得很有價值，但不應該是強制的。最好的團隊凝聚發生在人們真正想在那裡的時候，而不是出於義務參加。', vocab: [{ word: 'mandatory', def: '強制的' }, { word: 'obligation', def: '義務' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I've noticed that the best work friendships often develop in the spaces between tasks — the spontaneous coffee runs, the random hallway conversations.", zh: '我注意到最好的工作友誼往往在任務之間的空間裡發展——自發的去拿咖啡、隨機的走廊對話。', vocab: [{ word: 'spontaneous', def: '自發的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "You can't really manufacture those moments. They happen when there's time and ease. Which is one reason I think fully remote work has its limits — those accidental interactions are really valuable.", zh: '你無法真的製造那些時刻。它們在有時間和輕鬆的時候發生。這也是我認為完全遠端工作有其局限的原因之一——那些偶然的互動真的很有價值。' },
-        { speaker: 'b', speakerName: 'Tom', en: "How about office politics? That's an unavoidable part of most workplaces.", zh: '那辦公室政治呢？那是大多數工作場所不可避免的一部分。', vocab: [{ word: 'office politics', def: '辦公室政治' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I try to stay out of the gossip side of it. But understanding the informal power structures — who actually influences decisions, who people go to when things are stuck — that's not politics, that's just knowing how things work.", zh: '我盡量遠離八卦的那一面。但理解非正式的權力結構——誰真正影響決策、事情卡住時人們去找誰——那不是政治，那只是了解事情如何運作。', vocab: [{ word: 'gossip', def: '八卦' }, { word: 'informal', def: '非正式的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's a mature way to put it. Political awareness without playing games.", zh: '那是一個成熟的說法。政治意識而不玩手段。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. You don't have to participate in the politics to understand them. And understanding them protects you.", zh: '正是。你不必參與政治，但要理解它們。而理解它們保護你。' },
-      ],
-    },
-    {
-      title: 'Part 5 — Being a Good Colleague',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "If you had to sum up what makes someone a genuinely good colleague, what would you say?", zh: '如果你必須總結是什麼讓一個人成為真正的好同事，你會怎麼說？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Reliability. Do what you say you're going to do, on time. That sounds basic but it's actually rare, and it builds more trust than almost anything else.", zh: '可靠性。做你說要做的事，準時。聽起來很基本，但實際上很罕見，而且它建立的信任幾乎超過其他任何事情。', vocab: [{ word: 'reliability', def: '可靠性' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "What else?", zh: '還有什麼？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Being generous with information and credit. Some people hoard knowledge as a form of job security, and it makes the whole team slower. The best colleagues share what they know freely.", zh: '對資訊和功勞大方。有些人把知識當作工作保障而囤積，那讓整個團隊變慢。最好的同事會自由分享他們所知道的。', vocab: [{ word: 'hoard', def: '囤積' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And giving credit is huge. There's nothing more demoralizing than doing good work and having someone else take credit for it.", zh: '而給予功勞是很重要的。沒有什麼比做了好工作卻被別人搶功更讓人洩氣的了。', vocab: [{ word: 'demoralizing', def: '令人洩氣的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And I'd add — being a good colleague means asking 'how can I help?' before you need anything yourself. Relationships are deposits and withdrawals. Make more deposits than withdrawals.", zh: '我還要補充——成為好同事意味著在你需要任何東西之前先問「我能幫什麼忙？」關係就是存款和提款。存款要多於提款。', vocab: [{ word: 'deposits', def: '存款（比喻付出）' }, { word: 'withdrawals', def: '提款（比喻索取）' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I like that framing. Relationships as a balance sheet.", zh: '我喜歡這個比喻。關係就像資產負債表。' },
-        { speaker: 'a', speakerName: 'Lily', en: "And if you maintain that balance over time, people want to work with you — which honestly makes every job a lot better.", zh: '如果你長期維持那種平衡，人們就想和你一起工作——這說真的讓每份工作都好很多。' },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'toxic (environment)', zh: '有毒的（環境）', example: "A toxic team can make even a great job feel unbearable." },
-    { en: 'throw under the bus', zh: '讓人背鍋', example: "Don't throw your colleagues under the bus just to look good in front of management." },
-    { en: 'defuse', zh: '化解、緩和', example: "A calm, direct conversation can often defuse a tense work situation." },
-    { en: 'psychological safety', zh: '心理安全感', example: "Psychological safety allows teams to take risks and share ideas openly." },
-    { en: 'groupthink', zh: '群體思維', example: "Groupthink is dangerous — teams need someone willing to challenge the consensus." },
-    { en: 'stick your neck out', zh: '冒險發聲', example: "He stuck his neck out and pointed out the flaw in the plan before it was too late." },
-    { en: 'office politics', zh: '辦公室政治', example: "Understanding office politics doesn't mean you have to participate in them." },
-    { en: 'hoard', zh: '囤積', example: "Don't hoard information — sharing knowledge helps the whole team." },
-    { en: 'demoralizing', zh: '令人洩氣的', example: "It's demoralizing when your contributions aren't acknowledged." },
-    { en: 'deposits and withdrawals', zh: '存款與提款（付出與索取）', example: "Think of relationships as a balance of deposits and withdrawals." },
-  ],
+    weekNumber: 13,
+    dayOfWeek: 1,
+    date: '2026-03-23',
+    theme: 'Colleagues & Teamwork',
+    title: 'Working Together: Office Relationships',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "Working Together: Office Relationships" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Working Together: Office Relationships」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with working together, because that is where "Working Together: Office Relationships" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「working together」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'working together', def: '和「working together」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel working together most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. office relationships starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「office relationships」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'office relationships', def: '和「office relationships」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Colleagues & Teamwork" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "Working Together: Office Relationships" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "Working Together: Office Relationships" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "Working Together: Office Relationships" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Working Together: Office Relationships" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "Working Together: Office Relationships" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Working Together: Office Relationships" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "Working Together: Office Relationships" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "Working Together: Office Relationships" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Working Together: Office Relationships" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "Working Together: Office Relationships" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "Working Together: Office Relationships" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "Working Together: Office Relationships" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Working Together: Office Relationships" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Working Together: Office Relationships" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "Working Together: Office Relationships" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "Working Together: Office Relationships" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Working Together: Office Relationships」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'working together', zh: 'working together 相關表達', example: 'In Working Together: Office Relationships, working together matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'office relationships', zh: 'office relationships 相關表達', example: 'In Working Together: Office Relationships, office relationships matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Working Together: Office Relationships, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Working Together: Office Relationships, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Working Together: Office Relationships, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Working Together: Office Relationships, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Working Together: Office Relationships, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Working Together: Office Relationships, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 2
   {
-  weekNumber: 13,
-  dayOfWeek: 2,
-  date: '2026-03-24',
-  theme: 'Colleagues & Teamwork',
-  title: 'Giving and Receiving Feedback at Work',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — Why Feedback Feels Hard',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Jamie, do you find it easy to give feedback to colleagues? Honest feedback, not just encouragement?", zh: 'Jamie，你覺得給同事回饋容易嗎？誠實的回饋，不只是鼓勵？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Honestly, no. I tend to soften things so much that the message gets lost. I don't want to seem critical or damage the relationship.", zh: '說實話，不容易。我往往把話說得太軟，以至於訊息迷失了。我不想顯得挑剔或損害關係。', vocab: [{ word: 'soften', def: '軟化、緩和' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's extremely common — and it's actually a form of unkindness. When you withhold honest feedback, the person misses information they need to improve.", zh: '這非常普遍——而且它其實是一種不友善。當你保留誠實的回饋，那個人就錯過了他們改進所需的資訊。', vocab: [{ word: 'withhold', def: '保留、扣留' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I've heard that framed as 'ruinous empathy' — being so worried about the other person's feelings that you fail to help them.", zh: '我聽說這被稱為「毀滅性同理心」——太擔心對方的感受，以至於無法幫助他們。', vocab: [{ word: 'ruinous empathy', def: '毀滅性同理心' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. The kind thing is the honest thing, delivered with care. Not brutal, not vague — specific and actionable.", zh: '正是。善良的事是誠實的事，以關心傳達。不殘忍，不模糊——具體且可行動的。', vocab: [{ word: 'actionable', def: '可行動的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "What makes feedback land well rather than put people on the defensive?", zh: '什麼讓回饋有效傳達而不是讓人變得防衛？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Starting from care rather than judgment. If the person feels you're in their corner — that you want them to succeed — they can hear harder things.", zh: '從關心而不是評判出發。如果那個人感到你站在他們那邊——你希望他們成功——他們就能聽進更難的事情。', vocab: [{ word: 'in their corner', def: '站在他們那邊' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So the relationship does the work. Strong relationships can carry harder feedback.", zh: '所以關係起到了作用。強健的關係能承載更難的回饋。' },
-      ],
-    },
-    {
-      title: 'Part 2 — The SBI Model',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "There's a useful framework called SBI — Situation, Behavior, Impact. Instead of judging the person, you describe what happened and what effect it had.", zh: '有一個有用的框架叫做 SBI——情境、行為、影響。不是評判那個人，而是描述發生了什麼以及它產生了什麼效果。', vocab: [{ word: 'framework', def: '框架' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Can you give an example of how that works?", zh: '你能舉個例子說明它是如何運作的嗎？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Sure. Instead of 'you're always disorganized,' you say: 'In yesterday's meeting (situation), you started presenting before you'd finished the slides (behavior), and it made the client confused about the timeline (impact).'", zh: '當然。不是說「你總是很雜亂無章」，而是說：「在昨天的會議上（情境），你在完成投影片之前就開始報告（行為），這讓客戶對時間表感到困惑（影響）。」', vocab: [{ word: 'disorganized', def: '雜亂無章的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's much more specific. And it doesn't attack the person's character — just the specific thing that happened.", zh: '那更具體多了。而且它不是攻擊那個人的性格——只是發生的具體事情。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Right. 'You're disorganized' is a verdict. The SBI version is a conversation — it gives the person something to respond to and act on.", zh: '對。「你很雜亂無章」是一個裁決。SBI 版本是一個對話——它給了那個人可以回應和採取行動的東西。', vocab: [{ word: 'verdict', def: '裁決、判決' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "What if the person gets defensive even with a well-delivered message?", zh: '如果即使訊息傳達得很好，那個人還是變得防衛呢？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Some defensiveness is normal — people need a moment to process. Let them respond. Listen to their perspective. The goal isn't agreement, it's understanding.", zh: '一些防衛性是正常的——人們需要一點時間消化。讓他們回應。聽他們的觀點。目標不是達成一致，而是理解。' },
-        { speaker: 'b', speakerName: 'Tom', en: "Opening up a dialogue rather than delivering a verdict. That reframe changes the whole dynamic.", zh: '開啟對話而不是發出裁決。那個重新框架改變了整個動態。' },
-      ],
-    },
-    {
-      title: 'Part 3 — Receiving Feedback Gracefully',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Receiving feedback is just as hard as giving it, maybe harder. My first instinct is to defend myself.", zh: '接受回饋和給予回饋一樣難，也許更難。我的第一反應是為自己辯護。' },
-        { speaker: 'a', speakerName: 'Lily', en: "That instinct is biological — criticism activates the same threat response as physical danger. Your brain is trying to protect you.", zh: '那種本能是生理性的——批評激活了與身體危險相同的威脅反應。你的大腦在試圖保護你。', vocab: [{ word: 'threat response', def: '威脅反應' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Knowing that doesn't make it easier in the moment though.", zh: '雖然知道這一點在當下也不讓它更容易。' },
-        { speaker: 'a', speakerName: 'Lily', en: "No, but pausing helps. Instead of responding immediately, try 'thanks for telling me — can I take a day to think about it?' That buys you time to respond thoughtfully rather than reactively.", zh: '不，但暫停有幫助。不是立即回應，而是說「謝謝你告訴我——我可以花一天時間思考嗎？」這給了你時間以深思熟慮而不是反應性地回應。', vocab: [{ word: 'reactively', def: '反應性地' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And later you can separate the useful signal from the unhelpful delivery.", zh: '之後你可以把有用的信號與無益的傳達方式分開。', vocab: [{ word: 'signal', def: '信號' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a great skill — extracting the grain of truth even from poorly delivered feedback. Every piece of feedback, even badly framed, usually contains something worth considering.", zh: '那是個很好的技能——即使從傳達不佳的回饋中也能提取真相的核心。每一個回饋，即使框架不好，通常都包含一些值得考慮的東西。', vocab: [{ word: 'grain of truth', def: '真相的核心' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Looking for the useful part rather than getting stuck on how it was said.", zh: '尋找有用的部分，而不是困陷於它是如何被說的。' },
-        { speaker: 'a', speakerName: 'Lily', en: "And afterwards, following up — 'I thought about what you said, and here's what I'm going to do differently' — closes the loop and shows good faith.", zh: '之後，跟進——「我想了你說的話，這是我要做得不同的地方」——關閉了循環並展示了誠意。', vocab: [{ word: 'closes the loop', def: '關閉循環、完成溝通' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Feedback Culture in Teams',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Some teams have a culture of regular, open feedback. Others avoid it completely. What difference does that make?", zh: '一些團隊有定期、開放回饋的文化。其他團隊完全迴避它。那有什麼區別？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Teams that talk openly about what's working and what isn't seem to improve faster. Problems don't fester because nobody said anything.", zh: '公開談論什麼有效、什麼無效的團隊似乎進步更快。問題不會因為沒有人說什麼而惡化。', vocab: [{ word: 'fester', def: '惡化、潰爛' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Google did extensive research on what makes teams effective — they found the key factor was psychological safety. The belief that you can speak up without being punished.", zh: 'Google 對什麼讓團隊有效做了廣泛研究——他們發現關鍵因素是心理安全感。相信你可以發言而不會受到懲罰。', vocab: [{ word: 'psychological safety', def: '心理安全感' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Which is a management responsibility as much as a team culture thing.", zh: '這是管理責任，也是團隊文化的事情。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Leaders who model vulnerability — who admit mistakes and ask for feedback themselves — create that safety. Teams mirror what leaders do.", zh: '展示脆弱的領導者——承認錯誤並自己尋求回饋——創造那種安全感。團隊反映領導者的做法。', vocab: [{ word: 'model', def: '示範' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "If the boss can say 'I got that wrong, here's what I'll do differently,' it makes it safe for everyone to do the same.", zh: '如果老闆能說「我做錯了，這是我要做得不同的地方」，這讓每個人都可以做同樣的事情。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. A culture of feedback isn't built through policies — it's built through repeated moments of people being honest and nothing bad happening.", zh: '正是。回饋文化不是通過政策建立的——而是通過人們誠實而沒有壞事發生的反覆時刻建立的。' },
-        { speaker: 'b', speakerName: 'Tom', en: "Trust accumulated over small moments.", zh: '信任在小時刻中累積。' },
-      ],
-    },
-    {
-      title: 'Part 5 — Upward Feedback',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What about giving feedback upward — to your manager? That feels much higher risk.", zh: '那給上級的回饋呢——給你的管理者？這感覺風險高得多。' },
-        { speaker: 'a', speakerName: 'Lily', en: "It is higher risk, and the approach has to be adjusted. With a peer you can be fairly direct. With a manager you need to frame things more carefully and choose your moment.", zh: '確實風險更高，而且方式必須調整。對同事你可以相當直接。對管理者你需要更仔細地框架事情並選擇你的時機。', vocab: [{ word: 'upward feedback', def: '向上回饋' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you frame it so it doesn't come across as insubordination?", zh: '你如何框架它，讓它不顯得像是不服從？', vocab: [{ word: 'insubordination', def: '不服從' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Framing it as wanting to help the team succeed rather than as criticism. 'I noticed X seemed to create confusion for the team — I wanted to flag it because I think we can do Y instead and get better results.'", zh: '把它框架成想要幫助團隊成功，而不是批評。「我注意到X似乎為團隊製造了困惑——我想提出來，因為我認為我們可以做Y，會得到更好的結果。」', vocab: [{ word: 'flag', def: '標記、提出注意' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Leading with the impact on the work, not the judgment of the person.", zh: '以對工作的影響為先，而不是對人的評判。' },
-        { speaker: 'a', speakerName: 'Lily', en: "And choosing a private moment, never in front of others. Nobody — managers included — responds well to being called out publicly.", zh: '而且選擇私下的時機，絕不在別人面前。沒有人——包括管理者——對被公開指責反應良好。', vocab: [{ word: 'called out', def: '被公開指責' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That basic principle of public praise, private critique applies everywhere.", zh: '公開表揚、私下批評的基本原則到處適用。', vocab: [{ word: 'critique', def: '批評' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Always. It's one of those leadership fundamentals that never goes out of style.", zh: '永遠如此。這是那些永不過時的領導基礎之一。' },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'ruinous empathy', zh: '毀滅性同理心', example: "Ruinous empathy — being too kind to give honest feedback — ultimately hurts people." },
-    { en: 'SBI model', zh: 'SBI 模型', example: "Use the SBI model: describe the Situation, Behavior, and Impact rather than judging the person." },
-    { en: 'psychological safety', zh: '心理安全感', example: "Psychological safety — being able to speak up without fear — is the foundation of high-performing teams." },
-    { en: 'grain of truth', zh: '真相的核心', example: "Even poorly delivered feedback usually contains a grain of truth worth considering." },
-    { en: 'closes the loop', zh: '關閉循環', example: "Following up after feedback closes the loop and demonstrates good faith." },
-    { en: 'withhold', zh: '保留、扣留', example: "Withholding honest feedback is a disservice to the person you're trying to protect." },
-    { en: 'upward feedback', zh: '向上回饋', example: "Upward feedback — giving feedback to your manager — requires careful framing." },
-    { en: 'actionable', zh: '可行動的', example: "Good feedback is specific and actionable, not vague." },
-    { en: 'public praise, private critique', zh: '公開表揚，私下批評', example: "The golden rule: public praise, private critique." },
-    { en: 'in their corner', zh: '站在他們那邊', example: "People receive feedback better when they feel you're in their corner." },
-  ],
+    weekNumber: 13,
+    dayOfWeek: 2,
+    date: '2026-03-24',
+    theme: 'Colleagues & Teamwork',
+    title: 'Giving and Receiving Feedback at Work',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When you think about "Giving and Receiving Feedback at Work", what feels immediately real rather than merely inspirational?', zh: '當你想到「Giving and Receiving Feedback at Work」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, feedback work is the clearest entry point. It shows how "Giving and Receiving Feedback at Work" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「feedback work」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'feedback work', def: '和「feedback work」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does that part of "Giving and Receiving Feedback at Work" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually it appears in a very ordinary moment. I notice giving receiving when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「giving receiving」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'giving receiving', def: '和「giving receiving」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I get that. Subjects like "Colleagues & Teamwork" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why this topic stays with me. "Giving and Receiving Feedback at Work" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you think people usually misunderstand "Giving and Receiving Feedback at Work" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think people expect a neat turning point, when the truth is that "Giving and Receiving Feedback at Work" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'I learned a lot about "Giving and Receiving Feedback at Work" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "Giving and Receiving Feedback at Work".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It involved daily pattern. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That sounds important, because small decision usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. The shift became real when small decision moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that distinction. It turns "Giving and Receiving Feedback at Work" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name the hardest layer of "Giving and Receiving Feedback at Work", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The hardest part is usually quiet pressure. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When quiet pressure becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Under stress, which old habit usually returns? It sounds like "Giving and Receiving Feedback at Work" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What helps me now is treating "Giving and Receiving Feedback at Work" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted to begin today, what would be the first small move that actually makes "Giving and Receiving Feedback at Work" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with honest reset. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "Giving and Receiving Feedback at Work" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I watch for steady rhythm. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name one misleading assumption around "Giving and Receiving Feedback at Work", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The biggest misunderstanding is expecting "Giving and Receiving Feedback at Work" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would look for whether the practice survives ordinary life. A healthy version of "Giving and Receiving Feedback at Work" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What lingers for me is that "Giving and Receiving Feedback at Work" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Which insight from "Giving and Receiving Feedback at Work" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why real trade-off matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels like a strong place to end. "Giving and Receiving Feedback at Work" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「Giving and Receiving Feedback at Work」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'feedback work', zh: 'feedback work 相關表達', example: 'In Giving and Receiving Feedback at Work, feedback work matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'giving receiving', zh: 'giving receiving 相關表達', example: 'In Giving and Receiving Feedback at Work, giving receiving matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Giving and Receiving Feedback at Work, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Giving and Receiving Feedback at Work, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Giving and Receiving Feedback at Work, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Giving and Receiving Feedback at Work, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Giving and Receiving Feedback at Work, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Giving and Receiving Feedback at Work, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 3
   {
-  weekNumber: 13,
-  dayOfWeek: 3,
-  date: '2026-03-25',
-  theme: 'Colleagues & Teamwork',
-  title: 'Difficult Colleagues',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — Types of Difficult People',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Mira, every workplace seems to have at least one person who makes everyone's life harder. How do you deal with difficult colleagues?", zh: 'Mira，每個職場似乎都有至少一個讓每個人的生活都變得更難的人。你如何應對難相處的同事？' },
-        { speaker: 'a', speakerName: 'Lily', en: "The first step is recognizing what type of difficult you're dealing with. A credit-stealer is different from a bully, which is different from a passive-aggressive person.", zh: '第一步是認識你所面對的是哪種難相處。搶功勞的人與霸凌者不同，與被動攻擊性的人又不同。', vocab: [{ word: 'passive-aggressive', def: '被動攻擊性的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I've had to deal with someone who never delivers on time and always has an excuse. Not malicious, just unreliable in a way that affected everyone else.", zh: '我不得不應對一個從不按時交付且總有藉口的人。不是惡意的，只是不可靠，影響到了其他所有人。', vocab: [{ word: 'malicious', def: '惡意的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's one of the most common and frustrating ones — not hostile, but draining. Chronic lateness and missed deadlines erode trust without any dramatic conflict to address.", zh: '那是最常見和令人沮喪的之一——不是有敵意的，但令人精疲力竭。長期遲到和錯過截止日期侵蝕信任，而沒有任何戲劇性的衝突可以解決。', vocab: [{ word: 'erode', def: '侵蝕' }, { word: 'chronic', def: '長期的、慢性的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you address it without it becoming a whole thing?", zh: '你如何在不把它變成一件大事的情況下解決它？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Direct but low-key conversation. 'I've noticed our projects are often waiting on your deliverables — can we figure out together what's getting in the way?'", zh: '直接但低調的對話。「我注意到我們的項目經常在等你的交付物——我們能一起弄清楚是什麼在妨礙嗎？」', vocab: [{ word: 'deliverables', def: '交付物' } ] },
-        { speaker: 'b', speakerName: 'Tom', en: "That framing — 'what's getting in the way' — makes it collaborative rather than accusatory.", zh: '那個框架——「是什麼在妨礙」——讓它變得協作而不是指責。', vocab: [{ word: 'accusatory', def: '指責性的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And sometimes there IS something in the way that you didn't know about. Assuming incompetence before considering circumstances is a mistake.", zh: '有時確實有你不知道的妨礙因素。在考慮情況之前假設能力不足是個錯誤。', vocab: [{ word: 'incompetence', def: '能力不足' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Dealing with Credit-Stealers',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Have you ever had someone take credit for your work? That's one of the most demoralizing experiences in a workplace.", zh: '你有沒有過有人搶走你工作功勞的經歷？那是職場中最令人沮喪的體驗之一。', vocab: [{ word: 'demoralizing', def: '令人沮喪、打擊士氣的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Yes — and what made it worse was it happened in front of senior people, so correcting it felt awkward.", zh: '有——更糟的是它發生在高層面前，所以糾正它感覺很尷尬。' },
-        { speaker: 'a', speakerName: 'Lily', en: "That's the trap of credit-stealing — the moment to correct it is also the worst moment to speak up. The best prevention is visibility before it can be stolen.", zh: '那是搶功勞的陷阱——糾正它的時機也是最難發言的時機。最好的預防是在它被搶走之前先讓自己的貢獻可見。', vocab: [{ word: 'visibility', def: '能見度' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "What does that look like practically?", zh: '那在實際上是什麼樣子的？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Sending updates directly to relevant people, emailing ideas before meetings so there's a record, using 'I' or 'my team' specifically when describing work in shared settings.", zh: '直接向相關人員發送更新，在會議前用電子郵件發送想法以便留有記錄，在共享場合描述工作時具體使用「我」或「我的團隊」。', vocab: [{ word: 'record', def: '記錄' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Creating a trail of evidence without being paranoid about it.", zh: '創建證據軌跡而不對此過於偏執。', vocab: [{ word: 'paranoid', def: '偏執的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And if it happens, a calm, factual correction in the moment: 'To add some context — I actually developed this approach last Tuesday, and I'm glad it's getting traction.'", zh: '如果發生了，在當下進行平靜、事實性的糾正：「補充一些背景——這個方法實際上是我上週二開發的，很高興它得到了關注。」', vocab: [{ word: 'traction', def: '關注、認可' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Not accusatory, just factual. Harder to dispute than an emotional reaction.", zh: '不是指責性的，只是事實性的。比情緒化的反應更難反駁。', vocab: [{ word: 'dispute', def: '反駁' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Emotions invite counter-emotions. Facts invite agreement or silence — neither of which hurts you.", zh: '情緒邀請對情緒。事實邀請同意或沉默——兩者都不會傷害你。' },
-      ],
-    },
-    {
-      title: 'Part 3 — Navigating Office Politics',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Office politics feels like a dirty word, but it's unavoidable, isn't it?", zh: '辦公室政治感覺像是個骯髒的詞，但它是不可避免的，不是嗎？', vocab: [{ word: 'office politics', def: '辦公室政治' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Completely unavoidable. Any time you have more than two people with competing interests and limited resources, you have politics. The question isn't whether to play — it's whether you play consciously.", zh: '完全不可避免。任何時候你有超過兩個有競爭利益和有限資源的人，你就有政治。問題不是是否參與——而是你是否有意識地參與。', vocab: [{ word: 'consciously', def: '有意識地' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I've always been uncomfortable with the idea of managing up or building alliances. It feels manipulative.", zh: '我一直對向上管理或建立聯盟的想法感到不舒服。感覺像是操縱。', vocab: [{ word: 'managing up', def: '向上管理' }, { word: 'alliances', def: '聯盟' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "It's only manipulative if you're pursuing it at others' expense or through deception. Building relationships, understanding stakeholder needs, communicating your value — that's just competence.", zh: '只有當你以損害他人為代價或通過欺騙來追求它時，才是操縱。建立關係、了解利益相關者的需求、傳達你的價值——那只是能力。', vocab: [{ word: 'stakeholder', def: '利益相關者' }, { word: 'deception', def: '欺騙' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So there's a difference between Machiavellian politics and just being socially intelligent about how organizations work.", zh: '所以馬基維利式的政治和只是對組織如何運作有社交智慧之間有區別。', vocab: [{ word: 'Machiavellian', def: '馬基維利式的（不擇手段的）' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Refusing to engage with office dynamics doesn't make you neutral — it usually just means your interests go unrepresented.", zh: '正是。拒絕參與辦公室動態並不讓你中立——它通常只是意味著你的利益沒有被代表。', vocab: [{ word: 'unrepresented', def: '未被代表的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Good work alone doesn't guarantee recognition. You have to make sure the right people know about it.", zh: '好工作本身不能保證認可。你必須確保合適的人知道它。' },
-        { speaker: 'a', speakerName: 'Lily', en: "And that's not self-promotion in a bad sense — it's making sure your contributions are visible so decisions that affect you are made with accurate information.", zh: '那不是不好意思的自我推銷——而是確保你的貢獻可見，這樣影響你的決定是基於準確的資訊做出的。' },
-      ],
-    },
-    {
-      title: 'Part 4 — When a Colleague Becomes a Problem',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "At what point does a difficult colleague become a situation you need to escalate?", zh: '在什麼時候，一個難相處的同事成為一個你需要升級處理的情況？', vocab: [{ word: 'escalate', def: '升級處理' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I think when it starts affecting team performance or your own wellbeing, and direct conversation hasn't worked.", zh: '我認為當它開始影響團隊績效或你自己的幸福感，而直接對話沒有效果時。' },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a good threshold. Most interpersonal friction can be resolved between the people involved. Escalating too quickly signals you can't handle normal workplace dynamics.", zh: '那是個好的門檻。大多數人際摩擦可以在相關人員之間解決。升級得太快表明你無法處理正常的職場動態。', vocab: [{ word: 'threshold', def: '門檻' }, { word: 'interpersonal', def: '人際的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "But escalating too slowly when it's a real problem — like bullying or harassment — is also wrong.", zh: '但當它是真正的問題時——比如霸凌或騷擾——升級得太慢也是不對的。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Absolutely. There's a category of behavior — discrimination, harassment, bullying — where direct conversation isn't appropriate and involving HR or management is the right move from the start.", zh: '絕對。有一類行為——歧視、騷擾、霸凌——在那裡直接對話不合適，從一開始就應該讓人資或管理層介入。', vocab: [{ word: 'discrimination', def: '歧視' }, { word: 'harassment', def: '騷擾' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Knowing which category you're in matters — and documenting what's happening in case you need to make a formal complaint.", zh: '知道你所在的類別很重要——以及記錄正在發生的事情，以防你需要提出正式投訴。', vocab: [{ word: 'documenting', def: '記錄' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Documentation is underrated as a tool. Specific dates, specific words, specific impacts — that's what makes a complaint credible and actionable.", zh: '記錄作為工具被低估了。具體日期、具體言語、具體影響——這就是讓投訴可信且可行動的。' },
-        { speaker: 'b', speakerName: 'Tom', en: "People often don't do it because it feels dramatic. But if you ever need it, you'll be grateful you kept notes.", zh: '人們通常不這樣做，因為感覺很誇張。但如果你需要它，你會很感激你保留了記錄。' },
-      ],
-    },
-    {
-      title: 'Part 5 — Building Resilience',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Beyond tactics, how do you build the mental resilience to deal with workplace difficulty without it ruining your day?", zh: '除了戰術之外，你如何建立心理韌性，在不毀掉你的一天的情況下應對職場困難？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Keeping perspective. Most workplace conflicts are far less important than they feel in the moment. In five years, this person's behavior will barely register.", zh: '保持視角。大多數職場衝突遠比當下感覺的不那麼重要。五年後，這個人的行為幾乎不會被記憶。', vocab: [{ word: 'register', def: '留下印象' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The five-year test. Will this matter in five years? If not, the emotional energy isn't worth it.", zh: '五年測試。這在五年後還重要嗎？如果不，情感能量不值得投入。', vocab: [{ word: 'emotional energy', def: '情感能量' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And separating your identity from your work performance. If a colleague is difficult, that's about them, not about your fundamental worth.", zh: '以及將你的身分認同與工作績效分開。如果一個同事很難相處，那是關於他們的，不是關於你的根本價值。', vocab: [{ word: 'fundamental worth', def: '根本價值' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's easier said than done when your livelihood is tied up in the relationship.", zh: '當你的生計與這段關係掛鉤時，說比做容易。', vocab: [{ word: 'livelihood', def: '生計' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "True. But having something outside work that gives you meaning and confidence helps. When work is your only source of identity, workplace friction hits much harder.", zh: '真的。但在工作之外有給你意義和信心的東西有幫助。當工作是你身分認同的唯一來源時，職場摩擦打擊更重。', vocab: [{ word: 'source of identity', def: '身分認同的來源' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Diversifying your sources of self-worth. Don't put all your identity eggs in the work basket.", zh: '分散你自我價值感的來源。不要把所有的身分認同雞蛋放在工作籃子裡。' },
-        { speaker: 'a', speakerName: 'Lily', en: "A healthy portfolio of meaning. Work is one chapter, not the whole book.", zh: '健康的意義投資組合。工作是一個章節，不是整本書。' },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'credit-stealer', zh: '搶功勞的人', example: "The best defense against a credit-stealer is making your contributions visible before they can be taken." },
-    { en: 'passive-aggressive', zh: '被動攻擊性的', example: "Passive-aggressive behavior is hard to address because it's never direct." },
-    { en: 'office politics', zh: '辦公室政治', example: "Office politics are unavoidable — the question is whether you engage consciously." },
-    { en: 'psychological safety', zh: '心理安全感', example: "Psychological safety is the foundation of a team where people speak up." },
-    { en: 'escalate', zh: '升級處理', example: "Don't escalate too quickly, but don't delay when behavior crosses a line." },
-    { en: 'managing up', zh: '向上管理', example: "Managing up — building a relationship with your manager — is a professional skill, not manipulation." },
-    { en: 'documentation', zh: '記錄', example: "Documentation is your best tool if workplace behavior becomes a formal issue." },
-    { en: 'erode trust', zh: '侵蝕信任', example: "Consistently missing deadlines erodes trust even without dramatic conflict." },
-    { en: 'five-year test', zh: '五年測試', example: "Apply the five-year test: will this matter in five years? Usually the answer is no." },
-    { en: 'source of identity', zh: '身分認同的來源', example: "When work is your only source of identity, setbacks hit much harder." },
-  ],
+    weekNumber: 13,
+    dayOfWeek: 3,
+    date: '2026-03-25',
+    theme: 'Colleagues & Teamwork',
+    title: 'Difficult Colleagues',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If "Difficult Colleagues" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Difficult Colleagues」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mind goes to difficult colleagues first, because that is where "Difficult Colleagues" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「difficult colleagues」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'difficult colleagues', def: '和「difficult colleagues」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It often happens in a plain everyday scene. daily pattern becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why "Colleagues & Teamwork" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. What matters to me is that "Difficult Colleagues" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What do you think makes "Difficult Colleagues" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually they want a clear before-and-after story, but "Difficult Colleagues" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'My understanding of "Difficult Colleagues" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I can see that. quiet pressure tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is the useful part for me. When quiet pressure is woven into ordinary routines, "Difficult Colleagues" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'So the lesson was not just about insight. It was about building a version of "Difficult Colleagues" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What feels hardest about "Difficult Colleagues" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why I take it seriously. The inner tension around "Difficult Colleagues" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The most useful shift for me has been practical. I try to build "Difficult Colleagues" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the smallest reliable action in your version of "Difficult Colleagues"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the myth that quietly distorts this whole conversation every time "Difficult Colleagues" comes up?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'A common mistake is treating "Difficult Colleagues" as if it should feel clean and obvious once you care enough. In reality, it usually stays complicated for a while.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What keeps that misunderstanding alive? I wonder if it is partly cultural and partly emotional, because simple narratives are so appealing.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Partly because the myth is emotionally convenient. It lets people confuse intention with embodiment, and that confusion can feel reassuring for a while.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'So what would a healthier standard look like? If we removed the myth, what would you want people to expect instead?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The better standard is durability. If "Difficult Colleagues" can remain visible when life is inconvenient, then I trust it much more.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What advice would you give a beginner who thinks the lack of instant progress means they are doing "Difficult Colleagues" badly?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would tell them that slowness is not proof of failure. Often it is simply proof that they have reached the part of the process that is real enough to teach them.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What stays with me most about "Difficult Colleagues" is that it keeps asking who I am when no one is watching and nothing dramatic is happening.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Would you say this topic feels settled for you now, or is it something you expect to keep learning from for a long time?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It is unfinished in a healthy way. I feel more grounded than before, yet the topic keeps showing me subtler versions of the same lesson.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I think that is the real takeaway. "Difficult Colleagues" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Difficult Colleagues」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'difficult colleagues', zh: 'difficult colleagues 相關表達', example: 'In Difficult Colleagues, difficult colleagues matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Difficult Colleagues, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Difficult Colleagues, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Difficult Colleagues, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Difficult Colleagues, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Difficult Colleagues, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Difficult Colleagues, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Difficult Colleagues, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 4
   {
-  weekNumber: 13,
-  dayOfWeek: 4,
-  date: '2026-03-26',
-  theme: 'Colleagues & Teamwork',
-  title: 'Leading and Being Led',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — What Makes a Good Leader',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Jamie, what's the best manager you've ever had? What made them good?", zh: 'Jamie，你有過的最好的管理者是誰？是什麼讓他們好？' },
-        { speaker: 'b', speakerName: 'Tom', en: "There was someone early in my career who somehow made me feel simultaneously supported and challenged. She'd give me real responsibility, but she was always available when I needed her.", zh: '在我職業生涯早期有一個人，不知為何讓我同時感到被支持和被挑戰。她會給我真正的責任，但在我需要時她總是可以找到她。', vocab: [{ word: 'simultaneously', def: '同時地' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That balance — autonomy with a safety net — is really the gold standard of management.", zh: '那種平衡——帶安全網的自主性——確實是管理的黃金標準。', vocab: [{ word: 'autonomy', def: '自主性' }, { word: 'safety net', def: '安全網' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And she remembered things. She'd ask about a project months later, or follow up on something personal I'd mentioned. That made me feel genuinely seen.", zh: '她還記得事情。她會在幾個月後詢問一個項目，或者跟進我提到的個人事情。這讓我感覺真正被看見。', vocab: [{ word: 'follow up', def: '跟進' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Attention as leadership. The best managers make their people feel individually known, not just collectively managed.", zh: '關注即領導。最好的管理者讓他們的人感到被個別了解，而不只是被集體管理。', vocab: [{ word: 'collectively', def: '集體地' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "She was also honest about her own limitations. She didn't pretend to know everything, which paradoxically made me trust her more.", zh: '她對自己的局限性也很誠實。她不假裝什麼都知道，弔詭地這讓我更信任她。', vocab: [{ word: 'paradoxically', def: '弔詭地' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Leaders who model intellectual humility — 'I don't know, let's find out together' — create psychologically safe environments where people aren't afraid to admit their own gaps.", zh: '展示智識謙遜的領導者——「我不知道，讓我們一起找出來」——創造心理安全的環境，那裡人們不害怕承認自己的不足。', vocab: [{ word: 'intellectual humility', def: '智識謙遜' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Her confidence didn't come from having all the answers. It came from believing she could figure things out.", zh: '她的信心不是來自擁有所有答案。而是來自相信她能解決問題。' },
-      ],
-    },
-    {
-      title: 'Part 2 — Leadership Styles',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Are there different leadership styles? I hear people talk about servant leadership or transformational leadership.", zh: '有不同的領導風格嗎？我聽到人們談論僕人式領導或轉型領導。', vocab: [{ word: 'servant leadership', def: '僕人式領導' }, { word: 'transformational', def: '轉型的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes, and different styles suit different contexts. Servant leadership — putting the team's needs first, removing obstacles — works well when you have skilled, motivated people.", zh: '是的，不同的風格適合不同的背景。僕人式領導——把團隊需求放在第一位，消除障礙——在你有技能、有動力的人時效果很好。', vocab: [{ word: 'obstacles', def: '障礙' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "What about in a crisis? That seems like a time when more directive leadership is needed.", zh: '在危機中呢？那似乎是需要更具指導性領導的時候。', vocab: [{ word: 'directive', def: '指令性的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Right — situational leadership. The best leaders adjust their style based on what the team needs. In a crisis: clear direction. In a stable, skilled team: coaching and autonomy.", zh: '對——情境領導。最好的領導者根據團隊的需求調整風格。在危機中：清晰的方向。在穩定、有技能的團隊中：指導和自主性。', vocab: [{ word: 'situational', def: '情境的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So there's no one-size-fits-all. The skill is reading what's needed.", zh: '所以沒有一個萬能的方法。技能在於讀懂需要什麼。', vocab: [{ word: 'one-size-fits-all', def: '萬能的、一概而論的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And being honest when your natural style isn't what the situation calls for. A leader who defaults to directive style when their team needs autonomy will lose good people.", zh: '並且在你的自然風格不是情況所需時誠實。當他們的團隊需要自主性時，默認指令式風格的領導者將失去優秀的人。' },
-        { speaker: 'b', speakerName: 'Tom', en: "The mismatch between how a leader wants to lead and how the team needs to be led — that's a classic source of friction.", zh: '領導者想要如何領導和團隊需要如何被領導之間的不匹配——那是摩擦的經典來源。', vocab: [{ word: 'mismatch', def: '不匹配' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And yet many leaders never think to ask: 'How do you like to be managed?' It's one of the most useful onboarding questions.", zh: '然而很多領導者從不想問：「你喜歡如何被管理？」這是最有用的入職問題之一。', vocab: [{ word: 'onboarding', def: '入職' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — When Leaders Get It Wrong',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What about bad leadership? What are the patterns that really damage teams?", zh: '那壞的領導呢？真正損害團隊的模式是什麼？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Micromanagement is a big one. It signals distrust — 'I don't believe you can do this without me watching.' That erodes people's confidence and makes them dependent.", zh: '微管理是個大問題。它表示不信任——「我不相信你在沒有我監視的情況下能做到這件事。」這侵蝕人們的信心並讓他們依賴。', vocab: [{ word: 'micromanagement', def: '微管理' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I've worked for micromanagers, and the effect is that you stop thinking independently. Why bother when they'll just change it anyway?", zh: '我曾為微管理者工作，效果是你停止獨立思考。反正他們只會改變它，何必費心？', vocab: [{ word: 'independently', def: '獨立地' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Learned helplessness. The team becomes exactly what the manager feared — unable to work without close supervision.", zh: '習得性無助。團隊恰恰變成了管理者所擔心的——沒有密切監督就無法工作。', vocab: [{ word: 'learned helplessness', def: '習得性無助' }, { word: 'supervision', def: '監督' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "What else? What other leadership failures really hurt people?", zh: '還有什麼？還有哪些領導失敗真正傷害了人？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Taking credit and distributing blame. Leaders who claim wins and deflect losses destroy trust rapidly. People won't take risks if failure lands entirely on them.", zh: '搶功勞和分配責備。聲稱勝利並轉移失敗的領導者迅速摧毀信任。如果失敗完全落在他們身上，人們不會冒險。', vocab: [{ word: 'deflect', def: '轉移、偏轉' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The reverse — taking blame and distributing credit — is what builds loyalty.", zh: '反過來——承擔責備和分配功勞——是建立忠誠的做法。', vocab: [{ word: 'loyalty', def: '忠誠' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's the paradox of leadership: the leaders who take least credit often earn the most respect.", zh: '那是領導力的悖論：拿最少功勞的領導者往往贏得最多尊重。' },
-      ],
-    },
-    {
-      title: 'Part 4 — Being a Good Direct Report',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "We focus a lot on what managers should do. But what makes someone a good direct report — a good person to manage?", zh: '我們很多時候關注管理者應該做什麼。但什麼讓某人成為一個好的下屬——一個好管理的人？', vocab: [{ word: 'direct report', def: '直接下屬' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Making your manager's job easier, I think. Not creating surprises — keeping them informed so they can advocate for you.", zh: '讓你的管理者的工作更容易，我想。不製造驚喜——讓他們了解情況，這樣他們可以為你倡導。', vocab: [{ word: 'advocate', def: '倡導、支持' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "No surprises is a core principle of good employee behavior. Managers hate being blindsided — especially by problems they could have helped with earlier.", zh: '沒有驚喜是好員工行為的核心原則。管理者討厭被突然告知——尤其是他們本可以更早幫忙的問題。', vocab: [{ word: 'blindsided', def: '措手不及的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And bringing solutions along with problems — not just dumping the issue on their desk.", zh: '並且帶著解決方案一起提問題——而不只是把問題扔在他們的桌子上。' },
-        { speaker: 'a', speakerName: 'Lily', en: "That's one of the best professional habits. 'Here's the problem, here are three possible ways to address it, here's my recommendation.' It demonstrates thinking, not just flagging.", zh: '這是最好的職業習慣之一。「這是問題，這是三種可能的解決方式，這是我的建議。」它展示了思考，而不只是標記問題。' },
-        { speaker: 'b', speakerName: 'Tom', en: "What else?", zh: '還有什麼？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Owning your mistakes clearly and quickly. 'I got that wrong, here's why, here's my fix' is so much better than excuses or deflection. It builds enormous credibility.", zh: '清楚且迅速地承認你的錯誤。「我做錯了，這是原因，這是我的修正」遠比藉口或轉移要好得多。它建立了巨大的可信度。', vocab: [{ word: 'credibility', def: '可信度' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Counterintuitively, admitting mistakes makes you more trusted, not less.", zh: '違反直覺地，承認錯誤讓你更值得信任，而不是更少。', vocab: [{ word: 'counterintuitively', def: '違反直覺地' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — Preparing to Lead',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "I'm in a position where I might move into a management role in the next year or two. What would you tell someone preparing for that transition?", zh: '我的情況是，我可能在未來一兩年內進入管理職位。你會告訴某人為那個轉變做準備什麼？' },
-        { speaker: 'a', speakerName: 'Lily', en: "The biggest thing: your job fundamentally changes. You succeed through others now, not through your own individual contributions. That's a huge mental shift.", zh: '最重要的是：你的工作從根本上改變了。現在你通過別人取得成功，而不是通過你自己的個人貢獻。那是個巨大的心態轉變。', vocab: [{ word: 'mental shift', def: '心態轉變' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's hard for high performers who are used to their output being the measure of success.", zh: '對於那些習慣於以自己的產出作為成功衡量標準的高績效者來說，這很難。', vocab: [{ word: 'high performers', def: '高績效者' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Many great individual contributors make terrible managers initially, because they can't let go of doing it themselves. The task is developing other people's skills, not demonstrating your own.", zh: '很多出色的個人貢獻者起初是糟糕的管理者，因為他們無法放手讓別人做。任務是發展其他人的技能，而不是展示自己的。', vocab: [{ word: 'individual contributors', def: '個人貢獻者' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So the hardest part might be resisting the urge to just do it yourself.", zh: '所以最難的部分可能是抵制自己動手的衝動。', vocab: [{ word: 'resisting', def: '抵制' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And being patient with people developing skills that you already have. The goal isn't to clone yourself — it's to help each person become their best version.", zh: '以及對發展你已經擁有的技能的人有耐心。目標不是複製自己——而是幫助每個人成為他們最好的版本。' },
-        { speaker: 'b', speakerName: 'Tom', en: "That's genuinely hard. But also kind of exciting — the impact multiplies through the team.", zh: '那確實很難。但也有點令人興奮——影響通過團隊倍增。', vocab: [{ word: 'multiplies', def: '倍增' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's the reward of leadership. Watching people grow because of an environment you created.", zh: '那是領導力的回報。看著人們因為你創造的環境而成長。' },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'servant leadership', zh: '僕人式領導', example: "Servant leadership means removing obstacles so the team can do their best work." },
-    { en: 'micromanagement', zh: '微管理', example: "Micromanagement signals distrust and creates learned helplessness in teams." },
-    { en: 'no surprises', zh: '不製造驚喜', example: "No surprises is a core principle — keep your manager informed so problems can be addressed early." },
-    { en: 'autonomy with a safety net', zh: '帶安全網的自主性', example: "The best managers give autonomy with a safety net — freedom to work with support available." },
-    { en: 'learned helplessness', zh: '習得性無助', example: "Micromanaged teams develop learned helplessness — they stop thinking independently." },
-    { en: 'intellectual humility', zh: '智識謙遜', example: "Leaders with intellectual humility admit what they don't know — and earn more trust for it." },
-    { en: 'mental shift', zh: '心態轉變', example: "Moving into management requires a mental shift: success now comes through others." },
-    { en: 'individual contributors', zh: '個人貢獻者', example: "Great individual contributors sometimes struggle to transition into management." },
-    { en: 'counterintuitively', zh: '違反直覺地', example: "Counterintuitively, admitting mistakes builds more credibility than hiding them." },
-    { en: 'situational leadership', zh: '情境領導', example: "Situational leadership means adjusting your style based on what the team needs." },
-  ],
+    weekNumber: 13,
+    dayOfWeek: 4,
+    date: '2026-03-26',
+    theme: 'Colleagues & Teamwork',
+    title: 'Leading and Being Led',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When you think about "Leading and Being Led", what feels immediately real rather than merely inspirational?', zh: '當你想到「Leading and Being Led」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, leading led is the clearest entry point. It shows how "Leading and Being Led" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「leading led」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'leading led', def: '和「leading led」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does that part of "Leading and Being Led" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually it appears in a very ordinary moment. I notice daily pattern when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I get that. Subjects like "Colleagues & Teamwork" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why this topic stays with me. "Leading and Being Led" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you think people usually misunderstand "Leading and Being Led" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think people expect a neat turning point, when the truth is that "Leading and Being Led" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'I learned a lot about "Leading and Being Led" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "Leading and Being Led".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It involved small decision. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That sounds important, because quiet pressure usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. The shift became real when quiet pressure moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that distinction. It turns "Leading and Being Led" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name the hardest layer of "Leading and Being Led", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The hardest part is usually honest reset. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When honest reset becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Under stress, which old habit usually returns? It sounds like "Leading and Being Led" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What helps me now is treating "Leading and Being Led" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted to begin today, what would be the first small move that actually makes "Leading and Being Led" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with steady rhythm. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "Leading and Being Led" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I watch for real trade-off. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name one misleading assumption around "Leading and Being Led", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The biggest misunderstanding is expecting "Leading and Being Led" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would look for whether the practice survives ordinary life. A healthy version of "Leading and Being Led" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What lingers for me is that "Leading and Being Led" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Which insight from "Leading and Being Led" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why useful habit matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels like a strong place to end. "Leading and Being Led" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「Leading and Being Led」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'leading led', zh: 'leading led 相關表達', example: 'In Leading and Being Led, leading led matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Leading and Being Led, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Leading and Being Led, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Leading and Being Led, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Leading and Being Led, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Leading and Being Led, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Leading and Being Led, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Leading and Being Led, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 5
   {
-  weekNumber: 13,
-  dayOfWeek: 5,
-  date: '2026-03-27',
-  theme: 'Colleagues & Teamwork',
-  title: 'Remote Work and Team Connection',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — The Remote Work Reality',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Jamie, has most of your career been in an office, or do you have experience with remote work?", zh: 'Jamie，你大部分的職業生涯是在辦公室，還是你有遠端工作的經驗？' },
-        { speaker: 'b', speakerName: 'Tom', en: "I've been hybrid for a few years now. Three days in the office, two remote. I have mixed feelings about it.", zh: '我已經混合工作幾年了。三天在辦公室，兩天遠端。我對此有複雜的感受。' },
-        { speaker: 'a', speakerName: 'Lily', en: "What do you love about remote days? And what do you miss when you're not in the office?", zh: '你喜歡遠端工作日的什麼？當你不在辦公室時你懷念什麼？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Remote days: deep focus, no commute, more energy for the actual work. In the office: the spontaneous conversations, the energy in the room, the quicker decisions.", zh: '遠端工作日：深度專注，沒有通勤，更多精力用於實際工作。在辦公室：自發的對話、房間裡的能量、更快速的決策。', vocab: [{ word: 'commute', def: '通勤' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That captures the tension perfectly. Remote work optimizes for individual productivity; office work optimizes for collective collaboration.", zh: '這完美地捕捉了那種張力。遠端工作優化了個人生產力；辦公室工作優化了集體協作。', vocab: [{ word: 'optimizes', def: '優化' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And neither maximizes both. You're always trading something off.", zh: '而且兩者都無法同時最大化。你總是在做取捨。', vocab: [{ word: 'trading off', def: '取捨' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Which is why hybrid became the dominant model — trying to get the benefits of both, though it often ends up with the costs of both instead.", zh: '這就是為什麼混合成為主導模式——試圖獲得兩者的好處，儘管它往往最終得到的是兩者的成本。', vocab: [{ word: 'dominant', def: '主導的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The classic 'worst of both worlds' critique — never fully in either mode.", zh: '經典的「兩個世界的最壞情況」批評——永遠不完全處於任何一種模式。' },
-      ],
-    },
-    {
-      title: 'Part 2 — Maintaining Connection Remotely',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What's been the biggest challenge for teams working remotely? From what you've seen.", zh: '從你所見，遠端工作的團隊最大的挑戰是什麼？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Maintaining the informal connections. When you're remote, meetings have an agenda. The equivalent of bumping into someone in the kitchen and solving a problem in three minutes — that vanishes.", zh: '維持非正式的連結。當你遠端工作時，會議有議程。相當於在廚房碰到某人並在三分鐘內解決問題——那消失了。', vocab: [{ word: 'agenda', def: '議程' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I've had projects where what should have been a quick conversation turned into a week of back-and-forth emails.", zh: '我有過一些項目，本應是快速對話的事情變成了一週的來回電子郵件。', vocab: [{ word: 'back-and-forth', def: '來來回回' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Asynchronous communication has a latency cost. What takes thirty seconds in person takes five messages. It also strips context and tone — which is where misunderstandings multiply.", zh: '非同步溝通有延遲成本。當面三十秒的事情需要五條訊息。它也剝去了語境和語氣——這是誤解增加的地方。', vocab: [{ word: 'latency', def: '延遲' }, { word: 'strips', def: '剝去' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do good remote teams compensate for that?", zh: '好的遠端團隊如何補償那個問題？' },
-        { speaker: 'a', speakerName: 'Lily', en: "By being more explicit about norms. What gets a message vs. a call vs. a meeting? When do you expect responses? Those things that happen implicitly in offices need to be stated in remote teams.", zh: '通過更明確地說明規範。什麼發訊息、什麼打電話、什麼開會？你什麼時候期待回覆？那些在辦公室隱性發生的事情在遠端團隊中需要被明確說明。', vocab: [{ word: 'implicitly', def: '隱性地' }, { word: 'explicitly', def: '明確地' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Making the implicit explicit — that's a lot of remote work in a phrase.", zh: '讓隱性的東西變得明確——這句話概括了很多遠端工作。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Remote teams also need intentional social time — virtual coffees, casual check-ins that aren't about work. The relationship layer doesn't maintain itself.", zh: '遠端團隊也需要有意識的社交時間——虛擬咖啡、非工作的隨意問候。關係層不會自我維持。' },
-      ],
-    },
-    {
-      title: 'Part 3 — Video Call Fatigue',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Video call fatigue is real. Research shows that video meetings are more cognitively taxing than in-person or audio calls. Why do you think that is?", zh: '視訊通話疲勞是真實的。研究表明，視訊會議比面對面或音訊通話在認知上更費力。你覺得為什麼？', vocab: [{ word: 'cognitively taxing', def: '認知上費力的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Your brain has to work harder to read social cues — you're watching a grid of small faces rather than reading a room.", zh: '你的大腦必須更努力地閱讀社交線索——你在看一個小臉格子，而不是閱讀一個房間。', vocab: [{ word: 'social cues', def: '社交線索' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And there's the self-monitoring effect — most platforms show you your own face. Constantly watching yourself activates social anxiety in a way that never happens in person.", zh: '還有自我監控效應——大多數平台顯示你自己的臉。不斷看著自己以一種現實中從不發生的方式激活社交焦慮。', vocab: [{ word: 'self-monitoring', def: '自我監控' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I find turning off self-view helps enormously. Just that one change.", zh: '我發現關閉自我視圖有很大幫助。就那一個改變。', vocab: [{ word: 'self-view', def: '自我視圖' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a well-documented hack. Other strategies: not all meetings need cameras on. Audio-only for some calls is actually fine — less pressure, more focus.", zh: '這是個有充分記錄的小技巧。其他策略：不是所有會議都需要開攝影機。有些電話只用音訊其實很好——壓力更少，更專注。', vocab: [{ word: 'hack', def: '小技巧' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And being ruthless about which meetings can be an email. The 'let's hop on a call' reflex adds up.", zh: '並且對哪些會議可以用電子郵件代替要毫不留情。「我們來個電話」的反射行為加起來很可觀。', vocab: [{ word: 'ruthless', def: '毫不留情的' } ] },
-        { speaker: 'a', speakerName: 'Lily', en: "A rule of thumb: if the outcome is information sharing, send an email. If it requires decision-making or relationship, hold the meeting.", zh: '一個經驗法則：如果結果是資訊共享，發電子郵件。如果需要決策或關係，舉行會議。', vocab: [{ word: 'rule of thumb', def: '經驗法則' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Matching the medium to the purpose. Not everything needs to be a meeting.", zh: '讓媒介與目的相匹配。不是所有事情都需要是個會議。' },
-      ],
-    },
-    {
-      title: 'Part 4 — Building Culture Without a Physical Space',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Can you build a real team culture remotely? Or does it require physical space?", zh: '你可以遠端建立真正的團隊文化嗎？還是它需要物理空間？' },
-        { speaker: 'a', speakerName: 'Lily', en: "You can, but it requires far more explicit effort. Culture in an office partly builds itself through environmental cues — who's staying late, what's on people's desks, the conversations you overhear. None of that exists remotely.", zh: '可以，但它需要更多明確的努力。辦公室裡的文化部分通過環境線索自我建立——誰在加班、人們桌上放著什麼、你偶爾聽到的對話。這些在遠端都不存在。', vocab: [{ word: 'environmental cues', def: '環境線索' }, { word: 'overhear', def: '偶然聽到' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So the culture has to be more deliberately designed and communicated.", zh: '所以文化必須更刻意地設計和溝通。', vocab: [{ word: 'deliberately', def: '刻意地' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Values need to be stated, not just modeled. Recognition needs to happen publicly. The informal things that just happen in offices need to be scheduled.", zh: '價值觀需要被陳述，而不只是被示範。認可需要公開發生。辦公室裡自然發生的非正式事情需要被安排。', vocab: [{ word: 'recognition', def: '認可' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Scheduled fun feels slightly forced, but it's better than nothing.", zh: '安排好的樂趣感覺稍微有點強迫，但總比沒有好。', vocab: [{ word: 'forced', def: '強迫的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "It does feel forced at first, but patterns normalize quickly. After a few months of a virtual team coffee, it becomes a genuine touchpoint people look forward to.", zh: '一開始確實感覺強迫，但模式很快就正常化了。在幾個月的虛擬團隊咖啡之後，它成為人們期待的真正接觸點。', vocab: [{ word: 'normalize', def: '正常化' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The key is consistency. Do it every week even when it feels unnecessary, so it's there when it's needed.", zh: '關鍵是一致性。每週都做，即使感覺沒必要，這樣在需要時它就在那裡。' },
-        { speaker: 'a', speakerName: 'Lily', en: "The rituals hold the culture. Even small rituals — a weekly question everyone answers — signal 'we're a team, not just individuals on the same project.'", zh: '儀式持有文化。即使是小的儀式——每週每個人都回答的問題——都在表示「我們是一個團隊，不只是在同一個項目上的個人。」', vocab: [{ word: 'signal', def: '傳達信號' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — The Future of Work',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Where do you think work is going? More remote, more in-person, or something else entirely?", zh: '你認為工作的走向是哪裡？更多遠端、更多面對面，還是完全不同的東西？' },
-        { speaker: 'b', speakerName: 'Tom', en: "The pendulum seems to be swinging back toward in-person for a lot of companies. Big tech firms requiring office days again.", zh: '鐘擺似乎在很多公司中回擺向面對面。大型科技公司再次要求辦公室工作日。', vocab: [{ word: 'pendulum', def: '鐘擺' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The debate often misses what the evidence suggests: different tasks benefit from different environments. Individual focused work: remote. Collaboration, mentorship, culture: in person.", zh: '這場辯論往往忽略了證據所表明的：不同的任務受益於不同的環境。個人專注工作：遠端。協作、指導、文化：面對面。', vocab: [{ word: 'mentorship', def: '指導' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So the question isn't how many days remote but which days and which tasks.", zh: '所以問題不是遠端幾天，而是哪幾天和哪些任務。', vocab: [{ word: 'tasks', def: '任務' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The companies that get this right will optimize around task type rather than arbitrary day counts. That's a harder model to manage but a better one.", zh: '做對了這件事的公司將圍繞任務類型而不是任意的天數進行優化。這是一個更難管理但更好的模式。', vocab: [{ word: 'arbitrary', def: '任意的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "It also requires trusting employees to know what they need — which brings us back to autonomy.", zh: '它也需要信任員工知道他們需要什麼——這讓我們回到了自主性。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Ultimately, work policies that treat adults as adults produce better results than ones that treat everyone as a potential slacker to be monitored.", zh: '最終，把成年人當作成年人對待的工作政策比把每個人都當作需要監控的潛在懶惰者更能產生更好的結果。', vocab: [{ word: 'slacker', def: '懶惰者' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Trusting people enough to let them figure out how to do their best work — and holding them accountable for results rather than presence.", zh: '足夠信任人們讓他們弄清楚如何做最好的工作——並讓他們對結果而不是出勤負責。', vocab: [{ word: 'accountable', def: '負責的' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'hybrid work', zh: '混合工作', example: "Hybrid work tries to combine the benefits of remote and in-person, with mixed results." },
-    { en: 'asynchronous communication', zh: '非同步溝通', example: "Asynchronous communication has a latency cost — back-and-forth takes much longer." },
-    { en: 'video call fatigue', zh: '視訊通話疲勞', example: "Video call fatigue is real — managing a grid of faces is cognitively taxing." },
-    { en: 'making the implicit explicit', zh: '讓隱性的東西明確', example: "Remote teams need to make the implicit explicit — state norms that offices take for granted." },
-    { en: 'rule of thumb', zh: '經驗法則', example: "A rule of thumb: if it's information sharing, send an email; if it requires decisions, meet." },
-    { en: 'pendulum', zh: '鐘擺', example: "The pendulum on remote work is swinging back toward more in-person time." },
-    { en: 'self-monitoring effect', zh: '自我監控效應', example: "The self-monitoring effect of seeing your own face on video is draining." },
-    { en: 'normalize', zh: '正常化', example: "Scheduled team rituals feel forced at first, but quickly normalize." },
-    { en: 'accountable for results', zh: '對結果負責', example: "Hold people accountable for results, not just for being present in the office." },
-    { en: 'environmental cues', zh: '環境線索', example: "Office culture partly builds itself through environmental cues that disappear in remote work." },
-  ],
+    weekNumber: 13,
+    dayOfWeek: 5,
+    date: '2026-03-27',
+    theme: 'Colleagues & Teamwork',
+    title: 'Remote Work and Team Connection',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "Remote Work and Team Connection" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Remote Work and Team Connection」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with team connection, because that is where "Remote Work and Team Connection" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「team connection」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'team connection', def: '和「team connection」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel team connection most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. remote work starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「remote work」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'remote work', def: '和「remote work」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Colleagues & Teamwork" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "Remote Work and Team Connection" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "Remote Work and Team Connection" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "Remote Work and Team Connection" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Remote Work and Team Connection" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "Remote Work and Team Connection" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Remote Work and Team Connection" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "Remote Work and Team Connection" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "Remote Work and Team Connection" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Remote Work and Team Connection" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "Remote Work and Team Connection" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "Remote Work and Team Connection" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "Remote Work and Team Connection" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Remote Work and Team Connection" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Remote Work and Team Connection" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "Remote Work and Team Connection" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "Remote Work and Team Connection" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Remote Work and Team Connection」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'team connection', zh: 'team connection 相關表達', example: 'In Remote Work and Team Connection, team connection matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'remote work', zh: 'remote work 相關表達', example: 'In Remote Work and Team Connection, remote work matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Remote Work and Team Connection, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Remote Work and Team Connection, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Remote Work and Team Connection, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Remote Work and Team Connection, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Remote Work and Team Connection, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Remote Work and Team Connection, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 6
   {
-  weekNumber: 13,
-  dayOfWeek: 6,
-  date: '2026-03-28',
-  theme: 'Colleagues & Teamwork',
-  title: 'Meetings and Productivity',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — The Meeting Problem',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Mira, how many hours a week do you spend in meetings? For me it's gotten a bit out of control.", zh: 'Mira，你每週花多少小時在開會上？對我來說，有點失控了。' },
-        { speaker: 'a', speakerName: 'Lily', en: "It's a very common complaint. Studies suggest managers spend around 35-50% of their working hours in meetings, and most describe a significant portion as unnecessary.", zh: '這是個非常普遍的抱怨。研究表明，管理者大約花費 35-50% 的工作時間在開會上，大多數人描述相當大的比例是不必要的。', vocab: [{ word: 'portion', def: '比例、部分' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Why do we keep having meetings that everyone knows are a waste of time?", zh: '為什麼我們一直在開大家都知道是浪費時間的會議？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Several reasons. Status quo bias — we keep doing things the way they've always been done. Meetings as visible work — being seen in meetings signals engagement even when nothing's being accomplished.", zh: '幾個原因。現狀偏見——我們繼續按照一直以來的方式做事。會議作為可見工作——被人看到在開會表示參與，即使什麼都沒有完成。', vocab: [{ word: 'status quo bias', def: '現狀偏見' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And nobody wants to be the person who cancels meetings — it seems like you're not collaborative.", zh: '而且沒有人想成為取消會議的那個人——感覺你不合作。', vocab: [{ word: 'collaborative', def: '合作的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a culture problem. In organizations where productivity is measured by outputs rather than activity, fewer meetings become possible.", zh: '那是個文化問題。在以產出而非活動衡量生產力的組織中，更少的會議成為可能。', vocab: [{ word: 'outputs', def: '產出' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you personally defend your time against meeting creep?", zh: '你個人如何保護自己的時間不受會議蔓延的影響？', vocab: [{ word: 'meeting creep', def: '會議蔓延' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I block time on my calendar for deep work before anyone can schedule over it. And I ask about every meeting invitation: what decision or outcome requires my presence?", zh: '我在任何人可以安排之前在行事曆上為深度工作鎖定時間。而且我對每個會議邀請都問：什麼決策或結果需要我出席？', vocab: [{ word: 'deep work', def: '深度工作' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Running Good Meetings',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "When meetings are necessary, what makes them actually good?", zh: '當會議是必要的時，什麼讓它們真正有效？' },
-        { speaker: 'b', speakerName: 'Tom', en: "A clear purpose and a clear decision that needs to be made. Too many meetings are just information updates that could be an email.", zh: '明確的目的和需要做出的明確決定。太多會議只是可以用電子郵件代替的資訊更新。', vocab: [{ word: 'updates', def: '更新' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Every meeting should start with: what will we have decided or created by the end of this meeting? If you can't answer that, reconsider whether it's needed.", zh: '正是。每個會議應該從：在這次會議結束時我們將決定或創造什麼？如果你無法回答這個問題，重新考慮是否需要它。', vocab: [{ word: 'reconsider', def: '重新考慮' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "An agenda sent in advance changes everything. People come prepared, the meeting stays focused.", zh: '提前發送的議程改變了一切。人們準備好來，會議保持專注。', vocab: [{ word: 'agenda', def: '議程' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And starting on time. A meeting that waits five minutes for latecomers penalizes everyone who was punctual and rewards the people who weren't.", zh: '以及準時開始。一個等候遲到者五分鐘的會議懲罰了所有準時的人，獎勵了沒準時的人。', vocab: [{ word: 'penalizes', def: '懲罰' }, { word: 'punctual', def: '準時的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Strong culture signal there — it tells everyone whether time is respected.", zh: '那裡的強烈文化信號——它告訴每個人時間是否被尊重。' },
-        { speaker: 'a', speakerName: 'Lily', en: "And ending with clear next steps: who is doing what by when. Without that, the meeting's decisions evaporate before people get back to their desks.", zh: '以及以明確的下一步結束：誰在何時之前做什麼。沒有這個，在人們回到桌子之前，會議的決定就消失了。', vocab: [{ word: 'evaporate', def: '蒸發、消失' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The meeting action items. Somehow they get agreed and then nobody does anything.", zh: '會議行動項目。不知為何它們被同意了然後沒有人做任何事情。' },
-      ],
-    },
-    {
-      title: 'Part 3 — Participation and Inclusion in Meetings',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "One thing I notice is that in most meetings, a few people talk most of the time. How do you get broader participation?", zh: '我注意到的一件事是，在大多數會議中，少數人大部分時間在說話。你如何獲得更廣泛的參與？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Intentional facilitation. Actively inviting quieter voices: 'We haven't heard from you — what's your read on this?' Direct invitation is more powerful than open-ended 'any other thoughts?'", zh: '刻意的引導。主動邀請較安靜的聲音：「我們還沒有聽到你的——你對此的看法是什麼？」直接邀請比開放式的「還有其他想法嗎？」更有力。', vocab: [{ word: 'facilitation', def: '引導、促進' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Why don't quieter people speak up on their own?", zh: '為什麼較安靜的人不自己說出來？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Different reasons. Introverts often need more processing time and prefer to speak when they've formed a complete thought. Junior people may feel it's not their place. Non-native speakers may need more time with the language.", zh: '不同的原因。內向者通常需要更多處理時間，更喜歡在形成完整想法時說話。初級人員可能感覺這不是他們的地方。非母語人士可能需要更多時間處理語言。', vocab: [{ word: 'non-native speakers', def: '非母語人士' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Sharing the agenda in advance helps with all of those — people can prepare their thoughts before the room.", zh: '提前共享議程對所有這些都有幫助——人們可以在進入會議室之前準備他們的想法。', vocab: [{ word: 'prepare', def: '準備' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Also, the person who speaks first shapes the conversation. If the most senior person leads immediately, others often fall in line with their view. Try having junior voices first on certain topics.", zh: '另外，第一個發言的人塑造了對話。如果最高級的人立即主導，其他人往往會隨其觀點。試試在某些話題上讓初級的聲音先說。', vocab: [{ word: 'fall in line', def: '隨從、服從' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Deliberately changing the default speaker order to surface different perspectives.", zh: '刻意改變默認的發言順序以呈現不同的觀點。', vocab: [{ word: 'surface', def: '呈現、使浮現' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The best ideas often come from unexpected people. But only if those people have been given the space to contribute.", zh: '最好的想法通常來自意想不到的人。但只有在那些人獲得了貢獻空間的情況下。' },
-      ],
-    },
-    {
-      title: 'Part 4 — Disagreeing Productively in Meetings',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "What's your experience with disagreement in meetings? Some teams avoid it entirely; others have it spill into conflict.", zh: '你在會議中的分歧經驗是什麼？一些團隊完全迴避它；其他的則讓它蔓延成衝突。' },
-        { speaker: 'b', speakerName: 'Tom', en: "I've been in both. The worst is when everyone appears to agree in the meeting and then undermines the decision afterwards.", zh: '我兩種都遇過。最糟的是當每個人在會議上似乎同意，然後在事後破壞決定。', vocab: [{ word: 'undermines', def: '破壞' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's called false consensus — people nod in the meeting but don't believe in the decision. It leads to poor execution because commitment is absent.", zh: '那叫做虛假共識——人們在會議上點頭但不相信那個決定。它導致糟糕的執行，因為缺乏承諾。', vocab: [{ word: 'false consensus', def: '虛假共識' }, { word: 'execution', def: '執行' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you get real buy-in rather than surface agreement?", zh: '你如何獲得真正的認同而不是表面的同意？', vocab: [{ word: 'buy-in', def: '認同、支持' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "By explicitly inviting disagreement: 'Before we decide, does anyone have concerns we haven't addressed?' Making it safe to object.", zh: '通過明確邀請分歧：「在我們決定之前，有沒有人有我們尚未解決的顧慮？」讓提出反對意見變得安全。', vocab: [{ word: 'object', def: '提出反對意見' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And separating the disagree phase from the decide phase. Amazon has a practice called 'disagree and commit' — you can object, but once the decision is made, you fully support it.", zh: '並將反對階段與決定階段分開。亞馬遜有一個叫做「反對並承諾」的做法——你可以反對，但一旦決定做出，你就全力支持它。', vocab: [{ word: 'disagree and commit', def: '反對並承諾' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a healthy norm. You don't have to agree with every decision — but once it's made, sabotage isn't an option.", zh: '那是個健康的規範。你不必同意每個決定——但一旦做出，破壞不是選項。', vocab: [{ word: 'sabotage', def: '破壞' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Separating your personal view from your professional obligation to execute on decisions you were part of making.", zh: '將你個人的觀點與你執行你參與做出的決定的職業義務分開。' },
-      ],
-    },
-    {
-      title: 'Part 5 — Deep Work vs Collaboration',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "There's a tension between the deep work individual contributors need and the collaborative meetings organizations depend on. How do you resolve that?", zh: '個人貢獻者需要的深度工作和組織依賴的協作會議之間存在張力。你如何解決這個問題？' },
-        { speaker: 'a', speakerName: 'Lily', en: "By treating deep work as sacred. Cal Newport's research shows that high-value cognitive work requires sustained, distraction-free blocks of time — typically at least ninety minutes.", zh: '通過把深度工作視為神聖。Cal Newport 的研究表明，高價值的認知工作需要持續的、不受干擾的時間塊——通常至少九十分鐘。', vocab: [{ word: 'sustained', def: '持續的' }, { word: 'distraction-free', def: '不受干擾的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Most people never get ninety consecutive distraction-free minutes in a standard workday.", zh: '大多數人在標準工作日中從來沒有連續九十分鐘不受干擾。', vocab: [{ word: 'consecutive', def: '連續的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Which is why so many people do their real work before everyone else gets in, or after they leave. The collaborative hours have eaten the production hours.", zh: '這就是為什麼很多人在其他人到來之前，或在他們離開之後做真正的工作。協作時間吃掉了生產時間。', vocab: [{ word: 'production hours', def: '生產時間' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Organizations that protect deep work blocks — no meeting mornings, for example — see significant productivity gains.", zh: '保護深度工作時間塊的組織——例如，無會議上午——看到了顯著的生產力提升。' },
-        { speaker: 'a', speakerName: 'Lily', en: "And it signals something important about culture: we value what you produce, not just how much you're seen participating.", zh: '它也傳遞了關於文化的重要信息：我們重視你的產出，而不只是你被看到參與的程度。', vocab: [{ word: 'signals', def: '傳遞信號' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Measuring contribution rather than visibility. That's the shift many workplaces still haven't made.", zh: '衡量貢獻而不是可見性。那是很多職場仍然沒有做出的轉變。', vocab: [{ word: 'visibility', def: '可見性' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And until they do, individuals have to protect their own deep work time — because the organization often won't.", zh: '在他們做到之前，個人必須保護自己的深度工作時間——因為組織往往不會。' },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'meeting creep', zh: '會議蔓延', example: "Defend your calendar against meeting creep by blocking time for deep work first." },
-    { en: 'deep work', zh: '深度工作', example: "Deep work requires at least ninety minutes of uninterrupted focus." },
-    { en: 'false consensus', zh: '虛假共識', example: "False consensus — nodding in meetings but not believing in the decision — undermines execution." },
-    { en: 'disagree and commit', zh: '反對並承諾', example: "The 'disagree and commit' principle: voice your objection, then fully support the decision." },
-    { en: 'buy-in', zh: '認同、支持', example: "Real buy-in requires explicitly inviting disagreement before a decision is finalized." },
-    { en: 'status quo bias', zh: '現狀偏見', example: "Meeting culture persists partly due to status quo bias — we keep doing what we've always done." },
-    { en: 'facilitation', zh: '引導、促進', example: "Good meeting facilitation actively invites quieter voices to contribute." },
-    { en: 'action items', zh: '行動項目', example: "Every meeting should end with clear action items: who does what by when." },
-    { en: 'production hours', zh: '生產時間', example: "Collaborative meetings have eaten into production hours in most organizations." },
-    { en: 'measuring contribution', zh: '衡量貢獻', example: "High-performance cultures measure contribution and output, not just visible participation." },
-  ],
+    weekNumber: 13,
+    dayOfWeek: 6,
+    date: '2026-03-28',
+    theme: 'Colleagues & Teamwork',
+    title: 'Meetings and Productivity',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When you think about "Meetings and Productivity", what feels immediately real rather than merely inspirational?', zh: '當你想到「Meetings and Productivity」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, meetings productivity is the clearest entry point. It shows how "Meetings and Productivity" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「meetings productivity」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'meetings productivity', def: '和「meetings productivity」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does that part of "Meetings and Productivity" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually it appears in a very ordinary moment. I notice daily pattern when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I get that. Subjects like "Colleagues & Teamwork" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why this topic stays with me. "Meetings and Productivity" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you think people usually misunderstand "Meetings and Productivity" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think people expect a neat turning point, when the truth is that "Meetings and Productivity" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'I learned a lot about "Meetings and Productivity" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "Meetings and Productivity".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It involved small decision. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That sounds important, because quiet pressure usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. The shift became real when quiet pressure moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that distinction. It turns "Meetings and Productivity" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name the hardest layer of "Meetings and Productivity", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The hardest part is usually honest reset. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When honest reset becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Under stress, which old habit usually returns? It sounds like "Meetings and Productivity" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What helps me now is treating "Meetings and Productivity" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted to begin today, what would be the first small move that actually makes "Meetings and Productivity" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with steady rhythm. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "Meetings and Productivity" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I watch for real trade-off. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name one misleading assumption around "Meetings and Productivity", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The biggest misunderstanding is expecting "Meetings and Productivity" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would look for whether the practice survives ordinary life. A healthy version of "Meetings and Productivity" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What lingers for me is that "Meetings and Productivity" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Which insight from "Meetings and Productivity" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why useful habit matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels like a strong place to end. "Meetings and Productivity" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「Meetings and Productivity」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'meetings productivity', zh: 'meetings productivity 相關表達', example: 'In Meetings and Productivity, meetings productivity matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Meetings and Productivity, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Meetings and Productivity, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Meetings and Productivity, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Meetings and Productivity, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Meetings and Productivity, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Meetings and Productivity, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Meetings and Productivity, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 7
   {
-  weekNumber: 13,
-  dayOfWeek: 7,
-  date: '2026-03-29',
-  theme: 'Colleagues & Teamwork',
-  title: 'Professional Growth and Career Development',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — Taking Ownership of Your Career',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Jamie, do you have a clear sense of where you want your career to go?", zh: 'Jamie，你對你的職業想去哪裡有清晰的概念嗎？' },
-        { speaker: 'b', speakerName: 'Tom', en: "More than I used to, but still fuzzy. I know the kind of work I find meaningful, but I haven't mapped out a clear path.", zh: '比以前更清楚，但仍然模糊。我知道我覺得有意義的那種工作，但我沒有規劃出清晰的道路。', vocab: [{ word: 'mapped out', def: '規劃出' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That self-awareness about what work you find meaningful is actually the more important foundation. Specific paths can be figured out from there.", zh: '關於你覺得什麼工作有意義的自我意識實際上是更重要的基礎。具體的道路可以從那裡弄清楚。', vocab: [{ word: 'self-awareness', def: '自我意識' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Do you think careers are planned or discovered? I've heard both views.", zh: '你認為職業生涯是計劃好的還是被發現的？我聽過兩種觀點。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Mostly discovered. The research on career satisfaction suggests people rarely end up in the role they imagined at twenty-two. Most meaningful careers emerge from following what energizes you and building skills deliberately.", zh: '大多是被發現的。關於職業滿意度的研究表明，人們很少最終進入他們二十二歲時想像的角色。大多數有意義的職業來自跟隨讓你充滿活力的事物並刻意建立技能。', vocab: [{ word: 'deliberately', def: '刻意地' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Rather than mapping out a five-year plan and executing it.", zh: '而不是規劃一個五年計畫並執行它。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Five-year plans have their place, but the world changes too fast for them to be rigid guides. Think more in terms of direction than destination.", zh: '五年計畫有其用武之地，但世界變化太快，無法成為嚴格的指南。更多地以方向而不是目的地來思考。', vocab: [{ word: 'rigid', def: '僵化的' } ] },
-        { speaker: 'b', speakerName: 'Tom', en: "A compass rather than a GPS. General direction with flexibility about the specific route.", zh: '指南針而不是 GPS。大方向但對具體路線有靈活性。', vocab: [{ word: 'compass', def: '指南針' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Building Skills Intentionally',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "How do you identify which skills are worth investing in, given how much the landscape changes?", zh: '考慮到環境變化有多大，你如何識別哪些技能值得投資？' },
-        { speaker: 'a', speakerName: 'Lily', en: "There are skills that are highly context-specific and depreciate fast — specific tools or technologies. Then there are skills that compound across contexts — communication, judgment, people skills. Those are always worth investing in.", zh: '有些技能高度依賴背景且貶值快——特定工具或技術。然後有些技能在背景之間複利增長——溝通、判斷力、人際技能。那些總是值得投資的。', vocab: [{ word: 'depreciate', def: '貶值' }, { word: 'compound', def: '複利增長' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The difference between technical skills and meta-skills.", zh: '技術技能和元技能之間的差異。', vocab: [{ word: 'meta-skills', def: '元技能（跨領域的基礎技能）' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Being able to learn fast, communicate clearly, navigate ambiguity, build trust — these make you effective regardless of the specific job.", zh: '正是。能夠快速學習、清晰溝通、應對模糊、建立信任——這些讓你在任何具體工作中都有效。', vocab: [{ word: 'ambiguity', def: '模糊性' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you build those kinds of skills? They're not as straightforward as taking a course.", zh: '你如何建立那類技能？它們不像上課那樣直接。', vocab: [{ word: 'straightforward', def: '直接的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Deliberate practice in real situations. Seeking feedback on your communication. Volunteering for projects that stretch you. And reflection — actually thinking about what you're learning from experiences.", zh: '在真實情況中刻意練習。尋求對你溝通的回饋。自願參與讓你拓展的項目。還有反思——真正思考你從經驗中學到了什麼。', vocab: [{ word: 'deliberate practice', def: '刻意練習' }, { word: 'reflection', def: '反思' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Without the reflection, you just have experience. With it, you have learning.", zh: '沒有反思，你只有經驗。有了它，你才有學習。', vocab: [{ word: 'reflection', def: '反思' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a distinction most people never make explicit. The same experience can produce very different learning depending on how much you process it.", zh: '那是大多數人從未明確表述的區別。相同的經驗根據你如何處理它可以產生非常不同的學習。' },
-      ],
-    },
-    {
-      title: 'Part 3 — Mentorship and Sponsorship',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Have you had mentors who've significantly shaped your career?", zh: '你有過顯著塑造了你職業生涯的導師嗎？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Yes — a couple of people who were honest with me about where I was strong and where I was limiting myself. That kind of clear-eyed perspective from someone who wanted me to succeed was invaluable.", zh: '有——幾個對我誠實地說明我在哪裡強大、在哪裡限制了自己的人。來自希望我成功的人的那種清醒視角是無價的。', vocab: [{ word: 'invaluable', def: '無價的' } ] },
-        { speaker: 'a', speakerName: 'Lily', en: "There's a distinction between mentorship and sponsorship that more people should know about. A mentor gives you advice. A sponsor actively advocates for you — recommends you for opportunities, mentions your name in rooms you're not in.", zh: '導師和贊助者之間有一個更多人應該了解的區別。導師給你建議。贊助者積極地為你倡導——推薦你獲得機會，在你不在的房間裡提到你的名字。', vocab: [{ word: 'sponsor', def: '贊助者' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Sponsorship is more powerful than mentorship in terms of career impact.", zh: '就職業影響而言，贊助比指導更有力。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Significantly. Research shows sponsorship has disproportionate impact on career advancement — especially for people from underrepresented groups who have less access to informal networks.", zh: '顯著如此。研究表明，贊助對職業晉升有不成比例的影響——尤其是對那些接觸非正式網絡較少的弱勢群體的人。', vocab: [{ word: 'disproportionate', def: '不成比例的' }, { word: 'underrepresented', def: '弱勢的、代表性不足的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "How do you find a sponsor? It's not something you can just ask for directly.", zh: '你如何找到贊助者？這不是你可以直接要求的事情。', vocab: [{ word: 'sponsor', def: '贊助者' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "You earn it by doing excellent work that's visible to senior people, by building genuine relationships, and by demonstrating potential beyond your current role. Sponsors choose people they believe in.", zh: '你通過做高層可見的出色工作、建立真正的關係以及展示超出你當前角色的潛力來贏得它。贊助者選擇他們相信的人。' },
-        { speaker: 'b', speakerName: 'Tom', en: "And by making it easy for them to advocate for you — being known for something specific.", zh: '並且通過讓他們容易為你倡導——以某個特定的事情而聞名。', vocab: [{ word: 'advocate', def: '倡導' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Navigating Setbacks',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What about career setbacks? I didn't get a promotion I really wanted last year. It hit harder than I expected.", zh: '那職業挫折呢？我去年沒有得到我真的想要的晉升。它打擊比我預期的更重。', vocab: [{ word: 'setbacks', def: '挫折' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Missed promotions are genuinely painful — especially when you'd invested emotionally in the outcome. How did you process it?", zh: '錯過晉升是真正痛苦的——尤其是當你在結果上有情感投入時。你如何處理它的？', vocab: [{ word: 'invested', def: '投入的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Initially, not well. A mix of disappointment, self-doubt, and some resentment. But eventually I asked for a specific conversation about what it would take to get there.", zh: '起初，不太好。失望、自我懷疑和一些怨恨的混合。但最終我要求進行一個關於達到那裡需要什麼的具體對話。', vocab: [{ word: 'resentment', def: '怨恨' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's the right move. Converting the setback into useful data — what specifically needs to change? The answer tells you whether it's worth continuing to invest or whether it's time to look elsewhere.", zh: '那是正確的做法。將挫折轉換為有用的數據——具體需要改變什麼？答案告訴你是否值得繼續投入，或者是否是時候去別處尋找了。', vocab: [{ word: 'converting', def: '轉換' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The conversation was useful — they gave me specific, actionable things to work on. Which also told me they saw me as having a future there.", zh: '那次對話很有用——他們給了我具體的、可行動的事情去做。這也告訴我他們認為我在那裡有未來。', vocab: [{ word: 'actionable', def: '可行動的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "If they didn't see a future, they'd give vague platitudes rather than investment-worthy feedback. Specificity is a signal of real engagement.", zh: '如果他們看不到未來，他們會給出模糊的陳詞濫調而不是值得投資的回饋。具體性是真正參與的信號。', vocab: [{ word: 'platitudes', def: '陳詞濫調' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That reframe helped a lot. The setback became a roadmap rather than a rejection.", zh: '那個重新框架幫助很大。挫折成為了路線圖而不是拒絕。', vocab: [{ word: 'roadmap', def: '路線圖' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Setbacks are only permanent if you treat them as verdicts. Treated as information, they become part of the development process.", zh: '只有當你把它們視為裁決時，挫折才是永久性的。視為資訊，它們成為發展過程的一部分。' },
-      ],
-    },
-    {
-      title: 'Part 5 — Meaning and Success',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "What does professional success mean to you, beyond the obvious metrics — title, salary?", zh: '對你來說，職業成功意味著什麼，超越明顯的指標——職稱、薪資？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Being good enough at something that I have genuine options. And finding work that feels worth doing — not just tolerable, but genuinely interesting.", zh: '在某件事上足夠好，讓我有真正的選擇。以及找到感覺值得做的工作——不只是可以忍受，而是真正有趣的。', vocab: [{ word: 'tolerable', def: '可忍受的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's a more sophisticated definition than most people articulate. Most default to external markers — promotions, compensation — because they're legible.", zh: '這比大多數人表達的更精緻的定義。大多數人默認外部指標——晉升、薪酬——因為它們是可讀的。', vocab: [{ word: 'legible', def: '可讀的、容易理解的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The problem with external markers is that they shift as soon as you reach them. You get the promotion and within weeks you're looking at the next one.", zh: '外部指標的問題是你達到它們後它們就改變了。你得到了晉升，幾週之內你就在盯著下一個了。', vocab: [{ word: 'shift', def: '移動、改變' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's hedonic adaptation — the happiness from any achievement fades relatively quickly and you return to baseline. Internal markers — growth, engagement, meaning — are more durable.", zh: '那是享樂適應——任何成就帶來的幸福感相對快速消退，你回到基線。內部指標——成長、參與感、意義——更持久。', vocab: [{ word: 'hedonic adaptation', def: '享樂適應' }, { word: 'durable', def: '持久的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Chasing achievements vs. building a career that sustains you. Very different orientations.", zh: '追逐成就與建立一個維持你的職業生涯。非常不同的取向。', vocab: [{ word: 'sustains', def: '維持' } ] },
-        { speaker: 'a', speakerName: 'Lily', en: "The most satisfied professionals I know are the ones who've done the work to understand what they actually value — not what they're supposed to want.", zh: '我認識的最滿意的職業人士是那些做了工作來理解他們真正重視什麼的人——而不是他們應該想要什麼的人。', vocab: [{ word: 'satisfied', def: '滿意的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's a harder question than it sounds. What do I actually value, separate from what I've been told to value?", zh: '這個問題比聽起來更難。我真正重視什麼，與我被告知要重視的分開？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Worth spending serious time on. It's probably the most important career investment you can make.", zh: '值得花認真的時間思考。這可能是你能做的最重要的職業投資。' },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'compass vs GPS', zh: '指南針與GPS', example: "Think of your career as a compass, not a GPS — direction, not rigid destination." },
-    { en: 'meta-skills', zh: '元技能', example: "Meta-skills like communication and judgment compound across every job." },
-    { en: 'deliberate practice', zh: '刻意練習', example: "Deliberate practice in real situations builds skills faster than any course." },
-    { en: 'sponsorship', zh: '贊助', example: "Sponsorship — having someone advocate for you — has more career impact than mentorship." },
-    { en: 'hedonic adaptation', zh: '享樂適應', example: "Hedonic adaptation means the happiness from promotions fades quickly — meaning lasts longer." },
-    { en: 'setback as roadmap', zh: '把挫折當路線圖', example: "Treat a missed promotion as a roadmap, not a rejection." },
-    { en: 'direction not destination', zh: '方向而非目的地', example: "Career planning works better when you focus on direction, not a fixed destination." },
-    { en: 'depreciate', zh: '貶值', example: "Technical skills depreciate fast; communication skills compound." },
-    { en: 'legible', zh: '可讀的', example: "External success markers are legible — easy to see and compare — but less meaningful." },
-    { en: 'what you actually value', zh: '你真正重視的', example: "Understanding what you actually value is the most important career investment." },
-  ],
-  },
+    weekNumber: 13,
+    dayOfWeek: 7,
+    date: '2026-03-29',
+    theme: 'Colleagues & Teamwork',
+    title: 'Professional Growth and Career Development',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When you think about "Professional Growth and Career Development", what feels immediately real rather than merely inspirational?', zh: '當你想到「Professional Growth and Career Development」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, career development is the clearest entry point. It shows how "Professional Growth and Career Development" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「career development」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'career development', def: '和「career development」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does that part of "Professional Growth and Career Development" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually it appears in a very ordinary moment. I notice professional growth when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「professional growth」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'professional growth', def: '和「professional growth」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I get that. Subjects like "Colleagues & Teamwork" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Colleagues & Teamwork」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why this topic stays with me. "Professional Growth and Career Development" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you think people usually misunderstand "Professional Growth and Career Development" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think people expect a neat turning point, when the truth is that "Professional Growth and Career Development" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'I learned a lot about "Professional Growth and Career Development" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "Professional Growth and Career Development".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It involved daily pattern. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That sounds important, because small decision usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. The shift became real when small decision moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that distinction. It turns "Professional Growth and Career Development" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name the hardest layer of "Professional Growth and Career Development", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The hardest part is usually quiet pressure. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'When quiet pressure becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Under stress, which old habit usually returns? It sounds like "Professional Growth and Career Development" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What helps me now is treating "Professional Growth and Career Development" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted to begin today, what would be the first small move that actually makes "Professional Growth and Career Development" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with honest reset. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "Professional Growth and Career Development" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I watch for steady rhythm. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to name one misleading assumption around "Professional Growth and Career Development", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The biggest misunderstanding is expecting "Professional Growth and Career Development" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would look for whether the practice survives ordinary life. A healthy version of "Professional Growth and Career Development" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What lingers for me is that "Professional Growth and Career Development" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Which insight from "Professional Growth and Career Development" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is why real trade-off matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels like a strong place to end. "Professional Growth and Career Development" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「Professional Growth and Career Development」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'career development', zh: 'career development 相關表達', example: 'In Professional Growth and Career Development, career development matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'professional growth', zh: 'professional growth 相關表達', example: 'In Professional Growth and Career Development, professional growth matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Professional Growth and Career Development, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Professional Growth and Career Development, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Professional Growth and Career Development, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Professional Growth and Career Development, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Professional Growth and Career Development, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Professional Growth and Career Development, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  }
 ]

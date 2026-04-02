@@ -1,5 +1,6 @@
 import { create } from 'zustand'
 import Purchases, { LOG_LEVEL } from 'react-native-purchases'
+import { Platform } from 'react-native'
 import { supabase } from '../lib/supabase'
 
 // Product identifier configured in App Store Connect + RevenueCat
@@ -29,6 +30,7 @@ export const useCreditsStore = create<CreditsState>((set, get) => ({
   },
 
   initRevenueCat: async (userId: string) => {
+    if (Platform.OS === 'web') return
     const apiKey = process.env.EXPO_PUBLIC_REVENUECAT_API_KEY
     if (!apiKey) return
     Purchases.setLogLevel(LOG_LEVEL.ERROR)

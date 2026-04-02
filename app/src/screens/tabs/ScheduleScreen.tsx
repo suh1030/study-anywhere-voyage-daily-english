@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
-import { useNavigation } from '@react-navigation/native'
+import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { CURRICULUM, SCHEDULE, PHASE_LABELS, getWeekDays } from '../../data/curriculum'
 import { useProgressStore } from '../../stores/progressStore'
@@ -47,7 +47,7 @@ function getWeekPodcast(weekNum: number): string {
 }
 
 export default function ScheduleScreen() {
-  const navigation = useNavigation<any>()
+  const { navigate } = useNav()
   const { completedDays, toggleDay } = useProgressStore()
   const { user } = useAuthStore()
   const { balance, fetchBalance } = useCreditsStore()
@@ -79,8 +79,8 @@ export default function ScheduleScreen() {
 
   const handleDayPress = useCallback((type: string) => {
     const tabName = TAB_NAMES[type]
-    if (tabName) navigation.navigate(tabName)
-  }, [navigation])
+    if (tabName) navigate(tabName as any)
+  }, [navigate])
 
   const handleReset = useCallback(() => {
     if (resetConfirm) {
@@ -243,10 +243,6 @@ export default function ScheduleScreen() {
       {/* Stats Header */}
       <View style={styles.header}>
         <View style={styles.headerTop}>
-          <View style={styles.headerBrand}>
-            <Text style={styles.brandSav}>SAV</Text>
-            <Text style={styles.brandSub}> · DAILY ENGLISH</Text>
-          </View>
           <TouchableOpacity style={styles.profileBtn} onPress={() => setShowProfile(true)}>
             <Text style={styles.profileBtnText}>{balance > 0 ? `${balance} CR` : 'PROFILE'}</Text>
           </TouchableOpacity>

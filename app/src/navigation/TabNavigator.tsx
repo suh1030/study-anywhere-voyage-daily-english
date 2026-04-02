@@ -1,152 +1,227 @@
 import React from 'react'
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
-import { Text, StyleSheet, View } from 'react-native'
-import Svg, { Polygon, Path, Rect, Line } from 'react-native-svg'
-import { colors, fonts } from '../constants/theme'
+import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView, Platform } from 'react-native'
+import { NavProvider, useNav } from './NavContext'
+import Svg, { Polygon, Path, Rect, Line, Circle } from 'react-native-svg'
+import { colors, fonts, spacing } from '../constants/theme'
 import ScheduleScreen from '../screens/tabs/ScheduleScreen'
 import ListenScreen from '../screens/tabs/ListenScreen'
 import SpeakScreen from '../screens/tabs/SpeakScreen'
 import ConversationScreen from '../screens/tabs/ConversationScreen'
 import ReviewScreen from '../screens/tabs/ReviewScreen'
 
-const Tab = createBottomTabNavigator()
+type TabName = 'Listen' | 'Conversation' | 'Review' | 'Speak' | 'Schedule'
 
-function IconListen({ color }: { color: string }) {
+const TAB_CONFIG: { name: TabName; label: string; color: string; icon: (c: string) => React.ReactNode }[] = [
+  {
+    name: 'Listen',
+    label: 'LISTEN',
+    color: colors.listen,
+    icon: (c) => (
+      <Svg width={9} height={10} viewBox="0 0 9 10">
+        <Polygon points="0,0 9,5 0,10" fill={c} />
+      </Svg>
+    ),
+  },
+  {
+    name: 'Conversation',
+    label: 'CONVERSATION',
+    color: colors.conversation,
+    icon: (c) => (
+      <Svg width={12} height={11} viewBox="0 0 12 11" fill="none">
+        <Path d="M1 1h10v7H6.5l-2.5 3V8H1z" stroke={c} strokeWidth={1.2} />
+      </Svg>
+    ),
+  },
+  {
+    name: 'Review',
+    label: 'REVIEW',
+    color: colors.review,
+    icon: (c) => (
+      <Svg width={13} height={12} viewBox="0 0 13 12" fill="none">
+        <Rect x={1} y={3} width={11} height={8} rx={1} stroke={c} strokeWidth={1.2} />
+        <Rect x={3} y={1} width={7} height={8} rx={1} stroke={c} strokeWidth={1.2} />
+      </Svg>
+    ),
+  },
+  {
+    name: 'Speak',
+    label: 'SPEAK',
+    color: colors.speak,
+    icon: (c) => (
+      <Svg width={11} height={14} viewBox="0 0 11 14" fill="none">
+        <Rect x={3} y={1} width={5} height={7} rx={2.5} stroke={c} strokeWidth={1.2} />
+        <Path d="M1 7.5c0 2.5 1.8 4 4.5 4s4.5-1.5 4.5-4" stroke={c} strokeWidth={1.2} />
+        <Line x1={5.5} y1={11.5} x2={5.5} y2={13} stroke={c} strokeWidth={1.2} />
+      </Svg>
+    ),
+  },
+  {
+    name: 'Schedule',
+    label: 'SCHEDULE',
+    color: colors.ui,
+    icon: (c) => (
+      <Svg width={12} height={12} viewBox="0 0 12 12" fill="none">
+        <Rect x={1} y={2} width={10} height={9} rx={1.5} stroke={c} strokeWidth={1.1} />
+        <Line x1={1} y1={5} x2={11} y2={5} stroke={c} strokeWidth={1.1} />
+        <Line x1={4} y1={1} x2={4} y2={3.5} stroke={c} strokeWidth={1.1} strokeLinecap="round" />
+        <Line x1={8} y1={1} x2={8} y2={3.5} stroke={c} strokeWidth={1.1} strokeLinecap="round" />
+      </Svg>
+    ),
+  },
+]
+
+const SCREENS: Record<TabName, React.ComponentType> = {
+  Listen: ListenScreen,
+  Conversation: ConversationScreen,
+  Review: ReviewScreen,
+  Speak: SpeakScreen,
+  Schedule: ScheduleScreen,
+}
+
+function DateBadge() {
+  const now = new Date()
+  const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+  const day = days[now.getDay()]
+  const date = `${now.getMonth() + 1}/${now.getDate()}`
   return (
-    <Svg width={11} height={12} viewBox="0 0 11 12">
-      <Polygon points="0,0 11,6 0,12" fill={color} />
-    </Svg>
+    <Text style={styles.dateBadge}>{day} {date}</Text>
   )
 }
 
-function IconConversation({ color }: { color: string }) {
-  return (
-    <Svg width={13} height={12} viewBox="0 0 13 12" fill="none">
-      <Path d="M1 1h11v8H7l-3 3V9H1z" stroke={color} strokeWidth={1.3} />
-    </Svg>
-  )
-}
+function TabNavigatorInner() {
+  const { activeTab, navigate } = useNav()
+  const ActiveScreen = SCREENS[activeTab]
 
-function IconReview({ color }: { color: string }) {
   return (
-    <Svg width={13} height={12} viewBox="0 0 13 12" fill="none">
-      <Rect x={1} y={3} width={11} height={8} rx={1} stroke={color} strokeWidth={1.3} />
-      <Rect x={3} y={1} width={7} height={8} rx={1} stroke={color} strokeWidth={1.3} />
-    </Svg>
-  )
-}
+    <SafeAreaView style={styles.root}>
+      {/* Top Nav Bar */}
+      <View style={styles.nav}>
+        {/* Logo */}
+        <View style={styles.logoBar}>
+          <Text style={styles.logoText}>
+            <Text style={{ color: colors.ui }}>S</Text>
+            <Text style={{ color: '#e8e8e8' }}>tudy </Text>
+            <Text style={{ color: colors.ui }}>A</Text>
+            <Text style={{ color: '#e8e8e8' }}>nywhere </Text>
+            <Text style={{ color: colors.ui }}>V</Text>
+            <Text style={{ color: '#e8e8e8' }}>oyage</Text>
+          </Text>
+        </View>
 
-function IconSpeak({ color }: { color: string }) {
-  return (
-    <Svg width={11} height={14} viewBox="0 0 11 14" fill="none">
-      <Rect x={3} y={1} width={5} height={7} rx={2.5} stroke={color} strokeWidth={1.3} />
-      <Path d="M1 7.5c0 2.5 1.8 4 4.5 4s4.5-1.5 4.5-4" stroke={color} strokeWidth={1.3} />
-      <Line x1={5.5} y1={11.5} x2={5.5} y2={13} stroke={color} strokeWidth={1.3} />
-    </Svg>
-  )
-}
+        {/* Tabs */}
+        <View style={styles.tabs}>
+          {TAB_CONFIG.map((tab) => {
+            const isActive = activeTab === tab.name
+            const iconColor = isActive ? tab.color : colors.muted
+            const textColor = isActive ? tab.color : colors.muted
+            return (
+              <TouchableOpacity
+                key={tab.name}
+                style={styles.tab}
+                onPress={() => navigate(tab.name)}
+                activeOpacity={0.7}
+              >
+                <View style={styles.tabInner}>
+                  {tab.icon(iconColor)}
+                  <Text style={[styles.tabLabel, { color: textColor }]}>{tab.label}</Text>
+                </View>
+                {isActive && <View style={[styles.tabUnderline, { backgroundColor: tab.color }]} />}
+              </TouchableOpacity>
+            )
+          })}
+        </View>
 
-function IconSchedule({ color }: { color: string }) {
-  return (
-    <Svg width={14} height={14} viewBox="0 0 14 14" fill="none">
-      <Rect x={1} y={2} width={12} height={11} rx={1.5} stroke={color} strokeWidth={1.2} />
-      <Line x1={1} y1={5.5} x2={13} y2={5.5} stroke={color} strokeWidth={1.2} />
-      <Line x1={4.5} y1={1} x2={4.5} y2={4} stroke={color} strokeWidth={1.2} strokeLinecap="round" />
-      <Line x1={9.5} y1={1} x2={9.5} y2={4} stroke={color} strokeWidth={1.2} strokeLinecap="round" />
-    </Svg>
-  )
-}
+        {/* Date badge */}
+        <DateBadge />
+      </View>
 
-function TabItem({ icon, label, color }: { icon: React.ReactNode; label: string; color: string }) {
-  return (
-    <View style={styles.tabItem}>
-      {icon}
-      <Text style={[styles.label, { color }]}>{label}</Text>
-    </View>
+      {/* Border below nav */}
+      <View style={styles.navBorder} />
+
+      {/* Screen content */}
+      <View style={styles.content}>
+        <ActiveScreen />
+      </View>
+    </SafeAreaView>
   )
 }
 
 export default function TabNavigator() {
   return (
-    <Tab.Navigator
-      screenOptions={{
-        headerShown: false,
-        tabBarStyle: styles.tabBar,
-        tabBarActiveTintColor: colors.ui,
-        tabBarInactiveTintColor: colors.muted,
-        tabBarShowLabel: false,
-      }}
-    >
-      <Tab.Screen
-        name="Schedule"
-        component={ScheduleScreen}
-        options={{
-          tabBarIcon: ({ color }) => (
-            <TabItem icon={<IconSchedule color={color} />} label="SCHEDULE" color={color} />
-          ),
-          tabBarActiveTintColor: colors.ui,
-        }}
-      />
-      <Tab.Screen
-        name="Listen"
-        component={ListenScreen}
-        options={{
-          tabBarIcon: ({ color }) => (
-            <TabItem icon={<IconListen color={color} />} label="LISTEN" color={color} />
-          ),
-          tabBarActiveTintColor: colors.listen,
-        }}
-      />
-      <Tab.Screen
-        name="Speak"
-        component={SpeakScreen}
-        options={{
-          tabBarIcon: ({ color }) => (
-            <TabItem icon={<IconSpeak color={color} />} label="SPEAK" color={color} />
-          ),
-          tabBarActiveTintColor: colors.speak,
-        }}
-      />
-      <Tab.Screen
-        name="Conversation"
-        component={ConversationScreen}
-        options={{
-          tabBarIcon: ({ color }) => (
-            <TabItem icon={<IconConversation color={color} />} label="TALK" color={color} />
-          ),
-          tabBarActiveTintColor: colors.conversation,
-        }}
-      />
-      <Tab.Screen
-        name="Review"
-        component={ReviewScreen}
-        options={{
-          tabBarIcon: ({ color }) => (
-            <TabItem icon={<IconReview color={color} />} label="REVIEW" color={color} />
-          ),
-          tabBarActiveTintColor: colors.review,
-        }}
-      />
-    </Tab.Navigator>
+    <NavProvider>
+      <TabNavigatorInner />
+    </NavProvider>
   )
 }
 
 const styles = StyleSheet.create({
-  tabBar: {
-    backgroundColor: colors.surface,
-    borderTopColor: colors.border,
-    borderTopWidth: 1,
-    height: 80,
-    paddingTop: 8,
+  root: {
+    flex: 1,
+    backgroundColor: colors.bg,
   },
-  tabItem: {
+  nav: {
+    flexDirection: 'row',
     alignItems: 'center',
-    gap: 5,
+    backgroundColor: colors.surface,
+    height: 52,
+    paddingHorizontal: spacing.md,
   },
-  label: {
+  logoBar: {
+    paddingRight: spacing.md,
+    borderRightWidth: 1,
+    borderRightColor: colors.border,
+    height: 52,
+    justifyContent: 'center',
+    flexShrink: 0,
+  },
+  logoText: {
+    fontFamily: fonts.cinzel,
+    fontSize: 13,
+    letterSpacing: 1,
+    color: colors.text,
+  },
+  tabs: {
+    flex: 1,
+    flexDirection: 'row',
+    height: 52,
+  },
+  tab: {
+    paddingHorizontal: Platform.OS === 'web' ? 18 : 12,
+    height: 52,
+    justifyContent: 'center',
+    alignItems: 'center',
+    position: 'relative',
+  },
+  tabInner: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+  },
+  tabLabel: {
     fontFamily: fonts.mono,
-    fontSize: 8,
+    fontSize: 10,
+    letterSpacing: 2,
+  },
+  tabUnderline: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    height: 2,
+  },
+  navBorder: {
+    height: 1,
+    backgroundColor: colors.border,
+  },
+  dateBadge: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
     letterSpacing: 1.5,
-    textTransform: 'uppercase',
+    color: colors.muted,
+    flexShrink: 0,
+    marginLeft: spacing.sm,
+  },
+  content: {
+    flex: 1,
   },
 })

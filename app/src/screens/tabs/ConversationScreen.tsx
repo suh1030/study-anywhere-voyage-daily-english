@@ -10,7 +10,8 @@ import {
   Alert,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
-import { useNavigation } from '@react-navigation/native'
+import Svg, { Path } from 'react-native-svg'
+import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchQuestion, type QuestionRow } from '../../data/content-api'
@@ -23,13 +24,29 @@ function getTodayKey() {
   return `${d.getFullYear()}-${mm}-${dd}`
 }
 
+function IconConversation({ color }: { color: string }) {
+  return (
+    <Svg width={18} height={18} viewBox="0 0 24 24" fill="none">
+      <Path
+        d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
+        stroke={color}
+        strokeWidth="1.5"
+        fill="none"
+      />
+    </Svg>
+  )
+}
+
 export default function ConversationScreen() {
-  const navigation = useNavigation<any>()
-  const [question, setQuestion] = useState<QuestionRow | null>(null)
+  const { navigate } = useNav()
+  const [questions, setQuestions] = useState<QuestionRow[]>([])
+  const [questionIndex, setQuestionIndex] = useState(0)
   const [loading, setLoading] = useState(true)
   const [answer, setAnswer] = useState('')
   const [feedback, setFeedback] = useState<string | null>(null)
   const [showHint, setShowHint] = useState(false)
+  const [showZh, setShowZh] = useState(false)
+  const [showOnboardingHint, setShowOnboardingHint] = useState(true)
   const { balance, loading: creditsLoading, purchasing, requestFeedback, purchaseCredits } = useCreditsStore()
 
   useEffect(() => {
@@ -39,10 +56,29 @@ export default function ConversationScreen() {
     const dayOfWeek = entry?.dayOfWeek ?? 1
 
     fetchQuestion(weekNumber, dayOfWeek).then((data) => {
-      setQuestion(data)
+      setQuestions(data ? [data] : [])
       setLoading(false)
     })
   }, [])
+
+  const question = questions[questionIndex] ?? null
+  const totalQuestions = questions.length
+
+  const handlePrevQuestion = () => {
+    setQuestionIndex((i) => Math.max(0, i - 1))
+    setAnswer('')
+    setFeedback(null)
+    setShowHint(false)
+    setShowZh(false)
+  }
+
+  const handleNextQuestion = () => {
+    setQuestionIndex((i) => Math.min(totalQuestions - 1, i + 1))
+    setAnswer('')
+    setFeedback(null)
+    setShowHint(false)
+    setShowZh(false)
+  }
 
   const handleSubmit = async () => {
     if (!question) return
@@ -82,10 +118,11 @@ export default function ConversationScreen() {
     }
   }
 
-  const handleNext = () => {
+  const handleTryAgain = () => {
     setAnswer('')
     setFeedback(null)
     setShowHint(false)
+    setShowZh(false)
   }
 
   if (loading) {
@@ -104,7 +141,7 @@ export default function ConversationScreen() {
         <View style={styles.centered}>
           <Text style={styles.emptyTitle}>No question today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
-          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigation.navigate('Schedule')}>
+          <TouchableOpacity style={styles.emptyBtn} onPress={() => navigate('Schedule')}>
             <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
           </TouchableOpacity>
         </View>
@@ -127,20 +164,58 @@ export default function ConversationScreen() {
       </View>
 
       <ScrollView contentContainerStyle={styles.scrollContent} keyboardShouldPersistTaps="handled">
+
+        {/* Onboarding Hint */}
+        {showOnboardingHint && (
+          <View style={styles.hintBox}>
+            <View style={styles.hintIcon}>
+              <IconConversation color={colors.conversation} />
+            </View>
+            <View style={styles.hintContent}>
+              <Text style={styles.hintTitle}>對話練習</Text>
+              <Text style={styles.hintDesc}>
+                用英文回答今日問題，不要翻譯——直接自然地表達你的想法。送出後可獲得 AI 針對文法與自然用語的回饋。
+              </Text>
+              <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
+                <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        )}
+
         {/* Question Card */}
         <View style={styles.questionCard}>
           <Text style={styles.questionText}>{question.question}</Text>
-          {question.hint_zh && (
+
+          {/* Buttons row: 中文提示 + HINT */}
+          <View style={styles.questionBtns}>
+            {question.hint_zh && (
+              <TouchableOpacity
+                style={[styles.questionBtn, showZh && styles.questionBtnActive]}
+                onPress={() => setShowZh(!showZh)}
+              >
+                <Text style={[styles.questionBtnText, showZh && styles.questionBtnTextActive]}>
+                  中文提示
+                </Text>
+              </TouchableOpacity>
+            )}
+            {question.structure_hint && (
+              <TouchableOpacity
+                style={[styles.questionBtn, showHint && styles.questionBtnHintActive]}
+                onPress={() => setShowHint(!showHint)}
+              >
+                <Text style={[styles.questionBtnText, showHint && styles.questionBtnHintTextActive]}>
+                  HINT
+                </Text>
+              </TouchableOpacity>
+            )}
+          </View>
+
+          {showZh && question.hint_zh && (
             <Text style={styles.questionZh}>{question.hint_zh}</Text>
           )}
-
-          {question.structure_hint && (
-            <>
-              <TouchableOpacity onPress={() => setShowHint(!showHint)} style={styles.hintToggleBtn}>
-                <Text style={styles.hintToggle}>{showHint ? '− Hide hint' : '+ Show hint'}</Text>
-              </TouchableOpacity>
-              {showHint && <Text style={styles.hintText}>{question.structure_hint}</Text>}
-            </>
+          {showHint && question.structure_hint && (
+            <Text style={styles.hintText}>{question.structure_hint}</Text>
           )}
         </View>
 
@@ -196,14 +271,40 @@ export default function ConversationScreen() {
           </View>
         )}
 
-        {/* Navigation */}
-        {feedback && (
-          <View style={styles.navRow}>
-            <TouchableOpacity style={styles.navBtn} onPress={handleNext}>
-              <Text style={styles.navBtnText}>TRY AGAIN</Text>
+        {/* Navigation row: PREV / NEXT + counter */}
+        <View style={styles.navRow}>
+          <TouchableOpacity
+            style={[styles.navBtn, questionIndex === 0 && styles.navBtnDisabled]}
+            onPress={handlePrevQuestion}
+            disabled={questionIndex === 0}
+          >
+            <Text style={[styles.navBtnText, questionIndex === 0 && styles.navBtnTextDisabled]}>
+              ← PREV
+            </Text>
+          </TouchableOpacity>
+
+          <View style={styles.navSpacer} />
+
+          {feedback && (
+            <TouchableOpacity style={styles.navBtnSecondary} onPress={handleTryAgain}>
+              <Text style={styles.navBtnSecondaryText}>TRY AGAIN</Text>
             </TouchableOpacity>
-          </View>
-        )}
+          )}
+
+          <TouchableOpacity
+            style={[styles.navBtn, questionIndex >= totalQuestions - 1 && styles.navBtnDisabled]}
+            onPress={handleNextQuestion}
+            disabled={questionIndex >= totalQuestions - 1}
+          >
+            <Text style={[styles.navBtnText, questionIndex >= totalQuestions - 1 && styles.navBtnTextDisabled]}>
+              NEXT →
+            </Text>
+          </TouchableOpacity>
+
+          <Text style={styles.navCounter}>
+            {questionIndex + 1} / {totalQuestions}
+          </Text>
+        </View>
 
         <View style={{ height: 120 }} />
       </ScrollView>
@@ -249,6 +350,23 @@ const styles = StyleSheet.create({
 
   scrollContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.lg },
 
+  // Onboarding hint box
+  hintBox: {
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.md,
+    marginBottom: spacing.lg,
+    flexDirection: 'row',
+    gap: 14,
+    borderRadius: radius.md,
+  },
+  hintIcon: { paddingTop: 2 },
+  hintContent: { flex: 1 },
+  hintTitle: { fontFamily: fonts.outfitMedium, fontSize: 14, color: colors.ui, marginBottom: 4 },
+  hintDesc: { fontSize: 12, color: colors.muted, lineHeight: 18, marginBottom: 8 },
+  hintDismiss: { fontFamily: fonts.mono, fontSize: 11, color: colors.error, marginTop: 2 },
+
   questionCard: {
     backgroundColor: colors.surface,
     borderWidth: 1,
@@ -259,10 +377,21 @@ const styles = StyleSheet.create({
     padding: spacing.lg,
     marginBottom: spacing.lg,
   },
-  questionText: { fontSize: 18, fontWeight: '500', color: colors.text, lineHeight: 28, marginBottom: spacing.sm },
+  questionText: { fontFamily: fonts.outfit, fontSize: 22, color: colors.text, lineHeight: 32, marginBottom: spacing.sm },
+  questionBtns: { flexDirection: 'row', gap: spacing.sm, marginBottom: spacing.sm, flexWrap: 'wrap' },
+  questionBtn: {
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderWidth: 1,
+    borderColor: colors.border2,
+    borderRadius: radius.sm,
+  },
+  questionBtnActive: { borderColor: colors.conversation, backgroundColor: colors.conversation + '18' },
+  questionBtnHintActive: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
+  questionBtnText: { fontFamily: fonts.mono, fontSize: 9, letterSpacing: 1, color: colors.muted },
+  questionBtnTextActive: { color: colors.conversation },
+  questionBtnHintTextActive: { color: colors.gold },
   questionZh: { fontSize: 14, color: colors.muted, lineHeight: 22, marginBottom: spacing.sm },
-  hintToggleBtn: { paddingVertical: 4 },
-  hintToggle: { fontFamily: fonts.mono, fontSize: 10, color: colors.uiDim },
   hintText: {
     fontSize: 13,
     color: colors.gold2,
@@ -296,7 +425,7 @@ const styles = StyleSheet.create({
   },
 
   submitBtn: {
-    backgroundColor: colors.conversation,
+    backgroundColor: colors.ui,
     paddingVertical: 14,
     alignItems: 'center',
     borderRadius: radius.sm,
@@ -335,13 +464,36 @@ const styles = StyleSheet.create({
   },
   feedbackText: { fontSize: 14, lineHeight: 24, color: colors.text },
 
-  navRow: { alignItems: 'center' },
+  // Navigation row
+  navRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: spacing.sm,
+    gap: spacing.sm,
+  },
+  navSpacer: { flex: 1 },
   navBtn: {
-    paddingHorizontal: 20,
-    paddingVertical: 10,
+    paddingHorizontal: 14,
+    paddingVertical: 8,
     borderWidth: 1,
     borderColor: colors.border2,
     borderRadius: radius.sm,
   },
+  navBtnDisabled: { opacity: 0.3 },
   navBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.text },
+  navBtnTextDisabled: { color: colors.muted },
+  navBtnSecondary: {
+    paddingHorizontal: 14,
+    paddingVertical: 8,
+    borderWidth: 1,
+    borderColor: colors.border2,
+    borderRadius: radius.sm,
+  },
+  navBtnSecondaryText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.muted },
+  navCounter: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    color: colors.muted2,
+    letterSpacing: 1,
+  },
 })

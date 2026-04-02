@@ -40,10 +40,14 @@ export const colors = {
 } as const
 
 export const fonts = {
-  // Body text
-  sans: 'System', // will use platform default; swap to DM Sans via expo-font later
-  // Monospace (labels, badges, buttons)
-  mono: 'SpaceMono', // Expo blank-typescript includes SpaceMono
+  sans: 'DMSans_300Light',
+  sansMedium: 'DMSans_500Medium',
+  mono: 'DMMono_400Regular',
+  monoLight: 'DMMono_300Light',
+  outfit: 'Outfit_400Regular',
+  outfitMedium: 'Outfit_500Medium',
+  outfitLight: 'Outfit_300Light',
+  cinzel: 'Cinzel_400Regular',
 } as const
 
 export const spacing = {

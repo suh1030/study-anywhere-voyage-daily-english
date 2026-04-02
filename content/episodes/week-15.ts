@@ -1,566 +1,690 @@
-import { Episode } from '../../app/src/data/episode-sample'
+import { Episode } from '../types'
 
 export const WEEK_15: Episode[] = [
   {
-  weekNumber: 15,
-  dayOfWeek: 1,
-  date: '2026-04-06',
-  theme: 'Personality & Character',
-  title: 'Who Are You: Talking About Personality Types',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — How Well Do You Know Yourself?',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Mira, how well do you think you actually know yourself? Like, your real personality versus the one you present to others?", zh: 'Mira，你覺得你有多了解你自己？就是，你真實的個性和你向他人展示的那個？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I think I know myself reasonably well now, but it took a long time. In my twenties I had a very fixed idea of who I was, and a lot of it turned out to be who I thought I was supposed to be.", zh: '我覺得我現在對自己了解得相當好，但花了很長時間。在我二十多歲的時候，我對自己是誰有一個非常固定的想法，其中很多原來是我認為自己應該是的樣子。', vocab: [{ word: 'fixed idea', def: '固定的想法' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That gap between who we are and who we think we should be is interesting. Where does that pressure come from?", zh: '我們是誰和我們認為我們應該是誰之間的差距很有趣。那種壓力從哪裡來？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Family, culture, the people around us. We absorb expectations early and often confuse them with our own preferences. It takes years of living independently to sort out which is which.", zh: '家庭、文化、我們周圍的人。我們很早就吸收了期望，常常把它們和自己的偏好混淆。需要多年的獨立生活才能分清哪個是哪個。', vocab: [{ word: 'absorb', def: '吸收' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Do you use any frameworks for thinking about personality? Like Myers-Briggs or Enneagram?", zh: '你有使用任何框架來思考個性嗎？比如MBTI或九型人格？', vocab: [{ word: 'frameworks', def: '框架' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I've tried most of them. I take them with a grain of salt — they're useful for starting conversations about tendencies, but I'm skeptical of anyone who treats them as definitive.", zh: '我大多數都試過了。我不會完全依賴它們——對於開始關於傾向的對話很有用，但我對任何將它們視為決定性的人持懷疑態度。', vocab: [{ word: 'grain of salt', def: '保留一點懷疑' }, { word: 'skeptical', def: '懷疑的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The danger of over-identifying with a type, right? 'I can't help being this way, it's just my personality.'", zh: '過度認同某個類型的危險，對吧？「我沒辦法，這只是我的個性。」' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Personality frameworks can become either a helpful lens or a convenient excuse. The difference is whether you use them to grow or to justify staying the same.", zh: '正是。個性框架可以成為有用的視角，也可以成為方便的藉口。差別在於你用它們來成長，還是用來為保持原樣辯護。' },
-      ],
-    },
-    {
-      title: 'Part 2 — Strengths and Weaknesses',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What would you say your main personality strengths are? The things that genuinely help you?", zh: '你會說你主要的個性優點是什麼？真正幫助你的那些？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I'm a good listener — people feel heard when they talk to me, and I notice things they don't say as much as what they do. I'm also fairly calm under pressure, which helps in difficult situations.", zh: '我是個好的傾聽者——人們和我說話時感到被聆聽，我注意到他們沒說的和他們說的一樣多。我在壓力下也相當冷靜，這在困難情況下很有幫助。' },
-        { speaker: 'b', speakerName: 'Tom', en: "Those are genuinely useful traits. What about weaknesses — things you've had to actively work on?", zh: '那些是真正有用的特質。那弱點呢——你不得不積極努力的事情？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I can be overly self-critical. I hold myself to high standards and sometimes that tips into perfectionism, which is its own kind of obstacle. I've learned to recognize when good enough is genuinely enough.", zh: '我可能過於自我批評。我對自己要求很高，有時那會變成完美主義，那本身就是一種障礙。我學會了認識什麼時候「夠好」真的就夠了。', vocab: [{ word: 'perfectionism', def: '完美主義' }, { word: 'obstacle', def: '障礙' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Perfectionism is a sneaky one — it masquerades as ambition.", zh: '完美主義是個狡猾的——它偽裝成雄心壯志。', vocab: [{ word: 'masquerade as', def: '偽裝成' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. And it can be paralyzing. I've had periods where I've not started things because I couldn't guarantee they'd be done well. Which is obviously counterproductive.", zh: '正是。而且它可以令人癱瘓。我有過一些時期因為無法保證事情會做得好而沒有開始。那顯然是適得其反的。', vocab: [{ word: 'paralyzing', def: '令人癱瘓的' }, { word: 'counterproductive', def: '適得其反的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I struggle with impatience. I want things to move quickly and I can get frustrated when they don't. It's useful as a driver but not great for relationships.", zh: '我在耐心方面有挑戰。我希望事情快速推進，當它們沒有時我會變得沮喪。作為推動力很有用，但對關係不太好。', vocab: [{ word: 'impatience', def: '不耐煩' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's an honest self-assessment. And recognizing that your strengths have shadow sides is the beginning of managing them better.", zh: '那是誠實的自我評估。而認識到你的優點有陰暗面，是更好地管理它們的開始。', vocab: [{ word: 'shadow sides', def: '陰暗面' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — How Others See Us',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Do you think the way others see you matches how you see yourself?", zh: '你覺得別人看你的方式和你看自己的方式一致嗎？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Not entirely. I think I come across as more confident than I actually feel on the inside. Which is useful sometimes, but it also means people don't always offer me support when I actually need it.", zh: '不完全是。我覺得我表現出的自信比我內心實際感受的更多。有時很有用，但也意味著人們並不總是在我實際需要時給予我支持。' },
-        { speaker: 'b', speakerName: 'Tom', en: "That's the paradox of competence — the more capable you appear, the less likely people are to check in on you.", zh: '那是能力的悖論——你看起來越有能力，人們越不可能關心你。', vocab: [{ word: 'paradox', def: '悖論' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Which is why vulnerability matters. Occasionally letting the mask slip — showing that you're uncertain or struggling — actually invites more authentic connection.", zh: '這就是為什麼脆弱很重要。偶爾讓面具滑落——展示你不確定或在掙扎——實際上邀請了更真實的連結。', vocab: [{ word: 'vulnerability', def: '脆弱、易受傷害性' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Have you ever received feedback about your personality that really surprised you?", zh: '你有沒有收到過真的讓你驚訝的關於你個性的反饋？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes — someone told me once that I could seem intimidating to people who didn't know me. I was shocked. I think of myself as warm and approachable. But I can be reserved with new people, and apparently that reads as distant.", zh: '有——有人曾告訴我，我對不認識我的人來說可能看起來讓人畏懼。我很震驚。我認為自己溫暖且平易近人。但我對新人可能比較保守，顯然那被解讀為疏遠。', vocab: [{ word: 'intimidating', def: '讓人畏懼的' }, { word: 'reserved', def: '保守的、內斂的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That kind of feedback is valuable, even if it stings. It's a reminder that our internal experience and our external presentation don't always match.", zh: '那種反饋是有價值的，即使它刺痛了。它提醒我們，我們的內部體驗和外部呈現並不總是一致的。', vocab: [{ word: 'stings', def: '刺痛' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And it's not always possible to know how we're coming across. That's why feedback from people who know us well is such a gift, even when it's uncomfortable.", zh: '而且我們不總是能知道自己給人什麼印象。這就是為什麼了解我們的人的反饋是一種禮物，即使它讓人不舒服。' },
-      ],
-    },
-    {
-      title: 'Part 4 — Can Personality Change?',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Do you think personality fundamentally changes over a lifetime? Or are people basically the same at their core?", zh: '你認為個性在一生中會根本改變嗎？還是人們在核心上基本相同？' },
-        { speaker: 'a', speakerName: 'Lily', en: "I think the core tendencies stay fairly stable — I'll always be somewhat introverted and detail-oriented. But a lot changes in how those tendencies are expressed and managed.", zh: '我覺得核心傾向保持相當穩定——我永遠會有些內向且注重細節。但那些傾向如何表達和管理改變了很多。', vocab: [{ word: 'tendencies', def: '傾向' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Experience shapes behavior even if the underlying traits persist. Someone anxious at twenty might be calm at forty — not because anxiety disappeared, but because they learned to manage it.", zh: '即使底層特質持續存在，經驗也會塑造行為。一個二十歲時焦慮的人四十歲時可能很平靜——不是因為焦慮消失了，而是因為他們學會了管理它。', vocab: [{ word: 'underlying', def: '底層的' }, { word: 'persist', def: '持續存在' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Research suggests that the Big Five personality traits do shift slowly over a lifetime — people tend to become more agreeable and conscientious with age. So change is real, just slow.", zh: '研究表明，五大人格特質確實在一生中緩慢變化——人們隨著年齡往往變得更隨和和認真負責。所以改變是真實的，只是很慢。', vocab: [{ word: 'conscientious', def: '認真負責的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's reassuring in a way. It means we're not stuck with our worst traits.", zh: '那以某種方式令人安慰。意思是我們不會被我們最糟糕的特質困住。', vocab: [{ word: 'reassuring', def: '令人安慰的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And that intention matters. People who actively work on themselves — therapy, honest self-reflection, seeking feedback — tend to change more than those who just let life happen to them.", zh: '而且意圖很重要。那些積極致力於自我提升的人——治療、誠實的自我反思、尋求反饋——比那些只是讓生活隨波逐流的人更容易改變。' },
-        { speaker: 'b', speakerName: 'Tom', en: "So personality isn't destiny — it's a starting point.", zh: '所以個性不是命運——它是一個起點。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. The raw material shapes you, but you still get to do something with it.", zh: '正是。原料塑造你，但你仍然可以對它做些事情。' },
-      ],
-    },
-    {
-      title: 'Part 5 — Character vs. Personality',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Is there a difference between personality and character? I feel like people use those words interchangeably but they might mean different things.", zh: '個性和品格有區別嗎？我感覺人們可以互換使用這兩個詞，但它們可能意味著不同的事情。', vocab: [{ word: 'interchangeably', def: '可互換地' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I think there is. Personality is how you tend to behave — your patterns, preferences, default responses. Character is about what you do when it's hard — how you act when no one is watching, how you treat people who can't help you.", zh: '我覺得有。個性是你傾向於如何行為——你的模式、偏好、預設反應。品格是關於你在困難時做什麼——當沒有人看的時候你怎麼行動，你如何對待無法幫助你的人。', vocab: [{ word: 'default responses', def: '預設反應' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Character as the part that requires choice, not just tendency.", zh: '品格作為需要選擇的部分，而不只是傾向。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes. You might be naturally impatient — that's personality. But you can still choose to be kind and fair, even when you're frustrated. That choice over time becomes character.", zh: '是的。你天生可能不耐煩——那是個性。但你仍然可以選擇善良和公正，即使你很沮喪。那種選擇隨著時間成為品格。' },
-        { speaker: 'b', speakerName: 'Tom', en: "I like that framing. It puts agency back in the picture — you're not just the sum of your tendencies.", zh: '我喜歡那個框架。它把主體性放回了畫面——你不只是你傾向的總和。', vocab: [{ word: 'agency', def: '主體性、自主能力' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And I think this is why character is something people find admirable — it represents conscious choices made repeatedly over time.", zh: '我覺得這就是為什麼品格是人們覺得值得欽佩的東西——它代表了隨著時間反覆做出的有意識的選擇。', vocab: [{ word: 'admirable', def: '值得欽佩的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "It's built, not born. That's both a challenge and a reassurance.", zh: '它是建立的，不是天生的。那既是一個挑戰，也是一種安慰。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Perfectly put. We come with raw material, but we're also the architects of who we become.", zh: '說得很好。我們帶著原料而來，但我們也是我們成為誰的建築師。', vocab: [{ word: 'architects', def: '建築師、設計者' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'take with a grain of salt', zh: '保留一點懷疑', example: "Take online personality tests with a grain of salt — they're a starting point, not a verdict." },
-    { en: 'shadow side', zh: '陰暗面', example: "Every strength has a shadow side — determination can become stubbornness." },
-    { en: 'paradox of competence', zh: '能力的悖論', example: "The paradox of competence is that people stop offering help when you seem to have everything under control." },
-    { en: 'mask slip', zh: '面具滑落、露出真面目', example: "Letting the mask slip occasionally builds deeper trust with people." },
-    { en: 'counterproductive', zh: '適得其反的', example: "Working long hours without rest is often counterproductive." },
-    { en: 'reassuring', zh: '令人安慰的', example: "It's reassuring to know that character can be developed over time." },
-    { en: 'conscientious', zh: '認真負責的', example: "She is one of the most conscientious people I've worked with — always thorough and reliable." },
-    { en: 'default responses', zh: '預設反應', example: "Stress reveals your default responses — how you behave when you're not thinking carefully." },
-    { en: 'agency', zh: '主體性、自主能力', example: "Having a sense of agency means believing that your choices matter." },
-    { en: 'architects of who we become', zh: '我們成為誰的建築師', example: "We are the architects of who we become — our choices shape us daily." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 1,
+    date: '2026-04-06',
+    theme: 'Personality & Character',
+    title: 'Who Are You: Talking About Personality Types',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "Who Are You: Talking About Personality Types" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Who Are You: Talking About Personality Types」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with personality types, because that is where "Who Are You: Talking About Personality Types" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「personality types」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'personality types', def: '和「personality types」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel personality types most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. daily pattern starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Personality & Character" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "Who Are You: Talking About Personality Types" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "Who Are You: Talking About Personality Types" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "Who Are You: Talking About Personality Types" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Who Are You: Talking About Personality Types" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "Who Are You: Talking About Personality Types" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was small decision. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why quiet pressure matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once quiet pressure became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Who Are You: Talking About Personality Types" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "Who Are You: Talking About Personality Types" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say honest reset. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "Who Are You: Talking About Personality Types" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Who Are You: Talking About Personality Types" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "Who Are You: Talking About Personality Types" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is steady rhythm. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for real trade-off. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "Who Are You: Talking About Personality Types" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "Who Are You: Talking About Personality Types" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Who Are You: Talking About Personality Types" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Who Are You: Talking About Personality Types" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "Who Are You: Talking About Personality Types" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where useful habit helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "Who Are You: Talking About Personality Types" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Who Are You: Talking About Personality Types」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'personality types', zh: 'personality types 相關表達', example: 'In Who Are You: Talking About Personality Types, personality types matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Who Are You: Talking About Personality Types, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Who Are You: Talking About Personality Types, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Who Are You: Talking About Personality Types, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Who Are You: Talking About Personality Types, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Who Are You: Talking About Personality Types, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Who Are You: Talking About Personality Types, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Who Are You: Talking About Personality Types, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 2
   {
-  weekNumber: 15,
-  dayOfWeek: 2,
-  date: '2026-04-07',
-  theme: 'Personality & Character',
-  title: 'First Impressions and Personality Signals',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — The Fast Judgments We Make',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Jamie, do you trust your first impressions of people?", zh: 'Jamie，你相信自己對人的第一印象嗎？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Only a little. First impressions tell me something real, but usually not the whole truth.", zh: '只會相信一點點。第一印象會告訴我一些真實的東西，但通常不是全部的真相。', vocab: [{ word: 'the whole truth', def: '完整真相' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I agree. They can be emotionally accurate before they're factually accurate.", zh: '我同意。它們常常在情緒上很準，但在事實上還不夠準。', vocab: [{ word: 'factually accurate', def: '在事實上準確的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Exactly. Someone may seem cold when they're actually shy, or confident when they're simply socially practiced.", zh: '正是。有些人看起來冷，其實只是害羞；有些人看起來很有自信，其實只是很會社交。', vocab: [{ word: 'socially practiced', def: '社交上很熟練的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "We underestimate how much context shapes those first few minutes.", zh: '我們低估了情境對前幾分鐘印象的影響。', vocab: [{ word: 'underestimate', def: '低估' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And then we build stories too quickly. One moment becomes a whole personality.", zh: '然後我們太快開始編故事。一個瞬間就被我們當成整個人格。', vocab: [{ word: 'build stories', def: '自行腦補情節' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — The Signals We Send',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What do you think people notice first, before they even understand your words?", zh: '你覺得在人們真的聽懂你說什麼之前，他們先注意到的是什麼？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Posture, eye contact, pace of speech, whether you seem tense or relaxed.", zh: '姿勢、眼神接觸、說話速度，還有你看起來緊繃還是放鬆。', vocab: [{ word: 'posture', def: '姿勢' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "It's strange how much meaning people can attach to signals that aren't always intentional.", zh: '很奇怪，人們會替那些不一定是刻意發出的訊號加上很多意思。', vocab: [{ word: 'attach meaning', def: '賦予意義' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes. A reserved person can be read as distant, and a nervous person can be read as overly cheerful.", zh: '對。內斂的人可能被讀成疏離，而緊張的人可能被讀成過度熱情。', vocab: [{ word: 'reserved', def: '內斂的' }, { word: 'distant', def: '有距離感的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So style gets noticed first, but character takes longer.", zh: '所以人最先注意到的是風格，但品格需要更久。', vocab: [{ word: 'character', def: '品格' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Anybody can have a polished first ten minutes. Consistency is what tells the deeper story.", zh: '正是。任何人都可能有一個很圓滑的前十分鐘。真正說明更深層故事的是一致性。', vocab: [{ word: 'polished', def: '圓滑成熟的' }, { word: 'consistency', def: '一致性' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — Misreading Other People',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Have you ever been completely wrong about someone at first?", zh: '你有沒有曾經對某個人一開始完全看錯？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Many times. Some of the kindest people I've known first seemed intimidating because they were quiet and serious.", zh: '很多次。我認識的一些最善良的人，一開始反而很讓人有壓力，因為他們安靜又嚴肅。', vocab: [{ word: 'intimidating', def: '讓人有壓力、畏懼的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I've had the opposite too. Charming at first, but unreliable over time.", zh: '我也遇過相反的。一開始很有魅力，但久了發現其實不可靠。', vocab: [{ word: 'charming', def: '有魅力的' }, { word: 'unreliable', def: '不可靠的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's why charisma can be misleading. It can feel like depth when it's really just fluency.", zh: '這就是為什麼魅力可能會誤導人。它會讓人以為那是深度，但有時其實只是流暢。', vocab: [{ word: 'misleading', def: '誤導人的' }, { word: 'fluency', def: '流暢度' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And silence can be misleading too. We project a lot onto quiet people.", zh: '而沉默本身也可能誤導人。我們很容易把很多東西投射到安靜的人身上。', vocab: [{ word: 'project onto', def: '投射到…身上' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Which says as much about the observer as the person being observed.", zh: '而那其實和觀察者本身有關，和被觀察的人一樣多。', vocab: [{ word: 'observer', def: '觀察者' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Managing the Impression You Make',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Do you think it's worth trying to manage the impression you give people?", zh: '你覺得刻意管理自己給別人的印象值得嗎？' },
-        { speaker: 'a', speakerName: 'Lily', en: "To a degree, yes. Not by pretending, but by noticing whether your signals match your intentions.", zh: '某種程度上值得。不是靠假裝，而是留意你發出的訊號是否符合你的本意。', vocab: [{ word: 'to a degree', def: '某種程度上' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So it's more like adjusting presentation than inventing a fake self.", zh: '所以比較像調整呈現方式，而不是發明一個假的自己。', vocab: [{ word: 'presentation', def: '呈現方式' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. If you know you tend to seem distant, you can bring a little more warmth into your voice or your face.", zh: '正是。如果你知道自己容易看起來有距離，你可以在語氣或表情裡多帶一點溫度。' },
-        { speaker: 'b', speakerName: 'Tom', en: "That makes first impressions feel less mysterious and more trainable.", zh: '那讓第一印象這件事聽起來比較不神祕，而比較像可以訓練。', vocab: [{ word: 'trainable', def: '可以訓練的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I think they are. You can't control them perfectly, but you can influence them consciously.", zh: '我覺得確實是。你不能完美控制它，但你可以有意識地影響它。', vocab: [{ word: 'consciously', def: '有意識地' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — Giving People More Time',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "The older I get, the less I want to make strong judgments quickly.", zh: '我年紀越大，就越不想太快對人下定論。' },
-        { speaker: 'b', speakerName: 'Tom', en: "Because you've learned how often first impressions change?", zh: '因為你已經看過第一印象有多常會改變？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. The second and third impression are often more useful. That's when consistency starts showing up.", zh: '正是。第二、第三印象通常更有用。因為那時候一致性才開始出現。' },
-        { speaker: 'b', speakerName: 'Tom', en: "So curiosity should probably come before certainty.", zh: '所以好奇心大概應該先於定論。', vocab: [{ word: 'certainty', def: '定論、確定感' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I think that's the kindest way to meet people — leave room for surprise.", zh: '我覺得那是遇見人的最善良方式：替驚喜保留空間。', vocab: [{ word: 'leave room for surprise', def: '替驚喜保留空間' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And probably the wisest way too. Most people are more layered than they first appear.", zh: '而且那大概也是最有智慧的方式。大多數人都比第一眼看起來更有層次。', vocab: [{ word: 'layered', def: '有層次的' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'factually accurate', zh: '在事實上準確的', example: "A first impression may feel right emotionally before it becomes factually accurate." },
-    { en: 'reserved', zh: '內斂的', example: "She seems reserved at first, but opens up once she feels safe." },
-    { en: 'charisma can be misleading', zh: '魅力可能會誤導人', example: "Charisma can be misleading if you mistake it for depth or reliability." },
-    { en: 'project onto', zh: '投射到', example: "We often project our own assumptions onto quiet people." },
-    { en: 'polished', zh: '圓滑成熟的', example: "A polished first impression does not always reveal real character." },
-    { en: 'consistency', zh: '一致性', example: "Consistency tells you more than a charming first meeting." },
-    { en: 'presentation', zh: '呈現方式', example: "You can adjust your presentation without becoming fake." },
-    { en: 'trainable', zh: '可以訓練的', example: "Social warmth is trainable, even if it does not come naturally." },
-    { en: 'certainty', zh: '定論', example: "Curiosity should come before certainty when meeting someone new." },
-    { en: 'layered', zh: '有層次的', example: "People are more layered than they first appear." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 2,
+    date: '2026-04-07',
+    theme: 'Personality & Character',
+    title: 'First Impressions and Personality Signals',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "First Impressions and Personality Signals" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「First Impressions and Personality Signals」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with personality signals, because that is where "First Impressions and Personality Signals" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「personality signals」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'personality signals', def: '和「personality signals」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel personality signals most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. first impressions starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「first impressions」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'first impressions', def: '和「first impressions」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Personality & Character" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "First Impressions and Personality Signals" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "First Impressions and Personality Signals" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "First Impressions and Personality Signals" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "First Impressions and Personality Signals" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "First Impressions and Personality Signals" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "First Impressions and Personality Signals" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "First Impressions and Personality Signals" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "First Impressions and Personality Signals" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "First Impressions and Personality Signals" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "First Impressions and Personality Signals" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "First Impressions and Personality Signals" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "First Impressions and Personality Signals" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "First Impressions and Personality Signals" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "First Impressions and Personality Signals" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "First Impressions and Personality Signals" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "First Impressions and Personality Signals" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「First Impressions and Personality Signals」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'personality signals', zh: 'personality signals 相關表達', example: 'In First Impressions and Personality Signals, personality signals matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'first impressions', zh: 'first impressions 相關表達', example: 'In First Impressions and Personality Signals, first impressions matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In First Impressions and Personality Signals, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In First Impressions and Personality Signals, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In First Impressions and Personality Signals, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In First Impressions and Personality Signals, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In First Impressions and Personality Signals, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In First Impressions and Personality Signals, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 3
   {
-  weekNumber: 15,
-  dayOfWeek: 3,
-  date: '2026-04-08',
-  theme: 'Personality & Character',
-  title: 'Introversion, Extroversion, and Social Energy',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — Beyond Simple Labels',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Do you think people are really just introverts or extroverts, or is that too simple?", zh: '你覺得人真的就只是內向或外向兩種嗎，還是這樣太簡化了？' },
-        { speaker: 'a', speakerName: 'Lily', en: "It's too simple. The labels are useful, but most people are much more situational than they realize.", zh: '那樣太簡化了。這些標籤有用，但大多數人其實比自己想的更受情境影響。', vocab: [{ word: 'situational', def: '受情境影響的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Meaning the same person can be lively in one setting and quiet in another.", zh: '意思是同一個人在某個場合很活躍，在另一個場合卻很安靜。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Around close friends, someone may seem outgoing. In a loud unfamiliar room, the same person may shut down.", zh: '正是。和熟人相處時，一個人可能很外向；但在吵雜又陌生的場合，同一個人可能會整個安靜下來。', vocab: [{ word: 'outgoing', def: '外向的、健談的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So the real question is probably what gives you energy and what drains it.", zh: '所以真正的問題大概是，什麼給你能量，什麼耗掉你能量。', vocab: [{ word: 'drain', def: '耗盡' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes. That's much more useful than turning personality into a fixed identity.", zh: '對。那比把個性變成固定身分認同要有用得多。', vocab: [{ word: 'fixed identity', def: '固定身分認同' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Social Energy Is Real',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "How would you describe your social energy these days?", zh: '你會怎麼描述自己最近的社交能量？' },
-        { speaker: 'b', speakerName: 'Tom', en: "More limited than when I was younger. I still enjoy people, but I notice my social battery much more clearly now.", zh: '比年輕時更有限了。我還是喜歡人群，但我現在更清楚感受到自己的社交電量。', vocab: [{ word: 'social battery', def: '社交電量' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I relate to that. I used to think feeling tired after socializing meant something was wrong with me.", zh: '我很能理解。我以前以為社交完會累，代表我有什麼問題。' },
-        { speaker: 'b', speakerName: 'Tom', en: "But now you read that tiredness as information, not failure.", zh: '但現在你會把那個疲累看成資訊，而不是失敗。', vocab: [{ word: 'read as information', def: '把…視為資訊' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Once you stop judging yourself for needing recovery time, you can build a healthier social life.", zh: '正是。當你不再因為自己需要恢復時間而批評自己，你就能建立更健康的社交生活。', vocab: [{ word: 'recovery time', def: '恢復時間' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And that self-judgment is often worse than the tiredness itself.", zh: '而那種自我批評常常比疲倦本身更消耗人。', vocab: [{ word: 'self-judgment', def: '自我批判' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — The Different Faces of Extroversion',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "People talk about extroverts like they all behave the same way, but that can't be right.", zh: '人們講外向的人，好像他們都表現得一模一樣，但那不可能是真的。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Definitely not. Some extroverts are loud and expressive. Others are calm but become more alive in interaction than in solitude.", zh: '當然不是。有些外向的人很外顯；另一些很沉穩，但在互動中會比在獨處時更有精神。', vocab: [{ word: 'expressive', def: '外顯的、表達豐富的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So extroversion isn't just about volume. Sometimes it's really about stimulation.", zh: '所以外向不只是音量大。有時候它其實更像對刺激的需求。', vocab: [{ word: 'stimulation', def: '刺激' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And introversion isn't the same as shyness. Plenty of introverts are socially skilled; they just prefer depth over frequency.", zh: '而內向也不等於害羞。很多內向的人社交能力很好；他們只是更偏好深度而不是頻率。', vocab: [{ word: 'depth over frequency', def: '重深度勝於頻率' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's important because people confuse introversion with insecurity all the time.", zh: '那很重要，因為人們一直在把內向和沒安全感搞混。', vocab: [{ word: 'insecurity', def: '缺乏安全感' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. These traits describe how we orient to energy, not how mature or capable we are.", zh: '正是。這些特質描述的是我們如何面對能量，而不是我們有多成熟或多有能力。', vocab: [{ word: 'orient to', def: '朝向、面對' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Designing a Social Life That Fits',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "One of the best adult skills is designing a social life that actually fits your temperament.", zh: '成年後很重要的一個技能，就是設計一個真正適合自己氣質的社交生活。', vocab: [{ word: 'temperament', def: '氣質' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Instead of copying whatever social life looks impressive from the outside.", zh: '而不是照抄那種從外面看起來很精彩的社交生活。', vocab: [{ word: 'impressive', def: '看起來很厲害、很令人羨慕的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Some people genuinely enjoy back-to-back events. Others do better with one quiet coffee and an early night.", zh: '正是。有些人真的喜歡一場接一場的活動；另一些人比較適合安靜喝杯咖啡，然後早點回家。', vocab: [{ word: 'back-to-back', def: '接連不斷的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The problem is that people often judge themselves by someone else's ideal rhythm.", zh: '問題是，人們常常用別人的理想節奏來評價自己。', vocab: [{ word: 'rhythm', def: '節奏' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And that creates shame for no reason. A smaller social life is not automatically a lesser one.", zh: '而那會製造很多沒必要的羞愧感。社交生活比較小，不代表它比較差。', vocab: [{ word: 'lesser', def: '較次等的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The goal isn't maximum activity. It's meaningful connection without chronic exhaustion.", zh: '目標不是把活動排到最大，而是有意義的連結，同時不讓自己長期耗盡。', vocab: [{ word: 'chronic exhaustion', def: '長期疲憊' }] },
-      ],
-    },
-    {
-      title: "Part 5 — Respecting Other People's Energy Too",
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Understanding your own social energy probably makes you kinder toward other people's limits too.", zh: '理解自己的社交能量，大概也會讓你更能體諒別人的界線。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Definitely. Once you stop moralizing personality differences, you stop taking everything personally.", zh: '絕對會。一旦你不再把個性差異道德化，你就不會把很多事情都往心裡去。', vocab: [{ word: 'moralizing', def: '道德化地評價' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So if a friend leaves early, you don't assume they're bored or rude.", zh: '所以如果朋友提早離開，你就不會立刻覺得他是無聊或沒禮貌。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. And if someone talks a lot, you don't automatically decide they're shallow or attention-seeking.", zh: '正是。而如果有人講很多，你也不會立刻認定他膚淺或愛出風頭。', vocab: [{ word: 'attention-seeking', def: '愛吸引注意的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That feels much more generous than trying to decide which personality style is better.", zh: '那比起一直想分出哪種個性比較好，真的寬厚得多。', vocab: [{ word: 'generous', def: '寬厚的、慷慨的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I think that's the mature version of personality talk: less labeling, more understanding.", zh: '我覺得那才是成熟版的個性討論：少一點標籤，多一點理解。', vocab: [{ word: 'labeling', def: '貼標籤' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'social battery', zh: '社交電量', example: "After a full day of meetings, my social battery is completely empty." },
-    { en: 'recovery time', zh: '恢復時間', example: "I need recovery time after a big gathering, even if I enjoyed it." },
-    { en: 'depth over frequency', zh: '重深度勝於頻率', example: "Some people prefer depth over frequency in their social lives." },
-    { en: 'stimulation', zh: '刺激', example: "Extroversion is often more about stimulation than volume." },
-    { en: 'temperament', zh: '氣質', example: "Life gets easier when your schedule matches your temperament." },
-    { en: 'back-to-back', zh: '接連不斷的', example: "Back-to-back events can be fun for some people and exhausting for others." },
-    { en: 'chronic exhaustion', zh: '長期疲憊', example: "A healthy social life should not lead to chronic exhaustion." },
-    { en: 'moralizing', zh: '道德化地評價', example: "We should stop moralizing the difference between introverts and extroverts." },
-    { en: 'attention-seeking', zh: '愛吸引注意的', example: "Talking a lot doesn't always mean someone is attention-seeking." },
-    { en: 'less labeling, more understanding', zh: '少貼標籤，多理解', example: "The mature version of personality talk is less labeling, more understanding." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 3,
+    date: '2026-04-08',
+    theme: 'Personality & Character',
+    title: 'Introversion, Extroversion, and Social Energy',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "Introversion, Extroversion, and Social Energy" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Introversion, Extroversion, and Social Energy」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with social energy, because that is where "Introversion, Extroversion, and Social Energy" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「social energy」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'social energy', def: '和「social energy」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel social energy most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. introversion extroversion starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「introversion extroversion」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'introversion extroversion', def: '和「introversion extroversion」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Personality & Character" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "Introversion, Extroversion, and Social Energy" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "Introversion, Extroversion, and Social Energy" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "Introversion, Extroversion, and Social Energy" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Introversion, Extroversion, and Social Energy" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "Introversion, Extroversion, and Social Energy" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Introversion, Extroversion, and Social Energy" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "Introversion, Extroversion, and Social Energy" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "Introversion, Extroversion, and Social Energy" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Introversion, Extroversion, and Social Energy" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "Introversion, Extroversion, and Social Energy" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "Introversion, Extroversion, and Social Energy" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "Introversion, Extroversion, and Social Energy" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Introversion, Extroversion, and Social Energy" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Introversion, Extroversion, and Social Energy" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "Introversion, Extroversion, and Social Energy" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "Introversion, Extroversion, and Social Energy" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Introversion, Extroversion, and Social Energy」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'social energy', zh: 'social energy 相關表達', example: 'In Introversion, Extroversion, and Social Energy, social energy matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'introversion extroversion', zh: 'introversion extroversion 相關表達', example: 'In Introversion, Extroversion, and Social Energy, introversion extroversion matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Introversion, Extroversion, and Social Energy, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Introversion, Extroversion, and Social Energy, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Introversion, Extroversion, and Social Energy, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Introversion, Extroversion, and Social Energy, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Introversion, Extroversion, and Social Energy, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Introversion, Extroversion, and Social Energy, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 4
   {
-  weekNumber: 15,
-  dayOfWeek: 4,
-  date: '2026-04-09',
-  theme: 'Personality & Character',
-  title: 'Traits We Admire in Other People',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — What Stands Out First',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "When you meet someone you truly admire, what quality usually stands out first?", zh: '當你遇到一個你真心欣賞的人時，通常最先注意到的是什麼特質？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Calmness, actually. Not passivity — just that grounded feeling that they don't get thrown around by everything.", zh: '其實是沉穩。不是消極，而是那種很穩的感覺，不會被每一件事拉著跑。', vocab: [{ word: 'grounded', def: '沉穩踏實的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I know what you mean. Some people make you feel calmer just by the way they carry themselves.", zh: '我懂。有些人光是站在那裡，光是他們的狀態，就會讓你也一起冷靜下來。', vocab: [{ word: 'carry themselves', def: '展現自己的方式、舉止' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And I admire people who are quietly confident — people who don't need to dominate a room to have presence.", zh: '而且我也很欣賞安靜但有自信的人，就是那種不需要主導全場卻很有存在感的人。', vocab: [{ word: 'dominate a room', def: '主導全場氣氛' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Confidence without performance. That's one of the most attractive qualities there is.", zh: '那是一種不用表演的自信。那真的是最吸引人的特質之一。', vocab: [{ word: 'attractive quality', def: '吸引人的特質' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "For me, admiration often begins where ego is low and steadiness is high.", zh: '對我來說，欣賞常常始於自我感很低、穩定感很高的地方。', vocab: [{ word: 'steadiness', def: '穩定沉著' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Quiet Virtues',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Some of the best traits are quiet ones, don't you think?", zh: '你不覺得一些最好的特質其實都很安靜嗎？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Definitely. Humility, patience, reliability — they don't always look dramatic, but they shape everything.", zh: '絕對是。謙遜、耐心、可靠，這些不一定很搶眼，但它們會影響一切。', vocab: [{ word: 'humility', def: '謙遜' }, { word: 'reliability', def: '可靠性' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Society rewards charisma first, but real life depends on steadier qualities.", zh: '社會通常先獎勵魅力，但真實生活最後靠的是更穩定的品質。', vocab: [{ word: 'charisma', def: '魅力' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. A dazzling person can be exciting. A dependable person can change your life.", zh: '正是。耀眼的人也許很精彩，但可靠的人是真的會改變你的人生。', vocab: [{ word: 'dependable', def: '值得依靠的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "I also admire generosity when it isn't performative.", zh: '我也很欣賞那種不是做給人看的慷慨。', vocab: [{ word: 'generosity', def: '慷慨' }, { word: 'performative', def: '表演性的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Real generosity often looks like time, attention, patience, and remembering what matters to someone.", zh: '真正的慷慨常常看起來像時間、關注、耐心，還有記得別人在乎什麼。', vocab: [{ word: 'attention', def: '關注、注意力' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — Admiration and Aspiration',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Do you think the qualities we admire most are often the ones we want to grow in ourselves?", zh: '你覺得我們最欣賞的特質，常常也是我們想在自己身上長出來的嗎？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Absolutely. Admiration is often a clue. It points to something we feel the lack of in ourselves.", zh: '絕對是。欣賞常常是一種線索。它會指向我們在自己身上感到缺少的東西。', vocab: [{ word: 'clue', def: '線索' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "So admiration can be aspirational, not just appreciative.", zh: '所以欣賞可以是帶著嚮往的，不只是帶著欣賞的。', vocab: [{ word: 'aspirational', def: '帶有嚮往意味的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Yes, though it turns unhealthy the moment it becomes comparison instead of inspiration.", zh: '對，不過只要它變成比較而不是啟發，就會開始不健康。', vocab: [{ word: 'inspiration', def: '啟發' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The point isn't to imitate someone else's personality. It's to understand what quality in them feels true and beautiful to you.", zh: '重點不是去模仿別人的個性，而是理解在對方身上，哪個品質讓你覺得真、覺得美。', vocab: [{ word: 'imitate', def: '模仿' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's a kinder framework. You can admire without shrinking yourself.", zh: '那是一個更善良的框架。你可以欣賞，而不用因此縮小自己。', vocab: [{ word: 'shrink yourself', def: '讓自己變得渺小' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Character Under Pressure',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "I think character becomes clearest when life gets difficult.", zh: '我覺得一個人的品格在生活變難時會最清楚。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Definitely. It's easy to be patient and kind when everything is going well.", zh: '絕對是。當一切都順時，要有耐心和善良並不難。', vocab: [{ word: 'going well', def: '進展順利' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The real test is who you become when you're stressed, disappointed, or afraid.", zh: '真正的考驗是，當你有壓力、失望或害怕時，你會成為怎樣的人。', vocab: [{ word: 'real test', def: '真正的考驗' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Pressure doesn't create character from nothing, but it does reveal what's already there.", zh: '壓力不會憑空創造品格，但它會揭露那裡原本就有的東西。', vocab: [{ word: 'reveal', def: '揭露、顯現' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's why I admire people who stay kind when they have every reason not to.", zh: '這就是為什麼我很欣賞那些即使完全有理由不那麼做，仍然保持善良的人。', vocab: [{ word: 'have every reason not to', def: '完全有理由不這麼做' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Same. Pride can look strong, but accountability is usually stronger.", zh: '我也是。驕傲有時看起來很強，但真正更強的通常是負責。', vocab: [{ word: 'accountability', def: '負責、擔當' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — Qualities We Practice',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "I like thinking of admirable traits as things we practice, not just things we're born with.", zh: '我喜歡把那些令人欣賞的品質看成是可以練習的，不只是天生有沒有。' },
-        { speaker: 'b', speakerName: 'Tom', en: "That's hopeful. It means character isn't fixed — it's built.", zh: '那個想法很有希望。它代表品格不是固定的，而是被建造出來的。', vocab: [{ word: 'fixed', def: '固定不變的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Maybe no one becomes generous or brave all at once. Maybe it happens through repetition.", zh: '也許沒有人會一下子變得慷慨或勇敢。也許這些都是透過重複慢慢形成的。', vocab: [{ word: 'repetition', def: '反覆練習' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That takes some pressure off. You don't have to be perfect immediately. You just keep choosing in the right direction.", zh: '那會少很多壓力。你不需要立刻完美，只要持續往對的方向做選擇。', vocab: [{ word: 'take pressure off', def: '減輕壓力' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The best people don't make you feel small. They make you want to become better.", zh: '最好的人不會讓你覺得自己變小，他們會讓你想變得更好。', vocab: [{ word: 'become better', def: '變得更好' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's probably the clearest sign of real character — it doesn't just impress people, it elevates them.", zh: '那大概就是真正品格最明顯的標誌：它不只是讓人印象深刻，它還會把別人一起往上帶。', vocab: [{ word: 'elevate', def: '提升' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'grounded', zh: '沉穩踏實的', example: "She has a grounded presence that makes other people feel calm." },
-    { en: 'integrity', zh: '正直', example: "I admire people whose integrity stays consistent in private and in public." },
-    { en: 'humility', zh: '謙遜', example: "Humility is one of the quietest and strongest forms of confidence." },
-    { en: 'dependable', zh: '值得依靠的', example: "Exciting people are fun, but dependable people change your life." },
-    { en: 'aspirational', zh: '帶有嚮往意味的', example: "Sometimes admiration is aspirational — it shows you what you want to grow into." },
-    { en: 'accountability', zh: '負責擔當', example: "Accountability is often more impressive than pride." },
-    { en: 'repetition', zh: '反覆練習', example: "Patience is usually built through repetition, not one dramatic breakthrough." },
-    { en: 'take pressure off', zh: '減輕壓力', example: "Thinking of character as practice can take pressure off." },
-    { en: 'become better', zh: '變得更好', example: "The best people make you want to become better." },
-    { en: 'elevate', zh: '提升', example: "Real character does not just impress people — it elevates them." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 4,
+    date: '2026-04-09',
+    theme: 'Personality & Character',
+    title: 'Traits We Admire in Other People',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "Traits We Admire in Other People" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Traits We Admire in Other People」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with other people, because that is where "Traits We Admire in Other People" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「other people」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'other people', def: '和「other people」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel other people most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. traits admire starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「traits admire」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'traits admire', def: '和「traits admire」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Personality & Character" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "Traits We Admire in Other People" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "Traits We Admire in Other People" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "Traits We Admire in Other People" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Traits We Admire in Other People" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "Traits We Admire in Other People" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Traits We Admire in Other People" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "Traits We Admire in Other People" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "Traits We Admire in Other People" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Traits We Admire in Other People" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "Traits We Admire in Other People" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "Traits We Admire in Other People" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "Traits We Admire in Other People" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Traits We Admire in Other People" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Traits We Admire in Other People" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "Traits We Admire in Other People" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "Traits We Admire in Other People" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Traits We Admire in Other People」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'other people', zh: 'other people 相關表達', example: 'In Traits We Admire in Other People, other people matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'traits admire', zh: 'traits admire 相關表達', example: 'In Traits We Admire in Other People, traits admire matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Traits We Admire in Other People, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Traits We Admire in Other People, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Traits We Admire in Other People, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Traits We Admire in Other People, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Traits We Admire in Other People, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Traits We Admire in Other People, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 5
   {
-  weekNumber: 15,
-  dayOfWeek: 5,
-  date: '2026-04-10',
-  theme: 'Personality & Character',
-  title: 'Flaws, Habits, and Personal Growth',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — Knowing Is Not the Same as Changing',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Do you think most people know their main flaws pretty well?", zh: '你覺得大多數人其實都滿清楚自己的主要缺點嗎？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Some do, but knowing a flaw and changing it are very different things. Awareness is only the beginning.", zh: '有些人知道，但知道和改變是很不一樣的事。覺察通常只是開始。', vocab: [{ word: 'awareness', def: '覺察' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "A lot of people can say, 'I'm impatient' or 'I get defensive,' but they still don't know what to do with that information.", zh: '很多人可以說「我很沒耐心」或「我很容易防衛」，但還是不知道拿這個資訊怎麼辦。', vocab: [{ word: 'defensive', def: '防衛性的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Naming something can feel like progress, but sometimes it's just a more polished excuse.", zh: '正是。把問題說出來會讓人以為自己有進步，但有時那只是更精緻的藉口。', vocab: [{ word: 'polished excuse', def: '包裝得比較好看的藉口' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Like when someone says, 'That's just how I am,' and acts as if that settles everything.", zh: '就像有人說「我就是這樣」，然後好像事情就這樣結束了一樣。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Real self-knowledge should make you more responsible, not less.", zh: '真正的自我了解應該讓你更有責任感，而不是更少。', vocab: [{ word: 'self-knowledge', def: '自我了解' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Habits Protect Our Flaws',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "A lot of personality flaws are really habits repeated so often that they feel natural.", zh: '很多所謂的個性缺點，其實只是重複太久而看起來像天性的習慣。', vocab: [{ word: 'repeated so often', def: '因長期重複而固定下來' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That makes sense. If you've snapped under stress for years, it starts to feel like a trait instead of a pattern.", zh: '那說得通。如果你多年來都在壓力下急躁發火，它就會開始看起來像一種特質，而不是一個模式。', vocab: [{ word: 'snap under stress', def: '在壓力下突然發火' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "And habits happen quickly, which is why they protect the flaw. You act first and understand later.", zh: '而習慣發生得很快，這就是為什麼它會保護那個缺點。你先做了，之後才明白。', vocab: [{ word: 'act first, understand later', def: '先反應，後理解' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So change requires slowing down enough to interrupt something that feels automatic.", zh: '所以改變需要你放慢到足以打斷一個看起來像自動發生的東西。', vocab: [{ word: 'interrupt', def: '打斷' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Which usually means noticing triggers — fatigue, shame, insecurity, feeling ignored.", zh: '而那通常意味著你得留意觸發點：疲倦、羞愧、不安、被忽略感。', vocab: [{ word: 'triggers', def: '觸發點' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's why harsh self-judgment helps less than people think. It makes you tense, not flexible.", zh: '這也是為什麼苛刻的自我批評沒有大家想像中那麼有用。它會讓你緊繃，而不是更有彈性。', vocab: [{ word: 'self-judgment', def: '自我批判' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — Blind Spots and Feedback',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What about the flaws we don't see at all? The real blind spots.", zh: '那那些我們根本看不見的缺點呢？真正的盲點那種。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Those are the hardest, because by definition you can't reach them alone. That's where feedback matters.", zh: '那是最難的，因為按定義來說，你自己一個人碰不到它們。那就是反饋重要的地方。', vocab: [{ word: 'blind spot', def: '盲點' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Feedback is especially hard when it feels like it's about your identity instead of one specific action.", zh: '如果反饋讓人覺得它是在講你整個人，而不是一個具體行為，就會特別難聽進去。', vocab: [{ word: 'specific action', def: '具體行為' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's why the most useful feedback is behavioral: 'You interrupt people when you're excited' is more helpful than 'You're selfish.'", zh: '這就是為什麼最有用的反饋通常是行為層面的：「你興奮時會打斷別人」比「你很自私」更有幫助。', vocab: [{ word: 'behavioral', def: '行為層面的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Because behavior gives you something to work with. Labels just make you defensive.", zh: '因為行為會給你一個可以處理的東西，而標籤只會讓你進入防衛。', vocab: [{ word: 'labels', def: '標籤化說法' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Useful feedback should create clarity, not just pain.", zh: '正是。有用的反饋應該帶來清晰，而不只是痛。', vocab: [{ word: 'clarity', def: '清楚明白' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Slow Growth Is Real Growth',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "People underestimate how slow personal growth usually is.", zh: '人們常常低估個人成長通常有多慢。', vocab: [{ word: 'underestimate', def: '低估' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "We want one breakthrough conversation and then to be different forever.", zh: '我們都想要一場突破性的對話，然後自己就從此完全不同。', vocab: [{ word: 'breakthrough', def: '突破性時刻' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "But most change looks like the same old situation handled slightly better than last time.", zh: '但大多數改變看起來更像是，同樣的老情境被你比上次處理得稍微好一點。', vocab: [{ word: 'slightly better', def: '稍微好一點' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That can feel discouraging while you're living it, because the progress is so small.", zh: '那在當下可能會讓人很洩氣，因為那種進步實在太小了。', vocab: [{ word: 'discouraging', def: '令人沮喪的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "But small progress compounds. One better apology, one extra pause, one less sharp comment — it adds up.", zh: '但小進步會累積。一句更好的道歉、一個多出來的停頓、少一句尖銳的話，久了就會加總起來。', vocab: [{ word: 'compound', def: '累積產生效果' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That makes growth less glamorous, but much more believable.", zh: '那讓成長聽起來沒那麼光鮮，但更可信。', vocab: [{ word: 'glamorous', def: '光鮮亮麗的' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — Responsibility Over Perfection',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Maybe maturity isn't becoming flawless. Maybe it's becoming more responsible for your flaws.", zh: '也許成熟不是變得毫無缺點，也許是對自己的缺點更負責。', vocab: [{ word: 'maturity', def: '成熟' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I think that's exactly right. You may still have the same weak spots, but they stop running the whole room.", zh: '我覺得完全是這樣。你可能還是有一樣的弱點，但它們不再主導整個場子。', vocab: [{ word: 'weak spots', def: '弱點、脆弱處' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "And people trust you more, not because you're perfect, but because you're honest about your patterns.", zh: '而且人們會更信任你，不是因為你完美，而是因為你對自己的模式夠誠實。', vocab: [{ word: 'patterns', def: '慣性模式' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "There's something reassuring about people who know where they're difficult and are actively working on it.", zh: '當一個人知道自己哪裡難相處，而且真的有在處理它時，會給人很深的安心感。', vocab: [{ word: 'reassuring', def: '讓人安心的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So growth isn't self-erasure. It's honest management.", zh: '所以成長不是把自己抹掉，而是誠實地管理自己。', vocab: [{ word: 'self-erasure', def: '抹除自我' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes. You become more trustworthy not by having no rough edges, but by taking responsibility for them.", zh: '對。你變得更值得信任，不是因為你沒有稜角，而是因為你願意對那些稜角負責。', vocab: [{ word: 'rough edges', def: '稜角、讓人不舒服的部分' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'awareness is only the beginning', zh: '覺察只是開始', example: "Awareness is only the beginning; real change starts in behavior." },
-    { en: 'defensive', zh: '防衛性的', example: "I get defensive when feedback feels like an attack rather than help." },
-    { en: 'trigger', zh: '觸發點', example: "Understanding your trigger makes it easier to interrupt a bad habit." },
-    { en: 'behavioral feedback', zh: '行為層面的反饋', example: "Behavioral feedback is more useful than vague labels." },
-    { en: 'small progress compounds', zh: '小進步會累積', example: "Small progress compounds, even when it feels invisible day to day." },
-    { en: 'maturity', zh: '成熟', example: "Maturity often means taking responsibility for your flaws." },
-    { en: 'reassuring', zh: '讓人安心的', example: "Self-awareness is reassuring when it comes with responsibility." },
-    { en: 'self-erasure', zh: '抹除自我', example: "Growth is not self-erasure; it's honest management." },
-    { en: 'rough edges', zh: '稜角', example: "Everyone has rough edges, but not everyone takes responsibility for them." },
-    { en: 'honest management', zh: '誠實地管理自己', example: "Personal growth is less about perfection and more about honest management." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 5,
+    date: '2026-04-10',
+    theme: 'Personality & Character',
+    title: 'Flaws, Habits, and Personal Growth',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "Flaws, Habits, and Personal Growth" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Flaws, Habits, and Personal Growth」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with personal growth, because that is where "Flaws, Habits, and Personal Growth" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「personal growth」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'personal growth', def: '和「personal growth」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel personal growth most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. flaws habits starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「flaws habits」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'flaws habits', def: '和「flaws habits」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Personality & Character" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "Flaws, Habits, and Personal Growth" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "Flaws, Habits, and Personal Growth" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "Flaws, Habits, and Personal Growth" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Flaws, Habits, and Personal Growth" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "Flaws, Habits, and Personal Growth" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Flaws, Habits, and Personal Growth" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "Flaws, Habits, and Personal Growth" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "Flaws, Habits, and Personal Growth" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Flaws, Habits, and Personal Growth" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "Flaws, Habits, and Personal Growth" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "Flaws, Habits, and Personal Growth" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "Flaws, Habits, and Personal Growth" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Flaws, Habits, and Personal Growth" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Flaws, Habits, and Personal Growth" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "Flaws, Habits, and Personal Growth" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "Flaws, Habits, and Personal Growth" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Flaws, Habits, and Personal Growth」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'personal growth', zh: 'personal growth 相關表達', example: 'In Flaws, Habits, and Personal Growth, personal growth matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'flaws habits', zh: 'flaws habits 相關表達', example: 'In Flaws, Habits, and Personal Growth, flaws habits matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Flaws, Habits, and Personal Growth, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Flaws, Habits, and Personal Growth, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Flaws, Habits, and Personal Growth, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Flaws, Habits, and Personal Growth, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Flaws, Habits, and Personal Growth, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Flaws, Habits, and Personal Growth, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 6
   {
-  weekNumber: 15,
-  dayOfWeek: 6,
-  date: '2026-04-11',
-  theme: 'Personality & Character',
-  title: 'How Personality Shapes Relationships',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — Different People, Different Rhythms',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Do you think relationships get easier once you understand personality differences better?", zh: '你覺得當你更懂個性差異之後，關係會變得比較容易嗎？' },
-        { speaker: 'b', speakerName: 'Tom', en: "Definitely. A lot of conflict is just misread personality. People assume bad intentions when it's often just a different rhythm.", zh: '絕對會。很多衝突其實只是對個性的誤讀。人們常常以為對方有惡意，但很多時候只是節奏不同。', vocab: [{ word: 'bad intentions', def: '惡意、不良意圖' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "One person needs space to process, and the other reads that space as withdrawal.", zh: '一個人需要空間整理，另一個人卻把那個空間讀成抽離。', vocab: [{ word: 'withdrawal', def: '抽離、退縮' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Or one person is very direct, and the other experiences that directness as harshness.", zh: '或者一個人很直接，另一個人卻把那份直接感受成尖銳。', vocab: [{ word: 'harshness', def: '尖銳、生硬' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The same behavior can feel honest to one person and hurtful to another.", zh: '同一個行為，對一個人來說可能是誠實，對另一個人來說卻是傷人。' },
-        { speaker: 'b', speakerName: 'Tom', en: "That's why compatibility is partly about understanding how each person is wired.", zh: '這就是為什麼相容性有一部分是在於理解每個人是怎麼被組成的。', vocab: [{ word: 'compatibility', def: '相容性、合得來' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Similarity and Difference',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "Do we choose people who are like us, or people who balance us out?", zh: '我們會選跟自己像的人，還是會選能平衡自己的人？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Probably both. Similarity creates ease, but difference creates growth.", zh: '大概兩種都會。相似會帶來輕鬆感，差異則會帶來成長。', vocab: [{ word: 'similarity', def: '相似性' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Too much similarity can get stagnant, but too much difference can become exhausting.", zh: '太相似會停滯，太不同又會讓人很累。', vocab: [{ word: 'stagnant', def: '停滯不前的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "In friendship especially, people need enough overlap to feel understood and enough difference to stay interesting.", zh: '尤其在友誼裡，人需要有足夠重疊的地方來感到被理解，也需要有足夠不同來保持有趣。', vocab: [{ word: 'overlap', def: '重疊處、共同點' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "The healthiest relationships let difference become information instead of blame.", zh: '最健康的關係，會讓差異變成資訊，而不是責怪。', vocab: [{ word: 'blame', def: '責怪' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Better language often creates better relationships.", zh: '正是。更好的語言，常常會創造更好的關係。', vocab: [{ word: 'better language', def: '更好的表達方式' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — Conflict Styles',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "Conflict style is one of the clearest ways personality shows up in relationships.", zh: '衝突風格是個性在關係裡最清楚顯現的一種方式。', vocab: [{ word: 'conflict style', def: '衝突風格' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Some people want to talk immediately. Others need hours before they can respond clearly.", zh: '有些人想立刻談清楚；另一些人則需要幾個小時，才能清楚回應。', vocab: [{ word: 'respond clearly', def: '清楚地回應' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "If those two people don't understand each other, both feel abandoned in different ways.", zh: '如果這兩種人彼此不理解，他們都會以不同方式感到被丟下。', vocab: [{ word: 'abandoned', def: '被拋下的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "One feels chased, the other feels shut out.", zh: '一個人覺得自己被逼著追著談，另一個人則覺得自己被關在門外。', vocab: [{ word: 'shut out', def: '被排除在外' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "That's why self-awareness is relational. You need to know what version of you appears under stress.", zh: '這就是為什麼自我覺察本身是關係性的。你得知道自己在壓力下會冒出哪個版本。', vocab: [{ word: 'relational', def: '與關係有關的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Relationships reveal parts of us we don't usually notice alone.", zh: '關係會揭露我們一個人時不會注意到的部分。', vocab: [{ word: 'reveal', def: '揭露' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — Adapting Without Losing Yourself',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "How much should people adapt in relationships before it starts feeling false?", zh: '在關係裡，人應該調整到什麼程度，才不會開始感覺很假？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Adaptation is healthy when it comes from care, not fear. If it comes from fear, you start shrinking yourself.", zh: '如果調整是出於在乎，它就是健康的；如果是出於害怕，你就會開始縮小自己。', vocab: [{ word: 'adaptation', def: '調整、適應' }, { word: 'shrinking yourself', def: '縮小自己、壓抑自己' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So the question is whether the change still feels chosen.", zh: '所以關鍵是，那個改變是否仍然讓你覺得是自己選的。', vocab: [{ word: 'chosen', def: '出於自願選擇的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Saying something more gently is adaptation. Silencing yourself completely is self-betrayal.", zh: '正是。把話說得更柔和，是調整；把自己整個壓下去，就是背叛自己。', vocab: [{ word: 'self-betrayal', def: '背叛自己' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That line matters. A lot of people confuse kindness with self-erasure.", zh: '那條界線很重要。很多人會把善良和抹除自己搞混。', vocab: [{ word: 'self-erasure', def: '抹除自我' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Good adaptation keeps the truth and changes the delivery.", zh: '好的調整，是保留真實，但改變表達方式。', vocab: [{ word: 'delivery', def: '表達方式' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — Loving People Realistically',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "One of the deepest forms of love is understanding someone's personality clearly without idealizing or condemning it.", zh: '愛的一種很深的形式，就是清楚理解一個人的個性，同時既不理想化它，也不譴責它。', vocab: [{ word: 'idealize', def: '理想化' }, { word: 'condemn', def: '譴責' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That sounds like realistic love — not pretending the differences aren't there, but learning how to hold them wisely.", zh: '那聽起來像是很現實的愛。不是假裝差異不存在，而是學會怎麼有智慧地承接它們。', vocab: [{ word: 'hold them wisely', def: '有智慧地承接它們' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "The fantasy version of love is 'You fit me perfectly.' The mature version is 'I understand where we differ, and I still choose this.'", zh: '愛的幻想版是「你完美地適合我」；成熟版則是「我知道我們哪裡不同，但我仍然選擇這段關係」。', vocab: [{ word: 'mature version', def: '成熟版本' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's harder, but it also sounds much more stable.", zh: '那難得多，但也聽起來穩定得多。', vocab: [{ word: 'stable', def: '穩定的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Relationships get deeper when personality differences stop being surprises and start becoming known terrain.", zh: '當個性差異不再像意外，而開始像熟悉地形時，關係就會更深。', vocab: [{ word: 'known terrain', def: '熟悉地形；比喻熟悉的相處模式' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Love gets calmer when people stop demanding sameness and start practicing understanding.", zh: '當人們不再要求彼此一模一樣，而開始練習理解時，愛會變得更平靜。', vocab: [{ word: 'sameness', def: '完全一樣' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'compatibility', zh: '相容性', example: "Compatibility is not just shared taste; it's also mutual understanding." },
-    { en: 'different rhythm', zh: '不同節奏', example: "A lot of conflict comes from a different rhythm, not bad intentions." },
-    { en: 'conflict style', zh: '衝突風格', example: "Understanding someone's conflict style can change a whole relationship." },
-    { en: 'overlap', zh: '共同重疊處', example: "Friendships need enough overlap to feel easy and enough difference to stay alive." },
-    { en: 'self-betrayal', zh: '背叛自己', example: "Adaptation is healthy until it turns into self-betrayal." },
-    { en: 'self-erasure', zh: '抹除自我', example: "Kindness should never require self-erasure." },
-    { en: 'delivery', zh: '表達方式', example: "Sometimes the truth is not the problem — the delivery is." },
-    { en: 'idealize', zh: '理想化', example: "Loving someone well means not idealizing them." },
-    { en: 'known terrain', zh: '熟悉地形', example: "Strong relationships turn personality differences into known terrain." },
-    { en: 'sameness', zh: '完全一致', example: "Love gets calmer when people stop demanding sameness." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 6,
+    date: '2026-04-11',
+    theme: 'Personality & Character',
+    title: 'How Personality Shapes Relationships',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'When "How Personality Shapes Relationships" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「How Personality Shapes Relationships」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I usually begin with shapes relationships, because that is where "How Personality Shapes Relationships" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「shapes relationships」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'shapes relationships', def: '和「shapes relationships」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'In what situation do you feel shapes relationships most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me it shows up in small moments rather than dramatic ones. daily pattern starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense, because themes like "Personality & Character" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why "How Personality Shapes Relationships" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why do you think people often misjudge "How Personality Shapes Relationships" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably both. People often look for a dramatic sign, but a lot of "How Personality Shapes Relationships" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "How Personality Shapes Relationships" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Can you describe the situation a little more? I want to understand what turned "How Personality Shapes Relationships" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'At the center of it was small decision. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why quiet pressure matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is what stayed with me. Once quiet pressure became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "How Personality Shapes Relationships" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'Where does "How Personality Shapes Relationships" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say honest reset. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How much does that internal pressure spill outward? I am guessing "How Personality Shapes Relationships" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "How Personality Shapes Relationships" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'These days I handle "How Personality Shapes Relationships" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, the first step is steady rhythm. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I look for real trade-off. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What do people most often get wrong about "How Personality Shapes Relationships" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'People often assume "How Personality Shapes Relationships" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "How Personality Shapes Relationships" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "How Personality Shapes Relationships" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Has "How Personality Shapes Relationships" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is where useful habit helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That lands well for me. The conversation makes "How Personality Shapes Relationships" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「How Personality Shapes Relationships」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'shapes relationships', zh: 'shapes relationships 相關表達', example: 'In How Personality Shapes Relationships, shapes relationships matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In How Personality Shapes Relationships, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In How Personality Shapes Relationships, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In How Personality Shapes Relationships, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In How Personality Shapes Relationships, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In How Personality Shapes Relationships, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In How Personality Shapes Relationships, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In How Personality Shapes Relationships, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   },
-
-  // Day 7
   {
-  weekNumber: 15,
-  dayOfWeek: 7,
-  date: '2026-04-12',
-  theme: 'Personality & Character',
-  title: 'Becoming More Fully Yourself',
-  phase: 'p2',
-  parts: [
-    {
-      title: 'Part 1 — The Gap Between Image and Self',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What do you think it means to become more fully yourself?", zh: '你覺得「變得更完整地成為自己」是什麼意思？' },
-        { speaker: 'a', speakerName: 'Lily', en: "It means becoming less divided. Less split between who you are privately and who you perform publicly.", zh: '我覺得那代表你變得比較不分裂。比較不會在私下的自己和公開表演出的自己之間分裂。', vocab: [{ word: 'divided', def: '分裂的、不一致的' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Most people probably live with that split more than they realize.", zh: '大多數人活在那種分裂裡的程度，大概比自己意識到的還多。', vocab: [{ word: 'split', def: '分裂、落差' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "A lot of adulthood is about building identities that help us survive. The problem comes when those strategies stop fitting who we've become.", zh: '成年生活有很大一部分是在建立一些讓我們能活下去的身分。但問題是，當那些策略開始不再適合現在的自己時。', vocab: [{ word: 'survival strategies', def: '生存策略' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So sometimes what looks like personality is actually protection.", zh: '所以有時候看起來像個性的東西，其實只是保護機制。', vocab: [{ word: 'protection', def: '保護機制' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. Becoming more yourself often means figuring out which parts are true expression and which parts are old armor.", zh: '正是。更成為自己，常常意味著你要分辨哪些部分是真正的表達，哪些只是舊的盔甲。', vocab: [{ word: 'armor', def: '盔甲；比喻保護自己' }] },
-      ],
-    },
-    {
-      title: 'Part 2 — Self-Acceptance Before Improvement',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "I used to think growth meant fixing myself constantly. Now I think self-acceptance has to come first.", zh: '我以前以為成長就是不停修正自己。現在我覺得，自我接納必須先來。', vocab: [{ word: 'self-acceptance', def: '自我接納' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "Because otherwise growth becomes self-rejection in a nicer outfit.", zh: '因為不然的話，成長只是換了一件比較好看的外衣的自我否定。', vocab: [{ word: 'self-rejection', def: '自我否定' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Exactly. If the message underneath is 'I am unacceptable as I am,' improvement becomes desperate rather than healthy.", zh: '正是。如果底層訊息是「照我現在這樣是不被接受的」，那改進就會變得絕望，而不是健康。', vocab: [{ word: 'underneath', def: '底層、本質上' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "People often confuse self-criticism with honesty.", zh: '人們常常把自我批評和誠實搞混。', vocab: [{ word: 'self-criticism', def: '自我批評' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "But honesty without compassion can become cruelty, especially when it's turned inward.", zh: '但沒有同情的誠實，很容易變成殘忍，尤其是當那份殘忍是往自己身上去的時候。', vocab: [{ word: 'compassion', def: '體諒、同情' }, { word: 'turned inward', def: '朝向自己' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So self-acceptance isn't complacency. It's a kinder starting point for change.", zh: '所以自我接納不是自滿，而是改變的一個更善良的起點。', vocab: [{ word: 'complacency', def: '自滿、停滯不前' }] },
-      ],
-    },
-    {
-      title: 'Part 3 — Letting the Real Self Become Visible',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What helps someone become more visible as their real self?", zh: '什麼會幫助一個人讓真正的自己更看得見？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Usually safety. People reveal themselves more honestly when they don't feel they have to earn belonging every second.", zh: '通常是安全感。當人不覺得自己每一秒都得努力爭取歸屬時，就會更誠實地顯露自己。', vocab: [{ word: 'belonging', def: '歸屬感' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That explains why some people seem completely different depending on who they're with.", zh: '那也解釋了，為什麼有些人在不同的人面前看起來像完全不同的人。' },
-        { speaker: 'a', speakerName: 'Lily', en: "Sometimes the truest version of someone only appears where they feel safe enough to stop managing perception.", zh: '有時一個人最真的版本，只會出現在他夠安全、可以不再一直管理別人怎麼看他的地方。', vocab: [{ word: 'perception', def: '他人觀感' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That's a little sad — how much energy people spend managing how they're seen.", zh: '那其實有點讓人難過，人花了那麼多力氣在管理自己被怎麼看。', vocab: [{ word: 'managing how they\'re seen', def: '管理自己被如何看待' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "It is, but it's understandable. Most of us learned early that some parts of us felt safer to show than others.", zh: '是有點難過，但也很能理解。我們大多數人都很早就學會，有些部分的自己比其他部分更安全地可以被展示出來。', vocab: [{ word: 'understandable', def: '可以理解的' }] },
-      ],
-    },
-    {
-      title: 'Part 4 — The Courage to Disappoint People',
-      lines: [
-        { speaker: 'a', speakerName: 'Lily', en: "I think becoming yourself also requires the courage to disappoint people sometimes.", zh: '我覺得更成為自己，也需要有時候敢讓別人失望的勇氣。', vocab: [{ word: 'disappoint people', def: '讓別人失望' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "If you're always trying to be liked, you're probably editing yourself constantly.", zh: '如果你一直想被喜歡，你大概就會一直不斷地修剪自己。', vocab: [{ word: 'editing yourself', def: '修剪自己以符合期待' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Kindness matters, but living entirely through approval usually makes a person less real over time.", zh: '善良很重要，但如果你完全活在別人的認可裡，久了反而會讓你變得沒那麼真。', vocab: [{ word: 'approval', def: '認可' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So authenticity requires some willingness to be misunderstood.", zh: '所以真實需要某種程度上願意被誤解。', vocab: [{ word: 'authenticity', def: '真實性' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes — not rebellion for its own sake, just enough courage to stop abandoning yourself for comfort.", zh: '對，不是為了反叛而反叛，而是有足夠的勇氣，不再為了舒適感而拋下自己。', vocab: [{ word: 'for its own sake', def: '為了它本身而已' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That makes authenticity sound less reckless and more like alignment.", zh: '那讓真實聽起來比較不像魯莽，而比較像一致。', vocab: [{ word: 'alignment', def: '內外一致' }] },
-      ],
-    },
-    {
-      title: 'Part 5 — A More Unified Life',
-      lines: [
-        { speaker: 'b', speakerName: 'Tom', en: "What does a more fully lived self actually look like day to day?", zh: '一個更完整地活出自己的狀態，在日常裡實際上會是什麼樣子？' },
-        { speaker: 'a', speakerName: 'Lily', en: "Less internal friction. Fewer moments where you leave and think, 'Why was I pretending so much just now?'", zh: '比較少內耗。比較少那種離開一個場景之後，心裡想著「我剛剛為什麼要演成那樣？」的時刻。', vocab: [{ word: 'internal friction', def: '內在拉扯、內耗' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That sounds peaceful. Not perfect, but more coherent.", zh: '那聽起來很平靜。不是完美，而是比較一致。', vocab: [{ word: 'coherent', def: '一致而連貫的' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "I don't think becoming yourself is a dramatic reinvention. It's usually a quieter process of removing what's false.", zh: '我不覺得更成為自己是一場戲劇性的重塑。它通常比較像是一個安靜的過程，把那些不真的東西慢慢拿掉。', vocab: [{ word: 'reinvention', def: '重新塑造自己' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "So not creating a new self, but uncovering a truer one.", zh: '所以不是創造一個新自我，而是揭開一個更真的自己。', vocab: [{ word: 'uncover', def: '揭開、顯露' }] },
-        { speaker: 'a', speakerName: 'Lily', en: "Yes. A unified life may not look impressive from the outside, but it feels much more peaceful from within.", zh: '對。一個一致的生命，從外面看也許不特別驚人，但從裡面活起來會平靜得多。', vocab: [{ word: 'unified life', def: '內外一致的生活' }] },
-        { speaker: 'b', speakerName: 'Tom', en: "That kind of peace sounds more valuable than almost any polished image.", zh: '那種平靜聽起來比幾乎任何漂亮形象都更有價值。', vocab: [{ word: 'polished image', def: '包裝得很漂亮的形象' }] },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'self-acceptance', zh: '自我接納', example: "Self-acceptance should come before self-improvement." },
-    { en: 'survival strategy', zh: '生存策略', example: "What looks like personality can sometimes be an old survival strategy." },
-    { en: 'armor', zh: '盔甲；保護自己的外殼', example: "Humor can be genuine, but it can also become armor." },
-    { en: 'turned inward', zh: '朝向自己', example: "Honesty without compassion can become cruelty turned inward." },
-    { en: 'authenticity', zh: '真實性', example: "Authenticity requires some willingness to disappoint people." },
-    { en: 'alignment', zh: '內外一致', example: "Authenticity is not recklessness; it is alignment." },
-    { en: 'internal friction', zh: '內在拉扯、內耗', example: "A more honest life usually comes with less internal friction." },
-    { en: 'coherent', zh: '一致而連貫的', example: "A coherent life may not look dramatic, but it feels peaceful." },
-    { en: 'unified life', zh: '內外一致的生活', example: "A unified life feels calmer from the inside." },
-    { en: 'polished image', zh: '包裝漂亮的形象', example: "A polished image is worth less than an honest life." },
-  ],
+    weekNumber: 15,
+    dayOfWeek: 7,
+    date: '2026-04-12',
+    theme: 'Personality & Character',
+    title: 'Becoming More Fully Yourself',
+    phase: 'p2',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'If "Becoming More Fully Yourself" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Becoming More Fully Yourself」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My mind goes to fully yourself first, because that is where "Becoming More Fully Yourself" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「fully yourself」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'fully yourself', def: '和「fully yourself」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It often happens in a plain everyday scene. becoming more becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「becoming more」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'becoming more', def: '和「becoming more」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Right, and that is probably why "Personality & Character" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Personality & Character」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. What matters to me is that "Becoming More Fully Yourself" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What do you think makes "Becoming More Fully Yourself" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually they want a clear before-and-after story, but "Becoming More Fully Yourself" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'My understanding of "Becoming More Fully Yourself" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The situation centered on daily pattern. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'I can see that. small decision tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Lily', en: 'That is the useful part for me. When small decision is woven into ordinary routines, "Becoming More Fully Yourself" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'So the lesson was not just about insight. It was about building a version of "Becoming More Fully Yourself" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What feels hardest about "Becoming More Fully Yourself" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, quiet pressure is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Yes, and that is why I take it seriously. The inner tension around "Becoming More Fully Yourself" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'The most useful shift for me has been practical. I try to build "Becoming More Fully Yourself" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the smallest reliable action in your version of "Becoming More Fully Yourself"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I start with honest reset. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'For me, steady rhythm is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Tom', en: 'What is the myth that quietly distorts this whole conversation every time "Becoming More Fully Yourself" comes up?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'A common mistake is treating "Becoming More Fully Yourself" as if it should feel clean and obvious once you care enough. In reality, it usually stays complicated for a while.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What keeps that misunderstanding alive? I wonder if it is partly cultural and partly emotional, because simple narratives are so appealing.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Partly because the myth is emotionally convenient. It lets people confuse intention with embodiment, and that confusion can feel reassuring for a while.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'So what would a healthier standard look like? If we removed the myth, what would you want people to expect instead?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The better standard is durability. If "Becoming More Fully Yourself" can remain visible when life is inconvenient, then I trust it much more.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What advice would you give a beginner who thinks the lack of instant progress means they are doing "Becoming More Fully Yourself" badly?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'I would tell them that slowness is not proof of failure. Often it is simply proof that they have reached the part of the process that is real enough to teach them.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Lily', en: 'What stays with me most about "Becoming More Fully Yourself" is that it keeps asking who I am when no one is watching and nothing dramatic is happening.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'Would you say this topic feels settled for you now, or is it something you expect to keep learning from for a long time?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'It is unfinished in a healthy way. I feel more grounded than before, yet the topic keeps showing me subtler versions of the same lesson.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Lily', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Tom', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Lily', en: 'Exactly. If I stay close to real trade-off, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Tom', en: 'I think that is the real takeaway. "Becoming More Fully Yourself" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Becoming More Fully Yourself」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'fully yourself', zh: 'fully yourself 相關表達', example: 'In Becoming More Fully Yourself, fully yourself matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'becoming more', zh: 'becoming more 相關表達', example: 'In Becoming More Fully Yourself, becoming more matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Becoming More Fully Yourself, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Becoming More Fully Yourself, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Becoming More Fully Yourself, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Becoming More Fully Yourself, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Becoming More Fully Yourself, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Becoming More Fully Yourself, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
   }
 ]

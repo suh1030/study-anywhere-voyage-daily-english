@@ -9,6 +9,7 @@ import {
   ActivityIndicator,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
+import Svg, { Path, Rect } from 'react-native-svg' // Rect used in IconReview
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchFlashcards, type FlashcardRow } from '../../data/content-api'
@@ -19,13 +20,22 @@ const CARD_MARGIN = 8
 const NUM_COLUMNS = 2
 const CARD_WIDTH = (width - spacing.lg * 2 - CARD_MARGIN * (NUM_COLUMNS - 1)) / NUM_COLUMNS
 
-type Filter = 'all' | 'listen' | 'speak' | 'mastered' | 'unmastered'
+type Filter = 'all' | 'active' | 'mastered'
 
 function getTodayKey() {
   const d = new Date()
   const mm = String(d.getMonth() + 1).padStart(2, '0')
   const dd = String(d.getDate()).padStart(2, '0')
   return `${d.getFullYear()}-${mm}-${dd}`
+}
+
+function IconReview({ color }: { color: string }) {
+  return (
+    <Svg width={18} height={18} viewBox="0 0 24 24" fill="none">
+      <Rect x="3" y="4" width="18" height="14" rx="2" stroke={color} strokeWidth="1.5" />
+      <Path d="M3 9h18" stroke={color} strokeWidth="1.5" />
+    </Svg>
+  )
 }
 
 function FlashcardItem({
@@ -44,7 +54,6 @@ function FlashcardItem({
     <TouchableOpacity
       style={[styles.card, isMastered && styles.cardMastered]}
       onPress={() => setFlipped(!flipped)}
-      onLongPress={() => onToggleMastered(card.id)}
       activeOpacity={0.8}
     >
       <View style={[styles.sourceDot, { backgroundColor: sourceColor }]} />
@@ -68,6 +77,17 @@ function FlashcardItem({
           <Text style={styles.masteredText}>MASTERED</Text>
         </View>
       )}
+
+      {/* Mark as Mastered button */}
+      <TouchableOpacity
+        style={styles.markMasteredBtn}
+        onPress={() => onToggleMastered(card.id)}
+        activeOpacity={0.7}
+      >
+        <Text style={styles.markMasteredText}>
+          {isMastered ? 'UNMARK' : 'MARK AS MASTERED'}
+        </Text>
+      </TouchableOpacity>
     </TouchableOpacity>
   )
 }
@@ -77,6 +97,7 @@ export default function ReviewScreen() {
   const [cards, setCards] = useState<FlashcardRow[]>([])
   const [loading, setLoading] = useState(true)
   const [filter, setFilter] = useState<Filter>('all')
+  const [showOnboardingHint, setShowOnboardingHint] = useState(true)
 
   useEffect(() => {
     const todayKey = getTodayKey()
@@ -92,10 +113,8 @@ export default function ReviewScreen() {
     return cards.filter((card) => {
       const isMastered = masteredCards.includes(card.id)
       switch (filter) {
-        case 'listen': return card.source === 'listen'
-        case 'speak': return card.source === 'speak'
+        case 'active': return !isMastered
         case 'mastered': return isMastered
-        case 'unmastered': return !isMastered
         default: return true
       }
     })
@@ -109,10 +128,8 @@ export default function ReviewScreen() {
 
   const filters: { key: Filter; label: string }[] = [
     { key: 'all', label: 'ALL' },
-    { key: 'listen', label: 'LISTEN' },
-    { key: 'speak', label: 'SPEAK' },
+    { key: 'active', label: 'ACTIVE' },
     { key: 'mastered', label: 'MASTERED' },
-    { key: 'unmastered', label: 'LEARNING' },
   ]
 
   const renderCard = useCallback(
@@ -146,7 +163,7 @@ export default function ReviewScreen() {
         </Text>
       </View>
 
-      {/* Filter Bar */}
+      {/* Filter Bar — 3 buttons: ALL | ACTIVE | MASTERED */}
       <View style={styles.filterBar}>
         {filters.map((f) => (
           <TouchableOpacity
@@ -172,19 +189,30 @@ export default function ReviewScreen() {
         columnWrapperStyle={styles.row}
         contentContainerStyle={styles.listContent}
         ListHeaderComponent={
-          filteredCards.length > 0 ? (
-            <Text style={styles.hint}>Long-press a card to mark as mastered</Text>
+          showOnboardingHint ? (
+            <View style={styles.hintBox}>
+              <View style={styles.hintIcon}>
+                <IconReview color={colors.review} />
+              </View>
+              <View style={styles.hintContent}>
+                <Text style={styles.hintTitle}>單字複習</Text>
+                <Text style={styles.hintDesc}>
+                  點擊卡片翻面，查看中文意思與例句。熟記後標記為「已掌握」。
+                </Text>
+                <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
+                  <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+                </TouchableOpacity>
+              </View>
+            </View>
           ) : null
         }
         ListEmptyComponent={
           <View style={styles.emptyContainer}>
             <Text style={styles.emptyText}>
               {filter === 'mastered'
-                ? 'No mastered cards yet.\nLong-press any card to mark it.'
-                : filter === 'unmastered'
+                ? 'No mastered cards yet.\nTap the button on any card to mark it.'
+                : filter === 'active'
                 ? 'All cards are mastered!'
-                : filter === 'listen' || filter === 'speak'
-                ? `No ${filter} cards this week.`
                 : 'No flashcards for this week yet.'}
             </Text>
             {(filter !== 'all') && (
@@ -207,7 +235,7 @@ const styles = StyleSheet.create({
     paddingTop: spacing.md,
     paddingBottom: spacing.sm,
   },
-  headerTitle: { ...typography.h1, color: colors.review },
+  headerTitle: { fontFamily: fonts.outfitMedium, fontSize: 24, color: colors.text },
   headerStat: {
     fontFamily: fonts.mono,
     fontSize: 11,
@@ -247,6 +275,25 @@ const styles = StyleSheet.create({
     paddingTop: spacing.sm,
     paddingBottom: 100,
   },
+
+  // Onboarding hint box
+  hintBox: {
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.md,
+    marginBottom: spacing.lg,
+    marginHorizontal: spacing.lg,
+    flexDirection: 'row',
+    gap: 14,
+    borderRadius: radius.md,
+  },
+  hintIcon: { paddingTop: 2 },
+  hintContent: { flex: 1 },
+  hintTitle: { fontFamily: fonts.outfitMedium, fontSize: 14, color: colors.ui, marginBottom: 4 },
+  hintDesc: { fontSize: 12, color: colors.muted, lineHeight: 18, marginBottom: 8 },
+  hintDismiss: { fontFamily: fonts.mono, fontSize: 11, color: colors.error, marginTop: 2 },
+
   card: {
     width: CARD_WIDTH,
     minHeight: 120,
@@ -256,6 +303,7 @@ const styles = StyleSheet.create({
     borderRadius: radius.md,
     padding: spacing.md,
     justifyContent: 'center',
+    paddingBottom: 40,
   },
   cardMastered: { opacity: 0.5 },
   sourceDot: {
@@ -294,9 +342,8 @@ const styles = StyleSheet.create({
   },
   masteredBadge: {
     position: 'absolute',
-    bottom: 6,
-    left: 0,
-    right: 0,
+    top: 8,
+    left: 8,
     alignItems: 'center',
   },
   masteredText: {
@@ -304,6 +351,28 @@ const styles = StyleSheet.create({
     fontSize: 7,
     letterSpacing: 1.5,
     color: colors.review,
+  },
+  // Mark as Mastered button at bottom of each card
+  markMasteredBtn: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    paddingVertical: 5,
+    backgroundColor: 'transparent',
+    borderTopWidth: 1,
+    borderStyle: 'dashed',
+    borderColor: colors.border,
+    borderLeftWidth: 0,
+    borderRightWidth: 0,
+    borderBottomWidth: 0,
+    alignItems: 'center',
+  },
+  markMasteredText: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    letterSpacing: 1.5,
+    color: colors.muted2,
   },
   emptyContainer: {
     alignItems: 'center',
@@ -329,14 +398,5 @@ const styles = StyleSheet.create({
     fontSize: 9,
     letterSpacing: 1.5,
     color: colors.review,
-  },
-  hint: {
-    fontFamily: fonts.mono,
-    fontSize: 9,
-    color: colors.muted2,
-    textAlign: 'center',
-    paddingTop: spacing.xs,
-    paddingBottom: spacing.sm,
-    paddingHorizontal: spacing.lg,
   },
 })

@@ -1,6 +1,6 @@
 # SAV Daily English — Development Progress
 
-> Last updated: 2026-03-26（後端全面就緒：Migrations 部署、7 支 Edge Functions 部署、DB 全資料 Seed 完成；App 功能全部實作）
+> Last updated: 2026-03-30（長篇 podcast 已重寫並重新 seed 至 Supabase；新版音檔重生中，完成後再做產品端最終驗收）
 > Purpose: 讓新 session 的 AI 快速了解已完成的工作和待辦事項
 
 ---
@@ -76,6 +76,25 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] ScheduleScreen → 內容 Tab 導航（tapping day row 跳轉對應 tab）
 - [x] Bug fixes：顏色語意修正（speak↔conversation 對調）、CurriculumWeek.phase 加入 p6
 
+### Phase 4.6 — 內容檔同步與驗證（2026-03-29）
+- [x] `content/episodes/week-01.ts` 至 `week-53.ts` 依 365 天架構重新生成並覆蓋
+- [x] `content/articles/articles-w01.ts` 至 `articles-w53.ts` 全部對齊新版 episodes
+- [x] `content/questions/conversations-w01-w08.ts` 至 `conversations-w42-w53.ts` 全部重建為每日 365 題
+- [x] `content/flashcards/flashcards-w01-w08.ts` 至 `flashcards-w42-w53.ts` 全部重建，現況共 583 張
+- [x] 新增 `scripts/regenerate-supporting-content.js` 與 `scripts/validate-supporting-content.js`
+- [x] 本地內容驗證完成：365 episodes、365 articles、365 questions、583 flashcards
+- [x] 完成產品內容全量稽核：365 天 `SCHEDULE` 與 episodes / articles / questions / flashcards 全數對齊，無缺日、缺週、缺欄位
+- [x] 確認 App 四個內容模組的讀取邏輯均已接到 Supabase 內容表（`episodes` / `articles` / `questions` / `flashcards`）
+
+### Phase 4.7 — 長篇 Podcast 重寫與重新同步（2026-03-30）
+- [x] podcast 重新改寫為接近 10 分鐘版本：每集 `6 parts / 48 lines / 8–10 vocab`
+- [x] `scripts/regenerate-episodes.js` 與 `scripts/validate-episodes.js` 已更新為長篇規格
+- [x] 新版 episodes 本地驗證通過：365 集、17,520 行、角色 phase / 禁用詞 / vocab 對位皆通過
+- [x] Supabase 內容資料已重新同步：episodes 365、articles 365、questions 365、flashcards 583
+- [x] 補上 `episodes.date` migration：`backend/supabase/migrations/20260329000000_add_date_to_episodes.sql`
+- [x] 舊短版 podcast 音檔已自 Storage 清除，避免新舊內容混播
+- [ ] 新版長篇 podcast 音檔重新生成中：目標 `17,520` 個 mp3，完成後再上傳並驗收
+
 ---
 
 ## TODO (待辦)
@@ -86,7 +105,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 > 以下為舊架構完成紀錄，新架構待辦見 Phase 2.5。
 
 #### 舊架構已完成（W1–W41，每週 1 集 Podcast）
-- [x] Podcast Episode 錨點集數 W2–W41（40 集，舊格式：每週 1 集，5 部分 × 8 行）⚠️ 需依新規格重新生成（3 部分 × 6 行，共 16–20 行）
+- [x] Podcast Episode 錨點集數 W2–W41（40 集，舊格式：每週 1 集，5 部分 × 8 行）⚠️ 已被新版長篇格式取代（現行為 365 集、每集 6 parts / 48 lines）
   - `content/episodes/episode-02.ts` 至 `episode-41.ts`
   - 注意：episode-01.ts 遺失，內容需補建至新架構的 week-02.ts Day1
 - [x] Speak 文章 W1–W41（287 篇）
@@ -120,12 +139,9 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] W3–W43 各週 Day 1–7 全部完成（Codex 已生成，每週 7 集）
 
 #### 其他內容補建
-- [x] Speak 文章 W42–W53 全部完成（每週 7 篇；W53 僅 4 篇）→ `content/articles/articles-w42.ts` 至 `articles-w53.ts`
-  - W42–W49：每週補建 Travel + AI&Future/Innovation 2 篇（原已有 5 篇）
-  - W50–W52：完整 7 篇（Technology/Science/Business/Travel/AI&Future/Innovation/Society）
-  - W53（New Beginnings）：4 篇（Technology/Science/Business/Travel）
-- [x] Conversation 題目 W42–W53 → `content/questions/conversations-w42-w53.ts`（Codex 已完成）
-- [x] Review 字卡 W42–W53 → `content/flashcards/flashcards-w42-w53.ts`（Codex 已完成）
+- [x] Speak 文章 W1–W53 全部完成並重新對齊新版 episodes → `content/articles/articles-w01.ts` 至 `articles-w53.ts`
+- [x] Conversation 題目 W1–W53 全部完成並重建為每日 365 題 → `content/questions/conversations-w01-w08.ts` 至 `conversations-w42-w53.ts`
+- [x] Review 字卡 W1–W53 全部完成並重建為全年版本 → `content/flashcards/flashcards-w01-w08.ts` 至 `flashcards-w42-w53.ts`
 
 #### App 資料層更新
 - [x] 更新 `src/data/curriculum.ts`：53 週 CURRICULUM + 365 天 SCHEDULE（1/1–12/31，W1/W53=4天）
@@ -133,12 +149,13 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 
 ---
 
-- [ ] 用 OpenAI TTS（tts-1 model）批次生成所有 Episode 音訊 mp3（每行一個檔）← 需 OpenAI 帳號
+- [x] 用 OpenAI TTS（`tts-1`）批次生成所有 Episode 音訊 mp3（每行一個檔，本地已完成）
 - [ ] 建立 Cloudflare R2 bucket + 上傳音訊檔 ← 需 Cloudflare 帳號
 - [x] DB seeding 腳本：`scripts/seed.ts`（`npm run seed`，需 SUPABASE_SERVICE_ROLE_KEY）
   - 自動 re-map 文章日期至 2026 實際日曆
   - 新增 migration `20260323000000_fix_questions_schema.sql`（day_of_week 1-7 + unique constraint）
 - [x] App 模組從 sample data 切換為從 Supabase API 讀取真實資料（content-api.ts）
+- [ ] 將本地已驗證的全年內容與音檔同步至 Supabase / Storage，並做產品端最終驗收
 
 ### Phase 3 補完 — App 功能補齊
 - [x] Sign in with Apple 整合（`expo-apple-authentication` + `expo-crypto` SHA-256 nonce + `supabase.auth.signInWithIdToken`）
@@ -199,7 +216,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 |------|------|------|
 | 定價 | NT$60（一次買斷） | Apple 標準定價層，對應 $1.99 USD |
 | AI 模型 | Claude Haiku 4.5 | 對話批改夠用，成本比 Sonnet 低 75% |
-| TTS | OpenAI TTS 預生成 → R2 | 一次性 $3-5，品質一致，不依賴裝置 |
+| TTS | OpenAI `tts-1` 預生成 → Storage/CDN | W1D1 實測後決定採低成本方案；新版長篇內容約 2,563,318 chars，一次性成本約 $38.45 USD；舊短版音檔已淘汰，新版 17,520 行音檔重生中 |
 | 登入方式 | Email + Apple Sign In + Google Sign In | Apple 強制要求 Sign in with Apple |
 | IAP 整合 | RevenueCat | 免費版支援 < NT$75,000 月收，抽象化 Apple/Google 雙平台 |
 | 後端 | Supabase Edge Functions (Deno) | 免費 tier 足夠 v1，冷啟動 < 200ms |

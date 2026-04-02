@@ -1,796 +1,690 @@
-import { Episode } from '../../app/src/data/episode-sample'
+import { Episode } from '../types'
 
 export const WEEK_10: Episode[] = [
   {
-  weekNumber: 10,
-  dayOfWeek: 1,
-  date: '2026-03-02',
-  theme: 'Daily Schedules',
-  title: 'My Week: Talking About Time and Schedules',
-  phase: 'p1',
-  parts: [
-    {
-      title: 'Part 1 — Organizing Time',
-      lines: [
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Mira, I feel like I'm constantly running out of time. There's never enough hours in the day. How do you manage to fit everything in?",
-          zh: 'Mira，我覺得時間永遠不夠用。一天的時數永遠不夠。你怎麼把所有事情都塞進去的？',
-          vocab: [{ word: 'running out of time', def: '時間不夠了' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Honestly, I don't always manage. Some weeks are a mess. But I've gotten better at it by planning ahead. Every night before bed, I spend about five minutes writing down what I need to do the next day.",
-          zh: '老實說，我也不是每次都能處理好。有些週真的很亂。但我透過提前規劃變得好一些了。每晚睡前，我會花大約五分鐘寫下隔天要做的事。',
-          vocab: [{ word: 'planning ahead', def: '提前規劃' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Just five minutes? That doesn't sound like much.",
-          zh: '只要五分鐘？聽起來不多耶。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "That's the point. It doesn't need to be complicated. I just jot down the top three things I absolutely need to get done. If I finish those, everything else is a bonus.",
-          zh: '重點就在這裡。不需要很複雜。我只是寫下一定要完成的前三件事。如果做完了，其他的就是額外的收穫。',
-          vocab: [{ word: 'jot down', def: '快速寫下、記下' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "I like that — just three things. I usually make these long to-do lists and then feel terrible when I only finish half.",
-          zh: '我喜歡這個——只有三件事。我通常列很長的待辦清單，然後只完成一半就覺得很糟。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Yeah, long lists can be really overwhelming. The trick is to prioritize. Not everything is equally urgent. Some things can wait until tomorrow or even next week.",
-          zh: '對，長清單真的會讓人很有壓力。訣竅是排優先順序。不是所有事情都一樣緊急。有些事可以等到明天甚至下週。',
-          vocab: [{ word: 'prioritize', def: '排定優先順序' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Do you use any apps or tools to keep track of your tasks?",
-          zh: '你有用什麼 App 或工具來追蹤你的任務嗎？',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Actually, I've gone back to pen and paper. I tried a bunch of apps, but I found that physically writing things down helps me remember them better. Plus, there's something really satisfying about crossing items off a list.",
-          zh: '其實我回歸紙筆了。我試過很多 App，但我發現親手寫東西讓我記得更牢。而且把清單上的項目劃掉真的有一種滿足感。',
-          vocab: [{ word: 'crossing items off', def: '把項目劃掉' }],
-        },
-      ],
-    },
-    {
-      title: 'Part 2 — Busy Seasons',
-      lines: [
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "So your schedule is usually pretty organized. But what about those crazy busy weeks? You know, when everything hits at once?",
-          zh: '所以你的行程通常挺有條理的。但那些瘋狂忙碌的週呢？就是所有事情一次湧來的時候？',
-          vocab: [{ word: 'hits at once', def: '同時湧來' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Oh, those weeks are rough. At my job, the end of each quarter is always the busiest. There are deadlines piling up, meetings back to back, and everyone's a little on edge.",
-          zh: '噢，那些週真的很辛苦。在我的工作裡，每個季度末永遠是最忙的。截止日一個接一個、會議排得滿滿的，每個人都有點緊繃。',
-          vocab: [{ word: 'on edge', def: '緊張的、焦慮的' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "How do you handle that kind of pressure without falling apart?",
-          zh: '你怎麼在那種壓力下不崩潰？',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Well, the key for me is to not panic. When I feel overwhelmed, I take a step back and ask myself: what's the most important thing right now? I focus on that one thing first and deal with the rest later.",
-          zh: '嗯，對我來說關鍵是不要慌。當我覺得壓力大的時候，我會退一步問自己：現在最重要的事是什麼？我先專注那一件事，其他的之後再處理。',
-          vocab: [{ word: 'overwhelmed', def: '不堪負荷的、壓力山大的' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "That sounds simple, but I bet it's hard to do when you have ten things screaming for your attention.",
-          zh: '聽起來簡單，但我猜有十件事在搶你注意力的時候很難做到。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "It is. But I also remind myself that busy seasons are temporary. They always pass. Knowing that it won't last forever actually helps me stay calm.",
-          zh: '確實。但我也會提醒自己忙碌的時期是暫時的。總是會過去。知道不會永遠持續下去其實幫助我保持冷靜。',
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "That's a healthy perspective. I tend to feel like the chaos will never end when I'm in the middle of it.",
-          zh: '那是很健康的心態。我在混亂中間的時候，通常覺得永遠不會結束。',
-        },
-      ],
-    },
-    {
-      title: 'Part 3 — Winding Down',
-      lines: [
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Okay, so after a long day, how do you wind down? What's your evening routine like?",
-          zh: '好，那忙了一整天之後，你怎麼放鬆？你的晚間例行是什麼樣子？',
-          vocab: [{ word: 'wind down', def: '放鬆、逐漸平靜下來' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "It depends on the day. On a normal day, I get home around seven. I change into comfortable clothes, cook something simple, and then just chill for a bit.",
-          zh: '看那天的情況。一般的日子我大概七點到家。換上舒服的衣服、煮點簡單的東西，然後放鬆一下。',
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Do you watch anything? I feel like most people just binge shows after work.",
-          zh: '你會看什麼嗎？我覺得大部分的人下班後就是追劇。',
-          vocab: [{ word: 'binge', def: '一次看很多集、狂看' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Sometimes, yeah. I'm not going to pretend I never zone out in front of the screen. But I try to limit it to one or two episodes. Otherwise I end up staying up way too late.",
-          zh: '有時候會。我不會假裝我從不在螢幕前放空。但我盡量控制在一兩集。不然就會熬夜太晚。',
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "One or two episodes? You have way more self-control than me. I always tell myself 'just one more' and then suddenly it's midnight.",
-          zh: '一兩集？你的自制力比我強太多了。我每次都跟自己說「再一集就好」，然後突然就半夜了。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Ha, I've been there. The trick that works for me is setting an alarm for my bedtime. When it goes off, I know it's time to start wrapping up whatever I'm doing.",
-          zh: '哈，我也有過。對我有效的方法是設一個就寢鬧鐘。鬧鐘一響，我就知道該開始結束手邊的事了。',
-          vocab: [{ word: 'wrapping up', def: '結束、收尾' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "A bedtime alarm! That's actually genius. I might steal that idea.",
-          zh: '就寢鬧鐘！那真的是天才。我可能會偷學這招。',
-        },
-      ],
-    },
-    {
-      title: 'Part 4 — Time Management Tips',
-      lines: [
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Alright, give me your best time management tips. What's worked for you?",
-          zh: '好，告訴我你最好的時間管理訣竅。什麼對你有效？',
-          vocab: [{ word: 'time management', def: '時間管理' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Number one — batch similar tasks together. Like, if I have emails to write, I do them all at once instead of one here, one there throughout the day. It's way more efficient.",
-          zh: '第一——把類似的任務集中處理。比如如果我有信要回，我會一次全部回完，而不是一天之中這邊回一封、那邊回一封。效率高很多。',
-          vocab: [{ word: 'batch', def: '批次處理、集中處理' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Oh, that makes sense. Switching between different types of tasks all the time is exhausting.",
-          zh: '噢，有道理。一直在不同類型的任務之間切換真的很累人。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Exactly — that's called context switching, and it wastes more time than people realize. My second tip is to block out focus time on your calendar. I mark certain hours as 'do not disturb' so I can concentrate without interruptions.",
-          zh: '沒錯——那叫做情境切換，它浪費的時間比大家以為的多。我的第二個秘訣是在行事曆上留出專注時間。我把特定時段標記為「請勿打擾」，這樣我就能不被打斷地集中精神。',
-          vocab: [{ word: 'context switching', def: '情境切換（在不同任務間來回跳轉）' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "Do people actually respect that? I feel like someone would just message me anyway.",
-          zh: '大家真的會尊重嗎？我覺得還是會有人傳訊息來。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Well, you have to communicate it clearly. I let my team know that unless it's truly urgent, I'll respond after my focus block. Most people are pretty understanding once you explain why.",
-          zh: '嗯，你必須清楚地溝通。我讓團隊知道，除非真的很緊急，不然我會在專注時段結束後回覆。大部分人一旦你解釋原因後都蠻能理解的。',
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "And what about those tasks you just really don't want to do? The ones you keep putting off?",
-          zh: '那些你真的不想做的任務呢？就是你一直拖延的那些？',
-          vocab: [{ word: 'putting off', def: '拖延、推遲' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Oh, procrastination is my biggest enemy. My rule is: if something takes less than five minutes, just do it now. For bigger tasks, I break them down into smaller chunks and tackle them one piece at a time.",
-          zh: '噢，拖延是我最大的敵人。我的規則是：如果一件事不到五分鐘就能完成，現在就做。比較大的任務，我會拆成小塊，一次處理一個。',
-          vocab: [{ word: 'procrastination', def: '拖延（症）' }],
-        },
-      ],
-    },
-    {
-      title: 'Part 5 — The Ideal Weekly Rhythm',
-      lines: [
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "If you could design your perfect week, what would it look like?",
-          zh: '如果你可以設計你的完美一週，會是什麼樣子？',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Oh, I love this question. Okay, so ideally, I'd have my most demanding work early in the week — like on the first and second workdays — when my energy is highest.",
-          zh: '噢，我喜歡這個問題。好，理想的話，我會把最費心力的工作排在週初——像是上班第一天和第二天——那時候精力最充沛。',
-          vocab: [{ word: 'demanding', def: '費心力的、要求高的' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "That makes sense. You're freshest at the start of the week.",
-          zh: '有道理。週初的時候最有精神。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Right. Then midweek I'd schedule meetings and collaborative stuff — that's when the energy starts to dip, so talking to people actually helps keep me engaged.",
-          zh: '對。然後週中安排會議和協作的事——那時候精力開始下滑，所以跟人說話其實有助於保持投入感。',
-          vocab: [{ word: 'dip', def: '下降、下滑' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "And what about the end of the week?",
-          zh: '那週末呢？',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "That's for wrapping up loose ends, planning the next week, and doing lighter tasks. And honestly, leaving a little early if I can. I think everyone deserves a smooth transition into the weekend.",
-          zh: '用來收尾未完成的事、規劃下週，還有做比較輕鬆的任務。老實說如果可以的話，早一點下班。我覺得每個人都值得一個平順的週末過渡。',
-          vocab: [{ word: 'loose ends', def: '未了結的事、收尾工作' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "And the weekend itself? Do you plan that too or just go with the flow?",
-          zh: '那週末本身呢？你也會計畫還是隨興？',
-          vocab: [{ word: 'go with the flow', def: '隨興、順其自然' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "A little of both. I usually have one day that's more active — errands, socializing, maybe exercise. And one day that's purely for rest. I've learned that if I fill both days with activities, I start the new week already tired.",
-          zh: '兩者都有一點。我通常有一天比較活躍——跑腿、社交、也許運動。另一天純粹休息。我學到如果兩天都排滿活動，新的一週還沒開始就已經累了。',
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "That's such a relatable problem. Weekends that are busier than weekdays.",
-          zh: '那真的太有共鳴了。比上班日還忙的週末。',
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "Exactly. So my ideal rhythm is: work hard early, coast a little toward the end, rest properly on weekends, and repeat. It's not perfect every week, but having that structure in mind really helps.",
-          zh: '沒錯。所以我的理想節奏是：前段努力工作、後段稍微輕鬆、週末好好休息，然後重複。不是每週都完美，但心裡有這個架構真的很有幫助。',
-          vocab: [{ word: 'coast', def: '輕鬆地滑行、不太費力地進行' }],
-        },
-        {
-          speaker: 'b', speakerName: 'Jamie',
-          en: "You know what, Mira? I think I've been living in survival mode this whole time — just reacting to whatever comes at me. Maybe it's time I actually designed my week instead of letting it happen to me.",
-          zh: '你知道嗎，Mira？我覺得我一直都在生存模式——只是在應付迎面而來的事。也許是時候我主動設計我的一週了，而不是讓它隨便發生。',
-          vocab: [{ word: 'survival mode', def: '生存模式（只求度過當下）' }],
-        },
-        {
-          speaker: 'a', speakerName: 'Mira',
-          en: "That's a great first step. And hey, don't be too hard on yourself. The fact that you're even thinking about it means you're already heading in the right direction.",
-          zh: '那是很棒的第一步。而且嘿，別對自己太嚴格。你開始想這件事，就代表你已經在往對的方向走了。',
-        },
-      ],
-    },
-  ],
-  keyPhrases: [
-    { en: 'jot down', zh: '快速記下', example: 'I jot down my tasks every night before bed.' },
-    { en: 'prioritize', zh: '排定優先順序', example: 'You need to prioritize your health over work.' },
-    { en: 'wind down', zh: '放鬆', example: 'I like to wind down with a cup of tea in the evening.' },
-    { en: 'wrapping up', zh: '結束、收尾', example: "Let's start wrapping up this meeting." },
-    { en: 'putting off', zh: '拖延', example: "I've been putting off that report for days." },
-    { en: 'go with the flow', zh: '隨興、順其自然', example: "I don't have plans — I'll just go with the flow." },
-    { en: 'context switching', zh: '情境切換', example: 'Too much context switching makes it hard to focus.' },
-    { en: 'on edge', zh: '緊張的', example: 'Everyone is on edge before the quarterly deadline.' },
-    { en: 'loose ends', zh: '未了結的事', example: 'I need to tie up a few loose ends before the weekend.' },
-    { en: 'survival mode', zh: '生存模式', example: "During busy season, I'm basically in survival mode." },
-  ],
-  },
-  // Day 2
-  {
-    weekNumber: 10, dayOfWeek: 2, date: '2026-03-03',
-    theme: 'Daily Schedules', title: 'The Power of Morning Routines', phase: 'p1',
-    parts: [
-      {
-        title: 'Part 1 — Are You a Morning Person?',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "Mira, are you naturally a morning person or do you have to force yourself to get up?", zh: 'Mira，你天生是早起的人，還是必須強迫自己起床？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Honestly, somewhere in the middle. Left to my natural rhythm, I'd probably sleep until eight. But I've trained myself to get up earlier over the years.", zh: '說真的，介於兩者之間。如果順著自然節律，我可能會睡到八點。但這些年我訓練自己早點起床。', vocab: [{ word: 'natural rhythm', def: '自然節律、生理時鐘' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I'm a definite night owl. My brain wakes up around ten PM, which is completely unhelpful for normal work schedules.", zh: '我是明確的夜貓子。我的大腦大約晚上十點才清醒，這對正常的工作時程完全沒有幫助。', vocab: [{ word: 'night owl', def: '夜貓子' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Chronotype is actually largely genetic. About forty percent of people are morning types, thirty percent are evening types, and the rest fall in between.", zh: '睡眠時型其實很大程度上是基因決定的。大約百分之四十的人是早晨型，百分之三十是夜晚型，其餘的介於兩者之間。', vocab: [{ word: 'chronotype', def: '睡眠時型（生理上偏好早睡或晚睡的傾向）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So I'm not just lazy — I have an evening chronotype. That feels validating.", zh: '所以我不只是懶——我有夜晚型的睡眠時型。這感覺很有道理。', vocab: [{ word: 'validating', def: '讓人覺得得到認可的、確認的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "It is real. Though most workplaces are built for morning people, which is a genuine mismatch for a large portion of the workforce.", zh: '這是真的。雖然大多數職場是為早晨型的人設計的，這對相當大一部分勞動力來說是真正的不匹配。', vocab: [{ word: 'mismatch', def: '不匹配、不符合' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So what makes a good morning routine? Is it really as transformative as people say?", zh: '那什麼是好的早晨例行程序？它真的像人們說的那樣有改變生活的力量嗎？', vocab: [{ word: 'transformative', def: '有改變力量的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "It depends on what you want it to do. It won't fix a bad night's sleep, but a structured start can set a tone for the whole day.", zh: '取決於你希望它做什麼。它不會修復一晚糟糕的睡眠，但有結構的開始可以為整天定下基調。', vocab: [{ word: 'set a tone', def: '定下基調' }] },
-        ],
-      },
-      {
-        title: 'Part 2 — What Makes a Morning Routine Work',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "I've tried morning routines but they always collapse within a week. What makes them sustainable?", zh: '我試過早晨例行程序，但它們總是在一週內瓦解。什麼讓它們可持續？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Usually they fail because they're too ambitious. People read about five AM clubs and three-hour routines with meditation, exercise, journaling, and cold showers all before work.", zh: '通常它們失敗是因為太雄心勃勃了。人們讀到關於五點俱樂部和三個小時的例行程序，在上班前有冥想、運動、日記和冷水澡。', vocab: [{ word: 'cold showers', def: '冷水澡' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That sounds exhausting rather than energizing.", zh: '那聽起來比振奮人心更令人精疲力竭。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. A sustainable morning routine might just be: don't check your phone for the first fifteen minutes, have a proper breakfast, and leave the house without rushing.", zh: '正是。一個可持續的早晨例行程序可能只是：前十五分鐘不看手機、好好吃早餐、不慌不忙地出門。', vocab: [{ word: 'sustainable', def: '可持續的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That's much more achievable. Is the no-phone thing a real game changer?", zh: '這更可以實現。不看手機這件事真的是改變局面的大事嗎？', vocab: [{ word: 'game changer', def: '改變局面的事物' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "For me, yes. Checking email or social media first thing puts you in reactive mode — responding to other people's agendas before you've decided on your own.", zh: '對我來說，是的。第一件事就看電子郵件或社群媒體會讓你進入被動反應模式——在你決定自己的議程之前就回應別人的。', vocab: [{ word: 'reactive mode', def: '被動反應模式' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Whose day is it, yours or everyone else's? If you start by responding to the world, it's the world's day.", zh: '這是誰的一天，你的還是所有人的？如果你從回應世界開始，那就是世界的一天。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Well put. Giving yourself even twenty minutes of undirected time — no inputs — lets you start the day from your own center.", zh: '說得好。給自己哪怕二十分鐘不受干擾的時間——沒有輸入——讓你從自己的中心開始這一天。', vocab: [{ word: 'undirected', def: '不受干擾的、無指向的' }] },
-        ],
-      },
-      {
-        title: 'Part 3 — Breakfast and the First Hour',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "What does your actual morning currently look like? Walk me through it.", zh: '你目前實際的早晨是什麼樣子？帶我走一遍。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Alarm goes off at seven thirty. I hit snooze at least twice. I scroll on my phone in bed for twenty minutes. Rush to get ready. Skip breakfast. Leave stressed.", zh: '鬧鐘七點半響。我至少按兩次貪睡。在床上滑手機二十分鐘。急忙準備好。不吃早餐。帶著壓力出門。', vocab: [{ word: 'hit snooze', def: '按貪睡鍵' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "So you start every day behind, already in a reactive and stressed state. That's a tough way to begin.", zh: '所以你每天都落後於計劃，一開始就處於被動和有壓力的狀態。這是個艱難的開始方式。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "It is. And by nine AM I feel like I'm already playing catch-up.", zh: '確實。到了早上九點，我感覺自己已經在追趕了。', vocab: [{ word: 'playing catch-up', def: '追趕、設法跟上' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "What if you set the alarm thirty minutes earlier but didn't touch your phone? You'd have time to eat, get ready without rushing, and arrive with more composure.", zh: '如果你把鬧鐘提早三十分鐘，但不碰手機呢？你會有時間吃東西、不急忙地準備好，然後以更平靜的心態到達。', vocab: [{ word: 'composure', def: '鎮定、沉著' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That thirty minutes of phone scrolling is costing me the whole morning.", zh: '那三十分鐘的滑手機讓我付出了整個早晨的代價。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Precisely. And breakfast matters — glucose is the brain's primary fuel. Starting without it impairs decision-making and concentration.", zh: '正是。早餐很重要——葡萄糖是大腦的主要燃料。不吃早餐會影響決策和注意力。', vocab: [{ word: 'glucose', def: '葡萄糖' }, { word: 'impairs', def: '損害、削弱' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So every decision I make in the early morning while hungry is a worse version of itself.", zh: '所以我在早晨飢餓時做的每一個決定都是更差的版本。' },
-        ],
-      },
-      {
-        title: 'Part 4 — Protecting Your Mornings',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "Many high-performers talk about protecting their mornings — not scheduling meetings or calls until after ten AM.", zh: '很多高效率的人談到保護他們的早晨——不在上午十點前安排會議或電話。', vocab: [{ word: 'high-performers', def: '高效率的人、高成就者' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That sounds luxurious. My calendar is often full from eight AM.", zh: '那聽起來很奢侈。我的日曆通常從早上八點就排滿了。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Deep work — creative, cognitively demanding work — is best done in the first few hours when your brain is freshest. Meetings can happen any time.", zh: '深度工作——創意性的、認知要求高的工作——最好在最初幾個小時內完成，因為你的大腦是最清醒的。會議可以任何時間開。', vocab: [{ word: 'deep work', def: '深度工作（需要高度專注的工作）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I've noticed I can write much better at nine AM than at three PM, but I've never protected that time intentionally.", zh: '我注意到我早上九點比下午三點寫得好很多，但我從來沒有刻意保護那段時間。', vocab: [{ word: 'intentionally', def: '刻意地、有意識地' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "That's the time management insight most people miss — it's not just about hours, it's about which hours you use for which tasks.", zh: '那是大多數人錯過的時間管理洞見——不只是時數問題，而是你用哪些時數做哪些任務。', vocab: [{ word: 'time management', def: '時間管理' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Matching task difficulty to cognitive energy level. High-energy tasks in the morning, routine tasks in the afternoon.", zh: '將任務難度與認知精力水平匹配。高精力任務放在早上，例行任務放在下午。', vocab: [{ word: 'cognitive energy', def: '認知精力' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. Working with your natural energy curve, not against it.", zh: '正是。順應你的自然能量曲線，而不是與它對抗。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "I'm going to look at my calendar tomorrow and move any early meetings I can. Protect the first two hours.", zh: '我明天要看看我的日曆，把任何可以的早會移開。保護最初的兩個小時。' },
-        ],
-      },
-      {
-        title: 'Part 5 — Creating Your Own Morning',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "The best morning routine is the one that works for you, not the one a productivity book tells you to follow.", zh: '最好的早晨例行程序是對你有效的那個，不是生產力書籍告訴你要遵循的那個。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "What's yours specifically? Like, what do you actually do each morning?", zh: '你具體的例行程序是什麼？像是，你每天早上實際做什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: "I wake at six thirty, make tea, sit quietly for ten minutes — not meditating formally, just being still. Then I review my top three priorities for the day before opening any apps.", zh: '我六點半醒來，泡茶，安靜地坐十分鐘——不是正式的冥想，只是靜下來。然後在開任何 App 之前，我看一下當天最重要的三個優先事項。', vocab: [{ word: 'priorities', def: '優先事項' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Three priorities. That's concrete. How do you decide what they are?", zh: '三個優先事項。這很具體。你怎麼決定它們是什麼？', vocab: [{ word: 'concrete', def: '具體的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "I write them the night before. Morning-me doesn't have to think — evening-me already prepared the roadmap.", zh: '我前一晚就寫好了。早上的我不必思考——晚上的我已經準備好了路線圖。', vocab: [{ word: 'roadmap', def: '路線圖、計劃' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The night routine feeds the morning routine. They're connected.", zh: '夜晚例行程序為早晨例行程序提供養分。它們是相連的。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Everything's connected. Good sleep enables a good morning. A good morning shapes the day. A good day builds a good week.", zh: '一切都是相連的。好的睡眠讓早晨好。好的早晨塑造一天。好的一天建立好的一週。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "It's all one system. I've been trying to fix the days without fixing the start of them.", zh: '這都是一個系統。我一直在嘗試修復一天，卻沒有修復一天的開始。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Start with the first thirty minutes. Get those right and everything downstream benefits.", zh: '從最初的三十分鐘開始。把它們做好，之後的一切都會受益。', vocab: [{ word: 'downstream', def: '在下游、之後的' }] },
-        ],
-      },
-    ],
-    keyPhrases: [
-      { en: 'chronotype', zh: '睡眠時型', example: "Knowing your chronotype helps you design a schedule that suits your biology." },
-      { en: 'set a tone', zh: '定下基調', example: "A calm morning sets a tone of composure for the whole day." },
-      { en: 'reactive mode', zh: '被動反應模式', example: "Checking email first thing puts you in reactive mode immediately." },
-      { en: 'playing catch-up', zh: '追趕、設法跟上', example: "A rushed morning means spending the whole day playing catch-up." },
-      { en: 'deep work', zh: '深度工作', example: "Protect your mornings for deep work when your brain is freshest." },
-      { en: 'composure', zh: '鎮定、沉著', example: "Arriving at work with composure makes the whole day more productive." },
-      { en: 'cognitive energy', zh: '認知精力', example: "Match your tasks to your cognitive energy levels throughout the day." },
-      { en: 'priorities', zh: '優先事項', example: "Writing down three priorities each evening simplifies the next morning." },
-      { en: 'roadmap', zh: '路線圖', example: "Your evening routine is a roadmap for your morning." },
-      { en: 'downstream', zh: '之後的、下游的', example: "Get the first hour right and everything downstream benefits." },
-    ],
-  },
-
-  // Day 3
-  {
-    weekNumber: 10, dayOfWeek: 3, date: '2026-03-04',
-    theme: 'Daily Schedules', title: 'Managing Time at Work', phase: 'p1',
-    parts: [
-      {
-        title: 'Part 1 — Where Does the Time Go?',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "Mira, do you ever finish a workday feeling like you were incredibly busy but nothing actually got done?", zh: 'Mira，你有沒有結束一個工作日，感覺自己極度忙碌卻什麼都沒做好？' },
-          { speaker: 'a', speakerName: 'Mira', en: "All the time. It's a very modern problem — full calendar, inbox on fire, constant pings — but zero meaningful output.", zh: '常常有。這是很現代的問題——日曆排滿、收件匣起火、不斷的提醒通知——但沒有任何有意義的產出。', vocab: [{ word: 'pings', def: '（手機/電腦的）通知提示音' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What actually steals the most time at work?", zh: '什麼實際上在工作中偷走了最多的時間？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Interruptions. Studies show it takes about twenty-three minutes to return to full focus after an interruption. And most people are interrupted every few minutes.", zh: '中斷。研究顯示，被中斷後需要大約二十三分鐘才能恢復完全的專注力。而大多數人每隔幾分鐘就被中斷一次。', vocab: [{ word: 'interruptions', def: '中斷、打擾' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Twenty-three minutes per interruption? That's terrifying. If I get interrupted ten times a day, I've lost the whole day.", zh: '每次中斷二十三分鐘？這很可怕。如果我一天被中斷十次，我就失去了整天。', vocab: [{ word: 'terrifying', def: '令人恐懼的、可怕的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And meetings. Most professionals spend thirty to fifty percent of their time in meetings, many of which could be an email or a five-minute chat.", zh: '還有會議。大多數專業人士花百分之三十到五十的時間在開會，其中很多可以是一封電子郵件或一次五分鐘的聊天。', vocab: [{ word: 'professionals', def: '專業人士' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Meetings are where time goes to die. I've said this for years.", zh: '會議是時間去死的地方。我說了這麼多年。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Ha! But they're also where alignment happens, relationships get built, and decisions get made — when they're run well.", zh: '哈！但它們也是達成共識、建立關係和做出決策的地方——在運作良好的情況下。', vocab: [{ word: 'alignment', def: '共識、協調一致' }] },
-        ],
-      },
-      {
-        title: 'Part 2 — Time Blocking',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "One of the most effective techniques I've found is time blocking — scheduling specific blocks of time for specific types of work.", zh: '我發現最有效的技巧之一是時間封鎖——為特定類型的工作安排特定的時間段。', vocab: [{ word: 'time blocking', def: '時間封鎖（將時間切割成特定工作區塊）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Like literally putting 'deep work' or 'email' as calendar events?", zh: '就像字面上把「深度工作」或「電子郵件」放入行事曆？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. If it's on the calendar, it's protected. I have a two-hour block every morning for writing and thinking. No meetings, no messages.", zh: '正是。如果它在行事曆上，就是受到保護的。我每天早上有一個兩小時的區塊用於寫作和思考。不開會，不傳訊息。', vocab: [{ word: 'protected', def: '受保護的、不可侵犯的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Don't colleagues get annoyed when they can't reach you?", zh: '同事因為找不到你而生氣嗎？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Sometimes, initially. But if you're consistent about it and you respond promptly outside those blocks, people adapt.", zh: '有時候，一開始會。但如果你持之以恆，並且在那些區塊之外及時回應，人們會適應的。', vocab: [{ word: 'promptly', def: '迅速地、及時地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What about email? I feel like I'm at the mercy of my inbox.", zh: '那電子郵件呢？我感覺自己受制於我的收件匣。', vocab: [{ word: 'at the mercy of', def: '受…擺布、任憑…處置' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Email should be reactive but not immediate. Checking twice a day — say ten AM and four PM — is often sufficient. Constant checking is the illusion of productivity.", zh: '電子郵件應該是被動回應的，但不是立即的。一天查看兩次——比如早上十點和下午四點——通常就足夠了。不斷查看是生產力的幻覺。', vocab: [{ word: 'illusion', def: '幻覺、錯覺' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The illusion of productivity — doing something that feels productive but isn't actual progress.", zh: '生產力的幻覺——做一些感覺有生產力但實際上沒有進展的事情。' },
-        ],
-      },
-      {
-        title: 'Part 3 — Prioritizing Tasks',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "How do you decide what to work on? I have a to-do list that keeps growing and I never seem to get to the bottom of it.", zh: '你怎麼決定做什麼？我有一個不斷增長的待辦清單，似乎從來沒有辦法做完。', vocab: [{ word: 'to-do list', def: '待辦清單' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "The Eisenhower Matrix helps. You sort tasks by urgency and importance. Urgent and important — do it now. Important but not urgent — schedule it. Urgent but not important — delegate. Neither — delete.", zh: '艾森豪矩陣很有幫助。你按緊急性和重要性對任務分類。緊急且重要——現在就做。重要但不緊急——排程。緊急但不重要——委派。兩者都不是——刪除。', vocab: [{ word: 'Eisenhower Matrix', def: '艾森豪矩陣（時間管理工具）' }, { word: 'delegate', def: '委派、授權' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Most of what feels urgent isn't actually important. It just feels loud.", zh: '大多數感覺緊急的事情實際上並不重要。只是感覺很吵。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. Urgency is often manufactured — by other people's anxiety or by notifications. Importance is about actual impact.", zh: '正是。緊急性往往是人為製造的——由別人的焦慮或通知造成的。重要性是關於實際影響。', vocab: [{ word: 'manufactured', def: '人為製造的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The three-task method — only committing to three meaningful tasks per day — sounds liberating.", zh: '三任務法——每天只承諾三個有意義的任務——聽起來很解放。', vocab: [{ word: 'committing to', def: '承諾完成' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "It is. Most people overload their list and then feel defeated at the end of the day. Three is achievable. Three done well beats ten half-done.", zh: '確實。大多數人讓清單超載，然後一天結束時感到沮喪。三個是可以實現的。做好三件事勝過半途而廢十件事。', vocab: [{ word: 'overload', def: '超載' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "And the remaining tasks don't disappear — they just go on tomorrow's list or get evaluated again.", zh: '而剩下的任務不會消失——它們只是進入明天的清單或再次被評估。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Right. Your to-do list is a parking lot, not a finish line. Not everything has to be done today.", zh: '對。你的待辦清單是停車場，不是終點線。不是所有事情都必須今天完成。', vocab: [{ word: 'parking lot', def: '停車場（比喻暫存的地方）' }] },
-        ],
-      },
-      {
-        title: 'Part 4 — Saying No at Work',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "One underrated time management skill is saying no — or at least negotiating scope before you agree to things.", zh: '一個被低估的時間管理技能是說不——或者至少在你同意之前談判範圍。', vocab: [{ word: 'negotiating scope', def: '談判範圍、協商工作量' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I struggle with this enormously. I say yes to everything because I'm afraid of disappointing people.", zh: '我在這方面非常掙扎。我對所有事情說好，因為我害怕讓人失望。', vocab: [{ word: 'enormously', def: '非常、極度地' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Here's a reframe: every yes is a no to something else. When you say yes to a low-priority task, you're implicitly saying no to a high-priority one.", zh: '這裡有個重新框架：每一個好都是對其他事情的拒絕。當你對低優先級的任務說好，你隱含地對高優先級的任務說不。', vocab: [{ word: 'implicitly', def: '隱含地、暗中地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So saying yes to everything is actually saying no to the things that matter most.", zh: '所以對所有事情說好實際上是對最重要的事情說不。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. Selective no's protect your most important yes's.", zh: '正是。選擇性的拒絕保護了你最重要的允許。', vocab: [{ word: 'selective', def: '選擇性的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "How do you say no gracefully without burning bridges?", zh: '你怎麼優雅地拒絕而不破壞關係？', vocab: [{ word: 'burning bridges', def: '破壞關係、斷橋' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "You acknowledge the request, give a brief honest reason, and offer an alternative if possible. 'I'm at capacity on this project right now — could this wait until next week, or could someone else help?'", zh: '你承認請求，給出簡短的誠實理由，如果可能提供替代方案。「我現在這個項目已經到達上限了——這能等到下週嗎，還是有別人可以幫忙？」', vocab: [{ word: 'at capacity', def: '已達上限、滿載' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That's professional and human. Not a flat refusal, but a honest communication of your constraints.", zh: '這很專業也很人性化。不是直接拒絕，而是誠實地溝通你的限制。', vocab: [{ word: 'constraints', def: '限制、約束' }] },
-        ],
-      },
-      {
-        title: 'Part 5 — The End of the Workday',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "What about ending the day well? I often just stop when I'm too tired to continue, with no sense of completion.", zh: '好好結束一天呢？我常常只是在太累了無法繼續時停下來，沒有完成感。', vocab: [{ word: 'completion', def: '完成、結束感' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "A shutdown ritual helps. Cal Newport advocates for ending the workday with a clear review: what got done, what didn't, and what tomorrow's plan is.", zh: '關機儀式有幫助。卡爾・紐波特提倡用清楚的回顧結束工作日：做了什麼、沒做什麼、明天的計劃是什麼。', vocab: [{ word: 'shutdown ritual', def: '關機儀式（結束工作的例行程序）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "And then you say out loud 'shutdown complete'?", zh: '然後你大聲說「關機完成」？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Ha, it sounds odd but it's actually effective. The verbal signal tells your brain the workday is genuinely over — not just paused.", zh: '哈，聽起來奇怪，但實際上很有效。語言信號告訴你的大腦工作日真的結束了——而不只是暫停。', vocab: [{ word: 'verbal signal', def: '語言信號' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Because without a clear ending, the brain keeps working on it. The Zeigarnik effect — incomplete tasks stay in working memory.", zh: '因為沒有明確的結束，大腦會繼續思考它。蔡加尼克效應——未完成的任務留在工作記憶中。', vocab: [{ word: 'Zeigarnik effect', def: '蔡加尼克效應（人們傾向記住未完成的任務）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. Writing down unfinished tasks with a clear plan for when to address them releases them from your mental RAM.", zh: '正是。寫下未完成的任務，並有清楚的計劃說明何時處理它們，可以從你的心理 RAM 中釋放它們。', vocab: [{ word: 'mental RAM', def: '心理 RAM（比喻工作記憶）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I'm going to try the shutdown ritual tonight. Even five minutes of structured review before closing the laptop.", zh: '我今晚要試試關機儀式。即使是關閉筆電前五分鐘的有結構回顧。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That five minutes will save you an hour of restless, distracted evening.", zh: '那五分鐘會為你節省一個小時焦躁、分心的夜晚。', vocab: [{ word: 'restless', def: '焦躁的、坐立不安的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Five minutes in, one hour out. That's an excellent return on investment.", zh: '投入五分鐘，節省一個小時。這是極好的投資回報率。', vocab: [{ word: 'return on investment', def: '投資回報率' }] },
-        ],
-      },
-    ],
-    keyPhrases: [
-      { en: 'time blocking', zh: '時間封鎖', example: "Time blocking protects your most important work from interruptions." },
-      { en: 'Eisenhower Matrix', zh: '艾森豪矩陣', example: "Use the Eisenhower Matrix to sort tasks by urgency and importance." },
-      { en: 'at the mercy of', zh: '受…擺布', example: "Without a system, you're at the mercy of your inbox." },
-      { en: 'illusion of productivity', zh: '生產力的幻覺', example: "Constant email-checking is an illusion of productivity." },
-      { en: 'delegate', zh: '委派、授權', example: "Urgent but unimportant tasks should be delegated when possible." },
-      { en: 'at capacity', zh: '已達上限', example: "'I'm at capacity right now' is a professional way to decline requests." },
-      { en: 'burning bridges', zh: '破壞關係', example: "You can say no without burning bridges if you communicate clearly." },
-      { en: 'shutdown ritual', zh: '關機儀式', example: "A shutdown ritual signals to your brain that the workday is truly over." },
-      { en: 'Zeigarnik effect', zh: '蔡加尼克效應', example: "The Zeigarnik effect explains why unfinished tasks stay on your mind." },
-      { en: 'return on investment', zh: '投資回報', example: "Five minutes of planning yields an excellent return on investment." },
-    ],
-  },
-
-  // Day 4
-  {
-    weekNumber: 10, dayOfWeek: 4, date: '2026-03-05',
-    theme: 'Daily Schedules', title: 'After Work: How We Spend Our Evenings', phase: 'p1',
-    parts: [
-      {
-        title: 'Part 1 — The Evening Hours',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "What do you usually do after work, Jamie? The evening hours say a lot about a person.", zh: 'Jamie，你下班後通常做什麼？晚間時光能說明一個人很多。', vocab: [{ word: 'evening hours', def: '晚間時光' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Honestly? I get home, stare at my phone, watch something on streaming, and before I know it it's eleven PM and I haven't done anything I intended.", zh: '說真的？我回家，盯著手機，看一些串流，在我意識到之前已經是晚上十一點了，我什麼打算做的事都沒做。', vocab: [{ word: 'streaming', def: '串流、網路影音平台' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "That's very common. The phenomenon has a name — 'revenge bedtime procrastination'. It happens when you feel you had no time for yourself during the day, so you stay up late even though you're tired.", zh: '這很常見。這個現象有個名字——「報復性晚睡」。這發生在你覺得白天沒有自己的時間，所以即使你很累也熬夜的時候。', vocab: [{ word: 'revenge bedtime procrastination', def: '報復性晚睡' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Revenge bedtime procrastination. That's exactly it. I'm reclaiming time that the workday stole from me.", zh: '報復性晚睡。正是這樣。我在收回工作日從我這裡偷走的時間。', vocab: [{ word: 'reclaiming', def: '收回、奪回' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "But you're reclaiming it by being tired and zombie-scrolling — which isn't actually restoring. It's a hollow version of 'me time'.", zh: '但你是在疲憊和像殭屍一樣滑手機的情況下收回它的——這實際上並不是在恢復。這是「自己的時間」的空洞版本。', vocab: [{ word: 'zombie-scrolling', def: '像殭屍般無意識地滑手機' }, { word: 'hollow', def: '空洞的、徒有其表的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Hollow me time. That's depressing but accurate.", zh: '空洞的自己的時間。這很沮喪，但很準確。' },
-          { speaker: 'a', speakerName: 'Mira', en: "The fix isn't to sleep earlier necessarily — it's to build real autonomy into the day so you don't feel the need to steal it at night.", zh: '解決方法不一定是更早睡——而是在白天建立真正的自主權，這樣你就不會感到需要在夜晚偷竊它。', vocab: [{ word: 'autonomy', def: '自主權、自主性' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What does evening time well-spent look like to you?", zh: '對你來說，晚間時光花得好是什麼樣子？' },
-        ],
-      },
-      {
-        title: 'Part 2 — Restorative vs Passive Activities',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "I think the key distinction is between passive and restorative activities. TV and phone-scrolling are passive — your brain is consuming but not recovering.", zh: '我認為關鍵的區別在於被動和恢復性活動之間。電視和滑手機是被動的——你的大腦在消費但沒有恢復。', vocab: [{ word: 'restorative', def: '恢復性的、有助恢復的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What counts as restorative?", zh: '什麼算是恢復性的？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Anything that leaves you feeling better than when you started. For some people it's cooking, reading, walking, playing music, crafting. The content matters — it should feel genuinely engaging.", zh: '任何讓你比開始時感覺更好的事情。對某些人來說是做飯、閱讀、散步、演奏音樂、手工藝。內容很重要——它應該感覺真正投入其中。', vocab: [{ word: 'crafting', def: '手工藝' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Not just numbing out.", zh: '不只是麻木地消遣。', vocab: [{ word: 'numbing out', def: '麻木地消遣、逃避現實' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Right. Numbing out has its place — sometimes you're too exhausted for anything else. But if every evening is numbing, you're not recovering, you're just delaying the next day's tiredness.", zh: '對。麻木地消遣有它的位置——有時候你太筋疲力竭，做不了其他事情。但如果每個晚上都是麻木地消遣，你就不是在恢復，你只是在推遲明天的疲憊。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "What do you do in the evenings that you find genuinely restorative?", zh: '你晚上做什麼真正讓你覺得有恢復性？' },
-          { speaker: 'a', speakerName: 'Mira', en: "I read a lot. Physical books. Something about holding a book, with no notifications, no links — it's like deep breathing for the brain.", zh: '我讀很多書。實體書。拿著一本書，沒有通知、沒有連結——就像是大腦的深呼吸。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "I used to read a lot before smartphones. I can barely finish a chapter now. My attention span has changed.", zh: '我以前在智慧型手機出現之前讀很多書。我現在幾乎連一章都看不完。我的注意力廣度已經改變了。', vocab: [{ word: 'attention span', def: '注意力廣度' }] },
-        ],
-      },
-      {
-        title: 'Part 3 — Evening Social Life',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "What about evenings with other people — social plans? I feel like I often say no to things because I'm too tired after work.", zh: '那和其他人在一起的晚上呢——社交計劃？我感覺我常常因為下班後太累而拒絕事情。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Pre-commitment helps with this. If you schedule social plans in advance, you're more likely to follow through because canceling has a social cost.", zh: '事先承諾對這很有幫助。如果你提前安排社交計劃，你更可能去實現，因為取消有社交代價。', vocab: [{ word: 'pre-commitment', def: '事先承諾' }, { word: 'follow through', def: '跟進、完成' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "And I always feel better after socializing than I expected to, even when I didn't want to go.", zh: '而且我總是在社交之後感覺比預期的更好，即使我不想去。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's the prediction error in action. We're bad at predicting how good social connection will feel when we're tired. We underestimate the boost.", zh: '那是預測誤差在起作用。當我們疲憊時，我們不善於預測社交連結的感覺有多好。我們低估了那種提振。', vocab: [{ word: 'prediction error', def: '預測誤差' }, { word: 'boost', def: '提振、提升' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Yet we make that prediction every single time and decide to stay home instead.", zh: '然而我們每次都做出那個預測，然後決定待在家。' },
-          { speaker: 'a', speakerName: 'Mira', en: "There's a phrase for this: 'you can't trust tired-you to make plans for future-you.' Tired-you always says no. But future-you is usually glad you went.", zh: '這有個說法：「你不能信任疲憊的你為未來的你做計劃。」疲憊的你總是說不。但未來的你通常很高興你去了。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Don't let tired-me make social decisions. That's a rule I need.", zh: '不要讓疲憊的我做社交決定。這是我需要的規則。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Ha! Exactly. Book things when you're in a good mood, show up even when you're tired.", zh: '哈！正是。心情好時訂計劃，即使疲憊也要出現。' },
-        ],
-      },
-      {
-        title: 'Part 4 — Personal Projects in the Evening',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "Do you have any personal projects — things you're building or learning outside of work?", zh: '你有沒有個人項目——你在工作之外建立或學習的事情？' },
-          { speaker: 'b', speakerName: 'Jamie', en: "I've always wanted to learn to play the guitar. I have a guitar in the corner of my room that's been sitting there for three years.", zh: '我一直想學吉他。我房間角落有一把吉他，已經放在那裡三年了。' },
-          { speaker: 'a', speakerName: 'Mira', en: "The aspirational guitar. We all have one — the thing we want to do but haven't started because the right moment never comes.", zh: '渴望性的吉他。我們都有一個——我們想做但還沒開始的事情，因為合適的時機永遠不會到來。', vocab: [{ word: 'aspirational', def: '充滿抱負的、渴望的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The right moment being never, in my case.", zh: '在我的情況，所謂的合適時機就是從來沒有。' },
-          { speaker: 'a', speakerName: 'Mira', en: "What if you committed to just ten minutes a day? Not to become a musician — just to keep the guitar out of the corner.", zh: '如果你每天只承諾十分鐘呢？不是為了成為音樂家——只是讓吉他不再待在角落裡。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Ten minutes is achievable. I spend more than that waiting for my computer to boot up.", zh: '十分鐘是可以做到的。我花的等電腦開機的時間就超過這個。', vocab: [{ word: 'boot up', def: '（電腦）啟動' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Personal projects in the evenings give you something to grow toward — something that's purely yours. That's different from both work and passive entertainment.", zh: '晚上的個人項目給了你努力的方向——完全屬於你的事情。那與工作和被動娛樂都不同。', vocab: [{ word: 'grow toward', def: '朝向…成長' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Identity, again. Not just 'someone who wants to play guitar' but 'someone who plays guitar'.", zh: '又是身份認同。不只是「想學吉他的人」，而是「彈吉他的人」。' },
-        ],
-      },
-      {
-        title: 'Part 5 — Designing Your Ideal Evening',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "If you could design your ideal weekday evening from scratch, what would it look like?", zh: '如果你可以從頭設計你理想的週間晚上，它會是什麼樣子？' },
-          { speaker: 'a', speakerName: 'Mira', en: "I'd get home by six thirty. Cook something — cooking is genuinely relaxing for me. Eat without screens. Do something creative for an hour. Read for thirty minutes before bed.", zh: '我會在六點半前到家。做一些東西——做飯對我來說真的很放鬆。不看螢幕地吃東西。做一個小時的創意事情。睡前閱讀三十分鐘。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Eating without screens. That's a rare thing these days.", zh: '不看螢幕地吃東西。這在現在很罕見。' },
-          { speaker: 'a', speakerName: 'Mira', en: "It's become radical. But eating with attention makes the food taste better and helps you recognize when you're full.", zh: '這已經變得很激進了。但專心吃飯會讓食物味道更好，也有助於你認識到什麼時候飽了。', vocab: [{ word: 'radical', def: '激進的、根本的（有時用來形容反潮流的行為）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Mine would be: come home, change clothes — that physical transition matters — then do something active for twenty minutes, then dinner, then guitar.", zh: '我的會是：回家、換衣服——那個身體上的轉換很重要——然後做二十分鐘的活動，然後晚餐，然後吉他。', vocab: [{ word: 'transition', def: '過渡、轉換' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Changing out of work clothes is a powerful ritual. It signals to your brain: work is over, this chapter of the day is different.", zh: '換掉工作服是一個有力的儀式。它向你的大腦發出信號：工作結束了，這一天的這個篇章是不同的。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Physical cues as state change triggers. I've been going from my desk to my couch in the same clothes. No wonder my brain doesn't switch off.", zh: '身體提示作為狀態改變的觸發器。我一直穿著相同的衣服從辦公桌到沙發。難怪我的大腦關不掉。', vocab: [{ word: 'state change', def: '狀態改變' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Ritual creates boundary. The more clearly you mark transitions between modes, the more fully you inhabit each one.", zh: '儀式創造界限。你越清楚地標記模式之間的過渡，你就越完全地活在每一個模式中。', vocab: [{ word: 'inhabit', def: '居住於、完全進入（某種狀態）' }] },
-        ],
-      },
-    ],
-    keyPhrases: [
-      { en: 'revenge bedtime procrastination', zh: '報復性晚睡', example: "Revenge bedtime procrastination often signals a lack of autonomy during the day." },
-      { en: 'restorative', zh: '恢復性的', example: "Choose restorative activities in the evening, not just passive ones." },
-      { en: 'numbing out', zh: '麻木地消遣', example: "Numbing out occasionally is fine, but don't make it your only evening mode." },
-      { en: 'pre-commitment', zh: '事先承諾', example: "Pre-commitment helps you follow through on plans even when tired." },
-      { en: 'prediction error', zh: '預測誤差', example: "We make prediction errors about how good social events will feel." },
-      { en: 'aspirational', zh: '充滿抱負的', example: "That aspirational guitar in the corner deserves ten minutes a day." },
-      { en: 'attention span', zh: '注意力廣度', example: "Constant phone use has shortened many people's attention spans." },
-      { en: 'state change', zh: '狀態改變', example: "Changing clothes after work creates a useful state change signal." },
-      { en: 'inhabit', zh: '完全進入（某種狀態）', example: "Clear transitions help you fully inhabit each part of your day." },
-      { en: 'transition', zh: '過渡、轉換', example: "Rituals help mark transitions between work time and personal time." },
-    ],
-  },
-
-  // Day 5
-  {
-    weekNumber: 10, dayOfWeek: 5, date: '2026-03-06',
-    theme: 'Daily Schedules', title: 'Weekends: Rest, Play, and Meaning', phase: 'p1',
-    parts: [
-      {
-        title: 'Part 1 — How We Use the Weekend',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "What's your typical Saturday like? I'm curious how different people actually spend their weekends.", zh: '你典型的週六是什麼樣子？我很好奇不同的人實際上怎麼過他們的週末。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Honestly, most Saturdays I spend the morning recovering from the week — sleeping in, doing errands. Then afternoon I'm usually on my phone or watching something. It flies by.", zh: '說真的，大多數的週六我早上花時間從這週恢復——睡懶覺、跑雜事。然後下午我通常看手機或看一些東西。時間過得很快。', vocab: [{ word: 'errands', def: '雜事、跑腿' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And then Sunday has that looming Sunday evening dread — the weekend is over and work is coming.", zh: '然後週日有那種即將到來的週日晚上恐懼——週末結束了，工作要來了。', vocab: [{ word: 'looming', def: '即將到來的、迫在眉睫的' }, { word: 'dread', def: '恐懼、害怕' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The Sunday Scaries. Every single week.", zh: '週日恐懼症。每週都有。', vocab: [{ word: 'Sunday Scaries', def: '週日恐懼症（週日晚上對下週工作的焦慮）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "The Sunday Scaries often come from a weekend that felt unrestored — you didn't get the rest and play you needed, so you're going into Monday already depleted.", zh: '週日恐懼症通常來自感覺沒有恢復的週末——你沒有得到你需要的休息和玩樂，所以你進入週一時已經精力耗盡。', vocab: [{ word: 'depleted', def: '精力耗盡的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So the cure for Sunday Scaries is actually a better Saturday?", zh: '所以週日恐懼症的解藥實際上是一個更好的週六？' },
-          { speaker: 'a', speakerName: 'Mira', en: "And a better relationship with rest. Many people feel guilty relaxing — as if they should always be producing something.", zh: '還有與休息更好的關係。很多人放鬆時感到內疚——好像他們應該一直在生產什麼東西。', vocab: [{ word: 'producing', def: '生產、產出' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Rest guilt is real. I can't sit still without feeling like I should be doing something.", zh: '休息內疚是真實的。我無法靜靜地坐著而不感覺我應該做些什麼。', vocab: [{ word: 'sit still', def: '靜靜地坐著' }] },
-        ],
-      },
-      {
-        title: 'Part 2 — The Science of Rest',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "Rest isn't just the absence of work. Active rest — doing something enjoyable and non-stressful — is more restorative than just doing nothing.", zh: '休息不只是沒有工作。主動休息——做一些愉快且無壓力的事情——比什麼都不做更有恢復效果。', vocab: [{ word: 'active rest', def: '主動休息' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So a walk in the park is more restoring than lying on the couch?", zh: '所以在公園散步比躺在沙發上更能恢復？' },
-          { speaker: 'a', speakerName: 'Mira', en: "For most people, yes. Nature exposure, light movement, and social connection are the three most evidence-based forms of rest.", zh: '對大多數人來說，是的。接觸自然、輕度運動和社交連結是三種最有證據基礎的休息形式。', vocab: [{ word: 'evidence-based', def: '以證據為基礎的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What about sleep? That's the most obvious form of rest.", zh: '那睡眠呢？那是最明顯的休息形式。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Sleep is essential for physical restoration. But you also need psychological detachment from work — the feeling of being truly separate from your professional role.", zh: '睡眠對身體恢復至關重要。但你也需要從工作中的心理脫離——真正與你的職業角色分開的感覺。', vocab: [{ word: 'psychological detachment', def: '心理脫離' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "And checking your work email on Saturday morning is the opposite of psychological detachment.", zh: '而週六早上查看工作郵件是心理脫離的反面。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. Even one glance at work messages keeps part of your brain in work mode all weekend. It's like never fully leaving the office.", zh: '正是。即使只是瞄一眼工作訊息，你的大腦的一部分整個週末都會處於工作模式。就像從來沒有真正離開辦公室一樣。', vocab: [{ word: 'glance', def: '一瞥、快速看一眼' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "No wonder the weekend never feels restorative. I'm at work even when I'm not at work.", zh: '難怪週末從來不感覺恢復性。我即使不在工作也在工作。' },
-        ],
-      },
-      {
-        title: 'Part 3 — Play and Adult Life',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "Something adults consistently undervalue is play. When did you last do something purely for the fun of it — with no goal, no outcome?", zh: '成年人一直低估的一件事是玩耍。你最後一次純粹為了樂趣做某件事是什麼時候——沒有目標，沒有結果？', vocab: [{ word: 'play', def: '玩耍（成人意義：純粹享受的活動）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Hmm. I can't actually think of one. Even my hobbies feel like they should be producing something — fitness results, skills learned.", zh: '嗯。我實際上想不出來。即使我的愛好也感覺應該要產生什麼——健身成果、學到的技能。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's productivity culture infecting leisure. Everything has to have a return on investment, even relaxation.", zh: '那是生產力文化侵入了休閒。一切都必須有投資回報，即使是放鬆。', vocab: [{ word: 'productivity culture', def: '生產力文化' }, { word: 'leisure', def: '休閒' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Hustle culture taught us that anything not building toward a goal is wasted time.", zh: '拼命文化教我們，任何不朝向目標努力的事情都是浪費的時間。', vocab: [{ word: 'hustle culture', def: '拼命文化（崇尚不間斷努力的文化）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And that's deeply wrong. Play without purpose is essential for creativity, emotional regulation, and joy. Children know this instinctively.", zh: '這是非常錯誤的。沒有目的的玩耍對創意、情緒調節和快樂至關重要。孩子們直覺地知道這一點。', vocab: [{ word: 'instinctively', def: '直覺地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I used to play football, build things with Lego, mess around with music — none of it was goal-directed. I was just enjoying the doing.", zh: '我以前踢足球、用樂高建東西、玩音樂——這些都不是以目標為導向的。我只是享受過程本身。', vocab: [{ word: 'goal-directed', def: '以目標為導向的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And those activities were likely the most regenerative things in your life. Adults need unstructured play too. It just looks different.", zh: '那些活動可能是你生命中最有再生力的事情。成年人也需要非結構化的玩耍。只是看起來不同。', vocab: [{ word: 'unstructured', def: '非結構化的、沒有固定形式的' }] },
-        ],
-      },
-      {
-        title: 'Part 4 — Weekend Intentions',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "Do you plan your weekends, or do you prefer to leave them open?", zh: '你計劃你的週末，還是你更喜歡讓它保持開放？' },
-          { speaker: 'a', speakerName: 'Mira', en: "A middle ground. I have loose intentions — 'this weekend I want to go somewhere new, cook something from a recipe book, and have a long phone call with my sister' — but no rigid schedule.", zh: '一個中間地帶。我有鬆散的意圖——「這個週末我想去一個新地方，從食譜書做一些東西，和我姐姐打一個長電話」——但沒有嚴格的時程。', vocab: [{ word: 'loose intentions', def: '鬆散的意圖、輕鬆的計劃' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Intentions versus a schedule. Enough direction to give the weekend meaning, but flexible enough to let it breathe.", zh: '意圖對比時程表。足夠的方向讓週末有意義，但足夠靈活讓它有空間。', vocab: [{ word: 'breathe', def: '呼吸（比喻有空間、不受束縛）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "If you have no intentions, the weekend defaults to the path of least resistance — which is usually screens and errands.", zh: '如果你沒有意圖，週末就會默認走阻力最小的路——通常是螢幕和雜事。', vocab: [{ word: 'path of least resistance', def: '最小阻力的路、最容易的方式' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So set a few loose intentions on Friday evening, then let Saturday and Sunday unfold from there.", zh: '所以週五晚上設定幾個鬆散的意圖，然後讓週六和週日從那裡展開。', vocab: [{ word: 'unfold', def: '展開、逐漸發展' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. And protect at least one thing that's just for you — not errands, not social obligations. Something purely restorative.", zh: '正是。而且至少保護一件純粹屬於你的事情——不是雜事，不是社交義務。純粹恢復性的東西。', vocab: [{ word: 'social obligations', def: '社交義務' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The non-negotiable rest block. Mine might be Sunday morning with coffee and no phone.", zh: '不可商量的休息時段。我的可能是週日早上帶著咖啡不看手機。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's a beautiful thing to protect. Sunday morning coffee, just for you. Guard it fiercely.", zh: '這是值得保護的美好事物。週日早上的咖啡，只屬於你的。認真守護它。', vocab: [{ word: 'fiercely', def: '激烈地、猛烈地' }] },
-        ],
-      },
-      {
-        title: 'Part 5 — Monday Mindset',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "There's a practice some people use — a Sunday evening review where they reflect on the past week and set gentle intentions for the next.", zh: '有些人使用一種做法——週日晚上的回顧，他們反思過去的一週並為下一週設定溫和的意圖。', vocab: [{ word: 'review', def: '回顧、檢討' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That sounds like the opposite of the Sunday Scaries. Instead of dreading Monday, you're approaching it with intention.", zh: '那聽起來像是週日恐懼症的反面。不是恐懼週一，你是帶著意圖接近它。', vocab: [{ word: 'approaching', def: '接近、以某種態度面對' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. The Sunday Scaries come from feeling passive — like Monday is happening to you. Setting intentions makes you feel like the author of your week.", zh: '正是。週日恐懼症來自感覺被動——就像週一是發生在你身上的事情。設定意圖讓你感覺像是你這週的作者。', vocab: [{ word: 'author', def: '作者（比喻掌控自己的生活）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The author vs the reader of your own life. I love that distinction.", zh: '你自己生活的作者對比讀者。我喜歡這個區別。' },
-          { speaker: 'a', speakerName: 'Mira', en: "And the review part — what went well, what didn't — builds self-knowledge over time. You start to see patterns in your good days and bad days.", zh: '而回顧部分——什麼進行得好、什麼沒有——隨著時間積累自我認識。你開始看到你好的一天和不好的一天的模式。', vocab: [{ word: 'self-knowledge', def: '自我認識' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I've never reflected systematically on my weeks. Things just happen and I react.", zh: '我從來沒有系統性地反思我的一週。事情就是發生了，我就反應。', vocab: [{ word: 'systematically', def: '系統性地' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Even ten minutes of Sunday reflection can shift you from reactive to intentional. It's a small but powerful habit.", zh: '即使只有十分鐘的週日反思也可以讓你從被動轉為有意圖。這是一個小但有力的習慣。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Ten minutes between the last episode and sleep. That's all it takes?", zh: '在最後一集和睡覺之間的十分鐘。就這些？' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's all. You don't need a journal or a system. Just ten minutes of honest attention to your own life.", zh: '就這些。你不需要日記或系統。只需要十分鐘認真地關注你自己的生活。' },
-        ],
-      },
-    ],
-    keyPhrases: [
-      { en: 'Sunday Scaries', zh: '週日恐懼症', example: "The Sunday Scaries often signal that the weekend wasn't restorative enough." },
-      { en: 'active rest', zh: '主動休息', example: "Active rest like walking or cooking is more restorative than passive scrolling." },
-      { en: 'psychological detachment', zh: '心理脫離', example: "Checking work email on weekends prevents psychological detachment." },
-      { en: 'hustle culture', zh: '拼命文化', example: "Hustle culture frames non-productive time as wasted time." },
-      { en: 'unstructured play', zh: '非結構化的玩耍', example: "Adults need unstructured play just as much as children do." },
-      { en: 'path of least resistance', zh: '最小阻力的路', example: "Without intentions, weekends default to the path of least resistance." },
-      { en: 'loose intentions', zh: '鬆散的意圖', example: "Set loose intentions for the weekend instead of a rigid schedule." },
-      { en: 'self-knowledge', zh: '自我認識', example: "Weekly reflection builds self-knowledge about your patterns and habits." },
-      { en: 'author of your life', zh: '你生活的作者', example: "Setting intentions makes you the author of your week, not just the reader." },
-      { en: 'fiercely', zh: '激烈地、猛烈地', example: "Guard your restorative time fiercely — no one else will protect it for you." },
-    ],
-  },
-
-  // Day 6
-  {
-    weekNumber: 10, dayOfWeek: 6, date: '2026-03-07',
-    theme: 'Daily Schedules', title: 'Slow Living and Doing Less', phase: 'p1',
-    parts: [
-      {
-        title: 'Part 1 — The Case for Slow Living',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "I keep hearing about this concept of 'slow living'. What is it actually?", zh: '我一直聽到「慢活」這個概念。它實際上是什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: "It's a cultural movement that values doing things at a more deliberate, unhurried pace — resisting the pressure to always be busy or optimizing.", zh: '這是一個文化運動，重視以更刻意、不慌不忙的節奏做事——抵抗總是忙碌或優化的壓力。', vocab: [{ word: 'deliberate', def: '刻意的、深思熟慮的' }, { word: 'unhurried', def: '不慌不忙的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That sounds almost subversive in today's world. We're so conditioned to value speed and efficiency.", zh: '在今天的世界裡，這聽起來幾乎是顛覆性的。我們非常習慣於重視速度和效率。', vocab: [{ word: 'subversive', def: '顛覆性的' }, { word: 'conditioned', def: '被制約的、習慣於的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "It is a kind of counter-cultural stance. The argument is that constant speed costs something — depth of experience, presence, quality of relationships.", zh: '這是一種反文化的立場。論點是持續的速度是有代價的——體驗的深度、臨在感、關係的品質。', vocab: [{ word: 'counter-cultural', def: '反文化的' } ] },
-          { speaker: 'b', speakerName: 'Jamie', en: "We've optimized for quantity of experiences rather than quality of experience.", zh: '我們優化了體驗的數量，而不是體驗的品質。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's a very concise way of putting it. The Instagram version of life — more places visited, more things done — versus actually being somewhere and tasting it.", zh: '這是非常簡潔的說法。Instagram 版本的生活——更多地方參觀、更多事情完成——對比實際在某個地方並品嘗它。', vocab: [{ word: 'concise', def: '簡潔的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "When was the last time you ate a meal slowly with full attention?", zh: '你最後一次慢慢地專注地吃一頓飯是什麼時候？' },
-          { speaker: 'a', speakerName: 'Mira', en: "...I had to think about that. Which I think proves your point.", zh: '……我必須想一想。我認為這證明了你的觀點。' },
-        ],
-      },
-      {
-        title: 'Part 2 — Doing Less, Better',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "There's a philosophy called essentialism — the idea that you should ruthlessly eliminate the non-essential so you can do fewer things with greater quality.", zh: '有一種叫做本質主義的哲學——你應該無情地消除非本質的事物，這樣你就可以以更高品質做更少的事情。', vocab: [{ word: 'essentialism', def: '本質主義（優先做最重要事物的哲學）' }, { word: 'ruthlessly', def: '無情地、毫不留情地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That feels countercultural too. Most people try to add more and more.", zh: '這也感覺是反文化的。大多數人嘗試越加越多。' },
-          { speaker: 'a', speakerName: 'Mira', en: "The essentialist argues that saying no to almost everything is what makes the few things you do say yes to truly excellent.", zh: '本質主義者認為，對幾乎所有事情說不，才是讓你確實說好的那少數事情變得真正卓越的原因。', vocab: [{ word: 'essentialist', def: '本質主義者' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Steve Jobs did this — he narrowed Apple's product line radically and it led to much better products.", zh: '史蒂夫・賈伯斯就是這樣做的——他大幅縮減了蘋果的產品線，這帶來了更好的產品。', vocab: [{ word: 'radically', def: '根本上地、大幅地' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "The personal equivalent is simplifying your commitments. Fewer obligations means more energy for each one.", zh: '個人層面的等價物是簡化你的承諾。更少的義務意味著對每一個都有更多的能量。', vocab: [{ word: 'commitments', def: '承諾、責任' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "But there's social pressure to be involved in many things — to seem busy and important.", zh: '但有社交壓力要參與很多事情——看起來忙碌和重要。', vocab: [{ word: 'involved', def: '參與的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Busyness as status symbol. If you're not busy, you must not be valuable — which is a damaging belief.", zh: '忙碌作為地位象徵。如果你不忙，你一定不有價值——這是一個有害的信念。', vocab: [{ word: 'status symbol', def: '地位象徵' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I've been busy as a way of feeling important. That's uncomfortable to admit.", zh: '我一直把忙碌作為感覺重要的方式。承認這一點很不舒服。', vocab: [{ word: 'uncomfortable', def: '不舒服的、讓人不安的' }] },
-        ],
-      },
-      {
-        title: 'Part 3 — Digital Minimalism',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "Slow living and digital life seem to be in conflict. How do you reconcile them?", zh: '慢活和數位生活似乎是衝突的。你怎麼調和它們？', vocab: [{ word: 'reconcile', def: '調和、使和諧' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "There's a concept called digital minimalism — using technology intentionally rather than habitually. You choose which tools to use and how much, instead of defaulting to maximum engagement.", zh: '有一個叫做數位極簡主義的概念——有意識地而不是習慣性地使用技術。你選擇使用哪些工具以及多少，而不是默認為最大參與。', vocab: [{ word: 'digital minimalism', def: '數位極簡主義' }, { word: 'habitually', def: '習慣性地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What does that look like practically?", zh: '實際上是什麼樣子？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Auditing your apps and deleting anything that doesn't add clear value. Turning off all notifications except truly necessary ones. Designating phone-free times.", zh: '審核你的 App 並刪除任何沒有明確價值的。關閉所有通知，除了真正必要的。指定無手機時間。', vocab: [{ word: 'auditing', def: '審核、審計' }, { word: 'designating', def: '指定' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I have forty-seven apps on my phone. Forty-seven. I can't name them all.", zh: '我手機上有四十七個 App。四十七個。我無法說出它們全部的名字。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's a common pattern. Each app was added for a reason, but together they create a constant pull for attention.", zh: '這是常見的模式。每個 App 都是有原因添加的，但合在一起它們創造了對注意力的持續吸引。', vocab: [{ word: 'pull for attention', def: '對注意力的吸引' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The aggregated distraction. Each is small but together they add up to hours.", zh: '累積的分心。每個都很小，但加在一起就是幾個小時。', vocab: [{ word: 'aggregated', def: '累積的、彙總的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "What would you gain back if you deleted the bottom thirty apps — the ones you never really use intentionally?", zh: '如果你刪除了底部的三十個 App——那些你從來沒有真正有意識地使用的——你會重新獲得什麼？' },
-        ],
-      },
-      {
-        title: 'Part 4 — Boredom as a Resource',
-        lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "There's one thing slow living brings back that we've almost eliminated — boredom. And I think boredom is underrated.", zh: '慢活帶回了一件我們幾乎消除的事情——無聊。我認為無聊被低估了。', vocab: [{ word: 'underrated', def: '被低估的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Boredom as a good thing? I thought we were supposed to be engaged all the time.", zh: '無聊作為一件好事？我以為我們應該一直都很投入。' },
-          { speaker: 'a', speakerName: 'Mira', en: "That's exactly the problem. Constant engagement eliminates the mind-wandering state — which is where creativity, insight, and self-reflection actually happen.", zh: '這正是問題所在。持續的投入消除了心智漫遊狀態——那是創意、洞察力和自我反思實際發生的地方。', vocab: [{ word: 'mind-wandering', def: '心智漫遊（思維自由遊走的狀態）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "You know those great ideas you get in the shower? That's the default mode network — it activates when you're not focused on a task.", zh: '你知道你在淋浴時想到的那些好主意嗎？那是預設模式網絡——當你沒有專注於任務時它就會激活。', vocab: [{ word: 'default mode network', def: '預設模式網絡（大腦休息時活躍的神經網絡）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. By filling every spare moment with our phones, we've eliminated those creative idle states.", zh: '正是。通過用手機填滿每一個空閒時刻，我們消除了那些創意的閒置狀態。', vocab: [{ word: 'idle', def: '閒置的、不活動的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "So being bored on public transport — instead of scrolling — is actually generative time.", zh: '所以在公共交通上無聊——而不是滑手機——實際上是有產生性的時間。', vocab: [{ word: 'generative', def: '有產生性的、能產生創意的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Some of my best thinking has happened on the MRT, staring out the window. The key is not to fill the gap immediately.", zh: '我的一些最好的思考是在捷運上盯著窗外時發生的。關鍵是不要立即填補那個空白。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Sitting with the discomfort of not being stimulated long enough for something interesting to emerge.", zh: '坐在沒有被刺激的不舒服中，足夠長到讓有趣的東西浮現。', vocab: [{ word: 'stimulated', def: '被刺激的、被激發的' } ] },
-        ],
-      },
-      {
-        title: 'Part 5 — A Slower Day',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "If you were to design a genuinely slow Saturday — one that embodied all of this — what would it look like?", zh: '如果你要設計一個真正慢活的週六——體現所有這些的一天——它會是什麼樣子？', vocab: [{ word: 'embodied', def: '體現的、具體化的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Wake up without an alarm. Make tea. Sit by the window watching the light change. No phone for the first hour.", zh: '不用鬧鐘醒來。泡茶。坐在窗邊看著光線變化。第一個小時不看手機。', vocab: [{ word: 'the light change', def: '光線的變化' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That sounds luxurious but also a little scary. What would I do with my mind for an hour?", zh: '這聽起來很奢華，但也有點嚇人。我的思緒在一個小時內會做什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: "It wanders. And from that wandering comes noticing — what you're looking forward to, what's been weighing on you, ideas that need space to form.", zh: '它會漫遊。從那個漫遊中浮現出注意到的事情——你期待什麼、什麼一直讓你感到沉重、需要空間成形的想法。', vocab: [{ word: 'weighing on', def: '壓迫、讓人感到沉重' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "I'm going to try this tomorrow morning. One hour, no phone, tea, window.", zh: '我明天早上要試試這個。一個小時、不看手機、茶、窗戶。' },
-          { speaker: 'a', speakerName: 'Mira', en: "The first five minutes will feel boring. The next ten will feel restless. Then something shifts.", zh: '最初五分鐘會感到無聊。接下來的十分鐘會感到焦躁。然後某件事會改變。', vocab: [{ word: 'restless', def: '焦躁的、坐立不安的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What shifts?", zh: '什麼會改變？' },
-          { speaker: 'a', speakerName: 'Mira', en: "You start being present. Really present — not waiting for the next input, just existing in the moment. Most people rarely experience that anymore.", zh: '你開始臨在。真正地臨在——不是等待下一個輸入，只是活在當下。大多數人現在很少體驗到這一點。', vocab: [{ word: 'present', def: '臨在的、活在當下的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Being present. The most human thing we've forgotten how to do.", zh: '臨在。我們忘記如何做的最人性化的事情。' },
-        ],
-      },
-    ],
-    keyPhrases: [
-      { en: 'slow living', zh: '慢活', example: "Slow living means resisting the pressure to always be busy or optimizing." },
-      { en: 'essentialism', zh: '本質主義', example: "Essentialism means doing fewer things but doing them with full quality." },
-      { en: 'digital minimalism', zh: '數位極簡主義', example: "Digital minimalism means using technology intentionally, not habitually." },
-      { en: 'busyness as status symbol', zh: '忙碌作為地位象徵', example: "Question the idea of busyness as a status symbol in your culture." },
-      { en: 'mind-wandering', zh: '心智漫遊', example: "Mind-wandering is essential for creativity and self-reflection." },
-      { en: 'default mode network', zh: '預設模式網絡', example: "The default mode network activates during boredom and generates insight." },
-      { en: 'generative', zh: '有產生性的', example: "Boredom on the commute can be generative if you resist filling it." },
-      { en: 'deliberate', zh: '刻意的、深思熟慮的', example: "Live deliberately — choose what you do, rather than defaulting." },
-      { en: 'present', zh: '臨在的、活在當下的', example: "Being truly present is something most people rarely experience anymore." },
-      { en: 'weighing on', zh: '讓人感到沉重', example: "Slow mornings give space to notice what's been weighing on you." },
-    ],
-  },
-
-  // Day 7
-  {
-    weekNumber: 10, dayOfWeek: 7, date: '2026-03-08',
-    theme: 'Daily Schedules', title: "Women's Time: Invisible Labor and Reclaiming Your Hours",
+    weekNumber: 10,
+    dayOfWeek: 1,
+    date: '2026-03-02',
+    theme: 'Daily Schedules',
+    title: 'My Week: Talking About Time and Schedules',
     phase: 'p1',
     parts: [
       {
-        title: "Part 1 — International Women's Day",
+        title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "Happy International Women's Day, Mira. It's March eighth — is this a day you feel strongly about?", zh: '國際婦女節快樂，Mira。今天是三月八號——這是一個你有強烈感受的日子嗎？', vocab: [{ word: "International Women's Day", def: '國際婦女節（3月8日）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "I do. Not in a performative way — I'm genuinely interested in the social and structural issues that still shape women's daily lives.", zh: '有的。不是表演式的——我真的對仍然塑造女性日常生活的社會和結構問題很感興趣。', vocab: [{ word: 'performative', def: '表演式的、流於形式的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "What's the issue you think about most?", zh: '你最常想到的問題是什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Time, honestly. Women on average have significantly less leisure time than men — globally. Not because they work less, but because of invisible labor.", zh: '時間，說真的。全球平均來說，女性的休閒時間比男性少得多。不是因為她們工作更少，而是因為隱形勞動。', vocab: [{ word: 'invisible labor', def: '隱形勞動' }, { word: 'leisure time', def: '休閒時間' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Invisible labor — meaning housework, childcare, emotional labor?", zh: '隱形勞動——意思是家務、育兒、情緒勞動？', vocab: [{ word: 'emotional labor', def: '情緒勞動' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "All of those. Plus the mental load — remembering appointments, tracking household needs, managing social calendars. The invisible management of a life or a household.", zh: '所有這些。加上心理負荷——記住約會、追蹤家庭需求、管理社交日曆。對生活或家庭的隱形管理。', vocab: [{ word: 'mental load', def: '心理負荷（管理家庭和生活的認知負擔）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "That's often invisible because it never shows up on a to-do list — it lives in someone's head.", zh: '這通常是隱形的，因為它從不出現在待辦清單上——它住在某人的腦子裡。' },
-          { speaker: 'a', speakerName: 'Mira', en: "And when that person is always female in a household, it creates a systematic time deficit that compounds over years.", zh: '當那個人在家庭中總是女性時，它就創造了一個多年來累積的系統性時間赤字。', vocab: [{ word: 'systematic', def: '系統性的' }, { word: 'deficit', def: '赤字、不足' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If "My Week: Talking About Time and Schedules" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「My Week: Talking About Time and Schedules」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My mind goes to time schedules first, because that is where "My Week: Talking About Time and Schedules" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「time schedules」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'time schedules', def: '和「time schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It often happens in a plain everyday scene. daily schedules becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily schedules」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Right, and that is probably why "Daily Schedules" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. What matters to me is that "My Week: Talking About Time and Schedules" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What do you think makes "My Week: Talking About Time and Schedules" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually they want a clear before-and-after story, but "My Week: Talking About Time and Schedules" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
         ],
       },
       {
-        title: 'Part 2 — The Mental Load',
+        title: 'Part 2 — A Concrete Situation',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "I'll be honest — as a man, I haven't always noticed the mental load imbalance. What does it actually look like day to day?", zh: '我說實話——身為一個男人，我並不總是注意到心理負荷的不平衡。它在日常生活中實際上是什麼樣子？', vocab: [{ word: 'imbalance', def: '不平衡' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Imagine someone who, while working full-time, is also: tracking when the doctor needs to be called, planning meals for the week, remembering a friend's birthday is coming, noticing the household supplies are running low.", zh: '想像一個全職工作的人，同時還在：追蹤何時需要打電話給醫生、計劃一週的餐點、記住朋友的生日快到了、注意到家用品快用完了。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "And all of that background processing happens while also doing a job.", zh: '而所有這些後台處理都在同時做一份工作的情況下發生。', vocab: [{ word: 'background processing', def: '後台處理（比喻在背景中持續運行的認知負擔）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Constantly. And it rarely gets acknowledged because it's invisible — the work of thinking about work, not just doing it.", zh: '持續不斷地。而且它很少得到承認，因為它是隱形的——思考工作的工作，而不只是做工作。', vocab: [{ word: 'acknowledged', def: '被承認、被認可' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "How do you address this in a relationship? It's hard to divide something that isn't visible.", zh: '你在一段關係中怎麼處理這個問題？很難分配一個看不見的東西。', vocab: [{ word: 'divide', def: '分配、分擔' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "The first step is making it visible. Having an explicit conversation about what's being managed, who manages it, and whether that distribution feels fair.", zh: '第一步是讓它可見。進行一次明確的對話，說明正在管理什麼、誰在管理，以及這種分配是否感覺公平。', vocab: [{ word: 'explicit', def: '明確的' }, { word: 'distribution', def: '分配' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Most couples never have that conversation. It's assumed, not discussed.", zh: '大多數伴侶從來沒有那種對話。它被假設，而不是討論。' },
-          { speaker: 'a', speakerName: 'Mira', en: "And the assumed distribution usually follows gender defaults from how people were raised, which may not fit their actual lives or values.", zh: '而假設的分配通常遵循人們被撫養的性別默認，這可能不符合他們實際的生活或價值觀。', vocab: [{ word: 'gender defaults', def: '性別預設' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'My understanding of "My Week: Talking About Time and Schedules" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The situation centered on daily pattern. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I can see that. small decision tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is the useful part for me. When small decision is woven into ordinary routines, "My Week: Talking About Time and Schedules" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'So the lesson was not just about insight. It was about building a version of "My Week: Talking About Time and Schedules" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
       {
-        title: 'Part 3 — Time Poverty',
+        title: 'Part 3 — Friction Beneath the Surface',
         lines: [
-          { speaker: 'a', speakerName: 'Mira', en: "There's a term for this — 'time poverty'. Having insufficient time for rest, leisure, and self-care despite working hard. Women disproportionately experience this.", zh: '這有個術語——「時間貧窮」。儘管努力工作，仍沒有足夠的時間休息、休閒和自我照顧。女性不成比例地經歷這種情況。', vocab: [{ word: 'time poverty', def: '時間貧窮' }, { word: 'disproportionately', def: '不成比例地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Time poverty. I've never heard it framed that way, but it makes sense — time is a resource, and some people have less of it through no fault of their own.", zh: '時間貧窮。我以前從未聽過這樣的框架，但它有道理——時間是一種資源，有些人並非因為自己的過錯而擁有更少的時間。', vocab: [{ word: 'no fault of their own', def: '並非自身的錯誤' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And it's not just about individual relationships — it's structural. Parental leave policies, childcare costs, who is expected to care for elderly parents — all of these determine whose time is free and whose isn't.", zh: '而且不只是關於個人關係——這是結構性的。育兒假政策、托兒費用、誰被期望照顧年邁父母——這些都決定了誰的時間是自由的，誰的不是。', vocab: [{ word: 'parental leave', def: '育兒假' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "The systems were designed — intentionally or not — for people who had someone else managing the domestic side.", zh: '這些系統是為有人管理家庭事務的人設計的——無論是否有意。', vocab: [{ word: 'domestic', def: '家庭的、家務的' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And those people have historically been women. The 'ideal worker' in most corporate models is someone without caregiving responsibilities.", zh: '而那些人在歷史上一直是女性。大多數企業模型中的「理想員工」是沒有照顧責任的人。', vocab: [{ word: 'caregiving', def: '照顧（老人、兒童等）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Which excludes a significant portion of the actual workforce.", zh: '這排除了實際勞動力的很大一部分。' },
-          { speaker: 'a', speakerName: 'Mira', en: "And disproportionately disadvantages women, especially mothers. Remote work and flexible hours are partially closing this gap.", zh: '並且不成比例地對女性，尤其是母親造成不利。遠端工作和彈性工時在一定程度上縮小了這一差距。', vocab: [{ word: 'closing the gap', def: '縮小差距' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What feels hardest about "My Week: Talking About Time and Schedules" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, quiet pressure is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is why I take it seriously. The inner tension around "My Week: Talking About Time and Schedules" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
         ],
       },
       {
-        title: 'Part 4 — Reclaiming Time',
+        title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "What do you think women — or anyone in a time-poor situation — can do to reclaim some of that time?", zh: '你認為女性——或任何處於時間貧窮情況的人——可以做什麼來奪回一些那段時間？' },
-          { speaker: 'a', speakerName: 'Mira', en: "At the personal level: making the invisible visible and negotiating a fairer distribution. Permission to let some things be imperfect — the house doesn't have to be spotless.", zh: '在個人層面：讓隱形的事物可見並協商更公平的分配。允許一些事情是不完美的——房子不必一塵不染。', vocab: [{ word: 'spotless', def: '一塵不染的、完美的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Lowering the invisible standards that only some people are held to.", zh: '降低只有某些人被要求達到的隱形標準。', vocab: [{ word: 'held to', def: '被要求達到' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Right. And protecting leisure time as a non-negotiable — not something that happens if there's time left over, because there never is.", zh: '對。並且把休閒時間保護為不可商量的事——而不是如果還有剩餘時間就發生的事情，因為從來不會有。', vocab: [{ word: 'left over', def: '剩餘的、剩下的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Scheduling rest rather than waiting for it to appear organically.", zh: '安排休息，而不是等待它自然出現。', vocab: [{ word: 'organically', def: '自然地、有機地' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "And at a systemic level — advocating for policies like paid parental leave for both parents, accessible childcare, and flexible work arrangements.", zh: '而在系統層面——倡導諸如雙方有薪育兒假、可及的托兒服務和彈性工作安排等政策。', vocab: [{ word: 'systemic', def: '系統性的' }, { word: 'advocating for', def: '倡導、支持' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "These aren't just 'women's issues' — they affect everyone who has caregiving responsibilities.", zh: '這些不只是「女性問題」——它們影響所有有照顧責任的人。' },
-          { speaker: 'a', speakerName: 'Mira', en: "Exactly. That's why the framing matters — it's about time equity for everyone, not just for women.", zh: '正是。這就是為什麼框架很重要——它是關於每個人的時間公平，而不只是對女性。', vocab: [{ word: 'equity', def: '公平、公正' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'The most useful shift for me has been practical. I try to build "My Week: Talking About Time and Schedules" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the smallest reliable action in your version of "My Week: Talking About Time and Schedules"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I start with honest reset. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, steady rhythm is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
       {
-        title: "Part 5 — What We Can Each Do",
+        title: 'Part 5 — Common Misreadings',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: "As a man, what would you say is the most meaningful thing I could do differently in my daily life?", zh: '作為一個男人，你說我在日常生活中可以做的最有意義的不同之處是什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: "Notice. Genuinely notice what's being managed around you and who's doing it. Most of the time, invisible labor stays invisible simply because people don't look.", zh: '注意。真正地注意你周圍正在被管理的事情以及誰在做。大多數時候，隱形勞動之所以保持隱形，只是因為人們沒有去看。', vocab: [{ word: 'genuinely', def: '真正地、誠實地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "And then act on what you notice — not wait to be asked.", zh: '然後根據你注意到的採取行動——而不是等待被要求。' },
-          { speaker: 'a', speakerName: 'Mira', en: "The ask itself is part of the labor. If someone has to manage what you do on top of doing it themselves, the imbalance continues even with the best intentions.", zh: '詢問本身就是勞動的一部分。如果有人在自己做事的同時還必須管理你做什麼，那麼即使有最好的意圖，不平衡也會繼續。', vocab: [{ word: 'imbalance', def: '不平衡' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: "Don't wait to be managed. Observe, take ownership, act.", zh: '不要等待被管理。觀察、主動承擔、行動。', vocab: [{ word: 'take ownership', def: '主動承擔責任' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "That's it. At every level — in households, workplaces, and policy — asking who has time, who doesn't, and why, is one of the most important questions we can ask.", zh: '就是這樣。在每個層面——在家庭、職場和政策中——問誰有時間、誰沒有、為什麼，是我們可以問的最重要問題之一。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Time as a lens for equity. I hadn't thought of it that way before.", zh: '時間作為公平的鏡頭。我以前從沒這樣想過。', vocab: [{ word: 'lens', def: '鏡頭、視角' }] },
-          { speaker: 'a', speakerName: 'Mira', en: "Happy International Women's Day. May everyone have enough time to rest, grow, and do what matters to them.", zh: '國際婦女節快樂。願每個人都有足夠的時間休息、成長，並做對他們重要的事情。' },
-          { speaker: 'b', speakerName: 'Jamie', en: "Beautifully said. Happy Women's Day, Mira.", zh: '說得很美。婦女節快樂，Mira。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the myth that quietly distorts this whole conversation every time "My Week: Talking About Time and Schedules" comes up?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'A common mistake is treating "My Week: Talking About Time and Schedules" as if it should feel clean and obvious once you care enough. In reality, it usually stays complicated for a while.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What keeps that misunderstanding alive? I wonder if it is partly cultural and partly emotional, because simple narratives are so appealing.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Partly because the myth is emotionally convenient. It lets people confuse intention with embodiment, and that confusion can feel reassuring for a while.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'So what would a healthier standard look like? If we removed the myth, what would you want people to expect instead?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The better standard is durability. If "My Week: Talking About Time and Schedules" can remain visible when life is inconvenient, then I trust it much more.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What advice would you give a beginner who thinks the lack of instant progress means they are doing "My Week: Talking About Time and Schedules" badly?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would tell them that slowness is not proof of failure. Often it is simply proof that they have reached the part of the process that is real enough to teach them.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
         ],
       },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What stays with me most about "My Week: Talking About Time and Schedules" is that it keeps asking who I am when no one is watching and nothing dramatic is happening.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Would you say this topic feels settled for you now, or is it something you expect to keep learning from for a long time?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It is unfinished in a healthy way. I feel more grounded than before, yet the topic keeps showing me subtler versions of the same lesson.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. If I stay close to real trade-off, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I think that is the real takeaway. "My Week: Talking About Time and Schedules" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「My Week: Talking About Time and Schedules」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
     ],
     keyPhrases: [
-      { en: 'invisible labor', zh: '隱形勞動', example: "Invisible labor includes housework, childcare, and emotional management." },
-      { en: 'mental load', zh: '心理負荷', example: "The mental load is the unseen work of thinking about and managing a household." },
-      { en: 'time poverty', zh: '時間貧窮', example: "Time poverty disproportionately affects women globally." },
-      { en: 'disproportionately', zh: '不成比例地', example: "Caregiving responsibilities still fall disproportionately on women." },
-      { en: 'gender defaults', zh: '性別預設', example: "Many household dynamics follow gender defaults from childhood." },
-      { en: 'take ownership', zh: '主動承擔責任', example: "Take ownership of tasks without waiting to be asked." },
-      { en: 'closing the gap', zh: '縮小差距', example: "Flexible work policies are slowly closing the time gap." },
-      { en: 'equity', zh: '公平、公正', example: "Time equity means everyone has enough time for rest and growth." },
-      { en: 'advocating for', zh: '倡導', example: "Advocating for paid parental leave benefits all working parents." },
-      { en: 'lens', zh: '視角、鏡頭（比喻）', example: "Time is a useful lens for seeing inequality in everyday life." },
+      { en: 'time schedules', zh: 'time schedules 相關表達', example: 'In My Week: Talking About Time and Schedules, time schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In My Week: Talking About Time and Schedules, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In My Week: Talking About Time and Schedules, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In My Week: Talking About Time and Schedules, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In My Week: Talking About Time and Schedules, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In My Week: Talking About Time and Schedules, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In My Week: Talking About Time and Schedules, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In My Week: Talking About Time and Schedules, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
     ],
   },
+  {
+    weekNumber: 10,
+    dayOfWeek: 2,
+    date: '2026-03-03',
+    theme: 'Daily Schedules',
+    title: 'The Power of Morning Routines',
+    phase: 'p1',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'When you think about "The Power of Morning Routines", what feels immediately real rather than merely inspirational?', zh: '當你想到「The Power of Morning Routines」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, morning routines is the clearest entry point. It shows how "The Power of Morning Routines" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「morning routines」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'morning routines', def: '和「morning routines」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Where does that part of "The Power of Morning Routines" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually it appears in a very ordinary moment. I notice daily schedules when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily schedules」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I get that. Subjects like "Daily Schedules" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is why this topic stays with me. "The Power of Morning Routines" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Do you think people usually misunderstand "The Power of Morning Routines" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I think people expect a neat turning point, when the truth is that "The Power of Morning Routines" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'I learned a lot about "The Power of Morning Routines" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "The Power of Morning Routines".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It involved daily pattern. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds important, because small decision usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. The shift became real when small decision moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that distinction. It turns "The Power of Morning Routines" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to name the hardest layer of "The Power of Morning Routines", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The hardest part is usually quiet pressure. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When quiet pressure becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Under stress, which old habit usually returns? It sounds like "The Power of Morning Routines" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What helps me now is treating "The Power of Morning Routines" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted to begin today, what would be the first small move that actually makes "The Power of Morning Routines" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually begin with honest reset. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "The Power of Morning Routines" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I watch for steady rhythm. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to name one misleading assumption around "The Power of Morning Routines", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The biggest misunderstanding is expecting "The Power of Morning Routines" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would look for whether the practice survives ordinary life. A healthy version of "The Power of Morning Routines" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What lingers for me is that "The Power of Morning Routines" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Which insight from "The Power of Morning Routines" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is why real trade-off matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels like a strong place to end. "The Power of Morning Routines" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「The Power of Morning Routines」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'morning routines', zh: 'morning routines 相關表達', example: 'In The Power of Morning Routines, morning routines matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In The Power of Morning Routines, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In The Power of Morning Routines, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In The Power of Morning Routines, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In The Power of Morning Routines, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In The Power of Morning Routines, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In The Power of Morning Routines, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In The Power of Morning Routines, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  },
+  {
+    weekNumber: 10,
+    dayOfWeek: 3,
+    date: '2026-03-04',
+    theme: 'Daily Schedules',
+    title: 'Managing Time at Work',
+    phase: 'p1',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'When "Managing Time at Work" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Managing Time at Work」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually begin with time work, because that is where "Managing Time at Work" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「time work」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'time work', def: '和「time work」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'In what situation do you feel time work most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me it shows up in small moments rather than dramatic ones. daily schedules starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily schedules」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense, because themes like "Daily Schedules" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is why "Managing Time at Work" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why do you think people often misjudge "Managing Time at Work" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Probably both. People often look for a dramatic sign, but a lot of "Managing Time at Work" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Managing Time at Work" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Can you describe the situation a little more? I want to understand what turned "Managing Time at Work" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Managing Time at Work" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'Where does "Managing Time at Work" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How much does that internal pressure spill outward? I am guessing "Managing Time at Work" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Managing Time at Work" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'These days I handle "Managing Time at Work" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'What do people most often get wrong about "Managing Time at Work" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'People often assume "Managing Time at Work" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Managing Time at Work" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Managing Time at Work" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Has "Managing Time at Work" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That lands well for me. The conversation makes "Managing Time at Work" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Managing Time at Work」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'time work', zh: 'time work 相關表達', example: 'In Managing Time at Work, time work matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In Managing Time at Work, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Managing Time at Work, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Managing Time at Work, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Managing Time at Work, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Managing Time at Work, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Managing Time at Work, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Managing Time at Work, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  },
+  {
+    weekNumber: 10,
+    dayOfWeek: 4,
+    date: '2026-03-05',
+    theme: 'Daily Schedules',
+    title: 'After Work: How We Spend Our Evenings',
+    phase: 'p1',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'When "After Work: How We Spend Our Evenings" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「After Work: How We Spend Our Evenings」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually begin with spend evenings, because that is where "After Work: How We Spend Our Evenings" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「spend evenings」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'spend evenings', def: '和「spend evenings」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'In what situation do you feel spend evenings most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me it shows up in small moments rather than dramatic ones. daily schedules starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily schedules」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense, because themes like "Daily Schedules" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is why "After Work: How We Spend Our Evenings" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why do you think people often misjudge "After Work: How We Spend Our Evenings" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Probably both. People often look for a dramatic sign, but a lot of "After Work: How We Spend Our Evenings" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "After Work: How We Spend Our Evenings" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Can you describe the situation a little more? I want to understand what turned "After Work: How We Spend Our Evenings" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "After Work: How We Spend Our Evenings" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'Where does "After Work: How We Spend Our Evenings" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How much does that internal pressure spill outward? I am guessing "After Work: How We Spend Our Evenings" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "After Work: How We Spend Our Evenings" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'These days I handle "After Work: How We Spend Our Evenings" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'What do people most often get wrong about "After Work: How We Spend Our Evenings" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'People often assume "After Work: How We Spend Our Evenings" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "After Work: How We Spend Our Evenings" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "After Work: How We Spend Our Evenings" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Has "After Work: How We Spend Our Evenings" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That lands well for me. The conversation makes "After Work: How We Spend Our Evenings" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「After Work: How We Spend Our Evenings」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'spend evenings', zh: 'spend evenings 相關表達', example: 'In After Work: How We Spend Our Evenings, spend evenings matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In After Work: How We Spend Our Evenings, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In After Work: How We Spend Our Evenings, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In After Work: How We Spend Our Evenings, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In After Work: How We Spend Our Evenings, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In After Work: How We Spend Our Evenings, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In After Work: How We Spend Our Evenings, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In After Work: How We Spend Our Evenings, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  },
+  {
+    weekNumber: 10,
+    dayOfWeek: 5,
+    date: '2026-03-06',
+    theme: 'Daily Schedules',
+    title: 'Weekends: Rest, Play, and Meaning',
+    phase: 'p1',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'When you think about "Weekends: Rest, Play, and Meaning", what feels immediately real rather than merely inspirational?', zh: '當你想到「Weekends: Rest, Play, and Meaning」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, daily schedules is the clearest entry point. It shows how "Weekends: Rest, Play, and Meaning" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「daily schedules」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Where does that part of "Weekends: Rest, Play, and Meaning" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually it appears in a very ordinary moment. I notice weekends rest when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「weekends rest」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'weekends rest', def: '和「weekends rest」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I get that. Subjects like "Daily Schedules" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is why this topic stays with me. "Weekends: Rest, Play, and Meaning" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Do you think people usually misunderstand "Weekends: Rest, Play, and Meaning" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I think people expect a neat turning point, when the truth is that "Weekends: Rest, Play, and Meaning" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'I learned a lot about "Weekends: Rest, Play, and Meaning" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "Weekends: Rest, Play, and Meaning".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It involved play meaning. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「play meaning」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'play meaning', def: '和「play meaning」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds important, because daily pattern usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「daily pattern」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. The shift became real when daily pattern moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「daily pattern」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that distinction. It turns "Weekends: Rest, Play, and Meaning" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to name the hardest layer of "Weekends: Rest, Play, and Meaning", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The hardest part is usually small decision. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「small decision」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When small decision becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Under stress, which old habit usually returns? It sounds like "Weekends: Rest, Play, and Meaning" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What helps me now is treating "Weekends: Rest, Play, and Meaning" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted to begin today, what would be the first small move that actually makes "Weekends: Rest, Play, and Meaning" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually begin with quiet pressure. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「quiet pressure」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "Weekends: Rest, Play, and Meaning" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I watch for honest reset. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「honest reset」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to name one misleading assumption around "Weekends: Rest, Play, and Meaning", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The biggest misunderstanding is expecting "Weekends: Rest, Play, and Meaning" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would look for whether the practice survives ordinary life. A healthy version of "Weekends: Rest, Play, and Meaning" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What lingers for me is that "Weekends: Rest, Play, and Meaning" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Which insight from "Weekends: Rest, Play, and Meaning" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is why steady rhythm matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「steady rhythm」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels like a strong place to end. "Weekends: Rest, Play, and Meaning" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「Weekends: Rest, Play, and Meaning」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In Weekends: Rest, Play, and Meaning, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'weekends rest', zh: 'weekends rest 相關表達', example: 'In Weekends: Rest, Play, and Meaning, weekends rest matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'play meaning', zh: 'play meaning 相關表達', example: 'In Weekends: Rest, Play, and Meaning, play meaning matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Weekends: Rest, Play, and Meaning, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Weekends: Rest, Play, and Meaning, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Weekends: Rest, Play, and Meaning, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Weekends: Rest, Play, and Meaning, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Weekends: Rest, Play, and Meaning, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  },
+  {
+    weekNumber: 10,
+    dayOfWeek: 6,
+    date: '2026-03-07',
+    theme: 'Daily Schedules',
+    title: 'Slow Living and Doing Less',
+    phase: 'p1',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'When you think about "Slow Living and Doing Less", what feels immediately real rather than merely inspirational?', zh: '當你想到「Slow Living and Doing Less」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, doing less is the clearest entry point. It shows how "Slow Living and Doing Less" appears before anyone gives it a polished explanation.', zh: '如果要我從一個入口開始，我會選「doing less」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'doing less', def: '和「doing less」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Where does that part of "Slow Living and Doing Less" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually it appears in a very ordinary moment. I notice daily schedules when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily schedules」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I get that. Subjects like "Daily Schedules" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is why this topic stays with me. "Slow Living and Doing Less" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Do you think people usually misunderstand "Slow Living and Doing Less" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I think people expect a neat turning point, when the truth is that "Slow Living and Doing Less" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'I learned a lot about "Slow Living and Doing Less" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "Slow Living and Doing Less".', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It involved slow living. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '那個時候的核心其實就是「slow living」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'slow living', def: '和「slow living」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds important, because daily pattern usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為像「daily pattern」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. The shift became real when daily pattern moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就是這裡。當「daily pattern」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that distinction. It turns "Slow Living and Doing Less" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to name the hardest layer of "Slow Living and Doing Less", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The hardest part is usually small decision. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常是「small decision」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'When small decision becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Under stress, which old habit usually returns? It sounds like "Slow Living and Doing Less" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What helps me now is treating "Slow Living and Doing Less" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted to begin today, what would be the first small move that actually makes "Slow Living and Doing Less" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I usually begin with quiet pressure. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從「quiet pressure」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "Slow Living and Doing Less" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I watch for honest reset. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看「honest reset」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If you had to name one misleading assumption around "Slow Living and Doing Less", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The biggest misunderstanding is expecting "Slow Living and Doing Less" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would look for whether the practice survives ordinary life. A healthy version of "Slow Living and Doing Less" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What lingers for me is that "Slow Living and Doing Less" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Which insight from "Slow Living and Doing Less" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is why steady rhythm matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到「steady rhythm」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels like a strong place to end. "Slow Living and Doing Less" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓「Slow Living and Doing Less」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 'doing less', zh: 'doing less 相關表達', example: 'In Slow Living and Doing Less, doing less matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In Slow Living and Doing Less, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'slow living', zh: 'slow living 相關表達', example: 'In Slow Living and Doing Less, slow living matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Slow Living and Doing Less, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Slow Living and Doing Less, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Slow Living and Doing Less, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Slow Living and Doing Less, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Slow Living and Doing Less, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  },
+  {
+    weekNumber: 10,
+    dayOfWeek: 7,
+    date: '2026-03-08',
+    theme: 'Daily Schedules',
+    title: 'Women\'s Time: Invisible Labor and Reclaiming Your Hours',
+    phase: 'p1',
+    parts: [
+      {
+        title: 'Part 1 — Opening the Theme',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'If "Women\'s Time: Invisible Labor and Reclaiming Your Hours" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Women\'s Time: Invisible Labor and Reclaiming Your Hours」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My mind goes to s time first, because that is where "Women\'s Time: Invisible Labor and Reclaiming Your Hours" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「s time」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 's time', def: '和「s time」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It often happens in a plain everyday scene. reclaiming hours becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「reclaiming hours」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'reclaiming hours', def: '和「reclaiming hours」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Right, and that is probably why "Daily Schedules" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Daily Schedules」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. What matters to me is that "Women\'s Time: Invisible Labor and Reclaiming Your Hours" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What do you think makes "Women\'s Time: Invisible Labor and Reclaiming Your Hours" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually they want a clear before-and-after story, but "Women\'s Time: Invisible Labor and Reclaiming Your Hours" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+        ],
+      },
+      {
+        title: 'Part 2 — A Concrete Situation',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'My understanding of "Women\'s Time: Invisible Labor and Reclaiming Your Hours" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The situation centered on daily schedules. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「daily schedules」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily schedules', def: '和「daily schedules」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I can see that. women s tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「women s」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'women s', def: '和「women s」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'That is the useful part for me. When women s is woven into ordinary routines, "Women\'s Time: Invisible Labor and Reclaiming Your Hours" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「women s」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'So the lesson was not just about insight. It was about building a version of "Women\'s Time: Invisible Labor and Reclaiming Your Hours" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
+        ],
+      },
+      {
+        title: 'Part 3 — Friction Beneath the Surface',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'What feels hardest about "Women\'s Time: Invisible Labor and Reclaiming Your Hours" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, daily pattern is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「daily pattern」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Yes, and that is why I take it seriously. The inner tension around "Women\'s Time: Invisible Labor and Reclaiming Your Hours" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
+        ],
+      },
+      {
+        title: 'Part 4 — What Helps in Practice',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'The most useful shift for me has been practical. I try to build "Women\'s Time: Invisible Labor and Reclaiming Your Hours" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the smallest reliable action in your version of "Women\'s Time: Invisible Labor and Reclaiming Your Hours"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I start with small decision. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「small decision」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'For me, quiet pressure is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「quiet pressure」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
+        ],
+      },
+      {
+        title: 'Part 5 — Common Misreadings',
+        lines: [
+          { speaker: 'b', speakerName: 'Jamie', en: 'What is the myth that quietly distorts this whole conversation every time "Women\'s Time: Invisible Labor and Reclaiming Your Hours" comes up?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'A common mistake is treating "Women\'s Time: Invisible Labor and Reclaiming Your Hours" as if it should feel clean and obvious once you care enough. In reality, it usually stays complicated for a while.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What keeps that misunderstanding alive? I wonder if it is partly cultural and partly emotional, because simple narratives are so appealing.', zh: '你覺得為什麼這種誤解會一直存在？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Partly because the myth is emotionally convenient. It lets people confuse intention with embodiment, and that confusion can feel reassuring for a while.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'So what would a healthier standard look like? If we removed the myth, what would you want people to expect instead?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The better standard is durability. If "Women\'s Time: Invisible Labor and Reclaiming Your Hours" can remain visible when life is inconvenient, then I trust it much more.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What advice would you give a beginner who thinks the lack of instant progress means they are doing "Women\'s Time: Invisible Labor and Reclaiming Your Hours" badly?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'I would tell them that slowness is not proof of failure. Often it is simply proof that they have reached the part of the process that is real enough to teach them.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
+        ],
+      },
+      {
+        title: 'Part 6 — What You Carry Forward',
+        lines: [
+          { speaker: 'a', speakerName: 'Mira', en: 'What stays with me most about "Women\'s Time: Invisible Labor and Reclaiming Your Hours" is that it keeps asking who I am when no one is watching and nothing dramatic is happening.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Would you say this topic feels settled for you now, or is it something you expect to keep learning from for a long time?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'It is unfinished in a healthy way. I feel more grounded than before, yet the topic keeps showing me subtler versions of the same lesson.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
+          { speaker: 'a', speakerName: 'Mira', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. If I stay close to honest reset, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「honest reset」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I think that is the real takeaway. "Women\'s Time: Invisible Labor and Reclaiming Your Hours" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Women\'s Time: Invisible Labor and Reclaiming Your Hours」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+        ],
+      }
+    ],
+    keyPhrases: [
+      { en: 's time', zh: 's time 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, s time matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'reclaiming hours', zh: 'reclaiming hours 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, reclaiming hours matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily schedules', zh: 'daily schedules 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, daily schedules matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'women s', zh: 'women s 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, women s matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
+      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Women\'s Time: Invisible Labor and Reclaiming Your Hours, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+    ],
+  }
 ]
