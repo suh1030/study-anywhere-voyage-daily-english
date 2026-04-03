@@ -48,7 +48,7 @@ function getWeekPodcast(weekNum: number): string {
 
 export default function ScheduleScreen() {
   const { navigate } = useNav()
-  const { completedDays, toggleDay } = useProgressStore()
+  const { completedDays, toggleDay, sync: syncProgress } = useProgressStore()
   const { user } = useAuthStore()
   const { balance, fetchBalance } = useCreditsStore()
   const [showProfile, setShowProfile] = useState(false)
@@ -87,11 +87,12 @@ export default function ScheduleScreen() {
       if (resetTimerRef.current) clearTimeout(resetTimerRef.current)
       setResetConfirm(false)
       Object.keys(completedDays).forEach((k) => toggleDay(k))
+      syncProgress()
     } else {
       setResetConfirm(true)
       resetTimerRef.current = setTimeout(() => setResetConfirm(false), 3000)
     }
-  }, [resetConfirm, completedDays, toggleDay])
+  }, [resetConfirm, completedDays, toggleDay, syncProgress])
 
   // Build sections grouped by phase
   const sections = useMemo(() => {

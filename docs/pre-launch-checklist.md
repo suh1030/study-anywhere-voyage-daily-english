@@ -33,10 +33,11 @@
 - [ ] 無音檔時 fallback 至系統 TTS，不 crash
 - [ ] 播完一行自動跳下一行
 
-### IAP — RevenueCat Webhook 設定（一次性）
+### IAP — RevenueCat Webhook 設定（一次性）✅
 > RevenueCat Dashboard → Project → Integrations → Webhooks → Add Endpoint
 > - URL：`https://ioosxzbdkscllgesmeqw.supabase.co/functions/v1/credits-webhook`
 > - 將產生的 Authorization Secret 填入 Supabase → Edge Functions → Secrets → `REVENUECAT_WEBHOOK_SECRET`
+> - 已完成（2026-04-03）
 
 ### App Store 硬性需求
 - [ ] Apple Sign In 功能完整可用（Apple 規定：有第三方登入必須提供 Apple Sign In）
@@ -50,10 +51,10 @@
 ### App Store Connect
 - [ ] 截圖準備完成（iPhone 6.7" 至少 3 張，需含真實 UI 畫面）
 - [ ] App 描述、關鍵字填寫完成（參考 `docs/app-store-copy.md`）
-- [ ] Apple 審查測試帳號建立（email + 密碼帳號，餘額 10 credits）
-- [ ] 審查備註填寫（說明 IAP 測試方式、測試帳號）
+- [x] Apple 審查測試帳號建立（`a0925302127@gmail.com`，balance 已設 10 credits，2026-04-03）
+- [x] 審查備註填寫（說明 IAP 測試方式、測試帳號，2026-04-03）
 - [ ] 年齡分級問卷填寫完成
-- [ ] 新 build 已提交（含所有 bug fixes：RevenueCat、ListenScreen、AuthStore）
+- [ ] 新 build 已提交（ListenScreen bug fixes 已完成，待 RevenueCat + Auth 設定完後 build）
 
 ### 內容品質
 - [x] 按接近 10 分鐘的長篇規格重新生成 **全部 365 集**（6 parts、每集 48 行）
@@ -90,3 +91,14 @@
 |------|------|
 | EAS Build 次數限制 | 確認 Expo 免費方案剩餘次數 |
 | Apple Sign In Supabase 設定 | 需在 Supabase Auth → Providers → Apple 填入憑證 |
+
+---
+
+## 工程已完成的修正（2026-04-03）
+
+| 修正項目 | 說明 |
+|--------|------|
+| ListenScreen `player.play()` async 錯誤處理 | 改為 `Promise.resolve().catch()` 以正確捕捉非同步播放錯誤，確保 TTS fallback 可觸發 |
+| ListenScreen 自動跳行過早觸發 | 新增 `hasStartedPlayingRef` 防止音訊尚未開始播放就跳至下一行 |
+| ConversationScreen 送出後鍵盤未收起 | 提交 AI 回饋請求時加入 `Keyboard.dismiss()` |
+| ScheduleScreen 重設進度未同步後端 | 清除進度後立即呼叫 `syncProgress()` |

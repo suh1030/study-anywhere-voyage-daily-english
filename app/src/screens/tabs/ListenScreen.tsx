@@ -86,6 +86,7 @@ export default function ListenScreen() {
   const player = useAudioPlayer(audioUrl ? { uri: audioUrl } : null)
 
   const isPlaying = currentLine >= 0
+  const hasStartedPlayingRef = React.useRef(false)
 
   useEffect(() => {
     const todayKey = getTodayKey()
@@ -130,6 +131,8 @@ export default function ListenScreen() {
     const line = allLines[currentLine]
     if (!line) return
 
+    hasStartedPlayingRef.current = false
+
     const handleSpeechFallback = () => {
       setAudioUrl(null)
       Speech.speak(line.en, {
@@ -146,14 +149,20 @@ export default function ListenScreen() {
     }
 
     if (!player.playing) {
-      player.play().catch(handleSpeechFallback)
+      // player.play() returns a Promise — use .catch() to handle async load errors
+      Promise.resolve(player.play()).catch(handleSpeechFallback)
     }
   }, [audioUrl]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // Auto-advance to next line when MP3 finishes
   useEffect(() => {
     if (!audioUrl || !player || currentLine < 0) return
-    if (!player.playing) {
+    if (player.playing) {
+      // Track that playback actually started
+      hasStartedPlayingRef.current = true
+    } else if (hasStartedPlayingRef.current) {
+      // Only advance after we've confirmed playback started (prevents premature advance)
+      hasStartedPlayingRef.current = false
       if (currentLine < allLines.length - 1) {
         setCurrentLine((c) => c + 1)
       } else {

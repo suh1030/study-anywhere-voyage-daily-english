@@ -2,7 +2,7 @@
 
 這份清單記錄需要你（Savelyn）親自完成的事項，不屬於工程開發範疇。
 
-> 最後更新：2026-03-26（下午）
+> 最後更新：2026-04-03
 
 ---
 
@@ -13,21 +13,24 @@
   - 使用條款：`https://sav-daily-english.netlify.app/terms-of-service.html`
   - 填入 App Store Connect 的 Privacy Policy URL 欄位
 
-- [ ] **Supabase Dashboard → Auth → Providers 設定**
-  - 開啟 Sign in with Apple：需要填入 Services ID + Team ID + Key ID + Private Key
-    - 教學：dashboard → Authentication → Providers → Apple
-  - 開啟 Google Sign In：需要填入 Google OAuth Client ID
-    - 到 console.cloud.google.com 建立 OAuth 2.0 Client
+- [x] **Supabase Dashboard → Auth → Providers 設定**
+  - [x] 開啟 Sign in with Apple：Client ID `com.savelyn.studyanywherevoyage` 已填入（2026-04-03）
+  - [x] 開啟 Google Sign In：Client ID 已填入 Supabase（2026-04-03）
+    - Google Cloud Project: Notch Up（notch-up）
+    - Client ID: `773106577940-eujvlcd2732812aresudsv5n7l9ur6tq.apps.googleusercontent.com`
 
 - [x] **Supabase Edge Functions → Secrets 設定**
   - `ANTHROPIC_API_KEY` — 已設定（2026-03-26）
   - `REVENUECAT_WEBHOOK_SECRET` — 等 RevenueCat 設定完後補上
 
-- [ ] **建立 RevenueCat 帳號**
-  - 網址：revenuecat.com（免費方案）
-  - 在 App Store Connect 建立 In-App Purchase 產品：`sav_credits_10`（Consumable，NT$60）
-  - RevenueCat → 建立 Offering → 綁定剛建立的產品
-  - 取得 iOS Public SDK Key → 填入 `app/.env` 的 `EXPO_PUBLIC_REVENUECAT_API_KEY`
+- [x] **建立 RevenueCat 帳號**（2026-03-26）
+  - [x] 帳號已建立：Project "Study Anywhere Voyage"
+  - [x] Product `sav_credits_10` 已建立（狀態：Missing Metadata，待 App Store Connect IAP 設定完成後自動解決）
+  - [x] Offering `default` 已建立，含 1 package
+  - [x] iOS Public SDK Key 已填入 `app/.env`（`appl_XvsKEBrLeZaKJMQtrknEqrlaVvN`）
+  - [x] **App Store Connect 建立 IAP 產品** `sav_credits_10`（Consumable，NT$60）已完成（2026-04-03）
+    - Apple ID: `6761169888`，供應狀況已設定，本地化完成，截圖已上傳
+  - [x] **Webhook 設定**：RevenueCat → Integrations → Webhooks → 加入 `https://ioosxzbdkscllgesmeqw.supabase.co/functions/v1/credits-webhook` → 將產生的 Secret 填入 Supabase Secrets `REVENUECAT_WEBHOOK_SECRET`（已完成，2026-04-03）
 
 - [x] **建立 Anthropic 帳號並儲值**（2026-03-26）
   - API Key 已設定到 Supabase Secrets
@@ -71,10 +74,10 @@
   - Bundle ID：`com.savelyn.studyanywherevoyage` ✓
   - 待確認：定價 NT$60、年齡分級 4+、隱私政策 URL 是否已在 ASC 填寫
 
-- [ ] **設定 Apple 審核用測試帳號**
-  - 建立一個 email/password 帳號（可用 + 記法，如 `savelyn.siao+review@gmail.com`）
-  - 在 Supabase Dashboard 手動為這個帳號加入 10 點 credits
-  - 在 App Store Connect → App 審查資訊 → 填入帳號/密碼
+- [x] **設定 Apple 審核用測試帳號**（已完成，2026-04-03）
+  - 帳號：`a0925302127@gmail.com` / `asd0925302127`
+  - Supabase credits.balance 已設為 10
+  - 待填入 App Store Connect → App Review Information → Demo Account
 
 ---
 
@@ -83,7 +86,7 @@
 - [x] **Apple Developer Program** — 已購買（savelyn.siao@gmail.com，2026-03-20）
 - [ ] **Google Play Console** — $25 USD 一次性（play.google.com/console）
 - [ ] **Apple Small Business Program（15% 抽成）** — 免費申請（developer.apple.com/app-store/small-business-program）
-- [ ] **Apple Store Connect 銀行資訊 + 稅務資料** — 在 App Store Connect → Agreements, Tax, and Banking
+- [x] **Apple Store Connect 銀行資訊 + 稅務資料** — 已完成（國泰世華，台灣稅務 + W-8BEN，2026-03-26）
 - [ ] **Google Play 銀行資訊 + 稅務資料** — 在 Play Console → Setup → Payments profile
 
 ---

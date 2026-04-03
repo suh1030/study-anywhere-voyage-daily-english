@@ -8,6 +8,7 @@ import {
   TouchableOpacity,
   ActivityIndicator,
   Alert,
+  Keyboard,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
@@ -98,6 +99,7 @@ export default function ConversationScreen() {
       return
     }
 
+    Keyboard.dismiss()
     const result = await requestFeedback(question.question, answer)
     if ('feedback' in result) {
       setFeedback(result.feedback)
