@@ -14,6 +14,7 @@ import { useAudioRecorder, useAudioPlayer, AudioModule, RecordingPresets } from 
 import * as Speech from 'expo-speech'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
+import { SCHEDULE } from '../../data/curriculum'
 import { fetchArticle, parseParagraphs, type ArticleRow } from '../../data/content-api'
 
 function IconSpeak({ color }: { color: string }) {
@@ -45,6 +46,7 @@ function getTodayKey() {
 export default function SpeakScreen() {
   const { navigate } = useNav()
   const [article, setArticle] = useState<ArticleRow | null>(null)
+  const [scheduleEntry, setScheduleEntry] = useState<{ week: number; dayOfWeek: number; label: string } | null>(null)
   const [loading, setLoading] = useState(true)
   const [showChinese, setShowChinese] = useState(false)
   const [isRecording, setIsRecording] = useState(false)
@@ -52,6 +54,8 @@ export default function SpeakScreen() {
   const [activeParagraph, setActiveParagraph] = useState(-1)
   const [recordingUri, setRecordingUri] = useState<string | null>(null)
   const [showOnboardingHint, setShowOnboardingHint] = useState(true)
+  const manuallyStopped = React.useRef(false)
+  const pausedAtParagraph = React.useRef(-1)
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
   const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
 
@@ -59,6 +63,8 @@ export default function SpeakScreen() {
 
   useEffect(() => {
     const todayKey = getTodayKey()
+    const entry = SCHEDULE.find((d) => d.key === todayKey)
+    if (entry) setScheduleEntry({ week: entry.week, dayOfWeek: entry.dayOfWeek, label: entry.label })
     fetchArticle(todayKey).then((data) => {
       setArticle(data)
       setLoading(false)
@@ -81,6 +87,10 @@ export default function SpeakScreen() {
       language: 'en-US',
       rate: 0.9,
       onDone: () => {
+        if (manuallyStopped.current) {
+          manuallyStopped.current = false
+          return
+        }
         setActiveParagraph((p) => {
           const next = p + 1
           return next < paragraphs.length ? next : -1
@@ -98,10 +108,15 @@ export default function SpeakScreen() {
 
   const handlePlayStop = () => {
     if (isSpeaking) {
+      manuallyStopped.current = true
+      pausedAtParagraph.current = activeParagraph
       Speech.stop()
       setActiveParagraph(-1)
     } else {
-      setActiveParagraph(0)
+      manuallyStopped.current = false
+      const startFrom = pausedAtParagraph.current >= 0 ? pausedAtParagraph.current : 0
+      pausedAtParagraph.current = -1
+      setActiveParagraph(startFrom)
     }
   }
 
@@ -151,7 +166,7 @@ export default function SpeakScreen() {
 
   if (loading) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <ActivityIndicator color={colors.speak} />
         </View>
@@ -161,7 +176,7 @@ export default function SpeakScreen() {
 
   if (!article) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <Text style={styles.emptyTitle}>No article today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
@@ -177,11 +192,10 @@ export default function SpeakScreen() {
   const paragraphsZh = parseParagraphs(article.text_zh)
 
   return (
-    <SafeAreaView style={styles.container} edges={['top']}>
+    <SafeAreaView style={styles.container} edges={[]}>
       {/* Header */}
       <View style={styles.header}>
         <View style={styles.headerTop}>
-          <Text style={styles.dateLabel}>{article.date_key}</Text>
           <Text style={styles.topicLabel}>{article.topic.toUpperCase()}</Text>
           <Text style={styles.wordCount}>{article.word_count} words</Text>
         </View>
@@ -234,12 +248,12 @@ export default function SpeakScreen() {
               <IconSpeak color={colors.speak} />
             </View>
             <View style={styles.hintContent}>
-              <Text style={styles.hintTitle}>朗讀練習</Text>
+              <Text style={styles.hintTitle}>Speak</Text>
               <Text style={styles.hintDesc}>
                 大聲朗讀今日文章。建議先聆聽發音，再錄下自己的聲音比較。可查看單字表學習關鍵詞彙。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
-                <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+                <Text style={styles.hintDismiss}>✕ Got it</Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -317,8 +331,7 @@ const styles = StyleSheet.create({
 
   header: {
     paddingHorizontal: spacing.lg,
-    paddingTop: spacing.md,
-    paddingBottom: spacing.sm,
+    paddingVertical: spacing.lg,
     borderBottomWidth: 1,
     borderBottomColor: colors.border,
   },

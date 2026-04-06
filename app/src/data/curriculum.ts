@@ -126,11 +126,15 @@ export interface ScheduleDay {
   topic: string
 }
 
-// Generate full 365-day schedule for 2026-01-01 ~ 2026-12-31
-// W1 (Jan 1–4) and W53 (Dec 28–31) have 4 days; all other weeks have 7 days.
+// Program start date — update this when the app launches officially.
+// Format: new Date(YYYY, MM-1, DD)
+export const PROGRAM_START_DATE = new Date(2026, 3, 5) // Apr 5, 2026
+
+// Generate full 365-day schedule starting from PROGRAM_START_DATE.
+// W1 and W53 have 4 days; all other weeks have 7 days.
 // Within each week: last day = Review, second-to-last = Listen, rest = Speak.
 function generateSchedule(): ScheduleDay[] {
-  const startDate = new Date(2026, 0, 1) // Jan 1, 2026
+  const startDate = PROGRAM_START_DATE
   const weekdayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
   const days: ScheduleDay[] = []
   let dayOffset = 0

@@ -31,12 +31,31 @@ export const useAuthStore = create<AuthState>((set) => ({
 
   signInWithEmail: async (email, password) => {
     const { error } = await supabase.auth.signInWithPassword({ email, password })
-    return error?.message ?? null
+    if (!error) return null
+    const msg = error.message.toLowerCase()
+    if (msg.includes('invalid login credentials') || msg.includes('invalid credentials')) {
+      return 'Incorrect email or password.'
+    }
+    if (msg.includes('email not confirmed')) {
+      return 'Please confirm your email before signing in.'
+    }
+    if (msg.includes('user not found') || msg.includes('no user found')) {
+      return 'No account found with this email.'
+    }
+    return error.message
   },
 
   signUpWithEmail: async (email, password) => {
     const { error } = await supabase.auth.signUp({ email, password })
-    return error?.message ?? null
+    if (!error) return null
+    const msg = error.message.toLowerCase()
+    if (msg.includes('already registered') || msg.includes('user already exists')) {
+      return 'An account with this email already exists.'
+    }
+    if (msg.includes('password should be')) {
+      return 'Password must be at least 6 characters.'
+    }
+    return error.message
   },
 
   signInWithApple: async () => {

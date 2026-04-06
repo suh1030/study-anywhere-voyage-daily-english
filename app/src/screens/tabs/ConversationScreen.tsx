@@ -41,6 +41,7 @@ function IconConversation({ color }: { color: string }) {
 export default function ConversationScreen() {
   const { navigate } = useNav()
   const [questions, setQuestions] = useState<QuestionRow[]>([])
+  const [scheduleEntry, setScheduleEntry] = useState<{ week: number; dayOfWeek: number; label: string } | null>(null)
   const [questionIndex, setQuestionIndex] = useState(0)
   const [loading, setLoading] = useState(true)
   const [answer, setAnswer] = useState('')
@@ -55,6 +56,7 @@ export default function ConversationScreen() {
     const entry = SCHEDULE.find((d) => d.key === todayKey)
     const weekNumber = entry?.week ?? 1
     const dayOfWeek = entry?.dayOfWeek ?? 1
+    if (entry) setScheduleEntry({ week: entry.week, dayOfWeek: entry.dayOfWeek, label: entry.label })
 
     fetchQuestion(weekNumber, dayOfWeek).then((data) => {
       setQuestions(data ? [data] : [])
@@ -129,7 +131,7 @@ export default function ConversationScreen() {
 
   if (loading) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <ActivityIndicator color={colors.conversation} />
         </View>
@@ -139,7 +141,7 @@ export default function ConversationScreen() {
 
   if (!question) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <Text style={styles.emptyTitle}>No question today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
@@ -152,19 +154,7 @@ export default function ConversationScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.container} edges={['top']}>
-      {/* Fixed Header */}
-      <View style={styles.header}>
-        <View style={styles.headerLeft}>
-          <Text style={styles.weekLabel}>
-            W{String(question.week_number).padStart(2, '0')} · Day {question.day_of_week}
-          </Text>
-        </View>
-        <View style={styles.creditsBadge}>
-          <Text style={styles.creditsText}>{balance} CR</Text>
-        </View>
-      </View>
-
+    <SafeAreaView style={styles.container} edges={[]}>
       <ScrollView contentContainerStyle={styles.scrollContent} keyboardShouldPersistTaps="handled">
 
         {/* Onboarding Hint */}
@@ -174,12 +164,12 @@ export default function ConversationScreen() {
               <IconConversation color={colors.conversation} />
             </View>
             <View style={styles.hintContent}>
-              <Text style={styles.hintTitle}>對話練習</Text>
+              <Text style={styles.hintTitle}>Conversation</Text>
               <Text style={styles.hintDesc}>
-                用英文回答今日問題，不要翻譯——直接自然地表達你的想法。送出後可獲得 AI 針對文法與自然用語的回饋。
+                用英文回答今日問題，不要翻譯——直接自然地表達你的想法。送出後可獲得 AI 針對文法與自然用語的回饋。每次消耗 1 credit，新用戶有 3 credits 免費體驗。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
-                <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+                <Text style={styles.hintDismiss}>✕ Got it</Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -328,27 +318,6 @@ const styles = StyleSheet.create({
   },
   emptyBtnText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1.5, color: colors.conversation },
 
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    paddingHorizontal: spacing.lg,
-    paddingTop: spacing.md,
-    paddingBottom: spacing.sm,
-    borderBottomWidth: 1,
-    borderBottomColor: colors.border,
-  },
-  headerLeft: { flex: 1 },
-  weekLabel: { fontFamily: fonts.mono, fontSize: 11, letterSpacing: 1, color: colors.muted },
-  creditsBadge: {
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderWidth: 1,
-    borderColor: colors.gold + '50',
-    borderRadius: radius.full,
-    backgroundColor: colors.gold + '10',
-  },
-  creditsText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.gold },
 
   scrollContent: { paddingHorizontal: spacing.lg, paddingTop: spacing.lg },
 
@@ -379,7 +348,7 @@ const styles = StyleSheet.create({
     padding: spacing.lg,
     marginBottom: spacing.lg,
   },
-  questionText: { fontFamily: fonts.outfit, fontSize: 22, color: colors.text, lineHeight: 32, marginBottom: spacing.sm },
+  questionText: { fontFamily: fonts.outfit, fontSize: 17, color: colors.text, lineHeight: 26, marginBottom: spacing.sm },
   questionBtns: { flexDirection: 'row', gap: spacing.sm, marginBottom: spacing.sm, flexWrap: 'wrap' },
   questionBtn: {
     paddingHorizontal: 10,

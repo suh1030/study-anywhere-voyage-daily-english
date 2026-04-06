@@ -10,8 +10,21 @@ import {
   ActivityIndicator,
 } from 'react-native'
 import * as AppleAuthentication from 'expo-apple-authentication'
+import Svg, { Path } from 'react-native-svg'
 import { colors, typography, spacing, radius, fonts } from '../../constants/theme'
 import { useAuthStore } from '../../stores/authStore'
+
+function GoogleIcon() {
+  return (
+    <Svg width={18} height={18} viewBox="0 0 18 18">
+      <Path d="M9 3.48c1.69 0 2.83.73 3.48 1.34l2.54-2.48C13.46.89 11.43 0 9 0 5.48 0 2.44 2.02.96 4.96l2.91 2.26C4.6 5.05 6.62 3.48 9 3.48z" fill="#EA4335"/>
+      <Path d="M17.64 9.2c0-.74-.06-1.28-.19-1.84H9v3.34h4.96c-.1.83-.64 2.08-1.84 2.92l2.84 2.2c1.7-1.57 2.68-3.88 2.68-6.62z" fill="#4285F4"/>
+      <Path d="M3.88 10.78A5.54 5.54 0 013.58 9c0-.62.11-1.22.29-1.78L.96 4.96A9.008 9.008 0 000 9c0 1.45.35 2.82.96 4.04l2.92-2.26z" fill="#FBBC05"/>
+      <Path d="M9 18c2.43 0 4.47-.8 5.96-2.18l-2.84-2.2c-.76.53-1.78.9-3.12.9-2.38 0-4.4-1.57-5.12-3.74L.97 13.04C2.45 15.98 5.48 18 9 18z" fill="#34A853"/>
+    </Svg>
+  )
+}
+
 
 export default function AuthScreen() {
   const [isSignUp, setIsSignUp] = useState(false)
@@ -63,7 +76,14 @@ export default function AuthScreen() {
     return (
       <View style={styles.container}>
         <View style={styles.inner}>
-          <Text style={styles.brand}>SAV</Text>
+          <Text style={styles.brand}>
+            <Text style={styles.brandAccent}>S</Text>
+            <Text style={styles.brandRest}>tudy </Text>
+            <Text style={styles.brandAccent}>A</Text>
+            <Text style={styles.brandRest}>nywhere </Text>
+            <Text style={styles.brandAccent}>V</Text>
+            <Text style={styles.brandRest}>oyage</Text>
+          </Text>
           <Text style={styles.subtitle}>DAILY ENGLISH</Text>
           <View style={styles.successBox}>
             <Text style={styles.successTitle}>CHECK YOUR EMAIL</Text>
@@ -86,7 +106,14 @@ export default function AuthScreen() {
       behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
     >
       <View style={styles.inner}>
-        <Text style={styles.brand}>SAV</Text>
+        <Text style={styles.brand}>
+          <Text style={styles.brandAccent}>S</Text>
+          <Text style={styles.brandRest}>tudy </Text>
+          <Text style={styles.brandAccent}>A</Text>
+          <Text style={styles.brandRest}>nywhere </Text>
+          <Text style={styles.brandAccent}>V</Text>
+          <Text style={styles.brandRest}>oyage</Text>
+        </Text>
         <Text style={styles.subtitle}>DAILY ENGLISH</Text>
 
         <View style={styles.form}>
@@ -152,7 +179,7 @@ export default function AuthScreen() {
                 buttonType={AppleAuthentication.AppleAuthenticationButtonType.SIGN_IN}
                 buttonStyle={AppleAuthentication.AppleAuthenticationButtonStyle.WHITE}
                 cornerRadius={radius.sm}
-                style={styles.socialBtn}
+                style={styles.appleBtn}
                 onPress={handleAppleSignIn}
               />
             )
@@ -164,6 +191,7 @@ export default function AuthScreen() {
             </View>
           ) : (
             <TouchableOpacity style={styles.googleBtn} onPress={handleGoogleSignIn}>
+              <GoogleIcon />
               <Text style={styles.googleBtnText}>Continue with Google</Text>
             </TouchableOpacity>
           )}
@@ -185,10 +213,22 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.lg,
   },
   brand: {
-    fontSize: 48,
-    fontWeight: '200',
+    fontSize: 22,
+    fontWeight: '300',
+    letterSpacing: 1,
+    color: colors.text,
+    marginBottom: 2,
+  },
+  brandAccent: {
+    fontSize: 28,
+    fontWeight: '600',
     color: colors.ui,
-    letterSpacing: 12,
+    letterSpacing: 0,
+  },
+  brandRest: {
+    fontSize: 22,
+    fontWeight: '300',
+    color: colors.text,
   },
   subtitle: {
     fontFamily: fonts.mono,
@@ -258,9 +298,9 @@ const styles = StyleSheet.create({
     letterSpacing: 2,
     color: colors.muted,
   },
-  socialBtn: {
+  appleBtn: {
     width: '100%',
-    height: 48,
+    height: 44,
   },
   socialLoadingRow: {
     height: 48,
@@ -269,18 +309,19 @@ const styles = StyleSheet.create({
   },
   googleBtn: {
     width: '100%',
-    height: 48,
+    height: 44,
     backgroundColor: colors.surface,
     borderWidth: 1,
     borderColor: colors.border2,
     borderRadius: radius.sm,
     alignItems: 'center',
     justifyContent: 'center',
+    flexDirection: 'row',
+    gap: 10,
   },
   googleBtnText: {
-    fontFamily: fonts.mono,
-    fontSize: 12,
-    letterSpacing: 1,
+    fontSize: 15,
+    fontWeight: '500',
     color: colors.text,
   },
   successBox: {

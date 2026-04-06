@@ -10,7 +10,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context'
 import Svg, { Polygon, Path, Circle } from 'react-native-svg'
 import * as Speech from 'expo-speech'
-import { useAudioPlayer } from 'expo-audio'
+import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { SCHEDULE } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
@@ -75,6 +75,7 @@ function IconListen({ color }: { color: string }) {
 export default function ListenScreen() {
   const { navigate } = useNav()
   const [episode, setEpisode] = useState<EpisodeRow | null>(null)
+  const [scheduleEntry, setScheduleEntry] = useState<{ week: number; dayOfWeek: number; label: string } | null>(null)
   const [loading, setLoading] = useState(true)
   const [currentLine, setCurrentLine] = useState(-1)
   const [showChinese, setShowChinese] = useState(false)
@@ -83,16 +84,20 @@ export default function ListenScreen() {
   const [audioUrl, setAudioUrl] = useState<string | null>(null)
   const [showOnboardingHint, setShowOnboardingHint] = useState(true)
   const scrollRef = useRef<ScrollView>(null)
-  const player = useAudioPlayer(audioUrl ? { uri: audioUrl } : null)
+  const lineRefs = useRef<Map<number, React.ElementRef<typeof TouchableOpacity> | null>>(new Map())
+  const player = useAudioPlayer(null)
 
   const isPlaying = currentLine >= 0
-  const hasStartedPlayingRef = React.useRef(false)
+  const pausedLineRef = React.useRef(-1)
+  const scrollPositionRef = React.useRef(0)
+  const playerStatus = useAudioPlayerStatus(player)
 
   useEffect(() => {
     const todayKey = getTodayKey()
     const entry = SCHEDULE.find((d) => d.key === todayKey)
     const weekNumber = entry?.week ?? 1
     const dayOfWeek = entry?.dayOfWeek ?? 1
+    if (entry) setScheduleEntry({ week: entry.week, dayOfWeek: entry.dayOfWeek, label: entry.label })
 
     fetchEpisode(weekNumber, dayOfWeek).then((data) => {
       setEpisode(data)
@@ -109,18 +114,36 @@ export default function ListenScreen() {
     return lines
   }, [episode])
 
+  // Apply speed changes to player
+  useEffect(() => {
+    try { player.setPlaybackRate(speed) } catch {}
+  }, [speed]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Auto-scroll to active line
+  useEffect(() => {
+    if (currentLine < 0) return
+    setTimeout(() => {
+      const el = lineRefs.current.get(currentLine)
+      if (!el || !scrollRef.current) return
+      el.measureLayout(
+        scrollRef.current as unknown as React.ElementRef<typeof View>,
+        (_x: number, y: number) => { scrollRef.current?.scrollTo({ y: Math.max(0, y - 80), animated: true }) },
+        () => {}
+      )
+    }, 80)
+  }, [currentLine])
+
   // Play audio when current line changes
   useEffect(() => {
     if (currentLine < 0 || currentLine >= allLines.length || !episode) {
       Speech.stop()
+      player.pause()
       setAudioUrl(null)
       return
     }
 
     const line = allLines[currentLine]
     const url = getAudioUrl(episode.week_number, episode.day_of_week, line.partIndex, line.lineIndex)
-
-    // Try MP3 directly; fall back to Speech on error (no HEAD round-trip)
     Speech.stop()
     setAudioUrl(url)
   }, [currentLine]) // eslint-disable-line react-hooks/exhaustive-deps
@@ -131,47 +154,35 @@ export default function ListenScreen() {
     const line = allLines[currentLine]
     if (!line) return
 
-    hasStartedPlayingRef.current = false
-
     const handleSpeechFallback = () => {
       setAudioUrl(null)
       Speech.speak(line.en, {
         language: 'en-US',
         rate: speed,
         onDone: () => {
-          if (currentLine < allLines.length - 1) {
-            setCurrentLine((c) => c + 1)
-          } else {
-            setCurrentLine(-1)
-          }
+          setCurrentLine((c) => {
+            if (c < allLines.length - 1) return c + 1
+            return -1
+          })
         },
       })
     }
 
-    if (!player.playing) {
-      // player.play() returns a Promise — use .catch() to handle async load errors
-      Promise.resolve(player.play()).catch(handleSpeechFallback)
-    }
+    player.replace({ uri: audioUrl })
+    Promise.resolve(player.play()).catch(handleSpeechFallback)
+    try { player.setPlaybackRate(speed) } catch {}
   }, [audioUrl]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Auto-advance to next line when MP3 finishes
+  // Auto-advance when MP3 finishes (using didJustFinish from useAudioPlayerStatus)
   useEffect(() => {
-    if (!audioUrl || !player || currentLine < 0) return
-    if (player.playing) {
-      // Track that playback actually started
-      hasStartedPlayingRef.current = true
-    } else if (hasStartedPlayingRef.current) {
-      // Only advance after we've confirmed playback started (prevents premature advance)
-      hasStartedPlayingRef.current = false
-      if (currentLine < allLines.length - 1) {
-        setCurrentLine((c) => c + 1)
-      } else {
-        // Last line finished — stop cleanly
-        setCurrentLine(-1)
-        setAudioUrl(null)
-      }
+    if (!playerStatus.didJustFinish || currentLine < 0) return
+    if (currentLine < allLines.length - 1) {
+      setCurrentLine((c) => c + 1)
+    } else {
+      setCurrentLine(-1)
+      setAudioUrl(null)
     }
-  }, [player.playing]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [playerStatus.didJustFinish]) // eslint-disable-line react-hooks/exhaustive-deps
 
   // Stop on unmount
   useEffect(() => () => { Speech.stop() }, [])
@@ -182,20 +193,24 @@ export default function ListenScreen() {
 
   const handlePlayStop = useCallback(() => {
     if (isPlaying) {
+      pausedLineRef.current = currentLine
       Speech.stop()
+      player.pause()
       setAudioUrl(null)
       setCurrentLine(-1)
     } else {
-      setCurrentLine(0)
+      const resumeFrom = pausedLineRef.current >= 0 ? pausedLineRef.current : 0
+      pausedLineRef.current = -1
+      setCurrentLine(resumeFrom)
     }
-  }, [isPlaying])
+  }, [isPlaying, currentLine]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const handlePrev = () => setCurrentLine((c) => Math.max(0, c - 1))
   const handleNext = () => setCurrentLine((c) => Math.min(allLines.length - 1, c + 1))
 
   if (loading) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <ActivityIndicator color={colors.listen} />
         </View>
@@ -205,7 +220,7 @@ export default function ListenScreen() {
 
   if (!episode) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <Text style={styles.emptyTitle}>No episode today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
@@ -218,10 +233,9 @@ export default function ListenScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.container} edges={['top']}>
+    <SafeAreaView style={styles.container} edges={[]}>
       {/* Episode Header */}
       <View style={styles.header}>
-        <Text style={styles.weekLabel}>W{String(episode.week_number).padStart(2, '0')}</Text>
         <View style={styles.headerInfo}>
           <Text style={styles.theme}>{episode.theme}</Text>
           <Text style={styles.podcast}>{episode.title}</Text>
@@ -276,14 +290,33 @@ export default function ListenScreen() {
 
         <TouchableOpacity
           style={[styles.zhToggle, showChinese && styles.zhToggleOn]}
-          onPress={() => setShowChinese(!showChinese)}
+          onPress={() => {
+            setShowChinese(!showChinese)
+            if (currentLine >= 0) {
+              setTimeout(() => {
+                const el = lineRefs.current.get(currentLine)
+                if (!el || !scrollRef.current) return
+                el.measureLayout(
+                  scrollRef.current as unknown as React.ElementRef<typeof View>,
+                  (_x: number, y: number) => { scrollRef.current?.scrollTo({ y: Math.max(0, y - 80), animated: false }) },
+                  () => {}
+                )
+              }, 50)
+            }
+          }}
         >
           <Text style={[styles.zhToggleText, showChinese && styles.zhToggleTextOn]}>中文</Text>
         </TouchableOpacity>
       </View>
 
       {/* Script */}
-      <ScrollView ref={scrollRef} style={styles.scriptScroll} contentContainerStyle={styles.scriptContent}>
+      <ScrollView
+        ref={scrollRef}
+        style={styles.scriptScroll}
+        contentContainerStyle={styles.scriptContent}
+        onScroll={(e) => { scrollPositionRef.current = e.nativeEvent.contentOffset.y }}
+        scrollEventThrottle={16}
+      >
 
         {/* Onboarding Hint */}
         {showOnboardingHint && (
@@ -292,12 +325,12 @@ export default function ListenScreen() {
               <IconListen color={colors.listen} />
             </View>
             <View style={styles.hintContent}>
-              <Text style={styles.hintTitle}>收聽</Text>
+              <Text style={styles.hintTitle}>Listen</Text>
               <Text style={styles.hintDesc}>
-                按下播放收聽 Podcast。點擊任一行台詞可跳轉到該段。開啟「中文」可顯示翻譯，語速太快可切換 0.75×。
+                按下播放收聽 Podcast。點擊任一行台詞可跳轉到該段。開啟「中文」可顯示翻譯，可調整速度（0.75× / 1.0× / 1.25×）。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
-                <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+                <Text style={styles.hintDismiss}>✕ Got it</Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -321,6 +354,7 @@ export default function ListenScreen() {
               return (
                 <TouchableOpacity
                   key={li}
+                  ref={(el) => { lineRefs.current.set(globalIndex, el) }}
                   style={[styles.line, isActive && styles.lineActive]}
                   onPress={() => handleLinePress(globalIndex)}
                   activeOpacity={0.7}
@@ -402,8 +436,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: spacing.lg,
-    paddingTop: spacing.md,
-    paddingBottom: spacing.sm,
+    paddingVertical: spacing.lg,
     gap: spacing.md,
     borderBottomWidth: 1,
     borderBottomColor: colors.border,

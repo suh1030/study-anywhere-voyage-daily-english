@@ -11,9 +11,6 @@ import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { CURRICULUM, SCHEDULE, PHASE_LABELS, getWeekDays } from '../../data/curriculum'
 import { useProgressStore } from '../../stores/progressStore'
-import { useCreditsStore } from '../../stores/creditsStore'
-import { useAuthStore } from '../../stores/authStore'
-import ProfileModal from '../../components/ProfileModal'
 
 const ROW_COLORS = {
   listen: colors.listen,
@@ -49,15 +46,9 @@ function getWeekPodcast(weekNum: number): string {
 export default function ScheduleScreen() {
   const { navigate } = useNav()
   const { completedDays, toggleDay, sync: syncProgress } = useProgressStore()
-  const { user } = useAuthStore()
-  const { balance, fetchBalance } = useCreditsStore()
-  const [showProfile, setShowProfile] = useState(false)
   const [expandedWeeks, setExpandedWeeks] = useState<Set<number>>(() => new Set([getCurrentWeek()]))
   const [resetConfirm, setResetConfirm] = useState(false)
 
-  useEffect(() => {
-    if (user) fetchBalance()
-  }, [user])
   const resetTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const listRef = useRef<SectionList>(null)
 
@@ -147,6 +138,7 @@ export default function ScheduleScreen() {
       const weekDays = getWeekDays(week.wn)
       const weekCompleted = weekDays.filter((d) => completedDays[d.key]).length
       const isCurrent = week.wn === currentWeek
+      const isFullyDone = weekCompleted === weekDays.length
 
       return (
         <View>
@@ -157,10 +149,10 @@ export default function ScheduleScreen() {
           >
             <Text style={styles.weekNumber}>W{String(week.wn).padStart(2, '0')}</Text>
             <View style={styles.weekInfo}>
-              <Text style={[styles.weekTheme, isCurrent && styles.weekThemeCurrent]}>
+              <Text style={[styles.weekTheme, isCurrent && styles.weekThemeCurrent, isFullyDone && styles.weekThemeDone]}>
                 {week.theme}
               </Text>
-              <Text style={styles.weekPodcast}>{week.podcast}</Text>
+              <Text style={[styles.weekPodcast, isFullyDone && styles.weekPodcastDone]}>{week.podcast}</Text>
             </View>
             <Text style={styles.weekProgress}>
               {weekCompleted}/{weekDays.length}
@@ -238,16 +230,9 @@ export default function ScheduleScreen() {
   )
 
   return (
-    <SafeAreaView style={styles.container} edges={['top']}>
-      <ProfileModal visible={showProfile} onClose={() => setShowProfile(false)} />
-
+    <SafeAreaView style={styles.container} edges={[]}>
       {/* Stats Header */}
       <View style={styles.header}>
-        <View style={styles.headerTop}>
-          <TouchableOpacity style={styles.profileBtn} onPress={() => setShowProfile(true)}>
-            <Text style={styles.profileBtnText}>{balance > 0 ? `${balance} CR` : 'PROFILE'}</Text>
-          </TouchableOpacity>
-        </View>
         <View style={styles.statsRow}>
           <View style={styles.statItem}>
             <Text style={styles.statValue}>{stats.completed}</Text>
@@ -430,10 +415,17 @@ const styles = StyleSheet.create({
   weekThemeCurrent: {
     color: colors.ui,
   },
+  weekThemeDone: {
+    color: colors.muted2,
+  },
   weekPodcast: {
     fontSize: 11,
     color: colors.muted,
     marginTop: 2,
+  },
+  weekPodcastDone: {
+    color: colors.muted2,
+    opacity: 0.5,
   },
   weekProgress: {
     fontFamily: fonts.mono,

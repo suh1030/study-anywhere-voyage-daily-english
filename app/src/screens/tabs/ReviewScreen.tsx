@@ -145,7 +145,7 @@ export default function ReviewScreen() {
 
   if (loading) {
     return (
-      <SafeAreaView style={styles.container} edges={['top']}>
+      <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
           <ActivityIndicator color={colors.review} />
         </View>
@@ -154,7 +154,7 @@ export default function ReviewScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.container} edges={['top']}>
+    <SafeAreaView style={styles.container} edges={[]}>
       {/* Stats */}
       <View style={styles.header}>
         <Text style={styles.headerTitle}>Flashcards</Text>
@@ -195,12 +195,12 @@ export default function ReviewScreen() {
                 <IconReview color={colors.review} />
               </View>
               <View style={styles.hintContent}>
-                <Text style={styles.hintTitle}>單字複習</Text>
+                <Text style={styles.hintTitle}>Review</Text>
                 <Text style={styles.hintDesc}>
                   點擊卡片翻面，查看中文意思與例句。熟記後標記為「已掌握」。
                 </Text>
                 <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
-                  <Text style={styles.hintDismiss}>✕ 我知道了</Text>
+                  <Text style={styles.hintDismiss}>✕ Got it</Text>
                 </TouchableOpacity>
               </View>
             </View>

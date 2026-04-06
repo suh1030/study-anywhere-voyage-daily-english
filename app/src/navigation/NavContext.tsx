@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useState } from 'react'
 
-type TabName = 'Listen' | 'Conversation' | 'Review' | 'Speak' | 'Schedule'
+type TabName = 'Listen' | 'Conversation' | 'Review' | 'Speak' | 'Schedule' | 'Account'
 
 interface NavContextType {
   activeTab: TabName
@@ -8,12 +8,12 @@ interface NavContextType {
 }
 
 const NavContext = createContext<NavContextType>({
-  activeTab: 'Listen',
+  activeTab: 'Schedule',
   navigate: () => {},
 })
 
 export function NavProvider({ children }: { children: React.ReactNode }) {
-  const [activeTab, setActiveTab] = useState<TabName>('Listen')
+  const [activeTab, setActiveTab] = useState<TabName>('Schedule')
   return (
     <NavContext.Provider value={{ activeTab, navigate: setActiveTab }}>
       {children}
