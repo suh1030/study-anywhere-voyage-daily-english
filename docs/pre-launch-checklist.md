@@ -41,8 +41,9 @@
 
 ### App Store 硬性需求
 - [ ] Apple Sign In 功能完整可用（Apple 規定：有第三方登入必須提供 Apple Sign In）
-- [x] 隱私政策連結可開啟（已加入 ProfileModal，開啟 `https://sav-daily-english.netlify.app/privacy-policy.html`）
-- [x] 條款連結可開啟（已加入 ProfileModal，開啟 `https://sav-daily-english.netlify.app/terms-of-service.html`）
+  - ⚠️ **Simulator 無法測試**，必須用真實 iPhone 透過 TestFlight 測試，上線前必須確認
+- [x] 隱私政策連結可開啟（Account tab → LEGAL，開啟 `https://sav-daily-english.netlify.app/privacy-policy.html`）
+- [x] 條款連結可開啟（Account tab → LEGAL，開啟 `https://sav-daily-english.netlify.app/terms-of-service.html`）
 
 ---
 
@@ -50,16 +51,19 @@
 
 ### App Store Connect
 - [ ] 截圖準備完成（iPhone 6.7" 至少 3 張，需含真實 UI 畫面）
-- [ ] App 描述、關鍵字填寫完成（參考 `docs/app-store-copy.md`）
+- [x] App 隱私權 Nutrition Labels 填寫完成（2026-04-03）
+- [x] 隱私政策 URL 填入 ASC（2026-04-03）
+- [x] App 描述、關鍵字填寫完成（2026-04-03）
 - [x] Apple 審查測試帳號建立（`a0925302127@gmail.com`，balance 已設 10 credits，2026-04-03）
 - [x] 審查備註填寫（說明 IAP 測試方式、測試帳號，2026-04-03）
-- [ ] 年齡分級問卷填寫完成
-- [ ] 新 build 已提交（ListenScreen bug fixes 已完成，待 RevenueCat + Auth 設定完後 build）
+- [x] 年齡分級問卷填寫完成（4+，2026-04-03）
+- [x] 新 build 已提交（build #5/7 已 submit 到 Apple，2026-04-03）
 
 ### 內容品質
 - [x] 按接近 10 分鐘的長篇規格重新生成 **全部 365 集**（6 parts、每集 48 行）
 - [x] 完成全年內容檔對齊與驗證：episodes / articles / questions / flashcards 已更新為 365 天版本，並驗證通過（角色階段、結構、主題對齊、內容檔覆蓋完整）
 - [x] 完成產品內容全量稽核：365 天 schedule 與 episodes / articles / questions / flashcards 全數對齊，無缺日、缺週、缺欄位
+- [x] 完成年齡分級安全稽核：118 個活躍內容檔未命中暴力、色情、毒品、酒精、自傷、仇恨、粗口、賭博、吸菸等高風險內容（2026-04-03）
 - [x] 全年 365 集新版 podcast 音檔重新生成並上傳（`tts-1`；17,520 個 mp3，missingCount: 0，Supabase Storage `episode-audio/tts/` 已驗證，2026-04-03）
 - [ ] 每個階段各抽 1 集實際播放音檔，確認人聲自然、角色聲音正確對應
 
@@ -102,3 +106,17 @@
 | ListenScreen 自動跳行過早觸發 | 新增 `hasStartedPlayingRef` 防止音訊尚未開始播放就跳至下一行 |
 | ConversationScreen 送出後鍵盤未收起 | 提交 AI 回饋請求時加入 `Keyboard.dismiss()` |
 | ScheduleScreen 重設進度未同步後端 | 清除進度後立即呼叫 `syncProgress()` |
+
+## 工程已完成的修正（2026-04-06）
+
+| 修正項目 | 說明 |
+|--------|------|
+| 新增 Account tab | 獨立帳號管理頁（credits/購買/登出/LEGAL/版本號），取代舊 ProfileModal |
+| 統一日期列 | TabNavigator 共用 dayLabelBar（W01·Day·日期），Listen/Conv/Speak 同位置同字體 |
+| CR badge 整合日期列 | Conversation tab 的 credits 顯示移至 dayLabelBar 右側，與日期同行 |
+| tab icon 對齊 | 每個 icon 加 14×14 固定容器，不同高度 SVG 垂直對齊一致 |
+| tab bar 貼邊 | 移除 nav paddingHorizontal，SCHED / Account icon 貼齊螢幕邊緣 |
+| Account tab 顏色 | active 狀態改為灰色（與 SCHED 區隔） |
+| header 間距對稱 | Listen / Speak header paddingVertical 統一為 spacing.lg |
+| 登入錯誤訊息 | 區分「帳號不存在」/ 「密碼錯誤」/ 「尚未驗證信箱」|
+| rolling schedule | curriculum.ts 以 PROGRAM_START_DATE 為起點動態生成日曆 |

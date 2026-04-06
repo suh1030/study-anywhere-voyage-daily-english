@@ -1,6 +1,6 @@
 # SAV Daily English — Development Progress
 
-> Last updated: 2026-03-30（長篇 podcast 已重寫並重新 seed 至 Supabase；新版音檔重生中，完成後再做產品端最終驗收）
+> Last updated: 2026-04-06（UI 重構：Account tab、統一日期列、導覽列間距修正、登入改善）
 > Purpose: 讓新 session 的 AI 快速了解已完成的工作和待辦事項
 
 ---
@@ -58,7 +58,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
   - `authStore.ts` — session / signIn / signUp / signOut
   - `creditsStore.ts` — balance / requestFeedback（呼叫 feedback Edge Function）
   - `progressStore.ts` — completedDays / masteredCards / sync / load
-- [x] Navigation：`TabNavigator.tsx` — 5 tab 底部導覽列，SVG icons（規格書路徑），各 tab 獨立 accent color
+- [x] Navigation：`TabNavigator.tsx` — 6 tab 頂部導覽列（Schedule/Listen/Conv/Speak/Review/Account），SVG icons，各 tab 獨立 accent color，Account tab 為 icon only
 - [x] Auth flow：`App.tsx` — session 建立後自動 load progress + fetchBalance，Auth guard
 - [x] Auth UI：`AuthScreen.tsx` — Email 登入/註冊（SAV 品牌風格）
 
@@ -94,6 +94,21 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] 補上 `episodes.date` migration：`backend/supabase/migrations/20260329000000_add_date_to_episodes.sql`
 - [x] 舊短版 podcast 音檔已自 Storage 清除，避免新舊內容混播
 - [x] 新版長篇 podcast 音檔重新生成並上傳至 Supabase Storage（`episode-audio/tts/`）：17,520 個 mp3，missingCount: 0，已驗證（2026-04-03）
+
+### Phase 4.9 — UI 重構與細節修正（2026-04-06）
+- [x] 新增 **Account tab**（獨立帳號管理頁）：credits 餘額顯示、購買點數、登出確認、LEGAL 連結（隱私政策 / 使用條款）、版本號
+- [x] **ProfileModal 移除**：帳號功能全移至 Account tab，ScheduleScreen 右上角不再有 Profile 按鈕
+- [x] **TabNavigator 重構**：6 tabs（SCHED / LISTEN / CONV / SPEAK / REVIEW / Account icon）、icon 對齊用固定容器、tab bar 移除 padding 貼邊、Account tab 灰色
+- [x] **dayLabelBar 統一**：Listen / Conversation / Speak 三個 tab 頂端顯示相同位置/字體的 `W01 · Day N · MM/DD`
+- [x] **CR badge 整合**：Conversation tab 的 credits badge 移至 dayLabelBar 右側（與日期同行、有金色框）
+- [x] **header 間距對稱**：Listen / Speak header paddingVertical 統一
+- [x] **auth 改善**：登入錯誤訊息細分（帳號不存在 / 密碼錯誤 / 信箱未驗證）；Apple/Google 按鈕高度統一
+- [x] **curriculum rolling schedule**：以 `PROGRAM_START_DATE` 為起點動態生成，上線日期改 constant 即可
+
+### Phase 4.8 — 內容安全稽核（2026-04-03）
+- [x] 新增 `scripts/validate-content-safety.js`，可重跑檢查活躍內容檔的年齡分級風險
+- [x] 完成活躍內容全量安全稽核：118 個內容檔未命中暴力、色情、毒品、酒精、自傷、仇恨、粗口、賭博、吸菸等高風險項目
+- [x] 確認 `fight`、`body image`、`partner` 等詞彙在目前內容中屬於生活／心理主題語境，不屬於成人或暴力導向內容
 
 ---
 
@@ -216,7 +231,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 |------|------|------|
 | 定價 | NT$60（一次買斷） | Apple 標準定價層，對應 $1.99 USD |
 | AI 模型 | Claude Haiku 4.5 | 對話批改夠用，成本比 Sonnet 低 75% |
-| TTS | OpenAI `tts-1` 預生成 → Storage/CDN | W1D1 實測後決定採低成本方案；新版長篇內容約 2,563,318 chars，一次性成本約 $38.45 USD；舊短版音檔已淘汰，新版 17,520 行音檔重生中 |
+| TTS | OpenAI `tts-1` 預生成 → Storage/CDN | W1D1 實測後決定採低成本方案；新版長篇內容約 2,563,318 chars，一次性成本約 $38.45 USD；新版 17,520 行音檔已生成並上傳完成 |
 | 登入方式 | Email + Apple Sign In + Google Sign In | Apple 強制要求 Sign in with Apple |
 | IAP 整合 | RevenueCat | 免費版支援 < NT$75,000 月收，抽象化 Apple/Google 雙平台 |
 | 後端 | Supabase Edge Functions (Deno) | 免費 tier 足夠 v1，冷啟動 < 200ms |

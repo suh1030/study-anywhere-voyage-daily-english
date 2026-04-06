@@ -2,7 +2,7 @@
 
 這份清單記錄需要你（Savelyn）親自完成的事項，不屬於工程開發範疇。
 
-> 最後更新：2026-04-03
+> 最後更新：2026-04-06
 
 ---
 
@@ -49,12 +49,21 @@
   - 修正 SDK 55 build 錯誤（`EXEventEmitter.h not found`）
   - SpeakScreen 已改用 `useAudioRecorder` / `useAudioPlayer`
 
-- [ ] **`eas build --platform ios --profile production`**（build #2 排隊中）
-  - 等通知確認是否成功
+- [x] **`eas build --platform ios --profile production`**（build #5 完成，2026-04-03）
+  - Commit: 0afec95（含 ListenScreen/ConversationScreen/ScheduleScreen 修正）
 
-- [ ] **`eas submit --platform ios --profile production`**
-  - build 成功後執行
-  - 需先在 App Store Connect 建立 App 條目，取得 `ascAppId`
+- [x] **`eas submit --platform ios --profile production`**（build #5/7 已提交，2026-04-03）
+
+---
+
+## App Icon 設計
+
+- [ ] **設計 App Icon**（1024x1024px，無圓角，Apple 會自動套用）
+  - 目前 app 顯示預設 Expo icon（藍色齒輪），上架前必須換掉
+  - 建議工具：Figma / Canva
+  - 設計概念參考：SAV 品牌色（深色底 + 金色 SAV 字樣）
+  - 完成後放入 `app/assets/` 並更新 `app.json` 的 `icon` 欄位
+  - 需要重新 build 才會生效
 
 ---
 
@@ -77,7 +86,7 @@
 - [x] **設定 Apple 審核用測試帳號**（已完成，2026-04-03）
   - 帳號：`a0925302127@gmail.com` / `asd0925302127`
   - Supabase credits.balance 已設為 10
-  - 待填入 App Store Connect → App Review Information → Demo Account
+  - App Store Connect → App Review Information → Demo Account 已填入
 
 ---
 
@@ -85,7 +94,7 @@
 
 - [x] **Apple Developer Program** — 已購買（savelyn.siao@gmail.com，2026-03-20）
 - [ ] **Google Play Console** — $25 USD 一次性（play.google.com/console）
-- [ ] **Apple Small Business Program（15% 抽成）** — 免費申請（developer.apple.com/app-store/small-business-program）
+- [x] **Apple Small Business Program（15% 抽成）** — 已申請，等待 Apple 審核（2026-04-03）
 - [x] **Apple Store Connect 銀行資訊 + 稅務資料** — 已完成（國泰世華，台灣稅務 + W-8BEN，2026-03-26）
 - [ ] **Google Play 銀行資訊 + 稅務資料** — 在 Play Console → Setup → Payments profile
 
