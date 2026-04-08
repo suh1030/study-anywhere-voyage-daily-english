@@ -12,26 +12,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'If "Finding Your Creative Voice" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Finding Your Creative Voice」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to creative voice first, because that is where "Finding Your Creative Voice" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「creative voice」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'creative voice', def: '和「creative voice」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. daily pattern becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Finding Your Creative Voice" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Finding Your Creative Voice" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Finding Your Creative Voice" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'If "Finding Your Creative Voice" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to creative voice first, because that is where "Finding Your Creative Voice" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'creative voice', def: '創作聲音' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. It becomes visible when I make something purely because I want to, with no expectation of how it will be received.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Finding Your Creative Voice" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Finding Your Creative Voice" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Finding Your Creative Voice" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'My understanding of "Finding Your Creative Voice" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
           { speaker: 'b', speakerName: 'James', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'I can see that. quiet pressure tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When quiet pressure is woven into ordinary routines, "Finding Your Creative Voice" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When this is woven into ordinary routines, "Finding Your Creative Voice" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'So the lesson was not just about insight. It was about building a version of "Finding Your Creative Voice" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -39,10 +39,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'What feels hardest about "Finding Your Creative Voice" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why I take it seriously. The inner tension around "Finding Your Creative Voice" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -51,13 +51,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Finding Your Creative Voice" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Finding Your Creative Voice" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the smallest reliable action in your version of "Finding Your Creative Voice"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
           { speaker: 'b', speakerName: 'James', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -83,20 +83,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Finding Your Creative Voice" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Finding Your Creative Voice」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
+          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Finding Your Creative Voice" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 'creative voice', zh: 'creative voice 相關表達', example: 'In Finding Your Creative Voice, creative voice matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Finding Your Creative Voice, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Finding Your Creative Voice, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Finding Your Creative Voice, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Finding Your Creative Voice, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Finding Your Creative Voice, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Finding Your Creative Voice, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Finding Your Creative Voice, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   },
   {
@@ -110,26 +110,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'If "Art in Everyday Life" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Art in Everyday Life」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to everyday life first, because that is where "Art in Everyday Life" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「everyday life」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'everyday life', def: '和「everyday life」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. daily pattern becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Art in Everyday Life" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Art in Everyday Life" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Art in Everyday Life" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'If "Art in Everyday Life" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to everyday life first, because that is where "Art in Everyday Life" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'everyday life', def: '日常生活' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. It becomes visible when I stop at something beautiful unexpectedly, and I realize I nearly walked past it without noticing.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Art in Everyday Life" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Art in Everyday Life" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Art in Everyday Life" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'My understanding of "Art in Everyday Life" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
           { speaker: 'b', speakerName: 'James', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'I can see that. quiet pressure tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When quiet pressure is woven into ordinary routines, "Art in Everyday Life" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When this is woven into ordinary routines, "Art in Everyday Life" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'So the lesson was not just about insight. It was about building a version of "Art in Everyday Life" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -137,10 +137,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'What feels hardest about "Art in Everyday Life" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why I take it seriously. The inner tension around "Art in Everyday Life" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -149,13 +149,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Art in Everyday Life" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Art in Everyday Life" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the smallest reliable action in your version of "Art in Everyday Life"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
           { speaker: 'b', speakerName: 'James', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -181,20 +181,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Art in Everyday Life" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Art in Everyday Life」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
+          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Art in Everyday Life" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 'everyday life', zh: 'everyday life 相關表達', example: 'In Art in Everyday Life, everyday life matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Art in Everyday Life, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Art in Everyday Life, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Art in Everyday Life, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Art in Everyday Life, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Art in Everyday Life, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Art in Everyday Life, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Art in Everyday Life, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   },
   {
@@ -208,26 +208,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'If "Storytelling as a Human Need" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Storytelling as a Human Need」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to human need first, because that is where "Storytelling as a Human Need" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「human need」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'human need', def: '和「human need」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. daily pattern becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Storytelling as a Human Need" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Storytelling as a Human Need" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Storytelling as a Human Need" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'If "Storytelling as a Human Need" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to human need first, because that is where "Storytelling as a Human Need" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'human need', def: '人類的基本需求' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. It becomes clear when I am in the middle of telling a story and I realize I am also figuring out what I actually think about it.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Storytelling as a Human Need" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Storytelling as a Human Need" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Storytelling as a Human Need" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'My understanding of "Storytelling as a Human Need" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
           { speaker: 'b', speakerName: 'James', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'I can see that. quiet pressure tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When quiet pressure is woven into ordinary routines, "Storytelling as a Human Need" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When this is woven into ordinary routines, "Storytelling as a Human Need" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'So the lesson was not just about insight. It was about building a version of "Storytelling as a Human Need" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -235,10 +235,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'What feels hardest about "Storytelling as a Human Need" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why I take it seriously. The inner tension around "Storytelling as a Human Need" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -247,13 +247,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Storytelling as a Human Need" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Storytelling as a Human Need" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the smallest reliable action in your version of "Storytelling as a Human Need"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
           { speaker: 'b', speakerName: 'James', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -279,20 +279,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Storytelling as a Human Need" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Storytelling as a Human Need」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
+          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Storytelling as a Human Need" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 'human need', zh: 'human need 相關表達', example: 'In Storytelling as a Human Need, human need matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Storytelling as a Human Need, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Storytelling as a Human Need, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Storytelling as a Human Need, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Storytelling as a Human Need, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Storytelling as a Human Need, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Storytelling as a Human Need, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Storytelling as a Human Need, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   },
   {
@@ -306,26 +306,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'When "Design Thinking in Daily Life" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Design Thinking in Daily Life」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I usually begin with daily life, because that is where "Design Thinking in Daily Life" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「daily life」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'daily life', def: '和「daily life」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'In what situation do you feel daily life most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me it shows up in small moments rather than dramatic ones. design thinking starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「design thinking」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'design thinking', def: '和「design thinking」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'That makes sense, because themes like "Creativity & Self-Expression" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why "Design Thinking in Daily Life" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'Why do you think people often misjudge "Design Thinking in Daily Life" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Probably both. People often look for a dramatic sign, but a lot of "Design Thinking in Daily Life" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'When "Design Thinking in Daily Life" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'I usually begin with daily life, because that is where "Design Thinking in Daily Life" stops being abstract and starts touching actual routines.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'daily life', def: '日常生活' }] },
+          { speaker: 'b', speakerName: 'James', en: 'In what situation do you feel this most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me it shows up in small moments rather than dramatic ones. It starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'design thinking', def: '設計思維' }] },
+          { speaker: 'b', speakerName: 'James', en: 'That makes sense, because themes like "Creativity & Self-Expression" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why "Design Thinking in Daily Life" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'Why do you think people often misjudge "Design Thinking in Daily Life" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Probably both. People often look for a dramatic sign, but a lot of "Design Thinking in Daily Life" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Design Thinking in Daily Life" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'Can you describe the situation a little more? I want to understand what turned "Design Thinking in Daily Life" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「daily pattern」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Can you describe the situation a little more? I want to understand what turned "Design Thinking in Daily Life" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
           { speaker: 'b', speakerName: 'James', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why small decision matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「small decision」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「small decision」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why this matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Design Thinking in Daily Life" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -333,10 +333,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'Where does "Design Thinking in Daily Life" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「quiet pressure」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
           { speaker: 'b', speakerName: 'James', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'How much does that internal pressure spill outward? I am guessing "Design Thinking in Daily Life" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'How much does that internal pressure spill outward? I am guessing "Design Thinking in Daily Life" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Design Thinking in Daily Life" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -345,13 +345,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'These days I handle "Design Thinking in Daily Life" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'These days I handle "Design Thinking in Daily Life" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「honest reset」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「steady rhythm」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -377,20 +377,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「real trade-off」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'That lands well for me. The conversation makes "Design Thinking in Daily Life" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Design Thinking in Daily Life」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
+          { speaker: 'b', speakerName: 'James', en: 'That lands well for me. The conversation makes "Design Thinking in Daily Life" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 'daily life', zh: 'daily life 相關表達', example: 'In Design Thinking in Daily Life, daily life matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'design thinking', zh: 'design thinking 相關表達', example: 'In Design Thinking in Daily Life, design thinking matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Design Thinking in Daily Life, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Design Thinking in Daily Life, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Design Thinking in Daily Life, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Design Thinking in Daily Life, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Design Thinking in Daily Life, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Design Thinking in Daily Life, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   },
   {
@@ -404,26 +404,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'If "Music and Emotional Expression" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「Music and Emotional Expression」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to emotional expression first, because that is where "Music and Emotional Expression" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「emotional expression」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'emotional expression', def: '和「emotional expression」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. daily pattern becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Music and Emotional Expression" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Music and Emotional Expression" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Music and Emotional Expression" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'If "Music and Emotional Expression" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to emotional expression first, because that is where "Music and Emotional Expression" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'emotional expression', def: '情感表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. It becomes clear when I notice that music I had not heard in years immediately returns me to a feeling I thought I had finished with.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "Music and Emotional Expression" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "Music and Emotional Expression" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "Music and Emotional Expression" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'My understanding of "Music and Emotional Expression" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
           { speaker: 'b', speakerName: 'James', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'I can see that. quiet pressure tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When quiet pressure is woven into ordinary routines, "Music and Emotional Expression" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When this is woven into ordinary routines, "Music and Emotional Expression" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'So the lesson was not just about insight. It was about building a version of "Music and Emotional Expression" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -431,10 +431,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'What feels hardest about "Music and Emotional Expression" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why I take it seriously. The inner tension around "Music and Emotional Expression" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -443,13 +443,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Music and Emotional Expression" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "Music and Emotional Expression" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the smallest reliable action in your version of "Music and Emotional Expression"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
           { speaker: 'b', speakerName: 'James', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -475,20 +475,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Music and Emotional Expression" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「Music and Emotional Expression」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
+          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "Music and Emotional Expression" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 'emotional expression', zh: 'emotional expression 相關表達', example: 'In Music and Emotional Expression, emotional expression matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Music and Emotional Expression, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Music and Emotional Expression, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Music and Emotional Expression, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Music and Emotional Expression, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Music and Emotional Expression, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Music and Emotional Expression, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Music and Emotional Expression, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   },
   {
@@ -502,26 +502,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'If "The Writer\'s Mind" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到「The Writer\'s Mind」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to s mind first, because that is where "The Writer\'s Mind" becomes something I can observe instead of just admire.', zh: '如果要我從一個入口開始，我會選「s mind」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 's mind', def: '和「s mind」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. daily pattern becomes visible when I slow down long enough to notice what kind of choice I am actually making.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "The Writer\'s Mind" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "The Writer\'s Mind" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "The Writer\'s Mind" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'If "The Writer\'s Mind" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My mind goes to the writer's mind first, because that is where "The Writer\'s Mind" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'writer's mind', def: '心智、思考方式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'It often happens in a plain everyday scene. It becomes clear when I write something down and realize the act of writing was how I figured out what I actually thought.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why "Creativity & Self-Expression" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. What matters to me is that "The Writer\'s Mind" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'What do you think makes "The Writer\'s Mind" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually they want a clear before-and-after story, but "The Writer\'s Mind" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'My understanding of "The Writer\'s Mind" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
           { speaker: 'b', speakerName: 'James', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'I can see that. quiet pressure tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When quiet pressure is woven into ordinary routines, "The Writer\'s Mind" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'That is the useful part for me. When this is woven into ordinary routines, "The Writer\'s Mind" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'So the lesson was not just about insight. It was about building a version of "The Writer\'s Mind" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -529,10 +529,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'What feels hardest about "The Writer\'s Mind" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why I take it seriously. The inner tension around "The Writer\'s Mind" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -541,13 +541,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "The Writer\'s Mind" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'The most useful shift for me has been practical. I try to build "The Writer\'s Mind" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the smallest reliable action in your version of "The Writer\'s Mind"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
           { speaker: 'b', speakerName: 'James', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -573,20 +573,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "The Writer\'s Mind" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓「The Writer\'s Mind」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
+          { speaker: 'b', speakerName: 'James', en: 'I think that is the real takeaway. "The Writer\'s Mind" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 's mind', zh: 's mind 相關表達', example: 'In The Writer\'s Mind, s mind matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In The Writer\'s Mind, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In The Writer\'s Mind, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In The Writer\'s Mind, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In The Writer\'s Mind, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In The Writer\'s Mind, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In The Writer\'s Mind, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In The Writer\'s Mind, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   },
   {
@@ -600,26 +600,26 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 1 — Opening the Theme',
         lines: [
-          { speaker: 'b', speakerName: 'James', en: 'When "Living a Creative Life" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到「Living a Creative Life」時，哪一部分最像真實生活，而不只是聽起來很勵志的概念？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I usually begin with creative life, because that is where "Living a Creative Life" stops being abstract and starts touching actual routines.', zh: '如果要我從一個入口開始，我會選「creative life」，因為它讓這個主題從抽象想法變成每天真的能觀察到的事情。', vocab: [{ word: 'creative life', def: '和「creative life」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'In what situation do you feel creative life most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '那通常會在什麼場景裡最明顯？是獨處的時候、忙碌工作裡，還是和別人互動時？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me it shows up in small moments rather than dramatic ones. daily pattern starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '對我來說，多半是在很普通的日常時刻。我會在一個小決定裡看見「daily pattern」，然後發現它其實影響了整天的走向。', vocab: [{ word: 'daily pattern', def: '和「daily pattern」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'That makes sense, because themes like "Creativity & Self-Expression" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為像「Creativity & Self-Expression」這種主題，常常會先以感受或模式出現，之後人才有語言去描述它。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why "Living a Creative Life" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以我在意的不是口頭上的認同，而是這個主題在忙碌、混亂或情緒不穩時，還會不會繼續影響選擇。' },
-          { speaker: 'b', speakerName: 'James', en: 'Why do you think people often misjudge "Living a Creative Life" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的地方是什麼？是太早想要清楚答案，還是只看見表面結果？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Probably both. People often look for a dramatic sign, but a lot of "Living a Creative Life" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人會期待一個戲劇性的訊號，但其實這類主題常常是由反覆的小選擇慢慢堆出來的。' }
+          { speaker: 'b', speakerName: 'James', en: 'When "Living a Creative Life" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'I usually begin with creative life, because that is where "Living a Creative Life" stops being abstract and starts touching actual routines.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'creative life', def: '創意生活' }] },
+          { speaker: 'b', speakerName: 'James', en: 'In what situation do you feel this most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me it shows up in small moments rather than dramatic ones. It starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
+          { speaker: 'b', speakerName: 'James', en: 'That makes sense, because themes like "Creativity & Self-Expression" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is why "Living a Creative Life" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
+          { speaker: 'b', speakerName: 'James', en: 'Why do you think people often misjudge "Living a Creative Life" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'Probably both. People often look for a dramatic sign, but a lot of "Living a Creative Life" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
         ],
       },
       {
         title: 'Part 2 — A Concrete Situation',
         lines: [
           { speaker: 'a', speakerName: 'Maya', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Living a Creative Life" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'James', en: 'Can you describe the situation a little more? I want to understand what turned "Living a Creative Life" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，到底是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'At the center of it was small decision. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '那個時候的核心其實就是「small decision」。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '和「small decision」相關的常用表達' }] },
+          { speaker: 'b', speakerName: 'James', en: 'Can you describe the situation a little more? I want to understand what turned "Living a Creative Life" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'At the center of it was small decision. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
           { speaker: 'b', speakerName: 'James', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why quiet pressure matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為像「quiet pressure」這種東西，通常都是靠誠實而穩定的重複練出來的，不是靠一次衝很猛。', vocab: [{ word: 'quiet pressure', def: '和「quiet pressure」相關的常用表達' }] },
-          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is what stayed with me. Once quiet pressure became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就是這裡。當「quiet pressure」真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
+          { speaker: 'b', speakerName: 'James', en: 'Right, and that is probably why this matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is what stayed with me. Once quiet pressure became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
           { speaker: 'b', speakerName: 'James', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Living a Creative Life" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
         ],
       },
@@ -627,10 +627,10 @@ export const WEEK_44: Episode[] = [
         title: 'Part 3 — Friction Beneath the Surface',
         lines: [
           { speaker: 'b', speakerName: 'James', en: 'Where does "Living a Creative Life" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I would say honest reset. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常是「honest reset」。它麻煩的地方不在於多戲劇化，而在於它會要求一種不太舒服的成熟。', vocab: [{ word: 'honest reset', def: '和「honest reset」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I would say honest reset. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
           { speaker: 'b', speakerName: 'James', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，可是那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'James', en: 'How much does that internal pressure spill outward? I am guessing "Living a Creative Life" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽、甚至對待別人的方式？' },
+          { speaker: 'a', speakerName: 'Maya', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
+          { speaker: 'b', speakerName: 'James', en: 'How much does that internal pressure spill outward? I am guessing "Living a Creative Life" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
           { speaker: 'a', speakerName: 'Maya', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
           { speaker: 'b', speakerName: 'James', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Living a Creative Life" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
           { speaker: 'a', speakerName: 'Maya', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
@@ -639,13 +639,13 @@ export const WEEK_44: Episode[] = [
       {
         title: 'Part 4 — What Helps in Practice',
         lines: [
-          { speaker: 'a', speakerName: 'Maya', en: 'These days I handle "Living a Creative Life" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很漂亮的人設。' },
+          { speaker: 'a', speakerName: 'Maya', en: 'These days I handle "Living a Creative Life" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
           { speaker: 'b', speakerName: 'James', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'For me, the first step is steady rhythm. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從「steady rhythm」開始。它夠小，所以可以反覆做；但它也夠重要，足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '和「steady rhythm」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'For me, the first step is steady rhythm. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
           { speaker: 'b', speakerName: 'James', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
           { speaker: 'a', speakerName: 'Maya', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
           { speaker: 'b', speakerName: 'James', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Maya', en: 'I look for real trade-off. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看「real trade-off」有沒有變多。真正的進步通常比較安靜，像是我比較不容易被同樣的事情拖著走。', vocab: [{ word: 'real trade-off', def: '和「real trade-off」相關的常用表達' }] },
+          { speaker: 'a', speakerName: 'Maya', en: 'I look for real trade-off. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
           { speaker: 'b', speakerName: 'James', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
         ],
       },
@@ -671,20 +671,20 @@ export const WEEK_44: Episode[] = [
           { speaker: 'b', speakerName: 'James', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
           { speaker: 'a', speakerName: 'Maya', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
           { speaker: 'b', speakerName: 'James', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is where useful habit helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到「useful habit」，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '和「useful habit」相關的常用表達' }] },
-          { speaker: 'b', speakerName: 'James', en: 'That lands well for me. The conversation makes "Living a Creative Life" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓「Living a Creative Life」聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
+          { speaker: 'a', speakerName: 'Maya', en: 'Yes, and that is where useful habit helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
+          { speaker: 'b', speakerName: 'James', en: 'That lands well for me. The conversation makes "Living a Creative Life" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
         ],
       }
     ],
     keyPhrases: [
-      { en: 'creative life', zh: 'creative life 相關表達', example: 'In Living a Creative Life, creative life matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'daily pattern', zh: 'daily pattern 相關表達', example: 'In Living a Creative Life, daily pattern matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'small decision', zh: 'small decision 相關表達', example: 'In Living a Creative Life, small decision matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'quiet pressure', zh: 'quiet pressure 相關表達', example: 'In Living a Creative Life, quiet pressure matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'honest reset', zh: 'honest reset 相關表達', example: 'In Living a Creative Life, honest reset matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'steady rhythm', zh: 'steady rhythm 相關表達', example: 'In Living a Creative Life, steady rhythm matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'real trade-off', zh: 'real trade-off 相關表達', example: 'In Living a Creative Life, real trade-off matters because it becomes visible through repeated choices rather than one dramatic moment.' },
-      { en: 'useful habit', zh: 'useful habit 相關表達', example: 'In Living a Creative Life, useful habit matters because it becomes visible through repeated choices rather than one dramatic moment.' }
+      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
+      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
+      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
+      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
+      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
+      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
+      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
+      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
     ],
   }
 ]
