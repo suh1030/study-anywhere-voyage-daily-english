@@ -183,12 +183,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Another useful one is, \"I am trying to make work that sounds more like me and less like my influences.\"",
             "zh": "另一句也很好用：「I am trying to make work that sounds more like me and less like my influences.」",
-            "vocab": [
-              {
-                "word": "creative voice",
-                "def": "一個人在創作裡慢慢長出的獨特表達方式"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -307,17 +302,12 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Authentic sound matters because making work that feels like home gives energy back to the maker too.",
             "zh": "真實聲音很重要，因為當作品開始像家，創作者自己也會從作品裡拿回能量。",
-            "vocab": [
-              {
-                "word": "authentic sound",
-                "def": "一種讓人感覺這作品真的屬於你，而不是借來的聲音"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending.",
+            "en": "That makes starting feel a lot less like a commitment and a lot more like an experiment.",
             "zh": "這感覺就是很對的結尾。"
           },
           {
@@ -548,12 +538,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "You can say, \"I care about the small details that make everyday life feel more alive.\"",
             "zh": "你可以說：「I care about the small details that make everyday life feel more alive.」",
-            "vocab": [
-              {
-                "word": "ordinary beauty",
-                "def": "不是很盛大，卻在日常裡真實存在的美感"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -566,12 +551,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Another useful one is, \"Beauty does not have to be grand to matter.\"",
             "zh": "另一句也很好用：「Beauty does not have to be grand to matter.」",
-            "vocab": [
-              {
-                "word": "aesthetic attention",
-                "def": "對生活中細節、形式和氛圍的美感注意力"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -584,12 +564,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "And if you want something simpler, say, \"I want my daily life to feel a little more beautiful.\"",
             "zh": "如果你想講得更簡單，也可以說：「I want my daily life to feel a little more beautiful.」",
-            "vocab": [
-              {
-                "word": "everyday art",
-                "def": "不是高高在上的作品，而是日常生活裡也會出現的藝術感"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -677,7 +652,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It gives texture, pause, tenderness, and a reminder that a life can be functional without becoming emotionally flat.",
-            "zh": "它會給人質地、停頓、溫柔，也提醒你：人生可以很有功能，但不用變得情感扁平。"
+            "zh": "它會給人質地、停頓、溫柔，也提醒你：人生可以很有功能，但不用變得情感扁平。",
+            "vocab": [
+              {
+                "word": "tenderness",
+                "def": "溫柔；細膩的關懷與輕柔感，使日常生活不流於機械化"
+              }
+            ]
           },
           {
             "speaker": "b",
@@ -690,17 +671,12 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Sensory nourishment matters because a person lives better when the world around them stops feeling purely mechanical.",
             "zh": "感官滋養很重要，因為當一個人周圍的世界不再只像機械運作時，他通常會活得比較好。",
-            "vocab": [
-              {
-                "word": "sensory nourishment",
-                "def": "能讓感官和心情被滋養、不是只有功能而已的感受經驗"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending.",
+            "en": "I have been waiting for the right conditions, and I think that is exactly what you are describing as the trap.",
             "zh": "這感覺就是很對的結尾。"
           },
           {
@@ -931,12 +907,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "You can say, \"Stories help people make sense of things that would otherwise feel scattered.\"",
             "zh": "你可以說：「Stories help people make sense of things that would otherwise feel scattered.」",
-            "vocab": [
-              {
-                "word": "shared meaning",
-                "def": "透過說故事讓經驗變得可被他人理解與共同感受的意義"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -949,12 +920,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Another useful one is, \"A good story can make you feel less alone in your own experience.\"",
             "zh": "另一句也很好用：「A good story can make you feel less alone in your own experience.」",
-            "vocab": [
-              {
-                "word": "emotional mirror",
-                "def": "某個故事像鏡子一樣照出自己的情緒和經驗"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -1073,17 +1039,12 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Listening imagination matters because a society gets more human when people can picture lives beyond their own.",
             "zh": "傾聽想像力很重要，因為當人能想像自己之外的人生時，整個社會會變得更像人。",
-            "vocab": [
-              {
-                "word": "listening imagination",
-                "def": "透過聽故事去想像與理解別人內在世界的能力"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending.",
+            "en": "So the creative block is not really about ideas. It is about permission.",
             "zh": "這感覺就是很對的結尾。"
           },
           {
@@ -1314,12 +1275,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "You can say, \"I think the problem is not effort, but the way the system is set up.\"",
             "zh": "你可以說：「I think the problem is not effort, but the way the system is set up.」",
-            "vocab": [
-              {
-                "word": "friction point",
-                "def": "流程或使用體驗中讓人一直卡住、不順的地方"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -1332,12 +1288,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Another useful one is, \"We may need a simpler process that matches how people actually behave.\"",
             "zh": "另一句也很好用：「We may need a simpler process that matches how people actually behave.」",
-            "vocab": [
-              {
-                "word": "user thinking",
-                "def": "設計時先從使用者實際感受與需求出發的思考方式"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -1350,12 +1301,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "And if you want something simpler, say, \"This works in theory, but not in real life.\"",
             "zh": "如果你想講得更簡單，也可以說：「This works in theory, but not in real life.」",
-            "vocab": [
-              {
-                "word": "workable solution",
-                "def": "不是理論上漂亮，而是在真實生活裡真的做得動的解法"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -1384,7 +1330,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Notice what you keep avoiding. Avoidance is often a map of bad design.",
-            "zh": "去注意你一直在逃避什麼。逃避很多時候就是壞設計的地圖。"
+            "zh": "去注意你一直在逃避什麼。逃避很多時候就是壞設計的地圖。",
+            "vocab": [
+              {
+                "word": "avoidance",
+                "def": "迴避；持續不去做某件事的傾向，通常是設計問題的訊號"
+              }
+            ]
           },
           {
             "speaker": "b",
@@ -1448,26 +1400,21 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very satisfying answer.",
-            "zh": "這真的就是很滿足的答案。"
+            "en": "I want that feeling in more parts of my day — life actually cooperating instead of just putting up with me.",
+            "zh": "我想在更多的日常時刻裡感受到那種感覺——生活真的在配合我，而不只是在勉強應付。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Daily design matters because people do better work when the ordinary structure of life wastes less of them.",
             "zh": "日常設計很重要，因為當普通生活的結構比較不浪費人時，人通常就能做出更好的事。",
-            "vocab": [
-              {
-                "word": "daily design",
-                "def": "把設計思考用在日常安排、流程和生活細節上的做法"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending.",
-            "zh": "這感覺就是很對的結尾。"
+            "en": "I want a daily structure that actually cooperates with who I am, not one I have to fight my way through every morning.",
+            "zh": "我想要一個真的能配合我的日常結構，而不是每天早上都要和它搏鬥的那種。"
           },
           {
             "speaker": "a",
@@ -1715,12 +1662,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Another useful one is, \"That song takes me straight back to a very specific feeling.\"",
             "zh": "另一句也很好用：「That song takes me straight back to a very specific feeling.」",
-            "vocab": [
-              {
-                "word": "music memory",
-                "def": "某段音樂和特定情緒、時間或記憶緊緊連在一起的感受"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -1780,12 +1722,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly. Sonic comfort matters because some sounds help a person return to themselves more gently.",
             "zh": "完全沒錯。聲音安慰感很重要，因為有些聲音真的會幫一個人比較溫柔地回到自己身上。",
-            "vocab": [
-              {
-                "word": "sonic comfort",
-                "def": "某種聲音會讓人立刻感到安定或被陪伴的舒適感"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -1839,17 +1776,12 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Emotional release matters because sometimes healing begins the moment a feeling is finally allowed to move.",
             "zh": "情緒釋放很重要，因為有時候修復就是從某個感受終於被允許流動的那一刻開始。",
-            "vocab": [
-              {
-                "word": "emotional release",
-                "def": "透過音樂把情緒放出來、鬆開來的經驗"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending.",
+            "en": "I have been waiting for the right conditions, and I think that is exactly what you are describing as the trap.",
             "zh": "這感覺就是很對的結尾。"
           },
           {
@@ -2080,12 +2012,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "You can say, \"Writing is slow for me because I can usually feel when a sentence is not honest yet.\"",
             "zh": "你可以說：「Writing is slow for me because I can usually feel when a sentence is not honest yet.」",
-            "vocab": [
-              {
-                "word": "sentence pressure",
-                "def": "當一句話想承載太多真實，於是變得很難寫的壓力"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -2116,12 +2043,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "And if you want something simpler, say, \"I know what I feel, but the sentence is not there yet.\"",
             "zh": "如果你想講得更簡單，也可以說：「I know what I feel, but the sentence is not there yet.」",
-            "vocab": [
-              {
-                "word": "inner draft",
-                "def": "還沒被寫出來，但已經在心裡慢慢成形的初稿感"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -2222,17 +2144,12 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Written clarity matters because many people only fully know their own mind after they see it on the page.",
             "zh": "文字清楚感很重要，因為很多人其實要等到心裡的東西真的出現在頁面上，才會完全知道自己在想什麼。",
-            "vocab": [
-              {
-                "word": "written clarity",
-                "def": "原本模糊的感受或想法，終於被寫得清楚的狀態"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the exact right ending.",
+            "en": "So the creative block is not really about ideas. It is about permission.",
             "zh": "這真的就是最剛好的結尾。"
           },
           {
@@ -2499,12 +2416,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "And if you want something simpler, say, \"I want to make more and overthink less.\"",
             "zh": "如果你想講得更簡單，也可以說：「I want to make more and overthink less.」",
-            "vocab": [
-              {
-                "word": "creative habit",
-                "def": "不是等靈感，而是平常就持續讓創作發生的習慣"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -2546,12 +2458,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly. Creative energy grows when people have enough safety to play, fail, and begin again.",
             "zh": "完全沒錯。當人有足夠安全感去玩、去失敗、再重新開始時，創作能量就會長。",
-            "vocab": [
-              {
-                "word": "creative energy",
-                "def": "不是一直被消耗，而是會因創作而被喚醒的能量感"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
@@ -2605,18 +2512,13 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Lived creativity matters because people become easier to live with when their inner life is allowed to move outward a little.",
             "zh": "活出創造力很重要，因為當一個人的內在生活被允許往外流動一點時，他整個人通常也會變得比較好和自己相處。",
-            "vocab": [
-              {
-                "word": "lived creativity",
-                "def": "不是只在想像中認同自己有創意，而是真的活出創作性"
-              }
-            ]
+            "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending.",
-            "zh": "這感覺就是很對的結尾。"
+            "en": "I think creativity might actually be something I need, not just something I enjoy when there happens to be time.",
+            "zh": "我覺得創造力可能是我真正需要的東西，而不只是偶爾有時間時才會享受的事。"
           },
           {
             "speaker": "a",
