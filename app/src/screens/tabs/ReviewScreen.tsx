@@ -11,8 +11,9 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context'
 import Svg, { Path, Rect } from 'react-native-svg' // Rect used in IconReview
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { SCHEDULE } from '../../data/curriculum'
+import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
 import { fetchFlashcards, type FlashcardRow } from '../../data/content-api'
+import { useCurriculumStore } from '../../stores/curriculumStore'
 import { useProgressStore } from '../../stores/progressStore'
 
 const { width } = Dimensions.get('window')
@@ -21,13 +22,6 @@ const NUM_COLUMNS = 2
 const CARD_WIDTH = (width - spacing.lg * 2 - CARD_MARGIN * (NUM_COLUMNS - 1)) / NUM_COLUMNS
 
 type Filter = 'all' | 'active' | 'mastered'
-
-function getTodayKey() {
-  const d = new Date()
-  const mm = String(d.getMonth() + 1).padStart(2, '0')
-  const dd = String(d.getDate()).padStart(2, '0')
-  return `${d.getFullYear()}-${mm}-${dd}`
-}
 
 function IconReview({ color }: { color: string }) {
   return (
@@ -93,6 +87,7 @@ function FlashcardItem({
 }
 
 export default function ReviewScreen() {
+  const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const { masteredCards, toggleCard } = useProgressStore()
   const [cards, setCards] = useState<FlashcardRow[]>([])
   const [loading, setLoading] = useState(true)
@@ -100,14 +95,21 @@ export default function ReviewScreen() {
   const [showOnboardingHint, setShowOnboardingHint] = useState(true)
 
   useEffect(() => {
-    const todayKey = getTodayKey()
-    const entry = SCHEDULE.find((d) => d.key === todayKey)
-    const weekNumber = entry?.week ?? 1
-    fetchFlashcards(weekNumber).then((data) => {
+    if (scheduleLoading) return
+
+    const entry = getScheduleEntry(schedule, getTodayKey())
+    if (!entry) {
+      setCards([])
+      setLoading(false)
+      return
+    }
+
+    setLoading(true)
+    fetchFlashcards(entry.week).then((data) => {
       setCards(data)
       setLoading(false)
     })
-  }, [])
+  }, [schedule, scheduleLoading])
 
   const filteredCards = useMemo(() => {
     return cards.filter((card) => {

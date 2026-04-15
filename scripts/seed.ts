@@ -34,24 +34,6 @@ if (!SUPABASE_URL || !SERVICE_KEY) {
 
 const supabase = createClient(SUPABASE_URL, SERVICE_KEY)
 
-// ── date helpers ──────────────────────────────────────────────────────────────
-
-/** Return all dates for a given week number (2026 calendar). */
-function getWeekDates(weekNum: number): string[] {
-  const start = new Date(2026, 0, 1) // Jan 1, 2026
-  let offset = 0
-  for (let w = 1; w < weekNum; w++) {
-    offset += w === 1 ? 4 : 7
-  }
-  const length = weekNum === 1 || weekNum === 53 ? 4 : 7
-  return Array.from({ length }, (_, d) => {
-    const date = new Date(start.getTime() + (offset + d) * 86400000)
-    const mm = String(date.getMonth() + 1).padStart(2, '0')
-    const dd = String(date.getDate()).padStart(2, '0')
-    return `${date.getFullYear()}-${mm}-${dd}`
-  })
-}
-
 function getExpectedWeekLength(weekNum: number): number {
   return weekNum === 1 || weekNum === 53 ? 4 : 7
 }
@@ -116,7 +98,6 @@ async function seedArticles() {
     const mod    = await import(`../content/articles/articles-w${pad}`)
     const key    = `W${w}_ARTICLES`
     const arts: any[] = mod[key] ?? []
-    const dates  = getWeekDates(w)
     const expected = getExpectedWeekLength(w)
     const normalized = arts.slice(0, expected)
 
@@ -126,8 +107,9 @@ async function seedArticles() {
 
     normalized.forEach((a, i) => {
       rows.push({
-        date_key:   dates[i],            // re-mapped to 2026 calendar
+        date_key:    a.dateKey ?? `legacy-w${pad}-d${String(i + 1).padStart(2, '0')}`,
         week_number: w,
+        day_of_week: i + 1,
         topic:      a.topic,
         title:      a.title,
         word_count: a.wordCount,

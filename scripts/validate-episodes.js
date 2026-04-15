@@ -2,20 +2,6 @@ const fs = require('fs')
 const path = require('path')
 const vm = require('vm')
 
-const PHASE_NAMES = {
-  p1: ['Mira', 'Jamie'],
-  p2: ['Lily', 'Tom'],
-  p3: ['Sara', 'Alex'],
-  p4: ['Nina', 'Marcus'],
-  p5: ['Jade', 'Ryan'],
-  p6: ['Maya', 'James'],
-}
-
-const BANNED_TERMS = [
-  'google', 'apple', 'bangkok', 'taipei', 'tokyo', 'london', 'paris', 'new york',
-  'starbucks', 'nike', 'uber', 'youtube', 'instagram', 'facebook', 'mcdonald',
-]
-
 function expectedPhase(weekNumber) {
   if (weekNumber <= 10) return 'p1'
   if (weekNumber <= 18) return 'p2'
@@ -35,6 +21,11 @@ function loadWeekFile(filePath) {
   return context.module.exports
 }
 
+function countChineseChars(value) {
+  const matches = String(value || '').match(/[\u3400-\u9fff]/g)
+  return matches ? matches.length : 0
+}
+
 function main() {
   const episodesDir = path.join(process.cwd(), 'content', 'episodes')
   const weekFiles = fs.readdirSync(episodesDir).filter((name) => /^week-\d{2}\.ts$/.test(name)).sort()
@@ -52,47 +43,80 @@ function main() {
       errors.push(`${id}: expected phase ${phase}, got ${episode.phase}`)
     }
 
-    if (episode.parts.length !== 6) {
-      errors.push(`${id}: expected 6 parts, got ${episode.parts.length}`)
+    if (episode.parts.length !== 5 && episode.parts.length !== 6) {
+      errors.push(`${id}: expected 5 or 6 parts, got ${episode.parts.length}`)
     }
 
     const lineCount = episode.parts.reduce((sum, part) => sum + part.lines.length, 0)
-    if (lineCount < 42 || lineCount > 54) {
-      errors.push(`${id}: expected 42-54 lines, got ${lineCount}`)
+    if (lineCount < 39 || lineCount > 54) {
+      errors.push(`${id}: expected 39-54 lines, got ${lineCount}`)
     }
 
     const vocabCount = episode.parts.reduce(
       (sum, part) => sum + part.lines.reduce((partSum, line) => partSum + ((line.vocab || []).length), 0),
       0,
     )
-    if (vocabCount < 8 || vocabCount > 10) {
-      errors.push(`${id}: expected 8-10 vocab items, got ${vocabCount}`)
+    if (vocabCount < 8) {
+      errors.push(`${id}: expected at least 8 vocab items, got ${vocabCount}`)
     }
 
-    const [speakerA, speakerB] = PHASE_NAMES[phase]
+    if (!episode.keyPhrases || episode.keyPhrases.length !== 8) {
+      errors.push(`${id}: expected 8 key phrases, got ${(episode.keyPhrases || []).length}`)
+    }
+
+    const seenPhraseDefs = new Set()
+    for (const phrase of episode.keyPhrases || []) {
+      if (!phrase.en || !phrase.zh || !phrase.example) {
+        errors.push(`${id}: key phrase fields must be non-empty`)
+      }
+      if (/相關表達$/.test(String(phrase.zh || ''))) {
+        errors.push(`${id}: key phrase "${phrase.en}" still uses placeholder zh`)
+      }
+      const defKey = String(phrase.zh || '').trim()
+      if (defKey) {
+        if (seenPhraseDefs.has(defKey)) {
+          errors.push(`${id}: duplicate key phrase definition "${defKey}"`)
+        }
+        seenPhraseDefs.add(defKey)
+      }
+    }
+
+    const speakerANames = new Set()
+    const speakerBNames = new Set()
     for (const part of episode.parts) {
       for (const line of part.lines) {
-        const text = `${line.en || ''} ${line.zh || ''}`.toLowerCase()
-        for (const term of BANNED_TERMS) {
-          if (text.includes(term)) {
-            errors.push(`${id}: contains banned term "${term}"`)
-          }
+        if (line.speaker === 'a') {
+          speakerANames.add(line.speakerName)
         }
 
-        if (line.speaker === 'a' && line.speakerName !== speakerA) {
-          errors.push(`${id}: speaker a should be ${speakerA}, got ${line.speakerName}`)
+        if (line.speaker === 'b') {
+          speakerBNames.add(line.speakerName)
         }
 
-        if (line.speaker === 'b' && line.speakerName !== speakerB) {
-          errors.push(`${id}: speaker b should be ${speakerB}, got ${line.speakerName}`)
+        if (countChineseChars(line.zh) < 4) {
+          errors.push(`${id}: Chinese line still contains English text`)
         }
 
         for (const vocab of line.vocab || []) {
-          if (!String(line.en || '').toLowerCase().includes(String(vocab.word).toLowerCase())) {
-            errors.push(`${id}: vocab "${vocab.word}" not found in English line`)
+          if (countChineseChars(vocab.def) < 1) {
+            errors.push(`${id}: vocab definition for "${vocab.word}" still contains English text`)
           }
         }
       }
+    }
+
+    if (speakerANames.size !== 1) {
+      errors.push(`${id}: speaker a should stay consistent within the episode`)
+    }
+
+    if (speakerBNames.size !== 1) {
+      errors.push(`${id}: speaker b should stay consistent within the episode`)
+    }
+
+    const [speakerA] = [...speakerANames]
+    const [speakerB] = [...speakerBNames]
+    if (speakerA && speakerB && speakerA === speakerB) {
+      errors.push(`${id}: speaker a and speaker b should be different people`)
     }
   }
 

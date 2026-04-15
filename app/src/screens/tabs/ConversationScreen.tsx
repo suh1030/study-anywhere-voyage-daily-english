@@ -14,16 +14,10 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { SCHEDULE } from '../../data/curriculum'
+import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
 import { fetchQuestion, type QuestionRow } from '../../data/content-api'
 import { useCreditsStore } from '../../stores/creditsStore'
-
-function getTodayKey() {
-  const d = new Date()
-  const mm = String(d.getMonth() + 1).padStart(2, '0')
-  const dd = String(d.getDate()).padStart(2, '0')
-  return `${d.getFullYear()}-${mm}-${dd}`
-}
+import { useCurriculumStore } from '../../stores/curriculumStore'
 
 function IconConversation({ color }: { color: string }) {
   return (
@@ -40,8 +34,8 @@ function IconConversation({ color }: { color: string }) {
 
 export default function ConversationScreen() {
   const { navigate } = useNav()
+  const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const [questions, setQuestions] = useState<QuestionRow[]>([])
-  const [scheduleEntry, setScheduleEntry] = useState<{ week: number; dayOfWeek: number; label: string } | null>(null)
   const [questionIndex, setQuestionIndex] = useState(0)
   const [loading, setLoading] = useState(true)
   const [answer, setAnswer] = useState('')
@@ -52,17 +46,21 @@ export default function ConversationScreen() {
   const { balance, loading: creditsLoading, purchasing, requestFeedback, purchaseCredits } = useCreditsStore()
 
   useEffect(() => {
-    const todayKey = getTodayKey()
-    const entry = SCHEDULE.find((d) => d.key === todayKey)
-    const weekNumber = entry?.week ?? 1
-    const dayOfWeek = entry?.dayOfWeek ?? 1
-    if (entry) setScheduleEntry({ week: entry.week, dayOfWeek: entry.dayOfWeek, label: entry.label })
+    if (scheduleLoading) return
 
-    fetchQuestion(weekNumber, dayOfWeek).then((data) => {
+    const entry = getScheduleEntry(schedule, getTodayKey())
+    if (!entry) {
+      setQuestions([])
+      setLoading(false)
+      return
+    }
+
+    setLoading(true)
+    fetchQuestion(entry.week, entry.dayOfWeek).then((data) => {
       setQuestions(data ? [data] : [])
       setLoading(false)
     })
-  }, [])
+  }, [schedule, scheduleLoading])
 
   const question = questions[questionIndex] ?? null
   const totalQuestions = questions.length

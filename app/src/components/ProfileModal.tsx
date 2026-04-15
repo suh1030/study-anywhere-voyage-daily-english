@@ -56,16 +56,12 @@ export default function ProfileModal({ visible, onClose }: Props) {
             <View style={styles.sheet}>
               <View style={styles.handle} />
 
-              <Text style={styles.sectionLabel}>ACCOUNT</Text>
-              <Text style={styles.email}>{user?.email ?? '—'}</Text>
-
-              <View style={styles.divider} />
-
+              {/* Credits Section */}
+              <Text style={styles.sectionLabel}>CREDITS</Text>
               <View style={styles.creditsRow}>
-                <Text style={styles.creditsLabel}>CREDITS</Text>
-                <Text style={styles.creditsValue}>{balance}</Text>
+                <Text style={styles.creditsBalance}>{balance}</Text>
+                <Text style={styles.creditsUnit}>credits remaining</Text>
               </View>
-
               <TouchableOpacity
                 style={[styles.buyBtn, purchasing && styles.buyBtnDisabled]}
                 onPress={handleBuyCredits}
@@ -78,9 +74,14 @@ export default function ProfileModal({ visible, onClose }: Props) {
 
               <View style={styles.divider} />
 
+              {/* Account Section */}
+              <Text style={styles.sectionLabel}>ACCOUNT</Text>
+              <Text style={styles.email}>{user?.email ?? '—'}</Text>
               <TouchableOpacity style={styles.signOutBtn} onPress={handleSignOut}>
                 <Text style={styles.signOutText}>SIGN OUT</Text>
               </TouchableOpacity>
+
+              <View style={styles.divider} />
 
               <TouchableOpacity style={styles.cancelBtn} onPress={onClose}>
                 <Text style={styles.cancelText}>CANCEL</Text>
@@ -144,20 +145,20 @@ const styles = StyleSheet.create({
   },
   creditsRow: {
     flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
+    alignItems: 'baseline',
+    gap: spacing.sm,
     paddingVertical: spacing.sm,
   },
-  creditsLabel: {
+  creditsBalance: {
+    fontFamily: fonts.mono,
+    fontSize: 32,
+    color: colors.ui,
+  },
+  creditsUnit: {
     fontFamily: fonts.mono,
     fontSize: 11,
-    letterSpacing: 1.5,
     color: colors.muted,
-  },
-  creditsValue: {
-    fontFamily: fonts.mono,
-    fontSize: 18,
-    color: colors.ui,
+    letterSpacing: 1,
   },
   buyBtn: {
     marginTop: spacing.sm,

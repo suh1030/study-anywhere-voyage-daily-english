@@ -13,9 +13,9 @@ export interface EpisodePart {
 }
 
 export interface Episode {
-  weekNumber: number       // 1–53（W1: 1/1–1/4，W53: 12/28–12/31）
-  dayOfWeek: number        // 1–7（1=週一）；W1/W53 為 1–4
-  date: string             // 'YYYY-MM-DD'，對應 2026 年實際日曆日期
+  weekNumber: number       // 1–53（rolling curriculum week number）
+  dayOfWeek: number        // 1–7；W1/W53 為 1–4
+  date: string             // content-authored legacy date field; app runtime uses rolling week/day lookup
   theme: string            // 當週主題（同週 7 集共用）
   title: string            // 當集專屬標題
   phase: 'p1' | 'p2' | 'p3' | 'p4' | 'p5' | 'p6'

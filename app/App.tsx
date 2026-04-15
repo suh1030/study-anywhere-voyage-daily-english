@@ -12,6 +12,7 @@ import { supabase } from './src/lib/supabase'
 import { useAuthStore } from './src/stores/authStore'
 import { useProgressStore } from './src/stores/progressStore'
 import { useCreditsStore } from './src/stores/creditsStore'
+import { useCurriculumStore } from './src/stores/curriculumStore'
 import TabNavigator from './src/navigation/TabNavigator'
 import AuthScreen from './src/screens/auth/AuthScreen'
 import { colors } from './src/constants/theme'
@@ -34,6 +35,7 @@ export default function App() {
   const { session, loading, setSession } = useAuthStore()
   const { load: loadProgress, sync: syncProgress } = useProgressStore()
   const { fetchBalance, initRevenueCat } = useCreditsStore()
+  const { initialize: initializeCurriculum, reset: resetCurriculum, loading: curriculumLoading } = useCurriculumStore()
   const appState = useRef(AppState.currentState)
 
   useEffect(() => {
@@ -54,9 +56,12 @@ export default function App() {
     if (session) {
       loadProgress()
       fetchBalance()
+      initializeCurriculum()
       if (session.user?.id) initRevenueCat(session.user.id)
+    } else {
+      resetCurriculum()
     }
-  }, [session])
+  }, [session, loadProgress, fetchBalance, initializeCurriculum, initRevenueCat, resetCurriculum])
 
   // Sync progress to backend when app moves to background
   useEffect(() => {
@@ -70,7 +75,7 @@ export default function App() {
     return () => sub.remove()
   }, [session])
 
-  if (loading || !fontsLoaded) {
+  if (loading || (session ? curriculumLoading : false) || !fontsLoaded) {
     return (
       <View style={{ flex: 1, backgroundColor: colors.bg, justifyContent: 'center', alignItems: 'center' }}>
         <ActivityIndicator color={colors.ui} size="large" />

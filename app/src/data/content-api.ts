@@ -8,6 +8,7 @@ export interface ArticleRow {
   id: string
   date_key: string
   week_number: number
+  day_of_week: number
   topic: string
   title: string
   word_count: number
@@ -79,15 +80,19 @@ function normalizeEpisodeRow(row: any): EpisodeRow {
 
 // ── API functions (cache-first) ───────────────────────────────────────────────
 
-export async function fetchArticle(dateKey: string): Promise<ArticleRow | null> {
-  const cacheKey = `article:${dateKey}`
+export async function fetchArticle(
+  weekNumber: number,
+  dayOfWeek: number
+): Promise<ArticleRow | null> {
+  const cacheKey = `article:${weekNumber}:${dayOfWeek}`
   const cached = await getCache<ArticleRow>(cacheKey)
   if (cached) return cached
 
   const { data, error } = await supabase
     .from('articles')
     .select('*')
-    .eq('date_key', dateKey)
+    .eq('week_number', weekNumber)
+    .eq('day_of_week', dayOfWeek)
     .single()
   if (error || !data) return null
   const row = data as ArticleRow

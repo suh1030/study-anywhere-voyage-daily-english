@@ -72,7 +72,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 ### Phase 4.5 — 資料層接 Supabase（樣本資料已移除）
 - [x] `src/data/content-api.ts` — fetchArticle / fetchEpisode / fetchFlashcards / fetchQuestion
 - [x] 所有內容畫面從 Supabase DB 讀取真實資料（loading / empty states）
-- [x] `curriculum.ts` 全面更新：53 週 CURRICULUM、365 天 SCHEDULE（1/1–12/31）、每天含 dayOfWeek、W1/W53 = 4 天
+- [x] `curriculum.ts` 全面更新：53 週 CURRICULUM、365 天 SCHEDULE、每天含 dayOfWeek、W1/W53 = 4 天
 - [x] ScheduleScreen → 內容 Tab 導航（tapping day row 跳轉對應 tab）
 - [x] Bug fixes：顏色語意修正（speak↔conversation 對調）、CurriculumWeek.phase 加入 p6
 
@@ -103,7 +103,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] **CR badge 整合**：Conversation tab 的 credits badge 移至 dayLabelBar 右側（與日期同行、有金色框）
 - [x] **header 間距對稱**：Listen / Speak header paddingVertical 統一
 - [x] **auth 改善**：登入錯誤訊息細分（帳號不存在 / 密碼錯誤 / 信箱未驗證）；Apple/Google 按鈕高度統一
-- [x] **curriculum rolling schedule**：以 `PROGRAM_START_DATE` 為起點動態生成，上線日期改 constant 即可
+- [x] **curriculum rolling schedule**：改為以使用者 `profiles.settings.curriculumStartDate` 為起點動態生成
 
 ### Phase 4.8 — 內容安全稽核（2026-04-03）
 - [x] 新增 `scripts/validate-content-safety.js`，可重跑檢查活躍內容檔的年齡分級風險
@@ -132,11 +132,11 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
   - `content/flashcards/flashcards-w01-w08.ts` 至 `flashcards-w33-w41.ts`
 ### Phase 2.5 — 內容擴展（新架構 W1–W53，全年 365 天）
 
-> 目標：完成全年每日三模組內容，支援 1/1–12/31 完整課程
+> 目標：完成全年每日三模組內容，支援每位使用者從 Day 1 開始的完整 365 天課程
 
 #### Episode 架構遷移
 - [x] 更新 `Episode` TypeScript interface（新增 `dayOfWeek: number`、`date: string`，phase 加入 `'p6'`）
-- [x] 建立 `content/episodes/index.ts`（`getEpisodeByDate`、`getWeekEpisodes`、`getDateRange`、`getWeekLength` 工具函式，W01–W53 全部 import）
+- [x] 建立 `content/episodes/index.ts`（`getEpisode`、`getWeekEpisodes`、`getWeekLength` 工具函式，W01–W53 全部 import）
 - [x] 將舊 `episode-02.ts`~`episode-41.ts` 合併重組為週模組格式 `week-XX.ts`（各集作為 Day 1）→ `week-03.ts`~`week-43.ts`
 - [x] 補建 `week-01.ts`（W1：1/1–1/4，4 集，主題：New Year & Fresh Starts）
 - [x] 補建 `week-02.ts`（W2：1/5–1/11，7 集，主題：Morning Routines）
@@ -159,7 +159,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] Review 字卡 W1–W53 全部完成並重建為全年版本 → `content/flashcards/flashcards-w01-w08.ts` 至 `flashcards-w42-w53.ts`
 
 #### App 資料層更新
-- [x] 更新 `src/data/curriculum.ts`：53 週 CURRICULUM + 365 天 SCHEDULE（1/1–12/31，W1/W53=4天）
+- [x] 更新 `src/data/curriculum.ts`：53 週 CURRICULUM + 365 天 SCHEDULE（rolling curriculum，W1/W53=4天）
 - [x] 更新 Schedule 模組顯示邏輯（W1/W53 為 4 天不完整週）
 
 ---
@@ -167,7 +167,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] 用 OpenAI TTS（`tts-1`）批次生成所有 Episode 音訊 mp3（每行一個檔，本地已完成）
 - [ ] 建立 Cloudflare R2 bucket + 上傳音訊檔 ← 需 Cloudflare 帳號
 - [x] DB seeding 腳本：`scripts/seed.ts`（`npm run seed`，需 SUPABASE_SERVICE_ROLE_KEY）
-  - 自動 re-map 文章日期至 2026 實際日曆
+  - articles 改以 `week_number + day_of_week` 對應 rolling curriculum，`date_key` 僅保留相容用途
   - 新增 migration `20260323000000_fix_questions_schema.sql`（day_of_week 1-7 + unique constraint）
 - [x] App 模組從 sample data 切換為從 Supabase API 讀取真實資料（content-api.ts）
 - [ ] 將本地已驗證的全年內容與音檔同步至 Supabase / Storage，並做產品端最終驗收
@@ -237,7 +237,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 | 後端 | Supabase Edge Functions (Deno) | 免費 tier 足夠 v1，冷啟動 < 200ms |
 | 狀態管理 | Zustand | 輕量、不需 Provider wrapper |
 | 監控 | Supabase Dashboard + Cloudflare Analytics | 免費，到達上限會自動通知 |
-| 內容策略 | 全年 365 天（1/1–12/31），W1–W53（53 週），每天 Listen+Conversation+Speak | 完整年度日曆課程，上架即提供全年內容 |
+| 內容策略 | 全年 365 天，W1–W53（53 週），每天 Listen+Conversation+Speak | 每位使用者從自己的 Day 1 開始完成完整課程 |
 | Episode 檔案格式 | Weekly Module（`week-01.ts`~`week-53.ts`），每檔含 4 或 7 集陣列 | 53 檔 vs 365 檔，業界最佳實踐，維護成本低，支援週主題聚合查詢 |
 
 ---
@@ -281,7 +281,7 @@ study-anywhere-voyage-daily-english/
 │           └── tabs/ (Schedule, Listen, Speak, Conversation, Review)
 └── content/                       # 課程內容檔
     ├── episodes/
-    │   ├── index.ts               # getEpisodeByDate, getWeekEpisodes
+    │   ├── index.ts               # getEpisode, getWeekEpisodes
     │   ├── week-01.ts             # W1: 1/1–1/4（4 集）New Year & Fresh Starts
     │   ├── week-02.ts             # W2: 1/5–1/11（7 集）Morning Routines
     │   ├── ...

@@ -119,4 +119,4 @@
 | Account tab 顏色 | active 狀態改為灰色（與 SCHED 區隔） |
 | header 間距對稱 | Listen / Speak header paddingVertical 統一為 spacing.lg |
 | 登入錯誤訊息 | 區分「帳號不存在」/ 「密碼錯誤」/ 「尚未驗證信箱」|
-| rolling schedule | curriculum.ts 以 PROGRAM_START_DATE 為起點動態生成日曆 |
+| rolling schedule | curriculum 以每位使用者的 `curriculumStartDate` 為起點動態生成日曆 |

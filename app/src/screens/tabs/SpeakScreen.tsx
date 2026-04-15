@@ -14,8 +14,9 @@ import { useAudioRecorder, useAudioPlayer, AudioModule, RecordingPresets } from 
 import * as Speech from 'expo-speech'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { SCHEDULE } from '../../data/curriculum'
+import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
 import { fetchArticle, parseParagraphs, type ArticleRow } from '../../data/content-api'
+import { useCurriculumStore } from '../../stores/curriculumStore'
 
 function IconSpeak({ color }: { color: string }) {
   return (
@@ -36,17 +37,10 @@ function IconSpeak({ color }: { color: string }) {
   )
 }
 
-function getTodayKey() {
-  const d = new Date()
-  const mm = String(d.getMonth() + 1).padStart(2, '0')
-  const dd = String(d.getDate()).padStart(2, '0')
-  return `${d.getFullYear()}-${mm}-${dd}`
-}
-
 export default function SpeakScreen() {
   const { navigate } = useNav()
+  const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const [article, setArticle] = useState<ArticleRow | null>(null)
-  const [scheduleEntry, setScheduleEntry] = useState<{ week: number; dayOfWeek: number; label: string } | null>(null)
   const [loading, setLoading] = useState(true)
   const [showChinese, setShowChinese] = useState(false)
   const [isRecording, setIsRecording] = useState(false)
@@ -62,17 +56,24 @@ export default function SpeakScreen() {
   const isSpeaking = activeParagraph >= 0
 
   useEffect(() => {
-    const todayKey = getTodayKey()
-    const entry = SCHEDULE.find((d) => d.key === todayKey)
-    if (entry) setScheduleEntry({ week: entry.week, dayOfWeek: entry.dayOfWeek, label: entry.label })
-    fetchArticle(todayKey).then((data) => {
+    if (scheduleLoading) return
+
+    const entry = getScheduleEntry(schedule, getTodayKey())
+    if (!entry) {
+      setArticle(null)
+      setLoading(false)
+      return
+    }
+
+    setLoading(true)
+    fetchArticle(entry.week, entry.dayOfWeek).then((data) => {
       setArticle(data)
       setLoading(false)
     })
     return () => {
       Speech.stop()
     }
-  }, [])
+  }, [schedule, scheduleLoading])
 
   // Speak the active paragraph whenever activeParagraph changes
   useEffect(() => {

@@ -21,41 +21,11 @@ function expectedWeekLength(week) {
   return week === 1 || week === 53 ? 4 : 7
 }
 
-const BAD_VOCAB_PATTERNS = [
-  /\b(ahead hopes|finding your creative|storytelling human|creativity self-expression|music and emotional)\b/,
-  /\b(makes real|power community|community giving|culture anyway|science gratitude)\b/,
-  /\b(you when you|you speak|rest productive|rest renewal|goals intentions)\b/,
-  /\b(back to move|living creative|art in everyday|reflections journey|circle reflections)\b/,
-  /\b(might live|ve changed|navigating cultural|vision behind|anyway|speak)\b/,
-]
+const PLACEHOLDER_EXAMPLES = [/^A useful way to talk about/i, /^A natural way to use/i]
 
-const DISCOURAGED_SINGLE_WORDS = new Set(['awe', 'future', 'job', 'off', 'work'])
-const FRAGMENT_WORDS = new Set([
-  'about', 'actually', 'after', 'always', 'between', 'choosing', 'clearly', 'difference',
-  'explain', 'finding', 'how', 'let', 'makes', 'matter', 'more', 'not', 'talk', 'talking',
-  'that', 'them', 'this', 'too', 'what', 'why',
-])
-const DISCOURAGED_PHRASES = new Set(['rest without', 'sustainable way', 'without sounding', 'work becomes', 'work follows'])
-
-function hasBadPattern(value) {
-  return BAD_VOCAB_PATTERNS.some((pattern) => pattern.test(String(value).toLowerCase()))
-}
-
-function isDiscouragedSingleWord(value) {
-  const normalized = String(value).toLowerCase().trim()
-  return !normalized.includes(' ') && DISCOURAGED_SINGLE_WORDS.has(normalized)
-}
-
-function hasFragmentWord(value) {
-  return String(value)
-    .toLowerCase()
-    .trim()
-    .split(/\s+/)
-    .some((word) => FRAGMENT_WORDS.has(word))
-}
-
-function isDiscouragedPhrase(value) {
-  return DISCOURAGED_PHRASES.has(String(value).toLowerCase().trim())
+function countChineseChars(value) {
+  const matches = String(value || '').match(/[\u3400-\u9fff]/g)
+  return matches ? matches.length : 0
 }
 
 const errors = []
@@ -90,19 +60,68 @@ for (const file of articleFiles) {
 
 for (const article of articles) {
   if (!article.vocabulary || article.vocabulary.length < 5) errors.push(`Article "${article.title}" missing vocabulary`)
+  if (!article.textZh || countChineseChars(article.textZh) < 20) {
+    errors.push(`Article "${article.title}" has non-localized Chinese text`)
+  }
+  const seenDefinitions = new Set()
   for (const vocab of article.vocabulary || []) {
-    if (hasBadPattern(vocab.word)) errors.push(`Article "${article.title}" has low-quality vocab "${vocab.word}"`)
-    if (isDiscouragedSingleWord(vocab.word)) errors.push(`Article "${article.title}" has overly generic vocab "${vocab.word}"`)
-    if (hasFragmentWord(vocab.word)) errors.push(`Article "${article.title}" has fragment-style vocab "${vocab.word}"`)
-    if (isDiscouragedPhrase(vocab.word)) errors.push(`Article "${article.title}" has discouraged vocab "${vocab.word}"`)
+    if (PLACEHOLDER_EXAMPLES.some((pattern) => pattern.test(String(vocab.example || '')))) {
+      errors.push(`Article "${article.title}" still has placeholder example for "${vocab.word}"`)
+    }
+    if (!vocab.definition || countChineseChars(vocab.definition) < 1) {
+      errors.push(`Article "${article.title}" has non-localized definition for "${vocab.word}"`)
+    }
+    const definitionKey = String(vocab.definition || '').trim()
+    if (definitionKey && seenDefinitions.has(definitionKey)) {
+      errors.push(`Article "${article.title}" has duplicate vocabulary definition "${definitionKey}"`)
+    }
+    seenDefinitions.add(definitionKey)
   }
 }
 
+for (const question of questions) {
+  if (!question.chineseHint || /[A-Za-z]/.test(question.chineseHint)) {
+    errors.push(`Question W${question.weekNumber} ${question.day} has non-localized chineseHint`)
+  }
+}
+
+const uniqueQuestionTexts = new Set(questions.map((question) => String(question.question || '').trim()).filter(Boolean))
+const uniqueQuestionHints = new Set(questions.map((question) => String(question.chineseHint || '').trim()).filter(Boolean))
+const uniqueQuestionStructures = new Set(questions.map((question) => String(question.structureTip || '').trim()).filter(Boolean))
+
+if (uniqueQuestionTexts.size !== questions.length) {
+  errors.push('Duplicate conversation questions detected')
+}
+
+if (uniqueQuestionHints.size < 20) {
+  errors.push(`Question Chinese hints are not varied enough: only ${uniqueQuestionHints.size} unique hints`)
+}
+
+if (uniqueQuestionStructures.size < 20) {
+  errors.push(`Question structure tips are not varied enough: only ${uniqueQuestionStructures.size} unique tips`)
+}
+
 for (const card of flashcards) {
-  if (hasBadPattern(card.english)) errors.push(`Flashcard ${card.id} has low-quality term "${card.english}"`)
-  if (isDiscouragedSingleWord(card.english)) errors.push(`Flashcard ${card.id} has overly generic term "${card.english}"`)
-  if (hasFragmentWord(card.english)) errors.push(`Flashcard ${card.id} has fragment-style term "${card.english}"`)
-  if (isDiscouragedPhrase(card.english)) errors.push(`Flashcard ${card.id} has discouraged term "${card.english}"`)
+  if (!card.chinese || countChineseChars(card.chinese) < 1) {
+    errors.push(`Flashcard ${card.id} has non-localized Chinese text`)
+  }
+  if (PLACEHOLDER_EXAMPLES.some((pattern) => pattern.test(String(card.exampleSentence || '')))) {
+    errors.push(`Flashcard ${card.id} still has placeholder example`)
+  }
+}
+
+const articleZhCounts = new Map()
+for (const article of articles) {
+  const key = String(article.textZh || '').trim()
+  if (!key) continue
+  articleZhCounts.set(key, (articleZhCounts.get(key) || 0) + 1)
+}
+
+for (const [textZh, count] of articleZhCounts.entries()) {
+  if (count > 1) {
+    errors.push(`Duplicate Chinese article text detected ${count} times`)
+    break
+  }
 }
 
 if (errors.length) {

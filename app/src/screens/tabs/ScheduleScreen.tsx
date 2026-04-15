@@ -5,11 +5,13 @@ import {
   StyleSheet,
   SectionList,
   TouchableOpacity,
+  ActivityIndicator,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { CURRICULUM, SCHEDULE, PHASE_LABELS, getWeekDays } from '../../data/curriculum'
+import { CURRICULUM, PHASE_LABELS, getScheduleEntry, getTodayKey, getWeekDays } from '../../data/curriculum'
+import { useCurriculumStore } from '../../stores/curriculumStore'
 import { useProgressStore } from '../../stores/progressStore'
 
 const ROW_COLORS = {
@@ -17,19 +19,6 @@ const ROW_COLORS = {
   conversation: colors.conversation,
   speak: colors.speak,
   review: colors.review,
-}
-
-function getTodayKey() {
-  const d = new Date()
-  const mm = String(d.getMonth() + 1).padStart(2, '0')
-  const dd = String(d.getDate()).padStart(2, '0')
-  return `${d.getFullYear()}-${mm}-${dd}`
-}
-
-function getCurrentWeek() {
-  const todayKey = getTodayKey()
-  const entry = SCHEDULE.find((d) => d.key === todayKey)
-  return entry?.week ?? 1
 }
 
 const TAB_NAMES: Record<string, string> = {
@@ -45,15 +34,22 @@ function getWeekPodcast(weekNum: number): string {
 
 export default function ScheduleScreen() {
   const { navigate } = useNav()
+  const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const { completedDays, toggleDay, sync: syncProgress } = useProgressStore()
-  const [expandedWeeks, setExpandedWeeks] = useState<Set<number>>(() => new Set([getCurrentWeek()]))
+  const [expandedWeeks, setExpandedWeeks] = useState<Set<number>>(() => new Set())
   const [resetConfirm, setResetConfirm] = useState(false)
 
   const resetTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const listRef = useRef<SectionList>(null)
 
   const todayKey = getTodayKey()
-  const currentWeek = getCurrentWeek()
+  const currentEntry = getScheduleEntry(schedule, todayKey)
+  const currentWeek = currentEntry?.week ?? schedule[schedule.length - 1]?.week ?? 1
+
+  useEffect(() => {
+    if (scheduleLoading || expandedWeeks.size > 0) return
+    setExpandedWeeks(new Set([currentWeek]))
+  }, [currentWeek, expandedWeeks.size, scheduleLoading])
 
   const toggleWeek = useCallback((wn: number) => {
     setExpandedWeeks((prev) => {
@@ -101,19 +97,19 @@ export default function ScheduleScreen() {
   // Stats
   const stats = useMemo(() => {
     const completed = Object.keys(completedDays).length
-    const total = SCHEDULE.length
+    const total = schedule.length
     const pct = total > 0 ? Math.round((completed / total) * 100) : 0
 
     // Calculate streak
     let streak = 0
-    for (let i = SCHEDULE.length - 1; i >= 0; i--) {
-      if (SCHEDULE[i].key > todayKey) continue
-      if (completedDays[SCHEDULE[i].key]) streak++
+    for (let i = schedule.length - 1; i >= 0; i--) {
+      if (schedule[i].key > todayKey) continue
+      if (completedDays[schedule[i].key]) streak++
       else break
     }
 
     return { completed, total, pct, streak }
-  }, [completedDays, todayKey])
+  }, [completedDays, schedule, todayKey])
 
   // Auto-scroll to current week on mount
   const handleListReady = useCallback(() => {
@@ -135,7 +131,7 @@ export default function ScheduleScreen() {
   const renderWeekHeader = useCallback(
     ({ item: week }: { item: (typeof CURRICULUM)[0] }) => {
       const isExpanded = expandedWeeks.has(week.wn)
-      const weekDays = getWeekDays(week.wn)
+      const weekDays = getWeekDays(schedule, week.wn)
       const weekCompleted = weekDays.filter((d) => completedDays[d.key]).length
       const isCurrent = week.wn === currentWeek
       const isFullyDone = weekCompleted === weekDays.length
@@ -226,8 +222,18 @@ export default function ScheduleScreen() {
       )
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [expandedWeeks, completedDays, todayKey, currentWeek, toggleWeek, handleToggleDay, handleDayPress]
+    [expandedWeeks, completedDays, todayKey, currentWeek, toggleWeek, handleToggleDay, handleDayPress, schedule]
   )
+
+  if (scheduleLoading) {
+    return (
+      <SafeAreaView style={styles.container} edges={[]}>
+        <View style={styles.loadingState}>
+          <ActivityIndicator color={colors.ui} />
+        </View>
+      </SafeAreaView>
+    )
+  }
 
   return (
     <SafeAreaView style={styles.container} edges={[]}>
@@ -281,6 +287,11 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: colors.bg,
+  },
+  loadingState: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   header: {
     paddingHorizontal: spacing.lg,

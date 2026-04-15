@@ -40,6 +40,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "scheme": "com.savelyn.studyanywherevoyage",
     "newArchEnabled": false,
     "plugins": [
       "expo-secure-store",

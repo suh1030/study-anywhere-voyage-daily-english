@@ -12,9 +12,10 @@ import Svg, { Polygon, Path, Circle } from 'react-native-svg'
 import * as Speech from 'expo-speech'
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { SCHEDULE } from '../../data/curriculum'
+import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
 import { useNav } from '../../navigation/NavContext'
+import { useCurriculumStore } from '../../stores/curriculumStore'
 
 const SUPABASE_URL = process.env.EXPO_PUBLIC_SUPABASE_URL ?? ''
 
@@ -23,13 +24,6 @@ function getAudioUrl(weekNumber: number, dayOfWeek: number, partIndex: number, l
 }
 
 type Speed = 0.75 | 1 | 1.25
-
-function getTodayKey() {
-  const d = new Date()
-  const mm = String(d.getMonth() + 1).padStart(2, '0')
-  const dd = String(d.getDate()).padStart(2, '0')
-  return `${d.getFullYear()}-${mm}-${dd}`
-}
 
 function IconPrev({ color }: { color: string }) {
   return (
@@ -74,8 +68,8 @@ function IconListen({ color }: { color: string }) {
 
 export default function ListenScreen() {
   const { navigate } = useNav()
+  const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const [episode, setEpisode] = useState<EpisodeRow | null>(null)
-  const [scheduleEntry, setScheduleEntry] = useState<{ week: number; dayOfWeek: number; label: string } | null>(null)
   const [loading, setLoading] = useState(true)
   const [currentLine, setCurrentLine] = useState(-1)
   const [showChinese, setShowChinese] = useState(false)
@@ -93,17 +87,21 @@ export default function ListenScreen() {
   const playerStatus = useAudioPlayerStatus(player)
 
   useEffect(() => {
-    const todayKey = getTodayKey()
-    const entry = SCHEDULE.find((d) => d.key === todayKey)
-    const weekNumber = entry?.week ?? 1
-    const dayOfWeek = entry?.dayOfWeek ?? 1
-    if (entry) setScheduleEntry({ week: entry.week, dayOfWeek: entry.dayOfWeek, label: entry.label })
+    if (scheduleLoading) return
 
-    fetchEpisode(weekNumber, dayOfWeek).then((data) => {
+    const entry = getScheduleEntry(schedule, getTodayKey())
+    if (!entry) {
+      setEpisode(null)
+      setLoading(false)
+      return
+    }
+
+    setLoading(true)
+    fetchEpisode(entry.week, entry.dayOfWeek).then((data) => {
       setEpisode(data)
       setLoading(false)
     })
-  }, [])
+  }, [schedule, scheduleLoading])
 
   // Flatten all lines across parts
   const allLines = useMemo<(EpisodeLine & { partIndex: number; lineIndex: number })[]>(() => {

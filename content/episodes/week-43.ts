@@ -2,689 +2,2684 @@ import { Episode } from '../types'
 
 export const WEEK_43: Episode[] = [
   {
-    weekNumber: 43,
-    dayOfWeek: 1,
-    date: '2026-10-19',
-    theme: 'Looking Back & Moving Forward',
-    title: 'Full Circle: Reflections on the Journey',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 1,
+    "date": "2026-10-19",
+    "theme": "Looking Back & Moving Forward",
+    "title": "Full Circle: Reflections on the Journey",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'When "Full Circle: Reflections on the Journey" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually begin with full circle, because that is where "Full Circle: Reflections on the Journey" stops being abstract and starts touching actual routines.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'full circle', def: '繞了一圈回到原點' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'In what situation do you feel this most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me it shows up in small moments rather than dramatic ones. It starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'on journey', def: '旅途中' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense, because themes like "Looking Back & Moving Forward" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is why "Full Circle: Reflections on the Journey" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why do you think people often misjudge "Full Circle: Reflections on the Journey" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Probably both. People often look for a dramatic sign, but a lot of "Full Circle: Reflections on the Journey" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — When a Pattern Finally Makes Sense",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Sometimes a year only starts making sense after you have already walked far enough away from it.",
+            "zh": "有時候一整年的意義，真的要等你走遠一點之後才看得出來。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is true. A reflection arc often appears backward, not in the middle of the confusion itself.",
+            "zh": "這是真的。所謂反思弧線，常常是在回頭看的時候才出現，不是在混亂當中就立刻看得見。",
+            "vocab": [
+              {
+                "word": "reflection arc",
+                "def": "回頭看時，才慢慢看清楚一段經歷整體意義的脈絡"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So understanding is sometimes delayed wisdom.",
+            "zh": "所以理解有時候其實是一種延後抵達的智慧。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. A completed circle feels surprising because the beginning often looked nothing like the ending.",
+            "zh": "完全沒錯。所謂走完一個圓之所以讓人驚訝，是因為開頭常常和結尾看起來完全不像。",
+            "vocab": [
+              {
+                "word": "completed circle",
+                "def": "某段經歷走到後來，終於能把前後意義連起來的感覺"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That explains why growth can feel invisible while it is happening.",
+            "zh": "這也能解釋，為什麼成長正在發生時常常反而看不見。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. The turning point is usually quieter than people imagine. It often looks ordinary at the time.",
+            "zh": "對。轉折點通常比大家想像的安靜很多，當下看起來甚至很普通。",
+            "vocab": [
+              {
+                "word": "turning point",
+                "def": "事後回頭才發現其實改變方向的關鍵時刻"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So we miss the meaning because we are too close to the process.",
+            "zh": "所以我們會錯過意義，是因為當時真的離那個過程太近了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is often exactly it.",
+            "zh": "很多時候真的就是這樣。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Full Circle: Reflections on the Journey" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Can you describe the situation a little more? I want to understand what turned "Full Circle: Reflections on the Journey" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Right, and that is probably why this matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Full Circle: Reflections on the Journey" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — Why It Is Hard to Read Your Own Life",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Why is it so hard to read your own life clearly while you are living it?",
+            "zh": "為什麼人在活自己的生活時，反而那麼難把它看清楚？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because lived experience is noisy. Reflection needs a little distance from survival mode.",
+            "zh": "因為活在裡面的經驗很吵。反思通常需要稍微離開生存模式一點。",
+            "vocab": [
+              {
+                "word": "lived experience",
+                "def": "一個人正在裡面實際過著、因此很難立刻看清的真實經驗"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the problem is not lack of intelligence. It is lack of space.",
+            "zh": "所以問題不是不夠聰明，而是不夠有空間。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Perspective delay happens when understanding arrives later than the event itself.",
+            "zh": "完全沒錯。視角延遲，就是理解總是在事情發生之後才慢慢跟上。",
+            "vocab": [
+              {
+                "word": "perspective delay",
+                "def": "事情早就發生了，但理解與看見要晚一點才跟上"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels strangely comforting.",
+            "zh": "這真的有一種奇怪的安慰感。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is comforting because it means confusion is not always failure. Sometimes it is just unfinished meaning.",
+            "zh": "它會讓人安慰，是因為它提醒你：混亂不一定是失敗，有時候只是意義還沒完成。",
+            "vocab": [
+              {
+                "word": "unfinished meaning",
+                "def": "一段經歷當下還看不懂、要再過一陣子才會顯出意義"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes reflection sound more patient than judgment.",
+            "zh": "這會讓反思聽起來比較像耐心，而不是審判。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is exactly what good reflection should feel like.",
+            "zh": "而好的反思，本來就該有那種感覺。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'Where does "Full Circle: Reflections on the Journey" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How much does that internal pressure spill outward? I am guessing "Full Circle: Reflections on the Journey" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Full Circle: Reflections on the Journey" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Looking Back with Clarity",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to say something only makes sense in hindsight?",
+            "zh": "如果我想用英文說「有些事是事後才看懂的」，可以怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"It only became clear to me after I had some distance from it.\"",
+            "zh": "你可以說：「It only became clear to me after I had some distance from it.」",
+            "vocab": [
+              {
+                "word": "retrospective clarity",
+                "def": "事情過後回頭看，才終於清楚起來的理解"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds very natural.",
+            "zh": "這句聽起來很自然。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"I understand that period differently now than I did while I was inside it.\"",
+            "zh": "另一句也很好用：「I understand that period differently now than I did while I was inside it.」",
+            "vocab": [
+              {
+                "word": "reflection arc",
+                "def": "回頭看時，才慢慢看清楚一段經歷整體意義的脈絡"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like that because it sounds thoughtful, not dramatic.",
+            "zh": "我喜歡這句，因為它聽起來有想法，但不會太戲劇化。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"I could not see it then, but I can see it now.\"",
+            "zh": "如果你想講得更簡單，也可以說：「I could not see it then, but I can see it now.」",
+            "vocab": [
+              {
+                "word": "meaning thread",
+                "def": "把不同事件慢慢串起來、讓人看見整體意義的那條線"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one is simple but strong.",
+            "zh": "這句很簡單，可是很有力量。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Simple language often works best for deep things.",
+            "zh": "很多深的東西，反而需要簡單語言。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'These days I handle "Full Circle: Reflections on the Journey" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — What Helps Reflection Become Useful",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do people reflect without getting lost in nostalgia or self-criticism?",
+            "zh": "人要怎麼反思，才不會掉進懷舊或自責裡？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "By asking better questions. Not only \"What happened?\" but also \"What did it teach?\" and \"What will I carry?\"",
+            "zh": "要先學會問比較好的問題。不只是問「發生了什麼」，也要問「它教了我什麼」和「我要帶走什麼」。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So reflection becomes useful when it leads to choice.",
+            "zh": "所以反思真正有用，是在它最後會帶到選擇。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Retrospective clarity matters when it helps a person live the next season with more honesty.",
+            "zh": "完全沒錯。事後清楚感很重要，是因為它能幫一個人更誠實地活進下一個階段。",
+            "vocab": [
+              {
+                "word": "retrospective clarity",
+                "def": "事情過後回頭看，才終於清楚起來的理解"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes the whole process feel more grounded.",
+            "zh": "這會讓整個過程感覺更踏實。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Grounded is good. Reflection should widen wisdom, not just recycle emotion.",
+            "zh": "踏實很好。反思應該是讓智慧變寬，不是只把情緒再重播一次。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a sentence worth remembering.",
+            "zh": "這句真的值得記住。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us keep it.",
+            "zh": "那我們就把它留下來。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'What do people most often get wrong about "Full Circle: Reflections on the Journey" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'People often assume "Full Circle: Reflections on the Journey" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Full Circle: Reflections on the Journey" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Full Circle: Reflections on the Journey" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Has "Full Circle: Reflections on the Journey" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That lands well for me. The conversation makes "Full Circle: Reflections on the Journey" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — Bringing the Meaning Forward",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what is the healthiest ending to a season of reflection?",
+            "zh": "所以一段反思季節最健康的結尾會是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Not closure in the dramatic sense. More like a quiet ability to carry the lesson without having to relive the pain every day.",
+            "zh": "不一定是戲劇性的「完全結案」，而是比較像你終於能安靜地帶著那個教訓往前，而不用每天重演那份痛。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds gentler than the word closure usually does.",
+            "zh": "這真的比大家平常講的 closure 溫柔很多。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A meaning thread matters because it lets the past become guidance instead of background noise.",
+            "zh": "意義線很重要，因為它會讓過去變成指引，而不是背景雜音。",
+            "vocab": [
+              {
+                "word": "meaning thread",
+                "def": "把不同事件慢慢串起來、讓人看見整體意義的那條線"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like the right ending.",
+            "zh": "這感覺就是很對的結尾。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I think I trust slow understanding a little more now.",
+            "zh": "我現在真的比較相信那種慢慢抵達的理解了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Slow understanding is still real understanding.",
+            "zh": "慢慢抵達的理解，一樣是真理解。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "reflection arc",
+        "zh": "回頭看時，才慢慢看清楚一段經歷整體意義的脈絡",
+        "example": "The reflection arc only appeared later."
+      },
+      {
+        "en": "completed circle",
+        "zh": "某段經歷走到後來，終於能把前後意義連起來的感覺",
+        "example": "It felt like a completed circle."
+      },
+      {
+        "en": "turning point",
+        "zh": "事後回頭才發現其實改變方向的關鍵時刻",
+        "example": "The turning point looked small at the time."
+      },
+      {
+        "en": "lived experience",
+        "zh": "一個人正在裡面實際過著、因此很難立刻看清的真實經驗",
+        "example": "Lived experience is often hard to read."
+      },
+      {
+        "en": "perspective delay",
+        "zh": "事情早就發生了，但理解與看見要晚一點才跟上",
+        "example": "Perspective delay is normal."
+      },
+      {
+        "en": "unfinished meaning",
+        "zh": "一段經歷當下還看不懂、要再過一陣子才會顯出意義",
+        "example": "At the time, it was just unfinished meaning."
+      },
+      {
+        "en": "retrospective clarity",
+        "zh": "事情過後回頭看，才終於清楚起來的理解",
+        "example": "Retrospective clarity changed her view of the year."
+      },
+      {
+        "en": "meaning thread",
+        "zh": "把不同事件慢慢串起來、讓人看見整體意義的那條線",
+        "example": "He finally found the meaning thread."
+      }
+    ]
   },
   {
-    weekNumber: 43,
-    dayOfWeek: 2,
-    date: '2026-10-20',
-    theme: 'Looking Back & Moving Forward',
-    title: 'Looking Back on How Much You’ve Changed',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 2,
+    "date": "2026-10-20",
+    "theme": "Looking Back & Moving Forward",
+    "title": "Looking Back on How Much You’ve Changed",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'When "Looking Back on How Much You’ve Changed" comes up, what part of it feels grounded in ordinary life instead of sounding like a slogan?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually begin with how you've changed, because that is where "Looking Back on How Much You’ve Changed" stops being abstract and starts touching actual routines.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'personal change', def: '已經改變了' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'In what situation do you feel this most strongly: when you are alone, when you are busy, or when someone asks you to explain yourself?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me it shows up in small moments rather than dramatic ones. It starts becoming visible when the day is already moving and I still have to decide how to respond.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'back on', def: '回顧、反思' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense, because themes like "Looking Back & Moving Forward" usually reveal themselves in the tone of a day before they become a clear idea.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is why "Looking Back on How Much You’ve Changed" feels meaningful to me. It asks what keeps shaping my decisions even when I do not feel especially motivated or clear.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why do you think people often misjudge "Looking Back on How Much You’ve Changed" in the beginning? Is it because they focus on outcomes before they understand the process?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Probably both. People often look for a dramatic sign, but a lot of "Looking Back on How Much You’ve Changed" is made of repeated choices that are easy to dismiss while they are still small.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — The Old Self You Barely Recognize",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Sometimes I read an old message from myself and feel affection, embarrassment, and surprise all at once.",
+            "zh": "有時候我回頭看以前自己寫的訊息，會同時感到心疼、尷尬，還有一點驚訝。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is often a sign of real growth. Personal distance makes the old version of you visible again.",
+            "zh": "那常常就是一種真實成長的證據。個人距離感，會讓以前那個自己重新變得看得見。",
+            "vocab": [
+              {
+                "word": "personal distance",
+                "def": "隔了一段時間後，終於能從外面看見過去自己的距離感"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So change can be measured by what now feels unfamiliar in your own old patterns.",
+            "zh": "所以改變有時候就是看：你以前的模式，現在對你來說是不是開始變陌生。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Quiet change is still change, even if nobody applauded when it was happening.",
+            "zh": "完全沒錯。安靜的改變一樣是改變，就算它發生時沒有人替你鼓掌。",
+            "vocab": [
+              {
+                "word": "quiet change",
+                "def": "不是很戲劇化、但其實已經很真實的內在改變"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes me respect small progress more.",
+            "zh": "這真的會讓我更尊重那些小小的進步。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You should. Identity stretch often happens in boring weeks, not only in dramatic breakthroughs.",
+            "zh": "你本來就該尊重。身份伸展很多時候是在那些普通到有點無聊的星期裡發生，不只是在大突破裡。",
+            "vocab": [
+              {
+                "word": "identity stretch",
+                "def": "一個人慢慢長出新樣子、舊的自己開始裝不太下的過程"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So some of the most important change is almost invisible at first.",
+            "zh": "所以最重要的一些改變，很多時候一開始幾乎是看不見的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is usually how it works.",
+            "zh": "很多時候它本來就是這樣運作的。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'One reason this topic matters to me is that I have seen how quickly a day can change once "Looking Back on How Much You’ve Changed" moves from theory into a concrete situation.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Can you describe the situation a little more? I want to understand what turned "Looking Back on How Much You’ve Changed" from a nice idea into a real demand.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'At the center of it was daily pattern. I remember realizing that the hard part was not understanding the issue; it was acting in line with what I already knew.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Did that tension change your behavior right away, or did it first change the story you told yourself about what mattered?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My mindset moved before the visible behavior did. That honesty made later decisions feel steadier, because I was no longer pretending the trade-off was easy.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Right, and that is probably why this matters here. It turns the topic into a practice instead of leaving it as a mood or identity label.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is what stayed with me. Once small decision became part of my ordinary rhythm, the topic felt less dramatic but much more trustworthy.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense. It sounds like the real win was not feeling certain for one day, but creating a version of "Looking Back on How Much You’ve Changed" that could last beyond one mood.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — Why We Miss Our Own Growth",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Why do people miss their own growth so easily?",
+            "zh": "為什麼人這麼容易看漏自己的成長？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because inner updates arrive gradually. You are busy living them before you are able to name them.",
+            "zh": "因為內在更新是慢慢到的。你通常先忙著活過它們，之後才有辦法命名。",
+            "vocab": [
+              {
+                "word": "inner update",
+                "def": "不是外在大事件，而是內在反應和理解正在悄悄更新"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So familiarity hides the shift.",
+            "zh": "所以熟悉感本身反而會把轉變藏起來。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Growth blindness happens when people only count dramatic outcomes and ignore changed reactions.",
+            "zh": "完全沒錯。成長盲點常常發生在：人只計算戲劇性結果，卻忽略了自己已經改變的反應方式。",
+            "vocab": [
+              {
+                "word": "growth blindness",
+                "def": "明明已經變了，卻因為太習慣而看不見自己的成長"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That really lands for me.",
+            "zh": "這真的很打到我。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A better metric is often emotional. What no longer hooks you? What no longer scares you in the same way?",
+            "zh": "更好的衡量方式很多時候是情緒性的：什麼東西現在不再那麼勾你？什麼東西不再用同樣方式嚇到你？",
+            "vocab": [
+              {
+                "word": "changed response",
+                "def": "面對同樣事情時，自己已經出現不同反應的變化"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is such a different way to measure progress.",
+            "zh": "這真的完全是不同的進步測量方式。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And often a truer one.",
+            "zh": "而且通常也更真。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'Where does "Looking Back on How Much You’ve Changed" become difficult for you: at the beginning, in the middle, or when you have to keep going without immediate feedback?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would say quiet pressure. That is where the topic stops being intellectually interesting and starts requiring emotional maturity in real time.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What does your inner dialogue sound like in that moment? I imagine there is a pull toward convenience or self-protection.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My first reaction is often impatience. I want the tension to disappear, even though I already know that rushed decisions usually create a second problem later.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How much does that internal pressure spill outward? I am guessing "Looking Back on How Much You’ve Changed" becomes especially revealing when it starts shaping how you treat others.', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It definitely spills outward if I am not careful. The quickest sign is that I become less curious and more controlling, which is usually a warning sign for me.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When the pressure rises, what familiar pattern comes back first? I am curious about the version of you that "Looking Back on How Much You’ve Changed" keeps testing.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I tend to over-explain and over-manage. It makes me feel safer for a moment, but it usually means I have stopped listening properly.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Noticing Your Own Change",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to say I have changed more than I realized?",
+            "zh": "如果我想用英文說，自己其實比想像中改變得更多，可以怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"I do not always notice it day to day, but I can see that I respond differently now.\"",
+            "zh": "你可以說：「I do not always notice it day to day, but I can see that I respond differently now.」",
+            "vocab": [
+              {
+                "word": "changed response",
+                "def": "面對同樣事情時，自己已經出現不同反應的變化"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds natural and reflective.",
+            "zh": "這句聽起來很自然，也很有反思。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"The old version of me would not have handled this in the same way.\"",
+            "zh": "另一句也很好用：「The old version of me would not have handled this in the same way.」",
+            "vocab": [
+              {
+                "word": "old version",
+                "def": "回頭看時，能被自己辨認出的過去那個自己"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like that because it sounds grounded.",
+            "zh": "我喜歡這句，因為它聽起來很踏實。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"I think I have grown more quietly than I knew.\"",
+            "zh": "如果你想講得更簡單，也可以說：「I think I have grown more quietly than I knew.」",
+            "vocab": [
+              {
+                "word": "quiet change",
+                "def": "不是很戲劇化、但其實已經很真實的內在改變"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one feels very true.",
+            "zh": "這句真的很真。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A lot of people need exactly that sentence.",
+            "zh": "很多人其實正需要那一句。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'These days I handle "Looking Back on How Much You’ve Changed" by focusing on process. I care less about sounding wise and more about doing one repeatable thing well.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the first small action in that process? I want the version that still works when energy, confidence, and time are all imperfect.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, the first step is honest reset. It sounds modest, but it creates enough structure that I am less likely to get lost in mood or impulse.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What does your strategy look like when the day is messy? I think that is where a practice either proves itself or quietly disappears.', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'On bad days, I lower the standard without abandoning the direction. I would rather keep the thread alive than perform a perfect version once in a while.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How do you measure progress there? I imagine the useful signs are quieter than a big emotional breakthrough.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I look for steady rhythm. If that is growing, I know the practice is doing real work even if the change is not exciting or obvious.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that measure, because it values steadiness over theater. It sounds much closer to real growth than a single inspiring moment.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — How to Notice Growth More Fairly",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How can people get better at seeing their own growth?",
+            "zh": "人要怎麼比較公平地看見自己的成長？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "By comparing themselves to their old reactions, not only to someone else’s current results.",
+            "zh": "要先學會拿自己以前的反應來比，不是只拿別人現在的結果來比。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So self-comparison can be healthier than social comparison.",
+            "zh": "所以跟以前的自己比，有時候反而比跟別人比健康得多。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Self-recognition matters because people need evidence of change that is personal, not borrowed.",
+            "zh": "完全沒錯。自我辨認很重要，因為人需要的是屬於自己的改變證據，不是借來的標準。",
+            "vocab": [
+              {
+                "word": "self-recognition",
+                "def": "一個人終於看見自己真的已經不同了的辨認感"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds kinder and also more useful.",
+            "zh": "這真的比較溫柔，也更有用。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is. Harsh measurement often makes people miss the very thing they are trying to honor.",
+            "zh": "真的。太苛刻的衡量方式，反而會讓人看漏自己原本想尊重的那個東西。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sentence stays with me.",
+            "zh": "這句真的會留下來。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Good. It is worth keeping close.",
+            "zh": "很好，這句值得放近一點。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'What do people most often get wrong about "Looking Back on How Much You’ve Changed" when they only look at the visible surface?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'People often assume "Looking Back on How Much You’ve Changed" should feel natural right away. They underestimate how much awkward practice, revision, and patience it usually requires.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why does that myth remain persuasive? It feels like people keep reaching for a version of "Looking Back on How Much You’ve Changed" that flatters them more than it teaches them.', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Probably because simple stories are easier to admire. The slower truth asks people to stay humble while they are still inconsistent, and that is uncomfortable.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the more useful way to judge progress here? I am guessing it has more to do with repeatability than with intensity.', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me the healthier benchmark is repeatability. I care more about what comes back quietly than what shines briefly and disappears.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What would you say to someone who is just beginning and already feels discouraged by how slow the process seems?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would say: do not confuse gradual progress with absence. The quiet middle is often where "Looking Back on How Much You’ve Changed" becomes honest instead of merely impressive.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'The reason this subject remains important to me is that it keeps returning in subtle ways. It is never only about one moment; it is about the shape of a life.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Has "Looking Back on How Much You’ve Changed" reached a stable place in your life, or does it still keep exposing new layers of yourself?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It still feels unfinished, but not in a chaotic way. It feels alive, like a subject that keeps deepening as my circumstances and responsibilities change.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to take one lesson from this conversation and keep it close for the next year, what would it be?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'What I want to remember is that small truthful choices accumulate. They may not look impressive in the moment, but they shape the future more reliably.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That gives the whole topic a lot of dignity. It treats growth as something lived, not simply announced.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is where real trade-off helps me. It gives me a concrete way to return when the day or season has pulled me off center.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That lands well for me. The conversation makes "Looking Back on How Much You’ve Changed" feel human, durable, and much closer to everyday life than to self-improvement theater.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — Letting Growth Count",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what does it mean to let your own growth count?",
+            "zh": "所以說，到底什麼叫做讓自己的成長真正算數？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It means not dismissing a quieter self, a steadier reaction, or a wiser pause just because nobody else can measure it easily.",
+            "zh": "它的意思是：不要只因為別人很難量化，就把那個更安靜的自己、更穩的反應、或更成熟的停頓直接忽略掉。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like a very needed reminder.",
+            "zh": "這真的很像一個很需要的提醒。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Self-recognition matters because people become stronger when their own inner evidence is finally allowed to count.",
+            "zh": "自我辨認很重要，因為當一個人終於允許自己的內在證據算數時，他就會變得更有力量。",
+            "vocab": [
+              {
+                "word": "self-recognition",
+                "def": "一個人終於看見自己真的已經不同了的辨認感"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like the right ending.",
+            "zh": "這感覺就是很對的結尾。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I think I have been changing more than I was giving myself credit for.",
+            "zh": "我現在真的覺得，自己其實變了很多，只是以前沒有給自己承認。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That realization is part of the growth too.",
+            "zh": "而那個看見，本身也是成長的一部分。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "personal distance",
+        "zh": "隔了一段時間後，終於能從外面看見過去自己的距離感",
+        "example": "Personal distance made the year easier to read."
+      },
+      {
+        "en": "quiet change",
+        "zh": "不是很戲劇化、但其實已經很真實的內在改變",
+        "example": "Quiet change often goes unnoticed."
+      },
+      {
+        "en": "identity stretch",
+        "zh": "一個人慢慢長出新樣子、舊的自己開始裝不太下的過程",
+        "example": "The identity stretch was uncomfortable but healthy."
+      },
+      {
+        "en": "inner update",
+        "zh": "不是外在大事件，而是內在反應和理解正在悄悄更新",
+        "example": "Her inner update came before the career change."
+      },
+      {
+        "en": "growth blindness",
+        "zh": "明明已經變了，卻因為太習慣而看不見自己的成長",
+        "example": "Growth blindness made the progress hard to notice."
+      },
+      {
+        "en": "changed response",
+        "zh": "面對同樣事情時，自己已經出現不同反應的變化",
+        "example": "The changed response was the real proof."
+      },
+      {
+        "en": "old version",
+        "zh": "回頭看時，能被自己辨認出的過去那個自己",
+        "example": "The old version of him felt very far away."
+      },
+      {
+        "en": "self-recognition",
+        "zh": "一個人終於看見自己真的已經不同了的辨認感",
+        "example": "Self-recognition brought real relief."
+      }
+    ]
   },
   {
-    weekNumber: 43,
-    dayOfWeek: 3,
-    date: '2026-10-21',
-    theme: 'Looking Back & Moving Forward',
-    title: 'What the Hard Years Taught You',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 3,
+    "date": "2026-10-21",
+    "theme": "Looking Back & Moving Forward",
+    "title": "What the Hard Years Taught You",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'When you think about "What the Hard Years Taught You", what feels immediately real rather than merely inspirational?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, years taught is the clearest entry point. It shows how "What the Hard Years Taught You" appears before anyone gives it a polished explanation.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'years taught', def: '歲月教給我們的' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Where does that part of "What the Hard Years Taught You" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually it appears in a very ordinary moment. I notice this when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I get that. Subjects like "Looking Back & Moving Forward" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is why this topic stays with me. "What the Hard Years Taught You" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Do you think people usually misunderstand "What the Hard Years Taught You" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I think people expect a neat turning point, when the truth is that "What the Hard Years Taught You" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — Lessons You Never Asked For",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "The hardest years often teach things you would never volunteer to learn that way.",
+            "zh": "最難熬的那些年，常常會教會你一些你絕對不會主動報名用那種方式學的事。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is true. Hard-earned wisdom usually arrives with a cost, which is why people value it so differently from easy advice.",
+            "zh": "這是真的。辛苦換來的智慧通常都帶著代價，所以它和輕鬆得到的建議，重量真的不一樣。",
+            "vocab": [
+              {
+                "word": "hard-earned wisdom",
+                "def": "不是聽來的，而是經過辛苦與代價才真正學到的智慧"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So experience changes the texture of knowledge.",
+            "zh": "所以經驗真的會改變知識本身的質地。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Survival learning leaves marks. It teaches through repetition, fear, and adaptation.",
+            "zh": "完全沒錯。生存式學習會留下痕跡。它是透過重複、害怕和調整來教你的。",
+            "vocab": [
+              {
+                "word": "survival learning",
+                "def": "在艱難時期為了撐下去而被迫學會的理解和能力"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That explains why those lessons feel so embodied.",
+            "zh": "這也能解釋，為什麼那些教訓常常會有很強的身體感。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. They do not live only in memory. They change reflex, patience, and what you notice first.",
+            "zh": "對。它們不只是活在記憶裡，還會改變你的反射、耐心，以及你最先注意到什麼。",
+            "vocab": [
+              {
+                "word": "scar lesson",
+                "def": "某個痛過之後留下、之後會影響反應方式的教訓"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So even after the hard period ends, the body remembers.",
+            "zh": "所以就算那段難熬時期已經過去，身體還是會記得。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It often remembers before language does.",
+            "zh": "很多時候，身體甚至比語言還早記得。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'I learned a lot about "What the Hard Years Taught You" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "What the Hard Years Taught You".', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It involved small decision. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That sounds important, because quiet pressure usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. The shift became real when quiet pressure moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that distinction. It turns "What the Hard Years Taught You" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — Why Painful Lessons Feel Different",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What makes painful lessons stick more than ordinary advice?",
+            "zh": "為什麼痛過的教訓會比普通建議更黏在身上？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because they are linked to consequence. Pain creates emotional memory whether we want it to or not.",
+            "zh": "因為它們和後果是綁在一起的。痛會創造情緒記憶，不管我們想不想。",
+            "vocab": [
+              {
+                "word": "emotional memory",
+                "def": "因為某段強烈經驗而留下、會影響之後反應的情緒記憶"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the lesson gets stored deeper.",
+            "zh": "所以那個教訓會被存得更深。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Pressure wisdom is often clearer than comfortable theory because the stakes forced attention.",
+            "zh": "完全沒錯。壓力中的智慧常常比舒適狀態下的理論更清楚，因為代價逼出了真正的注意力。",
+            "vocab": [
+              {
+                "word": "pressure wisdom",
+                "def": "在壓力底下被逼出來、後來特別清楚的現實智慧"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds true in a way I can feel immediately.",
+            "zh": "這真的有一種我一聽就能感覺到的真。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Many people can. The hard part later is not learning the lesson. It is carrying it without letting it harden the whole self.",
+            "zh": "很多人都能。後來真正難的不是學到那個教訓，而是帶著它往前走時，不讓整個自己都變硬。",
+            "vocab": [
+              {
+                "word": "recovered strength",
+                "def": "從困難裡長出來、之後能支撐自己的力量"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So healing is partly about keeping the wisdom without keeping all the fear.",
+            "zh": "所以療癒有一部分，其實就是把智慧留下來，但不要把所有害怕都一起留下來。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is beautifully said.",
+            "zh": "這句說得很好。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to name the hardest layer of "What the Hard Years Taught You", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The hardest part is usually honest reset. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When honest reset becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Under stress, which old habit usually returns? It sounds like "What the Hard Years Taught You" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Lessons from Hard Times",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to talk about what hard years taught me?",
+            "zh": "如果我想用英文談那些難熬年份教會我的東西，可以怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"That period taught me more about myself than I understood at the time.\"",
+            "zh": "你可以說：「That period taught me more about myself than I understood at the time.」",
+            "vocab": [
+              {
+                "word": "delayed lesson",
+                "def": "當下沒完全懂，事後回頭才真正明白的教訓"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds thoughtful and true.",
+            "zh": "這句聽起來很有思考，也很真。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"I would not choose that experience again, but I cannot deny what it taught me.\"",
+            "zh": "另一句也很好用：「I would not choose that experience again, but I cannot deny what it taught me.」",
+            "vocab": [
+              {
+                "word": "hard-earned wisdom",
+                "def": "不是聽來的，而是經過辛苦與代價才真正學到的智慧"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I really like that one.",
+            "zh": "我真的很喜歡這句。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"It changed me in ways I only understood later.\"",
+            "zh": "如果你想講得更簡單，也可以說：「It changed me in ways I only understood later.」",
+            "vocab": [
+              {
+                "word": "survival learning",
+                "def": "在艱難時期為了撐下去而被迫學會的理解和能力"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one feels very usable.",
+            "zh": "這句真的很好用。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It works because it leaves room for complexity.",
+            "zh": "它有用，是因為它替複雜度留了空間。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What helps me now is treating "What the Hard Years Taught You" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone wanted to begin today, what would be the first small move that actually makes "What the Hard Years Taught You" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually begin with steady rhythm. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "What the Hard Years Taught You" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I watch for real trade-off. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — Carrying the Lesson Without Worshipping the Pain",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do people honor hard years without romanticizing them?",
+            "zh": "人要怎麼尊重那些難熬的年份，又不把它們浪漫化？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "By telling the truth about both things: the cost and the lesson. Pain is not automatically noble.",
+            "zh": "要同時把兩邊都講真：代價是代價，教訓是教訓。痛本身不會自動變高尚。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the lesson matters, but the suffering does not have to be glorified.",
+            "zh": "所以教訓很重要，但苦不一定要被神化。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Recovered strength matters because the goal is not to admire the wound. It is to notice what was built around it.",
+            "zh": "完全沒錯。修復後的力量很重要，因為目標不是崇拜那道傷，而是看見傷的周圍到底長出了什麼。",
+            "vocab": [
+              {
+                "word": "recovered strength",
+                "def": "從困難裡長出來、之後能支撐自己的力量"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is such a healthy way to frame it.",
+            "zh": "這真的就是很健康的框法。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It helps people keep their dignity without pretending the past was good simply because it was formative.",
+            "zh": "這會幫人保住尊嚴，同時又不需要假裝：只因為過去很有形成性，它就一定是好的。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels important.",
+            "zh": "這真的很重要。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "I think it is.",
+            "zh": "我也覺得是。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to name one misleading assumption around "What the Hard Years Taught You", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The biggest misunderstanding is expecting "What the Hard Years Taught You" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would look for whether the practice survives ordinary life. A healthy version of "What the Hard Years Taught You" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What lingers for me is that "What the Hard Years Taught You" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Which insight from "What the Hard Years Taught You" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is why useful habit matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels like a strong place to end. "What the Hard Years Taught You" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — Letting the Hard Years Become Wisdom",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what is the wisest way to relate to the hard years afterward?",
+            "zh": "所以那些難熬的年份過去之後，最有智慧的關係方式是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Let them become guidance, not identity. Let them inform you without becoming the only story you know how to tell.",
+            "zh": "要讓它們變成指引，而不是整個身份。讓它們能提供資訊，但不要變成你唯一會講的故事。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is such a strong answer.",
+            "zh": "這真的就是很強的答案。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A delayed lesson matters because many people only become gentle once they understand what hardship actually gave them.",
+            "zh": "延後抵達的教訓很重要，因為很多人是在真正懂得那些艱難經驗到底給了自己什麼之後，才慢慢變得溫柔。",
+            "vocab": [
+              {
+                "word": "delayed lesson",
+                "def": "當下沒完全懂，事後回頭才真正明白的教訓"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like the right ending.",
+            "zh": "這感覺就是很對的結尾。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I think I can respect those years without living inside them forever.",
+            "zh": "我現在真的覺得，自己可以尊重那些年，但不用永遠住在裡面。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is a very healthy place to land.",
+            "zh": "那真的是一個很健康的落點。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "hard-earned wisdom",
+        "zh": "不是聽來的，而是經過辛苦與代價才真正學到的智慧",
+        "example": "Hard-earned wisdom changed how she chose."
+      },
+      {
+        "en": "survival learning",
+        "zh": "在艱難時期為了撐下去而被迫學會的理解和能力",
+        "example": "Survival learning left deep marks."
+      },
+      {
+        "en": "scar lesson",
+        "zh": "某個痛過之後留下、之後會影響反應方式的教訓",
+        "example": "The scar lesson stayed with him."
+      },
+      {
+        "en": "emotional memory",
+        "zh": "因為某段強烈經驗而留下、會影響之後反應的情緒記憶",
+        "example": "Emotional memory shaped the reaction."
+      },
+      {
+        "en": "pressure wisdom",
+        "zh": "在壓力底下被逼出來、後來特別清楚的現實智慧",
+        "example": "Pressure wisdom often sounds very plain."
+      },
+      {
+        "en": "recovered strength",
+        "zh": "從困難裡長出來、之後能支撐自己的力量",
+        "example": "Recovered strength looks quieter than toughness."
+      },
+      {
+        "en": "delayed lesson",
+        "zh": "當下沒完全懂，事後回頭才真正明白的教訓",
+        "example": "The delayed lesson mattered most."
+      },
+      {
+        "en": "earned perspective",
+        "zh": "不是空想出來，而是經歷過後才有的成熟視角",
+        "example": "Earned perspective changed the whole story."
+      }
+    ]
   },
   {
-    weekNumber: 43,
-    dayOfWeek: 4,
-    date: '2026-10-22',
-    theme: 'Looking Back & Moving Forward',
-    title: 'The People and Moments That Shaped You',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 4,
+    "date": "2026-10-22",
+    "theme": "Looking Back & Moving Forward",
+    "title": "The People and Moments That Shaped You",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'When you think about "The People and Moments That Shaped You", what feels immediately real rather than merely inspirational?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, moments shaped is the clearest entry point. It shows how "The People and Moments That Shaped You" appears before anyone gives it a polished explanation.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'moments shaped', def: '塑造我們的時刻' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Where does that part of "The People and Moments That Shaped You" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually it appears in a very ordinary moment. I notice this when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I get that. Subjects like "Looking Back & Moving Forward" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is why this topic stays with me. "The People and Moments That Shaped You" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Do you think people usually misunderstand "The People and Moments That Shaped You" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I think people expect a neat turning point, when the truth is that "The People and Moments That Shaped You" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — The Small Moment You Still Remember",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "It is strange how one sentence from the right person can stay alive in you for years.",
+            "zh": "很奇怪，有時候對的人說的一句話，真的會在你心裡活很多年。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is because shaping moments are often small in form and huge in effect.",
+            "zh": "那是因為所謂塑形時刻，常常外形很小，效果卻很大。",
+            "vocab": [
+              {
+                "word": "shaping moment",
+                "def": "當下看起來普通，卻長期影響一個人的關鍵時刻"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So our lives are not only changed by major events.",
+            "zh": "所以改變我們的，不一定都只是那些大事件。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. A meaningful encounter can quietly rearrange what a person expects from themselves.",
+            "zh": "完全沒錯。一場有意義的相遇，常常會很安靜地重新排列一個人對自己的期待。",
+            "vocab": [
+              {
+                "word": "meaningful encounter",
+                "def": "和某個人或某個瞬間的相遇，後來一直保留重要意義"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes me think influence is often more personal than dramatic.",
+            "zh": "這真的會讓我覺得，影響很多時候比戲劇更個人。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It usually is. A remembered sentence can become a private resource long after the speaker has forgotten saying it.",
+            "zh": "很多時候真的是如此。一句被記住的話，常常會在說的人早就忘了之後，還留在另一個人那裡變成資源。",
+            "vocab": [
+              {
+                "word": "remembered sentence",
+                "def": "當初聽見後一直留在心裡、後來反覆回來陪伴自己的那句話"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a beautiful thought.",
+            "zh": "這真的是很美的想法。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is also a very practical one.",
+            "zh": "而且它其實也很實際。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'I learned a lot about "The People and Moments That Shaped You" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "The People and Moments That Shaped You".', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It involved small decision. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That sounds important, because quiet pressure usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. The shift became real when quiet pressure moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that distinction. It turns "The People and Moments That Shaped You" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — How Influence Really Works",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Why do some people shape us so much while others barely leave a trace?",
+            "zh": "為什麼有些人會深深塑造我們，有些人卻幾乎不留下痕跡？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Timing matters. A person can say the right thing, but if you are not ready, it passes by you.",
+            "zh": "時機很重要。有人可以說出很對的話，但如果你還沒準備好，那句話就會直接經過你。",
+            "vocab": [
+              {
+                "word": "right timing",
+                "def": "某句話或某個人剛好在你準備好能接住時出現的時機"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So readiness is part of impact.",
+            "zh": "所以一個影響能不能進來，也和當時的準備狀態有關。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Relational influence is not only about wisdom. It is also about whether a person feels safe enough to receive it.",
+            "zh": "完全沒錯。關係影響力不只和智慧有關，也和一個人當下是不是覺得安全到能接住有關。",
+            "vocab": [
+              {
+                "word": "relational influence",
+                "def": "某個人透過關係本身，長期改變你看法或生活方式的影響力"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That explains why the same advice can land very differently from different people.",
+            "zh": "這也能解釋，為什麼同樣一句建議，從不同人嘴裡出來會差那麼多。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. Emotional permission matters. People hear differently when they feel seen, not managed.",
+            "zh": "對。情感允許感很重要。當人覺得自己是被看見，而不是被管理時，聽進去的方式就會不同。",
+            "vocab": [
+              {
+                "word": "emotional permission",
+                "def": "一個人因為覺得被理解而比較敢接受改變的內在允許感"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels deeply true.",
+            "zh": "這真的很真。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Most lasting influence does.",
+            "zh": "很多真正長久的影響，本來就有那種真。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to name the hardest layer of "The People and Moments That Shaped You", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The hardest part is usually honest reset. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When honest reset becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Under stress, which old habit usually returns? It sounds like "The People and Moments That Shaped You" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Speaking About Influence",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to talk about someone who shaped me?",
+            "zh": "如果我想用英文談一個深深影響我的人，可以怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"That person changed the way I think about myself.\"",
+            "zh": "你可以說：「That person changed the way I think about myself.」",
+            "vocab": [
+              {
+                "word": "lasting imprint",
+                "def": "某個人或時刻留下來、長期不消失的影響痕跡"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds simple and powerful.",
+            "zh": "這句很簡單，但很有力量。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"What they said stayed with me long after the moment passed.\"",
+            "zh": "另一句也很好用：「What they said stayed with me long after the moment passed.」",
+            "vocab": [
+              {
+                "word": "remembered sentence",
+                "def": "當初聽見後一直留在心裡、後來反覆回來陪伴自己的那句話"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I really like that one.",
+            "zh": "我真的很喜歡這句。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"I still carry that conversation with me.\"",
+            "zh": "如果你想講得更簡單，也可以說：「I still carry that conversation with me.」",
+            "vocab": [
+              {
+                "word": "shaping moment",
+                "def": "當下看起來普通，卻長期影響一個人的關鍵時刻"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one feels very real.",
+            "zh": "這句真的很真。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Good language helps people honor influence without exaggerating it.",
+            "zh": "好的語言會幫人尊重那份影響，同時又不把它講得太浮誇。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What helps me now is treating "The People and Moments That Shaped You" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone wanted to begin today, what would be the first small move that actually makes "The People and Moments That Shaped You" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually begin with steady rhythm. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "The People and Moments That Shaped You" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I watch for real trade-off. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — Becoming More Aware of What Shapes You",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How can people become more aware of who and what is shaping them now?",
+            "zh": "人要怎麼更有意識地看見現在正在塑造自己的是誰、是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "By noticing what voice appears in their head at hard moments, and whose standards they still obey without question.",
+            "zh": "要去注意：自己在艱難時刻腦中會先出現誰的聲音，以及自己現在還在無條件服從誰的標準。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So reflection is partly a listening exercise.",
+            "zh": "所以反思有一部分其實是一種傾聽練習。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. A lasting imprint matters because some influences are still active long after the original relationship changed.",
+            "zh": "完全沒錯。長久痕跡很重要，因為有些影響就算原本那段關係早就變了，還是繼續活著。",
+            "vocab": [
+              {
+                "word": "lasting imprint",
+                "def": "某個人或時刻留下來、長期不消失的影響痕跡"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes me want to be more careful about what I let in now.",
+            "zh": "這會讓我更想小心自己現在讓什麼進來。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is wise. Being shaped is inevitable, but being unconscious about it is not.",
+            "zh": "這很有智慧。被塑造是無法避免的，但對這件事完全沒有意識，不是必然。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a very strong distinction.",
+            "zh": "這真的是很有力的區分。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And one worth remembering.",
+            "zh": "而且很值得記住。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to name one misleading assumption around "The People and Moments That Shaped You", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The biggest misunderstanding is expecting "The People and Moments That Shaped You" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would look for whether the practice survives ordinary life. A healthy version of "The People and Moments That Shaped You" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What lingers for me is that "The People and Moments That Shaped You" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Which insight from "The People and Moments That Shaped You" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is why useful habit matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels like a strong place to end. "The People and Moments That Shaped You" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — Honoring the People Who Changed You",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what is the healthiest way to relate to the people and moments that shaped you?",
+            "zh": "所以對那些塑造過你的人和時刻，最健康的關係方式是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "To honor them without becoming trapped inside them. Let the gift remain, but keep growing beyond the original frame.",
+            "zh": "就是尊重它們，但不要被困在裡面。把禮物留下來，同時讓自己能長出原本框架之外的新東西。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds generous in every direction.",
+            "zh": "這真的對每一邊都很寬厚。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Relational influence matters because we become ourselves partly through other people, but not only through them.",
+            "zh": "關係影響力很重要，因為我們有一部分確實是透過別人慢慢成為自己，但也不只透過別人。",
+            "vocab": [
+              {
+                "word": "relational influence",
+                "def": "某個人透過關係本身，長期改變你看法或生活方式的影響力"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like the exact right ending.",
+            "zh": "這真的就是最剛好的結尾。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I am leaving this conversation more grateful for the people who reached me at the right time.",
+            "zh": "我現在離開這段對話時，真的更感謝那些在對的時機碰到我的人。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That gratitude will keep the lesson alive in a healthy way.",
+            "zh": "那份感謝會用一種很健康的方式，讓那些教訓繼續活著。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "shaping moment",
+        "zh": "當下看起來普通，卻長期影響一個人的關鍵時刻",
+        "example": "A shaping moment stayed with her for years."
+      },
+      {
+        "en": "meaningful encounter",
+        "zh": "和某個人或某個瞬間的相遇，後來一直保留重要意義",
+        "example": "The meaningful encounter changed his direction."
+      },
+      {
+        "en": "remembered sentence",
+        "zh": "當初聽見後一直留在心裡、後來反覆回來陪伴自己的那句話",
+        "example": "That remembered sentence returned at the right time."
+      },
+      {
+        "en": "right timing",
+        "zh": "某句話或某個人剛好在你準備好能接住時出現的時機",
+        "example": "Right timing made the advice land."
+      },
+      {
+        "en": "relational influence",
+        "zh": "某個人透過關係本身，長期改變你看法或生活方式的影響力",
+        "example": "Relational influence can be quiet and powerful."
+      },
+      {
+        "en": "emotional permission",
+        "zh": "一個人因為覺得被理解而比較敢接受改變的內在允許感",
+        "example": "Emotional permission helped the truth land."
+      },
+      {
+        "en": "lasting imprint",
+        "zh": "某個人或時刻留下來、長期不消失的影響痕跡",
+        "example": "The experience left a lasting imprint."
+      },
+      {
+        "en": "carried voice",
+        "zh": "某個人的語氣或觀點後來內化成你心裡會出現的聲音",
+        "example": "She still heard that carried voice in hard moments."
+      }
+    ]
   },
   {
-    weekNumber: 43,
-    dayOfWeek: 5,
-    date: '2026-10-23',
-    theme: 'Looking Back & Moving Forward',
-    title: 'Regret, Gratitude, and Perspective',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 5,
+    "date": "2026-10-23",
+    "theme": "Looking Back & Moving Forward",
+    "title": "Regret, Gratitude, and Perspective",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If "Regret, Gratitude, and Perspective" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My mind goes to gratitude perspective first, because that is where "Regret, Gratitude, and Perspective" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'gratitude perspective', def: '感恩的視角' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It often happens in a plain everyday scene. It becomes visible when I look back at a past version of myself and notice whether my feeling is regret, compassion, or a mixture of both.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Right, and that is probably why "Looking Back & Moving Forward" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. What matters to me is that "Regret, Gratitude, and Perspective" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What do you think makes "Regret, Gratitude, and Perspective" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually they want a clear before-and-after story, but "Regret, Gratitude, and Perspective" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — Feelings That Sit in the Same Room",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I used to think regret and gratitude were opposites, but now I am not so sure.",
+            "zh": "我以前一直以為後悔和感謝是相反的，可是現在我不太確定了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "They often sit in the same room. A mixed feeling is very common when people look back honestly.",
+            "zh": "它們很多時候其實會坐在同一個房間裡。當人誠實地回頭看時，混合感受非常常見。",
+            "vocab": [
+              {
+                "word": "mixed feeling",
+                "def": "同時包含後悔、感謝、難過或理解等多種情緒的複合感受"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So maturity is partly learning how not to split experience into clean categories.",
+            "zh": "所以成熟有一部分其實就是學會不要把經驗硬切成很乾淨的分類。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Regret can reveal value, and gratitude can coexist with pain.",
+            "zh": "完全沒錯。後悔有時候會揭露價值，而感謝也可以和痛一起存在。",
+            "vocab": [
+              {
+                "word": "coexisting truth",
+                "def": "兩種看似矛盾的感受或理解其實能同時成立的真相"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That already feels more humane than trying to force a positive lesson.",
+            "zh": "這真的比硬要擠出一個正面結論更有人味。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is more humane. Honest reflection does not demand one emotion at a time.",
+            "zh": "它本來就比較有人味。誠實的反思不會要求你一次只能有一種情緒。",
+            "vocab": [
+              {
+                "word": "honest reflection",
+                "def": "不急著美化或簡化，而是如實看待複雜感受的反思"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes the whole topic breathe a little more.",
+            "zh": "這會讓整個主題好像比較能呼吸。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Good reflection usually should.",
+            "zh": "好的反思本來就應該讓人比較能呼吸。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'My understanding of "Regret, Gratitude, and Perspective" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is the useful part for me. When this is woven into ordinary routines, "Regret, Gratitude, and Perspective" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'So the lesson was not just about insight. It was about building a version of "Regret, Gratitude, and Perspective" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — What Regret Is Really Telling You",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What is regret actually for, if it is not just punishment?",
+            "zh": "如果後悔不只是懲罰，那它到底有什麼功能？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Regret can be an information signal. It shows you what matters enough to hurt.",
+            "zh": "後悔很多時候是一種資訊訊號。它會告訴你，什麼東西重要到足以讓你痛。",
+            "vocab": [
+              {
+                "word": "regret signal",
+                "def": "後悔裡面其實包含了某種關於價值與重要性的訊號"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the pain is pointing at a value, not only a mistake.",
+            "zh": "所以那個痛指向的，不只是錯誤，也是一個價值。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Gratitude perspective helps because it does not erase regret. It simply widens the frame around it.",
+            "zh": "完全沒錯。感謝視角有幫助，不是因為它把後悔擦掉，而是因為它把後悔放進比較大的框裡。",
+            "vocab": [
+              {
+                "word": "gratitude perspective",
+                "def": "不是否認困難，而是能同時看見其中仍值得感謝的視角"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is such a helpful distinction.",
+            "zh": "這真的是很有幫助的區分。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A wider frame often lets people feel grief and appreciation without forcing either one to disappear.",
+            "zh": "比較大的框，常常會讓人能同時感到失落和感謝，而不用逼任何一種感受消失。",
+            "vocab": [
+              {
+                "word": "wider frame",
+                "def": "把單一事件放進更大脈絡裡重新理解的視角框架"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So perspective changes the emotional weight.",
+            "zh": "所以視角真的會改變情緒的重量。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Very often, yes.",
+            "zh": "很多時候真的會。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'What feels hardest about "Regret, Gratitude, and Perspective" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is why I take it seriously. The inner tension around "Regret, Gratitude, and Perspective" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Talking About Mixed Emotions",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to say I feel both regret and gratitude?",
+            "zh": "如果我想用英文說自己同時有後悔也有感謝，可以怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"Part of me regrets it, and part of me is grateful for what it taught me.\"",
+            "zh": "你可以說：「Part of me regrets it, and part of me is grateful for what it taught me.」",
+            "vocab": [
+              {
+                "word": "mixed feeling",
+                "def": "同時包含後悔、感謝、難過或理解等多種情緒的複合感受"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds balanced and very human.",
+            "zh": "這句聽起來很平衡，也很像人。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"I would not choose that pain again, but I can still see what came from it.\"",
+            "zh": "另一句也很好用：「I would not choose that pain again, but I can still see what came from it.」",
+            "vocab": [
+              {
+                "word": "coexisting truth",
+                "def": "兩種看似矛盾的感受或理解其實能同時成立的真相"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like that because it is honest without being bitter.",
+            "zh": "我喜歡這句，因為它很誠實，但不苦。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"It was hard, and it still mattered.\"",
+            "zh": "如果你想講得更簡單，也可以說：「It was hard, and it still mattered.」",
+            "vocab": [
+              {
+                "word": "wider frame",
+                "def": "把單一事件放進更大脈絡裡重新理解的視角框架"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one really lands.",
+            "zh": "這句真的很有落點。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Simple sentences can hold very complicated truths.",
+            "zh": "很簡單的句子，有時候也能裝下很複雜的真相。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'The most useful shift for me has been practical. I try to build "Regret, Gratitude, and Perspective" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the smallest reliable action in your version of "Regret, Gratitude, and Perspective"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — Letting the Feelings Stay Complex",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How can people reflect without forcing themselves to feel grateful too soon?",
+            "zh": "人要怎麼反思，才不會太快逼自己「應該要感謝」？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "By letting the pain tell the truth first. Gratitude that arrives too early often feels like emotional pressure.",
+            "zh": "要先讓痛把真相說完。太早到的感謝，常常會讓人感覺像情緒壓迫。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So timing matters emotionally too.",
+            "zh": "所以在情緒上，時機一樣很重要。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Honest reflection matters because people need permission to feel the full shape of experience before summarizing it.",
+            "zh": "完全沒錯。誠實反思很重要，因為人在下結論之前，需要先被允許感受整段經驗完整的形狀。",
+            "vocab": [
+              {
+                "word": "honest reflection",
+                "def": "不急著美化或簡化，而是如實看待複雜感受的反思"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds much kinder than positive thinking.",
+            "zh": "這真的比正向思考溫柔太多了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is kinder, and usually more truthful too.",
+            "zh": "它比較溫柔，而且通常也更真。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is exactly what I needed to hear.",
+            "zh": "這真的就是我需要聽到的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A lot of people do.",
+            "zh": "很多人其實都需要。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the myth that quietly distorts this whole conversation every time "Regret, Gratitude, and Perspective" comes up?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'A common mistake is treating "Regret, Gratitude, and Perspective" as if it should feel clean and obvious once you care enough. In reality, it usually stays complicated for a while.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What keeps that misunderstanding alive? I wonder if it is partly cultural and partly emotional, because simple narratives are so appealing.', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Partly because the myth is emotionally convenient. It lets people confuse intention with embodiment, and that confusion can feel reassuring for a while.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'So what would a healthier standard look like? If we removed the myth, what would you want people to expect instead?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The better standard is durability. If "Regret, Gratitude, and Perspective" can remain visible when life is inconvenient, then I trust it much more.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What advice would you give a beginner who thinks the lack of instant progress means they are doing "Regret, Gratitude, and Perspective" badly?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would tell them that slowness is not proof of failure. Often it is simply proof that they have reached the part of the process that is real enough to teach them.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What stays with me most about "Regret, Gratitude, and Perspective" is that it keeps asking who I am when no one is watching and nothing dramatic is happening.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Would you say this topic feels settled for you now, or is it something you expect to keep learning from for a long time?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It is unfinished in a healthy way. I feel more grounded than before, yet the topic keeps showing me subtler versions of the same lesson.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I think that is the real takeaway. "Regret, Gratitude, and Perspective" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — A More Spacious Perspective",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what is the healthiest perspective to bring to the past?",
+            "zh": "所以對待過去，最健康的視角會是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "One spacious enough to hold sorrow, regret, gratitude, and meaning without demanding that any of them pretend to be something else.",
+            "zh": "就是一個夠寬的視角，能同時裝下悲傷、後悔、感謝和意義，而且不要求它們互相偽裝成別的東西。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a very good answer.",
+            "zh": "這真的是很好的答案。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Gratitude perspective matters because it helps people widen the story without lying about the pain inside it.",
+            "zh": "感謝視角很重要，因為它能幫人把故事放大，卻不需要對裡面的痛說謊。",
+            "vocab": [
+              {
+                "word": "gratitude perspective",
+                "def": "不是否認困難，而是能同時看見其中仍值得感謝的視角"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like the right ending.",
+            "zh": "這感覺就是很對的結尾。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I think I am leaving with a kinder way to look back.",
+            "zh": "我現在真的比較知道，怎麼用一種更溫柔的方式回頭看了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That kindness will make the past easier to carry.",
+            "zh": "那份溫柔，會讓過去變得比較帶得動。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "mixed feeling",
+        "zh": "同時包含後悔、感謝、難過或理解等多種情緒的複合感受",
+        "example": "A mixed feeling is often the honest feeling."
+      },
+      {
+        "en": "coexisting truth",
+        "zh": "兩種看似矛盾的感受或理解其實能同時成立的真相",
+        "example": "Coexisting truth made the reflection richer."
+      },
+      {
+        "en": "honest reflection",
+        "zh": "不急著美化或簡化，而是如實看待複雜感受的反思",
+        "example": "Honest reflection takes real courage."
+      },
+      {
+        "en": "regret signal",
+        "zh": "後悔裡面其實包含了某種關於價值與重要性的訊號",
+        "example": "The regret signal pointed to what mattered."
+      },
+      {
+        "en": "gratitude perspective",
+        "zh": "不是否認困難，而是能同時看見其中仍值得感謝的視角",
+        "example": "Gratitude perspective widened the story."
+      },
+      {
+        "en": "wider frame",
+        "zh": "把單一事件放進更大脈絡裡重新理解的視角框架",
+        "example": "A wider frame changed the feeling."
+      },
+      {
+        "en": "emotional timing",
+        "zh": "某種理解或安慰是不是在對的時間到來的情緒時機感",
+        "example": "Emotional timing matters more than people think."
+      },
+      {
+        "en": "gentle truth",
+        "zh": "不扭曲事實，但也不殘酷對待自己的真實說法",
+        "example": "Gentle truth helped her keep reflecting."
+      }
+    ]
   },
   {
-    weekNumber: 43,
-    dayOfWeek: 6,
-    date: '2026-10-24',
-    theme: 'Looking Back & Moving Forward',
-    title: 'What You Want to Leave Behind',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 6,
+    "date": "2026-10-24",
+    "theme": "Looking Back & Moving Forward",
+    "title": "What You Want to Leave Behind",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'When you think about "What You Want to Leave Behind", what feels immediately real rather than merely inspirational?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, leave behind is the clearest entry point. It shows how "What You Want to Leave Behind" appears before anyone gives it a polished explanation.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'leave behind', def: '留在身後、放下' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Where does that part of "What You Want to Leave Behind" become most visible to you: in your routine, in your relationships, or in the choices you make under pressure?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually it appears in a very ordinary moment. I notice this when I am making a small decision and realize it quietly shapes the rest of the day.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I get that. Subjects like "Looking Back & Moving Forward" often show up as a feeling or pattern before people have good language for them.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is why this topic stays with me. "What You Want to Leave Behind" becomes real when it continues to matter on an ordinary day, not only on a reflective one.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Do you think people usually misunderstand "What You Want to Leave Behind" because they expect clarity too early, or because they only notice the visible part of it?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I think people expect a neat turning point, when the truth is that "What You Want to Leave Behind" often grows through small decisions that do not look important at first.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — The Weight You Are Tired of Carrying",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Sometimes clarity starts with a simple sentence: I do not want to carry this version of myself into the next year.",
+            "zh": "有時候清楚感其實是從一句很簡單的話開始：我不想把現在這個版本的自己再帶進下一年了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That kind of sentence matters. A release decision often begins before a full plan exists.",
+            "zh": "這種句子很重要。放下決定很多時候是在完整計畫還沒出現前，就先開始了。",
+            "vocab": [
+              {
+                "word": "release decision",
+                "def": "一個人開始決定把某種舊模式或舊重量放下的選擇"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So leaving something behind can start as an emotional truth before it becomes a practical one.",
+            "zh": "所以放下一件事，常常會先是一個情緒上的真相，之後才變成實際安排。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. An outdated pattern can stay alive simply because it is familiar, not because it is still good for you.",
+            "zh": "完全沒錯。一個過時模式之所以會一直活著，常常只是因為它很熟，不是因為它還真的適合你。",
+            "vocab": [
+              {
+                "word": "outdated pattern",
+                "def": "曾經幫你撐住過，現在卻已經不再適合的舊模式"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a painful but very clean distinction.",
+            "zh": "這真的是又痛又乾淨的區分。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is clean because it removes a lot of confusion. Not everything old is sacred.",
+            "zh": "它之所以乾淨，是因為它會拿掉很多混亂。不是所有舊的東西都神聖到不能碰。",
+            "vocab": [
+              {
+                "word": "identity residue",
+                "def": "某種已經不再適合，卻還留在身上的舊身份殘留"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So growth includes editing, not only adding.",
+            "zh": "所以所謂成長，其實也包含編輯和刪減，不只是一直增加。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Absolutely.",
+            "zh": "對，真的就是這樣。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'I learned a lot about "What You Want to Leave Behind" from one very ordinary experience, because it showed me how different the idea feels when something is actually at stake.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What made that moment stand out so clearly? It sounds like something about the situation exposed the deeper shape of "What You Want to Leave Behind".', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It involved small decision. I was trying to do the responsible thing, but I could also feel how easy it would have been to fall back into a more familiar pattern.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When that happened, did your actions shift first, or did your language and self-understanding change before the behavior caught up?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The real change began inside. I stopped trying to look impressive and started asking whether my choices could hold up on a normal, imperfect day.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That sounds important, because quiet pressure usually grows more reliably through honest repetition than through one burst of intensity.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. The shift became real when quiet pressure moved into daily life and stopped depending on whether I felt especially inspired that day.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that distinction. It turns "What You Want to Leave Behind" into something livable, not just something people say they care about in reflective moments.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — Why Letting Go Feels So Strange",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Why does letting go sometimes feel almost disloyal?",
+            "zh": "為什麼放下有時候會讓人覺得自己好像不忠誠？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because old coping can feel like part of your survival history. Releasing it can feel like betraying who helped you through.",
+            "zh": "因為舊的應對方式常常會像是你的生存歷史之一部分。放下它，有時候會像是在背叛那個曾經幫你撐過來的人。",
+            "vocab": [
+              {
+                "word": "old coping",
+                "def": "曾經保護過你、現在卻不一定還適用的舊應對方式"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what no longer serves you can still feel emotionally important.",
+            "zh": "所以那些已經不再有用的東西，情感上還是可能很重要。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Lingering loyalty keeps many people tied to pain long after the lesson is learned.",
+            "zh": "完全沒錯。延遲忠誠感會讓很多人就算教訓早就學會了，還是繼續和痛綁在一起。",
+            "vocab": [
+              {
+                "word": "lingering loyalty",
+                "def": "對過去某種模式或身份還有情感忠誠，因而很難放下"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That really explains a lot.",
+            "zh": "這真的解釋了很多事。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It helps to remember that gratitude and continuation are not the same thing. You can thank something and still stop carrying it.",
+            "zh": "記得一件事會很有幫助：感謝和繼續攜帶，不是同一件事。你可以感謝某樣東西曾經幫助你，然後依然把它放下。",
+            "vocab": [
+              {
+                "word": "forward room",
+                "def": "把舊東西放下之後，終於能讓未來進來的空間"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is such a relieving sentence.",
+            "zh": "這句真的很讓人鬆一口氣。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It usually relieves people for a reason.",
+            "zh": "它之所以會讓人鬆一口氣，通常是有原因的。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to name the hardest layer of "What You Want to Leave Behind", what would it be once the obvious answers stop helping?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The hardest part is usually honest reset. It asks for steadiness at exactly the moment when I most want something quick, clean, and reassuring.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'When honest reset becomes difficult, what do you usually hear in your own head? Is it doubt, impatience, defensiveness, or something else?', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'There is often a quiet defensive voice in me. It wants relief more than truth, and I have to notice that before I can respond well.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'And does that pressure stay inside you, or does it start affecting the way you speak, listen, or show up around other people?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It affects other people faster than I want to admit. When I feel that pressure, I can become less patient, less generous, and much more narrow in my thinking.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Under stress, which old habit usually returns? It sounds like "What You Want to Leave Behind" keeps brushing against something deeper than the surface situation.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually drift toward over-controlling the situation. It feels responsible in the moment, but it often reduces the space where real understanding could grow.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Leaving Something Behind",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to say I am ready to leave something behind?",
+            "zh": "如果我想用英文說，我準備好把某個東西留在身後了，可以怎麼講？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"I do not think this belongs in the next season of my life anymore.\"",
+            "zh": "你可以說：「I do not think this belongs in the next season of my life anymore.」",
+            "vocab": [
+              {
+                "word": "forward room",
+                "def": "把舊東西放下之後，終於能讓未來進來的空間"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds clear without being dramatic.",
+            "zh": "這句很清楚，但不會很戲劇化。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"I am grateful for what this once did for me, but I do not need to keep living inside it.\"",
+            "zh": "另一句也很好用：「I am grateful for what this once did for me, but I do not need to keep living inside it.」",
+            "vocab": [
+              {
+                "word": "release decision",
+                "def": "一個人開始決定把某種舊模式或舊重量放下的選擇"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I really like that one.",
+            "zh": "我真的很喜歡這句。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"I am ready to stop carrying this.\"",
+            "zh": "如果你想講得更簡單，也可以說：「I am ready to stop carrying this.」",
+            "vocab": [
+              {
+                "word": "old coping",
+                "def": "曾經保護過你、現在卻不一定還適用的舊應對方式"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one is very strong.",
+            "zh": "這句真的很有力量。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Simple language can make a hard truth easier to live.",
+            "zh": "簡單的語言，常常會讓很難的真相變得比較活得下去。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What helps me now is treating "What You Want to Leave Behind" less like a grand identity project and more like a set of choices I can rehearse repeatedly.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone wanted to begin today, what would be the first small move that actually makes "What You Want to Leave Behind" easier to live out?', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I usually begin with steady rhythm. The point is not that it fixes everything; the point is that it gives the rest of the day a better starting direction.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'And what happens on a bad day, when you do not feel reflective, patient, or especially capable? Does the practice still hold?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I make the practice smaller, not grander. The goal is to preserve continuity so that "What You Want to Leave Behind" stays connected to real life instead of becoming all-or-nothing.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What tells you that the routine is actually working? With topics like this, the gains can be subtle and easy to overlook.', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I watch for real trade-off. The signal is usually calmer than I expect: I become less reactive, more deliberate, and a little easier to trust in the same situations.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That makes sense. The best evidence is often not excitement but a more stable way of responding when the same challenge comes back again.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — Making the Release Real",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do people make a letting-go decision real instead of symbolic?",
+            "zh": "人要怎麼讓一個放下的決定變成真的，而不只是象徵性的？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "They change one behavior, one story, or one environment that keeps the old pattern alive.",
+            "zh": "要去動一個具體東西：一個行為、一個故事說法，或一個一直把舊模式養著的環境。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So release needs embodiment too.",
+            "zh": "所以放下也需要有身體化、具體化的動作。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. An outdated pattern does not disappear just because you dislike it. It weakens when the daily conditions that feed it start changing.",
+            "zh": "完全沒錯。過時模式不會只因為你不喜歡它就消失。它會變弱，是因為每天餵養它的條件開始改變了。",
+            "vocab": [
+              {
+                "word": "outdated pattern",
+                "def": "曾經幫你撐住過，現在卻已經不再適合的舊模式"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes the work sound very practical.",
+            "zh": "這真的會讓整個功課聽起來很實際。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is practical. Emotional clarity gets stronger when life structure starts agreeing with it.",
+            "zh": "它本來就很實際。當生活結構開始和情緒上的清楚感站在同一邊時，那份清楚就會更穩。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a good reminder.",
+            "zh": "這真的是很好的提醒。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Most real change needs that kind of reminder.",
+            "zh": "很多真正的改變都需要這種提醒。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If you had to name one misleading assumption around "What You Want to Leave Behind", what would it be?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The biggest misunderstanding is expecting "What You Want to Leave Behind" to come with instant clarity. Most of the real work happens while things still feel partial and unresolved.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Why do you think that myth survives so easily? Is it because people prefer a simple story, or because the slower truth is harder to sell?', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I think it survives because people want a version of growth that feels immediate and legible. The real process is slower, less tidy, and harder to display.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone wanted a better benchmark, what should they look for instead of quick certainty or visible performance?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would look for whether the practice survives ordinary life. A healthy version of "What You Want to Leave Behind" should still exist on a tired day, not only on a beautiful one.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'If someone were new to this and frustrated by the pace, what would you want them to hear first?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would remind them that awkwardness is normal. The point is not to skip the slow phase but to let it shape a steadier version of who they are becoming.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What lingers for me is that "What You Want to Leave Behind" becomes meaningful in quiet repetitions. It keeps asking what kind of person I am becoming across many ordinary days.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Do you feel you have reached some kind of resolution with it, or does it still feel unfinished in a useful way?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I do not think it ever becomes fully finished. It becomes steadier, but it also keeps revealing new edges depending on the season of life I am in.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Which insight from "What You Want to Leave Behind" feels durable enough to guide you beyond this current chapter?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I want to carry forward the idea that progress does not need to be loud in order to be real. Often the truest change looks calm from the outside.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I like that conclusion, because it honors the quiet labor inside real change instead of reducing everything to a performance.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is why useful habit matters to me now. It is not a slogan; it is a practical doorway back into alignment whenever life becomes noisy.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels like a strong place to end. "What You Want to Leave Behind" sounds less like an ideal image now and more like a way of living with honesty over time.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — A Lighter Way Into the Future",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what becomes possible once you stop carrying what no longer fits?",
+            "zh": "所以當你不再背著那些不合身的東西時，會有什麼變得可能？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Often not instant happiness. More like lighter decision-making, cleaner energy, and a life with more forward room.",
+            "zh": "不一定是立刻變得超快樂。很多時候比較像是：決定變輕、能量變乾淨，還有生活裡多出更多給未來的空間。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That already sounds worth it.",
+            "zh": "光聽就覺得很值得。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Identity residue matters because what you leave behind still shapes how much freedom you feel in the next chapter.",
+            "zh": "身份殘留很重要，因為你留下什麼不放，會直接影響你在下一章到底感覺自己有多少自由。",
+            "vocab": [
+              {
+                "word": "identity residue",
+                "def": "某種已經不再適合，卻還留在身上的舊身份殘留"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels exactly right.",
+            "zh": "這感覺真的很對。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I think I know a little more clearly what I do not want to bring forward.",
+            "zh": "我現在真的比較知道，有哪些東西我不想再帶進下一段了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That clarity is already a beginning.",
+            "zh": "而那份清楚，本身就已經是一種開始。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "release decision",
+        "zh": "一個人開始決定把某種舊模式或舊重量放下的選擇",
+        "example": "The release decision took months to form."
+      },
+      {
+        "en": "outdated pattern",
+        "zh": "曾經幫你撐住過，現在卻已經不再適合的舊模式",
+        "example": "The outdated pattern kept repeating itself."
+      },
+      {
+        "en": "identity residue",
+        "zh": "某種已經不再適合，卻還留在身上的舊身份殘留",
+        "example": "Identity residue was making the transition heavier."
+      },
+      {
+        "en": "old coping",
+        "zh": "曾經保護過你、現在卻不一定還適用的舊應對方式",
+        "example": "Old coping can be hard to release."
+      },
+      {
+        "en": "lingering loyalty",
+        "zh": "對過去某種模式或身份還有情感忠誠，因而很難放下",
+        "example": "Lingering loyalty kept him attached to pain."
+      },
+      {
+        "en": "forward room",
+        "zh": "把舊東西放下之後，終於能讓未來進來的空間",
+        "example": "She wanted more forward room in her life."
+      },
+      {
+        "en": "cleaner energy",
+        "zh": "放下一些舊負擔後，整個人比較乾淨、不那麼內耗的狀態",
+        "example": "Cleaner energy changed how he made choices."
+      },
+      {
+        "en": "quiet release",
+        "zh": "不是大張旗鼓，而是很安靜但很真地把某些東西放下",
+        "example": "The quiet release mattered more than the announcement."
+      }
+    ]
   },
   {
-    weekNumber: 43,
-    dayOfWeek: 7,
-    date: '2026-10-25',
-    theme: 'Looking Back & Moving Forward',
-    title: 'Moving Forward with More Intention',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 43,
+    "dayOfWeek": 7,
+    "date": "2026-10-25",
+    "theme": "Looking Back & Moving Forward",
+    "title": "Moving Forward with More Intention",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Opening the Theme',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'If "Moving Forward with More Intention" showed up in your week tomorrow morning, which part of it would feel most familiar right away?', zh: '當你想到這個主題時，哪一部分最貼近真實生活，而不只是聽起來很勵志的想法？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My mind goes to more intention first, because that is where "Moving Forward with More Intention" becomes something I can observe instead of just admire.', zh: '對我來說，最容易切入的是一個很具體的日常面向，因為它讓這個主題不再停留在抽象層次。', vocab: [{ word: 'more intention', def: '更有意識地行動' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What kind of scene makes you notice that most clearly: a quiet private moment, a work situation, or a conversation with someone close?', zh: '這種感覺通常會在什麼場景最明顯：獨處時、忙碌工作中，還是和親近的人互動時？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It often happens in a plain everyday scene. It becomes visible when I begin something new and I notice whether I am moving toward something or just away from what I wanted to leave behind.', zh: '它常常出現在很普通的時刻。當我為了一個小選擇停下來時，就會看見它如何悄悄影響整天的方向。', vocab: [{ word: 'daily pattern', def: '日常習慣模式' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Right, and that is probably why "Looking Back & Moving Forward" can sound broad on paper but feel surprisingly specific in a normal day.', zh: '這很合理，因為這類主題往往先以一種感受或模式出現，之後人才慢慢找到語言去描述它。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. What matters to me is that "Moving Forward with More Intention" is not just about intention; it is also about what keeps returning when life is busy, messy, or emotionally uneven.', zh: '沒錯，所以這個主題對我來說不只是理念，而是它是否會在忙碌、混亂或情緒起伏時，繼續影響我的選擇。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What do you think makes "Moving Forward with More Intention" hard to read at first: the fact that it is subtle, or the fact that people want immediate certainty?', zh: '你覺得大家一開始最容易誤判的是什麼：太急著要答案，還是只注意表面結果？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually they want a clear before-and-after story, but "Moving Forward with More Intention" is often shaped by modest patterns that only become obvious after enough time has passed.', zh: '我覺得兩者都有。很多人期待戲劇性的轉折，但真正的變化常常是由反覆的小選擇慢慢累積出來的。' }
-        ],
+        "title": "Part 1 — Not Just Moving, But Aiming",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "It is one thing to move on. It is another thing to move forward with intention.",
+            "zh": "往前走是一回事，帶著意圖往前走又是另一回事。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. Forward intention gives direction to motion. Otherwise momentum can still be accidental.",
+            "zh": "對。向前意圖會替移動加上方向，不然連動能都可能只是意外。",
+            "vocab": [
+              {
+                "word": "forward intention",
+                "def": "不是只是繼續走，而是知道自己想帶著什麼往前走的意圖"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So reflection is not only about closure. It is also about orientation.",
+            "zh": "所以反思不只是為了收尾，也是為了重新定向。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. A future posture starts forming the moment a person stops asking only what happened and starts asking what they want to build next.",
+            "zh": "完全沒錯。所謂面向未來的姿態，常常就是從一個人不再只問「發生了什麼」，而開始問「我接下來想建立什麼」時開始形成。",
+            "vocab": [
+              {
+                "word": "future posture",
+                "def": "一個人面向下一段人生時所採取的內在姿態與方向感"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels active in a good way.",
+            "zh": "這真的有一種很好的主動感。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is active, but not rushed. Good intention is quieter than panic.",
+            "zh": "它是主動的，但不是慌張的。好的意圖通常比恐慌更安靜。",
+            "vocab": [
+              {
+                "word": "deliberate step",
+                "def": "不是被推著走，而是有意識選出來的下一步"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is already a helpful distinction.",
+            "zh": "這個區分本身就很有幫助。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A lot depends on that distinction.",
+            "zh": "很多事情真的都會卡在那個區分上。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — A Concrete Situation',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'My understanding of "Moving Forward with More Intention" changed through a specific moment, not through a big revelation but through a situation I could not ignore anymore.', zh: '我之所以會把這個主題放在心上，是因為我真的經歷過它從理論變成具體情境的那一刻。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What was happening in that moment? I am curious about the details that made the lesson feel personal rather than generic.', zh: '可以多說一點那個情境嗎？我想知道，是什麼讓這個主題突然變得很個人、很難忽視。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The situation centered on small decision. Nothing dramatic happened, but I could feel a real tension between what felt comfortable and what felt aligned.', zh: '當時的核心其實是一個很具體的情境。表面上事情不大，但我能明顯感覺到舒適和對齊之間的拉扯。', vocab: [{ word: 'small decision', def: '日常小決定' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Was the first change practical or internal? I mean, did you do something different immediately, or did your mindset have to move first?', zh: '那個拉扯是先改變了你的做法，還是先改變了你理解自己的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The internal shift came first. Once I became more honest about what was happening, my choices started looking less performative and more durable.', zh: '真正先動的是內在。當我比較誠實地面對自己在逃避什麼之後，後面的選擇才慢慢變得比較穩。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I can see that. This tends to deepen when people stop chasing a perfect performance and start building something they can repeat.', zh: '這樣很有道理，因為這種轉變通常不是靠一次衝很猛，而是靠誠實而穩定的重複慢慢練出來。', vocab: [{ word: 'quiet pressure', def: '無形的壓力' }] },
-          { speaker: 'a', speakerName: 'Jade', en: 'That is the useful part for me. When this is woven into ordinary routines, "Moving Forward with More Intention" starts feeling like a structure I can rely on.', zh: '對我來說，重要的轉折就在這裡。當這個改變真的進入日常節奏，整個主題就不再只是想法，而是可以依靠的結構。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'So the lesson was not just about insight. It was about building a version of "Moving Forward with More Intention" that could survive contact with everyday life.', zh: '所以真正的收穫不只是看懂，而是把這個主題做成一個能在普通日子裡活下來的版本。' }
-        ],
+        "title": "Part 2 — Why Intention Gets Lost",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Why do people lose intention so easily once life gets busy again?",
+            "zh": "為什麼生活一忙起來，人就這麼容易把意圖弄丟？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because reaction is faster than intention. Pressure usually speaks first.",
+            "zh": "因為反應永遠比意圖更快。壓力通常會先說話。",
+            "vocab": [
+              {
+                "word": "reaction loop",
+                "def": "一忙或一有壓力就自動照舊反應的循環"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So moving with intention requires interruption.",
+            "zh": "所以所謂有意圖地前進，某種程度上需要打斷自動模式。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. A deliberate step often looks small because it has to be strong enough to survive ordinary chaos.",
+            "zh": "完全沒錯。有意識的下一步常常看起來很小，因為它得強到能在普通混亂裡活下來。",
+            "vocab": [
+              {
+                "word": "deliberate step",
+                "def": "不是被推著走，而是有意識選出來的下一步"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds much more realistic than a dramatic reset.",
+            "zh": "這真的比那種戲劇化重啟現實得多。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is more realistic. Sustainable movement usually grows from repeatable choices, not emotional intensity.",
+            "zh": "它本來就比較現實。可持續的前進，通常是從可重複的選擇長出來的，不是從情緒強度長出來的。",
+            "vocab": [
+              {
+                "word": "repeatable choice",
+                "def": "不是一時衝動，而是能在日常中一再實行的選擇"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So intention needs structure, not just sincerity.",
+            "zh": "所以意圖其實需要結構，不只是誠意。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly right.",
+            "zh": "完全正確。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Friction Beneath the Surface',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'What feels hardest about "Moving Forward with More Intention" once the first excitement wears off and you are left with the slower, less glamorous part?', zh: '如果把新鮮感拿掉，剩下真正不好處理的那一層是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, honest reset is the difficult layer. It is not hard because it is dramatic; it is hard because it demands patience when patience feels least convenient.', zh: '最難的通常不是表面上的問題，而是它會在最不方便的時候要求你拿出耐心和成熟。', vocab: [{ word: 'honest reset', def: '誠實地重新出發' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How do you talk to yourself when that pressure shows up? I am wondering what emotional habit tends to rise first.', zh: '那個時候你心裡通常會怎麼說話？是急著想有答案，還是會開始防衛？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Usually it sounds rushed. Part of me wants certainty immediately, and another part knows that forcing clarity too quickly often makes the outcome worse.', zh: '很多時候我會先變得很急。人一急，就會想用最快的方法消除不確定感，但那通常不是最好的處理方式。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Does that internal tension mostly stay private, or can you feel it changing the quality of your relationships and decisions around you?', zh: '那種壓力只留在你心裡，還是會開始改變你說話、傾聽，甚至對待別人的方式？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Yes, and that is why I take it seriously. The inner tension around "Moving Forward with More Intention" eventually changes my tone, my timing, and my willingness to stay open.', zh: '會外溢，而且比我希望的還快。最明顯的訊號是我會變得比較不願意好奇，只想趕快掌控局面。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What old habit tends to reappear under that kind of stress? Most people have one pattern that keeps trying to write the script again.', zh: '在這種壓力下，你最容易回到哪一種舊習慣？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'My old habit is trying to force resolution too quickly. It creates temporary relief, but it rarely creates the kind of outcome I actually respect.', zh: '我最容易掉回去的是過度控制。它當下看起來很負責，但其實常常把真正的理解空間壓縮掉。' }
-        ],
+        "title": "Part 3 — English for Looking Ahead More Clearly",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What English can I use if I want to say I want to move forward more intentionally?",
+            "zh": "如果我想用英文說，自己希望更有意圖地往前走，可以怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You can say, \"I want to move into the next season more consciously than I moved through the last one.\"",
+            "zh": "你可以說：「I want to move into the next season more consciously than I moved through the last one.」",
+            "vocab": [
+              {
+                "word": "conscious direction",
+                "def": "不是盲目前進，而是帶著清楚方向感的前進"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds very clear.",
+            "zh": "這句聽起來很清楚。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Another useful one is, \"I do not want to repeat old patterns just because they are familiar.\"",
+            "zh": "另一句也很好用：「I do not want to repeat old patterns just because they are familiar.」",
+            "vocab": [
+              {
+                "word": "reaction loop",
+                "def": "一忙或一有壓力就自動照舊反應的循環"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like that one a lot.",
+            "zh": "我很喜歡這句。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And if you want something simpler, say, \"I want my next steps to be chosen, not automatic.\"",
+            "zh": "如果你想講得更簡單，也可以說：「I want my next steps to be chosen, not automatic.」",
+            "vocab": [
+              {
+                "word": "forward intention",
+                "def": "不是只是繼續走，而是知道自己想帶著什麼往前走的意圖"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That one really sums it up.",
+            "zh": "這句真的很有總結感。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is why it works.",
+            "zh": "而那也正是它有用的原因。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — What Helps in Practice',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'The most useful shift for me has been practical. I try to build "Moving Forward with More Intention" through repeatable behaviors rather than waiting for the perfect emotional state.', zh: '現在我處理這個主題的方式，比較像在練一套可重複的選擇，而不是追求某種很好看的人設。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the smallest reliable action in your version of "Moving Forward with More Intention"? I mean the step that is humble enough to survive a difficult day.', zh: '如果今天就要開始做，你會說第一個最小、但真的有效的動作是什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I start with steady rhythm. It is small enough to repeat, but meaningful enough to change the tone of the day when I do it consistently.', zh: '我通常會先從一個夠小、但能穩定重複的動作開始。它看起來不大，卻足以影響整天的方向。', vocab: [{ word: 'steady rhythm', def: '穩定的節奏' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'How do you keep that practice alive on the days when motivation is low and your attention is already scattered?', zh: '那在狀態很差的日子呢？當你沒有動力，也沒有耐心的時候，這個做法還撐得住嗎？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I simplify it. If I cannot do the ideal version, I still try to do a recognizable version, because consistency teaches me more than intensity does.', zh: '撐得住的前提是把標準縮小，而不是整個放棄。我寧可保住那條線，也不要偶爾做一次非常完美的版本。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That sounds healthy. How do you know the practice is helping rather than simply giving you the feeling of being responsible?', zh: '你怎麼知道這不是只是讓自己感覺有在努力，而是真的有帶來改變？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'For me, real trade-off is the sign. Progress looks like steadier responses, clearer language, and less need to dramatize every difficult moment.', zh: '我會看自己面對同樣情境時，回應是不是變得更穩。真正的進步通常比較安靜，不是特別戲劇化。', vocab: [{ word: 'real trade-off', def: '真實的取捨' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels convincing to me. It suggests the routine is not just comforting; it is actually reshaping your way of meeting reality.', zh: '我喜歡這種衡量方式，因為它在乎的是穩定，不是表演。' }
-        ],
+        "title": "Part 4 — Building a Different Future Slowly",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What helps someone actually move forward with more intention?",
+            "zh": "一個人要真的比較有意圖地往前走，什麼會有幫助？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A smaller pace, a clearer yes, and a clearer no. Intention gets stronger when the life around it gets simpler.",
+            "zh": "要有比較小的步速、更清楚的 yes，也要有更清楚的 no。當周圍生活變得比較簡單時，意圖就會變強。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So simplification can be part of wisdom too.",
+            "zh": "所以簡化本身其實也是智慧的一部分。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Absolutely. Conscious direction matters because a person needs enough space to notice whether the next chapter actually fits.",
+            "zh": "完全是。清楚方向感很重要，因為一個人需要足夠的空間，才看得出下一章到底是不是真的合身。",
+            "vocab": [
+              {
+                "word": "conscious direction",
+                "def": "不是盲目前進，而是帶著清楚方向感的前進"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes intention sound less like force and more like care.",
+            "zh": "這真的會讓意圖聽起來比較不像用力，而比較像照顧。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is a good reading of it. The best future plans often sound more caring than heroic.",
+            "zh": "這個理解很好。最好的未來計畫，很多時候聽起來比較像照顧，不像英雄式衝刺。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I needed to hear that.",
+            "zh": "我真的很需要聽到這句。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A lot of people do.",
+            "zh": "很多人其實都需要。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Common Misreadings',
-        lines: [
-          { speaker: 'b', speakerName: 'Ryan', en: 'What is the myth that quietly distorts this whole conversation every time "Moving Forward with More Intention" comes up?', zh: '如果只能挑一個最常見的誤解，你會怎麼說？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'A common mistake is treating "Moving Forward with More Intention" as if it should feel clean and obvious once you care enough. In reality, it usually stays complicated for a while.', zh: '我覺得最大的誤解，就是以為只要夠重視，這件事就應該很快變得清楚、自然、順手。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What keeps that misunderstanding alive? I wonder if it is partly cultural and partly emotional, because simple narratives are so appealing.', zh: '你覺得為什麼這種誤解會一直存在？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Partly because the myth is emotionally convenient. It lets people confuse intention with embodiment, and that confusion can feel reassuring for a while.', zh: '因為簡單的故事比較好崇拜。可是慢一點、亂一點、需要反覆修正的真相，反而更接近真實生活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'So what would a healthier standard look like? If we removed the myth, what would you want people to expect instead?', zh: '如果把那個迷思拿掉，你會希望大家用什麼標準來看待進步？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The better standard is durability. If "Moving Forward with More Intention" can remain visible when life is inconvenient, then I trust it much more.', zh: '我會看它能不能活過普通的一天。真正健康的版本，應該是在疲累、混亂、沒有靈感的日子裡仍然存在。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What advice would you give a beginner who thinks the lack of instant progress means they are doing "Moving Forward with More Intention" badly?', zh: '那如果是剛開始的人，已經因為進步太慢而沮喪了，你會想先對他說什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'I would tell them that slowness is not proof of failure. Often it is simply proof that they have reached the part of the process that is real enough to teach them.', zh: '我會說，慢不是失敗。很多時候，慢只是代表你終於走進了真正會塑造你的那一段，而不是只有表面的熱情。' }
-        ],
-      },
-      {
-        title: 'Part 6 — What You Carry Forward',
-        lines: [
-          { speaker: 'a', speakerName: 'Jade', en: 'What stays with me most about "Moving Forward with More Intention" is that it keeps asking who I am when no one is watching and nothing dramatic is happening.', zh: '到最後，這個主題最打動我的，是它一直在問我：當沒有人看著、也沒有什麼戲劇性場面時，我到底會怎麼活。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'Would you say this topic feels settled for you now, or is it something you expect to keep learning from for a long time?', zh: '你會覺得自己已經和這個主題和解了嗎？還是它仍然以某種有用的方式保持未完成？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'It is unfinished in a healthy way. I feel more grounded than before, yet the topic keeps showing me subtler versions of the same lesson.', zh: '我覺得它還是未完成的，但不是混亂的那種未完成，而是會隨著人生階段不斷變深的那種。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'What part of that ongoing lesson feels most worth carrying into the next season of your life?', zh: '如果只能帶走一個最想放進下一段生活的提醒，你會選什麼？' },
-          { speaker: 'a', speakerName: 'Jade', en: 'The lesson I want to keep is that steadiness deserves more respect than drama. Quiet consistency has changed my life more than intensity ever did.', zh: '我最想記得的是，真正的改變不一定很大聲。很多最扎實的成長，從外面看其實是很安靜的。' },
-          { speaker: 'b', speakerName: 'Ryan', en: 'That feels both realistic and hopeful. It suggests people do not need a dramatic reinvention in order to move in a meaningful direction.', zh: '這樣的結論很有力量，因為它把成長當成被活出來的東西，而不是被宣告出來的東西。' },
-          { speaker: 'a', speakerName: 'Jade', en: 'Exactly. If I stay close to useful habit, I usually find my way back to the kind of person I actually want to be, even after a messy stretch.', zh: '而且只要我還能回到那種讓自己重新對齊的做法，我通常就能慢慢找回自己真正想成為的樣子。', vocab: [{ word: 'useful habit', def: '有用的習慣' }] },
-          { speaker: 'b', speakerName: 'Ryan', en: 'I think that is the real takeaway. "Moving Forward with More Intention" is not about performing certainty; it is about returning to what is true often enough that it changes you.', zh: '我喜歡這個收尾。它讓這個主題聽起來不像一個漂亮概念，而像一種可以長久活下去的方式。' }
-        ],
+        "title": "Part 5 — A More Deliberate Next Chapter",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So what does moving forward well actually look like?",
+            "zh": "所以真正往前走得好的樣子，到底會是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Less drama, more steadiness. Fewer promises to impress, more repeatable choices you can actually live with.",
+            "zh": "比較少戲劇感，比較多穩定；比較少那些想讓人印象深刻的承諾，比較多那些你真的住得下去的可重複選擇。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds surprisingly peaceful.",
+            "zh": "這真的意外地平靜。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Repeatable choice matters because the future is built more by pattern than by intensity.",
+            "zh": "可重複選擇很重要，因為未來很多時候不是被強度蓋起來的，而是被模式蓋起來的。",
+            "vocab": [
+              {
+                "word": "repeatable choice",
+                "def": "不是一時衝動，而是能在日常中一再實行的選擇"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That feels like the exact right ending.",
+            "zh": "這真的就是最剛好的結尾。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Then let us stop there.",
+            "zh": "那我們就停在這裡。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I think I want fewer dramatic changes and more honest ones.",
+            "zh": "我現在真的比較想要少一點戲劇性改變，多一點誠實的改變。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is often how a good next chapter begins.",
+            "zh": "而好的下一章，很多時候就是這樣開始的。"
+          }
+        ]
       }
     ],
-    keyPhrases: [
-      { en: 'stop being abstract', zh: '不再只是抽象概念', example: 'A topic starts to matter when it stops being abstract and begins to shape real choices.' },
-      { en: 'small decision', zh: '一個看似小但會累積影響的決定', example: 'A small decision can quietly change the tone and direction of the whole day.' },
-      { en: 'internal shift', zh: '先發生在心裡的轉變', example: 'The internal shift often comes first, long before any obvious behavior changes.' },
-      { en: 'repeatable behavior', zh: '可以反覆做到的做法', example: 'What lasts is usually a repeatable behavior, not a dramatic burst of motivation.' },
-      { en: 'lower the standard', zh: '在狀態差時把標準縮小', example: 'On difficult days, it helps to lower the standard without giving up the direction.' },
-      { en: 'ordinary life', zh: '普通而真實的日常生活', example: 'A healthy practice should still exist inside ordinary life, not only in ideal moments.' },
-      { en: 'steady response', zh: '更穩定的回應方式', example: 'Real progress often looks like a steadier response when the same challenge returns.' },
-      { en: 'slowness is not failure', zh: '進展慢不代表失敗', example: 'Slowness is not failure; sometimes it is simply the pace of honest change.' }
-    ],
+    "keyPhrases": [
+      {
+        "en": "forward intention",
+        "zh": "不是只是繼續走，而是知道自己想帶著什麼往前走的意圖",
+        "example": "Forward intention changed the way he planned."
+      },
+      {
+        "en": "future posture",
+        "zh": "一個人面向下一段人生時所採取的內在姿態與方向感",
+        "example": "Her future posture felt steadier now."
+      },
+      {
+        "en": "deliberate step",
+        "zh": "不是被推著走，而是有意識選出來的下一步",
+        "example": "A deliberate step mattered more than speed."
+      },
+      {
+        "en": "reaction loop",
+        "zh": "一忙或一有壓力就自動照舊反應的循環",
+        "example": "The reaction loop kept pulling him backward."
+      },
+      {
+        "en": "repeatable choice",
+        "zh": "不是一時衝動，而是能在日常中一再實行的選擇",
+        "example": "A repeatable choice changed the month."
+      },
+      {
+        "en": "conscious direction",
+        "zh": "不是盲目前進，而是帶著清楚方向感的前進",
+        "example": "Conscious direction made the plan gentler."
+      },
+      {
+        "en": "cleaner yes",
+        "zh": "更清楚知道自己為什麼答應、不是因為慣性而答應的 yes",
+        "example": "A cleaner yes protected her energy."
+      },
+      {
+        "en": "chosen pace",
+        "zh": "不是被外界拖著跑，而是自己有意識選的前進速度",
+        "example": "He was learning to trust a chosen pace."
+      }
+    ]
   }
 ]

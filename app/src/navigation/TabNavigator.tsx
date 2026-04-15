@@ -1,11 +1,12 @@
 import React, { useMemo } from 'react'
 import { View, Text, TouchableOpacity, StyleSheet, Platform } from 'react-native'
 import { useCreditsStore } from '../stores/creditsStore'
+import { useCurriculumStore } from '../stores/curriculumStore'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { NavProvider, useNav } from './NavContext'
 import Svg, { Polygon, Path, Rect, Line, Circle } from 'react-native-svg'
 import { colors, fonts, spacing } from '../constants/theme'
-import { SCHEDULE } from '../data/curriculum'
+import { getScheduleEntry, getTodayKey } from '../data/curriculum'
 import ScheduleScreen from '../screens/tabs/ScheduleScreen'
 import ListenScreen from '../screens/tabs/ListenScreen'
 import SpeakScreen from '../screens/tabs/SpeakScreen'
@@ -94,23 +95,17 @@ const SCREENS: Record<TabName, React.ComponentType> = {
   Account: AccountScreen,
 }
 
-function getTodayKey() {
-  const d = new Date()
-  const mm = String(d.getMonth() + 1).padStart(2, '0')
-  const dd = String(d.getDate()).padStart(2, '0')
-  return `${d.getFullYear()}-${mm}-${dd}`
-}
-
 function TabNavigatorInner() {
   const { activeTab, navigate } = useNav()
   const ActiveScreen = SCREENS[activeTab]
   const { balance } = useCreditsStore()
+  const { schedule } = useCurriculumStore()
 
   const dayLabel = useMemo(() => {
-    const entry = SCHEDULE.find((d) => d.key === getTodayKey())
+    const entry = getScheduleEntry(schedule, getTodayKey())
     if (!entry) return null
     return `W${String(entry.week).padStart(2, '0')} · Day ${entry.dayOfWeek} · ${entry.label}`
-  }, [])
+  }, [schedule])
 
   const TABS_WITH_DAY_LABEL: TabName[] = ['Listen', 'Conversation', 'Speak']
 

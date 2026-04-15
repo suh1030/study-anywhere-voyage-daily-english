@@ -75,7 +75,7 @@ english-app.html              # 單一自包含檔案（約 160KB）
     ├── Speak 模組（朗讀 + 錄音）
     ├── 資料：SCHEDULE[]（365 天）
     ├── 資料：CURRICULUM[]（53 週）
-    ├── 資料：READ_ARTICLES{}（以日期為鍵值）
+    ├── 資料：READ_ARTICLES{}（prototype 以日期為鍵值；正式版改 week/day lookup）
     └── 輔助函式
 ```
 
@@ -296,7 +296,7 @@ export const WEEK_02: Episode[] = [
 ]
 
 // content/episodes/index.ts
-export function getEpisodeByDate(date: string): Episode | undefined
+export function getEpisode(weekNumber: number, dayOfWeek: number): Episode | undefined
 export function getWeekEpisodes(weekNumber: number): Episode[]
 ```
 
@@ -304,7 +304,8 @@ export function getWeekEpisodes(weekNumber: number): Episode[]
 
 ```typescript
 interface ReadArticle {
-  dateKey: string;             // "2026-03-19"
+  dateKey: string;             // legacy content key
+  dayOfWeek: number;           // rolling curriculum lookup key
   topic: string;               // 七類之一
   title: string;               // 文章標題
   wordCount: number;           // 約 600
@@ -342,12 +343,11 @@ interface ScheduleDay {
 }
 ```
 
-**日期工具函式（app 層）：**
+**課程工具函式（app 層）：**
 ```typescript
-// 根據日期字串取得週次（2026 年曆，週一為週首）
-function getWeekNumber(date: string): number  // 回傳 1–53
-function getDayOfWeek(date: string): number   // 回傳 1–7
-function getDateRange(weekNumber: number): { start: string; end: string }
+function getTodayKey(date?: Date): string
+function generateSchedule(startDateInput: string | Date): ScheduleDay[]
+function getScheduleEntry(schedule: ScheduleDay[], dateKey: string): ScheduleDay | null
 ```
 
 ---
@@ -572,12 +572,13 @@ function calculateStreak(){
 
 ---
 
-### GET /api/content/article/:dateKey
+### GET /api/content/article?week=:weekNumber&day=:dayOfWeek
 
 **回應：**
 ```json
 {
-  "dateKey": "2026-03-19",
+  "weekNumber": 8,
+  "dayOfWeek": 3,
   "topic": "Technology",
   "title": "The Rise of Everyday AI",
   "wordCount": 620,
@@ -671,7 +672,7 @@ stores/
 # 提取 JS 資料為 JSON 檔
 SCHEDULE[]     → schedule.json     （288 天）
 CURRICULUM[]   → curriculum.json   （41 週）
-READ_ARTICLES  → articles.json     （3 篇，需補充至 288 篇）
+READ_ARTICLES  → articles.json     （3 篇，正式版需補充並改為 week/day 對應）
 cards[]        → flashcards.json   （30 張，需補充）
 questions[]    → questions.json    （8 道，需補充至 205 道）
 # Episode 01 HTML → episode-01.json（解析 DOM）

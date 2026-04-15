@@ -2,10 +2,12 @@
 
 ## 正式名稱
 
-**Notch Up: Daily English**
+**產品名稱**：Notch Up!
 
+**App Store 名稱**：Notch Up: Daily English
 - **App Store 主名稱**：Notch Up
 - **App Store 副標題**：Daily English
+- **說明**：App Store 名稱加上「Daily English」副標題，是為了讓用戶一眼識別產品內容、提高搜尋可見度。產品本身的品牌名稱是 **Notch Up!**。
 
 ---
 
