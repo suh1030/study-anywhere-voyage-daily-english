@@ -7,7 +7,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'In "Lending a Hand: Acts of Kindness and Support", which feels harder for you: "lend a hand" or "offer support"? Explain with one short example.',
     chineseHint: '可以先選出對你比較難的一個點，再補一個短例子；如果願意，也可以順帶比較另一個點。',
-    structureTip: 'Try: The harder one for me is... / For example,... / The easier side is...',
+    structureTip: 'Try: Start with a fact about your life / Connect it to this topic / Say what you would change if you could',
   },
   {
     weekNumber: 17,
@@ -15,7 +15,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'What has experience taught you about "Why People Decide to Help" that you did not understand before?',
     chineseHint: '可以先說你以前怎麼想，再說後來因為經驗改變了什麼看法。',
-    structureTip: 'Try: I used to think... / But over time I realized... / Now I see that...',
+    structureTip: 'Try: Name what you are afraid to say about this / Say it anyway / Then explain what you were worried about',
   },
   {
     weekNumber: 17,
@@ -23,7 +23,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What is one small step that would help you improve in "Helping Without Taking Control" this week?',
     chineseHint: '不要想太大，先說一個這週真的做得到的小步驟，再補原因。',
-    structureTip: 'Try: One small step I can take is... / It is realistic because... / I hope it will...',
+    structureTip: 'Try: Say what this topic costs you when you handle it badly / Say what it gives you when you handle it well / Say where you are on that spectrum right now',
   },
   {
     weekNumber: 17,
@@ -31,7 +31,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'What would progress look like for you in "Knowing When Not to Help" over the next month?',
     chineseHint: '先說你覺得什麼樣的變化算進步，再說你會怎麼看出來。',
-    structureTip: 'Try: For me, progress would look like... / I would notice it when... / That would matter because...',
+    structureTip: 'Try: Name a time when outside pressure shaped your decision / Name a time when your own values did / Say which felt better afterward',
   },
   {
     weekNumber: 17,
@@ -39,7 +39,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'When does "Receiving Help Gracefully" feel energizing, and when does it feel draining for you?',
     chineseHint: '這題可以從兩面來說：什麼時候你會覺得有力量，什麼時候又會覺得很累。',
-    structureTip: 'Try: It feels energizing when... / It feels draining when... / The difference is...',
+    structureTip: 'Try: Describe the version of this that is working in your life / Describe the version that is not / Say what you are learning from each',
   },
   {
     weekNumber: 17,
@@ -47,7 +47,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'What is the most common challenge you face with "Community, Neighbors, and Everyday Care", and how do you usually handle it?',
     chineseHint: '先講最常碰到的難點，再說你平常怎麼應對，不一定要是完美做法。',
-    structureTip: 'Try: The most common challenge for me is... / Usually, I handle it by... / What still feels hard is...',
+    structureTip: 'Try: Name the conflict or tension at the heart of this for you / Say how you usually resolve it / Say whether that resolution feels right',
   },
   {
     weekNumber: 17,
@@ -55,7 +55,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'How would you explain "What Lasting Help Really Looks Like" to someone who has never really thought about it before?',
     chineseHint: '把對方想成完全沒想過這件事的人，用簡單、清楚的方式慢慢帶他進來。',
-    structureTip: 'Try: I would start by saying... / A simple way to explain it is... / In everyday life,...',
+    structureTip: 'Try: Name the version of this topic that energizes you / Name the version that exhausts you / Say what makes the difference',
   },
   {
     weekNumber: 18,
@@ -63,7 +63,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'What is one small step that would help you improve in "Working It Out: How We Handle Disagreements" this week?',
     chineseHint: '不要想太大，先說一個這週真的做得到的小步驟，再補原因。',
-    structureTip: 'Try: One small step I can take is... / It is realistic because... / I hope it will...',
+    structureTip: 'Try: Start from a specific recent event, not a general feeling / Say what you noticed about yourself in it / Say what it tells you about how you are growing or not',
   },
   {
     weekNumber: 18,
@@ -71,7 +71,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'What would progress look like for you in "Where Arguments Usually Begin" over the next month?',
     chineseHint: '先說你覺得什麼樣的變化算進步，再說你會怎麼看出來。',
-    structureTip: 'Try: For me, progress would look like... / I would notice it when... / That would matter because...',
+    structureTip: 'Try: Tell a story about a moment when this mattered more than you expected / Say what surprised you / Say what you took away',
   },
   {
     weekNumber: 18,
@@ -79,7 +79,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'When does "How to Disagree Without Hurting the Relationship" feel energizing, and when does it feel draining for you?',
     chineseHint: '這題可以從兩面來說：什麼時候你會覺得有力量，什麼時候又會覺得很累。',
-    structureTip: 'Try: It feels energizing when... / It feels draining when... / The difference is...',
+    structureTip: 'Try: Describe what you have tried to do about this / Say what worked and what did not / Say what you would try next',
   },
   {
     weekNumber: 18,
@@ -87,7 +87,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'What is the most common challenge you face with "When an Apology Works and When It Does Not", and how do you usually handle it?',
     chineseHint: '先講最常碰到的難點，再說你平常怎麼應對，不一定要是完美做法。',
-    structureTip: 'Try: The most common challenge for me is... / Usually, I handle it by... / What still feels hard is...',
+    structureTip: 'Try: Give the short version first / Then add the one detail that makes it real / Then say what it means to you now',
   },
   {
     weekNumber: 18,
@@ -95,7 +95,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'How would you explain "Boundaries, Honesty, and Respect" to someone who has never really thought about it before?',
     chineseHint: '把對方想成完全沒想過這件事的人，用簡單、清楚的方式慢慢帶他進來。',
-    structureTip: 'Try: I would start by saying... / A simple way to explain it is... / In everyday life,...',
+    structureTip: 'Try: Paint the scene in one sentence / Say what you were thinking at the time / Say what you would think now',
   },
   {
     weekNumber: 18,
@@ -103,7 +103,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'A friend wants help with "Repairing Trust After a Fight". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Name something you are still practicing around this topic / Say where you are starting from / Say what success would look like in three months',
   },
   {
     weekNumber: 18,
@@ -111,7 +111,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Describe a situation where you had to balance "repair the relationship" and "address it early". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Explain your default response to this / Say where that default came from / Say whether you think it still serves you',
   },
   {
     weekNumber: 19,
@@ -119,7 +119,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'Think of a recent time when "explain your role" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「說明自己的角色」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: I would describe my experience as... / One moment that captures this is... / What it taught me was...',
   },
   {
     weekNumber: 19,
@@ -127,7 +127,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'How does "explain your role" show up in your routine right now? Is it helping or causing problems?',
     chineseHint: '想一想「說明自己的角色」現在怎麼出現在你的生活裡，再說它帶來幫助還是壓力。',
-    structureTip: 'Try: Right now, this shows up when... / It helps me by... / The hard part is...',
+    structureTip: 'Try: I used to think... / Then something happened that changed that: ... / Now I think...',
   },
   {
     weekNumber: 19,
@@ -135,7 +135,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'Use the phrase "day-to-day work" in a short story from your real life. What happened?',
     chineseHint: '把今天學到的說法「日常工作內容」放進你自己的小故事裡，重點是自然，不用講得很長。',
-    structureTip: 'Try: One time, I had to... / That was a moment of... / Since then,...',
+    structureTip: 'Try: Name one thing that is going well with this / Name one thing that is not / Say what you are going to do about the second thing',
   },
   {
     weekNumber: 19,
@@ -143,7 +143,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'If you only had thirty seconds, how would you explain why "Talking About Responsibility and Ownership" matters in daily life?',
     chineseHint: '想像你只有很短的時間，要用簡單英文把這件事講清楚，重點放在日常例子。',
-    structureTip: 'Try: This matters because... / You can see it when... / A simple example is...',
+    structureTip: 'Try: My honest reaction was... / I had not expected... / What I would do differently is...',
   },
   {
     weekNumber: 19,
@@ -151,7 +151,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'Where do you draw the line when it comes to "Career Changes and How to Explain Them"?',
     chineseHint: '這題可以談原則或界線，說說你通常會在哪裡停下來、拒絕，或特別注意。',
-    structureTip: 'Try: I am usually okay with... / But I draw the line when... / That matters to me because...',
+    structureTip: 'Try: The part that surprised me was... / Before, I had assumed... / Now I think...',
   },
   {
     weekNumber: 19,
@@ -159,7 +159,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'Tell a short personal story that includes both "grow into the role" and "explain your role".',
     chineseHint: '試著把「慢慢長成這個角色」和「說明自己的角色」一起放進同一個例子裡，讓答案更像真實口說。',
-    structureTip: 'Try: One situation that fits both ideas was... / First,... / Then...',
+    structureTip: 'Try: Explain what you think is true about this / Then name one thing that complicates that view / Then say how you hold both',
   },
   {
     weekNumber: 19,
@@ -167,7 +167,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'What usually tells you that it is time to change something about "How to Talk About Your Work With Confidence"?',
     chineseHint: '可以說一個你會注意到的訊號，像是情緒、結果，或生活裡某個反覆出現的小細節。',
-    structureTip: 'Try: I know it is time to change when... / One sign is... / After that, I usually...',
+    structureTip: 'Try: Say what you currently do / Say what you wish you did instead / Say what is stopping you',
   },
   {
     weekNumber: 20,
@@ -175,7 +175,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'A friend wants help with "Let\'s Meet: Navigating Work Meetings". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Describe a moment when this came naturally / Describe one when it did not / Say what the difference was',
   },
   {
     weekNumber: 20,
@@ -183,7 +183,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'Describe a situation where you had to balance "meeting agenda" and "action items". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Name the version of this topic that you find easy / Name the version you find difficult / Say why the hard one is harder',
   },
   {
     weekNumber: 20,
@@ -191,7 +191,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What do people often misunderstand about "Speaking Up Without Sounding Aggressive"? What would you say instead?',
     chineseHint: '可以先說常見的誤解，再用自己的話補上一個比較貼近真實的看法。',
-    structureTip: 'Try: People often assume that... / But I think... / A better way to see it is...',
+    structureTip: 'Try: Think of someone you respect who handles this well / Describe what they do / Say what you have tried to borrow from them',
   },
   {
     weekNumber: 20,
@@ -199,7 +199,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'How is your approach to "How to Disagree Productively in Discussions" different now from a few years ago?',
     chineseHint: '把過去和現在做個簡單對比，說出你最大的改變是什麼。',
-    structureTip: 'Try: A few years ago, I... / Now I... / The biggest change is...',
+    structureTip: 'Try: Describe the easiest version of this challenge / Describe the hardest version / Say which one you are currently dealing with',
   },
   {
     weekNumber: 20,
@@ -207,7 +207,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'If someone started talking about "Keeping a Meeting on Track" with you, what would be your natural first response?',
     chineseHint: '想像在真實對話裡別人先提起這個主題，你第一句最自然會怎麼接。',
-    structureTip: 'Try: My first reaction would be... / I would probably mention... / Then I would add...',
+    structureTip: 'Try: Say what you know from your own experience — not what you have heard or read / Then say what you are still not sure about / Then say what would help you understand better',
   },
   {
     weekNumber: 20,
@@ -215,7 +215,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'What would you tell your younger self about "Better Participation in Virtual Meetings" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: Start with one true thing you know about yourself related to this / Add one thing you are still figuring out / End with one question you are sitting with',
   },
   {
     weekNumber: 20,
@@ -223,7 +223,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Think of a recent time when "meeting agenda" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「會議議程」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: For me, the real question is... / My honest answer is... / What I am still figuring out is...',
   },
   {
     weekNumber: 21,
@@ -231,7 +231,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'How is your approach to "Under Pressure: Managing Stress at Work" different now from a few years ago?',
     chineseHint: '把過去和現在做個簡單對比，說出你最大的改變是什麼。',
-    structureTip: 'Try: A few years ago, I... / Now I... / The biggest change is...',
+    structureTip: 'Try: Give your answer in thirty words first / Then expand the part that deserves more attention / End with the part that is still unresolved',
   },
   {
     weekNumber: 21,
@@ -239,7 +239,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'If someone started talking about "What Pressure Does to Your Thinking" with you, what would be your natural first response?',
     chineseHint: '想像在真實對話裡別人先提起這個主題，你第一句最自然會怎麼接。',
-    structureTip: 'Try: My first reaction would be... / I would probably mention... / Then I would add...',
+    structureTip: 'Try: Start with what matters most to you about this / Say how that shows up in your daily life / Say what you want to protect or change',
   },
   {
     weekNumber: 21,
@@ -247,7 +247,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What would you tell your younger self about "Prioritizing When Everything Feels Urgent" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: Name the external situation / Name your internal response / Say whether the two are in proportion',
   },
   {
     weekNumber: 21,
@@ -255,7 +255,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'Think of a recent time when "ask for help early" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「及早求助」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: Name the situation first / Say what you noticed about yourself in it / End with what you want to change',
   },
   {
     weekNumber: 21,
@@ -263,7 +263,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'How does "high stakes" show up in your routine right now? Is it helping or causing problems?',
     chineseHint: '想一想「高風險的情況」現在怎麼出現在你的生活裡，再說它帶來幫助還是壓力。',
-    structureTip: 'Try: Right now, this shows up when... / It helps me by... / The hard part is...',
+    structureTip: 'Try: In theory I believe... / In practice I often... / The gap exists because...',
   },
   {
     weekNumber: 21,
@@ -271,7 +271,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'Use the phrase "work under pressure" in a short story from your real life. What happened?',
     chineseHint: '把今天學到的說法「在壓力下工作」放進你自己的小故事裡，重點是自然，不用講得很長。',
-    structureTip: 'Try: One time, I had to... / That was a moment of... / Since then,...',
+    structureTip: 'Try: Describe what "good" would actually look like for you / Compare that to where you are now / Say one step that would move you closer',
   },
   {
     weekNumber: 21,
@@ -279,7 +279,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'If you only had thirty seconds, how would you explain why "A Healthier Relationship With Pressure" matters in daily life?',
     chineseHint: '想像你只有很短的時間，要用簡單英文把這件事講清楚，重點放在日常例子。',
-    structureTip: 'Try: This matters because... / You can see it when... / A simple example is...',
+    structureTip: 'Try: Start with the situation in one sentence / Then explain what was at stake / End with what you chose to do',
   },
   {
     weekNumber: 22,
@@ -287,7 +287,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'What would you tell your younger self about "Figuring It Out: How We Tackle Problems" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: Describe your typical pattern here / Say what triggers that pattern / Say whether you want to change it',
   },
   {
     weekNumber: 22,
@@ -295,7 +295,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'Think of a recent time when "define the problem" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「先定義問題」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: The last time this mattered to me was... / What I was trying to do was... / How it went was...',
   },
   {
     weekNumber: 22,
@@ -303,7 +303,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'How does "simplify the solution" show up in your routine right now? Is it helping or causing problems?',
     chineseHint: '想一想「把解法變簡單」現在怎麼出現在你的生活裡，再說它帶來幫助還是壓力。',
-    structureTip: 'Try: Right now, this shows up when... / It helps me by... / The hard part is...',
+    structureTip: 'Try: The most honest thing I can say about this is... / Why it is hard to say is... / But saying it matters because...',
   },
   {
     weekNumber: 22,
@@ -311,7 +311,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'Use the phrase "define the problem" in a short story from your real life. What happened?',
     chineseHint: '把今天學到的說法「先定義問題」放進你自己的小故事裡，重點是自然，不用講得很長。',
-    structureTip: 'Try: One time, I had to... / That was a moment of... / Since then,...',
+    structureTip: 'Try: The specific moment I am thinking of is... / What made it interesting was... / Looking back, I now see...',
   },
   {
     weekNumber: 22,
@@ -319,7 +319,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'If you only had thirty seconds, how would you explain why "Making Better Decisions When the Answer Is Unclear" matters in daily life?',
     chineseHint: '想像你只有很短的時間，要用簡單英文把這件事講清楚，重點放在日常例子。',
-    structureTip: 'Try: This matters because... / You can see it when... / A simple example is...',
+    structureTip: 'Try: Pick one word that captures your feeling about this / Explain what that word means in this context / Give one example that shows why',
   },
   {
     weekNumber: 22,
@@ -327,7 +327,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'Where do you draw the line when it comes to "Solving Problems Better as a Team"?',
     chineseHint: '這題可以談原則或界線，說說你通常會在哪裡停下來、拒絕，或特別注意。',
-    structureTip: 'Try: I am usually okay with... / But I draw the line when... / That matters to me because...',
+    structureTip: 'Try: My first instinct was... / But after thinking about it... / What I actually did was...',
   },
   {
     weekNumber: 22,
@@ -335,7 +335,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Tell a short personal story that includes both "define the problem" and "root cause".',
     chineseHint: '試著把「先定義問題」和「根本原因」一起放進同一個例子裡，讓答案更像真實口說。',
-    structureTip: 'Try: One situation that fits both ideas was... / First,... / Then...',
+    structureTip: 'Try: Say what this topic means to you right now / Say what it meant to you a few years ago / Say what changed',
   },
   {
     weekNumber: 23,
@@ -343,7 +343,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'What would progress look like for you in "Where I\'m Headed: Talking About Career Ambitions" over the next month?',
     chineseHint: '先說你覺得什麼樣的變化算進步，再說你會怎麼看出來。',
-    structureTip: 'Try: For me, progress would look like... / I would notice it when... / That would matter because...',
+    structureTip: 'Try: My relationship with this has changed / A year ago I would have said... / Now I would say...',
   },
   {
     weekNumber: 23,
@@ -351,7 +351,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'When does "What Success Looks Like to You" feel energizing, and when does it feel draining for you?',
     chineseHint: '這題可以從兩面來說：什麼時候你會覺得有力量，什麼時候又會覺得很累。',
-    structureTip: 'Try: It feels energizing when... / It feels draining when... / The difference is...',
+    structureTip: 'Try: The question catches me off guard because... / My honest answer, thinking about it now, is... / What that reveals is...',
   },
   {
     weekNumber: 23,
@@ -359,7 +359,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What is the most common challenge you face with "Ambition and Its Tradeoffs", and how do you usually handle it?',
     chineseHint: '先講最常碰到的難點，再說你平常怎麼應對，不一定要是完美做法。',
-    structureTip: 'Try: The most common challenge for me is... / Usually, I handle it by... / What still feels hard is...',
+    structureTip: 'Try: The thing I keep coming back to about this is... / It connects to my own experience because... / What I still want to understand is...',
   },
   {
     weekNumber: 23,
@@ -367,7 +367,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'How would you explain "How to Talk About Your Next Step" to someone who has never really thought about it before?',
     chineseHint: '把對方想成完全沒想過這件事的人，用簡單、清楚的方式慢慢帶他進來。',
-    structureTip: 'Try: I would start by saying... / A simple way to explain it is... / In everyday life,...',
+    structureTip: 'Try: Give your real answer, not your ideal answer / Then say why there is a gap / Then say what you are doing about it',
   },
   {
     weekNumber: 23,
@@ -375,7 +375,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'A friend wants help with "Choosing Between Stability and Growth". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Give an example that contradicts your own general view / Say why you hold both the view and the exception / Say what that tells you',
   },
   {
     weekNumber: 23,
@@ -383,7 +383,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'Describe a situation where you had to balance "long-term goal" and "career path". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Describe your relationship with this topic in a word / Explain what that word means in your context / Say one thing that could change it',
   },
   {
     weekNumber: 23,
@@ -391,7 +391,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'What do people often misunderstand about "Building a Career That Still Feels Like Yours"? What would you say instead?',
     chineseHint: '可以先說常見的誤解，再用自己的話補上一個比較貼近真實的看法。',
-    structureTip: 'Try: People often assume that... / But I think... / A better way to see it is...',
+    structureTip: 'Try: Name one assumption you had about this that turned out to be wrong / Say how you discovered that / Say what you believe now',
   },
   {
     weekNumber: 24,
@@ -399,7 +399,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Monday',
     question: 'Where do you draw the line when it comes to "Always Learning: How We Grow and Improve"?',
     chineseHint: '這題可以談原則或界線，說說你通常會在哪裡停下來、拒絕，或特別注意。',
-    structureTip: 'Try: I am usually okay with... / But I draw the line when... / That matters to me because...',
+    structureTip: 'Try: In my current life, this looks like... / The challenge is... / What is helping me is...',
   },
   {
     weekNumber: 24,
@@ -407,7 +407,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'Tell a short personal story that includes both "growth zone" and "beginner mindset".',
     chineseHint: '試著把「成長區」和「初學者心態」一起放進同一個例子裡，讓答案更像真實口說。',
-    structureTip: 'Try: One situation that fits both ideas was... / First,... / Then...',
+    structureTip: 'Try: Give the factual version first / Then add the emotional layer / Then say what you want to do with all of that',
   },
   {
     weekNumber: 24,
@@ -415,7 +415,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What usually tells you that it is time to change something about "Learning New Skills as an Adult"?',
     chineseHint: '可以說一個你會注意到的訊號，像是情緒、結果，或生活裡某個反覆出現的小細節。',
-    structureTip: 'Try: I know it is time to change when... / One sign is... / After that, I usually...',
+    structureTip: 'Try: Make your answer as specific as possible — name a time, a place, a person / Then explain why that example matters / Then draw the connection to the topic',
   },
   {
     weekNumber: 24,
@@ -423,7 +423,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'In "What Good Practice Actually Looks Like", which feels harder for you: "practice consistently" or "growth zone"? Explain with one short example.',
     chineseHint: '可以先選出對你比較難的一個點，再補一個短例子；如果願意，也可以順帶比較另一個點。',
-    structureTip: 'Try: The harder one for me is... / For example,... / The easier side is...',
+    structureTip: 'Try: Describe a moment when you got this right / Describe one when you got it wrong / Say what made the difference',
   },
   {
     weekNumber: 24,
@@ -431,7 +431,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Friday',
     question: 'What has experience taught you about "When Progress Feels Slow" that you did not understand before?',
     chineseHint: '可以先說你以前怎麼想，再說後來因為經驗改變了什麼看法。',
-    structureTip: 'Try: I used to think... / But over time I realized... / Now I see that...',
+    structureTip: 'Try: Say the thing you find hardest to admit about this topic / Say why it is hard / Say why it is worth admitting anyway',
   },
   {
     weekNumber: 24,
@@ -439,7 +439,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'What is one small step that would help you improve in "Learning From Other People Without Comparing Yourself" this week?',
     chineseHint: '不要想太大，先說一個這週真的做得到的小步驟，再補原因。',
-    structureTip: 'Try: One small step I can take is... / It is realistic because... / I hope it will...',
+    structureTip: 'Try: Name the stakes first — why this mattered / Then describe what you did / Then say whether it was the right call',
   },
   {
     weekNumber: 24,
@@ -447,6 +447,6 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'What would progress look like for you in "What It Means to Keep Growing" over the next month?',
     chineseHint: '先說你覺得什麼樣的變化算進步，再說你會怎麼看出來。',
-    structureTip: 'Try: For me, progress would look like... / I would notice it when... / That would matter because...',
+    structureTip: 'Try: What I find genuinely hard about this is... / I have tried... / What helps most is...',
   }
 ]

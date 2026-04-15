@@ -7,7 +7,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'What would you tell your younger self about "Wins and Losses: What We Learn From Both" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: The thing I keep coming back to about this is... / It connects to my own experience because... / What I still want to understand is...',
   },
   {
     weekNumber: 25,
@@ -15,7 +15,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'Think of a recent time when "quiet success" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「安靜卻真實的成功」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: If I had to teach this to someone, I would say... / The most important part is... / The hardest part to explain is...',
   },
   {
     weekNumber: 25,
@@ -23,7 +23,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'How does "proud moment" show up in your routine right now? Is it helping or causing problems?',
     chineseHint: '想一想「值得驕傲的時刻」現在怎麼出現在你的生活裡，再說它帶來幫助還是壓力。',
-    structureTip: 'Try: Right now, this shows up when... / It helps me by... / The hard part is...',
+    structureTip: 'Try: Give a concrete example first / Then say what it shows about you / Then say what you would keep or change',
   },
   {
     weekNumber: 25,
@@ -31,7 +31,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'Use the phrase "public pressure" in a short story from your real life. What happened?',
     chineseHint: '把今天學到的說法「來自外界的壓力」放進你自己的小故事裡，重點是自然，不用講得很長。',
-    structureTip: 'Try: One time, I had to... / That was a moment of... / Since then,...',
+    structureTip: 'Try: My first answer is probably too simple, so let me go deeper: ... / What is actually going on is... / Which means...',
   },
   {
     weekNumber: 25,
@@ -39,7 +39,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'If you only had thirty seconds, how would you explain why "When Plans Fail but Life Does Not" matters in daily life?',
     chineseHint: '想像你只有很短的時間，要用簡單英文把這件事講清楚，重點放在日常例子。',
-    structureTip: 'Try: This matters because... / You can see it when... / A simple example is...',
+    structureTip: 'Try: The thing I avoid saying about this is... / Why I avoid it is... / But if I am honest...',
   },
   {
     weekNumber: 25,
@@ -47,7 +47,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'Where do you draw the line when it comes to "The Success That No One Sees"?',
     chineseHint: '這題可以談原則或界線，說說你通常會在哪裡停下來、拒絕，或特別注意。',
-    structureTip: 'Try: I am usually okay with... / But I draw the line when... / That matters to me because...',
+    structureTip: 'Try: The version of this I am comfortable with is... / The version I am not comfortable with is... / The line is...',
   },
   {
     weekNumber: 25,
@@ -55,7 +55,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Tell a short personal story that includes both "keep going" and "proud moment".',
     chineseHint: '試著把「繼續往前」和「值得驕傲的時刻」一起放進同一個例子裡，讓答案更像真實口說。',
-    structureTip: 'Try: One situation that fits both ideas was... / First,... / Then...',
+    structureTip: 'Try: The feeling I associate with this is... / It shows up in situations like... / What it tells me about myself is...',
   },
   {
     weekNumber: 26,
@@ -63,7 +63,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'Describe a situation where you had to balance "rest without guilt" and "hobby outside work". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Name the version of this topic that energizes you / Name the version that exhausts you / Say what makes the difference',
   },
   {
     weekNumber: 26,
@@ -71,7 +71,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'What do people often misunderstand about "How Work Follows You Home"? What would you say instead?',
     chineseHint: '可以先說常見的誤解，再用自己的話補上一個比較貼近真實的看法。',
-    structureTip: 'Try: People often assume that... / But I think... / A better way to see it is...',
+    structureTip: 'Try: Describe your relationship with this topic in a word / Explain what that word means in your context / Say one thing that could change it',
   },
   {
     weekNumber: 26,
@@ -79,7 +79,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'How is your approach to "Rest Without Guilt" different now from a few years ago?',
     chineseHint: '把過去和現在做個簡單對比，說出你最大的改變是什麼。',
-    structureTip: 'Try: A few years ago, I... / Now I... / The biggest change is...',
+    structureTip: 'Try: Think of someone you respect who handles this well / Describe what they do / Say what you have tried to borrow from them',
   },
   {
     weekNumber: 26,
@@ -87,7 +87,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'If someone started talking about "Boundaries at Work, Not Just After Work" with you, what would be your natural first response?',
     chineseHint: '想像在真實對話裡別人先提起這個主題，你第一句最自然會怎麼接。',
-    structureTip: 'Try: My first reaction would be... / I would probably mention... / Then I would add...',
+    structureTip: 'Try: Say what you currently do / Say what you wish you did instead / Say what is stopping you',
   },
   {
     weekNumber: 26,
@@ -95,7 +95,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'What would you tell your younger self about "What Hobbies Give Back to Working Adults" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: My relationship with this has changed / A year ago I would have said... / Now I would say...',
   },
   {
     weekNumber: 26,
@@ -103,7 +103,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'Think of a recent time when "hobby outside work" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「工作之外的興趣」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: The obvious answer is... / But what is actually true for me is... / Because...',
   },
   {
     weekNumber: 26,
@@ -111,7 +111,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'How does "sustainable week" show up in your routine right now? Is it helping or causing problems?',
     chineseHint: '想一想「可持續的一週節奏」現在怎麼出現在你的生活裡，再說它帶來幫助還是壓力。',
-    structureTip: 'Try: Right now, this shows up when... / It helps me by... / The hard part is...',
+    structureTip: 'Try: I find this easy when... / I find this hard when... / The difference usually comes down to...',
   },
   {
     weekNumber: 27,
@@ -119,7 +119,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'A friend wants help with "Going Somewhere: The Joy and Challenge of Travel". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Pick the most recent example you can think of / Describe it in two or three sentences / Then say what it changed for you',
   },
   {
     weekNumber: 27,
@@ -127,7 +127,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'Describe a situation where you had to balance "shift your perspective" and "travel companion". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Paint the scene in one sentence / Say what you were thinking at the time / Say what you would think now',
   },
   {
     weekNumber: 27,
@@ -135,7 +135,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What do people often misunderstand about "Planning vs. Spontaneity on a Trip"? What would you say instead?',
     chineseHint: '可以先說常見的誤解，再用自己的話補上一個比較貼近真實的看法。',
-    structureTip: 'Try: People often assume that... / But I think... / A better way to see it is...',
+    structureTip: 'Try: Say what you know from your own experience — not what you have heard or read / Then say what you are still not sure about / Then say what would help you understand better',
   },
   {
     weekNumber: 27,
@@ -143,7 +143,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'How is your approach to "Traveling on a Budget Without Losing the Experience" different now from a few years ago?',
     chineseHint: '把過去和現在做個簡單對比，說出你最大的改變是什麼。',
-    structureTip: 'Try: A few years ago, I... / Now I... / The biggest change is...',
+    structureTip: 'Try: Name one assumption you had about this that turned out to be wrong / Say how you discovered that / Say what you believe now',
   },
   {
     weekNumber: 27,
@@ -151,7 +151,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'If someone started talking about "Culture Shock and How to Handle It" with you, what would be your natural first response?',
     chineseHint: '想像在真實對話裡別人先提起這個主題，你第一句最自然會怎麼接。',
-    structureTip: 'Try: My first reaction would be... / I would probably mention... / Then I would add...',
+    structureTip: 'Try: Make your answer as specific as possible — name a time, a place, a person / Then explain why that example matters / Then draw the connection to the topic',
   },
   {
     weekNumber: 27,
@@ -159,7 +159,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'What would you tell your younger self about "Traveling With Other People" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: What I find genuinely hard about this is... / I have tried... / What helps most is...',
   },
   {
     weekNumber: 27,
@@ -167,7 +167,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Think of a recent time when "travel on a budget" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「用有限預算旅行」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: Describe the situation without judgment first / Then say what you felt / Then say what you wish you had known',
   },
   {
     weekNumber: 28,
@@ -175,7 +175,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'Use the phrase "visual journal" in a short story from your real life. What happened?',
     chineseHint: '把今天學到的說法「視覺日記」放進你自己的小故事裡，重點是自然，不用講得很長。',
-    structureTip: 'Try: One time, I had to... / That was a moment of... / Since then,...',
+    structureTip: 'Try: One person who handles this well is... / What they do differently is... / What I could borrow from them is...',
   },
   {
     weekNumber: 28,
@@ -183,7 +183,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'If you only had thirty seconds, how would you explain why "Why People Take Photos" matters in daily life?',
     chineseHint: '想像你只有很短的時間，要用簡單英文把這件事講清楚，重點放在日常例子。',
-    structureTip: 'Try: This matters because... / You can see it when... / A simple example is...',
+    structureTip: 'Try: Start with what you want to be true / Then describe what is actually true / Then close the gap by...',
   },
   {
     weekNumber: 28,
@@ -191,7 +191,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'Where do you draw the line when it comes to "Composition, Light, and Learning to See"?',
     chineseHint: '這題可以談原則或界線，說說你通常會在哪裡停下來、拒絕，或特別注意。',
-    structureTip: 'Try: I am usually okay with... / But I draw the line when... / That matters to me because...',
+    structureTip: 'Try: Right now my relationship with this is... / Six months ago it was... / What changed was...',
   },
   {
     weekNumber: 28,
@@ -199,7 +199,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'Tell a short personal story that includes both "edit carefully" and "take a photo".',
     chineseHint: '試著把「仔細修圖」和「拍一張照片」一起放進同一個例子裡，讓答案更像真實口說。',
-    structureTip: 'Try: One situation that fits both ideas was... / First,... / Then...',
+    structureTip: 'Try: My first move when this comes up is... / Whether that helps or not depends on... / What I am trying to get better at is...',
   },
   {
     weekNumber: 28,
@@ -207,7 +207,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'What usually tells you that it is time to change something about "Drawing, Visual Journaling, and Creative Healing"?',
     chineseHint: '可以說一個你會注意到的訊號，像是情緒、結果，或生活裡某個反覆出現的小細節。',
-    structureTip: 'Try: I know it is time to change when... / One sign is... / After that, I usually...',
+    structureTip: 'Try: Start with one thing you know you do well here / Add one thing you genuinely struggle with / Say what connects them',
   },
   {
     weekNumber: 28,
@@ -215,7 +215,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'In "Creating in the Age of Social Media", which feels harder for you: "take a photo" or "natural light"? Explain with one short example.',
     chineseHint: '可以先選出對你比較難的一個點，再補一個短例子；如果願意，也可以順帶比較另一個點。',
-    structureTip: 'Try: The harder one for me is... / For example,... / The easier side is...',
+    structureTip: 'Try: Name the decision you keep putting off about this / Say what is making it hard / Say what would need to change for you to decide',
   },
   {
     weekNumber: 28,
@@ -223,7 +223,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'What has experience taught you about "What Visual Art Teaches About Life" that you did not understand before?',
     chineseHint: '可以先說你以前怎麼想，再說後來因為經驗改變了什麼看法。',
-    structureTip: 'Try: I used to think... / But over time I realized... / Now I see that...',
+    structureTip: 'Try: The thing most people miss about this is... / I missed it too until... / Once I saw it, I started to...',
   },
   {
     weekNumber: 29,
@@ -231,7 +231,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'A friend wants help with "What We Listen To: Music, Podcasts, and Audio". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Start with what you expected / Say what actually happened / End with what you took from the gap',
   },
   {
     weekNumber: 29,
@@ -239,7 +239,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'Describe a situation where you had to balance "mood shift" and "make a playlist". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Give your real answer, not your ideal answer / Then say why there is a gap / Then say what you are doing about it',
   },
   {
     weekNumber: 29,
@@ -247,7 +247,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What do people often misunderstand about "Musical Taste and Personal Identity"? What would you say instead?',
     chineseHint: '可以先說常見的誤解，再用自己的話補上一個比較貼近真實的看法。',
-    structureTip: 'Try: People often assume that... / But I think... / A better way to see it is...',
+    structureTip: 'Try: Start with what matters most to you about this / Say how that shows up in your daily life / Say what you want to protect or change',
   },
   {
     weekNumber: 29,
@@ -263,7 +263,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'If someone started talking about "How Audio Fills Our Empty Time" with you, what would be your natural first response?',
     chineseHint: '想像在真實對話裡別人先提起這個主題，你第一句最自然會怎麼接。',
-    structureTip: 'Try: My first reaction would be... / I would probably mention... / Then I would add...',
+    structureTip: 'Try: Explain your default response to this / Say where that default came from / Say whether you think it still serves you',
   },
   {
     weekNumber: 29,
@@ -271,7 +271,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'What would you tell your younger self about "Shared Listening and Social Connection" now?',
     chineseHint: '把自己想成在對以前的自己說話，內容可以是提醒、安慰，或一個更成熟的理解。',
-    structureTip: 'Try: I would tell my younger self... / I did not understand then that... / What I know now is...',
+    structureTip: 'Try: The question catches me off guard because... / My honest answer, thinking about it now, is... / What that reveals is...',
   },
   {
     weekNumber: 29,
@@ -279,7 +279,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Think of a recent time when "listening habit" became important in your life. What was happening, and what did you do?',
     chineseHint: '先交代最近的一個真實情境，再說事情為什麼跟「聆聽習慣」有關，最後補一句你怎麼做。',
-    structureTip: 'Try: A recent time this came up was... / It became important because... / So I decided to...',
+    structureTip: 'Try: What I have tried is... / What worked was... / What I am still testing is...',
   },
   {
     weekNumber: 30,
@@ -287,7 +287,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'In "Words and Pages: Our Love of Reading and Writing", which feels harder for you: "reading habit" or "read deeply"? Explain with one short example.',
     chineseHint: '可以先選出對你比較難的一個點，再補一個短例子；如果願意，也可以順帶比較另一個點。',
-    structureTip: 'Try: The harder one for me is... / For example,... / The easier side is...',
+    structureTip: 'Try: Describe what doing this well would cost you / Describe what doing this badly costs you / Say which feels more manageable right now',
   },
   {
     weekNumber: 30,
@@ -295,7 +295,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'What has experience taught you about "Why Reading Slows the Mind Down" that you did not understand before?',
     chineseHint: '可以先說你以前怎麼想，再說後來因為經驗改變了什麼看法。',
-    structureTip: 'Try: I used to think... / But over time I realized... / Now I see that...',
+    structureTip: 'Try: Name what you want / Name what is in the way / Name one thing you can actually do about the second',
   },
   {
     weekNumber: 30,
@@ -303,7 +303,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'What is one small step that would help you improve in "Building a Reading Habit That Lasts" this week?',
     chineseHint: '不要想太大，先說一個這週真的做得到的小步驟，再補原因。',
-    structureTip: 'Try: One small step I can take is... / It is realistic because... / I hope it will...',
+    structureTip: 'Try: I know someone who handles this well / What they do is... / What I have borrowed from them is...',
   },
   {
     weekNumber: 30,
@@ -311,7 +311,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'What would progress look like for you in "Journaling, Notes, and Writing for Yourself" over the next month?',
     chineseHint: '先說你覺得什麼樣的變化算進步，再說你會怎麼看出來。',
-    structureTip: 'Try: For me, progress would look like... / I would notice it when... / That would matter because...',
+    structureTip: 'Try: There is a version of this I am proud of / There is a version I am not / What separates them is...',
   },
   {
     weekNumber: 30,
@@ -319,7 +319,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'When does "Why Writing Is Hard and Why It Matters" feel energizing, and when does it feel draining for you?',
     chineseHint: '這題可以從兩面來說：什麼時候你會覺得有力量，什麼時候又會覺得很累。',
-    structureTip: 'Try: It feels energizing when... / It feels draining when... / The difference is...',
+    structureTip: 'Try: Say what you know from experience / Say what you are still learning / Say what question you are sitting with',
   },
   {
     weekNumber: 30,
@@ -327,7 +327,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'What is the most common challenge you face with "Books, Solitude, and the Inner Life", and how do you usually handle it?',
     chineseHint: '先講最常碰到的難點，再說你平常怎麼應對，不一定要是完美做法。',
-    structureTip: 'Try: The most common challenge for me is... / Usually, I handle it by... / What still feels hard is...',
+    structureTip: 'Try: I know someone who handles this well / What they do is... / What I have borrowed from them is...',
   },
   {
     weekNumber: 30,
@@ -335,7 +335,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'How would you explain "What a Life With Books and Words Can Give You" to someone who has never really thought about it before?',
     chineseHint: '把對方想成完全沒想過這件事的人，用簡單、清楚的方式慢慢帶他進來。',
-    structureTip: 'Try: I would start by saying... / A simple way to explain it is... / In everyday life,...',
+    structureTip: 'Try: Think about what advice you would give a friend in this situation / Say whether you follow your own advice / Explain the gap',
   },
   {
     weekNumber: 31,
@@ -343,7 +343,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'What is one small step that would help you improve in "Animal Companions: Pets, Wildlife, and Our Bond With Animals" this week?',
     chineseHint: '不要想太大，先說一個這週真的做得到的小步驟，再補原因。',
-    structureTip: 'Try: One small step I can take is... / It is realistic because... / I hope it will...',
+    structureTip: 'Try: The comfortable version of my answer is... / The more honest version is... / I choose the honest version because...',
   },
   {
     weekNumber: 31,
@@ -351,7 +351,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'What would progress look like for you in "Why People Love Animals So Much" over the next month?',
     chineseHint: '先說你覺得什麼樣的變化算進步，再說你會怎麼看出來。',
-    structureTip: 'Try: For me, progress would look like... / I would notice it when... / That would matter because...',
+    structureTip: 'Try: Say what you know from experience / Say what you are still learning / Say what question you are sitting with',
   },
   {
     weekNumber: 31,
@@ -359,7 +359,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'When does "What Caring for a Pet Teaches You" feel energizing, and when does it feel draining for you?',
     chineseHint: '這題可以從兩面來說：什麼時候你會覺得有力量，什麼時候又會覺得很累。',
-    structureTip: 'Try: It feels energizing when... / It feels draining when... / The difference is...',
+    structureTip: 'Try: The feeling I associate with this is... / It shows up in situations like... / What it tells me about myself is...',
   },
   {
     weekNumber: 31,
@@ -367,7 +367,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'What is the most common challenge you face with "Wild Animals, Awe, and Conservation", and how do you usually handle it?',
     chineseHint: '先講最常碰到的難點，再說你平常怎麼應對，不一定要是完美做法。',
-    structureTip: 'Try: The most common challenge for me is... / Usually, I handle it by... / What still feels hard is...',
+    structureTip: 'Try: The comfortable version of my answer is... / The more honest version is... / I choose the honest version because...',
   },
   {
     weekNumber: 31,
@@ -375,7 +375,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Friday',
     question: 'How would you explain "Animal Welfare and the Ethics of Care" to someone who has never really thought about it before?',
     chineseHint: '把對方想成完全沒想過這件事的人，用簡單、清楚的方式慢慢帶他進來。',
-    structureTip: 'Try: I would start by saying... / A simple way to explain it is... / In everyday life,...',
+    structureTip: 'Try: Describe the ideal outcome you want from this / Describe the realistic outcome you expect / Say what you are doing to close the gap',
   },
   {
     weekNumber: 31,
@@ -383,7 +383,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Saturday',
     question: 'A friend wants help with "What Animals Teach Us About Ourselves". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Name the stakes first — why this mattered / Then describe what you did / Then say whether it was the right call',
   },
   {
     weekNumber: 31,
@@ -391,7 +391,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'Describe a situation where you had to balance "pet owner" and "daily care". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Start with a fact about your life / Connect it to this topic / Say what you would change if you could',
   },
   {
     weekNumber: 32,
@@ -399,7 +399,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Monday',
     question: 'What is the most common challenge you face with "Things We Love: Hobbies, Collections, and Passions", and how do you usually handle it?',
     chineseHint: '先講最常碰到的難點，再說你平常怎麼應對，不一定要是完美做法。',
-    structureTip: 'Try: The most common challenge for me is... / Usually, I handle it by... / What still feels hard is...',
+    structureTip: 'Try: There is a version of this I am proud of / There is a version I am not / What separates them is...',
   },
   {
     weekNumber: 32,
@@ -407,7 +407,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Tuesday',
     question: 'How would you explain "Why People Collect Things" to someone who has never really thought about it before?',
     chineseHint: '把對方想成完全沒想過這件事的人，用簡單、清楚的方式慢慢帶他進來。',
-    structureTip: 'Try: I would start by saying... / A simple way to explain it is... / In everyday life,...',
+    structureTip: 'Try: Say what you find yourself thinking about most when this topic comes up / Say why that particular thing keeps surfacing / Say what it might mean',
   },
   {
     weekNumber: 32,
@@ -415,7 +415,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Wednesday',
     question: 'A friend wants help with "Hobbies as Relief From Hustle Culture". What practical advice would you give first?',
     chineseHint: '把自己想成真的在給朋友建議，先說第一個最實用的做法，再解釋為什麼。',
-    structureTip: 'Try: The first thing I would suggest is... / It helps because... / I would tell them to...',
+    structureTip: 'Try: Give the short version first / Then add the one detail that makes it real / Then say what it means to you now',
   },
   {
     weekNumber: 32,
@@ -423,7 +423,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Thursday',
     question: 'Describe a situation where you had to balance "hands-on hobby" and "creative outlet". What choice did you make?',
     chineseHint: '先說兩件事情拉扯的情境，再說你最後怎麼選，以及那個選擇帶來什麼結果。',
-    structureTip: 'Try: I had to choose between... and... / I ended up... / Looking back,...',
+    structureTip: 'Try: Describe a moment when you got this right / Describe one when you got it wrong / Say what made the difference',
   },
   {
     weekNumber: 32,
@@ -447,6 +447,6 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     day: 'Sunday',
     question: 'If someone started talking about "What Passion Adds to an Adult Life" with you, what would be your natural first response?',
     chineseHint: '想像在真實對話裡別人先提起這個主題，你第一句最自然會怎麼接。',
-    structureTip: 'Try: My first reaction would be... / I would probably mention... / Then I would add...',
+    structureTip: 'Try: Name the version of this topic that you find easy / Name the version you find difficult / Say why the hard one is harder',
   }
 ]
