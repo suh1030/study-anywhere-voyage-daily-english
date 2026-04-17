@@ -763,7 +763,7 @@ export const WEEK_08: Episode[] = [
       {
         "en": "sinking fund",
         "zh": "預先分月累積的專用基金",
-        "example": "A sinking fund for birthdays meant December no longer destroyed his budget."
+        "example": "A sinking fund for birthdays meant gift season no longer destroyed his budget."
       }
     ]
   },
@@ -1683,8 +1683,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say, \"I have a monthly contribution to my emergency fund,\" or \"I am building a travel fund for next year.\"",
-            "zh": "沒錯。你也可以說「我每個月固定投入一筆錢到緊急預備金」，或「我正在為明年的旅行建立一筆基金」。",
+            "en": "Exactly. You can also say, \"I have a monthly contribution to my emergency fund,\" or \"I am building a travel fund for a trip later on.\"",
+            "zh": "沒錯。你也可以說「我每個月固定投入一筆錢到緊急預備金」，或「我正在為之後的一趟旅行慢慢存一筆專用基金」。",
             "vocab": [
               {
                 "word": "monthly contribution",

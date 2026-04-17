@@ -588,7 +588,7 @@ export const WEEK_14: Episode[] = [
     keyPhrases: [
       { en: 'set a boundary', zh: '設定界限', example: 'She set a boundary around weekend plans and immediately felt less resentful on Monday mornings.' },
       { en: 'say no', zh: '說不；拒絕', example: 'Learning to say no gracefully took practice, but it changed the quality of her social life completely.' },
-      { en: 'overcommit', zh: '過度承諾；攬太多事', example: 'He overcommitted every autumn and spent December recovering from exhaustion.' },
+      { en: 'overcommit', zh: '過度承諾；攬太多事', example: 'He overcommitted during every busy stretch and spent the following weeks recovering from exhaustion.' },
       { en: 'politely decline', zh: '禮貌地拒絕', example: 'She politely declined and offered an alternative date, and nobody was upset.' },
       { en: 'social obligation', zh: '社交義務', example: 'Not every social obligation is worth the energy it costs — some can simply be skipped.' },
       { en: 'guilt trip', zh: '用愧疚感操控他人', example: 'She recognized the guilt trip for what it was and held her no anyway.' },

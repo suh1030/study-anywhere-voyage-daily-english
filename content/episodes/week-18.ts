@@ -310,7 +310,7 @@ export const WEEK_18: Episode[] = [
           { speaker: "a", speakerName: "Mira", en: "Sometimes. But when trust or dignity took a real hit, words need backup.", zh: "有時候夠，但如果信任或尊嚴真的被撞到了，語言就需要後續支撐。" },
           { speaker: "b", speakerName: "Jamie", en: "Backup meaning changed behavior?", zh: "你說的支撐，是指改變行為嗎？" },
           { speaker: "a", speakerName: "Mira", en: "Changed behavior, yes, and sometimes a concrete act to make amends.", zh: "對，行為的改變是其一；有時也需要做一個具體的補救動作。", vocab: [{ word: "make amends", def: "做出補救；給出實際彌補" }] },
-          { speaker: "b", speakerName: "Jamie", en: "Like what?", zh: "比如說呢？" },
+          { speaker: "b", speakerName: "Jamie", en: "For example?", zh: "例如哪些？" },
           { speaker: "a", speakerName: "Mira", en: "Maybe you correct the public situation, or you offer a real apology face to face instead of hiding in a text.", zh: "可能是你把公開場合裡留下的問題補回來，或是你當面真正道歉，而不是躲在訊息後面。", vocab: [{ word: "offer a real apology", def: "真正地道歉，不只是形式上說 sorry" }] },
           { speaker: "b", speakerName: "Jamie", en: "So repair depends on the kind of damage.", zh: "所以怎麼修補，得看你傷害的是哪一種東西。" },
           { speaker: "a", speakerName: "Mira", en: "Exactly. You do not repair embarrassment, betrayal, and inconvenience in the same way.", zh: "完全正確。難堪、背叛，還有單純造成不便，修法本來就不可能一樣。" },

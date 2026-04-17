@@ -133,7 +133,7 @@ export const WEEK_48: Episode[] = [
         a('Good. Humor can connect, but it becomes healthier when people also know how to widen the doorway.', '很好。幽默當然可以連結，但當大家也知道怎麼把門口打寬一點時，它會更健康。'),
       ]),
       part('Part 5 — Belonging and Language Awareness', [
-        b('So what is the deeper lesson here?', '那這個主題更深的 lesson 是什麼？'),
+        b('So what is the deeper lesson here?', '那這個主題更深的一層提醒是什麼？'),
         a('That language is never only information. It is also atmosphere, access, and social permission.', '就是：語言從來不只是資訊，它也是氣氛、進入權，以及一種社交上的允許。'),
         b('That makes it feel much more alive than a vocabulary list.', '這讓語言比字彙表活多了。'),
         a('It is alive because people live inside it. The words a group uses affect who relaxes, who hesitates, and who speaks at all.', '它本來就活，因為人是活在語言裡的。一個群體用什麼字，會影響誰先放鬆、誰會猶豫，甚至誰會開口。'),
@@ -320,7 +320,7 @@ export const WEEK_48: Episode[] = [
         b('That means bilingual people may not only speak differently, but notice differently too.', '那也就代表，雙語的人不只說法不同，連注意的東西都可能不同。'),
         a('Exactly, and that can be a real gift. It can make a person more flexible about interpretation and less trapped by one default frame.', '沒錯，而這會是一種很真的 gift。它會讓人對解讀比較有彈性，不會被單一預設框架困住。', 'frame flexibility', '不會只被一套固定視角綁住的思考彈性'),
         b('So more language can mean more mental options.', '所以語言更多，有時也代表思考選項更多。'),
-        a('Very often, yes.', '很多時候真的會。'),
+        a('Quite often, yes.', '很常是這樣。'),
       ]),
       part('Part 3 — English for This Idea', [
         b('What English can I use when talking about language and thought?', '如果我要談語言和思考，可以用哪些英文？'),
@@ -395,7 +395,7 @@ export const WEEK_48: Episode[] = [
       part('Part 3 — English for Talking About Writing and Self-Expression', [
         b('What English is useful for this topic?', '談寫作和自我表達時，有哪些英文很好用？'),
         a('A strong line is: "Writing helps me hear what I actually mean." It is simple, but it works.', '一句很強的是：「Writing helps me hear what I actually mean.」這句很簡單，但很好用。', 'hear what I mean', '透過寫作比較清楚知道自己真正想說什麼'),
-        b('That sounds very natural.', '這句聽起來很自然。'),
+        b('That has a very natural rhythm.', '這句的語感很自然。'),
         a('Another one is: "I sound more like myself when I have time to shape the sentence." That works well when you want to talk about pace and identity.', '另一句也很好：「I sound more like myself when I have time to shape the sentence.」如果你想談節奏和身份，這句很好用。', 'shape the sentence', '慢慢把句子修成更像自己的樣子'),
         b('I like how specific that feels.', '我喜歡它很具體。'),
         a('If you want something more emotional, say: "The page gives me a kind of honesty that conversation does not always allow." That lands for many people.', '如果你想講得更情感一點，可以說：「The page gives me a kind of honesty that conversation does not always allow.」這句很多人都會有感。', 'page honesty', '在書寫時比較容易出現的誠實狀態'),
@@ -410,7 +410,7 @@ export const WEEK_48: Episode[] = [
         b('That is such an interesting way to see it.', '這個角度很有意思。'),
         a('It matters because people often believe the first story they tell. Writing gives them a chance to revise what the first story forgot.', '它很重要，因為很多人會直接相信自己第一次說出的故事；寫作會給他第二次機會，去修第一次故事漏掉的東西。', 'revise what was forgotten', '把第一次敘事裡漏掉的重要部分補回來'),
         b('So writing can restore missing parts of the self.', '所以寫作會把自我遺漏掉的部分修回來。'),
-        a('Very often, yes.', '很多時候真的會。'),
+        a('Often, yes.', '常常都是這樣。'),
       ]),
       part('Part 5 — The Courage to Put Yourself on the Page', [
         b('What kind of courage does writing ask for?', '寫作需要的是哪一種勇氣？'),
@@ -467,7 +467,7 @@ export const WEEK_48: Episode[] = [
         a('A strong sentence is: "I feel more whole when I can say what I actually mean." It is simple, but it carries a lot.', '一句很強的是：「I feel more whole when I can say what I actually mean.」這句很簡單，但帶很多。', 'say what I actually mean', '不是只是說得出來，而是真的說到自己心裡那個意思'),
         b('That sounds emotionally clear.', '這句情感上很清楚。'),
         a('Another one is: "Expression gives me a way to meet other people without leaving myself behind." That works beautifully for identity topics.', '另一句也很美：「Expression gives me a way to meet other people without leaving myself behind.」它很適合身份主題。', 'not leaving yourself behind', '和別人連結時，仍然把自己帶在場'),
-        b('I really like that line.', '我真的很喜歡這句。'),
+        b('I am really into that one.', '我真的很吃那一句。'),
         a('If you want something gentler, say: "Sometimes the gift is not having perfect words. It is having enough words to be understood."', '如果你想講得更溫柔，也可以說：「Sometimes the gift is not having perfect words. It is having enough words to be understood.」', 'enough words', '不求完美，但已經足夠讓人懂你的語言'),
         b('That would comfort a lot of learners.', '這句真的會安慰到很多學習者。'),
         a('I think so. It gives permission without lowering the value of growth.', '我也這麼覺得。它給了允許，但沒有降低成長的重要性。'),

@@ -441,7 +441,7 @@ export const WEEK_28: Episode[] = [
           { speaker: "a", speakerName: "Mira", en: "That makes sense. The work changes when it moves from private space into public comparison.", zh: "這很合理。當作品從私人空間移到公開比較的場域時，它本來就會變質。", vocab: [{ word: "public comparison", def: "作品一上網就會立刻被拿去和別人比較的狀態" }] },
           { speaker: "b", speakerName: "Jamie", en: "It is like my own eyes disappear and I start borrowing the internet's eyes instead.", zh: "感覺就像我自己的眼睛消失了，開始改用網路的眼睛在看我的作品。" },
           { speaker: "a", speakerName: "Mira", en: "Exactly, and borrowed eyes usually make people edit toward approval instead of truth.", zh: "完全沒錯。而借來的眼睛，常常會讓人朝著被喜歡去修，而不是朝著真實去修。", vocab: [{ word: "toward approval", def: "做決定時主要在朝別人會不會喜歡靠近" }] },
-          { speaker: "b", speakerName: "Jamie", en: "That is painfully accurate.", zh: "這句準到有點痛。" },
+          { speaker: "b", speakerName: "Jamie", en: "That hits a little too hard.", zh: "這句真的打得有點太準。" },
           { speaker: "a", speakerName: "Mira", en: "Social media is not evil, but it does create a loud environment around making things.", zh: "社群媒體不是邪惡的，可是它確實會在創作周圍製造一個很吵的環境。" },
           { speaker: "b", speakerName: "Jamie", en: "So the challenge is not just making the work. It is protecting the conditions the work needs.", zh: "所以真正的挑戰不只是把作品做出來，而是保護作品需要的那些條件。" },
           { speaker: "a", speakerName: "Mira", en: "Exactly. A lot of creative maturity is really boundary-setting.", zh: "完全沒錯。很多創作成熟度，說到底其實就是界線能力。" },

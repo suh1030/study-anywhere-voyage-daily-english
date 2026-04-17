@@ -13,7 +13,7 @@ export const WEEK_16: Episode[] = [
         title: "Part 1 — The Same Meeting, Two Different Reactions",
         lines: [
           { speaker: "b", speakerName: "Jamie", en: "Did you notice Daniel sounded rude in the meeting? He answered every idea in one sentence and moved on.", zh: "你有注意到 Daniel 在會議裡聽起來有點不客氣嗎？他每個點子都只回一句就往下走了。" },
-          { speaker: "a", speakerName: "Mira", en: "Maybe. Or maybe his communication style is just very compressed. Some people sound sharp when they are only trying to be efficient.", zh: "也許吧。也可能只是他的 communication style 很精簡。有些人明明只是想有效率，聽起來卻會比較銳利。", vocab: [{ word: "communication style", def: "一個人習慣表達與回應的方式" }] },
+          { speaker: "a", speakerName: "Mira", en: "Maybe. Or maybe his communication style is just very compressed. Some people sound sharp when they are only trying to be efficient.", zh: "也許吧。也可能只是他的表達方式本來就很精簡。有些人明明只是想有效率，聽起來卻會比較銳利。", vocab: [{ word: "communication style", def: "一個人習慣表達與回應的方式" }] },
           { speaker: "b", speakerName: "Jamie", en: "I always mistake short replies for irritation.", zh: "我很容易把簡短回覆誤會成不耐煩。" },
           { speaker: "a", speakerName: "Mira", en: "A lot of people do. We hear tone through our own history, not only through the words.", zh: "很多人都會。我們聽見語氣時，帶進去的不只是字面，還有自己的經驗。" },
           { speaker: "b", speakerName: "Jamie", en: "Meanwhile I add so much context that my own point starts getting blurry.", zh: "而我自己則常常補太多背景，講到最後連重點都模糊了。" },
@@ -392,11 +392,11 @@ export const WEEK_16: Episode[] = [
         title: "Part 4 — The Tiny Habit That Prevents Big Misreadings",
         lines: [
           { speaker: "b", speakerName: "Jamie", en: "What is one texting habit that prevents confusion before it starts?", zh: "如果想在誤會開始前就預防掉，有哪個傳訊習慣最值得做？" },
-          { speaker: "a", speakerName: "Mira", en: "Do a quick reread before sending anything emotionally loaded. If it sounds short and sharp, soften one corner.", zh: "在送出任何情緒比較重的訊息前，先快速 reread before sending。如果它聽起來又短又硬，就幫它磨掉一個角。", vocab: [{ word: "reread before sending", def: "送出前快速重讀一次" }] },
+          { speaker: "a", speakerName: "Mira", en: "Do a quick reread before sending anything emotionally loaded. If it sounds short and sharp, soften one corner.", zh: "在送出任何情緒比較重的訊息前，先快速重讀一次。如果它聽起來又短又硬，就幫它磨掉一個角。", vocab: [{ word: "reread before sending", def: "送出前快速重讀一次" }] },
           { speaker: "b", speakerName: "Jamie", en: "Like adding one human sentence?", zh: "像是多加一句比較像人的話？" },
           { speaker: "a", speakerName: "Mira", en: "Exactly. \"No worries, just checking\" lands very differently from \"Need this now.\"", zh: "沒錯。「沒事，我只是確認一下」跟「現在就需要這個」落地的感覺完全不一樣。" },
           { speaker: "b", speakerName: "Jamie", en: "So clarity matters, but so does cushioning.", zh: "所以清楚很重要，但緩衝也很重要。" },
-          { speaker: "a", speakerName: "Mira", en: "Right. Not fake sweetness, just enough context so the message does not come off cold.", zh: "對。不是假甜，而是給足夠的脈絡，讓訊息不要 come off cold。", vocab: [{ word: "come off cold", def: "讓人感覺冷淡、生硬" }] },
+          { speaker: "a", speakerName: "Mira", en: "Right. Not fake sweetness, just enough context so the message does not come off cold.", zh: "對。不是假甜，而是給足夠的脈絡，讓訊息不要顯得太冷。", vocab: [{ word: "come off cold", def: "讓人感覺冷淡、生硬" }] },
           { speaker: "b", speakerName: "Jamie", en: "I think I underestimate how exposed people feel on screens.", zh: "我覺得我低估了人在螢幕上其實多容易感到脆弱。" },
           { speaker: "a", speakerName: "Mira", en: "Screens remove a lot of repair signals. You have to put some of them back in manually.", zh: "螢幕會把很多修補訊號拿掉，所以你得手動把其中一些補回去。" },
         ],

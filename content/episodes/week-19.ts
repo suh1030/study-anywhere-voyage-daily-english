@@ -1283,7 +1283,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'Here is what I missed, and here is how I am fixing it now.'",
-            "zh": "另一句也很好：「Here is what I missed, and here is how I am fixing it now.」"
+            "zh": "還有一句也很好，就是「我漏掉的是這裡，而我現在正在這樣補回來。」"
           },
           {
             "speaker": "b",
@@ -2021,7 +2021,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I am more than my role, even if work is a big part of my life right now.'",
-            "zh": "另一句也很好：「I am more than my role, even if work is a big part of my life right now.」",
+            "zh": "還有一句也很好，就是「就算工作現在占了我生活很大一部分，我也不只是一個角色而已。」",
             "vocab": [
               {
                 "word": "more than your role",
@@ -2079,8 +2079,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Like what?",
-            "zh": "例如什麼？"
+            "en": "Such as?",
+            "zh": "比如說什麼？"
           },
           {
             "speaker": "a",
@@ -2461,7 +2461,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then build the habit. When review season comes, do not rely on panic to remember your value.",
-            "zh": "那就把習慣建起來。到了 review 季，不要再靠恐慌來逼自己想起自己的價值。"
+            "zh": "那就把習慣建立起來。等到正式談績效或成果的時候，不要再靠恐慌來逼自己想起自己的價值。"
           },
           {
             "speaker": "b",

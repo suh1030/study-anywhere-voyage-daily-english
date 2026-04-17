@@ -335,8 +335,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就收在這裡。"
+            "en": "That feels like the cleanest place to pause.",
+            "zh": "停在這裡最乾淨。"
           }
         ]
       }
@@ -1206,8 +1206,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I love that phrase.",
-            "zh": "我很喜歡這個說法。"
+            "en": "That wording is really good.",
+            "zh": "那個用法真的很好。"
           },
           {
             "speaker": "a",
@@ -1713,8 +1713,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one really lands.",
-            "zh": "這句真的會落在人心上。"
+            "en": "That one comes through strongly.",
+            "zh": "那句出來得很有力。"
           },
           {
             "speaker": "a",
@@ -2137,8 +2137,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good sentence.",
-            "zh": "這句真的很好。"
+            "en": "That sentence really works.",
+            "zh": "這句真的很成立。"
           },
           {
             "speaker": "a",
@@ -2390,8 +2390,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That rings true for me as well.",
+            "zh": "這對我來說也很成立。"
           }
         ]
       },
@@ -2413,8 +2413,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good sentence.",
-            "zh": "這句真的很好。"
+            "en": "That is beautifully put.",
+            "zh": "這句講得很漂亮。"
           },
           {
             "speaker": "a",
@@ -2579,8 +2579,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us hold onto that and stop there.",
+            "zh": "我們把這句留住，就停在這裡。"
           }
         ]
       }

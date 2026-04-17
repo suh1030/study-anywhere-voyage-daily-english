@@ -188,8 +188,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I really like that one.",
-            "zh": "我真的很喜歡這句。"
+            "en": "That one feels especially alive.",
+            "zh": "那一句特別有生命。"
           },
           {
             "speaker": "a",
@@ -206,8 +206,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one really lands.",
-            "zh": "這句真的很有感。"
+            "en": "That one lands cleanly.",
+            "zh": "那句落得很乾淨。"
           },
           {
             "speaker": "a",
@@ -308,13 +308,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes starting feel a lot less like a commitment and a lot more like an experiment.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "這會讓開始這件事比較不像沉重承諾，反而更像一場實驗。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That feels like a good place to pause.",
+            "zh": "停在這裡剛剛好。"
           },
           {
             "speaker": "b",
@@ -543,8 +543,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very natural.",
-            "zh": "這句聽起來很自然。"
+            "en": "That sits naturally in a sentence.",
+            "zh": "這句放進句子裡很自然。"
           },
           {
             "speaker": "a",
@@ -677,13 +677,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have been waiting for the right conditions, and I think that is exactly what you are describing as the trap.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "我一直都在等那個剛剛好的條件，而我覺得你說的陷阱就是這個。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us stop on that thought.",
+            "zh": "我們就停在這個念頭上吧。"
           },
           {
             "speaker": "b",
@@ -925,8 +925,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that one a lot.",
-            "zh": "我很喜歡這句。"
+            "en": "I really like that one.",
+            "zh": "我真的很喜歡這句。"
           },
           {
             "speaker": "a",
@@ -1045,13 +1045,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the creative block is not really about ideas. It is about permission.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "所以創作卡住，其實不完全是沒有點子，而是沒有給自己允許。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is enough for today.",
+            "zh": "今天先到這裡就很好。"
           },
           {
             "speaker": "b",
@@ -1419,8 +1419,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "I would leave it right there.",
+            "zh": "我會把它停在這裡。"
           },
           {
             "speaker": "b",
@@ -1654,8 +1654,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very natural.",
-            "zh": "這句聽起來很自然。"
+            "en": "That would sound completely natural.",
+            "zh": "這樣講會非常自然。"
           },
           {
             "speaker": "a",
@@ -1782,13 +1782,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have been waiting for the right conditions, and I think that is exactly what you are describing as the trap.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "我一直都在等那個剛剛好的條件，而我覺得你說的陷阱就是這個。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "We can end there for now.",
+            "zh": "我們現在可以先收在這裡。"
           },
           {
             "speaker": "b",
@@ -1969,8 +1969,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes a lot of sense.",
-            "zh": "這真的很說得通。"
+            "en": "That follows naturally.",
+            "zh": "這樣接起來很自然。"
           },
           {
             "speaker": "a",
@@ -2036,7 +2036,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that one a lot.",
-            "zh": "我很喜歡這句。"
+            "zh": "我很喜歡那一句。"
           },
           {
             "speaker": "a",
@@ -2150,13 +2150,13 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the creative block is not really about ideas. It is about permission.",
-            "zh": "這真的就是最剛好的結尾。"
+            "zh": "所以創作卡住，其實不完全是沒有點子，而是沒有給自己允許。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is where I would pause.",
+            "zh": "我會停在這個地方。"
           },
           {
             "speaker": "b",
@@ -2408,8 +2408,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that one a lot.",
-            "zh": "我很喜歡這句。"
+            "en": "That one works really well.",
+            "zh": "那一句真的很成立。"
           },
           {
             "speaker": "a",
@@ -2523,8 +2523,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That feels like the cleanest place to pause.",
+            "zh": "停在這裡最乾淨。"
           },
           {
             "speaker": "b",

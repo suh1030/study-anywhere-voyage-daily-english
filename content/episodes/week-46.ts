@@ -2222,7 +2222,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the lesson was stored in the body, not only in the memory.",
-            "zh": "所以那個 lesson 是存進身體裡了，不只是存進記憶裡。"
+            "zh": "所以那個功課是存進身體裡了，不只是存進記憶裡。"
           },
           {
             "speaker": "a",
@@ -2510,7 +2510,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try: \"This week reminded me that support is often made of small practical acts, not grand gestures.\" It sounds thoughtful and clear.",
-            "zh": "你可以試試：「This week reminded me that support is often made of small practical acts, not grand gestures.」這句很清楚，也很有反思感。",
+            "zh": "你可以試試：「這一週提醒了我，支持往往是由一個個小而實際的舉動組成，而不是什麼盛大的姿態。」這句很清楚，也很有反思感。",
             "vocab": [
               {
                 "word": "small practical acts",

@@ -170,7 +170,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful one is, 'I want my spending to reflect my values, not just my impulses.'",
-            "zh": "另一句也很好用：「I want my spending to reflect my values, not just my impulses.」",
+            "zh": "還有一句也很好用，就是「我希望自己的花費反映的是我的價值，而不只是衝動。」",
             "vocab": [
               {
                 "word": "value-based spending",
@@ -199,8 +199,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one feels very usable.",
-            "zh": "這句真的很好用。"
+            "en": "That would be easy to use in real life.",
+            "zh": "這句放進生活裡會很好用。"
           },
           {
             "speaker": "a",
@@ -523,7 +523,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can say, 'Money is not just practical for me. It is tied to older experiences of fear and safety.'",
-            "zh": "你可以說：「Money is not just practical for me. It is tied to older experiences of fear and safety.」"
+            "zh": "你可以說：「對我來說，錢不只是實際問題，它也連著更早以前那些關於害怕和安全感的經驗。」"
           },
           {
             "speaker": "b",
@@ -1359,8 +1359,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I feel similarly about that.",
+            "zh": "我對這件事的感覺也很像。"
           }
         ]
       },
@@ -1606,8 +1606,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That sounds right to me too.",
+            "zh": "我也覺得這很對。"
           }
         ]
       },
@@ -2143,8 +2143,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us stop on that thought.",
+            "zh": "我們就停在這個念頭上吧。"
           },
           {
             "speaker": "b",
@@ -2354,8 +2354,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is excellent.",
-            "zh": "這句真的很好。"
+            "en": "That is first-rate.",
+            "zh": "這是一流的。"
           },
           {
             "speaker": "a",
@@ -2508,8 +2508,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is enough for today.",
+            "zh": "今天先到這裡就很好。"
           },
           {
             "speaker": "b",

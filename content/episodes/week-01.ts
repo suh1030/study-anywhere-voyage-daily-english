@@ -256,7 +256,7 @@ export const WEEK_01: Episode[] = [
         b('What English helps when talking about letting go?', '如果想用英文談放下，有哪些說法會很好用？'),
         a('A natural sentence is: "I am trying to move on without pretending it was easy." That sounds honest and human.', '一個很自然的句子是：「I am trying to move on without pretending it was easy.」這句很誠實，也很有人味。', 'move on', '往前走，不再一直卡在原地'),
         b('I like that because it leaves room for difficulty.', '我喜歡它，因為它有把困難留在句子裡。'),
-        a('Another useful one is: "I want to keep the lesson, but not the weight." That is good when you learned something but do not want to keep carrying the pain in the same way.', '另一句也很好用：「I want to keep the lesson, but not the weight.」如果你有學到東西，但不想再用同樣方式一直背著那個痛，這句很適合。', 'keep the lesson', '把學到的部分留下來，而不是把整個痛苦一起帶走'),
+        a('Another useful one is: "I want to keep the lesson, but not the weight." That is good when you learned something but do not want to keep carrying the pain in the same way.', '另一句也很好用，就是「我想把學到的留下來，但不要再背著同樣的重量。」如果你有學到東西，但不想再用同樣方式一直背著那個痛，這句很適合。', 'keep the lesson', '把學到的部分留下來，而不是把整個痛苦一起帶走'),
         b('That is a beautiful line.', '這句很美。'),
         a('You can also say: "I am making room for what fits better." That works when you want to sound hopeful, not bitter.', '你也可以說：「I am making room for what fits better.」如果你想讓語氣比較有希望，而不是比較苦，這句很好用。', 'make room', '清出空間，讓更適合的東西進來'),
         b('That one feels lighter.', '這一句感覺比較輕。'),

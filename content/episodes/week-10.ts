@@ -954,7 +954,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A realistic estimate. Most people plan as if setup, review, and follow-up cost nothing.",
-            "zh": "就是做 realistic estimate。很多人排工作時，都當成 setup、review 跟 follow-up 是不用成本的。",
+            "zh": "就是做比較貼近現實的估算。很多人排工作時，會把前置準備、檢查修正和收尾都當成不用時間。",
             "vocab": [
               {
                 "word": "realistic estimate",

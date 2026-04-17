@@ -270,8 +270,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I can meet you there.",
+            "zh": "這點我完全跟得上。"
           }
         ]
       },
@@ -546,8 +546,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very natural.",
-            "zh": "這句聽起來很自然。"
+            "en": "That comes out very naturally.",
+            "zh": "這句說出口會很自然。"
           },
           {
             "speaker": "a",
@@ -930,7 +930,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is really good.",
-            "zh": "這句真的很好。"
+            "zh": "這真的很好。"
           },
           {
             "speaker": "a",
@@ -1101,8 +1101,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That rings true for me as well.",
+            "zh": "這對我來說也很成立。"
           }
         ]
       }
@@ -1678,8 +1678,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Very often, yes.",
-            "zh": "很多時候真的就是這樣。"
+            "en": "In many cases, yes.",
+            "zh": "很多情況下是。"
           }
         ]
       },
@@ -2651,8 +2651,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That feels like a good place to pause.",
+            "zh": "停在這裡剛剛好。"
           }
         ]
       }

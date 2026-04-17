@@ -13,7 +13,7 @@ export const WEEK_07: Episode[] = [
       {
         title: 'Part 1 — Why We Always Talk About the Weather',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'It\'s so cold today! I didn\'t expect February to be this brutal.', zh: '今天好冷！我沒想到二月會這麼嚴酷。', vocab: [{ word: 'brutal', def: '嚴酷的；殘酷的' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'It\'s so cold today! I didn\'t expect this cold snap to be this brutal.', zh: '今天好冷！我沒想到這波冷空氣會這麼嚴酷。', vocab: [{ word: 'brutal', def: '嚴酷的；殘酷的' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'That cold front that came down from the north hit harder than predicted. There\'s a big temperature drop every year but this one is sharp.', zh: '從北方來的這道冷鋒比預測的更強烈。每年都有大幅降溫，但這次很急遽。', vocab: [{ word: 'cold front', def: '冷鋒；寒流' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'Weather is such a universal topic. No matter who you\'re talking to, you can always start with the weather.', zh: '天氣是個很普遍的話題。無論你和誰說話，你總是可以從天氣開始。', vocab: [{ word: 'universal topic', def: '普遍話題；萬能話題' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'It\'s the great social equalizer. Everyone experiences it and nobody controls it.', zh: '它是偉大的社交平衡器。每個人都體驗它，沒有人能控制它。', vocab: [{ word: 'equalizer', def: '平衡器；拉平因素' }] },
@@ -28,7 +28,7 @@ export const WEEK_07: Episode[] = [
         lines: [
           { speaker: 'b', speakerName: 'Jamie', en: 'I realize I don\'t have many weather words beyond "hot," "cold," and "rainy." How do you describe weather more precisely?', zh: '我意識到除了「熱」、「冷」和「下雨」之外，我的天氣詞彙很少。你怎麼更精確地描述天氣？', vocab: [{ word: 'precisely', def: '精確地；準確地' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'There\'s a whole spectrum. "Overcast" means completely cloudy. "Hazy" means a slight mist or fog. "Muggy" means hot and humid together.', zh: '有整個光譜。「陰天」的意思是完全多雲。「朦朧」意思是輕微的霧氣。「悶熱」是熱和潮濕的結合。', vocab: [{ word: 'overcast', def: '陰天的；全雲覆蓋的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Muggy — that\'s perfect for Taipei in August. Hot and humid like breathing wet air.', zh: '悶熱——這對八月的台北來說再完美不過了。熱和潮濕，就像在呼吸濕空氣一樣。', vocab: [{ word: 'muggy', def: '悶熱的；又熱又濕的' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Muggy — that is perfect for Taipei in the peak of summer. Hot and humid like breathing wet air.', zh: '悶熱——這根本就是台北盛夏的代表。又熱又濕，像是在吸一口帶著水氣的空氣。', vocab: [{ word: 'muggy', def: '悶熱的；又熱又濕的' }] },
           { speaker: 'a', speakerName: 'Mira', en: '"Drizzle" for light rain. "Downpour" for very heavy rain. "Shower" for a brief, moderate rain that comes and goes.', zh: '「細雨」用於小雨。「傾盆大雨」用於非常大的雨。「陣雨」用於來了又去的短暫中等降雨。', vocab: [{ word: 'drizzle', def: '毛毛雨；細雨' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'And "breezy" versus "windy" versus "gusty"? Those all sound similar.', zh: '那「微風徐徐」、「有風」和「陣風強勁」呢？這些聽起來都差不多。', vocab: [{ word: 'gusty', def: '陣風強勁的；風忽大忽小的' }] },
           { speaker: 'a', speakerName: 'Mira', en: '"Breezy" is pleasant, light wind. "Windy" is stronger, possibly uncomfortable. "Gusty" means unpredictable bursts of strong wind.', zh: '「微風徐徐」是令人舒服的輕柔風。「有風」是更強的，可能令人不舒服。「陣風強勁」意味著不可預測的強風爆發。', vocab: [{ word: 'breezy', def: '微風徐徐的；風很舒服的' }] },
@@ -79,7 +79,7 @@ export const WEEK_07: Episode[] = [
     keyPhrases: [
       { en: 'cold front', zh: '冷鋒；寒流', example: 'A cold front is moving in — temperatures will drop tonight.' },
       { en: 'overcast', zh: '陰天的', example: 'It\'s been overcast for days, which really affects my mood.' },
-      { en: 'muggy', zh: '悶熱的', example: 'August in Taipei is incredibly muggy — hot and humid at the same time.' },
+      { en: 'muggy', zh: '悶熱的', example: 'Taipei can feel incredibly muggy in peak summer — hot and humid at the same time.' },
       { en: 'Seasonal Affective Disorder', zh: '季節性情感障礙', example: 'Seasonal Affective Disorder is common in regions with long, dark winters.' },
       { en: 'crisp', zh: '清冽的；清爽的', example: 'I love a crisp autumn morning with clear skies and cool air.' },
       { en: 'circadian rhythm', zh: '晝夜節律；生理時鐘', example: 'Lack of sunlight in winter disrupts the circadian rhythm.' },
@@ -241,7 +241,7 @@ export const WEEK_07: Episode[] = [
         lines: [
           { speaker: 'b', speakerName: 'Jamie', en: 'Do you make any conscious effort to connect with the seasons? Notice them passing?', zh: '你有沒有刻意努力與季節建立聯結？注意它們的流逝？', vocab: [{ word: 'conscious effort', def: '刻意努力；有意識的行動' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'I started a seasonal food practice — eating what\'s actually in season locally. It forces you to notice what time of year it is.', zh: '我開始了一個季節性飲食習慣——吃當地實際當季的食物。它迫使你注意現在是一年中的什麼時候。', vocab: [{ word: 'seasonal food practice', def: '季節性飲食習慣' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I\'ve lost track of what\'s in season because supermarkets have everything all year. Strawberries in December, corn in March.', zh: '我已經不知道什麼是當季的了，因為超市全年都有一切。十二月的草莓，三月的玉米。', vocab: [{ word: 'lost track of', def: '失去追蹤；忘記了' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I have lost track of what is in season because supermarkets have everything all year. Berries when the weather should still be cool, corn before it even feels like summer.', zh: '我已經有點失去當季感了，因為超市一年到頭什麼都有。天氣本來還該偏涼的時候就有莓果，還沒真正熱起來就先看到玉米。', vocab: [{ word: 'lost track of', def: '失去追蹤；忘記了' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'When something is genuinely seasonal, it tastes better and you appreciate it more. The anticipation adds flavor.', zh: '當某樣東西真正是當季的時候，它嘗起來更好，你也更欣賞它。期待感增添了風味。', vocab: [{ word: 'anticipation', def: '期待；盼望' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'And markets change visibly by season. The colors shift, the smells change. It\'s a calendar you can see and touch.', zh: '而且市場隨季節明顯變化。顏色改變，氣味改變。它是一個你可以看見和觸摸的日曆。', vocab: [{ word: 'visibly', def: '明顯地；可見地' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'I also try to go outside in each season\'s characteristic weather. Stand in the winter cold deliberately. Feel the summer heat without hiding.', zh: '我也嘗試在每個季節的典型天氣中出去。故意站在冬天的寒冷中。在不躲避的情況下感受夏天的炎熱。', vocab: [{ word: 'characteristic', def: '典型的；具有特色的' }] },
@@ -436,7 +436,7 @@ export const WEEK_07: Episode[] = [
     ],
   },
 
-  // ─── Episode 6: Feb 14 ───────────────────────────────────────────────────
+  // ─── Episode 6 ──────────────────────────────────────────────────────────
   {
     weekNumber: 7,
     dayOfWeek: 6,
@@ -446,16 +446,16 @@ export const WEEK_07: Episode[] = [
     phase: 'p1',
     parts: [
       {
-        title: 'Part 1 — Valentine\'s Day and Weather',
+        title: 'Part 1 — Cold Weather and Closeness',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Happy Valentine\'s Day! Though it\'s absolutely freezing out there. Not exactly romantic conditions.', zh: '情人節快樂！雖然外面真的很冷。不完全是浪漫的條件。', vocab: [{ word: 'freezing', def: '冰冷的；極冷的' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'It is absolutely freezing out there. Not exactly ideal weather for a romantic evening.', zh: '外面真的冷到不行。這種天氣可不算是浪漫夜晚的理想條件。', vocab: [{ word: 'freezing', def: '冰冷的；極冷的' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Cold weather might actually be romantic in its own way. There\'s a scientific basis for that.', zh: '寒冷天氣實際上可能以其自己的方式是浪漫的。這有科學依據。', vocab: [{ word: 'scientific basis', def: '科學依據；科學基礎' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'Really? What, shivering together creates bonds?', zh: '真的嗎？什麼，一起發抖能建立連結？', vocab: [{ word: 'shivering', def: '發抖；打寒顫' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Sort of. Physiological arousal from cold or fear can be misattributed as romantic excitement. You feel your heart rate up and assume it\'s attraction.', zh: '某種程度上是的。來自寒冷或恐懼的生理喚起可能被錯誤歸因為浪漫興奮。你感到心率加快，並認為那是吸引力。', vocab: [{ word: 'misattributed', def: '錯誤歸因的；誤解原因的' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'The classic study — people crossing a shaky bridge are more likely to call the interviewer. The fear was confused for attraction.', zh: '那個經典研究——人們走過搖晃的橋更可能打電話給面試者。恐懼被混淆為吸引力了。', vocab: [{ word: 'shaky bridge', def: '搖晃的橋；不穩固的橋' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Exactly. So cold weather date activities — ice skating, hot cocoa by the heater — work partly because of shared physical sensation.', zh: '就是。所以寒冷天氣約會活動——溜冰、在暖器旁喝熱可可——部分原因是共同的身體感覺起了作用。', vocab: [{ word: 'hot cocoa', def: '熱可可；熱巧克力' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'Huddling for warmth is literally bonding. That physical closeness from cold has its own chemistry.', zh: '為了取暖而依偎在一起從字面上就是建立連結。那種因寒冷而產生的身體靠近有其自身的化學反應。', vocab: [{ word: 'huddling', def: '依偎；緊靠在一起' }] },
-          { speaker: 'a', speakerName: 'Mira', en: 'Oxytocin is released through touch and closeness. Cold weather creates natural reasons for both. Smart Valentine\'s date strategy actually.', zh: '催產素通過觸摸和親近釋放。寒冷天氣創造了兩者自然發生的理由。實際上是聰明的情人節約會策略。', vocab: [{ word: 'oxytocin', def: '催產素；「擁抱荷爾蒙」' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Oxytocin is released through touch and closeness. Cold weather creates natural reasons for both. In that sense, cold weather creates its own kind of closeness.', zh: '催產素會透過觸碰和親近感釋放。寒冷天氣剛好會自然創造這兩種情境。從這個角度看，冷天氣本身就會帶出一種特別的靠近。', vocab: [{ word: 'oxytocin', def: '催產素；「擁抱荷爾蒙」' }] },
         ],
       },
       {
@@ -500,14 +500,14 @@ export const WEEK_07: Episode[] = [
       {
         title: 'Part 5 — Gratitude for Weather in Love',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Any advice for celebrating Valentine\'s Day when the weather is terrible?', zh: '在天氣很糟的時候慶祝情人節有什麼建議嗎？', vocab: [{ word: 'advice', def: '建議；忠告' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Any advice for celebrating together when the weather is terrible?', zh: '在天氣很糟的時候想好好一起相處，有什麼建議嗎？', vocab: [{ word: 'advice', def: '建議；忠告' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Lean into it. Bad weather is an invitation to be indoors together, which is its own kind of gift.', zh: '順應它。惡劣天氣是在一起待在室內的邀請，那本身就是一種禮物。', vocab: [{ word: 'invitation', def: '邀請；機會' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'Cook together, watch something, light a candle. The storm outside makes the inside feel more precious somehow.', zh: '一起做飯、看些什麼、點根蠟燭。外面的風暴不知為何讓裡面感覺更珍貴。', vocab: [{ word: 'precious', def: '珍貴的；寶貴的' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Contrast creates appreciation. The warmth feels warmer because of the cold outside.', zh: '就是。對比創造感恩。溫暖因為外面的寒冷而感覺更溫暖。', vocab: [{ word: 'contrast', def: '對比；反差' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And the thing about bad-weather Valentine\'s is you can\'t pretend. You\'re just stuck there with each other, making the best of it.', zh: '而壞天氣情人節的事情是你無法假裝。你就只是被困在一起，盡力而為。', vocab: [{ word: 'making the best of it', def: '盡力而為；從中找到最好的東西' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'And the thing about weather like that is you can\'t really pretend. You are just there together, making the best of it.', zh: '而那種天氣有個特點，就是你其實很難假裝。你們就只是一起待在那裡，盡力把當下過好。', vocab: [{ word: 'making the best of it', def: '盡力而為；從中找到最好的東西' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'That authenticity is more romantic than anything you can buy. Showing up as you are, in bad weather, and still choosing each other.', zh: '那種真實性比任何你能買到的東西都更浪漫。以你本來的樣子出現，在惡劣天氣中，仍然選擇彼此。', vocab: [{ word: 'authenticity', def: '真實性；真誠' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'Choosing each other in bad weather is the whole point of a relationship. Not just the sunny days.', zh: '在惡劣天氣中選擇彼此是一段關係的全部意義。不只是晴天。', vocab: [{ word: 'sunny days', def: '晴天；美好的日子（比喻）' }] },
-          { speaker: 'a', speakerName: 'Mira', en: 'Well said. Happy Valentine\'s Day. May your weather be soft and your company be warm.', zh: '說得好。情人節快樂。願你的天氣溫和，你的陪伴溫暖。', vocab: [{ word: 'company', def: '陪伴；同伴' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Well said. May your weather be soft and your company be warm.', zh: '說得好。願你的天氣溫和，你的陪伴溫暖。', vocab: [{ word: 'company', def: '陪伴；同伴' }] },
         ],
       },
     ],
@@ -523,7 +523,7 @@ export const WEEK_07: Episode[] = [
     ],
   },
 
-  // ─── Episode 7: Feb 15 ───────────────────────────────────────────────────
+  // ─── Episode 7 ──────────────────────────────────────────────────────────
   {
     weekNumber: 7,
     dayOfWeek: 7,
@@ -535,7 +535,7 @@ export const WEEK_07: Episode[] = [
       {
         title: 'Part 1 — Matching Travel to Season',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I want to plan a trip this year but I\'m not sure when to go or where. How do you think about matching destination to season?', zh: '我今年想計劃一次旅行，但不確定什麼時候去或去哪裡。你怎麼考慮把目的地和季節匹配？', vocab: [{ word: 'matching destination to season', def: '把目的地和季節匹配；選對季節旅行' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'I want to plan a trip sometime soon but I\'m not sure when to go or where. How do you think about matching destination to season?', zh: '我最近想安排一趟旅行，但不確定什麼時候去或去哪裡。你會怎麼考慮把目的地和季節搭在一起？', vocab: [{ word: 'matching destination to season', def: '把目的地和季節匹配；選對季節旅行' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Think about what you want to experience. Landscapes are most dramatic in specific seasons. Cherry blossoms, autumn foliage, monsoons.', zh: '想想你想體驗什麼。風景在特定季節最壯觀。櫻花、秋葉、季風。', vocab: [{ word: 'foliage', def: '樹葉；葉子（尤指秋葉）' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'I\'ve always wanted to see cherry blossoms in Japan. That requires perfect timing — a week too early or late and you miss it.', zh: '我一直想在日本看櫻花。那需要完美的時機——早一週或晚一週就錯過了。', vocab: [{ word: 'timing', def: '時機；時間點' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'The cherry blossom season moves northward across Japan over about six weeks. You can actually chase it if you plan well.', zh: '櫻花季節在大約六週內從南向北穿越日本。如果你計劃得好，你實際上可以追著它走。', vocab: [{ word: 'chase', def: '追趕；追逐' }] },
@@ -554,7 +554,7 @@ export const WEEK_07: Episode[] = [
           { speaker: 'a', speakerName: 'Mira', en: 'Exactly. And the shoulder season — the transition between high and low season — often has the best combination of good weather and smaller crowds.', zh: '就是。而且肩季——旺季和淡季之間的過渡——通常有好天氣和較小人群的最佳組合。', vocab: [{ word: 'shoulder season', def: '肩季；旺季和淡季之間的時期' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'I went to Kyoto in peak season once. The temples were so crowded you couldn\'t experience them properly.', zh: '我有一次在旺季去了京都。寺廟太擁擠了，你無法好好體驗它們。', vocab: [{ word: 'peak season', def: '旺季；高峰季節' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'The aesthetic of autumn Kyoto is lost when you\'re elbowing through crowds. Weather guides us there but crowds dilute the experience.', zh: '當你在人群中擠來擠去時，秋天京都的美感就消失了。天氣引導我們去那裡，但人群稀釋了體驗。', vocab: [{ word: 'aesthetic', def: '美感；審美' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'January Kyoto might be cold but you\'d have the garden to yourself. That trade-off could be worth it.', zh: '一月的京都可能很冷，但你可以獨享花園。那種取捨可能值得。', vocab: [{ word: 'trade-off', def: '取捨；代價' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'A winter trip to Kyoto might be cold, but you\'d have the garden to yourself. That trade-off could be worth it.', zh: '冬天去京都可能很冷，但你可以獨享花園。那種取捨可能很值得。', vocab: [{ word: 'trade-off', def: '取捨；代價' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Winter tourism is underrated in many destinations. The landscapes are different, the prices lower, the experiences more intimate.', zh: '冬季旅遊在許多目的地被低估了。風景不同，價格更低，體驗更親密。', vocab: [{ word: 'underrated', def: '被低估的' }] },
         ],
       },
@@ -591,7 +591,7 @@ export const WEEK_07: Episode[] = [
           { speaker: 'a', speakerName: 'Mira', en: 'Scottish Highlands in autumn. The light, the mist, the heather turning purple. I\'ve seen photos and it looks like another world.', zh: '秋天的蘇格蘭高地。光線、薄霧、石南花變成紫色。我看過照片，看起來像另一個世界。', vocab: [{ word: 'heather', def: '石南花；歐石南（植物）' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'That sounds incredibly atmospheric. Cold and moody and ancient.', zh: '那聽起來極其有氣氛。寒冷、憂鬱、古老。', vocab: [{ word: 'atmospheric', def: '有氣氛的；充滿情調的' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'Exactly my vibe. Though I\'d also say Kyoto in early spring before the cherry blossom crowds arrive.', zh: '完全是我的氛圍。不過我也會說早春的京都，在櫻花人群到來之前。', vocab: [{ word: 'vibe', def: '氛圍；感覺（口語）' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Mine would be Iceland in February — the long nights, the possibility of northern lights, geothermal pools in the snow.', zh: '我的是二月的冰島——漫長的夜晚、看到極光的可能性、雪中的地熱溫泉。', vocab: [{ word: 'geothermal pools', def: '地熱溫泉；天然熱水池' }] },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Mine would be Iceland in deep winter — the long nights, the possibility of northern lights, geothermal pools in the snow.', zh: '我的話會想去隆冬的冰島——漫長的夜晚、看見極光的可能，還有雪裡的地熱溫泉。', vocab: [{ word: 'geothermal pools', def: '地熱溫泉；天然熱水池' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'That sounds extraordinary. Sitting in hot water while it snows around you under a clear sky hoping for aurora. What an image.', zh: '那聽起來非常了不起。坐在熱水中，四周下著雪，在清澈的天空下希望看到極光。多美的畫面。', vocab: [{ word: 'extraordinary', def: '非凡的；了不起的' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'Weather destinations feel different from cultural destinations. You\'re going to feel something specific, not just see something.', zh: '天氣目的地感覺和文化目的地不同。你去是為了感受某種特別的東西，不只是看看什麼。', vocab: [{ word: 'cultural destinations', def: '文化目的地；以文化景點為主的旅遊地' }] },
           { speaker: 'a', speakerName: 'Mira', en: 'The weather is the experience itself. Being in it, being moved by it. That\'s a kind of travel that goes very deep.', zh: '天氣本身就是體驗。置身其中，被它所感動。那是一種觸及很深的旅行。', vocab: [{ word: 'being moved by', def: '被感動；被觸動' }] },

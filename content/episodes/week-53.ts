@@ -118,7 +118,7 @@ export const WEEK_53: Episode[] = [
         b('That feels grateful without sounding sentimental.', '它有感謝，但不會太感傷。'),
         a('Another useful line is: "I had to stop feeding the pattern before I could see what my life actually needed." That works when a habit kept rebuilding itself.', '另一句很好用的是：「I had to stop feeding the pattern before I could see what my life actually needed.」如果你說的是一個一直在自我重建的舊模式，這句很好用。', 'stop feeding the pattern', '停止用自己的行為反覆餵養舊模式'),
         b('That is a very clear sentence.', '這句真的很清楚。'),
-        a('If you want something softer, try: "I am learning to carry the lesson without carrying the whole role." That keeps the wisdom but removes the costume.', '如果你想要更柔和一點，可以試試看：「I am learning to carry the lesson without carrying the whole role.」它保留了學到的東西，但把那套戲服脫掉了。', 'carry the lesson', '把收穫帶走，但不把整套舊身份一起背走'),
+        a('If you want something softer, try: "I am learning to carry the lesson without carrying the whole role." That keeps the wisdom but removes the costume.', '如果你想要更柔和一點，可以試試看：「我正在學著把收穫帶走，但不把整個舊角色一起背著。」它保留了學到的東西，也把那套戲服脫掉了。', 'carry the lesson', '把收穫帶走，但不把整套舊身份一起背走'),
         b('That sounds perfect for burnout, breakups, or even a role change.', '這句用在 burnout、分手，甚至角色轉換上都很適合。'),
         a('Exactly. It gives people a cleaner emotional exit.', '沒錯。它會讓人的情緒出口乾淨很多。'),
       ]),
@@ -179,7 +179,7 @@ export const WEEK_53: Episode[] = [
         a('Usually, yes. Intensity can create excitement, but rhythm creates trust.', '通常是這樣。衝勁會帶來興奮，可是真正建立信任的是節奏。'),
         b('And what gets lost first when life becomes noisy?', '那當生活開始變吵、變亂時，最先被擠掉的通常是什麼？'),
         a('The essential thing, unless you choose to protect it. That is why every meaningful plan needs a way to protect the essential.', '通常是那個最重要的東西，除非你有意識地保護它。所以每一個有意義的計畫，都需要一個保護核心的方式。', 'protect the essential', '在忙亂時仍然守住真正重要的那一塊'),
-        b('That is painfully accurate.', '這個說法痛得很準。'),
+        b('That is the kind of truth that stings.', '這種真話就是會刺。'),
         a('It is, and that is why good planning is not only about adding. It is also about guarding.', '真的很準，所以好的規劃不只是一直加東西，也是在學會守住東西。'),
       ]),
       part('Part 3 — English for Building the Next Chapter', [
@@ -203,7 +203,7 @@ export const WEEK_53: Episode[] = [
         a('Right. Small corrections are kinder and usually more effective than heroic recoveries.', '對。小修正比起英雄式補救，更溫柔，也通常更有效。'),
       ]),
       part('Part 5 — The Kind of Plan Worth Living Inside', [
-        b('If someone wants to plan the next year well, what should they remember most?', '如果一個人想把接下來一年規劃得好，最該記住的是什麼？'),
+        b('If someone wants to plan the next chapter well, what should they remember most?', '如果一個人想把接下來這一段規劃得好，最該記住的是什麼？'),
         a('Build fewer promises, but build them deeper. The point is not to impress yourself at the beginning. It is to recognize your own life later.', '承諾少一點，但做深一點。重點不是一開始就把自己感動到，而是過了一段時間之後，你還認得出這是你自己的生活。'),
         b('That is a much better standard than excitement.', '這個標準真的比興奮感好得多。'),
         a('Also, review often enough that the plan can stay alive. A good plan is a living structure, not a framed speech.', '還有，要夠常回頭看，讓這個計畫維持活著。好的計畫是一個活的結構，不是一篇裱起來的演講稿。'),

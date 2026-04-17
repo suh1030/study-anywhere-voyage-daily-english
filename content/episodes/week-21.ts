@@ -393,7 +393,7 @@ export const WEEK_21: Episode[] = [
         lines: [
           { speaker: "b", speakerName: "Jamie", en: "What one habit helps people recover better after a brutal week?", zh: "如果一整週真的很硬，什麼習慣最能幫人比較真的恢復？" },
           { speaker: "a", speakerName: "Mira", en: "Do one thing that clearly tells your body the performance is over.", zh: "做一件很明確地告訴身體「演出已經結束了」的事。" },
-          { speaker: "b", speakerName: "Jamie", en: "Like what?", zh: "例如什麼？" },
+          { speaker: "b", speakerName: "Jamie", en: "What kind?", zh: "像哪一種？" },
           { speaker: "a", speakerName: "Mira", en: "A long shower, a walk without notifications, cleaning your desk, changing your clothes, anything that marks the transition.", zh: "像是洗一個長澡、關掉通知去散步、整理桌面、換衣服，任何能夠標記轉換的事都可以。" },
           { speaker: "b", speakerName: "Jamie", en: "So I need a ritual, not just an empty calendar.", zh: "所以我需要的其實是一個轉換儀式，不只是行事曆變空。" },
           { speaker: "a", speakerName: "Mira", en: "Exactly. Time off is helpful, but your system also needs a signal that it can stop bracing.", zh: "完全沒錯。放假當然有幫助，可是你的系統也需要一個訊號，知道自己可以停止備戰了。", vocab: [{ word: "take the weekend back", def: "把週末真的拿回來，不再被工作吃掉" }] },

@@ -157,8 +157,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very natural.",
-            "zh": "這句聽起來很自然。"
+            "en": "That would not feel forced at all.",
+            "zh": "這樣講完全不會硬。"
           },
           {
             "speaker": "a",
@@ -683,8 +683,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "I would leave it right there.",
+            "zh": "我會把它停在這裡。"
           }
         ]
       }
@@ -1247,8 +1247,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good sentence.",
-            "zh": "這句真的很好。"
+            "en": "That sentence carries a lot.",
+            "zh": "這句裝了很多東西。"
           },
           {
             "speaker": "a",
@@ -1401,8 +1401,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is where I would pause.",
+            "zh": "我會停在這個地方。"
           },
           {
             "speaker": "b",
@@ -1569,8 +1569,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes a lot of sense.",
-            "zh": "這真的很說得通。"
+            "en": "That clicks immediately.",
+            "zh": "這一下子就通了。"
           },
           {
             "speaker": "a",
@@ -1764,8 +1764,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "We can end there for now.",
+            "zh": "我們現在可以先收在這裡。"
           },
           {
             "speaker": "b",
@@ -2317,8 +2317,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A lot of people do.",
-            "zh": "很多人真的都需要。"
+            "en": "Quite a few people do.",
+            "zh": "真的滿多人會。"
           }
         ]
       },

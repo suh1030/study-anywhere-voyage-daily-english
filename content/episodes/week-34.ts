@@ -140,8 +140,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That makes sense to me too.",
+            "zh": "這對我來說也很說得通。"
           }
         ]
       },
@@ -163,8 +163,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really good.",
-            "zh": "這句真的很好。"
+            "en": "That is very good.",
+            "zh": "這很不錯。"
           },
           {
             "speaker": "a",
@@ -517,8 +517,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly.",
-            "zh": "完全沒錯。"
+            "en": "That is exactly it.",
+            "zh": "完全就是這樣。"
           }
         ]
       },
@@ -835,8 +835,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly.",
-            "zh": "完全沒錯。"
+            "en": "Right, that is it.",
+            "zh": "對，就是那個點。"
           }
         ]
       },
@@ -1030,8 +1030,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I feel the same way.",
+            "zh": "我也有同感。"
           }
         ]
       },
@@ -1301,7 +1301,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is excellent.",
-            "zh": "這句真的很好。"
+            "zh": "這真的很出色。"
           },
           {
             "speaker": "a",
@@ -1472,8 +1472,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us stop on that thought.",
+            "zh": "我們就停在這個念頭上吧。"
           }
         ]
       }
@@ -1660,8 +1660,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly.",
-            "zh": "完全沒錯。"
+            "en": "Yes, that is the point.",
+            "zh": "對，那就是重點。"
           }
         ]
       },
@@ -1683,8 +1683,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really good.",
-            "zh": "這句真的很好。"
+            "en": "That is solid.",
+            "zh": "這句很穩。"
           },
           {
             "speaker": "a",
@@ -1855,8 +1855,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is enough for today.",
+            "zh": "今天先到這裡就很好。"
           }
         ]
       }
@@ -2043,8 +2043,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A lot of people do.",
-            "zh": "很多人都是。"
+            "en": "Many people do.",
+            "zh": "很多人都會。"
           }
         ]
       },
@@ -2238,8 +2238,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us end on that note.",
+            "zh": "我們就用這句收尾吧。"
           }
         ]
       }

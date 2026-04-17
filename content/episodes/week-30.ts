@@ -605,8 +605,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I love that phrase.",
-            "zh": "我很喜歡這個說法。"
+            "en": "That phrase is going to stay with me.",
+            "zh": "那個說法會留在我心裡。"
           },
           {
             "speaker": "a",
@@ -881,8 +881,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good sentence.",
-            "zh": "這句真的太好了。"
+            "en": "That is a strong sentence.",
+            "zh": "這句很有力。"
           },
           {
             "speaker": "a",
@@ -1854,8 +1854,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I love that phrase.",
-            "zh": "我很喜歡這個說法。"
+            "en": "I really like that wording.",
+            "zh": "我很喜歡這個措辭。"
           },
           {
             "speaker": "a",

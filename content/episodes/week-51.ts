@@ -122,8 +122,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is painfully accurate.",
-            "zh": "這個說法真的準到痛。"
+            "en": "That is sharp in the painful way.",
+            "zh": "這種準法是會痛的。"
           },
           {
             "speaker": "a",
@@ -335,8 +335,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That feels true for me too.",
+            "zh": "我也覺得這很真。"
           }
         ]
       }
@@ -434,8 +434,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes a lot of sense.",
-            "zh": "這很說得通。"
+            "en": "That lines up.",
+            "zh": "這樣就對齊了。"
           },
           {
             "speaker": "a",
@@ -630,7 +630,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
-            "zh": "沒錯。一旦那個 bigger picture 變得看得見，小小的 daily practice 就不再顯得那麼隨機。",
+            "zh": "沒錯。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。",
             "vocab": [
               {
                 "word": "daily practice with meaning",
@@ -948,7 +948,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another one is: \"The habit only became real once it became part of the rhythm of my day.\" That works very well for daily practice.",
-            "zh": "另一句也很好：「The habit only became real once it became part of the rhythm of my day.」很適合用來談 daily practice。",
+            "zh": "另一句也很好，就是「那個習慣真正成形，是在它變成我每天節奏的一部分之後。」這句很適合拿來談每天穩定累積的練習。",
             "vocab": [
               {
                 "word": "part of the rhythm",
@@ -1060,7 +1060,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is the real value of daily practice?",
-            "zh": "daily practice 真正的價值是什麼？"
+            "zh": "每天穩定練習這件事，真正的價值是什麼？"
           },
           {
             "speaker": "a",
@@ -1484,8 +1484,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I would put it that way too.",
+            "zh": "我也會這樣說。"
           }
         ]
       }
@@ -1867,8 +1867,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That is how it looks to me too.",
+            "zh": "我看起來也差不多是這樣。"
           }
         ]
       }
@@ -2250,8 +2250,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I can meet you there.",
+            "zh": "這點我完全跟得上。"
           }
         ]
       }
@@ -2373,8 +2373,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Very often, yes.",
-            "zh": "很多時候就是。"
+            "en": "More often than not, yes.",
+            "zh": "通常多半都是。"
           }
         ]
       },
@@ -2473,14 +2473,14 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much wiser than \"This year I will become perfect.\"",
-            "zh": "這句比「今年我要變完美」聰明多了。"
+            "en": "That sounds much wiser than \"I am going to become perfect overnight.\"",
+            "zh": "這句比「我現在就要一夜之間變完美」聰明多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another one is: \"I do not only want goals. I want a rhythm that can carry the goals.\" That is strong and practical.",
-            "zh": "另一句也很好：「I do not only want goals. I want a rhythm that can carry the goals.」這句很有力，也很 practical。",
+            "zh": "還有一句也很好，就是「我不只想要目標，我也想要一種能把這些目標撐住的節奏。」這句很有力，也很實際。",
             "vocab": [
               {
                 "word": "a rhythm that can carry it",
@@ -2592,7 +2592,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what is the deepest lesson in setting yourself up well?",
-            "zh": "那 setting yourself up well 最深的 lesson 是什麼？"
+            "zh": "那把自己安置好的做法，最深的提醒是什麼？"
           },
           {
             "speaker": "a",
@@ -2610,7 +2610,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good setup is one of the most compassionate things a person can build for themselves.",
-            "zh": "沒錯。好的 setup，其實是人能替自己建造的最有同情心的東西之一。"
+            "zh": "沒錯。好的準備，其實是人能替自己建造的最有同情心的東西之一。"
           },
           {
             "speaker": "b",
@@ -2622,19 +2622,19 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. It says hope does not only live in vision. It also lives in preparation.",
-            "zh": "我也這麼覺得。它是在說：hope 不只活在 vision 裡，也活在 preparation 裡。"
+            "zh": "我也這樣覺得。它像是在說：希望不只活在想像裡，也活在準備裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is exactly the kind of ending I wanted.",
-            "zh": "這就是我想要的那種 ending。"
+            "zh": "這就是我想要的那種收尾。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then it is the right one.",
-            "zh": "那它就是對的 ending。"
+            "zh": "那這個收尾就對了。"
           }
         ]
       }

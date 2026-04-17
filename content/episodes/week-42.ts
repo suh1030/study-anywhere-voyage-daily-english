@@ -12,7 +12,7 @@ export const WEEK_42: Episode[] = [
       {
         title: 'Part 1 — A Conversation About What Is Coming',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'My company just announced a big restructuring, and suddenly everyone is asking each other what they think will happen next year.', zh: '我們公司剛宣布大規模重組，現在每個人都在問彼此，覺得明年會發生什麼事。' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'My company just announced a big restructuring, and suddenly everyone is asking each other what they think will happen next.', zh: '我們公司剛宣布大規模重組，現在每個人都在問彼此，接下來會發生什麼事。' },
           { speaker: 'a', speakerName: 'Mira', en: 'That is when the future stops being a topic and becomes something personal.', zh: '就是那種時刻，未來突然不再只是個話題，而是變得很切身了。' },
           { speaker: 'b', speakerName: 'Jamie', en: 'Exactly. I noticed I had very strong opinions, but I was not sure where they came from.', zh: '對啊。我發現自己有非常強烈的看法，但我不確定它們是從哪裡來的。' },
           { speaker: 'a', speakerName: 'Mira', en: 'That is worth paying attention to. A lot of what people call future thinking is actually anxiety wearing a logical disguise.', zh: '這很值得去留意。很多人說的「思考未來」，其實是焦慮穿著邏輯外衣在說話。', vocab: [{ word: 'future thinking', def: '對未來的思考與預測' }] },
@@ -139,7 +139,7 @@ export const WEEK_42: Episode[] = [
           { speaker: 'b', speakerName: 'Jamie', en: 'I have a rough picture of where I want to be in five years, but it stays vague. How do I make it more usable?', zh: '我對五年後想去哪裡有一個大概的畫面，但它總是很模糊。我怎麼讓它變得更可以被使用？' },
           { speaker: 'a', speakerName: 'Mira', en: 'Work backwards. If you know where you want to be in five years, ask what has to be true in three years for that to be possible.', zh: '從終點往回推。如果你知道五年後想在哪裡，就問問三年後要有什麼成真，才能讓那件事成為可能。', vocab: [{ word: 'work backwards', def: '從目標往回推算' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'And then ask what has to be true in one year for the three-year milestone to happen.', zh: '然後再問，一年後要有什麼成真，才能讓三年的里程碑發生。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Now you have something actionable for this year. The five-year vision becomes a current task.', zh: '沒錯。這樣你今年就有了可以行動的事情。五年願景變成了當前的任務。', vocab: [{ word: 'actionable', def: '可以採取行動的；具體可行的' }] },
+          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Now you have something actionable in the near term. The five-year vision becomes a current task.', zh: '沒錯。這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。', vocab: [{ word: 'actionable', def: '可以採取行動的；具體可行的' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'That is a much less overwhelming way to think about it.', zh: '這樣想就不那麼讓人不知所措了。' },
           { speaker: 'a', speakerName: 'Mira', en: 'Big goals paralyze people when they stay big. The working backwards method keeps breaking them into sizes you can actually handle.', zh: '大目標讓人癱瘓，是因為它們一直很大。往回推算的方法不斷把它們拆分成你真的能處理的大小。', vocab: [{ word: 'paralyze', def: '使癱瘓；使無法行動' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'So the future is not something to stare at. It is something to work your way toward.', zh: '所以未來不是一個你要凝視的東西，而是一個你一步步走向的地方。' },
@@ -419,7 +419,7 @@ export const WEEK_42: Episode[] = [
     keyPhrases: [
       { en: 'sense of belonging', zh: '歸屬感', example: 'She realized that what she really wanted from the new team was a stronger sense of belonging.' },
       { en: 'shared vision', zh: '共同願景', example: 'Building a shared vision took longer than expected because people had very different starting points.' },
-      { en: 'present bias', zh: '當下偏誤', example: 'His present bias made it easy to spend today and hard to save for next year.' },
+      { en: 'present bias', zh: '當下偏誤', example: 'His present bias made it easy to spend today and hard to save for later.' },
       { en: 'ground it in experience', zh: '把想法落地在具體經歷中', example: 'She grounded her ambition in experience by pointing to specific projects where she had already done similar work.' },
       { en: 'work toward', zh: '朝某個目標努力', example: 'He told his manager clearly what he was working toward, which made the annual review much more useful.' },
       { en: 'momentum', zh: '動力；勢頭', example: 'Three small wins in a row created enough momentum to carry the team through the harder weeks ahead.' },

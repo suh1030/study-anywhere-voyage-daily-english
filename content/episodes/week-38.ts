@@ -317,8 +317,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That feels like a good place to pause.",
+            "zh": "停在這裡剛剛好。"
           }
         ]
       }
@@ -670,8 +670,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A lot of people do.",
-            "zh": "很多人其實都很需要。"
+            "en": "More people do than you would think.",
+            "zh": "比你以為的更多人會。"
           },
           {
             "speaker": "b",
@@ -1400,8 +1400,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I would agree with that.",
+            "zh": "我會同意這個說法。"
           },
           {
             "speaker": "b",
@@ -1594,8 +1594,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That lands the same way for me.",
+            "zh": "這句落在我身上也是同樣的感覺。"
           }
         ]
       },
@@ -1771,8 +1771,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us end there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is a good note to end on.",
+            "zh": "這是一個很好的收尾點。"
           },
           {
             "speaker": "b",
@@ -2148,8 +2148,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us leave it there for today.",
+            "zh": "我們今天就先停在這裡。"
           },
           {
             "speaker": "a",

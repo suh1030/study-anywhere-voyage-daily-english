@@ -182,7 +182,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another one is: \"Gratitude does not make the hard thing easy, but it can make me less alone inside it.\" That works when life is heavy.",
-            "zh": "另一句也很好：「Gratitude does not make the hard thing easy, but it can make me less alone inside it.」在生活比較重的時候，這句很好用。",
+            "zh": "還有一句也很好，就是「感謝不會讓困難變得輕鬆，但它會讓我在裡面沒有那麼孤單。」在生活比較重的時候，這句很好用。",
             "vocab": [
               {
                 "word": "less alone inside it",
@@ -434,8 +434,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes a lot of sense.",
-            "zh": "這很說得通。"
+            "en": "That tracks for me.",
+            "zh": "這對我來說很順。"
           },
           {
             "speaker": "a",
@@ -1425,8 +1425,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes a lot of sense.",
-            "zh": "這很說得通。"
+            "en": "That fits.",
+            "zh": "這樣很貼。"
           },
           {
             "speaker": "a",
@@ -1473,7 +1473,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. A larger perspective is often just a larger emotional container.",
-            "zh": "非常是。更大的 perspective，很多時候就是更大的情緒容器。"
+            "zh": "非常是。更大的視角，很多時候其實就是更大的情緒容器。"
           },
           {
             "speaker": "b",
@@ -1485,7 +1485,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It fits because gratitude and perspective both help people live inside reality with more room to breathe.",
-            "zh": "這個結尾很適合，因為 gratitude 和 perspective 都在幫人更有空間地活在現實裡。"
+            "zh": "這樣收很適合，因為感謝和視角都在幫人更有空間地活在現實裡。"
           }
         ]
       }
@@ -1678,8 +1678,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Very often, yes.",
-            "zh": "很多時候就是這樣。"
+            "en": "In practice, yes.",
+            "zh": "實際上常常是。"
           }
         ]
       },
@@ -1861,14 +1861,14 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a great final line for this episode.",
-            "zh": "這是這集很棒的 final line。"
+            "en": "That really says it well.",
+            "zh": "這句真的有把重點說出來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "That makes sense to me too.",
+            "zh": "這對我來說也很說得通。"
           }
         ]
       }
@@ -2515,8 +2515,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so too.",
-            "zh": "我也這麼覺得。"
+            "en": "I feel the same way.",
+            "zh": "我也有同感。"
           }
         ]
       },

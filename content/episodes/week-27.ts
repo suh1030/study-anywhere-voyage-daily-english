@@ -526,7 +526,7 @@ export const WEEK_27: Episode[] = [
           { speaker: "a", speakerName: "Mira", en: "That is such a real return-home feeling. Re-entry can feel emotionally quiet in a way people do not talk about enough.", zh: "這真的就是很真實的回家感。重新進入日常時，那種情緒上的安靜感，大家其實很少講。" },
           { speaker: "b", speakerName: "Jamie", en: "I am never sure whether I am tired, sad, or just adjusting too fast.", zh: "我每次都不太確定，自己到底是累、是有點失落，還是只是調整得太快。" },
           { speaker: "a", speakerName: "Mira", en: "All three can be true. Post-trip blues happen because the body returns home faster than the mind does.", zh: "三個都有可能是真的。所謂 post-trip blues 很多時候就是身體先回家了，可是心還沒。", vocab: [{ word: "post-trip blues", def: "旅行結束後那種淡淡失落、空空的感覺" }] },
-          { speaker: "b", speakerName: "Jamie", en: "That feels exactly right.", zh: "這句真的完全就是。" },
+          { speaker: "b", speakerName: "Jamie", en: "That feels exactly right.", zh: "這感覺完全對。" },
           { speaker: "a", speakerName: "Mira", en: "A trip stretches you outward. Coming back can feel like folding too quickly into a smaller shape.", zh: "旅行會把你往外撐開。回來時，那感覺有時候就像你太快又被折回一個比較小的形狀裡。", vocab: [{ word: "return home", def: "身體回到原本生活，但心還在轉換中的狀態" }] },
           { speaker: "b", speakerName: "Jamie", en: "That image really stays with me.", zh: "這個畫面我真的會記住。" },
           { speaker: "a", speakerName: "Mira", en: "Good. A lot of people think they are being ungrateful when they are really just transitioning.", zh: "很好。很多人以為自己這樣是太不知足了，但很多時候他們其實只是在轉換。" },

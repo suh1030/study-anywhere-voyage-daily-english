@@ -53,7 +53,7 @@ export const WEEK_12: Episode[] = [
         lines: [
           { speaker: 'b', speakerName: 'Jamie', en: 'Sometimes when I meet someone new, I want to ask about their family but I do not want to seem intrusive.', zh: '有時候認識新朋友，我想問他們的家庭，但又不想顯得很侵入。' },
           { speaker: 'a', speakerName: 'Mira', en: 'Try asking about one habit or memory instead of asking broadly about family life.', zh: '試著問一個具體的習慣或記憶，而不是籠統地問家庭生活。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Like what?', zh: '比如說什麼？' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Like what?', zh: '像哪些事？' },
           { speaker: 'a', speakerName: 'Mira', en: '"Was your family the type that had dinner together every night?" or "Did you grow up in a big household?" Those are specific but not too personal.', zh: '「你們家是那種每天一起吃晚飯的嗎？」或「你是在大家庭裡長大的嗎？」這類問題很具體，但又不會太私人。' },
           { speaker: 'b', speakerName: 'Jamie', en: 'That feels a lot less overwhelming to answer than a big open question.', zh: '這種問題比大哉問好回答多了。' },
           { speaker: 'a', speakerName: 'Mira', en: 'Right. A small, concrete question gives the other person something to answer without having to decide how much to share.', zh: '對。一個小而具體的問題，讓對方有東西可以回應，而不用先決定要分享多少。' },
@@ -80,7 +80,7 @@ export const WEEK_12: Episode[] = [
       { en: 'household', zh: '家庭；同住的家人', example: 'Their household had four adults and two kids all sharing one bathroom.' },
       { en: 'family dynamic', zh: '家庭相處模式', example: 'The family dynamic shifted completely after the youngest child left for college.' },
       { en: 'childhood memory', zh: '童年記憶', example: 'That childhood memory of his grandmother\'s kitchen stayed with him for decades.' },
-      { en: 'extended family', zh: '大家族；大家庭', example: 'Her extended family still gathered every Lunar New Year at the same house.' },
+      { en: 'extended family', zh: '大家族；大家庭', example: 'Her extended family still gathered in the same house for every major family holiday.' },
       { en: 'sibling bond', zh: '手足情', example: 'Their sibling bond was strongest during the hardest years of their family.' },
       { en: 'parental role', zh: '父母的角色', example: 'Talking about the parental role helped him understand why he handled responsibility the way he did.' },
       { en: 'family background', zh: '家庭背景', example: 'She was surprised by how much her family background shaped her idea of what was normal.' },
@@ -267,7 +267,7 @@ export const WEEK_12: Episode[] = [
       {
         title: 'Part 1 — The Fifteen Questions Nobody Warned You About',
         lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Every Lunar New Year, the same relatives ask me the same questions. When are you getting married? How much do you make? Have you lost weight?', zh: '每年農曆新年，同樣的親戚問我同樣的問題。你什麼時候要結婚？你薪水多少？你瘦了嗎？' },
+          { speaker: 'b', speakerName: 'Jamie', en: 'Every big family holiday, the same relatives ask me the same questions. When are you getting married? How much do you make? Have you lost weight?', zh: '每次大型家庭聚會，同樣的親戚都會問我同樣的問題。你什麼時候要結婚？你薪水多少？你瘦了嗎？' },
           { speaker: 'a', speakerName: 'Mira', en: 'The family reunion version of a standardized exam. You did not study for it, but you still feel like you failed.', zh: '家族團聚版的統一考試。你沒有準備，但還是覺得自己考差了。', vocab: [{ word: 'family reunion', def: '家族團聚' }] },
           { speaker: 'b', speakerName: 'Jamie', en: 'I have started arriving late on purpose.', zh: '我已經開始故意遲到了。' },
           { speaker: 'a', speakerName: 'Mira', en: 'That is a survival strategy. A lot of people use it.', zh: '這是生存策略。很多人都這樣。', vocab: [{ word: 'survival strategy', def: '生存策略' }] },
@@ -337,7 +337,7 @@ export const WEEK_12: Episode[] = [
       { en: 'meaningful tradition', zh: '有意義的傳統', example: 'The dish became a meaningful tradition before anyone consciously decided to keep making it.' },
       { en: 'extended family', zh: '大家族', example: 'Her extended family stretched across three cities and only fully assembled twice a year.' },
       { en: 'obligation', zh: '義務感', example: 'She went out of obligation but ended up staying because the conversation turned real.' },
-      { en: 'host', zh: '主辦；招待', example: 'His parents hosted every major holiday, and by December they were always exhausted.' },
+      { en: 'host', zh: '主辦；招待', example: 'His parents hosted every major family holiday, and after a run of gatherings they were always exhausted.' },
       { en: 'break the ice', zh: '打破僵局；打開話題', example: 'He brought up an old family photo and it broke the ice immediately.' },
     ],
   },

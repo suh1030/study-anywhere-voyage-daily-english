@@ -175,8 +175,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very natural.",
-            "zh": "這句聽起來很自然。"
+            "en": "That sounds easy to say aloud.",
+            "zh": "這句很適合直接說出口。"
           },
           {
             "speaker": "a",
@@ -308,8 +308,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is where I would pause.",
+            "zh": "我會停在這個地方。"
           },
           {
             "speaker": "b",
@@ -676,8 +676,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us stop on that thought.",
+            "zh": "我們就停在這個念頭上吧。"
           },
           {
             "speaker": "b",
@@ -924,8 +924,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I really like that one.",
-            "zh": "我真的很喜歡這句。"
+            "en": "I am really into that one.",
+            "zh": "我真的很吃那一句。"
           },
           {
             "speaker": "a",
@@ -937,8 +937,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one feels very usable.",
-            "zh": "這句真的很好用。"
+            "en": "That feels ready to use.",
+            "zh": "這句感覺拿起來就能用。"
           },
           {
             "speaker": "a",
@@ -1045,8 +1045,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "I would leave it right there.",
+            "zh": "我會把它停在這裡。"
           },
           {
             "speaker": "b",
@@ -1293,8 +1293,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I really like that one.",
-            "zh": "我真的很喜歡這句。"
+            "en": "That one feels especially good.",
+            "zh": "那一句特別好。"
           },
           {
             "speaker": "a",
@@ -1414,8 +1414,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "We can end there for now.",
+            "zh": "我們現在可以先收在這裡。"
           },
           {
             "speaker": "b",
@@ -1620,8 +1620,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Very often, yes.",
-            "zh": "很多時候真的會。"
+            "en": "A lot of the time, yes.",
+            "zh": "很多時候都是。"
           }
         ]
       },
@@ -1670,8 +1670,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one really lands.",
-            "zh": "這句真的很有落點。"
+            "en": "That one has real force.",
+            "zh": "那句真的很有力道。"
           },
           {
             "speaker": "a",
@@ -1742,8 +1742,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A lot of people do.",
-            "zh": "很多人其實都需要。"
+            "en": "A surprising number of people do.",
+            "zh": "會這樣的人其實不少。"
           }
         ]
       },
@@ -1784,8 +1784,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That feels like the cleanest place to pause.",
+            "zh": "停在這裡最乾淨。"
           },
           {
             "speaker": "b",
@@ -1859,8 +1859,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Sometimes clarity starts with a simple sentence: I do not want to carry this version of myself into the next year.",
-            "zh": "有時候清楚感其實是從一句很簡單的話開始：我不想把現在這個版本的自己再帶進下一年了。"
+            "en": "Sometimes clarity starts with a simple sentence: I do not want to carry this version of myself into the next chapter.",
+            "zh": "有時候清楚感其實是從一句很簡單的話開始：我不想把現在這個版本的自己再帶進下一章了。"
           },
           {
             "speaker": "a",
@@ -2027,8 +2027,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I really like that one.",
-            "zh": "我真的很喜歡這句。"
+            "en": "I would keep that one.",
+            "zh": "那一句我會留著。"
           },
           {
             "speaker": "a",
@@ -2148,14 +2148,14 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels exactly right.",
-            "zh": "這感覺真的很對。"
+            "en": "That is right on the mark.",
+            "zh": "這真的正中那個點。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "Let us hold onto that and stop there.",
+            "zh": "我們把這句留住，就停在這裡。"
           },
           {
             "speaker": "b",
@@ -2397,8 +2397,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that one a lot.",
-            "zh": "我很喜歡這句。"
+            "en": "That one stands out to me.",
+            "zh": "那一句對我特別突出。"
           },
           {
             "speaker": "a",
@@ -2481,8 +2481,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A lot of people do.",
-            "zh": "很多人其實都需要。"
+            "en": "Lots of people do.",
+            "zh": "很多人都會這樣。"
           }
         ]
       },
@@ -2523,8 +2523,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "That is enough for today.",
+            "zh": "今天先到這裡就很好。"
           },
           {
             "speaker": "b",
