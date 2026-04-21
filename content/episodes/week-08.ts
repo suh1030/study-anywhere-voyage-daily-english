@@ -134,7 +134,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a different question.",
+            "en": "That really is a different question.",
             "zh": "這兩個問題真的差很多。"
           },
           {
@@ -161,7 +161,7 @@ export const WEEK_08: Episode[] = [
             "zh": "先從普通的動詞開始。像是說「我滑著看了一下」、「我把它放進購物車」，或「我把自己說服了」。",
             "vocab": [
               {
-                "word": "add to cart",
+                "word": "cart",
                 "def": "加入購物車"
               }
             ]
@@ -175,12 +175,12 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say, \"I did not stick to my list,\" which is simple and very believable.",
+            "en": "A clean way to say it is, \"I did not stick to my list,\" which is simple and very believable.",
             "zh": "沒錯。你也可以說「我沒有照著購物清單買」，這種說法很簡單，也很像真人會說的話。",
             "vocab": [
               {
-                "word": "stick to a list",
-                "def": "照著清單行事"
+                "word": "stick",
+                "def": "堅持；持續下去"
               }
             ]
           },
@@ -193,11 +193,11 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Try, \"It felt like a reward,\" or \"It looked like a good deal.\" Those phrases sound natural because they sound honest.",
+            "en": "One sentence that works well is \"It felt like a reward,\" or \"It looked like a good deal.\" Those phrases sound natural because they sound honest.",
             "zh": "可以試試看「它感覺像是給自己的獎勵」，或「它看起來真的很划算」。這些句子之所以自然，是因為它們很誠實。",
             "vocab": [
               {
-                "word": "good deal",
+                "word": "honest",
                 "def": "划算的選擇"
               }
             ]
@@ -558,7 +558,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say, \"I need to cut back on delivery,\" or \"I am tracking my spending this month.\"",
+            "en": "You could say, \"I need to cut back on delivery,\" or \"I am tracking my spending this month.\"",
             "zh": "沒錯。你也可以說「我需要少叫一點外送」，或「我這個月在記錄自己的支出」。",
             "vocab": [
               {
@@ -927,7 +927,7 @@ export const WEEK_08: Episode[] = [
             "zh": "「我把自己說服了」這句超級好用。它可以用一行話把整個決定說清楚。",
             "vocab": [
               {
-                "word": "talk yourself into it",
+                "word": "talked",
                 "def": "說服自己去做某事"
               }
             ]
@@ -941,12 +941,12 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is, \"I was in a mood.\" It sounds light, but it tells the truth.",
+            "en": "You can also try, \"I was in a mood.\" It sounds light, but it tells the truth.",
             "zh": "另一句很好用的是「我那時就是一個情緒上來了」。它聽起來很輕，但其實很誠實。",
             "vocab": [
               {
-                "word": "be in a mood",
-                "def": "處在某種情緒裡"
+                "word": "mood",
+                "def": "情緒上來了；有點鬧情緒"
               }
             ]
           },
@@ -963,7 +963,7 @@ export const WEEK_08: Episode[] = [
             "zh": "你可以說「我那時在替它合理化」。這樣很直接、很自然，而且還帶著一點不舒服，這其實是好事。",
             "vocab": [
               {
-                "word": "rationalize",
+                "word": "rationalizing",
                 "def": "事後替自己找合理化理由"
               }
             ]
@@ -1028,7 +1028,7 @@ export const WEEK_08: Episode[] = [
             "zh": "那就再問第二個問題：我想要的真的是這個東西，還是我以為它會帶給我的那種心情？",
             "vocab": [
               {
-                "word": "emotional spending",
+                "word": "second question",
                 "def": "情緒性消費"
               }
             ]
@@ -1180,7 +1180,7 @@ export const WEEK_08: Episode[] = [
             "zh": "很多人都有這種感覺。他們會先預設，問能不能算便宜一點就是沒有禮貌。",
             "vocab": [
               {
-                "word": "ask for a lower price",
+                "word": "lower price",
                 "def": "詢問是否能便宜一點"
               }
             ]
@@ -1294,7 +1294,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Try, \"Would you be open to a lower price?\" That sounds softer than, \"This is too expensive.\"",
+            "en": "A natural way to say it is, \"Would you be open to a lower price?\" That sounds softer than, \"This is too expensive.\"",
             "zh": "你可以試試看「你願意接受再低一點的價格嗎？」這會比直接說「這太貴了」柔和很多。",
             "vocab": [
               {
@@ -1312,7 +1312,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can also say, \"I saw similar ones listed for less,\" if you really did compare options first.",
+            "en": "One simple version is, \"I saw similar ones listed for less,\" if you really did compare options first.",
             "zh": "如果你事前真的有比過，也可以說「我看到類似的商品有更低的價格」。",
             "vocab": [
               {
@@ -1330,7 +1330,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then say, \"If I take both, could you do a bundle discount?\" That is a very natural phrase.",
+            "en": "You could say, \"If I take both, could you do a bundle discount?\" That is a very natural phrase.",
             "zh": "那你可以說：「如果我兩樣一起拿，可以算我組合價嗎？」這是一個很自然的說法。",
             "vocab": [
               {
@@ -1369,7 +1369,7 @@ export const WEEK_08: Episode[] = [
             "zh": "那時候，「離開」這件事就很重要。不是為了懲罰對方，而是為了讓資訊變得清楚。",
             "vocab": [
               {
-                "word": "walk away",
+                "word": "walking away becomes",
                 "def": "談不成就離開；不勉強成交"
               }
             ]
@@ -1669,7 +1669,7 @@ export const WEEK_08: Episode[] = [
             "zh": "像是「我每個月會先存三千元」這種句子，聽起來就比「我想要財務穩定」真實多了。",
             "vocab": [
               {
-                "word": "put aside",
+                "word": "aside three thousand",
                 "def": "先留存；預先存下"
               }
             ]
@@ -1683,7 +1683,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say, \"I have a monthly contribution to my emergency fund,\" or \"I am building a travel fund for a trip later on.\"",
+            "en": "You might put it like this: \"I have a monthly contribution to my emergency fund,\" or \"I am building a travel fund for a trip later on.\"",
             "zh": "沒錯。你也可以說「我每個月固定投入一筆錢到緊急預備金」，或「我正在為之後的一趟旅行慢慢存一筆專用基金」。",
             "vocab": [
               {
@@ -1835,7 +1835,7 @@ export const WEEK_08: Episode[] = [
             "zh": "很好。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。",
             "vocab": [
               {
-                "word": "future you",
+                "word": "Financial adulthood",
                 "def": "未來的自己"
               }
             ]
@@ -1940,7 +1940,7 @@ export const WEEK_08: Episode[] = [
             "zh": "那種不確定感很正常。因為規則本來就會隨著家庭、朋友關係，還有文化而改變。",
             "vocab": [
               {
-                "word": "social expectation",
+                "word": "across families",
                 "def": "社交上的期待"
               }
             ]
@@ -1975,7 +1975,7 @@ export const WEEK_08: Episode[] = [
             "zh": "如果這段關係本來就比較平等、而且是日常性質，分帳通常會是最簡單也最乾淨的做法。",
             "vocab": [
               {
-                "word": "split the bill",
+                "word": "splitting the bill",
                 "def": "分帳；各付各的"
               }
             ]
@@ -2040,7 +2040,7 @@ export const WEEK_08: Episode[] = [
             "zh": "「我們要分開付嗎？」這句很簡單、有禮貌，而且幾乎不會被誤會。",
             "vocab": [
               {
-                "word": "split it",
+                "word": "polite",
                 "def": "把費用分開付"
               }
             ]
@@ -2208,7 +2208,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a very adult skill.",
+            "en": "That feels like an adult skill.",
             "zh": "這聽起來像是一種很成熟的大人能力。"
           },
           {
@@ -2518,7 +2518,7 @@ export const WEEK_08: Episode[] = [
             "zh": "很好。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。",
             "vocab": [
               {
-                "word": "automatic renewal",
+                "word": "regular review",
                 "def": "自動續訂"
               }
             ]

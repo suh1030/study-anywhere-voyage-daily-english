@@ -83,7 +83,7 @@ export const WEEK_19: Episode[] = [
             "zh": "好的工作說明，通常是從「如果你消失一週，最先亂掉的是什麼」開始講。",
             "vocab": [
               {
-                "word": "what I actually do",
+                "word": "explanations usually",
                 "def": "我實際上到底在做什麼"
               }
             ]
@@ -205,7 +205,7 @@ export const WEEK_19: Episode[] = [
             "zh": "很好。短說明最好用的時候，就是它聽起來像你星期二晚上真的會說出口的話。",
             "vocab": [
               {
-                "word": "short version",
+                "word": "Short explanations",
                 "def": "短版說法；簡短版本"
               }
             ]
@@ -252,8 +252,8 @@ export const WEEK_19: Episode[] = [
             "zh": "對，就是那種。如果你說：「我發現少了一個檔案，找對的人補進來，最後把上線時間守住了。」大家立刻就會懂。",
             "vocab": [
               {
-                "word": "on schedule",
-                "def": "按照時程；沒有延後"
+                "word": "noticed",
+                "def": "注意到了"
               }
             ]
           },
@@ -513,8 +513,8 @@ export const WEEK_19: Episode[] = [
                 "def": "直接面對客戶的"
               },
               {
-                "word": "internal tools",
-                "def": "內部使用的工具系統"
+                "word": "client-facing",
+                "def": "直接面對客戶的"
               }
             ]
           },
@@ -801,7 +801,7 @@ export const WEEK_19: Episode[] = [
             "zh": "完全沒錯。有時候一份工作主要是在付帳單，有時候它也會滋養你的目的感。那兩件事不一定總是在同一個時期重疊。",
             "vocab": [
               {
-                "word": "pay the bills",
+                "word": "pays the bills",
                 "def": "賺錢養生活；把基本生活顧住"
               },
               {
@@ -858,8 +858,8 @@ export const WEEK_19: Episode[] = [
             "zh": "沒錯。有些人需要影響力，有些人需要穩定，有些人只是需要感覺自己真的擅長正在做的事。",
             "vocab": [
               {
-                "word": "be good at it",
-                "def": "真的做得好；對這件事有能力"
+                "word": "stability",
+                "def": "穩定性"
               }
             ]
           },
@@ -907,7 +907,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I do not need every part of my job to feel inspiring, but I do need it to feel worthwhile overall.'",
+            "en": "You can also go with 'I do not need every part of my job to feel inspiring, but I do need it to feel worthwhile overall.'",
             "zh": "你可以這樣說：「I do not need every part of my job to feel inspiring, but I do need it to feel worthwhile overall.」"
           },
           {
@@ -931,7 +931,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it leaves room for change without sounding reckless.",
+            "en": "The reason I like it is that it leaves room for change without sounding reckless.",
             "zh": "我喜歡這句，因為它替改變留空間，可是又不會聽起來很衝動。"
           },
           {
@@ -953,7 +953,7 @@ export const WEEK_19: Episode[] = [
             "zh": "那你就把那件事說出來。你可以說：「I can appreciate what this job gives me and still want something more fitting.」這就是同時放住兩個真相。",
             "vocab": [
               {
-                "word": "hold both truths",
+                "word": "holding both truths",
                 "def": "同時承認兩個都真的感受"
               }
             ]
@@ -1134,8 +1134,8 @@ export const WEEK_19: Episode[] = [
             "zh": "那就是很典型的，沒有人真的把責任接到自己身上的時刻。",
             "vocab": [
               {
-                "word": "take ownership",
-                "def": "把責任真正接下來；主動扛起來"
+                "word": "ownership",
+                "def": "主導感；歸屬感"
               }
             ]
           },
@@ -1152,7 +1152,7 @@ export const WEEK_19: Episode[] = [
             "zh": "如果沒有人把連接整件事的那一段說到做到，再努力也幫不了太多。",
             "vocab": [
               {
-                "word": "follow through",
+                "word": "follows through",
                 "def": "把答應的事一路做到位"
               }
             ]
@@ -1217,7 +1217,7 @@ export const WEEK_19: Episode[] = [
             "zh": "提早看到風險、提早把它標出來，然後確保下一步真的有人接。",
             "vocab": [
               {
-                "word": "flag it early",
+                "word": "flagging it early",
                 "def": "提早把風險或問題標出來"
               },
               {
@@ -1288,7 +1288,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it keeps the conversation moving forward.",
+            "en": "I respond to that because it keeps the conversation moving forward.",
             "zh": "我喜歡這句，因為它會讓對話往前走。"
           },
           {
@@ -1316,7 +1316,7 @@ export const WEEK_19: Episode[] = [
             "zh": "那就直接說：「I need to pull in two people to get this back on track.」",
             "vocab": [
               {
-                "word": "get back on track",
+                "word": "back on track",
                 "def": "把事情拉回正軌"
               }
             ]
@@ -1647,7 +1647,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds calm, not defensive.",
+            "en": "What I like about it is that it sounds calm, not defensive.",
             "zh": "我喜歡這句，因為它聽起來很穩，不會像在防衛。"
           },
           {
@@ -1710,8 +1710,8 @@ export const WEEK_19: Episode[] = [
             "zh": "很多人都會這樣。可是有時候你是在某個面向先退一步，才能走進一個整體更適合的位置。",
             "vocab": [
               {
-                "word": "take a step back",
-                "def": "先退一步；暫時不往外界定義的成功直線衝"
+                "word": "step back",
+                "def": "退一步；主動不再過度介入"
               },
               {
                 "word": "move into",
@@ -1866,7 +1866,7 @@ export const WEEK_19: Episode[] = [
             "zh": "因為人通常比自己以為的更常把自己的價值綁在工作上。",
             "vocab": [
               {
-                "word": "tie your worth to",
+                "word": "tie their worth",
                 "def": "把自己的價值感綁在某件事上"
               }
             ]
@@ -2008,7 +2008,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'My role matters to me, but it is not the whole of who I am.'",
+            "en": "A clean way to say it is, 'My role matters to me, but it is not the whole of who I am.'",
             "zh": "你可以說：「My role matters to me, but it is not the whole of who I am.」"
           },
           {
@@ -2024,7 +2024,7 @@ export const WEEK_19: Episode[] = [
             "zh": "還有一句也很好，就是「就算工作現在占了我生活很大一部分，我也不只是一個角色而已。」",
             "vocab": [
               {
-                "word": "more than your role",
+                "word": "role",
                 "def": "你不只是一個工作角色而已"
               }
             ]
@@ -2032,7 +2032,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it does not reject ambition. It just puts it in place.",
+            "en": "That works for me because it does not reject ambition. It just puts it in place.",
             "zh": "我喜歡這句，因為它沒有否定企圖心，只是把它放回適當的位置。"
           },
           {
@@ -2042,7 +2042,7 @@ export const WEEK_19: Episode[] = [
             "zh": "沒錯。你可以很在乎工作，但不用讓它占滿自我的每一寸空間。",
             "vocab": [
               {
-                "word": "take up space",
+                "word": "take up every",
                 "def": "占據空間；在心裡占很大位置"
               }
             ]
@@ -2235,8 +2235,8 @@ export const WEEK_19: Episode[] = [
             "zh": "很多人都會這樣。他們會先自己把自己講小，甚至在別人還來不及評價之前。",
             "vocab": [
               {
-                "word": "undersell yourself",
-                "def": "把自己講得太小；低估自己的價值"
+                "word": "undersell",
+                "def": "低估；說得不夠有力"
               }
             ]
           },
@@ -2265,7 +2265,7 @@ export const WEEK_19: Episode[] = [
             "zh": "自信是把工作本身認清楚、講清楚；吹噓則是在努力把人講得比工作還大。",
             "vocab": [
               {
-                "word": "own your experience",
+                "word": "Confidence owns",
                 "def": "坦然承認並講清楚自己的經驗與成果"
               }
             ]
@@ -2283,7 +2283,7 @@ export const WEEK_19: Episode[] = [
             "zh": "很好。一旦你感覺到那個差別，用有自信的方式說話就會沒那麼可怕了。",
             "vocab": [
               {
-                "word": "speak with confidence",
+                "word": "speaking with confidence",
                 "def": "用穩定、有把握的方式說話"
               }
             ]
@@ -2391,7 +2391,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it includes both ownership and collaboration.",
+            "en": "I like it because it includes both ownership and collaboration.",
             "zh": "我喜歡這句，因為它同時把責任和合作都講到了。"
           },
           {

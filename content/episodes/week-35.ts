@@ -2,598 +2,2720 @@ import { Episode } from '../types'
 
 export const WEEK_35: Episode[] = [
   {
-    weekNumber: 35,
-    dayOfWeek: 1,
-    date: '2026-08-24',
-    theme: 'Technology & Everyday Life',
-    title: 'Always On: Technology in Our Daily Lives',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 1,
+    "date": "2026-08-24",
+    "theme": "Technology & Everyday Life",
+    "title": "Always On: Technology in Our Daily Lives",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — The Moment You Realize It',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I caught myself checking my phone while I was already on my phone. Like, I picked it up and immediately opened another app. I did not even know why.', zh: '我發現自己在用手機的同時，又去看了手機。就是拿起來之後馬上開另一個 app，我完全不知道為什麼。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is usually the first sign. You are not using the device anymore. The device is using your habit.', zh: '那通常是第一個訊號。你不再是在使用裝置，而是裝置在使用你的習慣。', vocab: [{ word: 'device', def: '裝置、設備' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I thought I was in control because I chose to pick it up.', zh: '我以為我有主導，因為是我選擇拿起來的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The tricky part is that it always feels like a choice in the moment. The pattern only becomes visible later.', zh: '棘手的地方就在這裡，它在當下永遠感覺像是你的選擇。整個模式只有到後來才看得清楚。', vocab: [{ word: 'pattern', def: '模式' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So when did technology get this... sticky?', zh: '那科技是什麼時候變得這麼……黏人的？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It happened gradually. First it saved time, then it filled time, and now it often takes time before you have a chance to decide otherwise.', zh: '是慢慢發生的。一開始是幫你節省時間，然後變成填補時間，現在則常常是在你還沒來得及想清楚之前就把時間帶走了。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That sequence is a bit alarming when you lay it out like that.', zh: '這樣說出來這個順序有點令人警覺。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It should be. Most people are not anti-technology. They just want to be the one deciding how much of themselves to give it.', zh: '應該的。大部分人並不是反科技，他們只是想要自己決定，要把多少的自己交給科技。' },
-        ],
+        "title": "Part 1 — The Moment You Realize It",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I caught myself checking my phone while I was already on my phone. Like, I picked it up and immediately opened another app. I did not even know why.",
+            "zh": "我發現自己在用手機的同時，又去看了手機。就是拿起來之後馬上開另一個 app，我完全不知道為什麼。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is usually the first sign. You are not using the device anymore. The device is using your habit.",
+            "zh": "那通常是第一個訊號。你不再是在使用裝置，而是裝置在使用你的習慣。",
+            "vocab": [
+              {
+                "word": "device",
+                "def": "裝置、設備"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I thought I was in control because I chose to pick it up.",
+            "zh": "我以為我有主導，因為是我選擇拿起來的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The tricky part is that it always feels like a choice in the moment. The pattern only becomes visible later.",
+            "zh": "棘手的地方就在這裡，它在當下永遠感覺像是你的選擇。整個模式只有到後來才看得清楚。",
+            "vocab": [
+              {
+                "word": "pattern",
+                "def": "模式；規律"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So when did technology get this... sticky?",
+            "zh": "那科技是什麼時候變得這麼……黏人的？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It happened gradually. First it saved time, then it filled time, and now it often takes time before you have a chance to decide otherwise.",
+            "zh": "是慢慢發生的。一開始是幫你節省時間，然後變成填補時間，現在則常常是在你還沒來得及想清楚之前就把時間帶走了。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sequence is a bit alarming when you lay it out like that.",
+            "zh": "這樣說出來這個順序有點令人警覺。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It should be. Most people are not anti-technology. They just want to be the one deciding how much of themselves to give it.",
+            "zh": "應該的。大部分人並不是反科技，他們只是想要自己決定，要把多少的自己交給科技。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — The Invisible Trade-Off',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'People always say technology makes life easier. But sometimes it feels like it just adds a different kind of stress.', zh: '大家都說科技讓生活變簡單，但有時候感覺只是換了一種壓力。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is because every convenience comes with a cost that is easy to miss. The cost is usually your attention, your time, or your sense of quiet.', zh: '因為每一種方便都附帶一個很容易被忽略的代價，而那個代價通常是你的注意力、你的時間，或者你的安靜感。', vocab: [{ word: 'convenience', def: '便利' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I never thought of quiet as something I could lose.', zh: '我從來沒有想過安靜感是可以失去的東西。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It is the first thing that goes when you are always connected. A lot of people notice the loss only after they have been offline for a few hours.', zh: '它是你一直連線時第一個消失的東西。很多人要等到離線幾個小時之後，才會注意到那個失去。', vocab: [{ word: 'connected', def: '連線的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Do you think most people know what they are actually trading away?', zh: '你覺得大部分人知道自己在交換出去的是什麼嗎？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Mostly not. The trade happens in small increments, so no single moment feels like a real loss.', zh: '大部分不知道。那個交換是以很小的增量發生的，所以每一個單獨的時刻都不像是真正的損失。', vocab: [{ word: 'increments', def: '增量、微小步驟' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Like how scrolling for five minutes somehow becomes forty.', zh: '就像本來說刷五分鐘，不知怎麼就變成四十分鐘。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. That is the design working as intended. The apps are not broken. They are doing exactly what they were built to do.', zh: '對，那就是設計按預期在運作。那些 app 沒有壞，它們在做它們被設計來做的事。' },
-        ],
+        "title": "Part 2 — The Invisible Trade-Off",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "People always say technology makes life easier. But sometimes it feels like it just adds a different kind of stress.",
+            "zh": "大家都說科技讓生活變簡單，但有時候感覺只是換了一種壓力。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is because every convenience comes with a cost that is easy to miss. The cost is usually your attention, your time, or your sense of quiet.",
+            "zh": "因為每一種方便都附帶一個很容易被忽略的代價，而那個代價通常是你的注意力、你的時間，或者你的安靜感。",
+            "vocab": [
+              {
+                "word": "convenience",
+                "def": "便利"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I never thought of quiet as something I could lose.",
+            "zh": "我從來沒有想過安靜感是可以失去的東西。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is the first thing that goes when you are always connected. A lot of people notice the loss only after they have been offline for a few hours.",
+            "zh": "它是你一直連線時第一個消失的東西。很多人要等到離線幾個小時之後，才會注意到那個失去。",
+            "vocab": [
+              {
+                "word": "connected",
+                "def": "連線的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Do you think most people know what they are actually trading away?",
+            "zh": "你覺得大部分人知道自己在交換出去的是什麼嗎？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Mostly not. The trade happens in small increments, so no single moment feels like a real loss.",
+            "zh": "大部分不知道。那個交換是以很小的增量發生的，所以每一個單獨的時刻都不像是真正的損失。",
+            "vocab": [
+              {
+                "word": "increments",
+                "def": "增量、微小步驟"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Like how scrolling for five minutes somehow becomes forty.",
+            "zh": "就像本來說刷五分鐘，不知怎麼就變成四十分鐘。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. That is the design working as intended. The apps are not broken. They are doing exactly what they were built to do.",
+            "zh": "對，那就是設計按預期在運作。那些 app 沒有壞，它們在做它們被設計來做的事。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — How to Talk About This in English',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'If I want to describe my relationship with technology in English, where do I even start?', zh: '如果我想用英文描述我和科技之間的關係，我要從哪裡開始說起？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Start with one honest sentence. Something like, "I check my phone too often and I am not always sure why."', zh: '從一句誠實的句子開始，像是「我太常查看手機了，而且我不總是知道為什麼。」', vocab: [{ word: 'check my phone', def: '查看手機' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That is simple. I expected something more complicated.', zh: '這很簡單，我以為會更複雜。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Simple and specific beats complex and vague every time in spoken English. You can also say, "I am trying to be more intentional about screen time."', zh: '在口語英文裡，簡單而具體永遠勝過複雜而模糊。你也可以說「我正在試著對螢幕使用時間更有意識。」', vocab: [{ word: 'intentional', def: '有意識的、刻意的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What if I want to say that I feel a little addicted?', zh: '如果我想說我覺得自己有點上癮，怎麼說？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You could say, "I have a hard time putting it down," or "It pulls at my attention even when I want to focus." Both are very natural.', zh: '可以說「我很難把它放下」，或是「即使我想專心，它還是一直抓著我的注意力。」兩個都非常自然。', vocab: [{ word: 'pull at', def: '拉扯、吸引' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Those sound honest without being dramatic.', zh: '這些說起來很誠實，但不會太誇張。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is the tone that works best for topics like this. Direct and calm tends to land better than frustrated or apologetic.', zh: '那是這類主題最有效果的語氣。直接而冷靜，通常比憤怒或道歉的語氣更能讓人聽進去。' },
-        ],
+        "title": "Part 3 — How to Talk About This in English",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "If I want to describe my relationship with technology in English, where do I even start?",
+            "zh": "如果我想用英文描述我和科技之間的關係，我要從哪裡開始說起？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Start with one honest sentence. Something like, \"I check my phone too often and I am not always sure why.\"",
+            "zh": "從一句誠實的句子開始，像是「我太常查看手機了，而且我不總是知道為什麼。」",
+            "vocab": [
+              {
+                "word": "check my phone",
+                "def": "查看手機"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is simple. I expected something more complicated.",
+            "zh": "這很簡單，我以為會更複雜。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Simple and specific beats complex and vague every time in spoken English. You can also say, \"I am trying to be more intentional about screen time.\"",
+            "zh": "在口語英文裡，簡單而具體永遠勝過複雜而模糊。你也可以說「我正在試著對螢幕使用時間更有意識。」",
+            "vocab": [
+              {
+                "word": "intentional",
+                "def": "有意識的、刻意的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What if I want to say that I feel a little addicted?",
+            "zh": "如果我想說我覺得自己有點上癮，怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You could say, \"I have a hard time putting it down,\" or \"It pulls at my attention even when I want to focus.\" Both are very natural.",
+            "zh": "可以說「我很難把它放下」，或是「即使我想專心，它還是一直抓著我的注意力。」兩個都非常自然。",
+            "vocab": [
+              {
+                "word": "pulls",
+                "def": "拉扯、吸引"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Those sound honest without being dramatic.",
+            "zh": "這些說起來很誠實，但不會太誇張。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is the tone that works best for topics like this. Direct and calm tends to land better than frustrated or apologetic.",
+            "zh": "那是這類主題最有效果的語氣。直接而冷靜，通常比憤怒或道歉的語氣更能讓人聽進去。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — One Small Change That Actually Works',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Is there one thing a person can do today that actually helps with phone overuse?', zh: '有沒有一件今天就可以做，而且真的對手機過度使用有效的事？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Put your phone in a different room while you eat. That is it. No screen during meals for one week.', zh: '吃飯的時候把手機放到另一個房間。就這樣。一週內吃飯不看螢幕。', vocab: [{ word: 'screen time', def: '螢幕使用時間' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds almost too small.', zh: '這聽起來幾乎小到不像是個辦法。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Small is the point. You are not fighting the habit all day. You are carving out one protected space where the old pattern cannot follow you.', zh: '小就是重點。你不是整天在跟那個習慣搏鬥，你是在切出一個受保護的空間，讓舊習慣沒辦法跟進來。', vocab: [{ word: 'carve out', def: '切出、騰出' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And that one space can eventually grow?', zh: '那個一個空間之後會慢慢擴大嗎？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Usually yes. Once you feel what real focus feels like, it is easier to want more of it.', zh: '通常是的。一旦你感受到真正專注是什麼感覺，你就會比較容易想要更多。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So you are not telling yourself to stop. You are just showing yourself what the alternative feels like.', zh: '所以你不是在告訴自己停下來，而是讓自己體驗一下另一種感覺是什麼。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Willpower runs out. Experience of something better is what actually changes a pattern.', zh: '沒錯。意志力會耗盡，體驗到更好的感覺，才是真正改變模式的東西。' },
-        ],
+        "title": "Part 4 — One Small Change That Actually Works",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Is there one thing a person can do today that actually helps with phone overuse?",
+            "zh": "有沒有一件今天就可以做，而且真的對手機過度使用有效的事？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Put your phone in a different room while you eat. That is it. No screen during meals for one week.",
+            "zh": "吃飯的時候把手機放到另一個房間。就這樣。一週內吃飯不看螢幕。",
+            "vocab": [
+              {
+                "word": "screen during",
+                "def": "螢幕使用時間"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds almost too small.",
+            "zh": "這聽起來幾乎小到不像是個辦法。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Small is the point. You are not fighting the habit all day. You are carving out one protected space where the old pattern cannot follow you.",
+            "zh": "小就是重點。你不是整天在跟那個習慣搏鬥，你是在切出一個受保護的空間，讓舊習慣沒辦法跟進來。",
+            "vocab": [
+              {
+                "word": "carving out",
+                "def": "切出、騰出"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And that one space can eventually grow?",
+            "zh": "那個一個空間之後會慢慢擴大嗎？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Usually yes. Once you feel what real focus feels like, it is easier to want more of it.",
+            "zh": "通常是的。一旦你感受到真正專注是什麼感覺，你就會比較容易想要更多。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So you are not telling yourself to stop. You are just showing yourself what the alternative feels like.",
+            "zh": "所以你不是在告訴自己停下來，而是讓自己體驗一下另一種感覺是什麼。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Willpower runs out. Experience of something better is what actually changes a pattern.",
+            "zh": "沒錯。意志力會耗盡，體驗到更好的感覺，才是真正改變模式的東西。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — What We Actually Want From Technology',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'At the end of the day, is the goal to use technology less?', zh: '說到底，目標是少用科技嗎？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Not necessarily less. The goal is to use it on purpose, not by default.', zh: '不一定是更少，目標是有目的地使用，而不是習慣性地使用。', vocab: [{ word: 'by default', def: '習慣性地、預設地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What does that look like practically?', zh: '實際上那是什麼樣子？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It means you open an app because you want something from it, not because your hand moved there automatically.', zh: '意思是你開一個 app 是因為你想要從它那裡得到什麼，而不是因為你的手自動滑過去了。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That is a much cleaner test than trying to set a time limit and stick to it.', zh: '這比試圖設定時間限制然後堅守它，是更清楚的一個測驗。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Time limits are useful but they are not the core of it. The core is noticing the gap between what you want to do and what you end up doing.', zh: '時間限制有用，但那不是核心。核心是注意到你想做的事和你最後實際做的事之間的落差。', vocab: [{ word: 'end up doing', def: '最後實際做了' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And once you notice the gap, you have options.', zh: '一旦你注意到落差，你就有選擇了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. That is the whole thing. Technology is not going away. The question is whether you are the one driving or just along for the ride.', zh: '沒錯，就是這樣。科技不會消失，問題在於你是在駕駛，還是只是搭便車。' },
-        ],
-      },
+        "title": "Part 5 — What We Actually Want From Technology",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "At the end of the day, is the goal to use technology less?",
+            "zh": "說到底，目標是少用科技嗎？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Not necessarily less. The goal is to use it on purpose, not by default.",
+            "zh": "不一定是更少，目標是有目的地使用，而不是習慣性地使用。",
+            "vocab": [
+              {
+                "word": "by default",
+                "def": "習慣性地、預設地"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What does that look like practically?",
+            "zh": "實際上那是什麼樣子？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It means you open an app because you want something from it, not because your hand moved there automatically.",
+            "zh": "意思是你開一個 app 是因為你想要從它那裡得到什麼，而不是因為你的手自動滑過去了。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a much cleaner test than trying to set a time limit and stick to it.",
+            "zh": "這比試圖設定時間限制然後堅守它，是更清楚的一個測驗。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Time limits are useful but they are not the core of it. The core is noticing the gap between what you want to do and what you end up doing.",
+            "zh": "時間限制有用，但那不是核心。核心是注意到你想做的事和你最後實際做的事之間的落差。",
+            "vocab": [
+              {
+                "word": "end up doing",
+                "def": "最後實際做了"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And once you notice the gap, you have options.",
+            "zh": "一旦你注意到落差，你就有選擇了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. That is the whole thing. Technology is not going away. The question is whether you are the one driving or just along for the ride.",
+            "zh": "沒錯，就是這樣。科技不會消失，問題在於你是在駕駛，還是只是搭便車。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'device', zh: '裝置', example: 'She looked up and realized the device had been in her hand for over an hour without her noticing.' },
-      { en: 'convenience', zh: '便利', example: 'The convenience of same-day delivery made it harder for him to plan ahead.' },
-      { en: 'connected', zh: '連線的', example: 'He felt more anxious when he was constantly connected than when he left his phone at home.' },
-      { en: 'screen time', zh: '螢幕使用時間', example: 'She started tracking her screen time and was surprised by what she found.' },
-      { en: 'intentional', zh: '有意識的', example: 'Being intentional about technology means choosing how you use it rather than letting it choose for you.' },
-      { en: 'check my phone', zh: '查看手機', example: 'He noticed he would check his phone whenever there was even a brief pause in the conversation.' },
-      { en: 'carve out', zh: '騰出', example: 'She carved out thirty minutes each morning with no apps or notifications.' },
-      { en: 'by default', zh: '習慣性地', example: 'He opened social media by default every time he sat down, even when he had not planned to.' },
-    ],
+    "keyPhrases": [
+      {
+        "en": "device",
+        "zh": "裝置",
+        "example": "She looked up and realized the device had been in her hand for over an hour without her noticing."
+      },
+      {
+        "en": "convenience",
+        "zh": "便利",
+        "example": "The convenience of same-day delivery made it harder for him to plan ahead."
+      },
+      {
+        "en": "connected",
+        "zh": "連線的",
+        "example": "He felt more anxious when he was constantly connected than when he left his phone at home."
+      },
+      {
+        "en": "screen time",
+        "zh": "螢幕使用時間",
+        "example": "She started tracking her screen time and was surprised by what she found."
+      },
+      {
+        "en": "intentional",
+        "zh": "有意識的",
+        "example": "Being intentional about technology means choosing how you use it rather than letting it choose for you."
+      },
+      {
+        "en": "check my phone",
+        "zh": "查看手機",
+        "example": "He noticed he would check his phone whenever there was even a brief pause in the conversation."
+      },
+      {
+        "en": "carve out",
+        "zh": "騰出",
+        "example": "She carved out thirty minutes each morning with no apps or notifications."
+      },
+      {
+        "en": "by default",
+        "zh": "習慣性地",
+        "example": "He opened social media by default every time he sat down, even when he had not planned to."
+      }
+    ]
   },
   {
-    weekNumber: 35,
-    dayOfWeek: 2,
-    date: '2026-08-25',
-    theme: 'Technology & Everyday Life',
-    title: 'Notifications, Attention, and Daily Focus',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 2,
+    "date": "2026-08-25",
+    "theme": "Technology & Everyday Life",
+    "title": "Notifications, Attention, and Daily Focus",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — When the Ping Wins',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I had a meeting this morning and I kept hearing notification sounds from my pocket even though my phone was on silent. I think I imagined them.', zh: '我今天早上開會，一直聽到口袋裡傳來通知聲，雖然我的手機是靜音。我想我是幻聽了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is called phantom vibration. It is a real thing and it usually means your nervous system has been trained to expect interruptions.', zh: '那叫做幻震，是真實存在的，通常代表你的神經系統已經被訓練成預期隨時會有打擾。', vocab: [{ word: 'phantom vibration', def: '幻震' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That is kind of disturbing to think about.', zh: '這樣想的話有點令人不安。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It is a sign of how deeply the notification loop has become part of the background of your day.', zh: '這是一個訊號，代表通知循環已經多深地融入你一天的背景中了。', vocab: [{ word: 'notification', def: '通知' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So even when there is no ping, the ping is still there in my head.', zh: '所以即使沒有通知聲，通知聲還是在我腦子裡。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Right. And that background noise, even imagined, breaks concentration. It costs you something even when you are not consciously aware of it.', zh: '對。那種背景噪音，就算是幻想出來的，也會打斷注意力。即使你沒有刻意意識到，它仍在消耗你的東西。', vocab: [{ word: 'concentration', def: '專注力' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the question is not just how often I check. It is also what my brain is doing between checks.', zh: '所以問題不只是我查看的頻率，而是我的大腦在查看之間在做什麼。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Yes. That in-between space is where most of your deep thinking lives, and notifications are very good at shrinking it.', zh: '對。那個中間的空間是你大部分深度思考存在的地方，而通知非常擅長把那個空間縮小。' },
-        ],
+        "title": "Part 1 — When the Ping Wins",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I had a meeting this morning and I kept hearing notification sounds from my pocket even though my phone was on silent. I think I imagined them.",
+            "zh": "我今天早上開會，一直聽到口袋裡傳來通知聲，雖然我的手機是靜音。我想我是幻聽了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is called phantom vibration. It is a real thing and it usually means your nervous system has been trained to expect interruptions.",
+            "zh": "那叫做幻震，是真實存在的，通常代表你的神經系統已經被訓練成預期隨時會有打擾。",
+            "vocab": [
+              {
+                "word": "phantom vibration",
+                "def": "幻震"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is kind of disturbing to think about.",
+            "zh": "這樣想的話有點令人不安。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is a sign of how deeply the notification loop has become part of the background of your day.",
+            "zh": "這是一個訊號，代表通知循環已經多深地融入你一天的背景中了。",
+            "vocab": [
+              {
+                "word": "notification",
+                "def": "通知"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So even when there is no ping, the ping is still there in my head.",
+            "zh": "所以即使沒有通知聲，通知聲還是在我腦子裡。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Right. And that background noise, even imagined, breaks concentration. It costs you something even when you are not consciously aware of it.",
+            "zh": "對。那種背景噪音，就算是幻想出來的，也會打斷注意力。即使你沒有刻意意識到，它仍在消耗你的東西。",
+            "vocab": [
+              {
+                "word": "concentration",
+                "def": "專注力"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the question is not just how often I check. It is also what my brain is doing between checks.",
+            "zh": "所以問題不只是我查看的頻率，而是我的大腦在查看之間在做什麼。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. That in-between space is where most of your deep thinking lives, and notifications are very good at shrinking it.",
+            "zh": "對。那個中間的空間是你大部分深度思考存在的地方，而通知非常擅長把那個空間縮小。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — What Attention Actually Costs',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I always thought I was good at multitasking. But lately I am not sure that is actually a good thing.', zh: '我一直以為我很擅長多工，但最近我不確定這其實是不是一件好事。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The research on this is pretty clear. What people call multitasking is usually fast switching between tasks, and every switch has a cost.', zh: '這方面的研究很明確。人們說的多工，通常是在不同任務之間快速切換，而每次切換都有代價。', vocab: [{ word: 'multitasking', def: '多工' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What kind of cost?', zh: '什麼樣的代價？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You lose a bit of context each time. You have to re-enter the task, re-find your place, and re-warm up the thinking. It adds up across a whole day.', zh: '你每次都會流失一點脈絡。你必須重新進入任務、重新找到你在哪裡、重新讓思考暖機。累積一整天下來，很可觀的。', vocab: [{ word: 'context', def: '脈絡' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So I might finish the day with the feeling of having done a lot but not much of it well.', zh: '所以我可能一天下來有做很多的感覺，但其實沒有什麼做得很好。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is exactly how a lot of office workers describe their days. Busy but not particularly productive.', zh: '這正是很多上班族描述他們的一天的方式，很忙，但沒什麼特別的成效。', vocab: [{ word: 'productive', def: '有成效的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And notifications are designed to pull you out of focus constantly.', zh: '而通知就是被設計來不斷把你拉出專注狀態的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Yes. They are designed to interrupt, because an interrupted person checks more often, and that is the metric that matters to the app.', zh: '對，它們被設計來打斷，因為被打斷的人會更頻繁地查看，而那就是對 app 而言重要的指標。' },
-        ],
+        "title": "Part 2 — What Attention Actually Costs",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I always thought I was good at multitasking. But lately I am not sure that is actually a good thing.",
+            "zh": "我一直以為我很擅長多工，但最近我不確定這其實是不是一件好事。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The research on this is pretty clear. What people call multitasking is usually fast switching between tasks, and every switch has a cost.",
+            "zh": "這方面的研究很明確。人們說的多工，通常是在不同任務之間快速切換，而每次切換都有代價。",
+            "vocab": [
+              {
+                "word": "multitasking",
+                "def": "多工處理"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What kind of cost?",
+            "zh": "什麼樣的代價？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You lose a bit of context each time. You have to re-enter the task, re-find your place, and re-warm up the thinking. It adds up across a whole day.",
+            "zh": "你每次都會流失一點脈絡。你必須重新進入任務、重新找到你在哪裡、重新讓思考暖機。累積一整天下來，很可觀的。",
+            "vocab": [
+              {
+                "word": "context",
+                "def": "情境；脈絡"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So I might finish the day with the feeling of having done a lot but not much of it well.",
+            "zh": "所以我可能一天下來有做很多的感覺，但其實沒有什麼做得很好。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is exactly how a lot of office workers describe their days. Busy but not particularly productive.",
+            "zh": "這正是很多上班族描述他們的一天的方式，很忙，但沒什麼特別的成效。",
+            "vocab": [
+              {
+                "word": "productive",
+                "def": "有成效的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And notifications are designed to pull you out of focus constantly.",
+            "zh": "而通知就是被設計來不斷把你拉出專注狀態的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. They are designed to interrupt, because an interrupted person checks more often, and that is the metric that matters to the app.",
+            "zh": "對，它們被設計來打斷，因為被打斷的人會更頻繁地查看，而那就是對 app 而言重要的指標。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Talking About Focus in English',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'How do I explain in English that I need time with no interruptions?', zh: '我要怎麼用英文解釋我需要沒有打擾的時間？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You can say, "I need a block of uninterrupted time to get this done." That is clear and professional.', zh: '你可以說「我需要一段不受打擾的時間來完成這件事。」這很清楚也很專業。', vocab: [{ word: 'uninterrupted', def: '不受打擾的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What if I want to tell a colleague I am in focus mode?', zh: '如果我想告訴同事我在專注模式中怎麼說？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You can say, "I am in deep work mode right now. Can I come back to you in an hour?" Most people respect that.', zh: '你可以說「我現在在深度工作模式，我可以一個小時後回來跟你說嗎？」大部分人都會尊重這樣的說法。', vocab: [{ word: 'deep work', def: '深度工作' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds very natural. What about asking someone to hold off on sending messages?', zh: '這聽起來非常自然。如果要請人暫時不要傳訊息怎麼說？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Try, "Do you mind holding off on messages for the next couple of hours? I need to focus." That is polite but direct.', zh: '試試看「你介意接下來幾個小時暫時不要傳訊息嗎？我需要專注。」這樣很有禮貌但也很直接。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'These are much easier to say than I thought.', zh: '這些說起來比我以為的容易多了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Focus talk does not need to be formal. The clearer and more normal it sounds, the easier it is for others to respond to.', zh: '關於專注的說法不需要很正式，聽起來越清楚越正常，別人就越容易回應。' },
-        ],
+        "title": "Part 3 — Talking About Focus in English",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do I explain in English that I need time with no interruptions?",
+            "zh": "我要怎麼用英文解釋我需要沒有打擾的時間？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "One simple version is, \"I need a block of uninterrupted time to get this done.\" That is clear and professional.",
+            "zh": "你可以說「我需要一段不受打擾的時間來完成這件事。」這很清楚也很專業。",
+            "vocab": [
+              {
+                "word": "uninterrupted",
+                "def": "不受打擾的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What if I want to tell a colleague I am in focus mode?",
+            "zh": "如果我想告訴同事我在專注模式中怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You might put it like this: \"I am in deep work mode right now. Can I come back to you in an hour?\" Most people respect that.",
+            "zh": "你可以說「我現在在深度工作模式，我可以一個小時後回來跟你說嗎？」大部分人都會尊重這樣的說法。",
+            "vocab": [
+              {
+                "word": "deep work",
+                "def": "深度工作"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds very natural. What about asking someone to hold off on sending messages?",
+            "zh": "這聽起來非常自然。如果要請人暫時不要傳訊息怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A good line here is, \"Do you mind holding off on messages for the next couple of hours? I need to focus.\" That is polite but direct.",
+            "zh": "試試看「你介意接下來幾個小時暫時不要傳訊息嗎？我需要專注。」這樣很有禮貌但也很直接。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "These are much easier to say than I thought.",
+            "zh": "這些說起來比我以為的容易多了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Focus talk does not need to be formal. The clearer and more normal it sounds, the easier it is for others to respond to.",
+            "zh": "關於專注的說法不需要很正式，聽起來越清楚越正常，別人就越容易回應。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — A Smarter Approach to Notifications',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'What is the most practical thing someone can do about notifications without going completely offline?', zh: '在不完全離線的情況下，關於通知最務實的做法是什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Batch your checks. Instead of responding to every notification as it arrives, pick two or three times a day to check messages and reply.', zh: '把查看集中在一起。不要每來一個通知就回，而是每天選兩三個時間統一查看和回覆訊息。', vocab: [{ word: 'batch', def: '集中處理' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Will people not get annoyed waiting for replies?', zh: '人們等回覆會不會不高興？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Most things people think are urgent are not actually urgent. If something is truly urgent, people will call.', zh: '大多數人以為很急的事情其實並不急，如果真的很急，人們會打電話。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I never thought about it that way. The phone call is the real urgency signal.', zh: '我從來沒這樣想過，打電話才是真正的緊急訊號。', vocab: [{ word: 'urgency', def: '緊迫感' }] },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Once you separate real urgency from the feeling of urgency, you can take back a lot of your day.', zh: '沒錯。一旦你把真正的緊迫感和緊迫的感覺分開，你就可以拿回一天很大的部分了。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And batching notifications might actually make my responses better too.', zh: '而且集中處理通知可能也讓我的回覆變得更好。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Very likely. Replying from a focused mind usually produces better answers than replying mid-interruption.', zh: '很可能。從專注的狀態回覆通常比在被打斷中間回覆產生更好的答案。' },
-        ],
+        "title": "Part 4 — A Smarter Approach to Notifications",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What is the most practical thing someone can do about notifications without going completely offline?",
+            "zh": "在不完全離線的情況下，關於通知最務實的做法是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Batch your checks. Instead of responding to every notification as it arrives, pick two or three times a day to check messages and reply.",
+            "zh": "把查看集中在一起。不要每來一個通知就回，而是每天選兩三個時間統一查看和回覆訊息。",
+            "vocab": [
+              {
+                "word": "batch",
+                "def": "集中處理"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Will people not get annoyed waiting for replies?",
+            "zh": "人們等回覆會不會不高興？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Most things people think are urgent are not actually urgent. If something is truly urgent, people will call.",
+            "zh": "大多數人以為很急的事情其實並不急，如果真的很急，人們會打電話。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I never thought about it that way. The phone call is the real urgency signal.",
+            "zh": "我從來沒這樣想過，打電話才是真正的緊急訊號。",
+            "vocab": [
+              {
+                "word": "urgency",
+                "def": "急迫感；很想立刻做成的壓力"
+              }
+            ]
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Once you separate real urgency from the feeling of urgency, you can take back a lot of your day.",
+            "zh": "沒錯。一旦你把真正的緊迫感和緊迫的感覺分開，你就可以拿回一天很大的部分了。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And batching notifications might actually make my responses better too.",
+            "zh": "而且集中處理通知可能也讓我的回覆變得更好。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Very likely. Replying from a focused mind usually produces better answers than replying mid-interruption.",
+            "zh": "很可能。從專注的狀態回覆通常比在被打斷中間回覆產生更好的答案。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Attention as a Resource',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I have started thinking about attention differently after this conversation. It feels more like money than time.', zh: '這次談完之後，我開始用不同的方式想注意力了，它感覺更像是金錢，而不是時間。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is a useful frame. Attention is finite and it gets spent whether you plan it or not.', zh: '那是個很有用的框架。注意力是有限的，而且無論你有沒有計劃，它都在被消耗。', vocab: [{ word: 'finite', def: '有限的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And notifications are like tiny withdrawals you never authorized.', zh: '而通知就像是你從來沒有授權的微小提款。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Nicely put. The goal is not to spend zero attention on your phone. The goal is to know where it is going.', zh: '說得好。目標不是把零注意力花在手機上，目標是知道注意力去哪裡了。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Same logic as a budget. Spending is fine, but unconscious spending is where the problem starts.', zh: '和預算的邏輯一樣，花費沒問題，但無意識的花費是問題開始的地方。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is exactly it. And once you notice where the attention is leaking, the choices become much more obvious.', zh: '就是這樣。而一旦你注意到注意力從哪裡流失，選擇就會變得清楚很多。', vocab: [{ word: 'leaking', def: '流失的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So it starts with noticing, not with discipline.', zh: '所以是從注意開始，而不是從自律開始。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Always. Noticing comes first. Discipline without noticing is just white-knuckling your way through the day.', zh: '永遠是這樣。注意先來，沒有注意的自律，只是咬緊牙關硬撐過一天而已。' },
-        ],
-      },
+        "title": "Part 5 — Attention as a Resource",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I have started thinking about attention differently after this conversation. It feels more like money than time.",
+            "zh": "這次談完之後，我開始用不同的方式想注意力了，它感覺更像是金錢，而不是時間。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is a useful frame. Attention is finite and it gets spent whether you plan it or not.",
+            "zh": "那是個很有用的框架。注意力是有限的，而且無論你有沒有計劃，它都在被消耗。",
+            "vocab": [
+              {
+                "word": "finite",
+                "def": "有限的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And notifications are like tiny withdrawals you never authorized.",
+            "zh": "而通知就像是你從來沒有授權的微小提款。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Nicely put. The goal is not to spend zero attention on your phone. The goal is to know where it is going.",
+            "zh": "說得好。目標不是把零注意力花在手機上，目標是知道注意力去哪裡了。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Same logic as a budget. Spending is fine, but unconscious spending is where the problem starts.",
+            "zh": "和預算的邏輯一樣，花費沒問題，但無意識的花費是問題開始的地方。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is exactly it. And once you notice where the attention is leaking, the choices become much more obvious.",
+            "zh": "就是這樣。而一旦你注意到注意力從哪裡流失，選擇就會變得清楚很多。",
+            "vocab": [
+              {
+                "word": "leaking",
+                "def": "漏水的；漏氣的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So it starts with noticing, not with discipline.",
+            "zh": "所以是從注意開始，而不是從自律開始。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Always. Noticing comes first. Discipline without noticing is just white-knuckling your way through the day.",
+            "zh": "永遠是這樣。注意先來，沒有注意的自律，只是咬緊牙關硬撐過一天而已。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'phantom vibration', zh: '幻震', example: 'He started experiencing phantom vibrations during long meetings and realized he needed to adjust his phone habits.' },
-      { en: 'notification', zh: '通知', example: 'She turned off most notifications and found her morning much calmer within a week.' },
-      { en: 'concentration', zh: '專注力', example: 'Every time the phone buzzed, his concentration broke and it took a few minutes to recover.' },
-      { en: 'multitasking', zh: '多工', example: 'What she called multitasking was really just switching between tasks rapidly, and it was exhausting.' },
-      { en: 'uninterrupted', zh: '不受打擾的', example: 'Two hours of uninterrupted work left him feeling more accomplished than a full day of fragmented effort.' },
-      { en: 'deep work', zh: '深度工作', example: 'He blocked off his mornings for deep work and only checked messages after lunch.' },
-      { en: 'batch', zh: '集中處理', example: 'She batched her email replies into one session each afternoon instead of responding all day.' },
-      { en: 'finite', zh: '有限的', example: 'He started treating attention as something finite, which made him more selective about where he spent it.' },
-    ],
+    "keyPhrases": [
+      {
+        "en": "phantom vibration",
+        "zh": "幻震",
+        "example": "He started experiencing phantom vibrations during long meetings and realized he needed to adjust his phone habits."
+      },
+      {
+        "en": "notification",
+        "zh": "通知",
+        "example": "She turned off most notifications and found her morning much calmer within a week."
+      },
+      {
+        "en": "concentration",
+        "zh": "專注力",
+        "example": "Every time the phone buzzed, his concentration broke and it took a few minutes to recover."
+      },
+      {
+        "en": "multitasking",
+        "zh": "多工",
+        "example": "What she called multitasking was really just switching between tasks rapidly, and it was exhausting."
+      },
+      {
+        "en": "uninterrupted",
+        "zh": "不受打擾的",
+        "example": "Two hours of uninterrupted work left him feeling more accomplished than a full day of fragmented effort."
+      },
+      {
+        "en": "deep work",
+        "zh": "深度工作",
+        "example": "He blocked off his mornings for deep work and only checked messages after lunch."
+      },
+      {
+        "en": "batch",
+        "zh": "集中處理",
+        "example": "She batched her email replies into one session each afternoon instead of responding all day."
+      },
+      {
+        "en": "finite",
+        "zh": "有限的",
+        "example": "He started treating attention as something finite, which made him more selective about where he spent it."
+      }
+    ]
   },
   {
-    weekNumber: 35,
-    dayOfWeek: 3,
-    date: '2026-08-26',
-    theme: 'Technology & Everyday Life',
-    title: 'Convenience and the Hidden Costs of Tech',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 3,
+    "date": "2026-08-26",
+    "theme": "Technology & Everyday Life",
+    "title": "Convenience and the Hidden Costs of Tech",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — The Price of Easy',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I ordered food delivery three times last week instead of cooking. Each time I told myself it was just this once.', zh: '我上週叫了三次外送，每次都告訴自己就這一次。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is the thing about convenience. Each decision feels isolated, so you never really add them up until the credit card bill arrives.', zh: '這就是方便的問題所在。每個決定感覺都是獨立的，所以你從來沒有真正把它們加總，直到信用卡帳單到了。', vocab: [{ word: 'isolated', def: '孤立的、獨立的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And the delivery fee is somehow always the last thing I notice.', zh: '而外送費不知為何永遠是我最後才注意到的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Because the app is designed to make the total feel reasonable. The fee appears late and small, and by then you have already committed emotionally.', zh: '因為那個 app 被設計成讓總額感覺合理。費用出現得很晚而且看起來很小，而那時你在情感上已經做出承諾了。', vocab: [{ word: 'committed', def: '做出承諾的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Emotionally committed to a bowl of noodles. That is a new way to think about it.', zh: '在情感上承諾了一碗麵，這是個新的想法。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Technology for convenience works on desire, not logic. Once you want the thing, the cost feels like a detail.', zh: '方便型科技作用在慾望上，而不是邏輯上。一旦你想要那樣東西，費用就感覺像是細節。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the question is not whether I should use delivery apps. It is whether I am using them the way I actually intend to.', zh: '所以問題不是我是否應該用外送 app，而是我是否在以我真正想要的方式使用它們。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is the right question. Convenience tools are not the problem. Using them on autopilot is.', zh: '這是對的問題。方便工具本身不是問題，用自動駕駛模式使用它們才是。', vocab: [{ word: 'autopilot', def: '自動駕駛模式' }] },
-        ],
+        "title": "Part 1 — The Price of Easy",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I ordered food delivery three times last week instead of cooking. Each time I told myself it was just this once.",
+            "zh": "我上週叫了三次外送，每次都告訴自己就這一次。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is the thing about convenience. Each decision feels isolated, so you never really add them up until the credit card bill arrives.",
+            "zh": "這就是方便的問題所在。每個決定感覺都是獨立的，所以你從來沒有真正把它們加總，直到信用卡帳單到了。",
+            "vocab": [
+              {
+                "word": "isolated",
+                "def": "孤立的、獨立的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And the delivery fee is somehow always the last thing I notice.",
+            "zh": "而外送費不知為何永遠是我最後才注意到的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because the app is designed to make the total feel reasonable. The fee appears late and small, and by then you have already committed emotionally.",
+            "zh": "因為那個 app 被設計成讓總額感覺合理。費用出現得很晚而且看起來很小，而那時你在情感上已經做出承諾了。",
+            "vocab": [
+              {
+                "word": "committed",
+                "def": "做出承諾的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Emotionally committed to a bowl of noodles. That is a new way to think about it.",
+            "zh": "在情感上承諾了一碗麵，這是個新的想法。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Technology for convenience works on desire, not logic. Once you want the thing, the cost feels like a detail.",
+            "zh": "方便型科技作用在慾望上，而不是邏輯上。一旦你想要那樣東西，費用就感覺像是細節。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the question is not whether I should use delivery apps. It is whether I am using them the way I actually intend to.",
+            "zh": "所以問題不是我是否應該用外送 app，而是我是否在以我真正想要的方式使用它們。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is the right question. Convenience tools are not the problem. Using them on autopilot is.",
+            "zh": "這是對的問題。方便工具本身不是問題，用自動駕駛模式使用它們才是。",
+            "vocab": [
+              {
+                "word": "autopilot",
+                "def": "自動駕駛模式"
+              }
+            ]
+          }
+        ]
       },
       {
-        title: 'Part 2 — When Easy Becomes a Dependency',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Is there a point where convenience becomes something harder to undo?', zh: '方便有沒有到了某個點會變得很難收回？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Yes. When the inconvenient option starts to feel impossible rather than just harder. That is usually when you have crossed into dependency.', zh: '有，當那個不方便的選項開始感覺不可能，而不只是更難時，通常那時候你已經越過了依賴的界線。', vocab: [{ word: 'dependency', def: '依賴' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I have not cooked a real meal in so long that my kitchen feels like a stranger.', zh: '我好久沒有做一頓真正的飯了，以至於我的廚房感覺像是陌生地方。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Skills also fade when they stop being used regularly. That includes cooking, navigation, and even remembering phone numbers.', zh: '技能在停止定期使用時也會退步，包括烹飪、導航，甚至記電話號碼。', vocab: [{ word: 'navigation', def: '導航' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I used to know at least ten phone numbers by heart. Now I know maybe two.', zh: '我以前至少背了十個電話號碼，現在大概知道兩個。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is a trade you made without realizing it. GPS meant you never had to remember addresses. Speed dial meant you never had to remember numbers.', zh: '那是你在沒有意識到的情況下做的交換。GPS 讓你不需要記地址，快速撥號讓你不需要記號碼。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And now if the app disappears, I am in trouble.', zh: '現在如果 app 消失了，我就麻煩了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Which is also why keeping at least some of those skills alive is not about being old-fashioned. It is about staying functional.', zh: '所以保留至少一部分那些技能，並不是要守舊，而是關於保持有能力運作。' },
-        ],
+        "title": "Part 2 — When Easy Becomes a Dependency",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Is there a point where convenience becomes something harder to undo?",
+            "zh": "方便有沒有到了某個點會變得很難收回？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. When the inconvenient option starts to feel impossible rather than just harder. That is usually when you have crossed into dependency.",
+            "zh": "有，當那個不方便的選項開始感覺不可能，而不只是更難時，通常那時候你已經越過了依賴的界線。",
+            "vocab": [
+              {
+                "word": "dependency",
+                "def": "依賴狀態"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I have not cooked a real meal in so long that my kitchen feels like a stranger.",
+            "zh": "我好久沒有做一頓真正的飯了，以至於我的廚房感覺像是陌生地方。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Skills also fade when they stop being used regularly. That includes cooking, navigation, and even remembering phone numbers.",
+            "zh": "技能在停止定期使用時也會退步，包括烹飪、導航，甚至記電話號碼。",
+            "vocab": [
+              {
+                "word": "navigation",
+                "def": "導航；找方向"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I used to know at least ten phone numbers by heart. Now I know maybe two.",
+            "zh": "我以前至少背了十個電話號碼，現在大概知道兩個。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is a trade you made without realizing it. GPS meant you never had to remember addresses. Speed dial meant you never had to remember numbers.",
+            "zh": "那是你在沒有意識到的情況下做的交換。GPS 讓你不需要記地址，快速撥號讓你不需要記號碼。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And now if the app disappears, I am in trouble.",
+            "zh": "現在如果 app 消失了，我就麻煩了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Which is also why keeping at least some of those skills alive is not about being old-fashioned. It is about staying functional.",
+            "zh": "所以保留至少一部分那些技能，並不是要守舊，而是關於保持有能力運作。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Useful English for Everyday Tech Talk',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'How do I describe to someone in English that I use a lot of apps to make my life easier?', zh: '我要怎麼用英文描述我使用很多 app 讓生活更容易？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'A natural way is to say, "I have outsourced a lot of daily tasks to apps." That one phrase covers cooking, planning, navigation, all of it.', zh: '一個自然的方式是說「我把很多日常工作外包給 app 了。」這一個說法就涵蓋了烹飪、規劃、導航，全部都有。', vocab: [{ word: 'outsource', def: '外包' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I like that. It sounds honest without being negative.', zh: '我喜歡這個，聽起來很誠實但不負面。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'If you want to express that you are trying to change, say, "I am trying to rely less on apps for things I can actually do myself."', zh: '如果你想表達你在試著改變，可以說「我試著減少對 app 的依賴，對於那些我自己其實做得到的事情。」', vocab: [{ word: 'rely on', def: '依賴' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And if I want to explain why I do not mind paying for certain apps?', zh: '如果我想解釋為什麼我不介意為某些 app 付費呢？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Say, "This app saves me more time than it costs me money, so the trade feels worth it."', zh: '說「這個 app 幫我省的時間比我花的錢更值，所以這個交換感覺划算。」' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That makes the reasoning really clear.', zh: '這讓推理非常清楚。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.', zh: '沒錯。當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。' },
-        ],
+        "title": "Part 3 — Useful English for Everyday Tech Talk",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do I describe to someone in English that I use a lot of apps to make my life easier?",
+            "zh": "我要怎麼用英文描述我使用很多 app 讓生活更容易？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A natural way is to say, \"I have outsourced a lot of daily tasks to apps.\" That one phrase covers cooking, planning, navigation, all of it.",
+            "zh": "一個自然的方式是說「我把很多日常工作外包給 app 了。」這一個說法就涵蓋了烹飪、規劃、導航，全部都有。",
+            "vocab": [
+              {
+                "word": "outsource",
+                "def": "外包"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like that. It sounds honest without being negative.",
+            "zh": "我喜歡這個，聽起來很誠實但不負面。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "If you want to express that you are trying to change, say, \"I am trying to rely less on apps for things I can actually do myself.\"",
+            "zh": "如果你想表達你在試著改變，可以說「我試著減少對 app 的依賴，對於那些我自己其實做得到的事情。」",
+            "vocab": [
+              {
+                "word": "rely less",
+                "def": "少依賴一點"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And if I want to explain why I do not mind paying for certain apps?",
+            "zh": "如果我想解釋為什麼我不介意為某些 app 付費呢？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Say, \"This app saves me more time than it costs me money, so the trade feels worth it.\"",
+            "zh": "說「這個 app 幫我省的時間比我花的錢更值，所以這個交換感覺划算。」"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That makes the reasoning really clear.",
+            "zh": "這讓推理非常清楚。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
+            "zh": "沒錯。當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — One Way to Stay in Control',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Is there a simple practice for not letting convenience completely take over?', zh: '有沒有一個簡單的練習，避免方便完全接管你的生活？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Pick one thing you normally use technology for and do it the manual way once a week. Cook once. Walk without GPS once. Write a to-do list on paper.', zh: '選一件你通常用科技來做的事，每週用手動的方式做一次。煮飯一次、走路不用 GPS 一次、用紙寫待辦清單。', vocab: [{ word: 'manual', def: '手動的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Does it actually help, or is it just symbolic?', zh: '這真的有幫助，還是只是象徵性的？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It does two things. First, it keeps the skill from fading. Second, it reminds you that the app is a choice, not a necessity.', zh: '它做了兩件事。第一，它防止技能退步。第二，它提醒你那個 app 是一個選擇，不是必需品。', vocab: [{ word: 'necessity', def: '必需品' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So it resets the feeling that you have options.', zh: '所以它重置了你有選擇的感覺。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Yes. Once something feels optional again, you use it more deliberately.', zh: '對。一旦某樣東西再次感覺是可選的，你就會更刻意地使用它。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And deliberately using something is completely different from reaching for it automatically.', zh: '而刻意使用某樣東西和自動伸手去拿它，是完全不同的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That difference is everything. Technology is most useful when it is a tool you pick up, not a habit that picks you up.', zh: '那個差異就是一切。科技在它是一個你拿起來用的工具，而不是一個把你拿起來用的習慣時，最有用。' },
-        ],
+        "title": "Part 4 — One Way to Stay in Control",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Is there a simple practice for not letting convenience completely take over?",
+            "zh": "有沒有一個簡單的練習，避免方便完全接管你的生活？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Pick one thing you normally use technology for and do it the manual way once a week. Cook once. Walk without GPS once. Write a to-do list on paper.",
+            "zh": "選一件你通常用科技來做的事，每週用手動的方式做一次。煮飯一次、走路不用 GPS 一次、用紙寫待辦清單。",
+            "vocab": [
+              {
+                "word": "manual",
+                "def": "手動的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Does it actually help, or is it just symbolic?",
+            "zh": "這真的有幫助，還是只是象徵性的？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It does two things. First, it keeps the skill from fading. Second, it reminds you that the app is a choice, not a necessity.",
+            "zh": "它做了兩件事。第一，它防止技能退步。第二，它提醒你那個 app 是一個選擇，不是必需品。",
+            "vocab": [
+              {
+                "word": "necessity",
+                "def": "必需品"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So it resets the feeling that you have options.",
+            "zh": "所以它重置了你有選擇的感覺。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes. Once something feels optional again, you use it more deliberately.",
+            "zh": "對。一旦某樣東西再次感覺是可選的，你就會更刻意地使用它。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And deliberately using something is completely different from reaching for it automatically.",
+            "zh": "而刻意使用某樣東西和自動伸手去拿它，是完全不同的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That difference is everything. Technology is most useful when it is a tool you pick up, not a habit that picks you up.",
+            "zh": "那個差異就是一切。科技在它是一個你拿起來用的工具，而不是一個把你拿起來用的習慣時，最有用。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — The Bigger Picture',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'After this conversation I realize I have never actually asked myself what I want technology to do for me.', zh: '談完這些我發現我從來沒有真正問過自己，我想要科技為我做什麼。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That question is worth sitting with. Not "what can technology do?" but "what do I want it to do for my specific life?"', zh: '那個問題值得細想，不是「科技能做什麼？」而是「我想讓它為我的具體生活做什麼？」', vocab: [{ word: 'specific', def: '具體的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Those are very different questions.', zh: '這兩個問題差很多。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The first is answered by marketing. The second can only be answered by you.', zh: '第一個問題由行銷來回答，第二個問題只有你自己能回答。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the convenience is not the issue. The issue is whether it fits what I actually value.', zh: '所以方便本身不是問題，問題是它是否符合我真正重視的東西。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.', zh: '沒錯。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。', vocab: [{ word: 'drained', def: '被消耗的、精疲力竭的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That drained feeling is actually really useful information, then.', zh: '那種被消耗的感覺其實是很有用的資訊。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It is one of the most honest signals your day can give you. Pay attention to it.', zh: '它是你的一天能給你的最誠實的訊號之一，要注意它。' },
-        ],
-      },
+        "title": "Part 5 — The Bigger Picture",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "After this conversation I realize I have never actually asked myself what I want technology to do for me.",
+            "zh": "談完這些我發現我從來沒有真正問過自己，我想要科技為我做什麼。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That question is worth sitting with. Not \"what can technology do?\" but \"what do I want it to do for my specific life?\"",
+            "zh": "那個問題值得細想，不是「科技能做什麼？」而是「我想讓它為我的具體生活做什麼？」",
+            "vocab": [
+              {
+                "word": "specific",
+                "def": "那個問題值得細想"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Those are very different questions.",
+            "zh": "這兩個問題差很多。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The first is answered by marketing. The second can only be answered by you.",
+            "zh": "第一個問題由行銷來回答，第二個問題只有你自己能回答。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the convenience is not the issue. The issue is whether it fits what I actually value.",
+            "zh": "所以方便本身不是問題，問題是它是否符合我真正重視的東西。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.",
+            "zh": "沒錯。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。",
+            "vocab": [
+              {
+                "word": "drained",
+                "def": "被消耗的、精疲力竭的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That drained feeling is actually really useful information, then.",
+            "zh": "那種被消耗的感覺其實是很有用的資訊。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is one of the most honest signals your day can give you. Pay attention to it.",
+            "zh": "它是你的一天能給你的最誠實的訊號之一，要注意它。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'isolated', zh: '孤立的', example: 'Each small purchase felt isolated, but together they added up to a significant amount by month end.' },
-      { en: 'autopilot', zh: '自動駕駛模式', example: 'She went through her morning on autopilot, checking her phone before she even got out of bed.' },
-      { en: 'dependency', zh: '依賴狀態', example: 'He did not realize his dependency on navigation apps until the app crashed during a trip.' },
-      { en: 'outsource', zh: '外包', example: 'She outsourced almost every routine task to apps and eventually felt disconnected from her own daily life.' },
-      { en: 'rely on', zh: '依賴', example: 'The more he relied on the app for directions, the worse his natural sense of direction became.' },
-      { en: 'manual', zh: '手動的', example: 'He tried doing things manually once a week to remind himself that the technology was a choice.' },
-      { en: 'necessity', zh: '必需品', example: 'Once she saw delivery apps as a convenience rather than a necessity, she used them less often.' },
-      { en: 'drained', zh: '被消耗的', example: 'He felt drained at the end of every day and eventually traced it back to too many open tabs and apps.' },
-    ],
+    "keyPhrases": [
+      {
+        "en": "isolated",
+        "zh": "孤立的",
+        "example": "Each small purchase felt isolated, but together they added up to a significant amount by month end."
+      },
+      {
+        "en": "autopilot",
+        "zh": "自動駕駛模式",
+        "example": "She went through her morning on autopilot, checking her phone before she even got out of bed."
+      },
+      {
+        "en": "dependency",
+        "zh": "依賴狀態",
+        "example": "He did not realize his dependency on navigation apps until the app crashed during a trip."
+      },
+      {
+        "en": "outsource",
+        "zh": "外包",
+        "example": "She outsourced almost every routine task to apps and eventually felt disconnected from her own daily life."
+      },
+      {
+        "en": "rely on",
+        "zh": "依賴",
+        "example": "The more he relied on the app for directions, the worse his natural sense of direction became."
+      },
+      {
+        "en": "manual",
+        "zh": "手動的",
+        "example": "He tried doing things manually once a week to remind himself that the technology was a choice."
+      },
+      {
+        "en": "necessity",
+        "zh": "必需品",
+        "example": "Once she saw delivery apps as a convenience rather than a necessity, she used them less often."
+      },
+      {
+        "en": "drained",
+        "zh": "被消耗的",
+        "example": "He felt drained at the end of every day and eventually traced it back to too many open tabs and apps."
+      }
+    ]
   },
   {
-    weekNumber: 35,
-    dayOfWeek: 4,
-    date: '2026-08-27',
-    theme: 'Technology & Everyday Life',
-    title: 'Smart Homes and Digital Habits',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 4,
+    "date": "2026-08-27",
+    "theme": "Technology & Everyday Life",
+    "title": "Smart Homes and Digital Habits",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — When the House Has Opinions',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'My friend has a smart home setup now. The lights dim automatically, the thermostat adjusts, even the fridge tells her when she is low on eggs.', zh: '我朋友現在有智慧家居設置，燈光自動調暗，恆溫器自動調整，連冰箱都會告訴她雞蛋快用完了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is impressive technology. But I am always curious about what happens when the system goes down. Or what happens when you realize the house is optimized for the average version of your day, not the actual one.', zh: '那是令人印象深刻的科技。但我總是好奇當系統當機時會發生什麼，或者當你意識到那個家是為你平均的一天優化的，而不是你實際的那一天。', vocab: [{ word: 'optimized', def: '優化的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What do you mean by the average version?', zh: '平均版本是什麼意思？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The system learns your patterns and automates around them. But some days you want the lights bright because you are tired, not dim because it is eight pm.', zh: '那個系統學習你的模式並圍繞它們自動化。但有些天你想要燈光明亮是因為你很累，而不是暗淡是因為現在是晚上八點。', vocab: [{ word: 'automate', def: '自動化' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the system can make you feel slightly out of sync with your own home.', zh: '所以系統可能讓你感覺和自己的家有點不協調。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It is subtle, but yes. When your environment makes decisions for you, the feeling of agency can quietly shrink.', zh: '這很微妙，但是的。當你的環境為你做決定時，主導感可能會悄悄縮小。', vocab: [{ word: 'agency', def: '主導感、自主性' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I had not thought about smart home as something that could affect how much control I feel.', zh: '我之前沒有想到智慧家居可能影響我感受到的掌控感。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It usually works well most of the time. The question is what happens in the moments when the system and your actual needs diverge.', zh: '大多數時候它運作得很好，問題在於當系統和你的實際需求出現分歧時，那些時刻會發生什麼。' },
-        ],
+        "title": "Part 1 — When the House Has Opinions",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "My friend has a smart home setup now. The lights dim automatically, the thermostat adjusts, even the fridge tells her when she is low on eggs.",
+            "zh": "我朋友現在有智慧家居設置，燈光自動調暗，恆溫器自動調整，連冰箱都會告訴她雞蛋快用完了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is impressive technology. But I am always curious about what happens when the system goes down. Or what happens when you realize the house is optimized for the average version of your day, not the actual one.",
+            "zh": "那是令人印象深刻的科技。但我總是好奇當系統當機時會發生什麼，或者當你意識到那個家是為你平均的一天優化的，而不是你實際的那一天。",
+            "vocab": [
+              {
+                "word": "optimized",
+                "def": "優化的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What do you mean by the average version?",
+            "zh": "平均版本是什麼意思？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The system learns your patterns and automates around them. But some days you want the lights bright because you are tired, not dim because it is eight pm.",
+            "zh": "那個系統學習你的模式並圍繞它們自動化。但有些天你想要燈光明亮是因為你很累，而不是暗淡是因為現在是晚上八點。",
+            "vocab": [
+              {
+                "word": "automate",
+                "def": "自動化"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the system can make you feel slightly out of sync with your own home.",
+            "zh": "所以系統可能讓你感覺和自己的家有點不協調。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is subtle, but yes. When your environment makes decisions for you, the feeling of agency can quietly shrink.",
+            "zh": "這很微妙，但是的。當你的環境為你做決定時，主導感可能會悄悄縮小。",
+            "vocab": [
+              {
+                "word": "agency",
+                "def": "主導感、自主性"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I had not thought about smart home as something that could affect how much control I feel.",
+            "zh": "我之前沒有想到智慧家居可能影響我感受到的掌控感。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It usually works well most of the time. The question is what happens in the moments when the system and your actual needs diverge.",
+            "zh": "大多數時候它運作得很好，問題在於當系統和你的實際需求出現分歧時，那些時刻會發生什麼。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — Digital Habits We Build Without Meaning To',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Are there digital habits people build without realizing that end up being a problem later?', zh: '人們有沒有在不知不覺中養成的數位習慣，後來變成問題？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Absolutely. Sleeping with your phone by your bed is one. Your last act before sleep and your first act after waking are both shaped by the screen.', zh: '絕對有，把手機放在床邊睡覺就是一個。你睡前最後一件事和醒來後第一件事，都被螢幕塑造了。', vocab: [{ word: 'screen', def: '螢幕' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I do that every night. I did not think of it as a habit, just as being reachable.', zh: '我每晚都這樣做，我不認為它是個習慣，只是讓自己保持聯繫得上的狀態。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Being reachable around the clock is a habit too. And it changes the quality of your rest even if you never actually pick the phone up at night.', zh: '全天候保持聯繫得上也是一個習慣，而且即使你晚上從來沒有真正拿起手機，它也會改變你休息的品質。', vocab: [{ word: 'quality of rest', def: '休息品質' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Just knowing it could buzz changes how deeply you sleep?', zh: '只是知道它可能會震動就改變了你睡眠的深度？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'For many people, yes. The nervous system does not fully switch off when it knows a signal might come.', zh: '對許多人來說是的。當神經系統知道可能有訊號來時，它不會完全關閉。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So a phone in a different room might actually be the best sleep aid available.', zh: '所以把手機放在另一個房間，可能真的是最好的睡眠輔助。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'For a lot of people it is. Simple but genuinely effective.', zh: '對很多人來說是的，簡單但真的有效。' },
-        ],
+        "title": "Part 2 — Digital Habits We Build Without Meaning To",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Are there digital habits people build without realizing that end up being a problem later?",
+            "zh": "人們有沒有在不知不覺中養成的數位習慣，後來變成問題？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Absolutely. Sleeping with your phone by your bed is one. Your last act before sleep and your first act after waking are both shaped by the screen.",
+            "zh": "絕對有，把手機放在床邊睡覺就是一個。你睡前最後一件事和醒來後第一件事，都被螢幕塑造了。",
+            "vocab": [
+              {
+                "word": "screen",
+                "def": "把手機放在床邊睡覺就是一個"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I do that every night. I did not think of it as a habit, just as being reachable.",
+            "zh": "我每晚都這樣做，我不認為它是個習慣，只是讓自己保持聯繫得上的狀態。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Being reachable around the clock is a habit too. And it changes the quality of your rest even if you never actually pick the phone up at night.",
+            "zh": "全天候保持聯繫得上也是一個習慣，而且即使你晚上從來沒有真正拿起手機，它也會改變你休息的品質。",
+            "vocab": [
+              {
+                "word": "quality",
+                "def": "休息品質"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Just knowing it could buzz changes how deeply you sleep?",
+            "zh": "只是知道它可能會震動就改變了你睡眠的深度？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "For many people, yes. The nervous system does not fully switch off when it knows a signal might come.",
+            "zh": "對許多人來說是的。當神經系統知道可能有訊號來時，它不會完全關閉。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So a phone in a different room might actually be the best sleep aid available.",
+            "zh": "所以把手機放在另一個房間，可能真的是最好的睡眠輔助。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "For a lot of people it is. Simple but genuinely effective.",
+            "zh": "對很多人來說是的，簡單但真的有效。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Talking About Your Home Setup in English',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'How do I describe my home technology setup in natural English?', zh: '我要怎麼用自然的英文描述我的家庭科技設置？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You can say, "I have a pretty simple setup at home. Just my laptop and my phone, no smart devices yet." That is honest and easy.', zh: '你可以說「我家的設置很簡單，就只有筆電和手機，還沒有智慧裝置。」這很誠實而且很容易說。', vocab: [{ word: 'setup', def: '設置' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What if I want to describe a more connected home?', zh: '如果我想描述一個更連網的家呢？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Say something like, "I have most things connected. My lights, my speakers, even my thermostat. It is convenient but it took some getting used to."', zh: '可以說「我幾乎所有東西都連起來了，燈光、喇叭、甚至恆溫器，很方便但花了一點時間適應。」', vocab: [{ word: 'thermostat', def: '恆溫器' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I like that ending. It sounds honest rather than just promotional.', zh: '我喜歡那個結尾，聽起來很誠實，而不只是在推銷。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Adding a small honest detail always makes descriptions sound more credible. You can even say what surprised you or what you would change.', zh: '加一個小誠實的細節總是讓描述聽起來更可信，你甚至可以說什麼讓你驚訝，或者你會改變什麼。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So sharing one real reaction makes the whole description sound more real.', zh: '所以分享一個真實的反應讓整個描述聽起來更真實。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Almost always. In English conversation, a small genuine detail does more work than a long polished explanation.', zh: '幾乎永遠是這樣。在英文對話中，一個小小的真實細節比一段長長的精心解釋做的工作更多。' },
-        ],
+        "title": "Part 3 — Talking About Your Home Setup in English",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do I describe my home technology setup in natural English?",
+            "zh": "我要怎麼用自然的英文描述我的家庭科技設置？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "If you want a clear sentence, try \"I have a pretty simple setup at home. Just my laptop and my phone, no smart devices yet.\" That is honest and easy.",
+            "zh": "你可以說「我家的設置很簡單，就只有筆電和手機，還沒有智慧裝置。」這很誠實而且很容易說。",
+            "vocab": [
+              {
+                "word": "setup",
+                "def": "設置"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What if I want to describe a more connected home?",
+            "zh": "如果我想描述一個更連網的家呢？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Say something like, \"I have most things connected. My lights, my speakers, even my thermostat. It is convenient but it took some getting used to.\"",
+            "zh": "可以說「我幾乎所有東西都連起來了，燈光、喇叭、甚至恆溫器，很方便但花了一點時間適應。」",
+            "vocab": [
+              {
+                "word": "thermostat",
+                "def": "恆溫器"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like that ending. It sounds honest rather than just promotional.",
+            "zh": "我喜歡那個結尾，聽起來很誠實，而不只是在推銷。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Adding a small honest detail always makes descriptions sound more credible. You can even say what surprised you or what you would change.",
+            "zh": "加一個小誠實的細節總是讓描述聽起來更可信，你甚至可以說什麼讓你驚訝，或者你會改變什麼。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So sharing one real reaction makes the whole description sound more real.",
+            "zh": "所以分享一個真實的反應讓整個描述聽起來更真實。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Almost always. In English conversation, a small genuine detail does more work than a long polished explanation.",
+            "zh": "幾乎永遠是這樣。在英文對話中，一個小小的真實細節比一段長長的精心解釋做的工作更多。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — One Habit to Protect Your Rest',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'What is one digital habit change that most consistently improves daily life?', zh: '有什麼一個數位習慣的改變最能持續地改善日常生活？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Stop checking your phone for the first thirty minutes after you wake up. That window sets the tone for your morning, and most of what arrives in that window can wait.', zh: '醒來後的前三十分鐘不要看手機。那個窗口為你的早晨定調，而且大多數在那個窗口到達的事情都可以等。', vocab: [{ word: 'sets the tone', def: '定調' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I always assumed checking early was responsible. Like I was staying on top of things.', zh: '我一直以為早早查看是負責任的，就像我在掌握一切。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It can feel that way. But responding before you have had time to think often means reacting rather than deciding.', zh: '可能感覺是這樣，但在你有時間思考之前就回應，通常意味著是在反應而不是在決定。', vocab: [{ word: 'reacting', def: '反應' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the early morning phone check can actually make you more reactive for the rest of the day.', zh: '所以早晨查看手機實際上可能讓你整天更容易反應式地處理事情。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It tends to, yes. You start the day inside someone else\'s agenda instead of your own.', zh: '傾向於是的，你在別人的議程裡而不是你自己的議程裡開始一天。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I never thought about whose agenda I was starting my day with.', zh: '我從來沒有想過我是在誰的議程裡開始我的一天。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That one framing tends to be enough to make people try the thirty-minute rule at least once.', zh: '那個框架通常就足以讓人至少試試三十分鐘規則一次。' },
-        ],
+        "title": "Part 4 — One Habit to Protect Your Rest",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What is one digital habit change that most consistently improves daily life?",
+            "zh": "有什麼一個數位習慣的改變最能持續地改善日常生活？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Stop checking your phone for the first thirty minutes after you wake up. That window sets the tone for your morning, and most of what arrives in that window can wait.",
+            "zh": "醒來後的前三十分鐘不要看手機。那個窗口為你的早晨定調，而且大多數在那個窗口到達的事情都可以等。",
+            "vocab": [
+              {
+                "word": "sets the tone",
+                "def": "定調"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I always assumed checking early was responsible. Like I was staying on top of things.",
+            "zh": "我一直以為早早查看是負責任的，就像我在掌握一切。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It can feel that way. But responding before you have had time to think often means reacting rather than deciding.",
+            "zh": "可能感覺是這樣，但在你有時間思考之前就回應，通常意味著是在反應而不是在決定。",
+            "vocab": [
+              {
+                "word": "reacting",
+                "def": "反應式的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the early morning phone check can actually make you more reactive for the rest of the day.",
+            "zh": "所以早晨查看手機實際上可能讓你整天更容易反應式地處理事情。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It tends to, yes. You start the day inside someone else's agenda instead of your own.",
+            "zh": "傾向於是的，你在別人的議程裡而不是你自己的議程裡開始一天。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I never thought about whose agenda I was starting my day with.",
+            "zh": "我從來沒有想過我是在誰的議程裡開始我的一天。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That one framing tends to be enough to make people try the thirty-minute rule at least once.",
+            "zh": "那個框架通常就足以讓人至少試試三十分鐘規則一次。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — What a Healthy Digital Home Feels Like',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'What does a healthy relationship with home technology actually look like in practice?', zh: '與家庭科技的健康關係在實踐中實際上是什麼樣子？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It looks like you still have spaces and times in your home that are not managed by a device. Meals. Bedtime. At least one room.', zh: '看起來像是你的家裡仍然有不被裝置管理的空間和時間，吃飯、就寢、至少一個房間。', vocab: [{ word: 'managed', def: '被管理的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'The idea of a room with no screens sounds both old-fashioned and appealing at the same time.', zh: '沒有螢幕的房間聽起來同時既老派又很有吸引力。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That tension you feel is actually a useful signal. It tells you that you know what you are missing, even if you have not made space for it yet.', zh: '你感受到的那種張力其實是一個有用的訊號，它告訴你你知道你錯過了什麼，即使你還沒有為它騰出空間。', vocab: [{ word: 'tension', def: '張力、拉扯' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So I do not have to get rid of the technology. I just have to keep some part of the home as my own.', zh: '所以我不需要把科技拿掉，我只需要把家的某部分保留為我自己的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. The technology can be excellent in the rest of the house. But having one zone where you are not being tracked, prompted, or notified changes something.', zh: '沒錯。科技可以在家的其他地方很出色，但有一個你沒有被追蹤、提示或通知的區域，會改變一些東西。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'It gives you somewhere to be yourself without input.', zh: '它給你一個地方，可以在沒有輸入的情況下做自己。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'And that, surprisingly, is still something technology has not learned to replace.', zh: '而那個，令人驚訝地，仍然是科技還沒有學會替代的東西。' },
-        ],
-      },
+        "title": "Part 5 — What a Healthy Digital Home Feels Like",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What does a healthy relationship with home technology actually look like in practice?",
+            "zh": "與家庭科技的健康關係在實踐中實際上是什麼樣子？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It looks like you still have spaces and times in your home that are not managed by a device. Meals. Bedtime. At least one room.",
+            "zh": "看起來像是你的家裡仍然有不被裝置管理的空間和時間，吃飯、就寢、至少一個房間。",
+            "vocab": [
+              {
+                "word": "managed",
+                "def": "被管理的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "The idea of a room with no screens sounds both old-fashioned and appealing at the same time.",
+            "zh": "沒有螢幕的房間聽起來同時既老派又很有吸引力。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That tension you feel is actually a useful signal. It tells you that you know what you are missing, even if you have not made space for it yet.",
+            "zh": "你感受到的那種張力其實是一個有用的訊號，它告訴你你知道你錯過了什麼，即使你還沒有為它騰出空間。",
+            "vocab": [
+              {
+                "word": "tension",
+                "def": "張力、拉扯"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So I do not have to get rid of the technology. I just have to keep some part of the home as my own.",
+            "zh": "所以我不需要把科技拿掉，我只需要把家的某部分保留為我自己的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. The technology can be excellent in the rest of the house. But having one zone where you are not being tracked, prompted, or notified changes something.",
+            "zh": "沒錯。科技可以在家的其他地方很出色，但有一個你沒有被追蹤、提示或通知的區域，會改變一些東西。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "It gives you somewhere to be yourself without input.",
+            "zh": "它給你一個地方，可以在沒有輸入的情況下做自己。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And that, surprisingly, is still something technology has not learned to replace.",
+            "zh": "而那個，令人驚訝地，仍然是科技還沒有學會替代的東西。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'optimized', zh: '優化的', example: 'The smart home was optimized for her average schedule, but it struggled to adapt on unusual days.' },
-      { en: 'automate', zh: '自動化', example: 'He automated his lighting and thermostat, which helped on routine days but felt strange when his schedule changed.' },
-      { en: 'agency', zh: '主導感', example: 'She noticed her sense of agency at home had decreased as more decisions were made automatically.' },
-      { en: 'quality of rest', zh: '休息品質', example: 'Keeping his phone in another room improved his quality of rest more than any other change he made.' },
-      { en: 'setup', zh: '設置', example: 'Her home setup included voice controls and automated blinds, but she kept the kitchen screen-free.' },
-      { en: 'sets the tone', zh: '定調', example: 'A quiet morning without screens set the tone for a calmer, more focused day.' },
-      { en: 'reacting', zh: '反應式的', example: 'He realized checking his phone first thing made him spend the whole morning reacting to other people\'s priorities.' },
-      { en: 'tension', zh: '張力', example: 'She felt the tension between loving the convenience and missing the simplicity of her old routine.' },
-    ],
+    "keyPhrases": [
+      {
+        "en": "optimized",
+        "zh": "優化的",
+        "example": "The smart home was optimized for her average schedule, but it struggled to adapt on unusual days."
+      },
+      {
+        "en": "automate",
+        "zh": "自動化",
+        "example": "He automated his lighting and thermostat, which helped on routine days but felt strange when his schedule changed."
+      },
+      {
+        "en": "agency",
+        "zh": "主導感",
+        "example": "She noticed her sense of agency at home had decreased as more decisions were made automatically."
+      },
+      {
+        "en": "quality of rest",
+        "zh": "休息品質",
+        "example": "Keeping his phone in another room improved his quality of rest more than any other change he made."
+      },
+      {
+        "en": "setup",
+        "zh": "設置",
+        "example": "Her home setup included voice controls and automated blinds, but she kept the kitchen screen-free."
+      },
+      {
+        "en": "sets the tone",
+        "zh": "定調",
+        "example": "A quiet morning without screens set the tone for a calmer, more focused day."
+      },
+      {
+        "en": "reacting",
+        "zh": "反應式的",
+        "example": "He realized checking his phone first thing made him spend the whole morning reacting to other people's priorities."
+      },
+      {
+        "en": "tension",
+        "zh": "張力",
+        "example": "She felt the tension between loving the convenience and missing the simplicity of her old routine."
+      }
+    ]
   },
   {
-    weekNumber: 35,
-    dayOfWeek: 5,
-    date: '2026-08-28',
-    theme: 'Technology & Everyday Life',
-    title: 'When Technology Feels Overwhelming',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 5,
+    "date": "2026-08-28",
+    "theme": "Technology & Everyday Life",
+    "title": "When Technology Feels Overwhelming",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — The Moment It Becomes Too Much',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I had a moment last week where I just wanted everything to stop. My phone, my laptop, the work chat, the group chats. All of it at once.', zh: '我上週有一個時刻只想讓一切都停下來，手機、筆電、工作群組、各種群聊，全部一起。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That feeling is more common than people realize. It usually hits when the volume of input finally exceeds your capacity to process it.', zh: '那種感覺比人們意識到的更普遍，通常是在輸入量終於超過你的處理能力時才發作的。', vocab: [{ word: 'input', def: '輸入' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I felt guilty about it. Like I should be able to handle all this because everyone else seems to.', zh: '我對此感到愧疚，就像我應該能夠處理這一切，因為其他人似乎都可以。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Most people manage it privately. The ones who look like they are handling it well often have the same overwhelm happening on the inside.', zh: '大多數人是私下應付的，那些看起來處理得很好的人，內心常常也有同樣的不堪重負。', vocab: [{ word: 'overwhelm', def: '不堪重負' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That is actually a bit reassuring.', zh: '這其實有點讓人放心。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'What you felt is not a failure. It is feedback. It means the current setup is costing you more than it is giving you.', zh: '你感受到的不是失敗，而是回饋，它代表目前的設置消耗你的比它給你的更多。', vocab: [{ word: 'feedback', def: '回饋' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I like thinking of overwhelm as feedback instead of weakness.', zh: '我喜歡把不堪重負想成回饋而不是軟弱。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It is much more useful that way. Weakness is something to push through. Feedback is something to listen to.', zh: '那樣想用起來有用多了，軟弱是要撐過去的東西，而回饋是要去聆聽的東西。' },
-        ],
+        "title": "Part 1 — The Moment It Becomes Too Much",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I had a moment last week where I just wanted everything to stop. My phone, my laptop, the work chat, the group chats. All of it at once.",
+            "zh": "我上週有一個時刻只想讓一切都停下來，手機、筆電、工作群組、各種群聊，全部一起。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That feeling is more common than people realize. It usually hits when the volume of input finally exceeds your capacity to process it.",
+            "zh": "那種感覺比人們意識到的更普遍，通常是在輸入量終於超過你的處理能力時才發作的。",
+            "vocab": [
+              {
+                "word": "input",
+                "def": "輸入"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I felt guilty about it. Like I should be able to handle all this because everyone else seems to.",
+            "zh": "我對此感到愧疚，就像我應該能夠處理這一切，因為其他人似乎都可以。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Most people manage it privately. The ones who look like they are handling it well often have the same overwhelm happening on the inside.",
+            "zh": "大多數人是私下應付的，那些看起來處理得很好的人，內心常常也有同樣的不堪重負。",
+            "vocab": [
+              {
+                "word": "overwhelm",
+                "def": "不堪重負"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is actually a bit reassuring.",
+            "zh": "這其實有點讓人放心。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "What you felt is not a failure. It is feedback. It means the current setup is costing you more than it is giving you.",
+            "zh": "你感受到的不是失敗，而是回饋，它代表目前的設置消耗你的比它給你的更多。",
+            "vocab": [
+              {
+                "word": "feedback",
+                "def": "反饋；意見"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like thinking of overwhelm as feedback instead of weakness.",
+            "zh": "我喜歡把不堪重負想成回饋而不是軟弱。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It is much more useful that way. Weakness is something to push through. Feedback is something to listen to.",
+            "zh": "那樣想用起來有用多了，軟弱是要撐過去的東西，而回饋是要去聆聽的東西。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — Why Tech Overload Happens Gradually',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Why does it always feel like one day everything is fine and the next it is suddenly too much?', zh: '為什麼總是感覺某天一切都還好，然後突然下一天就太多了？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Because it builds over time. Each new platform you join, each new notification you enable, each new chat group you enter adds a small amount to the total.', zh: '因為它隨著時間累積，你加入的每個新平台、你開啟的每個新通知、你進入的每個新聊天群組，都在總量上加了一點點。', vocab: [{ word: 'platform', def: '平台' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And at some point the total passes a threshold you did not even know was there.', zh: '而在某個時刻，總量超過了一個你甚至不知道存在的臨界點。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. And because each individual addition seemed reasonable, none of them felt like the obvious cause.', zh: '沒錯，而且因為每個單獨的增加看起來都合理，沒有一個感覺像是明顯的原因。', vocab: [{ word: 'threshold', def: '臨界點' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So there is no obvious single culprit. It is just all of it together.', zh: '所以沒有一個明顯的罪魁禍首，只是全部加在一起。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Which is also why subtraction is harder than it sounds. You cannot point to just one thing and remove it and feel much better.', zh: '這也是為什麼減法比聽起來的更難，你不能只指向一件事把它移除，然後就感覺好很多。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'You have to take a harder look at the whole picture.', zh: '你必須對整個情況做更仔細的審視。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'And that harder look usually starts by asking: what would I not miss if it disappeared tomorrow?', zh: '而那個更仔細的審視通常從問開始：如果明天消失了，我不會想念什麼？' },
-        ],
+        "title": "Part 2 — Why Tech Overload Happens Gradually",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Why does it always feel like one day everything is fine and the next it is suddenly too much?",
+            "zh": "為什麼總是感覺某天一切都還好，然後突然下一天就太多了？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because it builds over time. Each new platform you join, each new notification you enable, each new chat group you enter adds a small amount to the total.",
+            "zh": "因為它隨著時間累積，你加入的每個新平台、你開啟的每個新通知、你進入的每個新聊天群組，都在總量上加了一點點。",
+            "vocab": [
+              {
+                "word": "platform",
+                "def": "平台"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And at some point the total passes a threshold you did not even know was there.",
+            "zh": "而在某個時刻，總量超過了一個你甚至不知道存在的臨界點。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. And because each individual addition seemed reasonable, none of them felt like the obvious cause.",
+            "zh": "沒錯，而且因為每個單獨的增加看起來都合理，沒有一個感覺像是明顯的原因。",
+            "vocab": [
+              {
+                "word": "addition seemed",
+                "def": "而且因為每個單獨的增加看起來都合理"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So there is no obvious single culprit. It is just all of it together.",
+            "zh": "所以沒有一個明顯的罪魁禍首，只是全部加在一起。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Which is also why subtraction is harder than it sounds. You cannot point to just one thing and remove it and feel much better.",
+            "zh": "這也是為什麼減法比聽起來的更難，你不能只指向一件事把它移除，然後就感覺好很多。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "You have to take a harder look at the whole picture.",
+            "zh": "你必須對整個情況做更仔細的審視。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And that harder look usually starts by asking: what would I not miss if it disappeared tomorrow?",
+            "zh": "而那個更仔細的審視通常從問開始：如果明天消失了，我不會想念什麼？"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Expressing Overwhelm in English',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'If I want to tell a colleague or friend in English that I am feeling digitally overwhelmed, how would I put it?', zh: '如果我想用英文告訴同事或朋友我感到數位上的不堪重負，我怎麼說？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'A simple and honest option is, "I am finding it hard to keep up with everything right now." That covers it without sounding dramatic.', zh: '一個簡單誠實的選項是「我現在發現很難跟上所有事情。」這涵蓋了一切，但聽起來不誇張。', vocab: [{ word: 'keep up with', def: '跟上' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What if I want to set a boundary, like asking not to be added to more group chats?', zh: '如果我想設定界限，比如請人不要再把我加進更多群聊怎麼說？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You can say, "I am trying to reduce the number of channels I am in. Could you share updates with me directly instead?" That is polite and clear.', zh: '你可以說「我在試著減少我所在的頻道數量，你可以直接和我分享更新嗎？」這很有禮貌也很清楚。', vocab: [{ word: 'channels', def: '頻道' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That does not sound like a complaint. It sounds like a preference.', zh: '這聽起來不像是在抱怨，而像是在表達偏好。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is the tone to aim for. "I prefer" or "I am trying to" sounds like a decision you made, not a complaint about others.', zh: '那是你要瞄準的語氣，「我偏好」或「我正在試著」聽起來像是你做的決定，而不是對別人的抱怨。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Small language choices really do change how the message lands.', zh: '小的語言選擇真的改變了訊息的接收方式。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Always. Especially in professional contexts, how you frame a need shapes how others receive it.', zh: '永遠是這樣，尤其是在專業環境中，你如何框架一個需求決定了別人如何接收它。' },
-        ],
+        "title": "Part 3 — Expressing Overwhelm in English",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "If I want to tell a colleague or friend in English that I am feeling digitally overwhelmed, how would I put it?",
+            "zh": "如果我想用英文告訴同事或朋友我感到數位上的不堪重負，我怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A simple and honest option is, \"I am finding it hard to keep up with everything right now.\" That covers it without sounding dramatic.",
+            "zh": "一個簡單誠實的選項是「我現在發現很難跟上所有事情。」這涵蓋了一切，但聽起來不誇張。",
+            "vocab": [
+              {
+                "word": "keep up with",
+                "def": "跟上"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What if I want to set a boundary, like asking not to be added to more group chats?",
+            "zh": "如果我想設定界限，比如請人不要再把我加進更多群聊怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "I would probably say, \"I am trying to reduce the number of channels I am in. Could you share updates with me directly instead?\" That is polite and clear.",
+            "zh": "你可以說「我在試著減少我所在的頻道數量，你可以直接和我分享更新嗎？」這很有禮貌也很清楚。",
+            "vocab": [
+              {
+                "word": "channels",
+                "def": "溝通管道；頻道"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That does not sound like a complaint. It sounds like a preference.",
+            "zh": "這聽起來不像是在抱怨，而像是在表達偏好。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is the tone to aim for. \"I prefer\" or \"I am trying to\" sounds like a decision you made, not a complaint about others.",
+            "zh": "那是你要瞄準的語氣，「我偏好」或「我正在試著」聽起來像是你做的決定，而不是對別人的抱怨。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Small language choices really do change how the message lands.",
+            "zh": "小的語言選擇真的改變了訊息的接收方式。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Always. Especially in professional contexts, how you frame a need shapes how others receive it.",
+            "zh": "永遠是這樣，尤其是在專業環境中，你如何框架一個需求決定了別人如何接收它。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — The Art of Digital Subtraction',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'If I wanted to reduce my digital load, where would I even start?', zh: '如果我想減少我的數位負荷，我要從哪裡開始？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Start with a quick audit. Write down every platform, app, and group chat you are currently in. Just seeing it on paper is often enough to find the obvious cuts.', zh: '從一個快速審計開始，寫下你目前在的每個平台、app 和群聊，光是在紙上看到它，通常就足以找到明顯應該刪掉的。', vocab: [{ word: 'audit', def: '審計、盤點' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I would probably be surprised by the list.', zh: '我大概會對那個清單感到驚訝。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Most people are. Then ask for each one: when did I last actively use this? If the answer is more than two weeks ago, it is probably adding noise, not value.', zh: '大多數人都會。然後對每一個問：我上次主動使用這個是什麼時候？如果答案是兩週前以上，它很可能是在增加噪音，而不是價值。', vocab: [{ word: 'actively', def: '主動地' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That is a much cleaner test than just asking if I like something.', zh: '這比只問我是否喜歡某樣東西清楚多了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Because liking something and using something are different. You might like an app in theory but never actually open it.', zh: '因為喜歡某樣東西和使用某樣東西是不同的，你可能理論上喜歡一個 app，但實際上從來不打開它。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And keeping things you do not use still costs you something.', zh: '而保留你不使用的東西仍然要花你一些東西。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Mental space, mostly. The awareness that it exists is a small but real cost, even when the app is closed.', zh: '主要是心理空間，知道它存在是一個小但真實的代價，即使 app 是關閉的。' },
-        ],
+        "title": "Part 4 — The Art of Digital Subtraction",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "If I wanted to reduce my digital load, where would I even start?",
+            "zh": "如果我想減少我的數位負荷，我要從哪裡開始？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Start with a quick audit. Write down every platform, app, and group chat you are currently in. Just seeing it on paper is often enough to find the obvious cuts.",
+            "zh": "從一個快速審計開始，寫下你目前在的每個平台、app 和群聊，光是在紙上看到它，通常就足以找到明顯應該刪掉的。",
+            "vocab": [
+              {
+                "word": "audit",
+                "def": "審計、盤點"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I would probably be surprised by the list.",
+            "zh": "我大概會對那個清單感到驚訝。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Most people are. Then ask for each one: when did I last actively use this? If the answer is more than two weeks ago, it is probably adding noise, not value.",
+            "zh": "大多數人都會。然後對每一個問：我上次主動使用這個是什麼時候？如果答案是兩週前以上，它很可能是在增加噪音，而不是價值。",
+            "vocab": [
+              {
+                "word": "actively",
+                "def": "主動地"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a much cleaner test than just asking if I like something.",
+            "zh": "這比只問我是否喜歡某樣東西清楚多了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Because liking something and using something are different. You might like an app in theory but never actually open it.",
+            "zh": "因為喜歡某樣東西和使用某樣東西是不同的，你可能理論上喜歡一個 app，但實際上從來不打開它。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And keeping things you do not use still costs you something.",
+            "zh": "而保留你不使用的東西仍然要花你一些東西。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Mental space, mostly. The awareness that it exists is a small but real cost, even when the app is closed.",
+            "zh": "主要是心理空間，知道它存在是一個小但真實的代價，即使 app 是關閉的。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Finding Your Own Enough',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'How do you know when you have found the right balance with technology?', zh: '你怎麼知道你已經找到了和科技的正確平衡？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'One sign is that you can close the laptop at the end of the day without the urge to keep checking. If putting it away feels complete, that is usually a good indicator.', zh: '一個跡象是你一天結束時可以關上筆電，沒有繼續查看的衝動。如果把它放下感覺完整，那通常是一個好的指標。', vocab: [{ word: 'urge', def: '衝動' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I am definitely not there yet. Closing the laptop still feels a bit like leaving something unfinished.', zh: '我絕對還沒到那裡，關上筆電仍然感覺有點像留下了什麼未完成的事。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That feeling is worth paying attention to. It might mean the work genuinely is not done. Or it might mean the boundary between work and not-work has blurred.', zh: '那種感覺值得注意，它可能意味著工作真的還沒完成，或者可能意味著工作和非工作之間的界限已經模糊了。', vocab: [{ word: 'boundary', def: '界限' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And technology does not help with that blurring. It actually makes it worse.', zh: '而科技對那種模糊沒有幫助，它實際上讓它更嚴重。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'It makes the boundaries invisible. Everything is one device. Work, rest, entertainment, communication all in the same rectangle.', zh: '它讓界限變得看不見，一切都在一個裝置上，工作、休息、娛樂、溝通全都在同一個長方形裡。', vocab: [{ word: 'rectangle', def: '長方形' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'No wonder the brain has trouble knowing when to stop.', zh: '難怪大腦很難知道什麼時候該停下來。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Creating signals helps. A specific place where you stop working. A physical action that ends the day. Something the brain can learn to read as done.', zh: '建立訊號有幫助，一個你停止工作的特定地點，一個結束這一天的身體行動，某樣大腦可以學著讀成「完成」的東西。' },
-        ],
-      },
+        "title": "Part 5 — Finding Your Own Enough",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do you know when you have found the right balance with technology?",
+            "zh": "你怎麼知道你已經找到了和科技的正確平衡？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "One sign is that you can close the laptop at the end of the day without the urge to keep checking. If putting it away feels complete, that is usually a good indicator.",
+            "zh": "一個跡象是你一天結束時可以關上筆電，沒有繼續查看的衝動。如果把它放下感覺完整，那通常是一個好的指標。",
+            "vocab": [
+              {
+                "word": "urge",
+                "def": "衝動"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I am definitely not there yet. Closing the laptop still feels a bit like leaving something unfinished.",
+            "zh": "我絕對還沒到那裡，關上筆電仍然感覺有點像留下了什麼未完成的事。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That feeling is worth paying attention to. It might mean the work genuinely is not done. Or it might mean the boundary between work and not-work has blurred.",
+            "zh": "那種感覺值得注意，它可能意味著工作真的還沒完成，或者可能意味著工作和非工作之間的界限已經模糊了。",
+            "vocab": [
+              {
+                "word": "boundary",
+                "def": "界限"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And technology does not help with that blurring. It actually makes it worse.",
+            "zh": "而科技對那種模糊沒有幫助，它實際上讓它更嚴重。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "It makes the boundaries invisible. Everything is one device. Work, rest, entertainment, communication all in the same rectangle.",
+            "zh": "它讓界限變得看不見，一切都在一個裝置上，工作、休息、娛樂、溝通全都在同一個長方形裡。",
+            "vocab": [
+              {
+                "word": "rectangle",
+                "def": "它讓界限變得看不見"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "No wonder the brain has trouble knowing when to stop.",
+            "zh": "難怪大腦很難知道什麼時候該停下來。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Creating signals helps. A specific place where you stop working. A physical action that ends the day. Something the brain can learn to read as done.",
+            "zh": "建立訊號有幫助，一個你停止工作的特定地點，一個結束這一天的身體行動，某樣大腦可以學著讀成「完成」的東西。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'input', zh: '輸入', example: 'The amount of daily input from messages, emails, and news finally became too much for her to process.' },
-      { en: 'overwhelm', zh: '不堪重負', example: 'He reframed his overwhelm as feedback rather than weakness, and that shift made it easier to respond.' },
-      { en: 'platform', zh: '平台', example: 'She was active on six platforms and decided to cut it down to two she actually used regularly.' },
-      { en: 'threshold', zh: '臨界點', example: 'Without realizing it, he had crossed a threshold where the digital load was costing him more than it was giving.' },
-      { en: 'keep up with', zh: '跟上', example: 'She told her team she was finding it hard to keep up with everything and asked them to reduce the number of channels.' },
-      { en: 'audit', zh: '盤點', example: 'He did a quick audit of every app and group chat he was in and found twelve he had not opened in months.' },
-      { en: 'urge', zh: '衝動', example: 'She noticed the urge to check her phone every time there was a moment of silence and decided to explore why.' },
-      { en: 'boundary', zh: '界限', example: 'Without clear boundaries, the workday had no real end, and she never felt fully off.' },
-    ],
+    "keyPhrases": [
+      {
+        "en": "input",
+        "zh": "輸入",
+        "example": "The amount of daily input from messages, emails, and news finally became too much for her to process."
+      },
+      {
+        "en": "overwhelm",
+        "zh": "不堪重負",
+        "example": "He reframed his overwhelm as feedback rather than weakness, and that shift made it easier to respond."
+      },
+      {
+        "en": "platform",
+        "zh": "平台",
+        "example": "She was active on six platforms and decided to cut it down to two she actually used regularly."
+      },
+      {
+        "en": "threshold",
+        "zh": "臨界點",
+        "example": "Without realizing it, he had crossed a threshold where the digital load was costing him more than it was giving."
+      },
+      {
+        "en": "keep up with",
+        "zh": "跟上",
+        "example": "She told her team she was finding it hard to keep up with everything and asked them to reduce the number of channels."
+      },
+      {
+        "en": "audit",
+        "zh": "盤點",
+        "example": "He did a quick audit of every app and group chat he was in and found twelve he had not opened in months."
+      },
+      {
+        "en": "urge",
+        "zh": "衝動",
+        "example": "She noticed the urge to check her phone every time there was a moment of silence and decided to explore why."
+      },
+      {
+        "en": "boundary",
+        "zh": "界限",
+        "example": "Without clear boundaries, the workday had no real end, and she never felt fully off."
+      }
+    ]
   },
   {
-    weekNumber: 35,
-    dayOfWeek: 6,
-    date: '2026-08-29',
-    theme: 'Technology & Everyday Life',
-    title: 'Choosing What Technology Is Worth Keeping',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 6,
+    "date": "2026-08-29",
+    "theme": "Technology & Everyday Life",
+    "title": "Choosing What Technology Is Worth Keeping",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Not All Technology Is Worth Keeping',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I downloaded a productivity app three months ago to help me organize my tasks. I have opened it maybe twice. The irony is not lost on me.', zh: '我三個月前下載了一個生產力 app 來幫助我整理任務，大概只打開過兩次，這個諷刺我沒有錯過。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That happens to almost everyone with productivity tools. The setup often feels like progress, but the actual use requires a completely different kind of commitment.', zh: '幾乎每個人都發生過這種事，設置常常感覺像是進步，但實際使用需要一種完全不同的承諾。', vocab: [{ word: 'commitment', def: '承諾、投入' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So downloading is not the same as adopting.', zh: '所以下載和採用是不一樣的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Not even close. Downloading is just intent. Adoption means the tool has actually changed how you do something.', zh: '差遠了。下載只是意圖，採用意味著那個工具實際上改變了你做某件事的方式。', vocab: [{ word: 'adoption', def: '採用' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I have a lot of downloaded intent and not much actual adoption.', zh: '我有很多已下載的意圖，但沒有多少實際的採用。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You are not alone. Most people\'s phones are full of apps that represent aspirations more than habits.', zh: '你不是唯一一個，大多數人的手機充滿了代表願望多於習慣的 app。', vocab: [{ word: 'aspirations', def: '抱負、渴望' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Like how I still have a Japanese learning app I have not opened in a year.', zh: '就像我還有一個一年沒打開過的日語學習 app。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That one might be worth keeping if you still want to learn Japanese. But if the app is there mostly to remind you that you meant to do something, it is probably not helping.', zh: '如果你還想學日語，那個可能值得保留。但如果那個 app 主要是在那裡提醒你說你曾打算做某件事，它可能沒有在幫忙。' },
-        ],
+        "title": "Part 1 — Not All Technology Is Worth Keeping",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I downloaded a productivity app three months ago to help me organize my tasks. I have opened it maybe twice. The irony is not lost on me.",
+            "zh": "我三個月前下載了一個生產力 app 來幫助我整理任務，大概只打開過兩次，這個諷刺我沒有錯過。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That happens to almost everyone with productivity tools. The setup often feels like progress, but the actual use requires a completely different kind of commitment.",
+            "zh": "幾乎每個人都發生過這種事，設置常常感覺像是進步，但實際使用需要一種完全不同的承諾。",
+            "vocab": [
+              {
+                "word": "commitment",
+                "def": "承諾、投入"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So downloading is not the same as adopting.",
+            "zh": "所以下載和採用是不一樣的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Not even close. Downloading is just intent. Adoption means the tool has actually changed how you do something.",
+            "zh": "差遠了。下載只是意圖，採用意味著那個工具實際上改變了你做某件事的方式。",
+            "vocab": [
+              {
+                "word": "adoption",
+                "def": "採用"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I have a lot of downloaded intent and not much actual adoption.",
+            "zh": "我有很多已下載的意圖，但沒有多少實際的採用。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You are not alone. Most people's phones are full of apps that represent aspirations more than habits.",
+            "zh": "你不是唯一一個，大多數人的手機充滿了代表願望多於習慣的 app。",
+            "vocab": [
+              {
+                "word": "aspirations",
+                "def": "抱負、渴望"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Like how I still have a Japanese learning app I have not opened in a year.",
+            "zh": "就像我還有一個一年沒打開過的日語學習 app。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That one might be worth keeping if you still want to learn Japanese. But if the app is there mostly to remind you that you meant to do something, it is probably not helping.",
+            "zh": "如果你還想學日語，那個可能值得保留。但如果那個 app 主要是在那裡提醒你說你曾打算做某件事，它可能沒有在幫忙。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — When Keeping Up With Tech Is Its Own Pressure',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Do you ever feel pressure to use the latest tools just because everyone else seems to be?', zh: '你有沒有感受到壓力要使用最新的工具，只因為其他人似乎都在用？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Yes, definitely. There is a kind of professional anxiety around not being on the newest platform or tool. Like you might be left behind.', zh: '有，絕對有。有一種職業焦慮圍繞著沒有在最新的平台或工具上，就像你可能會被落下一樣。', vocab: [{ word: 'anxiety', def: '焦慮' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'But most of the new tools I have tried just created more complexity.', zh: '但我試過的大多數新工具只是製造了更多複雜性。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is often the case. New technology is sometimes solving a problem the previous generation of tools already solved, just in a more polished way.', zh: '這通常是這樣。新科技有時候是在解決上一代工具已經解決的問題，只是以更精緻的方式。', vocab: [{ word: 'generation', def: '世代' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the old tool was not broken, just less exciting.', zh: '所以舊工具並沒有壞，只是不那麼令人興奮。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Right. And switching to a new tool has a real cost in time and attention, even when the new one is genuinely better.', zh: '對，而且切換到新工具在時間和注意力上有真實的代價，即使新的確實更好。', vocab: [{ word: 'switching', def: '切換' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That switching cost is something I never factor in when I am excited about something new.', zh: '那個切換代價是我在對新事物感到興奮時從來沒有考慮進去的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Nobody does at first. The excitement of new tools is real. The invisible setup and learning costs come later.', zh: '最初沒有人考慮。新工具的興奮是真實的，隱形的設置和學習成本是後來才來的。' },
-        ],
+        "title": "Part 2 — When Keeping Up With Tech Is Its Own Pressure",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Do you ever feel pressure to use the latest tools just because everyone else seems to be?",
+            "zh": "你有沒有感受到壓力要使用最新的工具，只因為其他人似乎都在用？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Yes, definitely. There is a kind of professional anxiety around not being on the newest platform or tool. Like you might be left behind.",
+            "zh": "有，絕對有。有一種職業焦慮圍繞著沒有在最新的平台或工具上，就像你可能會被落下一樣。",
+            "vocab": [
+              {
+                "word": "anxiety",
+                "def": "焦慮"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "But most of the new tools I have tried just created more complexity.",
+            "zh": "但我試過的大多數新工具只是製造了更多複雜性。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is often the case. New technology is sometimes solving a problem the previous generation of tools already solved, just in a more polished way.",
+            "zh": "這通常是這樣。新科技有時候是在解決上一代工具已經解決的問題，只是以更精緻的方式。",
+            "vocab": [
+              {
+                "word": "generation",
+                "def": "只是以更精緻的方式"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the old tool was not broken, just less exciting.",
+            "zh": "所以舊工具並沒有壞，只是不那麼令人興奮。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Right. And switching to a new tool has a real cost in time and attention, even when the new one is genuinely better.",
+            "zh": "對，而且切換到新工具在時間和注意力上有真實的代價，即使新的確實更好。",
+            "vocab": [
+              {
+                "word": "switching",
+                "def": "切換"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That switching cost is something I never factor in when I am excited about something new.",
+            "zh": "那個切換代價是我在對新事物感到興奮時從來沒有考慮進去的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Nobody does at first. The excitement of new tools is real. The invisible setup and learning costs come later.",
+            "zh": "最初沒有人考慮。新工具的興奮是真實的，隱形的設置和學習成本是後來才來的。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Talking About Tech Choices in English',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'How do I explain in English why I chose to keep using an older tool when everyone around me has moved on?', zh: '我要怎麼用英文解釋為什麼我選擇繼續使用舊工具，當我周圍的人都已經換了？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Try, "It might not be the newest option, but it does exactly what I need without adding complications." That is confident and practical.', zh: '試試「它可能不是最新的選項，但它做到我需要的，而不增加複雜性。」這很自信也很務實。', vocab: [{ word: 'complications', def: '複雜性' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What if I want to explain why I decided not to adopt a popular new platform?', zh: '如果我想解釋為什麼我決定不採用一個熱門的新平台呢？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You can say, "I looked at it and decided the learning curve did not seem worth the benefit for what I am doing right now."', zh: '你可以說「我看過了，決定那個學習曲線在我目前做的事情上看起來不值得那個效益。」', vocab: [{ word: 'learning curve', def: '學習曲線' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That sounds thoughtful, not defensive.', zh: '這聽起來很有考慮，不是在防衛。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is the goal. You want to sound like someone who made a deliberate decision, not someone who is resisting change.', zh: '那就是目標，你想聽起來像是做了一個深思熟慮的決定的人，而不是在抗拒改變的人。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And "for what I am doing right now" is a smart qualifier.', zh: '而「在我目前做的事情上」是個聰明的限定詞。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.', zh: '沒錯，它顯示你不是在否定那個工具，你只是在說它不適合你目前的情況。' },
-        ],
+        "title": "Part 3 — Talking About Tech Choices in English",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "How do I explain in English why I chose to keep using an older tool when everyone around me has moved on?",
+            "zh": "我要怎麼用英文解釋為什麼我選擇繼續使用舊工具，當我周圍的人都已經換了？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You could say, \"It might not be the newest option, but it does exactly what I need without adding complications.\" That is confident and practical.",
+            "zh": "試試「它可能不是最新的選項，但它做到我需要的，而不增加複雜性。」這很自信也很務實。",
+            "vocab": [
+              {
+                "word": "complications",
+                "def": "額外的複雜性；麻煩"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What if I want to explain why I decided not to adopt a popular new platform?",
+            "zh": "如果我想解釋為什麼我決定不採用一個熱門的新平台呢？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "One option would be, \"I looked at it and decided the learning curve did not seem worth the benefit for what I am doing right now.\"",
+            "zh": "你可以說「我看過了，決定那個學習曲線在我目前做的事情上看起來不值得那個效益。」",
+            "vocab": [
+              {
+                "word": "learning curve",
+                "def": "學習曲線"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That sounds thoughtful, not defensive.",
+            "zh": "這聽起來很有考慮，不是在防衛。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is the goal. You want to sound like someone who made a deliberate decision, not someone who is resisting change.",
+            "zh": "那就是目標，你想聽起來像是做了一個深思熟慮的決定的人，而不是在抗拒改變的人。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And \"for what I am doing right now\" is a smart qualifier.",
+            "zh": "而「在我目前做的事情上」是個聰明的限定詞。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
+            "zh": "沒錯，它顯示你不是在否定那個工具，你只是在說它不適合你目前的情況。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — A Framework for Deciding',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Is there a simple way to decide whether a new tool is actually worth trying?', zh: '有沒有一個簡單的方法來決定一個新工具是否真的值得嘗試？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Ask three questions. First: what specific problem will this solve? Second: does that problem cost me enough time or energy to justify learning a new tool? Third: can I try it for two weeks and then decide?', zh: '問三個問題。第一：這會解決什麼具體的問題？第二：那個問題是否消耗了足夠多的時間或精力值得學習一個新工具？第三：我可以試用兩週然後再決定嗎？', vocab: [{ word: 'justify', def: '值得、合理化' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'The two-week trial idea is smart. Most apps offer that anyway.', zh: '兩週試用的想法很聰明。大多數 app 反正都有提供。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The important part is committing to actually evaluate after two weeks, not just continuing by default.', zh: '重要的部分是承諾在兩週後真正評估，而不只是默認繼續使用。', vocab: [{ word: 'evaluate', def: '評估' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Most of the time I try something new and then it just becomes part of my stack without ever being really assessed.', zh: '大多數時候我嘗試新東西，然後它就變成我工具組合的一部分，從來沒有真正被評估過。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is how tool stacks get bloated. Each one seemed reasonable at the time. Together they create a system that is harder than the problems it was supposed to solve.', zh: '這就是工具組合如何變得臃腫的，每一個在當時看起來都合理，加在一起創造了一個比它應該解決的問題更複雜的系統。', vocab: [{ word: 'bloated', def: '臃腫的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the best technology stack is probably the smallest one that actually gets the job done.', zh: '所以最好的工具組合大概是能真正完成工作的最小一個。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Almost always. Simplicity is underrated in technology, partly because it is less exciting to talk about.', zh: '幾乎永遠是的，簡單在科技上被低估了，部分原因是它不那麼令人興奮去談論。' },
-        ],
+        "title": "Part 4 — A Framework for Deciding",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Is there a simple way to decide whether a new tool is actually worth trying?",
+            "zh": "有沒有一個簡單的方法來決定一個新工具是否真的值得嘗試？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Ask three questions. First: what specific problem will this solve? Second: does that problem cost me enough time or energy to justify learning a new tool? Third: can I try it for two weeks and then decide?",
+            "zh": "問三個問題。第一：這會解決什麼具體的問題？第二：那個問題是否消耗了足夠多的時間或精力值得學習一個新工具？第三：我可以試用兩週然後再決定嗎？",
+            "vocab": [
+              {
+                "word": "justify",
+                "def": "值得、合理化"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "The two-week trial idea is smart. Most apps offer that anyway.",
+            "zh": "兩週試用的想法很聰明。大多數 app 反正都有提供。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The important part is committing to actually evaluate after two weeks, not just continuing by default.",
+            "zh": "重要的部分是承諾在兩週後真正評估，而不只是默認繼續使用。",
+            "vocab": [
+              {
+                "word": "evaluate",
+                "def": "評估"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Most of the time I try something new and then it just becomes part of my stack without ever being really assessed.",
+            "zh": "大多數時候我嘗試新東西，然後它就變成我工具組合的一部分，從來沒有真正被評估過。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is how tool stacks get bloated. Each one seemed reasonable at the time. Together they create a system that is harder than the problems it was supposed to solve.",
+            "zh": "這就是工具組合如何變得臃腫的，每一個在當時看起來都合理，加在一起創造了一個比它應該解決的問題更複雜的系統。",
+            "vocab": [
+              {
+                "word": "bloated",
+                "def": "這就是工具組合如何變得臃腫的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the best technology stack is probably the smallest one that actually gets the job done.",
+            "zh": "所以最好的工具組合大概是能真正完成工作的最小一個。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Almost always. Simplicity is underrated in technology, partly because it is less exciting to talk about.",
+            "zh": "幾乎永遠是的，簡單在科技上被低估了，部分原因是它不那麼令人興奮去談論。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — Your Relationship With Technology Is Personal',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'I feel like this whole topic of technology and everyday life is really a conversation about identity.', zh: '我覺得整個科技和日常生活的主題，其實是一個關於身份認同的對話。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is an interesting read. Say more.', zh: '這是個有趣的解讀，再說說看。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'The apps I use, the tools I keep, the things I refuse to adopt, all of that says something about who I am and what I value.', zh: '我用的 app、我保留的工具、我拒絕採用的東西，這些全都說了一些關於我是誰和我重視什麼的事情。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You are right. And most people have never consciously made those choices. They just accumulated their digital life along the way.', zh: '你說得對，而且大多數人從來沒有有意識地做過那些選擇，他們只是在路上累積了他們的數位生活。', vocab: [{ word: 'accumulated', def: '累積的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the more deliberate I am about what I keep, the more the remaining tools feel like mine.', zh: '所以我對我保留什麼越深思熟慮，剩下的工具就越感覺像是我的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'And using something that feels like yours is a completely different experience from using something that just landed in your life by default.', zh: '而使用感覺像是你的東西，和使用一個只是默認就進入你生活的東西，是完全不同的體驗。', vocab: [{ word: 'deliberate', def: '深思熟慮的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'The technology is the same. But the relationship to it changes completely.', zh: '科技是一樣的，但對它的關係完全改變了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That shift is available to anyone. It just requires deciding to take it seriously.', zh: '那個轉變對任何人都是可得的，只是需要決定認真對待它。' },
-        ],
-      },
+        "title": "Part 5 — Your Relationship With Technology Is Personal",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I feel like this whole topic of technology and everyday life is really a conversation about identity.",
+            "zh": "我覺得整個科技和日常生活的主題，其實是一個關於身份認同的對話。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is an interesting read. Say more.",
+            "zh": "這是個有趣的解讀，再說說看。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "The apps I use, the tools I keep, the things I refuse to adopt, all of that says something about who I am and what I value.",
+            "zh": "我用的 app、我保留的工具、我拒絕採用的東西，這些全都說了一些關於我是誰和我重視什麼的事情。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "You are right. And most people have never consciously made those choices. They just accumulated their digital life along the way.",
+            "zh": "你說得對，而且大多數人從來沒有有意識地做過那些選擇，他們只是在路上累積了他們的數位生活。",
+            "vocab": [
+              {
+                "word": "accumulated",
+                "def": "積累的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the more deliberate I am about what I keep, the more the remaining tools feel like mine.",
+            "zh": "所以我對我保留什麼越深思熟慮，剩下的工具就越感覺像是我的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And using something that feels like yours is a completely different experience from using something that just landed in your life by default.",
+            "zh": "而使用感覺像是你的東西，和使用一個只是默認就進入你生活的東西，是完全不同的體驗。",
+            "vocab": [
+              {
+                "word": "completely different",
+                "def": "深思熟慮的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "The technology is the same. But the relationship to it changes completely.",
+            "zh": "科技是一樣的，但對它的關係完全改變了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That shift is available to anyone. It just requires deciding to take it seriously.",
+            "zh": "那個轉變對任何人都是可得的，只是需要決定認真對待它。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'commitment', zh: '承諾', example: 'Downloading the app was easy. The real commitment came from actually building it into her daily routine.' },
-      { en: 'adoption', zh: '採用', example: 'Tool adoption requires more than a trial period. It means changing a real habit.' },
-      { en: 'aspirations', zh: '渴望', example: 'Most of the apps on his phone represented aspirations rather than actual behavior.' },
-      { en: 'anxiety', zh: '焦慮', example: 'She felt a low-level anxiety about not using the latest tools, even when her current ones worked fine.' },
-      { en: 'switching', zh: '切換', example: 'The switching cost of moving to a new platform was higher than the benefit it offered.' },
-      { en: 'learning curve', zh: '學習曲線', example: 'The learning curve for the new software took three weeks, which was not worth the minor improvements.' },
-      { en: 'evaluate', zh: '評估', example: 'She set a two-week reminder to evaluate the new app before deciding to keep or delete it.' },
-      { en: 'accumulated', zh: '累積的', example: 'Over five years, he had accumulated dozens of apps he barely used but had never bothered to remove.' },
-    ],
+    "keyPhrases": [
+      {
+        "en": "commitment",
+        "zh": "承諾",
+        "example": "Downloading the app was easy. The real commitment came from actually building it into her daily routine."
+      },
+      {
+        "en": "adoption",
+        "zh": "採用",
+        "example": "Tool adoption requires more than a trial period. It means changing a real habit."
+      },
+      {
+        "en": "aspirations",
+        "zh": "渴望",
+        "example": "Most of the apps on his phone represented aspirations rather than actual behavior."
+      },
+      {
+        "en": "anxiety",
+        "zh": "焦慮",
+        "example": "She felt a low-level anxiety about not using the latest tools, even when her current ones worked fine."
+      },
+      {
+        "en": "switching",
+        "zh": "切換",
+        "example": "The switching cost of moving to a new platform was higher than the benefit it offered."
+      },
+      {
+        "en": "learning curve",
+        "zh": "學習曲線",
+        "example": "The learning curve for the new software took three weeks, which was not worth the minor improvements."
+      },
+      {
+        "en": "evaluate",
+        "zh": "評估",
+        "example": "She set a two-week reminder to evaluate the new app before deciding to keep or delete it."
+      },
+      {
+        "en": "accumulated",
+        "zh": "累積的",
+        "example": "Over five years, he had accumulated dozens of apps he barely used but had never bothered to remove."
+      }
+    ]
   },
   {
-    weekNumber: 35,
-    dayOfWeek: 7,
-    date: '2026-08-30',
-    theme: 'Technology & Everyday Life',
-    title: 'Building a Healthier Relationship with Devices',
-    phase: 'p5',
-    parts: [
+    "weekNumber": 35,
+    "dayOfWeek": 7,
+    "date": "2026-08-30",
+    "theme": "Technology & Everyday Life",
+    "title": "Building a Healthier Relationship with Devices",
+    "phase": "p5",
+    "parts": [
       {
-        title: 'Part 1 — Taking Stock of Where You Are',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'If someone wanted to genuinely build a healthier relationship with their devices, what is the honest first step?', zh: '如果有人真的想和他們的裝置建立更健康的關係，誠實的第一步是什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The honest first step is admitting where you actually are, not where you think you should be. Most people underestimate how much time they really spend on screens.', zh: '誠實的第一步是承認你實際上在哪裡，而不是你認為你應該在哪裡。大多數人低估了他們真正花在螢幕上的時間。', vocab: [{ word: 'underestimate', def: '低估' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Because you do not feel it adding up while it is happening.', zh: '因為在發生的當下你感覺不到它在累積。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Right. Looking at the screen time report on your phone is often the first genuinely useful thing a person can do.', zh: '對，查看手機上的螢幕使用時間報告，通常是一個人可以做的第一件真正有用的事。', vocab: [{ word: 'screen time report', def: '螢幕使用時間報告' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I checked mine once and then immediately wished I had not.', zh: '我檢查過一次，然後立刻希望我沒有查。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That discomfort is valuable. It means the data landed. The key is using it as a starting point rather than a reason to feel bad about yourself.', zh: '那種不舒服是有價值的，它意味著數據落地了。關鍵是把它作為起點，而不是讓自己感覺不好的理由。', vocab: [{ word: 'discomfort', def: '不舒服' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the information is neutral. What you do with it is what matters.', zh: '所以資訊是中立的，你如何使用它才是重要的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.', zh: '沒錯，關於你行為的數據不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。' },
-        ],
+        "title": "Part 1 — Taking Stock of Where You Are",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "If someone wanted to genuinely build a healthier relationship with their devices, what is the honest first step?",
+            "zh": "如果有人真的想和他們的裝置建立更健康的關係，誠實的第一步是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The honest first step is admitting where you actually are, not where you think you should be. Most people underestimate how much time they really spend on screens.",
+            "zh": "誠實的第一步是承認你實際上在哪裡，而不是你認為你應該在哪裡。大多數人低估了他們真正花在螢幕上的時間。",
+            "vocab": [
+              {
+                "word": "underestimate",
+                "def": "低估"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Because you do not feel it adding up while it is happening.",
+            "zh": "因為在發生的當下你感覺不到它在累積。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Right. Looking at the screen time report on your phone is often the first genuinely useful thing a person can do.",
+            "zh": "對，查看手機上的螢幕使用時間報告，通常是一個人可以做的第一件真正有用的事。",
+            "vocab": [
+              {
+                "word": "screen time report",
+                "def": "螢幕使用時間報告"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I checked mine once and then immediately wished I had not.",
+            "zh": "我檢查過一次，然後立刻希望我沒有查。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That discomfort is valuable. It means the data landed. The key is using it as a starting point rather than a reason to feel bad about yourself.",
+            "zh": "那種不舒服是有價值的，它意味著數據落地了。關鍵是把它作為起點，而不是讓自己感覺不好的理由。",
+            "vocab": [
+              {
+                "word": "discomfort",
+                "def": "不舒服"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the information is neutral. What you do with it is what matters.",
+            "zh": "所以資訊是中立的，你如何使用它才是重要的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
+            "zh": "沒錯，關於你行為的數據不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。"
+          }
+        ]
       },
       {
-        title: 'Part 2 — What Healthy Actually Looks Like',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'When you say healthy relationship with devices, what does that actually look like? Not in theory, but in a real week.', zh: '當你說和裝置的健康關係，那實際上是什麼樣子？不是在理論上，而是在真實的一週中。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'In a real week it might look like: phone in another room during dinner every night, no screens for the first thirty minutes of the morning, and a specific time when you stop checking messages.', zh: '在真實的一週中，它可能像是：每天晚餐時把手機放在另一個房間，早上前三十分鐘不看螢幕，以及一個你停止查看訊息的特定時間。', vocab: [{ word: 'specific', def: '特定的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Those are all about creating edges.', zh: '這些都是關於創造邊界的。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Healthy technology use is not about never using devices. It is about having clear beginnings and endings to the use.', zh: '沒錯，健康的科技使用不是關於從不使用裝置，而是關於使用有清楚的開始和結束。', vocab: [{ word: 'edges', def: '邊界、界限' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Without edges, it just bleeds into everything.', zh: '沒有邊界，它就會滲入一切。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is a good way to put it. Technology without edges does not feel like a tool anymore. It feels like the whole room.', zh: '這是個很好的說法，沒有邊界的科技感覺不再像工具了，它感覺像整個房間。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And when it feels like the whole room, there is nowhere to breathe.', zh: '當它感覺像整個房間時，就沒有地方可以喘息了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Which is why the edges matter so much. They are not restrictions. They are the space where the rest of your life can exist.', zh: '這就是為什麼邊界如此重要，它們不是限制，而是你生活其餘部分可以存在的空間。' },
-        ],
+        "title": "Part 2 — What Healthy Actually Looks Like",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "When you say healthy relationship with devices, what does that actually look like? Not in theory, but in a real week.",
+            "zh": "當你說和裝置的健康關係，那實際上是什麼樣子？不是在理論上，而是在真實的一週中。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "In a real week it might look like: phone in another room during dinner every night, no screens for the first thirty minutes of the morning, and a specific time when you stop checking messages.",
+            "zh": "在真實的一週中，它可能像是：每天晚餐時把手機放在另一個房間，早上前三十分鐘不看螢幕，以及一個你停止查看訊息的特定時間。",
+            "vocab": [
+              {
+                "word": "specific",
+                "def": "早上前三十分鐘不看螢幕"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Those are all about creating edges.",
+            "zh": "這些都是關於創造邊界的。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Healthy technology use is not about never using devices. It is about having clear beginnings and endings to the use.",
+            "zh": "沒錯，健康的科技使用不是關於從不使用裝置，而是關於使用有清楚的開始和結束。",
+            "vocab": [
+              {
+                "word": "Healthy technology",
+                "def": "邊界、界限"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Without edges, it just bleeds into everything.",
+            "zh": "沒有邊界，它就會滲入一切。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is a good way to put it. Technology without edges does not feel like a tool anymore. It feels like the whole room.",
+            "zh": "這是個很好的說法，沒有邊界的科技感覺不再像工具了，它感覺像整個房間。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And when it feels like the whole room, there is nowhere to breathe.",
+            "zh": "當它感覺像整個房間時，就沒有地方可以喘息了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Which is why the edges matter so much. They are not restrictions. They are the space where the rest of your life can exist.",
+            "zh": "這就是為什麼邊界如此重要，它們不是限制，而是你生活其餘部分可以存在的空間。"
+          }
+        ]
       },
       {
-        title: 'Part 3 — Language for Talking About This Journey',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'If I wanted to tell someone in English that I am working on my relationship with technology, what would I say?', zh: '如果我想用英文告訴某人我正在努力改善和科技的關係，我會說什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'You can say, "I have been trying to be more intentional about how I use my phone. It is a work in progress." That is honest and relatable.', zh: '你可以說「我一直在試著對如何使用手機更有意識，這是個進行中的工作。」這很誠實也很有共鳴。', vocab: [{ word: 'work in progress', def: '進行中的工作' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'I like "work in progress." It does not claim to have solved the problem.', zh: '我喜歡「進行中的工作」，它沒有聲稱已經解決了問題。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is why it works. People trust someone who is still in the middle of figuring something out more than someone who claims to have all the answers.', zh: '這就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。', vocab: [{ word: 'relatable', def: '有共鳴的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'What if I want to share a specific change I made, like removing social media from my phone?', zh: '如果我想分享我做的一個具體改變，比如把社群媒體從手機上移除怎麼說？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Say, "I moved social media off my phone about a month ago. I can still access it on my laptop, but having it off my phone has made a bigger difference than I expected."', zh: '說「我大約一個月前把社群媒體從手機上移走了，我還是可以在筆電上瀏覽，但把它從手機上移走比我預期的帶來了更大的差異。」' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'That is a specific enough detail to be interesting without oversharing.', zh: '這個細節夠具體有趣，但沒有過度分享。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'The more specific you are, the more useful the conversation becomes for whoever is listening.', zh: '你越具體，對任何在聽的人來說對話就越有用。' },
-        ],
+        "title": "Part 3 — Language for Talking About This Journey",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "If I wanted to tell someone in English that I am working on my relationship with technology, what would I say?",
+            "zh": "如果我想用英文告訴某人我正在努力改善和科技的關係，我會說什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "A more everyday version is, \"I have been trying to be more intentional about how I use my phone. It is a work in progress.\" That is honest and relatable.",
+            "zh": "你可以說「我一直在試著對如何使用手機更有意識，這是個進行中的工作。」這很誠實也很有共鳴。",
+            "vocab": [
+              {
+                "word": "work in progress",
+                "def": "進行中的工作"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "I like \"work in progress.\" It does not claim to have solved the problem.",
+            "zh": "我喜歡「進行中的工作」，它沒有聲稱已經解決了問題。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is why it works. People trust someone who is still in the middle of figuring something out more than someone who claims to have all the answers.",
+            "zh": "這就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。",
+            "vocab": [
+              {
+                "word": "trust",
+                "def": "有共鳴的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "What if I want to share a specific change I made, like removing social media from my phone?",
+            "zh": "如果我想分享我做的一個具體改變，比如把社群媒體從手機上移除怎麼說？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Say, \"I moved social media off my phone about a month ago. I can still access it on my laptop, but having it off my phone has made a bigger difference than I expected.\"",
+            "zh": "說「我大約一個月前把社群媒體從手機上移走了，我還是可以在筆電上瀏覽，但把它從手機上移走比我預期的帶來了更大的差異。」"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "That is a specific enough detail to be interesting without oversharing.",
+            "zh": "這個細節夠具體有趣，但沒有過度分享。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "The more specific you are, the more useful the conversation becomes for whoever is listening.",
+            "zh": "你越具體，對任何在聽的人來說對話就越有用。"
+          }
+        ]
       },
       {
-        title: 'Part 4 — Small Actions That Compound',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'If someone can only make one change this week to improve their relationship with technology, what would you suggest?', zh: '如果有人這週只能做一個改變來改善和科技的關係，你會建議什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Create one daily moment of intentional disconnection. Five minutes where the phone is in another room and you are doing something that does not require a screen.', zh: '創造每天一個刻意斷線的時刻，五分鐘手機放在另一個房間，你在做不需要螢幕的事情。', vocab: [{ word: 'disconnection', def: '斷線' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Five minutes sounds small. But if you do it every day for a month, that is two and a half hours.', zh: '五分鐘聽起來很小，但如果你每天做一個月，那就是兩個半小時。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'And the five minutes is not just about the time. It is about the experience of feeling okay without the screen. That feeling is what you are actually trying to build.', zh: '而且那五分鐘不只是關於時間，而是關於體驗沒有螢幕也沒關係的感覺。那種感覺才是你真正試著建立的。', vocab: [{ word: 'compound', def: '累積效益' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So the action is small but it is building a different kind of relationship with the absence of the screen.', zh: '所以行動很小，但它在建立一種和沒有螢幕這件事的不同關係。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Exactly. Most people are afraid that putting the phone down will feel worse than they can handle. The five minutes shows them it does not.', zh: '沒錯，大多數人害怕放下手機會感覺比他們能承受的更糟，五分鐘告訴他們不會的。' },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And once that fear is smaller, the longer disconnections become less daunting.', zh: '一旦那種恐懼變小了，更長時間的斷線就不那麼令人生畏了。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is exactly how it works. You are not fighting the habit. You are teaching yourself a different feeling is possible.', zh: '這正是它的運作方式，你不是在對抗習慣，而是在教自己不同的感覺是可能的。' },
-        ],
+        "title": "Part 4 — Small Actions That Compound",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "If someone can only make one change this week to improve their relationship with technology, what would you suggest?",
+            "zh": "如果有人這週只能做一個改變來改善和科技的關係，你會建議什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Create one daily moment of intentional disconnection. Five minutes where the phone is in another room and you are doing something that does not require a screen.",
+            "zh": "創造每天一個刻意斷線的時刻，五分鐘手機放在另一個房間，你在做不需要螢幕的事情。",
+            "vocab": [
+              {
+                "word": "disconnection",
+                "def": "斷線"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Five minutes sounds small. But if you do it every day for a month, that is two and a half hours.",
+            "zh": "五分鐘聽起來很小，但如果你每天做一個月，那就是兩個半小時。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "And the five minutes is not just about the time. It is about the experience of feeling okay without the screen. That feeling is what you are actually trying to build.",
+            "zh": "而且那五分鐘不只是關於時間，而是關於體驗沒有螢幕也沒關係的感覺。那種感覺才是你真正試著建立的。",
+            "vocab": [
+              {
+                "word": "five minutes",
+                "def": "遠端團隊"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So the action is small but it is building a different kind of relationship with the absence of the screen.",
+            "zh": "所以行動很小，但它在建立一種和沒有螢幕這件事的不同關係。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Exactly. Most people are afraid that putting the phone down will feel worse than they can handle. The five minutes shows them it does not.",
+            "zh": "沒錯，大多數人害怕放下手機會感覺比他們能承受的更糟，五分鐘告訴他們不會的。"
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And once that fear is smaller, the longer disconnections become less daunting.",
+            "zh": "一旦那種恐懼變小了，更長時間的斷線就不那麼令人生畏了。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is exactly how it works. You are not fighting the habit. You are teaching yourself a different feeling is possible.",
+            "zh": "這正是它的運作方式，你不是在對抗習慣，而是在教自己不同的感覺是可能的。"
+          }
+        ]
       },
       {
-        title: 'Part 5 — The Bigger Takeaway',
-        lines: [
-          { speaker: 'b', speakerName: 'Jamie', en: 'Looking back at this whole week of conversations about technology, what is the one thing you want people to take away?', zh: '回顧這整週關於科技的對話，你希望人們帶走的一件事是什麼？' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That technology is not the enemy, but it is also not neutral. Every tool has a design intention, and knowing that design helps you use the tool on your terms rather than theirs.', zh: '科技不是敵人，但它也不是中立的。每個工具都有一個設計意圖，知道那個設計有助於你按照你的條件使用工具，而不是他們的。', vocab: [{ word: 'design intention', def: '設計意圖' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'So awareness is the real skill, not willpower.', zh: '所以覺察才是真正的技能，而不是意志力。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'Willpower is useful for short bursts. Awareness changes how you see the situation and that shift is what actually lasts.', zh: '意志力在短期衝刺中很有用，覺察改變了你看待情況的方式，而那種轉變才是真正持久的。', vocab: [{ word: 'awareness', def: '覺察' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'And the goal is not a perfect digital life. It is one that feels more like yours.', zh: '而目標不是完美的數位生活，而是一個感覺更像是你的生活。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is it. Not optimal. Not maximally productive. Just genuinely yours, with technology as the tool, not the landlord.', zh: '就是這樣，不是最優的，不是最有生產力的，只是真正是你的，科技是工具，而不是房東。', vocab: [{ word: 'optimal', def: '最優的' }] },
-          { speaker: 'b', speakerName: 'Jamie', en: 'Technology as the landlord. That image will stay with me.', zh: '科技作為房東，這個比喻我不會忘。' },
-          { speaker: 'a', speakerName: 'Mira', en: 'That is what it feels like when you have lost the agency. And getting it back does not require a dramatic overhaul. Just a few clear decisions repeated consistently.', zh: '那就是當你失去主導感時的感覺，而把它拿回來不需要戲劇性的大整修，只需要幾個清楚的決定持續地重複。' },
-        ],
-      },
+        "title": "Part 5 — The Bigger Takeaway",
+        "lines": [
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Looking back at this whole week of conversations about technology, what is the one thing you want people to take away?",
+            "zh": "回顧這整週關於科技的對話，你希望人們帶走的一件事是什麼？"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That technology is not the enemy, but it is also not neutral. Every tool has a design intention, and knowing that design helps you use the tool on your terms rather than theirs.",
+            "zh": "科技不是敵人，但它也不是中立的。每個工具都有一個設計意圖，知道那個設計有助於你按照你的條件使用工具，而不是他們的。",
+            "vocab": [
+              {
+                "word": "design intention",
+                "def": "設計意圖"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "So awareness is the real skill, not willpower.",
+            "zh": "所以覺察才是真正的技能，而不是意志力。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "Willpower is useful for short bursts. Awareness changes how you see the situation and that shift is what actually lasts.",
+            "zh": "意志力在短期衝刺中很有用，覺察改變了你看待情況的方式，而那種轉變才是真正持久的。",
+            "vocab": [
+              {
+                "word": "awareness",
+                "def": "覺察"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "And the goal is not a perfect digital life. It is one that feels more like yours.",
+            "zh": "而目標不是完美的數位生活，而是一個感覺更像是你的生活。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is it. Not optimal. Not maximally productive. Just genuinely yours, with technology as the tool, not the landlord.",
+            "zh": "就是這樣，不是最優的，不是最有生產力的，只是真正是你的，科技是工具，而不是房東。",
+            "vocab": [
+              {
+                "word": "optimal",
+                "def": "不是最有生產力的"
+              }
+            ]
+          },
+          {
+            "speaker": "b",
+            "speakerName": "Jamie",
+            "en": "Technology as the landlord. That image will stay with me.",
+            "zh": "科技作為房東，這個比喻我不會忘。"
+          },
+          {
+            "speaker": "a",
+            "speakerName": "Mira",
+            "en": "That is what it feels like when you have lost the agency. And getting it back does not require a dramatic overhaul. Just a few clear decisions repeated consistently.",
+            "zh": "那就是當你失去主導感時的感覺，而把它拿回來不需要戲劇性的大整修，只需要幾個清楚的決定持續地重複。"
+          }
+        ]
+      }
     ],
-    keyPhrases: [
-      { en: 'underestimate', zh: '低估', example: 'Most people underestimate how many hours a day they actually spend looking at screens.' },
-      { en: 'screen time report', zh: '螢幕使用時間報告', example: 'She looked at her screen time report and immediately identified which app was taking the most of her day.' },
-      { en: 'discomfort', zh: '不舒服', example: 'The discomfort of seeing the data was useful because it gave him a real reason to change.' },
-      { en: 'edges', zh: '邊界', example: 'Creating edges around her phone use gave the rest of her day room to breathe.' },
-      { en: 'work in progress', zh: '進行中的工作', example: 'She described her healthier phone habits as a work in progress, which made her sound more trustworthy, not less.' },
-      { en: 'disconnection', zh: '斷線', example: 'A daily moment of disconnection helped him remember that the world did not fall apart when he was unavailable.' },
-      { en: 'design intention', zh: '設計意圖', example: 'Understanding the design intention of the app helped her see why it was so hard to put down.' },
-      { en: 'awareness', zh: '覺察', example: 'Awareness of his phone patterns was more effective than any app limit he had tried to set.' },
-    ],
-  },
+    "keyPhrases": [
+      {
+        "en": "underestimate",
+        "zh": "低估",
+        "example": "Most people underestimate how many hours a day they actually spend looking at screens."
+      },
+      {
+        "en": "screen time report",
+        "zh": "螢幕使用時間報告",
+        "example": "She looked at her screen time report and immediately identified which app was taking the most of her day."
+      },
+      {
+        "en": "discomfort",
+        "zh": "不舒服",
+        "example": "The discomfort of seeing the data was useful because it gave him a real reason to change."
+      },
+      {
+        "en": "edges",
+        "zh": "邊界",
+        "example": "Creating edges around her phone use gave the rest of her day room to breathe."
+      },
+      {
+        "en": "work in progress",
+        "zh": "進行中的工作",
+        "example": "She described her healthier phone habits as a work in progress, which made her sound more trustworthy, not less."
+      },
+      {
+        "en": "disconnection",
+        "zh": "斷線",
+        "example": "A daily moment of disconnection helped him remember that the world did not fall apart when he was unavailable."
+      },
+      {
+        "en": "design intention",
+        "zh": "設計意圖",
+        "example": "Understanding the design intention of the app helped her see why it was so hard to put down."
+      },
+      {
+        "en": "awareness",
+        "zh": "覺察",
+        "example": "Awareness of his phone patterns was more effective than any app limit he had tried to set."
+      }
+    ]
+  }
 ]

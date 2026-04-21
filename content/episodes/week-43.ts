@@ -26,7 +26,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "reflection arc",
-                "def": "回頭看時，才慢慢看清楚一段經歷整體意義的脈絡"
+                "def": "所謂反思弧線"
               }
             ]
           },
@@ -44,7 +44,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "completed circle",
-                "def": "某段經歷走到後來，終於能把前後意義連起來的感覺"
+                "def": "某段經歷走到後來"
               }
             ]
           },
@@ -97,7 +97,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "lived experience",
-                "def": "一個人正在裡面實際過著、因此很難立刻看清的真實經驗"
+                "def": "活在裡面的經驗很吵"
               }
             ]
           },
@@ -115,7 +115,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "perspective delay",
-                "def": "事情早就發生了，但理解與看見要晚一點才跟上"
+                "def": "事情早就發生了"
               }
             ]
           },
@@ -133,7 +133,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "unfinished meaning",
-                "def": "一段經歷當下還看不懂、要再過一陣子才會顯出意義"
+                "def": "顯出意義"
               }
             ]
           },
@@ -157,17 +157,17 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say something only makes sense in hindsight?",
+            "en": "How would I say it if I wanted to say something only makes sense in hindsight?",
             "zh": "如果我想用英文說「有些事是事後才看懂的」，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"It only became clear to me after I had some distance from it.\"",
+            "en": "You can also go with \"It only became clear to me after I had some distance from it.\"",
             "zh": "你可以說：「It only became clear to me after I had some distance from it.」",
             "vocab": [
               {
-                "word": "retrospective clarity",
+                "word": "some distance",
                 "def": "事情過後回頭看，才終於清楚起來的理解"
               }
             ]
@@ -181,25 +181,25 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I understand that period differently now than I did while I was inside it.\"",
+            "en": "You can also try, \"I understand that period differently now than I did while I was inside it.\"",
             "zh": "另一句也很好用：「I understand that period differently now than I did while I was inside it.」",
             "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds thoughtful, not dramatic.",
+            "en": "What I like about it is that it sounds thoughtful, not dramatic.",
             "zh": "我喜歡這句，因為它聽起來有想法，但不會太戲劇化。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I could not see it then, but I can see it now.\"",
+            "en": "If you want to keep it simple, \"I could not see it then, but I can see it now.\" works well.",
             "zh": "如果你想講得更簡單，也可以說：「I could not see it then, but I can see it now.」",
             "vocab": [
               {
-                "word": "meaning thread",
-                "def": "把不同事件慢慢串起來、讓人看見整體意義的那條線"
+                "word": "well",
+                "def": "人看見整體意義的那條線"
               }
             ]
           },
@@ -308,7 +308,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where I would pause.",
+            "en": "That feels like the point where I would pause.",
             "zh": "我會停在這個地方。"
           },
           {
@@ -394,7 +394,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "personal distance",
-                "def": "隔了一段時間後，終於能從外面看見過去自己的距離感"
+                "def": "隔了一段時間後"
               }
             ]
           },
@@ -412,7 +412,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "quiet change",
-                "def": "不是很戲劇化、但其實已經很真實的內在改變"
+                "def": "安靜的改變一樣是改變"
               }
             ]
           },
@@ -430,7 +430,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "identity stretch",
-                "def": "一個人慢慢長出新樣子、舊的自己開始裝不太下的過程"
+                "def": "不只是在大突破裡。"
               }
             ]
           },
@@ -465,7 +465,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "inner update",
-                "def": "不是外在大事件，而是內在反應和理解正在悄悄更新"
+                "def": "不是外在大事件"
               }
             ]
           },
@@ -483,7 +483,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "growth blindness",
-                "def": "明明已經變了，卻因為太習慣而看不見自己的成長"
+                "def": "明明已經變了"
               }
             ]
           },
@@ -500,15 +500,15 @@ export const WEEK_43: Episode[] = [
             "zh": "更好的衡量方式很多時候是情緒性的：什麼東西現在不再那麼勾你？什麼東西不再用同樣方式嚇到你？",
             "vocab": [
               {
-                "word": "changed response",
-                "def": "面對同樣事情時，自己已經出現不同反應的變化"
+                "word": "metric",
+                "def": "指標"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a different way to measure progress.",
+            "en": "That really is a different way to measure progress.",
             "zh": "這真的完全是不同的進步測量方式。"
           },
           {
@@ -525,13 +525,13 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I have changed more than I realized?",
+            "en": "If I wanted to say I have changed more than I realized, what would sound natural in English?",
             "zh": "如果我想用英文說，自己其實比想像中改變得更多，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I do not always notice it day to day, but I can see that I respond differently now.\"",
+            "en": "A clean way to say it is, \"I do not always notice it day to day, but I can see that I respond differently now.\"",
             "zh": "你可以說：「I do not always notice it day to day, but I can see that I respond differently now.」",
             "vocab": []
           },
@@ -544,25 +544,25 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"The old version of me would not have handled this in the same way.\"",
+            "en": "A more everyday version would be \"The old version of me would not have handled this in the same way.\"",
             "zh": "另一句也很好用：「The old version of me would not have handled this in the same way.」",
             "vocab": [
               {
                 "word": "old version",
-                "def": "回頭看時，能被自己辨認出的過去那個自己"
+                "def": "能被自己辨認出的過去那個自己"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds grounded.",
+            "en": "That works for me because it sounds grounded.",
             "zh": "我喜歡這句，因為它聽起來很踏實。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I think I have grown more quietly than I knew.\"",
+            "en": "An easier everyday line would be, \"I think I have grown more quietly than I knew.\"",
             "zh": "如果你想講得更簡單，也可以說：「I think I have grown more quietly than I knew.」",
             "vocab": []
           },
@@ -609,7 +609,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "self-recognition",
-                "def": "一個人終於看見自己真的已經不同了的辨認感"
+                "def": "不是借來的標準"
               }
             ]
           },
@@ -657,7 +657,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very needed reminder.",
+            "en": "That sounds like a needed reminder.",
             "zh": "這真的很像一個很需要的提醒。"
           },
           {
@@ -676,7 +676,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let us stop on that thought.",
+            "en": "Let us let that point sit for a moment.",
             "zh": "我們就停在這個念頭上吧。"
           },
           {
@@ -762,7 +762,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "hard-earned wisdom",
-                "def": "不是聽來的，而是經過辛苦與代價才真正學到的智慧"
+                "def": "不是聽來的"
               }
             ]
           },
@@ -780,7 +780,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "survival learning",
-                "def": "在艱難時期為了撐下去而被迫學會的理解和能力"
+                "def": "的理解和能力"
               }
             ]
           },
@@ -797,8 +797,8 @@ export const WEEK_43: Episode[] = [
             "zh": "對。它們不只是活在記憶裡，還會改變你的反射、耐心，以及你最先注意到什麼。",
             "vocab": [
               {
-                "word": "scar lesson",
-                "def": "某個痛過之後留下、之後會影響反應方式的教訓"
+                "word": "memory",
+                "def": "還會改變你的反射、耐心"
               }
             ]
           },
@@ -833,7 +833,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "emotional memory",
-                "def": "因為某段強烈經驗而留下、會影響之後反應的情緒記憶"
+                "def": "情緒記憶"
               }
             ]
           },
@@ -851,7 +851,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "pressure wisdom",
-                "def": "在壓力底下被逼出來、後來特別清楚的現實智慧"
+                "def": "代價逼出了真正的注意力"
               }
             ]
           },
@@ -868,8 +868,8 @@ export const WEEK_43: Episode[] = [
             "zh": "很多人都能。後來真正難的不是學到那個教訓，而是帶著它往前走時，不讓整個自己都變硬。",
             "vocab": [
               {
-                "word": "recovered strength",
-                "def": "從困難裡長出來、之後能支撐自己的力量"
+                "word": "whole self",
+                "def": "不只工作角色，而是包含全部生活的自己"
               }
             ]
           },
@@ -893,18 +893,18 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about what hard years taught me?",
+            "en": "What is a natural way to say it if I want to talk about what hard years taught me?",
             "zh": "如果我想用英文談那些難熬年份教會我的東西，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"That period taught me more about myself than I understood at the time.\"",
+            "en": "You could say, \"That period taught me more about myself than I understood at the time.\"",
             "zh": "你可以說：「That period taught me more about myself than I understood at the time.」",
             "vocab": [
               {
-                "word": "delayed lesson",
-                "def": "當下沒完全懂，事後回頭才真正明白的教訓"
+                "word": "period taught",
+                "def": "那段時期教會我的事"
               }
             ]
           },
@@ -917,7 +917,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I would not choose that experience again, but I cannot deny what it taught me.\"",
+            "en": "You might also say, \"I would not choose that experience again, but I cannot deny what it taught me.\"",
             "zh": "另一句也很好用：「I would not choose that experience again, but I cannot deny what it taught me.」",
             "vocab": []
           },
@@ -930,7 +930,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"It changed me in ways I only understood later.\"",
+            "en": "When you want something simpler, you can use \"It changed me in ways I only understood later.\"",
             "zh": "如果你想講得更簡單，也可以說：「It changed me in ways I only understood later.」",
             "vocab": []
           },
@@ -979,7 +979,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a healthy way to frame it.",
+            "en": "That is a really healthy way to frame it.",
             "zh": "這真的就是很健康的框法。"
           },
           {
@@ -990,7 +990,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "formative",
-                "def": "具有塑造作用的；對一個人的成長有深刻影響的"
+                "def": "這會幫人保住尊嚴"
               }
             ]
           },
@@ -1026,7 +1026,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong answer.",
+            "en": "That comes through as a strong answer.",
             "zh": "這真的就是很強的答案。"
           },
           {
@@ -1045,7 +1045,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would leave it right there.",
+            "en": "That is where I would leave it as well.",
             "zh": "我會把它停在這裡。"
           },
           {
@@ -1131,7 +1131,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "shaping moment",
-                "def": "當下看起來普通，卻長期影響一個人的關鍵時刻"
+                "def": "卻長期影響一個人的關鍵時刻"
               }
             ]
           },
@@ -1149,7 +1149,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "meaningful encounter",
-                "def": "和某個人或某個瞬間的相遇，後來一直保留重要意義"
+                "def": "後來一直保留重要意義"
               }
             ]
           },
@@ -1167,7 +1167,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "remembered sentence",
-                "def": "當初聽見後一直留在心裡、後來反覆回來陪伴自己的那句話"
+                "def": "一句被記住的話"
               }
             ]
           },
@@ -1201,8 +1201,8 @@ export const WEEK_43: Episode[] = [
             "zh": "時機很重要。有人可以說出很對的話，但如果你還沒準備好，那句話就會直接經過你。",
             "vocab": [
               {
-                "word": "right timing",
-                "def": "某句話或某個人剛好在你準備好能接住時出現的時機"
+                "word": "Timing matters",
+                "def": "時機很重要"
               }
             ]
           },
@@ -1220,7 +1220,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "relational influence",
-                "def": "某個人透過關係本身，長期改變你看法或生活方式的影響力"
+                "def": "某個人透過關係本身"
               }
             ]
           },
@@ -1238,7 +1238,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "emotional permission",
-                "def": "一個人因為覺得被理解而比較敢接受改變的內在允許感"
+                "def": "情感允許感很重要"
               }
             ]
           },
@@ -1262,17 +1262,17 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about someone who shaped me?",
+            "en": "How could I phrase it if I wanted to talk about someone who shaped me?",
             "zh": "如果我想用英文談一個深深影響我的人，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"That person changed the way I think about myself.\"",
+            "en": "One sentence that works well is \"That person changed the way I think about myself.\"",
             "zh": "你可以說：「That person changed the way I think about myself.」",
             "vocab": [
               {
-                "word": "lasting imprint",
+                "word": "person changed",
                 "def": "某個人或時刻留下來、長期不消失的影響痕跡"
               }
             ]
@@ -1286,7 +1286,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"What they said stayed with me long after the moment passed.\"",
+            "en": "You could also say, \"What they said stayed with me long after the moment passed.\"",
             "zh": "另一句也很好用：「What they said stayed with me long after the moment passed.」",
             "vocab": []
           },
@@ -1299,7 +1299,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I still carry that conversation with me.\"",
+            "en": "If that is the direction you want, you could say, \"I still carry that conversation with me.\"",
             "zh": "如果你想講得更簡單，也可以說：「I still carry that conversation with me.」",
             "vocab": []
           },
@@ -1366,7 +1366,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very strong distinction.",
+            "en": "That is a genuinely strong distinction.",
             "zh": "這真的是很有力的區分。"
           },
           {
@@ -1414,7 +1414,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "We can end there for now.",
+            "en": "That feels like the right place to end for the moment.",
             "zh": "我們現在可以先收在這裡。"
           },
           {
@@ -1500,7 +1500,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "mixed feeling",
-                "def": "同時包含後悔、感謝、難過或理解等多種情緒的複合感受"
+                "def": "混合感受非常常見"
               }
             ]
           },
@@ -1517,8 +1517,8 @@ export const WEEK_43: Episode[] = [
             "zh": "完全沒錯。後悔有時候會揭露價值，而感謝也可以和痛一起存在。",
             "vocab": [
               {
-                "word": "coexisting truth",
-                "def": "兩種看似矛盾的感受或理解其實能同時成立的真相"
+                "word": "gratitude can coexist",
+                "def": "後悔有時候會揭露價值"
               }
             ]
           },
@@ -1536,7 +1536,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "honest reflection",
-                "def": "不急著美化或簡化，而是如實看待複雜感受的反思"
+                "def": "不急著美化或簡化"
               }
             ]
           },
@@ -1570,8 +1570,8 @@ export const WEEK_43: Episode[] = [
             "zh": "後悔很多時候是一種資訊訊號。它會告訴你，什麼東西重要到足以讓你痛。",
             "vocab": [
               {
-                "word": "regret signal",
-                "def": "後悔裡面其實包含了某種關於價值與重要性的訊號"
+                "word": "signal",
+                "def": "暗示底下有更大問題的訊號"
               }
             ]
           },
@@ -1589,14 +1589,14 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "gratitude perspective",
-                "def": "不是否認困難，而是能同時看見其中仍值得感謝的視角"
+                "def": "不是否認困難"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a helpful distinction.",
+            "en": "That is honestly a helpful distinction.",
             "zh": "這真的是很有幫助的區分。"
           },
           {
@@ -1607,7 +1607,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "wider frame",
-                "def": "把單一事件放進更大脈絡裡重新理解的視角框架"
+                "def": "把事情放進比較寬的脈絡裡去看"
               }
             ]
           },
@@ -1631,13 +1631,13 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I feel both regret and gratitude?",
+            "en": "What would be a natural English way to say I feel both regret and gratitude?",
             "zh": "如果我想用英文說自己同時有後悔也有感謝，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"Part of me regrets it, and part of me is grateful for what it taught me.\"",
+            "en": "You could say, \"Part of me regrets it, and part of me is grateful for what it taught me.\"",
             "zh": "你可以說：「Part of me regrets it, and part of me is grateful for what it taught me.」",
             "vocab": []
           },
@@ -1650,20 +1650,20 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I would not choose that pain again, but I can still see what came from it.\"",
+            "en": "Another natural line is, \"I would not choose that pain again, but I can still see what came from it.\"",
             "zh": "另一句也很好用：「I would not choose that pain again, but I can still see what came from it.」",
             "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it is honest without being bitter.",
+            "en": "I like it because it is honest without being bitter.",
             "zh": "我喜歡這句，因為它很誠實，但不苦。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"It was hard, and it still mattered.\"",
+            "en": "For a simpler version, you could say, \"It was hard, and it still mattered.\"",
             "zh": "如果你想講得更簡單，也可以說：「It was hard, and it still mattered.」",
             "vocab": []
           },
@@ -1681,7 +1681,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "complicated truth",
-                "def": "複雜的真相；無法簡單歸類或一刀兩斷的事實"
+                "def": "很簡單的句子"
               }
             ]
           }
@@ -1704,7 +1704,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "emotional pressure",
-                "def": "情感壓力；被迫以特定方式感受、不容許其他情緒的束縛感"
+                "def": "太早到的感謝"
               }
             ]
           },
@@ -1765,7 +1765,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very good answer.",
+            "en": "That feels more like a good answer.",
             "zh": "這真的是很好的答案。"
           },
           {
@@ -1784,7 +1784,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like the cleanest place to pause.",
+            "en": "That feels like the most natural place to leave it.",
             "zh": "停在這裡最乾淨。"
           },
           {
@@ -1870,7 +1870,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "release decision",
-                "def": "一個人開始決定把某種舊模式或舊重量放下的選擇"
+                "def": "就先開始了"
               }
             ]
           },
@@ -1888,7 +1888,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "outdated pattern",
-                "def": "曾經幫你撐住過，現在卻已經不再適合的舊模式"
+                "def": "現在卻已經不再適合的舊模式"
               }
             ]
           },
@@ -1905,8 +1905,8 @@ export const WEEK_43: Episode[] = [
             "zh": "它之所以乾淨，是因為它會拿掉很多混亂。不是所有舊的東西都神聖到不能碰。",
             "vocab": [
               {
-                "word": "identity residue",
-                "def": "某種已經不再適合，卻還留在身上的舊身份殘留"
+                "word": "sacred",
+                "def": "神聖的；不可侵犯的"
               }
             ]
           },
@@ -1941,7 +1941,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "old coping",
-                "def": "曾經保護過你、現在卻不一定還適用的舊應對方式"
+                "def": "像是你的生存歷史之一部分"
               }
             ]
           },
@@ -1959,7 +1959,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "lingering loyalty",
-                "def": "對過去某種模式或身份還有情感忠誠，因而很難放下"
+                "def": "因而很難放下"
               }
             ]
           },
@@ -1976,8 +1976,8 @@ export const WEEK_43: Episode[] = [
             "zh": "記得一件事會很有幫助：感謝和繼續攜帶，不是同一件事。你可以感謝某樣東西曾經幫助你，然後依然把它放下。",
             "vocab": [
               {
-                "word": "forward room",
-                "def": "把舊東西放下之後，終於能讓未來進來的空間"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -2001,13 +2001,13 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I am ready to leave something behind?",
+            "en": "What sounds natural if I want to say I am ready to leave something behind?",
             "zh": "如果我想用英文說，我準備好把某個東西留在身後了，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I do not think this belongs in the next season of my life anymore.\"",
+            "en": "A natural way to say it is, \"I do not think this belongs in the next season of my life anymore.\"",
             "zh": "你可以說：「I do not think this belongs in the next season of my life anymore.」",
             "vocab": []
           },
@@ -2020,7 +2020,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I am grateful for what this once did for me, but I do not need to keep living inside it.\"",
+            "en": "A clearer option here is \"I am grateful for what this once did for me, but I do not need to keep living inside it.\"",
             "zh": "另一句也很好用：「I am grateful for what this once did for me, but I do not need to keep living inside it.」",
             "vocab": []
           },
@@ -2033,7 +2033,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I am ready to stop carrying this.\"",
+            "en": "A plainer way to put it is, \"I am ready to stop carrying this.\"",
             "zh": "如果你想講得更簡單，也可以說：「I am ready to stop carrying this.」",
             "vocab": []
           },
@@ -2099,7 +2099,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "emotional clarity",
-                "def": "情感上的清晰感；對自己內心狀態的明確認識"
+                "def": "更穩"
               }
             ]
           },
@@ -2240,7 +2240,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "forward intention",
-                "def": "不是只是繼續走，而是知道自己想帶著什麼往前走的意圖"
+                "def": "不是只是繼續走"
               }
             ]
           },
@@ -2258,7 +2258,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "future posture",
-                "def": "一個人面向下一段人生時所採取的內在姿態與方向感"
+                "def": "所謂面向未來的姿態"
               }
             ]
           },
@@ -2275,8 +2275,8 @@ export const WEEK_43: Episode[] = [
             "zh": "它是主動的，但不是慌張的。好的意圖通常比恐慌更安靜。",
             "vocab": [
               {
-                "word": "deliberate step",
-                "def": "不是被推著走，而是有意識選出來的下一步"
+                "word": "active",
+                "def": "但不是慌張的"
               }
             ]
           },
@@ -2310,7 +2310,7 @@ export const WEEK_43: Episode[] = [
             "zh": "因為反應永遠比意圖更快。壓力通常會先說話。",
             "vocab": [
               {
-                "word": "reaction loop",
+                "word": "reaction",
                 "def": "一忙或一有壓力就自動照舊反應的循環"
               }
             ]
@@ -2342,7 +2342,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "repeatable choice",
-                "def": "不是一時衝動，而是能在日常中一再實行的選擇"
+                "def": "不是一時衝動"
               }
             ]
           },
@@ -2366,26 +2366,26 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I want to move forward more intentionally?",
+            "en": "How would I say it if I wanted to say I want to move forward more intentionally?",
             "zh": "如果我想用英文說，自己希望更有意圖地往前走，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I want to move into the next season more consciously than I moved through the last one.\"",
+            "en": "One simple version is, \"I want to move into the next season more consciously than I moved through the last one.\"",
             "zh": "你可以說：「I want to move into the next season more consciously than I moved through the last one.」",
             "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very clear.",
+            "en": "That sounds crisp and easy to follow.",
             "zh": "這句聽起來很清楚。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I do not want to repeat old patterns just because they are familiar.\"",
+            "en": "You can also try, \"I do not want to repeat old patterns just because they are familiar.\"",
             "zh": "另一句也很好用：「I do not want to repeat old patterns just because they are familiar.」",
             "vocab": [
               {
@@ -2403,7 +2403,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I want my next steps to be chosen, not automatic.\"",
+            "en": "If you want to make it more everyday, try, \"I want my next steps to be chosen, not automatic.\"",
             "zh": "如果你想講得更簡單，也可以說：「I want my next steps to be chosen, not automatic.」",
             "vocab": []
           },
@@ -2450,7 +2450,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "conscious direction",
-                "def": "有意識的方向感；主動選擇而非被動漂移的行動方式"
+                "def": "不是盲目前進"
               }
             ]
           },
@@ -2468,7 +2468,7 @@ export const WEEK_43: Episode[] = [
             "vocab": [
               {
                 "word": "heroic",
-                "def": "英雄式的；需要巨大的決心與犧牲的行動方式"
+                "def": "最好的未來計畫"
               }
             ]
           },
@@ -2523,7 +2523,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is enough for today.",
+            "en": "That is probably a good stopping point for today.",
             "zh": "今天先到這裡就很好。"
           },
           {

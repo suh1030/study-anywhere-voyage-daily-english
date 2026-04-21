@@ -43,7 +43,7 @@ export const WEEK_26: Episode[] = [
             "zh": "這也就是為什麼切換到下班狀態比較像一種能力，不只是時鐘上的一個時段。",
             "vocab": [
               {
-                "word": "switch off",
+                "word": "switching off",
                 "def": "把自己切換到下班與放鬆狀態"
               }
             ]
@@ -145,13 +145,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to protect my evening without sounding dramatic?",
+            "en": "How could I express it in English when I want to protect my evening without sounding dramatic?",
             "zh": "如果我想用英文保護自己的晚上，但又不想講得很戲劇化，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I want to close the loop on this before I log off, so it does not follow me into tonight.'",
+            "en": "A good line here is, 'I want to close the loop on this before I log off, so it does not follow me into tonight.'",
             "zh": "你可以說：「I want to close the loop on this before I log off, so it does not follow me into tonight.」",
             "vocab": [
               {
@@ -175,13 +175,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it stays responsible without staying available forever.",
+            "en": "What lands for me is that it stays responsible without staying available forever.",
             "zh": "我喜歡這句，因為它有責任感，但又沒有把自己變成永遠待命。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to sound even calmer, say, 'I am protecting my after-hours time so I can come back focused tomorrow.'",
+            "en": "If you want to sound even calmer, you could say, 'I am protecting my after-hours time so I can come back focused tomorrow.'",
             "zh": "如果你想講得更平穩，也可以說：「I am protecting my after-hours time so I can come back focused tomorrow.」",
             "vocab": [
               {
@@ -281,7 +281,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a practical way to put it.",
+            "en": "That feels more like a practical way to put it.",
             "zh": "這個講法真的很實際。"
           },
           {
@@ -456,7 +456,7 @@ export const WEEK_26: Episode[] = [
             "vocab": [
               {
                 "word": "unfinished loop",
-                "def": "事情雖然停了，但心理上還沒關起來的狀態"
+                "def": "事情雖然停了"
               }
             ]
           },
@@ -504,13 +504,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to describe this kind of spillover clearly?",
+            "en": "How would I say it in English when I want to describe this kind of spillover clearly?",
             "zh": "如果我想用英文把這種工作外溢感講清楚，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am technically off, but my head is still in the meeting.'",
+            "en": "You could say, 'I am technically off, but my head is still in the meeting.'",
             "zh": "你可以說：「I am technically off, but my head is still in the meeting.」",
             "vocab": [
               {
@@ -528,13 +528,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I brought work home mentally even though I did not bring anything home physically.'",
+            "en": "You could also say, 'I brought work home mentally even though I did not bring anything home physically.'",
             "zh": "另一句也很好：「I brought work home mentally even though I did not bring anything home physically.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it captures the invisible part exactly.",
+            "en": "The reason I like it is that it captures the invisible part exactly.",
             "zh": "我喜歡這句，因為它把看不見的那一段抓得很準。"
           },
           {
@@ -592,7 +592,7 @@ export const WEEK_26: Episode[] = [
             "vocab": [
               {
                 "word": "containment",
-                "def": "先把事情安放好，不讓它整晚外溢"
+                "def": "先把事情安放好"
               }
             ]
           },
@@ -656,8 +656,8 @@ export const WEEK_26: Episode[] = [
             "zh": "人在過載的時候，它真的會顯得很稀有，所以保護那個狀態才會那麼重要。",
             "vocab": [
               {
-                "word": "presence",
-                "def": "人真的回到此時此刻、回到生活裡的狀態"
+                "word": "overloaded",
+                "def": "手上真的超出可承受範圍"
               }
             ]
           },
@@ -785,7 +785,7 @@ export const WEEK_26: Episode[] = [
             "zh": "很多很有產值的人，都會把休息當成要先賺到的東西，而不是身體本來就需要的東西。",
             "vocab": [
               {
-                "word": "earn your rest",
+                "word": "rest like something",
                 "def": "把休息看成要先賺到才配擁有"
               }
             ]
@@ -875,13 +875,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to talk about rest like it actually matters?",
+            "en": "What would sound natural in English when I want to talk about rest like it actually matters?",
             "zh": "如果我想用英文談休息，而且是真的把它當一件重要的事來講，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to recover, not just stop moving for a few hours.'",
+            "en": "If you want a clear sentence, try 'I am trying to recover, not just stop moving for a few hours.'",
             "zh": "你可以說：「I am trying to recover, not just stop moving for a few hours.」",
             "vocab": [
               {
@@ -1041,7 +1041,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong sentence.",
+            "en": "That is a genuinely strong sentence.",
             "zh": "這句真的很強。"
           },
           {
@@ -1133,7 +1133,7 @@ export const WEEK_26: Episode[] = [
             "vocab": [
               {
                 "word": "availability",
-                "def": "你是不是隨時都讓人找得到、插得進來"
+                "def": "人找得到、插得進來"
               }
             ]
           },
@@ -1234,13 +1234,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I need to set a work boundary without sounding rude?",
+            "en": "If I need to set a work boundary without sounding rude, how could I put it in English?",
             "zh": "如果我需要在工作中設界線，用英文可以怎麼講，才不會聽起來很兇？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am in focus time right now, but I can come back to this after two.'",
+            "en": "I would probably say, 'I am in focus time right now, but I can come back to this after two.'",
             "zh": "你可以說：「I am in focus time right now, but I can come back to this after two.」",
             "vocab": [
               {
@@ -1270,7 +1270,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it frames the boundary as quality, not rejection.",
+            "en": "I respond to that because it frames the boundary as quality, not rejection.",
             "zh": "我很喜歡，因為它把界線講成品質，不是拒絕。"
           },
           {
@@ -1516,7 +1516,7 @@ export const WEEK_26: Episode[] = [
             "vocab": [
               {
                 "word": "beginner joy",
-                "def": "當新手時那種單純、帶玩心的快樂"
+                "def": "初學者的快樂"
               }
             ]
           },
@@ -1599,13 +1599,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to explain why a hobby matters to me?",
+            "en": "What is a natural English way to say it when I want to explain why a hobby matters to me?",
             "zh": "如果我想用英文解釋，為什麼一個興趣對我來說很重要，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'It gives me a part of the week that is not organized around output.'",
+            "en": "One option would be, 'It gives me a part of the week that is not organized around output.'",
             "zh": "你可以說：「It gives me a part of the week that is not organized around output.」",
             "vocab": [
               {
@@ -1617,13 +1617,13 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong sentence.",
+            "en": "That really is a strong sentence.",
             "zh": "這句真的很強。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'It uses a different part of my brain, and I come back to work less brittle.'",
+            "en": "You can also try, 'It uses a different part of my brain, and I come back to work less brittle.'",
             "zh": "另一句也很好：「It uses a different part of my brain, and I come back to work less brittle.」",
             "vocab": [
               {
@@ -1641,7 +1641,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to emphasize identity, say, 'It reminds me that I am a whole person, not only a worker.'",
+            "en": "If you want to emphasize identity, another option is, 'It reminds me that I am a whole person, not only a worker.'",
             "zh": "如果你想強調身份感，也可以說：「It reminds me that I am a whole person, not only a worker.」",
             "vocab": [
               {
@@ -1712,7 +1712,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good sentence.",
+            "en": "That is a really good sentence.",
             "zh": "這句真的很好。"
           },
           {
@@ -1741,7 +1741,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good description.",
+            "en": "That feels like a good description.",
             "zh": "這個描述真的很好。"
           },
           {
@@ -1850,8 +1850,8 @@ export const WEEK_26: Episode[] = [
             "zh": "那很可能是一個很強的訊號，表示工作佔掉的已經不只是你的時間表，而是你的身份感。",
             "vocab": [
               {
-                "word": "work identity",
-                "def": "把自己主要定義成工作的那個身份感"
+                "word": "identity",
+                "def": "身份；自我認同"
               }
             ]
           },
@@ -1880,7 +1880,7 @@ export const WEEK_26: Episode[] = [
             "zh": "很多很能幹的人，都會慢慢滑進『過度把自己等同於工作』這種狀態，因為工作給的回饋常常比生活清楚。",
             "vocab": [
               {
-                "word": "overidentify with work",
+                "word": "overidentifying with work",
                 "def": "把工作表現過度等同於自己整個人"
               }
             ]
@@ -1915,8 +1915,8 @@ export const WEEK_26: Episode[] = [
             "zh": "因為工作會給分數、稱讚、期限、頭銜，還有看得見的進步。工作外的生活，常常只會給比較慢、比較亂的訊號。",
             "vocab": [
               {
-                "word": "self-worth",
-                "def": "你如何衡量自己值不值得、夠不夠好"
+                "word": "visible progress",
+                "def": "還有看得見的進步"
               }
             ]
           },
@@ -1970,18 +1970,18 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to describe this without sounding too dramatic?",
+            "en": "How do people usually say it in English when I want to describe this without sounding too dramatic?",
             "zh": "如果我想用英文講這件事，但又不想講得太戲劇化，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I think I have been tying too much of my identity to how work is going.'",
+            "en": "A more everyday version is, 'I think I have been tying too much of my identity to how work is going.'",
             "zh": "你可以說：「I think I have been tying too much of my identity to how work is going.」",
             "vocab": [
               {
-                "word": "tie your identity to",
-                "def": "把身份感緊緊綁在某件事上"
+                "word": "identity",
+                "def": "身份；自我認同"
               }
             ]
           },
@@ -2012,12 +2012,12 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to sound more reflective, say, 'I need parts of my life that are meaningful even when work is hard.'",
+            "en": "If you want to sound more reflective, a natural line is, 'I need parts of my life that are meaningful even when work is hard.'",
             "zh": "如果你想講得更有反思感，也可以說：「I need parts of my life that are meaningful even when work is hard.」",
             "vocab": [
               {
-                "word": "meaningful outside work",
-                "def": "工作之外也有真正有意義的東西"
+                "word": "meaningful",
+                "def": "有意義的；做起來心裡有感的"
               }
             ]
           },
@@ -2075,7 +2075,7 @@ export const WEEK_26: Episode[] = [
             "zh": "它本來就修得回來。第一步，很多時候只是先讓你其他部分的自己重新有足夠氧氣，可以再次算數。",
             "vocab": [
               {
-                "word": "give it oxygen",
+                "word": "enough oxygen",
                 "def": "讓某件生活部分重新有空間和生命力"
               }
             ]
@@ -2292,8 +2292,8 @@ export const WEEK_26: Episode[] = [
             "zh": "完全包括。過載的一週會讓人更不耐煩、更脆，也在各種層面上更不在場。",
             "vocab": [
               {
-                "word": "recovery",
-                "def": "讓體力、情緒、專注力回到可用狀態的恢復"
+                "word": "overloaded",
+                "def": "手上真的超出可承受範圍"
               }
             ]
           },
@@ -2318,7 +2318,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good warning sign.",
+            "en": "That is honestly a good warning sign.",
             "zh": "這真的是一個很好的警訊。"
           },
           {
@@ -2335,17 +2335,17 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to talk about building a more sustainable rhythm?",
+            "en": "What would I actually say in English when I want to talk about building a more sustainable rhythm?",
             "zh": "如果我想用英文談怎麼建立比較可持續的節奏，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to build a week I can actually live inside, not just survive.'",
+            "en": "You can also go with 'I am trying to build a week I can actually live inside, not just survive.'",
             "zh": "你可以說：「I am trying to build a week I can actually live inside, not just survive.」",
             "vocab": [
               {
-                "word": "live inside it",
+                "word": "live inside",
                 "def": "一個你真的住得下去、不是只能硬撐的節奏"
               }
             ]
@@ -2377,7 +2377,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to sound more concrete, say, 'I am protecting a few anchor points so the week does not collapse into reaction mode.'",
+            "en": "If you want to sound more concrete, try, 'I am protecting a few anchor points so the week does not collapse into reaction mode.'",
             "zh": "如果你想講得更具體，也可以說：「I am protecting a few anchor points so the week does not collapse into reaction mode.」",
             "vocab": [
               {

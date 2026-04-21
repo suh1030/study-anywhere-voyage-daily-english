@@ -43,6 +43,7 @@ function FlashcardItem({
 }) {
   const [flipped, setFlipped] = useState(false)
   const sourceColor = card.source === 'listen' ? colors.listen : colors.speak
+  const sourceLabel = card.source === 'listen' ? 'LISTEN' : 'SPEAK'
 
   return (
     <TouchableOpacity
@@ -50,7 +51,9 @@ function FlashcardItem({
       onPress={() => setFlipped(!flipped)}
       activeOpacity={0.8}
     >
-      <View style={[styles.sourceDot, { backgroundColor: sourceColor }]} />
+      <View style={[styles.sourceBadge, { borderColor: sourceColor, backgroundColor: `${sourceColor}18` }]}>
+        <Text style={[styles.sourceBadgeText, { color: sourceColor }]}>{sourceLabel}</Text>
+      </View>
 
       {!flipped ? (
         <>
@@ -308,13 +311,21 @@ const styles = StyleSheet.create({
     paddingBottom: 40,
   },
   cardMastered: { opacity: 0.5 },
-  sourceDot: {
+  sourceBadge: {
     position: 'absolute',
     top: 8,
     right: 8,
-    width: 6,
-    height: 6,
-    borderRadius: 3,
+    paddingHorizontal: 6,
+    paddingVertical: 4,
+    borderRadius: radius.sm,
+    borderWidth: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  sourceBadgeText: {
+    fontFamily: fonts.mono,
+    fontSize: 8,
+    letterSpacing: 1.2,
   },
   cardEnglish: {
     fontSize: 16,

@@ -44,7 +44,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "baseline energy",
-                "def": "一個人平常維持生活時最基本的精神和體力水平"
+                "def": "異常耗費力氣"
               }
             ]
           },
@@ -96,8 +96,8 @@ export const WEEK_37: Episode[] = [
             "zh": "因為很多人把健康想成額外的專案，而不是讓其他事情能成立的基本條件。",
             "vocab": [
               {
-                "word": "health priority",
-                "def": "不是有空才顧，而是本來就該排進生活核心的健康位置"
+                "word": "imagine health",
+                "def": "很多人把健康想成額外的專案"
               }
             ]
           },
@@ -115,7 +115,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "sleep debt",
-                "def": "長期睡不夠後累積起來、需要慢慢補回的睡眠不足"
+                "def": "慢慢補回的睡眠不足"
               }
             ]
           },
@@ -151,13 +151,13 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe that I am not in crisis, but I am clearly not well?",
+            "en": "What would be a natural English way to describe that I am not in crisis, but I am clearly not well?",
             "zh": "如果我想用英文表達自己不是危機狀態，但也明顯不是很好，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am functioning, but I can tell my body has been carrying too much for too long.'",
+            "en": "You might put it like this: 'I am functioning, but I can tell my body has been carrying too much for too long.'",
             "zh": "你可以說：「I am functioning, but I can tell my body has been carrying too much for too long.」"
           },
           {
@@ -173,7 +173,7 @@ export const WEEK_37: Episode[] = [
             "zh": "另一句也很好用：「I need a real check-in, not just another productive day.」",
             "vocab": [
               {
-                "word": "check-in habit",
+                "word": "real check-in",
                 "def": "固定停下來確認自己狀態的習慣"
               }
             ]
@@ -181,18 +181,18 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds practical.",
+            "en": "That works for me because it sounds practical.",
             "zh": "我喜歡這句，因為它聽起來很實際。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I have been pushing past too many warning signs.'",
+            "en": "For a simpler version, you could say, 'I have been pushing past too many warning signs.'",
             "zh": "如果你想講得更簡單，也可以說：「I have been pushing past too many warning signs.」",
             "vocab": [
               {
                 "word": "warning sign",
-                "def": "提醒你需要停下來注意的早期不對勁跡象"
+                "def": "停下來注意的早期不對勁跡象"
               }
             ]
           },
@@ -239,7 +239,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "gentle reset",
-                "def": "不激烈但能幫人慢慢回到比較穩定狀態的小調整"
+                "def": "可能只是短短散步、早一點睡"
               }
             ]
           },
@@ -257,7 +257,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "recovery cue",
-                "def": "幫自己進入休息或修復狀態的明確提醒或信號"
+                "def": "本來就比較實際"
               }
             ]
           },
@@ -304,7 +304,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "health baseline",
-                "def": "一個人能穩定生活時最基本、最需要被守住的健康狀態"
+                "def": "健康底線很重要"
               }
             ]
           },
@@ -321,8 +321,8 @@ export const WEEK_37: Episode[] = [
             "zh": "我覺得那其實是一種尊重。不是因為身體必須表現，而是因為它承載了所有事。",
             "vocab": [
               {
-                "word": "physical respect",
-                "def": "把身體當成需要被尊重和照顧的基礎，而不是理所當然的工具"
+                "word": "form of respect",
+                "def": "而不是理所當然的工具"
               }
             ]
           },
@@ -335,7 +335,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like the cleanest place to pause.",
+            "en": "That feels like the cleanest point to stop on.",
             "zh": "停在這裡最乾淨。"
           }
         ]
@@ -408,8 +408,8 @@ export const WEEK_37: Episode[] = [
             "zh": "對，而真正的意思其實普通得多。它比較是在說，一個人的日常從裡面活起來是不是還住得下去。",
             "vocab": [
               {
-                "word": "mental bandwidth",
-                "def": "一個人當下還能處理事情和情緒的心理容量"
+                "word": "ordinary",
+                "def": "而真正的意思其實普通得多"
               }
             ]
           },
@@ -427,7 +427,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "inner weather",
-                "def": "一個人內心整體情緒和狀態像天氣一樣的變化感"
+                "def": "也還是很重要"
               }
             ]
           },
@@ -473,8 +473,8 @@ export const WEEK_37: Episode[] = [
             "zh": "我會說，那是一種能力，讓你過日子時不需要一直把自己丟在後面。",
             "vocab": [
               {
-                "word": "emotional reserve",
-                "def": "一個人還保有多少可以應付情緒和生活的內在餘裕"
+                "word": "without constantly",
+                "def": "那是一種能力"
               }
             ]
           },
@@ -492,7 +492,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "steady mind",
-                "def": "不是沒有波動，而是遇到波動後仍能慢慢回穩的心理狀態"
+                "def": "不是沒有波動"
               }
             ]
           },
@@ -534,7 +534,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am not just tired. I feel mentally stretched and low on emotional space.'",
+            "en": "A good line here is, 'I am not just tired. I feel mentally stretched and low on emotional space.'",
             "zh": "你可以說：「I am not just tired. I feel mentally stretched and low on emotional space.」"
           },
           {
@@ -546,29 +546,29 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'My mood has been drifting, and I can tell I need more care than usual.'",
+            "en": "You could also say, 'My mood has been drifting, and I can tell I need more care than usual.'",
             "zh": "另一句也很好用：「My mood has been drifting, and I can tell I need more care than usual.」",
             "vocab": [
               {
-                "word": "mood drift",
-                "def": "情緒沒有突然崩掉，但慢慢偏離原本穩定狀態的變化"
+                "word": "mood",
+                "def": "情緒上來了；有點鬧情緒"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds observant instead of dramatic.",
+            "en": "I like it because it sounds observant instead of dramatic.",
             "zh": "我喜歡這句，因為它聽起來比較像在觀察自己，不是在放大情緒。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I have less room inside than I usually do.'",
+            "en": "'I have less room inside than I usually do.' works well when you want something simpler.",
             "zh": "如果你想講得更簡單，也可以說：「I have less room inside than I usually do.」",
             "vocab": [
               {
-                "word": "self-monitoring",
+                "word": "room inside",
                 "def": "留意自己情緒和精神變化的自我觀察能力"
               }
             ]
@@ -616,7 +616,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "overwhelm point",
-                "def": "一個人承受量超過上限、開始明顯撐不住的臨界點"
+                "def": "所謂過載點"
               }
             ]
           },
@@ -633,8 +633,8 @@ export const WEEK_37: Episode[] = [
             "zh": "對。等到整體都很糟了才開始處理，會讓任何支持都變得更難起步。",
             "vocab": [
               {
-                "word": "support threshold",
-                "def": "一個人開始願意接受幫助、說出自己需要什麼的心理門檻"
+                "word": "support much harder",
+                "def": "更難起步"
               }
             ]
           },
@@ -681,7 +681,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "humane standard",
-                "def": "符合人會累、會波動、也需要恢復的現實標準"
+                "def": "恢復的現實標準"
               }
             ]
           },
@@ -780,7 +780,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "background stress",
-                "def": "沒有爆炸性，但長時間一直存在的底層壓力"
+                "def": "沒有爆炸性"
               }
             ]
           },
@@ -798,7 +798,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "anxious loop",
-                "def": "一個念頭引發另一個擔心，越轉越停不下來的焦慮循環"
+                "def": "一個念頭引發另一個擔心"
               }
             ]
           },
@@ -851,7 +851,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "breathing room",
-                "def": "事情之間能讓人稍微放鬆和整理自己的空間"
+                "def": "輸入太多、停頓太少"
               }
             ]
           },
@@ -869,7 +869,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "doom scrolling",
-                "def": "一直滑負面資訊，讓自己越看越焦慮的上網狀態"
+                "def": "一直滑負面資訊"
               }
             ]
           },
@@ -911,13 +911,13 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say my mind feels noisy all the time?",
+            "en": "What sounds natural if I want to say my mind feels noisy all the time?",
             "zh": "如果我想用英文說我的腦袋一直都很吵，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I feel like I have had too much mental static this week to really settle.'",
+            "en": "You could say, 'I feel like I have had too much mental static this week to really settle.'",
             "zh": "你可以說：「I feel like I have had too much mental static this week to really settle.」"
           },
           {
@@ -929,12 +929,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'My nervous system has not really come down from high alert.'",
+            "en": "Another natural line is, 'My nervous system has not really come down from high alert.'",
             "zh": "另一句也很好用：「My nervous system has not really come down from high alert.」",
             "vocab": [
               {
                 "word": "nervous system",
-                "def": "掌管身體反應、緊張和放鬆狀態的整體神經系統"
+                "def": "神經系統"
               }
             ]
           },
@@ -947,12 +947,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I feel more wired than rested lately.'",
+            "en": "If that is the direction you want, you could say, 'I feel more wired than rested lately.'",
             "zh": "如果你想講得更簡單，也可以說：「I feel more wired than rested lately.」",
             "vocab": [
               {
-                "word": "mental static",
-                "def": "腦中一直有雜訊和雜念，難以安靜下來的感覺"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
@@ -999,7 +999,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "regulation practice",
-                "def": "幫助自己從過度緊繃回到較穩狀態的練習方式"
+                "def": "可能只是呼吸放慢、安靜散步"
               }
             ]
           },
@@ -1017,14 +1017,14 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "practical exit",
-                "def": "當下真的做得到、能幫你脫離焦慮狀態的一個實際出口"
+                "def": "可實行的出口；立刻能做的出口"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a useful way to think about support.",
+            "en": "That lands as a very useful way to think about support.",
             "zh": "這真的是很有用的支持觀點。"
           },
           {
@@ -1064,7 +1064,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "sustainable calm",
-                "def": "不是短暫麻痺，而是可以長久維持的穩定和平靜"
+                "def": "可持續的平靜"
               }
             ]
           },
@@ -1162,7 +1162,7 @@ export const WEEK_37: Episode[] = [
             "zh": "很多真正有保護力的習慣本來就是這樣。它們很樸素、可重複，而且很容易被低估。",
             "vocab": [
               {
-                "word": "anchor habit",
+                "word": "protective habits",
                 "def": "雖然很小，但能穩住整天節奏的核心習慣"
               }
             ]
@@ -1181,7 +1181,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "morning light",
-                "def": "早上接觸自然光，幫助身體和精神重新校準的習慣"
+                "def": "早上接觸自然光"
               }
             ]
           },
@@ -1198,8 +1198,8 @@ export const WEEK_37: Episode[] = [
             "zh": "簡單不代表沒力。有些最強的支持，本來就故意很無聊。",
             "vocab": [
               {
-                "word": "boring support",
-                "def": "不華麗但很穩定、真的對人有幫助的日常支持方式"
+                "word": "strongest supports",
+                "def": "有些最強的支持"
               }
             ]
           },
@@ -1233,8 +1233,8 @@ export const WEEK_37: Episode[] = [
             "zh": "因為它們放得進真實生活。只有撐得過普通平日的習慣，才真的能保護你。",
             "vocab": [
               {
-                "word": "consistent care",
-                "def": "不是偶爾做很大，而是持續做得到的照顧方式"
+                "word": "real life",
+                "def": "不是理想中的版本"
               }
             ]
           },
@@ -1252,7 +1252,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "digital boundary",
-                "def": "對手機、社群或訊息設定清楚限制的使用界線"
+                "def": "邊界"
               }
             ]
           },
@@ -1288,13 +1288,13 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain a tiny habit that keeps me stable?",
+            "en": "How would I say it if I wanted to explain a tiny habit that keeps me stable?",
             "zh": "如果我想用英文說明一個讓我穩下來的小習慣，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'It is a small habit, but it gives my day a structure my mind can lean on.'",
+            "en": "If you want a clear sentence, try 'It is a small habit, but it gives my day a structure my mind can lean on.'",
             "zh": "你可以說：「It is a small habit, but it gives my day a structure my mind can lean on.」"
           },
           {
@@ -1306,7 +1306,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I protect that routine because it works like a mental buffer for me.'",
+            "en": "A clearer option here is 'I protect that routine because it works like a mental buffer for me.'",
             "zh": "另一句也很好用：「I protect that routine because it works like a mental buffer for me.」",
             "vocab": [
               {
@@ -1324,12 +1324,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'That little routine keeps me from spiraling so easily.'",
+            "en": "A plainer way to put it is, 'That little routine keeps me from spiraling so easily.'",
             "zh": "如果你想講得更簡單，也可以說：「That little routine keeps me from spiraling so easily.」",
             "vocab": [
               {
-                "word": "routine protection",
-                "def": "刻意保護某個習慣不被忙碌吞掉的做法"
+                "word": "routine",
+                "def": "日常；固定流程"
               }
             ]
           },
@@ -1393,8 +1393,8 @@ export const WEEK_37: Episode[] = [
             "zh": "那樣其實就會幫到很多。當節奏一直被打斷時，人的心真的會比較脆弱。",
             "vocab": [
               {
-                "word": "quiet pocket",
-                "def": "一天裡刻意留下、不被打擾的安靜時間小空間"
+                "word": "fragile",
+                "def": "脆弱的；易碎的"
               }
             ]
           },
@@ -1441,7 +1441,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "ordinary care",
-                "def": "不戲劇化、但能長期保護人的日常照顧方式"
+                "def": "普通照顧的秘密"
               }
             ]
           },
@@ -1540,7 +1540,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "honest check-in",
-                "def": "不假裝沒事、真實說出自己目前狀態的簡短表達"
+                "def": "誠實報平安這種語言"
               }
             ]
           },
@@ -1558,7 +1558,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "low patch",
-                "def": "不是永久狀態，而是一段比較低落、比較不好撐的時間"
+                "def": "不是永久狀態"
               }
             ]
           },
@@ -1576,7 +1576,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "shame spiral",
-                "def": "因為覺得自己不夠好而越來越不敢說、越來越退縮的循環"
+                "def": "羞恥螺旋"
               }
             ]
           },
@@ -1611,7 +1611,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "safe language",
-                "def": "能保留尊嚴、也能說清楚狀態的溫和表達方式"
+                "def": "去用一種安全語言"
               }
             ]
           },
@@ -1629,7 +1629,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "emotional honesty",
-                "def": "不包裝也不誇張，真實說出自己情緒狀態的能力"
+                "def": "不包裝也不誇張"
               }
             ]
           },
@@ -1665,13 +1665,13 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to tell someone I have been having a hard week?",
+            "en": "If I wanted to tell someone I have been having a hard week, what would sound natural in English?",
             "zh": "如果我想用英文跟別人說我這週其實很難熬，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I have been holding more than usual lately, and I do not think I have fully caught up with it.'",
+            "en": "I would probably say, 'I have been holding more than usual lately, and I do not think I have fully caught up with it.'",
             "zh": "你可以說：「I have been holding more than usual lately, and I do not think I have fully caught up with it.」"
           },
           {
@@ -1683,12 +1683,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am okay enough to keep going, but not okay enough to pretend nothing is happening.'",
+            "en": "You can also try, 'I am okay enough to keep going, but not okay enough to pretend nothing is happening.'",
             "zh": "另一句也很好用：「I am okay enough to keep going, but not okay enough to pretend nothing is happening.」",
             "vocab": [
               {
-                "word": "heavy week",
-                "def": "不是徹底崩潰，但整週都明顯偏重、偏難的一段時間"
+                "word": "pretend nothing",
+                "def": "不是徹底崩潰"
               }
             ]
           },
@@ -1701,12 +1701,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something gentler, say, 'I am a little more fragile than I look right now.'",
+            "en": "If you want something gentler, another option is, 'I am a little more fragile than I look right now.'",
             "zh": "如果你想更溫和一點，也可以說：「I am a little more fragile than I look right now.」",
             "vocab": [
               {
-                "word": "vulnerable moment",
-                "def": "一個人比較脆弱、需要被溫柔對待的時刻"
+                "word": "fragile",
+                "def": "脆弱的；易碎的"
               }
             ]
           },
@@ -1741,7 +1741,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "supportive reply",
-                "def": "讓對方感到被接住，而不是被評分或修理的回應方式"
+                "def": "方感到被接住"
               }
             ]
           },
@@ -1754,12 +1754,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can say, 'Thank you for telling me,' before you say anything else.",
+            "en": "One option would be, 'Thank you for telling me,' before you say anything else.",
             "zh": "完全沒錯。你甚至可以先只說一句：「謝謝你願意告訴我。」",
             "vocab": [
               {
-                "word": "receiving space",
-                "def": "讓對方說出來之後，不立刻被打斷或解決的承接空間"
+                "word": "One option",
+                "def": "完全沒錯"
               }
             ]
           },
@@ -1817,8 +1817,8 @@ export const WEEK_37: Episode[] = [
             "zh": "誠實語言很重要，因為別人只能支持那個你願意讓他們遇見的你。",
             "vocab": [
               {
-                "word": "relational honesty",
-                "def": "在關係裡用適當方式讓真實自己被看見的誠實"
+                "word": "Honest language",
+                "def": "誠實語言很重要"
               }
             ]
           },
@@ -1916,8 +1916,8 @@ export const WEEK_37: Episode[] = [
             "zh": "對，而那種信念會讓人受兩次傷。一次是在本來就辛苦的時候，另一次是在他們把支持拖延掉的時候。",
             "vocab": [
               {
-                "word": "support network",
-                "def": "在困難時可以提供情緒或實際幫助的一群人和資源"
+                "word": "delay support",
+                "def": "而那種信念會讓人受兩次傷"
               }
             ]
           },
@@ -1935,7 +1935,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "rest guilt",
-                "def": "明明需要休息，卻因為停下來而感到內疚的心理狀態"
+                "def": "休息"
               }
             ]
           },
@@ -1981,8 +1981,8 @@ export const WEEK_37: Episode[] = [
             "zh": "它們會給人結構、見證、語言，有時候還有那種終於足夠穩定、讓修復得以開始的條件。",
             "vocab": [
               {
-                "word": "therapy room",
-                "def": "一個能比較安全整理自己、說出真話的治療空間"
+                "word": "structure",
+                "def": "結構；框架；規律"
               }
             ]
           },
@@ -2000,7 +2000,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "emotional unpacking",
-                "def": "把心裡壓著的感受一層一層打開來整理和理解"
+                "def": "只有當情緒周圍夠安全時"
               }
             ]
           },
@@ -2036,13 +2036,13 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to ask for support without sounding dramatic?",
+            "en": "What is a natural way to say it if I want to ask for support without sounding dramatic?",
             "zh": "如果我想用英文尋求支持，但又不想聽起來太戲劇化，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I think I need more support than I have been admitting to myself.'",
+            "en": "A more everyday version is, 'I think I need more support than I have been admitting to myself.'",
             "zh": "你可以說：「I think I need more support than I have been admitting to myself.」"
           },
           {
@@ -2058,8 +2058,8 @@ export const WEEK_37: Episode[] = [
             "zh": "另一句也很好用：「I am not looking for someone to fix this. I just do not want to carry it alone.」",
             "vocab": [
               {
-                "word": "practical support",
-                "def": "不是抽象關心，而是能真的分擔事情或幫上忙的支持"
+                "word": "carry it alone",
+                "def": "什麼都自己扛，不向外求助"
               }
             ]
           },
@@ -2072,12 +2072,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you want something simpler, say, 'I could use a little more support right now than usual.'",
+            "en": "If you want to make it more everyday, try, 'I could use a little more support right now than usual.'",
             "zh": "完全沒錯。如果你想講得更簡單，也可以說：「I could use a little more support right now than usual.」",
             "vocab": [
               {
-                "word": "help request",
-                "def": "清楚而不拐彎地把需要幫助說出來的請求"
+                "word": "support",
+                "def": "完全沒錯"
               }
             ]
           },
@@ -2112,7 +2112,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "healing process",
-                "def": "一個人慢慢修復、重新穩定下來的整體過程"
+                "def": "休息表面上看起來沒有產出"
               }
             ]
           },
@@ -2130,7 +2130,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "recovery plan",
-                "def": "幫自己慢慢回穩而設計的節奏、休息和支持安排"
+                "def": "恢復計畫不只是在安排事情"
               }
             ]
           },
@@ -2178,7 +2178,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very relieving way to frame it.",
+            "en": "That lands as a very relieving way to frame it.",
             "zh": "這個框法真的讓人鬆一口氣。"
           },
           {
@@ -2300,7 +2300,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "inner pace",
-                "def": "一個人內在思考、感受和恢復所需要的生活節奏"
+                "def": "的生活節奏"
               }
             ]
           },
@@ -2347,7 +2347,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "emotional stamina",
-                "def": "面對壓力、人際和情緒波動時能持續承受的內在耐力"
+                "def": "像是足夠休息、足夠誠實、足夠界線"
               }
             ]
           },
@@ -2365,14 +2365,14 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "sustainable rhythm",
-                "def": "把工作、休息和恢復都安排進去、能長久走下去的生活節奏"
+                "def": "可持續的節奏"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good standard.",
+            "en": "That is a genuinely good standard.",
             "zh": "這真的是很好的標準。"
           },
           {
@@ -2401,13 +2401,13 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe the kind of life I need for my mind to stay healthy?",
+            "en": "How could I phrase it if I wanted to describe the kind of life I need for my mind to stay healthy?",
             "zh": "如果我想用英文描述，什麼樣的生活會讓我的心比較健康，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to build a life with a pace my mind can actually live inside.'",
+            "en": "You can also go with 'I am trying to build a life with a pace my mind can actually live inside.'",
             "zh": "你可以說：「I am trying to build a life with a pace my mind can actually live inside.」"
           },
           {
@@ -2419,12 +2419,12 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I need routines that restore trust in myself, not just efficiency in my calendar.'",
+            "en": "One more way to say it is 'I need routines that restore trust in myself, not just efficiency in my calendar.'",
             "zh": "另一句也很好用：「I need routines that restore trust in myself, not just efficiency in my calendar.」",
             "vocab": [
               {
-                "word": "self-trust",
-                "def": "相信自己會照顧自己、也會回應自己需要的內在信任"
+                "word": "trust",
+                "def": "的內在信任"
               }
             ]
           },
@@ -2437,11 +2437,11 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am trying to live in a way I can keep.'",
+            "en": "A shorter version would be, 'I am trying to live in a way I can keep.'",
             "zh": "如果你想講得更簡單，也可以說：「I am trying to live in a way I can keep.」",
             "vocab": [
               {
-                "word": "restorative practice",
+                "word": "shorter version",
                 "def": "會讓人慢慢恢復、補回精神的固定做法"
               }
             ]
@@ -2489,14 +2489,14 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "inner alignment",
-                "def": "生活方式和自己真正重視的東西之間有沒有對上的狀態"
+                "def": "很累"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very clarifying idea.",
+            "en": "That is an unusually clarifying idea.",
             "zh": "這真的是很能讓人看清楚的想法。"
           },
           {
@@ -2537,7 +2537,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a vivid way to describe it.",
+            "en": "That really is a vivid way to describe it.",
             "zh": "這個描述真的很有畫面。"
           },
           {
@@ -2548,7 +2548,7 @@ export const WEEK_37: Episode[] = [
             "vocab": [
               {
                 "word": "long-range care",
-                "def": "不是撐到最後才補救，而是一路都在照顧自己的長程做法"
+                "def": "不是撐到最後才補救"
               }
             ]
           },
@@ -2565,8 +2565,8 @@ export const WEEK_37: Episode[] = [
             "zh": "本來就該很平靜。可持續不華麗，可是它真的是一個人能給自己最溫柔的目標之一。",
             "vocab": [
               {
-                "word": "humane pace",
-                "def": "符合人會累、會停、也需要恢復的生活速度"
+                "word": "glamorous",
+                "def": "迷人的；美好的（常指理想化的）"
               }
             ]
           },

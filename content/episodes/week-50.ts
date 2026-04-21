@@ -25,8 +25,8 @@ export const WEEK_50: Episode[] = [
             "zh": "但 gratitude 比那更深。最健康的 gratitude，是一種看見支持、看見彼此依存、也看見夠了的方式，而且它不需要否認困難。",
             "vocab": [
               {
-                "word": "healthy gratitude",
-                "def": "不否認困難，但仍然能看見支持和足夠的感謝狀態"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -44,7 +44,7 @@ export const WEEK_50: Episode[] = [
             "vocab": [
               {
                 "word": "alongside the pain",
-                "def": "在困難仍存在時，同時看見其他真實的好東西"
+                "def": "同時看見其他真實的好東西"
               }
             ]
           },
@@ -61,8 +61,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它本來就該落地，因為 gratitude 最有用的時候，就是它貼著現實。",
             "vocab": [
               {
-                "word": "reality-based gratitude",
-                "def": "建立在真實生活上，而不是空泛正向的感謝"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -96,8 +96,8 @@ export const WEEK_50: Episode[] = [
             "zh": "很多時候最先改變的是注意力。人不再只掃描自己缺什麼，而是開始注意已經在支撐自己的東西。",
             "vocab": [
               {
-                "word": "attention shift",
-                "def": "注意力從只看缺少，轉向也能看見已有的支持"
+                "word": "attentional",
+                "def": "很多時候最先改變的是注意力"
               }
             ]
           },
@@ -114,8 +114,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。",
             "vocab": [
               {
-                "word": "not the entire truth",
-                "def": "困難是真的，但它不是整個現實的全部"
+                "word": "entire truth",
+                "def": "這不會讓問題消失"
               }
             ]
           },
@@ -163,11 +163,11 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful line is: \"I am trying to notice what is supporting me before I only notice what is missing.\" It sounds honest, not sugary.",
+            "en": "A clearer option here is \"I am trying to notice what is supporting me before I only notice what is missing.\" It sounds honest, not sugary.",
             "zh": "一句很好用的是：「I am trying to notice what is supporting me before I only notice what is missing.」這句很誠實，不會太甜。",
             "vocab": [
               {
-                "word": "notice what is supporting me",
+                "word": "sounds honest",
                 "def": "先看見正在支撐自己的東西"
               }
             ]
@@ -181,11 +181,11 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"Gratitude does not make the hard thing easy, but it can make me less alone inside it.\" That works when life is heavy.",
+            "en": "You can also try, \"Gratitude does not make the hard thing easy, but it can make me less alone inside it.\" That works when life is heavy.",
             "zh": "還有一句也很好，就是「感謝不會讓困難變得輕鬆，但它會讓我在裡面沒有那麼孤單。」在生活比較重的時候，這句很好用。",
             "vocab": [
               {
-                "word": "less alone inside it",
+                "word": "alone inside",
                 "def": "困難還在，但內在沒那麼孤單"
               }
             ]
@@ -204,7 +204,7 @@ export const WEEK_50: Episode[] = [
             "vocab": [
               {
                 "word": "hold both",
-                "def": "同時容納辛苦和支持，而不是只剩其中一邊"
+                "def": "同時容納辛苦和支持"
               }
             ]
           },
@@ -228,7 +228,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a very ordinary example of gratitude in daily life?",
+            "en": "Could you give me a very everyday example of gratitude?",
             "zh": "你可以給我一個很日常的 gratitude 例子嗎？"
           },
           {
@@ -250,8 +250,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。gratitude 很常是從那些小小的訊號長出來的，而那些訊號在說：有人把你放在他的注意力裡。",
             "vocab": [
               {
-                "word": "being held in attention",
-                "def": "被別人放在心上、放在注意力裡"
+                "word": "attention",
+                "def": "重複"
               }
             ]
           },
@@ -268,7 +268,7 @@ export const WEEK_50: Episode[] = [
             "zh": "很多時候真的會先是那樣。身體會先知道自己被照顧了，心才會慢慢把那件事變成語言。",
             "vocab": [
               {
-                "word": "felt care",
+                "word": "care before",
                 "def": "還沒講出來前，身體先感覺到自己被照顧"
               }
             ]
@@ -408,8 +408,8 @@ export const WEEK_50: Episode[] = [
             "zh": "因為 appreciation 需要注意力，也需要表達能力。人心裡也許真的有感謝，但不一定有慢下來，把它說好的能力。",
             "vocab": [
               {
-                "word": "express appreciation well",
-                "def": "不只是心裡有感謝，而是能把感謝說得真誠又具體"
+                "word": "express it well",
+                "def": "但不一定有慢下來"
               }
             ]
           },
@@ -426,7 +426,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。當 appreciation 夠具體，具體到對方真的收得到時，它才會變得有力量。",
             "vocab": [
               {
-                "word": "receivable appreciation",
+                "word": "Appreciation becomes powerful",
                 "def": "能讓對方真的聽進去、收得到的感謝"
               }
             ]
@@ -444,8 +444,8 @@ export const WEEK_50: Episode[] = [
             "zh": "模糊的 thank you 當然比沒有好，但被命名出來的感謝，真的會改變一個人怎麼看自己的付出。",
             "vocab": [
               {
-                "word": "named gratitude",
-                "def": "把感謝具體指出來，而不是只停在空泛的謝謝"
+                "word": "named thank",
+                "def": "但被命名出來的感謝"
               }
             ]
           },
@@ -479,8 +479,8 @@ export const WEEK_50: Episode[] = [
             "zh": "通常是那些照顧已經變成熟悉日常的人。當支持變成 routine，就很容易被忽略。",
             "vocab": [
               {
-                "word": "familiar support",
-                "def": "因為太常出現，反而容易被忽略的支持"
+                "word": "become familiar",
+                "def": "通常是那些照顧已經變成熟悉日常的人"
               }
             ]
           },
@@ -497,7 +497,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。像是總會來關心的朋友、默默把細節補好的同事、記住一堆流程的父母，或一直扛著 mental load 的伴侶。",
             "vocab": [
               {
-                "word": "quiet contribution",
+                "word": "quietly fixes details",
                 "def": "不大聲，但一直穩定存在的付出"
               }
             ]
@@ -515,8 +515,8 @@ export const WEEK_50: Episode[] = [
             "zh": "對。當一份努力已經正常到變得隱形時，appreciation 就特別重要。",
             "vocab": [
               {
-                "word": "invisible effort",
-                "def": "明明付出很多，但容易被當成理所當然的努力"
+                "word": "important where effort",
+                "def": "明明付出很多"
               }
             ]
           },
@@ -550,8 +550,8 @@ export const WEEK_50: Episode[] = [
             "zh": "一句很強的是：「I do not want to say a generic thank you. I want to tell you what I actually noticed.」這句會立刻把深度打開。",
             "vocab": [
               {
-                "word": "what I actually noticed",
-                "def": "不是客套，而是你真的注意到了什麼"
+                "word": "noticed",
+                "def": "注意到了"
               }
             ]
           },
@@ -564,11 +564,11 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is: \"What I appreciated most was how steady you were when things got messy.\" That works in work and friendship contexts.",
+            "en": "One more way to say it is \"What I appreciated most was how steady you were when things got messy.\" That works in work and friendship contexts.",
             "zh": "另一句也很好：「What I appreciated most was how steady you were when things got messy.」這句不管在工作還是友情裡都很好用。",
             "vocab": [
               {
-                "word": "steady when messy",
+                "word": "steady",
                 "def": "事情一亂，仍然穩得住的狀態"
               }
             ]
@@ -633,7 +633,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。具體的 appreciation 會像一面鏡子，把一個人真正的價值反射回給他。",
             "vocab": [
               {
-                "word": "reflect value back",
+                "word": "actual value back",
                 "def": "把一個人的價值準確反映回給他看"
               }
             ]
@@ -641,7 +641,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good description.",
+            "en": "That lands as a good description.",
             "zh": "這個形容很好。"
           },
           {
@@ -651,8 +651,8 @@ export const WEEK_50: Episode[] = [
             "zh": "這很重要，因為很多人一直在付出，但早就不再有意識地看見自己在做什麼。被命名，會把意義還給一份疲憊的努力。",
             "vocab": [
               {
-                "word": "restore meaning to effort",
-                "def": "讓一份已經有點疲累的付出重新感覺有意義"
+                "word": "restore meaning",
+                "def": "被命名"
               }
             ]
           },
@@ -791,8 +791,8 @@ export const WEEK_50: Episode[] = [
             "zh": "因為日常會重複。大腦一旦變得很有效率，就常常不再細看那些已經太熟悉的東西。",
             "vocab": [
               {
-                "word": "attention fatigue",
-                "def": "因為太熟悉而不再細看周遭的狀態"
+                "word": "attention",
+                "def": "因為日常會重複"
               }
             ]
           },
@@ -809,7 +809,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。日常的美，常常活在光線、時機、日常節奏、動作，或那些很容易被跨過去的小照顧裡。",
             "vocab": [
               {
-                "word": "tiny forms of beauty",
+                "word": "tiny forms",
                 "def": "不是很戲劇化，而是小小存在的美感時刻"
               }
             ]
@@ -827,8 +827,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它很多時候本來就很安靜。人生裡最好的很多 moments，在發生當下其實不會特別宣布自己很重要。",
             "vocab": [
               {
-                "word": "unannounced moment",
-                "def": "當下看起來很普通，但事後才發現很重要的時刻"
+                "word": "best moments",
+                "def": "它很多時候本來就很安靜"
               }
             ]
           },
@@ -862,7 +862,7 @@ export const WEEK_50: Episode[] = [
             "zh": "因為它會打斷麻木。小小的美感會提醒神經系統：生活不只由壓力、表現和解題組成。",
             "vocab": [
               {
-                "word": "interrupt numbness",
+                "word": "interrupts numbness",
                 "def": "打斷已經麻掉、鈍掉的內在狀態"
               }
             ]
@@ -880,8 +880,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。",
             "vocab": [
               {
-                "word": "feel alive again",
-                "def": "重新感覺到自己是活的、有感受的"
+                "word": "feel alive",
+                "def": "不是機械地做"
               }
             ]
           },
@@ -929,7 +929,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful line is: \"Nothing dramatic happened, but the moment still felt quietly beautiful.\" That sounds natural and believable.",
+            "en": "Another sentence that works is \"Nothing dramatic happened, but the moment still felt quietly beautiful.\" That sounds natural and believable.",
             "zh": "一句很好用的是：「Nothing dramatic happened, but the moment still felt quietly beautiful.」這句自然又可信。",
             "vocab": [
               {
@@ -947,11 +947,11 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"I almost missed it because it looked too ordinary at first.\" That works when beauty arrives without spectacle.",
+            "en": "You could also say, \"I almost missed it because it looked too ordinary at first.\" That works when beauty arrives without spectacle.",
             "zh": "另一句也很好：「I almost missed it because it looked too ordinary at first.」很適合那種沒有 spectacle 的美。",
             "vocab": [
               {
-                "word": "almost missed it",
+                "word": "almost missed",
                 "def": "原本差點因為太普通而錯過的美"
               }
             ]
@@ -969,15 +969,15 @@ export const WEEK_50: Episode[] = [
             "zh": "如果你想講得溫暖一點，可以說：「It was a small moment, but it made the whole day feel more inhabitable.」這句會讓美有一種實際作用。",
             "vocab": [
               {
-                "word": "more inhabitable day",
-                "def": "因為一個小美感，整天變得比較能待、比較能活"
+                "word": "practical",
+                "def": "美有一種實際作用"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a lovely sentence.",
+            "en": "That is honestly a lovely sentence.",
             "zh": "這句很美。"
           },
           {
@@ -994,7 +994,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a really ordinary example?",
+            "en": "Could you show me a really ordinary example?",
             "zh": "你可以給我一個真的很 ordinary 的例子嗎？"
           },
           {
@@ -1016,7 +1016,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。而它們之所以重要，是因為它們會把世界用比較溫柔的形狀還給你。",
             "vocab": [
               {
-                "word": "gentler form of the world",
+                "word": "gentler form",
                 "def": "世界暫時變得比較柔和、比較能待的樣子"
               }
             ]
@@ -1034,8 +1034,8 @@ export const WEEK_50: Episode[] = [
             "zh": "我覺得 ordinary beauty 很常就是這樣。它不會要求霸佔你的注意力，只是請你看見它一秒鐘。",
             "vocab": [
               {
-                "word": "one-second noticing",
-                "def": "只需要一瞬間的注意，就能感受到的美"
+                "word": "ordinary beauty",
+                "def": "不是很盛大，卻在日常裡真實存在的美感"
               }
             ]
           },
@@ -1083,7 +1083,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a meaningful shift.",
+            "en": "That lands as a meaningful shift.",
             "zh": "這真的是很有意義的 shift。"
           },
           {
@@ -1192,8 +1192,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。gratitude 很常就是透過把框變大來幫忙。它會提醒人：支持還在、脈絡還在，以及還有哪些部分仍然可用。",
             "vocab": [
               {
-                "word": "what remains workable",
-                "def": "在困難中，仍然還能運作、還能往前的部分"
+                "word": "remains workable",
+                "def": "以及還有哪些部分仍然可用"
               }
             ]
           },
@@ -1210,8 +1210,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它更健康，因為它讓哀傷、憤怒和疲憊都有地方，同時又保住了意義。",
             "vocab": [
               {
-                "word": "protect meaning",
-                "def": "在壓力裡仍然保住事情的意義感"
+                "word": "protecting meaning",
+                "def": "同時又保住了意義"
               }
             ]
           },
@@ -1245,7 +1245,7 @@ export const WEEK_50: Episode[] = [
             "zh": "它會阻止一個痛的事件，直接變成一整天、一整週，甚至整個自我的故事。",
             "vocab": [
               {
-                "word": "stop totalizing",
+                "word": "stop one painful",
                 "def": "不讓單一糟糕事件擴張成全部"
               }
             ]
@@ -1263,7 +1263,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。在壓力下，大腦很容易把痛的地方放大，把還撐著你的東西縮小。perspective 會去重新平衡那種扭曲。",
             "vocab": [
               {
-                "word": "rebalance distortion",
+                "word": "rebalance",
                 "def": "把壓力造成的放大與縮小重新調整回來"
               }
             ]
@@ -1281,8 +1281,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它很有用，因為人不需要假故事，他需要的是更完整的故事。",
             "vocab": [
               {
-                "word": "fuller story",
-                "def": "不只看到痛，也看到支撐和背景的完整故事"
+                "word": "false story",
+                "def": "人不需要假故事"
               }
             ]
           },
@@ -1312,11 +1312,11 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"I am trying to see the hard thing in proportion, not let it swallow everything else.\" That is natural and honest.",
+            "en": "Another natural line is, \"I am trying to see the hard thing in proportion, not let it swallow everything else.\" That is natural and honest.",
             "zh": "一句很好用的是：「I am trying to see the hard thing in proportion, not let it swallow everything else.」這句自然，也很誠實。",
             "vocab": [
               {
-                "word": "see it in proportion",
+                "word": "proportion",
                 "def": "把困難放回它應有的比例裡"
               }
             ]
@@ -1324,18 +1324,18 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a helpful sentence.",
+            "en": "That is a genuinely helpful sentence.",
             "zh": "這句真的很有幫助。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"Perspective did not remove the pain, but it changed the size of the pain in my mind.\" That works when you want nuance.",
+            "en": "You could also say, \"Perspective did not remove the pain, but it changed the size of the pain in my mind.\" That works when you want nuance.",
             "zh": "另一句也很好：「Perspective did not remove the pain, but it changed the size of the pain in my mind.」如果你想講得有層次，這句很適合。",
             "vocab": [
               {
-                "word": "change the size in my mind",
-                "def": "不是事件變了，而是它在心中的大小感改變了"
+                "word": "changed the size",
+                "def": "不是事件變了"
               }
             ]
           },
@@ -1377,7 +1377,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete example of perspective shifting?",
+            "en": "What would a real example of perspective shift look like?",
             "zh": "你可以給我一個 perspective 真的有 shift 的例子嗎？"
           },
           {
@@ -1399,8 +1399,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。perspective 不會擦掉那段批評，它只是把那段批評放回一個更大的 context 裡，而在那個 context 裡，學習仍然是可能的。",
             "vocab": [
               {
-                "word": "put it back in context",
-                "def": "把一件事放回比較完整的脈絡，不讓它脫離比例"
+                "word": "puts it back",
+                "def": "學習仍然是可能的"
               }
             ]
           },
@@ -1417,7 +1417,7 @@ export const WEEK_50: Episode[] = [
             "zh": "對。很多難的 moment，會變得更難，就是因為它被從整個現實裡孤立出來了。",
             "vocab": [
               {
-                "word": "isolated pain",
+                "word": "through isolation",
                 "def": "從整體脈絡中被切出來、因此被放大的痛"
               }
             ]
@@ -1454,7 +1454,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very mature emotional goal.",
+            "en": "That lands as a mature emotional goal.",
             "zh": "這感覺是一個很成熟的情緒目標。"
           },
           {
@@ -1478,7 +1478,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very good ending for this topic.",
+            "en": "That is a genuinely good ending for this topic.",
             "zh": "這是個很好的結尾。"
           },
           {
@@ -1557,8 +1557,8 @@ export const WEEK_50: Episode[] = [
             "zh": "這是真的，但它正因如此才更重要，因為工作很容易一下子變得只剩交易感。gratitude 會提醒大家：系統裡面還有人。",
             "vocab": [
               {
-                "word": "human inside the system",
-                "def": "在流程和制度裡，仍看見具體的人"
+                "word": "inside the system",
+                "def": "但它正因如此才更重要"
               }
             ]
           },
@@ -1575,8 +1575,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。",
             "vocab": [
               {
-                "word": "beyond the metric",
-                "def": "在數字之外，仍然值得被看見的努力"
+                "word": "metrics alone cannot",
+                "def": "它會減少隱形感、修復士氣"
               }
             ]
           },
@@ -1593,8 +1593,8 @@ export const WEEK_50: Episode[] = [
             "zh": "確實如此。工作場域越快，就越容易把人當成功能來消耗，而不是當成真正的人來看。",
             "vocab": [
               {
-                "word": "functional invisibility",
-                "def": "一個人只有功能被看見，人卻變隱形的狀態"
+                "word": "function rather",
+                "def": "工作場域越快"
               }
             ]
           },
@@ -1628,8 +1628,8 @@ export const WEEK_50: Episode[] = [
             "zh": "通常是那種能看見隱形努力、判斷力、穩定感和細心，而不只是看見漂亮勝利的 appreciation。",
             "vocab": [
               {
-                "word": "invisible effort at work",
-                "def": "工作裡不容易被看到，但很重要的付出"
+                "word": "invisible effort",
+                "def": "明明付出很多"
               }
             ]
           },
@@ -1646,7 +1646,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。那個防止錯誤發生的人、安撫客戶的人、帶新人上手的人，或讓會議維持清楚的人，都可能在沒有掌聲的情況下改變了那一天。",
             "vocab": [
               {
-                "word": "quietly changed the day",
+                "word": "changed the day",
                 "def": "沒有高調成果，但其實整天因此被改變"
               }
             ]
@@ -1700,7 +1700,7 @@ export const WEEK_50: Episode[] = [
             "vocab": [
               {
                 "word": "made everything else easier",
-                "def": "某段工作雖然不顯眼，但讓其他事情都順很多"
+                "def": "某段工作雖然不顯眼"
               }
             ]
           },
@@ -1713,7 +1713,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is: \"Your steadiness changed the tone of the room.\" That works when someone helped emotionally, not only technically.",
+            "en": "You can also try, \"Your steadiness changed the tone of the room.\" That works when someone helped emotionally, not only technically.",
             "zh": "另一句也很好：「Your steadiness changed the tone of the room.」當某個人情緒上也幫了很大忙時，這句很好用。",
             "vocab": [
               {
@@ -1783,7 +1783,7 @@ export const WEEK_50: Episode[] = [
             "vocab": [
               {
                 "word": "better effort",
-                "def": "不是更大更累，而是更成熟、更有品質的投入"
+                "def": "而是更成熟、更有品質的投入"
               }
             ]
           },
@@ -1800,8 +1800,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它更健康，因為人不再覺得自己非得放大自己，才看得見。",
             "vocab": [
               {
-                "word": "visibility without performance",
-                "def": "不用表演得很大，也能被看見"
+                "word": "visible",
+                "def": "這是個容易掉進去的陷阱"
               }
             ]
           },
@@ -1849,7 +1849,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very convincing answer.",
+            "en": "That feels like a convincing answer.",
             "zh": "這個回答很有說服力。"
           },
           {
@@ -1940,7 +1940,7 @@ export const WEEK_50: Episode[] = [
             "zh": "不太一樣。感謝這個感受也許很普遍，但恰當表達它的方式，會隨語言、家庭和社會情境差很多。",
             "vocab": [
               {
-                "word": "gratitude style",
+                "word": "widely shared",
                 "def": "一個文化裡比較自然、恰當的感謝方式"
               }
             ]
@@ -1958,8 +1958,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。有些地方頻繁口頭感謝會讓人覺得溫暖；在另外一些地方，重複性的行動、謙遜，或避免讓對方尷尬，反而更重要。",
             "vocab": [
               {
-                "word": "gratitude through action",
-                "def": "不是一直口頭表達，而是透過行動表達感謝"
+                "word": "action",
+                "def": "重複性的行動、謙遜"
               }
             ]
           },
@@ -1976,8 +1976,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它很有文化層次，因為它會把一個社會怎麼平衡溫度、謙遜、階層和互惠感全部照出來。",
             "vocab": [
               {
-                "word": "reciprocity norm",
-                "def": "一個文化裡對有來有往、互相回應的期待方式"
+                "word": "reciprocity",
+                "def": "它很有文化層次"
               }
             ]
           },
@@ -2011,7 +2011,7 @@ export const WEEK_50: Episode[] = [
             "zh": "他們會以為自己熟悉的表達方式才叫真誠。如果對方比較安靜、比較間接，或比較不口頭表達，人就可能把那讀成冷淡。",
             "vocab": [
               {
-                "word": "sincerity filter",
+                "word": "verbally expressive",
                 "def": "用自己熟悉的方式去判斷什麼叫真誠"
               }
             ]
@@ -2029,8 +2029,8 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。在某些脈絡裡，gratitude 可能是透過回報、替你準備什麼，或默默記住你的需要來表達。",
             "vocab": [
               {
-                "word": "quiet gratitude signal",
-                "def": "不是大聲說出來，而是安靜地表達感謝的訊號"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -2055,7 +2055,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very useful principle.",
+            "en": "That lands as a useful principle.",
             "zh": "這個原則很有用。"
           },
           {
@@ -2082,8 +2082,8 @@ export const WEEK_50: Episode[] = [
             "zh": "一句很強的是：「I think gratitude is present, but it is being expressed in a form I am not used to reading.」這句有層次，也很尊重。",
             "vocab": [
               {
-                "word": "not used to reading",
-                "def": "對方的表達其實存在，只是自己還不熟悉怎麼解讀"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -2096,12 +2096,12 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"In my background, thanks is often verbal. In yours, it may be more behavioral.\" That helps compare without attacking.",
+            "en": "A steadier way to put it is, \"In my background, thanks is often verbal. In yours, it may be more behavioral.\" That helps compare without attacking.",
             "zh": "另一句也很好：「In my background, thanks is often verbal. In yours, it may be more behavioral.」這句會幫助比較，而不會帶攻擊。",
             "vocab": [
               {
-                "word": "verbal versus behavioral thanks",
-                "def": "口頭感謝和行動式感謝的差異"
+                "word": "verbal",
+                "def": "而不會帶攻擊"
               }
             ]
           },
@@ -2118,7 +2118,7 @@ export const WEEK_50: Episode[] = [
             "zh": "如果你想用問句，也可以試：「What does appreciation usually sound or look like where you grew up?」這個問法把主題打得很漂亮。",
             "vocab": [
               {
-                "word": "what appreciation looks like",
+                "word": "look like",
                 "def": "把感謝從抽象感受問成具體樣子"
               }
             ]
@@ -2143,7 +2143,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a family example of this?",
+            "en": "What would a family example of this look like?",
             "zh": "你可以給我一個家庭裡的例子嗎？"
           },
           {
@@ -2165,7 +2165,7 @@ export const WEEK_50: Episode[] = [
             "zh": "沒錯。一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」",
             "vocab": [
               {
-                "word": "gratitude mismatch",
+                "word": "see everything",
                 "def": "彼此都有感謝，但表達方式不對頻的錯位"
               }
             ]
@@ -2173,7 +2173,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a familiar relationship pattern.",
+            "en": "That really is a familiar relationship pattern.",
             "zh": "這真的是很常見的關係 pattern。"
           },
           {
@@ -2323,8 +2323,8 @@ export const WEEK_50: Episode[] = [
             "zh": "對我來說，留下來的是：gratitude 最有力量的時候，是它既具體又誠實。很模糊的 gratitude 會散掉；活過的 gratitude 會留下來。",
             "vocab": [
               {
-                "word": "lived gratitude",
-                "def": "不是口號，而是和真實生活綁在一起的感謝"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -2359,8 +2359,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它真的比很多人想像得更像結構。它會改變注意力、語言、記憶，以及人如何持續和彼此連在一起。",
             "vocab": [
               {
-                "word": "gratitude structure",
-                "def": "感謝不是單一感受，而是一種會改變生活結構的實踐"
+                "word": "memory",
+                "def": "以及人如何持續和彼此連在一起"
               }
             ]
           },
@@ -2394,8 +2394,8 @@ export const WEEK_50: Episode[] = [
             "zh": "就是大家以為 gratitude 需要表演。很多人擔心 gratitude 就是要假裝自己不痛，但健康的 gratitude 其實是在替複雜留空間。",
             "vocab": [
               {
-                "word": "gratitude without pretending",
-                "def": "不表演沒事，但仍然能真實地感謝"
+                "word": "healthy gratitude",
+                "def": "不否認困難"
               }
             ]
           },
@@ -2412,8 +2412,8 @@ export const WEEK_50: Episode[] = [
             "zh": "當然可以。它可以和憤怒、失望、哀傷一起存在，只要一個人還能誠實地命名：除了痛，還有哪些別的真相也在。",
             "vocab": [
               {
-                "word": "multiple truths at once",
-                "def": "同時承認不只一種真相存在"
+                "word": "gratitude",
+                "def": "感激；感謝"
               }
             ]
           },
@@ -2430,8 +2430,8 @@ export const WEEK_50: Episode[] = [
             "zh": "它本來就更成熟。成熟的 gratitude 不會把 life 壓平，它會讓 life 更有深度，也更有比例感。",
             "vocab": [
               {
-                "word": "deeper proportion",
-                "def": "讓人生裡的好與壞都回到比較完整的比例裡"
+                "word": "proportion",
+                "def": "也更有比例感"
               }
             ]
           },
@@ -2461,12 +2461,12 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"This week reminded me that gratitude is less about denial and more about attention.\" It captures the core idea well.",
+            "en": "If you want a more grounded version, try \"This week reminded me that gratitude is less about denial and more about attention.\" It captures the core idea well.",
             "zh": "一句很好用的是：「This week reminded me that gratitude is less about denial and more about attention.」這句很能抓住核心。",
             "vocab": [
               {
-                "word": "less about denial, more about attention",
-                "def": "gratitude 的重點不在否認，而在注意力怎麼放"
+                "word": "less about denial",
+                "def": "而在注意力怎麼放"
               }
             ]
           },
@@ -2479,7 +2479,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"I am learning that appreciation becomes real when it gets specific.\" That is great for speaking or journaling.",
+            "en": "You could also say, \"I am learning that appreciation becomes real when it gets specific.\" That is great for speaking or journaling.",
             "zh": "另一句也很好：「I am learning that appreciation becomes real when it gets specific.」這句不管拿來 speaking 還是 journaling 都很好。",
             "vocab": [
               {
@@ -2502,7 +2502,7 @@ export const WEEK_50: Episode[] = [
             "vocab": [
               {
                 "word": "stay connected to people",
-                "def": "讓感謝真的回到關係裡，而不是停在概念裡"
+                "def": "把重點帶回關係"
               }
             ]
           },
@@ -2537,14 +2537,14 @@ export const WEEK_50: Episode[] = [
             "vocab": [
               {
                 "word": "made life more livable",
-                "def": "讓生活比較能過、比較能待的一個小支持"
+                "def": "life比較能活下去的小事"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it does not sound performative.",
+            "en": "I respond to that because it does not sound performative.",
             "zh": "我喜歡這個，因為它不會聽起來很 performative。"
           },
           {
@@ -2554,8 +2554,8 @@ export const WEEK_50: Episode[] = [
             "zh": "另一個很好的 practice，是比平常更精準地謝謝一個人。去說他做了什麼、改變了什麼、又為什麼重要。",
             "vocab": [
               {
-                "word": "precise thank you",
-                "def": "不是空泛，而是很具體地表達感謝"
+                "word": "changed",
+                "def": "不只是完成工作"
               }
             ]
           },
@@ -2572,8 +2572,8 @@ export const WEEK_50: Episode[] = [
             "zh": "通常真的會。gratitude practice 要撐得久，往往得是關係型、具體型的，而不是裝飾型、模糊型的。",
             "vocab": [
               {
-                "word": "relational practice",
-                "def": "能讓人和人之間真的更靠近的練習"
+                "word": "relational",
+                "def": "而不是裝飾型、模糊型的"
               }
             ]
           },

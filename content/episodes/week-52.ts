@@ -43,7 +43,7 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。它其實是在把過去用比較有用的形式帶去前面。",
             "vocab": [
               {
-                "word": "carry it forward",
+                "word": "past forward",
                 "def": "把過去的經驗整理後，帶進接下來的生活"
               }
             ]
@@ -61,8 +61,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它本來就不同。rumination 會繞著痛打轉、卻沒有 movement；review 則會問：什麼改變了、什麼重要、下次什麼不該再忽略。",
             "vocab": [
               {
-                "word": "useful question set",
-                "def": "讓回顧不只是打轉，而能真的長出洞見的一組問題"
+                "word": "without movement",
+                "def": "回顧不只是打轉"
               }
             ]
           },
@@ -97,7 +97,7 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "quieter force",
-                "def": "不是表面大事件，但一直在默默推動結果的力量"
+                "def": "很多人只會注意到明顯事件"
               }
             ]
           },
@@ -114,8 +114,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。回顧有時會讓人看見：真正有差的，可能是某個小小的 boundary、某次有用的 conversation，或一種一直反覆出現的疲憊，而不是某個戲劇性事件。",
             "vocab": [
               {
-                "word": "hidden turning point",
-                "def": "當下不一定覺得大，但事後發現其實是轉折的時刻"
+                "word": "boundary",
+                "def": "界限"
               }
             ]
           },
@@ -132,7 +132,7 @@ export const WEEK_52: Episode[] = [
             "zh": "真實 life 很常就是那樣。大的故事，很多時候是被小小重複事實撐起來的。",
             "vocab": [
               {
-                "word": "small repeated fact",
+                "word": "frequently carried",
                 "def": "一再出現、最後形成大影響的小事實"
               }
             ]
@@ -163,7 +163,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"Looking back, I can see that the real turning point was smaller than it looked at the time.\" That sounds thoughtful and specific.",
+            "en": "You could also say, \"Looking back, I can see that the real turning point was smaller than it looked at the time.\" That sounds thoughtful and specific.",
             "zh": "一句很好用的是：「Looking back, I can see that the real turning point was smaller than it looked at the time.」這句有思考，也很具體。",
             "vocab": [
               {
@@ -185,15 +185,15 @@ export const WEEK_52: Episode[] = [
             "zh": "還有一句也很好，就是「我後來才明白，真正讓我累垮的不是那件事本身，而是它周圍反覆出現的模式。」如果你想說的是比單一事件更深的體會，這句很適合。",
             "vocab": [
               {
-                "word": "pattern around it",
-                "def": "事件周圍那個反覆出現、真正造成影響的模式"
+                "word": "pattern",
+                "def": "模式；規律"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds mature, not dramatic.",
+            "en": "That works for me because it sounds mature, not dramatic.",
             "zh": "我喜歡它很成熟，不會太 dramatic。"
           },
           {
@@ -203,7 +203,7 @@ export const WEEK_52: Episode[] = [
             "zh": "如果你想簡單一點，也可以說：「I understand that season better now than I did while I was inside it.」這句也很美。",
             "vocab": [
               {
-                "word": "understand the season",
+                "word": "season better",
                 "def": "事後比較看懂自己經歷的那段時期"
               }
             ]
@@ -250,7 +250,7 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。insight 最重要的時候，是它能回到 life 裡，變成比較好的條件、boundary 或 decision。",
             "vocab": [
               {
-                "word": "return insight to life",
+                "word": "return to life",
                 "def": "讓洞見重新回到真實生活裡發生作用"
               }
             ]
@@ -258,7 +258,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very practical standard.",
+            "en": "That feels especially practical standard.",
             "zh": "這是一個很務實的標準。"
           },
           {
@@ -268,7 +268,7 @@ export const WEEK_52: Episode[] = [
             "zh": "它本來就該很務實。反思之所以會變強，是因為它改變了下一週怎麼被安排，而不只是上一週怎麼被描述。",
             "vocab": [
               {
-                "word": "build the next week differently",
+                "word": "next week",
                 "def": "讓回顧真的改變接下來一段時間的安排"
               }
             ]
@@ -408,8 +408,8 @@ export const WEEK_52: Episode[] = [
             "zh": "因為 relationships 會塑造 ordinary life 的情緒氣候。即使是 trust、距離感或親近感的一點小變化，也可能改變整整幾個月的感覺。",
             "vocab": [
               {
-                "word": "emotional weather of a relationship",
-                "def": "一段關係長期帶來的整體情緒氣氛"
+                "word": "emotional weather",
+                "def": "一個空間裡正在形成的整體情緒氣氛"
               }
             ]
           },
@@ -426,8 +426,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。一段關係可能變成穩定、張力、修復或 grief 的來源，而那些力量會把旁邊很多東西一起染色。",
             "vocab": [
               {
-                "word": "relational color",
-                "def": "一段關係帶給整體 life 的情緒顏色"
+                "word": "forces color everything",
+                "def": "一段關係帶給整體life的情緒顏色"
               }
             ]
           },
@@ -452,7 +452,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong phrase.",
+            "en": "That is honestly a strong phrase.",
             "zh": "這個說法很強。"
           },
           {
@@ -479,8 +479,8 @@ export const WEEK_52: Episode[] = [
             "zh": "很多時候，是讓人看見：自己和誰相處時比較容易誠實、哪裡一直在漏 energy、哪些 conversation 真的有改變，還有某些距離感其實想說什麼。",
             "vocab": [
               {
-                "word": "energy leak in a relationship",
-                "def": "一段關係一直默默消耗你能量的狀態"
+                "word": "honest",
+                "def": "很多時候"
               }
             ]
           },
@@ -497,8 +497,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。兩段關係可能都還存在，但一段可能變得更有生命，另一段卻變得更像在表演。",
             "vocab": [
               {
-                "word": "alive connection",
-                "def": "不是只存在形式上，而是真的有生命感的連結"
+                "word": "performative",
+                "def": "兩段關係可能都還存在"
               }
             ]
           },
@@ -515,8 +515,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它很重要，因為很多人用 duration 去量關係，但 quality 才可能是比較清楚的真相。",
             "vocab": [
               {
-                "word": "quality over duration",
-                "def": "一段關係的品質，有時比它存在多久更重要"
+                "word": "relationships by duration",
+                "def": "一段關係的品質"
               }
             ]
           },
@@ -546,12 +546,12 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful line is: \"Looking back, I can see which relationships made me more honest and which ones made me more careful.\" That is strong and clear.",
+            "en": "You can also try, \"Looking back, I can see which relationships made me more honest and which ones made me more careful.\" That is strong and clear.",
             "zh": "一句很好用的是：「Looking back, I can see which relationships made me more honest and which ones made me more careful.」這句很強，也很清楚。",
             "vocab": [
               {
-                "word": "more honest versus more careful",
-                "def": "哪段關係讓你比較敢真實，哪段讓你一直很小心"
+                "word": "honest",
+                "def": "也很清楚"
               }
             ]
           },
@@ -564,7 +564,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"The connection did not disappear, but it changed shape.\" That works well when a relationship shifted without ending.",
+            "en": "A steadier way to put it is, \"The connection did not disappear, but it changed shape.\" That works well when a relationship shifted without ending.",
             "zh": "另一句也很好：「The connection did not disappear, but it changed shape.」很適合拿來說一段關係雖然沒結束，但變了。",
             "vocab": [
               {
@@ -586,8 +586,8 @@ export const WEEK_52: Episode[] = [
             "zh": "如果你想講得更直接，也可以說：「I realized I had been maintaining contact, but not really maintaining closeness.」這句有點痛，但很有用。",
             "vocab": [
               {
-                "word": "contact without closeness",
-                "def": "表面還有聯絡，但其實不再真正親近"
+                "word": "contact",
+                "def": "聯繫；接觸"
               }
             ]
           },
@@ -611,7 +611,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete relationship lesson someone might discover in review?",
+            "en": "Can you make that more concrete with a concrete relationship lesson someone might discover in review?",
             "zh": "你可以給我一個人在回顧關係時，可能會看見的具體領悟嗎？"
           },
           {
@@ -633,7 +633,7 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。這種領悟真的會改變一個人接下來把心力投給誰，也會改變他帶著什麼標準走進未來的親密關係。",
             "vocab": [
               {
-                "word": "repair capacity",
+                "word": "future closeness",
                 "def": "關係在出現摩擦後，仍然有修復能力"
               }
             ]
@@ -651,8 +651,8 @@ export const WEEK_52: Episode[] = [
             "zh": "對。對 relationship 的理解，很多時候是靠累積、靠 hindsight，也靠情緒上的誠實才到的。",
             "vocab": [
               {
-                "word": "emotional hindsight",
-                "def": "事後才比較誠實地看懂一段關係的情緒真相"
+                "word": "emotional honesty",
+                "def": "不包裝也不誇張"
               }
             ]
           },
@@ -700,7 +700,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very meaningful ending.",
+            "en": "That feels like a particularly meaningful ending.",
             "zh": "這是一個很有意義的 ending。"
           },
           {
@@ -791,8 +791,8 @@ export const WEEK_52: Episode[] = [
             "zh": "因為 energy 往往比 ambition 更早說真話。一個人可能會表現很久，才終於承認：身體其實幾個月前就知道了。",
             "vocab": [
               {
-                "word": "body knew first",
-                "def": "身體其實更早就知道某件生活方式撐不住了"
+                "word": "energy",
+                "def": "不只是拿來產出的能量來源"
               }
             ]
           },
@@ -809,8 +809,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。睡眠、緊繃、食慾、疼痛、情緒、專注和恢復，全部都在帶著資訊，說明這個 life 到底是怎麼被活著的。",
             "vocab": [
               {
-                "word": "energy evidence",
-                "def": "從身體和精神狀態讀出來的生活證據"
+                "word": "tension",
+                "def": "彼此之間慢慢累積起來的不舒服和緊繃"
               }
             ]
           },
@@ -827,8 +827,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它本來就是一個很 powerful 的 review tool。就算故事一直往前趕，身體還是會記帳。",
             "vocab": [
               {
-                "word": "body record",
-                "def": "身體一直默默記著這段 life 對它做了什麼"
+                "word": "record even",
+                "def": "記帳"
               }
             ]
           },
@@ -862,8 +862,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它會幫人看見耗損模式、假的急迫感、比較可持續的節奏，以及「很刺激」和「真的有滋養」之間的差別。",
             "vocab": [
               {
-                "word": "nourishing versus exciting",
-                "def": "會讓人真的有恢復，和只是很刺激，兩者的差別"
+                "word": "false urgency",
+                "def": "其實沒那麼急，卻被活成很急的狀態"
               }
             ]
           },
@@ -880,7 +880,7 @@ export const WEEK_52: Episode[] = [
             "zh": "非常重要。很多人會追那些讓自己短暫興奮的東西，卻忽略那些能穩定恢復自己的東西。",
             "vocab": [
               {
-                "word": "reliable restoration",
+                "word": "restores them reliably",
                 "def": "不是一時爽，而是穩定能讓人恢復的東西"
               }
             ]
@@ -898,7 +898,7 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。它也會讓人看到：自己是在哪裡打著 productive 或 responsible 的名義，一直在背叛自己的 limits。",
             "vocab": [
               {
-                "word": "betraying your limits",
+                "word": "own limits",
                 "def": "明知撐不住，卻還是一直越過自己的界線"
               }
             ]
@@ -929,7 +929,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful line is: \"Looking back, I can see that I was running on urgency more than on real energy.\" That is strong and clear.",
+            "en": "If you want a more grounded version, try \"Looking back, I can see that I was running on urgency more than on real energy.\" That is strong and clear.",
             "zh": "一句很好用的是：「Looking back, I can see that I was running on urgency more than on real energy.」這句很強，也很清楚。",
             "vocab": [
               {
@@ -951,8 +951,8 @@ export const WEEK_52: Episode[] = [
             "zh": "另一句也很好：「My body was giving me information long before I was willing to call it a problem.」這句很有反思，也很誠實。",
             "vocab": [
               {
-                "word": "body giving information",
-                "def": "身體其實一直在提供訊號，只是自己還沒願意承認"
+                "word": "honest",
+                "def": "也很誠實"
               }
             ]
           },
@@ -970,7 +970,7 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "actual capacity",
-                "def": "自己真實能承受的量，不是理想上應該能承受的量"
+                "def": "能承受的量"
               }
             ]
           },
@@ -994,7 +994,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a real-life energy lesson?",
+            "en": "Could you give me a very everyday example of an energy lesson?",
             "zh": "你可以給我一個很生活化、跟能量有關的例子嗎？"
           },
           {
@@ -1006,7 +1006,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a painful insight.",
+            "en": "That lands as a very painful insight.",
             "zh": "這真的是很痛的 insight。"
           },
           {
@@ -1017,7 +1017,7 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "worth the cost",
-                "def": "一件事到底值不值得你付出的身心和關係代價"
+                "def": "才值得那個代價"
               }
             ]
           },
@@ -1034,15 +1034,15 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。身體有時比日曆更誠實地揭露一個 life 的價值結構。",
             "vocab": [
               {
-                "word": "moral structure of a life",
-                "def": "一個人的 life 其實最優先把什麼放在前面"
+                "word": "structure",
+                "def": "結構；框架；規律"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such an intense sentence.",
+            "en": "That feels like an intense sentence.",
             "zh": "這句真的很強烈。"
           },
           {
@@ -1174,7 +1174,7 @@ export const WEEK_52: Episode[] = [
             "zh": "不太夠。results 當然重要，但 work review 也得問：這份工作在被做的過程中，對這個人做了什麼。",
             "vocab": [
               {
-                "word": "what the work did to you",
+                "word": "work review",
                 "def": "工作成果之外，工作過程對一個人的影響"
               }
             ]
@@ -1192,8 +1192,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。一段 output 很強的時間，底下仍然可能藏著耗損、混亂、成長、自信、burnout，或更清楚的 purpose。",
             "vocab": [
               {
-                "word": "hidden work cost",
-                "def": "工作成績之外，暗中付出的身心代價"
+                "word": "sense of purpose",
+                "def": "目的感；覺得自己做這件事有理由"
               }
             ]
           },
@@ -1210,7 +1210,7 @@ export const WEEK_52: Episode[] = [
             "zh": "它本來就該有人味，因為人不是接在日曆上的機器，他會被自己一直在做的事改變。",
             "vocab": [
               {
-                "word": "changed by the work",
+                "word": "changed",
                 "def": "不只是完成工作，也被工作本身改變"
               }
             ]
@@ -1245,8 +1245,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它會揭露一個人在哪裡比較有生命、在哪裡比較像在表演、哪種 responsibility 很 fit、又是哪種 strain 一直重複。",
             "vocab": [
               {
-                "word": "where you came alive",
-                "def": "在工作裡真正有生命感、比較像自己的地方"
+                "word": "came alive",
+                "def": "它會揭露一個人在哪裡比較有生命、在哪裡比較像在表演、哪種re"
               }
             ]
           },
@@ -1263,15 +1263,15 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。它也會問：那條路本身，究竟讓你變得更 coherent，還是更 fragmented。",
             "vocab": [
               {
-                "word": "coherent versus fragmented work",
-                "def": "工作讓人越來越整合，還是越來越碎裂的差別"
+                "word": "coherent",
+                "def": "連貫的；有邏輯的"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very important measure.",
+            "en": "That sounds like an important measure.",
             "zh": "這感覺是一個很重要的 measure。"
           },
           {
@@ -1281,15 +1281,15 @@ export const WEEK_52: Episode[] = [
             "zh": "它很重要，因為有些人會因為一份工作被稱讚，但那份工作其實正在安靜地讓他消失。",
             "vocab": [
               {
-                "word": "quiet self-erasure",
-                "def": "工作看起來很好，卻讓自己慢慢消失的狀態"
+                "word": "quietly making",
+                "def": "有些人會因為一份工作被稱讚"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a hard truth.",
+            "en": "That is a genuinely hard truth.",
             "zh": "這真的是很 hard 的 truth。"
           },
           {
@@ -1312,12 +1312,12 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"The work taught me something valuable, but it also showed me what I do not want to keep normal.\" That is honest and balanced.",
+            "en": "You could also say, \"The work taught me something valuable, but it also showed me what I do not want to keep normal.\" That is honest and balanced.",
             "zh": "一句很好用的是：「The work taught me something valuable, but it also showed me what I do not want to keep normal.」這句很誠實，也很平衡。",
             "vocab": [
               {
-                "word": "what I do not want to keep normal",
-                "def": "某些原本被當成常態的工作方式，其實不想再繼續接受"
+                "word": "honest",
+                "def": "也很平衡"
               }
             ]
           },
@@ -1330,11 +1330,11 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"I can see now that the role fit my skills better than it fit my life.\" That works when competence and alignment diverge.",
+            "en": "Another natural line is, \"I can see now that the role fit my skills better than it fit my life.\" That works when competence and alignment diverge.",
             "zh": "另一句也很好，就是「我現在看得出來，這個角色比較符合我的能力，卻沒有那麼符合我的生活。」當能力和一致感開始分開時，這句很適合。",
             "vocab": [
               {
-                "word": "fit my skills better than my life",
+                "word": "skills better",
                 "def": "工作很符合能力，卻不一定適合整體生活"
               }
             ]
@@ -1352,8 +1352,8 @@ export const WEEK_52: Episode[] = [
             "zh": "如果你想談成長，也可以說：「The most important progress was not external. It was learning what kind of work leaves me more whole.」",
             "vocab": [
               {
-                "word": "work that leaves me more whole",
-                "def": "做完之後，人比較完整，不會一直被耗碎的工作"
+                "word": "work leaves",
+                "def": "做完之後"
               }
             ]
           },
@@ -1377,7 +1377,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete example of this kind of work review?",
+            "en": "Could you show me a concrete example of this kind of work review?",
             "zh": "你可以給我一個很具體的例子嗎？"
           },
           {
@@ -1400,14 +1400,14 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "prestige bias",
-                "def": "把大、亮、可見的工作自動當成比較有價值的偏差"
+                "def": "觀眾印象深刻"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such an important correction.",
+            "en": "That is a remarkably important correction.",
             "zh": "這真的是很重要的修正。"
           },
           {
@@ -1417,7 +1417,7 @@ export const WEEK_52: Episode[] = [
             "zh": "它會改變未來選擇。一旦人知道哪種工作會讓自己比較清楚，接下來的選擇就會比較誠實。",
             "vocab": [
               {
-                "word": "future choice with honesty",
+                "word": "future choices",
                 "def": "帶著對自己更清楚的認識去做未來選擇"
               }
             ]
@@ -1557,8 +1557,8 @@ export const WEEK_52: Episode[] = [
             "zh": "因為成長在變成 confidence 之前，很多時候先長得像重複、挫折，或很慢的調整。",
             "vocab": [
               {
-                "word": "slow adjustment growth",
-                "def": "還沒開花前，看起來很普通、很慢的成長過程"
+                "word": "slow adjustment",
+                "def": "很多時候先長得像重複、挫折"
               }
             ]
           },
@@ -1575,8 +1575,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。真正的 learning 從裡面看起來常常很小，因為它是透過 habit、修正，還有比以前多留一下而到的。",
             "vocab": [
               {
-                "word": "small internal progress",
-                "def": "外面不一定看得出來，但內部其實真的有在前進"
+                "word": "looks small",
+                "def": "還有比以前多留一下而到的"
               }
             ]
           },
@@ -1593,8 +1593,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它很多時候本來就比較不 glamorous，但也更可信。安靜的 growth 往往比戲劇性的 self-reinvention 撐得更久。",
             "vocab": [
               {
-                "word": "trustworthy growth",
-                "def": "雖然不轟烈，但真的站得住、留得住的成長"
+                "word": "growth usually",
+                "def": "但真的站得住、留得住的成長"
               }
             ]
           },
@@ -1628,8 +1628,8 @@ export const WEEK_52: Episode[] = [
             "zh": "很多時候，change 會出現在反應速度、自我信任，還有某些事情不再像以前那樣把人整個擊倒。",
             "vocab": [
               {
-                "word": "response change",
-                "def": "同樣情況下，你反應的方式和速度已經改變"
+                "word": "response time",
+                "def": "很多時候"
               }
             ]
           },
@@ -1647,14 +1647,14 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "more range",
-                "def": "面對同樣事情時，能有比較多種反應和處理方式"
+                "def": "能有比較多種反應和處理方式"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a very mature kind of progress.",
+            "en": "That comes through as a mature kind of progress.",
             "zh": "這聽起來是一種很成熟的 progress。"
           },
           {
@@ -1664,8 +1664,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它很成熟，因為它改變的是 life 怎麼被活，而不只是 progress 怎麼被描述。",
             "vocab": [
               {
-                "word": "lived progress",
-                "def": "成長真的進到生活和反應裡，而不只存在於說法裡"
+                "word": "progress",
+                "def": "成長真的進到生活和反應裡"
               }
             ]
           },
@@ -1695,30 +1695,30 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"The growth was quieter than I expected, but it changed what I can hold now.\" That sounds reflective and real.",
+            "en": "Another natural option is, \"The growth was quieter than I expected, but it changed what I can hold now.\" That sounds reflective and real.",
             "zh": "一句很好用的是：「The growth was quieter than I expected, but it changed what I can hold now.」這句很有反思，也很真。",
             "vocab": [
               {
                 "word": "what I can hold now",
-                "def": "自己現在能承受、能處理的東西比以前更多"
+                "def": "也很真"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good line.",
+            "en": "That really is a good line.",
             "zh": "這句真的很好。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"I did not become a different person overnight, but I did become less fragile in important ways.\" That works beautifully.",
+            "en": "You can also try, \"I did not become a different person overnight, but I did become less fragile in important ways.\" That works beautifully.",
             "zh": "另一句也很好：「I did not become a different person overnight, but I did become less fragile in important ways.」這句很有力。",
             "vocab": [
               {
-                "word": "less fragile in important ways",
-                "def": "不是變成另一個人，而是在重要的地方比較沒那麼容易碎"
+                "word": "fragile",
+                "def": "脆弱的；易碎的"
               }
             ]
           },
@@ -1743,7 +1743,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very useful sentence for learners too.",
+            "en": "That is a genuinely useful sentence for learners too.",
             "zh": "這句對 learner 來說也很有用。"
           },
           {
@@ -1760,7 +1760,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete example of growth that was easy to miss?",
+            "en": "What would an easy-to-miss example of growth look like in real life?",
             "zh": "你可以給我一個很容易被忽略的 growth 例子嗎？"
           },
           {
@@ -1800,7 +1800,7 @@ export const WEEK_52: Episode[] = [
             "zh": "很多重要的功課，在事後還沒有被好好命名之前，看起來都不怎麼起眼。",
             "vocab": [
               {
-                "word": "proper hindsight naming",
+                "word": "hindsight names",
                 "def": "事後終於替那段成長找到對的名字"
               }
             ]
@@ -1867,7 +1867,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would agree with that.",
+            "en": "I would lean the same way.",
             "zh": "我會同意這個說法。"
           }
         ]
@@ -1940,8 +1940,8 @@ export const WEEK_52: Episode[] = [
             "zh": "因為 pressure 聽起來比較 urgent、也比較 measurable，而 joy 看起來很 soft、很非必要，直到你發現：它其實一直在防止一個 life 整個變平。",
             "vocab": [
               {
-                "word": "life becoming flat",
-                "def": "生活雖然還在運作，但失去層次、色彩和生命感的狀態"
+                "word": "life from becoming",
+                "def": "而joy看起來很soft、很非必要"
               }
             ]
           },
@@ -1958,15 +1958,15 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。creativity 和 joy 會讓人繼續碰到 wonder、play，以及自己那些不只為了有用而存在的部分。",
             "vocab": [
               {
-                "word": "not only useful self",
-                "def": "不只拿來產出和解決問題的那個自己"
+                "word": "play",
+                "def": "不是拿來賺什麼，而是單純投入和享受"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such an important reminder.",
+            "en": "That really is an important reminder.",
             "zh": "這真的是很重要的 reminder。"
           },
           {
@@ -2012,7 +2012,7 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "where play survived",
-                "def": "在一段壓力生活裡，玩心和輕盈感還活著的地方"
+                "def": "玩心和輕盈感還活著的地方"
               }
             ]
           },
@@ -2029,7 +2029,7 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。它在問：life 在哪裡打開、又在哪裡收窄。",
             "vocab": [
               {
-                "word": "opened versus narrowed life",
+                "word": "life opened",
                 "def": "生活在哪裡比較打開、哪裡比較收縮"
               }
             ]
@@ -2047,8 +2047,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它很重要，因為很多人以為 joy 應該自動出現，但它其實很依賴注意力、空間和 permission。",
             "vocab": [
               {
-                "word": "permission for joy",
-                "def": "允許自己有 joy，而不立刻覺得那很浪費或不應該"
+                "word": "joy should appear",
+                "def": "很多人以為joy應該自動出現"
               }
             ]
           },
@@ -2078,11 +2078,11 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"Looking back, I can see what gave me energy that was not only productive.\" That is simple but important.",
+            "en": "A more everyday version would be \"Looking back, I can see what gave me energy that was not only productive.\" That is simple but important.",
             "zh": "一句很好用的是：「Looking back, I can see what gave me energy that was not only productive.」這句簡單，但很重要。",
             "vocab": [
               {
-                "word": "energy beyond productivity",
+                "word": "energy",
                 "def": "不只是拿來產出的能量來源"
               }
             ]
@@ -2096,12 +2096,12 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"The most nourishing parts of the year were not always the most efficient ones.\" That works beautifully for adult life.",
+            "en": "You might also say, \"The most nourishing parts of the year were not always the most efficient ones.\" That works beautifully for adult life.",
             "zh": "另一句也很好，就是「一年裡最滋養人的部分，不一定都是最有效率的那些。」這句拿來談成年人的生活很有力。",
             "vocab": [
               {
-                "word": "nourishing part of the year",
-                "def": "不是最亮眼，但對內在很有滋養的一段"
+                "word": "most efficient",
+                "def": "一年裡最滋養人的部分"
               }
             ]
           },
@@ -2126,7 +2126,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very good line.",
+            "en": "That sounds like a good line.",
             "zh": "這真的是一句很好的話。"
           },
           {
@@ -2143,7 +2143,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a very small example of joy that matters?",
+            "en": "What would a very small example of joy that matters look like?",
             "zh": "你可以給我一個很小，但很值得記住的 joy 例子嗎？"
           },
           {
@@ -2165,15 +2165,15 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。但那不代表它的價值很小。它也可能表示：那些 ritual 承載了比那個人原本意識到的更多自我。",
             "vocab": [
               {
-                "word": "joy-bearing ritual",
-                "def": "看起來普通，卻一直承載 joy 的日常 ritual"
+                "word": "those rituals",
+                "def": "看起來普通"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a lovely way to think about it.",
+            "en": "That is a really lovely way to think about it.",
             "zh": "這個想法很美。"
           },
           {
@@ -2183,8 +2183,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它會幫人下次記得保護那些東西，而不是最先犧牲它們。",
             "vocab": [
               {
-                "word": "protect the joy source",
-                "def": "辨認並保護真正讓自己有 joy 的來源"
+                "word": "protect those things",
+                "def": "辨認並保護真正讓自己有joy的來源"
               }
             ]
           },
@@ -2323,8 +2323,8 @@ export const WEEK_52: Episode[] = [
             "zh": "因為它把 reflection 和 intention 收進同一個 voice 裡。你不只是在回顧發生了什麼，也是在決定：什麼值得被帶去前面。",
             "vocab": [
               {
-                "word": "carry-worthy lesson",
-                "def": "值得被帶去未來的 lesson"
+                "word": "reflection",
+                "def": "反思；深思"
               }
             ]
           },
@@ -2359,8 +2359,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它本來就很溫柔，因為很多人在腦中對自己比在信裡會殘酷得多。",
             "vocab": [
               {
-                "word": "signed honesty",
-                "def": "一旦要正式寫下來，就比較誠實也比較負責的語氣"
+                "word": "sign",
+                "def": "殘酷得多"
               }
             ]
           },
@@ -2394,7 +2394,7 @@ export const WEEK_52: Episode[] = [
             "zh": "它應該包含 truth，不只是 hope。要寫你學到了什麼、什麼不想忘，還有未來的自己可能需要哪種 kindness。",
             "vocab": [
               {
-                "word": "what not to forget",
+                "word": "forget",
                 "def": "這段經驗裡最不想在未來再忘掉的東西"
               }
             ]
@@ -2413,7 +2413,7 @@ export const WEEK_52: Episode[] = [
             "vocab": [
               {
                 "word": "carefully packed message",
-                "def": "把重要體會很小心地整理好、留給未來自己的訊息"
+                "def": "小心打包好一封訊息"
               }
             ]
           },
@@ -2430,8 +2430,8 @@ export const WEEK_52: Episode[] = [
             "zh": "它很重要，因為記憶會淡，可是寫下來的 language 可以在未來剛好需要的 moment 把 insight 帶回來。",
             "vocab": [
               {
-                "word": "returning insight later",
-                "def": "一段現在的理解，能在未來再次回來幫助自己"
+                "word": "return insight",
+                "def": "記憶會淡"
               }
             ]
           },
@@ -2461,12 +2461,12 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful line is: \"I hope you remember what this season taught us, especially when life starts moving fast again.\" That sounds intimate and steady.",
+            "en": "You could also say, \"I hope you remember what this season taught us, especially when life starts moving fast again.\" That sounds intimate and steady.",
             "zh": "一句很好用的是：「I hope you remember what this season taught us, especially when life starts moving fast again.」這句很親密，也很穩。",
             "vocab": [
               {
-                "word": "remember what this season taught us",
-                "def": "提醒未來的自己，不要忘記這段時期真正教了什麼"
+                "word": "season taught",
+                "def": "也很穩"
               }
             ]
           },
@@ -2479,12 +2479,12 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"Do not make yourself small again just because uncertainty returns.\" That works when the lesson involved courage or self-trust.",
+            "en": "Another natural line is, \"Do not make yourself small again just because uncertainty returns.\" That works when the lesson involved courage or self-trust.",
             "zh": "還有一句也很好，就是「不要只是因為不確定感又回來了，就再把自己縮小。」如果這段經驗和勇氣、自我信任有關，這句很好用。",
             "vocab": [
               {
                 "word": "do not make yourself small again",
-                "def": "不要因為害怕或不確定就再次把自己縮回去"
+                "def": "不要只是因為不確定感又回來了"
               }
             ]
           },
@@ -2501,7 +2501,7 @@ export const WEEK_52: Episode[] = [
             "zh": "如果你想溫柔一點，也可以說：「Please be kind to the version of us that is still learning slowly.」這句帶很多 mercy。",
             "vocab": [
               {
-                "word": "still learning slowly",
+                "word": "Please",
                 "def": "還在慢慢學、還沒完全到位的自己"
               }
             ]
@@ -2526,7 +2526,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me an example of what someone might want to protect in a future-self letter?",
+            "en": "Could you make that concrete with an example of what someone might want to protect in a future-self letter?",
             "zh": "你可以給我一個例子，說一個人可能想在這種信裡保護什麼嗎？"
           },
           {
@@ -2548,8 +2548,8 @@ export const WEEK_52: Episode[] = [
             "zh": "沒錯。future-self letter 常常是在保護那些一旦 life 又吵起來，就最容易被丟掉的 truth。",
             "vocab": [
               {
-                "word": "truth easiest to abandon",
-                "def": "明明很重要，卻最容易在忙亂中再次被放掉的真相"
+                "word": "easiest to abandon",
+                "def": "就最容易被丟掉的truth"
               }
             ]
           },
@@ -2566,7 +2566,7 @@ export const WEEK_52: Episode[] = [
             "zh": "它很有必要，因為忘記本來就很正常。而 writing 會變成一種方式：在那個忘記發生之前，先愛未來的自己一次。",
             "vocab": [
               {
-                "word": "love the next self",
+                "word": "love the next",
                 "def": "現在就用語言照顧下一個時間點的自己"
               }
             ]
@@ -2574,7 +2574,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a beautiful idea.",
+            "en": "That sounds like a beautiful idea.",
             "zh": "這個想法很美。"
           },
           {
@@ -2603,7 +2603,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very beautiful definition.",
+            "en": "That is an unusually beautiful definition.",
             "zh": "這是一個很美的定義。"
           },
           {

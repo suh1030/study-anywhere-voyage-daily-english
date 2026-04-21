@@ -96,7 +96,7 @@ export const WEEK_22: Episode[] = [
             "zh": "因為直接講解法，感覺比先蒐集證據更像有能力，雖然實際上不一定更有用。",
             "vocab": [
               {
-                "word": "gather evidence",
+                "word": "gathering evidence",
                 "def": "先蒐集足夠線索與證據"
               }
             ]
@@ -157,13 +157,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want the room to slow down without sounding passive?",
+            "en": "What would I actually say in English when I want the room to slow down without sounding passive?",
             "zh": "如果我想用英文讓現場先慢一點，但又不想聽起來很弱，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Before we jump to fixes, let's define the actual problem.'",
+            "en": "If you want a clear sentence, try 'Before we jump to fixes, let's define the actual problem.'",
             "zh": "你可以說：「Before we jump to fixes, let's define the actual problem.」"
           },
           {
@@ -181,7 +181,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it pulls people back to reality without embarrassing anyone.",
+            "en": "That works for me because it pulls people back to reality without embarrassing anyone.",
             "zh": "我喜歡這句，因為它會把大家拉回現實，但又不會讓誰難堪。"
           },
           {
@@ -510,13 +510,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I am stuck but still thinking productively?",
+            "en": "If that is the situation, how could I say it in English when I am stuck but still thinking productively?",
             "zh": "如果我卡住了，但其實還在有用地想，用英文可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am not there yet, but I am narrowing it down.'",
+            "en": "I would probably say, 'I am not there yet, but I am narrowing it down.'",
             "zh": "你可以說：「I am not there yet, but I am narrowing it down.」"
           },
           {
@@ -540,7 +540,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it buys time without sounding defensive.",
+            "en": "I like it because it buys time without sounding defensive.",
             "zh": "我喜歡這句，因為它能爭取時間，又不會聽起來很防衛。"
           },
           {
@@ -603,7 +603,7 @@ export const WEEK_22: Episode[] = [
             "zh": "完全沒錯。這個問題常常比想像中更能幫你脫困。",
             "vocab": [
               {
-                "word": "get unstuck",
+                "word": "gets you unstuck",
                 "def": "從卡住的狀態脫出來"
               }
             ]
@@ -664,7 +664,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it gives me something to work on this week.",
+            "en": "What lands for me is that it gives me something to work on this week.",
             "zh": "我喜歡這個說法，因為它讓我這週就有東西可以練。"
           },
           {
@@ -1041,7 +1041,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very encouraging version of creativity.",
+            "en": "That feels especially encouraging version of creativity.",
             "zh": "這真的是一個很鼓勵人的創意版本。"
           },
           {
@@ -1158,7 +1158,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good way to put it.",
+            "en": "That really is a good way to put it.",
             "zh": "這個比喻真的很好。"
           },
           {
@@ -1240,13 +1240,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I suspect the obvious issue is not the real one?",
+            "en": "How could I express it in English when I suspect the obvious issue is not the real one?",
             "zh": "如果我懷疑眼前這個 obvious issue 不是真正的核心，用英文可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I think this may be a symptom, not the whole problem.'",
+            "en": "You could say, 'I think this may be a symptom, not the whole problem.'",
             "zh": "你可以說：「I think this may be a symptom, not the whole problem.」"
           },
           {
@@ -1605,13 +1605,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I need to sound decisive without pretending we know everything?",
+            "en": "How would I say it in English when I need to sound decisive without pretending we know everything?",
             "zh": "如果我想用英文講得有決斷力，但又不想假裝我們什麼都知道，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Based on what we know now, this is my best guess.'",
+            "en": "One option would be, 'Based on what we know now, this is my best guess.'",
             "zh": "你可以說：「Based on what we know now, this is my best guess.」",
             "vocab": [
               {
@@ -1623,7 +1623,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds responsible, not weak.",
+            "en": "The reason I like it is that it sounds responsible, not weak.",
             "zh": "我很喜歡，因為它聽起來是負責，不是虛弱。"
           },
           {
@@ -1647,7 +1647,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to protect against being wrong, say, 'Let's hedge by testing this with a smaller group first.'",
+            "en": "If you want to protect against being wrong, another option is, 'Let's hedge by testing this with a smaller group first.'",
             "zh": "如果你想替可能判錯留餘地，也可以說：「Let's hedge by testing this with a smaller group first.」",
             "vocab": [
               {
@@ -1686,7 +1686,7 @@ export const WEEK_22: Episode[] = [
             "zh": "你之後學得有多快。普通但學得快的決定，常常會贏過太晚才來的完美決定。",
             "vocab": [
               {
-                "word": "learn fast",
+                "word": "fast learning",
                 "def": "做決定後快速看懂結果並調整"
               }
             ]
@@ -1850,7 +1850,7 @@ export const WEEK_22: Episode[] = [
             "zh": "有，而且那通常表示團隊在開始丟答案前，根本沒有先對齊目標。",
             "vocab": [
               {
-                "word": "align on the goal",
+                "word": "team never aligned",
                 "def": "先把大家要解的目標對齊"
               }
             ]
@@ -1947,7 +1947,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very different kind of room.",
+            "en": "That feels like a particularly different kind of room.",
             "zh": "那真的是完全不同的一種房間。"
           },
           {
@@ -1964,13 +1964,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want the team to solve something together instead of defending positions?",
+            "en": "What would sound natural in English when I want the team to solve something together instead of defending positions?",
             "zh": "如果我想用英文把大家拉回一起解題，而不是各守立場，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Before we choose a direction, can we bring in the people closest to the issue?'",
+            "en": "A more everyday version is, 'Before we choose a direction, can we bring in the people closest to the issue?'",
             "zh": "你可以說：「Before we choose a direction, can we bring in the people closest to the issue?」",
             "vocab": [
               {
@@ -1992,7 +1992,7 @@ export const WEEK_22: Episode[] = [
             "zh": "另一句也很好：「I want to challenge one assumption before we lock this in.」",
             "vocab": [
               {
-                "word": "challenge an assumption",
+                "word": "challenge one assumption",
                 "def": "對既有假設提出檢查與質疑"
               }
             ]
@@ -2018,7 +2018,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a useful sentence for mixed teams.",
+            "en": "That is a really useful sentence for mixed teams.",
             "zh": "這句對跨部門團隊真的超有用。"
           },
           {
@@ -2335,7 +2335,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'This is still an iterative process, so I am looking for the next stronger version.'",
+            "en": "You can also go with 'This is still an iterative process, so I am looking for the next stronger version.'",
             "zh": "你可以說：「This is still an iterative process, so I am looking for the next stronger version.」",
             "vocab": [
               {
@@ -2353,7 +2353,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'We do not need the perfect answer yet. We need the next clearer path.'",
+            "en": "Another natural line is, 'We do not need the perfect answer yet. We need the next clearer path.'",
             "zh": "另一句也很好用：「We do not need the perfect answer yet. We need the next clearer path.」",
             "vocab": [
               {
@@ -2424,7 +2424,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a useful way to think about momentum.",
+            "en": "That feels like a useful way to think about momentum.",
             "zh": "這真的是一個很好用的 momentum 想法。"
           },
           {
@@ -2463,8 +2463,8 @@ export const WEEK_22: Episode[] = [
             "zh": "它比較像少一點戲劇，多一點訊號。少一點證明自己，多一點從裡面學東西。",
             "vocab": [
               {
-                "word": "learn from it",
-                "def": "從問題與結果裡學到東西"
+                "word": "signal",
+                "def": "暗示底下有更大問題的訊號"
               }
             ]
           },

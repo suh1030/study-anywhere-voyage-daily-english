@@ -26,7 +26,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "transition period",
-                "def": "舊狀態正在鬆動、新狀態還沒完全成形的過渡時期"
+                "def": "一段轉換期的開始"
               }
             ]
           },
@@ -44,14 +44,14 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "old identity",
-                "def": "一個人過去用來理解自己、現在卻開始不那麼適合的身分感"
+                "def": "完全沒錯"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very haunting sentence.",
+            "en": "That feels more like a haunting sentence.",
             "zh": "這句真的很有餘韻。"
           },
           {
@@ -91,7 +91,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "new routine",
-                "def": "剛開始建立、還沒有完全變成自然節奏的新生活模式"
+                "def": "之後才會被信任"
               }
             ]
           },
@@ -109,7 +109,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "emotional lag",
-                "def": "外在事情已經改變了，但情緒和身體還沒完全跟上的延遲感"
+                "def": "外在事情已經改變了"
               }
             ]
           },
@@ -145,13 +145,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe being in the middle of a transition?",
+            "en": "What sounds natural if I want to describe being in the middle of a transition?",
             "zh": "如果我想用英文描述自己正處在一段轉換中，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I know I am in a new chapter, but parts of me are still catching up to it.'",
+            "en": "You can also go with 'I know I am in a new chapter, but parts of me are still catching up to it.'",
             "zh": "你可以說：「I know I am in a new chapter, but parts of me are still catching up to it.」"
           },
           {
@@ -163,12 +163,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am no longer where I was, but I am not fully settled in what comes next yet.'",
+            "en": "Another natural line is, 'I am no longer where I was, but I am not fully settled in what comes next yet.'",
             "zh": "另一句也很好用：「I am no longer where I was, but I am not fully settled in what comes next yet.」",
             "vocab": [
               {
-                "word": "uncertain season",
-                "def": "暫時不太穩、很多事情還在重組中的人生時期"
+                "word": "settled",
+                "def": "安定的；安頓好的"
               }
             ]
           },
@@ -181,12 +181,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'A lot is moving, and I am trying to move with it without rushing myself.'",
+            "en": "For a simpler version, you could say, 'A lot is moving, and I am trying to move with it without rushing myself.'",
             "zh": "如果你想講得更簡單，也可以說：「A lot is moving, and I am trying to move with it without rushing myself.」",
             "vocab": [
               {
-                "word": "starting threshold",
-                "def": "剛要跨進新階段時，那個既猶豫又關鍵的門檻時刻"
+                "word": "without rushing",
+                "def": "那個既猶豫又關鍵的門檻時刻"
               }
             ]
           },
@@ -233,14 +233,14 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "temporary ground",
-                "def": "在大轉變中先讓自己站得住腳的暫時穩定點"
+                "def": "自己站得住腳的暫時穩定點"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a helpful image.",
+            "en": "That is a really helpful image.",
             "zh": "這個畫面真的很有幫助。"
           },
           {
@@ -292,7 +292,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "moving part",
-                "def": "在變動中仍然還沒定下來、還在調整的那一塊"
+                "def": "也因此"
               }
             ]
           },
@@ -391,7 +391,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "familiar pattern",
-                "def": "讓人雖然未必舒服，但至少知道怎麼應對的熟悉模式"
+                "def": "人雖然未必舒服"
               }
             ]
           },
@@ -409,7 +409,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "control loss",
-                "def": "原本熟悉可掌握的感覺正在消失時，那種失控的不安"
+                "def": "那種失控的不安"
               }
             ]
           },
@@ -474,14 +474,14 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "identity wobble",
-                "def": "改變開始後，對自己是誰的感覺出現搖晃和不穩"
+                "def": "改變開始後"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good phrase.",
+            "en": "That comes through as a good phrase.",
             "zh": "這個詞真的很好。"
           },
           {
@@ -510,13 +510,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe why change feels unsettling?",
+            "en": "How would I say it if I wanted to describe why change feels unsettling?",
             "zh": "如果我想用英文描述，為什麼改變會讓人不安，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Part of what feels difficult is that I no longer have the old map, but I do not trust the new one yet.'",
+            "en": "A clean way to say it is, 'Part of what feels difficult is that I no longer have the old map, but I do not trust the new one yet.'",
             "zh": "你可以說：「Part of what feels difficult is that I no longer have the old map, but I do not trust the new one yet.」"
           },
           {
@@ -528,7 +528,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'The change is positive, but my body still reads it as uncertainty.'",
+            "en": "A clearer option here is 'The change is positive, but my body still reads it as uncertainty.'",
             "zh": "另一句也很好用：「The change is positive, but my body still reads it as uncertainty.」",
             "vocab": []
           },
@@ -541,19 +541,19 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I know this is good, but I do not feel settled yet.'",
+            "en": "A plainer way to put it is, 'I know this is good, but I do not feel settled yet.'",
             "zh": "如果你想講得更簡單，也可以說：「I know this is good, but I do not feel settled yet.」",
             "vocab": [
               {
-                "word": "adjustment phase",
-                "def": "剛進入新狀態後，還在慢慢適應的那段時期"
+                "word": "settled",
+                "def": "安定的；安頓好的"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one is very easy to use.",
+            "en": "That feels very usable right away.",
             "zh": "這句真的很容易拿來用。"
           },
           {
@@ -593,7 +593,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "emotional friction",
-                "def": "改變發生時，內心出現卡卡的阻力和不順感"
+                "def": "內心出現卡卡的阻力和不順感"
               }
             ]
           },
@@ -611,7 +611,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "predictable world",
-                "def": "因為事情可預期，所以讓人感到比較安全的生活環境"
+                "def": "事情可預期"
               }
             ]
           },
@@ -658,7 +658,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "nervous anticipation",
-                "def": "對即將發生的事既緊張又準備好的那種複雜感受"
+                "def": "緊張期待感很重要"
               }
             ]
           },
@@ -683,7 +683,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would leave it right there.",
+            "en": "I think I would stop right there too.",
             "zh": "我會把它停在這裡。"
           }
         ]
@@ -757,7 +757,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "role shift",
-                "def": "工作、家庭或人生位置改變後，角色重新排列的過程"
+                "def": "工作、家庭或人生位置改變後"
               }
             ]
           },
@@ -822,7 +822,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "social script",
-                "def": "社會默默期待你該怎麼活、怎麼表現的既定劇本"
+                "def": "舊的社會劇本還在"
               }
             ]
           },
@@ -840,7 +840,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "belonging question",
-                "def": "改變之後，開始重新思考自己還屬於哪裡的內在提問"
+                "def": "改變之後"
               }
             ]
           },
@@ -876,13 +876,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I am changing in ways that are hard to explain?",
+            "en": "If I wanted to say I am changing in ways that are hard to explain, what would sound natural in English?",
             "zh": "如果我想用英文說，我正在經歷一種很難解釋的改變，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I feel like some parts of my old identity no longer fit, even though I do not fully know what is replacing them yet.'",
+            "en": "One sentence that works well is 'I feel like some parts of my old identity no longer fit, even though I do not fully know what is replacing them yet.'",
             "zh": "你可以說：「I feel like some parts of my old identity no longer fit, even though I do not fully know what is replacing them yet.」"
           },
           {
@@ -894,7 +894,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am still learning how to name the life chapter I am entering.'",
+            "en": "You can also try, 'I am still learning how to name the life chapter I am entering.'",
             "zh": "另一句也很好用：「I am still learning how to name the life chapter I am entering.」",
             "vocab": [
               {
@@ -906,25 +906,25 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds open, not confused.",
+            "en": "That works for me because it sounds open, not confused.",
             "zh": "我喜歡這句，因為它聽起來比較像開放，不像混亂。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I do not feel like my old self anymore, but I am not lost.'",
+            "en": "If you want to make it more everyday, try, 'I do not feel like my old self anymore, but I am not lost.'",
             "zh": "如果你想講得更簡單，也可以說：「I do not feel like my old self anymore, but I am not lost.」",
             "vocab": [
               {
-                "word": "identity rebuild",
-                "def": "在改變之後，慢慢把新的自我感重新建立起來的過程"
+                "word": "self anymore",
+                "def": "不再像以前的自己"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one is beautiful.",
+            "en": "There is something beautiful about that one.",
             "zh": "這句真的很美。"
           },
           {
@@ -964,7 +964,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "inner reorientation",
-                "def": "改變中，內在方向感慢慢重新調整和對準的過程"
+                "def": "內在重新定位很重要"
               }
             ]
           },
@@ -1012,7 +1012,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a powerful sentence.",
+            "en": "That is honestly a powerful sentence.",
             "zh": "這句真的非常有力。"
           },
           {
@@ -1023,7 +1023,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "former version",
-                "def": "過去那個曾經很真實、也有其位置的自己版本"
+                "def": "尊重過去版本很重要"
               }
             ]
           },
@@ -1122,7 +1122,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "midlife restart",
-                "def": "不是從零歲開始，而是在已有很多經驗後重新開啟的新起點"
+                "def": "不是從零歲開始"
               }
             ]
           },
@@ -1140,14 +1140,14 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "beginner energy",
-                "def": "重新學習時既笨拙又有生命力的那種新手狀態"
+                "def": "很彆扭"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good way to describe it.",
+            "en": "That lands as a good way to describe it.",
             "zh": "這真的很會形容那種感覺。"
           },
           {
@@ -1199,7 +1199,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "sunk cost",
-                "def": "因為已經投入太多時間或心力，而不敢轉向的心理拉力"
+                "def": "而不敢轉向的心理拉力"
               }
             ]
           },
@@ -1235,13 +1235,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain that I am starting over?",
+            "en": "What is a natural way to say it if I want to explain that I am starting over?",
             "zh": "如果我想用英文說明自己正在重新開始，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am not starting from nothing. I am starting from experience, but in a new direction.'",
+            "en": "You could say, 'I am not starting from nothing. I am starting from experience, but in a new direction.'",
             "zh": "你可以說：「I am not starting from nothing. I am starting from experience, but in a new direction.」"
           },
           {
@@ -1253,12 +1253,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'It feels like a second beginning, not a total reset.'",
+            "en": "One more way to say it is 'It feels like a second beginning, not a total reset.'",
             "zh": "另一句也很好用：「It feels like a second beginning, not a total reset.」",
             "vocab": [
               {
                 "word": "second beginning",
-                "def": "不是第一人生，而是帶著前面經驗重新展開的另一個開始"
+                "def": "不是第一人生"
               }
             ]
           },
@@ -1271,12 +1271,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am learning to be new at something again.'",
+            "en": "A shorter version would be, 'I am learning to be new at something again.'",
             "zh": "如果你想講得更簡單，也可以說：「I am learning to be new at something again.」",
             "vocab": [
               {
-                "word": "humble start",
-                "def": "不靠過去頭銜撐場，而是願意從比較低的位置重新開始"
+                "word": "shorter version",
+                "def": "更短的說法"
               }
             ]
           },
@@ -1323,7 +1323,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "learning curve",
-                "def": "剛進入新領域時，需要花時間慢慢熟悉和上手的曲線"
+                "def": "學習曲線"
               }
             ]
           },
@@ -1370,14 +1370,14 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "fresh attempt",
-                "def": "帶著新意圖重新試一次，而不是把自己整個歸零的嘗試"
+                "def": "帶著新意圖重新試一次"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very relieving answer.",
+            "en": "That is an unusually relieving answer.",
             "zh": "這真的是很讓人鬆一口氣的答案。"
           },
           {
@@ -1388,7 +1388,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "restarted path",
-                "def": "不是原路返回，而是帶著舊經驗重新展開的新路徑"
+                "def": "不是原路返回"
               }
             ]
           },
@@ -1401,7 +1401,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where I would pause.",
+            "en": "I think that is exactly where I would stop.",
             "zh": "我會停在這個地方。"
           },
           {
@@ -1413,7 +1413,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like a very good shift.",
+            "en": "That feels like a good shift.",
             "zh": "這聽起來就是很好的轉變。"
           }
         ]
@@ -1499,10 +1499,10 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "core value",
-                "def": "不管外在怎麼變，都仍然很想守住的核心原則"
+                "def": "影響選擇的核心價值"
               },
               {
-                "word": "external change",
+                "word": "external",
                 "def": "工作、環境或關係等外在條件的實際改變"
               }
             ]
@@ -1522,7 +1522,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very sharp distinction.",
+            "en": "That feels especially sharp distinction.",
             "zh": "這真的是很銳利的區分。"
           },
           {
@@ -1562,7 +1562,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "personal anchor",
-                "def": "幫你在變動中不失去方向感的核心提醒或原則"
+                "def": "個人錨點很重要"
               }
             ]
           },
@@ -1598,13 +1598,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I am adapting but trying not to lose myself?",
+            "en": "How could I phrase it if I wanted to say I am adapting but trying not to lose myself?",
             "zh": "如果我想用英文說，我正在適應，但也努力不讓自己消失，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to respond to change without abandoning the parts of myself that matter most.'",
+            "en": "You could say, 'I am trying to respond to change without abandoning the parts of myself that matter most.'",
             "zh": "你可以說：「I am trying to respond to change without abandoning the parts of myself that matter most.」"
           },
           {
@@ -1616,12 +1616,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I want to be flexible in form, but consistent in values.'",
+            "en": "Another sentence that works is 'I want to be flexible in form, but consistent in values.'",
             "zh": "另一句也很好用：「I want to be flexible in form, but consistent in values.」",
             "vocab": [
               {
-                "word": "flexible identity",
-                "def": "外在可以調整，但核心不會輕易散掉的身份感"
+                "word": "flexible",
+                "def": "靈活的；有彈性的"
               }
             ]
           },
@@ -1634,12 +1634,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am changing, but I still want to feel like myself inside the change.'",
+            "en": "'I am changing, but I still want to feel like myself inside the change.' works well when you want something simpler.",
             "zh": "如果你想講得更簡單，也可以說：「I am changing, but I still want to feel like myself inside the change.」",
             "vocab": [
               {
-                "word": "inner continuity",
-                "def": "雖然外在改變了，但內在仍有一條連續的自己可以感受到"
+                "word": "inside the change",
+                "def": "雖然外在改變了"
               }
             ]
           },
@@ -1673,8 +1673,8 @@ export const WEEK_40: Episode[] = [
             "zh": "事後去問：我現在是比較對齊，還是比較被掏空？這個問題通常很快就會說實話。",
             "vocab": [
               {
-                "word": "grounded choice",
-                "def": "不是慌亂反應，而是基於核心原則做出的穩定選擇"
+                "word": "more aligned",
+                "def": "還是比較被掏空"
               }
             ]
           },
@@ -1692,14 +1692,14 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "self-preservation",
-                "def": "在改變中保護自己核心完整、不任意被磨掉的能力"
+                "def": "適應應該是擴大生活"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good test.",
+            "en": "That is a genuinely good test.",
             "zh": "這真的是很好的判斷法。"
           },
           {
@@ -1740,7 +1740,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very rich answer.",
+            "en": "That feels like a particularly rich answer.",
             "zh": "這真的是很豐富的答案。"
           },
           {
@@ -1751,7 +1751,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "adaptive move",
-                "def": "面對改變時，既能調整又不會整個失去自己的做法"
+                "def": "整個失去自己的做法"
               }
             ]
           },
@@ -1764,7 +1764,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "We can end there for now.",
+            "en": "I think that is where I would stop for now.",
             "zh": "我們現在可以先收在這裡。"
           },
           {
@@ -1843,8 +1843,8 @@ export const WEEK_40: Episode[] = [
             "zh": "有時候一個人真正被耗累的，不只是他正在做什麼，而是那些早就不合身、卻還一直背著走的東西。",
             "vocab": [
               {
-                "word": "unused identity",
-                "def": "明明已經不再活著，卻還一直被帶在身上的舊身份感"
+                "word": "Sometimes",
+                "def": "有時候一個人真正被耗累的"
               }
             ]
           },
@@ -1868,7 +1868,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "release work",
-                "def": "慢慢把不再適合自己的事、角色或期待放下的內在功課"
+                "def": "完全沒錯"
               }
             ]
           },
@@ -1915,7 +1915,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "old script",
-                "def": "曾經幫你運作人生、現在卻不再適合的舊模式或舊劇本"
+                "def": "就算離開是對的"
               }
             ]
           },
@@ -1933,7 +1933,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "honest ending",
-                "def": "不再用拖延或自欺來延長，而是誠實承認某段事該結束的結尾"
+                "def": "不再用拖延或自欺來延長"
               }
             ]
           },
@@ -1969,13 +1969,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say something in my life no longer fits?",
+            "en": "What would be a natural English way to say something in my life no longer fits?",
             "zh": "如果我想用英文說，我生命裡有些東西已經不合適了，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I can feel that this part of my life no longer fits the person I am becoming.'",
+            "en": "A natural way to say it is, 'I can feel that this part of my life no longer fits the person I am becoming.'",
             "zh": "你可以說：「I can feel that this part of my life no longer fits the person I am becoming.」"
           },
           {
@@ -1987,12 +1987,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'Letting go feels painful, but holding on is starting to feel less honest.'",
+            "en": "You could also say, 'Letting go feels painful, but holding on is starting to feel less honest.'",
             "zh": "另一句也很好用：「Letting go feels painful, but holding on is starting to feel less honest.」",
             "vocab": [
               {
-                "word": "grief layer",
-                "def": "放下時附著在決定上的那層悲傷和失落"
+                "word": "honest",
+                "def": "不識時務的；不敏感的"
               }
             ]
           },
@@ -2005,12 +2005,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I think I have outgrown this, even if I still care about it.'",
+            "en": "If that is the direction you want, you could say, 'I think I have outgrown this, even if I still care about it.'",
             "zh": "如果你想講得更簡單，也可以說：「I think I have outgrown this, even if I still care about it.」",
             "vocab": [
               {
-                "word": "outdated dream",
-                "def": "曾經很真、現在卻不再適合目前自己的夢想或期待"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
@@ -2057,7 +2057,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "emotional clutter",
-                "def": "堆在心裡、讓人難以看清方向的過多情緒和未整理感"
+                "def": "人難以看清方向的過多情緒和未整理感"
               }
             ]
           },
@@ -2105,7 +2105,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a beautiful answer.",
+            "en": "That really is a beautiful answer.",
             "zh": "這真的就是很美的答案。"
           },
           {
@@ -2116,7 +2116,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "cleaner space",
-                "def": "把不再適合的東西放下後，心裡和生活裡多出來的乾淨空間"
+                "def": "把不再適合的東西放下後"
               }
             ]
           },
@@ -2215,7 +2215,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "uncertain path",
-                "def": "還看不清結果、只能邊走邊確認的前進路線"
+                "def": "不確定路徑的情況"
               }
             ]
           },
@@ -2246,7 +2246,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a deep question.",
+            "en": "That is a really deep question.",
             "zh": "這真的是很深的問題。"
           },
           {
@@ -2273,8 +2273,8 @@ export const WEEK_40: Episode[] = [
             "zh": "它的意思是相信自己能夠回應、調整，而且在不崩潰也不假裝的情況下，繼續和現實保持關係。",
             "vocab": [
               {
-                "word": "self-guidance",
-                "def": "在不確定裡，仍能慢慢帶著自己往前走的能力"
+                "word": "reality without",
+                "def": "繼續和現實保持關係"
               }
             ]
           },
@@ -2292,7 +2292,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "internal compass",
-                "def": "在沒有完整答案時，仍能替自己指方向的內在判斷感"
+                "def": "仍能替自己指方向的內在判斷感"
               }
             ]
           },
@@ -2328,13 +2328,13 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I am trying to trust myself through uncertainty?",
+            "en": "What sounds natural if I want to say I am trying to trust myself through uncertainty?",
             "zh": "如果我想用英文說，我正在不確定裡學著信任自己，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I do not have the full picture yet, but I trust myself to keep responding honestly as it unfolds.'",
+            "en": "One simple version is, 'I do not have the full picture yet, but I trust myself to keep responding honestly as it unfolds.'",
             "zh": "你可以說：「I do not have the full picture yet, but I trust myself to keep responding honestly as it unfolds.」"
           },
           {
@@ -2346,7 +2346,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am learning to make provisional plans without needing total certainty.'",
+            "en": "Another natural line is, 'I am learning to make provisional plans without needing total certainty.'",
             "zh": "另一句也很好用：「I am learning to make provisional plans without needing total certainty.」",
             "vocab": [
               {
@@ -2364,12 +2364,12 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am trying to move carefully without freezing.'",
+            "en": "If you want to keep it simple, 'I am trying to move carefully without freezing.' works well.",
             "zh": "如果你想講得更簡單，也可以說：「I am trying to move carefully without freezing.」",
             "vocab": [
               {
-                "word": "calm risk",
-                "def": "帶著清醒和分寸去冒的風險，不是衝動賭一把"
+                "word": "carefully without",
+                "def": "不是衝動賭一把"
               }
             ]
           },
@@ -2416,7 +2416,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "trust muscle",
-                "def": "透過一次次經驗慢慢練出來、對自己更有信心的能力"
+                "def": "而且你沒有拋下自己"
               }
             ]
           },
@@ -2462,8 +2462,8 @@ export const WEEK_40: Episode[] = [
             "zh": "因為人生很少等到百分之百確定才開始，而一個人即使如此，也還是值得擁有一種有尊嚴地往前走的方法。",
             "vocab": [
               {
-                "word": "open future",
-                "def": "還沒有完全定型、因此仍然有多種可能的未來"
+                "word": "complete certainty",
+                "def": "而一個人即使如此"
               }
             ]
           },
@@ -2481,7 +2481,7 @@ export const WEEK_40: Episode[] = [
             "vocab": [
               {
                 "word": "steady step",
-                "def": "不是大跳，而是在不確定裡仍然穩穩往前的步伐"
+                "def": "不是大跳"
               }
             ]
           },

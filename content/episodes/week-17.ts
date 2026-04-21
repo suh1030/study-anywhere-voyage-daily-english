@@ -25,7 +25,7 @@ export const WEEK_17: Episode[] = [
             "zh": "然後還沒等你開口，就有人先跳進來幫你了，對吧？",
             "vocab": [
               {
-                "word": "jump in",
+                "word": "someone jumped",
                 "def": "立刻加入幫忙；主動出手"
               }
             ]
@@ -120,7 +120,7 @@ export const WEEK_17: Episode[] = [
             "zh": "她特地多做了一步，在那個又漫長又可怕的時刻陪著你。",
             "vocab": [
               {
-                "word": "go out of your way",
+                "word": "went out",
                 "def": "特地多花力氣去幫忙"
               }
             ]
@@ -173,7 +173,7 @@ export const WEEK_17: Episode[] = [
             "zh": "溫暖多了。如果對方看起來快被事情壓垮，你也可以說：「今天這部分我幫你扛下來。」",
             "vocab": [
               {
-                "word": "take something off someone's plate",
+                "word": "off your plate",
                 "def": "替某人分擔手上的事"
               }
             ]
@@ -181,7 +181,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it offers something specific instead of vague goodness.",
+            "en": "I like it because it offers something specific instead of vague goodness.",
             "zh": "我喜歡這句，因為它提供的是一個具體動作，不是模糊的善意。"
           },
           {
@@ -279,7 +279,7 @@ export const WEEK_17: Episode[] = [
             "zh": "通常不會。他們記得的是誰有出現，還有那之後整個空氣的感覺。",
             "vocab": [
               {
-                "word": "show up",
+                "word": "showed up",
                 "def": "出現；在需要的時候到場"
               }
             ]
@@ -390,7 +390,7 @@ export const WEEK_17: Episode[] = [
             "zh": "那第一個人，就是在自己的不好意思追上來之前，先踏進去幫忙的人。",
             "vocab": [
               {
-                "word": "step in",
+                "word": "one who stepped",
                 "def": "介入幫忙；立刻出手"
               }
             ]
@@ -516,11 +516,11 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'She did the decent thing,' or, 'He could not just walk past.' Both sound very natural.",
+            "en": "A good line here is, 'She did the decent thing,' or, 'He could not just walk past.' Both sound very natural.",
             "zh": "你可以說「She did the decent thing」，或是「He could not just walk past」。這兩句都非常自然。",
             "vocab": [
               {
-                "word": "do the decent thing",
+                "word": "decent thing",
                 "def": "做出一個厚道、正派的舉動"
               }
             ]
@@ -538,15 +538,15 @@ export const WEEK_17: Episode[] = [
             "zh": "真實多了。如果那個原因很個人，你也可以說「我在他身上看到了自己，所以我就動了。」",
             "vocab": [
               {
-                "word": "see yourself in someone",
-                "def": "在別人身上看見自己的處境或影子"
+                "word": "felt personal",
+                "def": "真實多了"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because motives are usually mixed, not pure.",
+            "en": "What lands for me is that motives are usually mixed, not pure.",
             "zh": "我喜歡這句，因為人的動機通常是混合的，不是純粹的。"
           },
           {
@@ -621,7 +621,7 @@ export const WEEK_17: Episode[] = [
             "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。",
             "vocab": [
               {
-                "word": "act on it",
+                "word": "first workable",
                 "def": "把想法真的付諸行動"
               }
             ]
@@ -755,7 +755,7 @@ export const WEEK_17: Episode[] = [
             "zh": "那真的是一個很容易踩到的陷阱。你本來只是想幫忙，最後卻變成整個接管。",
             "vocab": [
               {
-                "word": "take over",
+                "word": "taking over",
                 "def": "接管；把事情整個拿來做"
               }
             ]
@@ -892,14 +892,14 @@ export const WEEK_17: Episode[] = [
             "vocab": [
               {
                 "word": "ask permission",
-                "def": "先確認對方願不願意接受你的介入"
+                "def": "有幫助嗎"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a small sentence, but it changes the whole balance.",
+            "en": "That comes through as a small sentence, but it changes the whole balance.",
             "zh": "這只是一句很小的話，但它會改變整個平衡。"
           },
           {
@@ -1120,7 +1120,7 @@ export const WEEK_17: Episode[] = [
             "zh": "那就是幫忙會悄悄變成『救場』的時刻。",
             "vocab": [
               {
-                "word": "rescue someone",
+                "word": "turn into rescuing",
                 "def": "出手把某人從後果裡救出來"
               }
             ]
@@ -1150,7 +1150,7 @@ export const WEEK_17: Episode[] = [
             "zh": "如果你的幫忙正在讓那個循環繼續活著，那退一步就不叫遺棄。",
             "vocab": [
               {
-                "word": "step back",
+                "word": "Stepping back",
                 "def": "退一步；主動不再過度介入"
               }
             ]
@@ -1185,7 +1185,7 @@ export const WEEK_17: Episode[] = [
             "zh": "先問一個問題：對方有沒有還在為自己的那一部分負責？",
             "vocab": [
               {
-                "word": "take responsibility",
+                "word": "taking responsibility",
                 "def": "為自己的部分負責任"
               }
             ]
@@ -1323,11 +1323,11 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Tell me what you're going to do first, and I'll listen,' or 'I'm here after you've made the call.'",
+            "en": "If you want a clear sentence, try 'Tell me what you're going to do first, and I'll listen,' or 'I'm here after you've made the call.'",
             "zh": "你可以說：「你先告訴我你打算怎麼做，我來聽。」或者「你打完那通電話之後，我在這裡。」",
             "vocab": [
               {
-                "word": "stay available",
+                "word": "clear sentence",
                 "def": "保持可被依靠，但不全面接手"
               }
             ]
@@ -1374,7 +1374,7 @@ export const WEEK_17: Episode[] = [
             "zh": "對。尤其是當『自己做』正好就是他下一個需要學會的能力時。",
             "vocab": [
               {
-                "word": "let them handle it",
+                "word": "Especially",
                 "def": "讓對方自己去面對和處理"
               }
             ]
@@ -1599,7 +1599,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What can I say in English when I want to accept help without sounding dramatic?",
+            "en": "How would I say it in English when I want to accept help without sounding dramatic?",
             "zh": "如果我想用英文自然地接受幫助，不想聽起來太戲劇化，可以怎麼說？"
           },
           {
@@ -1609,7 +1609,7 @@ export const WEEK_17: Episode[] = [
             "zh": "保持簡單就好。像是「謝謝，那真的會有幫助」或「其實我接受你這個提議」。這兩句都很溫暖也很正常。",
             "vocab": [
               {
-                "word": "take someone up on an offer",
+                "word": "take you up",
                 "def": "接受某人的提議或好意"
               }
             ]
@@ -1627,7 +1627,7 @@ export const WEEK_17: Episode[] = [
             "zh": "好多了。如果你需要的是具體的東西，就直接說出來：「你可以幫我把這兩箱搬下樓嗎？」",
             "vocab": [
               {
-                "word": "be specific",
+                "word": "specific",
                 "def": "把需要說得具體清楚"
               }
             ]
@@ -1915,7 +1915,7 @@ export const WEEK_17: Episode[] = [
             "zh": "小而可靠的事情。像是颱風後關心一下對方、提醒他今天停水、告訴他燈忘了關。",
             "vocab": [
               {
-                "word": "check in on someone",
+                "word": "someone after",
                 "def": "順手關心一下某人的狀況"
               }
             ]
@@ -1945,7 +1945,7 @@ export const WEEK_17: Episode[] = [
             "zh": "所以像是順手幫忙留意走廊這種小事，往往比聽起來還重要。",
             "vocab": [
               {
-                "word": "keep an eye on",
+                "word": "keeping an eye",
                 "def": "幫忙留意、照看一下"
               }
             ]
@@ -1998,19 +1998,19 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say, 'I'm running to the store anyway. Need anything?' That is a very normal offer.",
+            "en": "I would probably say, 'I'm running to the store anyway. Need anything?' That is a very normal offer.",
             "zh": "沒錯。你也可以說：「我剛好要去商店，你有需要我順便買什麼嗎？」這是很常見也很自然的提供幫忙方式。",
             "vocab": [
               {
-                "word": "run an errand",
-                "def": "順手跑一趟辦個小事"
+                "word": "store anyway",
+                "def": "」這是很常見也很自然的提供幫忙方式"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it keeps the help casual instead of making it feel like a formal favor.",
+            "en": "The reason I like it is that it keeps the help casual instead of making it feel like a formal favor.",
             "zh": "我喜歡這種說法，因為它讓幫忙維持在輕鬆的日常裡，不會變成人情壓力很大的正式事件。"
           },
           {
@@ -2261,7 +2261,7 @@ export const WEEK_17: Episode[] = [
             "zh": "但她有一路做到底，也正因如此，大家到現在說起來都還是會先想到她。",
             "vocab": [
               {
-                "word": "follow through",
+                "word": "followed through",
                 "def": "一路做到；後續真的有跟上"
               }
             ]
@@ -2349,8 +2349,8 @@ export const WEEK_17: Episode[] = [
             "zh": "一句很好用的是：「我在，而且不只是今天。」這是在告訴對方，你不是只打算在最震驚的時候陪一下而已。",
             "vocab": [
               {
-                "word": "be there for someone",
-                "def": "在需要的時候陪著某人"
+                "word": "tells someone",
+                "def": "這是在告訴對方"
               }
             ]
           },
@@ -2481,7 +2481,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong difference.",
+            "en": "That is a genuinely strong difference.",
             "zh": "這個差別真的很強烈。"
           },
           {

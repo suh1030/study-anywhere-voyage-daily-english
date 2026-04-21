@@ -25,8 +25,8 @@ export const WEEK_38: Episode[] = [
             "zh": "可持續這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。",
             "vocab": [
               {
-                "word": "daily footprint",
-                "def": "一個人每天的選擇累積出來、對環境造成的實際痕跡"
+                "word": "sustainability",
+                "def": "可持續性"
               }
             ]
           },
@@ -44,7 +44,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "resource use",
-                "def": "我們實際用了多少材料、能源和自然資源的情況"
+                "def": "資源使用這件事"
               }
             ]
           },
@@ -91,7 +91,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "ecological cost",
-                "def": "某種方便或消費背後，實際由環境承擔的代價"
+                "def": "某種方便或消費背後"
               }
             ]
           },
@@ -109,7 +109,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "long-term thinking",
-                "def": "不只看眼前方便，也把未來影響一起算進去的思考方式"
+                "def": "不只看眼前方便"
               }
             ]
           },
@@ -145,13 +145,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about trying to live more sustainably?",
+            "en": "What would be a natural English way to talk about trying to live more sustainably?",
             "zh": "如果我想用英文談自己正在努力活得更可持續，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to make everyday choices that create less unnecessary waste.'",
+            "en": "You could say, 'I am trying to make everyday choices that create less unnecessary waste.'",
             "zh": "你可以說：「I am trying to make everyday choices that create less unnecessary waste.」"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I care more now about my carbon footprint than I used to.'",
+            "en": "Another sentence that works is 'I care more now about my carbon footprint than I used to.'",
             "zh": "另一句也很好用：「I care more now about my carbon footprint than I used to.」",
             "vocab": [
               {
@@ -181,12 +181,12 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I do not want my convenience to become someone else's future problem.'",
+            "en": "A natural line when you want something simpler is 'I do not want my convenience to become someone else's future problem.'",
             "zh": "如果你想講得更簡單，也可以說：「I do not want my convenience to become someone else's future problem.」",
             "vocab": [
               {
-                "word": "shared future",
-                "def": "把未來看成大家共同會住進去的結果，而不是各自分開的事"
+                "word": "convenience",
+                "def": "便利"
               }
             ]
           },
@@ -292,7 +292,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "collective responsibility",
-                "def": "不是把責任丟給單一個人，而是承認大家都在共同影響結果"
+                "def": "不是把責任丟給單一個人"
               }
             ]
           },
@@ -317,7 +317,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like a good place to pause.",
+            "en": "I think that is a good point to stop on for today.",
             "zh": "停在這裡剛剛好。"
           }
         ]
@@ -391,7 +391,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "climate scale",
-                "def": "氣候問題在時間和範圍上都大到很難直覺掌握的尺度"
+                "def": "氣候尺度對人腦來說真的很難"
               }
             ]
           },
@@ -409,7 +409,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "helpless feeling",
-                "def": "面對太大的問題時，覺得自己再做什麼都沒有用的感受"
+                "def": "長大"
               }
             ]
           },
@@ -456,7 +456,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "systems problem",
-                "def": "不是單一人做錯，而是整個制度和環境一起造成的問題"
+                "def": "不是單一人做錯"
               }
             ]
           },
@@ -474,7 +474,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "distant consequence",
-                "def": "某個行為的後果不是立刻出現，而是在之後或別處才顯現"
+                "def": "而是在之後或別處才顯現"
               }
             ]
           },
@@ -510,13 +510,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say the topic feels emotionally overwhelming?",
+            "en": "What sounds natural if I want to say the topic feels emotionally overwhelming?",
             "zh": "如果我想用英文說，這個主題在情緒上真的太大、太壓人，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Sometimes the scale of the issue makes it hard to know what meaningful action even looks like.'",
+            "en": "A clean way to say it is, 'Sometimes the scale of the issue makes it hard to know what meaningful action even looks like.'",
             "zh": "你可以說：「Sometimes the scale of the issue makes it hard to know what meaningful action even looks like.」"
           },
           {
@@ -528,7 +528,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I care about this, but I also notice how quickly news fatigue shuts me down.'",
+            "en": "You could also say, 'I care about this, but I also notice how quickly news fatigue shuts me down.'",
             "zh": "另一句也很好用：「I care about this, but I also notice how quickly news fatigue shuts me down.」",
             "vocab": [
               {
@@ -546,12 +546,12 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'The problem feels huge, so I need a smaller place to begin.'",
+            "en": "If that is the direction you want, you could say, 'The problem feels huge, so I need a smaller place to begin.'",
             "zh": "如果你想講得更簡單，也可以說：「The problem feels huge, so I need a smaller place to begin.」",
             "vocab": [
               {
-                "word": "meaningful action",
-                "def": "不是表面做一下，而是真的對方向和結果有幫助的行動"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
@@ -598,7 +598,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "emotional overload",
-                "def": "情緒和資訊一下子超過承受量、整個人開始撐不住的狀態"
+                "def": "情緒過載不會讓人更有用"
               }
             ]
           },
@@ -657,7 +657,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "everyday leverage",
-                "def": "在日常裡雖然不巨大、但真的能推動改變的著力點"
+                "def": "夠真、夠留得住的地方"
               }
             ]
           },
@@ -756,7 +756,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "accumulated effect",
-                "def": "一個小選擇反覆累積之後，慢慢形成的整體影響"
+                "def": "慢慢形成的整體影響"
               }
             ]
           },
@@ -774,7 +774,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "consumption pattern",
-                "def": "一個人長期買東西、使用東西和丟東西的固定模式"
+                "def": "真正重要的是消費模式"
               }
             ]
           },
@@ -833,7 +833,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "reusable habit",
-                "def": "能反覆使用物品、減少一次性消耗的生活習慣"
+                "def": "在那個當下過後繼續存在"
               }
             ]
           },
@@ -851,7 +851,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "food miles",
-                "def": "食物從產地到你手上所經過的運輸距離和相關影響"
+                "def": "而foodmiles也正是同樣的道理"
               }
             ]
           },
@@ -875,13 +875,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say small choices add up?",
+            "en": "How would I say it if I wanted to say small choices add up?",
             "zh": "如果我想用英文說，小選擇其實會越積越有影響，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'No single choice changes everything, but repeated choices shape the overall direction.'",
+            "en": "One sentence that works well is 'No single choice changes everything, but repeated choices shape the overall direction.'",
             "zh": "你可以說：「No single choice changes everything, but repeated choices shape the overall direction.」"
           },
           {
@@ -893,7 +893,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am trying to pay more attention to the hidden impact of ordinary habits.'",
+            "en": "Another natural line is, 'I am trying to pay more attention to the hidden impact of ordinary habits.'",
             "zh": "另一句也很好用：「I am trying to pay more attention to the hidden impact of ordinary habits.」",
             "vocab": [
               {
@@ -905,18 +905,18 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds curious, not self-righteous.",
+            "en": "What lands for me is that it sounds curious, not self-righteous.",
             "zh": "我喜歡這句，因為它聽起來像在好奇，不像在自我正義。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am trying to waste less without making life impossible.'",
+            "en": "If you want to keep it simple, 'I am trying to waste less without making life impossible.' works well.",
             "zh": "如果你想講得更簡單，也可以說：「I am trying to waste less without making life impossible.」",
             "vocab": [
               {
-                "word": "practical swap",
-                "def": "在不把生活弄得太難的前提下做出的更好替代選擇"
+                "word": "life impossible",
+                "def": "把生活弄得很難過"
               }
             ]
           },
@@ -1121,7 +1121,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "hidden waste",
-                "def": "表面看不見、但整個過程其實一直在產生的廢棄物"
+                "def": "也因此"
               }
             ]
           },
@@ -1198,7 +1198,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "delivery culture",
-                "def": "把快速送達和即時滿足當成理所當然的消費文化"
+                "def": "外送文化之所以長這麼快"
               }
             ]
           },
@@ -1216,7 +1216,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "convenience trap",
-                "def": "明知有代價，卻因為太方便而越用越依賴的模式"
+                "def": "明知有代價"
               }
             ]
           },
@@ -1240,13 +1240,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain why convenience bothers me now?",
+            "en": "If I wanted to explain why convenience bothers me now, what would sound natural in English?",
             "zh": "如果我想用英文說明，為什麼我現在開始被便利感困擾，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I have started noticing how much waste is built into things that feel effortless.'",
+            "en": "You could say, 'I have started noticing how much waste is built into things that feel effortless.'",
             "zh": "你可以說：「I have started noticing how much waste is built into things that feel effortless.」"
           },
           {
@@ -1258,7 +1258,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am trying to see the disposal chain, not just the moment of purchase.'",
+            "en": "You could also say, 'I am trying to see the disposal chain, not just the moment of purchase.'",
             "zh": "另一句也很好用：「I am trying to see the disposal chain, not just the moment of purchase.」",
             "vocab": [
               {
@@ -1276,11 +1276,11 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am trying not to let easy choices become throwaway habits.'",
+            "en": "An easier everyday line would be, 'I am trying not to let easy choices become throwaway habits.'",
             "zh": "如果你想講得更簡單，也可以說：「I am trying not to let easy choices become throwaway habits.」",
             "vocab": [
               {
-                "word": "throwaway mindset",
+                "word": "become throwaway",
                 "def": "把東西用完就丟、很少想長久使用的消費心態"
               }
             ]
@@ -1328,7 +1328,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "landfill burden",
-                "def": "大量垃圾最終堆進掩埋場後對土地造成的長期壓力"
+                "def": "下降"
               }
             ]
           },
@@ -1347,7 +1347,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a sharp way to put it.",
+            "en": "That is a really sharp way to put it.",
             "zh": "這個說法真的很銳利。"
           },
           {
@@ -1387,7 +1387,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "durable choice",
-                "def": "優先選擇能長久使用、不容易變成垃圾的決定"
+                "def": "耐用選擇很重要"
               }
             ]
           },
@@ -1400,7 +1400,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would agree with that.",
+            "en": "That is probably where I would land too.",
             "zh": "我會同意這個說法。"
           },
           {
@@ -1486,7 +1486,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "climate guilt",
-                "def": "面對環境問題時，因自己也參與其中而產生的內疚感"
+                "def": "氣候罪惡感就很容易長得很快"
               }
             ]
           },
@@ -1504,7 +1504,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "eco-anxiety",
-                "def": "因環境破壞和氣候風險而產生的持續焦慮和不安"
+                "def": "生態焦慮不是一個人不理性"
               }
             ]
           },
@@ -1551,7 +1551,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "grounded hope",
-                "def": "不是自我安慰，而是立基於現實後仍然保有方向感的希望"
+                "def": "要的是有根的希望"
               }
             ]
           },
@@ -1569,7 +1569,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "active hope",
-                "def": "不是空想，而是會推著人往前做事的希望方式"
+                "def": "不是空想"
               }
             ]
           },
@@ -1605,13 +1605,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say this topic affects me emotionally?",
+            "en": "What is a natural way to say it if I want to say this topic affects me emotionally?",
             "zh": "如果我想用英文說這個主題真的會碰到我的情緒，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I care about this issue enough that it affects me emotionally, not just intellectually.'",
+            "en": "A natural way to say it is, 'I care about this issue enough that it affects me emotionally, not just intellectually.'",
             "zh": "你可以說：「I care about this issue enough that it affects me emotionally, not just intellectually.」"
           },
           {
@@ -1623,37 +1623,37 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am trying not to confuse guilt with responsibility, or hope with denial.'",
+            "en": "You can also try, 'I am trying not to confuse guilt with responsibility, or hope with denial.'",
             "zh": "另一句也很好用：「I am trying not to confuse guilt with responsibility, or hope with denial.」",
             "vocab": [
               {
-                "word": "moral fatigue",
-                "def": "長時間感到自己應該做更多後，慢慢出現的道德疲乏"
+                "word": "guilt",
+                "def": "罪惡感；內疚"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a smart sentence.",
+            "en": "That feels like a smart sentence.",
             "zh": "這句真的很聰明。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I want to care in a way I can keep.'",
+            "en": "For a simpler version, you could say, 'I want to care in a way I can keep.'",
             "zh": "如果你想講得更簡單，也可以說：「I want to care in a way I can keep.」",
             "vocab": [
               {
-                "word": "honest optimism",
-                "def": "不是盲目樂觀，而是承認困難後仍願意往前看的樂觀"
+                "word": "simpler version",
+                "def": "不是盲目樂觀"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one is beautiful.",
+            "en": "That lands beautifully.",
             "zh": "這句真的很美。"
           },
           {
@@ -1693,7 +1693,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "shared effort",
-                "def": "不是一個人獨自扛，而是和別人一起分擔的行動與責任"
+                "def": "不是一個人獨自扛"
               }
             ]
           },
@@ -1711,7 +1711,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "emotional resilience",
-                "def": "面對壓力和沉重情緒時，仍能恢復和平衡的能力"
+                "def": "仍能恢復和平衡的能力"
               }
             ]
           },
@@ -1758,7 +1758,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "emotional wisdom",
-                "def": "知道怎麼和沉重情緒共處，同時不失去判斷和方向的能力"
+                "def": "情緒智慧在這裡很重要"
               }
             ]
           },
@@ -1857,7 +1857,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "livable city",
-                "def": "讓人願意走、願意停，也比較容易健康生活的城市環境"
+                "def": "人願意走、願意停"
               }
             ]
           },
@@ -1934,7 +1934,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "walkable block",
-                "def": "走路就能安全到達、而且人願意走的街區環境"
+                "def": "可行"
               }
             ]
           },
@@ -1952,7 +1952,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "public transit",
-                "def": "公車、捷運、火車等供大眾共同使用的交通系統"
+                "def": "大眾運輸很重要"
               }
             ]
           },
@@ -1976,47 +1976,47 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe a city that feels more sustainable?",
+            "en": "How could I phrase it if I wanted to describe a city that feels more sustainable?",
             "zh": "如果我想用英文描述一座感覺更可持續的城市，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'It is a city designed around people, not only around traffic speed.'",
+            "en": "One simple version is, 'It is a city designed around people, not only around traffic speed.'",
             "zh": "你可以說：「It is a city designed around people, not only around traffic speed.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very clear.",
+            "en": "That lands in a very clear way.",
             "zh": "這句很清楚。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'The neighborhood works because daily needs are close enough to reach without a car.'",
+            "en": "A steadier way to put it is, 'The neighborhood works because daily needs are close enough to reach without a car.'",
             "zh": "另一句也很好用：「The neighborhood works because daily needs are close enough to reach without a car.」",
             "vocab": [
               {
-                "word": "mixed-use design",
-                "def": "住家、店面和生活機能能在同一區域共存的設計方式"
+                "word": "neighborhood",
+                "def": "社區；鄰近地區"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds grounded.",
+            "en": "The reason I like it is that it sounds grounded.",
             "zh": "我喜歡這句，因為它很接地氣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'This place makes the good choice easier.'",
+            "en": "A plainer way to put it is, 'This place makes the good choice easier.'",
             "zh": "如果你想講得更簡單，也可以說：「This place makes the good choice easier.」",
             "vocab": [
               {
-                "word": "green corridor",
+                "word": "choice easier",
                 "def": "把公園、樹道或自然空間串連起來的城市綠色通道"
               }
             ]
@@ -2064,7 +2064,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "cooling shade",
-                "def": "能降低熱感、讓人願意停留的遮蔭設計和綠蔭效果"
+                "def": "高溫會直接改變情緒、安全感"
               }
             ]
           },
@@ -2082,14 +2082,14 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "community garden",
-                "def": "由社區共同維護、種植和使用的在地綠色空間"
+                "def": "變成共享的在地練習"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a hopeful image.",
+            "en": "That is honestly a hopeful image.",
             "zh": "那真的是很有希望的畫面。"
           },
           {
@@ -2128,15 +2128,15 @@ export const WEEK_38: Episode[] = [
             "zh": "城市設計很重要，因為政策一碰到一個人的腳步、呼吸和時間，就會立刻變得非常個人。",
             "vocab": [
               {
-                "word": "human-scale design",
-                "def": "從人的步伐、身體感受和使用經驗出發的設計方式"
+                "word": "design matters",
+                "def": "非常個人"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong final point.",
+            "en": "That comes through as a strong final point.",
             "zh": "這真的很適合當最後的重點。"
           },
           {
@@ -2240,7 +2240,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "civic imagination",
-                "def": "一起想像公共生活可以變得更好的能力和視野"
+                "def": "更好的能力和視野"
               }
             ]
           },
@@ -2299,7 +2299,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "circular economy",
-                "def": "讓資源盡量循環再用、減少直接丟棄的經濟思維"
+                "def": "循環經濟思維很重要"
               }
             ]
           },
@@ -2318,7 +2318,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very important reminder.",
+            "en": "That feels especially important reminder.",
             "zh": "這真的是很重要的提醒。"
           },
           {
@@ -2335,13 +2335,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe a future that feels sustainable and desirable?",
+            "en": "What would be a natural English way to describe a future that feels sustainable and desirable?",
             "zh": "如果我想用英文描述一個既可持續又讓人想住進去的未來，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'A sustainable future should feel healthier, fairer, and more livable in ordinary ways.'",
+            "en": "You could say, 'A sustainable future should feel healthier, fairer, and more livable in ordinary ways.'",
             "zh": "你可以說：「A sustainable future should feel healthier, fairer, and more livable in ordinary ways.」"
           },
           {
@@ -2353,11 +2353,11 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I want progress to mean cleaner systems, not just faster consumption.'",
+            "en": "If you want a more grounded version, try 'I want progress to mean cleaner systems, not just faster consumption.'",
             "zh": "另一句也很好用：「I want progress to mean cleaner systems, not just faster consumption.」",
             "vocab": [
               {
-                "word": "clean energy",
+                "word": "cleaner systems",
                 "def": "較少污染、較少碳排的能源來源和系統"
               }
             ]
@@ -2365,18 +2365,18 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it challenges the usual story of progress.",
+            "en": "I respond to that because it challenges the usual story of progress.",
             "zh": "我喜歡這句，因為它會挑戰一般人對進步的想像。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I want the future to feel easier to live in, not harder.'",
+            "en": "When you want something simpler, you can use 'I want the future to feel easier to live in, not harder.'",
             "zh": "如果你想講得更簡單，也可以說：「I want the future to feel easier to live in, not harder.」",
             "vocab": [
               {
-                "word": "future habit",
-                "def": "現在就開始練、會把人帶進較好未來的生活習慣"
+                "word": "future",
+                "def": "把人帶進較好未來的生活習慣"
               }
             ]
           },
@@ -2423,7 +2423,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "repairable design",
-                "def": "東西被設計成比較容易維修、延長壽命，而不是壞了就丟"
+                "def": "而不是壞了就丟"
               }
             ]
           },
@@ -2441,7 +2441,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "local resilience",
-                "def": "一個地方在面對變化和危機時仍能穩住生活的能力"
+                "def": "而且在地韌性也很重要"
               }
             ]
           },
@@ -2475,8 +2475,8 @@ export const WEEK_38: Episode[] = [
             "zh": "要記得，它不只應該減少傷害，也應該增加尊嚴、美感和日常生活的輕鬆度。",
             "vocab": [
               {
-                "word": "human-scale future",
-                "def": "讓人能在日常裡真正住進去、感覺得到改善的未來樣子"
+                "word": "increase dignity",
+                "def": "要記得"
               }
             ]
           },
@@ -2494,7 +2494,7 @@ export const WEEK_38: Episode[] = [
             "vocab": [
               {
                 "word": "regenerative thinking",
-                "def": "不只減少消耗，而是想著如何讓系統恢復和再生的思考方式"
+                "def": "不只減少消耗"
               }
             ]
           },

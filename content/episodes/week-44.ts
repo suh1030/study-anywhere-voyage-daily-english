@@ -44,7 +44,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "style drift",
-                "def": "創作時不自覺被他人風格帶走、離自己的聲音越來越遠"
+                "def": "卻還沒開始信任自己自然長出的東西"
               }
             ]
           },
@@ -62,7 +62,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "borrowed confidence",
-                "def": "先借用別人風格或框架撐住自己的初期自信"
+                "def": "借來的自信常常會先出現"
               }
             ]
           },
@@ -96,8 +96,8 @@ export const WEEK_44: Episode[] = [
             "zh": "因為自我表達不只是技術問題，它同時也是一種情感允許。",
             "vocab": [
               {
-                "word": "expressive permission",
-                "def": "允許自己用真實方式表達，而不是一直先自我審查"
+                "word": "emotional permission",
+                "def": "自我表達不只是技術問題"
               }
             ]
           },
@@ -115,7 +115,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "inner censorship",
-                "def": "創作時自己先把真實想法或語氣壓掉的內在審查"
+                "def": "聽起來小心、平整"
               }
             ]
           },
@@ -133,7 +133,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "vulnerable making",
-                "def": "帶著不完全安全的感覺，仍然願意真實創作的狀態"
+                "def": "帶著不完全安全的感覺"
               }
             ]
           },
@@ -157,18 +157,18 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about finding my own style?",
+            "en": "If I wanted to talk about finding my own style, what would sound natural in English?",
             "zh": "如果我想用英文談自己正在找風格，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I am still figuring out what feels natural in my own work.\"",
+            "en": "You might put it like this: \"I am still figuring out what feels natural in my own work.\"",
             "zh": "你可以說：「I am still figuring out what feels natural in my own work.」",
             "vocab": [
               {
-                "word": "natural style",
-                "def": "不是硬做出來，而是慢慢長得很像自己的風格"
+                "word": "like this",
+                "def": "而不是比較苦"
               }
             ]
           },
@@ -181,7 +181,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I am trying to make work that sounds more like me and less like my influences.\"",
+            "en": "One more way to say it is \"I am trying to make work that sounds more like me and less like my influences.\"",
             "zh": "另一句也很好用：「I am trying to make work that sounds more like me and less like my influences.」",
             "vocab": []
           },
@@ -194,12 +194,12 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I do not want my work to feel borrowed anymore.\"",
+            "en": "A shorter version would be, \"I do not want my work to feel borrowed anymore.\"",
             "zh": "如果你想講得更簡單，也可以說：「I do not want my work to feel borrowed anymore.」",
             "vocab": [
               {
-                "word": "authentic sound",
-                "def": "一種讓人感覺這作品真的屬於你，而不是借來的聲音"
+                "word": "borrowed",
+                "def": "借來的；非原發的"
               }
             ]
           },
@@ -246,14 +246,14 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "draft courage",
-                "def": "願意先做出不完美版本，讓真實聲音有地方出現的勇氣"
+                "def": "願意先做出不完美版本"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a useful reminder.",
+            "en": "That sounds like a useful reminder.",
             "zh": "這真的是很有用的提醒。"
           },
           {
@@ -313,7 +313,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like a good place to pause.",
+            "en": "I want to leave that thought hanging there for a moment.",
             "zh": "停在這裡剛剛好。"
           },
           {
@@ -417,7 +417,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "everyday art",
-                "def": "不是高高在上的作品，而是日常生活裡也會出現的藝術感"
+                "def": "出現的藝術感"
               }
             ]
           },
@@ -434,7 +434,7 @@ export const WEEK_44: Episode[] = [
             "zh": "本來就該親近。就算一個人不把它叫藝術，他也早就活在形式、質地、節奏和顏色裡了。",
             "vocab": [
               {
-                "word": "aesthetic attention",
+                "word": "already live around",
                 "def": "對生活中細節、形式和氛圍的美感注意力"
               }
             ]
@@ -469,8 +469,8 @@ export const WEEK_44: Episode[] = [
             "zh": "因為實用性比較容易得到公開尊重。美感常常得先用實用語言替自己辯護。",
             "vocab": [
               {
-                "word": "practical bias",
-                "def": "凡事先看功能，因而忽略美感和感受價值的偏向"
+                "word": "practical",
+                "def": "實際的；務實的"
               }
             ]
           },
@@ -488,7 +488,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "sensory nourishment",
-                "def": "能讓感官和心情被滋養、不是只有功能而已的感受經驗"
+                "def": "也一樣重要"
               }
             ]
           },
@@ -506,7 +506,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "livable space",
-                "def": "不只是能用，而是能讓人真正感到舒服與住得下去的空間"
+                "def": "不只是能用"
               }
             ]
           },
@@ -530,13 +530,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about beauty in ordinary life?",
+            "en": "What is a natural way to say it if I want to talk about beauty in ordinary life?",
             "zh": "如果我想用英文談日常生活裡的美感，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I care about the small details that make everyday life feel more alive.\"",
+            "en": "You could say, \"I care about the small details that make everyday life feel more alive.\"",
             "zh": "你可以說：「I care about the small details that make everyday life feel more alive.」",
             "vocab": []
           },
@@ -549,27 +549,27 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"Beauty does not have to be grand to matter.\"",
+            "en": "Another sentence that works is \"Beauty does not have to be grand to matter.\"",
             "zh": "另一句也很好用：「Beauty does not have to be grand to matter.」",
             "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds simple but thoughtful.",
+            "en": "What lands for me is that it sounds simple but thoughtful.",
             "zh": "我喜歡這句，因為它很簡單，但很有想法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I want my daily life to feel a little more beautiful.\"",
+            "en": "If you want something simpler, \"I want my daily life to feel a little more beautiful.\" works well.",
             "zh": "如果你想講得更簡單，也可以說：「I want my daily life to feel a little more beautiful.」",
             "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one is very easy to use.",
+            "en": "That one would slip easily into conversation.",
             "zh": "這句真的很好拿來用。"
           },
           {
@@ -609,7 +609,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "restorative detail",
-                "def": "雖然很小，卻能讓空間或心情明顯變舒服的細節"
+                "def": "雖然很小"
               }
             ]
           },
@@ -656,14 +656,14 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "tenderness",
-                "def": "溫柔；細膩的關懷與輕柔感，使日常生活不流於機械化"
+                "def": "情感扁平"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very complete answer.",
+            "en": "That comes through as a complete answer.",
             "zh": "這真的很像一個很完整的答案。"
           },
           {
@@ -682,7 +682,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let us stop on that thought.",
+            "en": "We can leave it on that note for now.",
             "zh": "我們就停在這個念頭上吧。"
           },
           {
@@ -803,8 +803,8 @@ export const WEEK_44: Episode[] = [
             "zh": "對很多人來說，它本來就很必要。很多意義真的是在說出來之後才到。",
             "vocab": [
               {
-                "word": "shared meaning",
-                "def": "透過說故事讓經驗變得可被他人理解與共同感受的意義"
+                "word": "Meaning often arrives",
+                "def": "很多意義真的是在說出來之後才到"
               }
             ]
           },
@@ -838,8 +838,8 @@ export const WEEK_44: Episode[] = [
             "zh": "通常是辨認感。好的故事，會讓一個人覺得自己的生命被看見了。",
             "vocab": [
               {
-                "word": "emotional mirror",
-                "def": "某個故事像鏡子一樣照出自己的情緒和經驗"
+                "word": "feel seen",
+                "def": "感覺自己被注意、被理解、被放在心上"
               }
             ]
           },
@@ -857,7 +857,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "human pattern",
-                "def": "故事裡反覆出現、讓人感覺自己也在其中的人性模式"
+                "def": "人想知道自己的痛、希望和混亂"
               }
             ]
           },
@@ -875,7 +875,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "personal myth",
-                "def": "一個人反覆用來理解自己人生角色和方向的內在故事"
+                "def": "一個個人神話感"
               }
             ]
           },
@@ -899,13 +899,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about why stories matter?",
+            "en": "How could I phrase it if I wanted to talk about why stories matter?",
             "zh": "如果我想用英文談故事為什麼重要，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"Stories help people make sense of things that would otherwise feel scattered.\"",
+            "en": "A good line here is, \"Stories help people make sense of things that would otherwise feel scattered.\"",
             "zh": "你可以說：「Stories help people make sense of things that would otherwise feel scattered.」",
             "vocab": []
           },
@@ -918,7 +918,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"A good story can make you feel less alone in your own experience.\"",
+            "en": "You could also say, \"A good story can make you feel less alone in your own experience.\"",
             "zh": "另一句也很好用：「A good story can make you feel less alone in your own experience.」",
             "vocab": []
           },
@@ -931,19 +931,19 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"Stories help people feel understood.\"",
+            "en": "If that is the direction you want, you could say, \"Stories help people feel understood.\"",
             "zh": "如果你想講得更簡單，也可以說：「Stories help people feel understood.」",
             "vocab": [
               {
-                "word": "listening imagination",
-                "def": "透過聽故事去想像與理解別人內在世界的能力"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one is very easy to use.",
+            "en": "That sounds easy to carry into daily speech.",
             "zh": "這句真的很好用。"
           },
           {
@@ -983,14 +983,14 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "truthful telling",
-                "def": "不是為了效果而誇張，而是如實講出故事的方式"
+                "def": "不是為了效果而誇張"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very helpful reminder for anyone making things.",
+            "en": "That is an unusually helpful reminder for anyone making things.",
             "zh": "這真的是對所有創作者都很有幫助的提醒。"
           },
           {
@@ -1050,7 +1050,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is enough for today.",
+            "en": "We have probably reached a good pause for today.",
             "zh": "今天先到這裡就很好。"
           },
           {
@@ -1154,7 +1154,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "friction point",
-                "def": "流程或使用體驗中讓人一直卡住、不順的地方"
+                "def": "人一直卡住、不順的地方"
               }
             ]
           },
@@ -1171,8 +1171,8 @@ export const WEEK_44: Episode[] = [
             "zh": "在最好的狀態下，它本來就很照顧人。好的設計會減少不必要的力氣，讓注意力能去更有意義的地方。",
             "vocab": [
               {
-                "word": "user thinking",
-                "def": "設計時先從使用者實際感受與需求出發的思考方式"
+                "word": "meaningful",
+                "def": "有意義的；做起來心裡有感的"
               }
             ]
           },
@@ -1207,7 +1207,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "workable solution",
-                "def": "不是理論上漂亮，而是在真實生活裡真的做得動的解法"
+                "def": "不是理論上漂亮"
               }
             ]
           },
@@ -1225,7 +1225,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "small prototype",
-                "def": "先做一個很小的試版本，看看實際用起來如何"
+                "def": "看看實際用起來如何"
               }
             ]
           },
@@ -1242,8 +1242,8 @@ export const WEEK_44: Episode[] = [
             "zh": "它到處都好用。很多日常挫折，其實都來自那些從來沒有被誠實測試過的系統。",
             "vocab": [
               {
-                "word": "daily design",
-                "def": "把設計思考用在日常安排、流程和生活細節上的做法"
+                "word": "daily frustration",
+                "def": "很多日常挫折"
               }
             ]
           },
@@ -1267,13 +1267,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about improving a system?",
+            "en": "What would be a natural English way to talk about improving a system?",
             "zh": "如果我想用英文談怎麼改善一個系統，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I think the problem is not effort, but the way the system is set up.\"",
+            "en": "If you want a clear sentence, try \"I think the problem is not effort, but the way the system is set up.\"",
             "zh": "你可以說：「I think the problem is not effort, but the way the system is set up.」",
             "vocab": []
           },
@@ -1286,20 +1286,20 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"We may need a simpler process that matches how people actually behave.\"",
+            "en": "Another natural line is, \"We may need a simpler process that matches how people actually behave.\"",
             "zh": "另一句也很好用：「We may need a simpler process that matches how people actually behave.」",
             "vocab": []
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it is clear without blaming people.",
+            "en": "The reason I like it is that it is clear without blaming people.",
             "zh": "我喜歡這句，因為它很清楚，又不怪人。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"This works in theory, but not in real life.\"",
+            "en": "If you want to keep it simple, \"This works in theory, but not in real life.\" works well.",
             "zh": "如果你想講得更簡單，也可以說：「This works in theory, but not in real life.」",
             "vocab": []
           },
@@ -1334,14 +1334,14 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "avoidance",
-                "def": "迴避；持續不去做某件事的傾向，通常是設計問題的訊號"
+                "def": "逃避；回避"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a sharp idea.",
+            "en": "That is a genuinely sharp idea.",
             "zh": "這真的很銳利。"
           },
           {
@@ -1352,7 +1352,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "thoughtful adjustment",
-                "def": "不是大翻修，而是有想法地做出精準小調整"
+                "def": "不是大翻修"
               }
             ]
           },
@@ -1419,7 +1419,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would leave it right there.",
+            "en": "I would let that point stand on its own.",
             "zh": "我會把它停在這裡。"
           },
           {
@@ -1504,7 +1504,7 @@ export const WEEK_44: Episode[] = [
             "zh": "那會發生，是因為音樂很多時候比語言更快碰到感受。",
             "vocab": [
               {
-                "word": "emotional rhythm",
+                "word": "reaches feeling",
                 "def": "音樂裡能直接帶動情緒的節奏感與流動"
               }
             ]
@@ -1523,7 +1523,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "music memory",
-                "def": "某段音樂和特定情緒、時間或記憶緊緊連在一起的感受"
+                "def": "音樂記憶很強"
               }
             ]
           },
@@ -1540,8 +1540,8 @@ export const WEEK_44: Episode[] = [
             "zh": "有時候真的會很強。聲音常常會繞過思考，直接進到身體裡。",
             "vocab": [
               {
-                "word": "embodied feeling",
-                "def": "不是只在腦中理解，而是身體也一起感受到的情緒"
+                "word": "feel intense",
+                "def": "很強"
               }
             ]
           },
@@ -1576,7 +1576,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "mood channel",
-                "def": "幫助情緒被帶出來、被流動的一種聲音通道"
+                "def": "變成一條情緒通道"
               }
             ]
           },
@@ -1594,7 +1594,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "private soundtrack",
-                "def": "陪伴某段人生時期、像背景配樂一樣一直存在的個人歌曲集合"
+                "def": "常常就是在改變、失落、愛"
               }
             ]
           },
@@ -1611,8 +1611,8 @@ export const WEEK_44: Episode[] = [
             "zh": "對。它們身上裝著某段時間太多情緒氛圍了。",
             "vocab": [
               {
-                "word": "shared atmosphere",
-                "def": "一首歌或一段聲音在空間裡創造出來、大家一起感受到的情緒氛圍"
+                "word": "emotional atmosphere",
+                "def": "它們身上裝著某段時間太多情緒氛圍了"
               }
             ]
           },
@@ -1636,17 +1636,17 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about what music does to my emotions?",
+            "en": "What sounds natural if I want to talk about what music does to my emotions?",
             "zh": "如果我想用英文說音樂怎麼影響我的情緒，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"Music helps me feel things I cannot always explain clearly.\"",
+            "en": "I would probably say, \"Music helps me feel things I cannot always explain clearly.\"",
             "zh": "你可以說：「Music helps me feel things I cannot always explain clearly.」",
             "vocab": [
               {
-                "word": "emotional release",
+                "word": "cannot always",
                 "def": "透過音樂把情緒放出來、鬆開來的經驗"
               }
             ]
@@ -1660,7 +1660,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"That song takes me straight back to a very specific feeling.\"",
+            "en": "You could also say, \"That song takes me straight back to a very specific feeling.\"",
             "zh": "另一句也很好用：「That song takes me straight back to a very specific feeling.」",
             "vocab": []
           },
@@ -1673,12 +1673,12 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"This song gets under my skin in the best way.\"",
+            "en": "An easier everyday line would be, \"This song gets under my skin in the best way.\"",
             "zh": "如果你想講得更簡單，也可以說：「This song gets under my skin in the best way.」",
             "vocab": [
               {
-                "word": "sonic comfort",
-                "def": "某種聲音會讓人立刻感到安定或被陪伴的舒適感"
+                "word": "easier everyday",
+                "def": "更日常的說法"
               }
             ]
           },
@@ -1787,7 +1787,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "We can end there for now.",
+            "en": "Let us leave the conversation there for now.",
             "zh": "我們現在可以先收在這裡。"
           },
           {
@@ -1873,7 +1873,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "writer attention",
-                "def": "寫作時那種高度集中、對語氣與細節都很敏感的注意力"
+                "def": "那是因為作者注意力其實非常集中"
               }
             ]
           },
@@ -1891,7 +1891,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "sentence pressure",
-                "def": "當一句話想承載太多真實，於是變得很難寫的壓力"
+                "def": "很難寫的壓力"
               }
             ]
           },
@@ -1908,8 +1908,8 @@ export const WEEK_44: Episode[] = [
             "zh": "很多發呆其實不是空白，而是腦袋在等那句比較真的句子。",
             "vocab": [
               {
-                "word": "inner draft",
-                "def": "還沒被寫出來，但已經在心裡慢慢成形的初稿感"
+                "word": "blank staring",
+                "def": "很多發呆其實不是空白"
               }
             ]
           },
@@ -1943,8 +1943,8 @@ export const WEEK_44: Episode[] = [
             "zh": "因為每一句話都會洩漏偏好、距離感、節奏感，還有作者到底願意看見什麼。",
             "vocab": [
               {
-                "word": "observing mind",
-                "def": "寫作者持續觀察世界、細節和自己反應的那種心智狀態"
+                "word": "preference",
+                "def": "偏好；喜好"
               }
             ]
           },
@@ -1962,7 +1962,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "blank page fear",
-                "def": "面對空白頁時因為自我暴露或要求感而出現的害怕"
+                "def": "反而和被看見有關"
               }
             ]
           },
@@ -2004,13 +2004,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about the difficulty of writing?",
+            "en": "How would I say it if I wanted to talk about the difficulty of writing?",
             "zh": "如果我想用英文談寫作為什麼難，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"Writing is slow for me because I can usually feel when a sentence is not honest yet.\"",
+            "en": "One option would be, \"Writing is slow for me because I can usually feel when a sentence is not honest yet.\"",
             "zh": "你可以說：「Writing is slow for me because I can usually feel when a sentence is not honest yet.」",
             "vocab": []
           },
@@ -2023,12 +2023,12 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"The hardest part is not wording it, but getting close enough to what I actually mean.\"",
+            "en": "You can also try, \"The hardest part is not wording it, but getting close enough to what I actually mean.\"",
             "zh": "另一句也很好用：「The hardest part is not wording it, but getting close enough to what I actually mean.」",
             "vocab": [
               {
-                "word": "written clarity",
-                "def": "原本模糊的感受或想法，終於被寫得清楚的狀態"
+                "word": "mean",
+                "def": "但帶很多"
               }
             ]
           },
@@ -2041,7 +2041,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I know what I feel, but the sentence is not there yet.\"",
+            "en": "For a simpler version, you could say, \"I know what I feel, but the sentence is not there yet.\"",
             "zh": "如果你想講得更簡單，也可以說：「I know what I feel, but the sentence is not there yet.」",
             "vocab": []
           },
@@ -2136,7 +2136,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong answer.",
+            "en": "That really is a strong answer.",
             "zh": "這真的是很強的答案。"
           },
           {
@@ -2155,7 +2155,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where I would pause.",
+            "en": "I would pause right there and let that sit.",
             "zh": "我會停在這個地方。"
           },
           {
@@ -2241,7 +2241,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "creative habit",
-                "def": "不是等靈感，而是平常就持續讓創作發生的習慣"
+                "def": "不是等靈感"
               }
             ]
           },
@@ -2276,15 +2276,15 @@ export const WEEK_44: Episode[] = [
             "zh": "創意人生本來就要住得下去，不然它很快就會變成形象，而不是練習。",
             "vocab": [
               {
-                "word": "lived creativity",
-                "def": "不是只在想像中認同自己有創意，而是真的活出創作性"
+                "word": "self-image",
+                "def": "一個人心裡對自己是什麼樣子的整體印象"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very sharp distinction.",
+            "en": "That feels especially sharp distinction.",
             "zh": "這真的很銳利。"
           },
           {
@@ -2311,8 +2311,8 @@ export const WEEK_44: Episode[] = [
             "zh": "很多時候是完美主義、比較，還有那種「只有做得很厲害才算創作」的信念。",
             "vocab": [
               {
-                "word": "playful experiment",
-                "def": "不急著證明自己，只是先輕鬆試做看看的創作嘗試"
+                "word": "impressive",
+                "def": "令人印象深刻的"
               }
             ]
           },
@@ -2330,7 +2330,7 @@ export const WEEK_44: Episode[] = [
             "vocab": [
               {
                 "word": "unfinished draft",
-                "def": "不完整但已經被做出來、因此真正開始活著的作品草稿"
+                "def": "一份未完成草稿"
               }
             ]
           },
@@ -2372,36 +2372,36 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe living more creatively?",
+            "en": "If I wanted to describe living more creatively, what would sound natural in English?",
             "zh": "如果我想用英文描述自己想活得更有創造力，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I want creativity to be part of my daily life, not just an occasional project.\"",
+            "en": "A more everyday version is, \"I want creativity to be part of my daily life, not just an occasional project.\"",
             "zh": "你可以說：「I want creativity to be part of my daily life, not just an occasional project.」",
             "vocab": [
               {
-                "word": "creative energy",
-                "def": "不是一直被消耗，而是會因創作而被喚醒的能量感"
+                "word": "occasional project",
+                "def": "不是一直被消耗"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very clear.",
+            "en": "That feels very clean on the ear.",
             "zh": "這句聽起來很清楚。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I am trying to make room for small acts of expression on a regular basis.\"",
+            "en": "A steadier way to put it is, \"I am trying to make room for small acts of expression on a regular basis.\"",
             "zh": "另一句也很好用：「I am trying to make room for small acts of expression on a regular basis.」",
             "vocab": [
               {
-                "word": "self-expression",
-                "def": "把自己內在的感受、想法和風格真實表達出來"
+                "word": "make room",
+                "def": "讓對方有空間把自己說完整"
               }
             ]
           },
@@ -2414,7 +2414,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I want to make more and overthink less.\"",
+            "en": "A plainer way to put it is, \"I want to make more and overthink less.\"",
             "zh": "如果你想講得更簡單，也可以說：「I want to make more and overthink less.」",
             "vocab": []
           },
@@ -2504,7 +2504,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very complete answer.",
+            "en": "That feels like a particularly complete answer.",
             "zh": "這真的很完整。"
           },
           {
@@ -2523,7 +2523,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like the cleanest place to pause.",
+            "en": "I would stop there while the point is still ringing.",
             "zh": "停在這裡最乾淨。"
           },
           {

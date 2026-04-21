@@ -25,8 +25,8 @@ export const WEEK_45: Episode[] = [
             "zh": "通常比組織圖正式寫出來還早。當有一個人開始穩住整個場面，而不是再多製造一些雜音時，那件事就開始了。",
             "vocab": [
               {
-                "word": "hold the room steady",
-                "def": "在混亂或壓力中把場面穩住"
+                "word": "room steady",
+                "def": "通常比組織圖正式寫出來還早"
               }
             ]
           },
@@ -79,8 +79,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對。真正的領導者不一定把每個答案都變得明顯，但他們會讓下一步不那麼混亂。",
             "vocab": [
               {
-                "word": "next-step clarity",
-                "def": "把眼前的下一步說清楚，讓人知道怎麼往前"
+                "word": "next step",
+                "def": "下一步；接下來的行動"
               }
             ]
           }
@@ -102,8 +102,8 @@ export const WEEK_45: Episode[] = [
             "zh": "是領導者在保護現實，還是在保護表面。",
             "vocab": [
               {
-                "word": "protect reality",
-                "def": "優先面對真實情況，而不是只維持表面好看"
+                "word": "protects reality",
+                "def": "還是在保護表面"
               }
             ]
           },
@@ -120,7 +120,7 @@ export const WEEK_45: Episode[] = [
             "zh": "它聽起來像模糊的樂觀、延後的決定，還有每個人都客氣離場卻一頭霧水的會議。",
             "vocab": [
               {
-                "word": "polite confusion",
+                "word": "politely confused",
                 "def": "表面客氣順利，但其實沒人真的弄清楚"
               }
             ]
@@ -187,18 +187,18 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it feels respectful to the situation.",
+            "en": "I respond to that because it feels respectful to the situation.",
             "zh": "我喜歡這句，因為它對現況是有尊重的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"He did not rush the team, but he did not let the team drift either.\"",
+            "en": "If you want a more grounded version, try \"He did not rush the team, but he did not let the team drift either.\"",
             "zh": "另一句也很好用：「He did not rush the team, but he did not let the team drift either.」",
             "vocab": [
               {
-                "word": "prevent drift",
-                "def": "不讓團隊失去方向、一直飄著"
+                "word": "drift",
+                "def": "漂移；跑神"
               }
             ]
           },
@@ -211,12 +211,12 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you want to talk about your own style, say, \"I try to give direction without taking away ownership.\"",
+            "en": "\"I try to give direction without taking away ownership.\" works well when you want to talk about your own style.",
             "zh": "沒錯。如果你想描述自己的風格，可以說：「I try to give direction without taking away ownership.」",
             "vocab": [
               {
-                "word": "shared ownership",
-                "def": "給方向，但不把別人的責任感全部拿走"
+                "word": "ownership",
+                "def": "主導感；歸屬感"
               }
             ]
           },
@@ -233,7 +233,7 @@ export const WEEK_45: Episode[] = [
             "zh": "它也會讓人聽出：領導不只是權威，而是責任怎麼在群體裡流動。",
             "vocab": [
               {
-                "word": "responsibility flow",
+                "word": "responsibility moves through",
                 "def": "責任在團隊中如何被分配與承接"
               }
             ]
@@ -246,7 +246,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me an example of ordinary leadership, not heroic leadership?",
+            "en": "What would ordinary leadership look like in a real situation?",
             "zh": "你可以給我一個普通但真實的領導例子嗎？不是英雄式的那種。"
           },
           {
@@ -268,7 +268,7 @@ export const WEEK_45: Episode[] = [
             "zh": "然後有一個人開口說：「這一塊我們確實落後了，原因很清楚，而今天需要做的就是這兩個決定。」那就是日常型的領導。",
             "vocab": [
               {
-                "word": "name the delay",
+                "word": "two decisions",
                 "def": "直接把延誤或問題說清楚"
               }
             ]
@@ -286,8 +286,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對，而且注意那個人沒有做什麼。他沒有羞辱別人、沒有表演式恐慌，也沒有把自己演成英雄。",
             "vocab": [
               {
-                "word": "non-dramatic leadership",
-                "def": "不靠表演或情緒放大來帶隊的領導方式"
+                "word": "perform",
+                "def": "表演；刻意展現"
               }
             ]
           },
@@ -323,7 +323,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong distinction.",
+            "en": "That is a really strong distinction.",
             "zh": "這個區別真的很有力。"
           },
           {
@@ -462,8 +462,8 @@ export const WEEK_45: Episode[] = [
             "zh": "它本來就很務實。最快建立影響力的方法，往往是用一種看得見、可重複的方式，讓別人的工作比較好做。",
             "vocab": [
               {
-                "word": "visible help",
-                "def": "別人看得見、感受得到的實際幫助"
+                "word": "visible",
+                "def": "這是個容易掉進去的陷阱"
               }
             ]
           },
@@ -480,8 +480,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對，而且那種有用必須穩定到一個程度，別人才會在被逼之前，就主動來找你討論。",
             "vocab": [
               {
-                "word": "trusted input",
-                "def": "別人主動想先聽你意見的信任程度"
+                "word": "input",
+                "def": "輸入"
               }
             ]
           }
@@ -503,7 +503,7 @@ export const WEEK_45: Episode[] = [
             "zh": "因為時機、信任和情境，和邏輯一樣重要。再聰明的點子，如果出現在錯的情緒時機裡，還是會被整個房間彈開。",
             "vocab": [
               {
-                "word": "emotional timing",
+                "word": "wrong emotional",
                 "def": "說話是否踩在對的情緒時機點上"
               }
             ]
@@ -521,8 +521,8 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。如果大家覺得自己被逼到角落，再有幫助的想法也可能聽起來像批評。",
             "vocab": [
               {
-                "word": "read readiness",
-                "def": "判斷對方現在是否準備好接收你的想法"
+                "word": "criticism",
+                "def": "批評；批判"
               }
             ]
           },
@@ -557,8 +557,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對。重點不是把自己講弱，而是讓對方的思考還留在對話裡。",
             "vocab": [
               {
-                "word": "keep people in the conversation",
-                "def": "讓對方願意繼續思考和參與，而不是關閉自己"
+                "word": "conversation",
+                "def": "重點不是把自己講弱"
               }
             ]
           }
@@ -580,8 +580,8 @@ export const WEEK_45: Episode[] = [
             "zh": "一句很好用的是：「I may not own this decision, but I do see a risk we should name early.」",
             "vocab": [
               {
-                "word": "name a risk early",
-                "def": "在問題變大前先把風險講出來"
+                "word": "name early",
+                "def": "提早點出來；及早說明"
               }
             ]
           },
@@ -594,11 +594,11 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"Would it help if I sketched two options so we can compare them?\" That gives structure without grabbing control.",
+            "en": "You could also say, \"Would it help if I sketched two options so we can compare them?\" That gives structure without grabbing control.",
             "zh": "另一句也很實用：「Would it help if I sketched two options so we can compare them?」這句會給出結構，但不會硬把控制權搶走。",
             "vocab": [
               {
-                "word": "offer structure",
+                "word": "structure without",
                 "def": "主動幫忙整理方向或選項"
               }
             ]
@@ -606,7 +606,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds collaborative.",
+            "en": "What I like about it is that it sounds collaborative.",
             "zh": "我喜歡這句，因為它聽起來很合作。"
           },
           {
@@ -616,7 +616,7 @@ export const WEEK_45: Episode[] = [
             "zh": "如果你需要再直接一點，可以試試：「I think we are talking around the real issue.」它很誠實，但焦點還是在問題，不是在人身上。",
             "vocab": [
               {
-                "word": "surface the real issue",
+                "word": "real issue",
                 "def": "把大家一直繞開的核心問題拉回來"
               }
             ]
@@ -634,7 +634,7 @@ export const WEEK_45: Episode[] = [
             "zh": "確實會，尤其是在大家太客氣、客氣到整個房間都變慢的時候。",
             "vocab": [
               {
-                "word": "productive candor",
+                "word": "slows everyone",
                 "def": "帶著建設性和分寸的坦白"
               }
             ]
@@ -647,7 +647,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a normal workplace example, not a big speech?",
+            "en": "Could you show me a normal workplace example, not a big speech?",
             "zh": "你可以給我一個普通職場情境的例子嗎？不用那種大演講。"
           },
           {
@@ -669,8 +669,8 @@ export const WEEK_45: Episode[] = [
             "zh": "這時候，一個有非正式影響力的人會說：「Before we add more, can we agree on what gets protected if time runs short?」整個對話就會被改變。",
             "vocab": [
               {
-                "word": "protect priorities",
-                "def": "在壓力下先確認什麼最值得保住"
+                "word": "informal influence",
+                "def": "沒有正式職權時仍能影響別人的能力"
               }
             ]
           },
@@ -688,7 +688,7 @@ export const WEEK_45: Episode[] = [
             "vocab": [
               {
                 "word": "better framing",
-                "def": "把問題重新框得更清楚，讓大家更容易做決定"
+                "def": "有用的影響力"
               }
             ]
           },
@@ -863,7 +863,7 @@ export const WEEK_45: Episode[] = [
             "zh": "它本來就更難。利害不高的時候，誰都可以看起來很冷靜。情緒 intelligence 真正出現，是在情緒很真、時間又有限的時候。",
             "vocab": [
               {
-                "word": "regulated presence",
+                "word": "Emotional intelligence",
                 "def": "情緒還在，但你仍能穩定在場、不被帶走"
               }
             ]
@@ -881,8 +881,8 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。領導者應該被情緒提供資訊，而不是被情緒綁架。",
             "vocab": [
               {
-                "word": "emotional signal",
-                "def": "情緒提供的訊號，而不是要你立刻反應的命令"
+                "word": "emotion",
+                "def": "而不是被情緒綁架"
               }
             ]
           }
@@ -904,7 +904,7 @@ export const WEEK_45: Episode[] = [
             "zh": "他們以為承認情緒會把情緒放大，但很多時候，沉默反而放大得更快。",
             "vocab": [
               {
-                "word": "acknowledge emotion",
+                "word": "acknowledging emotion",
                 "def": "看見並承認情緒正在影響現場"
               }
             ]
@@ -940,8 +940,8 @@ export const WEEK_45: Episode[] = [
             "zh": "像是：「I can feel that this conversation has more weight than usual, so let's slow down and be precise.」這種句子會讓大家慢下來，但又不是假裝什麼都沒發生。",
             "vocab": [
               {
-                "word": "slow the room down",
-                "def": "在情緒升高時主動讓整個空間慢一點"
+                "word": "settle",
+                "def": "自己慢慢沉下來、穩下來"
               }
             ]
           },
@@ -975,7 +975,7 @@ export const WEEK_45: Episode[] = [
             "zh": "一句很好用的是：「I want to respond to this carefully, not quickly.」這句可以替自己買到空間，但不會顯得在閃躲。",
             "vocab": [
               {
-                "word": "careful response",
+                "word": "this carefully",
                 "def": "先回應得穩，再回應得快"
               }
             ]
@@ -993,15 +993,15 @@ export const WEEK_45: Episode[] = [
             "zh": "另一句很實用的是：「I think there are two conversations happening here, and we should separate them.」當情緒和事情本身纏在一起時，這句很好用。",
             "vocab": [
               {
-                "word": "separate the layers",
-                "def": "把情緒層和問題層拆開來談"
+                "word": "separate",
+                "def": "分開；區分"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a leader sentence.",
+            "en": "That sounds like a real leader sentence.",
             "zh": "這句真的很有 leader 的味道。"
           },
           {
@@ -1011,7 +1011,7 @@ export const WEEK_45: Episode[] = [
             "zh": "如果對方很防衛，可以試：「I am not trying to trap you. I am trying to understand what changed.」這會立刻降低威脅感。",
             "vocab": [
               {
-                "word": "lower threat",
+                "word": "lowers threat",
                 "def": "讓對方感覺比較安全、不需要那麼防衛"
               }
             ]
@@ -1036,7 +1036,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete example?",
+            "en": "Could you give me a concrete scene where that kind of leadership shows up?",
             "zh": "你可以給我一個具體場景嗎？"
           },
           {
@@ -1058,8 +1058,8 @@ export const WEEK_45: Episode[] = [
             "zh": "反應型領導會用讓所有人都縮起來的語氣問：「How did this happen?」；修復導向的領導會說：「Let's stabilize the client first, then understand the gap accurately.」",
             "vocab": [
               {
-                "word": "repair-minded leadership",
-                "def": "先修復局面，再處理責任與改善的領導方式"
+                "word": "repair-minded leader",
+                "def": "說："
               }
             ]
           },
@@ -1076,8 +1076,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對，因為人只有在不需要先存活於你的反應時，才會開始思考得比較好。",
             "vocab": [
               {
-                "word": "survival mode",
-                "def": "人在壓力下只想先保護自己、很難正常思考的狀態"
+                "word": "busy surviving",
+                "def": "才會開始思考得比較好"
               }
             ]
           },
@@ -1216,7 +1216,7 @@ export const WEEK_45: Episode[] = [
             "zh": "不是只有共享工作量而已。真正的團隊形成於大家開始信任同一套規則，而不只是同一個 deadline。",
             "vocab": [
               {
-                "word": "team norms",
+                "word": "team forms",
                 "def": "一個團隊默默共同遵守的做事方式與期待"
               }
             ]
@@ -1234,8 +1234,8 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。",
             "vocab": [
               {
-                "word": "clarity of safety",
-                "def": "清楚知道在團隊裡什麼行為是安全可做的"
+                "word": "safe",
+                "def": "浪費力氣去猜：什麼是安全的、"
               }
             ]
           },
@@ -1252,7 +1252,7 @@ export const WEEK_45: Episode[] = [
             "zh": "對。隱性的模糊很耗人。人不只需要任務本身，也需要任務周圍那個可預期的社會環境。",
             "vocab": [
               {
-                "word": "reliable environment",
+                "word": "reliable social environment",
                 "def": "讓人知道怎麼合作、可以預期的工作環境"
               }
             ]
@@ -1270,7 +1270,7 @@ export const WEEK_45: Episode[] = [
             "zh": "非常是。好的團隊，往往是很多小小的約定被長期守住的結果。",
             "vocab": [
               {
-                "word": "kept agreements",
+                "word": "agreements kept",
                 "def": "被持續做到的小約定與默契"
               }
             ]
@@ -1329,8 +1329,8 @@ export const WEEK_45: Episode[] = [
             "zh": "常常確實如此。當大家花更多時間在預測反應，而不是把工作做得更好，團隊就會變弱。",
             "vocab": [
               {
-                "word": "reaction management",
-                "def": "把精力放在應付上級反應，而不是做好事情"
+                "word": "reactions",
+                "def": "變弱"
               }
             ]
           },
@@ -1364,7 +1364,7 @@ export const WEEK_45: Episode[] = [
             "zh": "一個很實用的句子是：「Let's be clear about who owns what before we move faster.」它會在急迫感接管之前，先保住清楚度。",
             "vocab": [
               {
-                "word": "clarify ownership",
+                "word": "protects clarity",
                 "def": "先釐清誰負責什麼"
               }
             ]
@@ -1378,7 +1378,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"I do not need perfect progress today, but I do need honest visibility.\" That invites truth instead of performance.",
+            "en": "Another natural line is, \"I do not need perfect progress today, but I do need honest visibility.\" That invites truth instead of performance.",
             "zh": "另一句也很好用：「I do not need perfect progress today, but I do need honest visibility.」這句是在邀請真實，而不是邀請表演。",
             "vocab": [
               {
@@ -1400,8 +1400,8 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。如果討論開始變得很散，也可以說：「Can we turn this into one decision and one next action?」",
             "vocab": [
               {
-                "word": "turn talk into action",
-                "def": "把討論收斂成決定和下一步"
+                "word": "next action",
+                "def": "會後清楚要執行的下一步"
               }
             ]
           },
@@ -1453,8 +1453,8 @@ export const WEEK_45: Episode[] = [
             "zh": "完全是。領導者可以說：「We were stretched thin, some decisions came too late, and here is what we are changing.」這種句子會讓人真的鬆一口氣。",
             "vocab": [
               {
-                "word": "repair the story",
-                "def": "把發生過的事整理成可理解、可往前走的版本"
+                "word": "some decisions",
+                "def": "人真的鬆一口氣"
               }
             ]
           },
@@ -1471,7 +1471,7 @@ export const WEEK_45: Episode[] = [
             "zh": "對。被準確看見，本來就是復原的一部分。當現實被承認、改變又聽起來可信，人會更快重新投入。",
             "vocab": [
               {
-                "word": "credible change",
+                "word": "change sounds",
                 "def": "不是空話，而是聽起來真的做得到的改變"
               }
             ]
@@ -1508,7 +1508,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a real definition.",
+            "en": "That is honestly a real definition.",
             "zh": "這個定義真的很真。"
           },
           {
@@ -1611,7 +1611,7 @@ export const WEEK_45: Episode[] = [
             "zh": "因為壓力會把人的注意力縮小。人不再問「最重要的是什麼」，而開始問「怎樣最快讓不舒服先停下來」。",
             "vocab": [
               {
-                "word": "attention shrink",
+                "word": "shrinks attention",
                 "def": "壓力大時，思考範圍被壓縮的狀態"
               }
             ]
@@ -1629,8 +1629,8 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。在壓力下，急迫感很容易偽裝成重要性。",
             "vocab": [
               {
-                "word": "false urgency",
-                "def": "其實沒那麼重要，卻被壓力誤認成最優先"
+                "word": "urgency",
+                "def": "急迫感；很想立刻做成的壓力"
               }
             ]
           },
@@ -1647,8 +1647,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對。好的決策者不是把壓力消除，而是在壓力裡硬生生創造出一小塊可以思考的空間。",
             "vocab": [
               {
-                "word": "thinking pocket",
-                "def": "在混亂裡替自己留出能冷靜思考的一小段空間"
+                "word": "pocket of thinking",
+                "def": "好的決策者不是把壓力消除"
               }
             ]
           },
@@ -1688,8 +1688,8 @@ export const WEEK_45: Episode[] = [
             "zh": "他們會停止追逐確定感，改去辨認：哪一種不確定，是自己可以承受的。",
             "vocab": [
               {
-                "word": "liveable uncertainty",
-                "def": "雖然不完美，但可以接受並繼續前進的不確定"
+                "word": "uncertainty",
+                "def": "是自己可以承受的"
               }
             ]
           },
@@ -1706,7 +1706,7 @@ export const WEEK_45: Episode[] = [
             "zh": "本來就更實際。真正該問的是：「我們知道什麼、不知道什麼，以及如果我們再等，什麼會變更糟？」",
             "vocab": [
               {
-                "word": "cost of waiting",
+                "word": "wait",
                 "def": "延後決定本身會帶來的代價"
               }
             ]
@@ -1724,7 +1724,7 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。而且在壓力下，把「可回頭的決定」和「代價很高、很難回頭的決定」分開來看，會很有幫助。",
             "vocab": [
               {
-                "word": "reversible choice",
+                "word": "separate reversible",
                 "def": "做了之後還能再調整回來的決定"
               }
             ]
@@ -1759,8 +1759,8 @@ export const WEEK_45: Episode[] = [
             "zh": "一句很好用的是：「We do not have perfect information, but we do have enough to choose the next move responsibly.」",
             "vocab": [
               {
-                "word": "responsible next move",
-                "def": "在資訊不完整下仍然負責任地往前走一步"
+                "word": "next move responsibly",
+                "def": "負責任地選下一步"
               }
             ]
           },
@@ -1795,8 +1795,8 @@ export const WEEK_45: Episode[] = [
             "zh": "如果整個房間開始慌，可以試試：「Fast is useful; rushed is expensive.」這句會提醒大家：快和慌不是同一件事。",
             "vocab": [
               {
-                "word": "rushed decision",
-                "def": "因為慌亂而草率做出的決定"
+                "word": "rushed",
+                "def": "太急而亂；慌亂趕工"
               }
             ]
           },
@@ -1861,7 +1861,7 @@ export const WEEK_45: Episode[] = [
             "vocab": [
               {
                 "word": "solve the right thing",
-                "def": "先處理真正重要的問題，而不是忙所有事情"
+                "def": "而不是忙所有事情"
               }
             ]
           },
@@ -1921,7 +1921,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a humane way to define good judgment.",
+            "en": "That feels more like a very humane way to define good judgment.",
             "zh": "這真的是一個很有人味的 good judgment 定義。"
           },
           {
@@ -2000,7 +2000,7 @@ export const WEEK_45: Episode[] = [
             "zh": "它的意思是：你的習慣、你的誠實程度、還有你的情緒模式，常常會比你的指令更早開始帶路。",
             "vocab": [
               {
-                "word": "self-leadership",
+                "word": "emotional patterns",
                 "def": "先把自己管理好、帶穩，才有資格帶別人"
               }
             ]
@@ -2018,8 +2018,8 @@ export const WEEK_45: Episode[] = [
             "zh": "一定會。如果你管不好自己的逃避，它最後就會長成延後的對話和模糊的期待。",
             "vocab": [
               {
-                "word": "personal avoidance",
-                "def": "自己其實在逃避某件該面對的事"
+                "word": "avoidance",
+                "def": "逃避；回避"
               }
             ]
           },
@@ -2037,7 +2037,7 @@ export const WEEK_45: Episode[] = [
             "vocab": [
               {
                 "word": "private pattern",
-                "def": "自己反覆出現、最後會影響外在結果的內在模式"
+                "def": "影響外在結果的內在模式"
               }
             ]
           },
@@ -2077,7 +2077,7 @@ export const WEEK_45: Episode[] = [
             "zh": "說到做到很重要。當你對自己的承諾都很鬆散時，你的領導聽起來也會開始像是可有可無。",
             "vocab": [
               {
-                "word": "keep your word",
+                "word": "Keeping your word",
                 "def": "對自己和別人的承諾都盡量說到做到"
               }
             ]
@@ -2113,7 +2113,7 @@ export const WEEK_45: Episode[] = [
             "zh": "它通常真的沒那麼無害。分散的領導者，最後很容易帶出分散的團隊，就算初衷很好也是一樣。",
             "vocab": [
               {
-                "word": "scattered leadership",
+                "word": "leaders create scattered",
                 "def": "自己很分散，最後也把團隊帶得很分散"
               }
             ]
@@ -2131,8 +2131,8 @@ export const WEEK_45: Episode[] = [
             "zh": "恢復能力。如果你從不 reset，你就會開始把疲憊當成個性，然後那會改變你帶人的方式。",
             "vocab": [
               {
-                "word": "personal reset",
-                "def": "讓自己從疲憊、混亂或情緒裡重新回到穩定的方式"
+                "word": "never reset",
+                "def": "你就會開始把疲憊當成個性"
               }
             ]
           }
@@ -2150,11 +2150,11 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I am learning that the way I manage myself becomes part of how I lead other people.\" That sounds honest and grounded.",
+            "en": "You could say, \"I am learning that the way I manage myself becomes part of how I lead other people.\" That sounds honest and grounded.",
             "zh": "你可以說：「I am learning that the way I manage myself becomes part of how I lead other people.」這句很誠實，也很落地。",
             "vocab": [
               {
-                "word": "manage yourself",
+                "word": "manage",
                 "def": "把自己的情緒、習慣和狀態管理好"
               }
             ]
@@ -2168,11 +2168,11 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is: \"When I am unclear with myself, I become unclear with everyone else.\" It is simple, but it lands.",
+            "en": "Another natural option is, \"When I am unclear with myself, I become unclear with everyone else.\" It is simple, but it lands.",
             "zh": "另一句也很好用：「When I am unclear with myself, I become unclear with everyone else.」它很簡單，但很有力。",
             "vocab": [
               {
-                "word": "internal clarity",
+                "word": "become unclear",
                 "def": "自己心裡先清楚，才能對外清楚"
               }
             ]
@@ -2186,12 +2186,12 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to talk about better habits, try: \"I am trying to build routines that make me more reliable under pressure.\"",
+            "en": "If that is the direction you want, you could say, \"I am trying to build routines that make me more reliable under pressure.\"",
             "zh": "如果你想談比較好的習慣，可以說：「I am trying to build routines that make me more reliable under pressure.」",
             "vocab": [
               {
-                "word": "pressure reliability",
-                "def": "在壓力下仍然穩得住、可信賴"
+                "word": "under pressure",
+                "def": "在高壓狀態下帶隊或工作"
               }
             ]
           },
@@ -2215,7 +2215,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a very ordinary example?",
+            "en": "What would a very ordinary example look like?",
             "zh": "你可以給我一個很普通的例子嗎？"
           },
           {
@@ -2237,8 +2237,8 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯，但有自我領導的人會提早傳訊息說：「I am behind, here is the revised time, and here is what I can still give you today.」",
             "vocab": [
               {
-                "word": "early ownership",
-                "def": "在事情失控前，及早承認並重新安排"
+                "word": "message early",
+                "def": "提早傳訊息說："
               }
             ]
           },
@@ -2263,7 +2263,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a useful correction.",
+            "en": "That is a genuinely useful correction.",
             "zh": "這個修正真的很有用。"
           },
           {
@@ -2292,7 +2292,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a gentle but demanding image.",
+            "en": "That really is a gentle but demanding image.",
             "zh": "這個畫面很溫柔，但要求也很高。"
           },
           {
@@ -2413,7 +2413,7 @@ export const WEEK_45: Episode[] = [
             "zh": "它像那個先注意到整群人開始飄掉、然後輕輕幫大家做出決定的朋友；也像那個把全家一直在逃避的事說出來的手足。",
             "vocab": [
               {
-                "word": "step in gently",
+                "word": "gently helps",
                 "def": "不是強壓，而是適時溫和地站出來"
               }
             ]
@@ -2431,8 +2431,8 @@ export const WEEK_45: Episode[] = [
             "zh": "非常是。很多人其實在普通生活裡練了很多年的領導，只是從來沒有人替它取那個名字。",
             "vocab": [
               {
-                "word": "unnamed leadership",
-                "def": "其實在帶方向，但一直沒有被正式稱作領導"
+                "word": "practice leadership",
+                "def": "其實在帶方向"
               }
             ]
           },
@@ -2467,7 +2467,7 @@ export const WEEK_45: Episode[] = [
             "vocab": [
               {
                 "word": "practical initiative",
-                "def": "不是空講，而是主動把事情往前推的行動力"
+                "def": "不是空講"
               }
             ]
           },
@@ -2484,8 +2484,8 @@ export const WEEK_45: Episode[] = [
             "zh": "很多時候確實就是。總是有人在看模式、猜問題、然後默默把一天撐住。",
             "vocab": [
               {
-                "word": "hold the day together",
-                "def": "用很多小動作把一天維持在可運作的狀態"
+                "word": "pattern",
+                "def": "模式；規律"
               }
             ]
           },
@@ -2502,7 +2502,7 @@ export const WEEK_45: Episode[] = [
             "zh": "沒錯。很多看起來普通的事，其實正是在避免更大的混亂。",
             "vocab": [
               {
-                "word": "prevent the bigger mess",
+                "word": "prevents the bigger",
                 "def": "先處理小事，避免事情變成大麻煩"
               }
             ]
@@ -2537,8 +2537,8 @@ export const WEEK_45: Episode[] = [
             "zh": "你可以說：「She is the one who quietly helps everyone get organized when things get messy.」這句自然又具體。",
             "vocab": [
               {
-                "word": "quietly organize people",
-                "def": "在混亂時不張揚地幫大家回到秩序"
+                "word": "one who quietly",
+                "def": "那個默默幫忙的人"
               }
             ]
           },
@@ -2555,8 +2555,8 @@ export const WEEK_45: Episode[] = [
             "zh": "另一句也很好：「He is good at noticing what needs to happen next before anyone asks.」它把主動性抓得很好，但不會太誇張。",
             "vocab": [
               {
-                "word": "see what is needed",
-                "def": "在別人還沒開口前就先看見需要什麼"
+                "word": "initiative",
+                "def": "主動性；自發行動"
               }
             ]
           },
@@ -2573,7 +2573,7 @@ export const WEEK_45: Episode[] = [
             "zh": "如果你想講家庭裡的角色，可以試試：「She keeps everyone connected without making a big show of it.」",
             "vocab": [
               {
-                "word": "keep people connected",
+                "word": "keeps everyone connected",
                 "def": "默默維持關係與聯絡感"
               }
             ]
@@ -2620,7 +2620,7 @@ export const WEEK_45: Episode[] = [
             "zh": "然後有一個人說：「今晚我們兩個先選，下次換別人選。」這件事很小，但它把行動和公平感一起拉回來了。",
             "vocab": [
               {
-                "word": "restore motion",
+                "word": "restores motion",
                 "def": "把卡住的群體重新帶回可往前走的狀態"
               }
             ]
@@ -2638,8 +2638,8 @@ export const WEEK_45: Episode[] = [
             "zh": "對，而且還要做得讓別人不會討厭你。那就是細膩的地方。",
             "vocab": [
               {
-                "word": "low-ego direction",
-                "def": "帶方向，但不讓人覺得你在刷存在感"
+                "word": "resent",
+                "def": "怨恨；心懷不滿"
               }
             ]
           },

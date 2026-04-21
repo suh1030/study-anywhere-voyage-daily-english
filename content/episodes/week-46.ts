@@ -44,7 +44,7 @@ export const WEEK_46: Episode[] = [
             "vocab": [
               {
                 "word": "emotional belonging",
-                "def": "在一個群體裡感覺自己真的被接住、被接納"
+                "def": "以及一種的感覺"
               }
             ]
           },
@@ -61,7 +61,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它之所以有力量，是因為它改變了一個人得獨自扛多少恐懼。",
             "vocab": [
               {
-                "word": "fear load",
+                "word": "much fear",
                 "def": "一個人需要自己扛住的心理壓力重量"
               }
             ]
@@ -79,8 +79,8 @@ export const WEEK_46: Episode[] = [
             "zh": "對。而當孤立感下降，人常常也會變得更慷慨、更穩，甚至更有能力去幫別人。",
             "vocab": [
               {
-                "word": "social steadiness",
-                "def": "因為有人接住，所以人變得比較穩定的狀態"
+                "word": "generous",
+                "def": "寬容的；慷慨的"
               }
             ]
           }
@@ -102,7 +102,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它們會讓求助變得可見，也變得正常。在健康的社群裡，求助不會被當成個人失敗。",
             "vocab": [
               {
-                "word": "normalize help",
+                "word": "help visible",
                 "def": "讓求助與互助變成自然、不丟臉的事"
               }
             ]
@@ -169,11 +169,11 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful sentence is: \"I realized I was not carrying the whole thing alone anymore.\" That captures relief and connection at the same time.",
+            "en": "You can also try, \"I realized I was not carrying the whole thing alone anymore.\" That captures relief and connection at the same time.",
             "zh": "一句很好用的是：「I realized I was not carrying the whole thing alone anymore.」這句同時抓到了鬆一口氣和連結感。",
             "vocab": [
               {
-                "word": "carry it alone",
+                "word": "alone anymore",
                 "def": "一個人獨自扛住所有事情"
               }
             ]
@@ -187,7 +187,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"Our community is small, but people show up when it counts.\" That sounds simple and believable.",
+            "en": "A more everyday version would be \"Our community is small, but people show up when it counts.\" That sounds simple and believable.",
             "zh": "另一句也很好：「Our community is small, but people show up when it counts.」這句簡單，而且很可信。",
             "vocab": [
               {
@@ -199,7 +199,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds real, not idealized.",
+            "en": "That works for me because it sounds real, not idealized.",
             "zh": "我喜歡這句，因為它聽起來很真，不是理想化。"
           },
           {
@@ -210,7 +210,7 @@ export const WEEK_46: Episode[] = [
             "vocab": [
               {
                 "word": "survival skill",
-                "def": "不是抽象美德，而是真的讓人撐得下去的能力"
+                "def": "很切身"
               }
             ]
           },
@@ -256,7 +256,7 @@ export const WEEK_46: Episode[] = [
             "zh": "像是送餐、接送、幫忙接小孩、小小的關心訊息，還有代為更新近況，讓那個已經很累的人不用整天重複說同一個故事。",
             "vocab": [
               {
-                "word": "practical care",
+                "word": "small check-ins",
                 "def": "看得見、做得到、能減輕負擔的照顧"
               }
             ]
@@ -414,7 +414,7 @@ export const WEEK_46: Episode[] = [
             "zh": "因為真正的傾聽是主動的。你不是只是在安靜而已；你是在替另一個人騰出空間，讓他變得更清楚。",
             "vocab": [
               {
-                "word": "make room",
+                "word": "making room",
                 "def": "讓對方有空間把自己說完整"
               }
             ]
@@ -432,8 +432,8 @@ export const WEEK_46: Episode[] = [
             "zh": "完全不夠。有些沉默讓人覺得溫暖、好奇、穩定；有些沉默卻讓人覺得你根本不在、很不耐煩，或正在評價他。",
             "vocab": [
               {
-                "word": "listening stance",
-                "def": "你在聽人時整體呈現出的態度與存在感"
+                "word": "impatient",
+                "def": "不耐煩的"
               }
             ]
           },
@@ -450,8 +450,8 @@ export const WEEK_46: Episode[] = [
             "zh": "真的很大。很多人幾秒內就能感覺到，你的注意力到底是不是真的在他身上。",
             "vocab": [
               {
-                "word": "true attention",
-                "def": "不是表面在聽，而是真的把注意力放在對方身上"
+                "word": "attention",
+                "def": "很多人幾秒內就能感覺到"
               }
             ]
           },
@@ -468,7 +468,7 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。建議來得太早，會讓人覺得自己還沒被理解，就已經被跳過了。",
             "vocab": [
               {
-                "word": "premature advice",
+                "word": "Advice",
                 "def": "對方還沒被理解之前就太快給出的建議"
               }
             ]
@@ -491,7 +491,7 @@ export const WEEK_46: Episode[] = [
             "zh": "很多時候它給的是形狀。人來的時候腦子是一團亂，而被好好聽，會幫他比較清楚地聽見自己的思路。",
             "vocab": [
               {
-                "word": "give shape",
+                "word": "shape",
                 "def": "幫一件混亂的事慢慢變得有輪廓"
               }
             ]
@@ -509,15 +509,15 @@ export const WEEK_46: Episode[] = [
             "zh": "對，而那會讓人非常鬆。很多人是等到自己腦中的混亂，終於在外面聽起來沒那麼亂，人才開始 calm down。",
             "vocab": [
               {
-                "word": "speakable problem",
-                "def": "從一團感受變成可以被說清楚的問題"
+                "word": "chaotic",
+                "def": "混亂的；雜亂的"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a compassionate way to describe it.",
+            "en": "That is a really compassionate way to describe it.",
             "zh": "這個描述很有同理。"
           },
           {
@@ -527,8 +527,8 @@ export const WEEK_46: Episode[] = [
             "zh": "傾聽之所以有同理，是因為它會在不明講的情況下，傳遞出一句話：「你不用一個人把這一切理開。」",
             "vocab": [
               {
-                "word": "shared untangling",
-                "def": "不是自己一個人硬整理，而是有人陪你一起理開"
+                "word": "untangle this",
+                "def": "你不用一個人把這一切理開。"
               }
             ]
           },
@@ -562,7 +562,7 @@ export const WEEK_46: Episode[] = [
             "zh": "一句很好用的是：「I want to make sure I am understanding this the way you mean it.」這句同時有關心和謙卑。",
             "vocab": [
               {
-                "word": "check understanding",
+                "word": "understanding this",
                 "def": "確認自己有沒有照對方的意思理解"
               }
             ]
@@ -576,11 +576,11 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"Say more about that part.\" It invites detail without taking over the conversation.",
+            "en": "You might also say, \"Say more about that part.\" It invites detail without taking over the conversation.",
             "zh": "另一句也很自然：「Say more about that part.」它會邀請細節，但不會搶走對話。",
             "vocab": [
               {
-                "word": "invite detail",
+                "word": "invites detail",
                 "def": "鼓勵對方把真正重要的細節說出來"
               }
             ]
@@ -598,8 +598,8 @@ export const WEEK_46: Episode[] = [
             "zh": "如果對方情緒比較重，可以試：「That sounds heavier than people might realize.」這句能讓人覺得被看見，但不會太戲劇化。",
             "vocab": [
               {
-                "word": "reflect the weight",
-                "def": "把事情的重量反映回去，讓對方知道你有感受到"
+                "word": "feel seen",
+                "def": "感覺自己被注意、被理解、被放在心上"
               }
             ]
           },
@@ -633,7 +633,7 @@ export const WEEK_46: Episode[] = [
             "zh": "太早把自己插進去。很多人一聽到一句話，就立刻開始搜尋自己相似的故事。",
             "vocab": [
               {
-                "word": "self-insertion",
+                "word": "one sentence",
                 "def": "對方還沒說完，就把焦點移回自己身上"
               }
             ]
@@ -652,7 +652,7 @@ export const WEEK_46: Episode[] = [
             "vocab": [
               {
                 "word": "rushed connection",
-                "def": "急著建立連結，反而讓對方沒被真正聽見"
+                "def": "大腦本來就想建立連結"
               }
             ]
           },
@@ -809,8 +809,8 @@ export const WEEK_46: Episode[] = [
             "zh": "但很多在地英雄其實看起來很普通。他們常常是那些在注意力都退場之後，還持續出現的人。",
             "vocab": [
               {
-                "word": "steady service",
-                "def": "不是一次很亮眼，而是長期穩定地付出"
+                "word": "keep showing up",
+                "def": "不管感覺如何，還是繼續穩定出現"
               }
             ]
           },
@@ -845,7 +845,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它本來就更真。對社群最重要的人，常常是在變得可見之前，就已經先變得可靠。",
             "vocab": [
               {
-                "word": "dependable presence",
+                "word": "become dependable",
                 "def": "長期出現，讓人知道你值得依靠"
               }
             ]
@@ -880,7 +880,7 @@ export const WEEK_46: Episode[] = [
             "zh": "是能留下來的那種。不是只有被看見的改變，而是 spotlight 移走之後，還繼續有幫助的改變。",
             "vocab": [
               {
-                "word": "lasting change",
+                "word": "lasting",
                 "def": "就算注意力散去，效果仍會留下的改變"
               }
             ]
@@ -898,7 +898,7 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。好的 changemaker 通常在乎的是系統、關係和習慣，不只是某個看得見的活動。",
             "vocab": [
               {
-                "word": "system mindset",
+                "word": "systems",
                 "def": "會去看整體結構，而不是只看單一事件"
               }
             ]
@@ -916,7 +916,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它真的比較難，因為系統層的工作更慢，也通常比較不 glamorous。但它保護的是未來，不是只裝飾現在。",
             "vocab": [
               {
-                "word": "future-protecting work",
+                "word": "future instead",
                 "def": "雖然慢，但能讓未來真的變好的工作"
               }
             ]
@@ -924,7 +924,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong phrase.",
+            "en": "That feels more like a strong phrase.",
             "zh": "這個說法很有力。"
           },
           {
@@ -947,30 +947,30 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"She is the kind of person who keeps a good idea alive long enough for other people to join it.\" That sounds human and specific.",
+            "en": "You can also go with \"She is the kind of person who keeps a good idea alive long enough for other people to join it.\" That sounds human and specific.",
             "zh": "你可以說：「She is the kind of person who keeps a good idea alive long enough for other people to join it.」這句有人味，也很具體。",
             "vocab": [
               {
-                "word": "keep an idea alive",
-                "def": "把一個好想法撐久，撐到它能被更多人接上"
+                "word": "idea alive",
+                "def": "也很具體"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it includes time and patience.",
+            "en": "I like it because it includes time and patience.",
             "zh": "我喜歡這句，因為它把時間和耐心都放進去了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"He turned concern into organized action.\" That works well when someone moved from caring to doing.",
+            "en": "You could also say, \"He turned concern into organized action.\" That works well when someone moved from caring to doing.",
             "zh": "另一句也很好：「He turned concern into organized action.」這句很適合描述一個人把在乎變成行動。",
             "vocab": [
               {
                 "word": "organized action",
-                "def": "不是零散熱情，而是有安排、有方向的行動"
+                "def": "而是有安排、有方向的行動"
               }
             ]
           },
@@ -1012,7 +1012,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete picture of a local hero?",
+            "en": "Could you make that concrete with a concrete picture of a local hero?",
             "zh": "你可以給我一個很具體的 local hero 畫面嗎？"
           },
           {
@@ -1052,8 +1052,8 @@ export const WEEK_46: Episode[] = [
             "zh": "不能。它來自你待得夠久，久到你能看見模式，也把信任賺起來。",
             "vocab": [
               {
-                "word": "earned trust",
-                "def": "不是一開始就有，而是靠長期在場慢慢建立的信任"
+                "word": "earn trust",
+                "def": "也把信任賺起來"
               }
             ]
           },
@@ -1210,8 +1210,8 @@ export const WEEK_46: Episode[] = [
             "zh": "完全不是。目標是建立足夠的信任和流程，讓不同意不會自動變成傷害。",
             "vocab": [
               {
-                "word": "fair process",
-                "def": "讓不同立場的人都覺得程序合理的討論方式"
+                "word": "process",
+                "def": "消化；處理（情緒）"
               }
             ]
           },
@@ -1228,7 +1228,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它本來就難，尤其是當大家都很在乎的時候。但在乎本身不是問題；問題是當在乎變成輕蔑。",
             "vocab": [
               {
-                "word": "care without contempt",
+                "word": "care becomes contempt",
                 "def": "很在乎，但不因不同意就看不起對方"
               }
             ]
@@ -1246,7 +1246,7 @@ export const WEEK_46: Episode[] = [
             "zh": "很多社群衝突變糟的瞬間，就是其中一方開始不相信另一方有基本善意的時候。",
             "vocab": [
               {
-                "word": "good-faith assumption",
+                "word": "community conflicts",
                 "def": "先假設對方至少不是故意惡意而來"
               }
             ]
@@ -1269,7 +1269,7 @@ export const WEEK_46: Episode[] = [
             "zh": "清楚的界線和清楚的流程。當人知道什麼可以、什麼不行、以及對話會怎麼走，他通常會表現得比較好。",
             "vocab": [
               {
-                "word": "clear boundary",
+                "word": "Clear boundaries",
                 "def": "先說清楚討論的界線和底線"
               }
             ]
@@ -1287,8 +1287,8 @@ export const WEEK_46: Episode[] = [
             "zh": "非常有。沒有結構時，恐懼和投射就會很快衝進來把空白填滿。",
             "vocab": [
               {
-                "word": "contain the conversation",
-                "def": "用結構把對話控制在可處理的範圍內"
+                "word": "structure",
+                "def": "結構；框架；規律"
               }
             ]
           },
@@ -1305,8 +1305,8 @@ export const WEEK_46: Episode[] = [
             "zh": "語氣很重要，因為它會洩露你的目標到底是理解，還是勝利。贏面子用的語氣，常常會創造一個輸掉的社群。",
             "vocab": [
               {
-                "word": "victory tone",
-                "def": "把對話講成輸贏競賽的語氣"
+                "word": "tone",
+                "def": "語氣"
               }
             ]
           },
@@ -1323,8 +1323,8 @@ export const WEEK_46: Episode[] = [
             "zh": "對。越公開的不同意，越需要人有意識地保住每一邊的尊嚴。",
             "vocab": [
               {
-                "word": "preserve dignity",
-                "def": "在衝突中仍保留彼此基本尊嚴"
+                "word": "preserving dignity",
+                "def": "越公開的不同意"
               }
             ]
           }
@@ -1346,8 +1346,8 @@ export const WEEK_46: Episode[] = [
             "zh": "一句很好用的是：「I see the concern differently, but I do think the concern is real.」這句會立刻降低防衛。",
             "vocab": [
               {
-                "word": "validate without agreeing",
-                "def": "承認對方在意的東西是真實的，但不等於同意全部結論"
+                "word": "concern differently",
+                "def": "立刻降低防衛"
               }
             ]
           },
@@ -1364,8 +1364,8 @@ export const WEEK_46: Episode[] = [
             "zh": "另一句也很好：「Can we separate what we value from the method we prefer?」這很適合用在價值相近、方法不同的情況。",
             "vocab": [
               {
-                "word": "separate value from method",
-                "def": "把共同價值和彼此偏好的做法拆開來談"
+                "word": "separate",
+                "def": "分開；區分"
               }
             ]
           },
@@ -1382,7 +1382,7 @@ export const WEEK_46: Episode[] = [
             "zh": "如果情緒已經起來了，可以試試：「I want to keep this constructive, so I am going to slow down here.」這句很能保住房間。",
             "vocab": [
               {
-                "word": "keep it constructive",
+                "word": "keep this constructive",
                 "def": "把對話拉回有建設性的方向"
               }
             ]
@@ -1407,7 +1407,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a concrete community disagreement?",
+            "en": "Can you make that more concrete with a concrete community disagreement?",
             "zh": "你可以給我一個具體的社群衝突例子嗎？"
           },
           {
@@ -1429,8 +1429,8 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。",
             "vocab": [
               {
-                "word": "shared concern",
-                "def": "彼此雖然不同意，但其實都在乎同一個整體"
+                "word": "neighborhood",
+                "def": "社區；鄰近地區"
               }
             ]
           },
@@ -1447,8 +1447,8 @@ export const WEEK_46: Episode[] = [
             "zh": "對。當人不再覺得自己被攻擊時，大家就有可能開始談細節，而不是開始捍衛身份。",
             "vocab": [
               {
-                "word": "detail-level problem solving",
-                "def": "把衝突從身份對打，拉回到具體細節的處理"
+                "word": "over details instead",
+                "def": "而不是開始捍衛身份"
               }
             ]
           },
@@ -1587,8 +1587,8 @@ export const WEEK_46: Episode[] = [
             "zh": "當你問一個很簡單的問題時，它就不空了：到底是誰的日常負擔，因為這個工具變輕了？",
             "vocab": [
               {
-                "word": "lighter burden",
-                "def": "因為工具設計得好，讓人的辛苦真的變少"
+                "word": "burden becomes lighter",
+                "def": "這個工具變輕了"
               }
             ]
           },
@@ -1605,8 +1605,8 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。為社會有益的科技，不是因為很先進才厲害，而是因為它在大家本來就很辛苦的地方變得有用。",
             "vocab": [
               {
-                "word": "practical usefulness",
-                "def": "工具不是炫技，而是真的能用"
+                "word": "impressive",
+                "def": "令人印象深刻的"
               }
             ]
           },
@@ -1623,7 +1623,7 @@ export const WEEK_46: Episode[] = [
             "zh": "本來就該比較落地。社群真正需要的，是少一點亮晶晶的承諾，多一點能解決重複、在地問題的工具。",
             "vocab": [
               {
-                "word": "local problem solving",
+                "word": "local problems",
                 "def": "針對地方上的真實小問題做出實際解法"
               }
             ]
@@ -1641,7 +1641,7 @@ export const WEEK_46: Episode[] = [
             "zh": "對。好工具會去貼使用者的真實生活，而不是只貼設計者的想像。",
             "vocab": [
               {
-                "word": "human fit",
+                "word": "tool fits",
                 "def": "工具和人的真實使用情境是貼合的"
               }
             ]
@@ -1664,7 +1664,7 @@ export const WEEK_46: Episode[] = [
             "zh": "他們解決的是遠看得到的問題，而不是近看之後人真正正在面對的問題。",
             "vocab": [
               {
-                "word": "distance error",
+                "word": "solve the problem",
                 "def": "站太遠看問題，導致解法偏掉"
               }
             ]
@@ -1683,7 +1683,7 @@ export const WEEK_46: Episode[] = [
             "vocab": [
               {
                 "word": "local partnership",
-                "def": "不是外面的人單做，而是和在地的人一起做"
+                "def": "不是外面的人單做"
               }
             ]
           },
@@ -1700,7 +1700,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它確實比較健康，因為工具如果忽略了使用門檻、語言、信任或習慣，就會失敗。東西不貼世界，人就不會真的用。",
             "vocab": [
               {
-                "word": "adoption barrier",
+                "word": "adopt",
                 "def": "讓一個工具無法真正被使用起來的障礙"
               }
             ]
@@ -1718,8 +1718,8 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。好的社會設計會尊重摩擦，而不是把摩擦全怪到使用者頭上。",
             "vocab": [
               {
-                "word": "respect friction",
-                "def": "承認真實使用上會遇到的阻力，而不是假裝不存在"
+                "word": "respects friction",
+                "def": "社會設計會尊重摩擦"
               }
             ]
           }
@@ -1741,7 +1741,7 @@ export const WEEK_46: Episode[] = [
             "zh": "一句很好用的是：「The tool only mattered once it reduced a real burden for real people.」這會把焦點放回該放的地方。",
             "vocab": [
               {
-                "word": "reduce a burden",
+                "word": "real burden",
                 "def": "讓某個真實負擔被減輕"
               }
             ]
@@ -1755,11 +1755,11 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"We built this with the community, not only for the community.\" That signals partnership instead of savior thinking.",
+            "en": "Another natural line is, \"We built this with the community, not only for the community.\" That signals partnership instead of savior thinking.",
             "zh": "另一句也很好：「We built this with the community, not only for the community.」這句會傳達 partnership，而不是救世主心態。",
             "vocab": [
               {
-                "word": "build with, not only for",
+                "word": "built this",
                 "def": "和社群一起做，不只是替社群做"
               }
             ]
@@ -1778,7 +1778,7 @@ export const WEEK_46: Episode[] = [
             "vocab": [
               {
                 "word": "access problem",
-                "def": "真正卡住人的不是軟體，而是使用門檻或資源差距"
+                "def": "真正卡住人的不是軟體"
               }
             ]
           },
@@ -1802,7 +1802,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a simple example of technology helping a community?",
+            "en": "Could you give me a simple example that still shows why it matters?",
             "zh": "你可以給我一個簡單但有感的例子嗎？"
           },
           {
@@ -1814,7 +1814,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very normal problem.",
+            "en": "That feels like a normal problem.",
             "zh": "這真的很像一個超正常的問題。"
           },
           {
@@ -1824,7 +1824,7 @@ export const WEEK_46: Episode[] = [
             "zh": "一個有用的回應可能是很簡單的雙語簡訊系統，而不是更複雜的平台。有時候最好的科技選擇，反而是最不花俏的那個。",
             "vocab": [
               {
-                "word": "least flashy solution",
+                "word": "least flashy",
                 "def": "不是最炫，但最貼近需求的解法"
               }
             ]
@@ -1842,8 +1842,8 @@ export const WEEK_46: Episode[] = [
             "zh": "對。它會先問：人們目前碰得到、看得懂、信得過的是什麼，然後再從那裡開始蓋。",
             "vocab": [
               {
-                "word": "build from what exists",
-                "def": "先從現有可行的條件出發，而不是強迫大家跳很遠"
+                "word": "builds",
+                "def": "然後再從那裡開始蓋"
               }
             ]
           },
@@ -1982,8 +1982,8 @@ export const WEEK_46: Episode[] = [
             "zh": "一定會。很多人第一次學會服務，不是靠道理，而是一直看著某個長輩安靜地做同一件事。",
             "vocab": [
               {
-                "word": "passed-down care",
-                "def": "一代代傳下來的照顧方式與服務習慣"
+                "word": "principle",
+                "def": "原則；基本規則"
               }
             ]
           },
@@ -2000,8 +2000,8 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。小孩也許不記得那些大道理，但會記得誰送飯、誰去關心鄰居、誰在餐桌邊多留了一個位置。",
             "vocab": [
               {
-                "word": "observed value",
-                "def": "不是聽來的，而是看著大人怎麼做而學到的價值"
+                "word": "remember who delivered",
+                "def": "小孩也許不記得那些大道理"
               }
             ]
           },
@@ -2018,7 +2018,7 @@ export const WEEK_46: Episode[] = [
             "zh": "它本來就很有身體感。很多時候，我們繼承的是動作、日常習慣和語氣，語言反而比較慢。",
             "vocab": [
               {
-                "word": "care routine",
+                "word": "inherit care",
                 "def": "會反覆出現、變成習慣的照顧行動"
               }
             ]
@@ -2036,8 +2036,8 @@ export const WEEK_46: Episode[] = [
             "zh": "對。而當那件事發生時，人就會把照顧別人看成正常，不是特別偉大才做的事。",
             "vocab": [
               {
-                "word": "normal care",
-                "def": "把照顧別人視為日常，不是只有特殊時刻才出現"
+                "word": "care as normal",
+                "def": "把照顧別人視為日常"
               }
             ]
           }
@@ -2060,7 +2060,7 @@ export const WEEK_46: Episode[] = [
             "vocab": [
               {
                 "word": "long memory",
-                "def": "記得一個地方過去怎麼走到現在的能力"
+                "def": "常常會帶來耐心、長期記憶"
               }
             ]
           },
@@ -2077,7 +2077,7 @@ export const WEEK_46: Episode[] = [
             "zh": "年輕一代常常帶來速度、新工具，以及願意去挑戰那些已經失效的舊習慣。",
             "vocab": [
               {
-                "word": "fresh energy",
+                "word": "Younger people",
                 "def": "比較新的動能、速度與改變意願"
               }
             ]
@@ -2095,7 +2095,7 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。只有智慧沒有動能，事情會停住；只有動能沒有智慧，又很容易重犯舊錯。兩者放在一起，才會變得更強。",
             "vocab": [
               {
-                "word": "intergenerational strength",
+                "word": "wisdom",
                 "def": "不同世代合作時產生的互補力量"
               }
             ]
@@ -2103,7 +2103,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very hopeful picture.",
+            "en": "That is a genuinely hopeful picture.",
             "zh": "這是一個很有希望的畫面。"
           },
           {
@@ -2126,11 +2126,11 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I learned service by watching how the older people around me treated everyday responsibilities.\" That sounds natural and personal.",
+            "en": "A clean way to say it is, \"I learned service by watching how the older people around me treated everyday responsibilities.\" That sounds natural and personal.",
             "zh": "你可以說：「I learned service by watching how the older people around me treated everyday responsibilities.」這句很自然，也很個人。",
             "vocab": [
               {
-                "word": "learn by watching",
+                "word": "service by watching",
                 "def": "不是被講道理，而是透過觀察學會"
               }
             ]
@@ -2148,7 +2148,7 @@ export const WEEK_46: Episode[] = [
             "zh": "另一句也很好：「Different generations carry different strengths, and good communities know how to combine them.」如果你想講更大的觀察，這句很好用。",
             "vocab": [
               {
-                "word": "combine strengths",
+                "word": "different strengths",
                 "def": "把不同人的優勢放在一起使用"
               }
             ]
@@ -2166,8 +2166,8 @@ export const WEEK_46: Episode[] = [
             "zh": "如果你想講得更有情感，可以說：「I did not realize I was inheriting a way of caring until I caught myself doing the same thing.」",
             "vocab": [
               {
-                "word": "inherit a way of caring",
-                "def": "在不知不覺中接下了某種照顧人的方式"
+                "word": "way of caring",
+                "def": "一種照顧人的方式"
               }
             ]
           },
@@ -2191,7 +2191,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Can you give me a family example of service passing down?",
+            "en": "Could you show me a family example of service passing down?",
             "zh": "你可以給我一個家庭裡服務傳承的例子嗎？"
           },
           {
@@ -2203,7 +2203,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a simple but powerful image.",
+            "en": "That is honestly a simple but powerful image.",
             "zh": "這個畫面很簡單，但很有力量。"
           },
           {
@@ -2231,8 +2231,8 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。重複的動作，最後會變成善意的肌肉記憶。",
             "vocab": [
               {
-                "word": "kindness muscle memory",
-                "def": "因為長期做而變得很自然的善意行動"
+                "word": "muscle memory",
+                "def": "重複後身體會記住的熟悉感"
               }
             ]
           },
@@ -2389,8 +2389,8 @@ export const WEEK_46: Episode[] = [
             "zh": "它確實更大，因為 community 包含系統、習慣、記憶，以及實際照顧。它是被蓋進普通生活裡的。",
             "vocab": [
               {
-                "word": "ordinary infrastructure of care",
-                "def": "存在於日常裡、支撐人生活的照顧網"
+                "word": "practical care",
+                "def": "透過實用的方式去照顧和支持別人"
               }
             ]
           },
@@ -2407,7 +2407,7 @@ export const WEEK_46: Episode[] = [
             "zh": "沒錯。好的社群常常很隱形，因為它安靜地防止崩塌。",
             "vocab": [
               {
-                "word": "prevent collapse",
+                "word": "prevents collapse",
                 "def": "用很多小支撐避免事情整個垮掉"
               }
             ]
@@ -2415,7 +2415,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong image.",
+            "en": "That lands as a very strong image.",
             "zh": "這個畫面真的很強。"
           },
           {
@@ -2442,7 +2442,7 @@ export const WEEK_46: Episode[] = [
             "zh": "被幫助會很深地改變一個人，尤其是那些已經習慣一個人撐的人。",
             "vocab": [
               {
-                "word": "receive help well",
+                "word": "Receiving help",
                 "def": "能夠接受幫忙，而不是把所有支持都推開"
               }
             ]
@@ -2460,15 +2460,15 @@ export const WEEK_46: Episode[] = [
             "zh": "因為被幫忙會勾起羞愧、虧欠感，或害怕自己成為負擔。當社群能讓幫忙感覺像人和人之間，而不是羞辱，事情就會變得有療癒性。",
             "vocab": [
               {
-                "word": "help without humiliation",
-                "def": "讓幫助發生時，不讓人覺得自己被看低"
+                "word": "trigger",
+                "def": "觸發點"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a very important skill for communities.",
+            "en": "That feels more like an important skill for communities.",
             "zh": "這聽起來像社群很重要的一項能力。"
           },
           {
@@ -2478,8 +2478,8 @@ export const WEEK_46: Episode[] = [
             "zh": "確實是。好的社群知道怎麼提供支持，同時保住一個人的尊嚴和選擇權。",
             "vocab": [
               {
-                "word": "preserve choice",
-                "def": "在提供幫助時，仍保留對方的自主感"
+                "word": "preserve dignity",
+                "def": "在衝突中仍保留彼此基本尊嚴"
               }
             ]
           },
@@ -2503,18 +2503,18 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to reflect on this topic personally?",
+            "en": "What is a natural way to say it if I want to reflect on this topic personally?",
             "zh": "如果我想很個人地反思這個主題，可以用哪些英文？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Try: \"This week reminded me that support is often made of small practical acts, not grand gestures.\" It sounds thoughtful and clear.",
+            "en": "One sentence that works well is \"This week reminded me that support is often made of small practical acts, not grand gestures.\" It sounds thoughtful and clear.",
             "zh": "你可以試試：「這一週提醒了我，支持往往是由一個個小而實際的舉動組成，而不是什麼盛大的姿態。」這句很清楚，也很有反思感。",
             "vocab": [
               {
                 "word": "small practical acts",
-                "def": "不是誇張的大動作，而是日常真的有幫助的小事"
+                "def": "而不是什麼盛大的姿態。"
               }
             ]
           },
@@ -2527,12 +2527,12 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is: \"I used to think community was a nice idea. Now I think it is a survival structure.\" That works if your view has changed.",
+            "en": "A clearer option here is \"I used to think community was a nice idea. Now I think it is a survival structure.\" That works if your view has changed.",
             "zh": "另一句也很好：「I used to think community was a nice idea. Now I think it is a survival structure.」如果你的看法真的改變了，這句很適合。",
             "vocab": [
               {
                 "word": "survival structure",
-                "def": "不是抽象概念，而是讓人活得下去的支撐結構"
+                "def": "不是抽象概念"
               }
             ]
           },
@@ -2545,11 +2545,11 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want to keep it simple, say: \"What helped me most was not advice. It was knowing I was not alone.\" That often lands.",
+            "en": "If you want to keep it simple, you could say, \"What helped me most was not advice. It was knowing I was not alone.\" That often lands.",
             "zh": "如果你想更簡單一點，也可以說：「What helped me most was not advice. It was knowing I was not alone.」這句通常很能打到人。",
             "vocab": [
               {
-                "word": "not alone in it",
+                "word": "alone",
                 "def": "知道自己不是一個人面對這件事"
               }
             ]
@@ -2584,8 +2584,8 @@ export const WEEK_46: Episode[] = [
             "zh": "它可能比很多人想像的小。像是穩定地關心、分享有用資訊、把一個小時的志工時間做好，或讓別人的某個流程稍微更容易。",
             "vocab": [
               {
-                "word": "realistic contribution",
-                "def": "不誇大自己，但真實有幫助的付出"
+                "word": "process",
+                "def": "消化；處理（情緒）"
               }
             ]
           },
@@ -2602,7 +2602,7 @@ export const WEEK_46: Episode[] = [
             "zh": "完全不用。社群很多時候是靠累積變好，不是靠表演。",
             "vocab": [
               {
-                "word": "quiet accumulation",
+                "word": "through accumulation",
                 "def": "很多小的付出慢慢累積成真正的改變"
               }
             ]
@@ -2620,8 +2620,8 @@ export const WEEK_46: Episode[] = [
             "zh": "很好。當幫忙聽起來可持續、也很真實時，人反而更可能真的出手。",
             "vocab": [
               {
-                "word": "sustainable help",
-                "def": "一個人做得久、做得下去的幫忙方式"
+                "word": "sustainable",
+                "def": "可持續的；能長期維持的"
               }
             ]
           },

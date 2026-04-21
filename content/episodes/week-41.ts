@@ -26,7 +26,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "core value",
-                "def": "一個人真正想守住、而且會影響選擇的核心價值"
+                "def": "影響選擇的核心價值"
               }
             ]
           },
@@ -44,7 +44,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "guiding principle",
-                "def": "幫助一個人在複雜情況裡判斷方向的基本原則"
+                "def": "不只是戲劇性的那種"
               }
             ]
           },
@@ -97,7 +97,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "value conflict",
-                "def": "兩個重要價值同時成立，卻彼此拉扯的狀態"
+                "def": "卻彼此拉扯的狀態"
               }
             ]
           },
@@ -151,18 +151,18 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain what I stand for without sounding stiff?",
+            "en": "How would I say it if I wanted to explain what I stand for without sounding stiff?",
             "zh": "如果我想用英文說明自己重視什麼，又不想聽起來太僵，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I am trying to make choices that I can still respect later.\"",
+            "en": "You might put it like this: \"I am trying to make choices that I can still respect later.\"",
             "zh": "你可以說：「I am trying to make choices that I can still respect later.」",
             "vocab": [
               {
-                "word": "lived belief",
-                "def": "不是嘴上說說，而是實際活出來的信念"
+                "word": "like this",
+                "def": "而不是比較苦"
               }
             ]
           },
@@ -175,30 +175,30 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I care a lot about being honest, even when the timing is uncomfortable.\"",
+            "en": "You could also say, \"I care a lot about being honest, even when the timing is uncomfortable.\"",
             "zh": "另一句也很好用：「I care a lot about being honest, even when the timing is uncomfortable.」",
             "vocab": [
               {
-                "word": "public stance",
-                "def": "一個人在別人面前願意明確表達的立場"
+                "word": "honest",
+                "def": "不識時務的；不敏感的"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds adult.",
+            "en": "I like it because it sounds adult.",
             "zh": "我喜歡這句，因為它聽起來很成熟。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I do not want my values to disappear under pressure.\"",
+            "en": "An easier everyday line would be, \"I do not want my values to disappear under pressure.\"",
             "zh": "如果你想講得更簡單，也可以說：「I do not want my values to disappear under pressure.」",
             "vocab": [
               {
-                "word": "quiet conviction",
-                "def": "不大聲炫耀，卻很穩定存在的內在信念"
+                "word": "under pressure",
+                "def": "在高壓狀態下帶隊或工作"
               }
             ]
           },
@@ -307,7 +307,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like the cleanest place to pause.",
+            "en": "I think that is the neatest place to pause for now.",
             "zh": "停在這裡最乾淨。"
           },
           {
@@ -393,7 +393,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "family script",
-                "def": "從家庭裡學到、後來默默影響選擇和反應的內在腳本"
+                "def": "還繼續運作很多年"
               }
             ]
           },
@@ -411,7 +411,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "social inheritance",
-                "def": "從家庭、環境和文化裡默默承接下來的觀念與反應"
+                "def": "承襲常常很安靜地發生"
               }
             ]
           },
@@ -429,7 +429,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "inherited belief",
-                "def": "不是自己重新思考後形成，而是先從他人那裡接下來的信念"
+                "def": "不是自己重新思考後形成"
               }
             ]
           },
@@ -464,7 +464,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "early message",
-                "def": "一個人在成長初期反覆接收到、後來影響很深的訊息"
+                "def": "像關於安全、努力、性別、金錢、衝突"
               }
             ]
           },
@@ -482,7 +482,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "cultural norm",
-                "def": "在某個家庭或文化裡被視為理所當然的常見做法"
+                "def": "它就已經把你包圍了"
               }
             ]
           },
@@ -500,7 +500,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "examined value",
-                "def": "經過反思、比較和重新理解後留下來的價值"
+                "def": "慢慢變成一個被檢查過的價值"
               }
             ]
           },
@@ -524,18 +524,18 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about how my background shaped me?",
+            "en": "If I wanted to talk about how my background shaped me, what would sound natural in English?",
             "zh": "如果我想用英文說自己的背景怎麼形塑了我，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"A lot of what I believed early on came from the environment I grew up in.\"",
+            "en": "A good line here is, \"A lot of what I believed early on came from the environment I grew up in.\"",
             "zh": "你可以說：「A lot of what I believed early on came from the environment I grew up in.」",
             "vocab": [
               {
-                "word": "moral language",
-                "def": "一個人用來描述對錯、責任和應該不應該的語言方式"
+                "word": "grew up",
+                "def": "長大"
               }
             ]
           },
@@ -548,25 +548,25 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"Some of my values were inherited, and some had to be chosen later.\"",
+            "en": "You can also try, \"Some of my values were inherited, and some had to be chosen later.\"",
             "zh": "另一句也很好用：「Some of my values were inherited, and some had to be chosen later.」",
             "vocab": [
               {
-                "word": "chosen principle",
-                "def": "不是被動接收，而是經過思考後主動選擇的原則"
+                "word": "chosen later",
+                "def": "不是被動接收"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds honest.",
+            "en": "What lands for me is that it sounds honest.",
             "zh": "我喜歡這句，因為它聽起來很誠實。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I am still sorting out what is really mine.\"",
+            "en": "For a simpler version, you could say, \"I am still sorting out what is really mine.\"",
             "zh": "如果你想講得更簡單，也可以說：「I am still sorting out what is really mine.」",
             "vocab": []
           },
@@ -627,7 +627,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very balanced way to put it.",
+            "en": "That is a genuinely balanced way to put it.",
             "zh": "這真的是很平衡的說法。"
           },
           {
@@ -761,7 +761,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "belief revision",
-                "def": "原本相信的東西開始被重新檢查和調整的過程"
+                "def": "就已經開始了"
               }
             ]
           },
@@ -796,7 +796,7 @@ export const WEEK_41: Episode[] = [
             "zh": "它會有身體感，是因為綁在信念上的不只有思考，常常還有身份感。",
             "vocab": [
               {
-                "word": "worldview shift",
+                "word": "feel physical",
                 "def": "一個人看世界的整體方式開始發生轉變"
               }
             ]
@@ -850,7 +850,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "identity defense",
-                "def": "當信念被挑戰時，為了保護自我感而出現的防衛反應"
+                "def": "身份防衛很強"
               }
             ]
           },
@@ -868,7 +868,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "intellectual humility",
-                "def": "願意承認自己可能不完整、也可能需要修正的思考態度"
+                "def": "修正的思考態度"
               }
             ]
           },
@@ -892,18 +892,18 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say my beliefs are changing?",
+            "en": "What is a natural way to say it if I want to say my beliefs are changing?",
             "zh": "如果我想用英文說自己的信念正在改變，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I am rethinking some things I used to feel very certain about.\"",
+            "en": "If you want a clear sentence, try \"I am rethinking some things I used to feel very certain about.\"",
             "zh": "你可以說：「I am rethinking some things I used to feel very certain about.」",
             "vocab": [
               {
-                "word": "honest doubt",
-                "def": "不是敷衍懷疑，而是願意誠實面對不確定的狀態"
+                "word": "some things",
+                "def": "不是敷衍懷疑"
               }
             ]
           },
@@ -916,11 +916,11 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"New experiences have made my old assumptions feel less complete.\"",
+            "en": "A steadier way to put it is, \"New experiences have made my old assumptions feel less complete.\"",
             "zh": "另一句也很好用：「New experiences have made my old assumptions feel less complete.」",
             "vocab": [
               {
-                "word": "deeper honesty",
+                "word": "New experiences",
                 "def": "比表面立場更深一層、願意承認複雜度的誠實"
               }
             ]
@@ -928,13 +928,13 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds humble.",
+            "en": "The reason I like it is that it sounds humble.",
             "zh": "我喜歡這句，因為它聽起來很謙卑。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I do not believe this as simply as I used to.\"",
+            "en": "A plainer way to put it is, \"I do not believe this as simply as I used to.\"",
             "zh": "如果你想講得更簡單，也可以說：「I do not believe this as simply as I used to.」",
             "vocab": []
           },
@@ -1129,7 +1129,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "lived alignment",
-                "def": "一個人的行動和信念大致一致、不是只停在口頭上的狀態"
+                "def": "那是因為活出一致"
               }
             ]
           },
@@ -1147,14 +1147,14 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "convenience test",
-                "def": "一件事是否還守得住原則，常常要看它不方便時的反應"
+                "def": "一件事是否還守得住原則"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a true description of adult life.",
+            "en": "That feels like a true description of adult life.",
             "zh": "這真的就是成年生活的真實描述。"
           },
           {
@@ -1165,7 +1165,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "private behavior",
-                "def": "不是做給別人看，而是私底下真正反覆出現的行為模式"
+                "def": "不是做給別人看"
               }
             ]
           },
@@ -1200,7 +1200,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "value gap",
-                "def": "口中重視的東西和實際行動之間慢慢拉開的落差"
+                "def": "價值落差是安靜長大的"
               }
             ]
           },
@@ -1218,7 +1218,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "repeated choice",
-                "def": "不是一次性的決定，而是日復一日累積方向的反覆選擇"
+                "def": "不是一次性的決定"
               }
             ]
           },
@@ -1260,17 +1260,17 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say I am trying to live more consistently?",
+            "en": "How could I phrase it if I wanted to say I am trying to live more consistently?",
             "zh": "如果我想用英文說自己正在努力活得更一致，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I want my everyday choices to reflect what I say I care about.\"",
+            "en": "You could say, \"I want my everyday choices to reflect what I say I care about.\"",
             "zh": "你可以說：「I want my everyday choices to reflect what I say I care about.」",
             "vocab": [
               {
-                "word": "inner consistency",
+                "word": "everyday choices",
                 "def": "一個人內在信念與外在生活比較沒有分裂的狀態"
               }
             ]
@@ -1284,7 +1284,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I am trying to close the gap between what I believe and how I actually live.\"",
+            "en": "If you want a more grounded version, try \"I am trying to close the gap between what I believe and how I actually live.\"",
             "zh": "另一句也很好用：「I am trying to close the gap between what I believe and how I actually live.」",
             "vocab": []
           },
@@ -1297,7 +1297,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I do not want convenience to make my decisions for me.\"",
+            "en": "A natural line when you want something simpler is \"I do not want convenience to make my decisions for me.\"",
             "zh": "如果你想講得更簡單，也可以說：「I do not want convenience to make my decisions for me.」",
             "vocab": []
           },
@@ -1498,7 +1498,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "respectful disagreement",
-                "def": "即使立場不同，仍然努力保留尊重的分歧方式"
+                "def": "即使立場不同"
               }
             ]
           },
@@ -1516,7 +1516,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "shared respect",
-                "def": "即使不同意，仍然承認對方有其價值與尊嚴的基礎尊重"
+                "def": "即使不同意"
               }
             ]
           },
@@ -1533,8 +1533,8 @@ export const WEEK_41: Episode[] = [
             "zh": "語氣很重要，因為人在決定自己同不同意之前，通常會先決定自己安不安全。",
             "vocab": [
               {
-                "word": "listening stance",
-                "def": "不是只等著反駁，而是真正準備接住對方的傾聽姿態"
+                "word": "people decide",
+                "def": "語氣很重要"
               }
             ]
           },
@@ -1581,7 +1581,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "honest tension",
-                "def": "彼此不完全舒服，但仍願意真實面對差異的張力"
+                "def": "彼此不完全舒服"
               }
             ]
           },
@@ -1623,18 +1623,18 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to disagree respectfully?",
+            "en": "What would be a natural English way to disagree respectfully?",
             "zh": "如果我想有尊重地表達不同意見，可以用哪些英文？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I respect where you are coming from, but I see this differently.\"",
+            "en": "I would probably say, \"I respect where you are coming from, but I see this differently.\"",
             "zh": "你可以說：「I respect where you are coming from, but I see this differently.」",
             "vocab": [
               {
-                "word": "relational bridge",
-                "def": "在分歧時仍努力保留關係連結的一種說法或做法"
+                "word": "this differently",
+                "def": "這件事看法不同"
               }
             ]
           },
@@ -1647,12 +1647,12 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I want to stay honest here, even if we do not land in the same place.\"",
+            "en": "You could also say, \"I want to stay honest here, even if we do not land in the same place.\"",
             "zh": "另一句也很好用：「I want to stay honest here, even if we do not land in the same place.」",
             "vocab": [
               {
-                "word": "principled boundary",
-                "def": "不是情緒化切斷，而是基於原則說清楚界線"
+                "word": "honest",
+                "def": "不識時務的；不敏感的"
               }
             ]
           },
@@ -1665,7 +1665,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I hear you, but I cannot fully agree.\"",
+            "en": "If that is the direction you want, you could say, \"I hear you, but I cannot fully agree.\"",
             "zh": "如果你想講得更簡單，也可以說：「I hear you, but I cannot fully agree.」",
             "vocab": []
           },
@@ -1720,7 +1720,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a practical reminder.",
+            "en": "That is honestly a practical reminder.",
             "zh": "這真的是很實際的提醒。"
           },
           {
@@ -1780,7 +1780,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like a good place to pause.",
+            "en": "That feels like the right line to rest on for a bit.",
             "zh": "停在這裡剛剛好。"
           },
           {
@@ -1866,7 +1866,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "non-negotiable",
-                "def": "一個人清楚知道自己不能再退讓的底線或原則"
+                "def": "的底線或原則"
               }
             ]
           },
@@ -1901,8 +1901,8 @@ export const WEEK_41: Episode[] = [
             "zh": "因為它本來就比較強。偏好和原則，真的不是同一回事。",
             "vocab": [
               {
-                "word": "moral clarity",
-                "def": "對自己真正不能接受什麼，有比較明確的看見"
+                "word": "principle",
+                "def": "原則；基本規則"
               }
             ]
           },
@@ -1937,7 +1937,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "hidden cost",
-                "def": "當下看不出來、但之後會慢慢浮現的代價"
+                "def": "慢慢浮現的代價"
               }
             ]
           },
@@ -1955,14 +1955,14 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "self-betrayal",
-                "def": "明知道不合適，卻還是反覆做出違背自己的選擇"
+                "def": "明知道不合適"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a painful sentence.",
+            "en": "That lands as a very painful sentence.",
             "zh": "這句真的又痛又準。"
           },
           {
@@ -1972,8 +1972,8 @@ export const WEEK_41: Episode[] = [
             "zh": "可是很多時候又是必要的。人需要看見，很多很安靜的模式最後會長成很大的後悔。",
             "vocab": [
               {
-                "word": "long regret",
-                "def": "不是一瞬間的後悔，而是長時間留在心裡的遺憾"
+                "word": "create big regret",
+                "def": "人需要看見"
               }
             ]
           },
@@ -1997,17 +1997,17 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I need to say, \"I cannot keep compromising on this\"?",
+            "en": "How could I say, \"I cannot keep compromising on this\", in a natural way?",
             "zh": "如果我需要用英文說「這件事我不能再一直退讓了」，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I have realized this is not something I can keep giving up without costing myself too much.\"",
+            "en": "One option would be, \"I have realized this is not something I can keep giving up without costing myself too much.\"",
             "zh": "你可以說：「I have realized this is not something I can keep giving up without costing myself too much.」",
             "vocab": [
               {
-                "word": "boundary statement",
+                "word": "without costing",
                 "def": "把自己的界線清楚說出來的一段話"
               }
             ]
@@ -2021,7 +2021,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I need to be clear that this matters more deeply to me than I have been showing.\"",
+            "en": "Another natural line is, \"I need to be clear that this matters more deeply to me than I have been showing.\"",
             "zh": "另一句也很好用：「I need to be clear that this matters more deeply to me than I have been showing.」",
             "vocab": []
           },
@@ -2034,7 +2034,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I cannot keep saying yes to this.\"",
+            "en": "If you want to make it more everyday, try, \"I cannot keep saying yes to this.\"",
             "zh": "如果你想講得更簡單，也可以說：「I cannot keep saying yes to this.」",
             "vocab": []
           },
@@ -2142,7 +2142,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very good ending.",
+            "en": "That comes through as a good ending.",
             "zh": "這真的是很好的結尾。"
           },
           {
@@ -2234,7 +2234,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "value sorting",
-                "def": "在很多事都在拉扯時，重新辨認什麼真正重要的過程"
+                "def": "重新辨認什麼真正重要的過程"
               }
             ]
           },
@@ -2252,14 +2252,14 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "moral attention",
-                "def": "把注意力放在值得認真對待的事情上的能力"
+                "def": "道德注意力很重要"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a strong reminder.",
+            "en": "That is a genuinely strong reminder.",
             "zh": "這真的是很強的提醒。"
           },
           {
@@ -2269,8 +2269,8 @@ export const WEEK_41: Episode[] = [
             "zh": "一個人不一定要犯什麼大錯，才會失去很多東西。有時候他只是一直把自己的注意力送出去而已。",
             "vocab": [
               {
-                "word": "borrowed urgency",
-                "def": "被外界節奏和壓力帶著跑、好像什麼都很急的狀態"
+                "word": "dramatic mistake",
+                "def": "失去很多東西"
               }
             ]
           },
@@ -2317,7 +2317,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "priority test",
-                "def": "用來分辨事情是真的重要，還是只是很吵很急的判斷方法"
+                "def": "用來分辨事情是真的重要"
               }
             ]
           },
@@ -2334,8 +2334,8 @@ export const WEEK_41: Episode[] = [
             "zh": "大多數人都沒有。所謂活得更有思想，常常是從人慢下來、終於能把訊號和雜音分開開始。",
             "vocab": [
               {
-                "word": "thoughtful filter",
-                "def": "幫助自己過濾資訊和要求、不讓什麼都同樣進來的內在篩選器"
+                "word": "Thoughtful living",
+                "def": "所謂活得更有思想"
               }
             ]
           },
@@ -2359,18 +2359,18 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about what matters more carefully?",
+            "en": "What sounds natural if I want to talk about what matters more carefully?",
             "zh": "如果我想更仔細地用英文談什麼對我重要，可以怎麼說？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I am trying to be more deliberate about what gets my time and attention.\"",
+            "en": "A more everyday version is, \"I am trying to be more deliberate about what gets my time and attention.\"",
             "zh": "你可以說：「I am trying to be more deliberate about what gets my time and attention.」",
             "vocab": [
               {
-                "word": "lasting importance",
-                "def": "不是只吵一陣子，而是真的長期重要的事情"
+                "word": "deliberate",
+                "def": "刻意的；有意識的"
               }
             ]
           },
@@ -2383,7 +2383,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, \"I do not want urgency to decide my life for me.\"",
+            "en": "Another natural option is, \"I do not want urgency to decide my life for me.\"",
             "zh": "另一句也很好用：「I do not want urgency to decide my life for me.」",
             "vocab": []
           },
@@ -2396,12 +2396,12 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, \"I am trying to give more room to what actually matters.\"",
+            "en": "A shorter version would be, \"I am trying to give more room to what actually matters.\"",
             "zh": "如果你想講得更簡單，也可以說：「I am trying to give more room to what actually matters.」",
             "vocab": [
               {
-                "word": "chosen meaning",
-                "def": "不是被推著跑，而是自己有意識選出來的人生意義"
+                "word": "shorter version",
+                "def": "更短的說法"
               }
             ]
           },
@@ -2436,7 +2436,7 @@ export const WEEK_41: Episode[] = [
             "vocab": [
               {
                 "word": "wise limit",
-                "def": "不是僵硬控制，而是幫自己守住注意力和能量的限制"
+                "def": "不是僵硬控制"
               }
             ]
           },
@@ -2456,7 +2456,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very challenging sentence.",
+            "en": "That is an unusually challenging sentence.",
             "zh": "這句真的很有挑戰性。"
           },
           {

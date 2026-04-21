@@ -25,8 +25,8 @@ export const WEEK_36: Episode[] = [
             "zh": "那種『鬆一口氣又有點不安』的混合感，現在真的越來越常見。AI 通常都是先透過方便進到生活裡。",
             "vocab": [
               {
-                "word": "AI assistant",
-                "def": "能幫人整理、生成或回應內容的人工智慧工具"
+                "word": "AI enters",
+                "def": "AI通常都是先透過方便進到生活裡"
               }
             ]
           },
@@ -44,7 +44,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "frictionless help",
-                "def": "因為太快太順，而讓人幾乎感覺不到過程的協助"
+                "def": "太快太順"
               }
             ]
           },
@@ -61,8 +61,8 @@ export const WEEK_36: Episode[] = [
             "zh": "對。它不只是在省時間，它會進到判斷和選擇的領域裡。",
             "vocab": [
               {
-                "word": "automation layer",
-                "def": "在人的工作流程上，多加一層會自動幫忙處理事情的系統"
+                "word": "decision-making",
+                "def": "做決定；決策"
               }
             ]
           },
@@ -109,7 +109,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "cognitive offloading",
-                "def": "把原本要自己思考、整理或記住的工作交給工具處理"
+                "def": "長出判斷落差"
               }
             ]
           },
@@ -126,8 +126,8 @@ export const WEEK_36: Episode[] = [
             "zh": "也許真的是。問題很少只是工具本身，而是工具會把什麼樣的習慣模式養大。",
             "vocab": [
               {
-                "word": "convenience tax",
-                "def": "為了省下眼前時間，卻在別處付出技能或判斷代價的情況"
+                "word": "pattern",
+                "def": "模式；規律"
               }
             ]
           },
@@ -151,13 +151,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain this mixed feeling about AI?",
+            "en": "How could I phrase it if I wanted to explain this mixed feeling about AI?",
             "zh": "如果我想用英文解釋自己對 AI 那種又喜歡又擔心的感覺，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I appreciate how useful it is, but I am still figuring out what I should keep doing myself.'",
+            "en": "You can also go with 'I appreciate how useful it is, but I am still figuring out what I should keep doing myself.'",
             "zh": "你可以說：「I appreciate how useful it is, but I am still figuring out what I should keep doing myself.」"
           },
           {
@@ -169,30 +169,30 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'The speed is impressive, but the long-term effect on judgment matters too.'",
+            "en": "If you want a more grounded version, try 'The speed is impressive, but the long-term effect on judgment matters too.'",
             "zh": "另一句也很好用：「The speed is impressive, but the long-term effect on judgment matters too.」",
             "vocab": [
               {
-                "word": "judgment gap",
-                "def": "工具做得很快，但人自己的判斷能力沒有同步跟上的落差"
+                "word": "judgment matters",
+                "def": "工具做得很快"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds thoughtful, not dramatic.",
+            "en": "I respond to that because it sounds thoughtful, not dramatic.",
             "zh": "我很喜歡這句，因為它聽起來有思考，但不會太戲劇化。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I want to use AI without letting it replace too much of my thinking.'",
+            "en": "A plainer way to put it is, 'I want to use AI without letting it replace too much of my thinking.'",
             "zh": "如果你想講得更簡單，也可以說：「I want to use AI without letting it replace too much of my thinking.」",
             "vocab": [
               {
-                "word": "daily prompt",
-                "def": "日常工作裡輸入給 AI 的指令或請求"
+                "word": "without letting",
+                "def": "日常工作裡輸入給AI的指令或請求"
               }
             ]
           },
@@ -239,7 +239,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "deliberate use",
-                "def": "不是習慣性亂用，而是知道自己為什麼在這裡用 AI 的用法"
+                "def": "不是習慣性亂用"
               }
             ]
           },
@@ -257,7 +257,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "tool relationship",
-                "def": "人和一個常用工具之間慢慢形成的依賴、使用和判斷方式"
+                "def": "不是更模糊"
               }
             ]
           },
@@ -303,8 +303,8 @@ export const WEEK_36: Episode[] = [
             "zh": "和 AI 共處得好，最後大概不會主要靠恐懼，而是靠清楚的注意力習慣。",
             "vocab": [
               {
-                "word": "AI literacy",
-                "def": "知道 AI 大概擅長什麼、會怎麼出錯，以及該怎麼使用它的基本能力"
+                "word": "AI well",
+                "def": "和AI共處得好"
               }
             ]
           },
@@ -415,7 +415,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "pattern task",
-                "def": "依賴大量既有模式、格式或範例來完成的工作類型"
+                "def": "但不擅長真正的責任承擔"
               }
             ]
           },
@@ -432,8 +432,8 @@ export const WEEK_36: Episode[] = [
             "zh": "本來就該清楚。當人把『看起來 polished 的答案』誤認成『很深的能力』時，就很容易被帶偏。",
             "vocab": [
               {
-                "word": "confident error",
-                "def": "明明錯了，卻講得很有把握、很像對的答案"
+                "word": "competence",
+                "def": "能力；勝任"
               }
             ]
           },
@@ -480,7 +480,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "narrow strength",
-                "def": "AI 在某些特定任務上非常強，但不是全面都強的能力"
+                "def": "但不是全面都強的能力"
               }
             ]
           },
@@ -497,15 +497,15 @@ export const WEEK_36: Episode[] = [
             "zh": "當情境很亂、風險很高，或事情需要真實世界判斷，而不只是漂亮語言的時候，它最容易出問題。",
             "vocab": [
               {
-                "word": "context gap",
-                "def": "工具只看到文字表面，卻沒真正接住背景和現場條件的落差"
+                "word": "context",
+                "def": "情境；脈絡"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very useful distinction.",
+            "en": "That lands as a very useful distinction.",
             "zh": "這個區分真的很有用。"
           },
           {
@@ -522,13 +522,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain AI's strengths and limits clearly?",
+            "en": "What would be a natural English way to explain AI's strengths and limits clearly?",
             "zh": "如果我想用英文清楚說明 AI 的強項和限制，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'AI is very helpful for fast drafts and routine structure, but it still needs human judgment for complex decisions.'",
+            "en": "A clean way to say it is, 'AI is very helpful for fast drafts and routine structure, but it still needs human judgment for complex decisions.'",
             "zh": "你可以說：「AI is very helpful for fast drafts and routine structure, but it still needs human judgment for complex decisions.」"
           },
           {
@@ -540,12 +540,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'It is good at sounding capable, which is not the same as being reliable.'",
+            "en": "You could also say, 'It is good at sounding capable, which is not the same as being reliable.'",
             "zh": "另一句也很好用：「It is good at sounding capable, which is not the same as being reliable.」",
             "vocab": [
               {
-                "word": "reliable output",
-                "def": "不是只聽起來順，而是真的夠穩、夠準、能放心使用的輸出"
+                "word": "reliable",
+                "def": "可靠的；會穩定出現的"
               }
             ]
           },
@@ -558,12 +558,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'It is a strong tool, but not a substitute for thinking.'",
+            "en": "If you want to make it more everyday, try, 'It is a strong tool, but not a substitute for thinking.'",
             "zh": "如果你想講得更簡單，也可以說：「It is a strong tool, but not a substitute for thinking.」",
             "vocab": [
               {
-                "word": "human nuance",
-                "def": "需要真的理解情境、人情和微妙差別的那種人類判斷"
+                "word": "everyday",
+                "def": "更日常一點"
               }
             ]
           },
@@ -576,7 +576,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would put it that way too.",
+            "en": "I think I would say it in almost the same way.",
             "zh": "我也會這樣說。"
           }
         ]
@@ -610,7 +610,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "repeatable work",
-                "def": "流程明確、會一再出現，因此很適合工具幫忙處理的工作"
+                "def": "可重複的工作"
               }
             ]
           },
@@ -627,8 +627,8 @@ export const WEEK_36: Episode[] = [
             "zh": "那就應該放慢，並把更多部分留在人的檢查和判斷附近。",
             "vocab": [
               {
-                "word": "verification habit",
-                "def": "不管 AI 看起來多順，都會固定檢查它的習慣"
+                "word": "human review",
+                "def": "那就應該放慢"
               }
             ]
           },
@@ -674,8 +674,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。工具可以很有力量，但不一定有智慧。",
             "vocab": [
               {
-                "word": "capability shape",
-                "def": "一個工具到底在哪裡強、在哪裡弱、能力輪廓長什麼樣的理解"
+                "word": "powerful without",
+                "def": "但不一定有智慧"
               }
             ]
           },
@@ -700,7 +700,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would leave it right there.",
+            "en": "I would probably leave it there.",
             "zh": "我會把它停在這裡。"
           }
         ]
@@ -774,7 +774,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "workflow shift",
-                "def": "因為工具進來，而讓一整套工作流程改變的情況"
+                "def": "工具進來"
               }
             ]
           },
@@ -791,8 +791,8 @@ export const WEEK_36: Episode[] = [
             "zh": "這是一個很聰明的問題。每一次速度上的進步，都會連帶帶來一個問題：哪一種練習正在被取代？",
             "vocab": [
               {
-                "word": "first draft tool",
-                "def": "特別適合幫忙快速做出第一版內容的 AI 使用方式"
+                "word": "smart question",
+                "def": "這是一個很聰明的問題"
               }
             ]
           },
@@ -809,8 +809,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。工作工具永遠也在塑造工作的人。",
             "vocab": [
               {
-                "word": "knowledge work",
-                "def": "主要靠思考、整理、寫作或判斷來完成的工作"
+                "word": "always shape workers",
+                "def": "工作工具永遠也在塑造工作的人"
               }
             ]
           },
@@ -856,8 +856,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。人的角色很多時候會往上移，變成方向、修整和責任承擔。",
             "vocab": [
               {
-                "word": "review layer",
-                "def": "AI 先產出後，人再進行檢查和修整的那一層工作"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
@@ -874,8 +874,8 @@ export const WEEK_36: Episode[] = [
             "zh": "對。檢查機器產生的內容，會帶來一種很奇怪的警戒疲勞。",
             "vocab": [
               {
-                "word": "oversight fatigue",
-                "def": "一直要檢查工具有沒有出錯，而產生的那種監督疲勞"
+                "word": "vigilance fatigue",
+                "def": "檢查機器產生的內容"
               }
             ]
           },
@@ -899,13 +899,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain how AI has changed my workday?",
+            "en": "What sounds natural if I want to explain how AI has changed my workday?",
             "zh": "如果我想用英文描述 AI 怎麼改變我的工作日常，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'AI has changed the starting point of my work more than the final responsibility for it.'",
+            "en": "One sentence that works well is 'AI has changed the starting point of my work more than the final responsibility for it.'",
             "zh": "你可以說：「AI has changed the starting point of my work more than the final responsibility for it.」"
           },
           {
@@ -917,12 +917,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'It saves me time on routine drafting, but it also makes careful review more important.'",
+            "en": "Another natural line is, 'It saves me time on routine drafting, but it also makes careful review more important.'",
             "zh": "還有一句也很好用，就是「它確實替我省下了例行起草的時間，但也讓後面的人工檢查變得更重要。」",
             "vocab": [
               {
-                "word": "speed gain",
-                "def": "因為工具幫忙，而明顯節省下來的時間收益"
+                "word": "routine",
+                "def": "日常；固定流程"
               }
             ]
           },
@@ -935,12 +935,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'The work is faster now, but not always lighter.'",
+            "en": "If you want something simpler, 'The work is faster now, but not always lighter.' works well.",
             "zh": "如果你想講得更簡單，也可以說：「The work is faster now, but not always lighter.」",
             "vocab": [
               {
-                "word": "admin burden",
-                "def": "工作裡那些很耗時但不一定最有價值的行政和整理負擔"
+                "word": "always lighter",
+                "def": "不一定更輕鬆"
               }
             ]
           },
@@ -987,14 +987,14 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "tool dependence",
-                "def": "工作一旦沒有工具就很難運轉，並開始影響判斷力的依賴狀態"
+                "def": "工作一旦沒有工具就很難運轉"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very clear warning.",
+            "en": "That is an unusually clear warning.",
             "zh": "這真的很清楚，是個警訊。"
           },
           {
@@ -1004,8 +1004,8 @@ export const WEEK_36: Episode[] = [
             "zh": "它同時也是一種邀請。人還是可以選擇：自己要和這些工具一起變成什麼樣的工作者。",
             "vocab": [
               {
-                "word": "oversight habit",
-                "def": "不把 AI 產出照單全收，而是固定保留檢查與調整的習慣"
+                "word": "invitation",
+                "def": "邀請；機會"
               }
             ]
           },
@@ -1051,8 +1051,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。AI 可能會降低起草的成本，但它同時也提高了分辨力的價值。",
             "vocab": [
               {
-                "word": "discernment skill",
-                "def": "在大量看似合理的選項裡，分辨什麼比較可靠、比較適合的能力"
+                "word": "value of discernment",
+                "def": "完全沒錯"
               }
             ]
           },
@@ -1069,8 +1069,8 @@ export const WEEK_36: Episode[] = [
             "zh": "我也覺得是有希望的，只要人還是積極地待在過程裡。",
             "vocab": [
               {
-                "word": "active worker",
-                "def": "不是被工具推著走，而是在流程裡主動判斷和調整的人"
+                "word": "stay active",
+                "def": "只要人還是積極地待在過程裡"
               }
             ]
           },
@@ -1083,7 +1083,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "We can end there for now.",
+            "en": "We can leave it there for now.",
             "zh": "我們現在可以先收在這裡。"
           }
         ]
@@ -1168,8 +1168,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。那種看起來很像真的語言，會很快製造出假的信任感。",
             "vocab": [
               {
-                "word": "plausible answer",
-                "def": "聽起來很像對的、很順的答案，但不代表真的正確"
+                "word": "Plausible language",
+                "def": "聽起來像對的說法；貌似合理的語言"
               }
             ]
           },
@@ -1186,8 +1186,8 @@ export const WEEK_36: Episode[] = [
             "zh": "對。很明顯的失敗，反而比那種包裝得很完整的不確定更會保護人。",
             "vocab": [
               {
-                "word": "confidence mismatch",
-                "def": "答案聽起來很有把握，但實際可靠度卻沒那麼高的落差"
+                "word": "failure",
+                "def": "保護人"
               }
             ]
           },
@@ -1234,7 +1234,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "human judgment",
-                "def": "人在考量風險、情境和後果後做出的最後判斷"
+                "def": "責任還留著的地方"
               }
             ]
           },
@@ -1251,8 +1251,8 @@ export const WEEK_36: Episode[] = [
             "zh": "本來就應該清楚。當人把協助誤認成權威時，就很容易開始鬆掉。",
             "vocab": [
               {
-                "word": "trust boundary",
-                "def": "在什麼範圍內可以參考 AI、超過哪裡就不該直接相信的界線"
+                "word": "confuse assistance",
+                "def": "本來就應該清楚"
               }
             ]
           },
@@ -1276,29 +1276,29 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain why I still verify AI output carefully?",
+            "en": "How would I say it if I wanted to explain why I still verify AI output carefully?",
             "zh": "如果我想用英文解釋，為什麼我還是會很仔細檢查 AI 輸出，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I use AI as a starting point, but I do not treat it as a final authority.'",
+            "en": "You could say, 'I use AI as a starting point, but I do not treat it as a final authority.'",
             "zh": "你可以說：「I use AI as a starting point, but I do not treat it as a final authority.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very clear.",
+            "en": "That comes through very clearly.",
             "zh": "這句很清楚。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'The answer may sound convincing, but I still need to check whether it is accurate for this case.'",
+            "en": "Another natural option is, 'The answer may sound convincing, but I still need to check whether it is accurate for this case.'",
             "zh": "另一句也很好用：「The answer may sound convincing, but I still need to check whether it is accurate for this case.」",
             "vocab": [
               {
-                "word": "accuracy check",
+                "word": "check",
                 "def": "對內容做事實或細節驗證的檢查動作"
               }
             ]
@@ -1306,18 +1306,18 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds calm, not paranoid.",
+            "en": "What I like about it is that it sounds calm, not paranoid.",
             "zh": "我喜歡這句，因為它聽起來很平靜，不會像太多疑。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I trust it for speed, not for certainty.'",
+            "en": "If that is the direction you want, you could say, 'I trust it for speed, not for certainty.'",
             "zh": "如果你想講得更簡單，也可以說：「I trust it for speed, not for certainty.」",
             "vocab": [
               {
-                "word": "verification step",
-                "def": "在使用 AI 內容前，固定加上的一個查核步驟"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
@@ -1364,7 +1364,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "fact risk",
-                "def": "因為資訊不準而可能帶來真實錯誤或後果的風險"
+                "def": "上升"
               }
             ]
           },
@@ -1381,8 +1381,8 @@ export const WEEK_36: Episode[] = [
             "zh": "本來就該很具體。AI 安全很多時候靠的是謙卑的流程，不是靠對工具的信心。",
             "vocab": [
               {
-                "word": "source trail",
-                "def": "能回頭檢查資料來源、推論依據或事實根據的線索"
+                "word": "humble procedures",
+                "def": "不是靠對工具的信心"
               }
             ]
           },
@@ -1418,7 +1418,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a compact answer.",
+            "en": "That is honestly a compact answer.",
             "zh": "這個答案真的很精煉。"
           },
           {
@@ -1428,15 +1428,15 @@ export const WEEK_36: Episode[] = [
             "zh": "重點不是要懷疑一切，而是要記得 AI 到底是什麼樣的東西。",
             "vocab": [
               {
-                "word": "calibrated trust",
-                "def": "不是全信或全不信，而是根據風險和情境調整信任程度"
+                "word": "distrust everything",
+                "def": "重點不是要懷疑一切"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a very adult way to use technology.",
+            "en": "That comes through as an adult way to use technology.",
             "zh": "這聽起來真的是很成熟的科技使用方式。"
           },
           {
@@ -1446,8 +1446,8 @@ export const WEEK_36: Episode[] = [
             "zh": "我也這麼覺得。比較好的判斷，常常是從比較好的校準開始。",
             "vocab": [
               {
-                "word": "judgment calibration",
-                "def": "根據工具能力和風險高低，調整自己判斷強度的能力"
+                "word": "Better judgment",
+                "def": "比較好的判斷"
               }
             ]
           },
@@ -1545,8 +1545,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。創作很依賴聲音、摩擦和品味，不是只依賴產量。",
             "vocab": [
               {
-                "word": "creative friction",
-                "def": "創作時那種卡卡的、要想很久的摩擦感，常常也是作品成熟的一部分"
+                "word": "friction",
+                "def": "阻力；讓事情變難開始的摩擦"
               }
             ]
           },
@@ -1563,8 +1563,8 @@ export const WEEK_36: Episode[] = [
             "zh": "對。它會縮短通往輸出的路，但不一定會縮短通往意義的路。",
             "vocab": [
               {
-                "word": "generative draft",
-                "def": "由 AI 先生成出來、供人修改和判斷的創作草稿"
+                "word": "output without",
+                "def": "但不一定會縮短通往意義的路"
               }
             ]
           },
@@ -1611,7 +1611,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "voice preservation",
-                "def": "使用工具後，仍然把自己的語氣、節奏和觀點留住的能力"
+                "def": "使用工具後"
               }
             ]
           },
@@ -1628,8 +1628,8 @@ export const WEEK_36: Episode[] = [
             "zh": "本來就該讓人安心。創作上的幫忙，應該是擴大選擇，不是把作者感整個溶掉。",
             "vocab": [
               {
-                "word": "taste filter",
-                "def": "創作者用自己的品味去篩選什麼該留、什麼該丟的能力"
+                "word": "widens choices",
+                "def": "創作上的幫忙"
               }
             ]
           },
@@ -1653,13 +1653,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe this tension around AI and creativity?",
+            "en": "If I wanted to describe this tension around AI and creativity, what would sound natural in English?",
             "zh": "如果我想用英文描述 AI 和創作之間這種拉扯，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'AI can speed up the draft, but it cannot decide what kind of work feels true to me.'",
+            "en": "You could say, 'AI can speed up the draft, but it cannot decide what kind of work feels true to me.'",
             "zh": "你可以說：「AI can speed up the draft, but it cannot decide what kind of work feels true to me.」"
           },
           {
@@ -1671,12 +1671,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'The tool can generate options, but the final voice still depends on human taste and judgment.'",
+            "en": "You can also try, 'The tool can generate options, but the final voice still depends on human taste and judgment.'",
             "zh": "另一句也很好用：「The tool can generate options, but the final voice still depends on human taste and judgment.」",
             "vocab": [
               {
-                "word": "originality question",
-                "def": "面對 AI 協助時，作品到底還算不算自己的那個原創性問題"
+                "word": "generate options",
+                "def": "先產出多個可能方向"
               }
             ]
           },
@@ -1689,12 +1689,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I use AI to help me think, not to replace my voice.'",
+            "en": "A shorter version would be, 'I use AI to help me think, not to replace my voice.'",
             "zh": "如果你想講得更簡單，也可以說：「I use AI to help me think, not to replace my voice.」",
             "vocab": [
               {
-                "word": "creative partner",
-                "def": "不是作者本身，而是幫忙刺激想法或展開草稿的合作型工具角色"
+                "word": "shorter version",
+                "def": "更短的說法"
               }
             ]
           },
@@ -1741,7 +1741,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "prompt residue",
-                "def": "AI 生成內容裡殘留的那種過度順滑、模板化或不夠像人的感覺"
+                "def": "那種的平滑"
               }
             ]
           },
@@ -1758,8 +1758,8 @@ export const WEEK_36: Episode[] = [
             "zh": "它有幫助，因為它把很多人其實認得出來、但說不出名字的感覺點了出來。",
             "vocab": [
               {
-                "word": "voice check",
-                "def": "在作品完成前，刻意檢查這到底還像不像自己在說話的一個步驟"
+                "word": "people recognize",
+                "def": "它有幫助"
               }
             ]
           },
@@ -1805,15 +1805,15 @@ export const WEEK_36: Episode[] = [
             "zh": "很好。科技會改變表面，但人的獨特性還是活在選擇和意義裡。",
             "vocab": [
               {
-                "word": "meaning choice",
-                "def": "在很多可能性裡，最後選出真正有意義方向的那個人類選擇"
+                "word": "human distinctiveness",
+                "def": "科技會改變表面"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very hopeful way to end.",
+            "en": "That feels especially hopeful way to end.",
             "zh": "這真的是很有希望的收尾方式。"
           },
           {
@@ -1831,7 +1831,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where I would pause.",
+            "en": "That is probably where I would pause too.",
             "zh": "我會停在這個地方。"
           }
         ]
@@ -1934,8 +1934,8 @@ export const WEEK_36: Episode[] = [
             "zh": "它本來就很結構。也因此，個人小心當然重要，但系統設計很多時候更重要。",
             "vocab": [
               {
-                "word": "embedded bias",
-                "def": "不是明說的偏見，而是已經被埋進資料和系統裡的偏差"
+                "word": "caution",
+                "def": "謹慎；小心"
               }
             ]
           },
@@ -1982,7 +1982,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "accountability chain",
-                "def": "從設計、部署到使用，一路可以追到誰該負責的責任鏈條"
+                "def": "從設計、部署到使用"
               }
             ]
           },
@@ -1999,8 +1999,8 @@ export const WEEK_36: Episode[] = [
             "zh": "本來就是。所謂倫理 AI，不只是好意圖，而是好結構。",
             "vocab": [
               {
-                "word": "responsible use",
-                "def": "使用 AI 時，會把影響、風險和後果一起放進考量的做法"
+                "word": "Ethical",
+                "def": "而是好結構"
               }
             ]
           },
@@ -2024,13 +2024,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about AI bias and responsibility clearly?",
+            "en": "What is a natural way to say it if I want to talk about AI bias and responsibility clearly?",
             "zh": "如果我想用英文清楚談 AI 的偏差和責任，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'AI systems reflect the data and priorities they are built on, so they are never neutral by default.'",
+            "en": "A natural way to say it is, 'AI systems reflect the data and priorities they are built on, so they are never neutral by default.'",
             "zh": "你可以說：「AI systems reflect the data and priorities they are built on, so they are never neutral by default.」"
           },
           {
@@ -2042,12 +2042,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'The ethical question is not only what the tool can do, but who bears the risk when it goes wrong.'",
+            "en": "A more everyday version would be 'The ethical question is not only what the tool can do, but who bears the risk when it goes wrong.'",
             "zh": "另一句也很好用：「The ethical question is not only what the tool can do, but who bears the risk when it goes wrong.」",
             "vocab": [
               {
-                "word": "uneven impact",
-                "def": "同一個系統出錯時，不同群體承受的影響並不平均的情況"
+                "word": "ethical",
+                "def": "不同群體承受的影響並不平均的情況"
               }
             ]
           },
@@ -2060,12 +2060,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'When the system fails, somebody still pays the price.'",
+            "en": "If you want to keep it simple, 'When the system fails, somebody still pays the price.' works well.",
             "zh": "如果你想講得更簡單，也可以說：「When the system fails, somebody still pays the price.」",
             "vocab": [
               {
-                "word": "human oversight",
-                "def": "即使有 AI 工具介入，人還是保留檢查、修正和負責的角色"
+                "word": "system fails",
+                "def": "即使有AI工具介入"
               }
             ]
           },
@@ -2111,8 +2111,8 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。好的預設值，是在人還沒來得及保護自己之前，就先幫人擋一部分。",
             "vocab": [
               {
-                "word": "ethical default",
-                "def": "系統一開始就設得比較安全、公平和保守的預設做法"
+                "word": "defaults protect",
+                "def": "預設值"
               }
             ]
           },
@@ -2171,7 +2171,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "moral attention",
-                "def": "不只問好不好用，也問它對人公平不公平、會不會造成傷害的注意力"
+                "def": "很有力量的工具"
               }
             ]
           },
@@ -2188,8 +2188,8 @@ export const WEEK_36: Episode[] = [
             "zh": "倫理上的清楚很少是輕鬆的，但它常常能預防後面更重的傷害。",
             "vocab": [
               {
-                "word": "system responsibility",
-                "def": "不把責任推給單一使用者，而是去看整個系統該怎麼負責的觀念"
+                "word": "clarity",
+                "def": "清晰感；思路明確"
               }
             ]
           },
@@ -2288,7 +2288,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "tool literacy",
-                "def": "知道一個工具怎麼用、何時用、何時不該用的基本素養"
+                "def": "工具素養到最後"
               }
             ]
           },
@@ -2347,7 +2347,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "human distinctiveness",
-                "def": "人在面對世界時那些比較不容易被機器直接取代的獨特能力"
+                "def": "完全沒錯"
               }
             ]
           },
@@ -2364,8 +2364,8 @@ export const WEEK_36: Episode[] = [
             "zh": "它之所以比較豐富，是因為它在問一個更好的問題。",
             "vocab": [
               {
-                "word": "meaning-making",
-                "def": "不是只處理資訊，而是替經驗和選擇賦予意義的能力"
+                "word": "richer",
+                "def": "不是只處理資訊"
               }
             ]
           },
@@ -2389,13 +2389,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe my approach to living with AI?",
+            "en": "How could I phrase it if I wanted to describe my approach to living with AI?",
             "zh": "如果我想用英文描述自己和 AI 共處的態度，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I want to use AI as a tool that supports my work, not as a system that quietly reshapes my judgment without my noticing.'",
+            "en": "One simple version is, 'I want to use AI as a tool that supports my work, not as a system that quietly reshapes my judgment without my noticing.'",
             "zh": "你可以說：「I want to use AI as a tool that supports my work, not as a system that quietly reshapes my judgment without my noticing.」"
           },
           {
@@ -2407,12 +2407,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am trying to become more fluent with the tools without becoming less present in my own thinking.'",
+            "en": "You might also say, 'I am trying to become more fluent with the tools without becoming less present in my own thinking.'",
             "zh": "另一句也很好用：「I am trying to become more fluent with the tools without becoming less present in my own thinking.」",
             "vocab": [
               {
-                "word": "machine fluency",
-                "def": "知道怎麼和智慧工具互動，並把它用得有效的熟悉度"
+                "word": "present",
+                "def": "活在當下；專注當下"
               }
             ]
           },
@@ -2425,12 +2425,12 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I want technology to expand my options, not shrink my awareness.'",
+            "en": "An easier everyday line would be, 'I want technology to expand my options, not shrink my awareness.'",
             "zh": "如果你想講得更簡單，也可以說：「I want technology to expand my options, not shrink my awareness.」",
             "vocab": [
               {
-                "word": "awareness shrinkage",
-                "def": "工具越來越方便，但人的注意力和察覺反而越變越小的現象"
+                "word": "shrink my awareness",
+                "def": "工具越來越方便"
               }
             ]
           },
@@ -2476,15 +2476,15 @@ export const WEEK_36: Episode[] = [
             "zh": "完全沒錯。有些判斷如果要保持像人，本來就需要時間。",
             "vocab": [
               {
-                "word": "judgment practice",
-                "def": "透過一再判斷、修正和思考，讓自己判斷力不退化的練習"
+                "word": "forms of judgment",
+                "def": "時間"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very helpful way to frame slowness.",
+            "en": "That feels like a particularly helpful way to frame slowness.",
             "zh": "這真的很會幫慢這件事正名。"
           },
           {
@@ -2494,8 +2494,8 @@ export const WEEK_36: Episode[] = [
             "zh": "現在比以前更重要。被動式的方便，如果人一直沒注意到，真的會把人掏空。",
             "vocab": [
               {
-                "word": "deliberate habit",
-                "def": "不是順手亂用，而是先想過再使用的一種穩定習慣"
+                "word": "convenience",
+                "def": "便利"
               }
             ]
           },
@@ -2531,7 +2531,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very clean answer.",
+            "en": "That is a genuinely clean answer.",
             "zh": "這個答案很乾淨。"
           },
           {
@@ -2541,8 +2541,8 @@ export const WEEK_36: Episode[] = [
             "zh": "和更聰明的機器共處得好，最後大概取決於我們有沒有變成更有意識的人，而不是比較不像人的人。",
             "vocab": [
               {
-                "word": "adaptive human",
-                "def": "不是被技術拖著跑，而是會調整自己、又守住判斷的人"
+                "word": "intentional humans",
+                "def": "而不是比較不像人的人"
               }
             ]
           },
@@ -2560,7 +2560,7 @@ export const WEEK_36: Episode[] = [
             "vocab": [
               {
                 "word": "wiser coexistence",
-                "def": "和智慧工具一起生活時，既不盲信也不恐懼，而是比較成熟地共處"
+                "def": "既不盲信也不恐懼"
               }
             ]
           },

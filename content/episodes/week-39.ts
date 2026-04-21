@@ -26,7 +26,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "money story",
-                "def": "一個人從成長經驗和生活習慣裡形成的金錢信念與敘事"
+                "def": "就早已經活在某種金錢故事裡了"
               }
             ]
           },
@@ -44,7 +44,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "cash flow",
-                "def": "錢在收入、支出和日常生活之間流動的實際情況"
+                "def": "現金流寫在紙上看起來很機械"
               }
             ]
           },
@@ -62,7 +62,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "spending habit",
-                "def": "一個人花錢時反覆出現、很容易自動化的固定模式"
+                "def": "消費習慣"
               }
             ]
           },
@@ -127,7 +127,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "financial stress",
-                "def": "因為金錢壓力而長期感到緊張、疲累或不安的狀態"
+                "def": "更糟"
               }
             ]
           },
@@ -151,13 +151,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about improving my money habits?",
+            "en": "What sounds natural if I want to talk about improving my money habits?",
             "zh": "如果我想用英文說自己正在調整金錢習慣，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to become more intentional about where my money goes each month.'",
+            "en": "You might put it like this: 'I am trying to become more intentional about where my money goes each month.'",
             "zh": "你可以說：「I am trying to become more intentional about where my money goes each month.」"
           },
           {
@@ -169,30 +169,30 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I want my spending to reflect my values, not just my impulses.'",
+            "en": "You could also say, 'I want my spending to reflect my values, not just my impulses.'",
             "zh": "還有一句也很好用，就是「我希望自己的花費反映的是我的價值，而不只是衝動。」",
             "vocab": [
               {
-                "word": "value-based spending",
-                "def": "讓花錢方式更貼近自己真正在意的價值和優先順序"
+                "word": "values",
+                "def": "價值觀"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that because it sounds mature.",
+            "en": "What I like about it is that it sounds mature.",
             "zh": "我喜歡這句，因為它聽起來很成熟。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am trying to leave myself a little more margin.'",
+            "en": "If that is the direction you want, you could say, 'I am trying to leave myself a little more margin.'",
             "zh": "如果你想講得更簡單，也可以說：「I am trying to leave myself a little more margin.」",
             "vocab": [
               {
-                "word": "financial margin",
-                "def": "扣掉必要支出後，還留得住的一點彈性和餘裕"
+                "word": "margin",
+                "def": "一天裡沒有被塞滿、能讓自己呼吸的留白"
               }
             ]
           },
@@ -239,7 +239,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "money clarity",
-                "def": "對自己的收入、支出和財務狀況有清楚可面對的理解"
+                "def": "一旦混亂"
               }
             ]
           },
@@ -297,8 +297,8 @@ export const WEEK_39: Episode[] = [
             "zh": "也因此它才有用。健康的金錢關係會讓你有空間去規劃，而不是被自己的人生嚇到。",
             "vocab": [
               {
-                "word": "money calm",
-                "def": "不是很有錢，而是面對金錢時比較穩定、不慌亂的狀態"
+                "word": "healthy money relationship",
+                "def": "而不是被自己的人生嚇到"
               }
             ]
           },
@@ -409,7 +409,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "scarcity mindset",
-                "def": "明明未必真的缺，但內心仍一直活在不夠和會失去的感覺裡"
+                "def": "明明未必真的缺"
               }
             ]
           },
@@ -427,7 +427,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "financial identity",
-                "def": "一個人怎麼看待自己和金錢位置的深層自我認同"
+                "def": "之後才變成語言"
               }
             ]
           },
@@ -474,7 +474,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "status symbol",
-                "def": "不只是物品本身，而是能代表地位或面子的東西"
+                "def": "不只是物品本身"
               }
             ]
           },
@@ -492,7 +492,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "comparison trigger",
-                "def": "讓人因為和別人相比而突然想花錢或覺得自己不夠的觸發點"
+                "def": "只是當事人還沒發現"
               }
             ]
           },
@@ -516,13 +516,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say money feels emotional because of my background?",
+            "en": "How would I say it if I wanted to say money feels emotional because of my background?",
             "zh": "如果我想用英文說，金錢對我來說之所以很情緒化，是因為我的背景經驗，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'Money is not just practical for me. It is tied to older experiences of fear and safety.'",
+            "en": "A good line here is, 'Money is not just practical for me. It is tied to older experiences of fear and safety.'",
             "zh": "你可以說：「對我來說，錢不只是實際問題，它也連著更早以前那些關於害怕和安全感的經驗。」"
           },
           {
@@ -534,11 +534,11 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am still learning the difference between having enough and feeling enough.'",
+            "en": "Another natural line is, 'I am still learning the difference between having enough and feeling enough.'",
             "zh": "另一句也很好用：「I am still learning the difference between having enough and feeling enough.」",
             "vocab": [
               {
-                "word": "enough point",
+                "word": "feeling enough",
                 "def": "一個人真正足夠、可以稍微安心下來的金錢感受界線"
               }
             ]
@@ -552,12 +552,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'Money brings up more memory for me than I expected.'",
+            "en": "If you want to make it more everyday, try, 'Money brings up more memory for me than I expected.'",
             "zh": "如果你想講得更簡單，也可以說：「Money brings up more memory for me than I expected.」",
             "vocab": [
               {
-                "word": "money memory",
-                "def": "和早期經驗連在一起、會影響現在金錢感受的記憶痕跡"
+                "word": "memory",
+                "def": "影響反應方式的教訓"
               }
             ]
           },
@@ -604,7 +604,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "safety feeling",
-                "def": "一個人面對金錢時能不能感到穩定和安心的內在感受"
+                "def": "安全感受很重要"
               }
             ]
           },
@@ -663,7 +663,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "emotional price",
-                "def": "除了錢本身之外，某個決定還讓人付出的心理和情緒成本"
+                "def": "除了錢本身之外"
               }
             ]
           },
@@ -762,7 +762,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "budget trade-off",
-                "def": "在有限預算裡，為了保留某件事而放掉另一件事的取捨"
+                "def": "也因此"
               }
             ]
           },
@@ -780,7 +780,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "intentional spending",
-                "def": "不是順手亂花，而是帶著明確優先順序去花錢"
+                "def": "不是順手亂花"
               }
             ]
           },
@@ -839,7 +839,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "delayed reward",
-                "def": "先放下眼前享受，換取未來比較大好處的做法"
+                "def": "先放下眼前享受"
               }
             ]
           },
@@ -857,14 +857,14 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "comfort purchase",
-                "def": "主要是為了安慰情緒，而不是出於真正需要的購買"
+                "def": "的購買"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very nonjudgmental way to talk about it.",
+            "en": "That feels like a particularly nonjudgmental way to talk about it.",
             "zh": "這真的是一種很不批判的說法。"
           },
           {
@@ -881,13 +881,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to explain how I decide what is worth spending on?",
+            "en": "If I wanted to explain how I decide what is worth spending on, what would sound natural in English?",
             "zh": "如果我想用英文解釋自己怎麼判斷哪些花費值得，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I try to spend more on what I use often and care about deeply, and less on what only looks good for a moment.'",
+            "en": "If you want a clear sentence, try 'I try to spend more on what I use often and care about deeply, and less on what only looks good for a moment.'",
             "zh": "你可以說：「I try to spend more on what I use often and care about deeply, and less on what only looks good for a moment.」"
           },
           {
@@ -899,11 +899,11 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am trying to make my spending line up with my actual priorities.'",
+            "en": "Another natural option is, 'I am trying to make my spending line up with my actual priorities.'",
             "zh": "另一句也很好用：「I am trying to make my spending line up with my actual priorities.」",
             "vocab": [
               {
-                "word": "priority test",
+                "word": "actual priorities",
                 "def": "用來檢查一筆花費到底有沒有符合真正優先順序的判斷標準"
               }
             ]
@@ -917,12 +917,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I am trying to stop leaking money into things I do not value much.'",
+            "en": "A shorter version would be, 'I am trying to stop leaking money into things I do not value much.'",
             "zh": "如果你想講得更簡單，也可以說：「I am trying to stop leaking money into things I do not value much.」",
             "vocab": [
               {
-                "word": "expense leak",
-                "def": "看起來很小，但一直默默把錢漏出去的支出漏洞"
+                "word": "stop leaking",
+                "def": "看起來很小"
               }
             ]
           },
@@ -969,7 +969,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "future self",
-                "def": "把未來的自己也當成現在值得照顧的人來看的觀念"
+                "def": "未來的自己"
               }
             ]
           },
@@ -1028,14 +1028,14 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "saving rhythm",
-                "def": "一種能長期維持、不會很快反彈的存錢節奏"
+                "def": "很快反彈的存錢節奏"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a very true ending.",
+            "en": "That feels like a true ending.",
             "zh": "這真的很像一個很真的結尾。"
           },
           {
@@ -1139,7 +1139,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "awkward conversation",
-                "def": "雙方都知道重要、卻又很容易卡住或緊張的對話"
+                "def": "更糟"
               }
             ]
           },
@@ -1198,14 +1198,14 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "income gap",
-                "def": "兩個人之間在收入或可支配金額上的明顯差距"
+                "def": "扭成道德失敗"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such an important point.",
+            "en": "That is an especially important point.",
             "zh": "這真的是很重要的一點。"
           },
           {
@@ -1216,7 +1216,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "financial boundary",
-                "def": "在金錢往來、分攤或借貸上事先說清楚的界線"
+                "def": "財務界線也是同樣道理"
               }
             ]
           },
@@ -1246,7 +1246,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I think it would help us to talk about money before assumptions turn into pressure.'",
+            "en": "I would probably say, 'I think it would help us to talk about money before assumptions turn into pressure.'",
             "zh": "你可以說：「I think it would help us to talk about money before assumptions turn into pressure.」"
           },
           {
@@ -1258,11 +1258,11 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I want us to be clear about what feels fair and what feels hard.'",
+            "en": "You can also try, 'I want us to be clear about what feels fair and what feels hard.'",
             "zh": "另一句也很好用：「I want us to be clear about what feels fair and what feels hard.」",
             "vocab": [
               {
-                "word": "shared budget",
+                "word": "feels fair",
                 "def": "兩個人或一家人一起規劃、一起承擔的共同預算"
               }
             ]
@@ -1276,12 +1276,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I do not want money to become a silent source of tension between us.'",
+            "en": "If you want to keep it simple, 'I do not want money to become a silent source of tension between us.' works well.",
             "zh": "如果你想講得更簡單，也可以說：「I do not want money to become a silent source of tension between us.」",
             "vocab": [
               {
-                "word": "transparent planning",
-                "def": "把金錢安排攤開來講清楚、不讓人猜來猜去的規劃方式"
+                "word": "tension",
+                "def": "彼此之間慢慢累積起來的不舒服和緊繃"
               }
             ]
           },
@@ -1316,7 +1316,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "resentment build-up",
-                "def": "因為很多小不滿都沒說，最後慢慢堆起來的怨氣"
+                "def": "像小小的沉默、反覆的假設"
               }
             ]
           },
@@ -1334,7 +1334,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "expectation mismatch",
-                "def": "雙方以為彼此想法差不多，實際上卻差很多的落差"
+                "def": "實際上卻差很多的落差"
               }
             ]
           },
@@ -1393,7 +1393,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "money talk",
-                "def": "和伴侶、家人或朋友正面談金錢安排與壓力的對話"
+                "def": "談錢重要"
               }
             ]
           },
@@ -1492,7 +1492,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "goal pressure",
-                "def": "目標本身帶來的推進感，後來變成壓迫感的狀態"
+                "def": "目標本身帶來的推進感"
               }
             ]
           },
@@ -1510,14 +1510,14 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "milestone anxiety",
-                "def": "面對某個財務里程碑時出現的焦慮和壓迫感"
+                "def": "完全沒錯"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a very precise description.",
+            "en": "That is a genuinely precise description.",
             "zh": "這真的是非常精準的描述。"
           },
           {
@@ -1569,7 +1569,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "progress trap",
-                "def": "明明有前進，卻一直覺得還是不夠、永遠算不了數的陷阱"
+                "def": "明明有前進"
               }
             ]
           },
@@ -1581,7 +1581,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "self-worth link",
-                "def": "把成敗和自我價值過度綁在一起的心理連結"
+                "def": "比實際涉及的金錢看起來更大"
               }
             ]
           },
@@ -1617,13 +1617,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to say my financial goal has started to stress me out?",
+            "en": "What is a natural way to say it if I want to say my financial goal has started to stress me out?",
             "zh": "如果我想用英文說，我的財務目標開始讓我壓力很大，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'The goal is useful, but I can feel it becoming a source of pressure instead of direction.'",
+            "en": "One option would be, 'The goal is useful, but I can feel it becoming a source of pressure instead of direction.'",
             "zh": "你可以說：「The goal is useful, but I can feel it becoming a source of pressure instead of direction.」"
           },
           {
@@ -1635,12 +1635,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I want a realistic target, not a number that keeps making me feel behind.'",
+            "en": "A more everyday version would be 'I want a realistic target, not a number that keeps making me feel behind.'",
             "zh": "另一句也很好用：「I want a realistic target, not a number that keeps making me feel behind.」",
             "vocab": [
               {
                 "word": "realistic target",
-                "def": "符合現實條件、不會只靠壓榨自己來達成的目標"
+                "def": "只靠壓榨自己來達成的目標"
               }
             ]
           },
@@ -1653,12 +1653,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I need a goal I can grow with, not fear all the time.'",
+            "en": "An easier everyday line would be, 'I need a goal I can grow with, not fear all the time.'",
             "zh": "如果你想講得更簡單，也可以說：「I need a goal I can grow with, not fear all the time.」",
             "vocab": [
               {
-                "word": "pressure cycle",
-                "def": "因為壓力越大就越亂，越亂又讓壓力更大的循環"
+                "word": "easier everyday",
+                "def": "更日常的說法"
               }
             ]
           },
@@ -1705,7 +1705,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "steady progress",
-                "def": "雖然不暴衝，但能穩穩持續前進的進展方式"
+                "def": "雖然不暴衝"
               }
             ]
           },
@@ -1876,7 +1876,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "status purchase",
-                "def": "主要是為了顯示地位或形象，而不是純粹需求的購買"
+                "def": "而不是純粹需求的購買"
               }
             ]
           },
@@ -1923,7 +1923,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "visible wealth",
-                "def": "別人一眼就能看到、容易被拿來判斷地位的外在富足表現"
+                "def": "資訊"
               }
             ]
           },
@@ -1941,7 +1941,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "lifestyle inflation",
-                "def": "收入一提高，生活標準也跟著往上膨脹、很難再降回來的狀態"
+                "def": "收入一提高"
               }
             ]
           },
@@ -1959,14 +1959,14 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "hidden debt",
-                "def": "表面生活還撐得住，但背後其實已經悄悄累積的債務壓力"
+                "def": "表面生活還撐得住"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a sharp warning.",
+            "en": "That is a genuinely sharp warning.",
             "zh": "這真的是很銳利的提醒。"
           },
           {
@@ -1983,13 +1983,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to talk about spending for image?",
+            "en": "How could I phrase it if I wanted to talk about spending for image?",
             "zh": "如果我想用英文談那種為了形象去花錢的狀態，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I am trying to tell the difference between what I truly enjoy and what I buy to look successful.'",
+            "en": "You could say, 'I am trying to tell the difference between what I truly enjoy and what I buy to look successful.'",
             "zh": "你可以說：「I am trying to tell the difference between what I truly enjoy and what I buy to look successful.」"
           },
           {
@@ -2001,12 +2001,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I do not want social comparison to quietly design my spending.'",
+            "en": "You might also say, 'I do not want social comparison to quietly design my spending.'",
             "zh": "另一句也很好用：「I do not want social comparison to quietly design my spending.」",
             "vocab": [
               {
                 "word": "social comparison",
-                "def": "因為看見別人的生活或消費，而開始衡量自己夠不夠的比較心理"
+                "def": "社交比較"
               }
             ]
           },
@@ -2019,12 +2019,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I want quieter stability, not louder appearances.'",
+            "en": "If you want something simpler, 'I want quieter stability, not louder appearances.' works well.",
             "zh": "如果你想講得更簡單，也可以說：「I want quieter stability, not louder appearances.」",
             "vocab": [
               {
-                "word": "quiet stability",
-                "def": "不必張揚，但讓生活真的比較穩的狀態"
+                "word": "quieter stability",
+                "def": "不必張揚"
               }
             ]
           },
@@ -2071,7 +2071,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "public success",
-                "def": "很容易被別人看見、稱讚和辨認出來的外在成功樣子"
+                "def": "常常是安靜穩定"
               }
             ]
           },
@@ -2129,8 +2129,8 @@ export const WEEK_39: Episode[] = [
             "zh": "也因此，形象管理需要被限制。如果它一直從真正讓生活穩下來的東西裡偷錢，那看起來成功就會變得很昂貴。",
             "vocab": [
               {
-                "word": "image cost",
-                "def": "為了維持某種外表或社會形象而付出的金錢和心理代價"
+                "word": "image management",
+                "def": "也因此"
               }
             ]
           },
@@ -2143,7 +2143,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let us stop on that thought.",
+            "en": "I want to stop with that thought still in the air.",
             "zh": "我們就停在這個念頭上吧。"
           },
           {
@@ -2241,7 +2241,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "money calm",
-                "def": "面對金錢時比較穩定、比較不被恐慌牽著走的狀態"
+                "def": "金錢平靜很重要"
               }
             ]
           },
@@ -2287,8 +2287,8 @@ export const WEEK_39: Episode[] = [
             "zh": "像誠實、規劃、彈性、界線、自尊，還有一種不會一直把終點往前推的足夠心態。",
             "vocab": [
               {
-                "word": "flexible goal",
-                "def": "有方向但不僵硬，能跟著現實調整的財務目標"
+                "word": "enough mindset",
+                "def": "不一直追更多"
               }
             ]
           },
@@ -2306,7 +2306,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "conscious spending",
-                "def": "知道自己為什麼花、也知道自己在放棄什麼的花費方式"
+                "def": "有意識花費很重要"
               }
             ]
           },
@@ -2325,7 +2325,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a very good definition of maturity.",
+            "en": "That sounds like a good definition of maturity.",
             "zh": "這真的很像對成熟的一個好定義。"
           },
           {
@@ -2342,13 +2342,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English can I use if I want to describe the kind of money relationship I want?",
+            "en": "What would be a natural English way to describe the kind of money relationship I want?",
             "zh": "如果我想用英文描述，我希望自己和金錢有什麼樣的關係，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, 'I want money to feel like a tool I can work with, not a source of fear I keep reacting to.'",
+            "en": "A more everyday version is, 'I want money to feel like a tool I can work with, not a source of fear I keep reacting to.'",
             "zh": "你可以說：「I want money to feel like a tool I can work with, not a source of fear I keep reacting to.」"
           },
           {
@@ -2360,12 +2360,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful one is, 'I am trying to build enough structure that money no longer surprises me all the time.'",
+            "en": "You could also say, 'I am trying to build enough structure that money no longer surprises me all the time.'",
             "zh": "另一句也很好用：「I am trying to build enough structure that money no longer surprises me all the time.」",
             "vocab": [
               {
-                "word": "long-view planning",
-                "def": "不只看這週，而是把未來幾個月甚至幾年一起放進規劃裡"
+                "word": "structure",
+                "def": "結構；框架；規律"
               }
             ]
           },
@@ -2378,12 +2378,12 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And if you want something simpler, say, 'I want my money habits to make my life steadier, not noisier.'",
+            "en": "If that is the direction you want, you could say, 'I want my money habits to make my life steadier, not noisier.'",
             "zh": "如果你想講得更簡單，也可以說：「I want my money habits to make my life steadier, not noisier.」",
             "vocab": [
               {
-                "word": "enough mindset",
-                "def": "不一直追更多，而是能辨認什麼對自己來說已經夠了的心態"
+                "word": "direction",
+                "def": "前進的大方向，而不是死板規定"
               }
             ]
           },
@@ -2430,7 +2430,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "honest limit",
-                "def": "不是理想中的上限，而是目前真實做得到的花費或財務界線"
+                "def": "不是理想中的上限"
               }
             ]
           },
@@ -2476,15 +2476,15 @@ export const WEEK_39: Episode[] = [
             "zh": "它應該是一種支持，不是威脅；是一種結構，不是秘密法官；是一種資源，不是一種身分。",
             "vocab": [
               {
-                "word": "sustainable wealth",
-                "def": "不是只追求看起來多，而是能真正長久支撐生活的財務穩定"
+                "word": "structure",
+                "def": "結構；框架；規律"
               }
             ]
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such a good answer.",
+            "en": "That really is a good answer.",
             "zh": "這真的就是很好的答案。"
           },
           {
@@ -2495,7 +2495,7 @@ export const WEEK_39: Episode[] = [
             "vocab": [
               {
                 "word": "financial self-respect",
-                "def": "用一種比較不混亂、比較不羞辱自己的方式對待財務的自我尊重"
+                "def": "財務自尊很重要"
               }
             ]
           },
@@ -2508,7 +2508,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is enough for today.",
+            "en": "I think we can leave it there for today.",
             "zh": "今天先到這裡就很好。"
           },
           {

@@ -44,7 +44,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "task switching",
-                "def": "在不同工作之間不斷切換"
+                "def": "taskswitching的感覺"
               }
             ]
           },
@@ -187,12 +187,12 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then say, \"I had to hold the line on that hour.\" It sounds strong, but still normal in a work setting.",
+            "en": "One sentence that works well is \"I had to hold the line on that hour.\" It sounds strong, but still normal in a work setting.",
             "zh": "那你可以說：「我那一個小時真的得 hold the line。」它聽起來有力，但在工作裡還是很自然。",
             "vocab": [
               {
                 "word": "hold the line",
-                "def": "把某段時間守住，不讓其他事侵入"
+                "def": "把某段時間守住"
               }
             ]
           },
@@ -402,7 +402,7 @@ export const WEEK_10: Episode[] = [
             "zh": "如果我一醒來就在床上滑手機，我幾乎是在站起來之前就已經遲到了。",
             "vocab": [
               {
-                "word": "scroll in bed",
+                "word": "scrolling in bed",
                 "def": "躺在床上滑手機"
               }
             ]
@@ -415,7 +415,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "first hour",
-                "def": "起床後的第一小時"
+                "def": "一天的firsthour"
               }
             ]
           },
@@ -433,7 +433,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "decision fatigue",
-                "def": "因為連續做決定而產生的疲乏感"
+                "def": "決策疲勞"
               }
             ]
           },
@@ -534,7 +534,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"My morning got away from me,\" or \"I started the day behind.\" Both sound very natural.",
+            "en": "You could say, \"My morning got away from me,\" or \"I started the day behind.\" Both sound very natural.",
             "zh": "你可以說：「我的早上整個失控了」，或「我今天一開始就落後了」。這兩句都很自然。"
           },
           {
@@ -546,7 +546,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you want to be even plainer, say, \"I need a simpler morning routine.\"",
+            "en": "If you want to be even plainer, you could say, \"I need a simpler morning routine.\"",
             "zh": "沒錯。如果你想再直接一點，也可以說：「我需要一個更簡單的 morning routine。」",
             "vocab": []
           },
@@ -559,7 +559,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then say, \"I do not have much start-up energy in the morning.\" It sounds honest, not helpless.",
+            "en": "You could say, \"I do not have much start-up energy in the morning.\" It sounds honest, not helpless.",
             "zh": "那你可以說：「我早上其實沒有太多 start-up energy。」這聽起來是誠實，不是無能。",
             "vocab": [
               {
@@ -757,7 +757,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "deep work",
-                "def": "需要專注思考、不能一直被打斷的深度工作"
+                "def": "深度工作"
               }
             ]
           },
@@ -900,12 +900,12 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can also say, \"My priority list is already full today.\" That frames the issue as capacity, not attitude.",
+            "en": "A natural way to say it is, \"My priority list is already full today.\" That frames the issue as capacity, not attitude.",
             "zh": "你也可以說：「我的 priority list 今天已經滿了。」這樣講是在說容量，而不是在表達態度。",
             "vocab": [
               {
                 "word": "priority list",
-                "def": "當前需要優先處理的事項清單"
+                "def": "優先處理的事項清單"
               }
             ]
           },
@@ -958,7 +958,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "realistic estimate",
-                "def": "把準備、收尾與打斷都算進去的現實工時估算"
+                "def": "做比較貼近現實的估算"
               }
             ]
           },
@@ -1146,7 +1146,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "second shift",
-                "def": "下班後接著要做的第二輪家務或照顧工作"
+                "def": "而且後面還有晚餐、洗衣、洗碗"
               }
             ]
           },
@@ -1170,7 +1170,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "mental residue",
-                "def": "工作或壓力結束後殘留在腦中的餘波"
+                "def": "心理殘留；心理上的後遺症"
               }
             ]
           }
@@ -1259,7 +1259,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I needed to decompress after work.\" That sounds honest and adult.",
+            "en": "One simple version is, \"I needed to decompress after work.\" That sounds honest and adult.",
             "zh": "你可以說：「我下班後真的需要 decompress 一下。」這句聽起來很誠實，也很像大人會講的話。"
           },
           {
@@ -1287,7 +1287,7 @@ export const WEEK_10: Episode[] = [
             "zh": "那你就直接說：「我 stayed up too late，隔天早上就付出代價了。」這句很簡單，也超級真實。",
             "vocab": [
               {
-                "word": "stay up too late",
+                "word": "up too late",
                 "def": "熬夜到比自己適合的時間還晚"
               }
             ]
@@ -1504,7 +1504,7 @@ export const WEEK_10: Episode[] = [
             "zh": "沒錯。run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。",
             "vocab": [
               {
-                "word": "run errands",
+                "word": "Running errands",
                 "def": "處理採買、寄件、繳費這類零碎差事"
               }
             ]
@@ -1622,7 +1622,7 @@ export const WEEK_10: Episode[] = [
             "zh": "很自然的一句是：「我整個週末都在 catch up on life。」大家一聽就懂。",
             "vocab": [
               {
-                "word": "catch up on life",
+                "word": "up on life",
                 "def": "把平常來不及處理的生活瑣事補回來"
               }
             ]
@@ -1636,7 +1636,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can also say, \"I needed some unstructured time.\" That sounds calm, not self-indulgent.",
+            "en": "You might put it like this: \"I needed some unstructured time.\" That sounds calm, not self-indulgent.",
             "zh": "你也可以說：「我需要一些 unstructured time。」這句聽起來很平靜，不會像在自我放縱。",
             "vocab": [
               {
@@ -1654,7 +1654,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then say, \"I had guilty rest.\" It is not a textbook phrase, but people instantly understand what you mean.",
+            "en": "A good line here is, \"I had guilty rest.\" It is not a textbook phrase, but people instantly understand what you mean.",
             "zh": "那你可以說：「我有 guilty rest。」這不是教科書句型，但人會立刻懂你在說什麼。",
             "vocab": [
               {
@@ -1971,7 +1971,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can say, \"I am trying to slow down enough to notice what I am doing.\" That sounds grounded and real.",
+            "en": "If you want a clear sentence, try \"I am trying to slow down enough to notice what I am doing.\" That sounds grounded and real.",
             "zh": "你可以說：「我在試著 slow down enough，讓自己注意到我正在做什麼。」這句聽起來很踏實。",
             "vocab": [
               {
@@ -1989,11 +1989,11 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another one is, \"I am doing less on purpose this month.\" It sounds intentional, not defeated.",
+            "en": "A more everyday version would be \"I am doing less on purpose this month.\" It sounds intentional, not defeated.",
             "zh": "另一句是：「我這個月在 do less on purpose。」這句聽起來是有意識，不是投降。",
             "vocab": [
               {
-                "word": "do less on purpose",
+                "word": "less on purpose",
                 "def": "刻意少做一些，讓節奏更可持續"
               }
             ]
@@ -2118,7 +2118,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "enough for today",
-                "def": "今天這樣已經夠了，不必再多塞進更多事"
+                "def": "不必再多塞進更多事"
               }
             ]
           },
@@ -2217,7 +2217,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "invisible labor",
-                "def": "不容易被看見，卻一直在支撐生活運作的安排與照顧工作"
+                "def": "不容易被看見"
               }
             ]
           },
@@ -2258,7 +2258,7 @@ export const WEEK_10: Episode[] = [
             "zh": "對。她會 keep track of 生日、採買、預約、表單、學校活動，還有每個人的偏好。",
             "vocab": [
               {
-                "word": "keep track of",
+                "word": "keeps track",
                 "def": "持續記住並追蹤很多細節與進度"
               }
             ]
@@ -2324,7 +2324,7 @@ export const WEEK_10: Episode[] = [
             "vocab": [
               {
                 "word": "shared responsibility",
-                "def": "不只分工做事，也一起分擔記得、安排與主動處理的責任"
+                "def": "不只分工做事"
               }
             ]
           },
@@ -2378,7 +2378,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then say, \"I cannot be the default planner for this anymore.\" It is firm, but fair.",
+            "en": "You could say, \"I cannot be the default planner for this anymore.\" It is firm, but fair.",
             "zh": "那你可以說：「這件事我不能再當 default planner 了。」這句很堅定，但很公平。",
             "vocab": []
           },
@@ -2448,7 +2448,7 @@ export const WEEK_10: Episode[] = [
             "zh": "所以 ask directly 不是沒禮貌，它只是比怨氣更早一步把現實講出來而已。",
             "vocab": [
               {
-                "word": "ask directly",
+                "word": "asking directly",
                 "def": "直接把需求與分工講清楚，不再靠暗示"
               }
             ]
