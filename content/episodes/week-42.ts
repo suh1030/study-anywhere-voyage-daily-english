@@ -34,13 +34,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is worth paying attention to. A lot of what people call future thinking is actually anxiety wearing a logical disguise.",
-            "zh": "這很值得去留意。很多人說的「思考未來」，其實是焦慮穿著邏輯外衣在說話。",
-            "vocab": [
-              {
-                "word": "future thinking",
-                "def": "對未來的思考與預測"
-              }
-            ]
+            "zh": "這很值得去留意。很多人說的「思考未來」，其實是焦慮穿著邏輯外衣在說話。"
           },
           {
             "speaker": "b",
@@ -52,13 +46,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sign is whether your prediction changes when new information arrives. Anxiety tends to stick to the worst scenario regardless of evidence.",
-            "zh": "一個方法是看你的預測會不會隨著新資訊而改變。焦慮通常不管有沒有新資訊，都會黏著最壞的情境。",
-            "vocab": [
-              {
-                "word": "worst scenario",
-                "def": "最壞的情況"
-              }
-            ]
+            "zh": "一個方法是看你的預測會不會隨著新資訊而改變。焦慮通常不管有沒有新資訊，都會黏著最壞的情境。"
           },
           {
             "speaker": "b",
@@ -70,13 +58,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Genuine planning stays open. It can absorb new facts without falling apart.",
-            "zh": "沒錯。真正的規劃是保持開放的。它可以容納新事實而不崩解。",
-            "vocab": [
-              {
-                "word": "genuine planning",
-                "def": "真正的規劃"
-              }
-            ]
+            "zh": "沒錯。真正的規劃是保持開放的。它可以容納新事實而不崩解。"
           }
         ]
       },
@@ -93,13 +75,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is well documented. Part of the problem is that we overweight recent experience when we imagine what is coming.",
-            "zh": "這有很多研究支持。其中一個問題是，我們想像未來時，會過度依賴最近的經驗。",
-            "vocab": [
-              {
-                "word": "overweight recent experience",
-                "def": "過度依賴近期經驗"
-              }
-            ]
+            "zh": "這有很多研究支持。其中一個問題是，我們想像未來時，會過度依賴最近的經驗。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Recency bias. It is one of the most common thinking errors, and it is expensive if you are making long-term decisions.",
-            "zh": "叫做近因偏誤。這是最常見的思維錯誤之一，如果你在做長期決策，它的代價會很高。",
-            "vocab": [
-              {
-                "word": "recency bias",
-                "def": "近因偏誤"
-              }
-            ]
+            "zh": "叫做近因偏誤。這是最常見的思維錯誤之一，如果你在做長期決策，它的代價會很高。"
           },
           {
             "speaker": "b",
@@ -141,13 +111,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Look at longer time frames. Ask what happened over ten years, not just the past six months. Patterns across longer periods tend to be more informative.",
-            "zh": "看更長的時間範圍。問的是十年之間發生了什麼，而不是只看過去六個月。更長時間跨度的模式通常更有參考價值。",
-            "vocab": [
-              {
-                "word": "time frame",
-                "def": "時間範圍；時間跨度"
-              }
-            ]
+            "zh": "看更長的時間範圍。問的是十年之間發生了什麼，而不是只看過去六個月。更長時間跨度的模式通常更有參考價值。"
           }
         ]
       },
@@ -164,13 +128,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with phrases that signal uncertainty rather than false confidence. \"I expect\" and \"I anticipate\" are both useful.",
-            "zh": "先從能表示不確定性的說法開始，而不是強裝自信。「我預期」和「我預見」都很好用。",
-            "vocab": [
-              {
-                "word": "anticipate",
-                "def": "預見；預料到"
-              }
-            ]
+            "zh": "先從能表示不確定性的說法開始，而不是強裝自信。「我預期」和「我預見」都很好用。"
           },
           {
             "speaker": "b",
@@ -194,13 +152,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try \"I am cautiously optimistic.\" It shows you have thought about the risks but still believe the outcome can be good.",
-            "zh": "可以試試「我保持謹慎樂觀」。這表示你有想過風險，但仍然相信結果可以是好的。",
-            "vocab": [
-              {
-                "word": "cautiously optimistic",
-                "def": "謹慎樂觀"
-              }
-            ]
+            "zh": "可以試試「我保持謹慎樂觀」。這表示你有想過風險，但仍然相信結果可以是好的。"
           },
           {
             "speaker": "b",
@@ -212,18 +164,12 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. \"We are positioning ourselves for...\" is another phrase that works well in meetings. It signals strategy without overpromising.",
-            "zh": "沒錯。「我們正在為……做準備」也是一個在會議上很好用的說法。它傳達出策略感，但不會過度承諾。",
-            "vocab": [
-              {
-                "word": "positioning ourselves",
-                "def": "為某事做好定位與準備"
-              }
-            ]
+            "zh": "沒錯。「我們正在為……做準備」也是一個在會議上很好用的說法。它傳達出策略感，但不會過度承諾。"
           }
         ]
       },
       {
-        "title": "Part 4 — A Small Practice for Thinking Longer-Term",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -235,13 +181,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One thing that helps is writing two or three scenarios instead of just one. A best case, a realistic case, and a difficult case.",
-            "zh": "一個很有幫助的做法是把兩到三種情境都寫下來，而不是只想一種。最好的情況、比較現實的情況，還有比較困難的情況。",
-            "vocab": [
-              {
-                "word": "scenarios instead",
-                "def": "情境規劃"
-              }
-            ]
+            "zh": "一個很有幫助的做法是把兩到三種情境都寫下來，而不是只想一種。最好的情況、比較現實的情況，還有比較困難的情況。"
           },
           {
             "speaker": "b",
@@ -265,13 +205,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It separates the thinking from the feeling. When the scenario is still just in your head, fear can expand to fill the whole space.",
-            "zh": "它把思考和感受分開了。當情境還只是在你腦子裡時，恐懼可以擴張到佔滿整個空間。",
-            "vocab": [
-              {
-                "word": "separates the thinking",
-                "def": "把思考和情緒分開"
-              }
-            ]
+            "zh": "它把思考和感受分開了。當情境還只是在你腦子裡時，恐懼可以擴張到佔滿整個空間。"
           },
           {
             "speaker": "b",
@@ -283,19 +217,8 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A written scenario also lets you spot what you are assuming, so you can check whether those assumptions are actually true.",
-            "zh": "沒錯。書面情境也讓你能看見自己做了什麼假設，這樣你才能檢查那些假設是不是真的。",
-            "vocab": [
-              {
-                "word": "assumption",
-                "def": "假設；前提"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Bigger Picture on Uncertainty",
-        "lines": [
+            "zh": "沒錯。書面情境也讓你能看見自己做了什麼假設，這樣你才能檢查那些假設是不是真的。"
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -318,13 +241,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And the people who are comfortable with ambiguity tend to move faster and adapt better.",
-            "zh": "對。而那些對模糊性感到自在的人，往往行動更快，也適應得更好。",
-            "vocab": [
-              {
-                "word": "comfortable with ambiguity",
-                "def": "對不確定性感到自在"
-              }
-            ]
+            "zh": "對。而那些對模糊性感到自在的人，往往行動更快，也適應得更好。"
           },
           {
             "speaker": "b",
@@ -336,13 +253,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. In any field that is changing quickly, the people who panic at every unknown get exhausted fast.",
-            "zh": "絕對是。在任何快速變化的領域，對每一個未知都感到恐慌的人，很快就會精疲力竭。",
-            "vocab": [
-              {
-                "word": "every unknown",
-                "def": "競爭優勢"
-              }
-            ]
+            "zh": "絕對是。在任何快速變化的領域，對每一個未知都感到恐慌的人，很快就會精疲力竭。"
           },
           {
             "speaker": "b",
@@ -423,13 +334,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Both can be true at the same time. Imagining the future is part extrapolation, part aspiration. Neither one alone is enough.",
-            "zh": "兩件事可以同時是真的。想像未來一部分是推演，一部分是渴望。光靠其中一個都不夠。",
-            "vocab": [
-              {
-                "word": "extrapolation",
-                "def": "推演；延伸預測"
-              }
-            ]
+            "zh": "兩件事可以同時是真的。想像未來一部分是推演，一部分是渴望。光靠其中一個都不夠。"
           },
           {
             "speaker": "b",
@@ -441,13 +346,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People who have no desired future tend to drift. The image you hold matters, even if it is imprecise.",
-            "zh": "對。沒有想要的未來的人，往往就是漂流。你心中那個畫面很重要，即使它不夠精確。",
-            "vocab": [
-              {
-                "word": "desired future",
-                "def": "想要的未來；理想未來"
-              }
-            ]
+            "zh": "對。沒有想要的未來的人，往往就是漂流。你心中那個畫面很重要，即使它不夠精確。"
           },
           {
             "speaker": "b",
@@ -470,14 +369,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a common delay. The compass version is enough to take the next step.",
-            "zh": "這是很常見的拖延方式。指南針版本就已經足夠讓你踏出下一步了。",
-            "vocab": [
-              {
-                "word": "compass",
-                "def": "指南針；方向感"
-              }
-            ]
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           }
         ]
       },
@@ -494,13 +387,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the future is where people park their identity. What someone believes about the future often reflects what they value right now.",
-            "zh": "因為未來是人們停放身份認同的地方。一個人對未來的信念，往往反映的是他們現在重視什麼。",
-            "vocab": [
-              {
-                "word": "future often reflects",
-                "def": "對未來的信念"
-              }
-            ]
+            "zh": "因為未來是人們停放身份認同的地方。一個人對未來的信念，往往反映的是他們現在重視什麼。"
           },
           {
             "speaker": "b",
@@ -512,13 +399,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. Someone who says automation will destroy jobs might actually be saying they value human skill and do not want it devalued.",
-            "zh": "很多時候是的。說自動化會摧毀工作的人，其實可能是在說他們重視人類的技能，不想看它貶值。",
-            "vocab": [
-              {
-                "word": "automation",
-                "def": "很多時候是的"
-              }
-            ]
+            "zh": "很多時候是的。說自動化會摧毀工作的人，其實可能是在說他們重視人類的技能，不想看它貶值。"
           },
           {
             "speaker": "b",
@@ -542,13 +423,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a much more productive starting point. Most future conversations go better when values are visible.",
-            "zh": "這是一個更有成效的出發點。大多數關於未來的對話，在價值觀被說清楚之後，都會進行得更好。",
-            "vocab": [
-              {
-                "word": "values",
-                "def": "價值觀"
-              }
-            ]
+            "zh": "這是一個更有成效的出發點。大多數關於未來的對話，在價值觀被說清楚之後，都會進行得更好。"
           }
         ]
       },
@@ -565,13 +440,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with \"I hope to see a world where...\" or \"What I want for the next few years is...\" Those are warm but grounded.",
-            "zh": "從「我希望看到一個……的世界」或「我希望在接下來幾年……」開始。這些說法溫暖但腳踏實地。",
-            "vocab": [
-              {
-                "word": "grounded",
-                "def": "腳踏實地的"
-              }
-            ]
+            "zh": "從「我希望看到一個……的世界」或「我希望在接下來幾年……」開始。這些說法溫暖但腳踏實地。"
           },
           {
             "speaker": "b",
@@ -583,13 +452,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Our goal is to move toward a future where...\" works well. It signals shared direction without overcommitting.",
-            "zh": "「我們的目標是朝向一個……的未來」很好用。它傳達出共同方向，但不會過度承諾。",
-            "vocab": [
-              {
-                "word": "shared direction",
-                "def": "共同方向"
-              }
-            ]
+            "zh": "「我們的目標是朝向一個……的未來」很好用。它傳達出共同方向，但不會過度承諾。"
           },
           {
             "speaker": "b",
@@ -601,13 +464,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use conditional framing. \"If current trends continue, we might see...\" keeps you honest without sounding pessimistic.",
-            "zh": "用條件式的表達。「如果目前的趨勢持續，我們可能會看到……」這樣能讓你保持誠實，又不會聽起來悲觀。",
-            "vocab": [
-              {
-                "word": "conditional framing",
-                "def": "條件式的表達框架"
-              }
-            ]
+            "zh": "用條件式的表達。「如果目前的趨勢持續，我們可能會看到……」這樣能讓你保持誠實，又不會聽起來悲觀。"
           },
           {
             "speaker": "b",
@@ -636,13 +493,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Work backwards. If you know where you want to be in five years, ask what has to be true in three years for that to be possible.",
-            "zh": "從終點往回推。如果你知道五年後想在哪裡，就問問三年後要有什麼成真，才能讓那件事成為可能。",
-            "vocab": [
-              {
-                "word": "work backwards",
-                "def": "從目標往回推算"
-              }
-            ]
+            "zh": "從終點往回推。如果你知道五年後想在哪裡，就問問三年後要有什麼成真，才能讓那件事成為可能。"
           },
           {
             "speaker": "b",
@@ -654,13 +505,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Now you have something actionable in the near term. The five-year vision becomes a current task.",
-            "zh": "沒錯。這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。",
-            "vocab": [
-              {
-                "word": "actionable",
-                "def": "可以採取行動的；具體可行的"
-              }
-            ]
+            "zh": "沒錯。這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。"
           },
           {
             "speaker": "b",
@@ -672,13 +517,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Big goals paralyze people when they stay big. The working backwards method keeps breaking them into sizes you can actually handle.",
-            "zh": "大目標讓人癱瘓，是因為它們一直很大。往回推算的方法不斷把它們拆分成你真的能處理的大小。",
-            "vocab": [
-              {
-                "word": "paralyze",
-                "def": "使癱瘓；使無法行動"
-              }
-            ]
+            "zh": "大目標讓人癱瘓，是因為它們一直很大。往回推算的方法不斷把它們拆分成你真的能處理的大小。"
           },
           {
             "speaker": "b",
@@ -707,13 +546,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That tension is real. But I think the contradiction is smaller than it feels. Present awareness and future preparation are not opposites.",
-            "zh": "這種張力是真實的。但我認為這個矛盾比你感受到的要小。對當下的覺察和對未來的準備，並不是對立的。",
-            "vocab": [
-              {
-                "word": "present awareness",
-                "def": "並不是對立的"
-              }
-            ]
+            "zh": "這種張力是真實的。但我認為這個矛盾比你感受到的要小。對當下的覺察和對未來的準備，並不是對立的。"
           },
           {
             "speaker": "b",
@@ -725,13 +558,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By asking which decisions are time-sensitive. Some future choices need attention now. Others can wait. Not everything is urgent.",
-            "zh": "透過問哪些決定是有時效的。有些未來的選擇現在就需要關注，有些可以等。不是每件事都緊急。",
-            "vocab": [
-              {
-                "word": "time-sensitive",
-                "def": "有時效性的；要及時處理的"
-              }
-            ]
+            "zh": "透過問哪些決定是有時效的。有些未來的選擇現在就需要關注，有些可以等。不是每件事都緊急。"
           },
           {
             "speaker": "b",
@@ -754,7 +581,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good way to hold it. A conversation you can revisit, not a problem you have to solve all at once.",
+            "en": "That's a good way to hold it. A conversation you can revisit, not a problem you have to solve all at once.",
             "zh": "這是一個很好的比喻。一段你可以重新回來的對話，而不是一個你必須一次解決的問題。"
           }
         ]
@@ -836,13 +663,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because good news often means higher stakes. More visibility, more responsibility, more to lose if things go wrong.",
-            "zh": "因為好消息往往意味著更高的風險。更多的曝光、更多的責任、如果出錯就有更多可以失去的東西。",
-            "vocab": [
-              {
-                "word": "higher stakes",
-                "def": "更高的風險；更重要的考驗"
-              }
-            ]
+            "zh": "因為好消息往往意味著更高的風險。更多的曝光、更多的責任、如果出錯就有更多可以失去的東西。"
           },
           {
             "speaker": "b",
@@ -854,13 +675,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The question is not how to eliminate the fear. It is how to let the hope be louder than the fear.",
-            "zh": "對。問題不是如何消除恐懼，而是如何讓希望比恐懼更響亮。",
-            "vocab": [
-              {
-                "word": "eliminate",
-                "def": "讓希望的聲音超越恐懼"
-              }
-            ]
+            "zh": "對。問題不是如何消除恐懼，而是如何讓希望比恐懼更響亮。"
           },
           {
             "speaker": "b",
@@ -872,13 +687,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When I took my first leadership role, I was terrified. But the people around me were patient with my learning curve, and that gave me room to grow.",
-            "zh": "當我擔任第一個領導職位時，我很恐懼。但周圍的人對我的學習曲線很有耐心，這給了我成長的空間。",
-            "vocab": [
-              {
-                "word": "learning curve",
-                "def": "學習曲線；適應過程"
-              }
-            ]
+            "zh": "當我擔任第一個領導職位時，我很恐懼。但周圍的人對我的學習曲線很有耐心，這給了我成長的空間。"
           }
         ]
       },
@@ -895,13 +704,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It serves a real purpose. Fear of the future makes you think through consequences before you act. That is valuable.",
-            "zh": "它有真實的功能。對未來的恐懼讓你在行動前先思考後果，這是有價值的。",
-            "vocab": [
-              {
-                "word": "think through consequences",
-                "def": "仔細考慮後果"
-              }
-            ]
+            "zh": "它有真實的功能。對未來的恐懼讓你在行動前先思考後果，這是有價值的。"
           },
           {
             "speaker": "b",
@@ -913,13 +716,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The problem is when fear becomes the only voice in the room. Then it stops protecting you and starts limiting you.",
-            "zh": "對。問題是當恐懼成了房間裡唯一的聲音時，它就不再是在保護你，而是在限制你了。",
-            "vocab": [
-              {
-                "word": "starts limiting",
-                "def": "限制性信念"
-              }
-            ]
+            "zh": "對。問題是當恐懼成了房間裡唯一的聲音時，它就不再是在保護你，而是在限制你了。"
           },
           {
             "speaker": "b",
@@ -931,13 +728,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sign is when you start avoiding decisions, not just being careful. Careful is healthy. Avoidance is a different thing.",
-            "zh": "一個跡象是當你開始逃避決定，而不只是謹慎。謹慎是健康的，逃避是另一回事。",
-            "vocab": [
-              {
-                "word": "avoidance",
-                "def": "逃避；回避"
-              }
-            ]
+            "zh": "一個跡象是當你開始逃避決定，而不只是謹慎。謹慎是健康的，逃避是另一回事。"
           },
           {
             "speaker": "b",
@@ -972,13 +763,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pair your concern with what you want to see happen. \"I am worried about X, and what I would like to explore is Y.\"",
-            "zh": "把你的擔憂和你希望看到的結果配對。「我擔心 X，我希望能探索的是 Y。」",
-            "vocab": [
-              {
-                "word": "Pair your concern",
-                "def": "把擔憂和解法配對表達"
-              }
-            ]
+            "zh": "把你的擔憂和你希望看到的結果配對。「我擔心 X，我希望能探索的是 Y。」"
           },
           {
             "speaker": "b",
@@ -990,13 +775,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Another useful phrase is \"My concern is...\" followed by \"What gives me hope is...\" That contrast works well.",
-            "zh": "沒錯。另一個有用的說法是「我擔心的是……」接著「讓我感到有希望的是……」這種對比很有效。",
-            "vocab": [
-              {
-                "word": "contrast",
-                "def": "對比；反差"
-              }
-            ]
+            "zh": "沒錯。另一個有用的說法是「我擔心的是……」接著「讓我感到有希望的是……」這種對比很有效。"
           },
           {
             "speaker": "b",
@@ -1008,13 +787,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the goal. Mature English communication around the future is not about being positive or negative. It is about being complete.",
-            "zh": "這就是目標。關於未來的成熟英語溝通，不是要積極或消極，而是要完整。",
-            "vocab": [
-              {
-                "word": "Mature English communication",
-                "def": "成熟的溝通方式"
-              }
-            ]
+            "zh": "這就是目標。關於未來的成熟英語溝通，不是要積極或消極，而是要完整。"
           },
           {
             "speaker": "b",
@@ -1043,13 +816,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most useful thing is to distinguish between what you can influence and what you cannot. Then put your energy where it can actually make a difference.",
-            "zh": "最有用的事情是區分你能影響的和你不能影響的。然後把你的能量放在真的能帶來改變的地方。",
-            "vocab": [
-              {
-                "word": "influence",
-                "def": "影響範圍"
-              }
-            ]
+            "zh": "最有用的事情是區分你能影響的和你不能影響的。然後把你的能量放在真的能帶來改變的地方。"
           },
           {
             "speaker": "b",
@@ -1061,13 +828,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is hard. One thing that helps is having a concrete response ready for the worst likely outcome. Preparation reduces the emotional charge.",
-            "zh": "確實很難。一個有幫助的事情是，對最可能發生的最壞結果提前準備好具體的回應方案。準備能減少情緒上的衝擊。",
-            "vocab": [
-              {
-                "word": "worst likely outcome",
-                "def": "最可能發生的最壞結果"
-              }
-            ]
+            "zh": "確實很難。一個有幫助的事情是，對最可能發生的最壞結果提前準備好具體的回應方案。準備能減少情緒上的衝擊。"
           },
           {
             "speaker": "b",
@@ -1079,13 +840,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A plan B does not mean you are giving up. It means you have covered the ground, so your brain can relax.",
-            "zh": "沒錯。有備案不意味著你放棄了，它意味著你已經把情況考慮進去了，所以你的大腦可以放鬆。",
-            "vocab": [
-              {
-                "word": "plan B",
-                "def": "備案；替代方案"
-              }
-            ]
+            "zh": "沒錯。有備案不意味著你放棄了，它意味著你已經把情況考慮進去了，所以你的大腦可以放鬆。"
           },
           {
             "speaker": "b",
@@ -1114,13 +869,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Honestly, it is not optimism in the abstract. It is watching people solve specific problems in front of me. That keeps me grounded.",
-            "zh": "說實話，不是抽象的樂觀，而是看著人們在我面前解決具體的問題。這讓我保持踏實。",
-            "vocab": [
-              {
-                "word": "grounded",
-                "def": "腳踏實地的"
-              }
-            ]
+            "zh": "說實話，不是抽象的樂觀，而是看著人們在我面前解決具體的問題。這讓我保持踏實。"
           },
           {
             "speaker": "b",
@@ -1144,13 +893,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I pay attention to stories of people who solved a problem in a new way. I look for them deliberately, because negative news comes looking for me on its own.",
-            "zh": "我關注那些以新方式解決問題的人的故事。我主動去尋找它們，因為負面新聞會自己找上門來。",
-            "vocab": [
-              {
-                "word": "pay attention",
-                "def": "真正留意；仔細去看"
-              }
-            ]
+            "zh": "我關注那些以新方式解決問題的人的故事。我主動去尋找它們，因為負面新聞會自己找上門來。"
           },
           {
             "speaker": "b",
@@ -1231,13 +974,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That split is almost always about what the tool is replacing. People who felt the old task was tedious welcome it. People who saw it as skilled work feel threatened.",
-            "zh": "那種分歧幾乎總是關於這個工具在替代什麼。覺得舊任務很枯燥的人歡迎它，覺得那是需要技能的工作的人感到被威脅。",
-            "vocab": [
-              {
-                "word": "feel threatened",
-                "def": "感到被威脅"
-              }
-            ]
+            "zh": "那種分歧幾乎總是關於這個工具在替代什麼。覺得舊任務很枯燥的人歡迎它，覺得那是需要技能的工作的人感到被威脅。"
           },
           {
             "speaker": "b",
@@ -1249,13 +986,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And both reactions are valid. The job of leadership in these moments is not to dismiss either group.",
-            "zh": "兩種反應都是合理的。在這些時刻，領導的工作是不要忽視任何一個群體。",
-            "vocab": [
-              {
-                "word": "reactions",
-                "def": "兩種反應都是合理的"
-              }
-            ]
+            "zh": "兩種反應都是合理的。在這些時刻，領導的工作是不要忽視任何一個群體。"
           },
           {
             "speaker": "b",
@@ -1267,13 +998,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually clarity about what the new skill gap looks like, and a real path to close it. Vague reassurance does not help.",
-            "zh": "通常是清楚地說明新的技能缺口是什麼，以及一個真實的彌補路徑。模糊的安慰沒有幫助。",
-            "vocab": [
-              {
-                "word": "skill gap",
-                "def": "技能缺口"
-              }
-            ]
+            "zh": "通常是清楚地說明新的技能缺口是什麼，以及一個真實的彌補路徑。模糊的安慰沒有幫助。"
           },
           {
             "speaker": "b",
@@ -1302,13 +1027,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Historically, most technology has changed jobs more than it has eliminated them. But that does not mean every individual job is safe.",
-            "zh": "從歷史上看，大多數技術改變的是工作，而不是消除工作。但這不意味著每個個人的工作都是安全的。",
-            "vocab": [
-              {
-                "word": "historically",
-                "def": "從歷史角度來看"
-              }
-            ]
+            "zh": "從歷史上看，大多數技術改變的是工作，而不是消除工作。但這不意味著每個個人的工作都是安全的。"
           },
           {
             "speaker": "b",
@@ -1326,25 +1045,13 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Which is why building adaptable skills matters more than protecting the current version of your role.",
-            "zh": "這就是為什麼建立適應性強的技能，比保護你當前職位的現有形態更重要。",
-            "vocab": [
-              {
-                "word": "adaptable skills",
-                "def": "適應性強的技能"
-              }
-            ]
+            "zh": "這就是為什麼建立適應性強的技能，比保護你當前職位的現有形態更重要。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The question to ask is not \"is my job safe?\" but \"which parts of what I do are hardest to replicate?\"",
-            "zh": "沒錯。要問的問題不是「我的工作安全嗎？」而是「我所做的事情中，哪些部分最難被複製？」",
-            "vocab": [
-              {
-                "word": "hardest to replicate",
-                "def": "難以複製；難以被取代"
-              }
-            ]
+            "zh": "沒錯。要問的問題不是「我的工作安全嗎？」而是「我所做的事情中，哪些部分最難被複製？」"
           },
           {
             "speaker": "b",
@@ -1373,13 +1080,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Aim for evaluative language. \"I see potential here, and I also want to understand the limitations before we scale it up.\"",
-            "zh": "使用評估性的語言。「我看到了這裡的潛力，我也想在我們推廣之前了解它的局限性。」",
-            "vocab": [
-              {
-                "word": "evaluative language",
-                "def": "評估性的語言"
-              }
-            ]
+            "zh": "使用評估性的語言。「我看到了這裡的潛力，我也想在我們推廣之前了解它的局限性。」"
           },
           {
             "speaker": "b",
@@ -1391,13 +1092,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Another useful phrase is \"What problem does this solve for us specifically?\" That moves the conversation from abstract to practical.",
-            "zh": "對。另一個有用的說法是「這對我們來說具體解決了什麼問題？」這把對話從抽象引向實際。",
-            "vocab": [
-              {
-                "word": "practical",
-                "def": "實際的；務實的"
-              }
-            ]
+            "zh": "對。另一個有用的說法是「這對我們來說具體解決了什麼問題？」這把對話從抽象引向實際。"
           },
           {
             "speaker": "b",
@@ -1409,13 +1104,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Curiosity is always a better posture than defensiveness when talking about change. It gives you information and keeps the conversation open.",
-            "zh": "在談論變化時，好奇心永遠是比防禦更好的姿態，它讓你獲得資訊，並保持對話開放。",
-            "vocab": [
-              {
-                "word": "posture",
-                "def": "姿態；立場"
-              }
-            ]
+            "zh": "在談論變化時，好奇心永遠是比防禦更好的姿態，它讓你獲得資訊，並保持對話開放。"
           },
           {
             "speaker": "b",
@@ -1432,7 +1121,7 @@ export const WEEK_42: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Staying Relevant in a Changing Field",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -1444,13 +1133,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One approach is to identify the three skills most valued in your field right now, and then check whether you are growing in at least one of them.",
-            "zh": "一個方法是找出你所在領域目前最被重視的三種技能，然後確認你是否在其中至少一個方面有在成長。",
-            "vocab": [
-              {
-                "word": "skills most valued",
-                "def": "保持競爭力；保持重要性"
-              }
-            ]
+            "zh": "一個方法是找出你所在領域目前最被重視的三種技能，然後確認你是否在其中至少一個方面有在成長。"
           },
           {
             "speaker": "b",
@@ -1462,13 +1145,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Trying to develop all skills simultaneously usually ends in burnout without real progress.",
-            "zh": "沒錯。同時嘗試發展所有技能通常會在沒有真正進步的情況下導致精疲力竭。",
-            "vocab": [
-              {
-                "word": "burnout",
-                "def": "精疲力竭；職業倦怠"
-              }
-            ]
+            "zh": "沒錯。同時嘗試發展所有技能通常會在沒有真正進步的情況下導致精疲力竭。"
           },
           {
             "speaker": "b",
@@ -1480,13 +1157,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pick two or three trusted sources and go deep with those, rather than trying to read everything. Curated input beats volume.",
-            "zh": "選擇兩到三個可靠的來源，深入閱讀，而不是試圖讀所有東西。有策略地選取資訊優於追求數量。",
-            "vocab": [
-              {
-                "word": "curated input",
-                "def": "有策略地選取的資訊來源"
-              }
-            ]
+            "zh": "選擇兩到三個可靠的來源，深入閱讀，而不是試圖讀所有東西。有策略地選取資訊優於追求數量。"
           },
           {
             "speaker": "b",
@@ -1499,12 +1170,7 @@ export const WEEK_42: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. The goal is signal, not volume. One good insight per week is more useful than twenty articles you barely remember.",
             "zh": "對。目標是洞察，不是數量。每週一個好的洞見，比你幾乎不記得的二十篇文章更有用。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Keeping a Human Perspective in a Technical World",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1515,13 +1181,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very real. Technology is a tool, and tools tend to amplify what is already there. In a human-centered culture, it enhances connection. In a transactional one, it can make things colder.",
-            "zh": "非常真實。技術是工具，工具往往會放大已有的東西。在以人為中心的文化中，它會加強連結；在交易性的文化中，它可能讓事情變得更冷漠。",
-            "vocab": [
-              {
-                "word": "human-centered",
-                "def": "以人為中心的"
-              }
-            ]
+            "zh": "非常真實。技術是工具，工具往往會放大已有的東西。在以人為中心的文化中，它會加強連結；在交易性的文化中，它可能讓事情變得更冷漠。"
           },
           {
             "speaker": "b",
@@ -1533,13 +1193,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The culture shapes how the technology gets used. Organizations that forget that often get results they did not intend.",
-            "zh": "沒錯。文化塑造了技術的使用方式。忘記這一點的組織往往會得到他們沒有預料到的結果。",
-            "vocab": [
-              {
-                "word": "results",
-                "def": "未預料到的結果"
-              }
-            ]
+            "zh": "沒錯。文化塑造了技術的使用方式。忘記這一點的組織往往會得到他們沒有預料到的結果。"
           },
           {
             "speaker": "b",
@@ -1551,13 +1205,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Deliberate attention. Leaders who keep asking how people are experiencing the change, not just whether the metrics are moving.",
-            "zh": "刻意的關注。領導者要持續詢問人們如何體驗這些變化，而不只是數據指標是否在移動。",
-            "vocab": [
-              {
-                "word": "deliberate attention",
-                "def": "刻意的關注"
-              }
-            ]
+            "zh": "刻意的關注。領導者要持續詢問人們如何體驗這些變化，而不只是資料指標是否在移動。"
           },
           {
             "speaker": "b",
@@ -1638,13 +1286,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because \"better\" is always relative to what someone currently lacks or fears. The specific answer reveals a lot about the person.",
-            "zh": "因為「更好」永遠是相對於某人目前缺少或恐懼的東西。具體的答案揭示了很多關於那個人的事情。",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "相對於；取決於"
-              }
-            ]
+            "zh": "因為「更好」永遠是相對於某人目前缺少或恐懼的東西。具體的答案揭示了很多關於那個人的事情。"
           },
           {
             "speaker": "b",
@@ -1656,13 +1298,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And another might say a society where they feel like they belong. These are all \"better future,\" but they are asking for very different things.",
-            "zh": "還有人可能說一個讓他們有歸屬感的社會。這些都是「更好的未來」，但它們在要求非常不同的事情。",
-            "vocab": [
-              {
-                "word": "like they belong",
-                "def": "還有人可能說一個讓他們有歸屬感的社會"
-              }
-            ]
+            "zh": "還有人可能說一個讓他們有歸屬感的社會。這些都是「更好的未來」，但它們在要求非常不同的事情。"
           },
           {
             "speaker": "b",
@@ -1674,13 +1310,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And a good shared vision has to acknowledge that diversity of starting points, not pretend everyone wants the same thing.",
-            "zh": "對。一個好的共同願景必須承認這種出發點的多樣性，而不是假裝每個人都想要同樣的東西。",
-            "vocab": [
-              {
-                "word": "shared vision",
-                "def": "共同願景"
-              }
-            ]
+            "zh": "對。一個好的共同願景必須承認這種出發點的多樣性，而不是假裝每個人都想要同樣的東西。"
           },
           {
             "speaker": "b",
@@ -1709,13 +1339,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the brain is wired to optimize for now, not for later. The future feels abstract, but a reward today feels immediate and real.",
-            "zh": "因為大腦被設計成為當下優化，而不是為未來。未來感覺很抽象，但今天的獎勵感覺即時而真實。",
-            "vocab": [
-              {
-                "word": "optimize for now",
-                "def": "為當下優化"
-              }
-            ]
+            "zh": "因為大腦被設計成為當下優化，而不是為未來。未來感覺很抽象，但今天的獎勵感覺即時而真實。"
           },
           {
             "speaker": "b",
@@ -1727,13 +1351,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Behavioral economists call it present bias. The near-term always feels more important than it actually is.",
-            "zh": "沒錯。行為經濟學家稱之為當下偏誤，近期總是感覺比它實際上更重要。",
-            "vocab": [
-              {
-                "word": "present bias",
-                "def": "行為經濟學家稱之為當下偏誤"
-              }
-            ]
+            "zh": "沒錯。行為經濟學家稱之為當下偏誤，近期總是感覺比它實際上更重要。"
           },
           {
             "speaker": "b",
@@ -1745,13 +1363,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One approach is to make the connection between today's behavior and tomorrow's outcome very specific and visible. Vague connections do not override present temptation.",
-            "zh": "一種方法是讓今天的行為和明天的結果之間的連結變得非常具體和可見。模糊的連結無法壓過當下的誘惑。",
-            "vocab": [
-              {
-                "word": "present temptation",
-                "def": "模糊的連結無法壓過當下的誘惑"
-              }
-            ]
+            "zh": "一種方法是讓今天的行為和明天的結果之間的連結變得非常具體和可見。模糊的連結無法壓過當下的誘惑。"
           },
           {
             "speaker": "b",
@@ -1780,13 +1392,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ground it in a specific experience. \"Based on what I have seen so far, I want to move toward a role that allows...\" That sounds credible.",
-            "zh": "把它落地在一個具體的經歷中。「根據我目前看到的，我想朝向一個能讓我……的職位移動。」這聽起來可信。",
-            "vocab": [
-              {
-                "word": "specific experience",
-                "def": "把想法落地在具體經歷中"
-              }
-            ]
+            "zh": "把它落地在一個具體的經歷中。「根據我目前看到的，我想朝向一個能讓我……的職位移動。」這聽起來可信。"
           },
           {
             "speaker": "b",
@@ -1798,13 +1404,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. You can also say \"What I am working toward is...\" That phrasing implies action, not just wishing.",
-            "zh": "對。你也可以說「我正在努力達到的是……」這個措辭暗示了行動，而不只是願望。",
-            "vocab": [
-              {
-                "word": "working toward",
-                "def": "努力朝向某個目標"
-              }
-            ]
+            "zh": "對。你也可以說「我正在努力達到的是……」這個措辭暗示了行動，而不只是願望。"
           },
           {
             "speaker": "b",
@@ -1816,13 +1416,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try \"I am still figuring out the details, but the direction feels clear.\" That is honest and still shows intent.",
-            "zh": "試試「我還在搞清楚細節，但方向感覺很清晰。」這是誠實的，但仍然顯示了意圖。",
-            "vocab": [
-              {
-                "word": "shows intent",
-                "def": "顯示意圖；展現目標感"
-              }
-            ]
+            "zh": "試試「我還在搞清楚細節，但方向感覺很清晰。」這是誠實的，但仍然顯示了意圖。"
           },
           {
             "speaker": "b",
@@ -1851,13 +1445,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Find one thing you can do this week that moves in the right direction, even if it is small. Progress creates the feeling of momentum.",
-            "zh": "找一件你這週可以做的事情，朝正確方向移動，即使它很小。進展會創造動力感。",
-            "vocab": [
-              {
-                "word": "momentum",
-                "def": "動力；勢頭"
-              }
-            ]
+            "zh": "找一件你這週可以做的事情，朝正確方向移動，即使它很小。進展會創造動力感。"
           },
           {
             "speaker": "b",
@@ -1869,13 +1457,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And that step also changes how you see yourself. Once you have moved once, you know you can move again.",
-            "zh": "對。而且那個步驟也改變了你看待自己的方式。一旦你移動了一次，你就知道你能再次移動。",
-            "vocab": [
-              {
-                "word": "step also changes",
-                "def": "自我形象"
-              }
-            ]
+            "zh": "對。而且那個步驟也改變了你看待自己的方式。一旦你移動了一次，你就知道你能再次移動。"
           },
           {
             "speaker": "b",
@@ -1887,13 +1469,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They do. You become \"someone who does this kind of thing\" before you become fully competent at it.",
-            "zh": "確實如此。你在完全擅長某件事之前，就成了「做這種事的人」。",
-            "vocab": [
-              {
-                "word": "competent",
-                "def": "能幹的；有能力的"
-              }
-            ]
+            "zh": "確實如此。你在完全擅長某件事之前，就成了「做這種事的人」。"
           },
           {
             "speaker": "b",
@@ -1922,13 +1498,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it needs people who can hold complexity without collapsing into simple answers. The problems are genuinely complex. The solutions will need to be too.",
-            "zh": "我認為它需要能夠承載複雜性而不崩潰成簡單答案的人。問題是真正複雜的，解決方案也需要如此。",
-            "vocab": [
-              {
-                "word": "hold complexity",
-                "def": "承載複雜性；接受複雜性"
-              }
-            ]
+            "zh": "我認為它需要能夠承載複雜性而不崩潰成簡單答案的人。問題是真正複雜的，解決方案也需要如此。"
           },
           {
             "speaker": "b",
@@ -1940,13 +1510,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That middle space, clear-eyed realism paired with genuine hope, is rare and very valuable.",
-            "zh": "沒錯。那個中間地帶，清醒的現實主義加上真誠的希望，是罕見而非常寶貴的。",
-            "vocab": [
-              {
-                "word": "clear-eyed realism",
-                "def": "清醒的現實主義"
-              }
-            ]
+            "zh": "沒錯。那個中間地帶，清醒的現實主義加上真誠的希望，是罕見而非常寶貴的。"
           },
           {
             "speaker": "b",
@@ -1958,13 +1522,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I agree. More curious, more empathetic, more willing to be in the room with people who see things differently.",
-            "zh": "我同意。更好奇、更有同理心、更願意和看事情不同的人在同一個房間裡。",
-            "vocab": [
-              {
-                "word": "empathetic",
-                "def": "有同理心的"
-              }
-            ]
+            "zh": "我同意。更好奇、更有同理心、更願意和看事情不同的人在同一個房間裡。"
           },
           {
             "speaker": "b",
@@ -2044,8 +1602,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually a very useful experience, even if it did not feel that way.",
-            "zh": "這其實是一個非常有用的經歷，即使當時感覺不是這樣。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "b",
@@ -2057,13 +1615,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The plan was less important than the thinking that went into it. You spent Sunday clarifying what you want and what you value. That does not expire when circumstances change.",
-            "zh": "計畫本身沒有做那個計畫的思考過程重要。你花了週日去釐清你想要什麼、你重視什麼。這些在情況改變時並不會過期。",
-            "vocab": [
-              {
-                "word": "clarifying",
-                "def": "讓一個人的感覺與想法變得比較清楚"
-              }
-            ]
+            "zh": "計畫本身沒有做那個計畫的思考過程重要。你花了週日去釐清你想要什麼、你重視什麼。這些在情況改變時並不會過期。"
           },
           {
             "speaker": "b",
@@ -2075,13 +1627,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A good plan helps you make faster decisions when things change, because you already know your priorities.",
-            "zh": "沒錯。好的計畫能幫助你在事情改變時做出更快的決定，因為你已經知道自己的優先順序了。",
-            "vocab": [
-              {
-                "word": "know your priorities",
-                "def": "清楚自己的優先順序"
-              }
-            ]
+            "zh": "沒錯。好的計畫能幫助你在事情改變時做出更快的決定，因為你已經知道自己的優先順序了。"
           },
           {
             "speaker": "b",
@@ -2093,13 +1639,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a very good way to put it. The plan is temporary. The values behind it are more durable.",
-            "zh": "這說得很好。計畫是暫時的，計畫背後的價值觀更持久。",
-            "vocab": [
-              {
-                "word": "durable",
-                "def": "持久的；耐用的"
-              }
-            ]
+            "zh": "這說得很好。計畫是暫時的，計畫背後的價值觀更持久。"
           }
         ]
       },
@@ -2116,13 +1656,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plan worth making is one that has a clear destination but flexible routes. You know where you are trying to get. You stay open about how you get there.",
-            "zh": "值得制定的計畫有清晰的目的地但靈活的路線。你知道你想到哪裡，但保持對如何到達那裡的開放性。",
-            "vocab": [
-              {
-                "word": "flexible route",
-                "def": "靈活的路徑；替代路線"
-              }
-            ]
+            "zh": "值得制定的計畫有清晰的目的地但靈活的路線。你知道你想到哪裡，但保持對如何到達那裡的開放性。"
           },
           {
             "speaker": "b",
@@ -2146,13 +1680,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. If you are attached to the route and not the destination, every detour feels like defeat.",
-            "zh": "對。如果你執著的是路線而不是目的地，每一個繞行都感覺像是失敗。",
-            "vocab": [
-              {
-                "word": "detour",
-                "def": "繞行；替代路線；意外的轉折"
-              }
-            ]
+            "zh": "對。如果你執著的是路線而不是目的地，每一個繞行都感覺像是失敗。"
           },
           {
             "speaker": "b",
@@ -2181,13 +1709,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Our current plan is...\" signals that you have a plan but hold it lightly. It is better than saying \"our plan is,\" which sounds rigid.",
-            "zh": "「我們目前的計畫是……」表示你有計畫但持得輕鬆。這比說「我們的計畫是……」更好，後者聽起來很死板。",
-            "vocab": [
-              {
-                "word": "plan",
-                "def": "我們目前的計畫是……"
-              }
-            ]
+            "zh": "「我們目前的計畫是……」表示你有計畫但持得輕鬆。這比說「我們的計畫是……」更好，後者聽起來很死板。"
           },
           {
             "speaker": "b",
@@ -2199,13 +1721,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You can also say \"assuming things stay on track...\" or \"barring any major changes...\" Those signal awareness of uncertainty without paralysis.",
-            "zh": "對。你也可以說「假設事情保持正軌……」或「除非有重大變化……」這些表示對不確定性的覺察，但不是癱瘓。",
-            "vocab": [
-              {
-                "word": "barring any major changes",
-                "def": "除非有重大變化"
-              }
-            ]
+            "zh": "對。你也可以說「假設事情保持正軌……」或「除非有重大變化……」這些表示對不確定性的覺察，但不是癱瘓。"
           },
           {
             "speaker": "b",
@@ -2217,13 +1733,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"I am still working through this\" is honest and professional. It tells them you are thinking, not that you are avoiding.",
-            "zh": "「我還在想這件事」是誠實且專業的。它告訴他們你在思考，而不是在逃避。",
-            "vocab": [
-              {
-                "word": "working through",
-                "def": "仔細思考某事；處理某個問題"
-              }
-            ]
+            "zh": "「我還在想這件事」是誠實且專業的。它告訴他們你在思考，而不是在逃避。"
           },
           {
             "speaker": "b",
@@ -2252,13 +1762,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Build habits that are valuable regardless of what scenario plays out. Daily reading, maintaining relationships, staying physically healthy. These do not expire.",
-            "zh": "建立不管哪種情境發生都有價值的習慣。每天閱讀、維護人際關係、保持身體健康。這些不會過期。",
-            "vocab": [
-              {
-                "word": "habits",
-                "def": "有韌性的習慣"
-              }
-            ]
+            "zh": "建立不管哪種情境發生都有價值的習慣。每天閱讀、維護人際關係、保持身體健康。這些不會過期。"
           },
           {
             "speaker": "b",
@@ -2270,13 +1774,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An uncertain future does not mean no preparation is possible. It means preparing broadly rather than narrowly.",
-            "zh": "沒錯。不確定的未來並不意味著不可能做準備，它意味著廣泛地而不是狹隘地做準備。",
-            "vocab": [
-              {
-                "word": "preparing broadly",
-                "def": "廣泛地做準備"
-              }
-            ]
+            "zh": "沒錯。不確定的未來並不意味著不可能做準備，它意味著廣泛地而不是狹隘地做準備。"
           },
           {
             "speaker": "b",
@@ -2288,13 +1786,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Relationships, honestly. The people around you are often your biggest resource when uncertainty hits. Skills can be learned. Networks take years to build.",
-            "zh": "說實話，是人際關係。當不確定性來臨時，你周圍的人往往是你最大的資源。技能可以學習，人脈網絡需要多年才能建立。",
-            "vocab": [
-              {
-                "word": "network",
-                "def": "人脈網絡"
-              }
-            ]
+            "zh": "說實話，是人際關係。當不確定性來臨時，你周圍的人往往是你最大的資源。技能可以學習，人脈關係需要多年才能建立。"
           },
           {
             "speaker": "b",
@@ -2323,13 +1815,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is honest. There is a gap between understanding something and feeling it. The feeling part usually catches up through experience.",
-            "zh": "這很誠實。理解一件事和感受它之間有一個差距，感受部分通常通過經歷趕上來。",
-            "vocab": [
-              {
-                "word": "gap between understanding",
-                "def": "知道和感受之間的差距"
-              }
-            ]
+            "zh": "這很誠實。理解一件事和感受它之間有一個差距，感受部分通常通過經歷趕上來。"
           },
           {
             "speaker": "b",
@@ -2341,13 +1827,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Every time you have survived an uncertain period, you build evidence that you can survive the next one. That is what actually changes the feeling.",
-            "zh": "對。每一次你度過不確定的時期，你就建立了你能度過下一次的證據，這才是真正改變感受的東西。",
-            "vocab": [
-              {
-                "word": "build evidence",
-                "def": "積累證據；積累經歷"
-              }
-            ]
+            "zh": "對。每一次你度過不確定的時期，你就建立了你能度過下一次的證據，這才是真正改變感受的東西。"
           },
           {
             "speaker": "b",
@@ -2359,13 +1839,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Reminding yourself of what you have already handled is just as important as imagining what you could handle in the future.",
-            "zh": "對。提醒自己你已經處理過什麼，和想像你未來可以處理什麼一樣重要。",
-            "vocab": [
-              {
-                "word": "already handled",
-                "def": "回顧；反思過去的經歷"
-              }
-            ]
+            "zh": "對。提醒自己你已經處理過什麼，和想像你未來可以處理什麼一樣重要。"
           },
           {
             "speaker": "b",
@@ -2446,13 +1920,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of delayed feedback is one of the hardest things about long-term decisions. The consequences show up much later than the choice.",
-            "zh": "這種延遲的反饋是長期決策中最難的事情之一。後果出現的時間比決定本身晚得多。",
-            "vocab": [
-              {
-                "word": "delayed feedback",
-                "def": "延遲的反饋"
-              }
-            ]
+            "zh": "這種延遲的反饋是長期決策中最難的事情之一。後果出現的時間比決定本身晚得多。"
           },
           {
             "speaker": "b",
@@ -2464,13 +1932,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is why it helps to think about decisions in terms of the options they open or close, not just the immediate result.",
-            "zh": "對。這就是為什麼從決定能開啟或關閉的選項角度來思考很有幫助，而不只是看即時結果。",
-            "vocab": [
-              {
-                "word": "options they open",
-                "def": "開啟選項；創造更多可能性"
-              }
-            ]
+            "zh": "對。這就是為什麼從決定能開啟或關閉的選項角度來思考很有幫助，而不只是看即時結果。"
           },
           {
             "speaker": "b",
@@ -2482,13 +1944,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Some decisions are reversible. Others narrow your future quite significantly. Knowing the difference is very useful.",
-            "zh": "沒錯。有些決定是可逆的，有些則會相當大幅地縮窄你的未來。知道這種差異非常有用。",
-            "vocab": [
-              {
-                "word": "future",
-                "def": "知道這種差異非常有用"
-              }
-            ]
+            "zh": "沒錯。有些決定是可逆的，有些則會相當大幅地縮窄你的未來。知道這種差異非常有用。"
           },
           {
             "speaker": "b",
@@ -2516,14 +1972,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually the more important category. Small repeated choices compound. They add up in ways that single big decisions rarely do.",
-            "zh": "那實際上是更重要的類別。小的重複選擇會複利累加，它們的累積方式是單一重大決定很少能做到的。",
-            "vocab": [
-              {
-                "word": "compound",
-                "def": "複利累積；不斷疊加增長"
-              }
-            ]
+            "en": "That maps well onto real conversations.",
+            "zh": "這個說法很貼合真實的對話。"
           },
           {
             "speaker": "b",
@@ -2535,13 +1985,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The same applies to professional habits. Skipping feedback, avoiding difficult conversations, not investing in relationships. Each instance seems minor. The pattern is significant.",
-            "zh": "對。同樣適用於職業習慣。跳過反饋、迴避困難對話、不投資人際關係。每一次發生都看起來很小，但模式是顯著的。",
-            "vocab": [
-              {
-                "word": "professional habit",
-                "def": "職業習慣"
-              }
-            ]
+            "zh": "對。同樣適用於職業習慣。跳過反饋、迴避困難對話、不投資人際關係。每一次發生都看起來很小，但模式是顯著的。"
           },
           {
             "speaker": "b",
@@ -2553,19 +1997,13 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Today's choices vote for or against the person you are becoming. Over time, those votes accumulate.",
-            "zh": "沒錯。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。",
-            "vocab": [
-              {
-                "word": "Today's choices",
-                "def": "積累起來"
-              }
-            ]
+            "zh": "沒錯。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a compelling frame. Every small choice is a vote in a very long election.",
-            "zh": "這是一個引人入勝的框架。每個小選擇都是一場很長選舉中的一票。"
+            "en": "That changes how I want to use it.",
+            "zh": "這改變了我想怎麼去用它。"
           },
           {
             "speaker": "a",
@@ -2588,13 +2026,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"That experience shifted how I thought about...\" is very natural. It names the change and points to its origin.",
-            "zh": "「那次經歷改變了我對……的看法」非常自然。它說明了改變並指向其來源。",
-            "vocab": [
-              {
-                "word": "experience shifted",
-                "def": "改變你對某事的看法"
-              }
-            ]
+            "zh": "「那次經歷改變了我對……的看法」非常自然。它說明了改變並指向其來源。"
           },
           {
             "speaker": "b",
@@ -2606,13 +2038,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Looking back, the thing that made the biggest difference was...\" is useful because it positions the insight as hard-won, not obvious.",
-            "zh": "「回頭看，最大的不同是……」很有用，因為它把洞見定位為來之不易的，而不是顯而易見的。",
-            "vocab": [
-              {
-                "word": "looking back",
-                "def": "回頭看；回顧"
-              }
-            ]
+            "zh": "「回頭看，最大的不同是……」很有用，因為它把洞見定位為來之不易的，而不是顯而易見的。"
           },
           {
             "speaker": "b",
@@ -2624,13 +2050,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"A decision I made years ago is still shaping...\" works well. It uses the present continuous to show ongoing impact.",
-            "zh": "「我幾年前做的一個決定仍在塑造著……」效果很好。它使用現在進行時來表示持續的影響。",
-            "vocab": [
-              {
-                "word": "ongoing impact",
-                "def": "持續的影響"
-              }
-            ]
+            "zh": "「我幾年前做的一個決定仍在塑造著……」效果很好。它使用現在進行時來表示持續的影響。"
           },
           {
             "speaker": "b",
@@ -2659,13 +2079,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I ask which of my current habits or investments will still matter in ten years. That filters out a lot of noise.",
-            "zh": "我問哪些我現在的習慣或投資在十年後還會重要。這過濾掉了很多雜音。",
-            "vocab": [
-              {
-                "word": "filters out",
-                "def": "過濾雜音；排除不重要的事"
-              }
-            ]
+            "zh": "我問哪些我現在的習慣或投資在十年後還會重要。這過濾掉了很多雜音。"
           },
           {
             "speaker": "b",
@@ -2677,13 +2091,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of it, yes. The things that still matter in ten years tend to be relationships, foundational skills, and habits that compound.",
-            "zh": "很多是的。在十年後還重要的東西往往是人際關係、基礎技能和會複利增長的習慣。",
-            "vocab": [
-              {
-                "word": "foundational skill",
-                "def": "基礎技能"
-              }
-            ]
+            "zh": "很多是的。在十年後還重要的東西往往是人際關係、基礎技能和會複利增長的習慣。"
           },
           {
             "speaker": "b",
@@ -2695,13 +2103,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. The urgent is always competing with the important. The only way to give the important its due is to protect time for it deliberately.",
-            "zh": "絕對是。緊急的事情總是在和重要的事情競爭。唯一給予重要事情應有重視的方法是刻意為它保護時間。",
-            "vocab": [
-              {
-                "word": "urgent",
-                "def": "真的需要立刻被處理的"
-              }
-            ]
+            "zh": "絕對是。緊急的事情總是在和重要的事情競爭。唯一給予重要事情應有重視的方法是刻意為它保護時間。"
           },
           {
             "speaker": "b",
@@ -2730,13 +2132,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I sometimes ask myself: ten years from now, looking back at today, what will I wish I had done? It clarifies things quickly.",
-            "zh": "我有時會問自己：十年後回頭看今天，我希望自己做了什麼？這能很快澄清事情。",
-            "vocab": [
-              {
-                "word": "looking back at today",
-                "def": "回頭看今天；從未來的角度看現在"
-              }
-            ]
+            "zh": "我有時會問自己：十年後回頭看今天，我希望自己做了什麼？這能很快澄清事情。"
           },
           {
             "speaker": "b",
@@ -2748,13 +2144,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually something about investing more in relationships, or taking a creative risk I was afraid of. Almost never the thing that felt urgent in the moment.",
-            "zh": "通常是關於在人際關係上投入更多，或者去冒一個我害怕的創意風險。幾乎從來不是那個在當下感覺緊急的事情。",
-            "vocab": [
-              {
-                "word": "creative risk",
-                "def": "創意冒險；敢於嘗試新想法"
-              }
-            ]
+            "zh": "通常是關於在人際關係上投入更多，或者去冒一個我害怕的創意風險。幾乎從來不是那個在當下感覺緊急的事情。"
           },
           {
             "speaker": "b",
@@ -2778,13 +2168,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try it once a week. Not as a pressure, but as a compass check. Just to make sure the direction still feels right.",
-            "zh": "每週試一次。不是作為一種壓力，而是作為指南針的校準。只是確保方向感覺仍然是對的。",
-            "vocab": [
-              {
-                "word": "compass check",
-                "def": "方向校準；確認自己走在正確路上"
-              }
-            ]
+            "zh": "每週試一次。不是作為一種壓力，而是作為指南針的校準。只是確保方向感覺仍然是對的。"
           }
         ]
       }

@@ -1,0 +1,257 @@
+weekNumber,dayOfWeek,dateKey,title,declared,actual,diff
+1,1,2026-01-01,A Fresh Start Can Happen Anytime,608,511,97
+1,2,2026-01-02,"Intentions, Not Pressure",612,488,124
+1,3,2026-01-03,Why Starting Again Works,601,517,84
+1,4,2026-01-04,Letting Go to Begin Again,605,516,89
+2,1,2026-01-05,The Perfect Morning,518,456,62
+2,2,2026-01-06,The Early Bird Advantage,524,471,53
+2,3,2026-01-07,Breakfast Conversations,511,450,61
+2,4,2026-01-08,Moving Your Body at Dawn,527,476,51
+2,5,2026-01-09,Mindful Mornings,516,449,67
+2,6,2026-01-10,The Art of the Slow Morning,509,488,21
+2,7,2026-01-11,When Routines Go Wrong,513,463,50
+3,1,2026-01-12,Getting Around: Commute Stories,498,436,62
+3,2,2026-01-13,Walking and Cycling to Work,492,491,1
+3,3,2026-01-14,Remote Work Days,505,495,10
+3,4,2026-01-15,Commuting Etiquette,487,488,-1
+3,5,2026-01-16,Driving to Work,495,454,41
+3,6,2026-01-17,Long-Distance Commuters,501,474,27
+3,7,2026-01-18,The Future of Getting to Work,496,468,28
+5,1,2026-01-26,Why People Celebrate,487,476,11
+5,2,2026-01-27,Traditions That Still Feel Alive,490,485,5
+5,3,2026-01-28,Gifts and Giving,484,484,0
+5,4,2026-01-29,Family Gatherings,486,487,-1
+5,5,2026-01-30,Food and Festival Memory,488,518,-30
+5,6,2026-01-31,"Music, Dance, and Celebration",485,517,-32
+5,7,2026-02-01,Carrying Celebration into Everyday Life,487,524,-37
+6,1,2026-02-02,Let's Eat: Food Preferences and Habits,488,495,-7
+6,2,2026-02-03,Eating Out and Restaurant Culture,485,552,-67
+6,3,2026-02-04,Street Food and Local Eats,484,489,-5
+6,4,2026-02-05,Healthy Eating and Diets,486,545,-59
+6,5,2026-02-06,Food Memories and Family Recipes,487,517,-30
+6,6,2026-02-07,International Cuisine and Fusion,487,548,-61
+6,7,2026-02-08,Food Trends and the Future of Eating,489,500,-11
+8,1,2026-02-16,Spending Habits and What They Reveal,491,370,121
+8,2,2026-02-17,Budgeting and the Art of Saving,490,431,59
+8,3,2026-02-18,The Psychology of Spending,488,404,84
+8,4,2026-02-19,Negotiating and Getting a Good Deal,487,406,81
+8,5,2026-02-20,Financial Goals and Building a Future,489,414,75
+8,6,2026-02-21,"Tipping, Gifting, and Money Etiquette",492,428,64
+8,7,2026-02-22,The Future of Money,491,430,61
+10,1,2026-03-02,My Week: Talking About Time and Schedules,518,429,89
+10,2,2026-03-03,The Power of Morning Routines,524,485,39
+10,3,2026-03-04,Managing Time at Work,511,436,75
+10,4,2026-03-05,After Work: How We Spend Our Evenings,507,447,60
+10,5,2026-03-06,"Weekends: Rest, Play, and Meaning",513,473,40
+10,6,2026-03-07,Slow Living and Doing Less,516,490,26
+10,7,2026-03-08,Women's Time: Invisible Labor and Reclaiming Your Hours,521,475,46
+11,1,2026-03-09,Good Friends: What Makes a Great Friendship,512,472,40
+11,2,2026-03-10,Making New Friends as an Adult,519,489,30
+11,3,2026-03-11,Long-Distance Friendships,508,455,53
+11,4,2026-03-12,Conflict and Repair in Friendship,514,501,13
+11,5,2026-03-13,Friendship and Social Media,510,480,30
+11,6,2026-03-14,What Makes a Best Friend,516,520,-4
+11,7,2026-03-15,Friendship Across Differences,513,462,51
+18,1,2026-04-27,Working It Out: How We Handle Disagreements,522,416,106
+18,2,2026-04-28,Where Arguments Usually Begin,518,466,52
+18,3,2026-04-29,How to Disagree Without Hurting the Relationship,510,479,31
+18,4,2026-04-30,When an Apology Works and When It Does Not,527,500,27
+18,5,2026-05-01,"Boundaries, Honesty, and Respect",514,491,23
+18,6,2026-05-02,Repairing Trust After a Fight,519,478,41
+18,7,2026-05-03,What Conflict Can Teach a Relationship,512,471,41
+21,1,2026-05-18,Under Pressure: Managing Stress at Work,490,315,175
+21,2,2026-05-19,What Pressure Does to Your Thinking,488,321,167
+21,3,2026-05-20,Prioritizing When Everything Feels Urgent,492,330,162
+21,4,2026-05-21,How to Ask for Help Before It Is Too Late,491,340,151
+21,5,2026-05-22,Recovering After a High-Pressure Week,489,332,157
+21,6,2026-05-23,Leading Others Through Pressure,490,340,150
+21,7,2026-05-24,A Healthier Relationship With Pressure,491,370,121
+22,1,2026-05-25,Figuring It Out: How We Tackle Problems,490,352,138
+22,2,2026-05-26,How You Approach a Difficult Problem,488,348,140
+22,3,2026-05-27,Creative Solutions and Fresh Thinking,491,374,117
+22,4,2026-05-28,When the Real Problem Is Hidden,489,379,110
+22,5,2026-05-29,Making Better Decisions When the Answer Is Unclear,492,379,113
+22,6,2026-05-30,Solving Problems Better as a Team,490,353,137
+22,7,2026-05-31,What Better Problem Solving Feels Like,491,369,122
+23,1,2026-06-01,Where I'm Headed: Talking About Career Ambitions,490,377,113
+23,2,2026-06-02,What Success Looks Like to You,489,354,135
+23,3,2026-06-03,Ambition and Its Tradeoffs,491,361,130
+23,4,2026-06-04,How to Talk About Your Next Step,488,407,81
+23,5,2026-06-05,Choosing Between Stability and Growth,492,375,117
+23,6,2026-06-06,Revising Your Goals Without Feeling Lost,490,393,97
+23,7,2026-06-07,Building a Career That Still Feels Like Yours,491,398,93
+24,1,2026-06-08,Always Learning: How We Grow and Improve,490,398,92
+24,2,2026-06-09,Why Growth Requires Discomfort,489,396,93
+24,3,2026-06-10,Learning New Skills as an Adult,491,399,92
+24,4,2026-06-11,What Good Practice Actually Looks Like,490,405,85
+24,5,2026-06-12,When Progress Feels Slow,492,401,91
+24,6,2026-06-13,Learning From Other People Without Comparing Yourself,489,414,75
+24,7,2026-06-14,What It Means to Keep Growing,491,414,77
+25,1,2026-06-15,Wins and Losses: What We Learn From Both,490,408,82
+25,2,2026-06-16,What Success Costs and What It Gives,489,403,86
+25,3,2026-06-17,"Failure, Shame, and Starting Again",491,428,63
+25,4,2026-06-18,The Pressure to Succeed in Public,490,412,78
+25,5,2026-06-19,When Plans Fail but Life Does Not,492,440,52
+25,6,2026-06-20,The Success That No One Sees,489,397,92
+25,7,2026-06-21,A Healthier Way to Keep Going,491,424,67
+26,1,2026-06-22,On and Off: Finding Balance Between Work and Rest,524,470,54
+26,2,2026-06-23,How Work Follows You Home,511,492,19
+26,3,2026-06-24,Rest Without Guilt,518,482,36
+26,4,2026-06-25,"Boundaries at Work, Not Just After Work",527,510,17
+26,5,2026-06-26,What Hobbies Give Back to Working Adults,516,491,25
+26,6,2026-06-27,When Work Becomes Too Much of Who You Are,522,492,30
+26,7,2026-06-28,A More Sustainable Way to Work and Live,519,521,-2
+27,1,2026-06-29,Going Somewhere: The Joy and Challenge of Travel,490,358,132
+27,2,2026-06-30,Why Travel Changes Your Perspective,489,360,129
+27,3,2026-07-01,Planning vs. Spontaneity on a Trip,491,359,132
+27,4,2026-07-02,Traveling on a Budget Without Losing the Experience,490,389,101
+27,5,2026-07-03,Culture Shock and How to Handle It,492,390,102
+27,6,2026-07-04,Traveling With Other People,490,384,106
+27,7,2026-07-05,Coming Home After a Trip,491,404,87
+28,1,2026-07-06,Seeing and Capturing: Photography and Visual Creativity,490,420,70
+28,2,2026-07-07,Why People Take Photos,489,435,54
+28,3,2026-07-08,"Composition, Light, and Learning to See",491,417,74
+28,4,2026-07-09,"Editing, Selection, and What to Leave Out",490,448,42
+28,5,2026-07-10,"Drawing, Visual Journaling, and Creative Healing",491,443,48
+28,6,2026-07-11,Creating in the Age of Social Media,490,408,82
+28,7,2026-07-12,What Visual Art Teaches About Life,491,444,47
+29,1,2026-07-13,"What We Listen To: Music, Podcasts, and Audio",490,393,97
+29,2,2026-07-14,How Music Shapes Mood,489,367,122
+29,3,2026-07-15,Musical Taste and Personal Identity,491,402,89
+29,4,2026-07-16,"Podcasts, Learning, and the New Intimacy of Audio",490,397,93
+29,5,2026-07-17,How Audio Fills Our Empty Time,490,380,110
+29,6,2026-07-18,Shared Listening and Social Connection,491,404,87
+29,7,2026-07-19,Listening With More Intention,491,445,46
+31,1,2026-07-27,"Animal Companions: Pets, Wildlife, and Our Bond With Animals",490,474,16
+31,2,2026-07-28,Why People Love Animals So Much,490,490,0
+31,3,2026-07-29,What Caring for a Pet Teaches You,490,512,-22
+31,4,2026-07-30,"Wild Animals, Awe, and Conservation",490,482,8
+31,5,2026-07-31,Animal Welfare and the Ethics of Care,490,486,4
+31,6,2026-08-01,What Animals Teach Us About Ourselves,490,510,-20
+31,7,2026-08-02,Living More Gently in a Shared World,490,504,-14
+32,1,2026-08-03,"Things We Love: Hobbies, Collections, and Passions",490,502,-12
+32,2,2026-08-04,Why People Collect Things,490,489,1
+32,3,2026-08-05,Hobbies as Relief From Hustle Culture,490,512,-22
+32,4,2026-08-06,Learning Through Hobbies and Slow Skill-Building,490,499,-9
+32,5,2026-08-07,Niche Interests and Finding Your People,490,486,4
+32,6,2026-08-08,The Beauty of Doing Something Just for Yourself,490,494,-4
+32,7,2026-08-09,What Passion Adds to an Adult Life,490,517,-27
+33,1,2026-08-10,"Into the Open: Nature, Fresh Air, and the Outdoors",490,521,-31
+33,2,2026-08-11,Why Nature Changes the Way We Feel,490,496,-6
+33,3,2026-08-12,Urban Nature and Small Outdoor Rituals,490,541,-51
+33,4,2026-08-13,"Hiking, Difficulty, and the Value of Effort",490,543,-53
+33,5,2026-08-14,"Children, Screens, and Nature Deprivation",490,478,12
+33,6,2026-08-15,"Travel, Tourism, and Protecting Fragile Places",490,505,-15
+33,7,2026-08-16,Living Closer to the Living World,490,535,-45
+34,1,2026-08-17,"Moving Your Body: Sports, Exercise, and Staying Active",528,488,40
+34,2,2026-08-18,Why People Exercise for Different Reasons,534,508,26
+34,3,2026-08-19,Finding Exercise You Will Actually Keep Doing,519,501,18
+34,4,2026-08-20,"Sportsmanship, Competition, and Character",526,492,34
+34,5,2026-08-21,"Social Media, Body Image, and Fitness Pressure",531,499,32
+34,6,2026-08-22,"Aging, Recovery, and Exercising for the Long Term",522,508,14
+34,7,2026-08-23,A Better Relationship With Your Body,527,529,-2
+35,1,2026-08-24,Always On: Technology in Our Daily Lives,490,481,9
+35,2,2026-08-25,"Notifications, Attention, and Daily Focus",490,511,-21
+35,3,2026-08-26,Convenience and the Hidden Costs of Tech,490,495,-5
+35,4,2026-08-27,Smart Homes and Digital Habits,490,467,23
+35,5,2026-08-28,When Technology Feels Overwhelming,490,495,-5
+35,6,2026-08-29,Choosing What Technology Is Worth Keeping,490,521,-31
+35,7,2026-08-30,Building a Healthier Relationship with Devices,490,526,-36
+36,1,2026-08-31,Intelligent Machines: Living With AI,490,511,-21
+36,2,2026-09-01,What AI Is Good At and What It Is Not,490,488,2
+36,3,2026-09-02,How AI Changes Everyday Work,490,528,-38
+36,4,2026-09-03,"Trust, Accuracy, and Human Judgment",490,517,-27
+36,5,2026-09-04,Creative Work in the Age of AI,490,541,-51
+36,6,2026-09-05,"Ethics, Bias, and Responsibility",490,525,-35
+36,7,2026-09-06,Living Alongside Smarter Machines,490,536,-46
+37,1,2026-09-07,Mind and Body: Taking Care of Your Health,490,505,-15
+37,2,2026-09-08,What Mental Wellbeing Really Means,490,502,-12
+37,3,2026-09-09,"Stress, Anxiety, and Modern Life",490,516,-26
+37,4,2026-09-10,Small Habits That Protect Your Mind,490,529,-39
+37,5,2026-09-11,Talking More Honestly About Struggle,490,491,-1
+37,6,2026-09-12,"Rest, Therapy, and Support Systems",490,535,-45
+37,7,2026-09-13,Building a More Sustainable Inner Life,490,510,-20
+38,1,2026-09-14,Our Planet: Living Sustainably and Thinking Long-Term,490,490,0
+38,2,2026-09-15,Why Environmental Issues Feel So Big,490,507,-17
+38,3,2026-09-16,Daily Choices and Their Real Impact,490,496,-6
+38,4,2026-09-17,"Convenience, Consumption, and Waste",490,511,-21
+38,5,2026-09-18,"Hope, Guilt, and Climate Emotions",490,559,-69
+38,6,2026-09-19,"Cities, Nature, and Sustainable Design",490,478,12
+38,7,2026-09-20,What a Sustainable Future Could Look Like,490,501,-11
+39,1,2026-09-21,"Talking About Money: Goals, Habits, and Mindset",490,506,-16
+39,2,2026-09-22,What Money Means Beyond Numbers,490,515,-25
+39,3,2026-09-23,"Saving, Spending, and Personal Priorities",490,528,-38
+39,4,2026-09-24,Talking About Money with Other People,490,510,-20
+39,5,2026-09-25,Financial Goals and Emotional Pressure,490,507,-17
+39,6,2026-09-26,"Lifestyle, Status, and the Cost of Image",490,541,-51
+39,7,2026-09-27,A Healthier Relationship with Money,490,525,-35
+40,1,2026-09-28,Life in Motion: Navigating Change and New Chapters,490,564,-74
+40,2,2026-09-29,Why Change Feels Unsettling,490,551,-61
+40,3,2026-09-30,Life Transitions and Identity Shifts,490,598,-108
+40,4,2026-10-01,Starting Over in Midstream,490,547,-57
+40,5,2026-10-02,How to Adapt Without Losing Yourself,490,539,-49
+40,6,2026-10-03,Letting Go of What No Longer Fits,490,525,-35
+40,7,2026-10-04,Trusting Yourself Through Uncertainty,490,523,-33
+42,1,2026-10-12,"Looking Ahead: Hopes, Fears, and the Future",524,485,39
+42,2,2026-10-13,Imagining the Future We Might Live In,531,483,48
+42,3,2026-10-14,"Hope, Fear, and What Comes Next",518,505,13
+42,4,2026-10-15,"Technology, Work, and the Near Future",527,503,24
+42,5,2026-10-16,The Kind of Future People Want,519,487,32
+42,6,2026-10-17,Planning for a Future You Cannot Fully Predict,522,505,17
+42,7,2026-10-18,How Today Shapes Tomorrow,516,517,-1
+43,1,2026-10-19,Full Circle: Reflections on the Journey,490,469,21
+43,2,2026-10-20,Looking Back on How Much You've Changed,491,480,11
+43,3,2026-10-21,What the Hard Years Taught You,490,500,-10
+43,4,2026-10-22,The People and Moments That Shaped You,489,471,18
+43,5,2026-10-23,"Regret, Gratitude, and Perspective",491,499,-8
+43,6,2026-10-24,What You Want to Leave Behind,490,483,7
+43,7,2026-10-25,Moving Forward with More Intention,490,483,7
+44,1,2026-10-26,Finding Your Creative Voice,491,500,-9
+44,2,2026-10-27,Art in Everyday Life,490,519,-29
+44,3,2026-10-28,Storytelling as a Human Need,491,499,-8
+44,4,2026-10-29,Design Thinking in Daily Life,490,498,-8
+44,5,2026-10-30,Music and Emotional Expression,491,514,-23
+44,6,2026-10-31,The Writer's Mind,490,508,-18
+44,7,2026-11-01,Living a Creative Life,490,512,-22
+45,1,2026-11-02,What Makes a Real Leader,491,513,-22
+45,2,2026-11-03,Influence Without Authority,490,510,-20
+45,3,2026-11-04,Emotional Intelligence in Leadership,491,496,-5
+45,4,2026-11-05,Building and Leading Teams,490,516,-26
+45,5,2026-11-06,Decision-Making Under Pressure,490,499,-9
+45,6,2026-11-07,Leading Yourself First,491,526,-35
+45,7,2026-11-08,Leadership in Everyday Life,490,533,-43
+46,1,2026-11-09,The Power of Community,490,536,-46
+46,2,2026-11-10,The Art of Listening,491,512,-21
+46,3,2026-11-11,Local Heroes and Changemakers,490,540,-50
+46,4,2026-11-12,Navigating Differences in Community,491,506,-15
+46,5,2026-11-13,Technology for Social Good,490,505,-15
+46,6,2026-11-14,Generations of Service,491,544,-53
+46,7,2026-11-15,This Week's Reflections,490,492,-2
+47,1,2026-11-16,"What Is Culture, Anyway?",490,530,-40
+47,2,2026-11-17,Navigating Cultural Differences at Work,491,501,-10
+47,3,2026-11-18,Food as a Cultural Gateway,490,543,-53
+47,4,2026-11-19,Traveling with Curiosity,491,521,-30
+47,5,2026-11-20,Values Across Cultures,490,529,-39
+47,6,2026-11-21,"Language, Translation, and Meaning",491,522,-31
+47,7,2026-11-22,Building Cultural Bridges,490,506,-16
+48,1,2026-11-23,Who Are You When You Speak?,490,523,-33
+48,2,2026-11-24,"Slang, Jargon, and Belonging",491,485,6
+48,3,2026-11-25,Bilingual Lives,490,560,-70
+48,4,2026-11-26,Storytelling and Narrative Identity,491,556,-65
+48,5,2026-11-27,Words That Shape Thinking,490,568,-78
+48,6,2026-11-28,Writing and Self-Expression,490,555,-65
+48,7,2026-11-29,The Gift of Expression,490,565,-75
+49,1,2026-11-30,Why Rest Is Productive,490,495,-5
+49,2,2026-12-01,The Art of Doing Nothing,491,526,-35
+49,3,2026-12-02,Sabbath and Sacred Rest,490,520,-30
+49,4,2026-12-03,Creative Renewal,490,535,-45
+49,5,2026-12-04,Physical Renewal and Body Wisdom,491,525,-34
+49,6,2026-12-05,Slow Living in a Fast World,490,536,-46
+49,7,2026-12-06,A Week of Rest Reflections,490,541,-51
+50,1,2026-12-07,The Science of Gratitude,491,551,-60
+50,2,2026-12-08,Appreciating People in Your Life,490,544,-54
+50,3,2026-12-09,Finding Beauty in Ordinary Life,490,520,-30
+50,4,2026-12-10,Gratitude and Perspective,491,555,-64
+50,5,2026-12-11,Gratitude at Work,490,521,-31
+50,6,2026-12-12,Gratitude Across Cultures,490,516,-26
+50,7,2026-12-13,A Week of Thankfulness,491,512,-21

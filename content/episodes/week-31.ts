@@ -22,25 +22,13 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Animals do that. They make affection visible through repetition instead of language.",
-            "zh": "動物真的很會這樣。牠們不是用語言，而是用重複的動作把喜歡變得看得見。",
-            "vocab": [
-              {
-                "word": "affection visible",
-                "def": "透過行為而不是說話顯出來的喜歡與依戀"
-              }
-            ]
+            "zh": "動物真的很會這樣。牠們不是用語言，而是用重複的動作把喜歡變得看得見。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That may be why pets feel emotionally clear in a way people often do not.",
-            "zh": "這可能也是為什麼，寵物在情感上常常比人還更清楚。",
-            "vocab": [
-              {
-                "word": "emotionally clear",
-                "def": "這可能也是為什麼"
-              }
-            ]
+            "zh": "這可能也是為什麼，寵物在情感上常常比人還更清楚。"
           },
           {
             "speaker": "a",
@@ -58,13 +46,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that honesty can be incredibly regulating for people who spend all day reading complicated social cues.",
-            "zh": "對，而那種誠實，對那些整天都在讀複雜社交訊號的人來說，會非常有安定作用。",
-            "vocab": [
-              {
-                "word": "social cues",
-                "def": "人和人互動時那些很複雜的暗示與訊號"
-              }
-            ]
+            "zh": "對，而那種誠實，對那些整天都在讀複雜社交訊號的人來說，會非常有安定作用。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Routine can become relationship.",
-            "zh": "完全沒錯。日常本身就可以長成關係。",
-            "vocab": [
-              {
-                "word": "become relationship",
-                "def": "每天固定出現的餵食、散步與照顧動作"
-              }
-            ]
+            "zh": "完全沒錯。日常本身就可以長成關係。"
           },
           {
             "speaker": "b",
@@ -164,13 +140,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'Taking care of her made my life feel more grounded.'",
-            "zh": "另一句也很好用：「Taking care of her made my life feel more grounded.」",
-            "vocab": [
-              {
-                "word": "more grounded",
-                "def": "比較穩、比較落地"
-              }
-            ]
+            "zh": "另一句也很好用：「Taking care of her made my life feel more grounded.」"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'There is something calming about being loved in such a direct way.'",
-            "zh": "如果你想講陪伴，也可以說：「There is something calming about being loved in such a direct way.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講陪伴，也可以說：「There is something calming about being loved in such a direct way.」"
           },
           {
             "speaker": "b",
@@ -205,7 +169,7 @@ export const WEEK_31: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Care Is a Practice, Not Only a Feeling",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -229,13 +193,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that is not a less beautiful version of love. It is a more mature one.",
-            "zh": "完全沒錯，而那不是比較不美的愛，那其實是更成熟的愛。",
-            "vocab": [
-              {
-                "word": "mature",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯，而那不是比較不美的愛，那其實是更成熟的愛。"
           },
           {
             "speaker": "b",
@@ -260,12 +218,7 @@ export const WEEK_31: Episode[] = [
             "speakerName": "Mira",
             "en": "I think so. It gives daily life a moral shape.",
             "zh": "我也這麼覺得。它會替日常生活長出一個道德形狀。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Animals Bring Into Human Life",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -288,13 +241,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Animals make some people gentler because they pull care out of them every day.",
-            "zh": "動物會讓一些人變得更溫柔，因為牠們會每天把照顧這件事從人身上拉出來。",
-            "vocab": [
-              {
-                "word": "people gentler",
-                "def": "動物會讓一些人變得更溫柔"
-              }
-            ]
+            "zh": "動物會讓一些人變得更溫柔，因為牠們會每天把照顧這件事從人身上拉出來。"
           },
           {
             "speaker": "b",
@@ -399,13 +346,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Animals can bypass cynicism.",
-            "zh": "完全沒錯。動物常常會直接繞過人的那層防備和嘲諷。",
-            "vocab": [
-              {
-                "word": "bypass cynicism",
-                "def": "情感表達得很直接、很清楚的狀態"
-              }
-            ]
+            "zh": "完全沒錯。動物常常會直接繞過人的那層防備和嘲諷。"
           },
           {
             "speaker": "b",
@@ -429,13 +370,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is one reason animal stories spread so fast. They remind people of a less guarded version of themselves.",
-            "zh": "這也是動物故事傳得特別快的原因之一。它們會提醒人，自己其實還有一個比較沒那麼武裝的版本。",
-            "vocab": [
-              {
-                "word": "animal stories",
-                "def": "這也是動物故事傳得特別快的原因之一"
-              }
-            ]
+            "zh": "這也是動物故事傳得特別快的原因之一。它們會提醒人，自己其實還有一個比較沒那麼武裝的版本。"
           }
         ]
       },
@@ -464,13 +399,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Projection can be mixed with real care. The key is whether people still respect the animal as an animal.",
-            "zh": "完全不代表。投射和真的照顧可以同時存在。重點在於，人有沒有還記得牠首先是一隻動物。",
-            "vocab": [
-              {
-                "word": "respect the animal",
-                "def": "也尊重牠原本的需求和界線"
-              }
-            ]
+            "zh": "完全不代表。投射和真的照顧可以同時存在。重點在於，人有沒有還記得牠首先是一隻動物。"
           },
           {
             "speaker": "b",
@@ -487,8 +416,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a good rule for human relationships too.",
-            "zh": "這個原則放在人和人的關係裡也很好用。"
+            "en": "That maps well onto real conversations.",
+            "zh": "這個說法很貼合真實的對話。"
           },
           {
             "speaker": "a",
@@ -523,13 +452,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'People feel safe loving something that is not pretending to be anything else.'",
-            "zh": "另一句也很好用：「People feel safe loving something that is not pretending to be anything else.」",
-            "vocab": [
-              {
-                "word": "not pretending",
-                "def": "沒有在裝、沒有在演、就是牠本來的樣子"
-              }
-            ]
+            "zh": "另一句也很好用：「People feel safe loving something that is not pretending to be anything else.」"
           },
           {
             "speaker": "b",
@@ -541,13 +464,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to sound more reflective, you could say, 'Animals remind us of forms of connection that are older than language.'",
-            "zh": "如果你想講得再有點反思感，也可以說：「Animals remind us of forms of connection that are older than language.」",
-            "vocab": [
-              {
-                "word": "older than language",
-                "def": "比說話本身更早、更原始的連結方式"
-              }
-            ]
+            "zh": "如果你想講得再有點反思感，也可以說：「Animals remind us of forms of connection that are older than language.」"
           },
           {
             "speaker": "b",
@@ -559,7 +476,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Animal language often works best when it respects both feeling and biology.",
-            "zh": "很好。談動物的語言，當它同時尊重感情和生物現實時，通常最好用。"
+            "zh": "很好。談動物的語言，當它同時尊重感情和生物事實時，通常最好用。"
           }
         ]
       },
@@ -576,13 +493,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means learning their needs, limits, stress signals, and species-specific reality instead of loving only the idea of them.",
-            "zh": "意思是你要去學牠們的需求、限制、壓力訊號，還有牠們作為那種動物本身的現實，而不是只愛一個想像中的牠。",
-            "vocab": [
-              {
-                "word": "species-specific",
-                "def": "而不是只愛一個想像中的牠"
-              }
-            ]
+            "zh": "意思是你要去學牠們的需求、限制、壓力訊號，還有牠們作為那種動物本身的現實，而不是只愛一個想像中的牠。"
           },
           {
             "speaker": "b",
@@ -594,13 +505,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, because real care is responsive. It changes with the animal in front of you.",
-            "zh": "完全沒錯，因為真的照顧是會回應的。牠會隨著你眼前這隻動物而改變。",
-            "vocab": [
-              {
-                "word": "animal",
-                "def": "隨著你眼前這隻動物而改變"
-              }
-            ]
+            "zh": "完全沒錯，因為真的照顧是會回應的。牠會隨著你眼前這隻動物而改變。"
           },
           {
             "speaker": "b",
@@ -653,13 +558,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Loving animals can widen the moral circle in a very daily way.",
-            "zh": "本來就是。愛動物會用一種很日常的方式，把一個人的道德圈圈慢慢擴大。",
-            "vocab": [
-              {
-                "word": "moral circle",
-                "def": "愛動物會用一種很日常的方式"
-              }
-            ]
+            "zh": "本來就是。愛動物會用一種很日常的方式，把一個人的道德圈圈慢慢擴大。"
           },
           {
             "speaker": "b",
@@ -682,7 +581,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like a good sign.",
+            "en": "It sounds like a good sign.",
             "zh": "這聽起來是件好事。"
           }
         ]
@@ -764,13 +663,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A dog does not care about your philosophy of discipline. It just needs a walk at seven.",
-            "zh": "完全沒錯。狗根本不在意你對自律有什麼哲學，它只知道七點要出去散步。",
-            "vocab": [
-              {
-                "word": "philosophy",
-                "def": "哲學；人生觀"
-              }
-            ]
+            "zh": "完全沒錯。狗根本不在意你對自律有什麼哲學，它只知道七點要出去散步。"
           },
           {
             "speaker": "b",
@@ -782,13 +675,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often does. Repeated care can slowly make someone more reliable to themselves too.",
-            "zh": "很多時候真的會。一再出現的照顧，也會慢慢讓一個人變得更能對自己可靠。",
-            "vocab": [
-              {
-                "word": "repeated care",
-                "def": "一再出現的照顧"
-              }
-            ]
+            "zh": "很多時候真的會。一再出現的照顧，也會慢慢讓一個人變得更能對自己可靠。"
           },
           {
             "speaker": "b",
@@ -817,13 +704,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Patience, definitely. Also observation. Animals do not always tell you what is wrong in obvious ways.",
-            "zh": "一定有耐心，還有觀察力。動物不會總是用很明顯的方式告訴你牠哪裡不對。",
-            "vocab": [
-              {
-                "word": "obvious",
-                "def": "漏掉其實很明顯的東西"
-              }
-            ]
+            "zh": "一定有耐心，還有觀察力。動物不會總是用很明顯的方式告訴你牠哪裡不對。"
           },
           {
             "speaker": "b",
@@ -835,19 +716,13 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good care depends on reading behavior, not just having affection.",
-            "zh": "完全沒錯。好的照顧，仰賴的是會讀行為，不只是很有愛。",
-            "vocab": [
-              {
-                "word": "reading behavior",
-                "def": "照顧"
-              }
-            ]
+            "zh": "完全沒錯。好的照顧，仰賴的是會讀行為，不只是很有愛。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a humbling lesson.",
-            "zh": "這聽起來是一堂很讓人謙卑的課。"
+            "en": "Right — and that's where the real difference shows up.",
+            "zh": "對——那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
@@ -881,7 +756,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want a clear sentence, try 'Taking care of him taught me consistency in a very ordinary way.'",
+            "en": "The clearest way to put it is 'Taking care of him taught me consistency in a very ordinary way.'",
             "zh": "你可以說：「Taking care of him taught me consistency in a very ordinary way.」"
           },
           {
@@ -894,13 +769,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'She taught me to notice small changes before they became problems.'",
-            "zh": "另一句也很好用：「She taught me to notice small changes before they became problems.」",
-            "vocab": [
-              {
-                "word": "small changes",
-                "def": "那些很細微、但其實很重要的狀態變化"
-              }
-            ]
+            "zh": "另一句也很好用：「She taught me to notice small changes before they became problems.」"
           },
           {
             "speaker": "b",
@@ -911,14 +780,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to sound more reflective, another option is, 'My pet taught me that care is mostly made of repetition.'",
-            "zh": "如果你想講得再反思一點，也可以說：「My pet taught me that care is mostly made of repetition.」",
-            "vocab": [
-              {
-                "word": "made of repetition",
-                "def": "照顧的本體其實是一次又一次出現的小事"
-              }
-            ]
+            "en": "When you need to sound more reflective, another option is, 'My pet taught me that care is mostly made of repetition.'",
+            "zh": "如果你想講得再反思一點，也可以說：「My pet taught me that care is mostly made of repetition.」"
           },
           {
             "speaker": "b",
@@ -959,13 +822,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Daily repetition builds trust on both sides.",
-            "zh": "完全沒錯。每天的重複，會在雙方身上慢慢建立信任。",
-            "vocab": [
-              {
-                "word": "trust",
-                "def": "每天的重複"
-              }
-            ]
+            "zh": "完全沒錯。每天的重複，會在雙方身上慢慢建立信任。"
           },
           {
             "speaker": "b",
@@ -1018,13 +875,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and it can also soften people. Many adults relearn tenderness through pets.",
-            "zh": "本來就是，而且它也會讓人變柔軟。很多大人其實是透過寵物重新學會溫柔。",
-            "vocab": [
-              {
-                "word": "relearn tenderness",
-                "def": "在照顧動物的過程裡重新學會溫柔"
-              }
-            ]
+            "zh": "本來就是，而且它也會讓人變柔軟。很多大人其實是透過寵物重新學會溫柔。"
           },
           {
             "speaker": "b",
@@ -1047,7 +898,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let's keep it.",
+            "en": "Let's keep it.",
             "zh": "那我們就把這句留著吧。"
           }
         ]
@@ -1116,8 +967,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is awe doing its work. Wild animals can abruptly remind people that the world is larger than human routine.",
-            "zh": "這就是敬畏感在發揮作用。野生動物會很突然地提醒人，世界其實比人類的日常安排大很多。"
+            "en": "That changes how I want to use it.",
+            "zh": "這改變了我想怎麼去用它。"
           },
           {
             "speaker": "b",
@@ -1128,20 +979,14 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Awe often does that. It resizes the self.",
-            "zh": "敬畏感常常就會這樣。它會把『自己』重新調整比例。",
-            "vocab": [
-              {
-                "word": "resizes",
-                "def": "把重新調整比例"
-              }
-            ]
+            "en": "Awe often does that. It makes your everyday worries feel smaller for a moment.",
+            "zh": "敬畏感常常就會這樣。它會讓你日常那些煩惱，暫時變小一點。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a powerful effect for one bird over one ugly parking lot.",
-            "zh": "就一隻鳥加一個醜醜停車場，居然會有這麼大的效果。"
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "a",
@@ -1188,31 +1033,19 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Wildness asks for restraint as much as admiration.",
-            "zh": "完全沒錯。野性要求人的，不只是欣賞，還有節制。",
-            "vocab": [
-              {
-                "word": "wildness",
-                "def": "還有節制"
-              }
-            ]
+            "zh": "完全沒錯。野性要求人的，不只是欣賞，還有節制。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like an important correction in a world where people want to touch everything.",
-            "zh": "在一個什麼都想摸、都想靠近的世界裡，這真的像一個重要的修正。"
+            "en": "Right, and that shift changes how you approach it.",
+            "zh": "對，而那個轉變會改變你怎麼去面對它。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Loving wildlife well often means letting it remain itself.",
-            "zh": "本來就是。真正把野生動物愛得好，很多時候就是讓牠維持牠自己。",
-            "vocab": [
-              {
-                "word": "means letting",
-                "def": "牠維持牠自己"
-              }
-            ]
+            "zh": "本來就是。真正把野生動物愛得好，很多時候就是讓牠維持牠自己。"
           },
           {
             "speaker": "b",
@@ -1240,26 +1073,20 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'Wild animals remind us that human life is part of a larger living system.'",
-            "zh": "你可以說：「Wild animals remind us that human life is part of a larger living system.」"
+            "en": "A useful version of that is, 'Wild animals remind us that human life is part of a larger living system.'",
+            "zh": "這裡很自然的說法是：「Wild animals remind us that human life is part of a larger living system.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually strong sentence.",
-            "zh": "這句很有力。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want a more grounded version, try 'Conservation is not only about saving species. It is about protecting relationships inside ecosystems.'",
-            "zh": "另一句也很好用：「Conservation is not only about saving species. It is about protecting relationships inside ecosystems.」",
-            "vocab": [
-              {
-                "word": "relationships inside ecosystems",
-                "def": "一個生態系裡各種生命彼此牽連的關係"
-              }
-            ]
+            "en": "For a more grounded option, try 'Conservation is not only about saving species. It is about protecting relationships inside ecosystems.'",
+            "zh": "另一句也很好用：「Conservation is not only about saving species. It is about protecting relationships inside ecosystems.」"
           },
           {
             "speaker": "b",
@@ -1271,13 +1098,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, 'When a species disappears, a whole pattern of life disappears with it.'",
-            "zh": "完全沒錯。如果你想講得更簡單，也可以說：「When a species disappears, a whole pattern of life disappears with it.」",
-            "vocab": [
-              {
-                "word": "pattern of life",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。如果你想講得更簡單，也可以說：「When a species disappears, a whole pattern of life disappears with it.」"
           },
           {
             "speaker": "b",
@@ -1294,7 +1115,7 @@ export const WEEK_31: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — The Ethics of Looking",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -1318,13 +1139,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good wildlife observation is non-invasive attention.",
-            "zh": "完全沒錯。好的野外觀察，是一種不打擾的注意。",
-            "vocab": [
-              {
-                "word": "non-invasive attention",
-                "def": "在不干擾生命的前提下"
-              }
-            ]
+            "zh": "完全沒錯。好的野外觀察，是一種不打擾的注意。"
           },
           {
             "speaker": "b",
@@ -1336,13 +1151,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, which is why people need principles before the encounter happens.",
-            "zh": "確實更難，所以人才更需要在遇到之前，就先有原則。",
-            "vocab": [
-              {
-                "word": "principles before",
-                "def": "確實更難"
-              }
-            ]
+            "zh": "確實更難，所以人才更需要在遇到之前，就先有原則。"
           },
           {
             "speaker": "b",
@@ -1355,12 +1164,7 @@ export const WEEK_31: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly.",
             "zh": "完全沒錯。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Wildlife Protects in Us",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1383,13 +1187,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Conservation is always deeper than scenery. It is also about keeping certain forms of perception alive.",
-            "zh": "保育永遠都不只是風景而已。它同時也在保護某些感知方式不要消失。",
-            "vocab": [
-              {
-                "word": "perception",
-                "def": "感知；觀感"
-              }
-            ]
+            "zh": "保育永遠都不只是風景而已。它同時也在保護某些感知方式不要消失。"
           },
           {
             "speaker": "b",
@@ -1482,13 +1280,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly the right question. Welfare begins when people ask how the experience feels from the animal's side.",
-            "zh": "這就是對的問題。動物福祉就是從人開始問：如果站在動物那邊，這個經驗到底感覺起來怎麼樣？",
-            "vocab": [
-              {
-                "word": "Welfare begins",
-                "def": "這個經驗到底感覺起來怎麼樣"
-              }
-            ]
+            "zh": "這就是對的問題。動物福祉就是從人開始問：如果站在動物那邊，這個經驗到底感覺起來怎麼樣？"
           },
           {
             "speaker": "b",
@@ -1500,31 +1292,19 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Human delight and animal wellbeing are not automatically the same thing.",
-            "zh": "完全沒錯。人類覺得開心，和動物真的過得好，不會自動變成同一件事。",
-            "vocab": [
-              {
-                "word": "animal wellbeing",
-                "def": "人類覺得開心"
-              }
-            ]
+            "zh": "完全沒錯。人類覺得開心，和動物真的過得好，不會自動變成同一件事。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like an important correction to a lot of online content.",
-            "zh": "這真的很像是在修正很多網路內容。"
+            "en": "That names it more honestly.",
+            "zh": "這才是更誠實的說法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Welfare often asks people to look past cuteness into conditions.",
-            "zh": "本來就是。福祉常常會逼人穿過可愛，看見條件本身。",
-            "vocab": [
-              {
-                "word": "cuteness into conditions",
-                "def": "看見條件本身"
-              }
-            ]
+            "zh": "本來就是。福祉常常會逼人穿過可愛，看見條件本身。"
           },
           {
             "speaker": "b",
@@ -1565,19 +1345,13 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Values become visible in friction.",
-            "zh": "完全沒錯。價值觀常常是在摩擦裡才變得看得見。",
-            "vocab": [
-              {
-                "word": "friction",
-                "def": "阻力；讓事情變難開始的摩擦"
-              }
-            ]
+            "zh": "完全沒錯。價值觀常常是在摩擦裡才變得看得見。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful sentence.",
-            "zh": "這句真的很好用。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "a",
@@ -1624,13 +1398,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'Care should reduce stress, not create it for the sake of entertainment.'",
-            "zh": "另一句也很好用：「Care should reduce stress, not create it for the sake of entertainment.」",
-            "vocab": [
-              {
-                "word": "reduce stress",
-                "def": "不是增加壓力"
-              }
-            ]
+            "zh": "另一句也很好用：「Care should reduce stress, not create it for the sake of entertainment.」"
           },
           {
             "speaker": "b",
@@ -1641,14 +1409,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to make it more everyday, try, 'If the animal cannot opt out, humans need to be extra careful.'",
-            "zh": "如果你想講得再簡單一點，也可以說：「If the animal cannot opt out, humans need to be extra careful.」",
-            "vocab": [
-              {
-                "word": "cannot opt out",
-                "def": "動物沒有辦法自己選擇離開或拒絕的狀態"
-              }
-            ]
+            "en": "For a more everyday version, try: 'If the animal cannot opt out, humans need to be extra careful.'",
+            "zh": "如果你想講得再簡單一點，也可以說：「If the animal cannot opt out, humans need to be extra careful.」"
           },
           {
             "speaker": "b",
@@ -1689,13 +1451,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A decision is not only about today. It is about what kind of life the animal is likely to have because of it.",
-            "zh": "完全沒錯。一個決定不只是在處理今天，它也在決定那隻動物往後比較可能會過上什麼樣的生活。",
-            "vocab": [
-              {
-                "word": "life the animal",
-                "def": "過上什麼樣的生活"
-              }
-            ]
+            "zh": "完全沒錯。一個決定不只是在處理今天，它也在決定那隻動物往後比較可能會過上什麼樣的生活。"
           },
           {
             "speaker": "b",
@@ -1748,13 +1504,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Ethical care deepens perception. It asks people to feel tenderness and responsibility at the same time.",
-            "zh": "完全沒錯。倫理照顧會加深人的感知。它要求人同時感到溫柔，也同時扛起責任。",
-            "vocab": [
-              {
-                "word": "perception",
-                "def": "感知；觀感"
-              }
-            ]
+            "zh": "完全沒錯。倫理照顧會加深人的感知。它要求人同時感到溫柔，也同時扛起責任。"
           },
           {
             "speaker": "b",
@@ -1777,7 +1527,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is close to how I would put it as well.",
+            "en": "That's close to how I would put it as well.",
             "zh": "我也會這樣說。"
           }
         ]
@@ -1859,13 +1609,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. They can become emotional mirrors.",
-            "zh": "完全沒錯。牠們有時候真的像情緒鏡子。",
-            "vocab": [
-              {
-                "word": "emotional mirror",
-                "def": "人無法裝沒事的存在"
-              }
-            ]
+            "zh": "完全沒錯。牠們有時候真的像情緒鏡子。"
           },
           {
             "speaker": "b",
@@ -1912,25 +1656,13 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is true. Loving an animal means knowing from the start that the time is limited.",
-            "zh": "這真的。愛一隻動物，其實從一開始就知道時間是有限的。",
-            "vocab": [
-              {
-                "word": "animal",
-                "def": "愛一隻動物"
-              }
-            ]
+            "zh": "這真的。愛一隻動物，其實從一開始就知道時間是有限的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, which is one reason the bond can be so tender. Mortality sharpens affection.",
-            "zh": "完全沒錯，而那也是那段連結會那麼柔軟的原因之一。有限性會把愛磨得更清楚。",
-            "vocab": [
-              {
-                "word": "tender",
-                "def": "而那也是那段連結會那麼柔軟的原因之一"
-              }
-            ]
+            "zh": "完全沒錯，而那也是那段連結會那麼柔軟的原因之一。有限性會把愛磨得更清楚。"
           },
           {
             "speaker": "b",
@@ -1976,20 +1708,14 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a strong sentence.",
-            "zh": "這句很有力。"
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'My pet taught me that care reveals character more than intention does.'",
-            "zh": "另一句也很好用：「My pet taught me that care reveals character more than intention does.」",
-            "vocab": [
-              {
-                "word": "reveals character",
-                "def": "把一個人真正的性格在日常裡慢慢顯出來"
-              }
-            ]
+            "zh": "另一句也很好用：「My pet taught me that care reveals character more than intention does.」"
           },
           {
             "speaker": "b",
@@ -2000,14 +1726,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to sound more emotional, 'Loving an animal made me more honest about how much I need connection too.' works well.",
-            "zh": "如果你想講得再情緒一點，也可以說：「Loving an animal made me more honest about how much I need connection too.」",
-            "vocab": [
-              {
-                "word": "need connection",
-                "def": "承認自己其實也很需要陪伴與連結"
-              }
-            ]
+            "en": "When you need to sound more emotional, 'Loving an animal made me more honest about how much I need connection too.' works well.",
+            "zh": "如果你想講得再情緒一點，也可以說：「Loving an animal made me more honest about how much I need connection too.」"
           },
           {
             "speaker": "b",
@@ -2048,37 +1768,25 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sometimes a restless dog means you are restless. Sometimes it just means the dog needs a longer walk.",
-            "zh": "完全沒錯。有時候一隻焦躁的狗，的確代表你很焦躁；但有時候它就只是需要走更久一點。",
-            "vocab": [
-              {
-                "word": "restless",
-                "def": "坐立不安的"
-              }
-            ]
+            "zh": "完全沒錯。有時候一隻焦躁的狗，的確代表你很焦躁；但有時候它就只是需要走更久一點。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a helpful correction.",
-            "zh": "這個修正很有幫助。"
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good reflection is grounded reflection.",
-            "zh": "好的反思，會是很接地的反思。",
-            "vocab": [
-              {
-                "word": "grounded reflection",
-                "def": "反思"
-              }
-            ]
+            "zh": "好的反思，會是很接地的反思。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence I need in a lot of areas of life.",
-            "zh": "這句我在很多生活領域都需要。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
@@ -2113,13 +1821,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is serious, and also ordinary. Maybe that is why it lasts.",
-            "zh": "它真的很深，可是也很普通。也許這就是它會留下來的原因。",
-            "vocab": [
-              {
-                "word": "ordinary",
-                "def": "可是也很普通"
-              }
-            ]
+            "zh": "它真的很深，可是也很普通。也許這就是它會留下來的原因。"
           },
           {
             "speaker": "b",
@@ -2212,13 +1914,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what shared-world awareness looks like in practice. Another life enters your map of the neighborhood.",
-            "zh": "這就是所謂『共享世界意識』在日常裡的樣子。另一個生命開始被放進你對這個社區的地圖裡。",
-            "vocab": [
-              {
-                "word": "shared-world awareness",
-                "def": "所謂在日常裡的樣子"
-              }
-            ]
+            "zh": "這就是所謂『共享世界意識』在日常裡的樣子。另一個生命開始被放進你對這個社區的地圖裡。"
           },
           {
             "speaker": "b",
@@ -2242,13 +1938,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Gentleness often begins as slowed attention.",
-            "zh": "完全沒錯。溫柔很多時候就是從注意力慢下來開始的。",
-            "vocab": [
-              {
-                "word": "slowed attention",
-                "def": "願意顧到別的生命"
-              }
-            ]
+            "zh": "完全沒錯。溫柔很多時候就是從注意力慢下來開始的。"
           },
           {
             "speaker": "b",
@@ -2259,8 +1949,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a lovely way to put it.",
-            "zh": "這個說法真的很美。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           }
         ]
       },
@@ -2289,13 +1979,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A gentle life pays attention to unseen consequences.",
-            "zh": "完全沒錯。比較溫柔的生活，會去注意那些平常看不見的後果。",
-            "vocab": [
-              {
-                "word": "unseen consequences",
-                "def": "平常不一定馬上看見"
-              }
-            ]
+            "zh": "完全沒錯。比較溫柔的生活，會去注意那些平常看不見的後果。"
           },
           {
             "speaker": "b",
@@ -2348,31 +2032,19 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'Gentleness starts when convenience stops being the only value.'",
-            "zh": "另一句也很好用，就是「溫柔是從方便不再是唯一價值的時候開始的。」",
-            "vocab": [
-              {
-                "word": "convenience",
-                "def": "便利"
-              }
-            ]
+            "zh": "另一句也很好用，就是「溫柔是從方便不再是唯一價值的時候開始的。」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a useful sentence.",
-            "zh": "這句真的很好用。"
+            "en": "That resonates — the pattern really is there.",
+            "zh": "這說到點上——那個規律確實存在。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'I want my daily choices to leave less harm behind me.'",
-            "zh": "如果你想講得更簡單，也可以說：「I want my daily choices to leave less harm behind me.」",
-            "vocab": [
-              {
-                "word": "leave less harm",
-                "def": "少留下一點傷害"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I want my daily choices to leave less harm behind me.」"
           },
           {
             "speaker": "b",
@@ -2401,13 +2073,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Checking before driving, slowing down near nesting areas, securing trash, supporting rescue work, and learning which species share your neighborhood.",
-            "zh": "像是開車前先看一下、經過築巢區域時放慢、把垃圾確實收好、支持救援，還有知道有哪些物種和你住在同一個社區。",
-            "vocab": [
-              {
-                "word": "neighborhood",
-                "def": "社區；鄰近地區"
-              }
-            ]
+            "zh": "像是開車前先看一下、經過築巢區域時放慢、把垃圾確實收好、支持救援，還有知道有哪些物種和你住在同一個社區。"
           },
           {
             "speaker": "b",
@@ -2419,13 +2085,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A humane habit is often a tiny adjustment repeated consistently.",
-            "zh": "完全沒錯。一個有人味的習慣，很多時候就是一個很小的調整，但會一直重複。",
-            "vocab": [
-              {
-                "word": "humane habit",
-                "def": "長期重複的小習慣"
-              }
-            ]
+            "zh": "完全沒錯。一個有人味的習慣，很多時候就是一個很小的調整，但會一直重複。"
           },
           {
             "speaker": "b",
@@ -2478,13 +2138,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. A shared-world ethic teaches humility in ordinary motion.",
-            "zh": "我也這麼覺得。共享世界的倫理，會在很普通的移動和選擇裡慢慢教會人謙卑。",
-            "vocab": [
-              {
-                "word": "shared-world ethic",
-                "def": "共享世界的倫理"
-              }
-            ]
+            "zh": "我也這麼覺得。共享世界的倫理，會在很普通的移動和選擇裡慢慢教會人謙卑。"
           },
           {
             "speaker": "b",
@@ -2507,7 +2161,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like the lesson working already.",
+            "en": "It sounds like the lesson working already.",
             "zh": "這聽起來像是那堂課已經開始在作用了。"
           }
         ]

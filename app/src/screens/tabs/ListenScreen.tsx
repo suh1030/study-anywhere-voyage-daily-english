@@ -367,22 +367,12 @@ export default function ListenScreen() {
                         #{String(globalIndex + 1).padStart(2, '0')}
                       </Text>
                     </View>
-                    {/* Right col: text + zh + vocab */}
+                    {/* Right col: text + zh */}
                     <View style={styles.lineRight}>
                       <Text style={[styles.lineEn, isActive && styles.lineEnActive]}>
                         {line.en}
                       </Text>
                       {showChinese && <Text style={styles.lineZh}>{line.zh}</Text>}
-                      {line.vocab && line.vocab.length > 0 && (
-                        <View style={styles.vocabRow}>
-                          {line.vocab.map((v, vi) => (
-                            <View key={vi} style={styles.vocabTag}>
-                              <Text style={styles.vocabWord}>{v.word}</Text>
-                              <Text style={styles.vocabDef}>{v.def}</Text>
-                            </View>
-                          ))}
-                        </View>
-                      )}
                     </View>
                   </View>
                 </TouchableOpacity>
@@ -576,20 +566,6 @@ const styles = StyleSheet.create({
   lineEn: { fontSize: 15, lineHeight: 24, color: colors.text },
   lineEnActive: { color: colors.text },
   lineZh: { fontSize: 12, color: colors.muted, lineHeight: 20, marginTop: 4 },
-  vocabRow: { flexDirection: 'row', flexWrap: 'wrap', gap: 6, marginTop: 6 },
-  vocabTag: {
-    flexDirection: 'row',
-    alignItems: 'baseline',
-    gap: 4,
-    paddingHorizontal: 6,
-    paddingVertical: 2,
-    backgroundColor: colors.surface2,
-    borderWidth: 1,
-    borderColor: colors.border,
-    borderRadius: radius.sm,
-  },
-  vocabWord: { fontFamily: fonts.mono, fontSize: 10, color: colors.listen },
-  vocabDef: { fontSize: 10, color: colors.muted },
 
   keyPhrasesToggle: {
     paddingVertical: spacing.md,

@@ -22,13 +22,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what a real hobby can look like. It gives a person a recognizable shape outside work and obligation.",
-            "zh": "那就是一個真正的興趣會有的樣子。它會讓一個人在工作和責任之外，也有一個很清楚的輪廓。",
-            "vocab": [
-              {
-                "word": "real hobby",
-                "def": "有的樣子"
-              }
-            ]
+            "zh": "那就是一個真正的興趣會有的樣子。它會讓一個人在工作和責任之外，也有一個很清楚的輪廓。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A hobby often changes posture before it changes skill.",
-            "zh": "完全沒錯。一個興趣很多時候先改變的是姿態，然後才是技巧。",
-            "vocab": [
-              {
-                "word": "posture",
-                "def": "姿勢；坐姿站姿"
-              }
-            ]
+            "zh": "完全沒錯。一個興趣很多時候先改變的是姿態，然後才是技巧。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the hobby is often where their energy returns first.",
-            "zh": "因為那個興趣常常就是他能量最先回來的地方。",
-            "vocab": [
-              {
-                "word": "energy return",
-                "def": "精神和活力慢慢回來的感覺"
-              }
-            ]
+            "zh": "因為那個興趣常常就是他能量最先回來的地方。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. They add personal texture to a life that could otherwise become purely functional.",
-            "zh": "完全沒錯。它們會替一個原本可能只剩功能性的生活，加上一層很個人的質地。",
-            "vocab": [
-              {
-                "word": "personal texture",
-                "def": "而有屬於自己味道的細節感"
-              }
-            ]
+            "zh": "完全沒錯。它們會替一個原本可能只剩功能性的生活，加上一層很個人的質地。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because the hobby often protects a private part of the self that work cannot replace.",
-            "zh": "對，因為那個興趣常常守住的是一個很私人的自己，而工作沒有辦法取代那一塊。",
-            "vocab": [
-              {
-                "word": "protects a private",
-                "def": "而工作沒有辦法取代那一塊"
-              }
-            ]
+            "zh": "對，因為那個興趣常常守住的是一個很私人的自己，而工作沒有辦法取代那一塊。"
           },
           {
             "speaker": "b",
@@ -170,13 +140,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'I do it because it gives me a kind of focus that the rest of life often scatters.'",
-            "zh": "另一句也很好用：「I do it because it gives me a kind of focus that the rest of life often scatters.」",
-            "vocab": [
-              {
-                "word": "rest of life",
-                "def": "把人慢慢修復回來的專注感"
-              }
-            ]
+            "zh": "另一句也很好用：「I do it because it gives me a kind of focus that the rest of life often scatters.」"
           },
           {
             "speaker": "b",
@@ -188,13 +152,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It would. And if you want something simpler, say, 'It is one of the few things I do just because I love it.'",
-            "zh": "真的。若你想講得更簡單，也可以說：「It is one of the few things I do just because I love it.」",
-            "vocab": [
-              {
-                "word": "few things",
-                "def": "若你想講得更簡單"
-              }
-            ]
+            "zh": "真的。若你想講得更簡單，也可以說：「It is one of the few things I do just because I love it.」"
           },
           {
             "speaker": "b",
@@ -235,13 +193,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A hobby stays alive through repeatable contact, not occasional obsession.",
-            "zh": "完全沒錯。一個興趣能活下來，是靠可重複的接觸，不是靠偶爾的大爆發。",
-            "vocab": [
-              {
-                "word": "repeatable contact",
-                "def": "一個興趣能活下來"
-              }
-            ]
+            "zh": "完全沒錯。一個興趣能活下來，是靠可重複的接觸，不是靠偶爾的大爆發。"
           },
           {
             "speaker": "b",
@@ -253,13 +205,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Your hobby does not need to prove your worth. It only needs room to continue.",
-            "zh": "本來就應該這樣。你的興趣不需要證明你值不值得，它只需要一點能繼續下去的空間。",
-            "vocab": [
-              {
-                "word": "continue",
-                "def": "只是單純持續做的練習方式"
-              }
-            ]
+            "zh": "本來就應該這樣。你的興趣不需要證明你值不值得，它只需要一點能繼續下去的空間。"
           },
           {
             "speaker": "b",
@@ -300,13 +246,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Passion gives a person a fuller self to live from.",
-            "zh": "熱愛會讓一個人多出一個比較完整的自己可以站在上面生活。",
-            "vocab": [
-              {
-                "word": "fuller self",
-                "def": "不只剩工作角色"
-              }
-            ]
+            "zh": "熱愛會讓一個人多出一個比較完整的自己可以站在上面生活。"
           },
           {
             "speaker": "b",
@@ -318,13 +258,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The things we love often become the places where we practice being fully alive.",
-            "zh": "完全沒錯。我們真正喜歡的東西，常常就是我們練習怎麼好好活著的地方。",
-            "vocab": [
-              {
-                "word": "fully",
-                "def": "完整地；充分地"
-              }
-            ]
+            "zh": "完全沒錯。我們真正喜歡的東西，常常就是我們練習怎麼好好活著的地方。"
           },
           {
             "speaker": "b",
@@ -405,13 +339,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often the point of collecting. The objects are small, but the memory structure around them is huge.",
-            "zh": "收藏常常就是這樣。東西本身很小，可是它周圍撐起來的記憶結構其實很大。",
-            "vocab": [
-              {
-                "word": "memory structure",
-                "def": "東西本身很小"
-              }
-            ]
+            "zh": "收藏常常就是這樣。東西本身很小，可是它周圍撐起來的記憶結構其實很大。"
           },
           {
             "speaker": "b",
@@ -423,13 +351,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Collections often hold continuity for people.",
-            "zh": "完全沒錯。收藏很多時候是在替一個人保存連續感。",
-            "vocab": [
-              {
-                "word": "continuity",
-                "def": "延續；連貫性"
-              }
-            ]
+            "zh": "完全沒錯。收藏很多時候是在替一個人保存連續感。"
           },
           {
             "speaker": "b",
@@ -470,13 +392,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly because completion gives emotional satisfaction. It creates order in a world that often feels unfinished.",
-            "zh": "一部分是因為完整會帶來情緒上的滿足。它會替一個本來常常顯得沒做完的世界，先創造出一塊有秩序的地方。",
-            "vocab": [
-              {
-                "word": "emotional satisfaction",
-                "def": "帶來情緒上的滿足"
-              }
-            ]
+            "zh": "一部分是因為完整會帶來情緒上的滿足。它會替一個本來常常顯得沒做完的世界，先創造出一塊有秩序的地方。"
           },
           {
             "speaker": "b",
@@ -488,13 +404,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A collection lets people rehearse control, taste, and memory at the same time.",
-            "zh": "完全沒錯。收藏會讓人同時在練習掌控感、品味，還有記憶。",
-            "vocab": [
-              {
-                "word": "collection",
-                "def": "積累；集合"
-              }
-            ]
+            "zh": "完全沒錯。收藏會讓人同時在練習掌控感、品味，還有記憶。"
           },
           {
             "speaker": "b",
@@ -506,13 +416,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Collecting is often part searching, part caring, and part storytelling.",
-            "zh": "對。收藏很多時候本來就是一部分在找、一部分在照顧，還有一部分在說故事。",
-            "vocab": [
-              {
-                "word": "part storytelling",
-                "def": "還有一部分在說故事"
-              }
-            ]
+            "zh": "對。收藏很多時候本來就是一部分在找、一部分在照顧，還有一部分在說故事。"
           },
           {
             "speaker": "b",
@@ -553,13 +457,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'It is less about owning things and more about keeping a personal history visible.'",
-            "zh": "另一句也很好用：「It is less about owning things and more about keeping a personal history visible.」",
-            "vocab": [
-              {
-                "word": "visible",
-                "def": "這是個容易掉進去的陷阱"
-              }
-            ]
+            "zh": "另一句也很好用：「It is less about owning things and more about keeping a personal history visible.」"
           },
           {
             "speaker": "b",
@@ -571,13 +469,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shorter version would be, 'Each piece reminds me of a different time in my life.'",
-            "zh": "如果你想講得更簡單，也可以說：「Each piece reminds me of a different time in my life.」",
-            "vocab": [
-              {
-                "word": "piece reminds",
-                "def": "不是隨便堆放"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「Each piece reminds me of a different time in my life.」"
           },
           {
             "speaker": "b",
@@ -618,13 +510,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When joy gets replaced by urgency, comparison, or spending that no longer feels free.",
-            "zh": "像是快樂被焦慮、比較，或已經不自由的花費取代的時候。",
-            "vocab": [
-              {
-                "word": "urgency",
-                "def": "急迫感；很想立刻做成的壓力"
-              }
-            ]
+            "zh": "像是快樂被焦慮、比較，或已經不自由的花費取代的時候。"
           },
           {
             "speaker": "b",
@@ -636,13 +522,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good collecting still leaves room for delight.",
-            "zh": "完全沒錯。好的收藏，到最後還是要留得下喜悅。",
-            "vocab": [
-              {
-                "word": "leaves",
-                "def": "收藏"
-              }
-            ]
+            "zh": "完全沒錯。好的收藏，到最後還是要留得下喜悅。"
           },
           {
             "speaker": "b",
@@ -683,13 +563,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Collecting at its best is a way of saying, 'This mattered enough for me to keep it close.'",
-            "zh": "收藏在最好的時候，其實是在說一句話：『這件事對我夠重要，所以我想把它留近一點。』",
-            "vocab": [
-              {
-                "word": "keep it close",
-                "def": "收藏在最好的時候"
-              }
-            ]
+            "zh": "收藏在最好的時候，其實是在說一句話：『這件事對我夠重要，所以我想把它留近一點。』"
           },
           {
             "speaker": "b",
@@ -701,13 +575,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is. Collections can be surprisingly gentle forms of memory care.",
-            "zh": "它很多時候本來就很柔軟。收藏其實常常是一種很溫和的記憶照顧。",
-            "vocab": [
-              {
-                "word": "memory care",
-                "def": "收藏其實常常是一種很溫和的記憶照顧"
-              }
-            ]
+            "zh": "它很多時候本來就很柔軟。收藏其實常常是一種很溫和的記憶照顧。"
           },
           {
             "speaker": "b",
@@ -718,7 +586,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like a good start.",
+            "en": "It sounds like a good start.",
             "zh": "這聽起來就是一個很好的開始。"
           }
         ]
@@ -788,13 +656,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a little rebellious. A hobby says your time does not belong entirely to productivity.",
-            "zh": "它確實有一點反叛。興趣其實是在說：你的時間不需要百分之百都屬於生產力。",
-            "vocab": [
-              {
-                "word": "little rebellious",
-                "def": "它確實有一點反叛"
-              }
-            ]
+            "zh": "它確實有一點反叛。興趣其實是在說：你的時間不需要百分之百都屬於生產力。"
           },
           {
             "speaker": "b",
@@ -806,13 +668,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they are often returning to a part of themselves that was pushed aside, not lost.",
-            "zh": "因為很多時候，他們回去的不是一個消失的東西，而是一塊被擠到旁邊的自己。",
-            "vocab": [
-              {
-                "word": "themselves",
-                "def": "很多時候"
-              }
-            ]
+            "zh": "因為很多時候，他們回去的不是一個消失的東西，而是一塊被擠到旁邊的自己。"
           },
           {
             "speaker": "b",
@@ -824,13 +680,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For many adults, it really is a form of recovery.",
-            "zh": "對很多大人來說，它真的就是一種恢復方式。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "對很多大人來說，它真的就是一種恢復方式。"
           },
           {
             "speaker": "b",
@@ -859,13 +709,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because hustle culture teaches people to justify themselves through output. Rest and play begin to look suspicious.",
-            "zh": "因為 hustle culture 會教人用產出來替自己辯護。於是休息和玩心就開始看起來很可疑。",
-            "vocab": [
-              {
-                "word": "play",
-                "def": "不是拿來賺什麼，而是單純投入和享受"
-              }
-            ]
+            "zh": "因為 hustle culture 會教人用產出來替自己辯護。於是休息和玩心就開始看起來很可疑。"
           },
           {
             "speaker": "b",
@@ -877,13 +721,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why unmonetized joy can feel strangely radical.",
-            "zh": "完全沒錯。也因此，不被拿去變現的快樂有時候會顯得特別激進。",
-            "vocab": [
-              {
-                "word": "unmonetized",
-                "def": "也因此"
-              }
-            ]
+            "zh": "完全沒錯。也因此，不被拿去變現的快樂有時候會顯得特別激進。"
           },
           {
             "speaker": "b",
@@ -923,8 +761,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I do it because it gives me a kind of satisfaction that does not depend on achievement.'",
-            "zh": "你可以說：「I do it because it gives me a kind of satisfaction that does not depend on achievement.」"
+            "en": "A phrase that works well here is, 'I do it because it gives me a kind of satisfaction that does not depend on achievement.'",
+            "zh": "這裡很自然的說法是：「I do it because it gives me a kind of satisfaction that does not depend on achievement.」"
           },
           {
             "speaker": "b",
@@ -936,13 +774,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'It reminds me that not everything valuable has to be efficient.'",
-            "zh": "另一句也很好用：「It reminds me that not everything valuable has to be efficient.」",
-            "vocab": [
-              {
-                "word": "valuable",
-                "def": "不是為了表現給別人看"
-              }
-            ]
+            "zh": "另一句也很好用：「It reminds me that not everything valuable has to be efficient.」"
           },
           {
             "speaker": "b",
@@ -953,14 +785,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to keep it simple, 'It helps me feel like a person again, not just a machine.' works well.",
-            "zh": "如果你想講得更簡單，也可以說：「It helps me feel like a person again, not just a machine.」",
-            "vocab": [
-              {
-                "word": "machine",
-                "def": "不是立刻爽快"
-              }
-            ]
+            "en": "When you need to keep it simple, 'It helps me feel like a person again, not just a machine.' works well.",
+            "zh": "如果你想講得更簡單，也可以說：「It helps me feel like a person again, not just a machine.」"
           },
           {
             "speaker": "b",
@@ -977,7 +803,7 @@ export const WEEK_32: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Making Space for It Again",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1001,31 +827,19 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You are not rebuilding a brand. You are rebuilding a relationship.",
-            "zh": "完全沒錯。你不是在重建一個品牌，而是在重建一段關係。",
-            "vocab": [
-              {
-                "word": "relationship",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。你不是在重建一個品牌，而是在重建一段關係。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a surprisingly powerful distinction.",
-            "zh": "這個差別意外地很有力量。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters a lot. When people stop performing the hobby, they can finally return to enjoying it.",
-            "zh": "這個差別非常重要。當人不再『演』那個興趣時，才真的有機會重新享受它。",
-            "vocab": [
-              {
-                "word": "finally return",
-                "def": "重新享受它"
-              }
-            ]
+            "zh": "這個差別非常重要。當人不再『演』那個興趣時，才真的有機會重新享受它。"
           },
           {
             "speaker": "b",
@@ -1038,12 +852,7 @@ export const WEEK_32: Episode[] = [
             "speakerName": "Mira",
             "en": "In this area, it often is.",
             "zh": "在這件事上，很多時候真的就是。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What a Hobby Protects",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1066,13 +875,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe it is. Refusing to turn every joy into labor can be a very sane choice.",
-            "zh": "也許真的是。拒絕把每一種快樂都變成勞動，本身就可能是一個很清醒的選擇。",
-            "vocab": [
-              {
-                "word": "sane choice",
-                "def": "拒絕把每一種快樂都變成勞動"
-              }
-            ]
+            "zh": "也許真的是。拒絕把每一種快樂都變成勞動，本身就可能是一個很清醒的選擇。"
           },
           {
             "speaker": "b",
@@ -1084,13 +887,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then remember this too: a hobby does not distract you from life. Sometimes it returns you to it.",
-            "zh": "那也把這句記住：興趣不一定是在讓你逃離生活，有時候它其實是在把你送回生活。",
-            "vocab": [
-              {
-                "word": "Sometimes it returns",
-                "def": "做完喜歡的事之後"
-              }
-            ]
+            "zh": "那也把這句記住：興趣不一定是在讓你逃離生活，有時候它其實是在把你送回生活。"
           },
           {
             "speaker": "b",
@@ -1171,13 +968,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how many good hobbies begin: with visible imperfection and enough affection to continue anyway.",
-            "zh": "很多好興趣的開始就是這樣：缺點很明顯，但你對它還是有足夠的喜歡，願意繼續下去。",
-            "vocab": [
-              {
-                "word": "hobbies begin",
-                "def": "願意繼續下去"
-              }
-            ]
+            "zh": "很多好興趣的開始就是這樣：缺點很明顯，但你對它還是有足夠的喜歡，願意繼續下去。"
           },
           {
             "speaker": "b",
@@ -1189,13 +980,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is one reason hobbies are so educational for adults.",
-            "zh": "完全沒錯。這也是為什麼，興趣對大人來說其實很有教育性。",
-            "vocab": [
-              {
-                "word": "reason hobbies",
-                "def": "這也是為什麼"
-              }
-            ]
+            "zh": "完全沒錯。這也是為什麼，興趣對大人來說其實很有教育性。"
           },
           {
             "speaker": "b",
@@ -1207,13 +992,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually, yes. Adults are often more attached to appearing capable.",
-            "zh": "通常真的比較怕。大人往往更黏著『我看起來要很會』這件事。",
-            "vocab": [
-              {
-                "word": "capable",
-                "def": "大人往往更黏著這件事"
-              }
-            ]
+            "zh": "通常真的比較怕。大人往往更黏著『我看起來要很會』這件事。"
           },
           {
             "speaker": "b",
@@ -1242,13 +1021,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It changes your relationship to time. You stop asking how fast you can win and start asking how well you can stay with the process.",
-            "zh": "它會改變你和時間的關係。你不再一直問自己『多快可以贏』，而開始問『我能不能好好待在這個過程裡』。",
-            "vocab": [
-              {
-                "word": "process",
-                "def": "消化；處理（情緒）"
-              }
-            ]
+            "zh": "它會改變你和時間的關係。你不再一直問自己『多快可以贏』，而開始問『我能不能好好待在這個過程裡』。"
           },
           {
             "speaker": "b",
@@ -1260,13 +1033,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Slow learning teaches people that repetition is not failure. It is structure.",
-            "zh": "本來就是。慢學會教人一件事：重複不等於失敗，重複其實就是結構。",
-            "vocab": [
-              {
-                "word": "failure",
-                "def": "結構"
-              }
-            ]
+            "zh": "本來就是。慢學會教人一件事：重複不等於失敗，重複其實就是結構。"
           },
           {
             "speaker": "b",
@@ -1278,13 +1045,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Definitely. That is why people need ways to notice small gains before discouragement takes over.",
-            "zh": "真的很難。所以人需要一些方法，在灰心接管之前先注意到那些小進步。",
-            "vocab": [
-              {
-                "word": "before discouragement",
-                "def": "人需要一些方法"
-              }
-            ]
+            "zh": "真的很難。所以人需要一些方法，在灰心接管之前先注意到那些小進步。"
           },
           {
             "speaker": "b",
@@ -1325,13 +1086,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'The progress is small, but it is real enough to keep me going.'",
-            "zh": "另一句也很好用：「The progress is small, but it is real enough to keep me going.」",
-            "vocab": [
-              {
-                "word": "real enough",
-                "def": "它慢慢熟成的耐心"
-              }
-            ]
+            "zh": "另一句也很好用：「The progress is small, but it is real enough to keep me going.」"
           },
           {
             "speaker": "b",
@@ -1343,13 +1098,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An easier everyday line would be, 'I am not good yet, but I am more comfortable than I was last month.'",
-            "zh": "如果你想講得更簡單，也可以說：「I am not good yet, but I am more comfortable than I was last month.」",
-            "vocab": [
-              {
-                "word": "easier everyday",
-                "def": "更日常的說法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am not good yet, but I am more comfortable than I was last month.」"
           },
           {
             "speaker": "b",
@@ -1390,13 +1139,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Most people quit not because they cannot learn, but because they misread the stage they are in.",
-            "zh": "完全沒錯。大多數人放棄，不是真的學不會，而是把自己所在的階段讀錯了。",
-            "vocab": [
-              {
-                "word": "misread the stage",
-                "def": "大多數人放棄"
-              }
-            ]
+            "zh": "完全沒錯。大多數人放棄，不是真的學不會，而是把自己所在的階段讀錯了。"
           },
           {
             "speaker": "b",
@@ -1408,13 +1151,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is also realistic. Learning gets easier when people stop moralizing every rough patch.",
-            "zh": "而且也很現實。當人不再把每一個卡關都道德化，學習其實會變容易。",
-            "vocab": [
-              {
-                "word": "patch",
-                "def": "一段時期；困難時期"
-              }
-            ]
+            "zh": "而且也很現實。當人不再把每一個卡關都道德化，學習其實會變容易。"
           },
           {
             "speaker": "b",
@@ -1455,13 +1192,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A slow hobby proves that change can happen without spectacle.",
-            "zh": "一個慢慢長出來的興趣會證明一件事：改變不一定要很戲劇化才算數。",
-            "vocab": [
-              {
-                "word": "happen without",
-                "def": "不是高調厲害"
-              }
-            ]
+            "zh": "一個慢慢長出來的興趣會證明一件事：改變不一定要很戲劇化才算數。"
           },
           {
             "speaker": "b",
@@ -1473,13 +1204,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. Slow learning returns dignity to the process, not just the outcome.",
-            "zh": "我也這麼覺得。慢慢學會的價值，在於它把尊嚴還給了過程，不只還給結果。",
-            "vocab": [
-              {
-                "word": "process",
-                "def": "消化；處理（情緒）"
-              }
-            ]
+            "zh": "我也這麼覺得。慢慢學會的價值，在於它把尊嚴還給了過程，不只還給結果。"
           },
           {
             "speaker": "b",
@@ -1490,7 +1215,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like the lesson already working.",
+            "en": "It sounds like the lesson already working.",
             "zh": "這聽起來像是那堂課已經開始在作用了。"
           }
         ]
@@ -1560,13 +1285,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they probably were. Niche interests can create immediate ease between people.",
-            "zh": "因為他們大概真的比較快樂。小眾興趣很會在陌生人之間快速創造一種放鬆感。",
-            "vocab": [
-              {
-                "word": "niche interest",
-                "def": "不是每個人都懂"
-              }
-            ]
+            "zh": "因為他們大概真的比較快樂。小眾興趣很會在陌生人之間快速創造一種放鬆感。"
           },
           {
             "speaker": "b",
@@ -1578,13 +1297,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Specificity lowers performance sometimes. People stop trying to impress and start trying to connect.",
-            "zh": "完全沒錯。有時候越具體，表演感反而越低。人不再一直想 impress，而是開始真的想連上。",
-            "vocab": [
-              {
-                "word": "performance",
-                "def": "表現；效能"
-              }
-            ]
+            "zh": "完全沒錯。有時候越具體，表演感反而越低。人不再一直想 impress，而是開始真的想連上。"
           },
           {
             "speaker": "b",
@@ -1596,13 +1309,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Warm and relieving. People feel less generic around people who understand their strange specifics.",
-            "zh": "不只溫暖，還很讓人鬆。當身邊有人懂你那些奇怪但具體的喜歡時，人會比較不那麼扁平。",
-            "vocab": [
-              {
-                "word": "generic around",
-                "def": "讓人立刻知道的那種小訊號"
-              }
-            ]
+            "zh": "不只溫暖，還很讓人鬆。當身邊有人懂你那些奇怪但具體的喜歡時，人會比較不那麼扁平。"
           },
           {
             "speaker": "b",
@@ -1643,13 +1350,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Shared enthusiasm makes intimacy easier to approach sideways.",
-            "zh": "完全沒錯。共同的熱情，會讓親近感比較容易從側邊靠近，而不是硬撞上去。",
-            "vocab": [
-              {
-                "word": "shared enthusiasm",
-                "def": "共同的熱情"
-              }
-            ]
+            "zh": "完全沒錯。共同的熱情，會讓親近感比較容易從側邊靠近，而不是硬撞上去。"
           },
           {
             "speaker": "b",
@@ -1661,13 +1362,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Hobby friendships often grow from repeated low-stakes contact.",
-            "zh": "本來就是。興趣交到的朋友，常常是從一次又一次低壓力的接觸裡長出來的。",
-            "vocab": [
-              {
-                "word": "low-stakes",
-                "def": "低風險的；沒有壓力的"
-              }
-            ]
+            "zh": "本來就是。興趣交到的朋友，常常是從一次又一次低壓力的接觸裡長出來的。"
           },
           {
             "speaker": "b",
@@ -1695,8 +1390,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I did not realize how much I wanted that kind of conversation until I found people who spoke the same language around the hobby.'",
-            "zh": "你可以說：「I did not realize how much I wanted that kind of conversation until I found people who spoke the same language around the hobby.」"
+            "en": "One natural option is, 'I did not realize how much I wanted that kind of conversation until I found people who spoke the same language around the hobby.'",
+            "zh": "這裡很自然的說法是：「I did not realize how much I wanted that kind of conversation until I found people who spoke the same language around the hobby.」"
           },
           {
             "speaker": "b",
@@ -1708,13 +1403,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'It felt good to be around people who got excited about the same specific things I did.'",
-            "zh": "另一句也很好用：「It felt good to be around people who got excited about the same specific things I did.」",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "相對於；取決於"
-              }
-            ]
+            "zh": "另一句也很好用：「It felt good to be around people who got excited about the same specific things I did.」"
           },
           {
             "speaker": "b",
@@ -1725,14 +1414,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something shorter, try, 'I finally found my kind of people.'",
-            "zh": "如果你想講得再短一點，也可以說：「I finally found my kind of people.」",
-            "vocab": [
-              {
-                "word": "finally found",
-                "def": "由同樣熱愛某個興趣的人形成的小型社群"
-              }
-            ]
+            "en": "When you need something shorter, try, 'I finally found my kind of people.'",
+            "zh": "如果你想講得再短一點，也可以說：「I finally found my kind of people.」"
           },
           {
             "speaker": "b",
@@ -1749,7 +1432,7 @@ export const WEEK_32: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Staying Open Without Being Obsessed",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -1773,13 +1456,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The best niche spaces stay generous about different entry points and different levels of knowledge.",
-            "zh": "完全沒錯。最好的小圈圈，會對不同的進入方式和不同程度的知識都很大方。",
-            "vocab": [
-              {
-                "word": "entry point",
-                "def": "入口；起點"
-              }
-            ]
+            "zh": "完全沒錯。最好的小圈圈，會對不同的進入方式和不同程度的知識都很大方。"
           },
           {
             "speaker": "b",
@@ -1791,13 +1468,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A hobby should make people more available to connection, not less.",
-            "zh": "對。興趣應該讓人更能和別人連上，不是更封閉。",
-            "vocab": [
-              {
-                "word": "connection",
-                "def": "不是更封閉"
-              }
-            ]
+            "zh": "對。興趣應該讓人更能和別人連上，不是更封閉。"
           },
           {
             "speaker": "b",
@@ -1810,12 +1481,7 @@ export const WEEK_32: Episode[] = [
             "speakerName": "Mira",
             "en": "It keeps enthusiasm from turning brittle.",
             "zh": "它會避免熱情最後變得又硬又脆。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Social Gift of a Weird Hobby",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1838,13 +1504,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shared hobby lets people begin with delight, which is often a much better foundation than performance.",
-            "zh": "一個共同興趣會讓人從喜悅開始，而那通常比從表現開始更適合拿來打底。",
-            "vocab": [
-              {
-                "word": "foundation",
-                "def": "基礎；根基"
-              }
-            ]
+            "zh": "一個共同興趣會讓人從喜悅開始，而那通常比從表現開始更適合拿來打底。"
           },
           {
             "speaker": "b",
@@ -1856,13 +1516,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. They may be showing you where your people are.",
-            "zh": "很好。它們很可能正在告訴你，你的人會在哪裡。",
-            "vocab": [
-              {
-                "word": "showing",
-                "def": "透過某種興趣或價值"
-              }
-            ]
+            "zh": "很好。它們很可能正在告訴你，你的人會在哪裡。"
           },
           {
             "speaker": "b",
@@ -1943,13 +1597,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That sounds lovely. A private practice can be beautiful precisely because it does not need an audience.",
-            "zh": "這聽起來很可愛。那種私人的練習之所以美，很多時候就是因為它根本不需要觀眾。",
-            "vocab": [
-              {
-                "word": "private practice",
-                "def": "主要是為了自己"
-              }
-            ]
+            "zh": "這聽起來很可愛。那種私人的練習之所以美，很多時候就是因為它根本不需要觀眾。"
           },
           {
             "speaker": "b",
@@ -1961,13 +1609,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Many people have lost the habit of letting pleasure stay unannounced.",
-            "zh": "對。很多人已經有點失去一個習慣了，就是讓快樂安安靜靜地存在，不急著宣告它。",
-            "vocab": [
-              {
-                "word": "pleasure stay unannounced",
-                "def": "讓快樂安安靜靜地存在"
-              }
-            ]
+            "zh": "對。很多人已經有點失去一個習慣了，就是讓快樂安安靜靜地存在，不急著宣告它。"
           },
           {
             "speaker": "b",
@@ -1979,13 +1621,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they were not performing for anyone. They were allowed to just exist.",
-            "zh": "因為它們不是在替任何人表演，它們被允許只是存在。",
-            "vocab": [
-              {
-                "word": "exist",
-                "def": "想著誰在看、誰會評價的狀態"
-              }
-            ]
+            "zh": "因為它們不是在替任何人表演，它們被允許只是存在。"
           },
           {
             "speaker": "b",
@@ -2014,13 +1650,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because attention stays with the experience instead of splitting toward imagined reactions.",
-            "zh": "因為那樣一來，注意力會留在體驗本身，不會一直被想像中的他人反應分走。",
-            "vocab": [
-              {
-                "word": "toward",
-                "def": "那樣一來"
-              }
-            ]
+            "zh": "因為那樣一來，注意力會留在體驗本身，不會一直被想像中的他人反應分走。"
           },
           {
             "speaker": "b",
@@ -2032,13 +1662,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It can also protect honesty. People often notice what they truly like when nobody is watching.",
-            "zh": "完全沒錯。它也會保護誠實。很多人其實都是在沒人看的時候，才比較容易注意到自己真正喜歡什麼。",
-            "vocab": [
-              {
-                "word": "protect",
-                "def": "保護誠實"
-              }
-            ]
+            "zh": "完全沒錯。它也會保護誠實。很多人其實都是在沒人看的時候，才比較容易注意到自己真正喜歡什麼。"
           },
           {
             "speaker": "b",
@@ -2050,13 +1674,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, which is why private hobbies can feel almost medicinal.",
-            "zh": "對，也因此，那種私人的興趣有時候幾乎像藥一樣。",
-            "vocab": [
-              {
-                "word": "almost medicinal",
-                "def": "也因此"
-              }
-            ]
+            "zh": "對，也因此，那種私人的興趣有時候幾乎像藥一樣。"
           },
           {
             "speaker": "b",
@@ -2097,13 +1715,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'It is one of the few things I do with no pressure to turn it into anything else.'",
-            "zh": "另一句也很好用：「It is one of the few things I do with no pressure to turn it into anything else.」",
-            "vocab": [
-              {
-                "word": "pressure",
-                "def": "低估；說得不夠有力"
-              }
-            ]
+            "zh": "另一句也很好用：「It is one of the few things I do with no pressure to turn it into anything else.」"
           },
           {
             "speaker": "b",
@@ -2115,13 +1727,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "'It is how I spend time with myself in a way that feels kind.' works well when you want something softer.",
-            "zh": "如果你想講得柔一點，也可以說：「It is how I spend time with myself in a way that feels kind.」",
-            "vocab": [
-              {
-                "word": "softer",
-                "def": "不是監督自己"
-              }
-            ]
+            "zh": "如果你想講得柔一點，也可以說：「It is how I spend time with myself in a way that feels kind.」"
           },
           {
             "speaker": "b",
@@ -2162,13 +1768,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Healthy privacy keeps the activity from being hijacked by outside expectations.",
-            "zh": "完全沒錯。健康的隱私會避免一個活動被外面的期待整個接管。",
-            "vocab": [
-              {
-                "word": "Healthy privacy",
-                "def": "避免一個活動被外面的期待整個接管"
-              }
-            ]
+            "zh": "完全沒錯。健康的隱私會避免一個活動被外面的期待整個接管。"
           },
           {
             "speaker": "b",
@@ -2180,13 +1780,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It really is. Not everything grows better in public.",
-            "zh": "真的非常重要。不是每件事都適合在公開裡長大。",
-            "vocab": [
-              {
-                "word": "grows better",
-                "def": "不是每件事都適合在公開裡長大"
-              }
-            ]
+            "zh": "真的非常重要。不是每件事都適合在公開裡長大。"
           },
           {
             "speaker": "b",
@@ -2227,13 +1821,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A private hobby can become one of the places where your life stops being observed and starts being lived.",
-            "zh": "一個私人的興趣，最後可能會變成你生活裡少數幾個地方之一：它不是被觀察，而是真的被活出來。",
-            "vocab": [
-              {
-                "word": "lived",
-                "def": "一個私人的興趣"
-              }
-            ]
+            "zh": "一個私人的興趣，最後可能會變成你生活裡少數幾個地方之一：它不是被觀察，而是真的被活出來。"
           },
           {
             "speaker": "b",
@@ -2245,13 +1833,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. We all need at least one corner of life that does not ask us to explain ourselves.",
-            "zh": "我也這麼覺得。我們都需要至少一個生活角落，不會一直逼我們替自己解釋。",
-            "vocab": [
-              {
-                "word": "explain ourselves",
-                "def": "不用宣告主權"
-              }
-            ]
+            "zh": "我也這麼覺得。我們都需要至少一個生活角落，不會一直逼我們替自己解釋。"
           },
           {
             "speaker": "b",
@@ -2332,13 +1914,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because passion keeps part of life outside pure utility.",
-            "zh": "因為熱情會替人生留下一塊不完全被功利佔滿的地方。",
-            "vocab": [
-              {
-                "word": "passion keeps",
-                "def": "不是因為必須"
-              }
-            ]
+            "zh": "因為熱情會替人生留下一塊不完全被功利佔滿的地方。"
           },
           {
             "speaker": "b",
@@ -2350,13 +1926,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. It is one of the ways adults protect aliveness.",
-            "zh": "完全不是。那其實是大人保護自己活性的一種方式。",
-            "vocab": [
-              {
-                "word": "adults protect",
-                "def": "那其實是大人保護自己活性的一種方式"
-              }
-            ]
+            "zh": "完全不是。那其實是大人保護自己活性的一種方式。"
           },
           {
             "speaker": "b",
@@ -2368,13 +1938,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A life made only of efficiency becomes emotionally thin very quickly.",
-            "zh": "一個只剩效率的生活，很快就會在情感上變得很薄。",
-            "vocab": [
-              {
-                "word": "becomes emotionally",
-                "def": "很薄"
-              }
-            ]
+            "zh": "一個只剩效率的生活，很快就會在情感上變得很薄。"
           },
           {
             "speaker": "b",
@@ -2403,13 +1967,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can relieve stress, but it also gives identity beyond work. That is the deeper part.",
-            "zh": "它當然可以舒壓，但它也會給一個人工作之外的身份感。那才是更深的部分。",
-            "vocab": [
-              {
-                "word": "identity beyond work",
-                "def": "不只靠工作來定義自己"
-              }
-            ]
+            "zh": "它當然可以舒壓，但它也會給一個人工作之外的身份感。那才是更深的部分。"
           },
           {
             "speaker": "b",
@@ -2421,13 +1979,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It gives people continuity across changing jobs, ages, and circumstances.",
-            "zh": "完全沒錯。它會讓人即使換工作、變老、處境改變，也還有一條可以延續的線。",
-            "vocab": [
-              {
-                "word": "continuity",
-                "def": "延續；連貫性"
-              }
-            ]
+            "zh": "完全沒錯。它會讓人即使換工作、變老、處境改變，也還有一條可以延續的線。"
           },
           {
             "speaker": "b",
@@ -2439,13 +1991,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because they are not only activities. They become ways of being.",
-            "zh": "對，因為它們最後不只是活動，而會慢慢變成一種存在方式。",
-            "vocab": [
-              {
-                "word": "become",
-                "def": "把人生不同階段串起來的那一條身份線索"
-              }
-            ]
+            "zh": "對，因為它們最後不只是活動，而會慢慢變成一種存在方式。"
           },
           {
             "speaker": "b",
@@ -2486,13 +2032,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural option is, 'It reminds me that I am more than my obligations.'",
-            "zh": "另一句也很好用：「It reminds me that I am more than my obligations.」",
-            "vocab": [
-              {
-                "word": "reminds",
-                "def": "不是被推著走"
-              }
-            ]
+            "zh": "另一句也很好用：「It reminds me that I am more than my obligations.」"
           },
           {
             "speaker": "b",
@@ -2504,13 +2044,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'It keeps me in touch with a part of myself I do not want to lose.'",
-            "zh": "如果你想講得柔一點，也可以說：「It keeps me in touch with a part of myself I do not want to lose.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得柔一點，也可以說：「It keeps me in touch with a part of myself I do not want to lose.」"
           },
           {
             "speaker": "b",
@@ -2551,13 +2085,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Passion survives when people protect it from both cynicism and neglect.",
-            "zh": "完全沒錯。熱情要活下來，常常得同時避開犬儒和忽視。",
-            "vocab": [
-              {
-                "word": "protect",
-                "def": "熱情要活下來"
-              }
-            ]
+            "zh": "完全沒錯。熱情要活下來，常常得同時避開犬儒和忽視。"
           },
           {
             "speaker": "b",
@@ -2569,19 +2097,13 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Passion matures best when it becomes sustainable.",
-            "zh": "對。熱情最好的成熟方式，就是讓它變得可持續。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "可持續的；能長期維持的"
-              }
-            ]
+            "zh": "對。熱情最好的成熟方式，就是讓它變得可持續。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a wise correction.",
-            "zh": "這真的是一個很有智慧的修正。"
+            "en": "That maps well onto the actual experience.",
+            "zh": "這很貼合真實的感受。"
           },
           {
             "speaker": "a",
@@ -2616,13 +2138,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think adulthood becomes healthier when it leaves room for obsession, wonder, and care.",
-            "zh": "我覺得成年生活如果替著迷、驚喜和在意留下一點空間，會健康很多。",
-            "vocab": [
-              {
-                "word": "adulthood becomes healthier",
-                "def": "健康很多"
-              }
-            ]
+            "zh": "我覺得成年生活如果替著迷、驚喜和在意留下一點空間，會健康很多。"
           },
           {
             "speaker": "b",
@@ -2634,13 +2150,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. The things you love may be helping you become someone deeper, not just someone busier.",
-            "zh": "很好。你真正喜歡的那些事，也許正在幫你變成一個更深的人，不只是一個更忙的人。",
-            "vocab": [
-              {
-                "word": "someone busier",
-                "def": "不只是一個更忙的人"
-              }
-            ]
+            "zh": "很好。你真正喜歡的那些事，也許正在幫你變成一個更深的人，不只是一個更忙的人。"
           },
           {
             "speaker": "b",
@@ -2651,7 +2161,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like a strong place to leave it for now.",
+            "en": "It feels like a strong place to leave it for now.",
             "zh": "停在這裡剛剛好。"
           }
         ]

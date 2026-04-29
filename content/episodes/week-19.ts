@@ -22,13 +22,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A job title usually works inside the company, but outside it can sound empty.",
-            "zh": "職稱在公司裡通常有用，可是到了公司外面，常常會聽起來很空。",
-            "vocab": [
-              {
-                "word": "job title",
-                "def": "職稱"
-              }
-            ]
+            "zh": "職稱在公司裡通常有用，可是到了公司外面，常常會聽起來很空。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a much better question because it forces you to speak in plain English.",
-            "zh": "那其實是個更好的問題，因為它會逼你用白話講。",
-            "vocab": [
-              {
-                "word": "in plain English",
-                "def": "用白話、一般人聽得懂的方式"
-              }
-            ]
+            "zh": "那其實是個更好的問題，因為它會逼你用白話講。"
           },
           {
             "speaker": "b",
@@ -58,17 +46,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "So you probably keep things moving behind the scenes more than you realize.",
-            "zh": "所以你大概比自己以為的更常在幕後把事情推著往前走。",
-            "vocab": [
-              {
-                "word": "keep things moving",
-                "def": "讓事情持續推進"
-              },
-              {
-                "word": "behind the scenes",
-                "def": "在幕後；不在最前面被看見"
-              }
-            ]
+            "zh": "所以你大概比自己以為的更常在幕後把事情推著往前走。"
           },
           {
             "speaker": "b",
@@ -80,13 +58,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good job explanations usually start with what would break first if you disappeared for a week.",
-            "zh": "好的工作說明，通常是從「如果你消失一週，最先亂掉的是什麼」開始講。",
-            "vocab": [
-              {
-                "word": "explanations usually",
-                "def": "我實際上到底在做什麼"
-              }
-            ]
+            "zh": "好的工作說明，通常是從「如果你消失一週，最先亂掉的是什麼」開始講。"
           }
         ]
       },
@@ -115,13 +87,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then talk about the handoff. Most people understand work faster when they can picture where one person's task becomes another person's task.",
-            "zh": "那你就可以從交接點講起。當人能想像一個人的工作在哪裡接到另一個人的工作時，就會更快懂。",
-            "vocab": [
-              {
-                "word": "handoff",
-                "def": "工作交接點；把事情交到下一個人手上"
-              }
-            ]
+            "zh": "那你就可以從交接點講起。當人能想像一個人的工作在哪裡接到另一個人的工作時，就會更快懂。"
           },
           {
             "speaker": "b",
@@ -133,17 +99,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That means you solve bottlenecks in the day-to-day flow of the work.",
-            "zh": "那你的工作其實就是在日常流程裡解決卡點。",
-            "vocab": [
-              {
-                "word": "solve bottlenecks",
-                "def": "解決流程卡點"
-              },
-              {
-                "word": "day-to-day",
-                "def": "日常發生的；每天都會碰到的"
-              }
-            ]
+            "zh": "那你的工作其實就是在日常流程裡解決卡點。"
           },
           {
             "speaker": "b",
@@ -184,13 +140,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or you can say, 'A lot of my work is helping people stay on the same page.'",
-            "zh": "或者你也可以說：「A lot of my work is helping people stay on the same page.」",
-            "vocab": [
-              {
-                "word": "stay on the same page",
-                "def": "維持共識；確保大家理解一致"
-              }
-            ]
+            "zh": "或者你也可以說：「A lot of my work is helping people stay on the same page.」"
           },
           {
             "speaker": "b",
@@ -202,13 +152,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Short explanations work best when they sound like something you would actually say on a Tuesday night.",
-            "zh": "很好。短說明最好用的時候，就是它聽起來像你星期二晚上真的會說出口的話。",
-            "vocab": [
-              {
-                "word": "Short explanations",
-                "def": "短版說法；簡短版本"
-              }
-            ]
+            "zh": "很好。短說明最好用的時候，就是它聽起來像你星期二晚上真的會說出口的話。"
           },
           {
             "speaker": "b",
@@ -249,13 +193,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you say, 'I noticed a missing file, got the right people together, and kept the launch on schedule,' people immediately get it.",
-            "zh": "對，就是那種。如果你說：「我發現少了一個檔案，找對的人補進來，最後把上線時間守住了。」大家立刻就會懂。",
-            "vocab": [
-              {
-                "word": "noticed",
-                "def": "注意到了"
-              }
-            ]
+            "zh": "對，就是那種。如果你說：「我發現少了一個檔案，找對的人補進來，最後把上線時間守住了。」大家立刻就會懂。"
           },
           {
             "speaker": "b",
@@ -267,13 +205,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Stories do the heavy lifting because they let people picture your usefulness.",
-            "zh": "對。故事之所以最有用，是因為它會讓別人看得見你的價值到底落在哪裡。",
-            "vocab": [
-              {
-                "word": "do the heavy lifting",
-                "def": "扛起最重要、最費力的部分"
-              }
-            ]
+            "zh": "對。故事之所以最有用，是因為它會讓別人看得見你的價值到底落在哪裡。"
           },
           {
             "speaker": "b",
@@ -407,13 +339,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That usually means you know your work, but you do not yet have an elevator pitch for it.",
-            "zh": "那通常代表你其實懂自己的工作，只是還沒有把它整理成一個短版自我介紹。",
-            "vocab": [
-              {
-                "word": "elevator pitch",
-                "def": "超短版自我介紹；電梯簡報式說法"
-              }
-            ]
+            "zh": "那通常代表你其實懂自己的工作，只是還沒有把它整理成一個短版自我介紹。"
           },
           {
             "speaker": "b",
@@ -425,13 +351,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good intro should work in a nutshell first, then expand if the other person is interested.",
-            "zh": "好的自我介紹，應該先能用最精簡的方式成立，對方有興趣再慢慢展開。",
-            "vocab": [
-              {
-                "word": "in a nutshell",
-                "def": "用最精簡的方式說重點"
-              }
-            ]
+            "zh": "好的自我介紹，應該先能用最精簡的方式成立，對方有興趣再慢慢展開。"
           },
           {
             "speaker": "b",
@@ -472,17 +392,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Three things help: what you work on, who it helps, and what your main focus is.",
-            "zh": "有三個東西很有幫助：你在做什麼、它幫到誰、還有你的主要重點是什麼。",
-            "vocab": [
-              {
-                "word": "work on",
-                "def": "負責處理；在做某個領域的工作"
-              },
-              {
-                "word": "main focus",
-                "def": "主要重點；核心著力點"
-              }
-            ]
+            "zh": "有三個東西很有幫助：你在做什麼、它幫到誰、還有你的主要重點是什麼。"
           },
           {
             "speaker": "b",
@@ -506,17 +416,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Great. Then you can say you are not client-facing, but your work still shapes the customer experience indirectly.",
-            "zh": "很好。那你就可以說，你不是直接對客戶，但你的工作還是會間接影響客戶體驗。",
-            "vocab": [
-              {
-                "word": "client-facing",
-                "def": "直接面對客戶的"
-              },
-              {
-                "word": "client-facing",
-                "def": "直接面對客戶的"
-              }
-            ]
+            "zh": "很好。那你就可以說，你不是直接對客戶，但你的工作還是會間接影響客戶體驗。"
           },
           {
             "speaker": "b",
@@ -569,13 +469,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A good intro should give context before detail.",
-            "zh": "沒錯。好的自我介紹，應該先給脈絡，再補細節。",
-            "vocab": [
-              {
-                "word": "give context",
-                "def": "先提供脈絡，讓人知道背景"
-              }
-            ]
+            "zh": "沒錯。好的自我介紹，應該先給脈絡，再補細節。"
           },
           {
             "speaker": "b",
@@ -587,18 +481,12 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then you can add what kind of problems you are the go-to person for.",
-            "zh": "那你就可以再補一句，你通常是大家遇到哪一類問題時會來找的那個人。",
-            "vocab": [
-              {
-                "word": "go-to person",
-                "def": "大家第一個會想到、會來找的人"
-              }
-            ]
+            "zh": "那你就可以再補一句，你通常是大家遇到哪一類問題時會來找的那個人。"
           }
         ]
       },
       {
-        "title": "Part 4 — A Better Way to Practice",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -647,12 +535,7 @@ export const WEEK_19: Episode[] = [
             "speakerName": "Mira",
             "en": "Good spoken English almost always gets a little shorter on purpose.",
             "zh": "好用的口說英文，幾乎一定會故意比書面版本再短一點。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Why a Clear Intro Builds Confidence",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -768,13 +651,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That question does not mean something is wrong. It usually means you are trying to figure out what feels meaningful to you now.",
-            "zh": "那個問題不代表一定出事了。很多時候它只是表示，你正在弄清楚對現在的你來說，什麼才算有意義。",
-            "vocab": [
-              {
-                "word": "meaningful",
-                "def": "有意義的；做起來心裡有感的"
-              }
-            ]
+            "zh": "那個問題不代表一定出事了。很多時候它只是表示，你正在弄清楚對現在的你來說，什麼才算有意義。"
           },
           {
             "speaker": "b",
@@ -798,17 +675,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sometimes a job mainly pays the bills, and sometimes it also feeds your sense of purpose. Those are not always the same season.",
-            "zh": "完全沒錯。有時候一份工作主要是在付帳單，有時候它也會滋養你的目的感。那兩件事不一定總是在同一個時期重疊。",
-            "vocab": [
-              {
-                "word": "pays the bills",
-                "def": "賺錢養生活；把基本生活顧住"
-              },
-              {
-                "word": "sense of purpose",
-                "def": "目的感；覺得自己做這件事有理由"
-              }
-            ]
+            "zh": "完全沒錯。有時候一份工作主要是在付帳單，有時候它也會滋養你的目的感。那兩件事不一定總是在同一個時期重疊。"
           },
           {
             "speaker": "b",
@@ -837,13 +704,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually one of a few things: to feel useful, to feel respected, to feel challenged, or to feel like they make a difference.",
-            "zh": "通常不外乎幾種：覺得自己有用、被尊重、有成長，或感覺自己真的有造成一點改變。",
-            "vocab": [
-              {
-                "word": "make a difference",
-                "def": "真的造成改變；不是只是做完而已"
-              }
-            ]
+            "zh": "通常不外乎幾種：覺得自己有用、被尊重、有成長，或感覺自己真的有造成一點改變。"
           },
           {
             "speaker": "b",
@@ -855,13 +716,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Some people need impact. Some need stability. Some need to feel they are good at what they do.",
-            "zh": "沒錯。有些人需要影響力，有些人需要穩定，有些人只是需要感覺自己真的擅長正在做的事。",
-            "vocab": [
-              {
-                "word": "stability",
-                "def": "穩定性"
-              }
-            ]
+            "zh": "沒錯。有些人需要影響力，有些人需要穩定，有些人只是需要感覺自己真的擅長正在做的事。"
           },
           {
             "speaker": "b",
@@ -873,13 +728,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That flatness can become burnout if you keep ignoring it.",
-            "zh": "對。而如果你一直不理它，那種空掉的感覺也可能慢慢走向耗竭。",
-            "vocab": [
-              {
-                "word": "burnout",
-                "def": "長期耗竭；被工作磨到空掉"
-              }
-            ]
+            "zh": "對。而如果你一直不理它，那種空掉的感覺也可能慢慢走向耗竭。"
           },
           {
             "speaker": "b",
@@ -920,13 +769,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or: 'Right now I am looking for work that fits this season of life better.'",
-            "zh": "或者你也可以說：「Right now I am looking for work that fits this season of life better.」",
-            "vocab": [
-              {
-                "word": "season of life",
-                "def": "人生現階段；當下這一段生活狀態"
-              }
-            ]
+            "zh": "或者你也可以說：「Right now I am looking for work that fits this season of life better.」"
           },
           {
             "speaker": "b",
@@ -950,13 +793,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then say that. 'I can appreciate what this job gives me and still want something more fitting.' That is holding both truths.",
-            "zh": "那你就把那件事說出來。你可以說：「I can appreciate what this job gives me and still want something more fitting.」這就是同時放住兩個真相。",
-            "vocab": [
-              {
-                "word": "holding both truths",
-                "def": "同時承認兩個都真的感受"
-              }
-            ]
+            "zh": "那你就把那件事說出來。你可以說：「I can appreciate what this job gives me and still want something more fitting.」這就是同時放住兩個真相。"
           }
         ]
       },
@@ -1061,7 +898,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually how people find work meaning anyway: less by hunting, more by noticing.",
+            "en": "That's usually how people find work meaning anyway: less by hunting, more by noticing.",
             "zh": "人通常也確實是這樣找到工作意義的：少一點打獵式尋找，多一點留意。"
           }
         ]
@@ -1131,13 +968,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the classic moment when nobody has clearly taken ownership.",
-            "zh": "那就是很典型的，沒有人真的把責任接到自己身上的時刻。",
-            "vocab": [
-              {
-                "word": "ownership",
-                "def": "主導感；歸屬感"
-              }
-            ]
+            "zh": "那就是很典型的，沒有人真的把責任接到自己身上的時刻。"
           },
           {
             "speaker": "b",
@@ -1149,13 +980,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Hard work does not help much if nobody follows through on the part that connects the whole thing.",
-            "zh": "如果沒有人把連接整件事的那一段說到做到，再努力也幫不了太多。",
-            "vocab": [
-              {
-                "word": "follows through",
-                "def": "把答應的事一路做到位"
-              }
-            ]
+            "zh": "如果沒有人把連接整件事的那一段說到做到，再努力也幫不了太多。"
           },
           {
             "speaker": "b",
@@ -1179,13 +1004,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The useful question is always, 'Who is making sure this does not quietly drop the ball?'",
-            "zh": "完全沒錯。真正有用的問題永遠是：「到底誰在確保這件事不會默默掉到地上？」",
-            "vocab": [
-              {
-                "word": "drop the ball",
-                "def": "把該顧的事漏掉；失手沒接住"
-              }
-            ]
+            "zh": "完全沒錯。真正有用的問題永遠是：「到底誰在確保這件事不會默默掉到地上？」"
           }
         ]
       },
@@ -1214,17 +1033,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Seeing risk early, flagging it early, and making sure the next step has a real owner.",
-            "zh": "提早看到風險、提早把它標出來，然後確保下一步真的有人接。",
-            "vocab": [
-              {
-                "word": "flagging it early",
-                "def": "提早把風險或問題標出來"
-              },
-              {
-                "word": "next step",
-                "def": "接下來明確要做的動作"
-              }
-            ]
+            "zh": "提早看到風險、提早把它標出來，然後確保下一步真的有人接。"
           },
           {
             "speaker": "b",
@@ -1236,13 +1045,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good teams also loop someone in before the problem becomes expensive.",
-            "zh": "沒錯。好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。",
-            "vocab": [
-              {
-                "word": "loop someone in",
-                "def": "把某人拉進討論或處理流程"
-              }
-            ]
+            "zh": "沒錯。好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。"
           },
           {
             "speaker": "b",
@@ -1295,13 +1098,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you own the mistake clearly, people spend less time guessing whether they can trust you.",
-            "zh": "沒錯。當你把錯誤認得夠清楚，別人就不用花那麼多時間猜他還能不能信任你。",
-            "vocab": [
-              {
-                "word": "own the mistake",
-                "def": "清楚承認自己的錯誤"
-              }
-            ]
+            "zh": "沒錯。當你把錯誤認得夠清楚，別人就不用花那麼多時間猜他還能不能信任你。"
           },
           {
             "speaker": "b",
@@ -1313,13 +1110,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then say so directly: 'I need to pull in two people to get this back on track.'",
-            "zh": "那就直接說：「I need to pull in two people to get this back on track.」",
-            "vocab": [
-              {
-                "word": "back on track",
-                "def": "把事情拉回正軌"
-              }
-            ]
+            "zh": "那就直接說：「I need to pull in two people to get this back on track.」"
           }
         ]
       },
@@ -1348,13 +1139,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A clear expectation lowers the chance that everyone leaves with a slightly different story.",
-            "zh": "沒錯。清楚的期待會大幅降低大家帶著不同版本的故事離開會議室的機率。",
-            "vocab": [
-              {
-                "word": "clear expectation",
-                "def": "清楚的期待與責任說明"
-              }
-            ]
+            "zh": "沒錯。清楚的期待會大幅降低大家帶著不同版本的故事離開會議室的機率。"
           },
           {
             "speaker": "b",
@@ -1500,13 +1285,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That reaction is common because career changes often look messy on paper before they make sense in story form.",
-            "zh": "那個反應很常見，因為職涯變化在紙上看起來常常很亂，可是一進到故事裡就有可能說得通。",
-            "vocab": [
-              {
-                "word": "on paper",
-                "def": "從履歷或表面資料上看"
-              }
-            ]
+            "zh": "那個反應很常見，因為職涯變化在紙上看起來常常很亂，可是一進到故事裡就有可能說得通。"
           },
           {
             "speaker": "b",
@@ -1530,13 +1309,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A good explanation of a career pivot starts with the connecting skill, not the chronological list.",
-            "zh": "沒錯。好的轉職說明，應該先從串起這些工作的能力開始講，而不是先照時間順序背一遍。",
-            "vocab": [
-              {
-                "word": "career pivot",
-                "def": "職涯轉向；轉職轉跑道"
-              }
-            ]
+            "zh": "沒錯。好的轉職說明，應該先從串起這些工作的能力開始講，而不是先照時間順序背一遍。"
           },
           {
             "speaker": "b",
@@ -1565,13 +1338,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually transferable skills: communication, pattern recognition, calm under pressure, managing messy details.",
-            "zh": "通常是那些可轉移的能力：溝通、看模式、在壓力下保持穩定，還有整理混亂細節。",
-            "vocab": [
-              {
-                "word": "transferable skills",
-                "def": "可轉移到新工作上的能力"
-              }
-            ]
+            "zh": "通常是那些可轉移的能力：溝通、看模式、在壓力下保持穩定，還有整理混亂細節。"
           },
           {
             "speaker": "b",
@@ -1583,13 +1350,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Industry names matter, but they do not explain why someone can make the switch successfully.",
-            "zh": "產業名稱當然有差，可是它不會告訴人，為什麼某個人能成功轉過去。",
-            "vocab": [
-              {
-                "word": "make the switch",
-                "def": "成功轉換到另一種工作或領域"
-              }
-            ]
+            "zh": "產業名稱當然有差，可是它不會告訴人，為什麼某個人能成功轉過去。"
           },
           {
             "speaker": "b",
@@ -1654,13 +1415,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You are giving the short version first, not trying to win a debate.",
-            "zh": "沒錯。你是在先給一個短版說法，不是在跟人辯論。",
-            "vocab": [
-              {
-                "word": "short version",
-                "def": "短版說法；先給重點版"
-              }
-            ]
+            "zh": "沒錯。你是在先給一個短版說法，不是在跟人辯論。"
           },
           {
             "speaker": "b",
@@ -1672,18 +1427,12 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The long version should add texture, not panic.",
-            "zh": "對。長版的功能應該是加細節，不是把你自己講慌。",
-            "vocab": [
-              {
-                "word": "long version",
-                "def": "長版說法；補完整脈絡"
-              }
-            ]
+            "zh": "對。長版的功能應該是加細節，不是把你自己講慌。"
           }
         ]
       },
       {
-        "title": "Part 4 — One Better Way to Frame the Change",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1707,17 +1456,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people do. But sometimes you took a step back in one dimension so you could move into something that fit better overall.",
-            "zh": "很多人都會這樣。可是有時候你是在某個面向先退一步，才能走進一個整體更適合的位置。",
-            "vocab": [
-              {
-                "word": "step back",
-                "def": "退一步；主動不再過度介入"
-              },
-              {
-                "word": "move into",
-                "def": "轉入某個新角色或新領域"
-              }
-            ]
+            "zh": "很多人都會這樣。可是有時候你是在某個面向先退一步，才能走進一個整體更適合的位置。"
           },
           {
             "speaker": "b",
@@ -1742,12 +1481,7 @@ export const WEEK_19: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly. Coherence is what lets people trust the move, including you.",
             "zh": "完全沒錯。連貫感會讓別人比較信這個轉變，也會讓你自己更信。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — How to Sound Like the Story Belongs to You",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1863,13 +1597,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because people quietly tie their worth to work more than they realize.",
-            "zh": "因為人通常比自己以為的更常把自己的價值綁在工作上。",
-            "vocab": [
-              {
-                "word": "tie their worth",
-                "def": "把自己的價值感綁在某件事上"
-              }
-            ]
+            "zh": "因為人通常比自己以為的更常把自己的價值綁在工作上。"
           },
           {
             "speaker": "b",
@@ -1881,13 +1609,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A title change can feel bigger when the role had become part of your identity.",
-            "zh": "如果那個角色早就變成你身份感的一部分，職稱變動當然就會感覺更大。",
-            "vocab": [
-              {
-                "word": "title change",
-                "def": "職稱變動"
-              }
-            ]
+            "zh": "如果那個角色早就變成你身份感的一部分，職稱變動當然就會感覺更大。"
           },
           {
             "speaker": "b",
@@ -1899,17 +1621,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why job loss or role change can hit the sense of self, not just the schedule.",
-            "zh": "完全沒錯。這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。",
-            "vocab": [
-              {
-                "word": "sense of self",
-                "def": "對自己的感覺與自我認同"
-              },
-              {
-                "word": "job loss",
-                "def": "失去工作"
-              }
-            ]
+            "zh": "完全沒錯。這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。"
           },
           {
             "speaker": "b",
@@ -1938,13 +1650,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A role is what you do on the clock. Identity is bigger than the hours you are paid for.",
-            "zh": "角色比較像是你在上班時間做的事，而身份比那幾個領薪的時數大得多。",
-            "vocab": [
-              {
-                "word": "on the clock",
-                "def": "在上班時間；算工時的時候"
-              }
-            ]
+            "zh": "角色比較像是你在上班時間做的事，而身份比那幾個領薪的時數大得多。"
           },
           {
             "speaker": "b",
@@ -1956,13 +1662,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. A lot of us accidentally let work become our whole personality because it is the most visible thing we do every day.",
-            "zh": "真的不是。很多人會不小心讓工作變成自己的整個人格，因為那是我們每天最明顯在做的事。",
-            "vocab": [
-              {
-                "word": "whole personality",
-                "def": "整個人格好像只剩那一塊"
-              }
-            ]
+            "zh": "真的不是。很多人會不小心讓工作變成自己的整個人格，因為那是我們每天最明顯在做的事。"
           },
           {
             "speaker": "b",
@@ -1974,13 +1674,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why it matters to build something outside of work that also holds you.",
-            "zh": "沒錯。這也是為什麼你需要在工作之外，也建立一些能接住你的東西。",
-            "vocab": [
-              {
-                "word": "outside of work",
-                "def": "工作之外的生活領域"
-              }
-            ]
+            "zh": "沒錯。這也是為什麼你需要在工作之外，也建立一些能接住你的東西。"
           },
           {
             "speaker": "b",
@@ -2021,13 +1715,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I am more than my role, even if work is a big part of my life right now.'",
-            "zh": "還有一句也很好，就是「就算工作現在占了我生活很大一部分，我也不只是一個角色而已。」",
-            "vocab": [
-              {
-                "word": "role",
-                "def": "你不只是一個工作角色而已"
-              }
-            ]
+            "zh": "還有一句也很好，就是「就算工作現在占了我生活很大一部分，我也不只是一個角色而已。」"
           },
           {
             "speaker": "b",
@@ -2039,13 +1727,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can care deeply about work without letting it take up every inch of the self.",
-            "zh": "沒錯。你可以很在乎工作，但不用讓它占滿自我的每一寸空間。",
-            "vocab": [
-              {
-                "word": "take up every",
-                "def": "占據空間；在心裡占很大位置"
-              }
-            ]
+            "zh": "沒錯。你可以很在乎工作，但不用讓它占滿自我的每一寸空間。"
           },
           {
             "speaker": "b",
@@ -2232,13 +1914,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people do that. They undersell themselves before anyone else even gets a chance to.",
-            "zh": "很多人都會這樣。他們會先自己把自己講小，甚至在別人還來不及評價之前。",
-            "vocab": [
-              {
-                "word": "undersell",
-                "def": "低估；說得不夠有力"
-              }
-            ]
+            "zh": "很多人都會這樣。他們會先自己把自己講小，甚至在別人還來不及評價之前。"
           },
           {
             "speaker": "b",
@@ -2262,13 +1938,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Confidence owns the work clearly. Bragging tries to make the person look bigger than the work.",
-            "zh": "自信是把工作本身認清楚、講清楚；吹噓則是在努力把人講得比工作還大。",
-            "vocab": [
-              {
-                "word": "Confidence owns",
-                "def": "坦然承認並講清楚自己的經驗與成果"
-              }
-            ]
+            "zh": "自信是把工作本身認清楚、講清楚；吹噓則是在努力把人講得比工作還大。"
           },
           {
             "speaker": "b",
@@ -2280,13 +1950,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Once you feel that difference, speaking with confidence becomes much less scary.",
-            "zh": "很好。一旦你感覺到那個差別，用有自信的方式說話就會沒那麼可怕了。",
-            "vocab": [
-              {
-                "word": "speaking with confidence",
-                "def": "用穩定、有把握的方式說話"
-              }
-            ]
+            "zh": "很好。一旦你感覺到那個差別，用有自信的方式說話就會沒那麼可怕了。"
           }
         ]
       },
@@ -2315,13 +1979,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then point to results without decorating them. Calm evidence sounds stronger than performance.",
-            "zh": "那你就直接指向結果，不要裝飾它。平靜的證據通常比表演還有力。",
-            "vocab": [
-              {
-                "word": "point to results",
-                "def": "直接指出實際成果"
-              }
-            ]
+            "zh": "那你就直接指向結果，不要裝飾它。平靜的證據通常比表演還有力。"
           },
           {
             "speaker": "b",
@@ -2333,13 +1991,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then give credit clearly. Confidence gets stronger, not weaker, when it is accurate about collaboration.",
-            "zh": "那你就把功勞說清楚地分出去。自信在合作上越準確，其實只會更強，不會更弱。",
-            "vocab": [
-              {
-                "word": "give credit",
-                "def": "把功勞說清楚地分給相關的人"
-              }
-            ]
+            "zh": "那你就把功勞說清楚地分出去。自信在合作上越準確，其實只會更強，不會更弱。"
           },
           {
             "speaker": "b",
@@ -2351,13 +2003,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Not bragging is not the same as disappearing from your own story.",
-            "zh": "完全沒錯。不吹噓，不等於從自己的故事裡消失。",
-            "vocab": [
-              {
-                "word": "not bragging",
-                "def": "不是在吹噓；不是刻意誇大自己"
-              }
-            ]
+            "zh": "完全沒錯。不吹噓，不等於從自己的故事裡消失。"
           }
         ]
       },
@@ -2398,17 +2044,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The key is to say it plainly and keep a steady voice.",
-            "zh": "沒錯。關鍵就是把它平平地說出來，然後把聲音放穩。",
-            "vocab": [
-              {
-                "word": "say it plainly",
-                "def": "直接平實地說出來"
-              },
-              {
-                "word": "steady voice",
-                "def": "穩定不飄的語氣"
-              }
-            ]
+            "zh": "沒錯。關鍵就是把它平平地說出來，然後把聲音放穩。"
           },
           {
             "speaker": "b",

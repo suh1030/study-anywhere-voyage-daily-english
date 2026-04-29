@@ -22,13 +22,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I do, but it is less glamorous than you might expect. No meditation retreat vibes. Just: wake up without an alarm, coffee while it is quiet, and the first hour belongs to me before anything else gets to claim it.",
-            "zh": "有，但它不像你想像的那麼美好。沒有冥想退修的氛圍。只是：不用鬧鐘自然醒，安靜地喝咖啡，第一個小時屬於我，然後其他事情才能開始要求我的注意。",
-            "vocab": [
-              {
-                "word": "glamorous",
-                "def": "迷人的；美好的（常指理想化的）"
-              }
-            ]
+            "zh": "有，但它不像你想像的那麼美好。沒有冥想退修的氛圍。只是：不用鬧鐘自然醒，安靜地喝咖啡，第一個小時屬於我，然後其他事情才能開始要求我的注意。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I protect it from my phone. No emails, no news, no notifications. I either read something real, sit with my thoughts, or just move slowly. The key is that it is mine.",
-            "zh": "我讓它遠離手機。不看電子郵件、不看新聞、不看通知。我要麼讀點有深度的東西，要麼靜靜地思考，或者就是緩緩地動一動。關鍵是這個時間屬於我。",
-            "vocab": [
-              {
-                "word": "notification",
-                "def": "通知；推播訊息"
-              }
-            ]
+            "zh": "我讓它遠離手機。不看電子郵件、不看新聞、不看通知。我要麼讀點有深度的東西，要麼靜靜地思考，或者就是緩緩地動一動。關鍵是這個時間屬於我。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe two or three times a week. The other mornings are more rushed and reactive. But I have stopped expecting every morning to be perfect — I just try to create the conditions for the good ones.",
-            "zh": "也許一週兩三次。其他的早晨更加倉促和被動。但我已經不再期待每個早晨都是完美的——我只是試著創造條件，讓美好的早晨能夠發生。",
-            "vocab": [
-              {
-                "word": "reactive",
-                "def": "被動回應的；受外部驅動的"
-              }
-            ]
+            "zh": "也許一週兩三次。其他的早晨更加倉促和被動。但我已經不再期待每個早晨都是完美的——我只是試著創造條件，讓美好的早晨能夠發生。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the phone immediately puts you in response mode. The moment you check it, you are reacting to other people's priorities — their emails, their news, their requests. Your own thoughts have not even had a chance to settle yet.",
-            "zh": "因為手機立刻讓你進入回應模式。你一查看它，就在對別人的優先事項做出反應——他們的電子郵件、他們的新聞、他們的要求。你自己的想法甚至還沒來得及沉澱。",
-            "vocab": [
-              {
-                "word": "response mode",
-                "def": "回應模式；被動應對狀態"
-              }
-            ]
+            "zh": "因為手機立刻讓你進入回應模式。你一查看它，就在對別人的優先事項做出反應——他們的電子郵件、他們的新聞、他們的要求。你自己的想法甚至還沒來得及沉澱。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. There is research suggesting that the first fifteen minutes after waking significantly affect how you process stress for the rest of the day. Give those minutes to your phone and you are starting from a deficit.",
-            "zh": "確實。有研究表明，醒來後的前十五分鐘對你一天剩餘時間處理壓力的方式有顯著影響。把這段時間給手機，你是從一個赤字開始的。",
-            "vocab": [
-              {
-                "word": "deficit",
-                "def": "赤字；不足；虧損"
-              }
-            ]
+            "zh": "確實。有研究表明，醒來後的前十五分鐘對你一天剩餘時間處理壓力的方式有顯著影響。把這段時間給手機，你是從一個赤字開始的。"
           },
           {
             "speaker": "b",
@@ -129,13 +99,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Starting from a surplus. You have already thought something, felt something, or done something that belongs to you before the day starts pulling you in different directions.",
-            "zh": "從盈餘開始。在這一天開始把你往不同方向拉之前，你已經思考了某些事、感受了某些事，或者做了某些屬於你自己的事。",
-            "vocab": [
-              {
-                "word": "surplus",
-                "def": "盈餘；剩餘；額外的"
-              }
-            ]
+            "zh": "從盈餘開始。在這一天開始把你往不同方向拉之前，你已經思考了某些事、感受了某些事，或者做了某些屬於你自己的事。"
           },
           {
             "speaker": "b",
@@ -164,13 +128,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They happen. And I have learned not to treat them as moral failures. A bad morning is just a bad morning — not evidence that I am disorganized or that my routine is broken.",
-            "zh": "這種情況確實會發生。我已經學會不把它們當成道德上的失敗。一個糟糕的早晨就是一個糟糕的早晨——而不是我混亂無序或我的習慣已經崩潰的證據。",
-            "vocab": [
-              {
-                "word": "disorganized",
-                "def": "雜亂無章的；缺乏條理的"
-              }
-            ]
+            "zh": "這種情況確實會發生。我已經學會不把它們當成道德上的失敗。一個糟糕的早晨就是一個糟糕的早晨——而不是我混亂無序或我的習慣已經崩潰的證據。"
           },
           {
             "speaker": "b",
@@ -182,13 +140,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All the time. Though I have found that the snooze button is usually lying to me. The nine extra minutes never actually help me feel more rested — they just make me feel guilty and rushed.",
-            "zh": "經常按。雖然我發現貪睡鍵通常在騙我。那額外的九分鐘從來不會真正讓我感覺更有精神——它們只會讓我感到內疚和匆忙。",
-            "vocab": [
-              {
-                "word": "snooze button",
-                "def": "貪睡鍵（鬧鐘延後功能）"
-              }
-            ]
+            "zh": "經常按。雖然我發現貪睡鍵通常在騙我。那額外的九分鐘從來不會真正讓我感覺更有精神——它們只會讓我感到內疚和匆忙。"
           },
           {
             "speaker": "b",
@@ -200,13 +152,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because in that half-asleep moment, nine minutes feels like a gift. The rational brain is not fully online yet. Sleep inertia — that grogginess after waking — makes us terrible decision-makers for the first few minutes.",
-            "zh": "因為在那個半睡半醒的時刻，九分鐘感覺像是一份禮物。理性大腦還沒有完全上線。睡眠慣性——醒來後那種昏昏沉沉的感覺——讓我們在最初幾分鐘成為糟糕的決策者。",
-            "vocab": [
-              {
-                "word": "sleep inertia",
-                "def": "睡眠慣性（剛醒時的昏沉感）"
-              }
-            ]
+            "zh": "因為在那個半睡半醒的時刻，九分鐘感覺像是一份禮物。理性大腦還沒有完全上線。睡眠慣性——醒來後那種昏昏沉沉的感覺——讓我們在最初幾分鐘成為糟糕的決策者。"
           },
           {
             "speaker": "b",
@@ -235,13 +181,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it matters less for the nutrients and more for the ritual. Eating breakfast gives me a clear start signal — it says: the preparation is over, the day has begun.",
-            "zh": "我覺得早餐不那麼是因為營養，而更多是因為儀式感。吃早餐給了我一個清晰的開始信號——它說：準備結束了，這一天已經開始。",
-            "vocab": [
-              {
-                "word": "ritual",
-                "def": "儀式；有固定順序的例行習慣"
-              }
-            ]
+            "zh": "我覺得早餐不那麼是因為營養，而更多是因為儀式感。吃早餐給了我一個清晰的開始信號——它說：準備結束了，這一天已經開始。"
           },
           {
             "speaker": "b",
@@ -253,13 +193,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. For some people that transition happens at the coffee shop, or at the gym, or when they sit down at their desk. The specific activity matters less than having one reliable moment that says: now the day is real.",
-            "zh": "沒錯。對有些人來說，這個過渡發生在咖啡店、健身房，或者當他們坐在書桌前的時候。具體的活動不那麼重要，重要的是有一個可靠的時刻在說：現在這一天是真實的了。",
-            "vocab": [
-              {
-                "word": "transition",
-                "def": "過渡；轉換；轉折點"
-              }
-            ]
+            "zh": "沒錯。對有些人來說，這個過渡發生在咖啡店、健身房，或者當他們坐在書桌前的時候。具體的活動不那麼重要，重要的是有一個可靠的時刻在說：現在這一天是真實的了。"
           },
           {
             "speaker": "b",
@@ -271,13 +205,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Something that takes almost no effort. Oats or toast, sometimes eggs on the weekends. I have found that the more complicated my breakfast, the more decisions I have to make before my brain is ready, and the worse I feel.",
-            "zh": "幾乎不費力的東西。燕麥或土司，週末有時候吃雞蛋。我發現早餐越複雜，我在大腦準備好之前就得做越多決定，感覺就越糟糕。",
-            "vocab": [
-              {
-                "word": "oats",
-                "def": "幾乎不費力的東西"
-              }
-            ]
+            "zh": "幾乎不費力的東西。燕麥或土司，週末有時候吃雞蛋。我發現早餐越複雜，我在大腦準備好之前就得做越多決定，感覺就越糟糕。"
           },
           {
             "speaker": "b",
@@ -306,13 +234,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would start by asking what they actually want the first hour to feel like. Not what they think they should do — not meditation because they read it helps — but what genuinely sounds appealing to them.",
-            "zh": "我會先問他們想讓第一個小時感覺像什麼。不是他們認為自己應該做的——不是因為讀到冥想有益就去冥想——而是什麼對他們真正有吸引力。",
-            "vocab": [
-              {
-                "word": "appealing",
-                "def": "有吸引力的；令人嚮往的"
-              }
-            ]
+            "zh": "我會先問他們想讓第一個小時感覺像什麼。不是他們認為自己應該做的——不是因為讀到冥想有益就去冥想——而是什麼對他們真正有吸引力。"
           },
           {
             "speaker": "b",
@@ -324,13 +246,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The best morning routine is one you actually look forward to. If you dread it, it is not the right one, no matter how productive it looks on paper.",
-            "zh": "對。最好的早晨習慣是你真正期待的那種。如果你害怕它，那就不是適合你的，不管它在紙面上看起來多有生產力。",
-            "vocab": [
-              {
-                "word": "dread",
-                "def": "害怕；抗拒；不情願"
-              }
-            ]
+            "zh": "對。最好的早晨習慣是你真正期待的那種。如果你害怕它，那就不是適合你的，不管它在紙面上看起來多有生產力。"
           },
           {
             "speaker": "b",
@@ -353,7 +269,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a better definition than any productivity podcast would give you. And it is one you can actually achieve.",
+            "en": "That's a better definition than any productivity podcast would give you. And it is one you can actually achieve.",
             "zh": "這比任何效率播客給你的定義都更好。而且它是你真正能做到的。"
           }
         ]
@@ -422,14 +338,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It depends on the person. The research on chronotypes is pretty clear — some people are genuinely wired to be alert in the morning, and others hit their peak in the afternoon or evening. Forcing a night owl to operate as a morning lark often backfires.",
-            "zh": "這取決於個人。關於時型的研究相當清楚——有些人天生就在早晨最清醒，其他人則在下午或晚上達到巔峰。強迫夜貓子像早鳥一樣運作往往會適得其反。",
-            "vocab": [
-              {
-                "word": "chronotype",
-                "def": "時型（個人天生的作息傾向）"
-              }
-            ]
+            "en": "It depends on the person. Some people naturally feel alert in the morning, and others hit their peak in the afternoon or evening. Forcing a night owl to act like a morning person often backfires.",
+            "zh": "這取決於個人。有些人早上自然比較清醒，有些人則在下午或晚上狀態最好。強迫夜貓子像早起的人一樣運作，往往會適得其反。"
           },
           {
             "speaker": "b",
@@ -441,13 +351,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Correct. What works for them works partly because of who they are biologically, and partly because they have designed their life around that schedule. Copy the schedule without the biology, and it usually does not work.",
-            "zh": "正確。對他們有效，部分是因為他們的生物特性，部分是因為他們的生活是圍繞那個時間表設計的。複製了時間表卻沒有相應的生物特性，通常是行不通的。",
-            "vocab": [
-              {
-                "word": "biologically",
-                "def": "從生物特性來看；在生理條件上"
-              }
-            ]
+            "zh": "正確。對他們有效，部分是因為他們的生物特性，部分是因為他們的生活是圍繞那個時間表設計的。複製了時間表卻沒有相應的生物特性，通常是行不通的。"
           },
           {
             "speaker": "b",
@@ -459,13 +363,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For morning people, there is real value in the quiet. Before the world sends demands, before messages arrive — there is a kind of clarity that is harder to find later in the day.",
-            "zh": "對早晨型的人來說，安靜中有真正的價值。在世界發出要求之前、在訊息到來之前——有一種清晰感，在一天稍晚的時候更難找到。",
-            "vocab": [
-              {
-                "word": "clarity",
-                "def": "清晰感；思路明確"
-              }
-            ]
+            "zh": "對早晨型的人來說，安靜中有真正的價值。在世界發出要求之前、在訊息到來之前——有一種清晰感，在一天稍晚的時候更難找到。"
           },
           {
             "speaker": "b",
@@ -494,13 +392,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Fewer of them are doing aggressive five-a.m. workouts than you might think. A lot of them are reading, journaling, having a slow breakfast, or simply thinking without pressure. The value is often in the pacing, not the activity.",
-            "zh": "做激烈清晨五點鍛煉的人比你想象的少。很多人在閱讀、寫日記、享用悠閒的早餐，或者只是不帶壓力地思考。價值往往在於節奏，而不是活動本身。",
-            "vocab": [
-              {
-                "word": "pacing",
-                "def": "節奏；步調"
-              }
-            ]
+            "zh": "做激烈清晨五點鍛煉的人比你想象的少。很多人在閱讀、寫日記、享用悠閒的早餐，或者只是不帶壓力地思考。價值往往在於節奏，而不是活動本身。"
           },
           {
             "speaker": "b",
@@ -512,13 +404,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And I think that is what people are really chasing when they say they want to \"wake up earlier.\" They do not actually want the early hour — they want the unhurried feeling that can come with it.",
-            "zh": "是的。我認為這才是人們說想要「早點起床」時真正追求的東西。他們不是真的想要那個早起的時刻——他們想要的是那種可以伴隨而來的從容感。",
-            "vocab": [
-              {
-                "word": "unhurried",
-                "def": "從容不迫的；不匆忙的"
-              }
-            ]
+            "zh": "是的。我認為這才是人們說想要「早點起床」時真正追求的東西。他們不是真的想要那個早起的時刻——他們想要的是那種可以伴隨而來的從容感。"
           },
           {
             "speaker": "b",
@@ -530,13 +416,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Night owls often describe their late-night hours in the same way — quiet, creative, free from demands. It is not about a.m. versus p.m. It is about having uninterrupted time.",
-            "zh": "完全正確。夜貓子通常以同樣的方式描述他們的深夜時光——安靜、有創造力、沒有要求。這不是早上還是晚上的問題。這是關於擁有不被打擾的時間。",
-            "vocab": [
-              {
-                "word": "uninterrupted",
-                "def": "不被打擾的；連續的"
-              }
-            ]
+            "zh": "完全正確。夜貓子通常以同樣的方式描述他們的深夜時光——安靜、有創造力、沒有要求。這不是早上還是晚上的問題。這是關於擁有不被打擾的時間。"
           },
           {
             "speaker": "b",
@@ -565,13 +445,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and this is where most \"wake up at five\" plans fall apart. People set the alarm back an hour without going to bed earlier, run a sleep debt for a week, and then crash back to their original habits.",
-            "zh": "是的，這正是大多數「五點起床」計畫崩潰的地方。人們把鬧鐘提前一個小時，但沒有更早上床睡覺，累積了一週的睡眠債，然後就恢復到原來的習慣。",
-            "vocab": [
-              {
-                "word": "sleep debt",
-                "def": "睡眠債（長期睡眠不足的累積）"
-              }
-            ]
+            "zh": "是的，這正是大多數「五點起床」計畫崩潰的地方。人們把鬧鐘提前一個小時，但沒有更早上床睡覺，累積了一週的睡眠債，然後就恢復到原來的習慣。"
           },
           {
             "speaker": "b",
@@ -583,13 +457,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfect analogy. Sleep is not flexible. Adults generally need seven to nine hours. You can borrow from that budget, but there is a limit before your performance — and your mood — starts to suffer.",
-            "zh": "完美的比喻。睡眠是不靈活的。成年人通常需要七到九個小時。你可以從那個預算中借用，但在你的表現——和心情——開始受損之前，是有限度的。",
-            "vocab": [
-              {
-                "word": "performance",
-                "def": "表現；效能"
-              }
-            ]
+            "zh": "完美的比喻。睡眠是不靈活的。成年人通常需要七到九個小時。你可以從那個預算中借用，但在你的表現——和心情——開始受損之前，是有限度的。"
           },
           {
             "speaker": "b",
@@ -601,13 +469,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I aim for ten-thirty to six-thirty. That is eight hours, which is what my body seems to need. On weeknights, I try to be in bed by eleven at the latest, even if that means leaving social events earlier than I would like.",
-            "zh": "我的目標是十點半到六點半。那是八小時，這是我的身體似乎需要的量。在工作日的晚上，我盡量最晚十一點上床，即使這意味著比我希望的更早離開社交場合。",
-            "vocab": [
-              {
-                "word": "events earlier",
-                "def": "以……為目標；力求達到"
-              }
-            ]
+            "zh": "我的目標是十點半到六點半。那是八小時，這是我的身體似乎需要的量。在工作日的晚上，我盡量最晚十一點上床，即使這意味著比我希望的更早離開社交場合。"
           },
           {
             "speaker": "b",
@@ -624,7 +486,7 @@ export const WEEK_02: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Making the Transition Gradually",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -636,13 +498,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Gradually. Shifting your wake-up time by fifteen minutes every few days is far more sustainable than jumping two hours at once. Your body clock adapts slowly.",
-            "zh": "漸進地。每隔幾天把起床時間提前十五分鐘，比一次跳兩個小時要持久得多。你的生理時鐘適應得很慢。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "可持續的；能夠長期維持的"
-              }
-            ]
+            "zh": "漸進地。每隔幾天把起床時間提前十五分鐘，比一次跳兩個小時要持久得多。你的生理時鐘適應得很慢。"
           },
           {
             "speaker": "b",
@@ -654,13 +510,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Light exposure also matters — try to get bright light in the morning and dim the lights in the evening. That helps reset your circadian rhythm.",
-            "zh": "沒錯。光照也很重要——試著在早晨獲得充足的光線，在傍晚把燈光調暗。這有助於重置你的晝夜節律。",
-            "vocab": [
-              {
-                "word": "circadian rhythm",
-                "def": "晝夜節律；生理時鐘週期"
-              }
-            ]
+            "zh": "沒錯。光照也很重要——試著在早晨獲得充足的光線，在傍晚把燈光調暗。這有助於重置你的晝夜節律。"
           },
           {
             "speaker": "b",
@@ -672,13 +522,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Their evening habits. You cannot fix your mornings without looking at your evenings. The morning starts at ten p.m. — what you eat, how much screen time you have, what you are anxious about going to sleep with.",
-            "zh": "他們的晚間習慣。不看晚間習慣，你無法修正早晨。早晨從晚上十點開始——你吃什麼、有多少螢幕時間、你帶著什麼焦慮入睡。",
-            "vocab": [
-              {
-                "word": "screen time",
-                "def": "螢幕使用時間"
-              }
-            ]
+            "zh": "他們的晚間習慣。不看晚間習慣，你無法修正早晨。早晨從晚上十點開始——你吃什麼、有多少螢幕時間、你帶著什麼焦慮入睡。"
           },
           {
             "speaker": "b",
@@ -691,12 +535,7 @@ export const WEEK_02: Episode[] = [
             "speakerName": "Mira",
             "en": "The morning routine is just the harvest. The evening routine is where you actually plant the seeds.",
             "zh": "早晨習慣只是收穫。晚間習慣才是你真正播種的地方。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Finding Your Own Advantage",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -707,13 +546,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The late-night quiet. Some of the most creative people I know do their best work between ten p.m. and midnight. The world is asleep, the phone is quiet, and the creative brain has room to stretch.",
-            "zh": "深夜的安靜。我認識的一些最有創造力的人在晚上十點到午夜之間做出最好的作品。世界在睡覺，手機安靜了，創造性的大腦有空間伸展。",
-            "vocab": [
-              {
-                "word": "stretch",
-                "def": "伸展；延伸；充分發揮"
-              }
-            ]
+            "zh": "深夜的安靜。我認識的一些最有創造力的人在晚上十點到午夜之間做出最好的作品。世界在睡覺，手機安靜了，創造性的大腦有空間伸展。"
           },
           {
             "speaker": "b",
@@ -725,13 +558,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is it exactly. And then protect that window — stop letting other things encroach on it. That is where your best thinking and your best work is going to happen.",
-            "zh": "正是這樣。然後保護那個窗口——停止讓其他事情侵占它。那是你最好的思考和最好的工作將要發生的地方。",
-            "vocab": [
-              {
-                "word": "encroach on",
-                "def": "侵占；侵犯"
-              }
-            ]
+            "zh": "正是這樣。然後保護那個窗口——停止讓其他事情侵占它。那是你最好的思考和最好的工作將要發生的地方。"
           },
           {
             "speaker": "b",
@@ -743,13 +570,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Dramatically. The work I do in my first hour — which is usually between seven and eight — is noticeably better than what I produce at three in the afternoon when my energy is at its lowest.",
-            "zh": "差別很明顯。我在第一個小時完成的工作——通常在七點到八點之間——明顯比我在下午三點精力最低時產出的要好。",
-            "vocab": [
-              {
-                "word": "noticeably",
-                "def": "明顯地；顯而易見地"
-              }
-            ]
+            "zh": "差別很明顯。我在第一個小時完成的工作——通常在七點到八點之間——明顯比我在下午三點精力最低時產出的要好。"
           },
           {
             "speaker": "b",
@@ -768,9 +589,9 @@ export const WEEK_02: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "chronotype",
-        "zh": "時型（早晨型或夜晚型）",
-        "example": "Understanding her chronotype helped her stop fighting her body clock and work with it instead."
+        "en": "body clock",
+        "zh": "身體自然覺得清醒或想睡的節奏",
+        "example": "Understanding her body clock helped her stop forcing important work into her worst hours."
       },
       {
         "en": "sleep debt",
@@ -830,13 +651,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I share an apartment, yes. And mornings can be surprisingly delicate when you are living with someone who has a different rhythm than you. I am quieter in the morning; my roommate is ready to chat by seven a.m.",
-            "zh": "是的，我和別人合租公寓。當你和一個節奏不同的人一起住時，早晨可以出乎意料地微妙。我在早晨比較安靜；我的室友到了早上七點就準備好聊天了。",
-            "vocab": [
-              {
-                "word": "delicate",
-                "def": "微妙的；需要小心處理的"
-              }
-            ]
+            "zh": "是的，我和別人合租公寓。當你和一個節奏不同的人一起住時，早晨可以出乎意料地微妙。我在早晨比較安靜；我的室友到了早上七點就準備好聊天了。"
           },
           {
             "speaker": "b",
@@ -848,13 +663,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "We had an honest conversation about it early on. I told her I needed about twenty minutes of quiet before I was ready to engage. She understood immediately — and now she makes coffee while I have my quiet time, and then we talk.",
-            "zh": "我們很早就進行了一次坦誠的對話。我告訴她，我需要大約二十分鐘的安靜，才能準備好互動。她立刻理解了——現在她在我享受安靜時間的時候泡咖啡，然後我們再聊天。",
-            "vocab": [
-              {
-                "word": "engage",
-                "def": "互動；交流；參與"
-              }
-            ]
+            "zh": "我們很早就進行了一次坦誠的對話。我告訴她，我需要大約二十分鐘的安靜，才能準備好互動。她立刻理解了——現在她在我享受安靜時間的時候泡咖啡，然後我們再聊天。"
           },
           {
             "speaker": "b",
@@ -866,13 +675,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You have to, or you end up in this passive tension where nobody gets what they need. Talking about it feels awkward at first, but it is much better than silently resenting someone for being cheerful before eight a.m.",
-            "zh": "你必須這樣做，否則你們最終會陷入一種消極的緊張狀態，沒有人能得到他們需要的。談論這件事一開始感覺尷尬，但比默默地怨恨某人在早上八點前就很開朗要好多了。",
-            "vocab": [
-              {
-                "word": "resent",
-                "def": "怨恨；心懷不滿"
-              }
-            ]
+            "zh": "你必須這樣做，否則你們最終會陷入一種消極的緊張狀態，沒有人能得到他們需要的。談論這件事一開始感覺尷尬，但比默默地怨恨某人在早上八點前就很開朗要好多了。"
           },
           {
             "speaker": "b",
@@ -884,13 +687,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Once. It was genuinely difficult. We never got the mornings right, and it created a kind of low-level friction that affected our whole dynamic.",
-            "zh": "有過一次。那真的很難。我們從來都沒把早晨搞定，它產生了一種低度的摩擦，影響了我們整體的相處模式。",
-            "vocab": [
-              {
-                "word": "friction",
-                "def": "摩擦；不和諧"
-              }
-            ]
+            "zh": "有過一次。那真的很難。我們從來都沒把早晨搞定，它產生了一種低度的摩擦，影響了我們整體的相處模式。"
           }
         ]
       },
@@ -907,13 +704,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good morning conversations are low-stakes. Light topics, no major decisions, nothing emotionally demanding. The kind of conversation where you can laugh about something small or share what you are looking forward to in the day.",
-            "zh": "好的早晨對話風險很低。輕鬆的話題，沒有重大決定，沒有情感上的要求。那種可以因為一些小事而笑、或者分享你這一天期待什麼的對話。",
-            "vocab": [
-              {
-                "word": "low-stakes",
-                "def": "低風險的；沒有太大壓力的"
-              }
-            ]
+            "zh": "好的早晨對話風險很低。輕鬆的話題，沒有重大決定，沒有情感上的要求。那種可以因為一些小事而笑、或者分享你這一天期待什麼的對話。"
           },
           {
             "speaker": "b",
@@ -925,13 +716,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Heavy topics too early. Arguments about unresolved issues. Checking your phone during the conversation. Or someone being clearly not ready to talk and being pushed into it anyway.",
-            "zh": "太早討論沉重的話題。關於未解決問題的爭論。在對話中查看手機。或者某人明顯還沒準備好說話，卻被迫加入。",
-            "vocab": [
-              {
-                "word": "unresolved",
-                "def": "未解決的；懸而未決的"
-              }
-            ]
+            "zh": "太早討論沉重的話題。關於未解決問題的爭論。在對話中查看手機。或者某人明顯還沒準備好說話，卻被迫加入。"
           },
           {
             "speaker": "b",
@@ -943,13 +728,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Enormously. The morning is not the right time to bring up the rent, or that thing that annoyed you yesterday, or whether you should move to a different city. Save that for the evening when both people have more capacity.",
-            "zh": "非常重要。早晨不是提起租金問題、或昨天讓你惱火的那件事、或者你們是否應該搬到另一個城市的好時機。把這些留到晚上，那時兩個人都有更多的心理承受力。",
-            "vocab": [
-              {
-                "word": "capacity",
-                "def": "心理承受力；容量；能力"
-              }
-            ]
+            "zh": "非常重要。早晨不是提起租金問題、或昨天讓你惱火的那件事、或者你們是否應該搬到另一個城市的好時機。把這些留到晚上，那時兩個人都有更多的心理承受力。"
           },
           {
             "speaker": "b",
@@ -978,13 +757,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think there is. There is research suggesting that shared meals are one of the strongest predictors of relationship quality — whether in families, friend groups, or workplaces. Breakfast is underrated in this category.",
-            "zh": "我認為有。研究表明，共享餐點是關係品質最強有力的預測指標之一——無論是在家庭、朋友群體還是工作場所。早餐在這個類別中被低估了。",
-            "vocab": [
-              {
-                "word": "predictor",
-                "def": "預測指標；預測因素"
-              }
-            ]
+            "zh": "我認為有。研究表明，共享餐點是關係品質最強有力的預測指標之一——無論是在家庭、朋友群體還是工作場所。早餐在這個類別中被低估了。"
           },
           {
             "speaker": "b",
@@ -996,13 +769,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because we treat it as a rush. Grab and go. Eat over the sink. Most families who eat dinner together still skip shared breakfast. But the morning connection sets a different tone for how you treat each other all day.",
-            "zh": "因為我們把它當成一件匆忙的事。抓了就走。站在水槽邊吃。大多數一起吃晚飯的家庭仍然跳過共享早餐。但早晨的連結為你一整天如何對待彼此設定了不同的基調。",
-            "vocab": [
-              {
-                "word": "tone",
-                "def": "語氣"
-              }
-            ]
+            "zh": "因為我們把它當成一件匆忙的事。抓了就走。站在水槽邊吃。大多數一起吃晚飯的家庭仍然跳過共享早餐。但早晨的連結為你一整天如何對待彼此設定了不同的基調。"
           },
           {
             "speaker": "b",
@@ -1014,13 +781,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Especially ten minutes. There is something about the ritual of sitting down together — even briefly — that says \"we are part of the same world today.\" It is a small act of connection that is easy to overlook and hard to replace.",
-            "zh": "尤其是十分鐘。坐在一起的儀式感——哪怕是短暫的——有一種特別的意義，它在說「今天我們是同一個世界的一部分。」這是一個容易被忽略卻難以替代的小小連結行為。",
-            "vocab": [
-              {
-                "word": "ritual",
-                "def": "儀式；有固定形式的例行行為"
-              }
-            ]
+            "zh": "尤其是十分鐘。坐在一起的儀式感——哪怕是短暫的——有一種特別的意義，它在說「今天我們是同一個世界的一部分。」這是一個容易被忽略卻難以替代的小小連結行為。"
           },
           {
             "speaker": "b",
@@ -1049,13 +810,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think the framing matters. Eating alone can be a rich experience if you treat it as intentional time rather than something that is happening to you by default.",
-            "zh": "我認為框架很重要。如果你把獨自吃飯視為有意圖的時間，而不是默認發生在你身上的事情，它可以是一種豐富的體驗。",
-            "vocab": [
-              {
-                "word": "intentional",
-                "def": "有意圖的；刻意的"
-              }
-            ]
+            "zh": "我認為框架很重要。如果你把獨自吃飯視為有意圖的時間，而不是只是被動發生在你身上的事情，它可以是一種豐富的體驗。"
           },
           {
             "speaker": "b",
@@ -1067,13 +822,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No screens. Actually tasting the food. Maybe sitting near a window. Letting your mind wander rather than immediately directing it somewhere productive. It can be the most peaceful ten minutes of the day.",
-            "zh": "不用螢幕。真正品嚐食物。也許坐在窗邊。讓你的思緒漫遊，而不是立刻把它引導到某個有效率的地方。這可以是一天中最平靜的十分鐘。",
-            "vocab": [
-              {
-                "word": "wander",
-                "def": "（思緒）漫遊；漫步"
-              }
-            ]
+            "zh": "不用螢幕。真正品嚐食物。也許坐在窗邊。讓你的思緒漫遊，而不是立刻把它引導到某個有效率的地方。這可以是一天中最平靜的十分鐘。"
           },
           {
             "speaker": "b",
@@ -1085,13 +834,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Some of my best ideas have come during breakfast alone, because there was nothing to respond to. My brain was warm but unoccupied, and interesting thoughts had room to surface.",
-            "zh": "是的。我一些最好的想法是在獨自吃早餐時出現的，因為沒有任何事情需要回應。我的大腦是溫熱的但沒有被佔用，有趣的想法有了浮現的空間。",
-            "vocab": [
-              {
-                "word": "surface",
-                "def": "浮現；出現"
-              }
-            ]
+            "zh": "是的。我一些最好的想法是在獨自吃早餐時出現的，因為沒有任何事情需要回應。我的大腦是溫熱的但沒有被佔用，有趣的想法有了浮現的空間。"
           },
           {
             "speaker": "b",
@@ -1120,13 +863,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I have learned that I am actually more of an introvert than I thought. In the evening, I can hold a conversation for hours. In the morning, even a fifteen-minute breakfast chat takes something out of me.",
-            "zh": "我了解到自己實際上比我想像的更內向。在晚上，我可以聊幾個小時。早晨，即使是十五分鐘的早餐閒聊也會消耗我的能量。",
-            "vocab": [
-              {
-                "word": "introvert",
-                "def": "內向的人；需要獨處充電的人"
-              }
-            ]
+            "zh": "我了解到自己實際上比我想像的更內向。在晚上，我可以聊幾個小時。早晨，即使是十五分鐘的早餐閒聊也會消耗我的能量。"
           },
           {
             "speaker": "b",
@@ -1138,13 +875,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. And once I knew it, I stopped fighting it. I stopped feeling guilty for not wanting to chat in the mornings. It is not rudeness — it is how I am wired.",
-            "zh": "確實。一旦我知道這一點，我就停止了抗拒。我不再因為早晨不想閒聊而感到內疚。這不是粗魯——這是我的本性。",
-            "vocab": [
-              {
-                "word": "wired",
-                "def": "（天生）接線方式；性格傾向"
-              }
-            ]
+            "zh": "確實。一旦我知道這一點，我就停止了抗拒。我不再因為早晨不想閒聊而感到內疚。這不是粗魯——這是我的本性。"
           },
           {
             "speaker": "b",
@@ -1156,13 +887,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And the insight is useful beyond breakfast. Knowing when you need solitude and when you are available for connection makes all your relationships work better.",
-            "zh": "正是如此。這個洞察不只對早餐有用。知道你什麼時候需要獨處、什麼時候可以進行連結，能讓你所有的關係都運作得更好。",
-            "vocab": [
-              {
-                "word": "solitude",
-                "def": "獨處；孤獨（此處為正面含義）"
-              }
-            ]
+            "zh": "正是如此。這個洞察不只對早餐有用。知道你什麼時候需要獨處、什麼時候可以進行連結，能讓你所有的關係都運作得更好。"
           },
           {
             "speaker": "b",
@@ -1174,7 +899,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that information, if you pay attention to it, is worth more than any morning routine article will tell you.",
-            "zh": "而那些信息，如果你留意的話，比任何早晨習慣文章告訴你的都更有價值。"
+            "zh": "而那些資訊，如果你留意的話，比任何早晨習慣文章告訴你的都更有價值。"
           }
         ]
       }
@@ -1243,13 +968,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I try to, but I am not religious about it. I do think mornings work well for exercise for a specific reason: willpower and excuse-making ability are both lower in the morning. So if you do it before your brain has time to negotiate, it gets done.",
-            "zh": "我努力嘗試，但我不是非做不可。我確實認為早晨適合運動，有一個具體的原因：早晨的意志力和找藉口的能力都比較低。所以如果你在大腦有時間協商之前就去做，事情就會完成。",
-            "vocab": [
-              {
-                "word": "willpower",
-                "def": "意志力"
-              }
-            ]
+            "zh": "我努力嘗試，但我不是非做不可。我確實認為早晨適合運動，有一個具體的原因：早晨的意志力和找藉口的能力都比較低。所以如果你在大腦有時間協商之前就去做，事情就會完成。"
           },
           {
             "speaker": "b",
@@ -1261,13 +980,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. By evening, you have a hundred reasons not to go — you are tired, it is dark, you deserve to rest, there is something good to watch. In the morning, you barely have time to build a case against it.",
-            "zh": "正是如此。到了晚上，你有一百個理由不去——你累了，天黑了，你應該休息，有好看的節目。早晨，你幾乎沒有時間建立反對它的理由。",
-            "vocab": [
-              {
-                "word": "build a case",
-                "def": "建立論據；積累反對理由"
-              }
-            ]
+            "zh": "正是如此。到了晚上，你有一百個理由不去——你累了，天黑了，你應該休息，有好看的節目。早晨，你幾乎沒有時間建立反對它的理由。"
           },
           {
             "speaker": "b",
@@ -1279,13 +992,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly a thirty-minute walk. Sometimes a short workout at home. Nothing that requires a commute to a gym, because that commute is exactly where my excuses tend to live.",
-            "zh": "主要是三十分鐘的散步。有時候在家做短暫的鍛煉。不需要通勤到健身房的那種，因為那段通勤恰恰是我的藉口最愛待的地方。",
-            "vocab": [
-              {
-                "word": "commute",
-                "def": "通勤；往返"
-              }
-            ]
+            "zh": "主要是三十分鐘的散步。有時候在家做短暫的鍛煉。不需要通勤到健身房的那種，因為那段通勤恰恰是我的藉口最愛待的地方。"
           },
           {
             "speaker": "b",
@@ -1314,17 +1021,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes — and the research here is pretty compelling. Aerobic exercise in the morning increases BDNF — basically a protein that helps your brain learn and remember. Your thinking is measurably clearer for several hours afterward.",
-            "zh": "有——而且這方面的研究相當有說服力。早晨的有氧運動會增加BDNF——基本上是一種幫助大腦學習和記憶的蛋白質。之後幾個小時你的思維可衡量地更加清晰。",
-            "vocab": [
-              {
-                "word": "aerobic",
-                "def": "有氧的（運動類型）"
-              },
-              {
-                "word": "compelling",
-                "def": "引人注目的；有說服力的"
-              }
-            ]
+            "zh": "有——而且這方面的研究相當有說服力。早晨的有氧運動會增加BDNF——基本上是一種幫助大腦學習和記憶的蛋白質。之後幾個小時你的思維可衡量地更加清晰。"
           },
           {
             "speaker": "b",
@@ -1336,13 +1033,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how I think of it. The physical benefits are real, but for me the bigger draw is that I think more clearly for the first two or three hours of the workday after I have moved.",
-            "zh": "這是我的想法。身體上的好處是真實的，但對我來說更大的吸引力是，運動過後，工作日的前兩三個小時我的思維更加清晰。",
-            "vocab": [
-              {
-                "word": "physical benefits",
-                "def": "認知的；思維的"
-              }
-            ]
+            "zh": "這是我的想法。身體上的好處是真實的，但對我來說更大的吸引力是，運動過後，工作日的前兩三個小時我的思維更加清晰。"
           },
           {
             "speaker": "b",
@@ -1354,13 +1045,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Consistently. On the days I skip, there is a kind of mental fogginess in the first hour of work that takes longer to lift. On the days I move, I sit down and I am already warmed up.",
-            "zh": "一直都有。在我跳過運動的日子裡，工作的第一個小時有一種精神上的霧濛濛，需要更長時間才能散去。在我運動的日子裡，我坐下來的時候已經熱身好了。",
-            "vocab": [
-              {
-                "word": "fogginess",
-                "def": "模糊感；思維不清晰的狀態"
-              }
-            ]
+            "zh": "一直都有。在我跳過運動的日子裡，工作的第一個小時有一種精神上的霧濛濛，需要更長時間才能散去。在我運動的日子裡，我坐下來的時候已經熱身好了。"
           },
           {
             "speaker": "b",
@@ -1372,13 +1057,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very real. And a thirty-minute walk is one of the most effective antidotes to it that I have found. Better than a second cup of coffee.",
-            "zh": "非常真實。而三十分鐘的散步是我發現的最有效的解藥之一。比第二杯咖啡還要好。",
-            "vocab": [
-              {
-                "word": "antidote",
-                "def": "解藥；對抗措施"
-              }
-            ]
+            "zh": "非常真實。而三十分鐘的散步是我發現的最有效的解藥之一。比第二杯咖啡還要好。"
           }
         ]
       },
@@ -1395,17 +1074,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Dramatically. Exercise triggers a release of endorphins and reduces cortisol — the stress hormone. So you start the day with a lower baseline of anxiety and a higher baseline of energy. That changes everything.",
-            "zh": "非常顯著。運動觸發腦內啡的釋放並降低皮質醇——壓力荷爾蒙。所以你以更低的焦慮基準線和更高的能量基準線開始這一天。這改變了一切。",
-            "vocab": [
-              {
-                "word": "endorphin",
-                "def": "腦內啡（天然止痛和愉悅物質）"
-              },
-              {
-                "word": "cortisol",
-                "def": "皮質醇（壓力荷爾蒙）"
-              }
-            ]
+            "zh": "非常顯著。運動觸發腦內啡的釋放並降低皮質醇——壓力荷爾蒙。所以你以更低的焦慮基準線和更高的能量基準線開始這一天。這改變了一切。"
           },
           {
             "speaker": "b",
@@ -1417,13 +1086,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And there is also something about the sense of accomplishment. By eight a.m., I have already done something. That feeling — \"I have already won something today\" — is hard to put a price on.",
-            "zh": "是的。還有一種成就感的東西。到了早上八點，我已經完成了某件事。那種感覺——「今天我已經贏得了某樣東西」——很難定價。",
-            "vocab": [
-              {
-                "word": "accomplishment",
-                "def": "成就感；完成某事的滿足感"
-              }
-            ]
+            "zh": "是的。還有一種成就感的東西。到了早上八點，我已經完成了某件事。那種感覺——「今天我已經贏得了某樣東西」——很難定價。"
           },
           {
             "speaker": "b",
@@ -1435,13 +1098,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Small wins in the morning create confidence for bigger ones later. The momentum is real.",
-            "zh": "早晨的小勝利為後來更大的勝利建立了信心。這個動力是真實的。",
-            "vocab": [
-              {
-                "word": "momentum",
-                "def": "動力；勢頭；推進力"
-              }
-            ]
+            "zh": "早晨的小勝利為後來更大的勝利建立了信心。這個動力是真實的。"
           },
           {
             "speaker": "b",
@@ -1458,7 +1115,7 @@ export const WEEK_02: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Barriers and How to Get Over Them",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1470,13 +1127,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Time, primarily. Or the perception of time. Most people feel like they do not have thirty minutes — but if you audit how you actually spend your first hour, you often find time that is not being used well.",
-            "zh": "主要是時間，或者對時間的感知。大多數人覺得他們沒有三十分鐘——但如果你審視你實際上如何度過第一個小時，你常常會發現沒有被善用的時間。",
-            "vocab": [
-              {
-                "word": "audit",
-                "def": "審計；審視；仔細檢查"
-              }
-            ]
+            "zh": "主要是時間，或者對時間的感知。大多數人覺得他們沒有三十分鐘——但如果你審視你實際上如何度過第一個小時，你常常會發現沒有被善用的時間。"
           },
           {
             "speaker": "b",
@@ -1488,13 +1139,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often yes. Most people who say they have no time for morning exercise have fifteen to twenty minutes of passive phone use in bed before they get up. That is the exercise time.",
-            "zh": "通常是的。大多數說他們沒有時間做早晨運動的人，在起床之前有十五到二十分鐘在床上被動地使用手機。那就是運動時間。",
-            "vocab": [
-              {
-                "word": "passive",
-                "def": "被動的；不主動的"
-              }
-            ]
+            "zh": "通常是的。大多數說他們沒有時間做早晨運動的人，在起床之前有十五到二十分鐘在床上被動地使用手機。那就是運動時間。"
           },
           {
             "speaker": "b",
@@ -1505,14 +1150,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is real, and I have two answers. First: have your clothes ready, so the activation energy is low. Second: remember that the discomfort lasts about ninety seconds. Once you are moving, you are fine.",
-            "zh": "這是真實的，我有兩個答案。第一：把衣服準備好，這樣啟動的能量就低。第二：記住，不舒服大約持續九十秒。一旦你動起來，就沒問題了。",
-            "vocab": [
-              {
-                "word": "activation energy",
-                "def": "啟動能量；開始行動所需的初始努力"
-              }
-            ]
+            "en": "That is real, and I have two answers. First: have your clothes ready, so it is easy to start. Second: remember that the discomfort lasts about ninety seconds. Once you are moving, you are fine.",
+            "zh": "這是真實的，我有兩個答案。第一：把衣服先準備好，讓開始變得容易。第二：記住，不舒服大約持續九十秒。一旦你動起來，就沒問題了。"
           },
           {
             "speaker": "b",
@@ -1525,12 +1164,7 @@ export const WEEK_02: Episode[] = [
             "speakerName": "Mira",
             "en": "That is the trade. And once you know the discomfort is temporary, it becomes much easier to push through it.",
             "zh": "這就是這個交換。一旦你知道不適是暫時的，推過它就容易多了。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Movement Without the Gym",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1541,13 +1175,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Movement is movement. Walking to a coffee shop a bit farther away, taking the stairs instead of the elevator, doing ten minutes of stretching in your living room. The point is to get the body out of its sleeping state.",
-            "zh": "完全不是。活動就是活動。走到稍微遠一點的咖啡店、走樓梯而不是坐電梯、在客廳做十分鐘的伸展。重點是讓身體從睡眠狀態中走出來。",
-            "vocab": [
-              {
-                "word": "stretching",
-                "def": "伸展運動；拉伸"
-              }
-            ]
+            "zh": "完全不是。活動就是活動。走到稍微遠一點的咖啡店、走樓梯而不是坐電梯、在客廳做十分鐘的伸展。重點是讓身體從睡眠狀態中走出來。"
           },
           {
             "speaker": "b",
@@ -1559,13 +1187,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Always. And actually, gentle movement — a walk, some stretching — is often more sustainable than aggressive workouts, because you do not need recovery days and you do not resent it.",
-            "zh": "永遠都是。而且實際上，溫和的活動——散步、一些伸展——往往比激烈的鍛煉更持久，因為你不需要恢復日，而且你不會怨恨它。",
-            "vocab": [
-              {
-                "word": "resent",
-                "def": "怨恨；對……感到不滿"
-              }
-            ]
+            "zh": "永遠都是。而且實際上，溫和的活動——散步、一些伸展——往往比激烈的鍛煉更持久，因為你不需要恢復日，而且你不會怨恨它。"
           },
           {
             "speaker": "b",
@@ -1577,13 +1199,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Hugely underrated. It is free, it requires no equipment, you can do it alone or with someone, and the mental benefits are comparable to more intense exercise. The walking meeting is not a gimmick — there is real science behind it.",
-            "zh": "非常被低估。它是免費的，不需要任何設備，你可以獨自或與他人一起做，心理上的好處堪比更高強度的運動。邊走邊開會不是噱頭——背後有真實的科學依據。",
-            "vocab": [
-              {
-                "word": "gimmick",
-                "def": "噱頭；花招"
-              }
-            ]
+            "zh": "非常被低估。它是免費的，不需要任何設備，你可以獨自或與他人一起做，心理上的好處堪比更高強度的運動。邊走邊開會不是噱頭——背後有真實的科學依據。"
           },
           {
             "speaker": "b",
@@ -1607,9 +1223,9 @@ export const WEEK_02: Episode[] = [
         "example": "By evening, she had built a solid case against going to the gym, so she moved her workouts to mornings."
       },
       {
-        "en": "activation energy",
-        "zh": "啟動能量；開始所需的初始努力",
-        "example": "Laying out his workout clothes the night before reduced the activation energy of exercising in the morning."
+        "en": "make it easy to start",
+        "zh": "先把開始的阻力降到很低，讓自己比較容易動起來",
+        "example": "Laying out his workout clothes the night before helped him make it easy to start in the morning."
       },
       {
         "en": "endorphin rush",
@@ -1664,13 +1280,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think mindful is often misread as meditative — like you need to sit cross-legged and breathe for twenty minutes. To me, a mindful morning just means doing at least one thing with your full attention rather than on autopilot.",
-            "zh": "我認為「正念」常常被誤讀為「冥想式的」——好像你需要盤腿坐著呼吸二十分鐘。對我來說，正念早晨只是意味著至少有一件事是全神貫注去做，而不是在自動駕駛模式下進行。",
-            "vocab": [
-              {
-                "word": "autopilot",
-                "def": "自動駕駛模式；無意識地進行日常動作"
-              }
-            ]
+            "zh": "我認為「正念」常常被誤讀為「冥想式的」——好像你需要盤腿坐著呼吸二十分鐘。對我來說，正念早晨只是意味著至少有一件事是全神貫注去做，而不是在自動駕駛模式下進行。"
           },
           {
             "speaker": "b",
@@ -1682,13 +1292,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It might be noticing the temperature of the coffee mug in your hands. The sound of the street. How you feel in your body before any thoughts about the day have arrived. That is mindfulness — just paying attention on purpose.",
-            "zh": "是的。可能是注意你手中咖啡杯的溫度。街道的聲音。在任何關於這一天的想法到來之前，你的身體感覺如何。這就是正念——只是有意地去關注。",
-            "vocab": [
-              {
-                "word": "paying attention",
-                "def": "留意；認真觀察"
-              }
-            ]
+            "zh": "是的。可能是注意你手中咖啡杯的溫度。街道的聲音。在任何關於這一天的想法到來之前，你的身體感覺如何。這就是正念——只是有意地去關注。"
           },
           {
             "speaker": "b",
@@ -1700,13 +1304,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much harder. The mind is trained to plan, worry, and solve. Sitting with present experience without immediately doing something with it goes against the grain of how most of us operate.",
-            "zh": "難得多。大腦被訓練去計劃、擔憂和解決問題。帶著當下的體驗坐著而不立刻對其做些什麼，這與我們大多數人的運作方式相悖。",
-            "vocab": [
-              {
-                "word": "against the grain",
-                "def": "逆流而行；違背本性或習慣"
-              }
-            ]
+            "zh": "難得多。大腦被訓練去計劃、擔憂和解決問題。帶著當下的體驗坐著而不立刻對其做些什麼，這與我們大多數人的運作方式相悖。"
           },
           {
             "speaker": "b",
@@ -1718,13 +1316,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And mornings tend to amplify that — because there is a whole day ahead that the brain wants to start solving before you have even had breakfast.",
-            "zh": "正是如此。早晨往往會放大這一點——因為整個一天就在前方，大腦想在你吃早餐之前就開始解決它。",
-            "vocab": [
-              {
-                "word": "amplify",
-                "def": "放大；加強"
-              }
-            ]
+            "zh": "正是如此。早晨往往會放大這一點——因為整個一天就在前方，大腦想在你吃早餐之前就開始解決它。"
           }
         ]
       },
@@ -1741,13 +1333,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Three conscious breaths before getting out of bed. That is it. You take three slow breaths, notice that you are awake, and notice how you feel — rested, tired, anxious, calm. No judgment, just noticing.",
-            "zh": "在起床之前做三次有意識的呼吸。就這樣。你深呼吸三次，注意到你已經醒了，注意你的感受——是休息好了、疲倦、焦慮還是平靜。不要評判，只是注意。",
-            "vocab": [
-              {
-                "word": "conscious",
-                "def": "有意識的；刻意的"
-              }
-            ]
+            "zh": "在起床之前做三次有意識的呼吸。就這樣。你深呼吸三次，注意到你已經醒了，注意你的感受——是休息好了、疲倦、焦慮還是平靜。不要評判，只是注意。"
           },
           {
             "speaker": "b",
@@ -1759,13 +1345,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And those three breaths interrupt the automatic response of immediately grabbing your phone. That is already a significant shift.",
-            "zh": "而那三次呼吸打斷了立刻抓起手機的自動反應。那已經是一個顯著的轉變了。",
-            "vocab": [
-              {
-                "word": "interrupt",
-                "def": "打斷；中斷"
-              }
-            ]
+            "zh": "而那三次呼吸打斷了立刻抓起手機的自動反應。那已經是一個顯著的轉變了。"
           },
           {
             "speaker": "b",
@@ -1777,13 +1357,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I like a body scan — five minutes of noticing different parts of your body from head to toe without trying to change anything. It sounds strange, but it is a powerful way of arriving in your body before the day asks anything of it.",
-            "zh": "我喜歡身體掃描——花五分鐘從頭到腳注意身體的不同部分，不試圖改變任何東西。這聽起來很奇怪，但在這一天要求你的身體做任何事情之前，它是一種強大的回到身體的方式。",
-            "vocab": [
-              {
-                "word": "body scan",
-                "def": "身體掃描（正念冥想技巧）"
-              }
-            ]
+            "zh": "我喜歡身體掃描——花五分鐘從頭到腳注意身體的不同部分，不試圖改變任何東西。這聽起來很奇怪，但在這一天要求你的身體做任何事情之前，它是一種強大的回到身體的方式。"
           },
           {
             "speaker": "b",
@@ -1812,13 +1386,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can, but the morning has a unique advantage: nothing has happened yet. No frustrations, no bad emails, no difficult conversations. Your nervous system is relatively neutral, which makes it easier to settle into stillness.",
-            "zh": "你可以，但早晨有一個獨特的優勢：還什麼都沒有發生。沒有挫折，沒有糟糕的電子郵件，沒有困難的對話。你的神經系統相對中立，這使得更容易進入平靜狀態。",
-            "vocab": [
-              {
-                "word": "stillness",
-                "def": "靜止；平靜；靜默"
-              }
-            ]
+            "zh": "你可以，但早晨有一個獨特的優勢：還什麼都沒有發生。沒有挫折，沒有糟糕的電子郵件，沒有困難的對話。你的神經系統相對中立，這使得更容易進入平靜狀態。"
           },
           {
             "speaker": "b",
@@ -1830,13 +1398,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Evening mindfulness is valuable too, but it requires more effort — you have to move through the day's emotional residue before you can get to stillness. Morning is a cleaner entry point.",
-            "zh": "正是如此。晚間的正念也很有價值，但它需要更多的努力——你必須穿越這一天的情緒殘留才能到達平靜。早晨是一個更乾淨的入口。",
-            "vocab": [
-              {
-                "word": "residue",
-                "def": "殘留；殘餘物"
-              }
-            ]
+            "zh": "正是如此。晚間的正念也很有價值，但它需要更多的努力——你必須穿越這一天的情緒殘留才能到達平靜。早晨是一個更乾淨的入口。"
           },
           {
             "speaker": "b",
@@ -1848,13 +1410,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Research suggests it does. People who practice mindfulness in the morning report lower stress reactivity throughout the day — meaning difficult things still happen, but they bounce back faster.",
-            "zh": "研究表明確實如此。在早晨練習正念的人報告在一天中壓力反應性更低——意思是困難的事情仍然會發生，但他們恢復得更快。",
-            "vocab": [
-              {
-                "word": "reactivity",
-                "def": "反應性；情緒反應的強度"
-              }
-            ]
+            "zh": "研究表明確實如此。在早晨練習正念的人報告在一天中壓力反應性更低——意思是困難的事情仍然會發生，但他們恢復得更快。"
           },
           {
             "speaker": "b",
@@ -1883,13 +1439,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most important thing to know is that noticing you have been distracted IS the practice. That moment of noticing — \"oh, I was thinking about work\" — that is mindfulness happening. You have not failed; you are doing exactly what the practice asks.",
-            "zh": "最重要的是要知道，注意到自己分心了，就是在練習。那個注意到的時刻——「哦，我在想工作的事」——那就是正念在發生。你沒有失敗；你正在做正是這個練習要求的事情。",
-            "vocab": [
-              {
-                "word": "distracted",
-                "def": "注意力分散的；心不在焉的"
-              }
-            ]
+            "zh": "最重要的是要知道，注意到自己分心了，就是在練習。那個注意到的時刻——「哦，我在想工作的事」——那就是正念在發生。你沒有失敗；你正在做正是這個練習要求的事情。"
           },
           {
             "speaker": "b",
@@ -1901,13 +1451,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. The mind will always generate thoughts — that is literally its job. The practice is noticing when you have been carried away by one and gently returning. That return is the muscle you are building.",
-            "zh": "正是如此。大腦永遠都會產生想法——那就是它的工作。練習是注意到自己被某個想法帶走，然後溫和地回來。那個回來就是你在鍛煉的肌肉。",
-            "vocab": [
-              {
-                "word": "carried away",
-                "def": "被帶走；陷入其中；失去控制"
-              }
-            ]
+            "zh": "正是如此。大腦永遠都會產生想法——那就是它的工作。練習是注意到自己被某個想法帶走，然後溫和地回來。那個回來就是你在鍛煉的肌肉。"
           },
           {
             "speaker": "b",
@@ -1919,13 +1463,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would question whether they have tried it in a way that suits them. Mindfulness does not require sitting still. Running mindfully, washing dishes mindfully — these count too. The format is flexible; the principle is the same.",
-            "zh": "我會質疑他們是否以適合自己的方式嘗試過。正念不需要靜靜地坐著。有正念地跑步、有正念地洗碗——這些也算。形式是靈活的；原則是相同的。",
-            "vocab": [
-              {
-                "word": "format",
-                "def": "形式；格式；方式"
-              }
-            ]
+            "zh": "我會質疑他們是否以適合自己的方式嘗試過。正念不需要靜靜地坐著。有正念地跑步、有正念地洗碗——這些也算。形式是靈活的；原則是相同的。"
           },
           {
             "speaker": "b",
@@ -1954,13 +1492,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most significant change I have noticed is a small but consistent gap between stimulus and response. Something annoying happens, and instead of immediately reacting, there is a tiny pause — a fraction of a second — where I can actually choose how to respond.",
-            "zh": "我注意到最顯著的變化是刺激和反應之間一個小而持續的間隔。令人惱火的事情發生了，而不是立刻反應，有一個微小的停頓——一秒鐘的一小部分——在那裡我實際上可以選擇如何回應。",
-            "vocab": [
-              {
-                "word": "stimulus",
-                "def": "刺激；觸發因素"
-              }
-            ]
+            "zh": "我注意到最顯著的變化是刺激和反應之間一個小而持續的間隔。令人惱火的事情發生了，而不是立刻反應，有一個微小的停頓——一秒鐘的一小部分——在那裡我實際上可以選擇如何回應。"
           },
           {
             "speaker": "b",
@@ -1971,14 +1503,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And mindfulness practice is essentially about making that space bigger. Over months and years, the space grows. You become less reactive and more considered.",
-            "zh": "正是如此。而正念練習本質上是關於讓那個空間更大。幾個月和幾年之後，那個空間會增長。你變得反應性更小、更周全。",
-            "vocab": [
-              {
-                "word": "considered",
-                "def": "深思熟慮的；周全的"
-              }
-            ]
+            "en": "Yes — and mindfulness practice is essentially about making that space bigger. Over months and years, the space grows. You become less reactive and more considered.",
+            "zh": "對。而正念練習本質上就是在讓那個空間越來越大。幾個月、幾年之後，空間會越來越寬。你會變得比較不容易被觸發，也比較周全。"
           },
           {
             "speaker": "b",
@@ -1990,13 +1516,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does, quietly. Which is almost the point. Mindfulness does not make your life more dramatic. It makes you less at the mercy of whatever life throws at you.",
-            "zh": "它確實會，安靜地。這幾乎就是重點。正念不會讓你的生活更戲劇化。它讓你不那麼受生活對你拋擲的一切擺佈。",
-            "vocab": [
-              {
-                "word": "at the mercy of",
-                "def": "受……擺佈；任由……宰割"
-              }
-            ]
+            "zh": "它確實會，安靜地。這幾乎就是重點。正念不會讓你的生活更戲劇化。它讓你不那麼受生活對你拋擲的一切擺佈。"
           },
           {
             "speaker": "b",
@@ -2007,7 +1527,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the most honest description of what it offers. And starting small — even three breaths — is a completely legitimate entry point into that.",
+            "en": "That's the most honest description of what it offers. And starting small — even three breaths — is a completely legitimate entry point into that.",
             "zh": "這是對它提供的東西最誠實的描述。而從小開始——甚至三次呼吸——是進入這一切完全合法的入口。"
           }
         ]
@@ -2077,13 +1597,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For some people in some seasons of life — yes. But for most people most of the time, the relentless optimization of the morning is a recipe for exhaustion by nine a.m. You cannot run at full capacity from the first second of the day.",
-            "zh": "對某些人在生命的某些階段——是的。但對大多數人在大多數時候，對早晨的無情優化是到上午九點就精疲力竭的食譜。你無法從這一天的第一秒就全力以赴。",
-            "vocab": [
-              {
-                "word": "relentless",
-                "def": "無情的；不停歇的；持續不斷的"
-              }
-            ]
+            "zh": "對某些人在生命的某些階段——是的。但對大多數人在大多數時候，對早晨的無情優化是到上午九點就精疲力竭的食譜。你無法從這一天的第一秒就全力以赴。"
           },
           {
             "speaker": "b",
@@ -2095,17 +1609,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A slow morning — or at least a morning with room to breathe. Not wasted, but unhurried. There is a difference between slow and lazy. Slow means deliberate. Lazy means avoidant.",
-            "zh": "一個緩慢的早晨——或者至少是一個有喘息空間的早晨。不是浪費，而是從容。緩慢和懶惰之間有區別。緩慢意味著刻意。懶惰意味著逃避。",
-            "vocab": [
-              {
-                "word": "deliberate",
-                "def": "刻意的；深思熟慮的"
-              },
-              {
-                "word": "avoidant",
-                "def": "逃避的；回避的"
-              }
-            ]
+            "zh": "一個緩慢的早晨——或者至少是一個有喘息空間的早晨。不是浪費，而是從容。緩慢和懶惰之間有區別。緩慢意味著刻意。懶惰意味著逃避。"
           },
           {
             "speaker": "b",
@@ -2117,13 +1621,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You choose to move at a certain pace because that pace serves you — it gives your nervous system time to calibrate before the demands arrive.",
-            "zh": "正是如此。你選擇以某種節奏移動，因為那種節奏對你有用——它給你的神經系統時間在要求到來之前進行校準。",
-            "vocab": [
-              {
-                "word": "calibrate",
-                "def": "校準；調整到最佳狀態"
-              }
-            ]
+            "zh": "正是如此。你選擇以某種節奏移動，因為那種節奏對你有用——它給你的神經系統時間在要求到來之前進行校準。"
           },
           {
             "speaker": "b",
@@ -2152,13 +1650,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You arrive at the first task of the day already running on stress hormones. The hurry itself creates a kind of low-grade emergency signal in the body — and that signal is hard to switch off once it has been activated.",
-            "zh": "你到達這一天第一個任務時，已經在壓力荷爾蒙的驅動下運行了。匆忙本身在身體中產生了一種低程度的緊急信號——一旦被激活，那個信號就很難關掉。",
-            "vocab": [
-              {
-                "word": "low-grade",
-                "def": "低程度的；輕微的"
-              }
-            ]
+            "zh": "你到達這一天第一個任務時，已經在壓力荷爾蒙的驅動下運行了。匆忙本身在身體中產生了一種低程度的緊急信號——一旦被激活，那個信號就很難關掉。"
           },
           {
             "speaker": "b",
@@ -2170,13 +1662,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Whereas if you arrive already calm — having not rushed — the first hour is actually your clearest thinking hour. You are not using half your energy to regulate your stress response.",
-            "zh": "正是如此。而如果你到達時已經平靜——沒有匆忙——第一個小時實際上是你思維最清晰的時段。你不需要用一半的能量來調節你的壓力反應。",
-            "vocab": [
-              {
-                "word": "regulate",
-                "def": "調節；管控"
-              }
-            ]
+            "zh": "正是如此。而如果你到達時已經平靜——沒有匆忙——第一個小時實際上是你思維最清晰的時段。你不需要用一半的能量來調節你的壓力反應。"
           },
           {
             "speaker": "b",
@@ -2188,13 +1674,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is not your imagination. The morning really does set the emotional key for the day. And the key is hard to change once it has been established.",
-            "zh": "這不是你的想象。早晨確實為這一天設定了情緒的基調。而一旦建立，這個基調就很難改變。",
-            "vocab": [
-              {
-                "word": "emotional key",
-                "def": "情緒基調；情感色調"
-              }
-            ]
+            "zh": "這不是你的想象。早晨確實為這一天設定了情緒的基調。而一旦建立，這個基調就很難改變。"
           },
           {
             "speaker": "b",
@@ -2223,13 +1703,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I point to the quality of thinking, not the quantity of hours. An hour of clear, focused work is worth four hours of stressed, scattered work. If the slow morning produces the clear hour, the math works in its favor.",
-            "zh": "我指向思考的品質，而不是小時數。一個小時清晰、專注的工作，勝過四個小時充滿壓力、心神渙散的工作。如果緩慢的早晨能產生那個清晰的一小時，這個算術對它有利。",
-            "vocab": [
-              {
-                "word": "scattered",
-                "def": "心神渙散的；分散注意力的"
-              }
-            ]
+            "zh": "我指向思考的品質，而不是小時數。一個小時清晰、專注的工作，勝過四個小時充滿壓力、心神渙散的工作。如果緩慢的早晨能產生那個清晰的一小時，這個算術對它有利。"
           },
           {
             "speaker": "b",
@@ -2240,14 +1714,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Research supports this. There is a concept called the \"ego depletion\" effect — the idea that willpower and decision-making quality degrade as the day goes on. Starting the day less depleted means you degrade later and less severely.",
-            "zh": "研究支持這一點。有一個概念叫做「自我損耗」效應——意思是隨著一天的進展，意志力和決策品質會下降。以較少損耗開始這一天，意味著你下降得更晚也更輕微。",
-            "vocab": [
-              {
-                "word": "deplete",
-                "def": "耗盡；損耗"
-              }
-            ]
+            "en": "Research supports this. Your decision energy is usually better earlier in the day, before messages, errands, and small problems start piling up.",
+            "zh": "研究支持這一點。一天比較早的時候，你的決策能量通常更好，因為訊息、雜事和小問題還沒有開始堆上來。"
           },
           {
             "speaker": "b",
@@ -2259,13 +1727,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And the irony is that the rushed morning, in trying to pack in more, often leads to less — because the quality of what follows is compromised.",
-            "zh": "正是如此。而諷刺的是，匆忙的早晨，試圖塞入更多，往往導致更少——因為接下來的品質受到了損害。",
-            "vocab": [
-              {
-                "word": "compromised",
-                "def": "受損的；被犧牲的"
-              }
-            ]
+            "zh": "正是如此。而諷刺的是，匆忙的早晨，試圖塞入更多，往往導致更少——因為接下來的品質受到了損害。"
           },
           {
             "speaker": "b",
@@ -2277,18 +1739,12 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is counterintuitive, but it is what the evidence points to.",
-            "zh": "這是違反直覺的，但這是證據所指向的。",
-            "vocab": [
-              {
-                "word": "counterintuitive",
-                "def": "違反直覺的；出乎意料的"
-              }
-            ]
+            "zh": "這是違反直覺的，但這是證據所指向的。"
           }
         ]
       },
       {
-        "title": "Part 4 — Making Space for Slowness",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2300,13 +1756,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The main one is waking up earlier. That sounds contradictory — wake up earlier to be slower — but if you have only thirty minutes to get ready, there is no room for slowness. Give yourself an extra forty-five minutes.",
-            "zh": "主要的一個是更早起床。這聽起來很矛盾——更早起床才能更慢——但如果你只有三十分鐘準備，就沒有緩慢的空間。給自己額外的四十五分鐘。",
-            "vocab": [
-              {
-                "word": "contradictory",
-                "def": "矛盾的；相互矛盾的"
-              }
-            ]
+            "zh": "主要的一個是更早起床。這聽起來很矛盾——更早起床才能更慢——但如果你只有三十分鐘準備，就沒有緩慢的空間。給自己額外的四十五分鐘。"
           },
           {
             "speaker": "b",
@@ -2318,13 +1768,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And pre-decide as much as possible. What am I eating? What am I wearing? Having those answers ready removes the small-decision burden and leaves more room for the actual experience of the morning.",
-            "zh": "並且盡可能地預先決定。我吃什麼？我穿什麼？把這些答案準備好，消除了小決策的負擔，為早晨的實際體驗留下更多空間。",
-            "vocab": [
-              {
-                "word": "pre-decide",
-                "def": "預先決定；提前安排好"
-              }
-            ]
+            "zh": "並且盡可能地預先決定。我吃什麼？我穿什麼？把這些答案準備好，消除了小決策的負擔，為早晨的實際體驗留下更多空間。"
           },
           {
             "speaker": "b",
@@ -2336,13 +1780,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Late-night social media. I was staying up until midnight scrolling, which meant I was never getting to sleep before one, which meant mornings were always rushed. Cutting that by eleven p.m. gave me back my mornings.",
-            "zh": "深夜的社交媒體。我一直在刷手機直到午夜，這意味著我從來沒有在一點之前入睡，這意味著早晨總是匆忙的。在晚上十一點停止這個習慣讓我找回了早晨。",
-            "vocab": [
-              {
-                "word": "Cutting",
-                "def": "切斷；停止；限制"
-              }
-            ]
+            "zh": "深夜的社交媒體。我一直在刷手機直到午夜，這意味著我從來沒有在一點之前入睡，這意味著早晨總是匆忙的。在晚上十一點停止這個習慣讓我找回了早晨。"
           },
           {
             "speaker": "b",
@@ -2355,12 +1793,7 @@ export const WEEK_02: Episode[] = [
             "speakerName": "Mira",
             "en": "That is exactly how I think about it now.",
             "zh": "這正是我現在的想法。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Case for Luxury in Small Doses",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2371,13 +1804,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. I think small luxuries in the morning are underrated as a productivity strategy. When the morning feels like a gift rather than a task, you are more likely to protect it — and more likely to wake up looking forward to it.",
-            "zh": "絕對有。我認為早晨的小奢侈作為一種效率策略被低估了。當早晨感覺像是一份禮物而不是一個任務，你更有可能保護它——也更有可能醒來期待它。",
-            "vocab": [
-              {
-                "word": "small luxuries",
-                "def": "奢侈品；享受；奢華感"
-              }
-            ]
+            "zh": "絕對有。我認為早晨的小奢侈作為一種效率策略被低估了。當早晨感覺像是一份禮物而不是一個任務，你更有可能保護它——也更有可能醒來期待它。"
           },
           {
             "speaker": "b",
@@ -2389,13 +1816,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A really good coffee you take time to taste. A comfortable chair you reserve for mornings. Soft music. Bread you actually bought because you enjoy it. These are not expensive things — they are just things you are choosing to do with care rather than habit.",
-            "zh": "一杯你花時間品嚐的非常好的咖啡。一把你為早晨保留的舒適椅子。柔和的音樂。你真的因為享受而購買的麵包。這些不是昂貴的東西——只是你選擇用心而不是習慣去做的事情。",
-            "vocab": [
-              {
-                "word": "reserve",
-                "def": "保留；預留（給特定用途）"
-              }
-            ]
+            "zh": "一杯你花時間品嚐的非常好的咖啡。一把你為早晨保留的舒適椅子。柔和的音樂。你真的因為享受而購買的麵包。這些不是昂貴的東西——只是你選擇用心而不是習慣去做的事情。"
           },
           {
             "speaker": "b",
@@ -2407,13 +1828,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And the signal you are sending to yourself — \"this time is valuable, you are valuable\" — changes how you step into the rest of the day. It is not vanity. It is strategy.",
-            "zh": "是的。而你給自己發送的信號——「這段時間是有價值的，你是有價值的」——改變了你進入這一天其餘時間的方式。這不是虛榮。這是策略。",
-            "vocab": [
-              {
-                "word": "vanity",
-                "def": "虛榮；自大"
-              }
-            ]
+            "zh": "是的。而你給自己發送的信號——「這段時間是有價值的，你是有價值的」——改變了你進入這一天其餘時間的方式。這不是虛榮。這是策略。"
           },
           {
             "speaker": "b",
@@ -2424,7 +1839,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the whole argument in one sentence, and I think it is one of the most genuinely useful ideas I have found about how mornings work.",
+            "en": "That's the whole argument in one sentence, and I think it is one of the most genuinely useful ideas I have found about how mornings work.",
             "zh": "這是整個論點的一句話概括，我認為這是我發現的關於早晨如何運作的最真正有用的想法之一。"
           }
         ]
@@ -2442,9 +1857,9 @@ export const WEEK_02: Episode[] = [
         "example": "A calm breakfast set the emotional key for her day in a way a rushed one never could."
       },
       {
-        "en": "ego depletion",
-        "zh": "自我損耗",
-        "example": "Understanding ego depletion helped him schedule his most important decisions for the morning, not the afternoon."
+        "en": "decision energy",
+        "zh": "做選擇、判斷和自我控制時需要用到的精神能量",
+        "example": "He protected his decision energy by scheduling important choices before the afternoon rush."
       },
       {
         "en": "counterintuitive",
@@ -2494,13 +1909,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It happens regularly. Last Tuesday I woke up forty minutes late, the coffee machine stopped working, and I had a work call starting in twenty minutes. Nothing went according to plan.",
-            "zh": "這種情況經常發生。上週二我晚了四十分鐘醒來，咖啡機壞掉了，我還有二十分鐘後的工作電話。一切都沒有按計劃進行。",
-            "vocab": [
-              {
-                "word": "according to plan",
-                "def": "按計劃；如預期般"
-              }
-            ]
+            "zh": "這種情況經常發生。上週二我晚了四十分鐘醒來，咖啡機壞掉了，我還有二十分鐘後的工作電話。一切都沒有按計劃進行。"
           },
           {
             "speaker": "b",
@@ -2512,13 +1921,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I accepted it and triage-d. Triage means: what must happen right now, what can wait, and what can I just drop entirely? The coffee was a drop. Getting ready and joining the call on time — those were musts.",
-            "zh": "我接受了它，然後做了分流。分流的意思是：現在必須做什麼，什麼可以等，什麼可以直接放棄？咖啡是放棄的。準備好並準時參加電話——那些是必須做的。",
-            "vocab": [
-              {
-                "word": "triage",
-                "def": "分流；按緊急程度排序處理"
-              }
-            ]
+            "zh": "我接受了它，然後做了分流。分流的意思是：現在必須做什麼，什麼可以等，什麼可以直接放棄？咖啡是放棄的。準備好並準時參加電話——那些是必須做的。"
           },
           {
             "speaker": "b",
@@ -2530,35 +1933,19 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Disruption always does. When everything is forced to be minimal, you discover what you actually need as opposed to what you have built out of habit.",
-            "zh": "干擾總是如此。當一切都被迫降到最低限度時，你會發現你真正需要什麼，而不是你出於習慣建立起來的東西。",
-            "vocab": [
-              {
-                "word": "disruption",
-                "def": "干擾；打亂；中斷"
-              }
-            ]
+            "zh": "干擾總是如此。當一切都被迫降到最低限度時，你會發現你真正需要什麼，而不是你出於習慣建立起來的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is an interesting reframe — the broken morning as information.",
-            "zh": "這是一個有趣的重新框架——崩潰的早晨作為信息。"
+            "zh": "這是一個有趣的重新框架——把崩潰的早晨當成資訊。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Everything that forces you to improvise tells you something about how resilient your systems are. And I have found that the mornings where things break teach me as much as the ones that go well.",
-            "zh": "每一件迫使你即興發揮的事情都告訴你你的系統有多有彈性。我發現，那些事情出了問題的早晨教給我的，和那些進展順利的早晨一樣多。",
-            "vocab": [
-              {
-                "word": "improvise",
-                "def": "即興發揮；隨機應變"
-              },
-              {
-                "word": "resilient",
-                "def": "有彈性的；能快速復原的"
-              }
-            ]
+            "zh": "每一件迫使你即興發揮的事情都告訴你你的系統有多有彈性。我發現，那些事情出了問題的早晨教給我的，和那些進展順利的早晨一樣多。"
           }
         ]
       },
@@ -2575,17 +1962,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is the trap. A bad morning is a bad morning — it is not a verdict on the whole day. But our minds love to extrapolate: \"the morning was bad, therefore the day will be bad, therefore nothing I do today will matter.\"",
-            "zh": "那種感覺就是陷阱。一個糟糕的早晨就是一個糟糕的早晨——它不是對整天的裁決。但我們的大腦喜歡外推：「早晨很糟糕，因此這一天會很糟糕，因此我今天做的任何事都無關緊要。」",
-            "vocab": [
-              {
-                "word": "extrapolate",
-                "def": "外推；根據已知推測未知"
-              },
-              {
-                "word": "verdict",
-                "def": "裁決；判定"
-              }
-            ]
+            "zh": "那種感覺就是陷阱。一個糟糕的早晨就是一個糟糕的早晨——它不是對整天的裁決。但我們的大腦喜歡外推：「早晨很糟糕，因此這一天會很糟糕，因此我今天做的任何事都無關緊要。」"
           },
           {
             "speaker": "b",
@@ -2597,13 +1974,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The antidote is to look for a reset point — a moment in the day where you can start fresh. It does not have to be in the morning. A mindful lunch, a five-minute walk at two p.m. — these can reset the emotional tone.",
-            "zh": "正是如此。解藥是尋找一個重置點——一天中你可以重新開始的時刻。它不必在早晨。一頓有正念的午餐、下午兩點的五分鐘散步——這些都可以重置情緒基調。",
-            "vocab": [
-              {
-                "word": "reset point",
-                "def": "重置點；重新開始的時機"
-              }
-            ]
+            "zh": "正是如此。解藥是尋找一個重置點——一天中你可以重新開始的時刻。它不必在早晨。一頓有正念的午餐、下午兩點的五分鐘散步——這些都可以重置情緒基調。"
           },
           {
             "speaker": "b",
@@ -2615,13 +1986,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Any moment can be a beginning, if you decide it is. That is one of the most useful things I have learned.",
-            "zh": "如果你決定它是，任何時刻都可以是一個開始。這是我學到的最有用的事情之一。",
-            "vocab": [
-              {
-                "word": "beginning",
-                "def": "開始；起點"
-              }
-            ]
+            "zh": "如果你決定它是，任何時刻都可以是一個開始。這是我學到的最有用的事情之一。"
           },
           {
             "speaker": "b",
@@ -2650,13 +2015,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Build in flexibility. A rigid routine is fragile — if one element breaks, the whole structure collapses. A flexible routine has a core and an optional layer. The core is non-negotiable; the options adapt to the day.",
-            "zh": "內建靈活性。一個僵化的習慣是脆弱的——如果一個元素崩潰，整個結構就崩潰了。一個靈活的習慣有一個核心和一個可選層。核心是不可商量的；可選項根據這一天進行調整。",
-            "vocab": [
-              {
-                "word": "fragile",
-                "def": "脆弱的；易碎的"
-              }
-            ]
+            "zh": "內建靈活性。一個僵化的習慣是脆弱的——如果一個元素崩潰，整個結構就崩潰了。一個靈活的習慣有一個核心和一個可選層。核心是不可商量的；可選項根據這一天進行調整。"
           },
           {
             "speaker": "b",
@@ -2668,13 +2027,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Three things: some form of coffee, five minutes without screens, and a clear idea of what my top priority is for the morning. Everything else — exercise, journaling, the long breakfast — those are ideal but optional.",
-            "zh": "三件事：某種形式的咖啡、五分鐘不看螢幕、以及對早晨最重要優先事項的清晰認識。其他一切——運動、寫日記、長時間的早餐——那些是理想但可選的。",
-            "vocab": [
-              {
-                "word": "top priority",
-                "def": "最重要的優先事項；頭等大事"
-              }
-            ]
+            "zh": "三件事：某種形式的咖啡、五分鐘不看螢幕、以及對早晨最重要優先事項的清晰認識。其他一切——運動、寫日記、長時間的早餐——那些是理想但可選的。"
           },
           {
             "speaker": "b",
@@ -2686,13 +2039,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Almost always. And having done the core, the morning is not a failure — it is just a minimal-viable-routine day. Which is fine.",
-            "zh": "幾乎總是如此。完成了核心事項後，早晨就不是一個失敗——它只是一個最小可行習慣的日子。這沒關係。",
-            "vocab": [
-              {
-                "word": "minimal-viable-routine day",
-                "def": "最小可行的；符合最基本要求的"
-              }
-            ]
+            "zh": "幾乎總是如此。完成了核心事項後，早晨就不是一個失敗——它只是一個最小可行習慣的日子。這沒關係。"
           },
           {
             "speaker": "b",
@@ -2721,13 +2068,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Two main ones. First: I learned that the coffee machine matters more to me than I admitted. When it broke, my mood was noticeably affected — which was useful information about what I actually need versus what I think I should need.",
-            "zh": "兩個主要的。第一：我了解到咖啡機對我的重要性超過了我承認的。當它壞掉時，我的心情受到了明顯的影響——這是關於我真正需要什麼而不是我認為自己應該需要什麼的有用信息。",
-            "vocab": [
-              {
-                "word": "noticeably",
-                "def": "明顯地；顯而易見地"
-              }
-            ]
+            "zh": "兩個主要的。第一：我了解到咖啡機對我的重要性超過了我承認的。當它壞掉時，我的心情受到了明顯的影響——這是關於我真正需要什麼，而不是我以為自己應該需要什麼的有用資訊。"
           },
           {
             "speaker": "b",
@@ -2739,13 +2080,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Second lesson: I learned that my routine was too long. On my best mornings, I was doing everything. But when things compressed, I discovered the actual minimum — and the actual minimum was shorter than I expected.",
-            "zh": "第二個教訓：我了解到我的習慣太長了。在我最好的早晨，我在做所有的事情。但當事情被壓縮時，我發現了實際的最低限度——而實際的最低限度比我預期的要短。",
-            "vocab": [
-              {
-                "word": "compress",
-                "def": "壓縮；縮減"
-              }
-            ]
+            "zh": "第二個教訓：我了解到我的習慣太長了。在我最好的早晨，我在做所有的事情。但當事情被壓縮時，我發現了實際的最低限度——而實際的最低限度比我預期的要短。"
           },
           {
             "speaker": "b",
@@ -2757,13 +2092,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It clarifies your relationship with your own routine. You stop doing things out of inertia and start doing them because you know why they matter.",
-            "zh": "它澄清了你與自己習慣的關係。你不再出於慣性而做事，開始因為知道它們為什麼重要而去做。",
-            "vocab": [
-              {
-                "word": "inertia",
-                "def": "慣性；不思改變的傾向"
-              }
-            ]
+            "zh": "它澄清了你與自己習慣的關係。你不再出於慣性而做事，開始因為知道它們為什麼重要而去做。"
           },
           {
             "speaker": "b",
@@ -2792,13 +2121,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most honest thing is that I follow it about sixty percent of the time, and I have made peace with that. The other forty percent are disruptions, travel, late nights, sick days. A sixty percent routine is still a routine.",
-            "zh": "最誠實的事情是，我大約六十%的時間遵循它，我已經和這個事實和解了。另外四十%是干擾、旅行、深夜、生病的日子。六十%的習慣仍然是一個習慣。",
-            "vocab": [
-              {
-                "word": "made peace",
-                "def": "與……和解；接受"
-              }
-            ]
+            "zh": "最誠實的事情是，我大約六十%的時間遵循它，我已經和這個事實和解了。另外四十%是干擾、旅行、深夜、生病的日子。六十%的習慣仍然是一個習慣。"
           },
           {
             "speaker": "b",
@@ -2810,13 +2133,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Never all-or-nothing. The sixty percent keeps the thread alive. It means I am more likely to return after the disruption than if I had given up entirely.",
-            "zh": "永遠不是全有或全無。六十%保持了這條線的存活。這意味著在干擾之後，我比如果我完全放棄更有可能回來。",
-            "vocab": [
-              {
-                "word": "thread alive",
-                "def": "保持聯繫；讓習慣不完全中斷"
-              }
-            ]
+            "zh": "永遠不是全有或全無。六十%保持了這條線的存活。這意味著在干擾之後，我比如果我完全放棄更有可能回來。"
           },
           {
             "speaker": "b",
@@ -2828,13 +2145,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with one thing. One thing that is entirely yours — not borrowed from a podcast or a book. One thing that, when you do it, makes you feel like the morning was worth having.",
-            "zh": "從一件事開始。一件完全屬於你自己的事——不是從播客或書籍中借來的。一件當你去做時，讓你感覺這個早晨值得擁有的事情。",
-            "vocab": [
-              {
-                "word": "worth having",
-                "def": "值得擁有的；有價值的"
-              }
-            ]
+            "zh": "從一件事開始。一件完全屬於你自己的事——不是從播客或書籍中借來的。一件當你去做時，讓你感覺這個早晨值得擁有的事情。"
           },
           {
             "speaker": "b",

@@ -1,0 +1,203 @@
+{
+  "totalEpisodes": 14,
+  "rows": [
+    {
+      "episodeId": "W06D1",
+      "weekNumber": 6,
+      "dayOfWeek": 1,
+      "title": "Let's Eat: Food Preferences and Habits",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D2",
+      "weekNumber": 6,
+      "dayOfWeek": 2,
+      "title": "Eating Out and Restaurant Culture",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D3",
+      "weekNumber": 6,
+      "dayOfWeek": 3,
+      "title": "Street Food and Local Eats",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D4",
+      "weekNumber": 6,
+      "dayOfWeek": 4,
+      "title": "Healthy Eating and Diets",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D5",
+      "weekNumber": 6,
+      "dayOfWeek": 5,
+      "title": "Food Memories and Family Recipes",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D6",
+      "weekNumber": 6,
+      "dayOfWeek": 6,
+      "title": "International Cuisine and Fusion",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D7",
+      "weekNumber": 6,
+      "dayOfWeek": 7,
+      "title": "Food Trends and the Future of Eating",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D1",
+      "weekNumber": 7,
+      "dayOfWeek": 1,
+      "title": "The Weather Today: Talking About Climate",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D2",
+      "weekNumber": 7,
+      "dayOfWeek": 2,
+      "title": "Surviving the Rainy Season",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D3",
+      "weekNumber": 7,
+      "dayOfWeek": 3,
+      "title": "How Weather Shapes Culture",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D4",
+      "weekNumber": 7,
+      "dayOfWeek": 4,
+      "title": "Climate Anxiety and Everyday Action",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D5",
+      "weekNumber": 7,
+      "dayOfWeek": 5,
+      "title": "Storm Stories and Weather Memories",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D6",
+      "weekNumber": 7,
+      "dayOfWeek": 6,
+      "title": "Weather and Romance",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D7",
+      "weekNumber": 7,
+      "dayOfWeek": 7,
+      "title": "Dream Destinations by Season",
+      "vocabCount": 6
+    }
+  ],
+  "lowCountEpisodes": [
+    {
+      "episodeId": "W06D1",
+      "weekNumber": 6,
+      "dayOfWeek": 1,
+      "title": "Let's Eat: Food Preferences and Habits",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D2",
+      "weekNumber": 6,
+      "dayOfWeek": 2,
+      "title": "Eating Out and Restaurant Culture",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D3",
+      "weekNumber": 6,
+      "dayOfWeek": 3,
+      "title": "Street Food and Local Eats",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D4",
+      "weekNumber": 6,
+      "dayOfWeek": 4,
+      "title": "Healthy Eating and Diets",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D5",
+      "weekNumber": 6,
+      "dayOfWeek": 5,
+      "title": "Food Memories and Family Recipes",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D6",
+      "weekNumber": 6,
+      "dayOfWeek": 6,
+      "title": "International Cuisine and Fusion",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W06D7",
+      "weekNumber": 6,
+      "dayOfWeek": 7,
+      "title": "Food Trends and the Future of Eating",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D1",
+      "weekNumber": 7,
+      "dayOfWeek": 1,
+      "title": "The Weather Today: Talking About Climate",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D2",
+      "weekNumber": 7,
+      "dayOfWeek": 2,
+      "title": "Surviving the Rainy Season",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D3",
+      "weekNumber": 7,
+      "dayOfWeek": 3,
+      "title": "How Weather Shapes Culture",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D4",
+      "weekNumber": 7,
+      "dayOfWeek": 4,
+      "title": "Climate Anxiety and Everyday Action",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D5",
+      "weekNumber": 7,
+      "dayOfWeek": 5,
+      "title": "Storm Stories and Weather Memories",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D6",
+      "weekNumber": 7,
+      "dayOfWeek": 6,
+      "title": "Weather and Romance",
+      "vocabCount": 6
+    },
+    {
+      "episodeId": "W07D7",
+      "weekNumber": 7,
+      "dayOfWeek": 7,
+      "title": "Dream Destinations by Season",
+      "vocabCount": 6
+    }
+  ]
+}

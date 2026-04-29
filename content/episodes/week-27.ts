@@ -22,13 +22,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling matters. Travel begins long before you arrive somewhere new because it pulls you out of your routine first.",
-            "zh": "那個感覺很重要。旅行很多時候在你抵達新地方之前就開始了，因為它先把你拉出原本的日常。",
-            "vocab": [
-              {
-                "word": "out of your routine",
-                "def": "被拉離原本熟悉的生活節奏"
-              }
-            ]
+            "zh": "那個感覺很重要。旅行很多時候在你抵達新地方之前就開始了，因為它先把你拉出原本的日常。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An unfamiliar place wakes up parts of your attention that everyday life can quietly put to sleep.",
-            "zh": "完全沒錯。不熟悉的地方，會叫醒那些在平常生活裡慢慢睡著的注意力。",
-            "vocab": [
-              {
-                "word": "unfamiliar place",
-                "def": "讓你重新打開感官的不熟悉地方"
-              }
-            ]
+            "zh": "完全沒錯。不熟悉的地方，會叫醒那些在平常生活裡慢慢睡著的注意力。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because travel changes the scale of attention. You start taking things in more actively.",
-            "zh": "那是因為旅行會改變注意力的尺度。你會開始更主動地把很多東西收進來。",
-            "vocab": [
-              {
-                "word": "start taking",
-                "def": "真的把眼前的景象和感受收進心裡"
-              }
-            ]
+            "zh": "那是因為旅行會改變注意力的尺度。你會開始更主動地把很多東西收進來。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true. Missing a connection, getting lost, carrying a heavy bag in the heat — none of that feels poetic in the moment.",
-            "zh": "真的。像趕不上轉機、迷路、在大熱天拖著很重的行李，這些事情在當下根本一點也不詩意。",
-            "vocab": [
-              {
-                "word": "connection",
-                "def": "錯過轉機或銜接的交通"
-              }
-            ]
+            "zh": "真的。像趕不上轉機、迷路、在大熱天拖著很重的行李，這些事情在當下根本一點也不詩意。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because difficulty is part of the texture. A trip does not have to be smooth to be worth it.",
-            "zh": "因為那些麻煩本來就是質地的一部分。一趟旅行不需要很順，才算值得。",
-            "vocab": [
-              {
-                "word": "be worth it",
-                "def": "雖然有麻煩，但整體仍然值得"
-              }
-            ]
+            "zh": "因為那些麻煩本來就是質地的一部分。一趟旅行不需要很順，才算值得。"
           },
           {
             "speaker": "b",
@@ -157,8 +127,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'The trip started the moment I felt myself step out of my routine.'",
-            "zh": "你可以說：「The trip started the moment I felt myself step out of my routine.」"
+            "en": "The phrasing that lands clearly is, 'The trip started the moment I felt myself step out of my routine.'",
+            "zh": "這裡很自然的說法是：「The trip started the moment I felt myself step out of my routine.」"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to mention a person, 'Traveling with a good travel companion changes the whole emotional weather of a trip.' works well.",
-            "zh": "如果你想提到人，也可以說：「Traveling with a good travel companion changes the whole emotional weather of a trip.」",
-            "vocab": [
-              {
-                "word": "travel companion",
-                "def": "一起旅行、會影響整趟旅程感受的旅伴"
-              }
-            ]
+            "zh": "如果你想提到人，也可以說：「Traveling with a good travel companion changes the whole emotional weather of a trip.」"
           },
           {
             "speaker": "b",
@@ -217,13 +181,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Travel light if you can. Carrying less changes more than people think, especially if the trip involves moving often.",
-            "zh": "如果可以的話，就盡量輕裝。帶少一點，影響往往比大家以為的大，尤其是那種會一直移動的旅程。",
-            "vocab": [
-              {
-                "word": "travel light",
-                "def": "行李帶得輕，讓移動更自由"
-              }
-            ]
+            "zh": "如果可以的話，就盡量輕裝。帶少一點，影響往往比大家以為的大，尤其是那種會一直移動的旅程。"
           },
           {
             "speaker": "b",
@@ -300,13 +258,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mine too. Travel can be expensive, tiring, and logistically annoying, but it can also reopen possibility.",
-            "zh": "我也是。旅行可以很花錢、很累、在安排上也很煩，但它也真的可能把『可能性』重新打開。",
-            "vocab": [
-              {
-                "word": "reopen possibility",
-                "def": "重新把人生裡的可能性打開"
-              }
-            ]
+            "zh": "我也是。旅行可以很花錢、很累、在安排上也很煩，但它也真的可能把『可能性』重新打開。"
           },
           {
             "speaker": "b",
@@ -387,13 +339,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a good example. Travel shifts your perspective most strongly when it makes the familiar look chosen instead of natural.",
-            "zh": "這真的是超好的例子。旅行最會改變你的看法的時候，往往就是它讓那些原本很熟悉的事，看起來比較像『被選出來的方式』，而不是天生就該那樣。",
-            "vocab": [
-              {
-                "word": "shifts your perspective",
-                "def": "把你原本的看法往新的角度推開"
-              }
-            ]
+            "zh": "這真的是超好的例子。旅行最會改變你的看法的時候，往往就是它讓那些原本很熟悉的事，看起來比較像『被選出來的方式』，而不是天生就該那樣。"
           },
           {
             "speaker": "b",
@@ -446,13 +392,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually time, convenience, and language. At home those things are invisible, but elsewhere they become visible immediately.",
-            "zh": "通常是時間感、便利性，還有語言。在家裡這些東西幾乎是隱形的，可是一到別的地方，馬上就變得很可見。",
-            "vocab": [
-              {
-                "word": "convenience",
-                "def": "通常是時間感、便利性"
-              }
-            ]
+            "zh": "通常是時間感、便利性，還有語言。在家裡這些東西幾乎是隱形的，可是一到別的地方，馬上就變得很可見。"
           },
           {
             "speaker": "b",
@@ -464,13 +404,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and those tiny frictions reset your eyes. They make you notice the systems under daily life.",
-            "zh": "完全沒錯，而那些小小的摩擦會重新校正你的眼睛。它們會讓你看見日常生活底下的整套系統。",
-            "vocab": [
-              {
-                "word": "reset your eyes",
-                "def": "讓你重新看到原本看不見的東西"
-              }
-            ]
+            "zh": "完全沒錯，而那些小小的摩擦會重新校正你的眼睛。它們會讓你看見日常生活底下的整套系統。"
           },
           {
             "speaker": "b",
@@ -511,13 +445,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clean way to say it is, 'The trip widened my world in a way I did not expect from such ordinary moments.'",
-            "zh": "你可以說：「The trip widened my world in a way I did not expect from such ordinary moments.」",
-            "vocab": [
-              {
-                "word": "widened my world",
-                "def": "讓你的世界感和理解範圍被打開"
-              }
-            ]
+            "zh": "你可以說：「The trip widened my world in a way I did not expect from such ordinary moments.」"
           },
           {
             "speaker": "b",
@@ -541,13 +469,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'Travel made me notice what I usually move past without thinking.'",
-            "zh": "如果你想講得更具體，也可以說：「Travel made me notice what I usually move past without thinking.」",
-            "vocab": [
-              {
-                "word": "notice",
-                "def": "開始注意一個地方的節奏和生活步調"
-              }
-            ]
+            "zh": "如果你想講得更具體，也可以說：「Travel made me notice what I usually move past without thinking.」"
           },
           {
             "speaker": "b",
@@ -564,7 +486,7 @@ export const WEEK_27: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Letting the Perspective Stay With You",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -588,13 +510,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you want the trip to keep working on you, you have to absorb the trip a little more intentionally.",
-            "zh": "完全沒錯。如果你想讓那趟旅行持續對你起作用，你得更有意識地把它吸收進來。",
-            "vocab": [
-              {
-                "word": "absorb the trip",
-                "def": "你得更有意識地把它吸收進來"
-              }
-            ]
+            "zh": "完全沒錯。如果你想讓那趟旅行持續對你起作用，你得更有意識地把它吸收進來。"
           },
           {
             "speaker": "b",
@@ -619,35 +535,18 @@ export const WEEK_27: Episode[] = [
             "speakerName": "Mira",
             "en": "A lot of people do not, which is why so many good trips fade into a blur instead of becoming understanding.",
             "zh": "很多人都不會，所以很多好的旅行最後就只是糊成一團記憶，而沒有真的長成理解。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What It Means to Come Home Different",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does it actually mean to come home different after a trip?",
-            "zh": "所以一趟旅行後『帶著不一樣的自己回家』，到底實際上是什麼意思？",
-            "vocab": [
-              {
-                "word": "come home different",
-                "def": "帶著稍微不同的看法和感覺回到原本生活"
-              }
-            ]
+            "zh": "所以一趟旅行後『帶著不一樣的自己回家』，到底實際上是什麼意思？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually it means you return with a softer certainty. You still have your preferences, but you hold them less like universal truth.",
-            "zh": "很多時候，它的意思是你會帶著一種比較柔軟的確定感回來。你還是有自己的偏好，可是你不再把它們拿得像普世真理一樣。",
-            "vocab": [
-              {
-                "word": "softer certainty",
-                "def": "還有自己的判斷，但拿得比較柔軟"
-              }
-            ]
+            "zh": "很多時候，它的意思是你會帶著一種比較柔軟的確定感回來。你還是有自己的偏好，可是你不再把它們拿得像普世真理一樣。"
           },
           {
             "speaker": "b",
@@ -752,13 +651,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what happens when planning stops serving the trip and starts controlling it.",
-            "zh": "這就是當規劃不再服務旅行，反而開始控制旅行時會發生的事。",
-            "vocab": [
-              {
-                "word": "planning stops serving",
-                "def": "先替旅行做出行程安排和順序"
-              }
-            ]
+            "zh": "這就是當規劃不再服務旅行，反而開始控制旅行時會發生的事。"
           },
           {
             "speaker": "b",
@@ -770,13 +663,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Planning is useful, but overplanning can drain the sense of discovery right out of a place.",
-            "zh": "規劃本身很有用，但規劃過頭真的會把一個地方裡那種發現感整個抽乾。",
-            "vocab": [
-              {
-                "word": "overplan",
-                "def": "把旅行排得太滿、太死"
-              }
-            ]
+            "zh": "規劃本身很有用，但規劃過頭真的會把一個地方裡那種發現感整個抽乾。"
           },
           {
             "speaker": "b",
@@ -817,13 +704,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true. Going with the flow works better when the basics are already handled.",
-            "zh": "這是真的。順著當下走這件事，通常是在最基本的東西都先處理好了之後才比較有效。",
-            "vocab": [
-              {
-                "word": "flow works",
-                "def": "不要每一步都硬控，允許當下自然發展"
-              }
-            ]
+            "zh": "這是真的。順著當下走這件事，通常是在最基本的東西都先處理好了之後才比較有效。"
           },
           {
             "speaker": "b",
@@ -835,13 +716,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A flexible plan is often stronger than either total control or total chaos.",
-            "zh": "完全沒錯。彈性的計畫，很多時候比完全控制和完全混亂都更強。",
-            "vocab": [
-              {
-                "word": "flexible plan",
-                "def": "先有方向，但保留調整空間的安排"
-              }
-            ]
+            "zh": "完全沒錯。彈性的計畫，很多時候比完全控制和完全混亂都更強。"
           },
           {
             "speaker": "b",
@@ -853,13 +728,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A few anchor plans can free the rest of the day instead of trapping it.",
-            "zh": "幾個錨點式的安排，其實會讓整天其他地方比較自由，而不是被困住。",
-            "vocab": [
-              {
-                "word": "anchor plan",
-                "def": "幫一天定方向"
-              }
-            ]
+            "zh": "幾個錨點式的安排，其實會讓整天其他地方比較自由，而不是被困住。"
           },
           {
             "speaker": "b",
@@ -888,13 +757,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sentence that works well is 'I like to plan the essentials and leave room for detours.'",
-            "zh": "你可以說：「I like to plan the essentials and leave room for detours.」",
-            "vocab": [
-              {
-                "word": "leave room",
-                "def": "刻意保留一些空間，不把行程塞滿"
-              }
-            ]
+            "zh": "你可以說：「I like to plan the essentials and leave room for detours.」"
           },
           {
             "speaker": "b",
@@ -906,13 +769,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I do better with a must-see list than with a full hour-by-hour schedule.'",
-            "zh": "另一句也很好：「I do better with a must-see list than with a full hour-by-hour schedule.」",
-            "vocab": [
-              {
-                "word": "must-see list",
-                "def": "真的最想看的少數重點清單"
-              }
-            ]
+            "zh": "另一句也很好：「I do better with a must-see list than with a full hour-by-hour schedule.」"
           },
           {
             "speaker": "b",
@@ -924,13 +781,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to sound more relaxed, you could say, 'I want one good plan per day and the rest can be more spontaneous.'",
-            "zh": "如果你想講得更放鬆，也可以說：「I want one good plan per day and the rest can be more spontaneous.」",
-            "vocab": [
-              {
-                "word": "spontaneous",
-                "def": "自發的；即興的"
-              }
-            ]
+            "zh": "如果你想講得更放鬆，也可以說：「I want one good plan per day and the rest can be more spontaneous.」"
           },
           {
             "speaker": "b",
@@ -959,13 +810,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is hard, but it is also freeing. A packed schedule can make you miss the texture of the day you are actually in.",
-            "zh": "這很難，但也很解放。塞滿的行程很容易讓你錯過眼前這一天自己的質地。",
-            "vocab": [
-              {
-                "word": "packed schedule",
-                "def": "排得太滿、讓人一直趕的行程"
-              }
-            ]
+            "zh": "這很難，但也很解放。塞滿的行程很容易讓你錯過眼前這一天自己的質地。"
           },
           {
             "speaker": "b",
@@ -1123,13 +968,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a real budget-travel lesson. Saving money and stretching your budget are not always the same thing.",
-            "zh": "這真的是很典型的預算旅行教訓。省錢，和把預算用得更有效，其實不是同一件事。",
-            "vocab": [
-              {
-                "word": "stretching your budget",
-                "def": "把有限預算用得更聰明、更撐得久"
-              }
-            ]
+            "zh": "這真的是很典型的預算旅行教訓。省錢，和把預算用得更有效，其實不是同一件事。"
           },
           {
             "speaker": "b",
@@ -1141,13 +980,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Budget travel is really about choosing where cost matters and where comfort matters more.",
-            "zh": "完全沒錯。預算旅行真正的核心，是選出哪裡成本最重要、哪裡舒服反而更重要。",
-            "vocab": [
-              {
-                "word": "Budget travel",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。預算旅行真正的核心，是選出哪裡成本最重要、哪裡舒服反而更重要。"
           },
           {
             "speaker": "b",
@@ -1159,19 +992,13 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Value for money is often a much better question than cheapest possible.",
-            "zh": "完全不是。『值不值得這個錢』，很多時候比『能不能壓到最便宜』是更好的問題。",
-            "vocab": [
-              {
-                "word": "value for money",
-                "def": "花出去的錢換回來的整體價值感"
-              }
-            ]
+            "zh": "完全不是。『值不值得這個錢』，很多時候比『能不能壓到最便宜』是更好的問題。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like something I need in every part of life, not only travel.",
-            "zh": "這個原則感覺不只旅行有用，人生其他地方也都很有用。"
+            "en": "That resonates — the pattern really is there.",
+            "zh": "這說到點上——那個規律確實存在。"
           },
           {
             "speaker": "a",
@@ -1194,13 +1021,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I usually splurge on the thing that protects the whole trip and cut costs on the parts that matter less emotionally.",
-            "zh": "我通常會在那種能保住整趟旅行品質的地方稍微多花一點，然後在那些情感上沒那麼重要的部分省下來。",
-            "vocab": [
-              {
-                "word": "splurge on",
-                "def": "在某個值得的地方多花一點"
-              }
-            ]
+            "zh": "我通常會在那種能保住整趟旅行品質的地方稍微多花一點，然後在那些情感上沒那麼重要的部分省下來。"
           },
           {
             "speaker": "b",
@@ -1212,13 +1033,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. I would rather stay somewhere affordable and central than save a little more and spend two hours a day commuting.",
-            "zh": "完全沒錯。我寧可住在一個負擔得起、又夠中心的位置，也不要再多省一點，卻每天多花兩小時在移動。",
-            "vocab": [
-              {
-                "word": "affordable",
-                "def": "負擔得起，不會把預算壓垮的"
-              }
-            ]
+            "zh": "完全沒錯。我寧可住在一個負擔得起、又夠中心的位置，也不要再多省一點，卻每天多花兩小時在移動。"
           },
           {
             "speaker": "b",
@@ -1258,14 +1073,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am trying to keep costs down without flattening the whole experience.'",
-            "zh": "你可以說：「I am trying to keep costs down without flattening the whole experience.」",
-            "vocab": [
-              {
-                "word": "keep costs down",
-                "def": "把花費壓低，但不是亂省"
-              }
-            ]
+            "en": "A useful version of that is, 'I am trying to keep costs down without flattening the whole experience.'",
+            "zh": "這裡很自然的說法是：「I am trying to keep costs down without flattening the whole experience.」"
           },
           {
             "speaker": "b",
@@ -1288,20 +1097,14 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something more practical, another option is, 'We can save money here so we have room to splurge later.'",
-            "zh": "如果你想講得更實際，也可以說：「We can save money here so we have room to splurge later.」",
-            "vocab": [
-              {
-                "word": "practical",
-                "def": "實際的；務實的"
-              }
-            ]
+            "en": "When you need something more practical, another option is, 'We can save money here so we have room to splurge later.'",
+            "zh": "如果你想講得更實際，也可以說：「We can save money here so we have room to splurge later.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a real traveler, not just a coupon collector.",
-            "zh": "這句聽起來很像真的在旅行的人，不只是找折扣的人。"
+            "en": "That's consistent with what happens in real life.",
+            "zh": "這和真實生活裡發生的事是一致的。"
           },
           {
             "speaker": "a",
@@ -1336,13 +1139,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It taught me that free is not always a bargain if the cheaper choice quietly kills the memory.",
-            "zh": "那次真的教會我，如果比較便宜的選擇默默把記憶整個殺掉了，那免費也不一定划算。",
-            "vocab": [
-              {
-                "word": "bargain",
-                "def": "看起來很划算、但要看整體值不值"
-              }
-            ]
+            "zh": "那次真的教會我，如果比較便宜的選擇默默把記憶整個殺掉了，那免費也不一定划算。"
           },
           {
             "speaker": "b",
@@ -1395,13 +1192,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It absolutely does. Budget travel can make you more creative, more selective, and less impressed by expensive surfaces.",
-            "zh": "完全會。預算旅行真的會讓人變得更有創意、更會選擇，也比較不會被昂貴表面迷住。",
-            "vocab": [
-              {
-                "word": "selective",
-                "def": "比較會選，不再什麼都想抓"
-              }
-            ]
+            "zh": "完全會。預算旅行真的會讓人變得更有創意、更會選擇，也比較不會被昂貴表面迷住。"
           },
           {
             "speaker": "b",
@@ -1493,14 +1284,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very honest description of culture shock. It is often not dramatic at first, just slightly disorienting in many tiny ways.",
-            "zh": "這真的是一個很誠實的文化衝擊描述。它很多時候一開始不會很戲劇化，而是很多很小的地方都有點讓人失去方向。",
-            "vocab": [
-              {
-                "word": "culture shock",
-                "def": "進到陌生文化後產生的失衡與不適感"
-              }
-            ]
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "b",
@@ -1512,13 +1297,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, because familiar social cues suddenly stop working automatically.",
-            "zh": "完全沒錯，因為那些你原本熟悉的社交線索忽然不會自動奏效了。",
-            "vocab": [
-              {
-                "word": "social cue",
-                "def": "社交暗示；社交信號"
-              }
-            ]
+            "zh": "完全沒錯，因為那些你原本熟悉的社交線索忽然不會自動奏效了。"
           },
           {
             "speaker": "b",
@@ -1553,25 +1332,13 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What helps most when you start feeling out of place?",
-            "zh": "當你開始覺得自己很不合拍時，最有幫助的是什麼？",
-            "vocab": [
-              {
-                "word": "out of place",
-                "def": "最有幫助的是什麼"
-              }
-            ]
+            "zh": "當你開始覺得自己很不合拍時，最有幫助的是什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Respectful curiosity. Not the kind that treats people like a spectacle, but the kind that quietly notices before judging.",
-            "zh": "有禮貌的好奇心。不是那種把別人當景觀看的好奇，而是那種先安靜觀察、不要急著判斷的好奇。",
-            "vocab": [
-              {
-                "word": "respectful curiosity",
-                "def": "帶著尊重去理解，而不是急著評論的好奇"
-              }
-            ]
+            "zh": "有禮貌的好奇心。不是那種把別人當景觀看的好奇，而是那種先安靜觀察、不要急著判斷的好奇。"
           },
           {
             "speaker": "b",
@@ -1595,13 +1362,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Adapt quickly when you can, but do not confuse speed with understanding.",
-            "zh": "完全沒錯。能快點適應當然很好，但不要把速度誤認成理解。",
-            "vocab": [
-              {
-                "word": "adapt quickly",
-                "def": "在陌生情境裡盡快調整自己的方式"
-              }
-            ]
+            "zh": "完全沒錯。能快點適應當然很好，但不要把速度誤認成理解。"
           },
           {
             "speaker": "b",
@@ -1642,13 +1403,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'The language barrier was tiring in a way I had underestimated.'",
-            "zh": "另一句也很好：「The language barrier was tiring in a way I had underestimated.」",
-            "vocab": [
-              {
-                "word": "language barrier",
-                "def": "語言不通造成的理解和互動障礙"
-              }
-            ]
+            "zh": "另一句也很好：「The language barrier was tiring in a way I had underestimated.」"
           },
           {
             "speaker": "b",
@@ -1659,14 +1414,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to sound more reflective, a natural line is, 'I realized how many local customs I had been reading through my own habits.'",
-            "zh": "如果你想講得更有反思感，也可以說：「I realized how many local customs I had been reading through my own habits.」",
-            "vocab": [
-              {
-                "word": "local custom",
-                "def": "某個地方大家默默遵守的生活習慣和做法"
-              }
-            ]
+            "en": "When you need to sound more reflective, a natural line is, 'I realized how many local customs I had been reading through my own habits.'",
+            "zh": "如果你想講得更有反思感，也可以說：「I realized how many local customs I had been reading through my own habits.」"
           },
           {
             "speaker": "b",
@@ -1683,7 +1432,7 @@ export const WEEK_27: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Mistakes Can Become the Lesson",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -1707,13 +1456,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It did, but it also taught me that misunderstanding is often part of learning a culture, not proof that you should never have gone.",
-            "zh": "真的很糟，但它也教會我：誤解很多時候就是學一個文化的一部分，不是證明你根本不該來。",
-            "vocab": [
-              {
-                "word": "misunderstanding",
-                "def": "因為文化差異而產生的誤解"
-              }
-            ]
+            "zh": "真的很糟，但它也教會我：誤解很多時候就是學一個文化的一部分，不是證明你根本不該來。"
           },
           {
             "speaker": "b",
@@ -1738,12 +1481,7 @@ export const WEEK_27: Episode[] = [
             "speakerName": "Mira",
             "en": "Absolutely. A sincere correction often builds more connection than pretending you did nothing wrong.",
             "zh": "完全重要。真誠地修正，很多時候比假裝自己沒做錯任何事更能建立連結。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Culture Shock Can Give You",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1789,7 +1527,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then keep it. Some of the best travel lessons arrive disguised as discomfort.",
+            "en": "Keep it. Some of the best travel lessons arrive disguised as discomfort.",
             "zh": "那就把它留著。有些最好的旅行教訓，真的就是穿著不舒服外衣來的。"
           }
         ]
@@ -1859,13 +1597,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Travel does that. A small decision becomes a pressure point because everyone is tired, displaced, and carrying different expectations.",
-            "zh": "旅行真的很會這樣。很小的決定會忽然變成壓力點，因為大家都累、都離開熟悉環境，而且每個人帶著不同期待。",
-            "vocab": [
-              {
-                "word": "different expectations",
-                "def": "大家都累、都離開熟悉環境"
-              }
-            ]
+            "zh": "旅行真的很會這樣。很小的決定會忽然變成壓力點，因為大家都累、都離開熟悉環境，而且每個人帶著不同期待。"
           },
           {
             "speaker": "b",
@@ -1876,14 +1608,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a travel style clash, and it happens all the time.",
-            "zh": "那就是典型的旅行風格衝突，而且真的非常常見。",
-            "vocab": [
-              {
-                "word": "travel style",
-                "def": "每個人旅行時對節奏、重點和安排的偏好"
-              }
-            ]
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "b",
@@ -1924,13 +1650,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A travel companion is not only someone you like. It is someone whose pace, preferences, and communication style can survive the trip.",
-            "zh": "完全沒錯。旅伴不只是你喜歡的人，也是那種他的節奏、偏好和溝通方式能撐得過整趟旅行的人。",
-            "vocab": [
-              {
-                "word": "travel companion",
-                "def": "互相影響的人"
-              }
-            ]
+            "zh": "完全沒錯。旅伴不只是你喜歡的人，也是那種他的節奏、偏好和溝通方式能撐得過整趟旅行的人。"
           },
           {
             "speaker": "b",
@@ -1954,13 +1674,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe, but unclear expectations create far more tension than one honest conversation ever will.",
-            "zh": "也許吧，可是不清楚的期待，最後製造出來的緊張感，通常比一場誠實對話大太多了。",
-            "vocab": [
-              {
-                "word": "tension",
-                "def": "彼此之間慢慢累積起來的不舒服和緊繃"
-              }
-            ]
+            "zh": "也許吧，可是不清楚的期待，最後製造出來的緊張感，通常比一場誠實對話大太多了。"
           },
           {
             "speaker": "b",
@@ -2001,13 +1715,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'Do you want to split up for a bit and meet back here later?'",
-            "zh": "另一句也很好：「Do you want to split up for a bit and meet back here later?」",
-            "vocab": [
-              {
-                "word": "split up",
-                "def": "先分開各自走一段，再約回來"
-              }
-            ]
+            "zh": "另一句也很好：「Do you want to split up for a bit and meet back here later?」"
           },
           {
             "speaker": "b",
@@ -2019,13 +1727,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if you need to address a pattern, say, 'I think we need to meet in the middle a bit more on the pace.'",
-            "zh": "如果你需要處理一個一直重複的問題，也可以說：「I think we need to meet in the middle a bit more on the pace.」",
-            "vocab": [
-              {
-                "word": "meet in the middle",
-                "def": "彼此往中間走一點，找到都能接受的做法"
-              }
-            ]
+            "zh": "如果你需要處理一個一直重複的問題，也可以說：「I think we need to meet in the middle a bit more on the pace.」"
           },
           {
             "speaker": "b",
@@ -2054,13 +1756,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should feel mutual. If one person keeps carrying the emotional weight and the planning weight, the trip will get crooked fast.",
-            "zh": "它應該感覺得到是互相的。如果一直都是同一個人在扛情緒重量和規劃重量，整趟旅程很快就會歪掉。",
-            "vocab": [
-              {
-                "word": "emotional weight",
-                "def": "它應該感覺得到是互相的"
-              }
-            ]
+            "zh": "它應該感覺得到是互相的。如果一直都是同一個人在扛情緒重量和規劃重量，整趟旅程很快就會歪掉。"
           },
           {
             "speaker": "b",
@@ -2072,13 +1768,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Group dynamics show up quickly on a trip because there is less room to hide them.",
-            "zh": "完全沒錯。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。",
-            "vocab": [
-              {
-                "word": "group dynamic",
-                "def": "幾個人一起行動時的互動模式和力量分布"
-              }
-            ]
+            "zh": "完全沒錯。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。"
           },
           {
             "speaker": "b",
@@ -2236,13 +1926,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All three can be true. Post-trip blues happen because the body returns home faster than the mind does.",
-            "zh": "三個都有可能是真的。所謂 post-trip blues 很多時候就是身體先回家了，可是心還沒。",
-            "vocab": [
-              {
-                "word": "post-trip blues",
-                "def": "旅行結束後那種淡淡失落、空空的感覺"
-              }
-            ]
+            "zh": "三個都有可能是真的。所謂 post-trip blues 很多時候就是身體先回家了，可是心還沒。"
           },
           {
             "speaker": "b",
@@ -2254,13 +1938,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A trip stretches you outward. Coming back can feel like folding too quickly into a smaller shape.",
-            "zh": "旅行會把你往外撐開。回來時，那感覺有時候就像你太快又被折回一個比較小的形狀裡。",
-            "vocab": [
-              {
-                "word": "trip stretches",
-                "def": "把你往外撐開"
-              }
-            ]
+            "zh": "旅行會把你往外撐開。回來時，那感覺有時候就像你太快又被折回一個比較小的形狀裡。"
           },
           {
             "speaker": "b",
@@ -2301,13 +1979,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A changed perspective can make ordinary routines feel slightly dull for a little while.",
-            "zh": "完全沒錯。觀點被改變之後，原本的日常節奏有時候會在一小段時間裡顯得有點無聊。",
-            "vocab": [
-              {
-                "word": "changed perspective",
-                "def": "觀點被改變之後"
-              }
-            ]
+            "zh": "完全沒錯。觀點被改變之後，原本的日常節奏有時候會在一小段時間裡顯得有點無聊。"
           },
           {
             "speaker": "b",
@@ -2319,13 +1991,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Coming home is not only about unpacking your bag. It is also about unpacking the shift in your attention.",
-            "zh": "很好。回家不只是把行李打開而已，它也包含慢慢把那個被改變的注意力打開。",
-            "vocab": [
-              {
-                "word": "unpacking",
-                "def": "回家不只是把行李打開而已"
-              }
-            ]
+            "zh": "很好。回家不只是把行李打開而已，它也包含慢慢把那個被改變的注意力打開。"
           },
           {
             "speaker": "b",
@@ -2353,8 +2019,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am home, but part of me is still catching up to the return.'",
-            "zh": "你可以說：「I am home, but part of me is still catching up to the return.」"
+            "en": "A phrase that works well here is, 'I am home, but part of me is still catching up to the return.'",
+            "zh": "這裡很自然的說法是：「I am home, but part of me is still catching up to the return.」"
           },
           {
             "speaker": "b",
@@ -2366,13 +2032,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, 'The trip is over logistically, but I am still absorbing it emotionally.'",
-            "zh": "另一句也很好：「The trip is over logistically, but I am still absorbing it emotionally.」",
-            "vocab": [
-              {
-                "word": "absorbing it emotionally",
-                "def": "情緒上還在慢慢消化那趟旅行"
-              }
-            ]
+            "zh": "另一句也很好：「The trip is over logistically, but I am still absorbing it emotionally.」"
           },
           {
             "speaker": "b",
@@ -2384,13 +2044,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to sound more grounded, try, 'I think I need a day to settle in before I fully feel back.'",
-            "zh": "如果你想講得更踏實，也可以說：「I think I need a day to settle in before I fully feel back.」",
-            "vocab": [
-              {
-                "word": "settle in",
-                "def": "讓自己慢慢重新安頓回原本的生活裡"
-              }
-            ]
+            "zh": "如果你想講得更踏實，也可以說：「I think I need a day to settle in before I fully feel back.」"
           },
           {
             "speaker": "b",
@@ -2431,13 +2085,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you bring something back consciously, the trip keeps working on your life instead of becoming only memory.",
-            "zh": "完全沒錯。如果你有意識地帶回一點什麼，那趟旅行就會繼續對你的生活起作用，而不只是變成記憶。",
-            "vocab": [
-              {
-                "word": "bring something back",
-                "def": "從旅行帶回一個會留在生活裡的東西"
-              }
-            ]
+            "zh": "完全沒錯。如果你有意識地帶回一點什麼，那趟旅行就會繼續對你的生活起作用，而不只是變成記憶。"
           },
           {
             "speaker": "b",
@@ -2490,13 +2138,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes it is. But it is also what turns travel from escape into growth.",
-            "zh": "有時候真的比較難。但它也正是把旅行從逃離，慢慢變成成長的那一步。",
-            "vocab": [
-              {
-                "word": "growth",
-                "def": "增長；成長"
-              }
-            ]
+            "zh": "有時候真的比較難。但它也正是把旅行從逃離，慢慢變成成長的那一步。"
           },
           {
             "speaker": "b",
@@ -2519,7 +2161,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then keep it with you on the next return too.",
+            "en": "Keep it with you on the next return too.",
             "zh": "那下次回來時，也把它一起帶著吧。"
           }
         ]

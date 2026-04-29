@@ -18,7 +18,7 @@
 
 ## Short Description（Google Play 限 80 字）
 
-Build real English fluency with a daily 3-module routine: listen to podcast-style episodes, speak and record yourself reading articles, then get AI feedback on your conversation practice.
+Build real English fluency with a daily 4-part routine: listen to podcast-style episodes, shadow short speaking lines, get AI conversation feedback, and review with weekly recap flashcards.
 
 ---
 
@@ -30,21 +30,21 @@ Build real English fluency with a daily 3-module routine: listen to podcast-styl
 
 Build lasting English fluency with a structured, daily practice routine that fits into any schedule.
 
-SAV Daily English gives you a full year of content — 53 weeks, 365 days — organized into three daily modules that work together to develop listening, speaking, and conversation skills simultaneously.
+SAV Daily English gives you a full year of content — 53 weeks, 365 days — organized into four connected modules that work together to develop listening, speaking, conversation, and review habits.
 
 **THREE MODULES, ONE DAILY HABIT**
 
 🎧 **Listen** — Podcast-Style Episodes
 Each day begins with a curated podcast episode covering topics like technology, travel, business, science, and culture. Follow along with the bilingual transcript, tap any line to hear it spoken, and review key phrases at your own pace.
 
-📖 **Speak** — Article Reading Practice
-Read high-quality English articles aloud and record yourself. Compare your pronunciation and fluency with the native model. Each article includes vocabulary highlights with Chinese explanations. Tap any paragraph to hear it before you practice.
+📖 **Speak** — Guided Shadowing Practice
+Practice with short, natural lines taken from the day's episode. Listen to a model, shadow the line aloud, record your version, and then turn the same language into your own answer.
 
 💬 **Conversation** — AI Feedback
 Answer open-ended English questions and get instant, personalized feedback from AI. The system identifies grammar mistakes, suggests better phrasing, and explains why — so each session teaches you something new.
 
-🃏 **Review** — Smart Flashcards
-Vocabulary from your Listen and Speak sessions surfaces in a grid of flashcards. Tap to flip between English and Chinese, and mark cards as mastered when you're confident.
+🃏 **Review** — Weekly Recall + Flashcards
+Review is more than flipping cards. Start with retrieval prompts, recap the week's theme in your own words, then use flashcards from Listen and Speak to lock in the most useful language.
 
 **A YEAR OF CONTENT, ONE PURCHASE**
 Unlike subscription apps, SAV Daily English is a one-time purchase with no recurring fees. The full 53-week, 365-day curriculum is included — from January 1 through December 31. Start any day and the content adapts to today's date.
@@ -63,27 +63,27 @@ Technology · Science · Business & Career · Travel · AI & the Future · Innov
 
 透過結構化的每日練習，建立持久的英語能力，而且適合任何行程安排。
 
-SAV Daily English 提供完整一年的內容——53 週、365 天，每天三個模組，同步訓練聽力、口說與對話能力。
+SAV Daily English 提供完整一年的內容——53 週、365 天，透過四個彼此串連的模組，同步訓練聽力、口說、對話與複習能力。
 
 **三大模組，一個每日習慣**
 
 🎧 **Listen 聆聽** — Podcast 風格集數
 每天從精選 Podcast 集數開始，涵蓋科技、旅遊、商業、科學與文化等主題。跟著雙語逐字稿閱讀，點擊任意一行即可聆聽朗讀，按自己的節奏複習關鍵片語。
 
-📖 **Speak 口說** — 文章朗讀練習
-大聲朗讀高品質英語文章，並錄下自己的聲音。每篇文章附有中文說明的生詞亮點。點擊任一段落即可先聆聽示範，再開始練習。
+📖 **Speak 口說** — 引導式跟讀練習
+用當天 episode 裡最自然、最值得模仿的短句做跟讀練習。先聽示範，再大聲跟讀、錄下自己的版本，最後把同一組語言變成你自己的回答。
 
 💬 **Conversation 對話** — AI 批改
 用英文回答開放式問題，立即獲得 AI 個人化批改。系統會指出文法錯誤、建議更道地的說法，並解釋原因，讓每次練習都有收穫。
 
-🃏 **Review 複習** — 智慧字卡
-來自 Listen 和 Speak 模組的生詞會以字卡網格呈現。點擊翻面，在英文與中文間切換，對自己有把握的字卡標記為「已掌握」。
+🃏 **Review 複習** — 週回想 + 字卡
+複習不只翻卡。你會先用回想題把這週內容從記憶裡拉回來，再用字卡補強真正值得帶走的詞和搭配，最後講一段自己的週總結。
 
 **一整年內容，一次購買**
 與訂閱制 App 不同，SAV Daily English 買斷無月費。完整 53 週、365 天課程全部包含——從 1/1 到 12/31。任何一天開始都行，內容自動對應當天日期。
 
 **專為忙碌學習者設計**
-每天三個模組合計約 10–20 分鐘。沒有連續打卡壓力、沒有每日上限，以自己的步調進行高品質練習。
+每天四個模組合計約 10–20 分鐘。沒有連續打卡壓力、沒有每日上限，以自己的步調進行高品質練習。
 
 ---
 

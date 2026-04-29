@@ -22,13 +22,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually before the org chart says so. It happens when one person starts holding the room steady instead of adding more noise.",
-            "zh": "通常比組織圖正式寫出來還早。當有一個人開始穩住整個場面，而不是再多製造一些雜音時，那件事就開始了。",
-            "vocab": [
-              {
-                "word": "room steady",
-                "def": "通常比組織圖正式寫出來還早"
-              }
-            ]
+            "zh": "通常比組織圖正式寫出來還早。當有一個人開始穩住整個場面，而不是再多製造一些雜音時，那件事就開始了。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. People remember calm direction because it lowers uncertainty for everyone else.",
-            "zh": "沒錯。大家會記得那種冷靜的帶領，因為它替其他人降低了不確定感。",
-            "vocab": [
-              {
-                "word": "calm direction",
-                "def": "在壓力下仍然清楚而穩定地帶領方向"
-              }
-            ]
+            "zh": "沒錯。大家會記得那種冷靜的帶領，因為它替其他人降低了不確定感。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very different. Volume can control attention for a minute, but trustworthy judgment keeps people with you for months.",
-            "zh": "差很多。音量也許能控制一分鐘的注意力，但值得信任的判斷，才能讓人願意跟你幾個月。",
-            "vocab": [
-              {
-                "word": "trustworthy judgment",
-                "def": "讓人願意信任並跟隨的判斷力"
-              }
-            ]
+            "zh": "差很多。音量也許能控制一分鐘的注意力，但值得信任的判斷，才能讓人願意跟你幾個月。"
           },
           {
             "speaker": "b",
@@ -76,13 +58,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A real leader does not make every answer obvious, but they make the next step less confusing.",
-            "zh": "對。真正的領導者不一定把每個答案都變得明顯，但他們會讓下一步不那麼混亂。",
-            "vocab": [
-              {
-                "word": "next step",
-                "def": "下一步；接下來的行動"
-              }
-            ]
+            "zh": "對。真正的領導者不一定把每個答案都變得明顯，但他們會讓下一步不那麼混亂。"
           }
         ]
       },
@@ -99,13 +75,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Whether the leader protects reality or protects appearances.",
-            "zh": "是領導者在保護現實，還是在保護表面。",
-            "vocab": [
-              {
-                "word": "protects reality",
-                "def": "還是在保護表面"
-              }
-            ]
+            "zh": "是領導者在保護現實，還是在保護表面。"
           },
           {
             "speaker": "b",
@@ -117,13 +87,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It sounds like vague optimism, delayed decisions, and meetings where everyone leaves politely confused.",
-            "zh": "它聽起來像模糊的樂觀、延後的決定，還有每個人都客氣離場卻一頭霧水的會議。",
-            "vocab": [
-              {
-                "word": "politely confused",
-                "def": "表面客氣順利，但其實沒人真的弄清楚"
-              }
-            ]
+            "zh": "它聽起來像模糊的樂觀、延後的決定，還有每個人都客氣離場卻一頭霧水的會議。"
           },
           {
             "speaker": "b",
@@ -135,13 +99,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Decision ownership means saying, \"This path has trade-offs, and I am still willing to stand behind it.\"",
-            "zh": "對。承擔決策的意思是敢說：「這條路有代價，但我仍願意站在它後面。」",
-            "vocab": [
-              {
-                "word": "decision ownership",
-                "def": "願意承擔一個決定及其後果"
-              }
-            ]
+            "zh": "對。承擔決策的意思是敢說：「這條路有代價，但我仍願意站在它後面。」"
           },
           {
             "speaker": "b",
@@ -153,13 +111,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. Honest steadiness is usually more reassuring than polished certainty.",
-            "zh": "確實如此。誠實的穩定感，通常比打磨過的確定感更讓人安心。",
-            "vocab": [
-              {
-                "word": "honest steadiness",
-                "def": "不裝無所不能，但仍然穩得住的領導感"
-              }
-            ]
+            "zh": "確實如此。誠實的穩定感，通常比打磨過的確定感更讓人安心。"
           }
         ]
       },
@@ -176,13 +128,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural line is: \"She made the situation feel clearer, not smaller.\" It shows that a leader can reduce confusion without denying the difficulty.",
-            "zh": "一句很自然的說法是：「She made the situation feel clearer, not smaller.」這句能表達：領導者可以減少混亂，但不會否認事情本來就難。",
-            "vocab": [
-              {
-                "word": "reduce confusion",
-                "def": "讓局面更清楚、少一點混亂"
-              }
-            ]
+            "zh": "一句很自然的說法是：「She made the situation feel clearer, not smaller.」這句能表達：領導者可以減少混亂，但不會否認事情本來就難。"
           },
           {
             "speaker": "b",
@@ -194,13 +140,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a more grounded version, try \"He did not rush the team, but he did not let the team drift either.\"",
-            "zh": "另一句也很好用：「He did not rush the team, but he did not let the team drift either.」",
-            "vocab": [
-              {
-                "word": "drift",
-                "def": "漂移；跑神"
-              }
-            ]
+            "zh": "另一句也很好用：「He did not rush the team, but he did not let the team drift either.」"
           },
           {
             "speaker": "b",
@@ -212,13 +152,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"I try to give direction without taking away ownership.\" works well when you want to talk about your own style.",
-            "zh": "沒錯。如果你想描述自己的風格，可以說：「I try to give direction without taking away ownership.」",
-            "vocab": [
-              {
-                "word": "ownership",
-                "def": "主導感；歸屬感"
-              }
-            ]
+            "zh": "沒錯。如果你想描述自己的風格，可以說：「I try to give direction without taking away ownership.」"
           },
           {
             "speaker": "b",
@@ -230,18 +164,12 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It also tells people that leadership is not only about authority. It is about how responsibility moves through the group.",
-            "zh": "它也會讓人聽出：領導不只是權威，而是責任怎麼在群體裡流動。",
-            "vocab": [
-              {
-                "word": "responsibility moves through",
-                "def": "責任在團隊中如何被分配與承接"
-              }
-            ]
+            "zh": "它也會讓人聽出：領導不只是權威，而是責任怎麼在群體裡流動。"
           }
         ]
       },
       {
-        "title": "Part 4 — A Situation Everyone Recognizes",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -265,13 +193,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then one person says, \"We are late on this part, the reason is clear, and here are the two decisions we need today.\" That is everyday leadership.",
-            "zh": "然後有一個人開口說：「這一塊我們確實落後了，原因很清楚，而今天需要做的就是這兩個決定。」那就是日常型的領導。",
-            "vocab": [
-              {
-                "word": "two decisions",
-                "def": "直接把延誤或問題說清楚"
-              }
-            ]
+            "zh": "然後有一個人開口說：「這一塊我們確實落後了，原因很清楚，而今天需要做的就是這兩個決定。」那就是日常型的領導。"
           },
           {
             "speaker": "b",
@@ -283,13 +205,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and notice what that person did not do. They did not shame anyone, perform panic, or make themselves the hero.",
-            "zh": "對，而且注意那個人沒有做什麼。他沒有羞辱別人、沒有表演式恐慌，也沒有把自己演成英雄。",
-            "vocab": [
-              {
-                "word": "perform",
-                "def": "表演；刻意展現"
-              }
-            ]
+            "zh": "對，而且注意那個人沒有做什麼。他沒有羞辱別人、沒有表演式恐慌，也沒有把自己演成英雄。"
           },
           {
             "speaker": "b",
@@ -302,12 +218,7 @@ export const WEEK_45: Episode[] = [
             "speakerName": "Mira",
             "en": "Often the most useful kind is exactly that.",
             "zh": "很多時候，最有用的領導就是那樣。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Difference Between a Boss and a Leader",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -423,13 +334,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because you cannot borrow compliance from the role. You have to earn buy-in from the quality of your thinking and your follow-through.",
-            "zh": "因為你不能從職位那裡借來服從感。你得靠自己的思考品質和後續做到的程度，去贏得認同。",
-            "vocab": [
-              {
-                "word": "earn buy-in",
-                "def": "不是靠權力，而是靠可信度爭取認同"
-              }
-            ]
+            "zh": "因為你不能從職位那裡借來服從感。你得靠自己的思考品質和後續做到的程度，去贏得認同。"
           },
           {
             "speaker": "b",
@@ -441,13 +346,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Informal influence starts when people notice that your suggestions reduce friction instead of creating more work.",
-            "zh": "沒錯。非正式影響力開始於別人發現：你的建議是在減少摩擦，而不是增加工作量。",
-            "vocab": [
-              {
-                "word": "informal influence",
-                "def": "沒有正式職權時仍能影響別人的能力"
-              }
-            ]
+            "zh": "沒錯。非正式影響力開始於別人發現：你的建議是在減少摩擦，而不是增加工作量。"
           },
           {
             "speaker": "b",
@@ -459,13 +358,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is practical. The fastest way to gain influence is often to make other people's jobs easier in a visible, repeatable way.",
-            "zh": "它本來就很務實。最快建立影響力的方法，往往是用一種看得見、可重複的方式，讓別人的工作比較好做。",
-            "vocab": [
-              {
-                "word": "visible",
-                "def": "這是個容易掉進去的陷阱"
-              }
-            ]
+            "zh": "它本來就很務實。最快建立影響力的方法，往往是用一種看得見、可重複的方式，讓別人的工作比較好做。"
           },
           {
             "speaker": "b",
@@ -477,13 +370,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that usefulness has to be consistent enough that people start seeking your input before they are forced to.",
-            "zh": "對，而且那種有用必須穩定到一個程度，別人才會在被逼之前，就主動來找你討論。",
-            "vocab": [
-              {
-                "word": "input",
-                "def": "輸入"
-              }
-            ]
+            "zh": "對，而且那種有用必須穩定到一個程度，別人才會在被逼之前，就主動來找你討論。"
           }
         ]
       },
@@ -500,13 +387,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because timing, trust, and context matter as much as logic. A smart idea that arrives at the wrong emotional moment still bounces off the room.",
-            "zh": "因為時機、信任和情境，和邏輯一樣重要。再聰明的點子，如果出現在錯的情緒時機裡，還是會被整個房間彈開。",
-            "vocab": [
-              {
-                "word": "wrong emotional",
-                "def": "說話是否踩在對的情緒時機點上"
-              }
-            ]
+            "zh": "因為時機、信任和情境，和邏輯一樣重要。再聰明的點子，如果出現在錯的情緒時機裡，還是會被整個房間彈開。"
           },
           {
             "speaker": "b",
@@ -518,13 +399,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If people feel cornered, even a helpful idea can sound like criticism.",
-            "zh": "沒錯。如果大家覺得自己被逼到角落，再有幫助的想法也可能聽起來像批評。",
-            "vocab": [
-              {
-                "word": "criticism",
-                "def": "批評；批判"
-              }
-            ]
+            "zh": "沒錯。如果大家覺得自己被逼到角落，再有幫助的想法也可能聽起來像批評。"
           },
           {
             "speaker": "b",
@@ -536,13 +411,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Friction-sensitive language matters. Sometimes \"Could we test this?\" moves farther than \"This is the better way.\"",
-            "zh": "對。對摩擦敏感的語言很重要。有時候一句「Could we test this?」會比「This is the better way.」走得更遠。",
-            "vocab": [
-              {
-                "word": "friction-sensitive language",
-                "def": "能降低對立感、減少防衛的表達方式"
-              }
-            ]
+            "zh": "對。對摩擦敏感的語言很重要。有時候一句「Could we test this?」會比「This is the better way.」走得更遠。"
           },
           {
             "speaker": "b",
@@ -554,13 +423,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The goal is not to sound weak. The goal is to keep the other person mentally in the conversation.",
-            "zh": "對。重點不是把自己講弱，而是讓對方的思考還留在對話裡。",
-            "vocab": [
-              {
-                "word": "conversation",
-                "def": "重點不是把自己講弱"
-              }
-            ]
+            "zh": "對。重點不是把自己講弱，而是讓對方的思考還留在對話裡。"
           }
         ]
       },
@@ -577,13 +440,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One useful line is: \"I may not own this decision, but I do see a risk we should name early.\"",
-            "zh": "一句很好用的是：「I may not own this decision, but I do see a risk we should name early.」",
-            "vocab": [
-              {
-                "word": "name early",
-                "def": "提早點出來；及早說明"
-              }
-            ]
+            "zh": "一句很好用的是：「I may not own this decision, but I do see a risk we should name early.」"
           },
           {
             "speaker": "b",
@@ -595,13 +452,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"Would it help if I sketched two options so we can compare them?\" That gives structure without grabbing control.",
-            "zh": "另一句也很實用：「Would it help if I sketched two options so we can compare them?」這句會給出結構，但不會硬把控制權搶走。",
-            "vocab": [
-              {
-                "word": "structure without",
-                "def": "主動幫忙整理方向或選項"
-              }
-            ]
+            "zh": "另一句也很實用：「Would it help if I sketched two options so we can compare them?」這句會給出結構，但不會硬把控制權搶走。"
           },
           {
             "speaker": "b",
@@ -613,13 +464,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you need something more direct, try: \"I think we are talking around the real issue.\" It is honest, but still focused on the issue, not the person.",
-            "zh": "如果你需要再直接一點，可以試試：「I think we are talking around the real issue.」它很誠實，但焦點還是在問題，不是在人身上。",
-            "vocab": [
-              {
-                "word": "real issue",
-                "def": "把大家一直繞開的核心問題拉回來"
-              }
-            ]
+            "zh": "如果你需要再直接一點，可以試試：「I think we are talking around the real issue.」它很誠實，但焦點還是在問題，不是在人身上。"
           },
           {
             "speaker": "b",
@@ -631,13 +476,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can, especially when the room is being polite in a way that slows everyone down.",
-            "zh": "確實會，尤其是在大家太客氣、客氣到整個房間都變慢的時候。",
-            "vocab": [
-              {
-                "word": "slows everyone",
-                "def": "帶著建設性和分寸的坦白"
-              }
-            ]
+            "zh": "確實會，尤其是在大家太客氣、客氣到整個房間都變慢的時候。"
           }
         ]
       },
@@ -666,13 +505,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Someone with informal influence says, \"Before we add more, can we agree on what gets protected if time runs short?\" That changes the whole conversation.",
-            "zh": "這時候，一個有非正式影響力的人會說：「Before we add more, can we agree on what gets protected if time runs short?」整個對話就會被改變。",
-            "vocab": [
-              {
-                "word": "informal influence",
-                "def": "沒有正式職權時仍能影響別人的能力"
-              }
-            ]
+            "zh": "這時候，一個有非正式影響力的人會說：「Before we add more, can we agree on what gets protected if time runs short?」整個對話就會被改變。"
           },
           {
             "speaker": "b",
@@ -684,13 +517,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Useful influence often looks like better framing before it looks like better authority.",
-            "zh": "沒錯。有用的影響力，很多時候先長得像更好的 framing，之後才長得像更高的 authority。",
-            "vocab": [
-              {
-                "word": "better framing",
-                "def": "有用的影響力"
-              }
-            ]
+            "zh": "沒錯。有用的影響力，很多時候先長得像更好的 framing，之後才長得像更高的 authority。"
           },
           {
             "speaker": "b",
@@ -824,13 +651,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "At its best, it means noticing the emotional weather early enough to respond before the room hardens.",
-            "zh": "如果講到最有用的版本，它的意思是：你夠早注意到情緒天氣的變化，早到你還來得及回應，整個房間還沒硬掉。",
-            "vocab": [
-              {
-                "word": "emotional weather",
-                "def": "一個空間裡正在形成的整體情緒氣氛"
-              }
-            ]
+            "zh": "如果講到最有用的版本，它的意思是：你夠早注意到情緒天氣的變化，早到你還來得及回應，整個房間還沒硬掉。"
           },
           {
             "speaker": "b",
@@ -842,13 +663,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. It includes mood awareness, but it also includes the courage to name tension without making people feel cornered.",
-            "zh": "完全不是。它當然包含情緒感知，但也包含一種勇氣：把緊張說出來，同時不讓人覺得自己被逼到角落。",
-            "vocab": [
-              {
-                "word": "name tension",
-                "def": "把空氣中的緊張或不舒服說出來"
-              }
-            ]
+            "zh": "完全不是。它當然包含情緒感知，但也包含一種勇氣：把緊張說出來，同時不讓人覺得自己被逼到角落。"
           },
           {
             "speaker": "b",
@@ -860,13 +675,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is harder. Anyone can look calm when the stakes are low. Emotional intelligence shows up when feelings are real and time is limited.",
-            "zh": "它本來就更難。利害不高的時候，誰都可以看起來很冷靜。情緒 intelligence 真正出現，是在情緒很真、時間又有限的時候。",
-            "vocab": [
-              {
-                "word": "Emotional intelligence",
-                "def": "情緒還在，但你仍能穩定在場、不被帶走"
-              }
-            ]
+            "zh": "它本來就更難。利害不高的時候，誰都可以看起來很冷靜。情緒 intelligence 真正出現，是在情緒很真、時間又有限的時候。"
           },
           {
             "speaker": "b",
@@ -878,13 +687,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A leader should be informed by emotion, not hijacked by it.",
-            "zh": "沒錯。領導者應該被情緒提供資訊，而不是被情緒綁架。",
-            "vocab": [
-              {
-                "word": "emotion",
-                "def": "而不是被情緒綁架"
-              }
-            ]
+            "zh": "沒錯。領導者應該被情緒提供資訊，而不是被情緒綁架。"
           }
         ]
       },
@@ -901,13 +704,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They think acknowledging emotion will make the emotion larger, when silence often does that much faster.",
-            "zh": "他們以為承認情緒會把情緒放大，但很多時候，沉默反而放大得更快。",
-            "vocab": [
-              {
-                "word": "acknowledging emotion",
-                "def": "看見並承認情緒正在影響現場"
-              }
-            ]
+            "zh": "他們以為承認情緒會把情緒放大，但很多時候，沉默反而放大得更快。"
           },
           {
             "speaker": "b",
@@ -919,13 +716,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and the story they invent is often harsher than the truth. A small naming sentence can stop a lot of invisible damage.",
-            "zh": "對，而且他們腦中補出來的故事，常常比真相更苛刻。一句小小的命名句，就能止住很多看不見的損傷。",
-            "vocab": [
-              {
-                "word": "naming sentence",
-                "def": "用來點出現場情緒或張力的短句"
-              }
-            ]
+            "zh": "對，而且他們腦中補出來的故事，常常比真相更苛刻。一句小小的命名句，就能止住很多看不見的損傷。"
           },
           {
             "speaker": "b",
@@ -937,13 +728,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Something like, \"I can feel that this conversation has more weight than usual, so let's slow down and be precise.\" That helps people settle without pretending nothing is happening.",
-            "zh": "像是：「I can feel that this conversation has more weight than usual, so let's slow down and be precise.」這種句子會讓大家慢下來，但又不是假裝什麼都沒發生。",
-            "vocab": [
-              {
-                "word": "settle",
-                "def": "自己慢慢沉下來、穩下來"
-              }
-            ]
+            "zh": "像是：「I can feel that this conversation has more weight than usual, so let's slow down and be precise.」這種句子會讓大家慢下來，但又不是假裝什麼都沒發生。"
           },
           {
             "speaker": "b",
@@ -972,13 +757,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong one is: \"I want to respond to this carefully, not quickly.\" It buys space without sounding evasive.",
-            "zh": "一句很好用的是：「I want to respond to this carefully, not quickly.」這句可以替自己買到空間，但不會顯得在閃躲。",
-            "vocab": [
-              {
-                "word": "this carefully",
-                "def": "先回應得穩，再回應得快"
-              }
-            ]
+            "zh": "一句很好用的是：「I want to respond to this carefully, not quickly.」這句可以替自己買到空間，但不會顯得在閃躲。"
           },
           {
             "speaker": "b",
@@ -990,13 +769,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is: \"I think there are two conversations happening here, and we should separate them.\" That helps when emotion and logistics get tangled.",
-            "zh": "另一句很實用的是：「I think there are two conversations happening here, and we should separate them.」當情緒和事情本身纏在一起時，這句很好用。",
-            "vocab": [
-              {
-                "word": "separate",
-                "def": "分開；區分"
-              }
-            ]
+            "zh": "另一句很實用的是：「I think there are two conversations happening here, and we should separate them.」當情緒和事情本身纏在一起時，這句很好用。"
           },
           {
             "speaker": "b",
@@ -1008,13 +781,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if someone is defensive, try: \"I am not trying to trap you. I am trying to understand what changed.\" That lowers threat immediately.",
-            "zh": "如果對方很防衛，可以試：「I am not trying to trap you. I am trying to understand what changed.」這會立刻降低威脅感。",
-            "vocab": [
-              {
-                "word": "lowers threat",
-                "def": "讓對方感覺比較安全、不需要那麼防衛"
-              }
-            ]
+            "zh": "如果對方很防衛，可以試：「I am not trying to trap you. I am trying to understand what changed.」這會立刻降低威脅感。"
           },
           {
             "speaker": "b",
@@ -1031,7 +798,7 @@ export const WEEK_45: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Leader Who Repairs Instead of Reacts",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -1055,13 +822,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A reactive leader says, \"How did this happen?\" in a tone that makes everyone smaller. A repair-minded leader says, \"Let's stabilize the client first, then understand the gap accurately.\"",
-            "zh": "反應型領導會用讓所有人都縮起來的語氣問：「How did this happen?」；修復導向的領導會說：「Let's stabilize the client first, then understand the gap accurately.」",
-            "vocab": [
-              {
-                "word": "repair-minded leader",
-                "def": "說："
-              }
-            ]
+            "zh": "反應型領導會用讓所有人都縮起來的語氣問：「How did this happen?」；修復導向的領導會說：「Let's stabilize the client first, then understand the gap accurately.」"
           },
           {
             "speaker": "b",
@@ -1073,13 +834,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because people think better once they are not busy surviving your reaction.",
-            "zh": "對，因為人只有在不需要先存活於你的反應時，才會開始思考得比較好。",
-            "vocab": [
-              {
-                "word": "busy surviving",
-                "def": "才會開始思考得比較好"
-              }
-            ]
+            "zh": "對，因為人只有在不需要先存活於你的反應時，才會開始思考得比較好。"
           },
           {
             "speaker": "b",
@@ -1092,12 +847,7 @@ export const WEEK_45: Episode[] = [
             "speakerName": "Mira",
             "en": "Strength is not only force. Often it is the ability to keep a room usable when something has gone wrong.",
             "zh": "強大不只是力道。很多時候，它是事情出錯時，你還能不能讓整個空間維持可用。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Emotional Tone People Remember",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1213,13 +963,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not shared workload alone. A team forms when people begin trusting the same norms, not just the same deadline.",
-            "zh": "不是只有共享工作量而已。真正的團隊形成於大家開始信任同一套規則，而不只是同一個 deadline。",
-            "vocab": [
-              {
-                "word": "team forms",
-                "def": "一個團隊默默共同遵守的做事方式與期待"
-              }
-            ]
+            "zh": "不是只有共享工作量而已。真正的團隊形成於大家開始信任同一套規則，而不只是同一個 deadline。"
           },
           {
             "speaker": "b",
@@ -1231,13 +975,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
-            "zh": "沒錯。如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。",
-            "vocab": [
-              {
-                "word": "safe",
-                "def": "浪費力氣去猜：什麼是安全的、"
-              }
-            ]
+            "zh": "沒錯。如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
           },
           {
             "speaker": "b",
@@ -1249,13 +987,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Hidden ambiguity is exhausting. People do not only need tasks; they need a reliable social environment around the tasks.",
-            "zh": "對。隱性的模糊很耗人。人不只需要任務本身，也需要任務周圍那個可預期的社會環境。",
-            "vocab": [
-              {
-                "word": "reliable social environment",
-                "def": "讓人知道怎麼合作、可以預期的工作環境"
-              }
-            ]
+            "zh": "對。隱性的模糊很耗人。人不只需要任務本身，也需要任務周圍那個可預期的社會環境。"
           },
           {
             "speaker": "b",
@@ -1267,13 +999,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. A strong team is usually the result of many small agreements kept over time.",
-            "zh": "非常是。好的團隊，往往是很多小小的約定被長期守住的結果。",
-            "vocab": [
-              {
-                "word": "agreements kept",
-                "def": "被持續做到的小約定與默契"
-              }
-            ]
+            "zh": "非常是。好的團隊，往往是很多小小的約定被長期守住的結果。"
           }
         ]
       },
@@ -1290,13 +1016,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Unclear ownership is a big one. When nobody knows who gets to decide, everyone becomes both cautious and frustrated.",
-            "zh": "責任歸屬不清就是很大的問題。當沒有人知道到底誰能決定時，大家會同時變得很保守、也很挫折。",
-            "vocab": [
-              {
-                "word": "unclear ownership",
-                "def": "不知道誰該決定、誰該負責的狀態"
-              }
-            ]
+            "zh": "責任歸屬不清就是很大的問題。當沒有人知道到底誰能決定時，大家會同時變得很保守、也很挫折。"
           },
           {
             "speaker": "b",
@@ -1308,13 +1028,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Another one is inconsistent standards. If feedback changes with the leader's mood, people stop learning and start scanning for danger.",
-            "zh": "沒錯。另一個常見問題是不一致的標準。如果 feedback 會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。",
-            "vocab": [
-              {
-                "word": "inconsistent standard",
-                "def": "標準忽高忽低，讓人無法放心工作"
-              }
-            ]
+            "zh": "沒錯。另一個常見問題是不一致的標準。如果 feedback 會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。"
           },
           {
             "speaker": "b",
@@ -1326,13 +1040,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is. Teams get weaker when people spend more time predicting reactions than improving the work.",
-            "zh": "常常確實如此。當大家花更多時間在預測反應，而不是把工作做得更好，團隊就會變弱。",
-            "vocab": [
-              {
-                "word": "reactions",
-                "def": "變弱"
-              }
-            ]
+            "zh": "常常確實如此。當大家花更多時間在預測反應，而不是把工作做得更好，團隊就會變弱。"
           },
           {
             "speaker": "b",
@@ -1361,13 +1069,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very useful one is: \"Let's be clear about who owns what before we move faster.\" That protects clarity before urgency takes over.",
-            "zh": "一個很實用的句子是：「Let's be clear about who owns what before we move faster.」它會在急迫感接管之前，先保住清楚度。",
-            "vocab": [
-              {
-                "word": "protects clarity",
-                "def": "先釐清誰負責什麼"
-              }
-            ]
+            "zh": "一個很實用的句子是：「Let's be clear about who owns what before we move faster.」它會在急迫感接管之前，先保住清楚度。"
           },
           {
             "speaker": "b",
@@ -1379,13 +1081,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I do not need perfect progress today, but I do need honest visibility.\" That invites truth instead of performance.",
-            "zh": "另一句也很好用：「I do not need perfect progress today, but I do need honest visibility.」這句是在邀請真實，而不是邀請表演。",
-            "vocab": [
-              {
-                "word": "honest visibility",
-                "def": "進度不必完美，但必須真實透明"
-              }
-            ]
+            "zh": "另一句也很好用：「I do not need perfect progress today, but I do need honest visibility.」這句是在邀請真實，而不是邀請表演。"
           },
           {
             "speaker": "b",
@@ -1397,13 +1093,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if a discussion is getting vague, say: \"Can we turn this into one decision and one next action?\"",
-            "zh": "沒錯。如果討論開始變得很散，也可以說：「Can we turn this into one decision and one next action?」",
-            "vocab": [
-              {
-                "word": "next action",
-                "def": "會後清楚要執行的下一步"
-              }
-            ]
+            "zh": "沒錯。如果討論開始變得很散，也可以說：「Can we turn this into one decision and one next action?」"
           },
           {
             "speaker": "b",
@@ -1432,13 +1122,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First, repair the shared story. If you do not help people make sense of what happened, they carry private versions of the week into the next one.",
-            "zh": "第一步是修復大家共同理解的故事。如果你不幫大家理解那週到底發生了什麼，大家就會各自帶著私人的版本走進下一週。",
-            "vocab": [
-              {
-                "word": "shared story",
-                "def": "團隊對某件事共同接受的理解版本"
-              }
-            ]
+            "zh": "第一步是修復大家共同理解的故事。如果你不幫大家理解那週到底發生了什麼，大家就會各自帶著私人的版本走進下一週。"
           },
           {
             "speaker": "b",
@@ -1450,13 +1134,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. A leader can say, \"We were stretched thin, some decisions came too late, and here is what we are changing.\" That helps people exhale.",
-            "zh": "完全是。領導者可以說：「We were stretched thin, some decisions came too late, and here is what we are changing.」這種句子會讓人真的鬆一口氣。",
-            "vocab": [
-              {
-                "word": "some decisions",
-                "def": "人真的鬆一口氣"
-              }
-            ]
+            "zh": "完全是。領導者可以說：「We were stretched thin, some decisions came too late, and here is what we are changing.」這種句子會讓人真的鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -1468,13 +1146,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Being accurately seen is part of recovery. People re-engage faster when reality is acknowledged and change sounds believable.",
-            "zh": "對。被準確看見，本來就是復原的一部分。當現實被承認、改變又聽起來可信，人會更快重新投入。",
-            "vocab": [
-              {
-                "word": "change sounds",
-                "def": "不是空話，而是聽起來真的做得到的改變"
-              }
-            ]
+            "zh": "對。被準確看見，本來就是復原的一部分。當現實被承認、改變又聽起來可信，人會更快重新投入。"
           },
           {
             "speaker": "b",
@@ -1538,7 +1210,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then start by making one room at a time more clear, more fair, and more usable for other people.",
+            "en": "Start by making one room at a time more clear, more fair, and more usable for other people.",
             "zh": "那就從你身邊的一個房間開始，讓它對別人來說更清楚、更公平，也更可用。"
           }
         ]
@@ -1608,13 +1280,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because pressure shrinks attention. People stop asking what matters most and start asking what stops the discomfort fastest.",
-            "zh": "因為壓力會把人的注意力縮小。人不再問「最重要的是什麼」，而開始問「怎樣最快讓不舒服先停下來」。",
-            "vocab": [
-              {
-                "word": "shrinks attention",
-                "def": "壓力大時，思考範圍被壓縮的狀態"
-              }
-            ]
+            "zh": "因為壓力會把人的注意力縮小。人不再問「最重要的是什麼」，而開始問「怎樣最快讓不舒服先停下來」。"
           },
           {
             "speaker": "b",
@@ -1626,13 +1292,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Under stress, urgency can disguise itself as importance.",
-            "zh": "沒錯。在壓力下，急迫感很容易偽裝成重要性。",
-            "vocab": [
-              {
-                "word": "urgency",
-                "def": "急迫感；很想立刻做成的壓力"
-              }
-            ]
+            "zh": "沒錯。在壓力下，急迫感很容易偽裝成重要性。"
           },
           {
             "speaker": "b",
@@ -1644,13 +1304,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Strong decision-makers do not remove pressure; they create a small pocket of thinking inside it.",
-            "zh": "對。好的決策者不是把壓力消除，而是在壓力裡硬生生創造出一小塊可以思考的空間。",
-            "vocab": [
-              {
-                "word": "pocket of thinking",
-                "def": "好的決策者不是把壓力消除"
-              }
-            ]
+            "zh": "對。好的決策者不是把壓力消除，而是在壓力裡硬生生創造出一小塊可以思考的空間。"
           },
           {
             "speaker": "b",
@@ -1662,13 +1316,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Many bad decisions are really decisions made without enough mental oxygen.",
-            "zh": "完全會。很多糟糕決定，本質上就是在大腦氧氣不夠時做的決定。",
-            "vocab": [
-              {
-                "word": "mental oxygen",
-                "def": "能讓人保有清晰判斷的心理空間"
-              }
-            ]
+            "zh": "完全會。很多糟糕決定，本質上就是在大腦氧氣不夠時做的決定。"
           }
         ]
       },
@@ -1685,13 +1333,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They stop chasing certainty and start identifying what kind of uncertainty they can live with.",
-            "zh": "他們會停止追逐確定感，改去辨認：哪一種不確定，是自己可以承受的。",
-            "vocab": [
-              {
-                "word": "uncertainty",
-                "def": "是自己可以承受的"
-              }
-            ]
+            "zh": "他們會停止追逐確定感，改去辨認：哪一種不確定，是自己可以承受的。"
           },
           {
             "speaker": "b",
@@ -1703,13 +1345,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. The question becomes, \"What do we know, what do we not know, and what becomes worse if we wait?\"",
-            "zh": "本來就更實際。真正該問的是：「我們知道什麼、不知道什麼，以及如果我們再等，什麼會變更糟？」",
-            "vocab": [
-              {
-                "word": "wait",
-                "def": "延後決定本身會帶來的代價"
-              }
-            ]
+            "zh": "本來就更實際。真正該問的是：「我們知道什麼、不知道什麼，以及如果我們再等，什麼會變更糟？」"
           },
           {
             "speaker": "b",
@@ -1721,13 +1357,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And under pressure, it helps to separate reversible decisions from high-cost irreversible ones.",
-            "zh": "沒錯。而且在壓力下，把「可回頭的決定」和「代價很高、很難回頭的決定」分開來看，會很有幫助。",
-            "vocab": [
-              {
-                "word": "separate reversible",
-                "def": "做了之後還能再調整回來的決定"
-              }
-            ]
+            "zh": "沒錯。而且在壓力下，把「可回頭的決定」和「代價很高、很難回頭的決定」分開來看，會很有幫助。"
           },
           {
             "speaker": "b",
@@ -1756,13 +1386,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A helpful sentence is: \"We do not have perfect information, but we do have enough to choose the next move responsibly.\"",
-            "zh": "一句很好用的是：「We do not have perfect information, but we do have enough to choose the next move responsibly.」",
-            "vocab": [
-              {
-                "word": "next move responsibly",
-                "def": "負責任地選下一步"
-              }
-            ]
+            "zh": "一句很好用的是：「We do not have perfect information, but we do have enough to choose the next move responsibly.」"
           },
           {
             "speaker": "b",
@@ -1774,13 +1398,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is: \"Let's decide what must be true for this option to work.\" That forces people to test assumptions instead of defending preferences.",
-            "zh": "另一句也很實用：「Let's decide what must be true for this option to work.」這會逼大家去測試假設，而不是捍衛偏好。",
-            "vocab": [
-              {
-                "word": "test assumptions",
-                "def": "把腦中的假設攤出來檢查"
-              }
-            ]
+            "zh": "另一句也很實用：「Let's decide what must be true for this option to work.」這會逼大家去測試假設，而不是捍衛偏好。"
           },
           {
             "speaker": "b",
@@ -1792,13 +1410,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If the room is panicking, try: \"Fast is useful; rushed is expensive.\" It reminds people that speed and panic are not the same thing.",
-            "zh": "如果整個房間開始慌，可以試試：「Fast is useful; rushed is expensive.」這句會提醒大家：快和慌不是同一件事。",
-            "vocab": [
-              {
-                "word": "rushed",
-                "def": "太急而亂；慌亂趕工"
-              }
-            ]
+            "zh": "如果整個房間開始慌，可以試試：「Fast is useful; rushed is expensive.」這句會提醒大家：快和慌不是同一件事。"
           },
           {
             "speaker": "b",
@@ -1839,13 +1451,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A weak response is to keep polishing everything and hope the problem disappears. A stronger response is to ask which part carries the most user risk and narrow the decision there first.",
-            "zh": "比較弱的反應是繼續把所有東西都磨下去，然後希望問題自己消失。比較強的反應則是先問：哪個部分對使用者風險最大，然後把決策範圍先收斂到那裡。",
-            "vocab": [
-              {
-                "word": "narrow the decision",
-                "def": "先把決定聚焦到最關鍵的部分"
-              }
-            ]
+            "zh": "比較弱的反應是繼續把所有東西都磨下去，然後希望問題自己消失。比較強的反應則是先問：哪個部分對使用者風險最大，然後把決策範圍先收斂到那裡。"
           },
           {
             "speaker": "b",
@@ -1857,13 +1463,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because under pressure, refusing to solve everything is often what allows you to solve the right thing.",
-            "zh": "對。因為在壓力下，拒絕一次解全部問題，反而常常是你能解對問題的原因。",
-            "vocab": [
-              {
-                "word": "solve the right thing",
-                "def": "而不是忙所有事情"
-              }
-            ]
+            "zh": "對。因為在壓力下，拒絕一次解全部問題，反而常常是你能解對問題的原因。"
           },
           {
             "speaker": "b",
@@ -1997,13 +1597,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means your habits, your honesty, and your emotional patterns will lead before your instructions do.",
-            "zh": "它的意思是：你的習慣、你的誠實程度、還有你的情緒模式，常常會比你的指令更早開始帶路。",
-            "vocab": [
-              {
-                "word": "emotional patterns",
-                "def": "先把自己管理好、帶穩，才有資格帶別人"
-              }
-            ]
+            "zh": "它的意思是：你的習慣、你的誠實程度、還有你的情緒模式，常常會比你的指令更早開始帶路。"
           },
           {
             "speaker": "b",
@@ -2015,13 +1609,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Always. If you cannot manage your own avoidance, it will show up as delayed conversations and blurry expectations.",
-            "zh": "一定會。如果你管不好自己的逃避，它最後就會長成延後的對話和模糊的期待。",
-            "vocab": [
-              {
-                "word": "avoidance",
-                "def": "逃避；回避"
-              }
-            ]
+            "zh": "一定會。如果你管不好自己的逃避，它最後就會長成延後的對話和模糊的期待。"
           },
           {
             "speaker": "b",
@@ -2033,13 +1621,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Self-leadership is practical because your private patterns become public consequences.",
-            "zh": "沒錯。自我領導之所以實際，是因為你的私人模式最後都會變成公開後果。",
-            "vocab": [
-              {
-                "word": "private pattern",
-                "def": "影響外在結果的內在模式"
-              }
-            ]
+            "zh": "沒錯。自我領導之所以實際，是因為你的私人模式最後都會變成公開後果。"
           },
           {
             "speaker": "b",
@@ -2051,13 +1633,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Many mature shifts begin with that kind of discomfort.",
-            "zh": "很好。很多成熟的轉變，就是從那種不太舒服的看見開始的。",
-            "vocab": [
-              {
-                "word": "mature shift",
-                "def": "一個人開始變成熟時出現的關鍵轉變"
-              }
-            ]
+            "zh": "很好。很多成熟的轉變，就是從那種不太舒服的看見開始的。"
           }
         ]
       },
@@ -2074,13 +1650,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Keeping your word matters a lot. When your own commitments are sloppy, your leadership starts sounding optional too.",
-            "zh": "說到做到很重要。當你對自己的承諾都很鬆散時，你的領導聽起來也會開始像是可有可無。",
-            "vocab": [
-              {
-                "word": "Keeping your word",
-                "def": "對自己和別人的承諾都盡量說到做到"
-              }
-            ]
+            "zh": "說到做到很重要。當你對自己的承諾都很鬆散時，你的領導聽起來也會開始像是可有可無。"
           },
           {
             "speaker": "b",
@@ -2092,13 +1662,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and so does focus protection. If you live in constant distraction, you end up exporting that fragmentation to everyone around you.",
-            "zh": "對，還有保護專注力也是。如果你自己活在持續分心裡，最後你會把那種碎裂感輸出到身邊所有人身上。",
-            "vocab": [
-              {
-                "word": "focus protection",
-                "def": "主動保護自己的注意力，不被一直切碎"
-              }
-            ]
+            "zh": "對，還有保護專注力也是。如果你自己活在持續分心裡，最後你會把那種碎裂感輸出到身邊所有人身上。"
           },
           {
             "speaker": "b",
@@ -2110,13 +1674,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually is less harmless. Scattered leaders create scattered teams, even when they mean well.",
-            "zh": "它通常真的沒那麼無害。分散的領導者，最後很容易帶出分散的團隊，就算初衷很好也是一樣。",
-            "vocab": [
-              {
-                "word": "leaders create scattered",
-                "def": "自己很分散，最後也把團隊帶得很分散"
-              }
-            ]
+            "zh": "它通常真的沒那麼無害。分散的領導者，最後很容易帶出分散的團隊，就算初衷很好也是一樣。"
           },
           {
             "speaker": "b",
@@ -2128,13 +1686,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Recovery. If you never reset, you start treating exhaustion as personality, and that changes how you lead.",
-            "zh": "恢復能力。如果你從不 reset，你就會開始把疲憊當成個性，然後那會改變你帶人的方式。",
-            "vocab": [
-              {
-                "word": "never reset",
-                "def": "你就會開始把疲憊當成個性"
-              }
-            ]
+            "zh": "恢復能力。如果你從不 reset，你就會開始把疲憊當成個性，然後那會改變你帶人的方式。"
           }
         ]
       },
@@ -2150,14 +1702,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"I am learning that the way I manage myself becomes part of how I lead other people.\" That sounds honest and grounded.",
-            "zh": "你可以說：「I am learning that the way I manage myself becomes part of how I lead other people.」這句很誠實，也很落地。",
-            "vocab": [
-              {
-                "word": "manage",
-                "def": "把自己的情緒、習慣和狀態管理好"
-              }
-            ]
+            "en": "The phrasing that lands clearly is, \"I am learning that the way I manage myself becomes part of how I lead other people.\" That sounds honest and grounded.",
+            "zh": "這裡很自然的說法是：「I am learning that the way I manage myself becomes part of how I lead other people.」這句很誠實，也很落地。"
           },
           {
             "speaker": "b",
@@ -2169,13 +1715,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural option is, \"When I am unclear with myself, I become unclear with everyone else.\" It is simple, but it lands.",
-            "zh": "另一句也很好用：「When I am unclear with myself, I become unclear with everyone else.」它很簡單，但很有力。",
-            "vocab": [
-              {
-                "word": "become unclear",
-                "def": "自己心裡先清楚，才能對外清楚"
-              }
-            ]
+            "zh": "另一句也很好用：「When I am unclear with myself, I become unclear with everyone else.」它很簡單，但很有力。"
           },
           {
             "speaker": "b",
@@ -2187,13 +1727,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, \"I am trying to build routines that make me more reliable under pressure.\"",
-            "zh": "如果你想談比較好的習慣，可以說：「I am trying to build routines that make me more reliable under pressure.」",
-            "vocab": [
-              {
-                "word": "under pressure",
-                "def": "在高壓狀態下帶隊或工作"
-              }
-            ]
+            "zh": "如果你想談比較好的習慣，可以說：「I am trying to build routines that make me more reliable under pressure.」"
           },
           {
             "speaker": "b",
@@ -2210,7 +1744,7 @@ export const WEEK_45: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Very Ordinary Form of Self-Leadership",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -2234,13 +1768,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, but self-leadership would be sending the message early: \"I am behind, here is the revised time, and here is what I can still give you today.\"",
-            "zh": "沒錯，但有自我領導的人會提早傳訊息說：「I am behind, here is the revised time, and here is what I can still give you today.」",
-            "vocab": [
-              {
-                "word": "message early",
-                "def": "提早傳訊息說："
-              }
-            ]
+            "zh": "沒錯，但有自我領導的人會提早傳訊息說：「I am behind, here is the revised time, and here is what I can still give you today.」"
           },
           {
             "speaker": "b",
@@ -2252,13 +1780,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often. Quiet reliability is more transformative than occasional intensity.",
-            "zh": "很多時候真的是。安靜但可靠，通常比偶爾很燃還更能改變事情。",
-            "vocab": [
-              {
-                "word": "quiet reliability",
-                "def": "不張揚，但長期很可靠的狀態"
-              }
-            ]
+            "zh": "很多時候真的是。安靜但可靠，通常比偶爾很燃還更能改變事情。"
           },
           {
             "speaker": "b",
@@ -2271,12 +1793,7 @@ export const WEEK_45: Episode[] = [
             "speakerName": "Mira",
             "en": "Because many people overvalue intensity and undervalue consistency.",
             "zh": "因為很多人太高估 intensity，卻低估 consistency 的力量。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Kind of Person Others Can Lean On",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2392,13 +1909,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because work gives leadership visible labels. Daily life usually does not, even though leadership shows up there all the time.",
-            "zh": "因為工作會替領導加上看得見的標籤。日常生活通常不會，但領導其實一直都在那裡發生。",
-            "vocab": [
-              {
-                "word": "visible label",
-                "def": "外界看得見、正式承認的角色標籤"
-              }
-            ]
+            "zh": "因為工作會替領導加上看得見的標籤。日常生活通常不會，但領導其實一直都在那裡發生。"
           },
           {
             "speaker": "b",
@@ -2410,13 +1921,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It looks like the friend who notices the group is drifting and gently helps everyone decide. It looks like the sibling who names what the family keeps avoiding.",
-            "zh": "它像那個先注意到整群人開始飄掉、然後輕輕幫大家做出決定的朋友；也像那個把全家一直在逃避的事說出來的手足。",
-            "vocab": [
-              {
-                "word": "gently helps",
-                "def": "不是強壓，而是適時溫和地站出來"
-              }
-            ]
+            "zh": "它像那個先注意到整群人開始飄掉、然後輕輕幫大家做出決定的朋友；也像那個把全家一直在逃避的事說出來的手足。"
           },
           {
             "speaker": "b",
@@ -2428,13 +1933,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. Many people practice leadership for years in ordinary life before anyone gives it that name.",
-            "zh": "非常是。很多人其實在普通生活裡練了很多年的領導，只是從來沒有人替它取那個名字。",
-            "vocab": [
-              {
-                "word": "practice leadership",
-                "def": "其實在帶方向"
-              }
-            ]
+            "zh": "非常是。很多人其實在普通生活裡練了很多年的領導，只是從來沒有人替它取那個名字。"
           },
           {
             "speaker": "b",
@@ -2463,13 +1962,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often not control. Usually emotional steadiness, practical initiative, and the courage to speak clearly when everyone is tired.",
-            "zh": "很多時候不是控制。通常是情緒上的穩定、實際的主動性，還有在大家都累了時，仍然敢把事情講清楚的勇氣。",
-            "vocab": [
-              {
-                "word": "practical initiative",
-                "def": "不是空講"
-              }
-            ]
+            "zh": "很多時候不是控制。通常是情緒上的穩定、實際的主動性，還有在大家都累了時，仍然敢把事情講清楚的勇氣。"
           },
           {
             "speaker": "b",
@@ -2481,13 +1974,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is. Someone is noticing the pattern, anticipating the problem, and helping the day hold together.",
-            "zh": "很多時候確實就是。總是有人在看模式、猜問題、然後默默把一天撐住。",
-            "vocab": [
-              {
-                "word": "pattern",
-                "def": "模式；規律"
-              }
-            ]
+            "zh": "很多時候確實就是。總是有人在看模式、猜問題、然後默默把一天撐住。"
           },
           {
             "speaker": "b",
@@ -2499,13 +1986,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. What looks ordinary is often what prevents the bigger mess.",
-            "zh": "沒錯。很多看起來普通的事，其實正是在避免更大的混亂。",
-            "vocab": [
-              {
-                "word": "prevents the bigger",
-                "def": "先處理小事，避免事情變成大麻煩"
-              }
-            ]
+            "zh": "沒錯。很多看起來普通的事，其實正是在避免更大的混亂。"
           },
           {
             "speaker": "b",
@@ -2516,8 +1997,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very good way to say it.",
-            "zh": "你這個說法很好。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           }
         ]
       },
@@ -2534,13 +2015,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"She is the one who quietly helps everyone get organized when things get messy.\" That sounds natural and specific.",
-            "zh": "你可以說：「She is the one who quietly helps everyone get organized when things get messy.」這句自然又具體。",
-            "vocab": [
-              {
-                "word": "one who quietly",
-                "def": "那個默默幫忙的人"
-              }
-            ]
+            "zh": "你可以說：「She is the one who quietly helps everyone get organized when things get messy.」這句自然又具體。"
           },
           {
             "speaker": "b",
@@ -2552,13 +2027,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is: \"He is good at noticing what needs to happen next before anyone asks.\" That captures initiative without making it sound grand.",
-            "zh": "另一句也很好：「He is good at noticing what needs to happen next before anyone asks.」它把主動性抓得很好，但不會太誇張。",
-            "vocab": [
-              {
-                "word": "initiative",
-                "def": "主動性；自發行動"
-              }
-            ]
+            "zh": "另一句也很好：「He is good at noticing what needs to happen next before anyone asks.」它把主動性抓得很好，但不會太誇張。"
           },
           {
             "speaker": "b",
@@ -2570,13 +2039,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something about family, try: \"She keeps everyone connected without making a big show of it.\"",
-            "zh": "如果你想講家庭裡的角色，可以試試：「She keeps everyone connected without making a big show of it.」",
-            "vocab": [
-              {
-                "word": "keeps everyone connected",
-                "def": "默默維持關係與聯絡感"
-              }
-            ]
+            "zh": "如果你想講家庭裡的角色，可以試試：「She keeps everyone connected without making a big show of it.」"
           },
           {
             "speaker": "b",
@@ -2617,13 +2080,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then one person says, \"Two of us choose tonight, and next time someone else can choose.\" It is tiny, but it restores motion and fairness.",
-            "zh": "然後有一個人說：「今晚我們兩個先選，下次換別人選。」這件事很小，但它把行動和公平感一起拉回來了。",
-            "vocab": [
-              {
-                "word": "restores motion",
-                "def": "把卡住的群體重新帶回可往前走的狀態"
-              }
-            ]
+            "zh": "然後有一個人說：「今晚我們兩個先選，下次換別人選。」這件事很小，但它把行動和公平感一起拉回來了。"
           },
           {
             "speaker": "b",
@@ -2635,13 +2092,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and doing it in a way that people do not resent. That is the subtle part.",
-            "zh": "對，而且還要做得讓別人不會討厭你。那就是細膩的地方。",
-            "vocab": [
-              {
-                "word": "resent",
-                "def": "怨恨；心懷不滿"
-              }
-            ]
+            "zh": "對，而且還要做得讓別人不會討厭你。那就是細膩的地方。"
           },
           {
             "speaker": "b",
@@ -2705,7 +2156,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then start there. Some of the best leaders are just people who kept helping small groups move with a little more honesty and care.",
+            "en": "Start there. Some of the best leaders are just people who kept helping small groups move with a little more honesty and care.",
             "zh": "那就從那裡開始。有些最好的領導者，其實只是長期在幫小群體用更多誠實和照顧往前走的人。"
           }
         ]

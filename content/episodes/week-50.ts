@@ -6,7 +6,7 @@ export const WEEK_50: Episode[] = [
     "dayOfWeek": 1,
     "date": "2026-12-07",
     "theme": "Gratitude & Appreciation",
-    "title": "The Science of Gratitude",
+    "title": "Showing Thanks in Real Life",
     "phase": "p6",
     "parts": [
       {
@@ -16,19 +16,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "People talk about gratitude as if it is just a nice attitude.",
-            "zh": "很多人把 gratitude 講得像只是一種討喜的態度。"
+            "zh": "很多人把感謝講得像只是一種討喜的態度。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "But gratitude is deeper than that. At its healthiest, it is a way of noticing support, interdependence, and enoughness without denying difficulty.",
-            "zh": "但 gratitude 比那更深。最健康的 gratitude，是一種看見支持、看見彼此依存、也看見夠了的方式，而且它不需要否認困難。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "但感謝比那更深。最健康的感謝，是一種看見支持、看見彼此依存、也看見夠了的方式，而且它不需要否認困難。"
           },
           {
             "speaker": "b",
@@ -40,43 +34,31 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Real gratitude does not erase pain. It changes what else is visible alongside the pain.",
-            "zh": "沒錯。真正的 gratitude 不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。",
-            "vocab": [
-              {
-                "word": "alongside the pain",
-                "def": "同時看見其他真實的好東西"
-              }
-            ]
+            "zh": "沒錯。真正的感謝不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That already sounds more grounded than most gratitude talk.",
-            "zh": "這樣一講，比大多數 gratitude talk 都落地多了。"
+            "zh": "這樣一講，比大多數關於感恩的話語都落地多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should sound grounded, because gratitude works best when it stays close to reality.",
-            "zh": "它本來就該落地，因為 gratitude 最有用的時候，就是它貼著現實。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "它本來就該落地，因為 感謝最有用的時候，就是它貼著現實。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the science matters because it protects the topic from becoming shallow.",
-            "zh": "所以所謂 science 的價值，是讓這個主題不要變得很淺。"
+            "zh": "所以科學研究的價值，是讓這個主題不要變得很淺。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It reminds us that gratitude can shape attention, stress, and relationships in measurable ways.",
-            "zh": "對。它會提醒我們，gratitude 真的會在可感知甚至可測量的程度上，改變注意力、壓力和關係。"
+            "zh": "對。它會提醒我們，感謝真的會在可感知甚至可測量的程度上，改變注意力、壓力和關係。"
           }
         ]
       },
@@ -87,37 +69,25 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What actually changes in a person when gratitude becomes a habit?",
-            "zh": "當 gratitude 真的變成習慣時，一個人身上會改變什麼？"
+            "zh": "當感謝真的變成習慣時，一個人身上會改變什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often the first change is attentional. People stop scanning only for what is missing and start noticing what is already sustaining them.",
-            "zh": "很多時候最先改變的是注意力。人不再只掃描自己缺什麼，而是開始注意已經在支撐自己的東西。",
-            "vocab": [
-              {
-                "word": "attentional",
-                "def": "很多時候最先改變的是注意力"
-              }
-            ]
+            "zh": "很多時候最先改變的是注意力。人不再只掃描自己缺什麼，而是開始注意已經在支撐自己的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude changes the search pattern of the mind.",
-            "zh": "所以 gratitude 其實是在改變心智的搜尋模式。"
+            "zh": "所以 感謝其實是在改變心智的搜尋模式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
-            "zh": "沒錯。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。",
-            "vocab": [
-              {
-                "word": "entire truth",
-                "def": "這不會讓問題消失"
-              }
-            ]
+            "zh": "沒錯。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。"
           },
           {
             "speaker": "b",
@@ -129,19 +99,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is important. Chronic scarcity thinking makes people tighter, harsher, and less relational. Gratitude can interrupt that pattern a little.",
-            "zh": "它真的很重要。長期的匱乏思維會讓人變得更緊、更苛，也比較不 relational；gratitude 可以稍微打斷那個模式。",
-            "vocab": [
-              {
-                "word": "scarcity thinking",
-                "def": "總是先看見不夠、不足和匱乏的思考模式"
-              }
-            ]
+            "zh": "它真的很重要。長期的匱乏思維會讓人變得更緊、更苛，也比較難建立真實的人際連結；感謝可以稍微打斷那個模式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude does not solve everything, but it changes the emotional climate.",
-            "zh": "所以 gratitude 不會解決一切，但會改變情緒氣候。"
+            "zh": "所以 感謝不會解決一切，但會改變情緒氣候。"
           },
           {
             "speaker": "a",
@@ -158,19 +122,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English sounds good for talking about gratitude naturally?",
-            "zh": "如果要很自然地談 gratitude，有哪些英文好用？"
+            "zh": "如果要很自然地用英文談感謝，有哪些說法好用？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clearer option here is \"I am trying to notice what is supporting me before I only notice what is missing.\" It sounds honest, not sugary.",
-            "zh": "一句很好用的是：「I am trying to notice what is supporting me before I only notice what is missing.」這句很誠實，不會太甜。",
-            "vocab": [
-              {
-                "word": "sounds honest",
-                "def": "先看見正在支撐自己的東西"
-              }
-            ]
+            "zh": "一句很好用的是：「I am trying to notice what is supporting me before I only notice what is missing.」這句很誠實，不會太甜。"
           },
           {
             "speaker": "b",
@@ -182,13 +140,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Gratitude does not make the hard thing easy, but it can make me less alone inside it.\" That works when life is heavy.",
-            "zh": "還有一句也很好，就是「感謝不會讓困難變得輕鬆，但它會讓我在裡面沒有那麼孤單。」在生活比較重的時候，這句很好用。",
-            "vocab": [
-              {
-                "word": "alone inside",
-                "def": "困難還在，但內在沒那麼孤單"
-              }
-            ]
+            "zh": "還有一句也很好，就是「感謝不會讓困難變得輕鬆，但它會讓我在裡面沒有那麼孤單。」在生活比較重的時候，這句很好用。"
           },
           {
             "speaker": "b",
@@ -200,25 +152,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something shorter, say: \"I am trying to hold both the strain and the support.\" That captures balance well.",
-            "zh": "如果你想短一點，也可以說：「I am trying to hold both the strain and the support.」這句很能抓平衡。",
-            "vocab": [
-              {
-                "word": "hold both",
-                "def": "同時容納辛苦和支持"
-              }
-            ]
+            "zh": "如果你想短一點，也可以說：「I am trying to hold both the strain and the support.」這句很能抓平衡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That would be good in a reflection journal too.",
-            "zh": "這句拿來寫 reflection journal 也很好。"
+            "zh": "這句拿來寫反思日記也很好。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It gives people language for gratitude that still sounds adult.",
-            "zh": "對。它給了人一套 gratitude 的語言，但聽起來還是很成熟。"
+            "zh": "對。它給了人一套談感謝的語言，但聽起來還是很成熟。"
           }
         ]
       },
@@ -229,7 +175,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Could you give me a very everyday example of gratitude?",
-            "zh": "你可以給我一個很日常的 gratitude 例子嗎？"
+            "zh": "你可以給我一個很日常的感謝例子嗎？"
           },
           {
             "speaker": "a",
@@ -247,37 +193,25 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Gratitude often grows through small signs that you are being held in somebody else's attention.",
-            "zh": "沒錯。gratitude 很常是從那些小小的訊號長出來的，而那些訊號在說：有人把你放在他的注意力裡。",
-            "vocab": [
-              {
-                "word": "attention",
-                "def": "重複"
-              }
-            ]
+            "zh": "沒錯。感謝很常是從那些小小的訊號長出來的，而那些訊號在說：有人把你放在他的注意力裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude is relational before it becomes philosophical.",
-            "zh": "所以 gratitude 先是關係裡的，之後才是哲學性的。"
+            "zh": "所以 感謝先是關係裡的，之後才是哲學性的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. The body knows care before the mind turns it into language.",
-            "zh": "很多時候真的會先是那樣。身體會先知道自己被照顧了，心才會慢慢把那件事變成語言。",
-            "vocab": [
-              {
-                "word": "care before",
-                "def": "還沒講出來前，身體先感覺到自己被照顧"
-              }
-            ]
+            "zh": "很多時候真的會先是那樣。身體會先知道自己被照顧了，心才會慢慢把那件事變成語言。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes gratitude feel very human.",
-            "zh": "這讓 gratitude 聽起來很人。"
+            "zh": "這讓感謝聽起來很有人味。"
           },
           {
             "speaker": "a",
@@ -294,19 +228,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What helps gratitude last longer than one emotional moment?",
-            "zh": "什麼能讓 gratitude 不只是一個短暫感動，而是留得久一點？"
+            "zh": "什麼能讓感謝不只是一個短暫感動，而是留得久一點？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Specificity helps. When gratitude is vague, it fades quickly. When it is tied to a person, a gesture, or a moment, it becomes easier to revisit honestly.",
-            "zh": "具體性會有幫助。gratitude 很模糊時，很快就散；但一旦它和某個人、某個動作、或某個時刻綁在一起，就比較容易真誠地回到那裡。"
+            "zh": "具體性會有幫助。感謝很模糊時，很快就散；但一旦它和某個人、某個動作、或某個時刻綁在一起，就比較容易真誠地回到那裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So detail makes gratitude more durable.",
-            "zh": "所以細節會讓 gratitude 比較耐久。"
+            "zh": "所以細節會讓感謝比較耐久。"
           },
           {
             "speaker": "a",
@@ -318,13 +252,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sounds like a kinder version of practice.",
-            "zh": "這聽起來像一種比較溫柔的 practice。"
+            "zh": "這聽起來像一種比較溫柔的練習。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should be kind. The point is not to force gratitude. The point is to make it more reachable.",
-            "zh": "它本來就該溫柔。重點不是把 gratitude 硬逼出來，而是讓自己比較碰得到它。"
+            "zh": "它本來就該溫柔。重點不是把感謝硬逼出來，而是讓自己比較碰得到它。"
           },
           {
             "speaker": "b",
@@ -336,7 +270,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters a lot. Reachable gratitude is healthier than performative gratitude every time.",
-            "zh": "它很重要。碰得到的 gratitude，永遠比表演出來的 gratitude 更健康。"
+            "zh": "它很重要。碰得到的感謝，永遠比表演出來的感謝更健康。"
           }
         ]
       }
@@ -405,13 +339,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because appreciation asks for attention and articulation. People may feel the gratitude, but they do not always slow down enough to express it well.",
-            "zh": "因為 appreciation 需要注意力，也需要表達能力。人心裡也許真的有感謝，但不一定有慢下來，把它說好的能力。",
-            "vocab": [
-              {
-                "word": "express it well",
-                "def": "但不一定有慢下來"
-              }
-            ]
+            "zh": "因為真正感謝或欣賞他人需要注意力，也需要表達能力。人心裡也許真的有感謝，但不一定有慢下來，把它說好的能力。"
           },
           {
             "speaker": "b",
@@ -423,13 +351,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Appreciation becomes powerful when it gets specific enough that the other person can actually receive it.",
-            "zh": "沒錯。當 appreciation 夠具體，具體到對方真的收得到時，它才會變得有力量。",
-            "vocab": [
-              {
-                "word": "Appreciation becomes powerful",
-                "def": "能讓對方真的聽進去、收得到的感謝"
-              }
-            ]
+            "zh": "沒錯。當感謝夠具體，具體到對方真的收得到時，它才會變得有力量。"
           },
           {
             "speaker": "b",
@@ -441,19 +363,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A vague \"thank you\" is better than nothing, but a named thank you can change how someone sees their own effort.",
-            "zh": "模糊的 thank you 當然比沒有好，但被命名出來的感謝，真的會改變一個人怎麼看自己的付出。",
-            "vocab": [
-              {
-                "word": "named thank",
-                "def": "但被命名出來的感謝"
-              }
-            ]
+            "zh": "模糊的 thank you 當然比沒有好，但被命名出來的感謝，真的會改變一個人怎麼看自己的付出。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So appreciation is partly about helping people see themselves accurately.",
-            "zh": "所以 appreciation 也有一部分是在幫人更準確地看見自己。"
+            "zh": "所以 感謝他人也有一部分是在幫人更準確地看見自己。"
           },
           {
             "speaker": "a",
@@ -470,19 +386,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Who do people forget to appreciate most often?",
-            "zh": "人最常忘記去 appreciation 的通常是誰？"
+            "zh": "人最常忘記去感謝的通常是誰？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually the people whose care has become familiar. Once support becomes routine, it becomes easier to overlook.",
-            "zh": "通常是那些照顧已經變成熟悉日常的人。當支持變成 routine，就很容易被忽略。",
-            "vocab": [
-              {
-                "word": "become familiar",
-                "def": "通常是那些照顧已經變成熟悉日常的人"
-              }
-            ]
+            "zh": "通常是那些照顧已經變成熟悉日常的人。當支持變成日常，就很容易被忽略。"
           },
           {
             "speaker": "b",
@@ -494,13 +404,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The friend who always checks in, the colleague who quietly fixes details, the parent who remembers logistics, the partner who carries mental load.",
-            "zh": "沒錯。像是總會來關心的朋友、默默把細節補好的同事、記住一堆流程的父母，或一直扛著 mental load 的伴侶。",
-            "vocab": [
-              {
-                "word": "quietly fixes details",
-                "def": "不大聲，但一直穩定存在的付出"
-              }
-            ]
+            "zh": "沒錯。像是總會來關心的朋友、默默把細節補好的同事、記住一堆流程的父母，或一直扛著心理負擔的伴侶。"
           },
           {
             "speaker": "b",
@@ -512,13 +416,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Appreciation is especially important where effort has been normalized into invisibility.",
-            "zh": "對。當一份努力已經正常到變得隱形時，appreciation 就特別重要。",
-            "vocab": [
-              {
-                "word": "important where effort",
-                "def": "明明付出很多"
-              }
-            ]
+            "zh": "對。當一份努力已經正常到變得隱形時，感謝就特別重要。"
           },
           {
             "speaker": "b",
@@ -547,13 +445,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong line is: \"I do not want to say a generic thank you. I want to tell you what I actually noticed.\" That creates depth right away.",
-            "zh": "一句很強的是：「I do not want to say a generic thank you. I want to tell you what I actually noticed.」這句會立刻把深度打開。",
-            "vocab": [
-              {
-                "word": "noticed",
-                "def": "注意到了"
-              }
-            ]
+            "zh": "一句很強的是：「I do not want to say a generic thank you. I want to tell you what I actually noticed.」這句會立刻把深度打開。"
           },
           {
             "speaker": "b",
@@ -565,13 +457,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is \"What I appreciated most was how steady you were when things got messy.\" That works in work and friendship contexts.",
-            "zh": "另一句也很好：「What I appreciated most was how steady you were when things got messy.」這句不管在工作還是友情裡都很好用。",
-            "vocab": [
-              {
-                "word": "steady",
-                "def": "事情一亂，仍然穩得住的狀態"
-              }
-            ]
+            "zh": "另一句也很好：「What I appreciated most was how steady you were when things got messy.」這句不管在工作還是友情裡都很好用。"
           },
           {
             "speaker": "b",
@@ -583,19 +469,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Behavior-based appreciation often feels more believable and less performative.",
-            "zh": "沒錯。以行為為基礎的 appreciation，通常比較可信，也比較不表演。",
-            "vocab": [
-              {
-                "word": "behavior-based appreciation",
-                "def": "針對具體行為表達欣賞，而不是空泛稱讚"
-              }
-            ]
+            "zh": "沒錯。以行為為基礎的感謝，通常比較可信，也比較不表演。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is really useful for speaking practice too.",
-            "zh": "這對 speaking practice 也真的很有用。"
+            "zh": "這對英語口說練習也真的很有用。"
           },
           {
             "speaker": "a",
@@ -606,7 +486,7 @@ export const WEEK_50: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Thank You That Lands",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -630,13 +510,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Specific appreciation gives people a mirror that reflects their actual value back to them.",
-            "zh": "沒錯。具體的 appreciation 會像一面鏡子，把一個人真正的價值反射回給他。",
-            "vocab": [
-              {
-                "word": "actual value back",
-                "def": "把一個人的價值準確反映回給他看"
-              }
-            ]
+            "zh": "沒錯。具體的感謝會像一面鏡子，把一個人真正的價值反射回給他。"
           },
           {
             "speaker": "b",
@@ -648,42 +522,31 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because many people contribute in ways they no longer consciously track. Being named can restore meaning to tired effort.",
-            "zh": "這很重要，因為很多人一直在付出，但早就不再有意識地看見自己在做什麼。被命名，會把意義還給一份疲憊的努力。",
-            "vocab": [
-              {
-                "word": "restore meaning",
-                "def": "被命名"
-              }
-            ]
+            "zh": "這很重要，因為很多人一直在付出，但早就不再有意識地看見自己在做什麼。被命名，會把意義還給一份疲憊的努力。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So appreciation can be renewing, not only polite.",
-            "zh": "所以 appreciation 其實是有修復力的，不只是禮貌。"
+            "zh": "所以 感謝其實是有修復力的，不只是禮貌。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is why it matters so much in close relationships.",
             "zh": "對，而這也是它在親近關係裡那麼重要的原因。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Saying It Before It Is Too Late",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do people so often wait too long to say appreciative things?",
-            "zh": "為什麼人那麼常拖到太晚，才說出 appreciation 的話？"
+            "zh": "為什麼人那麼常拖到太晚，才說出感謝的話？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they assume the other person already knows. Or they think there will always be more time, more chances, a better moment.",
-            "zh": "因為他們以為對方本來就知道。或者以為之後一定還有更多時間、更多機會、更好的 moment。"
+            "zh": "因為他們以為對方本來就知道。或者以為之後一定還有更多時間、更多機會、更好的時刻。"
           },
           {
             "speaker": "b",
@@ -695,7 +558,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Appreciation becomes more urgent once you realize how much of life is temporary, unannounced, and already passing.",
-            "zh": "沒錯。當你意識到人生有多少東西是暫時的、沒有預告的、而且已經在流走時，appreciation 就會突然變得更 urgent。"
+            "zh": "沒錯。當你意識到人生有多少東西是暫時的、沒有預告的、而且已經在流走時，感謝就會突然變得更迫切。"
           },
           {
             "speaker": "b",
@@ -719,7 +582,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a reminder worth keeping. Appreciation is one of the simplest ways to make love audible.",
-            "zh": "這是一個值得留下的提醒。appreciation 是讓愛變得聽得見的最簡單方式之一。"
+            "zh": "這是一個值得留下的提醒。感謝是讓愛變得聽得見的最簡單方式之一。"
           }
         ]
       }
@@ -731,9 +594,9 @@ export const WEEK_50: Episode[] = [
         "example": "She was learning how to express appreciation well."
       },
       {
-        "en": "receivable appreciation",
-        "zh": "能讓對方真的聽進去、收得到的感謝",
-        "example": "Receivable appreciation needs real detail."
+        "en": "specific appreciation",
+        "zh": "具體到對方真的感受得到的感謝",
+        "example": "Specific appreciation always names the behavior, not just the feeling."
       },
       {
         "en": "named gratitude",
@@ -788,13 +651,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because ordinary life repeats itself. The mind gets efficient, and efficiency often stops paying close attention to what has become familiar.",
-            "zh": "因為日常會重複。大腦一旦變得很有效率，就常常不再細看那些已經太熟悉的東西。",
-            "vocab": [
-              {
-                "word": "attention",
-                "def": "因為日常會重複"
-              }
-            ]
+            "zh": "因為日常會重複。大腦一旦變得很有效率，就常常不再細看那些已經太熟悉的東西。"
           },
           {
             "speaker": "b",
@@ -806,13 +663,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Ordinary beauty often lives in light, timing, routine, gesture, or tiny forms of care that are easy to step past.",
-            "zh": "沒錯。日常的美，常常活在光線、時機、日常節奏、動作，或那些很容易被跨過去的小照顧裡。",
-            "vocab": [
-              {
-                "word": "tiny forms",
-                "def": "不是很戲劇化，而是小小存在的美感時刻"
-              }
-            ]
+            "zh": "沒錯。日常的美，常常活在光線、時機、日常節奏、動作，或那些很容易被跨過去的小照顧裡。"
           },
           {
             "speaker": "b",
@@ -824,19 +675,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is often quieter. Many of the best moments in life do not announce themselves as important while they are happening.",
-            "zh": "它很多時候本來就很安靜。人生裡最好的很多 moments，在發生當下其實不會特別宣布自己很重要。",
-            "vocab": [
-              {
-                "word": "best moments",
-                "def": "它很多時候本來就很安靜"
-              }
-            ]
+            "zh": "它很多時候本來就很安靜。人生裡最好的很多時刻，在發生當下其實不會特別宣布自己很重要。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So noticing beauty is partly a matter of training perception.",
-            "zh": "所以看見美，有一部分其實是在訓練 perception。"
+            "zh": "所以看見美，有一部分其實是在訓練感知能力。"
           },
           {
             "speaker": "a",
@@ -859,13 +704,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it interrupts numbness. Small beauty can remind the nervous system that life is not only pressure, performance, and problem-solving.",
-            "zh": "因為它會打斷麻木。小小的美感會提醒神經系統：生活不只由壓力、表現和解題組成。",
-            "vocab": [
-              {
-                "word": "interrupts numbness",
-                "def": "打斷已經麻掉、鈍掉的內在狀態"
-              }
-            ]
+            "zh": "因為它會打斷麻木。小小的美感會提醒神經系統：生活不只由壓力、表現和解題組成。"
           },
           {
             "speaker": "b",
@@ -877,13 +716,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It can soften the pace of the mind for a moment and create a little more room to feel alive.",
-            "zh": "沒錯。它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。",
-            "vocab": [
-              {
-                "word": "feel alive",
-                "def": "不是機械地做"
-              }
-            ]
+            "zh": "沒錯。它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
           },
           {
             "speaker": "b",
@@ -895,13 +728,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. When life gets intense, people often need ordinary beauty more, not less, because it helps the system remember gentleness.",
-            "zh": "確實如此。當生活很硬時，人通常更需要 ordinary beauty，而不是更不需要，因為它會幫身體記起溫柔。",
-            "vocab": [
-              {
-                "word": "remember gentleness",
-                "def": "在緊繃裡重新想起柔軟和溫和"
-              }
-            ]
+            "zh": "確實如此。當生活很硬時，人通常更需要 ordinary beauty，而不是更不需要，因為它會幫身體記起溫柔。"
           },
           {
             "speaker": "b",
@@ -930,13 +757,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is \"Nothing dramatic happened, but the moment still felt quietly beautiful.\" That sounds natural and believable.",
-            "zh": "一句很好用的是：「Nothing dramatic happened, but the moment still felt quietly beautiful.」這句自然又可信。",
-            "vocab": [
-              {
-                "word": "quietly beautiful",
-                "def": "不是轟轟烈烈，但有很安靜的美"
-              }
-            ]
+            "zh": "一句很好用的是：「Nothing dramatic happened, but the moment still felt quietly beautiful.」這句自然又可信。"
           },
           {
             "speaker": "b",
@@ -948,13 +769,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I almost missed it because it looked too ordinary at first.\" That works when beauty arrives without spectacle.",
-            "zh": "另一句也很好：「I almost missed it because it looked too ordinary at first.」很適合那種沒有 spectacle 的美。",
-            "vocab": [
-              {
-                "word": "almost missed",
-                "def": "原本差點因為太普通而錯過的美"
-              }
-            ]
+            "zh": "另一句也很好：「I almost missed it because it looked too ordinary at first.」很適合那種沒有 spectacle 的美。"
           },
           {
             "speaker": "b",
@@ -966,13 +781,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something warmer, say: \"It was a small moment, but it made the whole day feel more inhabitable.\" That gives beauty a practical effect.",
-            "zh": "如果你想講得溫暖一點，可以說：「It was a small moment, but it made the whole day feel more inhabitable.」這句會讓美有一種實際作用。",
-            "vocab": [
-              {
-                "word": "practical",
-                "def": "美有一種實際作用"
-              }
-            ]
+            "zh": "如果你想講得溫暖一點，可以說：「It was a small moment, but it made the whole day feel more inhabitable.」這句會讓美有一種實際作用。"
           },
           {
             "speaker": "b",
@@ -1013,13 +822,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, but they matter because they return the world to you in a gentler form.",
-            "zh": "沒錯。而它們之所以重要，是因為它們會把世界用比較溫柔的形狀還給你。",
-            "vocab": [
-              {
-                "word": "gentler form",
-                "def": "世界暫時變得比較柔和、比較能待的樣子"
-              }
-            ]
+            "zh": "沒錯。而它們之所以重要，是因為它們會把世界用比較溫柔的形狀還給你。"
           },
           {
             "speaker": "b",
@@ -1031,13 +834,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think ordinary beauty often works like that. It does not ask to dominate your attention. It only asks to be noticed for a second.",
-            "zh": "我覺得 ordinary beauty 很常就是這樣。它不會要求霸佔你的注意力，只是請你看見它一秒鐘。",
-            "vocab": [
-              {
-                "word": "ordinary beauty",
-                "def": "不是很盛大，卻在日常裡真實存在的美感"
-              }
-            ]
+            "zh": "我覺得 ordinary beauty 很常就是這樣。它不會要求霸佔你的注意力，只是請你看見它一秒鐘。"
           },
           {
             "speaker": "b",
@@ -1072,7 +869,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sounds like a different relationship to life.",
-            "zh": "這聽起來像是和 life 建立另一種關係。"
+            "zh": "這聽起來像是和生活建立另一種關係。"
           },
           {
             "speaker": "a",
@@ -1084,7 +881,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That lands as a meaningful shift.",
-            "zh": "這真的是很有意義的 shift。"
+            "zh": "這真的是很有意義的轉變。"
           },
           {
             "speaker": "a",
@@ -1165,37 +962,25 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "People sometimes use perspective in a way that sounds dismissive.",
-            "zh": "很多人講 perspective 的時候，聽起來很像在把事情講小。"
+            "zh": "很多人講「看清楚一點」這件事時，聽起來很像在把事情講小。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the problem. Healthy perspective is not denial. It is a wider frame that lets difficulty stay real without letting difficulty become the only reality.",
-            "zh": "這就是問題。健康的 perspective 不是否認，而是給出一個更寬的框，讓困難保持真實，同時又不讓困難變成唯一真相。",
-            "vocab": [
-              {
-                "word": "wider frame",
-                "def": "把事情放進比較寬的脈絡裡去看"
-              }
-            ]
+            "zh": "這就是問題。健康的視角不是否認，而是給出一個更寬的框，讓困難保持真實，同時又不讓困難變成唯一真相。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So perspective should enlarge reality, not erase it.",
-            "zh": "所以 perspective 應該是把現實擴大，不是把它擦掉。"
+            "zh": "所以 視角應該是把現實擴大，不是把它擦掉。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Gratitude often helps by widening the frame. It reminds people of support, context, and what still remains workable.",
-            "zh": "沒錯。gratitude 很常就是透過把框變大來幫忙。它會提醒人：支持還在、脈絡還在，以及還有哪些部分仍然可用。",
-            "vocab": [
-              {
-                "word": "remains workable",
-                "def": "以及還有哪些部分仍然可用"
-              }
-            ]
+            "zh": "沒錯。感謝很常就是透過把框變大來幫忙。它會提醒人：支持還在、脈絡還在，以及還有哪些部分仍然可用。"
           },
           {
             "speaker": "b",
@@ -1207,25 +992,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is healthier because it leaves room for grief, anger, and fatigue while still protecting meaning.",
-            "zh": "它更健康，因為它讓哀傷、憤怒和疲憊都有地方，同時又保住了意義。",
-            "vocab": [
-              {
-                "word": "protecting meaning",
-                "def": "同時又保住了意義"
-              }
-            ]
+            "zh": "它更健康，因為它讓哀傷、憤怒和疲憊都有地方，同時又保住了意義。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude and perspective work best together.",
-            "zh": "所以 gratitude 和 perspective 最好是一起工作。"
+            "zh": "所以 感謝和視野最好是一起工作。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Perspective without gratitude can become cold. Gratitude without perspective can become thin.",
-            "zh": "對。沒有 gratitude 的 perspective 會變冷；沒有 perspective 的 gratitude 則會變薄。"
+            "zh": "對。沒有感謝的視野會變冷；沒有視野的感謝則會變薄。"
           }
         ]
       },
@@ -1236,19 +1015,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How does perspective change a hard day in practice?",
-            "zh": "在實際生活裡，perspective 會怎麼改變一個 hard day？"
+            "zh": "在實際生活裡，視角會怎麼改變辛苦的一天？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can stop one painful event from becoming the story of the entire day, the entire week, or the entire self.",
-            "zh": "它會阻止一個痛的事件，直接變成一整天、一整週，甚至整個自我的故事。",
-            "vocab": [
-              {
-                "word": "stop one painful",
-                "def": "不讓單一糟糕事件擴張成全部"
-              }
-            ]
+            "zh": "它會阻止一個痛的事件，直接變成一整天、一整週，甚至整個自我的故事。"
           },
           {
             "speaker": "b",
@@ -1260,13 +1033,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Under stress, the mind often magnifies what hurts and shrinks what still holds. Perspective helps rebalance that distortion.",
-            "zh": "沒錯。在壓力下，大腦很容易把痛的地方放大，把還撐著你的東西縮小。perspective 會去重新平衡那種扭曲。",
-            "vocab": [
-              {
-                "word": "rebalance",
-                "def": "把壓力造成的放大與縮小重新調整回來"
-              }
-            ]
+            "zh": "沒錯。在壓力下，大腦很容易把痛的地方放大，把還撐著你的東西縮小。視角會去重新平衡那種扭曲。"
           },
           {
             "speaker": "b",
@@ -1278,13 +1045,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is useful because a person does not need a false story. They need a fuller one.",
-            "zh": "它很有用，因為人不需要假故事，他需要的是更完整的故事。",
-            "vocab": [
-              {
-                "word": "false story",
-                "def": "人不需要假故事"
-              }
-            ]
+            "zh": "它很有用，因為人不需要假故事，他需要的是更完整的故事。"
           },
           {
             "speaker": "b",
@@ -1296,7 +1057,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good perspective often feels like that. Not sweeter, just fuller.",
-            "zh": "好的 perspective 很常就是這樣。不是更甜，而是更完整。"
+            "zh": "好的視角很常就是這樣。不是更甜，而是更完整。"
           }
         ]
       },
@@ -1313,31 +1074,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I am trying to see the hard thing in proportion, not let it swallow everything else.\" That is natural and honest.",
-            "zh": "一句很好用的是：「I am trying to see the hard thing in proportion, not let it swallow everything else.」這句自然，也很誠實。",
-            "vocab": [
-              {
-                "word": "proportion",
-                "def": "把困難放回它應有的比例裡"
-              }
-            ]
+            "zh": "一句很好用的是：「I am trying to see the hard thing in proportion, not let it swallow everything else.」這句自然，也很誠實。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely helpful sentence.",
-            "zh": "這句真的很有幫助。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"Perspective did not remove the pain, but it changed the size of the pain in my mind.\" That works when you want nuance.",
-            "zh": "另一句也很好：「Perspective did not remove the pain, but it changed the size of the pain in my mind.」如果你想講得有層次，這句很適合。",
-            "vocab": [
-              {
-                "word": "changed the size",
-                "def": "不是事件變了"
-              }
-            ]
+            "zh": "另一句也很好：「Perspective did not remove the pain, but it changed the size of the pain in my mind.」如果你想講得有層次，這句很適合。"
           },
           {
             "speaker": "b",
@@ -1349,13 +1098,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something shorter, try: \"I needed a wider view, not a brighter mood.\" That contrasts perspective with positivity very clearly.",
-            "zh": "如果你想短一點，可以試：「I needed a wider view, not a brighter mood.」這句會很清楚地把 perspective 和 positivity 分開。",
-            "vocab": [
-              {
-                "word": "wider view",
-                "def": "需要的是更寬的看法，不是硬把心情變亮"
-              }
-            ]
+            "zh": "如果你想短一點，可以試：「I needed a wider view, not a brighter mood.」這句會很清楚地把視角和正向態度分開。"
           },
           {
             "speaker": "b",
@@ -1378,7 +1121,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would a real example of perspective shift look like?",
-            "zh": "你可以給我一個 perspective 真的有 shift 的例子嗎？"
+            "zh": "你可以給我一個 視角真的有轉變的例子嗎？"
           },
           {
             "speaker": "a",
@@ -1396,13 +1139,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Perspective does not erase the critique. It puts it back inside a larger context where learning is still possible.",
-            "zh": "沒錯。perspective 不會擦掉那段批評，它只是把那段批評放回一個更大的 context 裡，而在那個 context 裡，學習仍然是可能的。",
-            "vocab": [
-              {
-                "word": "puts it back",
-                "def": "學習仍然是可能的"
-              }
-            ]
+            "zh": "沒錯。視角不會擦掉那段批評，它只是把那段批評放回一個更大的脈絡裡，而在那個脈絡裡，學習仍然是可能的。"
           },
           {
             "speaker": "b",
@@ -1414,13 +1151,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because many hard moments become harder through isolation from the rest of reality.",
-            "zh": "對。很多難的 moment，會變得更難，就是因為它被從整個現實裡孤立出來了。",
-            "vocab": [
-              {
-                "word": "through isolation",
-                "def": "從整體脈絡中被切出來、因此被放大的痛"
-              }
-            ]
+            "zh": "對。很多難的 moment，會變得更難，就是因為它被從整個現實裡孤立出來了。"
           },
           {
             "speaker": "b",
@@ -1432,7 +1163,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Gratitude often helps reconnect the hard thing to the larger life around it.",
-            "zh": "而 gratitude 很常會幫你把那件難事重新接回它周圍比較大的生命。"
+            "zh": "而 感謝很常會幫你把那件難事重新接回它周圍比較大的生命。"
           }
         ]
       },
@@ -1467,7 +1198,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So perspective is really about capacity.",
-            "zh": "所以 perspective 某程度上其實是在談容量。"
+            "zh": "所以 視角某程度上其實是在談容量。"
           },
           {
             "speaker": "a",
@@ -1548,37 +1279,25 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Work does not always feel like the most natural place for gratitude.",
-            "zh": "工作不一定是大家最自然會想到 gratitude 的地方。"
+            "zh": "工作不一定是大家最自然會想到感謝的地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true, but it matters there precisely because work can become transactional so quickly. Gratitude reminds people there are humans inside the system.",
-            "zh": "這是真的，但它正因如此才更重要，因為工作很容易一下子變得只剩交易感。gratitude 會提醒大家：系統裡面還有人。",
-            "vocab": [
-              {
-                "word": "inside the system",
-                "def": "但它正因如此才更重要"
-              }
-            ]
+            "zh": "這是真的，但它正因如此才更重要，因為工作很容易一下子變得只剩交易感。感謝會提醒大家：系統裡面還有人。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude protects humanity in structured environments.",
-            "zh": "所以 gratitude 其實是在制度裡保護人味。"
+            "zh": "所以 感謝其實是在制度裡保護人味。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
-            "zh": "沒錯。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。",
-            "vocab": [
-              {
-                "word": "metrics alone cannot",
-                "def": "它會減少隱形感、修復士氣"
-              }
-            ]
+            "zh": "沒錯。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
           },
           {
             "speaker": "b",
@@ -1590,19 +1309,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. The faster a workplace moves, the easier it becomes to consume people as function rather than recognize them as people.",
-            "zh": "確實如此。工作場域越快，就越容易把人當成功能來消耗，而不是當成真正的人來看。",
-            "vocab": [
-              {
-                "word": "function rather",
-                "def": "工作場域越快"
-              }
-            ]
+            "zh": "確實如此。工作場域越快，就越容易把人當成功能來消耗，而不是當成真正的人來看。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude slows that down.",
-            "zh": "所以 gratitude 會把那件事稍微拉慢。"
+            "zh": "所以 感謝會把那件事稍微拉慢。"
           },
           {
             "speaker": "a",
@@ -1619,19 +1332,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What kind of appreciation do people most need at work?",
-            "zh": "人在工作裡最需要聽到的是哪一種 appreciation？"
+            "zh": "人在工作裡最需要聽到的是哪一種感謝？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually the kind that recognizes invisible effort, judgment, steadiness, and thoughtfulness, not only visible wins.",
-            "zh": "通常是那種能看見隱形努力、判斷力、穩定感和細心，而不只是看見漂亮勝利的 appreciation。",
-            "vocab": [
-              {
-                "word": "invisible effort",
-                "def": "明明付出很多"
-              }
-            ]
+            "zh": "通常是那種能看見隱形努力、判斷力、穩定感和細心，而不只是看見漂亮勝利的感謝。"
           },
           {
             "speaker": "b",
@@ -1643,13 +1350,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The person who prevents a mistake, calms a client, mentors a junior teammate, or keeps the meeting clear may have changed the day without obvious applause.",
-            "zh": "沒錯。那個防止錯誤發生的人、安撫客戶的人、帶新人上手的人，或讓會議維持清楚的人，都可能在沒有掌聲的情況下改變了那一天。",
-            "vocab": [
-              {
-                "word": "changed the day",
-                "def": "沒有高調成果，但其實整天因此被改變"
-              }
-            ]
+            "zh": "沒錯。那個防止錯誤發生的人、安撫客戶的人、帶新人上手的人，或讓會議維持清楚的人，都可能在沒有掌聲的情況下改變了那一天。"
           },
           {
             "speaker": "b",
@@ -1661,19 +1362,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People want to know what was seen, not only that they were vaguely appreciated.",
-            "zh": "對。人想知道的是自己到底被看見了什麼，而不是只聽到一個模糊的讚。",
-            "vocab": [
-              {
-                "word": "what was seen",
-                "def": "對方具體看見了我哪一段努力"
-              }
-            ]
+            "zh": "對。人想知道的是自己到底被看見了什麼，而不是只聽到一個模糊的讚。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So work appreciation has to be specific to feel fair.",
-            "zh": "所以工作裡的 appreciation 如果不夠具體，就很難真的有公平感。"
+            "zh": "所以工作裡的感謝如果不夠具體，就很難真的有公平感。"
           },
           {
             "speaker": "a",
@@ -1690,19 +1385,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is good for appreciating people at work?",
-            "zh": "如果要在工作裡表達 appreciation，有哪些英文很實用？"
+            "zh": "如果要在工作裡表達感謝，有哪些英文說法很實用？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong sentence is: \"I want to acknowledge the part of the work that made everything else easier.\" That is great for overlooked contributions.",
-            "zh": "一句很強的是：「I want to acknowledge the part of the work that made everything else easier.」這句很適合那些被忽略的貢獻。",
-            "vocab": [
-              {
-                "word": "made everything else easier",
-                "def": "某段工作雖然不顯眼"
-              }
-            ]
+            "zh": "一句很強的是：「I want to acknowledge the part of the work that made everything else easier.」這句很適合那些被忽略的貢獻。"
           },
           {
             "speaker": "b",
@@ -1714,13 +1403,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Your steadiness changed the tone of the room.\" That works when someone helped emotionally, not only technically.",
-            "zh": "另一句也很好：「Your steadiness changed the tone of the room.」當某個人情緒上也幫了很大忙時，這句很好用。",
-            "vocab": [
-              {
-                "word": "changed the tone of the room",
-                "def": "因為一個人的穩定，整個場的氣氛都不同了"
-              }
-            ]
+            "zh": "另一句也很好：「Your steadiness changed the tone of the room.」當某個人情緒上也幫了很大忙時，這句很好用。"
           },
           {
             "speaker": "b",
@@ -1731,14 +1414,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something that sounds managerial but warm, try: \"I noticed the care in your thinking, not only the speed of your output.\"",
-            "zh": "如果你想要一種比較管理者、但又溫暖的語氣，可以試：「I noticed the care in your thinking, not only the speed of your output.」",
-            "vocab": [
-              {
-                "word": "care in your thinking",
-                "def": "你做事時帶著細心和周到的思考"
-              }
-            ]
+            "en": "When you need something that sounds managerial but warm, try: \"I noticed the care in your thinking, not only the speed of your output.\"",
+            "zh": "要達到一種比較管理者、但又溫暖的語氣，可以試：「I noticed the care in your thinking, not only the speed of your output.」"
           },
           {
             "speaker": "b",
@@ -1750,60 +1427,48 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Good work appreciation often restores dignity, not only motivation.",
-            "zh": "對。好的工作 appreciation，很多時候修復的是尊嚴，不只是動機。"
+            "zh": "對。好的工作感謝，很多時候修復的是尊嚴，不只是動機。"
           }
         ]
       },
       {
-        "title": "Part 4 — A Team That Feels Different",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Can gratitude really change a team culture?",
-            "zh": "gratitude 真的會改變一個 team culture 嗎？"
+            "zh": "感謝真的會改變一個團隊文化嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, if it is consistent and credible. A team changes when appreciation becomes part of how people notice one another, not only part of formal review cycles.",
-            "zh": "會，只要它夠穩定、也夠可信。當 appreciation 變成大家彼此看見對方的方式，而不是只存在於正式 review 裡，團隊就會改變。"
+            "zh": "會，只要它夠穩定、也夠可信。當感謝變成大家彼此看見對方的方式，而不是只存在於正式績效考核裡，團隊就會改變。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude has to live in the everyday, not only in ceremonies.",
-            "zh": "所以 gratitude 要活在 everyday，不是只活在儀式裡。"
+            "zh": "所以 感謝要活在日常，不是只活在儀式裡。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Imagine a team lead who regularly names thoughtful work, shared labor, and quiet reliability. People start relaxing into better effort, not only bigger effort.",
-            "zh": "沒錯。想像一個 team lead 會穩定地指出：誰做得很周到、誰分擔了勞務、誰的 quiet reliability 正在支撐大家。人會開始比較放鬆地做出更好的努力，而不是只做更大的努力。",
-            "vocab": [
-              {
-                "word": "better effort",
-                "def": "而是更成熟、更有品質的投入"
-              }
-            ]
+            "zh": "沒錯。想像一個 team lead 會穩定地指出：誰做得很周到、誰分擔了勞務、誰的 quiet reliability 正在支撐大家。人會開始比較放鬆地做出更好的努力，而不是只做更大的努力。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a healthier culture right away.",
-            "zh": "這聽起來立刻就是比較健康的 culture。"
+            "en": "Right — and that's where the real difference shows up.",
+            "zh": "對——那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is healthier because people no longer feel they must exaggerate themselves to be visible.",
-            "zh": "它更健康，因為人不再覺得自己非得放大自己，才看得見。",
-            "vocab": [
-              {
-                "word": "visible",
-                "def": "這是個容易掉進去的陷阱"
-              }
-            ]
+            "zh": "它更健康，因為人不再覺得自己非得放大自己，才看得見。"
           },
           {
             "speaker": "b",
@@ -1816,23 +1481,18 @@ export const WEEK_50: Episode[] = [
             "speakerName": "Mira",
             "en": "It really is.",
             "zh": "真的就是。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Gratitude as Professional Strength",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Some people still think gratitude is soft. What would you say to that?",
-            "zh": "還是有人會覺得 gratitude 很 soft。你會怎麼回？"
+            "zh": "還是有人會覺得談感謝是軟弱的表現。你會怎麼回？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would say it is soft only if you misunderstand strength. Gratitude is one way professionals build trust, memory, and sustainable effort.",
-            "zh": "我會說，那只是你誤解了 strength。gratitude 是專業人士建立信任、建立共同記憶、也建立可持續努力的一種方式。"
+            "zh": "我會說，那只是你誤解了 strength。感謝是專業人士建立信任、建立共同記憶、也建立可持續努力的一種方式。"
           },
           {
             "speaker": "b",
@@ -1856,7 +1516,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Gratitude at work is not about making everyone sentimental. It is about making value harder to overlook.",
-            "zh": "很好。工作裡的 gratitude 不是要讓大家變得 sentimental，而是讓真正的價值比較不容易被漏掉。"
+            "zh": "很好。工作裡的感謝不是要讓大家變得多愁善感，而是讓真正的價值比較不容易被漏掉。"
           },
           {
             "speaker": "b",
@@ -1931,19 +1591,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do all cultures express gratitude in roughly the same way?",
-            "zh": "所有文化表達 gratitude 的方式，大致上都差不多嗎？"
+            "zh": "所有文化表達感謝的方式，大致上都差不多嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not really. The feeling may be widely shared, but the proper way to express it can vary a lot across languages, families, and social settings.",
-            "zh": "不太一樣。感謝這個感受也許很普遍，但恰當表達它的方式，會隨語言、家庭和社會情境差很多。",
-            "vocab": [
-              {
-                "word": "widely shared",
-                "def": "一個文化裡比較自然、恰當的感謝方式"
-              }
-            ]
+            "zh": "不太一樣。感謝這個感受也許很普遍，但恰當表達它的方式，會隨語言、家庭和社會情境差很多。"
           },
           {
             "speaker": "b",
@@ -1955,37 +1609,25 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. In some places frequent verbal thanks feels warm. In others, repeated action, modesty, or not making the other person uncomfortable may matter more.",
-            "zh": "沒錯。有些地方頻繁口頭感謝會讓人覺得溫暖；在另外一些地方，重複性的行動、謙遜，或避免讓對方尷尬，反而更重要。",
-            "vocab": [
-              {
-                "word": "action",
-                "def": "重複性的行動、謙遜"
-              }
-            ]
+            "zh": "沒錯。有些地方頻繁口頭感謝會讓人覺得溫暖；在另外一些地方，重複性的行動、謙遜，或避免讓對方尷尬，反而更重要。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes gratitude much more culturally interesting.",
-            "zh": "這讓 gratitude 突然變得很有文化層次。"
+            "zh": "這讓感謝突然變得很有文化層次。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is culturally interesting because it shows how a society balances warmth, modesty, hierarchy, and reciprocity.",
-            "zh": "它很有文化層次，因為它會把一個社會怎麼平衡溫度、謙遜、階層和互惠感全部照出來。",
-            "vocab": [
-              {
-                "word": "reciprocity",
-                "def": "它很有文化層次"
-              }
-            ]
+            "zh": "它很有文化層次，因為它會把一個社會怎麼平衡溫度、謙遜、階層和互惠感全部照出來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude is never just about one sentence.",
-            "zh": "所以 gratitude 從來不只是某一句話。"
+            "zh": "所以 感謝從來不只是某一句話。"
           },
           {
             "speaker": "a",
@@ -2002,19 +1644,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do people misread gratitude across cultures?",
-            "zh": "跨文化裡，人最常怎麼誤讀 gratitude？"
+            "zh": "跨文化裡，人最常怎麼誤讀感謝？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They assume their own expression style is the sincere one. If someone is quieter, more indirect, or less verbally expressive, they may read that as coldness.",
-            "zh": "他們會以為自己熟悉的表達方式才叫真誠。如果對方比較安靜、比較間接，或比較不口頭表達，人就可能把那讀成冷淡。",
-            "vocab": [
-              {
-                "word": "verbally expressive",
-                "def": "用自己熟悉的方式去判斷什麼叫真誠"
-              }
-            ]
+            "zh": "他們會以為自己熟悉的表達方式才叫真誠。如果對方比較安靜、比較間接，或比較不口頭表達，人就可能把那讀成冷淡。"
           },
           {
             "speaker": "b",
@@ -2026,31 +1662,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. In some contexts, gratitude may be shown through returning the favor, preparing something for you, or quietly remembering a need.",
-            "zh": "沒錯。在某些脈絡裡，gratitude 可能是透過回報、替你準備什麼，或默默記住你的需要來表達。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "沒錯。在某些脈絡裡，感謝可能是透過回報、替你準備什麼，或默默記住你的需要來表達。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That means gratitude can be invisible if you only listen for words.",
-            "zh": "那也就代表，如果你只聽字面，gratitude 其實很容易變隱形。"
+            "zh": "那也就代表，如果你只聽字面，感謝其實很容易變隱形。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Cross-cultural gratitude asks people to widen what counts as appreciation.",
-            "zh": "對。跨文化裡的 gratitude，會要求人把「什麼算 appreciation」的範圍放大。",
-            "vocab": [
-              {
-                "word": "widen what counts",
-                "def": "把原本只算一種表達的標準打開來"
-              }
-            ]
+            "zh": "對。跨文化裡的 感謝，會要求人把「什麼算是感謝」的範圍放大。"
           },
           {
             "speaker": "b",
@@ -2073,19 +1697,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is useful for talking about cultural differences in gratitude?",
-            "zh": "如果要談 gratitude 的文化差異，有哪些英文很好用？"
+            "zh": "如果要談感謝的文化差異，有哪些英文很好用？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong line is: \"I think gratitude is present, but it is being expressed in a form I am not used to reading.\" That is nuanced and respectful.",
-            "zh": "一句很強的是：「I think gratitude is present, but it is being expressed in a form I am not used to reading.」這句有層次，也很尊重。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "一句很強的是：「I think gratitude is present, but it is being expressed in a form I am not used to reading.」這句有層次，也很尊重。"
           },
           {
             "speaker": "b",
@@ -2097,13 +1715,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, \"In my background, thanks is often verbal. In yours, it may be more behavioral.\" That helps compare without attacking.",
-            "zh": "另一句也很好：「In my background, thanks is often verbal. In yours, it may be more behavioral.」這句會幫助比較，而不會帶攻擊。",
-            "vocab": [
-              {
-                "word": "verbal",
-                "def": "而不會帶攻擊"
-              }
-            ]
+            "zh": "另一句也很好：「In my background, thanks is often verbal. In yours, it may be more behavioral.」這句會幫助比較，而不會帶攻擊。"
           },
           {
             "speaker": "b",
@@ -2114,20 +1726,14 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to ask a question, try: \"What does appreciation usually sound or look like where you grew up?\" That opens the topic beautifully.",
-            "zh": "如果你想用問句，也可以試：「What does appreciation usually sound or look like where you grew up?」這個問法把主題打得很漂亮。",
-            "vocab": [
-              {
-                "word": "look like",
-                "def": "把感謝從抽象感受問成具體樣子"
-              }
-            ]
+            "en": "When you need to ask a question, try: \"What does appreciation usually sound or look like where you grew up?\" That opens the topic beautifully.",
+            "zh": "如果你想用問句，也可以試：「What does appreciation usually sound or look like where you grew up?」這個問法把主題打得很漂亮。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good conversation question.",
-            "zh": "這真的是一個很好的 conversation question。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "a",
@@ -2156,19 +1762,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Each person could easily think the other one is doing gratitude wrong.",
-            "zh": "兩邊都很可能覺得對方是用錯 gratitude。"
+            "zh": "兩邊都很可能覺得對方的感謝方式不對。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. One may think, \"Why do you never say it?\" The other may think, \"How can you not see everything I am already doing?\"",
-            "zh": "沒錯。一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」",
-            "vocab": [
-              {
-                "word": "see everything",
-                "def": "彼此都有感謝，但表達方式不對頻的錯位"
-              }
-            ]
+            "zh": "沒錯。一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」"
           },
           {
             "speaker": "b",
@@ -2180,13 +1780,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and it often softens once people realize they are not dealing with absence of care. They are dealing with difference in gratitude language.",
-            "zh": "確實很常見。而當人意識到自己面對的不是沒有 care，而是 gratitude language 不一樣時，事情就常常會軟下來。",
-            "vocab": [
-              {
-                "word": "gratitude language",
-                "def": "一個人比較習慣用來表達感謝的方式"
-              }
-            ]
+            "zh": "確實很常見。而當人意識到自己面對的不是對方沒有心，而是感謝的表達方式不一樣時，事情就常常會軟下來。"
           },
           {
             "speaker": "b",
@@ -2215,7 +1809,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Learning to read more than one gratitude language. Not abandoning your own, but expanding your ability to recognize care in unfamiliar forms.",
-            "zh": "是學著讀得懂不只一種 gratitude language。不是丟掉自己的方式，而是擴大自己辨認 care 的能力，讓它也能看見不熟悉的形式。"
+            "zh": "是學著讀得懂不只一種感謝語言。不是丟掉自己的方式，而是擴大自己辨認關愛的能力，讓它也能看見不熟悉的形式。"
           },
           {
             "speaker": "b",
@@ -2239,7 +1833,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The goal is to become more literate in how appreciation moves through human life.",
-            "zh": "沒錯。目標是讓自己更有讀寫能力，去看懂 appreciation 怎麼在人類生活裡流動。"
+            "zh": "沒錯。目標是讓自己更有讀寫能力，去看懂感謝怎麼在人類生活裡流動。"
           },
           {
             "speaker": "b",
@@ -2314,61 +1908,43 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "After a whole week on gratitude, what idea is staying with you most?",
-            "zh": "整整一週都在談 gratitude，哪個想法最留下來？"
+            "zh": "整整一週都在談感謝，哪個想法最留下來？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That gratitude is strongest when it stays specific and honest. The vague version fades. The lived version stays.",
-            "zh": "對我來說，留下來的是：gratitude 最有力量的時候，是它既具體又誠實。很模糊的 gratitude 會散掉；活過的 gratitude 會留下來。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "對我來說，留下來的是：感謝最有力量的時候，是它既具體又誠實。很模糊的感謝會散掉；活過的感謝會留下來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude needs contact with real life to matter.",
-            "zh": "所以 gratitude 要貼著真實生活，才會有力量。"
+            "zh": "所以 感謝要貼著真實生活，才會有力量。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It matters in relationships, in work, in hard seasons, and in ordinary beauty because it keeps pointing back to what is already holding us.",
-            "zh": "沒錯。它在關係、工作、艱難時期，甚至在 ordinary beauty 裡都重要，因為它一直把人帶回那些其實已經在支撐著自己的東西。",
-            "vocab": [
-              {
-                "word": "what is already holding us",
-                "def": "那些其實早已在默默支撐自己的東西"
-              }
-            ]
+            "zh": "沒錯。它在關係、工作、艱難時期，甚至在 ordinary beauty 裡都重要，因為它一直把人帶回那些其實已經在支撐著自己的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes gratitude sound much more structural than sentimental.",
-            "zh": "這樣一講，gratitude 聽起來比較像結構，不像感傷。"
+            "zh": "這樣一講，感謝聽起來比較像結構，不像感傷。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more structural than people think. It shapes attention, language, memory, and how people stay related to one another.",
-            "zh": "它真的比很多人想像得更像結構。它會改變注意力、語言、記憶，以及人如何持續和彼此連在一起。",
-            "vocab": [
-              {
-                "word": "memory",
-                "def": "以及人如何持續和彼此連在一起"
-              }
-            ]
+            "zh": "它真的比很多人想像得更像結構。它會改變注意力、語言、記憶，以及人如何持續和彼此連在一起。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good summary.",
-            "zh": "這個總結很好。"
+            "en": "That maps well onto real conversations.",
+            "zh": "這個說法很貼合真實的對話。"
           },
           {
             "speaker": "a",
@@ -2385,55 +1961,37 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do you think is the biggest misunderstanding about gratitude?",
-            "zh": "你覺得 gratitude 最大的誤解是什麼？"
+            "zh": "你覺得對感謝最大的誤解是什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That it requires pretending. People worry gratitude means acting as if nothing hurts, when healthy gratitude actually makes space for complexity.",
-            "zh": "就是大家以為 gratitude 需要表演。很多人擔心 gratitude 就是要假裝自己不痛，但健康的 gratitude 其實是在替複雜留空間。",
-            "vocab": [
-              {
-                "word": "healthy gratitude",
-                "def": "不否認困難"
-              }
-            ]
+            "zh": "就是大家以為感謝需要表演。很多人擔心感謝就是要假裝自己不痛，但健康的感謝其實是在替複雜留空間。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude can include sadness.",
-            "zh": "所以 gratitude 可以和 sadness 一起存在。"
+            "zh": "所以 感謝可以和悲傷同時存在。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. It can include anger, disappointment, grief, and still remain gratitude if the person can honestly name what else is true too.",
-            "zh": "當然可以。它可以和憤怒、失望、哀傷一起存在，只要一個人還能誠實地命名：除了痛，還有哪些別的真相也在。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "當然可以。它可以和憤怒、失望、哀傷一起存在，只要一個人還能誠實地命名：除了痛，還有哪些別的真相也在。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a much more adult version of gratitude.",
-            "zh": "這感覺像一種比較成熟的 gratitude。"
+            "en": "That resonates — the pattern really is there.",
+            "zh": "這說到點上——那個規律確實存在。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Mature gratitude does not flatten life. It gives life more depth and proportion.",
-            "zh": "它本來就更成熟。成熟的 gratitude 不會把 life 壓平，它會讓 life 更有深度，也更有比例感。",
-            "vocab": [
-              {
-                "word": "proportion",
-                "def": "也更有比例感"
-              }
-            ]
+            "zh": "它本來就更成熟。成熟的感謝不會把生活壓平，它會讓生活更有深度，也更有比例感。"
           },
           {
             "speaker": "b",
@@ -2456,19 +2014,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English would work well for a final reflection on gratitude?",
-            "zh": "如果要替 gratitude 做一個 final reflection，有哪些英文很好用？"
+            "zh": "如果要替這一週的感謝做一個最終反思，有哪些英文很好用？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want a more grounded version, try \"This week reminded me that gratitude is less about denial and more about attention.\" It captures the core idea well.",
-            "zh": "一句很好用的是：「This week reminded me that gratitude is less about denial and more about attention.」這句很能抓住核心。",
-            "vocab": [
-              {
-                "word": "less about denial",
-                "def": "而在注意力怎麼放"
-              }
-            ]
+            "en": "For a more grounded option, try \"This week reminded me that gratitude is less about denial and more about attention.\" It captures the core idea well.",
+            "zh": "一句很好用的是：「This week reminded me that gratitude is less about denial and more about attention.」這句很能抓住核心。"
           },
           {
             "speaker": "b",
@@ -2480,31 +2032,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I am learning that appreciation becomes real when it gets specific.\" That is great for speaking or journaling.",
-            "zh": "另一句也很好：「I am learning that appreciation becomes real when it gets specific.」這句不管拿來 speaking 還是 journaling 都很好。",
-            "vocab": [
-              {
-                "word": "appreciation becomes real",
-                "def": "感謝一旦具體，就變得真實有力"
-              }
-            ]
+            "zh": "另一句也很好：「I am learning that appreciation becomes real when it gets specific.」這句不管拿來 speaking 還是 journaling 都很好。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence I would actually use.",
-            "zh": "這句是我真的會用的。"
+            "en": "That changes how I want to use it.",
+            "zh": "這改變了我想怎麼去用它。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something warmer, try: \"The best kind of gratitude helps me stay connected to people, not only to ideas.\" That points back to relationship.",
-            "zh": "如果你想更溫暖一點，可以試：「The best kind of gratitude helps me stay connected to people, not only to ideas.」這句會把重點帶回關係。",
-            "vocab": [
-              {
-                "word": "stay connected to people",
-                "def": "把重點帶回關係"
-              }
-            ]
+            "en": "When you need something warmer, try: \"The best kind of gratitude helps me stay connected to people, not only to ideas.\" That points back to relationship.",
+            "zh": "如果你想更溫暖一點，可以試：「The best kind of gratitude helps me stay connected to people, not only to ideas.」這句會把重點帶回關係。"
           },
           {
             "speaker": "b",
@@ -2521,25 +2061,19 @@ export const WEEK_50: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Practice Worth Keeping",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What gratitude practice is actually worth keeping after this week?",
-            "zh": "經過這一週之後，什麼 gratitude practice 是真的值得留下來的？"
+            "zh": "經過這一週之後，哪些感謝的練習是真的值得留下來的？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple practice is naming one specific thing each day that made life more livable. Not impressive, just real.",
-            "zh": "一個很簡單的 practice，是每天命名一件讓 life 比較能活下去的小事。不用很厲害，只要真。",
-            "vocab": [
-              {
-                "word": "made life more livable",
-                "def": "life比較能活下去的小事"
-              }
-            ]
+            "zh": "一個很簡單的練習，是每天命名一件讓生活比較能活下去的小事。不用很厲害，只要真。"
           },
           {
             "speaker": "b",
@@ -2551,13 +2085,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good practice is thanking one person more precisely than usual. Say what they did, what it changed, and why it mattered.",
-            "zh": "另一個很好的 practice，是比平常更精準地謝謝一個人。去說他做了什麼、改變了什麼、又為什麼重要。",
-            "vocab": [
-              {
-                "word": "changed",
-                "def": "不只是完成工作"
-              }
-            ]
+            "zh": "另一個很好的 practice，是比平常更精準地謝謝一個人。去說他做了什麼、改變了什麼、又為什麼重要。"
           },
           {
             "speaker": "b",
@@ -2569,31 +2097,20 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually does. Gratitude practices last longer when they are relational and specific, not decorative and vague.",
-            "zh": "通常真的會。gratitude practice 要撐得久，往往得是關係型、具體型的，而不是裝飾型、模糊型的。",
-            "vocab": [
-              {
-                "word": "relational",
-                "def": "而不是裝飾型、模糊型的"
-              }
-            ]
+            "zh": "通常真的會。感謝的練習要撐得久，往往得是關係型、具體型的，而不是裝飾型、模糊型的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the best practice still sounds like life, not like a performance challenge.",
-            "zh": "所以最好的 practice 聽起來還是像 life，不像表演任務。"
+            "zh": "所以最好的練習聽起來還是像生活，不像表演任務。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the version most people can actually keep.",
             "zh": "沒錯。而那也是大多數人真的留得住的版本。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What This Week Was Really About",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2604,7 +2121,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It was really about relationship to life itself. Gratitude changes how people look, speak, remember, and stay connected inside ordinary days.",
-            "zh": "它真正談的是：你怎麼和 life 本身建立關係。gratitude 會改變人怎麼看、怎麼說、怎麼記，也改變人在 ordinary days 裡怎麼維持連結。"
+            "zh": "它真正談的是：你怎麼和生活本身建立關係。感謝會改變人怎麼看、怎麼說、怎麼記，也改變人在平凡日子裡怎麼維持連結。"
           },
           {
             "speaker": "b",
@@ -2616,7 +2133,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Gratitude is not only a feeling you happen to have. It can become a way of being in the world.",
-            "zh": "沒錯。gratitude 不只是一種你剛好有沒有的 feeling，它也可能變成你活在世界裡的一種方式。"
+            "zh": "沒錯。感謝不只是一種你剛好有沒有的感受，它也可能變成你活在世界裡的一種方式。"
           },
           {
             "speaker": "b",
@@ -2628,7 +2145,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it was worth it too. Topics like this matter when they return language to life, and life back to language.",
-            "zh": "我也覺得很值得。像這樣的主題有價值，是因為它會把 language 送回 life，也把 life 送回 language。"
+            "zh": "我也覺得很值得。像這樣的主題有價值，是因為它會把語言送回生活，也把生活送回語言。"
           },
           {
             "speaker": "b",

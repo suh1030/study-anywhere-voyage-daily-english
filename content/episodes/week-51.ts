@@ -6,7 +6,7 @@ export const WEEK_51: Episode[] = [
     "dayOfWeek": 1,
     "date": "2026-12-14",
     "theme": "Goals & Intentions",
-    "title": "What Do You Really Want?",
+    "title": "Goals That Fit Real Life",
     "phase": "p6",
     "parts": [
       {
@@ -22,13 +22,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because many people answer with what sounds respectable, useful, or expected before they get close to what feels deeply true.",
-            "zh": "因為很多人會先用看起來體面、有用或符合期待的答案來回，而不是先碰到那個真的很真實的答案。",
-            "vocab": [
-              {
-                "word": "sounds respectable",
-                "def": "看起來很像正解"
-              }
-            ]
+            "zh": "因為很多人會先用看起來體面、有用或符合期待的答案來回，而不是先碰到那個真的很真實的答案。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Desire gets layered over by fear, duty, ambition, comparison, and survival thinking.",
-            "zh": "沒錯。人的 desire 很容易被恐懼、責任感、野心、比較和生存思維一層層蓋住。",
-            "vocab": [
-              {
-                "word": "ambition",
-                "def": "雄心；抱負"
-              }
-            ]
+            "zh": "沒錯。人的 desire 很容易被恐懼、責任感、野心、比較和生存思維一層層蓋住。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more complicated, because wanting honestly may force a person to disappoint an old script or an old image of themselves.",
-            "zh": "它本來就更複雜，因為誠實地承認自己想要什麼，常常會逼一個人去辜負舊劇本，或舊的自我形象。",
-            "vocab": [
-              {
-                "word": "old script",
-                "def": "誠實地承認自己想要什麼"
-              }
-            ]
+            "zh": "它本來就更複雜，因為誠實地承認自己想要什麼，常常會逼一個人去辜負舊劇本，或舊的自我形象。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful clue is emotional energy. Some goals create strain but also aliveness. Performative goals often create only pressure, image-management, and numb effort.",
-            "zh": "一個很有用的線索是情緒能量。有些目標雖然累，卻也會讓人覺得活；performative goals 通常只帶來壓力、形象管理和發麻的努力。",
-            "vocab": [
-              {
-                "word": "aliveness",
-                "def": "不是單純有在運作"
-              }
-            ]
+            "zh": "一個很有用的線索是情緒能量。有些目標雖然累，卻也會讓人覺得活；performative goals 通常只帶來壓力、形象管理和發麻的努力。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Another clue is who the goal belongs to. If the imagined audience is louder than the inner voice, the goal may not be yours in a deep sense.",
-            "zh": "沒錯。另一個線索是：那個目標到底屬於誰。如果想像中的觀眾比內在聲音還大，那個目標很可能沒有真的屬於你。",
-            "vocab": [
-              {
-                "word": "imagined audience",
-                "def": "另一個線索是：那個目標到底屬於誰"
-              }
-            ]
+            "zh": "沒錯。另一個線索是：那個目標到底屬於誰。如果想像中的觀眾比內在聲音還大，那個目標很可能沒有真的屬於你。"
           },
           {
             "speaker": "b",
@@ -129,13 +99,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many people are not lazy. They are just trying to sustain a goal that was built for display instead of belonging.",
-            "zh": "很多人不是懶，他只是一直在撐一個原本就比較像拿來展示，而不是拿來歸屬的目標。",
-            "vocab": [
-              {
-                "word": "display instead",
-                "def": "很多人不是懶"
-              }
-            ]
+            "zh": "很多人不是懶，他只是一直在撐一個原本就比較像拿來展示，而不是拿來歸屬的目標。"
           },
           {
             "speaker": "b",
@@ -164,13 +128,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong sentence is: \"I am trying to separate what I truly want from what I have simply been taught to want.\" That sounds reflective and mature.",
-            "zh": "一句很強的是：「I am trying to separate what I truly want from what I have simply been taught to want.」這句很有反思，也很成熟。",
-            "vocab": [
-              {
-                "word": "taught to want",
-                "def": "要想要的東西"
-              }
-            ]
+            "zh": "一句很強的是：「I am trying to separate what I truly want from what I have simply been taught to want.」這句很有反思，也很成熟。"
           },
           {
             "speaker": "b",
@@ -182,13 +140,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I know the goal looks good from the outside, but I am not sure it feels alive from the inside.\" That helps when appearance and truth diverge.",
-            "zh": "另一句也很好：「I know the goal looks good from the outside, but I am not sure it feels alive from the inside.」這句很適合用在外表和內在分開的時候。",
-            "vocab": [
-              {
-                "word": "alive from the inside",
-                "def": "人想投入"
-              }
-            ]
+            "zh": "另一句也很好：「I know the goal looks good from the outside, but I am not sure it feels alive from the inside.」這句很適合用在外表和內在分開的時候。"
           },
           {
             "speaker": "b",
@@ -200,13 +152,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something simpler, say: \"I am trying to want my own life, not just perform a good one.\" That line lands with many people.",
-            "zh": "如果你想講得更簡單，可以說：「I am trying to want my own life, not just perform a good one.」這句很多人都會有感。",
-            "vocab": [
-              {
-                "word": "perform",
-                "def": "表演；刻意展現"
-              }
-            ]
+            "zh": "如果你想講得更簡單，可以說：「I am trying to want my own life, not just perform a good one.」這句很多人都會有感。"
           },
           {
             "speaker": "b",
@@ -223,7 +169,7 @@ export const WEEK_51: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Goal That Needs Reframing",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -247,13 +193,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The deeper want may not be the title. It may be agency, respect, or work that feels less fragmented.",
-            "zh": "沒錯。更深的想要，也許不是那個 title，而是更有自主感、更被尊重，或做比較不那麼碎裂的工作。",
-            "vocab": [
-              {
-                "word": "deeper want",
-                "def": "表面目標底下真正更核心的渴望"
-              }
-            ]
+            "zh": "沒錯。更深的想要，也許不是那個 title，而是更有自主感、更被尊重，或做比較不那麼碎裂的工作。"
           },
           {
             "speaker": "b",
@@ -265,13 +205,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. Once the deeper want becomes visible, people can design goals that fit the truth better.",
-            "zh": "真的會。一旦 deeper want 變得看得見，人就比較有可能設計出和真相更合的目標。",
-            "vocab": [
-              {
-                "word": "fit the truth better",
-                "def": "讓目標更符合自己真正的狀態和渴望"
-              }
-            ]
+            "zh": "真的會。一旦 deeper want 變得看得見，人就比較有可能設計出和真相更合的目標。"
           },
           {
             "speaker": "b",
@@ -284,12 +218,7 @@ export const WEEK_51: Episode[] = [
             "speakerName": "Mira",
             "en": "That is exactly the move many people need.",
             "zh": "很多人最需要的，真的就是這個轉向。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Desire That Can Be Lived",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -335,7 +264,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels true for me too.",
+            "en": "It feels true for me too.",
             "zh": "我也覺得這很真。"
           }
         ]
@@ -405,13 +334,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A goal is usually a target. A vision is the larger picture of why that target matters and what kind of life it belongs to.",
-            "zh": "goal 通常比較像目標點；vision 則是比較大的畫面，去說明那個目標點為什麼重要，以及它屬於哪一種 life。",
-            "vocab": [
-              {
-                "word": "larger picture",
-                "def": "那個目標背後更大的生命畫面"
-              }
-            ]
+            "zh": "goal 通常比較像目標點；vision 則是比較大的畫面，去說明那個目標點為什麼重要，以及它屬於哪一種 life。"
           },
           {
             "speaker": "b",
@@ -423,13 +346,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Without vision, a goal can become a task that drains you. With vision, the same goal can feel connected to identity and direction.",
-            "zh": "沒錯。沒有 vision 的時候，goal 很容易變成只會耗你的 task；有了 vision，同樣的 goal 就會和 identity 和方向感連起來。",
-            "vocab": [
-              {
-                "word": "identity",
-                "def": "身份；自我認同"
-              }
-            ]
+            "zh": "沒錯。沒有 vision 的時候，goal 很容易變成只會耗你的 task；有了 vision，同樣的 goal 就會和 identity 和方向感連起來。"
           },
           {
             "speaker": "b",
@@ -441,13 +358,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People can work very hard toward something and still feel empty if the goal has no deeper home inside their life.",
-            "zh": "人可以很努力地往一個方向走，最後卻仍然覺得空，因為那個目標在 life 裡根本沒有更深的家。",
-            "vocab": [
-              {
-                "word": "deeper home",
-                "def": "最後卻仍然覺得空"
-              }
-            ]
+            "zh": "人可以很努力地往一個方向走，最後卻仍然覺得空，因為那個目標在 life 裡根本沒有更深的家。"
           },
           {
             "speaker": "b",
@@ -476,13 +387,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They often become productive but disconnected. They can keep moving while slowly losing the feeling of why they are moving.",
-            "zh": "他通常會變得很有生產力，但也很斷線。他可以一直往前動，卻慢慢失去自己到底為什麼在動的感覺。",
-            "vocab": [
-              {
-                "word": "productive but disconnected",
-                "def": "很有產出，但和自己深層動機越來越斷開"
-              }
-            ]
+            "zh": "他通常會變得很有生產力，但也很斷線。他可以一直往前動，卻慢慢失去自己到底為什麼在動的感覺。"
           },
           {
             "speaker": "b",
@@ -494,13 +399,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
-            "zh": "沒錯。另一個問題是：每一次 setback 都會變得像 identity collapse，因為那個 goal 扛了太多整個人生故事。",
-            "vocab": [
-              {
-                "word": "goal",
-                "def": "把太多人生意義都壓在單一目標上"
-              }
-            ]
+            "zh": "沒錯。另一個問題是：每一次 setback 都會變得像 identity collapse，因為那個 goal 扛了太多整個人生故事。"
           },
           {
             "speaker": "b",
@@ -512,13 +411,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can be. Vision spreads meaning across a wider field, so one hard day does not have to mean the whole direction is wrong.",
-            "zh": "它確實可能很危險。vision 會把意義分散在比較大的 field 裡，因此一天很糟，不一定等於整個方向都錯。",
-            "vocab": [
-              {
-                "word": "wider field",
-                "def": "因此一天很糟"
-              }
-            ]
+            "zh": "它確實可能很危險。vision 會把意義分散在比較大的 field 裡，因此一天很糟，不一定等於整個方向都錯。"
           },
           {
             "speaker": "b",
@@ -547,13 +440,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural option is, \"The goal matters, but the life behind the goal matters more.\" It is simple and clear.",
-            "zh": "一句很好用的是：「The goal matters, but the life behind the goal matters more.」這句很簡單，也很清楚。",
-            "vocab": [
-              {
-                "word": "life behind the goal",
-                "def": "一個目標背後真正想活出的生活樣子"
-              }
-            ]
+            "zh": "一句很好用的是：「The goal matters, but the life behind the goal matters more.」這句很簡單，也很清楚。"
           },
           {
             "speaker": "b",
@@ -565,13 +452,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I am trying to make sure my effort is serving a vision, not only a scoreboard.\" That works well in career and personal growth topics.",
-            "zh": "另一句也很好：「I am trying to make sure my effort is serving a vision, not only a scoreboard.」在 career 和成長主題裡都很好用。",
-            "vocab": [
-              {
-                "word": "growth",
-                "def": "增長；成長"
-              }
-            ]
+            "zh": "另一句也很好：「I am trying to make sure my effort is serving a vision, not only a scoreboard.」在 career 和成長主題裡都很好用。"
           },
           {
             "speaker": "b",
@@ -583,13 +464,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make it more personal, say: \"I do not only want to achieve this. I want to become the kind of person this goal is training me to be.\"",
-            "zh": "如果你想講得更個人，可以說：「I do not only want to achieve this. I want to become the kind of person this goal is training me to be.」",
-            "vocab": [
-              {
-                "word": "person this goal",
-                "def": "不只是完成目標"
-              }
-            ]
+            "zh": "如果你想講得更個人，可以說：「I do not only want to achieve this. I want to become the kind of person this goal is training me to be.」"
           },
           {
             "speaker": "b",
@@ -630,13 +505,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
-            "zh": "沒錯。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。",
-            "vocab": [
-              {
-                "word": "smaller daily practice",
-                "def": "每天的小練習因為有大方向而變得有意義"
-              }
-            ]
+            "zh": "沒錯。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。"
           },
           {
             "speaker": "b",
@@ -648,13 +517,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. People stay with effort better when the effort connects to a self they genuinely want to inhabit.",
-            "zh": "真的會。當 effort 連到一個自己真心想住進去的 self，人會比較留得住。",
-            "vocab": [
-              {
-                "word": "want to inhabit",
-                "def": "一個人真心想活成、想住進去的自己"
-              }
-            ]
+            "zh": "真的會。當 effort 連到一個自己真心想住進去的 self，人會比較留得住。"
           },
           {
             "speaker": "b",
@@ -788,13 +651,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because intention alone does not survive friction very well. Once real life adds fatigue, distraction, stress, and time pressure, the good idea needs a structure to live in.",
-            "zh": "因為 intention 本身很難單獨撐過摩擦。當真實 life 把疲憊、分心、壓力和時間壓力全部丟進來後，好的想法需要一個結構才能住得下來。",
-            "vocab": [
-              {
-                "word": "structure to live in",
-                "def": "一個結構才能住得下來"
-              }
-            ]
+            "zh": "因為 intention 本身很難單獨撐過摩擦。當真實 life 把疲憊、分心、壓力和時間壓力全部丟進來後，好的想法需要一個結構才能住得下來。"
           },
           {
             "speaker": "b",
@@ -806,13 +663,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Habits and systems are not glamorous, but they protect effort from depending on perfect mood.",
-            "zh": "沒錯。habit 和 system 也許不 glamorous，但它們會保護 effort，不讓它全靠完美心情。",
-            "vocab": [
-              {
-                "word": "protect effort",
-                "def": "讓努力不會因為狀態起伏就整個消失"
-              }
-            ]
+            "zh": "沒錯。habit 和 system 也許不 glamorous，但它們會保護 effort，不讓它全靠完美心情。"
           },
           {
             "speaker": "b",
@@ -824,13 +675,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more realistic because most of life is lived under imperfect conditions.",
-            "zh": "它本來就更現實，因為大部分的 life 都不是在完美條件裡活的。",
-            "vocab": [
-              {
-                "word": "imperfect conditions",
-                "def": "不是理想狀態"
-              }
-            ]
+            "zh": "它本來就更現實，因為大部分的 life 都不是在完美條件裡活的。"
           },
           {
             "speaker": "b",
@@ -859,13 +704,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually it is small enough to survive resistance and clear enough to survive ambiguity.",
-            "zh": "通常是它夠小，小到能撐過 resistance；也夠清楚，清楚到能撐過 ambiguity。",
-            "vocab": [
-              {
-                "word": "small enough to survive",
-                "def": "小到一有阻力時也還做得下去"
-              }
-            ]
+            "zh": "通常是它夠小，小到能撐過 resistance；也夠清楚，清楚到能撐過 ambiguity。"
           },
           {
             "speaker": "b",
@@ -877,31 +716,19 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not usually. Ambition can inspire a beginning, but repeatability is what creates trust between you and your own practice.",
-            "zh": "通常不是。ambition 也許能點燃開始，但真正建立你和自己 practice 之間信任的，是 repeatability。",
-            "vocab": [
-              {
-                "word": "own practice",
-                "def": "是repeatability"
-              }
-            ]
+            "zh": "通常不是。ambition 也許能點燃開始，但真正建立你和自己 practice 之間信任的，是 repeatability。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a more patient way of building change.",
-            "zh": "這聽起來像一種比較有耐心的 change 方式。"
+            "en": "That's consistent with what happens in real life.",
+            "zh": "這和真實生活裡發生的事是一致的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is patient, and also smarter. People overestimate intensity and underestimate how much identity shifts through small repeated evidence.",
-            "zh": "它不只更有耐心，也更聰明。很多人高估 intensity，卻低估了 identity 其實是怎麼透過小小的重複證據慢慢移動的。",
-            "vocab": [
-              {
-                "word": "small repeated evidence",
-                "def": "慢慢改變對自己的看法"
-              }
-            ]
+            "zh": "它不只更有耐心，也更聰明。很多人高估 intensity，卻低估了 identity 其實是怎麼透過小小的重複證據慢慢移動的。"
           },
           {
             "speaker": "b",
@@ -930,31 +757,19 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version would be \"I am trying to rely less on motivation and more on setup.\" That sounds practical and mature.",
-            "zh": "一句很好用的是：「I am trying to rely less on motivation and more on setup.」這句很實際，也很成熟。",
-            "vocab": [
-              {
-                "word": "rely less on motivation",
-                "def": "不要把所有成功都壓在動機有沒有來"
-              }
-            ]
+            "zh": "一句很好用的是：「I am trying to rely less on motivation and more on setup.」這句很實際，也很成熟。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence many people need.",
-            "zh": "很多人真的需要這句。"
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might also say, \"The habit only became real once it became part of the rhythm of my day.\" That works very well for daily practice.",
-            "zh": "另一句也很好，就是「那個習慣真正成形，是在它變成我每天節奏的一部分之後。」這句很適合拿來談每天穩定累積的練習。",
-            "vocab": [
-              {
-                "word": "part of the rhythm",
-                "def": "一件事進入日常節奏，不再需要特別硬撐"
-              }
-            ]
+            "zh": "另一句也很好，就是「那個習慣真正成形，是在它變成我每天節奏的一部分之後。」這句很適合拿來談每天穩定累積的練習。"
           },
           {
             "speaker": "b",
@@ -965,14 +780,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something more strategic, say: \"I had to design the environment so the better choice was easier to reach.\" That is strong and useful.",
-            "zh": "如果你想講得更策略一點，也可以說：「I had to design the environment so the better choice was easier to reach.」這句又強又實用。",
-            "vocab": [
-              {
-                "word": "design the environment",
-                "def": "透過環境設計，讓好的選擇變得比較容易"
-              }
-            ]
+            "en": "When you need something more strategic, say: \"I had to design the environment so the better choice was easier to reach.\" That is strong and useful.",
+            "zh": "如果你想講得更策略一點，也可以說：「I had to design the environment so the better choice was easier to reach.」這句又強又實用。"
           },
           {
             "speaker": "b",
@@ -989,7 +798,7 @@ export const WEEK_51: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A System That Works Better Than Willpower",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -1013,13 +822,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good systems do not pretend you are a different person. They work with the person you actually are.",
-            "zh": "沒錯。好的 system 不會假裝你是另一種人，它會和你真正是誰一起工作。",
-            "vocab": [
-              {
-                "word": "work",
-                "def": "而是和真實狀態合作"
-              }
-            ]
+            "zh": "沒錯。好的 system 不會假裝你是另一種人，它會和你真正是誰一起工作。"
           },
           {
             "speaker": "b",
@@ -1031,13 +834,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because many people keep failing plans built for an imaginary self with imaginary energy.",
-            "zh": "它很重要，因為很多人一直失敗，不是因為不夠努力，而是因為計畫是替一個想像中的自己和想像中的 energy 設計的。",
-            "vocab": [
-              {
-                "word": "self with imaginary",
-                "def": "很多人一直失敗"
-              }
-            ]
+            "zh": "它很重要，因為很多人一直失敗，不是因為不夠努力，而是因為計畫是替一個想像中的自己和想像中的 energy 設計的。"
           },
           {
             "speaker": "b",
@@ -1050,12 +847,7 @@ export const WEEK_51: Episode[] = [
             "speakerName": "Mira",
             "en": "Very much. It says the future matters enough to build for honestly.",
             "zh": "非常是。它像是在說：未來重要到值得你用誠實去替它設計。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Daily Practice That Builds a Life",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1171,13 +963,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They do, and that can become unfair. Not every job needs to feel like a calling for a life to be good or worthy.",
-            "zh": "真的會，而那常常會變得不公平。不是每一份工作都得像 calling，一個人的 life 才算好、才算有價值。",
-            "vocab": [
-              {
-                "word": "like a calling",
-                "def": "把工作一定要活成使命的壓力"
-              }
-            ]
+            "zh": "真的會，而那常常會變得不公平。不是每一份工作都得像 calling，一個人的 life 才算好、才算有價值。"
           },
           {
             "speaker": "b",
@@ -1189,13 +975,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Work can be meaningful, but it can also be practical, supportive, temporary, or simply a stable way to fund another part of life.",
-            "zh": "沒錯。工作當然可以有意義，但它也可能是務實的、支撐性的、暫時的，或者只是讓你能養另一部分 life 的穩定方式。",
-            "vocab": [
-              {
-                "word": "supportive",
-                "def": "不一定是天命，但能穩穩支撐生活的工作"
-              }
-            ]
+            "zh": "沒錯。工作當然可以有意義，但它也可能是務實的、支撐性的、暫時的，或者只是讓你能養另一部分 life 的穩定方式。"
           },
           {
             "speaker": "b",
@@ -1207,13 +987,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is healthier because it gives people more room to tell the truth about their relationship to work.",
-            "zh": "它比較健康，因為它給了人更多空間，去誠實講自己和 work 的關係。",
-            "vocab": [
-              {
-                "word": "relationship to work",
-                "def": "不是社會期待版，而是真實的工作敘事"
-              }
-            ]
+            "zh": "它比較健康，因為它給了人更多空間，去誠實講自己和 work 的關係。"
           },
           {
             "speaker": "b",
@@ -1242,13 +1016,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful clue is what remains when no one is watching. Image needs audience energy. Purpose often survives private effort.",
-            "zh": "一個很有用的線索是：當沒有人在看時，還剩下什麼。image 需要觀眾能量；purpose 則常常能撐過私下的 effort。",
-            "vocab": [
-              {
-                "word": "survives private effort",
-                "def": "就算沒有人看見"
-              }
-            ]
+            "zh": "一個很有用的線索是：當沒有人在看時，還剩下什麼。image 需要觀眾能量；purpose 則常常能撐過私下的 effort。"
           },
           {
             "speaker": "b",
@@ -1260,13 +1028,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another clue is emotional residue. Image goals can leave people inflated or hollow. Purpose usually leaves some sense of rightness, even when the work is hard.",
-            "zh": "另一個線索是情緒殘留。image goal 會讓人不是膨脹，就是空；purpose 通常即使很累，也會留下某種對的感覺。",
-            "vocab": [
-              {
-                "word": "sense of rightness",
-                "def": "雖然辛苦"
-              }
-            ]
+            "zh": "另一個線索是情緒殘留。image goal 會讓人不是膨脹，就是空；purpose 通常即使很累，也會留下某種對的感覺。"
           },
           {
             "speaker": "b",
@@ -1278,13 +1040,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because work can look impressive and still feel deeply misaligned.",
-            "zh": "這很重要，因為 work 完全可能看起來很 impressive，內裡卻非常不對齊。",
-            "vocab": [
-              {
-                "word": "deeply misaligned",
-                "def": "外面看起來很好，內裡卻和自己很不合"
-              }
-            ]
+            "zh": "這很重要，因為 work 完全可能看起來很 impressive，內裡卻非常不對齊。"
           },
           {
             "speaker": "b",
@@ -1313,13 +1069,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I am still figuring out what kind of work feels both honest and sustainable for me.\" That sounds mature and realistic.",
-            "zh": "一句很好用的是：「I am still figuring out what kind of work feels both honest and sustainable for me.」這句很成熟，也很現實。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "可持續的；能長期維持的"
-              }
-            ]
+            "zh": "一句很好用的是：「I am still figuring out what kind of work feels both honest and sustainable for me.」這句很成熟，也很現實。"
           },
           {
             "speaker": "b",
@@ -1331,13 +1081,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I do not need my work to be everything, but I do need it to fit my values better.\" That helps people speak with nuance.",
-            "zh": "另一句也很好：「I do not need my work to be everything, but I do need it to fit my values better.」這句很有層次。",
-            "vocab": [
-              {
-                "word": "fit my values better",
-                "def": "工作不必完美，但要更接近自己的價值"
-              }
-            ]
+            "zh": "另一句也很好：「I do not need my work to be everything, but I do need it to fit my values better.」這句很有層次。"
           },
           {
             "speaker": "b",
@@ -1349,13 +1093,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to talk about uncertainty, say: \"I am less interested in chasing a label now and more interested in building a life that feels coherent.\" That is a strong line.",
-            "zh": "如果你想談不確定，也可以說：「I am less interested in chasing a label now and more interested in building a life that feels coherent.」這句很強。",
-            "vocab": [
-              {
-                "word": "life that feels coherent",
-                "def": "各部分比較對得起來、能互相支撐的人生"
-              }
-            ]
+            "zh": "如果你想談不確定，也可以說：「I am less interested in chasing a label now and more interested in building a life that feels coherent.」這句很強。"
           },
           {
             "speaker": "b",
@@ -1396,13 +1134,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Purpose often becomes clearer when people stop borrowing prestige as a compass.",
-            "zh": "沒錯。當人不再把 prestige 借來當羅盤時，purpose 常常會變得更清楚。",
-            "vocab": [
-              {
-                "word": "borrowing prestige",
-                "def": "借社會地位或光環來判斷方向"
-              }
-            ]
+            "zh": "沒錯。當人不再把 prestige 借來當羅盤時，purpose 常常會變得更清楚。"
           },
           {
             "speaker": "b",
@@ -1414,13 +1146,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many people are not lost because they lack ambition. They are lost because the map they were given was built from someone else's hierarchy of value.",
-            "zh": "很多人不是因為沒有 ambition 才迷路，而是因為他手上的地圖，本來就是從別人的價值階序畫出來的。",
-            "vocab": [
-              {
-                "word": "Many people",
-                "def": "很多人"
-              }
-            ]
+            "zh": "很多人不是因為沒有 ambition 才迷路，而是因為他手上的地圖，本來就是從別人的價值階序畫出來的。"
           },
           {
             "speaker": "b",
@@ -1484,7 +1210,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how I would frame it too.",
+            "en": "That's how I would frame it too.",
             "zh": "我也會這樣說。"
           }
         ]
@@ -1554,13 +1280,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is one of the most damaging misunderstandings. Real resilience is not constant strength. It is the ability to recover, reorganize, and keep returning after disruption.",
-            "zh": "那是最傷人的誤解之一。真正的 resilience 不是一直很強，而是你能在被打亂後恢復、重整，然後繼續回來。",
-            "vocab": [
-              {
-                "word": "recover",
-                "def": "恢復；從尷尬中回復"
-              }
-            ]
+            "zh": "那是最傷人的誤解之一。真正的 resilience 不是一直很強，而是你能在被打亂後恢復、重整，然後繼續回來。"
           },
           {
             "speaker": "b",
@@ -1572,13 +1292,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
-            "zh": "沒錯。事情真的發生了，而 resilience 是一邊尊重那個 impact，一邊仍然找回往前走的路。",
-            "vocab": [
-              {
-                "word": "respecting the impact",
-                "def": "事情真的發生了"
-              }
-            ]
+            "zh": "沒錯。事情真的發生了，而 resilience 是一邊尊重那個 impact，一邊仍然找回往前走的路。"
           },
           {
             "speaker": "b",
@@ -1590,13 +1304,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is kinder because it does not confuse recovery with invulnerability.",
-            "zh": "它比較溫柔，是因為它不會把 recovery 和 invulnerability 混在一起。",
-            "vocab": [
-              {
-                "word": "recovery with invulnerability",
-                "def": "有韌性不等於不會受傷"
-              }
-            ]
+            "zh": "它比較溫柔，是因為它不會把 recovery 和 invulnerability 混在一起。"
           },
           {
             "speaker": "b",
@@ -1625,13 +1333,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually not shame. More often it is support, perspective, and one next step small enough to be possible again.",
-            "zh": "通常不是羞愧。比較常有用的，是支持、perspective，還有一個小到再次變得可能的下一步。",
-            "vocab": [
-              {
-                "word": "possible again",
-                "def": "一件事雖然中斷過，但再次變得做得到"
-              }
-            ]
+            "zh": "通常不是羞愧。比較常有用的，是支持、perspective，還有一個小到再次變得可能的下一步。"
           },
           {
             "speaker": "b",
@@ -1643,13 +1345,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. People rarely recover through one giant heroic act. They recover through manageable returns to rhythm and trust.",
-            "zh": "沒錯。人很少靠一次巨大的英雄時刻恢復；他通常是靠那些可承受的回返，慢慢回到節奏和信任。",
-            "vocab": [
-              {
-                "word": "manageable return",
-                "def": "一次很大"
-              }
-            ]
+            "zh": "沒錯。人很少靠一次巨大的英雄時刻恢復；他通常是靠那些可承受的回返，慢慢回到節奏和信任。"
           },
           {
             "speaker": "b",
@@ -1661,13 +1357,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is realistic because nervous systems need safety, not slogans. A person comes back faster when they stop treating struggle as proof of failure.",
-            "zh": "它比較現實，因為 nervous system 需要的是安全，不是 slogan。當一個人不再把 struggle 當成失敗證明時，他通常會回來得更快。",
-            "vocab": [
-              {
-                "word": "proof of failure",
-                "def": "把挫折直接講成自己失敗證據的故事"
-              }
-            ]
+            "zh": "它比較現實，因為 nervous system 需要的是安全，不是 slogan。當一個人不再把 struggle 當成失敗證明時，他通常會回來得更快。"
           },
           {
             "speaker": "b",
@@ -1696,13 +1386,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clearer option here is \"I did not bounce back quickly, but I did find my way back steadily.\" That avoids fake heroism.",
-            "zh": "一句很好用的是：「I did not bounce back quickly, but I did find my way back steadily.」這句會避開假的英雄感。",
-            "vocab": [
-              {
-                "word": "bounce back",
-                "def": "恢復過來；回到原本狀態"
-              }
-            ]
+            "zh": "一句很好用的是：「I did not bounce back quickly, but I did find my way back steadily.」這句會避開假的英雄感。"
           },
           {
             "speaker": "b",
@@ -1714,13 +1398,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Resilience looked less like toughness and more like staying in relationship with my own life.\" That works beautifully in reflective speaking.",
-            "zh": "另一句也很好：「Resilience looked less like toughness and more like staying in relationship with my own life.」在反思型 speaking 裡很有力。",
-            "vocab": [
-              {
-                "word": "staying in relationship",
-                "def": "不要因為太痛就和自己的life完全斷開"
-              }
-            ]
+            "zh": "另一句也很好：「Resilience looked less like toughness and more like staying in relationship with my own life.」在反思型 speaking 裡很有力。"
           },
           {
             "speaker": "b",
@@ -1732,13 +1410,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something shorter, say: \"The comeback started when I stopped making recovery feel like a performance.\" That captures a lot.",
-            "zh": "如果你想講得更短，也可以說：「The comeback started when I stopped making recovery feel like a performance.」這句也抓很多。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "如果你想講得更短，也可以說：「The comeback started when I stopped making recovery feel like a performance.」這句也抓很多。"
           },
           {
             "speaker": "b",
@@ -1779,13 +1451,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The person is not proving they are impressive. They are proving the relationship with the habit is still alive.",
-            "zh": "沒錯。這個人不是在證明自己多厲害，而是在證明：他和那個 habit 的關係還活著。",
-            "vocab": [
-              {
-                "word": "relationship with the habit",
-                "def": "這個人不是在證明自己多厲害"
-              }
-            ]
+            "zh": "沒錯。這個人不是在證明自己多厲害，而是在證明：他和那個 habit 的關係還活著。"
           },
           {
             "speaker": "b",
@@ -1797,13 +1463,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Consistency is not always unbroken repetition. Sometimes it is faithful return after interruption.",
-            "zh": "本來就該改變。consistency 不一定是完全不中斷的重複；有時候，它是中斷之後仍然忠實回來。",
-            "vocab": [
-              {
-                "word": "faithful return",
-                "def": "中斷過之後，仍然願意再回來的那份穩定"
-              }
-            ]
+            "zh": "本來就該改變。consistency 不一定是完全不中斷的重複；有時候，它是中斷之後仍然忠實回來。"
           },
           {
             "speaker": "b",
@@ -1867,7 +1527,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how it looks to me too.",
+            "en": "That's how it looks to me too.",
             "zh": "我看起來也差不多是這樣。"
           }
         ]
@@ -1937,13 +1597,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because looking ahead can mean possibility or pressure depending on how tightly a person is trying to control the future.",
-            "zh": "因為 looking ahead 對不同人來說，可能代表可能性，也可能代表壓力，取決於他想把未來抓多緊。",
-            "vocab": [
-              {
-                "word": "control the future",
-                "def": "想把未來抓得太緊、太確定的傾向"
-              }
-            ]
+            "zh": "因為 looking ahead 對不同人來說，可能代表可能性，也可能代表壓力，取決於他想把未來抓多緊。"
           },
           {
             "speaker": "b",
@@ -1955,31 +1609,19 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A healthy future orientation leaves room for direction without demanding total certainty.",
-            "zh": "沒錯。健康地看未來，是有方向，但不要求完全確定。",
-            "vocab": [
-              {
-                "word": "direction without demanding",
-                "def": "有方向感，但不需要把一切都算死"
-              }
-            ]
+            "zh": "沒錯。健康地看未來，是有方向，但不要求完全確定。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a useful balance.",
-            "zh": "這是一個很有用的平衡。"
+            "en": "That maps well onto the actual experience.",
+            "zh": "這很貼合真實的感受。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is useful because the future is always partly unknown. The goal is not to eliminate uncertainty, but to relate to it more skillfully.",
-            "zh": "它很有用，因為 future 本來就一定有部分未知。目標不是把不確定消滅，而是更有能力地和它相處。",
-            "vocab": [
-              {
-                "word": "eliminate uncertainty",
-                "def": "目標不是把不確定消滅"
-              }
-            ]
+            "zh": "它很有用，因為 future 本來就一定有部分未知。目標不是把不確定消滅，而是更有能力地和它相處。"
           },
           {
             "speaker": "b",
@@ -2008,13 +1650,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good clue is how they respond to change. Direction can bend. Rigidity treats every adjustment like failure.",
-            "zh": "一個很好的線索是：當變化來了，他怎麼反應。有方向的人會彎；僵硬的人會把每個調整都當成失敗。",
-            "vocab": [
-              {
-                "word": "Rigidity treats",
-                "def": "把規劃抓太死，一變動就覺得全盤失敗"
-              }
-            ]
+            "zh": "一個很好的線索是：當變化來了，他怎麼反應。有方向的人會彎；僵硬的人會把每個調整都當成失敗。"
           },
           {
             "speaker": "b",
@@ -2026,13 +1662,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Flexibility can be a sign that the person cares more about the deeper intention than the original script.",
-            "zh": "完全不是。彈性有時反而是這個人更在乎 deeper intention，而不是原本那份 script。",
-            "vocab": [
-              {
-                "word": "deeper intention",
-                "def": "比表面計畫更核心、真正想守住的意圖"
-              }
-            ]
+            "zh": "完全不是。彈性有時反而是這個人更在乎 deeper intention，而不是原本那份 script。"
           },
           {
             "speaker": "b",
@@ -2044,13 +1674,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should be respectable. Many good plans survive because they adapt, not because they stay pure.",
-            "zh": "它本來就該被尊重。很多好計畫之所以活得下來，是因為它會調整，不是因為它保持純度。",
-            "vocab": [
-              {
-                "word": "plans survive",
-                "def": "會隨現實調整、而不是一變就碎掉的計畫"
-              }
-            ]
+            "zh": "它本來就該被尊重。很多好計畫之所以活得下來，是因為它會調整，不是因為它保持純度。"
           },
           {
             "speaker": "b",
@@ -2079,13 +1703,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is \"I want to move in a clearer direction without pretending I can control every detail.\" It is balanced and realistic.",
-            "zh": "一句很好用的是：「I want to move in a clearer direction without pretending I can control every detail.」這句很平衡，也很現實。",
-            "vocab": [
-              {
-                "word": "clearer direction",
-                "def": "不把一切定死，但大方向更清楚"
-              }
-            ]
+            "zh": "一句很好用的是：「I want to move in a clearer direction without pretending I can control every detail.」這句很平衡，也很現實。"
           },
           {
             "speaker": "b",
@@ -2097,13 +1715,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is \"My plan matters, but my ability to adapt matters too.\" That works in almost any future-planning conversation.",
-            "zh": "另一句也很好：「My plan matters, but my ability to adapt matters too.」這句幾乎哪種 future-planning 對話都能用。",
-            "vocab": [
-              {
-                "word": "ability to adapt",
-                "def": "計畫之外，仍能調整自己的能力"
-              }
-            ]
+            "zh": "另一句也很好：「My plan matters, but my ability to adapt matters too.」這句幾乎哪種 future-planning 對話都能用。"
           },
           {
             "speaker": "b",
@@ -2115,13 +1727,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something warmer, say: \"I am trying to give the next season of my life more intention, not more pressure.\" That is a beautiful line.",
-            "zh": "如果你想講得更溫暖，也可以說：「I am trying to give the next season of my life more intention, not more pressure.」這句很美。",
-            "vocab": [
-              {
-                "word": "next season",
-                "def": "不一定是曆法"
-              }
-            ]
+            "zh": "如果你想講得更溫暖，也可以說：「I am trying to give the next season of my life more intention, not more pressure.」這句很美。"
           },
           {
             "speaker": "b",
@@ -2138,7 +1744,7 @@ export const WEEK_51: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Planning for a Real Life, Not a Fantasy Life",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -2162,13 +1768,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Future planning gets wiser when it stops demanding a fantasy self to carry it.",
-            "zh": "沒錯。規劃未來一旦不再要求一個 fantasy self 來背它，就會變得比較聰明。",
-            "vocab": [
-              {
-                "word": "fantasy self",
-                "def": "只有理想化自己才做得到的未來計畫"
-              }
-            ]
+            "zh": "沒錯。規劃未來一旦不再要求一個 fantasy self 來背它，就會變得比較聰明。"
           },
           {
             "speaker": "b",
@@ -2180,13 +1780,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many plans fail because they were designed for a version of life that does not exist outside the notebook.",
-            "zh": "很多計畫會失敗，不是因為人不夠好，而是因為計畫根本是替一本筆記本裡的 life 設計的。",
-            "vocab": [
-              {
-                "word": "outside the notebook",
-                "def": "很多計畫會失敗"
-              }
-            ]
+            "zh": "很多計畫會失敗，不是因為人不夠好，而是因為計畫根本是替一本筆記本裡的 life 設計的。"
           },
           {
             "speaker": "b",
@@ -2199,12 +1793,7 @@ export const WEEK_51: Episode[] = [
             "speakerName": "Mira",
             "en": "Real planning begins when the notebook finally meets the body, the schedule, and the actual week.",
             "zh": "真正的 planning，是等到那本筆記終於碰到身體、時間表和真的那一週時才開始。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — A Future You Can Actually Meet",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2320,13 +1909,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not with dramatic promises. Start with the conditions that make steadier choices more likely.",
-            "zh": "不是從很戲劇化的承諾開始，而是從那些會讓比較穩的選擇更容易發生的條件開始。",
-            "vocab": [
-              {
-                "word": "dramatic promises",
-                "def": "先準備好能支撐後續選擇的條件"
-              }
-            ]
+            "zh": "不是從很戲劇化的承諾開始，而是從那些會讓比較穩的選擇更容易發生的條件開始。"
           },
           {
             "speaker": "b",
@@ -2338,13 +1921,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sleep, calendar space, financial clarity, relational honesty, and a manageable pace all matter more than people like to admit.",
-            "zh": "沒錯。睡眠、日曆空間、財務清楚、關係誠實，和可承受的節奏，其實都比很多人願意承認的還更重要。",
-            "vocab": [
-              {
-                "word": "relational honesty",
-                "def": "真實自己被看見的誠實"
-              }
-            ]
+            "zh": "沒錯。睡眠、日曆空間、財務清楚、關係誠實，和可承受的節奏，其實都比很多人願意承認的還更重要。"
           },
           {
             "speaker": "b",
@@ -2356,13 +1933,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more true. Dramatic goals often get the attention, but hidden conditions usually decide the outcome.",
-            "zh": "它確實更真。很戲劇化的 goals 常常拿到 attention，但最後決定 outcome 的，通常是那些隱藏條件。",
-            "vocab": [
-              {
-                "word": "hidden condition",
-                "def": "表面看不到"
-              }
-            ]
+            "zh": "它確實更真。很戲劇化的 goals 常常拿到 attention，但最後決定 outcome 的，通常是那些隱藏條件。"
           },
           {
             "speaker": "b",
@@ -2391,13 +1962,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A great year does not have to mean nonstop success. It may mean deeper alignment, better rhythm, cleaner decisions, or more honesty in important places.",
-            "zh": "一個 great year 不一定代表不停的成功。它也可能代表更深的對齊、更好的節奏、更乾淨的決定，或在重要的地方多一點誠實。",
-            "vocab": [
-              {
-                "word": "deeper alignment",
-                "def": "或在重要的地方多一點誠實"
-              }
-            ]
+            "zh": "一個 great year 不一定代表不停的成功。它也可能代表更深的對齊、更好的節奏、更乾淨的決定，或在重要的地方多一點誠實。"
           },
           {
             "speaker": "b",
@@ -2409,31 +1974,19 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Some years look small from the outside but are huge on the inside because a person finally became more whole, more rested, or more honest.",
-            "zh": "沒錯。有些 year 從外面看起來很小，但在裡面非常大，因為一個人終於變得更完整、更休息，或更誠實。",
-            "vocab": [
-              {
-                "word": "inside",
-                "def": "更完整、更休息，或更誠實"
-              }
-            ]
+            "zh": "沒錯。有些 year 從外面看起來很小，但在裡面非常大，因為一個人終於變得更完整、更休息，或更誠實。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much more humane standard.",
-            "zh": "這是一個更有人味的標準。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is humane because it does not reduce life to output. It asks whether the person is actually living better inside the time.",
-            "zh": "它有人味，因為它不會把 life 縮成 output，它會去問：這個人是不是在那段時間裡真的活得比較好。",
-            "vocab": [
-              {
-                "word": "living better inside",
-                "def": "不是表面成就"
-              }
-            ]
+            "zh": "它有人味，因為它不會把 life 縮成 output，它會去問：這個人是不是在那段時間裡真的活得比較好。"
           },
           {
             "speaker": "b",
@@ -2462,13 +2015,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I am trying to create conditions that will help the better version of me show up more often.\" That sounds thoughtful and realistic.",
-            "zh": "一句很好用的是：「I am trying to create conditions that will help the better version of me show up more often.」這句很有思考，也很現實。",
-            "vocab": [
-              {
-                "word": "create conditions",
-                "def": "先創造條件，而不是只靠意志硬撐"
-              }
-            ]
+            "zh": "一句很好用的是：「I am trying to create conditions that will help the better version of me show up more often.」這句很有思考，也很現實。"
           },
           {
             "speaker": "b",
@@ -2480,13 +2027,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I do not only want goals. I want a rhythm that can carry the goals.\" That is strong and practical.",
-            "zh": "還有一句也很好，就是「我不只想要目標，我也想要一種能把這些目標撐住的節奏。」這句很有力，也很實際。",
-            "vocab": [
-              {
-                "word": "rhythm",
-                "def": "我不只想要目標"
-              }
-            ]
+            "zh": "還有一句也很好，就是「我不只想要目標，我也想要一種能把這些目標撐住的節奏。」這句很有力，也很實際。"
           },
           {
             "speaker": "b",
@@ -2497,14 +2038,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something warmer, say: \"I want the next stretch of life to feel more intentional and less scrambled.\" That works very well too.",
-            "zh": "如果你想講得溫暖一點，也可以說：「I want the next stretch of life to feel more intentional and less scrambled.」這句也很好用。",
-            "vocab": [
-              {
-                "word": "less scrambled",
-                "def": "不要那麼亂、那麼碎裂的生活狀態"
-              }
-            ]
+            "en": "For a warmer feel, try: \"I want the next stretch of life to feel more intentional and less scrambled.\" That works very well too.",
+            "zh": "如果你想講得溫暖一點，也可以說：「I want the next stretch of life to feel more intentional and less scrambled.」這句也很好用。"
           },
           {
             "speaker": "b",
@@ -2545,13 +2080,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The person is not only choosing the goal. They are arranging the life around the goal so the goal can breathe.",
-            "zh": "沒錯。這個人不只是在選 goal，他也在替那個 goal 重新安排周圍的 life，讓它有地方呼吸。",
-            "vocab": [
-              {
-                "word": "around the goal",
-                "def": "不是嘴上說要，而是真的替目標挪出空間"
-              }
-            ]
+            "zh": "沒錯。這個人不只是在選 goal，他也在替那個 goal 重新安排周圍的 life，讓它有地方呼吸。"
           },
           {
             "speaker": "b",
@@ -2563,13 +2092,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because many goals fail from crowding, not from lack of sincerity. They are simply packed into a life that cannot hold them yet.",
-            "zh": "這很重要，因為很多 goal 會失敗，不是因為不夠真誠，而是因為太擠了。它只是被塞進一個還裝不下它的 life。",
-            "vocab": [
-              {
-                "word": "fail from crowding",
-                "def": "目標太多、太擠，生活根本裝不下"
-              }
-            ]
+            "zh": "這很重要，因為很多 goal 會失敗，不是因為不夠真誠，而是因為太擠了。它只是被塞進一個還裝不下它的 life。"
           },
           {
             "speaker": "b",
@@ -2633,7 +2156,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then it is the right one.",
+            "en": "It is the right one.",
             "zh": "那這個收尾就對了。"
           }
         ]

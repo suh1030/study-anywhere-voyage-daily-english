@@ -22,13 +22,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the kind of moment when working under pressure stops being an interview phrase and becomes your actual nervous system.",
-            "zh": "那種時刻就是「在壓力下工作」不再只是面試用語，而是真的變成你的神經系統要面對的現場。",
-            "vocab": [
-              {
-                "word": "under pressure",
-                "def": "在高壓狀態下帶隊或工作"
-              }
-            ]
+            "zh": "那種時刻就是「在壓力下工作」不再只是面試用語，而是真的變成你的神經系統要面對的現場。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is common. People can sound composed while the inside is already reacting to a tight deadline like a threat.",
-            "zh": "這很常見。人外面可以聽起來很穩，裡面卻早就把很趕的期限當成威脅在反應了。",
-            "vocab": [
-              {
-                "word": "tight deadline",
-                "def": "很趕的期限"
-              }
-            ]
+            "zh": "這很常見。人外面可以聽起來很穩，裡面卻早就把很趕的期限當成威脅在反應了。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right, but under pressure the goal is not only to move. It is to keep your head long enough to choose the right move.",
-            "zh": "對，可是在壓力下，重點不只是繼續動，而是要讓自己夠冷靜，冷靜到還能選對動作。",
-            "vocab": [
-              {
-                "word": "keep your head",
-                "def": "在壓力下保持冷靜清醒"
-              }
-            ]
+            "zh": "對，可是在壓力下，重點不只是繼續動，而是要讓自己夠冷靜，冷靜到還能選對動作。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is when you need to triage the work instead of obeying the loudest feeling in the room.",
-            "zh": "那個時候你要做的，是先幫工作做分級，而不是服從房間裡最大聲的情緒。",
-            "vocab": [
-              {
-                "word": "triage the work",
-                "def": "先幫工作做急重輕輕的分級"
-              }
-            ]
+            "zh": "那個時候你要做的，是先幫工作做分級，而不是服從房間裡最大聲的情緒。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a stress response, not a moral failure. The body narrows first, then the thinking follows.",
-            "zh": "那是壓力反應，不是你的人格失敗。身體會先變窄，思考才跟著變窄。",
-            "vocab": [
-              {
-                "word": "stress response",
-                "def": "身體與大腦面對壓力時的反應模式"
-              }
-            ]
+            "zh": "那是壓力反應，不是你的人格失敗。身體會先變窄，思考才跟著變窄。"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you need support, say, 'I can own this, but I need help on the other piece if we want to avoid dropping the ball.'",
-            "zh": "沒錯。如果你真的需要支援，也可以說：「I can own this, but I need help on the other piece if we want to avoid dropping the ball.」",
-            "vocab": [
-              {
-                "word": "dropping the ball",
-                "def": "把該顧的事漏掉"
-              }
-            ]
+            "zh": "沒錯。如果你真的需要支援，也可以說：「I can own this, but I need help on the other piece if we want to avoid dropping the ball.」"
           },
           {
             "speaker": "b",
@@ -205,7 +169,7 @@ export const WEEK_21: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Habit That Lowers the Damage",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -241,13 +205,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Asking for help is often a sign that you are still thinking clearly enough to protect the work.",
-            "zh": "對。願意求助，很多時候反而代表你還清楚到足以保護工作。",
-            "vocab": [
-              {
-                "word": "Asking for help",
-                "def": "主動開口請求支援"
-              }
-            ]
+            "zh": "對。願意求助，很多時候反而代表你還清楚到足以保護工作。"
           },
           {
             "speaker": "b",
@@ -260,12 +218,7 @@ export const WEEK_21: Episode[] = [
             "speakerName": "Mira",
             "en": "Good. Pressure feels less heroic and more manageable once you stop treating support like failure.",
             "zh": "很好。當你不再把求援當成失敗，壓力就會變得比較不像英雄劇，而比較像一件可處理的事。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Good Pressure Management Leaves Behind",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -276,13 +229,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. It is about staying useful while the pressure is real, and then resetting after work instead of carrying the whole day into the night.",
-            "zh": "完全不是。它比較像是在壓力真的存在時，仍然保持有用，然後下班後記得把自己重新歸零，而不是把整天一路扛進晚上。",
-            "vocab": [
-              {
-                "word": "resetting after work",
-                "def": "下班後讓自己重新歸零"
-              }
-            ]
+            "zh": "完全不是。它比較像是在壓力真的存在時，仍然保持有用，然後下班後記得把自己重新歸零，而不是把整天一路扛進晚上。"
           },
           {
             "speaker": "b",
@@ -387,13 +334,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is pressure narrowing your attention. It is not that you forgot how to think.",
-            "zh": "那就是壓力把你的注意力縮窄了。不是你突然不會思考了。",
-            "vocab": [
-              {
-                "word": "narrowing your attention",
-                "def": "讓注意力變得很窄，只看到局部"
-              }
-            ]
+            "zh": "那就是壓力把你的注意力縮窄了。不是你突然不會思考了。"
           },
           {
             "speaker": "b",
@@ -404,14 +345,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a pretty accurate description of tunnel vision under pressure.",
-            "zh": "這其實就是很準確地在描述壓力下的 tunnel vision。",
-            "vocab": [
-              {
-                "word": "tunnel vision",
-                "def": "壓力下只看見眼前一小塊的狀態"
-              }
-            ]
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "b",
@@ -452,17 +387,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You rush a decision, you blank on obvious details, or you start second-guessing everything at once.",
-            "zh": "你會太快做決定、會漏掉明顯細節，或者突然開始同時懷疑每一件事。",
-            "vocab": [
-              {
-                "word": "rush a decision",
-                "def": "太快做出決定"
-              },
-              {
-                "word": "rush a decision",
-                "def": "太快做出決定"
-              }
-            ]
+            "zh": "你會太快做決定、會漏掉明顯細節，或者突然開始同時懷疑每一件事。"
           },
           {
             "speaker": "b",
@@ -486,17 +411,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Blanking out usually means your mental bandwidth is overloaded, not that the thought was never there.",
-            "zh": "突然空白，通常代表你的 mental bandwidth 已經超載，不是那個想法本來就不存在。",
-            "vocab": [
-              {
-                "word": "Blanking out usually",
-                "def": "突然腦中一片空白"
-              },
-              {
-                "word": "mental bandwidth",
-                "def": "大腦當下還有多少可用思考空間"
-              }
-            ]
+            "zh": "突然空白，通常代表你的 mental bandwidth 已經超載，不是那個想法本來就不存在。"
           },
           {
             "speaker": "b",
@@ -537,13 +452,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'I may be overreacting to the urgency here. Let me check the actual impact.'",
-            "zh": "另一句也很好：「I may be overreacting to the urgency here. Let me check the actual impact.」",
-            "vocab": [
-              {
-                "word": "actual impact",
-                "def": "真正的影響範圍"
-              }
-            ]
+            "zh": "另一句也很好：「I may be overreacting to the urgency here. Let me check the actual impact.」"
           },
           {
             "speaker": "b",
@@ -555,13 +464,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you need space, say, 'I can think more clearly if I take five minutes and come back to this.'",
-            "zh": "完全沒錯。如果你需要空間，也可以說：「I can think more clearly if I take five minutes and come back to this.」",
-            "vocab": [
-              {
-                "word": "think more clearly",
-                "def": "把事情重新想清楚"
-              }
-            ]
+            "zh": "完全沒錯。如果你需要空間，也可以說：「I can think more clearly if I take five minutes and come back to this.」"
           },
           {
             "speaker": "b",
@@ -655,13 +558,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is trainable. The first win is simply noticing, 'Oh, I am missing the obvious because I am overloaded.'",
-            "zh": "它本來就可以練。第一個勝利，常常只是注意到：「喔，我現在漏掉明顯的東西，是因為我過載了。」",
-            "vocab": [
-              {
-                "word": "obvious",
-                "def": "漏掉其實很明顯的東西"
-              }
-            ]
+            "zh": "它本來就可以練。第一個勝利，常常只是注意到：「喔，我現在漏掉明顯的東西，是因為我過載了。」"
           },
           {
             "speaker": "b",
@@ -766,13 +663,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When everything sounds urgent, the first job is to find the real top priority instead of obeying volume.",
-            "zh": "當所有東西都聽起來很急時，你第一個工作是先找到真正最優先的那個，不是服從誰比較大聲。",
-            "vocab": [
-              {
-                "word": "top priority",
-                "def": "真正最優先要先處理的事"
-              }
-            ]
+            "zh": "當所有東西都聽起來很急時，你第一個工作是先找到真正最優先的那個，不是服從誰比較大聲。"
           },
           {
             "speaker": "b",
@@ -813,13 +704,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Look for the critical path. Ask what will block other people if it does not move today.",
-            "zh": "先看 critical path。問自己：如果今天不動，什麼會卡住別人？",
-            "vocab": [
-              {
-                "word": "critical path",
-                "def": "卡住的關鍵路徑"
-              }
-            ]
+            "zh": "先看 critical path。問自己：如果今天不動，什麼會卡住別人？"
           },
           {
             "speaker": "b",
@@ -831,17 +716,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then ask what is truly a must-have and what is only a nice-to-have under ideal conditions.",
-            "zh": "接著再問：什麼是真正的 must-have，什麼只是理想狀態下的 nice-to-have。",
-            "vocab": [
-              {
-                "word": "must-have",
-                "def": "現在真的不能沒有的部分"
-              },
-              {
-                "word": "nice-to-have",
-                "def": "有很好，但現在沒有也不致命的部分"
-              }
-            ]
+            "zh": "接著再問：什麼是真正的 must-have，什麼只是理想狀態下的 nice-to-have。"
           },
           {
             "speaker": "b",
@@ -853,13 +728,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of thoughtful people do. But pressure weeks are made of trade-offs, not perfect expressions of your values.",
-            "zh": "很多認真的人都會這樣。可是壓力週本來就是由取捨組成的，不是用來完美表達你全部價值觀的。",
-            "vocab": [
-              {
-                "word": "trade-off",
-                "def": "取捨；代價"
-              }
-            ]
+            "zh": "很多認真的人都會這樣。可是壓力週本來就是由取捨組成的，不是用來完美表達你全部價值觀的。"
           },
           {
             "speaker": "b",
@@ -900,13 +769,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I can move this today, but I need to push back on the other item until tomorrow.'",
-            "zh": "另一句也很好：「I can move this today, but I need to push back on the other item until tomorrow.」",
-            "vocab": [
-              {
-                "word": "push back",
-                "def": "把某件事延後而不是硬接下來"
-              }
-            ]
+            "zh": "另一句也很好：「I can move this today, but I need to push back on the other item until tomorrow.」"
           },
           {
             "speaker": "b",
@@ -918,13 +781,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if you need breathing room, say, 'I can buy us some time if I send a partial update now.'",
-            "zh": "如果你需要爭取空間，也可以說：「I can buy us some time if I send a partial update now.」",
-            "vocab": [
-              {
-                "word": "some time",
-                "def": "先爭取一些緩衝時間"
-              }
-            ]
+            "zh": "如果你需要爭取空間，也可以說：「I can buy us some time if I send a partial update now.」"
           },
           {
             "speaker": "b",
@@ -977,13 +834,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It also becomes easier to move the deadline on lower-value tasks before they become dramatic.",
-            "zh": "完全沒錯。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。",
-            "vocab": [
-              {
-                "word": "move the deadline",
-                "def": "調整期限，讓順序更合理"
-              }
-            ]
+            "zh": "完全沒錯。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。"
           },
           {
             "speaker": "b",
@@ -1117,13 +968,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That delay is so common. People often ask for help only after the situation has already started leaking everywhere.",
-            "zh": "那種延遲真的超常見。很多人都會等到情況已經開始四處漏水了，才終於開口。",
-            "vocab": [
-              {
-                "word": "ask for help",
-                "def": "主動開口請求支援"
-              }
-            ]
+            "zh": "那種延遲真的超常見。很多人都會等到情況已經開始四處漏水了，才終於開口。"
           },
           {
             "speaker": "b",
@@ -1135,13 +980,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people do that because they think reaching out means they failed some invisible test.",
-            "zh": "很多人都會這樣，因為他們會覺得一求助，就像自己某個看不見的考試沒過。",
-            "vocab": [
-              {
-                "word": "reaching out",
-                "def": "主動聯絡別人求助或說明狀況"
-              }
-            ]
+            "zh": "很多人都會這樣，因為他們會覺得一求助，就像自己某個看不見的考試沒過。"
           },
           {
             "speaker": "b",
@@ -1194,13 +1033,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And sometimes people do not want to flag a risk because they think naming it makes it more real.",
-            "zh": "還有一種情況是，人不想把風險說出來，因為他會覺得一命名就變得更真實了。",
-            "vocab": [
-              {
-                "word": "flag a risk",
-                "def": "提早把風險明確說出來"
-              }
-            ]
+            "zh": "還有一種情況是，人不想把風險說出來，因為他會覺得一命名就變得更真實了。"
           },
           {
             "speaker": "b",
@@ -1212,13 +1045,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "But silence usually just turns a capacity problem into a trust problem later.",
-            "zh": "可是沉默很多時候只是把容量問題，拖成後面的信任問題。",
-            "vocab": [
-              {
-                "word": "capacity problem",
-                "def": "目前手上容量真的不夠的問題"
-              }
-            ]
+            "zh": "可是沉默很多時候只是把容量問題，拖成後面的信任問題。"
           },
           {
             "speaker": "b",
@@ -1247,13 +1074,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, 'I want to give you a heads-up that this is getting bigger than I first thought.'",
-            "zh": "你可以試這句：「I want to give you a heads-up that this is getting bigger than I first thought.」",
-            "vocab": [
-              {
-                "word": "heads-up",
-                "def": "先提前讓某人知道狀況"
-              }
-            ]
+            "zh": "你可以試這句：「I want to give you a heads-up that this is getting bigger than I first thought.」"
           },
           {
             "speaker": "b",
@@ -1265,17 +1086,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I can keep moving this forward, but I am getting overloaded and need to redistribute part of it.'",
-            "zh": "另一句也很好：「I can keep moving this forward, but I am getting overloaded and need to redistribute part of it.」",
-            "vocab": [
-              {
-                "word": "overloaded",
-                "def": "手上真的超出可承受範圍"
-              },
-              {
-                "word": "redistribute",
-                "def": "把工作重新分配給更多人"
-              }
-            ]
+            "zh": "另一句也很好：「I can keep moving this forward, but I am getting overloaded and need to redistribute part of it.」"
           },
           {
             "speaker": "b",
@@ -1304,7 +1115,7 @@ export const WEEK_21: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Habit That Makes Asking Easier",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -1340,13 +1151,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And once it becomes information, it is much easier to build a backup plan before the week falls apart.",
-            "zh": "完全沒錯。一旦它變成資訊，你就比較容易在整週散掉之前，先建立備案。",
-            "vocab": [
-              {
-                "word": "backup plan",
-                "def": "預備方案；事情失控前先想好的替代做法"
-              }
-            ]
+            "zh": "完全沒錯。一旦它變成資訊，你就比較容易在整週散掉之前，先建立備案。"
           },
           {
             "speaker": "b",
@@ -1359,12 +1164,7 @@ export const WEEK_21: Episode[] = [
             "speakerName": "Mira",
             "en": "Most people try that at least once a week. It rarely works as well as one timely message does.",
             "zh": "大多數人每週至少都會這樣試一次。可是它幾乎從來都沒有一則及時訊息有用。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Early Help Protects",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1480,13 +1280,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what happens when your body has not come down from it yet.",
-            "zh": "那通常就是你的身體還沒有真的從那一整週降下來。",
-            "vocab": [
-              {
-                "word": "come down from it",
-                "def": "從高壓狀態慢慢降回來"
-              }
-            ]
+            "zh": "那通常就是你的身體還沒有真的從那一整週降下來。"
           },
           {
             "speaker": "b",
@@ -1510,13 +1304,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes it does a little, but real recovery often needs to be intentional or the week just keeps humming inside you.",
-            "zh": "有時候會自動恢復一點點，可是真正的恢復很多時候得刻意做，不然那一整週還是會繼續在你身體裡嗡嗡作響。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "有時候會自動恢復一點點，可是真正的恢復很多時候得刻意做，不然那一整週還是會繼續在你身體裡嗡嗡作響。"
           },
           {
             "speaker": "b",
@@ -1557,13 +1345,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is sleep debt, and it changes mood, patience, and even how hopeful things feel.",
-            "zh": "那就是 sleep debt，它會直接改變你的情緒、耐性，甚至連事情看起來有沒有希望都會被影響。",
-            "vocab": [
-              {
-                "word": "sleep debt",
-                "def": "長期睡不夠累積下來的睡眠負債"
-              }
-            ]
+            "zh": "那就是 sleep debt，它會直接改變你的情緒、耐性，甚至連事情看起來有沒有希望都會被影響。"
           },
           {
             "speaker": "b",
@@ -1575,13 +1357,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A low battery makes ordinary life feel louder.",
-            "zh": "完全沒錯。電量很低的時候，普通生活都會聽起來比較吵。",
-            "vocab": [
-              {
-                "word": "low battery",
-                "def": "人像手機剩低電量一樣的疲憊狀態"
-              }
-            ]
+            "zh": "完全沒錯。電量很低的時候，普通生活都會聽起來比較吵。"
           },
           {
             "speaker": "b",
@@ -1622,13 +1398,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is 'I need a day to decompress before I feel like myself again.'",
-            "zh": "另一句也很好：「I need a day to decompress before I feel like myself again.」",
-            "vocab": [
-              {
-                "word": "decompress",
-                "def": "把高壓狀態慢慢鬆開"
-              }
-            ]
+            "zh": "另一句也很好：「I need a day to decompress before I feel like myself again.」"
           },
           {
             "speaker": "b",
@@ -1640,13 +1410,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you need boundaries, say, 'I am checking out for the rest of the day unless something truly urgent comes up.'",
-            "zh": "完全沒錯。如果你需要界線，也可以說：「I am checking out for the rest of the day unless something truly urgent comes up.」",
-            "vocab": [
-              {
-                "word": "checking out",
-                "def": "暫時從工作模式裡退下來"
-              }
-            ]
+            "zh": "完全沒錯。如果你需要界線，也可以說：「I am checking out for the rest of the day unless something truly urgent comes up.」"
           },
           {
             "speaker": "b",
@@ -1658,13 +1422,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Half-resting is one of the slowest ways to bounce back.",
-            "zh": "完全沒錯。半休息其實是最慢恢復的方法之一。",
-            "vocab": [
-              {
-                "word": "bounce back",
-                "def": "慢慢恢復元氣與正常狀態"
-              }
-            ]
+            "zh": "完全沒錯。半休息其實是最慢恢復的方法之一。"
           }
         ]
       },
@@ -1705,13 +1463,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Time off is helpful, but your system also needs a signal that it can stop bracing.",
-            "zh": "完全沒錯。放假當然有幫助，可是你的系統也需要一個訊號，知道自己可以停止備戰了。",
-            "vocab": [
-              {
-                "word": "signal",
-                "def": "暗示底下有更大問題的訊號"
-              }
-            ]
+            "zh": "完全沒錯。放假當然有幫助，可是你的系統也需要一個訊號，知道自己可以停止備戰了。"
           },
           {
             "speaker": "b",
@@ -1845,13 +1597,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Leadership under pressure is often about seeing strain before it turns visible enough to scare everybody.",
-            "zh": "完全沒錯。壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。",
-            "vocab": [
-              {
-                "word": "under pressure",
-                "def": "在高壓狀態下帶隊或工作"
-              }
-            ]
+            "zh": "完全沒錯。壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。"
           },
           {
             "speaker": "b",
@@ -1875,13 +1621,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The leader sets the tone by helping the room feel challenged but not abandoned.",
-            "zh": "完全沒錯。帶頭的人是透過設定氣氛來做事，讓整個房間感覺自己在面對挑戰，但沒有被丟下。",
-            "vocab": [
-              {
-                "word": "sets the tone",
-                "def": "定調"
-              }
-            ]
+            "zh": "完全沒錯。帶頭的人是透過設定氣氛來做事，讓整個房間感覺自己在面對挑戰，但沒有被丟下。"
           },
           {
             "speaker": "b",
@@ -1910,13 +1650,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Clarity, pacing, and updates. People handle stress better when they are not left alone with their guesses.",
-            "zh": "清楚、節奏，還有更新。當人不需要獨自拿自己的猜測過日子時，壓力就會比較好扛。",
-            "vocab": [
-              {
-                "word": "People handle stress",
-                "def": "持續讓大家知道最新狀況"
-              }
-            ]
+            "zh": "清楚、節奏，還有更新。當人不需要獨自拿自己的猜測過日子時，壓力就會比較好扛。"
           },
           {
             "speaker": "b",
@@ -1940,13 +1674,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sometimes your job is to absorb the panic and pass down only the useful signal.",
-            "zh": "完全沒錯。有時你的工作就是先吸收那一層恐慌，然後只把有用的訊號往下傳。",
-            "vocab": [
-              {
-                "word": "absorb the panic",
-                "def": "然後只把有用的訊號往下傳"
-              }
-            ]
+            "zh": "完全沒錯。有時你的工作就是先吸收那一層恐慌，然後只把有用的訊號往下傳。"
           },
           {
             "speaker": "b",
@@ -1987,13 +1715,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'I need everyone to protect focus for the next two hours while we get the critical piece over the line.'",
-            "zh": "另一句也很好：「I need everyone to protect focus for the next two hours while we get the critical piece over the line.」",
-            "vocab": [
-              {
-                "word": "protect focus",
-                "def": "東西一直打進來"
-              }
-            ]
+            "zh": "另一句也很好：「I need everyone to protect focus for the next two hours while we get the critical piece over the line.」"
           },
           {
             "speaker": "b",
@@ -2005,13 +1727,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if the timeline needs honesty, say, 'I want to be realistic here. This is still possible, but the timeline is tight and we need to adjust accordingly.'",
-            "zh": "完全沒錯。如果時程需要誠實一點，也可以說：「I want to be realistic here. This is still possible, but the timeline is tight and we need to adjust accordingly.」",
-            "vocab": [
-              {
-                "word": "timeline needs",
-                "def": "符合現實、不自欺的時間預估"
-              }
-            ]
+            "zh": "完全沒錯。如果時程需要誠實一點，也可以說：「I want to be realistic here. This is still possible, but the timeline is tight and we need to adjust accordingly.」"
           },
           {
             "speaker": "b",
@@ -2064,13 +1780,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. A leader also has to call the play when the room gets scattered.",
-            "zh": "很好。而且當整個房間開始散掉時，帶頭的人也得把要打的 play 說出來。",
-            "vocab": [
-              {
-                "word": "call the play",
-                "def": "把眼前要採取的做法直接講清楚"
-              }
-            ]
+            "zh": "很好。而且當整個房間開始散掉時，帶頭的人也得把要打的 play 說出來。"
           },
           {
             "speaker": "b",
@@ -2123,13 +1833,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good leaders support the team by making reality clearer and panic smaller.",
-            "zh": "完全沒錯。好的帶頭者，是透過讓現實更清楚、讓恐慌更小，來支持團隊。",
-            "vocab": [
-              {
-                "word": "support the team",
-                "def": "用實際方式撐住整個團隊"
-              }
-            ]
+            "zh": "完全沒錯。好的帶頭者，是透過讓現實更清楚、讓恐慌更小，來支持團隊。"
           },
           {
             "speaker": "b",
@@ -2210,13 +1914,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is more common than people admit. A lot of adults get attached to pressure because it makes them feel needed.",
-            "zh": "這比大家承認的還常見。很多大人會對壓力上癮，因為它會讓人感覺自己被需要。",
-            "vocab": [
-              {
-                "word": "pressure",
-                "def": "生活或工作處在高壓期的一段時間"
-              }
-            ]
+            "zh": "這比大家承認的還常見。很多大人會對壓力上癮，因為它會讓人感覺自己被需要。"
           },
           {
             "speaker": "b",
@@ -2269,13 +1967,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You stop treating every hard week like a personal referendum. You build margin before you desperately need it.",
-            "zh": "你不再把每一個很硬的工作週都當成對你整個人的公投。你會在還沒很需要之前，就先留出空間。",
-            "vocab": [
-              {
-                "word": "build margin",
-                "def": "先替自己留出緩衝空間"
-              }
-            ]
+            "zh": "你不再把每一個很硬的工作週都當成對你整個人的公投。你會在還沒很需要之前，就先留出空間。"
           },
           {
             "speaker": "b",
@@ -2287,13 +1979,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A healthier pressure life also has a pressure valve. There is some way for intensity to leave the body before it hardens there.",
-            "zh": "比較健康的扛壓生活，也會有壓力閥。也就是說，會有某種方式讓那個強度先離開身體，而不是直接在裡面硬掉。",
-            "vocab": [
-              {
-                "word": "pressure valve",
-                "def": "讓壓力可以釋放出去的出口"
-              }
-            ]
+            "zh": "比較健康的扛壓生活，也會有壓力閥。也就是說，會有某種方式讓那個強度先離開身體，而不是直接在裡面硬掉。"
           },
           {
             "speaker": "b",
@@ -2305,13 +1991,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Without that outlet, pressure starts to leak into everything and call itself professionalism.",
-            "zh": "完全沒錯。沒有出口的話，壓力就會開始滲進所有地方，然後還替自己取名叫專業。",
-            "vocab": [
-              {
-                "word": "pressure",
-                "def": "其實沒那麼急，卻被活成很急的狀態"
-              }
-            ]
+            "zh": "完全沒錯。沒有出口的話，壓力就會開始滲進所有地方，然後還替自己取名叫專業。"
           },
           {
             "speaker": "b",
@@ -2352,13 +2032,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I want a sustainable pace, not just a dramatic sprint.'",
-            "zh": "另一句也很好：「I want a sustainable pace, not just a dramatic sprint.」",
-            "vocab": [
-              {
-                "word": "sustainable pace",
-                "def": "可以長期維持、不會把人拖垮的節奏"
-              }
-            ]
+            "zh": "另一句也很好：「I want a sustainable pace, not just a dramatic sprint.」"
           },
           {
             "speaker": "b",
@@ -2370,13 +2044,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you notice your mind going extreme, say, 'I think I am slipping into all-or-nothing thinking here.'",
-            "zh": "完全沒錯。如果你發現自己腦袋開始極端化，也可以說：「I think I am slipping into all-or-nothing thinking here.」",
-            "vocab": [
-              {
-                "word": "all-or-nothing thinking",
-                "def": "不是全贏就是全輸的極端思考"
-              }
-            ]
+            "zh": "完全沒錯。如果你發現自己腦袋開始極端化，也可以說：「I think I am slipping into all-or-nothing thinking here.」"
           },
           {
             "speaker": "b",
@@ -2405,13 +2073,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Stop letting the calendar fill to one hundred percent. Leave breathing room on purpose.",
-            "zh": "不要再讓自己的行事曆永遠塞到百分之百。刻意留下呼吸空間。",
-            "vocab": [
-              {
-                "word": "leave breathing room",
-                "def": "刻意替自己留下一點可呼吸的空白"
-              }
-            ]
+            "zh": "不要再讓自己的行事曆永遠塞到百分之百。刻意留下呼吸空間。"
           },
           {
             "speaker": "b",
@@ -2435,13 +2097,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Margin protects judgment, kindness, and the ability to carry pressure without becoming pressure.",
-            "zh": "完全沒錯。空白保護的是判斷力、溫柔，還有你扛壓時不會反過來自己變成壓力本身的能力。",
-            "vocab": [
-              {
-                "word": "carry pressure",
-                "def": "空白保護的是判斷力、溫柔"
-              }
-            ]
+            "zh": "完全沒錯。空白保護的是判斷力、溫柔，還有你扛壓時不會反過來自己變成壓力本身的能力。"
           },
           {
             "speaker": "b",

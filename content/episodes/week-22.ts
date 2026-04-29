@@ -22,13 +22,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a classic problem-solving moment, because the first sentence is usually only the surface symptom.",
-            "zh": "那真的很典型，因為問題剛冒出來時，第一句通常都只是表面症狀。",
-            "vocab": [
-              {
-                "word": "surface symptom",
-                "def": "問題表面上看得到的症狀"
-              }
-            ]
+            "zh": "那真的很典型，因為問題剛冒出來時，第一句通常都只是表面症狀。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why the first real move is to define the problem before the room falls in love with the wrong answer.",
-            "zh": "所以真正的第一步，是先把問題定義清楚，不要讓現場先愛上錯的答案。",
-            "vocab": [
-              {
-                "word": "define the problem",
-                "def": "先把真正的問題定義清楚"
-              }
-            ]
+            "zh": "所以真正的第一步，是先把問題定義清楚，不要讓現場先愛上錯的答案。"
           },
           {
             "speaker": "b",
@@ -70,13 +58,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Every clear question helps you get closer to what is true.",
-            "zh": "沒錯。每一個更清楚的問題，都會讓你再更接近真實一點。",
-            "vocab": [
-              {
-                "word": "get closer to what is true",
-                "def": "一步步更接近真實情況"
-              }
-            ]
+            "zh": "沒錯。每一個更清楚的問題，都會讓你再更接近真實一點。"
           }
         ]
       },
@@ -93,13 +75,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because offering a fix feels more impressive than gathering evidence, even when it is less useful.",
-            "zh": "因為直接講解法，感覺比先蒐集證據更像有能力，雖然實際上不一定更有用。",
-            "vocab": [
-              {
-                "word": "gathering evidence",
-                "def": "先蒐集足夠線索與證據"
-              }
-            ]
+            "zh": "因為直接講解法，感覺比先蒐集證據更像有能力，雖然實際上不一定更有用。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. A strong team can hold a working theory lightly while still being willing to change it.",
-            "zh": "對。好的團隊會先帶著一個暫時推論往前，但同時也保留改變它的彈性。",
-            "vocab": [
-              {
-                "word": "working theory",
-                "def": "暫時先拿來推進的推論"
-              }
-            ]
+            "zh": "對。好的團隊會先帶著一個暫時推論往前，但同時也保留改變它的彈性。"
           },
           {
             "speaker": "b",
@@ -129,13 +99,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. But confidence is not the same as refusing to rule something out when new facts arrive.",
-            "zh": "確實難。但有自信，不代表新事實出來時還硬是不把某些可能性排除掉。",
-            "vocab": [
-              {
-                "word": "rule something out",
-                "def": "把某個可能性排除掉"
-              }
-            ]
+            "zh": "確實難。但有自信，不代表新事實出來時還硬是不把某些可能性排除掉。"
           },
           {
             "speaker": "b",
@@ -188,13 +152,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to sound constructive, you can add, 'My next best step is to test the checkout flow with and without the discount code.'",
-            "zh": "如果你想聽起來更有建設性，也可以接一句：「My next best step is to test the checkout flow with and without the discount code.」",
-            "vocab": [
-              {
-                "word": "next best step",
-                "def": "此刻最合理的下一步"
-              }
-            ]
+            "zh": "如果你想聽起來更有建設性，也可以接一句：「My next best step is to test the checkout flow with and without the discount code.」"
           },
           {
             "speaker": "b",
@@ -235,13 +193,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A lot of wasted effort comes from trial and error with no memory.",
-            "zh": "完全沒錯。很多白花的力氣，其實都是沒有記憶的 trial and error。",
-            "vocab": [
-              {
-                "word": "trial and error",
-                "def": "邊試邊錯地摸索"
-              }
-            ]
+            "zh": "完全沒錯。很多白花的力氣，其實都是沒有記憶的 trial and error。"
           },
           {
             "speaker": "b",
@@ -317,7 +269,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly why good problem solvers often sound calmer than everyone else in the room.",
+            "en": "That's exactly why good problem solvers often sound calmer than everyone else in the room.",
             "zh": "這也就是為什麼，好的解題者在房間裡常常聽起來比其他人更冷靜。"
           }
         ]
@@ -399,13 +351,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That can help for a minute, but at some point you have to sit with it without pretending the answer is already there.",
-            "zh": "那一開始可能有用，但到某個點你還是得先跟問題坐在一起，不要假裝答案早就在那裡。",
-            "vocab": [
-              {
-                "word": "sit with it",
-                "def": "先和問題待在一起，不急著假裝有答案"
-              }
-            ]
+            "zh": "那一開始可能有用，但到某個點你還是得先跟問題坐在一起，不要假裝答案早就在那裡。"
           },
           {
             "speaker": "b",
@@ -417,13 +363,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people do. Sometimes being patient is exactly what keeps you from rushing into a dead end.",
-            "zh": "很多人都會。很多時候，耐心正是避免你太快衝進死路的方法。",
-            "vocab": [
-              {
-                "word": "dead end",
-                "def": "走下去發現行不通的方向"
-              }
-            ]
+            "zh": "很多人都會。很多時候，耐心正是避免你太快衝進死路的方法。"
           },
           {
             "speaker": "b",
@@ -452,13 +392,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I usually map it out. I need to see the pieces before I can tell which one is actually driving the mess.",
-            "zh": "我通常會先把它畫出來。我需要先看見各個部分，才知道到底是哪一塊在帶亂整件事。",
-            "vocab": [
-              {
-                "word": "map it out",
-                "def": "把問題各部分整理畫出來"
-              }
-            ]
+            "zh": "我通常會先把它畫出來。我需要先看見各個部分，才知道到底是哪一塊在帶亂整件事。"
           },
           {
             "speaker": "b",
@@ -482,13 +416,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Once you break it down, the problem often stops acting like one giant wall.",
-            "zh": "完全沒錯。一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。",
-            "vocab": [
-              {
-                "word": "break it down",
-                "def": "把大問題拆成較小部分"
-              }
-            ]
+            "zh": "完全沒錯。一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
           },
           {
             "speaker": "b",
@@ -529,13 +457,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'Let me think it through out loud for a minute.'",
-            "zh": "另一句也很實用：「Let me think it through out loud for a minute.」",
-            "vocab": [
-              {
-                "word": "think it through",
-                "def": "把想法一步步想完整"
-              }
-            ]
+            "zh": "另一句也很實用：「Let me think it through out loud for a minute.」"
           },
           {
             "speaker": "b",
@@ -547,13 +469,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if talking helps, say, 'Can I talk it through with you for five minutes? I think I am close.'",
-            "zh": "如果講出來對你有幫助，也可以說：「Can I talk it through with you for five minutes? I think I am close.」",
-            "vocab": [
-              {
-                "word": "talk it through",
-                "def": "把問題講出來一起理清"
-              }
-            ]
+            "zh": "如果講出來對你有幫助，也可以說：「Can I talk it through with you for five minutes? I think I am close.」"
           },
           {
             "speaker": "b",
@@ -570,7 +486,7 @@ export const WEEK_22: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — The Trick of Working Backward",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -582,13 +498,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I work backward from the moment I want to reach. It is easier to reason from a clear finish than a cloudy start.",
-            "zh": "我會從我想抵達的結果反推。從一個清楚的終點往回想，通常比從一個霧霧的起點出發容易。",
-            "vocab": [
-              {
-                "word": "work backward",
-                "def": "從想要的結果往回推"
-              }
-            ]
+            "zh": "我會從我想抵達的結果反推。從一個清楚的終點往回想，通常比從一個霧霧的起點出發容易。"
           },
           {
             "speaker": "b",
@@ -600,13 +510,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That question gets you unstuck surprisingly often.",
-            "zh": "完全沒錯。這個問題常常比想像中更能幫你脫困。",
-            "vocab": [
-              {
-                "word": "gets you unstuck",
-                "def": "從卡住的狀態脫出來"
-              }
-            ]
+            "zh": "完全沒錯。這個問題常常比想像中更能幫你脫困。"
           },
           {
             "speaker": "b",
@@ -631,12 +535,7 @@ export const WEEK_22: Episode[] = [
             "speakerName": "Mira",
             "en": "Please do. People burn a lot of energy because they confuse effort with orientation.",
             "zh": "真的可以貼。很多人會耗掉大量力氣，就是因為把努力跟方向感混在一起。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Your Style Needs From You",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -752,13 +651,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is usually the moment you need a fresh angle more than another louder opinion.",
-            "zh": "有，而且通常到了那個時候，你需要的比較不是另一個更大聲的意見，而是一個新的角度。",
-            "vocab": [
-              {
-                "word": "fresh angle",
-                "def": "看問題的新角度"
-              }
-            ]
+            "zh": "有，而且通常到了那個時候，你需要的比較不是另一個更大聲的意見，而是一個新的角度。"
           },
           {
             "speaker": "b",
@@ -811,13 +704,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is normal, but a lot of teams never loosen up enough to reach the useful ideas hiding behind the obvious ones.",
-            "zh": "這很正常，但很多團隊就是因為不夠放開，所以永遠到不了那些藏在 obvious idea 後面的有用點子。",
-            "vocab": [
-              {
-                "word": "loosen up",
-                "def": "先放鬆，不要一開始就太緊"
-              }
-            ]
+            "zh": "這很正常，但很多團隊就是因為不夠放開，所以永遠到不了那些藏在 obvious idea 後面的有用點子。"
           },
           {
             "speaker": "b",
@@ -829,13 +716,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You usually need to generate options before you can recognize which one actually has energy.",
-            "zh": "完全沒錯。你通常要先產生出幾個選項，才有可能認出哪一個真的有生命力。",
-            "vocab": [
-              {
-                "word": "generate options",
-                "def": "先產出多個可能方向"
-              }
-            ]
+            "zh": "完全沒錯。你通常要先產生出幾個選項，才有可能認出哪一個真的有生命力。"
           },
           {
             "speaker": "b",
@@ -847,13 +728,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. A first draft idea is allowed to be rough. Its job is to open the door, not to win the award.",
-            "zh": "本來就該是這樣。第一版點子本來就可以很粗糙，它的工作是把門打開，不是直接得獎。",
-            "vocab": [
-              {
-                "word": "first draft idea",
-                "def": "還很粗糙的第一版想法"
-              }
-            ]
+            "zh": "本來就該是這樣。第一版點子本來就可以很粗糙，它的工作是把門打開，不是直接得獎。"
           },
           {
             "speaker": "b",
@@ -882,13 +757,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because a good constraint can actually create a spark. It gives the mind something to push against.",
-            "zh": "那是因為好的限制其實會製造火花。它會讓腦有一個可以頂住、反作用的面。",
-            "vocab": [
-              {
-                "word": "constraint",
-                "def": "有邊界的限制條件"
-              }
-            ]
+            "zh": "那是因為好的限制其實會製造火花。它會讓腦有一個可以頂住、反作用的面。"
           },
           {
             "speaker": "b",
@@ -900,13 +769,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That kind of question forces the room to reframe the question in a more useful way.",
-            "zh": "完全沒錯。那種問法會逼整個房間重新換一個更有用的問題框架。",
-            "vocab": [
-              {
-                "word": "reframe the question",
-                "def": "換一個更有用的方式重新提問"
-              }
-            ]
+            "zh": "完全沒錯。那種問法會逼整個房間重新換一個更有用的問題框架。"
           },
           {
             "speaker": "b",
@@ -947,13 +810,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often from an unlikely connection. Something from a different project suddenly fits the shape of this one.",
-            "zh": "很多時候是來自一個意外的連結。另一個完全不同專案裡的做法，突然剛好符合這一題的形狀。",
-            "vocab": [
-              {
-                "word": "unlikely connection",
-                "def": "原本看起來不相關，卻突然連上的關聯"
-              }
-            ]
+            "zh": "很多時候是來自一個意外的連結。另一個完全不同專案裡的做法，突然剛好符合這一題的形狀。"
           },
           {
             "speaker": "b",
@@ -965,13 +822,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The brain likes side doors. A walk, a different conversation, or a half-related example can create a spark.",
-            "zh": "完全沒錯。大腦很喜歡側門。一場散步、一段不同的對話，或一個半相關的例子，都可能點出火花。",
-            "vocab": [
-              {
-                "word": "spark",
-                "def": "突然點亮想法的火花"
-              }
-            ]
+            "zh": "完全沒錯。大腦很喜歡側門。一場散步、一段不同的對話，或一個半相關的例子，都可能點出火花。"
           },
           {
             "speaker": "b",
@@ -1117,13 +968,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a strong sign that there is a hidden issue underneath the complaint.",
-            "zh": "這其實就是很強的訊號，表示抱怨底下還藏著另一個問題。",
-            "vocab": [
-              {
-                "word": "hidden issue",
-                "def": "藏在表面抱怨底下的真正問題"
-              }
-            ]
+            "zh": "這其實就是很強的訊號，表示抱怨底下還藏著另一個問題。"
           },
           {
             "speaker": "b",
@@ -1135,13 +980,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "So the meeting was just the symptom. The real problem was decision drift.",
-            "zh": "所以會議只是症狀，真正的問題其實是決策一直漂走。",
-            "vocab": [
-              {
-                "word": "symptom",
-                "def": "表面看到的不適或現象"
-              }
-            ]
+            "zh": "所以會議只是症狀，真正的問題其實是決策一直漂走。"
           },
           {
             "speaker": "b",
@@ -1182,13 +1021,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I look for a pattern underneath. If the same frustration keeps changing costumes, I know the root is probably still alive.",
-            "zh": "我會看底下是不是有固定模式。如果同一種挫折一直換不同戲服出現，我就知道根還在。",
-            "vocab": [
-              {
-                "word": "pattern underneath",
-                "def": "反覆藏在底下的固定模式"
-              }
-            ]
+            "zh": "我會看底下是不是有固定模式。如果同一種挫折一直換不同戲服出現，我就知道根還在。"
           },
           {
             "speaker": "b",
@@ -1200,13 +1033,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And often that pattern points to a bottleneck nobody wants to name directly.",
-            "zh": "完全沒錯。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。",
-            "vocab": [
-              {
-                "word": "bottleneck",
-                "def": "卡住整體流動的關鍵瓶頸"
-              }
-            ]
+            "zh": "完全沒錯。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。"
           },
           {
             "speaker": "b",
@@ -1246,8 +1073,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I think this may be a symptom, not the whole problem.'",
-            "zh": "你可以說：「I think this may be a symptom, not the whole problem.」"
+            "en": "One natural option is, 'I think this may be a symptom, not the whole problem.'",
+            "zh": "這裡很自然的說法是：「I think this may be a symptom, not the whole problem.」"
           },
           {
             "speaker": "b",
@@ -1259,13 +1086,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'Can we dig beneath the surface for a minute before we change the format again?'",
-            "zh": "另一句也很好：「Can we dig beneath the surface for a minute before we change the format again?」",
-            "vocab": [
-              {
-                "word": "dig beneath the surface",
-                "def": "往表面底下再挖一層"
-              }
-            ]
+            "zh": "另一句也很好：「Can we dig beneath the surface for a minute before we change the format again?」"
           },
           {
             "speaker": "b",
@@ -1277,13 +1098,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to be even more specific, say, 'We keep seeing the same recurring problem in different places.'",
-            "zh": "如果你想更具體，也可以說：「We keep seeing the same recurring problem in different places.」",
-            "vocab": [
-              {
-                "word": "recurring problem",
-                "def": "反覆一再出現的問題"
-              }
-            ]
+            "zh": "如果你想更具體，也可以說：「We keep seeing the same recurring problem in different places.」"
           },
           {
             "speaker": "b",
@@ -1312,13 +1127,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes the room feels better for a week, but the same signal comes back wearing a different outfit.",
-            "zh": "有時候房間會舒服一個星期，但同樣的訊號很快就會穿不同衣服再回來。",
-            "vocab": [
-              {
-                "word": "signal",
-                "def": "暗示底下有更大問題的訊號"
-              }
-            ]
+            "zh": "有時候房間會舒服一個星期，但同樣的訊號很快就會穿不同衣服再回來。"
           },
           {
             "speaker": "b",
@@ -1330,13 +1139,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A misleading fix gives relief without resolution.",
-            "zh": "完全沒錯。誤導性的修法，會給你舒緩感，但不會給你真正解決。",
-            "vocab": [
-              {
-                "word": "misleading fix",
-                "def": "看似有用，實際上帶偏的修法"
-              }
-            ]
+            "zh": "完全沒錯。誤導性的修法，會給你舒緩感，但不會給你真正解決。"
           },
           {
             "speaker": "b",
@@ -1482,31 +1285,19 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is when decision-making under incomplete information becomes a real skill instead of an abstract idea.",
-            "zh": "知道，而且那就是在資訊不完整下做決定這件事，從抽象概念變成真本事的時候。",
-            "vocab": [
-              {
-                "word": "incomplete information",
-                "def": "資訊還不完整的狀態"
-              }
-            ]
+            "zh": "知道，而且那就是在資訊不完整下做決定這件事，從抽象概念變成真本事的時候。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I always wish there were one more week, one more data point, or one more sign that it is safe.",
-            "zh": "我每次都會很希望，再多一週、再多一個數據、再多一個證明安全的訊號就好了。"
+            "zh": "我每次都會很希望，再多一週、再多一筆資料、再多一個證明安全的訊號就好了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is human. But waiting does not always reduce risk. Sometimes it only delays the moment you have to make the call.",
-            "zh": "那很人性。但等待不一定會降低風險，有時候它只是把你終究要下判斷的時刻往後拖。",
-            "vocab": [
-              {
-                "word": "make the call",
-                "def": "在不完全確定時仍做出判斷"
-              }
-            ]
+            "zh": "那很人性。但等待不一定會降低風險，有時候它只是把你終究要下判斷的時刻往後拖。"
           },
           {
             "speaker": "b",
@@ -1547,13 +1338,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First I ask whether this is a reversible decision or not. That question changes the pressure immediately.",
-            "zh": "我第一個會問，這是不是一個可逆決定。這個問題會立刻改變整個壓力感。",
-            "vocab": [
-              {
-                "word": "reversible decision",
-                "def": "做了之後還有機會調整回來的決定"
-              }
-            ]
+            "zh": "我第一個會問，這是不是一個可逆決定。這個問題會立刻改變整個壓力感。"
           },
           {
             "speaker": "b",
@@ -1565,13 +1350,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Then I ask about confidence level. Are we at sixty percent, or are we at twenty percent and pretending?",
-            "zh": "完全沒錯。接著我會問，我們的把握程度到底是多少？是六成，還是其實只有兩成卻在假裝？",
-            "vocab": [
-              {
-                "word": "confidence level",
-                "def": "對判斷有多大把握的程度"
-              }
-            ]
+            "zh": "完全沒錯。接著我會問，我們的把握程度到底是多少？是六成，還是其實只有兩成卻在假裝？"
           },
           {
             "speaker": "b",
@@ -1612,13 +1391,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, 'Based on what we know now, this is my best guess.'",
-            "zh": "你可以說：「Based on what we know now, this is my best guess.」",
-            "vocab": [
-              {
-                "word": "best guess",
-                "def": "根據目前資訊做出的最好判斷"
-              }
-            ]
+            "zh": "你可以說：「Based on what we know now, this is my best guess.」"
           },
           {
             "speaker": "b",
@@ -1630,13 +1403,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'I see the downside, but I still think this is the right move.'",
-            "zh": "另一句也很好：「I see the downside, but I still think this is the right move.」",
-            "vocab": [
-              {
-                "word": "downside",
-                "def": "這個選擇可能帶來的不利面"
-              }
-            ]
+            "zh": "另一句也很好：「I see the downside, but I still think this is the right move.」"
           },
           {
             "speaker": "b",
@@ -1648,13 +1415,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to protect against being wrong, another option is, 'Let's hedge by testing this with a smaller group first.'",
-            "zh": "如果你想替可能判錯留餘地，也可以說：「Let's hedge by testing this with a smaller group first.」",
-            "vocab": [
-              {
-                "word": "hedge",
-                "def": "先做保護性安排，避免一次押太大"
-              }
-            ]
+            "zh": "如果你想替可能判錯留餘地，也可以說：「Let's hedge by testing this with a smaller group first.」"
           },
           {
             "speaker": "b",
@@ -1683,13 +1444,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "How quickly you learn. A decent decision with fast learning often beats a perfect decision that came too late.",
-            "zh": "你之後學得有多快。普通但學得快的決定，常常會贏過太晚才來的完美決定。",
-            "vocab": [
-              {
-                "word": "fast learning",
-                "def": "做決定後快速看懂結果並調整"
-              }
-            ]
+            "zh": "你之後學得有多快。普通但學得快的決定，常常會贏過太晚才來的完美決定。"
           },
           {
             "speaker": "b",
@@ -1847,13 +1602,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is usually a sign the team never aligned on the goal before they started producing answers.",
-            "zh": "有，而且那通常表示團隊在開始丟答案前，根本沒有先對齊目標。",
-            "vocab": [
-              {
-                "word": "team never aligned",
-                "def": "先把大家要解的目標對齊"
-              }
-            ]
+            "zh": "有，而且那通常表示團隊在開始丟答案前，根本沒有先對齊目標。"
           },
           {
             "speaker": "b",
@@ -1906,13 +1655,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Range. Different people notice different things, so the room can compare notes and see a wider picture.",
-            "zh": "範圍。不同的人會注意到不同東西，所以整個房間可以互相比對筆記，看見更大的圖。",
-            "vocab": [
-              {
-                "word": "compare notes",
-                "def": "彼此交換觀察與資訊"
-              }
-            ]
+            "zh": "範圍。不同的人會注意到不同東西，所以整個房間可以互相比對筆記，看見更大的圖。"
           },
           {
             "speaker": "b",
@@ -1924,13 +1667,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good teams help each other see blind spots without turning that into humiliation.",
-            "zh": "完全沒錯。好的團隊，會幫彼此看見盲點，但不會把那件事做成羞辱。",
-            "vocab": [
-              {
-                "word": "blind spot",
-                "def": "自己沒看到、但別人可能看得到的盲區"
-              }
-            ]
+            "zh": "完全沒錯。好的團隊，會幫彼此看見盲點，但不會把那件事做成羞辱。"
           },
           {
             "speaker": "b",
@@ -1971,13 +1708,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, 'Before we choose a direction, can we bring in the people closest to the issue?'",
-            "zh": "你可以說：「Before we choose a direction, can we bring in the people closest to the issue?」",
-            "vocab": [
-              {
-                "word": "bring in",
-                "def": "把相關的人拉進來一起看"
-              }
-            ]
+            "zh": "你可以說：「Before we choose a direction, can we bring in the people closest to the issue?」"
           },
           {
             "speaker": "b",
@@ -1989,13 +1720,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'I want to challenge one assumption before we lock this in.'",
-            "zh": "另一句也很好：「I want to challenge one assumption before we lock this in.」",
-            "vocab": [
-              {
-                "word": "challenge one assumption",
-                "def": "對既有假設提出檢查與質疑"
-              }
-            ]
+            "zh": "另一句也很好：「I want to challenge one assumption before we lock this in.」"
           },
           {
             "speaker": "b",
@@ -2007,13 +1732,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if the room is drifting, say, 'I think we need shared context before we can make a strong decision here.'",
-            "zh": "如果房間開始飄掉，也可以說：「I think we need shared context before we can make a strong decision here.」",
-            "vocab": [
-              {
-                "word": "shared context",
-                "def": "大家都站在相同背景資訊上"
-              }
-            ]
+            "zh": "如果房間開始飄掉，也可以說：「I think we need shared context before we can make a strong decision here.」"
           },
           {
             "speaker": "b",
@@ -2042,13 +1761,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By making one person the decision owner even while everybody contributes to the thinking.",
-            "zh": "做法就是，雖然大家都可以參與思考，但還是要有一個人是最後的 decision owner。",
-            "vocab": [
-              {
-                "word": "decision owner",
-                "def": "最後負責拍板與承接結果的人"
-              }
-            ]
+            "zh": "做法就是，雖然大家都可以參與思考，但還是要有一個人是最後的 decision owner。"
           },
           {
             "speaker": "b",
@@ -2072,13 +1785,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good teams end with a visible next action, not a shared cloud of good intentions.",
-            "zh": "完全沒錯。好的團隊會議，最後留下的是看得見的下一步，不是一團共同的好意。",
-            "vocab": [
-              {
-                "word": "next action",
-                "def": "會後清楚要執行的下一步"
-              }
-            ]
+            "zh": "完全沒錯。好的團隊會議，最後留下的是看得見的下一步，不是一團共同的好意。"
           },
           {
             "speaker": "b",
@@ -2212,13 +1919,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually not raw intelligence. What changes first is that they stay curious longer after the first confusion hits.",
-            "zh": "通常不是智力本身。最先改變的，往往是他們在第一波混亂出現後，還能把好奇心留得更久。",
-            "vocab": [
-              {
-                "word": "stay curious",
-                "def": "在混亂裡仍保留好奇心"
-              }
-            ]
+            "zh": "通常不是智力本身。最先改變的，往往是他們在第一波混亂出現後，還能把好奇心留得更久。"
           },
           {
             "speaker": "b",
@@ -2230,13 +1931,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. They tolerate frustration without assuming frustration means failure.",
-            "zh": "完全沒錯。他們比較能承受挫折感，而不會立刻把挫折感當成失敗。",
-            "vocab": [
-              {
-                "word": "tolerate frustration",
-                "def": "能承受卡住與不順的感覺"
-              }
-            ]
+            "zh": "完全沒錯。他們比較能承受挫折感，而不會立刻把挫折感當成失敗。"
           },
           {
             "speaker": "b",
@@ -2277,13 +1972,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because calm under uncertainty lets you keep seeing. Panic narrows the picture too fast.",
-            "zh": "因為在不確定裡保持冷靜，會讓你還看得見。恐慌會太快把畫面縮窄。",
-            "vocab": [
-              {
-                "word": "calm under uncertainty",
-                "def": "在不確定時仍保持冷靜清楚"
-              }
-            ]
+            "zh": "因為在不確定裡保持冷靜，會讓你還看得見。恐慌會太快把畫面縮窄。"
           },
           {
             "speaker": "b",
@@ -2336,13 +2025,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also go with 'This is still an iterative process, so I am looking for the next stronger version.'",
-            "zh": "你可以說：「This is still an iterative process, so I am looking for the next stronger version.」",
-            "vocab": [
-              {
-                "word": "iterative process",
-                "def": "一版一版修正前進的過程"
-              }
-            ]
+            "zh": "你可以說：「This is still an iterative process, so I am looking for the next stronger version.」"
           },
           {
             "speaker": "b",
@@ -2354,13 +2037,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'We do not need the perfect answer yet. We need the next clearer path.'",
-            "zh": "另一句也很好用：「We do not need the perfect answer yet. We need the next clearer path.」",
-            "vocab": [
-              {
-                "word": "clearer path",
-                "def": "比現在更清楚的下一條路"
-              }
-            ]
+            "zh": "另一句也很好用：「We do not need the perfect answer yet. We need the next clearer path.」"
           },
           {
             "speaker": "b",
@@ -2389,7 +2066,7 @@ export const WEEK_22: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Small Wins Are Not Small",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -2401,13 +2078,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is common, but a small win matters because it changes what you can see next.",
-            "zh": "這很常見，但小小的進展很重要，因為它會改變你下一步看得見什麼。",
-            "vocab": [
-              {
-                "word": "small win",
-                "def": "雖小但真的有推進的進展"
-              }
-            ]
+            "zh": "這很常見，但小小的進展很重要，因為它會改變你下一步看得見什麼。"
           },
           {
             "speaker": "b",
@@ -2444,12 +2115,7 @@ export const WEEK_22: Episode[] = [
             "speakerName": "Mira",
             "en": "Good. Mystery is overrated when what you need is traction.",
             "zh": "很好。你需要的是抓地力時，神祕感其實沒那麼重要。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Mindset You Carry Into the Next Problem",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2460,13 +2126,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It feels like less drama, more signal. Less proving, more learning from it.",
-            "zh": "它比較像少一點戲劇，多一點訊號。少一點證明自己，多一點從裡面學東西。",
-            "vocab": [
-              {
-                "word": "signal",
-                "def": "暗示底下有更大問題的訊號"
-              }
-            ]
+            "zh": "它比較像少一點戲劇，多一點訊號。少一點證明自己，多一點從裡面學東西。"
           },
           {
             "speaker": "b",
@@ -2502,13 +2162,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. The best confidence is not 'I always know.' It is 'I can work with what shows up.'",
-            "zh": "很好。最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」",
-            "vocab": [
-              {
-                "word": "work with what shows up",
-                "def": "不管出現什麼都能先接住並處理"
-              }
-            ]
+            "zh": "很好。最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」"
           }
         ]
       }

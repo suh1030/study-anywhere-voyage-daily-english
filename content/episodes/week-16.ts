@@ -22,13 +22,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe. Or maybe his communication style is just very compressed. Some people sound sharp when they are only trying to be efficient.",
-            "zh": "也許吧。也可能只是他的表達方式本來就很精簡。有些人明明只是想有效率，聽起來卻會比較銳利。",
-            "vocab": [
-              {
-                "word": "communication style",
-                "def": "一個人習慣表達與回應的方式"
-              }
-            ]
+            "zh": "也許吧。也可能只是他的表達方式本來就很精簡。有些人明明只是想有效率，聽起來卻會比較銳利。"
           },
           {
             "speaker": "b",
@@ -52,13 +46,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is another style. You are trying to soften the message so nobody feels cornered.",
-            "zh": "那也是另一種風格。你是在試著 soften the message，讓別人不要覺得被逼到角落。",
-            "vocab": [
-              {
-                "word": "soften the message",
-                "def": "把話說得比較柔和，降低衝擊感"
-              }
-            ]
+            "zh": "那也是另一種風格。你是在試著 soften the message，讓別人不要覺得被逼到角落。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because one person gets straight to the point while the other needs a little runway before saying the real thing.",
-            "zh": "因為有的人習慣 get straight to the point，有的人則需要一點鋪陳，才會把真正的話說出來。",
-            "vocab": [
-              {
-                "word": "runway",
-                "def": "把真正的話說出來"
-              }
-            ]
+            "zh": "因為有的人習慣 get straight to the point，有的人則需要一點鋪陳，才會把真正的話說出來。"
           },
           {
             "speaker": "b",
@@ -129,13 +111,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and also learning to read the room before deciding how direct or layered to be.",
-            "zh": "對，而且也要學會先 read the room，再決定自己要講得多直接或多有層次。",
-            "vocab": [
-              {
-                "word": "read the room",
-                "def": "看現場氣氛；判斷當下氛圍"
-              }
-            ]
+            "zh": "對，而且也要學會先 read the room，再決定自己要講得多直接或多有層次。"
           }
         ]
       },
@@ -152,17 +128,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clean way to say it is, \"He tends to hold back at first,\" or \"She likes to talk things through before deciding.\"",
-            "zh": "你可以說：「他一開始通常會先 hold back，」或者「她喜歡先 talk things through 再做決定。」",
-            "vocab": [
-              {
-                "word": "hold back",
-                "def": "先保留、不立刻把話說滿"
-              },
-              {
-                "word": "talk things through",
-                "def": "把想法與問題完整聊清楚"
-              }
-            ]
+            "zh": "你可以說：「他一開始通常會先 hold back，」或者「她喜歡先 talk things through 再做決定。」"
           },
           {
             "speaker": "b",
@@ -174,13 +140,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much better. You can also say, \"I think I came across more harshly than I meant to.\"",
-            "zh": "好多了。你也可以說：「我想我剛剛 come across 得比我本來想的更硬了一點。」",
-            "vocab": [
-              {
-                "word": "came across",
-                "def": "給人某種印象；聽起來像是..."
-              }
-            ]
+            "zh": "好多了。你也可以說：「我想我剛剛 come across 得比我本來想的更硬了一點。」"
           },
           {
             "speaker": "b",
@@ -209,7 +169,7 @@ export const WEEK_16: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Small Shift That Changes a Lot",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -233,13 +193,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is obvious inside your head. Outside, people are reacting to fragments, and that is how mixed signals happen.",
-            "zh": "在你腦裡當然很明顯。但在外面，別人只聽見片段，mixed signals 就是這樣來的。",
-            "vocab": [
-              {
-                "word": "mixed signals",
-                "def": "讓人搞不清楚真正意思的矛盾訊號"
-              }
-            ]
+            "zh": "在你腦裡當然很明顯。但在外面，別人只聽見片段，mixed signals 就是這樣來的。"
           },
           {
             "speaker": "b",
@@ -264,12 +218,7 @@ export const WEEK_16: Episode[] = [
             "speakerName": "Mira",
             "en": "Good communication technique usually is courtesy with a little more awareness.",
             "zh": "好的溝通技巧，很多時候就是多了一點自覺的禮貌。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Strong Communicators Really Do",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -385,13 +334,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a classic indirect way to buy time and avoid disappointing someone in the moment.",
-            "zh": "這就是很典型的 indirect way，用來爭取時間，也避免當下讓人失望。",
-            "vocab": [
-              {
-                "word": "indirect way",
-                "def": "用較含蓄、不正面撞上的方式表達"
-              }
-            ]
+            "zh": "這就是很典型的 indirect way，用來爭取時間，也避免當下讓人失望。"
           },
           {
             "speaker": "b",
@@ -444,13 +387,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often they learned that a direct answer is respectful because it saves time and confusion.",
-            "zh": "很多時候是因為他們學到：給一個 direct answer 才是尊重，因為它省時間，也少誤會。",
-            "vocab": [
-              {
-                "word": "direct answer",
-                "def": "直接、不繞彎的回答"
-              }
-            ]
+            "zh": "很多時候是因為他們學到：給一個 direct answer 才是尊重，因為它省時間，也少誤會。"
           },
           {
             "speaker": "b",
@@ -462,13 +399,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And honestly, there is something kind about that. She is being upfront instead of making you guess for three days.",
-            "zh": "老實說，那其實有一種善意。她是在 be upfront，而不是讓你猜三天。",
-            "vocab": [
-              {
-                "word": "upfront instead",
-                "def": "坦白講清楚，不讓人猜"
-              }
-            ]
+            "zh": "老實說，那其實有一種善意。她是在 be upfront，而不是讓你猜三天。"
           },
           {
             "speaker": "b",
@@ -480,13 +411,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then add warmth, not fog. You can be clear and still sound human.",
-            "zh": "那你就加溫度，不要加模糊。你可以很清楚，但還是很像人。",
-            "vocab": [
-              {
-                "word": "sound human",
-                "def": "聽起來太直接、太硬"
-              }
-            ]
+            "zh": "那你就加溫度，不要加模糊。你可以很清楚，但還是很像人。"
           },
           {
             "speaker": "b",
@@ -539,13 +464,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Language gets messy when it leaves room that you never meant to leave.",
-            "zh": "沒錯。語言會變亂，常常是因為它 leave room 給了你本來根本沒想留下的可能性。",
-            "vocab": [
-              {
-                "word": "leaves room",
-                "def": "留下模糊空間或可能性"
-              }
-            ]
+            "zh": "沒錯。語言會變亂，常常是因為它 leave room 給了你本來根本沒想留下的可能性。"
           },
           {
             "speaker": "b",
@@ -586,13 +505,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Less risky than pretending you understood. People say you should take the hint, but hints are not always readable.",
-            "zh": "總比假裝自己懂了要安全。大家都會說『你應該要 take the hint』，但暗示本來就不一定好讀。",
-            "vocab": [
-              {
-                "word": "take the hint",
-                "def": "看懂對方沒有明說的暗示"
-              }
-            ]
+            "zh": "總比假裝自己懂了要安全。大家都會說『你應該要 take the hint』，但暗示本來就不一定好讀。"
           },
           {
             "speaker": "b",
@@ -604,13 +517,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why it helps to spell it out when the stakes matter.",
-            "zh": "所以事情重要的時候，最好還是 spell it out。",
-            "vocab": [
-              {
-                "word": "spell it out",
-                "def": "把意思明白講清楚"
-              }
-            ]
+            "zh": "所以事情重要的時候，最好還是 spell it out。"
           },
           {
             "speaker": "b",
@@ -663,13 +570,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. A polite refusal can be more generous than a hopeful maybe.",
-            "zh": "對。很多時候，一個 polite refusal 反而比一個讓人抱希望的 maybe 更厚道。",
-            "vocab": [
-              {
-                "word": "polite refusal",
-                "def": "有禮貌但清楚的拒絕"
-              }
-            ]
+            "zh": "對。很多時候，一個 polite refusal 反而比一個讓人抱希望的 maybe 更厚道。"
           },
           {
             "speaker": "b",
@@ -750,13 +651,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where active listening starts, even in text. You notice the words, but you also notice the temperature behind them.",
-            "zh": "這就是 active listening 開始的地方，就算是在文字裡也是。你不只在看字面，也在感覺背後的溫度。",
-            "vocab": [
-              {
-                "word": "active listening",
-                "def": "主動地去聽話外之意，而不只聽表面"
-              }
-            ]
+            "zh": "這就是 active listening 開始的地方，就算是在文字裡也是。你不只在看字面，也在感覺背後的溫度。"
           },
           {
             "speaker": "b",
@@ -768,13 +663,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. A lot of modern listening is about picking up on what is being withheld.",
-            "zh": "完全不是。現在很多時候，真正的 listening 是在 picking up on 那些沒有被直接說出口的東西。",
-            "vocab": [
-              {
-                "word": "picking up",
-                "def": "注意到某種細微訊號或暗示"
-              }
-            ]
+            "zh": "完全不是。現在很多時候，真正的 listening 是在 picking up on 那些沒有被直接說出口的東西。"
           },
           {
             "speaker": "b",
@@ -833,13 +722,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is exactly when I start filling the silence because I get nervous.",
-            "zh": "而這也正是我會開始 fill the silence 的時候，因為我會緊張。",
-            "vocab": [
-              {
-                "word": "filling the silence",
-                "def": "緊張"
-              }
-            ]
+            "zh": "而這也正是我會開始 fill the silence 的時候，因為我會緊張。"
           },
           {
             "speaker": "a",
@@ -857,13 +740,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does for a lot of people. But a useful pause is sometimes more respectful than a fast reply.",
-            "zh": "很多人都會這樣覺得。但一個 useful pause，有時候比一個很快的回應更尊重人。",
-            "vocab": [
-              {
-                "word": "useful pause",
-                "def": "有作用、能讓真實反應出現的停頓"
-              }
-            ]
+            "zh": "很多人都會這樣覺得。但一個 useful pause，有時候比一個很快的回應更尊重人。"
           }
         ]
       },
@@ -892,13 +769,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much better. You can also reflect the underlying feeling instead of arguing with the surface words.",
-            "zh": "好多了。你也可以去回應 underlying feeling，而不是跟表面的字面吵架。",
-            "vocab": [
-              {
-                "word": "underlying feeling",
-                "def": "話語底下真正的感受"
-              }
-            ]
+            "zh": "好多了。你也可以去回應 underlying feeling，而不是跟表面的字面吵架。"
           },
           {
             "speaker": "b",
@@ -939,13 +810,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pause before replying. Not forever, just long enough to let the other person's sentence land in you.",
-            "zh": "Pause before replying。不是要停超久，而是停到對方那句話真的落進你裡面為止。",
-            "vocab": [
-              {
-                "word": "pause before replying",
-                "def": "回話前先停一下，讓對方的話真正落地"
-              }
-            ]
+            "zh": "Pause before replying。不是要停超久，而是停到對方那句話真的落進你裡面為止。"
           },
           {
             "speaker": "b",
@@ -981,13 +846,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is both. Good listening changes your breathing, your pace, and your willingness to stay curious.",
-            "zh": "兩者都有。好的傾聽會改變你的呼吸、你的節奏，還有你願不願意 stay curious。",
-            "vocab": [
-              {
-                "word": "stay curious",
-                "def": "先保持好奇，不急著下結論"
-              }
-            ]
+            "zh": "兩者都有。好的傾聽會改變你的呼吸、你的節奏，還有你願不願意 stay curious。"
           }
         ]
       },
@@ -1039,14 +898,8 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then remember this: most feelings live in the subtext, not the summary.",
-            "zh": "那你就記住這句話：大多數感受住在 subtext 裡，不住在摘要裡。",
-            "vocab": [
-              {
-                "word": "subtext",
-                "def": "沒有明說，但實際存在的深層意思"
-              }
-            ]
+            "en": "Remember this: most feelings live in the subtext, not the summary.",
+            "zh": "那你就記住這句話：大多數感受住在 subtext 裡，不住在摘要裡。"
           }
         ]
       }
@@ -1127,25 +980,13 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why disagree respectfully is a real skill, not just a nice personality trait.",
-            "zh": "這也就是為什麼 disagree respectfully 是一種真正的能力，不只是個性好不好而已。",
-            "vocab": [
-              {
-                "word": "disagree respectfully",
-                "def": "有禮貌但誠實地表達不同意"
-              }
-            ]
+            "zh": "這也就是為什麼 disagree respectfully 是一種真正的能力，不只是個性好不好而已。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to push back without turning every meeting into a tiny war.",
-            "zh": "我想要 push back，但又不想把每場會議都弄成一場小型戰爭。",
-            "vocab": [
-              {
-                "word": "push back",
-                "def": "提出不同意見、反駁或阻擋某件事"
-              }
-            ]
+            "zh": "我想要 push back，但又不想把每場會議都弄成一場小型戰爭。"
           },
           {
             "speaker": "a",
@@ -1204,13 +1045,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with common ground. Name the part you do share before you name the part that worries you.",
-            "zh": "先從 common ground 開始。先說你們共享的那一塊，再說你擔心的那一塊。",
-            "vocab": [
-              {
-                "word": "common ground",
-                "def": "彼此同意或共享的部分"
-              }
-            ]
+            "zh": "先從 common ground 開始。先說你們共享的那一塊，再說你擔心的那一塊。"
           },
           {
             "speaker": "b",
@@ -1239,13 +1074,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I see your point, but I am worried about the timeline,\" or, \"I think we may be solving the wrong problem.\"",
-            "zh": "你可以試試看：「I see your point, but I am worried about the timeline.」或者「我覺得我們可能在解錯問題。」",
-            "vocab": [
-              {
-                "word": "see your point",
-                "def": "我理解你的意思或立場"
-              }
-            ]
+            "zh": "你可以試試看：「I see your point, but I am worried about the timeline.」或者「我覺得我們可能在解錯問題。」"
           },
           {
             "speaker": "b",
@@ -1257,13 +1086,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They also help you challenge the idea instead of humiliating the person.",
-            "zh": "而且這種說法是在 challenge the idea，不是在羞辱那個人。",
-            "vocab": [
-              {
-                "word": "challenge the idea",
-                "def": "質疑想法本身，而不是攻擊人"
-              }
-            ]
+            "zh": "而且這種說法是在 challenge the idea，不是在羞辱那個人。"
           },
           {
             "speaker": "b",
@@ -1286,13 +1109,13 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good disagreement should feel like joint problem-solving, not public theater.",
-            "zh": "好的不同意，感覺應該像一起解問題，不像公開表演。"
+            "en": "Good disagreement should feel like solving something together, not trying to win in front of other people.",
+            "zh": "好的不同意，感覺應該像一起把問題講清楚，不像在別人面前搶著贏。"
           }
         ]
       },
       {
-        "title": "Part 4 — The Practical Habit That Keeps Things Civil",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -1304,13 +1127,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Phrase your strongest point in one calm sentence, then stop. Do not bury it inside a speech.",
-            "zh": "把你最重要的點濃縮成一句平靜的話，然後停住。不要把它埋在一整段演講裡。",
-            "vocab": [
-              {
-                "word": "Phrase",
-                "def": "把意思用更精準、更穩的方式說出來"
-              }
-            ]
+            "zh": "把你最重要的點濃縮成一句平靜的話，然後停住。不要把它埋在一整段演講裡。"
           },
           {
             "speaker": "b",
@@ -1322,13 +1139,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that often makes you sound more defensive, not clearer.",
-            "zh": "而那通常只會讓你聽起來更 defensive，不會更清楚。",
-            "vocab": [
-              {
-                "word": "defensive",
-                "def": "帶著防衛感的"
-              }
-            ]
+            "zh": "而那通常只會讓你聽起來更 defensive，不會更清楚。"
           },
           {
             "speaker": "b",
@@ -1352,19 +1163,8 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Curiosity keeps disagreement from turning into a shut down.",
-            "zh": "沒錯。好奇心能避免不同意直接變成 shut down。",
-            "vocab": [
-              {
-                "word": "shut down",
-                "def": "整段互動直接關閉、無法再談"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Respect Actually Looks Like",
-        "lines": [
+            "zh": "沒錯。好奇心能避免不同意直接變成 shut down。"
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1492,13 +1292,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Text removes timing, facial expression, and half the tone. That is why a dry text can feel colder than it was meant to.",
-            "zh": "沒錯。文字把時間感、表情，還有一大半的語氣都拿掉了。所以 dry text 很容易比原本想表達的還要冷。",
-            "vocab": [
-              {
-                "word": "dry text",
-                "def": "看起來簡短、生硬、缺少溫度的文字訊息"
-              }
-            ]
+            "zh": "沒錯。文字把時間感、表情，還有一大半的語氣都拿掉了。所以 dry text 很容易比原本想表達的還要冷。"
           },
           {
             "speaker": "b",
@@ -1510,13 +1304,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most brains do. Text invites projection because it is such low-bandwidth communication.",
-            "zh": "大部分人的腦都會。文字很容易讓人投射，因為它本來就是 low-bandwidth communication。",
-            "vocab": [
-              {
-                "word": "low-bandwidth communication",
-                "def": "資訊量低的溝通形式"
-              }
-            ]
+            "zh": "大部分人的腦都會。文字很容易讓人投射，因為它本來就是 low-bandwidth communication。"
           },
           {
             "speaker": "b",
@@ -1545,13 +1333,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When the situation needs warmth, nuance, or apology. A voice note can carry hesitation and sincerity in a way text often cannot.",
-            "zh": "當情境需要溫度、細微差別，或道歉的誠意時。voice note 能帶出那種文字常常帶不出的猶豫和真心。",
-            "vocab": [
-              {
-                "word": "voice note",
-                "def": "用錄音傳送的語音訊息"
-              }
-            ]
+            "zh": "當情境需要溫度、細微差別，或道歉的誠意時。voice note 能帶出那種文字常常帶不出的猶豫和真心。"
           },
           {
             "speaker": "b",
@@ -1604,13 +1386,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way to say it is, \"I may be reading too much into that text, but did you mean it the way it sounded?\"",
-            "zh": "你可以說：「我可能有點 reading too much into 那則訊息，但你是那個意思嗎？」",
-            "vocab": [
-              {
-                "word": "reading too much",
-                "def": "對一句話過度解讀"
-              }
-            ]
+            "zh": "你可以說：「我可能有點 reading too much into 那則訊息，但你是那個意思嗎？」"
           },
           {
             "speaker": "b",
@@ -1622,13 +1398,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or say, \"This feels easier to explain by voice. Can I call you later?\"",
-            "zh": "或者你可以說：「這件事用聲音講比較好理解，我晚點可以打給你嗎？」",
-            "vocab": [
-              {
-                "word": "explain by voice",
-                "def": "改用語音或電話講清楚"
-              }
-            ]
+            "zh": "或者你可以說：「這件事用聲音講比較好理解，我晚點可以打給你嗎？」"
           },
           {
             "speaker": "b",
@@ -1640,13 +1410,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Another useful line is, \"I think the tone got lost in text.\"",
-            "zh": "沒錯。另一句很好用的是：「我覺得語氣在文字裡跑掉了。」",
-            "vocab": [
-              {
-                "word": "tone got lost",
-                "def": "語氣在文字裡消失或被扭曲了"
-              }
-            ]
+            "zh": "沒錯。另一句很好用的是：「我覺得語氣在文字裡跑掉了。」"
           },
           {
             "speaker": "b",
@@ -1675,13 +1439,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Do a quick reread before sending anything emotionally loaded. If it sounds short and sharp, soften one corner.",
-            "zh": "在送出任何情緒比較重的訊息前，先快速重讀一次。如果它聽起來又短又硬，就幫它磨掉一個角。",
-            "vocab": [
-              {
-                "word": "reread before sending",
-                "def": "送出前快速重讀一次"
-              }
-            ]
+            "zh": "在送出任何情緒比較重的訊息前，先快速重讀一次。如果它聽起來又短又硬，就幫它磨掉一個角。"
           },
           {
             "speaker": "b",
@@ -1705,13 +1463,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Not fake sweetness, just enough context so the message does not come off cold.",
-            "zh": "對。不是假甜，而是給足夠的脈絡，讓訊息不要顯得太冷。",
-            "vocab": [
-              {
-                "word": "come off cold",
-                "def": "讓人感覺冷淡、生硬"
-              }
-            ]
+            "zh": "對。不是假甜，而是給足夠的脈絡，讓訊息不要顯得太冷。"
           },
           {
             "speaker": "b",
@@ -1752,13 +1504,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Better communication is partly about choosing the right channel.",
-            "zh": "沒錯。更好的溝通，有一部分其實只是選對 channel。",
-            "vocab": [
-              {
-                "word": "channel",
-                "def": "引導；轉化"
-              }
-            ]
+            "zh": "沒錯。更好的溝通，有一部分其實只是選對 channel。"
           },
           {
             "speaker": "b",
@@ -1875,13 +1621,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An open-ended question like, \"What has been draining you lately?\" invites a real answer.",
-            "zh": "沒錯。像「最近到底是什麼在消耗你？」這樣的 open-ended question，才比較容易請出真正的答案。",
-            "vocab": [
-              {
-                "word": "open-ended question",
-                "def": "開放式問題"
-              }
-            ]
+            "zh": "沒錯。像「最近到底是什麼在消耗你？」這樣的 open-ended question，才比較容易請出真正的答案。"
           },
           {
             "speaker": "b",
@@ -1910,13 +1650,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because advice makes the listener feel effective. Curiosity asks more patience and less control.",
-            "zh": "因為給建議會讓聽的人感覺自己很有效率。可好奇心需要更多耐心，也比較少控制感。",
-            "vocab": [
-              {
-                "word": "advice makes",
-                "def": "太快跳去給建議"
-              }
-            ]
+            "zh": "因為給建議會讓聽的人感覺自己很有效率。可好奇心需要更多耐心，也比較少控制感。"
           },
           {
             "speaker": "b",
@@ -1940,13 +1674,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, but good follow-up questions are not interrogation. They are signals that you are still with the person.",
-            "zh": "對，但好的 follow-up question 不是審問，而是在告訴對方：你還在這裡，還跟著他。",
-            "vocab": [
-              {
-                "word": "follow-up question",
-                "def": "根據前面回答再往下追的提問"
-              }
-            ]
+            "zh": "對，但好的 follow-up question 不是審問，而是在告訴對方：你還在這裡，還跟著他。"
           },
           {
             "speaker": "b",
@@ -1987,13 +1715,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A yes-or-no question is easy to dodge when the truth is complicated.",
-            "zh": "沒錯。當真相很複雜時，yes-or-no question 本來就很容易被閃掉。",
-            "vocab": [
-              {
-                "word": "yes-or-no question",
-                "def": "只能用是或不是回答的問題"
-              }
-            ]
+            "zh": "沒錯。當真相很複雜時，yes-or-no question 本來就很容易被閃掉。"
           },
           {
             "speaker": "b",
@@ -2005,17 +1727,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you want to help someone get specific, offer a few real directions instead of one narrow guess.",
-            "zh": "沒錯。如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。",
-            "vocab": [
-              {
-                "word": "get specific",
-                "def": "講得更具體"
-              },
-              {
-                "word": "get specific",
-                "def": "把內容說得更具體"
-              }
-            ]
+            "zh": "沒錯。如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。"
           },
           {
             "speaker": "b",
@@ -2044,13 +1756,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Make space after you ask. Do not stack three more questions on top of the first one.",
-            "zh": "問完之後 make space。不要在第一個問題上面再立刻疊三個問題。",
-            "vocab": [
-              {
-                "word": "make space",
-                "def": "留出空間讓對方想與說"
-              }
-            ]
+            "zh": "問完之後 make space。不要在第一個問題上面再立刻疊三個問題。"
           },
           {
             "speaker": "b",
@@ -2115,13 +1821,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People feel it immediately. Questions asked from curiosity open doors. Questions asked from anxiety often close them.",
-            "zh": "人會立刻感覺到。從 curiosity 出發的問題會打開門，從焦慮出發的問題常常會把門關起來。",
-            "vocab": [
-              {
-                "word": "asked from curiosity",
-                "def": "從真心想理解的狀態出發提問"
-              }
-            ]
+            "zh": "人會立刻感覺到。從 curiosity 出發的問題會打開門，從焦慮出發的問題常常會把門關起來。"
           },
           {
             "speaker": "b",
@@ -2144,7 +1844,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then remember this: the best question is often the one that gives the other person more room to be honest.",
+            "en": "Remember this: the best question is often the one that gives the other person more room to be honest.",
             "zh": "那你就記住這句話：最好的問題，常常是那個讓對方更有空間誠實的問題。"
           }
         ]
@@ -2226,13 +1926,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is when it helps to collect your thoughts before you collect your evidence.",
-            "zh": "所以這時候，你先 collect your thoughts，比先蒐集證據更重要。",
-            "vocab": [
-              {
-                "word": "collect your thoughts",
-                "def": "先把腦中的想法整理成可說出口的順序"
-              }
-            ]
+            "zh": "所以這時候，你先 collect your thoughts，比先蒐集證據更重要。"
           },
           {
             "speaker": "b",
@@ -2244,13 +1938,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Start with the key point. The details can follow once people understand the shape of the problem.",
-            "zh": "沒錯。先講 key point。等別人先看懂問題輪廓，細節再跟上就好。",
-            "vocab": [
-              {
-                "word": "key point",
-                "def": "最核心、最先該被理解的重點"
-              }
-            ]
+            "zh": "沒錯。先講 key point。等別人先看懂問題輪廓，細節再跟上就好。"
           },
           {
             "speaker": "b",
@@ -2279,13 +1967,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually in the middle. People start fine, then lose their train of thought the second they feel watched or interrupted.",
-            "zh": "通常是中間。很多人一開始還好，但一感覺自己被看著或被打斷，就會 lose their train of thought。",
-            "vocab": [
-              {
-                "word": "train of thought",
-                "def": "講到一半思路斷掉"
-              }
-            ]
+            "zh": "通常是中間。很多人一開始還好，但一感覺自己被看著或被打斷，就會 lose their train of thought。"
           },
           {
             "speaker": "b",
@@ -2338,17 +2020,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"Give me a second to put this clearly,\" or, \"Let me start with the short version.\"",
-            "zh": "你可以說：「給我一秒，我整理一下怎麼講清楚。」或者「讓我先講 short version。」",
-            "vocab": [
-              {
-                "word": "give me a second",
-                "def": "請給我一點點時間整理"
-              },
-              {
-                "word": "short version",
-                "def": "簡短版、先講結論的版本"
-              }
-            ]
+            "zh": "你可以說：「給我一秒，我整理一下怎麼講清楚。」或者「讓我先講 short version。」"
           },
           {
             "speaker": "b",
@@ -2372,13 +2044,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then reset. Say, \"Let me say that again more simply.\" That one sentence can rescue a whole conversation.",
-            "zh": "那就重來。直接說：「讓我用更簡單的方式再講一次。」這一句話就能救回一整段對話。",
-            "vocab": [
-              {
-                "word": "say that again more simply",
-                "def": "重新用更簡單的方式再說一次"
-              }
-            ]
+            "zh": "那就重來。直接說：「讓我用更簡單的方式再講一次。」這一句話就能救回一整段對話。"
           },
           {
             "speaker": "b",
@@ -2407,13 +2073,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Practice the one-sentence version before the stressful moment arrives.",
-            "zh": "先在壓力來之前，練一下 one-sentence version。",
-            "vocab": [
-              {
-                "word": "one-sentence version",
-                "def": "把重點濃縮成一句話的版本"
-              }
-            ]
+            "zh": "先在壓力來之前，練一下 one-sentence version。"
           },
           {
             "speaker": "b",
@@ -2425,13 +2085,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you know the spine of your message, you can still speak up even when your nerves show up first.",
-            "zh": "沒錯。如果你知道自己那段話的骨架在哪裡，你就算先感覺到緊張，也還是能 speak up。",
-            "vocab": [
-              {
-                "word": "speak up",
-                "def": "把該說的話說出來，不縮回去"
-              }
-            ]
+            "zh": "沒錯。如果你知道自己那段話的骨架在哪裡，你就算先感覺到緊張，也還是能 speak up。"
           },
           {
             "speaker": "b",
@@ -2484,13 +2138,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Keep it simple, keep it honest, and keep returning to the point.",
-            "zh": "沒錯。Keep it simple，保持誠實，然後一直回到那個點上。",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "先用最簡單直接的方式講"
-              }
-            ]
+            "zh": "沒錯。Keep it simple，保持誠實，然後一直回到那個點上。"
           },
           {
             "speaker": "b",

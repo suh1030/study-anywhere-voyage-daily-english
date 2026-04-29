@@ -1,0 +1,16 @@
+=== content/episodes/week-06.ts ===
+W06D1 | 8 | familiarity, decision fatigue, meal planning, picky eater, ambiance, taken care of, ingredients, entry point
+W06D2 | 8 | replicate, stagecraft, mandatory, local norms, networking, power move, feel awkward, spotlight effect
+W06D3 | 8 | stinky tofu, overhead, mastery, local knowledge, authenticity, commercialized, diluted, correlate
+W06D4 | 8 | intermittent fasting, individual variation, blood sugar spike, plant-based, sustainable, gut-brain connection, orthorexia, chronic stress
+W06D5 | 8 | Proust phenomenon, olfactory system, oral tradition, recreate, dialogue, dairy allergy, consciously, encoding
+W06D6 | 8 | migration history, fusion food, appropriation, exchange, notorious, preserve, universal language, gastrodiplomacy
+W06D7 | 8 | environmental footprint, yuck factor, food waste, culinary creativity, emissions, systemic change, advocacy, meal kits
+=== content/episodes/week-07.ts ===
+W07D1 | 8 | cold snap, filler, muggy, drizzle, gusty, melatonin, modelling, typhoon season
+W07D2 | 8 | plum rain season, dampness, windproof, hygge, concentration, ecosystem, rainfall patterns, geosmin
+W07D3 | 8 | reserved, cognitive performance, eaves, passive cooling, insulation, winter solstice, disconnection, layering
+W07D4 | 8 | projections, futility, doom-scrolling, highest-impact, climate policies, modeling, awareness, channel
+W07D5 | 8 | memory consolidator, powerlessness, warning level, debris, novelty, blizzard, vulnerable, meteorology
+W07D6 | 8 | misattributed, oxytocin, pathetic fallacy, captures, accidental, weather moments, metaphor, invitation
+W07D7 | 8 | foliage, timing, shoulder season, peak season, layover city, meteorological, sublime, vibe

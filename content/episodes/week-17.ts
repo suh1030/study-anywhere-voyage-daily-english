@@ -22,13 +22,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And someone jumped in before you even had time to ask, right?",
-            "zh": "然後還沒等你開口，就有人先跳進來幫你了，對吧？",
-            "vocab": [
-              {
-                "word": "someone jumped",
-                "def": "立刻加入幫忙；主動出手"
-              }
-            ]
+            "zh": "然後還沒等你開口，就有人先跳進來幫你了，對吧？"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what being caught off guard does. It makes even a small problem feel very personal for a second.",
-            "zh": "這就是措手不及的感覺。它會讓一個很小的問題，在那一秒鐘裡變得非常私人。",
-            "vocab": [
-              {
-                "word": "caught off guard",
-                "def": "措手不及；來不及準備"
-              }
-            ]
+            "zh": "這就是措手不及的感覺。它會讓一個很小的問題，在那一秒鐘裡變得非常私人。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they often arrive when you are trying to hold it together in public.",
-            "zh": "因為它們常常出現在你正努力在公開場合撐住自己的時候。",
-            "vocab": [
-              {
-                "word": "hold it together",
-                "def": "勉強撐住情緒或場面"
-              }
-            ]
+            "zh": "因為它們常常出現在你正努力在公開場合撐住自己的時候。"
           },
           {
             "speaker": "b",
@@ -117,13 +99,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She went out of her way to keep you company in a moment that felt long and scary.",
-            "zh": "她特地多做了一步，在那個又漫長又可怕的時刻陪著你。",
-            "vocab": [
-              {
-                "word": "went out",
-                "def": "特地多花力氣去幫忙"
-              }
-            ]
+            "zh": "她特地多做了一步，在那個又漫長又可怕的時刻陪著你。"
           },
           {
             "speaker": "b",
@@ -152,13 +128,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very natural one is 'Do you want a hand?' or 'Can I give you a hand?'. That is everyday English for offering to lend a hand.",
-            "zh": "很自然的一句是「Do you want a hand?」或「Can I give you a hand?」。這就是日常英文裡最常見的「伸出援手」說法。",
-            "vocab": [
-              {
-                "word": "lend a hand",
-                "def": "伸出援手；幫個忙"
-              }
-            ]
+            "zh": "很自然的一句是「Do you want a hand?」或「Can I give you a hand?」。這就是日常英文裡最常見的「伸出援手」說法。"
           },
           {
             "speaker": "b",
@@ -170,13 +140,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much warmer. And if someone looks overwhelmed, you can say, 'Let me take this off your plate for today.'",
-            "zh": "溫暖多了。如果對方看起來快被事情壓垮，你也可以說：「今天這部分我幫你扛下來。」",
-            "vocab": [
-              {
-                "word": "off your plate",
-                "def": "替某人分擔手上的事"
-              }
-            ]
+            "zh": "溫暖多了。如果對方看起來快被事情壓垮，你也可以說：「今天這部分我幫你扛下來。」"
           },
           {
             "speaker": "b",
@@ -241,13 +205,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you say you will check on someone, do it. Reliability is part of kindness.",
-            "zh": "沒錯。而且如果你說你會再關心某人一次，就真的去做。可靠本身就是善意的一部分。",
-            "vocab": [
-              {
-                "word": "check on someone",
-                "def": "關心某人的狀況；再去確認一次"
-              }
-            ]
+            "zh": "沒錯。而且如果你說你會再關心某人一次，就真的去做。可靠本身就是善意的一部分。"
           },
           {
             "speaker": "b",
@@ -276,13 +234,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not usually. They remember who showed up and what the room felt like afterward.",
-            "zh": "通常不會。他們記得的是誰有出現，還有那之後整個空氣的感覺。",
-            "vocab": [
-              {
-                "word": "showed up",
-                "def": "出現；在需要的時候到場"
-              }
-            ]
+            "zh": "通常不會。他們記得的是誰有出現，還有那之後整個空氣的感覺。"
           },
           {
             "speaker": "b",
@@ -387,13 +339,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That first person is the one who stepped in before their self-consciousness had time to catch up.",
-            "zh": "那第一個人，就是在自己的不好意思追上來之前，先踏進去幫忙的人。",
-            "vocab": [
-              {
-                "word": "one who stepped",
-                "def": "介入幫忙；立刻出手"
-              }
-            ]
+            "zh": "那第一個人，就是在自己的不好意思追上來之前，先踏進去幫忙的人。"
           },
           {
             "speaker": "b",
@@ -405,13 +351,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes nothing dramatic. They just do not look the other way fast enough.",
-            "zh": "有時候沒有什麼戲劇性的原因。他們只是沒有那麼快把眼神移開。",
-            "vocab": [
-              {
-                "word": "look the other way",
-                "def": "裝作沒看到；把目光移開"
-              }
-            ]
+            "zh": "有時候沒有什麼戲劇性的原因。他們只是沒有那麼快把眼神移開。"
           },
           {
             "speaker": "b",
@@ -452,13 +392,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often they feel for someone before they finish the thought in their head.",
-            "zh": "很多時候，是先對那個人有感覺，腦中的完整想法才慢慢跟上來。",
-            "vocab": [
-              {
-                "word": "feel for someone",
-                "def": "對某人的處境感同身受"
-              }
-            ]
+            "zh": "很多時候，是先對那個人有感覺，腦中的完整想法才慢慢跟上來。"
           },
           {
             "speaker": "b",
@@ -470,13 +404,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. But there is also a sense of responsibility some people carry more strongly than others.",
-            "zh": "沒錯。不過也有些人心裡本來就帶著比較強的責任感。",
-            "vocab": [
-              {
-                "word": "sense of responsibility",
-                "def": "責任感；覺得自己應該出手"
-              }
-            ]
+            "zh": "沒錯。不過也有些人心裡本來就帶著比較強的責任感。"
           },
           {
             "speaker": "b",
@@ -517,13 +445,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, 'She did the decent thing,' or, 'He could not just walk past.' Both sound very natural.",
-            "zh": "你可以說「She did the decent thing」，或是「He could not just walk past」。這兩句都非常自然。",
-            "vocab": [
-              {
-                "word": "decent thing",
-                "def": "做出一個厚道、正派的舉動"
-              }
-            ]
+            "zh": "你可以說「She did the decent thing」，或是「He could not just walk past」。這兩句都非常自然。"
           },
           {
             "speaker": "b",
@@ -535,13 +457,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much more real. And if the reason felt personal, you can say, 'I saw myself in him, so I moved.'",
-            "zh": "真實多了。如果那個原因很個人，你也可以說「我在他身上看到了自己，所以我就動了。」",
-            "vocab": [
-              {
-                "word": "felt personal",
-                "def": "真實多了"
-              }
-            ]
+            "zh": "真實多了。如果那個原因很個人，你也可以說「我在他身上看到了自己，所以我就動了。」"
           },
           {
             "speaker": "b",
@@ -594,13 +510,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Instead of asking whether you can solve the whole problem, ask whether you can make yourself useful for thirty seconds.",
-            "zh": "不要先問自己能不能解決整個問題，先問自己能不能讓自己在三十秒內派上用場。",
-            "vocab": [
-              {
-                "word": "make yourself useful",
-                "def": "讓自己派得上用場；做一點真的有用的事"
-              }
-            ]
+            "zh": "不要先問自己能不能解決整個問題，先問自己能不能讓自己在三十秒內派上用場。"
           },
           {
             "speaker": "b",
@@ -618,13 +528,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the better habit is to act on the first workable impulse.",
-            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。",
-            "vocab": [
-              {
-                "word": "first workable",
-                "def": "把想法真的付諸行動"
-              }
-            ]
+            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。"
           },
           {
             "speaker": "a",
@@ -752,13 +656,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such an easy trap. You start by trying to help and end up taking over.",
-            "zh": "那真的是一個很容易踩到的陷阱。你本來只是想幫忙，最後卻變成整個接管。",
-            "vocab": [
-              {
-                "word": "taking over",
-                "def": "接管；把事情整個拿來做"
-              }
-            ]
+            "zh": "那真的是一個很容易踩到的陷阱。你本來只是想幫忙，最後卻變成整個接管。"
           },
           {
             "speaker": "b",
@@ -782,13 +680,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes helpers jump to solutions because uncertainty is uncomfortable for them to sit with.",
-            "zh": "有時候，幫忙的人會太快跳去解法，是因為他自己不太能待在不確定裡。",
-            "vocab": [
-              {
-                "word": "jump to solutions",
-                "def": "太快跳去找解法"
-              }
-            ]
+            "zh": "有時候，幫忙的人會太快跳去解法，是因為他自己不太能待在不確定裡。"
           },
           {
             "speaker": "b",
@@ -841,13 +733,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And that is why it helps to listen first long enough to understand what kind of support they actually want.",
-            "zh": "對。也因此，先聽夠久、先搞懂對方到底要哪一種幫助，會很重要。",
-            "vocab": [
-              {
-                "word": "listen first",
-                "def": "先聽，不急著反應或給建議"
-              }
-            ]
+            "zh": "對。也因此，先聽夠久、先搞懂對方到底要哪一種幫助，會很重要。"
           },
           {
             "speaker": "b",
@@ -888,13 +774,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can also ask permission directly: 'Would it help if I shared a suggestion?'",
-            "zh": "沒錯。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」",
-            "vocab": [
-              {
-                "word": "ask permission",
-                "def": "有幫助嗎"
-              }
-            ]
+            "zh": "沒錯。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」"
           },
           {
             "speaker": "b",
@@ -918,18 +798,12 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then offer practical support in a limited form. 'I can edit one paragraph,' or 'I can drive you there, but you make the call.'",
-            "zh": "那就提供有界線的實際幫助。像是「我可以幫你改一段」，或「我可以載你去，但電話你自己打。」",
-            "vocab": [
-              {
-                "word": "practical support",
-                "def": "實際能落地的幫忙"
-              }
-            ]
+            "zh": "那就提供有界線的實際幫助。像是「我可以幫你改一段」，或「我可以載你去，但電話你自己打。」"
           }
         ]
       },
       {
-        "title": "Part 4 — One Better Habit for Helpers",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -965,13 +839,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Emotional support and practical support are different gifts, and people do not always want both at once.",
-            "zh": "對。情感支持和實際支持是兩種不同的禮物，而人也不一定同時想要兩個。",
-            "vocab": [
-              {
-                "word": "emotional support",
-                "def": "情感上的支持與陪伴"
-              }
-            ]
+            "zh": "對。情感支持和實際支持是兩種不同的禮物，而人也不一定同時想要兩個。"
           },
           {
             "speaker": "b",
@@ -984,12 +852,7 @@ export const WEEK_17: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. Wrong-kind help often feels like not being seen clearly.",
             "zh": "對。給錯種類的幫忙，常常會讓人有一種自己沒有被真正看見的感覺。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Strong Help Actually Feels Like",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1012,13 +875,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The helper does not take the lead unless you invite them to.",
-            "zh": "沒錯。幫忙的人不會自動站到前面去帶路，除非是你邀請他這麼做。",
-            "vocab": [
-              {
-                "word": "take the lead",
-                "def": "主導整件事；走到前面掌控方向"
-              }
-            ]
+            "zh": "沒錯。幫忙的人不會自動站到前面去帶路，除非是你邀請他這麼做。"
           },
           {
             "speaker": "b",
@@ -1030,13 +887,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. They can stay with the problem without performing competence the whole time.",
-            "zh": "對。他們可以待在問題旁邊，而不需要一路表演自己多能幹。",
-            "vocab": [
-              {
-                "word": "stay with the problem",
-                "def": "陪在問題旁邊，不急著搶著處理掉"
-              }
-            ]
+            "zh": "對。他們可以待在問題旁邊，而不需要一路表演自己多能幹。"
           },
           {
             "speaker": "b",
@@ -1117,13 +968,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the moment where helping can quietly turn into rescuing.",
-            "zh": "那就是幫忙會悄悄變成『救場』的時刻。",
-            "vocab": [
-              {
-                "word": "turn into rescuing",
-                "def": "出手把某人從後果裡救出來"
-              }
-            ]
+            "zh": "那就是幫忙會悄悄變成『救場』的時刻。"
           },
           {
             "speaker": "b",
@@ -1147,13 +992,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Stepping back is not abandonment if your help is keeping the cycle alive.",
-            "zh": "如果你的幫忙正在讓那個循環繼續活著，那退一步就不叫遺棄。",
-            "vocab": [
-              {
-                "word": "Stepping back",
-                "def": "退一步；主動不再過度介入"
-              }
-            ]
+            "zh": "如果你的幫忙正在讓那個循環繼續活著，那退一步就不叫遺棄。"
           },
           {
             "speaker": "b",
@@ -1182,13 +1021,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask whether the other person is still taking responsibility for their part.",
-            "zh": "先問一個問題：對方有沒有還在為自己的那一部分負責？",
-            "vocab": [
-              {
-                "word": "taking responsibility",
-                "def": "為自己的部分負責任"
-              }
-            ]
+            "zh": "先問一個問題：對方有沒有還在為自己的那一部分負責？"
           },
           {
             "speaker": "b",
@@ -1200,13 +1033,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. If your help removes every consequence, it can start to enable the pattern instead of changing it.",
-            "zh": "對。如果你的幫忙把所有後果都移掉了，它就很可能是在縱容那個模式，而不是改變它。",
-            "vocab": [
-              {
-                "word": "enable",
-                "def": "讓不健康的模式被維持下去"
-              }
-            ]
+            "zh": "對。如果你的幫忙把所有後果都移掉了，它就很可能是在縱容那個模式，而不是改變它。"
           },
           {
             "speaker": "b",
@@ -1259,13 +1086,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And then set a boundary around what you can do instead. 'I can talk for fifteen minutes, but I can't fix this for you tonight.'",
-            "zh": "接著，再把你能做的是什麼說清楚。「我可以跟你聊十五分鐘，但今晚我不能替你把這件事處理掉。」",
-            "vocab": [
-              {
-                "word": "set a boundary",
-                "def": "設下界線；把自己的限制說清楚"
-              }
-            ]
+            "zh": "接著，再把你能做的是什麼說清楚。「我可以跟你聊十五分鐘，但今晚我不能替你把這件事處理掉。」"
           },
           {
             "speaker": "b",
@@ -1289,13 +1110,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then say that honestly. 'I'm at capacity today' is adult language, not selfishness.",
-            "zh": "那你就誠實地說。「我今天真的已經滿了」是成熟的大人語言，不是自私。",
-            "vocab": [
-              {
-                "word": "at capacity",
-                "def": "能量或時間已經滿載，無法再接"
-              }
-            ]
+            "zh": "那你就誠實地說。「我今天真的已經滿了」是成熟的大人語言，不是自私。"
           }
         ]
       },
@@ -1324,13 +1139,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a clear sentence, try 'Tell me what you're going to do first, and I'll listen,' or 'I'm here after you've made the call.'",
-            "zh": "你可以說：「你先告訴我你打算怎麼做，我來聽。」或者「你打完那通電話之後，我在這裡。」",
-            "vocab": [
-              {
-                "word": "clear sentence",
-                "def": "保持可被依靠，但不全面接手"
-              }
-            ]
+            "zh": "你可以說：「你先告訴我你打算怎麼做，我來聽。」或者「你打完那通電話之後，我在這裡。」"
           },
           {
             "speaker": "b",
@@ -1371,13 +1180,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Especially when doing it themselves is the next thing they actually need to learn.",
-            "zh": "對。尤其是當『自己做』正好就是他下一個需要學會的能力時。",
-            "vocab": [
-              {
-                "word": "Especially",
-                "def": "讓對方自己去面對和處理"
-              }
-            ]
+            "zh": "對。尤其是當『自己做』正好就是他下一個需要學會的能力時。"
           },
           {
             "speaker": "b",
@@ -1494,13 +1297,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people do. Accepting help can make you feel exposed, even when the other person is being kind.",
-            "zh": "很多人都是這樣。接受幫助會讓人覺得自己被看見得太赤裸，就算對方完全是善意的也一樣。",
-            "vocab": [
-              {
-                "word": "feel exposed",
-                "def": "覺得自己的脆弱被看見"
-              }
-            ]
+            "zh": "很多人都是這樣。接受幫助會讓人覺得自己被看見得太赤裸，就算對方完全是善意的也一樣。"
           },
           {
             "speaker": "b",
@@ -1512,13 +1309,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or like competence means being able to carry it alone.",
-            "zh": "或者很像你把『有能力』等同於『什麼都要自己扛』。",
-            "vocab": [
-              {
-                "word": "carry it alone",
-                "def": "什麼都自己扛，不向外求助"
-              }
-            ]
+            "zh": "或者很像你把『有能力』等同於『什麼都要自己扛』。"
           },
           {
             "speaker": "b",
@@ -1571,13 +1362,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why it helps to remember that sometimes you simply need to lean on someone for a while. Not forever. Just for a while.",
-            "zh": "所以你要記得，有時候你只是需要暫時靠一下別人。不是永遠，只是一陣子。",
-            "vocab": [
-              {
-                "word": "lean on someone",
-                "def": "在一段時間裡依靠某人"
-              }
-            ]
+            "zh": "所以你要記得，有時候你只是需要暫時靠一下別人。不是永遠，只是一陣子。"
           },
           {
             "speaker": "b",
@@ -1606,13 +1391,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Keep it simple. 'Thank you, that would really help,' or 'Actually, I'll take you up on that.' Both sound warm and normal.",
-            "zh": "保持簡單就好。像是「謝謝，那真的會有幫助」或「其實我接受你這個提議」。這兩句都很溫暖也很正常。",
-            "vocab": [
-              {
-                "word": "take you up",
-                "def": "接受某人的提議或好意"
-              }
-            ]
+            "zh": "保持簡單就好。像是「謝謝，那真的會有幫助」或「其實我接受你這個提議」。這兩句都很溫暖也很正常。"
           },
           {
             "speaker": "b",
@@ -1624,13 +1403,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much better. And if you need something specific, be direct: 'Could you help me carry these two boxes downstairs?'",
-            "zh": "好多了。如果你需要的是具體的東西，就直接說出來：「你可以幫我把這兩箱搬下樓嗎？」",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "把需要說得具體清楚"
-              }
-            ]
+            "zh": "好多了。如果你需要的是具體的東西，就直接說出來：「你可以幫我把這兩箱搬下樓嗎？」"
           },
           {
             "speaker": "b",
@@ -1642,13 +1415,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Specific requests make it easy to help, and that is a gift too.",
-            "zh": "沒錯。具體的請求會讓幫忙變得容易，而那本身也是一種體貼。",
-            "vocab": [
-              {
-                "word": "make it easy",
-                "def": "讓某件事更容易被做到"
-              }
-            ]
+            "zh": "沒錯。具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
           },
           {
             "speaker": "b",
@@ -1701,13 +1468,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It gives you a chance to accept help in a way that is real instead of performatively independent.",
-            "zh": "對。它會給你一個機會，用真實的方式接受幫助，而不是表演自己很獨立。",
-            "vocab": [
-              {
-                "word": "accept help",
-                "def": "真的把幫助接進來"
-              }
-            ]
+            "zh": "對。它會給你一個機會，用真實的方式接受幫助，而不是表演自己很獨立。"
           },
           {
             "speaker": "b",
@@ -1719,13 +1480,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Return the favor over time, not transaction by transaction. Good relationships are not that immediate or that exact.",
-            "zh": "把人情放在長時間裡回去，不要一筆一筆立刻對掉。好的關係沒有那麼即時，也沒有那麼精算。",
-            "vocab": [
-              {
-                "word": "return the favor",
-                "def": "回報對方的幫忙"
-              }
-            ]
+            "zh": "把人情放在長時間裡回去，不要一筆一筆立刻對掉。好的關係沒有那麼即時，也沒有那麼精算。"
           }
         ]
       },
@@ -1847,13 +1602,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a neighborly thing to do. Small, practical, and quietly considerate.",
-            "zh": "那真的是很有鄰里感的一件事。小小的、很實際，而且很安靜地替人著想。",
-            "vocab": [
-              {
-                "word": "neighborly",
-                "def": "有鄰里互助感的；像好鄰居那樣的"
-              }
-            ]
+            "zh": "那真的是很有鄰里感的一件事。小小的、很實際，而且很安靜地替人著想。"
           },
           {
             "speaker": "b",
@@ -1877,13 +1626,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how a local community starts to exist. Not with a slogan. With repeated practical exchanges.",
-            "zh": "這就是在地社群開始長出來的方式。不是從口號開始，而是從一來一往的實際互助開始。",
-            "vocab": [
-              {
-                "word": "local community",
-                "def": "身邊實際存在的在地社群"
-              }
-            ]
+            "zh": "這就是在地社群開始長出來的方式。不是從口號開始，而是從一來一往的實際互助開始。"
           },
           {
             "speaker": "b",
@@ -1912,13 +1655,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Small, reliable things. Checking in on someone after a storm. Letting them know the water is off. Telling them their lights were left on.",
-            "zh": "小而可靠的事情。像是颱風後關心一下對方、提醒他今天停水、告訴他燈忘了關。",
-            "vocab": [
-              {
-                "word": "someone after",
-                "def": "順手關心一下某人的狀況"
-              }
-            ]
+            "zh": "小而可靠的事情。像是颱風後關心一下對方、提醒他今天停水、告訴他燈忘了關。"
           },
           {
             "speaker": "b",
@@ -1942,13 +1679,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why something as simple as keeping an eye on the hallway matters more than it sounds like it should.",
-            "zh": "所以像是順手幫忙留意走廊這種小事，往往比聽起來還重要。",
-            "vocab": [
-              {
-                "word": "keeping an eye",
-                "def": "幫忙留意、照看一下"
-              }
-            ]
+            "zh": "所以像是順手幫忙留意走廊這種小事，往往比聽起來還重要。"
           },
           {
             "speaker": "b",
@@ -1977,17 +1708,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very simple lines. 'I can drop off some soup later,' or 'Can I borrow your screwdriver for ten minutes?'",
-            "zh": "都很簡單。像是「我等一下可以送點湯過去」，或是「我可以跟你借一下螺絲起子嗎？」",
-            "vocab": [
-              {
-                "word": "drop off",
-                "def": "順路送過去；放到對方那裡"
-              },
-              {
-                "word": "borrow",
-                "def": "暫時借用"
-              }
-            ]
+            "zh": "都很簡單。像是「我等一下可以送點湯過去」，或是「我可以跟你借一下螺絲起子嗎？」"
           },
           {
             "speaker": "b",
@@ -1999,13 +1720,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, 'I'm running to the store anyway. Need anything?' That is a very normal offer.",
-            "zh": "沒錯。你也可以說：「我剛好要去商店，你有需要我順便買什麼嗎？」這是很常見也很自然的提供幫忙方式。",
-            "vocab": [
-              {
-                "word": "store anyway",
-                "def": "」這是很常見也很自然的提供幫忙方式"
-              }
-            ]
+            "zh": "沒錯。你也可以說：「我剛好要去商店，你有需要我順便買什麼嗎？」這是很常見也很自然的提供幫忙方式。"
           },
           {
             "speaker": "b",
@@ -2034,7 +1749,7 @@ export const WEEK_17: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Habit That Builds a Real Neighborhood",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2058,13 +1773,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Names turn background figures into real people, and real people start to look out for each other.",
-            "zh": "對。名字會把背景裡的人變成真實的人，而真實的人就會開始互相照看。",
-            "vocab": [
-              {
-                "word": "look out for each other",
-                "def": "彼此照看；互相留意"
-              }
-            ]
+            "zh": "對。名字會把背景裡的人變成真實的人，而真實的人就會開始互相照看。"
           },
           {
             "speaker": "b",
@@ -2089,12 +1798,7 @@ export const WEEK_17: Episode[] = [
             "speakerName": "Mira",
             "en": "Often it does. Care grows faster when people stop feeling anonymous to one another.",
             "zh": "很多時候就是這樣。當人和人之間不再那麼匿名，關心就會長得比較快。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Makes a Place Feel Like Home",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2210,13 +1914,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the difference between crisis help and long-haul help. The long haul filters people very quickly.",
-            "zh": "那就是危機型幫助和長期型幫助的差別。所謂長期陪跑，很快就會把人篩出來。",
-            "vocab": [
-              {
-                "word": "long haul",
-                "def": "長時間的過程；需要長期撐住的階段"
-              }
-            ]
+            "zh": "那就是危機型幫助和長期型幫助的差別。所謂長期陪跑，很快就會把人篩出來。"
           },
           {
             "speaker": "b",
@@ -2240,13 +1938,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is reliable support. It does not sparkle, but it changes everything.",
-            "zh": "那就是可靠的支持。它不閃亮，可是它會改變整件事的重量。",
-            "vocab": [
-              {
-                "word": "reliable",
-                "def": "可靠的；會穩定出現的"
-              }
-            ]
+            "zh": "那就是可靠的支持。它不閃亮，可是它會改變整件事的重量。"
           },
           {
             "speaker": "b",
@@ -2258,13 +1950,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "But she followed through, and that is why she is the one everyone still talks about.",
-            "zh": "但她有一路做到底，也正因如此，大家到現在說起來都還是會先想到她。",
-            "vocab": [
-              {
-                "word": "followed through",
-                "def": "一路做到；後續真的有跟上"
-              }
-            ]
+            "zh": "但她有一路做到底，也正因如此，大家到現在說起來都還是會先想到她。"
           }
         ]
       },
@@ -2281,13 +1967,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because most people have emotional bandwidth for emergencies, but not always for maintenance.",
-            "zh": "因為大多數人對緊急狀況有情緒頻寬，但不一定對維持日常也有。",
-            "vocab": [
-              {
-                "word": "emotional bandwidth",
-                "def": "能分出去承接別人情緒的心力"
-              }
-            ]
+            "zh": "因為大多數人對緊急狀況有情緒頻寬，但不一定對維持日常也有。"
           },
           {
             "speaker": "b",
@@ -2311,13 +1991,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why the best helpers check back instead of waiting to be invited again.",
-            "zh": "這也就是為什麼，最好的幫忙者會主動再回來問，而不是一直等對方再邀請一次。",
-            "vocab": [
-              {
-                "word": "check back",
-                "def": "過一段時間再主動回來關心"
-              }
-            ]
+            "zh": "這也就是為什麼，最好的幫忙者會主動再回來問，而不是一直等對方再邀請一次。"
           },
           {
             "speaker": "b",
@@ -2346,13 +2020,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good one is, 'I'm here for you, not just today.' That tells someone you mean to be there for them beyond the first shock.",
-            "zh": "一句很好用的是：「我在，而且不只是今天。」這是在告訴對方，你不是只打算在最震驚的時候陪一下而已。",
-            "vocab": [
-              {
-                "word": "tells someone",
-                "def": "這是在告訴對方"
-              }
-            ]
+            "zh": "一句很好用的是：「我在，而且不只是今天。」這是在告訴對方，你不是只打算在最震驚的時候陪一下而已。"
           },
           {
             "speaker": "b",
@@ -2364,13 +2032,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much warmer. And if you want to offer practical support, name the task: 'I can drive you to the appointment on Thursday.'",
-            "zh": "溫暖很多。如果你想提供實際幫助，就把事情說出來，例如：「我星期四可以載你去回診。」",
-            "vocab": [
-              {
-                "word": "practical support",
-                "def": "具體可執行的協助"
-              }
-            ]
+            "zh": "溫暖很多。如果你想提供實際幫助，就把事情說出來，例如：「我星期四可以載你去回診。」"
           },
           {
             "speaker": "b",
@@ -2394,13 +2056,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then say that honestly: 'I can't fix this, but I can keep checking in.' Small steady support is still real support.",
-            "zh": "那你就誠實地說：「我不能把這件事解決掉，但我可以繼續回來關心。」小而穩定的支持，還是真正的支持。",
-            "vocab": [
-              {
-                "word": "steady support",
-                "def": "穩定持續的支持"
-              }
-            ]
+            "zh": "那你就誠實地說：「我不能把這件事解決掉，但我可以繼續回來關心。」小而穩定的支持，還是真正的支持。"
           }
         ]
       },
@@ -2441,13 +2097,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. If the situation is ongoing, kindness has to become something sustainable.",
-            "zh": "絕對是。如果情況是持續的，那善意就必須變成可持續的做法。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "能長期維持、不把人耗乾的"
-              }
-            ]
+            "zh": "絕對是。如果情況是持續的，那善意就必須變成可持續的做法。"
           },
           {
             "speaker": "b",
@@ -2488,8 +2138,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Rescue is intense and short. Steady support tells you your hard season still fits in someone else's life.",
-            "zh": "真的。救援很強烈，也很短。穩定支持則是在告訴你：你的困難時期，還放得進別人的生活裡。",
-            "vocab": []
+            "zh": "真的。救援很強烈，也很短。穩定支持則是在告訴你：你的困難時期，還放得進別人的生活裡。"
           },
           {
             "speaker": "b",

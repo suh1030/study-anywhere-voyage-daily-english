@@ -1,0 +1,433 @@
+{
+  "totalFiles": 53,
+  "successCount": 53,
+  "failureCount": 0,
+  "failures": [],
+  "files": [
+    {
+      "weekNumber": 1,
+      "fileName": "articles-w01.ts",
+      "exportName": "W1_ARTICLES",
+      "expectedCount": 4,
+      "actualCount": 4,
+      "imported": true
+    },
+    {
+      "weekNumber": 2,
+      "fileName": "articles-w02.ts",
+      "exportName": "W2_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 3,
+      "fileName": "articles-w03.ts",
+      "exportName": "W3_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 4,
+      "fileName": "articles-w04.ts",
+      "exportName": "W4_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 5,
+      "fileName": "articles-w05.ts",
+      "exportName": "W5_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 6,
+      "fileName": "articles-w06.ts",
+      "exportName": "W6_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 7,
+      "fileName": "articles-w07.ts",
+      "exportName": "W7_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 8,
+      "fileName": "articles-w08.ts",
+      "exportName": "W8_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 9,
+      "fileName": "articles-w09.ts",
+      "exportName": "W9_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 10,
+      "fileName": "articles-w10.ts",
+      "exportName": "W10_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 11,
+      "fileName": "articles-w11.ts",
+      "exportName": "W11_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 12,
+      "fileName": "articles-w12.ts",
+      "exportName": "W12_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 13,
+      "fileName": "articles-w13.ts",
+      "exportName": "W13_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 14,
+      "fileName": "articles-w14.ts",
+      "exportName": "W14_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 15,
+      "fileName": "articles-w15.ts",
+      "exportName": "W15_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 16,
+      "fileName": "articles-w16.ts",
+      "exportName": "W16_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 17,
+      "fileName": "articles-w17.ts",
+      "exportName": "W17_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 18,
+      "fileName": "articles-w18.ts",
+      "exportName": "W18_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 19,
+      "fileName": "articles-w19.ts",
+      "exportName": "W19_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 20,
+      "fileName": "articles-w20.ts",
+      "exportName": "W20_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 21,
+      "fileName": "articles-w21.ts",
+      "exportName": "W21_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 22,
+      "fileName": "articles-w22.ts",
+      "exportName": "W22_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 23,
+      "fileName": "articles-w23.ts",
+      "exportName": "W23_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 24,
+      "fileName": "articles-w24.ts",
+      "exportName": "W24_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 25,
+      "fileName": "articles-w25.ts",
+      "exportName": "W25_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 26,
+      "fileName": "articles-w26.ts",
+      "exportName": "W26_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 27,
+      "fileName": "articles-w27.ts",
+      "exportName": "W27_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 28,
+      "fileName": "articles-w28.ts",
+      "exportName": "W28_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 29,
+      "fileName": "articles-w29.ts",
+      "exportName": "W29_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 30,
+      "fileName": "articles-w30.ts",
+      "exportName": "W30_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 31,
+      "fileName": "articles-w31.ts",
+      "exportName": "W31_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 32,
+      "fileName": "articles-w32.ts",
+      "exportName": "W32_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 33,
+      "fileName": "articles-w33.ts",
+      "exportName": "W33_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 34,
+      "fileName": "articles-w34.ts",
+      "exportName": "W34_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 35,
+      "fileName": "articles-w35.ts",
+      "exportName": "W35_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 36,
+      "fileName": "articles-w36.ts",
+      "exportName": "W36_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 37,
+      "fileName": "articles-w37.ts",
+      "exportName": "W37_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 38,
+      "fileName": "articles-w38.ts",
+      "exportName": "W38_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 39,
+      "fileName": "articles-w39.ts",
+      "exportName": "W39_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 40,
+      "fileName": "articles-w40.ts",
+      "exportName": "W40_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 41,
+      "fileName": "articles-w41.ts",
+      "exportName": "W41_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 42,
+      "fileName": "articles-w42.ts",
+      "exportName": "W42_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 43,
+      "fileName": "articles-w43.ts",
+      "exportName": "W43_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 44,
+      "fileName": "articles-w44.ts",
+      "exportName": "W44_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 45,
+      "fileName": "articles-w45.ts",
+      "exportName": "W45_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 46,
+      "fileName": "articles-w46.ts",
+      "exportName": "W46_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 47,
+      "fileName": "articles-w47.ts",
+      "exportName": "W47_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 48,
+      "fileName": "articles-w48.ts",
+      "exportName": "W48_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 49,
+      "fileName": "articles-w49.ts",
+      "exportName": "W49_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 50,
+      "fileName": "articles-w50.ts",
+      "exportName": "W50_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 51,
+      "fileName": "articles-w51.ts",
+      "exportName": "W51_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 52,
+      "fileName": "articles-w52.ts",
+      "exportName": "W52_ARTICLES",
+      "expectedCount": 7,
+      "actualCount": 7,
+      "imported": true
+    },
+    {
+      "weekNumber": 53,
+      "fileName": "articles-w53.ts",
+      "exportName": "W53_ARTICLES",
+      "expectedCount": 4,
+      "actualCount": 4,
+      "imported": true
+    }
+  ],
+  "passed": true
+}

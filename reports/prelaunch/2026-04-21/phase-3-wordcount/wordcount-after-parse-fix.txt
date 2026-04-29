@@ -1,0 +1,13 @@
+Article word count: counted 365/365 articles
+Outliers with |diff| > 10: 304
+Largest outliers:
+- W21D1 "Under Pressure: Managing Stress at Work": declared=490, actual=315, diff=175
+- W21D2 "What Pressure Does to Your Thinking": declared=488, actual=321, diff=167
+- W21D3 "Prioritizing When Everything Feels Urgent": declared=492, actual=330, diff=162
+- W21D5 "Recovering After a High-Pressure Week": declared=489, actual=332, diff=157
+- W21D4 "How to Ask for Help Before It Is Too Late": declared=491, actual=340, diff=151
+- W21D6 "Leading Others Through Pressure": declared=490, actual=340, diff=150
+- W22D2 "How You Approach a Difficult Problem": declared=488, actual=348, diff=140
+- W22D1 "Figuring It Out: How We Tackle Problems": declared=490, actual=352, diff=138
+- W22D6 "Solving Problems Better as a Team": declared=490, actual=353, diff=137
+- W23D2 "What Success Looks Like to You": declared=489, actual=354, diff=135

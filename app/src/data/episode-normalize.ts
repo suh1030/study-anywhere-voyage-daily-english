@@ -35,7 +35,6 @@ export type NormalizedEpisodeLine = {
   speakerName: string
   en: string
   zh: string
-  vocab?: { word: string; def: string }[]
 }
 
 export type NormalizedEpisodePart = {
@@ -52,12 +51,11 @@ export type NormalizedKeyPhrase = {
 export function normalizeEpisodeParts(parts: LegacyPart[] = []): NormalizedEpisodePart[] {
   return parts.map((part) => ({
     title: part.title ?? '',
-    lines: (part.lines ?? []).map((line, index) => ({
+    lines: (part.lines ?? []).map((line) => ({
       speaker: line.speaker === 'b' ? 'b' : 'a',
       speakerName: line.speakerName ?? (line.speaker === 'b' ? 'Jamie' : 'Mira'),
       en: line.en ?? line.english ?? '',
       zh: line.zh ?? line.chinese ?? '',
-      vocab: normalizeVocab(line.vocab ?? line.vocabulary),
     })),
   }))
 }
@@ -67,13 +65,5 @@ export function normalizeKeyPhrases(keyPhrases: LegacyKeyPhrase[] = []): Normali
     en: item.en ?? item.phrase ?? '',
     zh: item.zh ?? item.def ?? item.meaning ?? '',
     example: item.example ?? '',
-  }))
-}
-
-function normalizeVocab(vocab: LegacyVocab[] | undefined): { word: string; def: string }[] | undefined {
-  if (!vocab?.length) return undefined
-  return vocab.map((item) => ({
-    word: item.word ?? '',
-    def: item.def ?? item.definition ?? item.meaning ?? '',
   }))
 }

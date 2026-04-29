@@ -6,7 +6,7 @@ export const WEEK_53: Episode[] = [
     "dayOfWeek": 1,
     "date": "2026-12-28",
     "theme": "New Beginnings",
-    "title": "The Threshold",
+    "title": "Starting a New Chapter",
     "phase": "p6",
     "parts": [
       {
@@ -21,14 +21,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. Sometimes the first sign is a threshold moment, not a dramatic event. Familiar routines simply start feeling borrowed.",
-            "zh": "有。很多時候第一個訊號不是什麼戲劇化事件，而是一個門檻時刻。原本熟悉的日常，忽然開始像借來的一樣。",
-            "vocab": [
-              {
-                "word": "threshold moment",
-                "def": "而是一個門檻時刻"
-              }
-            ]
+            "en": "Yes. Sometimes the first sign is not a dramatic event. Familiar routines simply stop feeling like yours.",
+            "zh": "有。很多時候第一個訊號不是什麼戲劇化事件，而是原本熟悉的日常，忽然開始不像是自己的。"
           },
           {
             "speaker": "b",
@@ -39,14 +33,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a strong clue. A life can still work on paper while it no longer fits your inner life.",
-            "zh": "那其實是很強的線索。一種生活在紙面上可能還行得通，但它已經不再貼合你內在的生活了。",
-            "vocab": [
-              {
-                "word": "no longer fits",
-                "def": "表面還能運作，但內在已經不再適合"
-              }
-            ]
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "b",
@@ -69,14 +57,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. It usually shows up as quiet evidence: less attachment, less aliveness, and a growing sense that your next move is somewhere else.",
-            "zh": "對。它通常是以很安靜的證據出現：投入感變少、生命感變少，還有一種越來越清楚的感覺，知道你的下一步其實在別的地方。",
-            "vocab": [
-              {
-                "word": "quiet evidence",
-                "def": "不是大轉折，而是安靜但持續出現的訊號"
-              }
-            ]
+            "en": "Right. It usually starts with small signs: less attachment, less energy, and a growing sense that your next move is somewhere else.",
+            "zh": "對。它通常是從一些小訊號開始：投入感變少、精神變少，還有一種越來越清楚的感覺，知道你的下一步其實在別的地方。"
           }
         ]
       },
@@ -93,13 +75,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it is an in-between season. You cannot fully live in the old chapter, but the new one still has no stable shape.",
-            "zh": "因為那是一段中間時期。你已經沒辦法完全活在舊篇章裡，但新的篇章又還沒有長出穩定的形狀。",
-            "vocab": [
-              {
-                "word": "in-between season",
-                "def": "舊的已經鬆開"
-              }
-            ]
+            "zh": "因為那是一段中間時期。你已經沒辦法完全活在舊篇章裡，但新的篇章又還沒有長出穩定的形狀。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is mixed relief. You are glad something is ending, but you still feel the cost of leaving it.",
-            "zh": "那就是混合式的鬆一口氣。你知道某件事該結束了，但你還是感覺得到離開它的代價。",
-            "vocab": [
-              {
-                "word": "mixed relief",
-                "def": "明明覺得該走了，卻同時還是會難過"
-              }
-            ]
+            "zh": "那就是混合式的鬆一口氣。你知道某件事該結束了，但你還是感覺得到離開它的代價。"
           },
           {
             "speaker": "b",
@@ -140,14 +110,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "They do, especially when an identity echo keeps repeating the old story long after the heart has moved on.",
-            "zh": "真的會，尤其當那個舊身份的回聲還在心裡一直重播舊故事時，就算你的心其實早就往前走了。",
-            "vocab": [
-              {
-                "word": "identity echo",
-                "def": "舊身份離開後"
-              }
-            ]
+            "en": "They do, especially when the old script keeps repeating the old story long after the heart has moved on.",
+            "zh": "真的會，尤其當那套舊腳本還在心裡一直重播舊故事時，就算你的心其實早就往前走了。"
           }
         ]
       },
@@ -175,8 +139,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful line is: \"The change began as quiet evidence, not a sudden decision.\" That works when the shift was slow.",
-            "zh": "另一句很好用的是：「The change began as quiet evidence, not a sudden decision.」如果那個改變是慢慢發生的，這句很好用。"
+            "en": "Another useful line is: \"The change started with small signs, not one sudden decision.\" That works when the shift was slow.",
+            "zh": "另一句很好用的是：「The change started with small signs, not one sudden decision.」如果那個改變是慢慢發生的，這句很好用。"
           },
           {
             "speaker": "b",
@@ -188,13 +152,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want one more, try: \"I am crossing over, even if I do not have the whole map yet.\" It gives movement without pretending certainty.",
-            "zh": "如果你還想再多一句，可以試試看：「I am crossing over, even if I do not have the whole map yet.」它有前進感，但不假裝自己已經很確定。",
-            "vocab": [
-              {
-                "word": "crossing over",
-                "def": "正在離開舊狀態、走進新狀態的過程"
-              }
-            ]
+            "zh": "如果你還想再多一句，可以試試看：「I am crossing over, even if I do not have the whole map yet.」它有前進感，但不假裝自己已經很確定。"
           },
           {
             "speaker": "b",
@@ -206,13 +164,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and then you can add: \"I may not know everything yet, but I do know my next honest move.\" That keeps the focus small and real.",
-            "zh": "對，然後你還可以接著說：「I may not know everything yet, but I do know my next honest move.」這樣就會把焦點放回小而真實的一步。",
-            "vocab": [
-              {
-                "word": "next honest move",
-                "def": "在還沒有完整答案時，眼前最真實的一步"
-              }
-            ]
+            "zh": "對，然後你還可以接著說：「I may not know everything yet, but I do know my next honest move.」這樣就會把焦點放回小而真實的一步。"
           }
         ]
       },
@@ -264,8 +216,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Often it arrives because movement finally gave it somewhere to land.",
-            "zh": "沒錯。很多時候，正是因為你開始移動了，清楚才終於有地方落下來。"
+            "en": "Exactly. Often it arrives because taking one real step makes the change feel real.",
+            "zh": "沒錯。很多時候，正是因為你先走出一個真實的小步驟，改變才會真的變得清楚。"
           }
         ]
       },
@@ -325,9 +277,9 @@ export const WEEK_53: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "threshold moment",
-        "zh": "一個舊階段開始鬆動、新階段還沒成形的關鍵時刻",
-        "example": "The threshold moment arrived on an ordinary commute, not in a dramatic meeting."
+        "en": "first sign",
+        "zh": "事情開始要變的第一個訊號",
+        "example": "The first sign showed up in an ordinary moment."
       },
       {
         "en": "no longer fits",
@@ -335,9 +287,9 @@ export const WEEK_53: Episode[] = [
         "example": "She could do the job well, but the role no longer fits who she is now."
       },
       {
-        "en": "quiet evidence",
-        "zh": "不是大轉折，而是安靜但持續出現的訊號",
-        "example": "He paid attention to the quiet evidence before making a bigger decision."
+        "en": "small signs",
+        "zh": "不是大轉折，而是慢慢出現的小訊號",
+        "example": "He paid attention to the small signs before making a bigger decision."
       },
       {
         "en": "in-between season",
@@ -350,9 +302,9 @@ export const WEEK_53: Episode[] = [
         "example": "After resigning, he felt mixed relief for several weeks."
       },
       {
-        "en": "identity echo",
-        "zh": "舊身份離開後，還在心裡殘留的自我聲音",
-        "example": "The identity echo kept telling her to stay where she had already outgrown."
+        "en": "old script",
+        "zh": "明明已經變了，心裡還在重播的舊模式",
+        "example": "The old script kept telling her to stay where she had already outgrown."
       },
       {
         "en": "crossing over",
@@ -386,14 +338,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Because letting go is rarely only about an object, a schedule, or a place. Very often you are trying to outgrow a season that once kept you safe.",
-            "zh": "因為放下很少只是放下一個物品、一個作息或一個地方。很多時候，你其實是在長出一個舊時期，而那個舊時期曾經保護過你。",
-            "vocab": [
-              {
-                "word": "outgrow a season",
-                "def": "如今已經不再適合"
-              }
-            ]
+            "en": "Because letting go is rarely only about an object, a schedule, or a place. Very often you are trying to outgrow a stage that once kept you safe.",
+            "zh": "因為放下很少只是放下一個物品、一個作息或一個地方。很多時候，你其實是在走出一個曾經保護過你的舊階段。"
           },
           {
             "speaker": "b",
@@ -417,13 +363,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The old script may have given you identity, approval, or predictability, so releasing it can feel like betrayal at first.",
-            "zh": "對。那個舊劇本可能曾經給過你身份感、認可感，或某種可預測性，所以一開始要放掉它時，真的會像是在背叛它。",
-            "vocab": [
-              {
-                "word": "old script",
-                "def": "或某種可預測性"
-              }
-            ]
+            "zh": "對。那個舊劇本可能曾經給過你身份感、認可感，或某種可預測性，所以一開始要放掉它時，真的會像是在背叛它。"
           },
           {
             "speaker": "b",
@@ -451,14 +391,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It looks like learning to release with respect. You do not have to insult the past in order to leave it.",
-            "zh": "它看起來像是學會帶著尊重離開。你不需要先否定過去，才有資格往前走。",
-            "vocab": [
-              {
-                "word": "release with respect",
-                "def": "不否定過去，也仍然可以好好離開"
-              }
-            ]
+            "en": "It looks like learning to let go without bitterness. You do not have to insult the past in order to leave it.",
+            "zh": "它看起來像是學會帶著尊重離開。你不需要先否定過去，才有資格往前走。"
           },
           {
             "speaker": "b",
@@ -482,13 +416,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Unfinished endings leave emotional residue, and that residue can follow you into the next relationship, job, or routine.",
-            "zh": "沒錯。沒有好好結束的結束，會留下情緒殘留，而那些殘留會一路跟著你走進下一段關係、下一份工作，或下一種日常。",
-            "vocab": [
-              {
-                "word": "emotional residue",
-                "def": "被帶進下一階段的情緒殘留"
-              }
-            ]
+            "zh": "沒錯。沒有好好結束的結束，會留下情緒殘留，而那些殘留會一路跟著你走進下一段關係、下一份工作，或下一種日常。"
           },
           {
             "speaker": "b",
@@ -529,13 +457,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is: \"I had to stop feeding the pattern before I could see what my life actually needed.\" That works when a habit kept rebuilding itself.",
-            "zh": "另一句很好用的是：「I had to stop feeding the pattern before I could see what my life actually needed.」如果你說的是一個一直在自我重建的舊模式，這句很好用。",
-            "vocab": [
-              {
-                "word": "stop feeding the pattern",
-                "def": "停止用自己的行為反覆餵養舊模式"
-              }
-            ]
+            "zh": "另一句很好用的是：「I had to stop feeding the pattern before I could see what my life actually needed.」如果你說的是一個一直在自我重建的舊模式，這句很好用。"
           },
           {
             "speaker": "b",
@@ -547,13 +469,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something softer, try: \"I am learning to carry the lesson without carrying the whole role.\" That keeps the wisdom but removes the costume.",
-            "zh": "如果你想要更柔和一點，可以試試看：「我正在學著把收穫帶走，但不把整個舊角色一起背著。」它保留了學到的東西，也把那套戲服脫掉了。",
-            "vocab": [
-              {
-                "word": "carry the lesson",
-                "def": "把收穫帶走，但不把整套舊身份一起背走"
-              }
-            ]
+            "zh": "如果你想要更柔和一點，可以試試看：「我正在學著把收穫帶走，但不把整個舊角色一起背著。」它保留了學到的東西，也把那套戲服脫掉了。"
           },
           {
             "speaker": "b",
@@ -570,7 +486,7 @@ export const WEEK_53: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Making Space for What Is Next",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -582,13 +498,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Make room before motivation fades. Archive the files, change the route, clear the shelf, or remove the thing that keeps calling you backward.",
-            "zh": "在動力消失之前先清出空間。把檔案歸檔、換掉路線、清空架子，或把那個一直把你往回叫的東西拿掉。",
-            "vocab": [
-              {
-                "word": "make room",
-                "def": "實際清出空間"
-              }
-            ]
+            "zh": "在動力消失之前先清出空間。把檔案歸檔、換掉路線、清空架子，或把那個一直把你往回叫的東西拿掉。"
           },
           {
             "speaker": "b",
@@ -612,13 +522,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. At some point you have to loosen your grip through action, not only through insight.",
-            "zh": "對。到某一個時候，你必須透過行動把手放鬆，而不只是透過理解。",
-            "vocab": [
-              {
-                "word": "loosen your grip",
-                "def": "而是真的開始鬆手"
-              }
-            ]
+            "zh": "對。到某一個時候，你必須透過行動把手放鬆，而不只是透過理解。"
           },
           {
             "speaker": "b",
@@ -631,12 +535,7 @@ export const WEEK_53: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly. The body believes what the hands keep doing.",
             "zh": "沒錯。手一直在做什麼，身體最後就會相信什麼。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Remains After a Good Ending",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -690,9 +589,9 @@ export const WEEK_53: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "outgrow a season",
-        "zh": "一個曾經適合自己的階段，如今已經不再適合",
-        "example": "She had to admit she had outgrown a season that once protected her."
+        "en": "outgrow that stage",
+        "zh": "某個階段曾經適合你，現在卻已經不再適合",
+        "example": "She had to admit she had outgrown that stage of her life."
       },
       {
         "en": "old script",
@@ -700,9 +599,9 @@ export const WEEK_53: Episode[] = [
         "example": "The old script kept asking him to stay small and predictable."
       },
       {
-        "en": "release with respect",
-        "zh": "不否定過去，也仍然可以好好離開",
-        "example": "He learned to release with respect instead of burning everything down."
+        "en": "let go without bitterness",
+        "zh": "不否定過去，也能好好放下",
+        "example": "He learned to let go without bitterness instead of burning everything down."
       },
       {
         "en": "emotional residue",
@@ -752,13 +651,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they plan against fantasy instead of planning around reality. Good design begins with your real energy, real calendar, and real limits.",
-            "zh": "因為很多人是拿幻想來做規劃，而不是拿現實來做規劃。好的設計，一定是從你真實的能量、真實的行程，還有真實的限制開始。",
-            "vocab": [
-              {
-                "word": "around reality",
-                "def": "而不是拿現實來做規劃"
-              }
-            ]
+            "zh": "因為很多人是拿幻想來做規劃，而不是拿現實來做規劃。好的設計，一定是從你真實的能量、真實的行程，還有真實的限制開始。"
           },
           {
             "speaker": "b",
@@ -781,14 +674,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A weekly anchor. If you know the one practice that must appear every week, the rest of the plan has somewhere to attach.",
-            "zh": "一個每週錨點。如果你知道每週一定要出現的那一個練習是什麼，其他安排才會有地方可以掛上去。",
-            "vocab": [
-              {
-                "word": "weekly anchor",
-                "def": "一個每週錨點"
-              }
-            ]
+            "en": "One weekly routine. If you know the one practice that must appear every week, the rest of the plan has somewhere to attach.",
+            "zh": "一個固定的每週安排。如果你知道每週一定要出現的那一個練習是什麼，其他安排才會有地方可以掛上去。"
           },
           {
             "speaker": "b",
@@ -817,13 +704,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A realistic pace. If the plan only works in your best week, it is not a real plan yet.",
-            "zh": "一個現實的節奏。如果一個計畫只在你狀態最好的那週才成立，那它還不能算是真正的計畫。",
-            "vocab": [
-              {
-                "word": "realistic pace",
-                "def": "一個現實的節奏"
-              }
-            ]
+            "zh": "一個現實的節奏。如果一個計畫只在你狀態最好的那週才成立，那它還不能算是真正的計畫。"
           },
           {
             "speaker": "b",
@@ -847,13 +728,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The essential thing, unless you choose to protect it. That is why every meaningful plan needs a way to protect the essential.",
-            "zh": "通常是那個最重要的東西，除非你有意識地保護它。所以每一個有意義的計畫，都需要一個保護核心的方式。",
-            "vocab": [
-              {
-                "word": "protect the essential",
-                "def": "在忙亂時仍然守住真正重要的那一塊"
-              }
-            ]
+            "zh": "通常是那個最重要的東西，除非你有意識地保護它。所以每一個有意義的計畫，都需要一個保護核心的方式。"
           },
           {
             "speaker": "b",
@@ -894,31 +769,19 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another helpful line is: \"I want a default day that supports the person I am becoming.\" That works well when you are designing routines.",
-            "zh": "另一句也很好用的是：「I want a default day that supports the person I am becoming.」如果你在設計日常節奏，這句特別好用。",
-            "vocab": [
-              {
-                "word": "default day",
-                "def": "平常日自動會回到的基本生活樣子"
-              }
-            ]
+            "zh": "另一句也很好用的是：「I want a default day that supports the person I am becoming.」如果你在設計日常節奏，這句特別好用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Default day is a great expression.",
-            "zh": "default day 這個說法真的很好。"
+            "zh": "default day 這個英文說法真的很好。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something shorter, say: \"I am choosing direction over drama.\" That line is useful when you want steadiness, not emotional spikes.",
-            "zh": "如果你想短一點，可以說：「I am choosing direction over drama.」如果你想要的是穩，而不是情緒高低起伏，這句很好用。",
-            "vocab": [
-              {
-                "word": "direction over drama",
-                "def": "選擇穩定方向，而不是情緒化的大起大落"
-              }
-            ]
+            "en": "The shorter option is: \"I am choosing direction over drama.\" That line is useful when you want steadiness, not emotional spikes.",
+            "zh": "如果你想短一點，可以說：「I am choosing direction over drama.」要達到的是穩，而不是情緒高低起伏，這句很好用。"
           },
           {
             "speaker": "b",
@@ -947,25 +810,19 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Build a supporting environment. Put the materials where you need them, reduce friction, and make the better choice visible before you are tired.",
-            "zh": "先建立支援環境。把你需要的東西放在手邊、降低摩擦，並在你還沒累之前，就把比較好的選擇放到看得到的地方。",
-            "vocab": [
-              {
-                "word": "supporting environment",
-                "def": "先建立支援環境"
-              }
-            ]
+            "zh": "先建立支援環境。把你需要的東西放在手邊、降低摩擦，並在你還沒累之前，就把比較好的選擇放到看得到的地方。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So discipline gets lighter when setup gets smarter.",
-            "zh": "所以當 setup 比較聰明時，紀律本身就會變輕一些。"
+            "zh": "所以當事前安排更聰明時，紀律本身就會變輕一些。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good setup saves energy for the real work instead of wasting it on daily negotiations.",
-            "zh": "沒錯。好的 setup 會把力氣留給真正的工作，而不是每天都耗在內心談判。"
+            "zh": "沒錯。好的事前安排會把力氣留給真正的工作，而不是每天都耗在內心談判。"
           },
           {
             "speaker": "b",
@@ -977,13 +834,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Watch for an early indicator, like skipped mornings, growing resistance, or that familiar feeling that everything now depends on catching up later.",
-            "zh": "去看早期指標，例如早晨開始跳過、抗拒感越來越強，或那種很熟悉的感覺：好像現在所有事情都得靠「之後再補回來」才能成立。",
-            "vocab": [
-              {
-                "word": "early indicator",
-                "def": "在真正崩掉之前，就已經先出現的小訊號"
-              }
-            ]
+            "zh": "去看早期指標，例如早晨開始跳過、抗拒感越來越強，或那種很熟悉的感覺：好像現在所有事情都得靠「之後再補回來」才能成立。"
           },
           {
             "speaker": "b",
@@ -1055,14 +906,14 @@ export const WEEK_53: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "design around reality",
-        "zh": "用真實生活去設計，而不是用理想化版本的自己去設計",
-        "example": "The plan started working once she learned to design around reality."
+        "en": "plan around real life",
+        "zh": "按照真實生活去安排，而不是照理想化版本安排",
+        "example": "The plan started working once she learned to plan around real life."
       },
       {
-        "en": "weekly anchor",
-        "zh": "每週固定出現、能穩住整體節奏的核心安排",
-        "example": "His weekly anchor was one quiet planning hour every Sunday evening."
+        "en": "weekly routine",
+        "zh": "每週固定出現、能穩住整體節奏的安排",
+        "example": "His weekly routine was one quiet planning hour every Sunday evening."
       },
       {
         "en": "realistic pace",
@@ -1117,13 +968,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They matter because endings shape memory. When you close the chapter well, you help your mind understand what actually changed.",
-            "zh": "它們很重要，因為結束會塑造記憶。當你好好把一個篇章收起來時，你是在幫自己的心真的理解：到底改變了什麼。",
-            "vocab": [
-              {
-                "word": "close the chapter well",
-                "def": "用有意識的方式把一段經歷好好收尾"
-              }
-            ]
+            "zh": "它們很重要，因為結束會塑造記憶。當你好好把一個篇章收起來時，你是在幫自己的心真的理解：到底改變了什麼。"
           },
           {
             "speaker": "b",
@@ -1147,13 +992,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mark the ending in some visible way. Finish the desk, write the note, take the walk, or say the thank you while the moment is still real.",
-            "zh": "用某種看得見的方式把結束標出來。整理完桌面、寫下那封訊息、走最後那段路，或趁那個時刻還是真的時候，把謝謝說出口。",
-            "vocab": [
-              {
-                "word": "mark the ending",
-                "def": "用可見的方式承認一個階段真的結束了"
-              }
-            ]
+            "zh": "用某種看得見的方式把結束標出來。整理完桌面、寫下那封訊息、走最後那段路，或趁那個時刻還是真的時候，把謝謝說出口。"
           },
           {
             "speaker": "b",
@@ -1182,13 +1021,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Name what mattered. People often leave quickly and skip the part where they admit what the place, role, or relationship really gave them.",
-            "zh": "把重要的東西說出來。很多人離開得很快，卻跳過了那一段：承認那個地方、那個角色，或那段關係，實際上給了自己什麼。",
-            "vocab": [
-              {
-                "word": "name what mattered",
-                "def": "把真正重要、真正有影響的部分說清楚"
-              }
-            ]
+            "zh": "把重要的東西說出來。很多人離開得很快，卻跳過了那一段：承認那個地方、那個角色，或那段關係，實際上給了自己什麼。"
           },
           {
             "speaker": "b",
@@ -1212,19 +1045,13 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means to leave with intention. Not perfectly, but consciously. You choose the tone of the exit instead of disappearing emotionally before you leave physically.",
-            "zh": "那就是帶著意圖離開。不一定要完美，但要有意識。你去選擇這場離開的語氣，而不是在身體還沒走之前，情緒就先失蹤了。",
-            "vocab": [
-              {
-                "word": "leave with intention",
-                "def": "不逃避、不失神，而是有意識地完成離開"
-              }
-            ]
+            "zh": "那就是帶著意圖離開。不一定要完美，但要有意識。你去選擇這場離開的語氣，而不是在身體還沒走之前，情緒就先失蹤了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a powerful distinction.",
-            "zh": "這個區別真的很有力量。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "a",
@@ -1259,13 +1086,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I do not know the whole future yet, but I do know my first concrete step.\" That keeps the next chapter from feeling too huge.",
-            "zh": "另一句也很好用的是：「I do not know the whole future yet, but I do know my first concrete step.」它會讓下一章不會顯得那麼巨大。",
-            "vocab": [
-              {
-                "word": "first concrete step",
-                "def": "不是遠景"
-              }
-            ]
+            "zh": "另一句也很好用的是：「I do not know the whole future yet, but I do know my first concrete step.」它會讓下一章不會顯得那麼巨大。"
           },
           {
             "speaker": "b",
@@ -1277,13 +1098,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you need one more, say: \"I am learning to begin before I feel ready.\" That is one of the most honest transition sentences I know.",
-            "zh": "如果你還想再多一句，可以說：「I am learning to begin before I feel ready.」這是我知道最誠實的轉換句子之一。",
-            "vocab": [
-              {
-                "word": "begin before",
-                "def": "不是等完全準備好才開始"
-              }
-            ]
+            "zh": "如果你還想再多一句，可以說：「I am learning to begin before I feel ready.」這是我知道最誠實的轉換句子之一。"
           },
           {
             "speaker": "b",
@@ -1300,7 +1115,7 @@ export const WEEK_53: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What the First Step Should Actually Do",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1312,13 +1127,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should carry the best part forward. If the last season taught you courage, depth, or discipline, let the first step protect that instead of throwing everything away.",
-            "zh": "它應該把最好的部分帶去前面。如果上一段時期教會你的是勇氣、深度，或紀律，那第一步就該保護那些東西，而不是把全部都丟掉。",
-            "vocab": [
-              {
-                "word": "carry the best part forward",
-                "def": "把上一段中最有價值的部分帶進下一段"
-              }
-            ]
+            "zh": "它應該把最好的部分帶去前面。如果上一段時期教會你的是勇氣、深度，或紀律，那第一步就該保護那些東西，而不是把全部都丟掉。"
           },
           {
             "speaker": "b",
@@ -1342,13 +1151,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very small. Start where your feet are. Send the email, open the notebook, visit the place, or block the hour. Small beginnings are still beginnings.",
-            "zh": "可以非常小。從你腳下的位置開始。寄出那封信、打開那本筆記、去那個地方看一下，或先把那一個小時留出來。小的開始，也還是開始。",
-            "vocab": [
-              {
-                "word": "start where your feet are",
-                "def": "而不是等完美時機"
-              }
-            ]
+            "zh": "可以非常小。從你腳下的位置開始。寄出那封信、打開那本筆記、去那個地方看一下，或先把那一個小時留出來。小的開始，也還是開始。"
           },
           {
             "speaker": "b",
@@ -1361,12 +1164,7 @@ export const WEEK_53: Episode[] = [
             "speakerName": "Mira",
             "en": "Good. A first step should invite movement, not demand a performance.",
             "zh": "很好。第一步本來就應該邀請你移動，而不是要求你表演。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Holding the End and the Beginning Together",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",

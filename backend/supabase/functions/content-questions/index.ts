@@ -2,7 +2,7 @@ import { handleCors, jsonResponse } from '../_shared/cors.ts'
 import { createAdminClient } from '../_shared/supabase-client.ts'
 
 // Route: /content-questions/{weekNumber}/{dayOfWeek}
-// Returns all 5 questions for the week if dayOfWeek is omitted,
+// Returns all questions for the week if dayOfWeek is omitted,
 // or a single question for that specific day.
 
 Deno.serve(async (req) => {
@@ -25,11 +25,11 @@ Deno.serve(async (req) => {
 
     const supabase = createAdminClient()
 
-    // If dayOfWeek provided, return single question; otherwise return all 5 for the week
+    // If dayOfWeek provided, return single question; otherwise return all questions for the week.
     const dayOfWeek = dayOfWeekStr ? parseInt(dayOfWeekStr) : NaN
 
     if (!isNaN(dayOfWeek)) {
-      if (dayOfWeek < 1 || dayOfWeek > 5) {
+      if (dayOfWeek < 1 || dayOfWeek > 7) {
         return jsonResponse({ error: 'invalid_day_of_week' }, 400)
       }
       const { data, error } = await supabase

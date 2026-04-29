@@ -1,0 +1,3 @@
+Article word count: counted 365/365 articles
+Outliers with |diff| > 10: 0
+All article word counts are within tolerance.

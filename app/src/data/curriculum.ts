@@ -116,13 +116,13 @@ export const CURRICULUM: CurriculumWeek[] = [
     days: ['How does switching languages change how you think or feel?', 'What is something you can express in Chinese but struggle to say in English?', 'How has learning English changed your sense of self?', 'Do you feel like a different person when you speak English?', 'What does being bilingual mean to you and your identity?'] },
   { wn: 49, theme: 'Rest & Renewal', podcast: 'Why Rest Is Productive', phase: 'p6',
     days: ['How do you truly rest, not just stop working?', 'What is the most restorative thing you do for yourself?', 'Do you feel guilty about resting? Why or why not?', 'Describe a time when slowing down helped you achieve more.', 'What would a truly restful week look like for you?'] },
-  { wn: 50, theme: 'Gratitude & Appreciation', podcast: 'The Science of Gratitude', phase: 'p6',
+  { wn: 50, theme: 'Gratitude & Appreciation', podcast: 'Showing Thanks in Real Life', phase: 'p6',
     days: ['What are you most grateful for that you rarely talk about?', 'Has a gratitude practice ever changed your mood or outlook?', 'Who in your life deserves more thanks, and what would you say?', 'What hardship are you now grateful for?', 'How do you express appreciation to people who matter to you?'] },
-  { wn: 51, theme: 'Goals & Intentions', podcast: 'What Do You Really Want?', phase: 'p6',
+  { wn: 51, theme: 'Goals & Intentions', podcast: 'Goals That Fit Real Life', phase: 'p6',
     days: ['What is one goal you have been putting off, and why?', 'How do you set goals in a way that actually works for you?', 'What is the difference between a goal and an intention?', 'Describe a goal you achieved that changed you unexpectedly.', 'What would you pursue if you knew you could not fail?'] },
   { wn: 52, theme: 'Year in Review', podcast: 'Looking Back to Move Forward', phase: 'p6',
     days: ['What were the three most significant moments of your year?', 'What did you learn about yourself this year that surprised you?', 'What relationship changed most meaningfully this year?', 'What did you let go of this year, and how did it feel?', 'What one word would you use to describe the year you had?'] },
-  { wn: 53, theme: 'New Beginnings', podcast: 'The Threshold', phase: 'p6',
+  { wn: 53, theme: 'New Beginnings', podcast: 'Starting a New Chapter', phase: 'p6',
     days: ['What does starting fresh mean to you?', 'Describe a new beginning in your life that turned out better than expected.', 'What is one thing you want to commit to in your next chapter?', 'How do you say goodbye to chapters that are ending?', 'What does your best possible future self look like one year from now?'] },
 ]
 

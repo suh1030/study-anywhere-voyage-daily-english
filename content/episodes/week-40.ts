@@ -22,13 +22,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often the start of a transition period. The old structure still exists, but it no longer fully holds.",
-            "zh": "那通常就是一段轉換期的開始。舊結構還在，可是它已經沒辦法完整地撐住你了。",
-            "vocab": [
-              {
-                "word": "transition period",
-                "def": "一段轉換期的開始"
-              }
-            ]
+            "zh": "那通常就是一段轉換期的開始。舊結構還在，可是它已經沒辦法完整地撐住你了。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An old identity often keeps speaking for longer than it still fits.",
-            "zh": "完全沒錯。舊身分很多時候會講話講得比它還適合你的時間更久。",
-            "vocab": [
-              {
-                "word": "old identity",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。舊身分很多時候會講話講得比它還適合你的時間更久。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because a new routine has to be lived before it can be trusted, and trust always takes longer than decision.",
-            "zh": "因為一個新日常必須先真的活過，之後才會被信任，而信任永遠比決定來得慢。",
-            "vocab": [
-              {
-                "word": "new routine",
-                "def": "之後才會被信任"
-              }
-            ]
+            "zh": "因為一個新日常必須先真的活過，之後才會被信任，而信任永遠比決定來得慢。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Emotional lag is normal when the mind understands a change before the body does.",
-            "zh": "完全沒錯。當腦袋先理解改變、但身體還沒跟上時，情緒延遲是很正常的。",
-            "vocab": [
-              {
-                "word": "emotional lag",
-                "def": "外在事情已經改變了"
-              }
-            ]
+            "zh": "完全沒錯。當腦袋先理解改變、但身體還沒跟上時，情緒延遲是很正常的。"
           },
           {
             "speaker": "b",
@@ -164,13 +140,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'I am no longer where I was, but I am not fully settled in what comes next yet.'",
-            "zh": "另一句也很好用：「I am no longer where I was, but I am not fully settled in what comes next yet.」",
-            "vocab": [
-              {
-                "word": "settled",
-                "def": "安定的；安頓好的"
-              }
-            ]
+            "zh": "另一句也很好用：「I am no longer where I was, but I am not fully settled in what comes next yet.」"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, 'A lot is moving, and I am trying to move with it without rushing myself.'",
-            "zh": "如果你想講得更簡單，也可以說：「A lot is moving, and I am trying to move with it without rushing myself.」",
-            "vocab": [
-              {
-                "word": "without rushing",
-                "def": "那個既猶豫又關鍵的門檻時刻"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「A lot is moving, and I am trying to move with it without rushing myself.」"
           },
           {
             "speaker": "b",
@@ -229,13 +193,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Temporary ground matters because people cannot live on pure transition energy forever.",
-            "zh": "完全沒錯。暫時地板很重要，因為人不可能永遠只靠轉換能量活著。",
-            "vocab": [
-              {
-                "word": "temporary ground",
-                "def": "自己站得住腳的暫時穩定點"
-              }
-            ]
+            "zh": "完全沒錯。暫時地板很重要，因為人不可能永遠只靠轉換能量活著。"
           },
           {
             "speaker": "b",
@@ -288,13 +246,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why moving part awareness matters. A transition becomes less frightening when you can see what is still in motion.",
-            "zh": "也因此，移動中的部分意識很重要。當你看得見哪些東西還在移動時，一段轉換就會沒那麼可怕。",
-            "vocab": [
-              {
-                "word": "moving part",
-                "def": "也因此"
-              }
-            ]
+            "zh": "也因此，移動中的部分意識很重要。當你看得見哪些東西還在移動時，一段轉換就會沒那麼可怕。"
           },
           {
             "speaker": "b",
@@ -317,7 +269,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like a good beginning.",
+            "en": "It sounds like a good beginning.",
             "zh": "這聽起來就是一個很好的開始。"
           }
         ]
@@ -387,13 +339,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That makes sense because the nervous system trusts familiar pattern more quickly than hopeful possibility.",
-            "zh": "這很合理，因為神經系統通常會比起有希望的可能性，更快信任熟悉模式。",
-            "vocab": [
-              {
-                "word": "familiar pattern",
-                "def": "人雖然未必舒服"
-              }
-            ]
+            "zh": "這很合理，因為神經系統通常會比起有希望的可能性，更快信任熟悉模式。"
           },
           {
             "speaker": "b",
@@ -405,13 +351,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Control loss is part of why transition feels unsettling. You know what is ending before you know how the new thing will hold.",
-            "zh": "完全沒錯。控制感流失正是轉變讓人不安的原因之一。你會先知道舊的東西在結束，卻還不知道新的東西要怎麼撐住。",
-            "vocab": [
-              {
-                "word": "control loss",
-                "def": "那種失控的不安"
-              }
-            ]
+            "zh": "完全沒錯。控制感流失正是轉變讓人不安的原因之一。你會先知道舊的東西在結束，卻還不知道新的東西要怎麼撐住。"
           },
           {
             "speaker": "b",
@@ -452,13 +392,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because uncertainty stress lives in anticipation. The body braces for possibilities it cannot organize yet.",
-            "zh": "因為不確定壓力活在預期裡。身體會先為那些還整理不出形狀的可能性做好緊繃準備。",
-            "vocab": [
-              {
-                "word": "uncertainty stress",
-                "def": "因為未來還沒定下來而產生的壓力和緊張"
-              }
-            ]
+            "zh": "因為不確定壓力活在預期裡。身體會先為那些還整理不出形狀的可能性做好緊繃準備。"
           },
           {
             "speaker": "b",
@@ -470,13 +404,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Identity wobble can start even before any external outcome is final, because the self is already leaning away from certainty.",
-            "zh": "完全沒錯。身分搖晃甚至會在外在結果還沒真的定案前就開始，因為自我感已經先離開確定性了。",
-            "vocab": [
-              {
-                "word": "identity wobble",
-                "def": "改變開始後"
-              }
-            ]
+            "zh": "完全沒錯。身分搖晃甚至會在外在結果還沒真的定案前就開始，因為自我感已經先離開確定性了。"
           },
           {
             "speaker": "b",
@@ -529,8 +457,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clearer option here is 'The change is positive, but my body still reads it as uncertainty.'",
-            "zh": "另一句也很好用：「The change is positive, but my body still reads it as uncertainty.」",
-            "vocab": []
+            "zh": "另一句也很好用：「The change is positive, but my body still reads it as uncertainty.」"
           },
           {
             "speaker": "b",
@@ -542,13 +469,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, 'I know this is good, but I do not feel settled yet.'",
-            "zh": "如果你想講得更簡單，也可以說：「I know this is good, but I do not feel settled yet.」",
-            "vocab": [
-              {
-                "word": "settled",
-                "def": "安定的；安頓好的"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I know this is good, but I do not feel settled yet.」"
           },
           {
             "speaker": "b",
@@ -589,13 +510,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Emotional friction is often what growth feels like before the new shape becomes familiar.",
-            "zh": "完全沒錯。情緒摩擦很多時候就是成長在新形狀變熟之前的感覺。",
-            "vocab": [
-              {
-                "word": "emotional friction",
-                "def": "內心出現卡卡的阻力和不順感"
-              }
-            ]
+            "zh": "完全沒錯。情緒摩擦很多時候就是成長在新形狀變熟之前的感覺。"
           },
           {
             "speaker": "b",
@@ -607,13 +522,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "We often do. A predictable world is comforting, but it cannot be the only condition in which a person feels okay.",
-            "zh": "我們真的常常這樣。可預測的世界很安慰人，可是它不能變成一個人唯一能覺得還好的條件。",
-            "vocab": [
-              {
-                "word": "predictable world",
-                "def": "事情可預期"
-              }
-            ]
+            "zh": "我們真的常常這樣。可預測的世界很安慰人，可是它不能變成一個人唯一能覺得還好的條件。"
           },
           {
             "speaker": "b",
@@ -654,13 +563,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Nervous anticipation matters because it is often the body's first draft of adapting to the unknown.",
-            "zh": "緊張期待感很重要，因為它很多時候就是身體面對未知、寫出的第一版反應。",
-            "vocab": [
-              {
-                "word": "nervous anticipation",
-                "def": "緊張期待感很重要"
-              }
-            ]
+            "zh": "緊張期待感很重要，因為它很多時候就是身體面對未知、寫出的第一版反應。"
           },
           {
             "speaker": "b",
@@ -753,13 +656,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because role shift changes not only what you do. It also changes which version of yourself is being rehearsed most often.",
-            "zh": "對，因為角色轉換改變的不只是你做什麼，它同時也改變哪個版本的自己最常被練習。",
-            "vocab": [
-              {
-                "word": "role shift",
-                "def": "工作、家庭或人生位置改變後"
-              }
-            ]
+            "zh": "對，因為角色轉換改變的不只是你做什麼，它同時也改變哪個版本的自己最常被練習。"
           },
           {
             "speaker": "b",
@@ -771,13 +668,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Self-image gets rewritten quietly while daily life keeps asking you to answer as if nothing changed.",
-            "zh": "完全沒錯。自我形象會默默重寫，可是日常生活還是一直逼你用舊答案回應。",
-            "vocab": [
-              {
-                "word": "self-image",
-                "def": "一個人心裡對自己是什麼樣子的整體印象"
-              }
-            ]
+            "zh": "完全沒錯。自我形象會默默重寫，可是日常生活還是一直逼你用舊答案回應。"
           },
           {
             "speaker": "b",
@@ -818,13 +709,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The old social script still exists, but it no longer matches the person you are becoming.",
-            "zh": "舊的社會劇本還在，可是它已經和你正在成為的那個人對不上了。",
-            "vocab": [
-              {
-                "word": "social script",
-                "def": "舊的社會劇本還在"
-              }
-            ]
+            "zh": "舊的社會劇本還在，可是它已經和你正在成為的那個人對不上了。"
           },
           {
             "speaker": "b",
@@ -836,13 +721,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A belonging question often appears when identity rebuild begins, because people wonder where they still fit.",
-            "zh": "完全沒錯。當身分重建開始時，歸屬問題常常會浮上來，因為人會開始問自己還屬於哪裡。",
-            "vocab": [
-              {
-                "word": "belonging question",
-                "def": "改變之後"
-              }
-            ]
+            "zh": "完全沒錯。當身分重建開始時，歸屬問題常常會浮上來，因為人會開始問自己還屬於哪裡。"
           },
           {
             "speaker": "b",
@@ -859,8 +738,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful distinction.",
-            "zh": "這真的是很有用的區分。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "a",
@@ -895,13 +774,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, 'I am still learning how to name the life chapter I am entering.'",
-            "zh": "另一句也很好用：「I am still learning how to name the life chapter I am entering.」",
-            "vocab": [
-              {
-                "word": "life chapter",
-                "def": "人生裡某一段有自己主題和節奏的階段"
-              }
-            ]
+            "zh": "另一句也很好用：「I am still learning how to name the life chapter I am entering.」"
           },
           {
             "speaker": "b",
@@ -913,13 +786,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make it more everyday, try, 'I do not feel like my old self anymore, but I am not lost.'",
-            "zh": "如果你想講得更簡單，也可以說：「I do not feel like my old self anymore, but I am not lost.」",
-            "vocab": [
-              {
-                "word": "self anymore",
-                "def": "不再像以前的自己"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I do not feel like my old self anymore, but I am not lost.」"
           },
           {
             "speaker": "b",
@@ -936,7 +803,7 @@ export const WEEK_40: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Staying Kind While You Reorient",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -960,13 +827,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Inner reorientation matters because people often need to turn inward before they can speak outwardly again.",
-            "zh": "完全沒錯。內在重新定位很重要，因為很多人需要先在裡面轉向，之後才能再次對外說話。",
-            "vocab": [
-              {
-                "word": "inner reorientation",
-                "def": "內在重新定位很重要"
-              }
-            ]
+            "zh": "完全沒錯。內在重新定位很重要，因為很多人需要先在裡面轉向，之後才能再次對外說話。"
           },
           {
             "speaker": "b",
@@ -991,12 +852,7 @@ export const WEEK_40: Episode[] = [
             "speakerName": "Mira",
             "en": "Most deep change does.",
             "zh": "很多深層改變本來就是這樣。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Becoming Legible to Yourself Again",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1019,13 +875,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Former version respect matters because you do not need to hate who you were in order to become someone new.",
-            "zh": "尊重過去版本很重要，因為你不需要先討厭以前的自己，才有辦法成為新的自己。",
-            "vocab": [
-              {
-                "word": "former version",
-                "def": "尊重過去版本很重要"
-              }
-            ]
+            "zh": "尊重過去版本很重要，因為你不需要先討厭以前的自己，才有辦法成為新的自己。"
           },
           {
             "speaker": "b",
@@ -1081,9 +931,9 @@ export const WEEK_40: Episode[] = [
         "example": "Identity rebuild takes longer than people assume."
       },
       {
-        "en": "inner reorientation",
-        "zh": "改變中，內在方向感慢慢重新調整和對準的過程",
-        "example": "The move triggered a deep inner reorientation."
+        "en": "inner adjustment",
+        "zh": "改變中，內在方向感慢慢重新調整的過程",
+        "example": "The move triggered a deep inner adjustment."
       },
       {
         "en": "former version",
@@ -1118,13 +968,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is why a midlife restart can feel both humbling and strangely energizing at the same time.",
-            "zh": "對，也因此，中段重啟常常會同時讓人覺得很謙卑，又莫名有精神。",
-            "vocab": [
-              {
-                "word": "midlife restart",
-                "def": "不是從零歲開始"
-              }
-            ]
+            "zh": "對，也因此，中段重啟常常會同時讓人覺得很謙卑，又莫名有精神。"
           },
           {
             "speaker": "b",
@@ -1136,13 +980,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Beginner energy feels awkward when the person carrying it also remembers competence elsewhere.",
-            "zh": "完全沒錯。當一個本來在別處已經很熟的人，忽然要重新當新手時，那種初學者能量本來就會很彆扭。",
-            "vocab": [
-              {
-                "word": "beginner energy",
-                "def": "很彆扭"
-              }
-            ]
+            "zh": "完全沒錯。當一個本來在別處已經很熟的人，忽然要重新當新手時，那種初學者能量本來就會很彆扭。"
           },
           {
             "speaker": "b",
@@ -1195,13 +1033,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sunk cost thinking is powerful because it makes past effort feel like a prison instead of a preparation.",
-            "zh": "完全沒錯。沉沒成本思維很有力量，因為它會把過去的努力從準備，扭成監獄。",
-            "vocab": [
-              {
-                "word": "sunk cost",
-                "def": "而不敢轉向的心理拉力"
-              }
-            ]
+            "zh": "完全沒錯。沉沒成本思維很有力量，因為它會把過去的努力從準備，扭成監獄。"
           },
           {
             "speaker": "b",
@@ -1241,8 +1073,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am not starting from nothing. I am starting from experience, but in a new direction.'",
-            "zh": "你可以說：「I am not starting from nothing. I am starting from experience, but in a new direction.」"
+            "en": "A useful version of that is, 'I am not starting from nothing. I am starting from experience, but in a new direction.'",
+            "zh": "這裡很自然的說法是：「I am not starting from nothing. I am starting from experience, but in a new direction.」"
           },
           {
             "speaker": "b",
@@ -1254,13 +1086,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is 'It feels like a second beginning, not a total reset.'",
-            "zh": "另一句也很好用：「It feels like a second beginning, not a total reset.」",
-            "vocab": [
-              {
-                "word": "second beginning",
-                "def": "不是第一人生"
-              }
-            ]
+            "zh": "另一句也很好用：「It feels like a second beginning, not a total reset.」"
           },
           {
             "speaker": "b",
@@ -1272,13 +1098,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shorter version would be, 'I am learning to be new at something again.'",
-            "zh": "如果你想講得更簡單，也可以說：「I am learning to be new at something again.」",
-            "vocab": [
-              {
-                "word": "shorter version",
-                "def": "更短的說法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am learning to be new at something again.」"
           },
           {
             "speaker": "b",
@@ -1319,13 +1139,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A learning curve feels less humiliating when you remember you are not a child beginner. You are an experienced beginner.",
-            "zh": "完全沒錯。當你記得自己不是孩童式新手，而是有經驗的新手時，學習曲線就沒那麼羞辱人。",
-            "vocab": [
-              {
-                "word": "learning curve",
-                "def": "學習曲線"
-              }
-            ]
+            "zh": "完全沒錯。當你記得自己不是孩童式新手，而是有經驗的新手時，學習曲線就沒那麼羞辱人。"
           },
           {
             "speaker": "b",
@@ -1366,13 +1180,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "As a fresh attempt that carries history with it, not a rejection of everything that came before.",
-            "zh": "把它想成一個帶著歷史前進的新嘗試，而不是對過去一切的否定。",
-            "vocab": [
-              {
-                "word": "fresh attempt",
-                "def": "帶著新意圖重新試一次"
-              }
-            ]
+            "zh": "把它想成一個帶著歷史前進的新嘗試，而不是對過去一切的否定。"
           },
           {
             "speaker": "b",
@@ -1384,13 +1192,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Restarted path thinking matters because people become braver when they stop demanding purity from the new beginning.",
-            "zh": "重新上路的思維很重要，因為當人不再要求新的開始必須百分之百純粹時，通常也會變得更勇敢。",
-            "vocab": [
-              {
-                "word": "restarted path",
-                "def": "不是原路返回"
-              }
-            ]
+            "zh": "重新上路的思維很重要，因為當人不再要求新的開始必須百分之百純粹時，通常也會變得更勇敢。"
           },
           {
             "speaker": "b",
@@ -1413,7 +1215,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like a good shift.",
+            "en": "It feels like a good shift.",
             "zh": "這聽起來就是很好的轉變。"
           }
         ]
@@ -1495,17 +1297,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A core value helps because it gives the self a center while the external shape keeps changing.",
-            "zh": "完全沒錯。核心價值很有幫助，因為當外在形狀一直在變時，它還是能替自己留一個中心。",
-            "vocab": [
-              {
-                "word": "core value",
-                "def": "影響選擇的核心價值"
-              },
-              {
-                "word": "external",
-                "def": "工作、環境或關係等外在條件的實際改變"
-              }
-            ]
+            "zh": "完全沒錯。核心價值很有幫助，因為當外在形狀一直在變時，它還是能替自己留一個中心。"
           },
           {
             "speaker": "b",
@@ -1558,13 +1350,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A personal anchor matters because otherwise every external demand starts sounding equally important.",
-            "zh": "完全沒錯。個人錨點很重要，不然每一個外在要求最後都會聽起來一樣重要。",
-            "vocab": [
-              {
-                "word": "personal anchor",
-                "def": "個人錨點很重要"
-              }
-            ]
+            "zh": "完全沒錯。個人錨點很重要，不然每一個外在要求最後都會聽起來一樣重要。"
           },
           {
             "speaker": "b",
@@ -1604,8 +1390,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am trying to respond to change without abandoning the parts of myself that matter most.'",
-            "zh": "你可以說：「I am trying to respond to change without abandoning the parts of myself that matter most.」"
+            "en": "A phrase that works well here is, 'I am trying to respond to change without abandoning the parts of myself that matter most.'",
+            "zh": "這裡很自然的說法是：「I am trying to respond to change without abandoning the parts of myself that matter most.」"
           },
           {
             "speaker": "b",
@@ -1617,13 +1403,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is 'I want to be flexible in form, but consistent in values.'",
-            "zh": "另一句也很好用：「I want to be flexible in form, but consistent in values.」",
-            "vocab": [
-              {
-                "word": "flexible",
-                "def": "靈活的；有彈性的"
-              }
-            ]
+            "zh": "另一句也很好用：「I want to be flexible in form, but consistent in values.」"
           },
           {
             "speaker": "b",
@@ -1635,13 +1415,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "'I am changing, but I still want to feel like myself inside the change.' works well when you want something simpler.",
-            "zh": "如果你想講得更簡單，也可以說：「I am changing, but I still want to feel like myself inside the change.」",
-            "vocab": [
-              {
-                "word": "inside the change",
-                "def": "雖然外在改變了"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am changing, but I still want to feel like myself inside the change.」"
           },
           {
             "speaker": "b",
@@ -1670,13 +1444,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Afterward, do they feel more aligned or more emptied out? That question tells the truth quickly.",
-            "zh": "事後去問：我現在是比較對齊，還是比較被掏空？這個問題通常很快就會說實話。",
-            "vocab": [
-              {
-                "word": "more aligned",
-                "def": "還是比較被掏空"
-              }
-            ]
+            "zh": "事後去問：我現在是比較對齊，還是比較被掏空？這個問題通常很快就會說實話。"
           },
           {
             "speaker": "b",
@@ -1688,13 +1456,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Self-preservation matters because adaptation should expand life, not quietly shrink the self.",
-            "zh": "完全沒錯。自我保存很重要，因為適應應該是擴大生活，不是默默把自己縮小。",
-            "vocab": [
-              {
-                "word": "self-preservation",
-                "def": "適應應該是擴大生活"
-              }
-            ]
+            "zh": "完全沒錯。自我保存很重要，因為適應應該是擴大生活，不是默默把自己縮小。"
           },
           {
             "speaker": "b",
@@ -1747,13 +1509,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Adaptive move matters because good flexibility should protect the self while helping life keep moving.",
-            "zh": "適應性移動很重要，因為好的彈性應該一邊保護自己，一邊也讓生活繼續往前。",
-            "vocab": [
-              {
-                "word": "adaptive move",
-                "def": "整個失去自己的做法"
-              }
-            ]
+            "zh": "適應性移動很重要，因為好的彈性應該一邊保護自己，一邊也讓生活繼續往前。"
           },
           {
             "speaker": "b",
@@ -1776,7 +1532,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like good progress.",
+            "en": "It sounds like good progress.",
             "zh": "這聽起來就是很好的進展。"
           }
         ]
@@ -1840,13 +1596,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Sometimes what wears a person out is not only what they are doing, but what they are still carrying even though it no longer fits.",
-            "zh": "有時候一個人真正被耗累的，不只是他正在做什麼，而是那些早就不合身、卻還一直背著走的東西。",
-            "vocab": [
-              {
-                "word": "Sometimes",
-                "def": "有時候一個人真正被耗累的"
-              }
-            ]
+            "zh": "有時候一個人真正被耗累的，不只是他正在做什麼，而是那些早就不合身、卻還一直背著走的東西。"
           },
           {
             "speaker": "a",
@@ -1864,13 +1614,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Release work begins when people stop confusing familiarity with rightness.",
-            "zh": "完全沒錯。放手功課通常是從人不再把熟悉誤認成正確開始。",
-            "vocab": [
-              {
-                "word": "release work",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。放手功課通常是從人不再把熟悉誤認成正確開始。"
           },
           {
             "speaker": "b",
@@ -1911,13 +1655,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because old scripts offer identity, and grief layer gets attached to what we must leave even when leaving is right.",
-            "zh": "因為舊劇本會提供身分感，而悲傷層也會黏在那些必須離開的東西上，就算離開是對的。",
-            "vocab": [
-              {
-                "word": "old script",
-                "def": "就算離開是對的"
-              }
-            ]
+            "zh": "因為舊劇本會提供身分感，而悲傷層也會黏在那些必須離開的東西上，就算離開是對的。"
           },
           {
             "speaker": "b",
@@ -1929,13 +1667,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An honest ending often hurts because truth is arriving at the same time as loss.",
-            "zh": "完全沒錯。誠實的結束之所以會痛，是因為真相和失去往往會一起到場。",
-            "vocab": [
-              {
-                "word": "honest ending",
-                "def": "不再用拖延或自欺來延長"
-              }
-            ]
+            "zh": "完全沒錯。誠實的結束之所以會痛，是因為真相和失去往往會一起到場。"
           },
           {
             "speaker": "b",
@@ -1988,13 +1720,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'Letting go feels painful, but holding on is starting to feel less honest.'",
-            "zh": "另一句也很好用：「Letting go feels painful, but holding on is starting to feel less honest.」",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "不識時務的；不敏感的"
-              }
-            ]
+            "zh": "另一句也很好用：「Letting go feels painful, but holding on is starting to feel less honest.」"
           },
           {
             "speaker": "b",
@@ -2006,13 +1732,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'I think I have outgrown this, even if I still care about it.'",
-            "zh": "如果你想講得更簡單，也可以說：「I think I have outgrown this, even if I still care about it.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I think I have outgrown this, even if I still care about it.」"
           },
           {
             "speaker": "b",
@@ -2029,7 +1749,7 @@ export const WEEK_40: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Making Space for the Next Thing",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -2053,13 +1773,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Emotional clutter makes it hard to hear what the next season is asking for.",
-            "zh": "完全沒錯。情緒雜物會讓人很難聽見下一個季節到底在要什麼。",
-            "vocab": [
-              {
-                "word": "emotional clutter",
-                "def": "人難以看清方向的過多情緒和未整理感"
-              }
-            ]
+            "zh": "完全沒錯。情緒雜物會讓人很難聽見下一個季節到底在要什麼。"
           },
           {
             "speaker": "b",
@@ -2084,12 +1798,7 @@ export const WEEK_40: Episode[] = [
             "speakerName": "Mira",
             "en": "Good. It is worth keeping.",
             "zh": "很好。這句值得留下來。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — A Cleaner Space for the Self",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2112,13 +1821,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Cleaner space matters because the self also needs room, not just commitment.",
-            "zh": "更乾淨的空間很重要，因為自我也需要空間，不只是承諾。",
-            "vocab": [
-              {
-                "word": "cleaner space",
-                "def": "把不再適合的東西放下後"
-              }
-            ]
+            "zh": "更乾淨的空間很重要，因為自我也需要空間，不只是承諾。"
           },
           {
             "speaker": "b",
@@ -2141,7 +1844,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like good work.",
+            "en": "It sounds like good work.",
             "zh": "這聽起來就是很好的工作。"
           }
         ]
@@ -2211,13 +1914,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very common. Uncertain path situations often weaken self-trust before they reveal any actual outcome.",
-            "zh": "那真的很常見。不確定路徑的情況，常常會先削弱自我信任，之後才真的顯出結果。",
-            "vocab": [
-              {
-                "word": "uncertain path",
-                "def": "不確定路徑的情況"
-              }
-            ]
+            "zh": "那真的很常見。不確定路徑的情況，常常會先削弱自我信任，之後才真的顯出結果。"
           },
           {
             "speaker": "b",
@@ -2246,8 +1943,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really deep question.",
-            "zh": "這真的是很深的問題。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "a",
@@ -2270,13 +1967,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means trusting that you can respond, adjust, and remain in relationship with reality without collapsing or pretending.",
-            "zh": "它的意思是相信自己能夠回應、調整，而且在不崩潰也不假裝的情況下，繼續和現實保持關係。",
-            "vocab": [
-              {
-                "word": "reality without",
-                "def": "繼續和現實保持關係"
-              }
-            ]
+            "zh": "它的意思是相信自己能夠回應、調整，而且在不崩潰也不假裝的情況下，繼續和現實保持關係。"
           },
           {
             "speaker": "b",
@@ -2288,13 +1979,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An internal compass matters because external information is often incomplete in the middle of change.",
-            "zh": "完全沒錯。內在羅盤很重要，因為在變化的中間，外在資訊常常本來就不完整。",
-            "vocab": [
-              {
-                "word": "internal compass",
-                "def": "仍能替自己指方向的內在判斷感"
-              }
-            ]
+            "zh": "完全沒錯。內在羅盤很重要，因為在變化的中間，外在資訊常常本來就不完整。"
           },
           {
             "speaker": "b",
@@ -2347,13 +2032,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'I am learning to make provisional plans without needing total certainty.'",
-            "zh": "另一句也很好用：「I am learning to make provisional plans without needing total certainty.」",
-            "vocab": [
-              {
-                "word": "provisional plan",
-                "def": "先有方向、但保留調整空間的暫時性計畫"
-              }
-            ]
+            "zh": "另一句也很好用：「I am learning to make provisional plans without needing total certainty.」"
           },
           {
             "speaker": "b",
@@ -2365,13 +2044,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to keep it simple, 'I am trying to move carefully without freezing.' works well.",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying to move carefully without freezing.」",
-            "vocab": [
-              {
-                "word": "carefully without",
-                "def": "不是衝動賭一把"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am trying to move carefully without freezing.」"
           },
           {
             "speaker": "b",
@@ -2412,13 +2085,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Trust muscle grows through repeated experience of showing up, adjusting, and not abandoning yourself.",
-            "zh": "完全沒錯。信任肌肉就是靠反覆經驗長出來的：你有出現、你有調整，而且你沒有拋下自己。",
-            "vocab": [
-              {
-                "word": "trust muscle",
-                "def": "而且你沒有拋下自己"
-              }
-            ]
+            "zh": "完全沒錯。信任肌肉就是靠反覆經驗長出來的：你有出現、你有調整，而且你沒有拋下自己。"
           },
           {
             "speaker": "b",
@@ -2459,13 +2126,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because life rarely waits for complete certainty, and a person still deserves a way to keep walking forward with dignity.",
-            "zh": "因為人生很少等到百分之百確定才開始，而一個人即使如此，也還是值得擁有一種有尊嚴地往前走的方法。",
-            "vocab": [
-              {
-                "word": "complete certainty",
-                "def": "而一個人即使如此"
-              }
-            ]
+            "zh": "因為人生很少等到百分之百確定才開始，而一個人即使如此，也還是值得擁有一種有尊嚴地往前走的方法。"
           },
           {
             "speaker": "b",
@@ -2477,13 +2138,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Steady step thinking matters because uncertainty does not disappear all at once. People move through it one honest step at a time.",
-            "zh": "穩定步伐思維很重要，因為不確定不會一下子消失。人通常是一個誠實的步伐、一個誠實的步伐這樣走過去的。",
-            "vocab": [
-              {
-                "word": "steady step",
-                "def": "不是大跳"
-              }
-            ]
+            "zh": "穩定步伐思維很重要，因為不確定不會一下子消失。人通常是一個誠實的步伐、一個誠實的步伐這樣走過去的。"
           },
           {
             "speaker": "b",
@@ -2506,8 +2161,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we can stop there.",
-            "zh": "那我們就停在這裡。"
+            "en": "I think I can stay with that a little longer.",
+            "zh": "那我想我可以在這個感覺裡再多停留一下。"
           }
         ]
       }

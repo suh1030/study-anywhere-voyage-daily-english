@@ -9,10 +9,11 @@ import {
   ActivityIndicator,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
-import Svg, { Path, Rect } from 'react-native-svg' // Rect used in IconReview
+import Svg, { Path, Rect } from 'react-native-svg'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
-import { fetchFlashcards, type FlashcardRow } from '../../data/content-api'
+import { CURRICULUM, getScheduleEntry, getTodayKey, getWeekLength } from '../../data/curriculum'
+import { buildReviewPractice } from '../../data/review-practice'
+import { fetchFlashcards, fetchQuestion, type FlashcardRow, type QuestionRow } from '../../data/content-api'
 import { useCurriculumStore } from '../../stores/curriculumStore'
 import { useProgressStore } from '../../stores/progressStore'
 
@@ -75,7 +76,6 @@ function FlashcardItem({
         </View>
       )}
 
-      {/* Mark as Mastered button */}
       <TouchableOpacity
         style={styles.markMasteredBtn}
         onPress={() => onToggleMastered(card.id)}
@@ -93,43 +93,93 @@ export default function ReviewScreen() {
   const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const { masteredCards, toggleCard } = useProgressStore()
   const [cards, setCards] = useState<FlashcardRow[]>([])
+  const [questions, setQuestions] = useState<QuestionRow[]>([])
   const [loading, setLoading] = useState(true)
   const [filter, setFilter] = useState<Filter>('all')
   const [showOnboardingHint, setShowOnboardingHint] = useState(true)
 
+  const todayEntry = useMemo(() => {
+    if (scheduleLoading) return null
+    return getScheduleEntry(schedule, getTodayKey())
+  }, [schedule, scheduleLoading])
+
+  const curriculumWeek = useMemo(() => {
+    if (!todayEntry) return null
+    return CURRICULUM.find((week) => week.wn === todayEntry.week) ?? null
+  }, [todayEntry])
+
   useEffect(() => {
     if (scheduleLoading) return
 
-    const entry = getScheduleEntry(schedule, getTodayKey())
-    if (!entry) {
+    if (!todayEntry) {
       setCards([])
+      setQuestions([])
       setLoading(false)
       return
     }
 
+    let cancelled = false
+
     setLoading(true)
-    fetchFlashcards(entry.week).then((data) => {
-      setCards(data)
-      setLoading(false)
-    })
-  }, [schedule, scheduleLoading])
+    Promise.all([
+      fetchFlashcards(todayEntry.week),
+      Promise.all(
+        Array.from({ length: getWeekLength(todayEntry.week) }, (_unused, index) =>
+          fetchQuestion(todayEntry.week, index + 1),
+        ),
+      ),
+    ])
+      .then(([flashcardData, questionData]) => {
+        if (cancelled) return
+        setCards(flashcardData)
+        setQuestions(questionData.filter((row): row is QuestionRow => row !== null))
+        setLoading(false)
+      })
+      .catch(() => {
+        if (cancelled) return
+        setCards([])
+        setQuestions([])
+        setLoading(false)
+      })
+
+    return () => {
+      cancelled = true
+    }
+  }, [todayEntry, scheduleLoading])
 
   const filteredCards = useMemo(() => {
     return cards.filter((card) => {
       const isMastered = masteredCards.includes(card.id)
       switch (filter) {
-        case 'active': return !isMastered
-        case 'mastered': return isMastered
-        default: return true
+        case 'active':
+          return !isMastered
+        case 'mastered':
+          return isMastered
+        default:
+          return true
       }
     })
   }, [filter, masteredCards, cards])
 
   const stats = useMemo(() => {
     const total = cards.length
-    const mastered = cards.filter((c) => masteredCards.includes(c.id)).length
+    const mastered = cards.filter((card) => masteredCards.includes(card.id)).length
     return { total, mastered, pct: total > 0 ? Math.round((mastered / total) * 100) : 0 }
   }, [masteredCards, cards])
+
+  const reviewPractice = useMemo(() => {
+    return buildReviewPractice(cards, questions, masteredCards)
+  }, [cards, questions, masteredCards])
+
+  const recapPrompt = useMemo(() => {
+    if (!curriculumWeek) return null
+
+    return {
+      question: `In 4 to 6 sentences, what did this week on ${curriculumWeek.theme.toLowerCase()} help you notice about your own life?`,
+      hintZh: `用 4 到 6 句，說說這週主題「${curriculumWeek.theme}」讓你對自己的生活多看見了什麼，再加上一句你真的會用的英文表達。`,
+      structureHint: 'Use: One thing I noticed this week is... / A phrase I can actually use is... / Going forward, I want to...',
+    }
+  }, [curriculumWeek])
 
   const filters: { key: Filter; label: string }[] = [
     { key: 'all', label: 'ALL' },
@@ -145,7 +195,7 @@ export default function ReviewScreen() {
         onToggleMastered={toggleCard}
       />
     ),
-    [masteredCards, toggleCard]
+    [masteredCards, toggleCard],
   )
 
   if (loading) {
@@ -160,32 +210,32 @@ export default function ReviewScreen() {
 
   return (
     <SafeAreaView style={styles.container} edges={[]}>
-      {/* Stats */}
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>Flashcards</Text>
+        {todayEntry && (
+          <Text style={styles.headerEyebrow}>
+            WEEK {String(todayEntry.week).padStart(2, '0')} · {todayEntry.theme.toUpperCase()}
+          </Text>
+        )}
+        <Text style={styles.headerTitle}>Weekly Review</Text>
         <Text style={styles.headerStat}>
           {stats.mastered}/{stats.total} mastered ({stats.pct}%)
         </Text>
       </View>
 
-      {/* Filter Bar — 3 buttons: ALL | ACTIVE | MASTERED */}
       <View style={styles.filterBar}>
-        {filters.map((f) => (
+        {filters.map((option) => (
           <TouchableOpacity
-            key={f.key}
-            style={[styles.filterBtn, filter === f.key && styles.filterBtnActive]}
-            onPress={() => setFilter(f.key)}
+            key={option.key}
+            style={[styles.filterBtn, filter === option.key && styles.filterBtnActive]}
+            onPress={() => setFilter(option.key)}
           >
-            <Text
-              style={[styles.filterBtnText, filter === f.key && styles.filterBtnTextActive]}
-            >
-              {f.label}
+            <Text style={[styles.filterBtnText, filter === option.key && styles.filterBtnTextActive]}>
+              {option.label}
             </Text>
           </TouchableOpacity>
         ))}
       </View>
 
-      {/* Cards Grid */}
       <FlatList
         data={filteredCards}
         keyExtractor={(item) => item.id}
@@ -193,40 +243,119 @@ export default function ReviewScreen() {
         numColumns={NUM_COLUMNS}
         columnWrapperStyle={styles.row}
         contentContainerStyle={styles.listContent}
-        ListHeaderComponent={
-          showOnboardingHint ? (
-            <View style={styles.hintBox}>
-              <View style={styles.hintIcon}>
-                <IconReview color={colors.review} />
+        ListHeaderComponent={(
+          <View>
+            {showOnboardingHint && (
+              <View style={styles.hintBox}>
+                <View style={styles.hintIcon}>
+                  <IconReview color={colors.review} />
+                </View>
+                <View style={styles.hintContent}>
+                  <Text style={styles.hintTitle}>Review</Text>
+                  <Text style={styles.hintDesc}>
+                    先回想，再翻卡，最後講一段完整答案。不要一開始就看答案，先把這週內容從記憶裡拉回來。
+                  </Text>
+                  <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
+                    <Text style={styles.hintDismiss}>✕ Got it</Text>
+                  </TouchableOpacity>
+                </View>
               </View>
-              <View style={styles.hintContent}>
-                <Text style={styles.hintTitle}>Review</Text>
-                <Text style={styles.hintDesc}>
-                  點擊卡片翻面，查看中文意思與例句。熟記後標記為「已掌握」。
-                </Text>
-                <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
-                  <Text style={styles.hintDismiss}>✕ Got it</Text>
-                </TouchableOpacity>
+            )}
+
+            <View style={styles.summaryBox}>
+              <Text style={styles.sectionEyebrow}>REVIEW FLOW</Text>
+              <Text style={styles.sectionTitle}>把翻卡變成完整複習</Text>
+              <Text style={styles.sectionBody}>
+                先用這週題目做 retrieval，再用字卡補最後不穩的詞，最後用 3 個本週表達講一段自己的總結。
+              </Text>
+
+              <View style={styles.flowRow}>
+                <View style={styles.flowStep}>
+                  <Text style={styles.flowStepNumber}>1</Text>
+                  <Text style={styles.flowStepLabel}>Recall</Text>
+                </View>
+                <View style={styles.flowStep}>
+                  <Text style={styles.flowStepNumber}>2</Text>
+                  <Text style={styles.flowStepLabel}>Flashcards</Text>
+                </View>
+                <View style={styles.flowStep}>
+                  <Text style={styles.flowStepNumber}>3</Text>
+                  <Text style={styles.flowStepLabel}>Speak</Text>
+                </View>
               </View>
             </View>
-          ) : null
-        }
-        ListEmptyComponent={
+
+            {reviewPractice.recallPrompts.length > 0 && (
+              <View style={styles.sectionPanel}>
+                <Text style={styles.sectionEyebrow}>RETRIEVAL</Text>
+                <Text style={styles.sectionTitle}>本週回想題</Text>
+
+                {reviewPractice.recallPrompts.map((prompt, index) => (
+                  <View key={prompt.id} style={styles.promptCard}>
+                    <View style={styles.promptIndexWrap}>
+                      <Text style={styles.promptIndex}>{index + 1}</Text>
+                    </View>
+
+                    <View style={styles.promptMain}>
+                      <Text style={styles.promptQuestion}>{prompt.question}</Text>
+                      {prompt.hintZh && (
+                        <Text style={styles.promptHintZh}>{prompt.hintZh}</Text>
+                      )}
+                      {prompt.structureHint && (
+                        <Text style={styles.promptStructure}>{prompt.structureHint}</Text>
+                      )}
+                    </View>
+                  </View>
+                ))}
+              </View>
+            )}
+
+            {recapPrompt && (
+              <View style={styles.challengeBox}>
+                <Text style={styles.sectionEyebrow}>WEEKLY RECAP</Text>
+                <Text style={styles.sectionTitle}>用本週語言說一段完整總結</Text>
+                <Text style={styles.challengeQuestion}>{recapPrompt.question}</Text>
+                <Text style={styles.challengeHintZh}>{recapPrompt.hintZh}</Text>
+                <Text style={styles.challengeHintEn}>{recapPrompt.structureHint}</Text>
+
+                {reviewPractice.challengeCards.length > 0 && (
+                  <View style={styles.challengeChipRow}>
+                    {reviewPractice.challengeCards.map((card) => {
+                      const chipColor = card.source === 'listen' ? colors.listen : colors.speak
+                      return (
+                        <View
+                          key={card.id}
+                          style={[styles.challengeChip, { borderColor: `${chipColor}60`, backgroundColor: `${chipColor}14` }]}
+                        >
+                          <Text style={styles.challengeChipWord}>{card.english}</Text>
+                          <Text style={[styles.challengeChipSource, { color: chipColor }]}>
+                            {card.source === 'listen' ? 'LISTEN' : 'SPEAK'}
+                          </Text>
+                        </View>
+                      )
+                    })}
+                  </View>
+                )}
+              </View>
+            )}
+          </View>
+        )}
+        ListEmptyComponent={(
           <View style={styles.emptyContainer}>
             <Text style={styles.emptyText}>
               {filter === 'mastered'
                 ? 'No mastered cards yet.\nTap the button on any card to mark it.'
                 : filter === 'active'
-                ? 'All cards are mastered!'
-                : 'No flashcards for this week yet.'}
+                  ? 'All cards are mastered!'
+                  : 'No flashcards for this week yet.'}
             </Text>
-            {(filter !== 'all') && (
+            {filter !== 'all' && (
               <TouchableOpacity style={styles.emptyFilterBtn} onPress={() => setFilter('all')}>
                 <Text style={styles.emptyFilterBtnText}>SHOW ALL CARDS</Text>
               </TouchableOpacity>
             )}
           </View>
-        }
+        )}
       />
     </SafeAreaView>
   )
@@ -239,6 +368,13 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.lg,
     paddingTop: spacing.md,
     paddingBottom: spacing.sm,
+  },
+  headerEyebrow: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    letterSpacing: 1.4,
+    color: colors.review,
+    marginBottom: 6,
   },
   headerTitle: { fontFamily: fonts.outfitMedium, fontSize: 24, color: colors.text },
   headerStat: {
@@ -280,8 +416,6 @@ const styles = StyleSheet.create({
     paddingTop: spacing.sm,
     paddingBottom: 100,
   },
-
-  // Onboarding hint box
   hintBox: {
     backgroundColor: colors.surface,
     borderWidth: 1,
@@ -295,10 +429,180 @@ const styles = StyleSheet.create({
   },
   hintIcon: { paddingTop: 2 },
   hintContent: { flex: 1 },
-  hintTitle: { fontFamily: fonts.outfitMedium, fontSize: 14, color: colors.ui, marginBottom: 4 },
-  hintDesc: { fontSize: 12, color: colors.muted, lineHeight: 18, marginBottom: 8 },
-  hintDismiss: { fontFamily: fonts.mono, fontSize: 11, color: colors.error, marginTop: 2 },
-
+  hintTitle: {
+    fontFamily: fonts.outfitMedium,
+    fontSize: 14,
+    color: colors.ui,
+    marginBottom: 4,
+  },
+  hintDesc: {
+    fontSize: 12,
+    color: colors.muted,
+    lineHeight: 18,
+    marginBottom: 8,
+  },
+  hintDismiss: {
+    fontFamily: fonts.mono,
+    fontSize: 11,
+    color: colors.error,
+    marginTop: 2,
+  },
+  summaryBox: {
+    marginHorizontal: spacing.lg,
+    marginBottom: spacing.lg,
+    padding: spacing.lg,
+    borderRadius: radius.lg,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  sectionPanel: {
+    marginHorizontal: spacing.lg,
+    marginBottom: spacing.lg,
+    padding: spacing.md,
+    borderRadius: radius.md,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  challengeBox: {
+    marginHorizontal: spacing.lg,
+    marginBottom: spacing.lg,
+    padding: spacing.lg,
+    borderRadius: radius.lg,
+    backgroundColor: colors.surface2,
+    borderWidth: 1,
+    borderColor: colors.review + '35',
+  },
+  sectionEyebrow: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    letterSpacing: 1.4,
+    color: colors.review,
+    marginBottom: 8,
+  },
+  sectionTitle: {
+    fontFamily: fonts.outfitMedium,
+    fontSize: 18,
+    color: colors.text,
+    marginBottom: 8,
+  },
+  sectionBody: {
+    ...typography.body,
+    color: colors.muted,
+  },
+  flowRow: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+    marginTop: spacing.md,
+  },
+  flowStep: {
+    flex: 1,
+    borderRadius: radius.md,
+    borderWidth: 1,
+    borderColor: colors.border2,
+    paddingVertical: 10,
+    paddingHorizontal: spacing.sm,
+    backgroundColor: colors.surface2,
+    alignItems: 'center',
+  },
+  flowStepNumber: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    color: colors.review,
+    marginBottom: 4,
+  },
+  flowStepLabel: {
+    fontFamily: fonts.outfitMedium,
+    fontSize: 13,
+    color: colors.text,
+  },
+  promptCard: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+    paddingVertical: spacing.sm,
+    borderTopWidth: 1,
+    borderTopColor: colors.border,
+  },
+  promptIndexWrap: {
+    width: 28,
+    height: 28,
+    borderRadius: radius.full,
+    borderWidth: 1,
+    borderColor: colors.review + '55',
+    backgroundColor: colors.review + '12',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 2,
+  },
+  promptIndex: {
+    fontFamily: fonts.mono,
+    fontSize: 11,
+    color: colors.review,
+  },
+  promptMain: { flex: 1 },
+  promptQuestion: {
+    fontFamily: fonts.outfit,
+    fontSize: 16,
+    color: colors.text,
+    lineHeight: 24,
+  },
+  promptHintZh: {
+    fontSize: 13,
+    color: colors.muted,
+    lineHeight: 20,
+    marginTop: 6,
+  },
+  promptStructure: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    lineHeight: 17,
+    color: colors.gold2,
+    marginTop: 8,
+  },
+  challengeQuestion: {
+    fontFamily: fonts.outfit,
+    fontSize: 17,
+    color: colors.text,
+    lineHeight: 26,
+    marginBottom: 8,
+  },
+  challengeHintZh: {
+    fontSize: 13,
+    color: colors.muted,
+    lineHeight: 20,
+    marginBottom: 8,
+  },
+  challengeHintEn: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    lineHeight: 17,
+    color: colors.gold2,
+  },
+  challengeChipRow: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: spacing.sm,
+    marginTop: spacing.md,
+  },
+  challengeChip: {
+    minWidth: 110,
+    paddingHorizontal: 10,
+    paddingVertical: 8,
+    borderRadius: radius.md,
+    borderWidth: 1,
+  },
+  challengeChipWord: {
+    fontFamily: fonts.outfitMedium,
+    fontSize: 14,
+    color: colors.text,
+  },
+  challengeChipSource: {
+    fontFamily: fonts.mono,
+    fontSize: 8,
+    letterSpacing: 1.1,
+    marginTop: 4,
+  },
   card: {
     width: CARD_WIDTH,
     minHeight: 120,
@@ -365,7 +669,6 @@ const styles = StyleSheet.create({
     letterSpacing: 1.5,
     color: colors.review,
   },
-  // Mark as Mastered button at bottom of each card
   markMasteredBtn: {
     position: 'absolute',
     bottom: 0,

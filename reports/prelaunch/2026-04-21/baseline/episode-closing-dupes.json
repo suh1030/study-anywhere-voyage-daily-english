@@ -1,0 +1,293 @@
+{
+  "totalEpisodes": 365,
+  "duplicateGroups": [
+    {
+      "normalized": "then we can stop there",
+      "closingLine": "Then we can stop there.",
+      "count": 3,
+      "episodeIds": [
+        "W37D5",
+        "W39D2",
+        "W40D7"
+      ],
+      "titles": [
+        "Talking More Honestly About Struggle",
+        "What Money Means Beyond Numbers",
+        "Trusting Yourself Through Uncertainty"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "let us end on that note",
+      "closingLine": "Let us end on that note.",
+      "count": 2,
+      "episodeIds": [
+        "W34D6",
+        "W36D7"
+      ],
+      "titles": [
+        "Aging, Recovery, and Exercising for the Long Term",
+        "Living Alongside Smarter Machines"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "let us keep it then",
+      "closingLine": "Let us keep it, then.",
+      "count": 2,
+      "episodeIds": [
+        "W34D2",
+        "W52D7"
+      ],
+      "titles": [
+        "Why People Exercise for Different Reasons",
+        "A Letter to Your Future Self"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "so am i",
+      "closingLine": "So am I.",
+      "count": 2,
+      "episodeIds": [
+        "W38D7",
+        "W39D7"
+      ],
+      "titles": [
+        "What a Sustainable Future Could Look Like",
+        "A Healthier Relationship with Money"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that feels true for me too",
+      "closingLine": "That feels true for me too.",
+      "count": 2,
+      "episodeIds": [
+        "W36D1",
+        "W51D1"
+      ],
+      "titles": [
+        "Intelligent Machines: Living With AI",
+        "What Do You Really Want?"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that lands the same way for me",
+      "closingLine": "That lands the same way for me.",
+      "count": 2,
+      "episodeIds": [
+        "W33D2",
+        "W52D6"
+      ],
+      "titles": [
+        "Why Nature Changes the Way We Feel",
+        "Creativity and Joy in Review"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that rings true for me as well",
+      "closingLine": "That rings true for me as well.",
+      "count": 2,
+      "episodeIds": [
+        "W32D3",
+        "W52D2"
+      ],
+      "titles": [
+        "Hobbies as Relief From Hustle Culture",
+        "Relationships and Connections"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that sounds like a good start",
+      "closingLine": "That sounds like a good start.",
+      "count": 2,
+      "episodeIds": [
+        "W32D2",
+        "W39D3"
+      ],
+      "titles": [
+        "Why People Collect Things",
+        "Saving, Spending, and Personal Priorities"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "then we can stop here",
+      "closingLine": "Then we can stop here.",
+      "count": 2,
+      "episodeIds": [
+        "W39D1",
+        "W39D5"
+      ],
+      "titles": [
+        "Talking About Money: Goals, Habits, and Mindset",
+        "Financial Goals and Emotional Pressure"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "then we should end there",
+      "closingLine": "Then we should end there.",
+      "count": 2,
+      "episodeIds": [
+        "W33D7",
+        "W36D6"
+      ],
+      "titles": [
+        "Living Closer to the Living World",
+        "Ethics, Bias, and Responsibility"
+      ],
+      "whitelisted": false
+    }
+  ],
+  "effectiveDuplicateGroups": [
+    {
+      "normalized": "then we can stop there",
+      "closingLine": "Then we can stop there.",
+      "count": 3,
+      "episodeIds": [
+        "W37D5",
+        "W39D2",
+        "W40D7"
+      ],
+      "titles": [
+        "Talking More Honestly About Struggle",
+        "What Money Means Beyond Numbers",
+        "Trusting Yourself Through Uncertainty"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "let us end on that note",
+      "closingLine": "Let us end on that note.",
+      "count": 2,
+      "episodeIds": [
+        "W34D6",
+        "W36D7"
+      ],
+      "titles": [
+        "Aging, Recovery, and Exercising for the Long Term",
+        "Living Alongside Smarter Machines"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "let us keep it then",
+      "closingLine": "Let us keep it, then.",
+      "count": 2,
+      "episodeIds": [
+        "W34D2",
+        "W52D7"
+      ],
+      "titles": [
+        "Why People Exercise for Different Reasons",
+        "A Letter to Your Future Self"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "so am i",
+      "closingLine": "So am I.",
+      "count": 2,
+      "episodeIds": [
+        "W38D7",
+        "W39D7"
+      ],
+      "titles": [
+        "What a Sustainable Future Could Look Like",
+        "A Healthier Relationship with Money"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that feels true for me too",
+      "closingLine": "That feels true for me too.",
+      "count": 2,
+      "episodeIds": [
+        "W36D1",
+        "W51D1"
+      ],
+      "titles": [
+        "Intelligent Machines: Living With AI",
+        "What Do You Really Want?"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that lands the same way for me",
+      "closingLine": "That lands the same way for me.",
+      "count": 2,
+      "episodeIds": [
+        "W33D2",
+        "W52D6"
+      ],
+      "titles": [
+        "Why Nature Changes the Way We Feel",
+        "Creativity and Joy in Review"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that rings true for me as well",
+      "closingLine": "That rings true for me as well.",
+      "count": 2,
+      "episodeIds": [
+        "W32D3",
+        "W52D2"
+      ],
+      "titles": [
+        "Hobbies as Relief From Hustle Culture",
+        "Relationships and Connections"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "that sounds like a good start",
+      "closingLine": "That sounds like a good start.",
+      "count": 2,
+      "episodeIds": [
+        "W32D2",
+        "W39D3"
+      ],
+      "titles": [
+        "Why People Collect Things",
+        "Saving, Spending, and Personal Priorities"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "then we can stop here",
+      "closingLine": "Then we can stop here.",
+      "count": 2,
+      "episodeIds": [
+        "W39D1",
+        "W39D5"
+      ],
+      "titles": [
+        "Talking About Money: Goals, Habits, and Mindset",
+        "Financial Goals and Emotional Pressure"
+      ],
+      "whitelisted": false
+    },
+    {
+      "normalized": "then we should end there",
+      "closingLine": "Then we should end there.",
+      "count": 2,
+      "episodeIds": [
+        "W33D7",
+        "W36D6"
+      ],
+      "titles": [
+        "Living Closer to the Living World",
+        "Ethics, Bias, and Responsibility"
+      ],
+      "whitelisted": false
+    }
+  ],
+  "whitelist": [],
+  "passed": false
+}

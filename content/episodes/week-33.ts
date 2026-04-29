@@ -22,13 +22,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens more than people admit. Sometimes the body recognizes fresh air before the mind catches up.",
-            "zh": "這種事比大家承認的更常發生。有時候身體比腦更早認出新鮮空氣的價值。",
-            "vocab": [
-              {
-                "word": "fresh air",
-                "def": "不只是戶外空氣"
-              }
-            ]
+            "zh": "這種事比大家承認的更常發生。有時候身體比腦更早認出新鮮空氣的價值。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because open space changes internal space too.",
-            "zh": "因為開闊的空間，很多時候也會一起改變人的內在空間。",
-            "vocab": [
-              {
-                "word": "open space",
-                "def": "開闊的空間"
-              }
-            ]
+            "zh": "因為開闊的空間，很多時候也會一起改變人的內在空間。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Going outside can be a nervous-system event, not just a lifestyle preference.",
-            "zh": "完全沒錯。走到外面，有時候比較像一個神經系統事件，不只是生活風格偏好。",
-            "vocab": [
-              {
-                "word": "nervous-system event",
-                "def": "身體因為環境改變而慢慢恢復穩定的狀態"
-              }
-            ]
+            "zh": "完全沒錯。走到外面，有時候比較像一個神經系統事件，不只是生活風格偏好。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because manageability is not the same as nourishment. The body can function while still being underfed in a sensory way.",
-            "zh": "因為過得下去不等於有被滋養。身體可以正常運作，但同時在感官層次上還是很餓。",
-            "vocab": [
-              {
-                "word": "nourishment",
-                "def": "過得下去不等於有被滋養"
-              }
-            ]
+            "zh": "因為過得下去不等於有被滋養。身體可以正常運作，但同時在感官層次上還是很餓。"
           },
           {
             "speaker": "b",
@@ -111,31 +87,19 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Light, distance, movement, and weather all tell the body that it is living in a real world, not only in a task list.",
-            "zh": "完全沒錯。光線、距離、移動和天氣，都會提醒身體：自己活在一個真實世界裡，不只是活在待辦清單裡。",
-            "vocab": [
-              {
-                "word": "movement",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。光線、距離、移動和天氣，都會提醒身體：自己活在一個真實世界裡，不只是活在待辦清單裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a real relief to hear put into words.",
-            "zh": "這種感覺被講出來，真的很讓人鬆一口氣。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of outdoor life is ordinary medicine that people keep calling optional.",
-            "zh": "很多戶外生活其實像很普通的藥，只是人一直把它叫成『可有可無』而已。",
-            "vocab": [
-              {
-                "word": "ordinary medicine",
-                "def": "很多戶外生活其實像很普通的藥"
-              }
-            ]
+            "zh": "很多戶外生活其實像很普通的藥，只是人一直把它叫成『可有可無』而已。"
           },
           {
             "speaker": "b",
@@ -176,13 +140,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, 'I do not always need a big trip. Sometimes I just need a little more sky.'",
-            "zh": "另一句也很好用：「I do not always need a big trip. Sometimes I just need a little more sky.」",
-            "vocab": [
-              {
-                "word": "always need",
-                "def": "不是遠行"
-              }
-            ]
+            "zh": "另一句也很好用：「I do not always need a big trip. Sometimes I just need a little more sky.」"
           },
           {
             "speaker": "b",
@@ -194,13 +152,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something more reflective, you could say, 'Time outdoors reminds me that my life is bigger than whatever I am worrying about today.'",
-            "zh": "如果你想講得再反思一點，也可以說：「Time outdoors reminds me that my life is bigger than whatever I am worrying about today.」",
-            "vocab": [
-              {
-                "word": "outdoors reminds",
-                "def": "特地把週末的一部分留給戶外活動的生活安排"
-              }
-            ]
+            "zh": "如果你想講得再反思一點，也可以說：「Time outdoors reminds me that my life is bigger than whatever I am worrying about today.」"
           },
           {
             "speaker": "b",
@@ -241,13 +193,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A small outdoor ritual is often more realistic than a dramatic lifestyle change.",
-            "zh": "完全沒錯。一個小小的戶外儀式，通常比很戲劇化的生活改造更實際。",
-            "vocab": [
-              {
-                "word": "outdoor ritual",
-                "def": "固定把自己帶到戶外的小習慣或小儀式"
-              }
-            ]
+            "zh": "完全沒錯。一個小小的戶外儀式，通常比很戲劇化的生活改造更實際。"
           },
           {
             "speaker": "b",
@@ -259,13 +205,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. A habit survives better when it respects the actual life you have.",
-            "zh": "本來就該如此。習慣如果要活下來，就得尊重你現在真正擁有的生活。",
-            "vocab": [
-              {
-                "word": "actual life",
-                "def": "真正屬於自己，而不只是工作的生活"
-              }
-            ]
+            "zh": "本來就該如此。習慣如果要活下來，就得尊重你現在真正擁有的生活。"
           },
           {
             "speaker": "b",
@@ -306,13 +246,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The outdoors often returns people to scale.",
-            "zh": "戶外很多時候是在把人的比例感還回來。",
-            "vocab": [
-              {
-                "word": "outdoors often returns",
-                "def": "戶外很多時候是在把人的比例感還回來"
-              }
-            ]
+            "zh": "戶外很多時候是在把人的比例感還回來。"
           },
           {
             "speaker": "b",
@@ -324,13 +258,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It is not always the size of the place. It is the kind of relationship the place makes possible.",
-            "zh": "完全沒錯。重點不一定在那個地方有多大，而在於它讓你和世界建立了什麼樣的關係。",
-            "vocab": [
-              {
-                "word": "possible",
-                "def": "重點不一定在那個地方有多大"
-              }
-            ]
+            "zh": "完全沒錯。重點不一定在那個地方有多大，而在於它讓你和世界建立了什麼樣的關係。"
           },
           {
             "speaker": "b",
@@ -411,13 +339,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very common. Nature often works before language does.",
-            "zh": "這很常見。自然很多時候是在語言之前先發生作用。",
-            "vocab": [
-              {
-                "word": "before language",
-                "def": "自然很多時候是在語言之前先發生作用"
-              }
-            ]
+            "zh": "這很常見。自然很多時候是在語言之前先發生作用。"
           },
           {
             "speaker": "b",
@@ -429,31 +351,19 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually, yes. Breath slows, shoulders drop, and attention stops clenching so hard.",
-            "zh": "通常是。呼吸會慢一點、肩膀會掉下來，注意力也不會再那麼用力地緊抓著。",
-            "vocab": [
-              {
-                "word": "attention stops clenching",
-                "def": "身體從緊繃慢慢鬆回來的過程"
-              }
-            ]
+            "zh": "通常是。呼吸會慢一點、肩膀會掉下來，注意力也不會再那麼用力地緊抓著。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a perfect description.",
-            "zh": "這個描述真的很準。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Nature often offers a form of relief that does not demand explanation.",
-            "zh": "自然給人的，常常是一種不需要你先解釋清楚就能得到的舒緩。",
-            "vocab": [
-              {
-                "word": "demand explanation",
-                "def": "自然給人的"
-              }
-            ]
+            "zh": "自然給人的，常常是一種不需要你先解釋清楚就能得到的舒緩。"
           },
           {
             "speaker": "b",
@@ -494,13 +404,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is part of why emotional regulation becomes easier outdoors.",
-            "zh": "完全沒錯。這也是為什麼，人在戶外時情緒調節常常會比較容易。",
-            "vocab": [
-              {
-                "word": "emotional regulation",
-                "def": "比較容易"
-              }
-            ]
+            "zh": "完全沒錯。這也是為什麼，人在戶外時情緒調節常常會比較容易。"
           },
           {
             "speaker": "b",
@@ -512,13 +416,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Nature can reduce mental load simply by being less crowded with signals.",
-            "zh": "對。自然很多時候光是因為訊號比較不擁擠，就能減輕心智負擔。",
-            "vocab": [
-              {
-                "word": "mental load",
-                "def": "減輕心智負擔"
-              }
-            ]
+            "zh": "對。自然很多時候光是因為訊號比較不擁擠，就能減輕心智負擔。"
           },
           {
             "speaker": "b",
@@ -546,8 +444,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'Being around trees and sky changes my state more quickly than I expect.'",
-            "zh": "你可以說：「Being around trees and sky changes my state more quickly than I expect.」"
+            "en": "The phrasing that lands clearly is, 'Being around trees and sky changes my state more quickly than I expect.'",
+            "zh": "這裡很自然的說法是：「Being around trees and sky changes my state more quickly than I expect.」"
           },
           {
             "speaker": "b",
@@ -559,13 +457,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version would be 'Nature helps me feel less mentally crowded.'",
-            "zh": "另一句也很好用：「Nature helps me feel less mentally crowded.」",
-            "vocab": [
-              {
-                "word": "mentally crowded",
-                "def": "腦子很擠；心裡很塞"
-              }
-            ]
+            "zh": "另一句也很好用：「Nature helps me feel less mentally crowded.」"
           },
           {
             "speaker": "b",
@@ -576,14 +468,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something more reflective, another option is, 'Time outside reminds me that I do not have to match the speed of every thought.'",
-            "zh": "如果你想講得再反思一點，也可以說：「Time outside reminds me that I do not have to match the speed of every thought.」",
-            "vocab": [
-              {
-                "word": "outside",
-                "def": "你重要；你在乎的"
-              }
-            ]
+            "en": "When you need something more reflective, another option is, 'Time outside reminds me that I do not have to match the speed of every thought.'",
+            "zh": "如果你想講得再反思一點，也可以說：「Time outside reminds me that I do not have to match the speed of every thought.」"
           },
           {
             "speaker": "b",
@@ -600,7 +486,7 @@ export const WEEK_33: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Why Small Contact Still Counts",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -624,13 +510,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It often responds to contrast more than quantity.",
-            "zh": "完全沒錯。它很多時候比較是在回應對比，不是在計算數量。",
-            "vocab": [
-              {
-                "word": "contrast",
-                "def": "對比；反差"
-              }
-            ]
+            "zh": "完全沒錯。它很多時候比較是在回應對比，不是在計算數量。"
           },
           {
             "speaker": "b",
@@ -642,13 +522,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should be. People do not need to wait for a perfect mountain to receive a small repair.",
-            "zh": "本來就該鼓舞。人不需要等到完美的山裡，才能收到一點修復。",
-            "vocab": [
-              {
-                "word": "small repair",
-                "def": "才能收到一點修復"
-              }
-            ]
+            "zh": "本來就該鼓舞。人不需要等到完美的山裡，才能收到一點修復。"
           },
           {
             "speaker": "b",
@@ -661,12 +535,7 @@ export const WEEK_33: Episode[] = [
             "speakerName": "Mira",
             "en": "And that matters if we want the habit to last.",
             "zh": "如果我們希望這習慣活得久，這點非常重要。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Why We Keep Returning",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -689,13 +558,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe it is. Nature can return scale, humility, and softness at the same time.",
-            "zh": "也許真的有一點。自然會同時把尺度感、謙卑和柔軟還給人。",
-            "vocab": [
-              {
-                "word": "softness",
-                "def": "同時把尺度感、謙卑和柔軟還給人"
-              }
-            ]
+            "zh": "也許真的有一點。自然會同時把尺度感、謙卑和柔軟還給人。"
           },
           {
             "speaker": "b",
@@ -707,13 +570,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Nature does not always give answers, but it often gives a better quality of question.",
-            "zh": "對。自然不一定會給你答案，但它常常會給你一個比較好的問題品質。",
-            "vocab": [
-              {
-                "word": "better quality",
-                "def": "自然不一定會給你答案"
-              }
-            ]
+            "zh": "對。自然不一定會給你答案，但它常常會給你一個比較好的問題品質。"
           },
           {
             "speaker": "b",
@@ -794,13 +651,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Small outdoor rituals often work exactly because they are small enough to survive city life.",
-            "zh": "小小的戶外儀式很多時候就是因為夠小，才能在城市生活裡活下來。",
-            "vocab": [
-              {
-                "word": "outdoor rituals",
-                "def": "很小、很短，但會固定重複的日常儀式"
-              }
-            ]
+            "zh": "小小的戶外儀式很多時候就是因為夠小，才能在城市生活裡活下來。"
           },
           {
             "speaker": "b",
@@ -812,31 +663,19 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It gives the day one living point of contact before everything becomes abstract again.",
-            "zh": "完全沒錯。它會在一切又重新變得很抽象之前，先替這一天留下一個和活著的東西接觸的點。",
-            "vocab": [
-              {
-                "word": "contact",
-                "def": "聯繫；接觸"
-              }
-            ]
+            "zh": "完全沒錯。它會在一切又重新變得很抽象之前，先替這一天留下一個和活著的東西接觸的點。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful way to see it.",
-            "zh": "這個看法真的很美。"
+            "en": "That maps well onto real conversations.",
+            "zh": "這個說法很貼合真實的對話。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "City life does not cancel nature. It just makes people practice noticing it differently.",
-            "zh": "城市生活不會取消自然，它只是逼人用不同的方式練習注意它。",
-            "vocab": [
-              {
-                "word": "practice noticing",
-                "def": "城市生活不會取消自然"
-              }
-            ]
+            "zh": "城市生活不會取消自然，它只是逼人用不同的方式練習注意它。"
           },
           {
             "speaker": "b",
@@ -877,13 +716,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should be. An outdoor cue only works if it fits the life you are actually living.",
-            "zh": "本來就該很普通。戶外提示如果要有用，就得真的放得進你正在過的生活。",
-            "vocab": [
-              {
-                "word": "outdoor cue",
-                "def": "戶外提示如果要有用"
-              }
-            ]
+            "zh": "本來就該很普通。戶外提示如果要有用，就得真的放得進你正在過的生活。"
           },
           {
             "speaker": "b",
@@ -895,13 +728,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Many good habits survive because they are humble.",
-            "zh": "完全沒錯。很多好的習慣之所以活得下來，就是因為它們夠謙卑。",
-            "vocab": [
-              {
-                "word": "habits survive",
-                "def": "很多好的習慣之所以活得下來"
-              }
-            ]
+            "zh": "完全沒錯。很多好的習慣之所以活得下來，就是因為它們夠謙卑。"
           },
           {
             "speaker": "b",
@@ -942,13 +769,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might also say, 'Even a short walk under trees can change the tone of my day.'",
-            "zh": "另一句也很好用：「Even a short walk under trees can change the tone of my day.」",
-            "vocab": [
-              {
-                "word": "tone",
-                "def": "語氣"
-              }
-            ]
+            "zh": "另一句也很好用：「Even a short walk under trees can change the tone of my day.」"
           },
           {
             "speaker": "b",
@@ -959,14 +780,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something more personal, a natural line is, 'I need small reminders that I live in a world, not just in a schedule.'",
-            "zh": "如果你想講得更個人，也可以說：「I need small reminders that I live in a world, not just in a schedule.」",
-            "vocab": [
-              {
-                "word": "personal",
-                "def": "個人化的練習方式"
-              }
-            ]
+            "en": "When you need something more personal, a natural line is, 'I need small reminders that I live in a world, not just in a schedule.'",
+            "zh": "如果你想講得更個人，也可以說：「I need small reminders that I live in a world, not just in a schedule.」"
           },
           {
             "speaker": "b",
@@ -1007,13 +822,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A bird on a wire, a patch of shadow, or evening wind can become meaningful once attention meets it.",
-            "zh": "完全沒錯。一隻停在線上的鳥、一塊陰影，或是傍晚的風，只要遇到注意力，就會開始有意義。",
-            "vocab": [
-              {
-                "word": "meaningful",
-                "def": "有意義的；做起來心裡有感的"
-              }
-            ]
+            "zh": "完全沒錯。一隻停在線上的鳥、一塊陰影，或是傍晚的風，只要遇到注意力，就會開始有意義。"
           },
           {
             "speaker": "b",
@@ -1025,13 +834,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The city gets softer when people stop relating to it as pure concrete.",
-            "zh": "對。當人不再只把城市當成水泥，城市就會變柔一點。",
-            "vocab": [
-              {
-                "word": "concrete",
-                "def": "具體的；實際的"
-              }
-            ]
+            "zh": "對。當人不再只把城市當成水泥，城市就會變柔一點。"
           },
           {
             "speaker": "b",
@@ -1072,13 +875,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Small contact can still change the emotional climate of a life.",
-            "zh": "很小的接觸，也還是能改變一個人生活裡的情緒氣候。",
-            "vocab": [
-              {
-                "word": "contact",
-                "def": "聯繫；接觸"
-              }
-            ]
+            "zh": "很小的接觸，也還是能改變一個人生活裡的情緒氣候。"
           },
           {
             "speaker": "b",
@@ -1090,13 +887,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is worth keeping. Small outdoor rituals often become quiet forms of loyalty to your own well-being.",
-            "zh": "它真的很值得留著。小小的戶外儀式，很多時候最後會變成一種很安靜的自我照顧忠誠。",
-            "vocab": [
-              {
-                "word": "become quiet",
-                "def": "小小的戶外儀式"
-              }
-            ]
+            "zh": "它真的很值得留著。小小的戶外儀式，很多時候最後會變成一種很安靜的自我照顧忠誠。"
           },
           {
             "speaker": "b",
@@ -1177,13 +968,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often the honest middle of hiking. People romanticize the view and forget the climb.",
-            "zh": "那其實很常就是健行最誠實的中段。大家會把風景浪漫化，卻忘記爬升本身。",
-            "vocab": [
-              {
-                "word": "forget the climb",
-                "def": "卻忘記爬升本身"
-              }
-            ]
+            "zh": "那其實很常就是健行最誠實的中段。大家會把風景浪漫化，卻忘記爬升本身。"
           },
           {
             "speaker": "b",
@@ -1195,13 +980,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Effort changes the texture of reward.",
-            "zh": "完全沒錯。努力會改變收穫本身的質地。",
-            "vocab": [
-              {
-                "word": "Effort changes",
-                "def": "改變收穫本身的質地"
-              }
-            ]
+            "zh": "完全沒錯。努力會改變收穫本身的質地。"
           },
           {
             "speaker": "b",
@@ -1213,19 +992,13 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. Hiking is partly about meeting resistance without turning every discomfort into an emergency.",
-            "zh": "很多時候真的就是這樣。健行有一部分是在練習：遇到阻力時，不要把每一種不舒服都變成緊急事件。",
-            "vocab": [
-              {
-                "word": "discomfort",
-                "def": "不舒服"
-              }
-            ]
+            "zh": "很多時候真的就是這樣。健行有一部分是在練習：遇到阻力時，不要把每一種不舒服都變成緊急事件。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like training for the rest of life too.",
-            "zh": "這聽起來也很像在訓練其他人生場景。"
+            "en": "That's consistent with what happens in real life.",
+            "zh": "這和真實生活裡發生的事是一致的。"
           },
           {
             "speaker": "a",
@@ -1248,13 +1021,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because chosen effort contains agency. You know why you are doing it, and your body can trust the direction.",
-            "zh": "因為自己選的努力裡面有主動性。你知道自己為什麼在做，身體也比較能信任那個方向。",
-            "vocab": [
-              {
-                "word": "agency",
-                "def": "主動性；行為能力"
-              }
-            ]
+            "zh": "因為自己選的努力裡面有主動性。你知道自己為什麼在做，身體也比較能信任那個方向。"
           },
           {
             "speaker": "b",
@@ -1266,13 +1033,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often does. Fatigue with purpose lands differently in the mind.",
-            "zh": "很多時候真的會。有目的的疲勞，在心裡落下的方式就是不一樣。",
-            "vocab": [
-              {
-                "word": "purpose lands differently",
-                "def": "不一樣"
-              }
-            ]
+            "zh": "很多時候真的會。有目的的疲勞，在心裡落下的方式就是不一樣。"
           },
           {
             "speaker": "b",
@@ -1284,19 +1045,13 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The body becomes evidence that you can stay through something hard.",
-            "zh": "對。身體會變成一個證據，證明你其實可以待在一件困難的事裡面，不馬上逃掉。",
-            "vocab": [
-              {
-                "word": "body becomes",
-                "def": "身體會變成一個證據"
-              }
-            ]
+            "zh": "對。身體會變成一個證據，證明你其實可以待在一件困難的事裡面，不馬上逃掉。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a strong kind of confidence.",
-            "zh": "那種自信真的很紮實。"
+            "en": "That changes how I want to use it.",
+            "zh": "這改變了我想怎麼去用它。"
           },
           {
             "speaker": "a",
@@ -1331,13 +1086,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'The difficulty was part of why the view meant something when I got there.'",
-            "zh": "另一句也很好用：「The difficulty was part of why the view meant something when I got there.」",
-            "vocab": [
-              {
-                "word": "view meant something",
-                "def": "不只是景色"
-              }
-            ]
+            "zh": "另一句也很好用：「The difficulty was part of why the view meant something when I got there.」"
           },
           {
             "speaker": "b",
@@ -1349,13 +1098,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, 'I was tired, but in a way that felt clean.'",
-            "zh": "如果你想講得更簡單，也可以說：「I was tired, but in a way that felt clean.」",
-            "vocab": [
-              {
-                "word": "felt clean",
-                "def": "不是被榨乾的累"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I was tired, but in a way that felt clean.」"
           },
           {
             "speaker": "b",
@@ -1384,13 +1127,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Definitely. A good hiking partner can make difficulty feel more shared and less lonely.",
-            "zh": "一定會。好的山友會讓困難變得比較像一起扛，而不是一個人悶著扛。",
-            "vocab": [
-              {
-                "word": "hiking partner",
-                "def": "互相照應和調整節奏的同伴"
-              }
-            ]
+            "zh": "一定會。好的山友會讓困難變得比較像一起扛，而不是一個人悶著扛。"
           },
           {
             "speaker": "b",
@@ -1402,13 +1139,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Respecting different paces is part of the ethics of the trail.",
-            "zh": "完全沒錯。尊重彼此不同的速度，本來就是山路上的一種倫理。",
-            "vocab": [
-              {
-                "word": "ethics",
-                "def": "山路上的一種倫理"
-              }
-            ]
+            "zh": "完全沒錯。尊重彼此不同的速度，本來就是山路上的一種倫理。"
           },
           {
             "speaker": "b",
@@ -1420,13 +1151,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can be. Trails reveal how people handle pressure, care, impatience, and attention.",
-            "zh": "它的確可能是。走山路會把人怎麼面對壓力、照顧、不耐和注意力都顯出來。",
-            "vocab": [
-              {
-                "word": "Trails reveal",
-                "def": "它的確可能是"
-              }
-            ]
+            "zh": "它的確可能是。走山路會把人怎麼面對壓力、照顧、不耐和注意力都顯出來。"
           },
           {
             "speaker": "b",
@@ -1467,13 +1192,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Hiking reminds people that not all difficulty is hostile. Some difficulty is formative.",
-            "zh": "健行會提醒人：不是所有困難都是敵意。有些困難其實是在塑形。",
-            "vocab": [
-              {
-                "word": "formative",
-                "def": "有些困難其實是在塑形"
-              }
-            ]
+            "zh": "健行會提醒人：不是所有困難都是敵意。有些困難其實是在塑形。"
           },
           {
             "speaker": "b",
@@ -1485,13 +1204,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why some climbs stay with people long after the soreness leaves.",
-            "zh": "完全沒錯。這也就是為什麼，有些山路在人酸痛退掉之後還會留很久。",
-            "vocab": [
-              {
-                "word": "soreness leaves",
-                "def": "留很久"
-              }
-            ]
+            "zh": "完全沒錯。這也就是為什麼，有些山路在人酸痛退掉之後還會留很久。"
           },
           {
             "speaker": "b",
@@ -1502,7 +1215,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like the lesson took.",
+            "en": "It sounds like the lesson took.",
             "zh": "這聽起來像是那堂課真的有留下來。"
           }
         ]
@@ -1572,13 +1285,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That sadness makes sense. It can feel like hearing that a child has lost contact with part of the physical world.",
-            "zh": "那種難過很合理。那感覺有點像在聽一個孩子和物理世界的一部分失聯了。",
-            "vocab": [
-              {
-                "word": "physical world",
-                "def": "那種難過很合理"
-              }
-            ]
+            "zh": "那種難過很合理。那感覺有點像在聽一個孩子和物理世界的一部分失聯了。"
           },
           {
             "speaker": "b",
@@ -1590,13 +1297,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Mud, wind, uneven ground, bugs, and weather all teach the body things a screen cannot.",
-            "zh": "完全沒錯。泥土、風、不平的地、蟲，還有天氣，這些都會教身體一些螢幕教不了的事。",
-            "vocab": [
-              {
-                "word": "screen",
-                "def": "泥土、風、不平的地、蟲"
-              }
-            ]
+            "zh": "完全沒錯。泥土、風、不平的地、蟲，還有天氣，這些都會教身體一些螢幕教不了的事。"
           },
           {
             "speaker": "b",
@@ -1613,8 +1314,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a powerful way to frame it.",
-            "zh": "這個框法真的很有力量。"
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "a",
@@ -1649,13 +1350,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Outdoor play teaches frustration tolerance and sensory richness at the same time.",
-            "zh": "完全沒錯。戶外遊戲會同時教挫折容忍和感官豐富度。",
-            "vocab": [
-              {
-                "word": "sensory richness",
-                "def": "同時教挫折容忍和感官豐富度"
-              }
-            ]
+            "zh": "完全沒錯。戶外遊戲會同時教挫折容忍和感官豐富度。"
           },
           {
             "speaker": "b",
@@ -1667,13 +1362,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Children need places where not everything is optimized.",
-            "zh": "本來就重要。孩子需要一些地方，不是每件事都被優化到剛剛好。",
-            "vocab": [
-              {
-                "word": "optimized",
-                "def": "優化的"
-              }
-            ]
+            "zh": "本來就重要。孩子需要一些地方，不是每件事都被優化到剛剛好。"
           },
           {
             "speaker": "b",
@@ -1714,13 +1403,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'Screens are not the only problem. The bigger issue is what is no longer part of daily life.'",
-            "zh": "另一句也很好用：「Screens are not the only problem. The bigger issue is what is no longer part of daily life.」",
-            "vocab": [
-              {
-                "word": "Screens",
-                "def": "生活裡被大量螢幕和數位刺激占滿的狀態"
-              }
-            ]
+            "zh": "另一句也很好用：「Screens are not the only problem. The bigger issue is what is no longer part of daily life.」"
           },
           {
             "speaker": "b",
@@ -1732,13 +1415,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural line when you want something simpler is 'Children need real places to move, climb, and get messy too.'",
-            "zh": "如果你想講得更簡單，也可以說：「Children need real places to move, climb, and get messy too.」",
-            "vocab": [
-              {
-                "word": "real places",
-                "def": "不是虛擬畫面"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「Children need real places to move, climb, and get messy too.」"
           },
           {
             "speaker": "b",
@@ -1779,13 +1456,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The goal is not perfect outdoor parenting. It is more ordinary contact with the real world.",
-            "zh": "對。重點不是成為完美的戶外家長，而是讓孩子和真實世界有更多普通接觸。",
-            "vocab": [
-              {
-                "word": "ordinary contact",
-                "def": "不特別安排，但會穩定出現的日常接觸"
-              }
-            ]
+            "zh": "對。重點不是成為完美的戶外家長，而是讓孩子和真實世界有更多普通接觸。"
           },
           {
             "speaker": "b",
@@ -1797,13 +1468,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Big cultural problems still need small repeatable answers.",
-            "zh": "本來就該是這樣。很大的文化問題，最後還是要靠很多可重複的小答案。",
-            "vocab": [
-              {
-                "word": "small repeatable",
-                "def": "很大的文化問題"
-              }
-            ]
+            "zh": "本來就該是這樣。很大的文化問題，最後還是要靠很多可重複的小答案。"
           },
           {
             "speaker": "b",
@@ -1844,13 +1509,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Nature gives children resistance, and resistance is part of development.",
-            "zh": "自然會給孩子阻力，而阻力本來就是成長的一部分。",
-            "vocab": [
-              {
-                "word": "children resistance",
-                "def": "自然會給孩子阻力"
-              }
-            ]
+            "zh": "自然會給孩子阻力，而阻力本來就是成長的一部分。"
           },
           {
             "speaker": "b",
@@ -1862,13 +1521,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. A rich childhood usually includes scraped knees, weather, and wonder.",
-            "zh": "我也這麼覺得。夠豐富的童年，通常會包含擦傷的膝蓋、天氣，還有驚奇。",
-            "vocab": [
-              {
-                "word": "includes scraped",
-                "def": "通常會包含擦傷的膝蓋、天氣"
-              }
-            ]
+            "zh": "我也這麼覺得。夠豐富的童年，通常會包含擦傷的膝蓋、天氣，還有驚奇。"
           },
           {
             "speaker": "b",
@@ -1949,13 +1602,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling makes sense. Beautiful places can carry tourist pressure in ways people do not notice at first.",
-            "zh": "那種感覺很合理。美麗的地方很多時候會默默承受旅遊壓力，只是人一開始不容易看見。",
-            "vocab": [
-              {
-                "word": "tourist pressure",
-                "def": "一個地方因為太多人來訪"
-              }
-            ]
+            "zh": "那種感覺很合理。美麗的地方很多時候會默默承受旅遊壓力，只是人一開始不容易看見。"
           },
           {
             "speaker": "b",
@@ -1967,13 +1614,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Surface beauty can hide ecological stress.",
-            "zh": "完全沒錯。表面的漂亮，有時候會把生態壓力蓋住。",
-            "vocab": [
-              {
-                "word": "hide ecological",
-                "def": "表面的漂亮"
-              }
-            ]
+            "zh": "完全沒錯。表面的漂亮，有時候會把生態壓力蓋住。"
           },
           {
             "speaker": "b",
@@ -1990,8 +1631,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence I want to keep.",
-            "zh": "這句我很想記住。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "a",
@@ -2026,13 +1667,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Respectful travel starts by decentering the visitor a little.",
-            "zh": "完全沒錯。尊重的旅行很多時候是先讓旅人自己退到旁邊一點。",
-            "vocab": [
-              {
-                "word": "respectful travel",
-                "def": "旅人自己退到旁邊一點"
-              }
-            ]
+            "zh": "完全沒錯。尊重的旅行很多時候是先讓旅人自己退到旁邊一點。"
           },
           {
             "speaker": "b",
@@ -2044,19 +1679,13 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It changes pace, behavior, spending, and what people think counts as a good trip.",
-            "zh": "它會改變速度、行為、消費方式，還有一個人認為『一次好旅行』到底算什麼。",
-            "vocab": [
-              {
-                "word": "behavior",
-                "def": "還有一個人認為到底算什麼"
-              }
-            ]
+            "zh": "它會改變速度、行為、消費方式，還有一個人認為『一次好旅行』到底算什麼。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a good correction for modern tourism.",
-            "zh": "這真的是對現代旅遊很好的修正。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "a",
@@ -2091,13 +1720,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clearer option here is 'Good travel leaves less pressure behind than it takes away.'",
-            "zh": "另一句也很好用：「Good travel leaves less pressure behind than it takes away.」",
-            "vocab": [
-              {
-                "word": "leaves less pressure",
-                "def": "旅行和戶外活動後"
-              }
-            ]
+            "zh": "另一句也很好用：「Good travel leaves less pressure behind than it takes away.」"
           },
           {
             "speaker": "b",
@@ -2109,13 +1732,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'I try to visit beautiful places in a way that helps protect them.'",
-            "zh": "如果你想講得更簡單，也可以說：「I try to visit beautiful places in a way that helps protect them.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I try to visit beautiful places in a way that helps protect them.」"
           },
           {
             "speaker": "b",
@@ -2132,7 +1749,7 @@ export const WEEK_33: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Practical Ways to Protect a Place",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2156,31 +1773,19 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Protecting a place often means refusing to maximize your own experience at its expense.",
-            "zh": "完全沒錯。保護一個地方，很多時候就是拒絕為了把自己玩到最滿，而讓它付出代價。",
-            "vocab": [
-              {
-                "word": "means refusing",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。保護一個地方，很多時候就是拒絕為了把自己玩到最滿，而讓它付出代價。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually useful standard.",
-            "zh": "這真的是一個很有用的標準。"
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It helps people notice that convenience and beauty are not always on the same side.",
-            "zh": "它會幫人注意到：方便和美，並不總是站在同一邊。",
-            "vocab": [
-              {
-                "word": "convenience",
-                "def": "便利"
-              }
-            ]
+            "zh": "它會幫人注意到：方便和美，並不總是站在同一邊。"
           },
           {
             "speaker": "b",
@@ -2193,12 +1798,7 @@ export const WEEK_33: Episode[] = [
             "speakerName": "Mira",
             "en": "And that is a good thing.",
             "zh": "而這是一件好事。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Loving a Place Properly",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2221,13 +1821,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A beautiful place is not a product. It is a relationship people enter briefly and should leave gently.",
-            "zh": "一個美麗的地方不是產品，而是一段人短暫進入的關係，而人離開時應該要輕一點。",
-            "vocab": [
-              {
-                "word": "beautiful",
-                "def": "要輕一點"
-              }
-            ]
+            "zh": "一個美麗的地方不是產品，而是一段人短暫進入的關係，而人離開時應該要輕一點。"
           },
           {
             "speaker": "b",
@@ -2239,13 +1833,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. Better travel begins when admiration grows into responsibility.",
-            "zh": "我也這麼覺得。比較好的旅行，常常就是從欣賞慢慢長成責任。",
-            "vocab": [
-              {
-                "word": "travel begins",
-                "def": "比較好的旅行"
-              }
-            ]
+            "zh": "我也這麼覺得。比較好的旅行，常常就是從欣賞慢慢長成責任。"
           },
           {
             "speaker": "b",
@@ -2256,7 +1844,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we should keep it.",
+            "en": "We should keep it.",
             "zh": "那我們就把它留下來吧。"
           }
         ]
@@ -2326,13 +1914,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is not a small change. Looking up is often the first sign that a person is living less inside urgency.",
-            "zh": "那其實不是小改變。會抬頭看，很多時候就是一個訊號，代表一個人比較沒有完全住在急迫裡。",
-            "vocab": [
-              {
-                "word": "urgency",
-                "def": "急迫感；很想立刻做成的壓力"
-              }
-            ]
+            "zh": "那其實不是小改變。會抬頭看，很多時候就是一個訊號，代表一個人比較沒有完全住在急迫裡。"
           },
           {
             "speaker": "b",
@@ -2344,13 +1926,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what it means to live closer to the living world. Attention starts leaving the purely human layer.",
-            "zh": "那就是所謂活得比較靠近『活世界』。注意力開始不只停在純人類那一層。",
-            "vocab": [
-              {
-                "word": "living world",
-                "def": "一個不只有人類活動"
-              }
-            ]
+            "zh": "那就是所謂活得比較靠近『活世界』。注意力開始不只停在純人類那一層。"
           },
           {
             "speaker": "b",
@@ -2362,19 +1938,13 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is both. Philosophy changes daily life when it changes what you notice.",
-            "zh": "它本來就是兩者都是。哲學如果真的有作用，就是它改變了你每天注意什麼。",
-            "vocab": [
-              {
-                "word": "Philosophy changes",
-                "def": "哲學如果真的有作用"
-              }
-            ]
+            "zh": "它本來就是兩者都是。哲學如果真的有作用，就是它改變了你每天注意什麼。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful phrase too.",
-            "zh": "這個詞也很美。"
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "a",
@@ -2409,13 +1979,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Ecological humility begins with that small shift.",
-            "zh": "完全沒錯。所謂生態上的謙卑，很多時候就是從這個小小的位移開始。",
-            "vocab": [
-              {
-                "word": "ecological humility",
-                "def": "而不是全部中心的態度"
-              }
-            ]
+            "zh": "完全沒錯。所謂生態上的謙卑，很多時候就是從這個小小的位移開始。"
           },
           {
             "speaker": "b",
@@ -2427,19 +1991,13 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is. The self gets less swollen when the world gets larger again.",
-            "zh": "很多時候真的比較健康。當世界重新變大，自我就不會一直腫脹在那裡。",
-            "vocab": [
-              {
-                "word": "less swollen",
-                "def": "除了人類之外"
-              }
-            ]
+            "zh": "很多時候真的比較健康。當世界重新變大，自我就不會一直腫脹在那裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely useful correction to modern life.",
-            "zh": "這真的是對現代生活很有用的一個修正。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
@@ -2474,13 +2032,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, 'I want my daily life to include more direct contact with weather, light, and living things.'",
-            "zh": "另一句也很好用：「I want my daily life to include more direct contact with weather, light, and living things.」",
-            "vocab": [
-              {
-                "word": "direct contact",
-                "def": "不是隔著玻璃或畫面"
-              }
-            ]
+            "zh": "另一句也很好用：「I want my daily life to include more direct contact with weather, light, and living things.」"
           },
           {
             "speaker": "b",
@@ -2492,13 +2044,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, 'I do better when I stay close to the outside world.'",
-            "zh": "如果你想講得更簡單，也可以說：「I do better when I stay close to the outside world.」",
-            "vocab": [
-              {
-                "word": "outside world",
-                "def": "不是抽象概念"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I do better when I stay close to the outside world.」"
           },
           {
             "speaker": "b",
@@ -2539,13 +2085,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A coexistence mindset is made of repeated small choices.",
-            "zh": "完全沒錯。所謂共存思維，很多時候就是由一堆會重複的小選擇組成的。",
-            "vocab": [
-              {
-                "word": "coexistence mindset",
-                "def": "所謂共存思維"
-              }
-            ]
+            "zh": "完全沒錯。所謂共存思維，很多時候就是由一堆會重複的小選擇組成的。"
           },
           {
             "speaker": "b",
@@ -2557,19 +2097,13 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Reverence that never reaches behavior is only mood.",
-            "zh": "本來就該近一點。敬意如果永遠碰不到行為，最後就只剩情緒而已。",
-            "vocab": [
-              {
-                "word": "behavior",
-                "def": "本來就該近一點"
-              }
-            ]
+            "zh": "本來就該近一點。敬意如果永遠碰不到行為，最後就只剩情緒而已。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sharp but helpful sentence.",
-            "zh": "這句很銳利，但很有幫助。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "a",
@@ -2604,13 +2138,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Living closer to nature reminds people that life is not something happening only inside them.",
-            "zh": "活得靠近自然會提醒人：生命不是只發生在自己體內的一件事。",
-            "vocab": [
-              {
-                "word": "nature reminds",
-                "def": "把自己視為地方的一份子"
-              }
-            ]
+            "zh": "活得靠近自然會提醒人：生命不是只發生在自己體內的一件事。"
           },
           {
             "speaker": "b",
@@ -2622,13 +2150,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It is not just healthier. It is more participatory.",
-            "zh": "完全沒錯。它不只是比較健康，也比較像是在參與世界。",
-            "vocab": [
-              {
-                "word": "participatory",
-                "def": "也比較像是在參與世界"
-              }
-            ]
+            "zh": "完全沒錯。它不只是比較健康，也比較像是在參與世界。"
           },
           {
             "speaker": "b",
@@ -2639,7 +2161,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we should end there.",
+            "en": "We should end there.",
             "zh": "那我們就收在這裡。"
           }
         ]
@@ -2658,7 +2180,7 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "ecological humility",
-        "zh": "知道自己只是更大生命網絡中的一部分，而不是全部中心的態度",
+        "zh": "知道自己只是更大生命連結中的一部分，而不是全部中心的態度",
         "example": "Birdwatching gave him a form of ecological humility."
       },
       {

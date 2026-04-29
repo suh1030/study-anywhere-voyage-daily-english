@@ -15,7 +15,8 @@ import * as Speech from 'expo-speech'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
-import { fetchArticle, parseParagraphs, type ArticleRow } from '../../data/content-api'
+import { fetchEpisode, fetchQuestion, type EpisodeRow, type QuestionRow } from '../../data/content-api'
+import { buildSpeakPractice } from '../../data/speak-practice'
 import { useCurriculumStore } from '../../stores/curriculumStore'
 
 function IconSpeak({ color }: { color: string }) {
@@ -40,34 +41,41 @@ function IconSpeak({ color }: { color: string }) {
 export default function SpeakScreen() {
   const { navigate } = useNav()
   const { schedule, loading: scheduleLoading } = useCurriculumStore()
-  const [article, setArticle] = useState<ArticleRow | null>(null)
+  const [episode, setEpisode] = useState<EpisodeRow | null>(null)
+  const [question, setQuestion] = useState<QuestionRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [showChinese, setShowChinese] = useState(false)
   const [isRecording, setIsRecording] = useState(false)
   const [isPlaying, setIsPlaying] = useState(false)
-  const [activeParagraph, setActiveParagraph] = useState(-1)
+  const [activeSegment, setActiveSegment] = useState(-1)
   const [recordingUri, setRecordingUri] = useState<string | null>(null)
   const [showOnboardingHint, setShowOnboardingHint] = useState(true)
   const manuallyStopped = React.useRef(false)
-  const pausedAtParagraph = React.useRef(-1)
+  const pausedAtSegment = React.useRef(-1)
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
   const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
 
-  const isSpeaking = activeParagraph >= 0
+  const practice = episode ? buildSpeakPractice(episode, question) : null
+  const isSpeaking = activeSegment >= 0
 
   useEffect(() => {
     if (scheduleLoading) return
 
     const entry = getScheduleEntry(schedule, getTodayKey())
     if (!entry) {
-      setArticle(null)
+      setEpisode(null)
+      setQuestion(null)
       setLoading(false)
       return
     }
 
     setLoading(true)
-    fetchArticle(entry.week, entry.dayOfWeek).then((data) => {
-      setArticle(data)
+    Promise.all([
+      fetchEpisode(entry.week, entry.dayOfWeek),
+      fetchQuestion(entry.week, entry.dayOfWeek),
+    ]).then(([episodeData, questionData]) => {
+      setEpisode(episodeData)
+      setQuestion(questionData)
       setLoading(false)
     })
     return () => {
@@ -75,16 +83,17 @@ export default function SpeakScreen() {
     }
   }, [schedule, scheduleLoading])
 
-  // Speak the active paragraph whenever activeParagraph changes
+  // Speak the active segment whenever activeSegment changes
   useEffect(() => {
-    if (activeParagraph < 0 || !article) {
+    if (activeSegment < 0 || !practice) {
       Speech.stop()
       return
     }
-    const paragraphs = parseParagraphs(article.text_en)
-    if (activeParagraph >= paragraphs.length) return
+    if (activeSegment >= practice.segments.length) return
+
+    const segment = practice.segments[activeSegment]
     Speech.stop()
-    Speech.speak(paragraphs[activeParagraph], {
+    Speech.speak(segment.en, {
       language: 'en-US',
       rate: 0.9,
       onDone: () => {
@@ -92,13 +101,13 @@ export default function SpeakScreen() {
           manuallyStopped.current = false
           return
         }
-        setActiveParagraph((p) => {
+        setActiveSegment((p) => {
           const next = p + 1
-          return next < paragraphs.length ? next : -1
+          return next < practice.segments.length ? next : -1
         })
       },
     })
-  }, [activeParagraph, article])
+  }, [activeSegment, practice])
 
   // Detect playback finishing
   useEffect(() => {
@@ -110,14 +119,14 @@ export default function SpeakScreen() {
   const handlePlayStop = () => {
     if (isSpeaking) {
       manuallyStopped.current = true
-      pausedAtParagraph.current = activeParagraph
+      pausedAtSegment.current = activeSegment
       Speech.stop()
-      setActiveParagraph(-1)
+      setActiveSegment(-1)
     } else {
       manuallyStopped.current = false
-      const startFrom = pausedAtParagraph.current >= 0 ? pausedAtParagraph.current : 0
-      pausedAtParagraph.current = -1
-      setActiveParagraph(startFrom)
+      const startFrom = pausedAtSegment.current >= 0 ? pausedAtSegment.current : 0
+      pausedAtSegment.current = -1
+      setActiveSegment(startFrom)
     }
   }
 
@@ -137,7 +146,7 @@ export default function SpeakScreen() {
           return
         }
         Speech.stop()
-        setActiveParagraph(-1)
+        setActiveSegment(-1)
         await AudioModule.setAudioModeAsync({ allowsRecording: true, playsInSilentMode: true })
         await recorder.prepareToRecordAsync(RecordingPresets.HIGH_QUALITY)
         recorder.record()
@@ -175,11 +184,11 @@ export default function SpeakScreen() {
     )
   }
 
-  if (!article) {
+  if (!practice) {
     return (
       <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
-          <Text style={styles.emptyTitle}>No article today</Text>
+          <Text style={styles.emptyTitle}>No speaking practice today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
           <TouchableOpacity style={styles.emptyBtn} onPress={() => navigate('Schedule')}>
             <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
@@ -189,18 +198,15 @@ export default function SpeakScreen() {
     )
   }
 
-  const paragraphsEn = parseParagraphs(article.text_en)
-  const paragraphsZh = parseParagraphs(article.text_zh)
-
   return (
     <SafeAreaView style={styles.container} edges={[]}>
       {/* Header */}
       <View style={styles.header}>
         <View style={styles.headerTop}>
-          <Text style={styles.topicLabel}>{article.topic.toUpperCase()}</Text>
-          <Text style={styles.wordCount}>{article.word_count} words</Text>
+          <Text style={styles.topicLabel}>{practice.theme.toUpperCase()}</Text>
+          <Text style={styles.wordCount}>{practice.segments.length} practice lines</Text>
         </View>
-        <Text style={styles.title}>{article.title}</Text>
+        <Text style={styles.title}>{practice.title}</Text>
       </View>
 
       {/* Controls */}
@@ -251,7 +257,7 @@ export default function SpeakScreen() {
             <View style={styles.hintContent}>
               <Text style={styles.hintTitle}>Speak</Text>
               <Text style={styles.hintDesc}>
-                大聲朗讀今日文章。建議先聆聽發音，再錄下自己的聲音比較。可查看單字表學習關鍵詞彙。
+                先跟讀今天最自然、最值得模仿的句子，再用自己的話回答同一題。建議先播放一次，再錄下自己的版本比較節奏與發音。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
                 <Text style={styles.hintDismiss}>✕ Got it</Text>
@@ -260,36 +266,44 @@ export default function SpeakScreen() {
           </View>
         )}
 
-        {/* Article */}
+        <View style={styles.goalBox}>
+          <Text style={styles.goalLabel}>TODAY'S OUTPUT GOAL</Text>
+          <Text style={styles.goalText}>{practice.goal}</Text>
+          {practice.hintZh && <Text style={styles.goalHintZh}>{practice.hintZh}</Text>}
+          {practice.structureHint && <Text style={styles.goalHintEn}>{practice.structureHint}</Text>}
+        </View>
+
+        {/* Practice Script */}
         <View style={styles.article}>
-          {paragraphsEn.map((para, i) => (
-            <View key={i}>
+          {practice.segments.map((segment, i) => (
+            <View key={segment.id}>
+              <Text style={styles.segmentLabel}>{segment.speakerName.toUpperCase()}</Text>
               <TouchableOpacity
-                onPress={() => setActiveParagraph(activeParagraph === i ? -1 : i)}
+                onPress={() => setActiveSegment(activeSegment === i ? -1 : i)}
                 activeOpacity={0.7}
               >
                 <Text
                   style={[
                     styles.paraEn,
-                    activeParagraph === i && styles.paraEnActive,
+                    activeSegment === i && styles.paraEnActive,
                   ]}
                 >
-                  {para}
+                  {segment.en}
                 </Text>
               </TouchableOpacity>
-              {showChinese && paragraphsZh[i] && (
-                <Text style={styles.paraZh}>{paragraphsZh[i]}</Text>
+              {showChinese && segment.zh && (
+                <Text style={styles.paraZh}>{segment.zh}</Text>
               )}
             </View>
           ))}
         </View>
 
         {/* Vocabulary */}
-        {article.vocabulary?.length > 0 && (
+        {practice.vocabulary.length > 0 && (
           <View style={styles.vocabBox}>
-            <Text style={styles.vocabTitle}>VOCABULARY</Text>
+            <Text style={styles.vocabTitle}>KEY LANGUAGE</Text>
             <View style={styles.vocabList}>
-              {article.vocabulary.map((v, i) => (
+              {practice.vocabulary.map((v, i) => (
                 <View key={i} style={styles.vocabTag}>
                   <Text style={styles.vocabWord}>{v.word}</Text>
                   <Text style={styles.vocabDef}>{v.definition}</Text>
@@ -305,7 +319,7 @@ export default function SpeakScreen() {
             <View style={styles.recordingDot} />
             <View style={styles.recordingContent}>
               <Text style={styles.recordingLabel}>RECORDING</Text>
-              <Text style={styles.recordingHint}>Read the article aloud. Tap STOP REC when done.</Text>
+              <Text style={styles.recordingHint}>Shadow the lines aloud, then answer today's goal in your own words. Tap STOP REC when done.</Text>
             </View>
           </View>
         )}
@@ -398,11 +412,50 @@ const styles = StyleSheet.create({
     paddingLeft: spacing.lg,
     marginBottom: spacing.lg,
   },
+  goalBox: {
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: radius.md,
+    padding: spacing.lg,
+    marginBottom: spacing.lg,
+  },
+  goalLabel: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    letterSpacing: 2,
+    color: colors.muted,
+    marginBottom: spacing.sm,
+  },
+  goalText: {
+    fontSize: 17,
+    lineHeight: 26,
+    color: colors.text,
+    marginBottom: spacing.sm,
+  },
+  goalHintZh: {
+    fontSize: 13,
+    lineHeight: 21,
+    color: colors.muted,
+    marginBottom: spacing.xs,
+  },
+  goalHintEn: {
+    fontSize: 12,
+    lineHeight: 19,
+    color: colors.gold,
+  },
+  segmentLabel: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    letterSpacing: 1.6,
+    color: colors.speak,
+    marginBottom: spacing.xs,
+  },
   paraEn: {
     fontSize: 16,
     lineHeight: 28,
     color: colors.text,
-    marginBottom: spacing.md,
+    marginBottom: spacing.sm,
   },
   paraEnActive: {
     backgroundColor: colors.speak + '12',
@@ -413,7 +466,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     lineHeight: 24,
     color: colors.muted,
-    marginTop: -spacing.sm,
+    marginTop: 0,
     marginBottom: spacing.md,
     paddingLeft: spacing.sm,
     borderLeftWidth: 2,

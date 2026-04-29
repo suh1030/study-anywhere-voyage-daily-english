@@ -22,13 +22,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually it is slower than that. A creative voice shows up through repetition more than revelation.",
-            "zh": "其實它通常比那個慢得多。創作聲音很多時候是靠重複長出來的，不是靠頓悟掉下來的。",
-            "vocab": [
-              {
-                "word": "creative voice",
-                "def": "一個人在創作裡慢慢長出的獨特表達方式"
-              }
-            ]
+            "zh": "其實它通常比那個慢得多。創作聲音很多時候是靠重複長出來的，不是靠頓悟掉下來的。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Style drift happens when people copy what they admire before they trust what naturally comes out of them.",
-            "zh": "完全沒錯。風格漂移常常發生在：人先學著複製自己欣賞的東西，卻還沒開始信任自己自然長出的東西。",
-            "vocab": [
-              {
-                "word": "style drift",
-                "def": "卻還沒開始信任自己自然長出的東西"
-              }
-            ]
+            "zh": "完全沒錯。風格漂移常常發生在：人先學著複製自己欣賞的東西，卻還沒開始信任自己自然長出的東西。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is true for most creators. Borrowed confidence often comes first, but it cannot be the final home of the work.",
-            "zh": "這對大多數創作者都是真的。借來的自信常常會先出現，但它不能是作品最後的家。",
-            "vocab": [
-              {
-                "word": "borrowed confidence",
-                "def": "借來的自信常常會先出現"
-              }
-            ]
+            "zh": "這對大多數創作者都是真的。借來的自信常常會先出現，但它不能是作品最後的家。"
           },
           {
             "speaker": "b",
@@ -75,8 +57,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very good way to put it.",
-            "zh": "這個說法很好。"
+            "en": "Right — imitation gives you a grammar to work from, but it cannot tell you what to say.",
+            "zh": "對——模仿給你一套文法可以用，但它沒辦法告訴你要說什麼。"
           }
         ]
       },
@@ -93,13 +75,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because self-expression is not only technical. It is emotional permission too.",
-            "zh": "因為自我表達不只是技術問題，它同時也是一種情感允許。",
-            "vocab": [
-              {
-                "word": "emotional permission",
-                "def": "自我表達不只是技術問題"
-              }
-            ]
+            "zh": "因為自我表達不只是技術問題，它同時也是一種情感允許。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Inner censorship can make capable people sound careful, polished, and strangely absent.",
-            "zh": "完全沒錯。內在審查會讓很有能力的人，聽起來小心、平整，卻也奇怪地不在場。",
-            "vocab": [
-              {
-                "word": "inner censorship",
-                "def": "聽起來小心、平整"
-              }
-            ]
+            "zh": "完全沒錯。內在審查會讓很有能力的人，聽起來小心、平整，卻也奇怪地不在場。"
           },
           {
             "speaker": "b",
@@ -129,13 +99,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Vulnerable making matters because real voice usually appears where control loosens a little.",
-            "zh": "對。脆弱地創作很重要，因為真正的聲音常常出現在控制稍微放鬆一點的地方。",
-            "vocab": [
-              {
-                "word": "vulnerable making",
-                "def": "帶著不完全安全的感覺"
-              }
-            ]
+            "zh": "對。脆弱地創作很重要，因為真正的聲音常常出現在控制稍微放鬆一點的地方。"
           },
           {
             "speaker": "b",
@@ -164,13 +128,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"I am still figuring out what feels natural in my own work.\"",
-            "zh": "你可以說：「I am still figuring out what feels natural in my own work.」",
-            "vocab": [
-              {
-                "word": "like this",
-                "def": "而不是比較苦"
-              }
-            ]
+            "zh": "你可以說：「I am still figuring out what feels natural in my own work.」"
           },
           {
             "speaker": "b",
@@ -182,8 +140,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is \"I am trying to make work that sounds more like me and less like my influences.\"",
-            "zh": "另一句也很好用：「I am trying to make work that sounds more like me and less like my influences.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I am trying to make work that sounds more like me and less like my influences.」"
           },
           {
             "speaker": "b",
@@ -195,13 +152,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shorter version would be, \"I do not want my work to feel borrowed anymore.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I do not want my work to feel borrowed anymore.」",
-            "vocab": [
-              {
-                "word": "borrowed",
-                "def": "借來的；非原發的"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I do not want my work to feel borrowed anymore.」"
           },
           {
             "speaker": "b",
@@ -242,13 +193,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Draft courage matters because voice usually appears in imperfect work before it appears in finished work.",
-            "zh": "完全沒錯。草稿勇氣很重要，因為聲音通常是先出現在不完美作品裡，之後才會出現在完成品裡。",
-            "vocab": [
-              {
-                "word": "draft courage",
-                "def": "願意先做出不完美版本"
-              }
-            ]
+            "zh": "完全沒錯。草稿勇氣很重要，因為聲音通常是先出現在不完美作品裡，之後才會出現在完成品裡。"
           },
           {
             "speaker": "b",
@@ -301,8 +246,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Authentic sound matters because making work that feels like home gives energy back to the maker too.",
-            "zh": "真實聲音很重要，因為當作品開始像家，創作者自己也會從作品裡拿回能量。",
-            "vocab": []
+            "zh": "真實聲音很重要，因為當作品開始像家，創作者自己也會從作品裡拿回能量。"
           },
           {
             "speaker": "b",
@@ -383,319 +327,214 @@ export const WEEK_44: Episode[] = [
     "phase": "p6",
     "parts": [
       {
-        "title": "Part 1 — The Ordinary Places Art Sneaks In",
+        "title": "Part 1 — The Week a Colleague Changed Her Office Corner",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "People sometimes talk about art as if it only belongs in museums or on a stage.",
-            "zh": "很多人會把藝術講得好像只屬於博物館或舞台。"
+            "en": "A colleague told me she rearranged the corner of her desk — just a plant, a postcard, better lighting — and said the whole workday felt different.",
+            "zh": "一個同事跟我說，她重新安排了桌子的一個角落——一盆植物、一張明信片、換了燈光——然後說整個工作日感覺都不一樣了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "But ordinary beauty is everywhere. It is in the way a room is arranged, a meal is plated, or a message is written with care.",
-            "zh": "可是日常美感其實到處都在。房間怎麼擺、餐點怎麼盛、甚至一則訊息怎麼被好好寫出來，裡面都有。",
-            "vocab": [
-              {
-                "word": "ordinary beauty",
-                "def": "不是很盛大，卻在日常裡真實存在的美感"
-              }
-            ]
+            "en": "That is one of the clearest examples of everyday art I have heard. It did not cost much. It changed the emotional texture of hours.",
+            "zh": "這是我聽過的日常藝術裡最清楚的例子之一。它花不了多少錢，卻改變了好幾個小時的情緒質地。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So art is sometimes less separate from life than people think.",
-            "zh": "所以藝術很多時候其實沒有大家想像的那麼和生活分開。"
+            "en": "So the shift was not about budget — it was about intention.",
+            "zh": "所以那個改變不是關於預算，而是關於有沒有意圖。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Everyday art often appears where attention meets care.",
-            "zh": "完全沒錯。日常藝術很多時候就是在注意力和照顧相遇的地方出現。",
-            "vocab": [
-              {
-                "word": "everyday art",
-                "def": "出現的藝術感"
-              }
-            ]
+            "en": "Exactly. Everyday art often appears where attention meets care. She did not redecorate the room. She noticed one corner and decided it deserved something better.",
+            "zh": "完全沒錯。日常藝術很多時候就是在注意力和照顧相遇的地方出現。她沒有重新裝潢房間，她注意到一個角落，然後決定它值得更好的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the topic feel much more accessible.",
-            "zh": "這會讓整個主題一下子變得親近很多。"
+            "en": "Most people skip that step. They assume the space is fixed.",
+            "zh": "大多數人直接跳過那一步。他們把空間當成固定的東西。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It should. People already live around forms, textures, rhythm, and color whether they call it art or not.",
-            "zh": "本來就該親近。就算一個人不把它叫藝術，他也早就活在形式、質地、節奏和顏色裡了。",
-            "vocab": [
-              {
-                "word": "already live around",
-                "def": "對生活中細節、形式和氛圍的美感注意力"
-              }
-            ]
+            "en": "And that assumption costs them a lot of low-grade discomfort they never trace back to the source.",
+            "zh": "而那個預設會讓他們一直承受一種說不清哪裡不對的低度不舒服，卻永遠找不到根源。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So maybe the issue is recognition, not absence.",
-            "zh": "所以問題不是它不存在，而是我們沒認出來。"
+            "en": "So the real issue is recognition — people live inside aesthetic decisions without naming them.",
+            "zh": "所以問題其實是辨認——人活在美感選擇裡，卻從來不把它叫做那個名字。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often exactly the issue.",
-            "zh": "很多時候問題真的就是這個。"
+            "en": "And once you start naming them, you can actually change them.",
+            "zh": "而一旦你開始叫出那個名字，你就真的能改變它了。"
           }
         ]
       },
       {
-        "title": "Part 2 — Why Beauty Matters More Than People Admit",
+        "title": "Part 2 — How Things Developed",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Why do people sometimes act as if beauty is optional or superficial?",
-            "zh": "為什麼人有時候會把美感講得好像可有可無，甚至有點膚淺？"
+            "en": "Did your colleague say anything changed beyond just the look of the space?",
+            "zh": "你那個同事有沒有說，除了空間的樣子，還有什麼跟著變了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Because utility gets more public respect. Beauty often has to justify itself in practical language.",
-            "zh": "因為實用性比較容易得到公開尊重。美感常常得先用實用語言替自己辯護。",
-            "vocab": [
-              {
-                "word": "practical",
-                "def": "實際的；務實的"
-              }
-            ]
+            "en": "She said she stopped dreading sitting down in the morning. The corner had become something she actually wanted to return to.",
+            "zh": "她說她不再害怕早上坐下來了。那個角落變成了她真的想回去的地方。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So people defend beauty by talking about productivity or wellness.",
-            "zh": "所以大家常常會用效率、療癒之類的理由來替美感辯護。"
+            "en": "That is a significant change from one small adjustment.",
+            "zh": "一個小改動能帶出這麼大的變化，真的很不一樣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. But sensory nourishment matters even when it does not raise output. Human beings need more than bare function.",
-            "zh": "完全沒錯。可是感官滋養就算不提高產出，也一樣重要。人需要的從來不只是最低限度的功能。",
-            "vocab": [
-              {
-                "word": "sensory nourishment",
-                "def": "也一樣重要"
-              }
-            ]
+            "en": "Because sensory nourishment works even when you are not consciously thinking about it. A livable space helps the nervous system soften.",
+            "zh": "因為感官滋養就算你沒有刻意在想，它也在發揮作用。一個住得下去的空間，會幫神經系統慢慢鬆下來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a much fuller idea of what a good life is.",
-            "zh": "這真的會讓「好生活」這件事變得完整很多。"
+            "en": "So the body responds before the mind gives permission.",
+            "zh": "所以身體的反應，比腦袋說「可以」更早。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is fuller. A livable space is not only efficient. It also helps the nervous system soften.",
-            "zh": "它本來就更完整。一個住得下去的空間，不只高效率，也會幫神經系統慢慢鬆下來。",
-            "vocab": [
-              {
-                "word": "livable space",
-                "def": "不只是能用"
-              }
-            ]
+            "en": "Often yes. A restorative detail does not need to be grand — it just needs to be present.",
+            "zh": "很多時候是的。一個能修復人的細節不需要很盛大，它只需要在那裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes beauty sound necessary, not decorative.",
-            "zh": "這真的會讓美感聽起來像必要，不像裝飾。"
+            "en": "She probably had not thought of it in those terms at all.",
+            "zh": "她大概完全沒有用那個角度在想這件事。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For many people, it is necessary.",
-            "zh": "對很多人來說，它本來就是必要的。"
+            "en": "Most people do not. They feel the result, but they never trace it back to the aesthetic choice that made it possible.",
+            "zh": "大多數人不會。他們感受到結果，但從來沒有把它追回到讓它發生的那個美感選擇。"
           }
         ]
       },
       {
-        "title": "Part 3 — English for Talking About Beauty in Daily Life",
+        "title": "Part 3 — Where It Got Complicated",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What is a natural way to say it if I want to talk about beauty in ordinary life?",
-            "zh": "如果我想用英文談日常生活裡的美感，可以怎麼說？"
+            "en": "What stops people from making these kinds of changes more often?",
+            "zh": "什麼讓人沒辦法更常做這種改變？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"I care about the small details that make everyday life feel more alive.\"",
-            "zh": "你可以說：「I care about the small details that make everyday life feel more alive.」",
-            "vocab": []
+            "en": "Practical bias, mostly. Caring about aesthetics can feel indulgent when the serious adult task list is never done.",
+            "zh": "大部分是實用偏見。當「正事」清單永遠做不完，在乎美感就很容易感覺像在放縱自己。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sits naturally in a sentence.",
-            "zh": "這句放進句子裡很自然。"
+            "en": "So people defer beauty until conditions are better — which usually means never.",
+            "zh": "所以大家就把美感往後推，等條件更好的時候再說——而那個時候通常永遠不會來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another sentence that works is \"Beauty does not have to be grand to matter.\"",
-            "zh": "另一句也很好用：「Beauty does not have to be grand to matter.」",
-            "vocab": []
+            "en": "Exactly. The trap is treating ordinary beauty as a reward you earn after productivity, rather than a condition that supports it.",
+            "zh": "沒錯。陷阱就是把日常美感當成生產力之後才能拿到的獎勵，而不是支撐生產力的條件。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What lands for me is that it sounds simple but thoughtful.",
-            "zh": "我喜歡這句，因為它很簡單，但很有想法。"
+            "en": "That reversal is actually important. Most people have the order wrong.",
+            "zh": "這個反轉很重要。大多數人的順序其實是顛倒的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something simpler, \"I want my daily life to feel a little more beautiful.\" works well.",
-            "zh": "如果你想講得更簡單，也可以說：「I want my daily life to feel a little more beautiful.」",
-            "vocab": []
+            "en": "They think: be efficient first, enjoy later. But people actually work better when the space around them is working with them.",
+            "zh": "他們以為：先有效率，之後再享受。可是當空間和你配合時，人其實工作得更好。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That one would slip easily into conversation.",
-            "zh": "這句真的很好拿來用。"
+            "en": "So the colleague who rearranged her desk was not procrastinating. She was fixing the condition.",
+            "zh": "所以那個整理桌子角落的同事，不是在拖延——她是在修復條件。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it helps.",
-            "zh": "而那正是它有用的原因。"
+            "en": "That is exactly what she was doing.",
+            "zh": "她做的就是那個。"
           }
         ]
       },
       {
-        "title": "Part 4 — Making More Room for Beauty",
+        "title": "Part 4 — What This Revealed About Language",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What is one practical way people can bring more art into daily life?",
-            "zh": "人要怎麼很實際地把更多藝術感帶進日常？"
+            "en": "If I wanted to explain this kind of choice in English — that I care about my environment — how do I say it without sounding precious?",
+            "zh": "如果我想用英文解釋這種選擇——說我在乎我的環境——我要怎麼說，才不會聽起來很做作？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Choose one corner and care about it. One desk, one shelf, one breakfast, one playlist. Start small and make it intentional.",
-            "zh": "先選一個角落來在乎。一張桌子、一個架子、一頓早餐、一個播放清單。從小地方開始，而且要有意識。"
+            "en": "\"I care about the small details that make everyday life feel more alive.\" That sentence works because it stays grounded.",
+            "zh": "「I care about the small details that make everyday life feel more alive.」這句有用，因為它保持在地面上。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So beauty grows through attention, not budget alone.",
-            "zh": "所以美感其實是靠注意力長出來的，不只是靠預算。"
+            "en": "It is concrete enough to not feel like a lifestyle statement.",
+            "zh": "它夠具體，不會聽起來像是在宣揚某種生活方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A restorative detail can shift the whole emotional tone of a room or a day.",
-            "zh": "完全沒錯。一個能修復人的細節，常常就能改變整個房間、甚至一整天的情緒色調。",
-            "vocab": [
-              {
-                "word": "restorative detail",
-                "def": "雖然很小"
-              }
-            ]
+            "en": "Another version that lands well: \"Beauty does not have to be grand to matter.\" That is easy to use in conversation without explaining too much.",
+            "zh": "另一句落點也很好：「Beauty does not have to be grand to matter.」這句在對話裡很好用，不需要解釋太多。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the practice feel possible.",
-            "zh": "這真的會讓這件事感覺可行很多。"
+            "en": "Most people would agree with that immediately, even if they have never said it out loud.",
+            "zh": "大多數人聽到會立刻同意，就算他們從來沒有大聲說過這句話。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is possible. Most people need less spectacle and more gentle beauty than they realize.",
-            "zh": "它本來就可行。很多人其實需要的不是更大的刺激，而是更多溫柔的美。"
+            "en": "That is what makes it useful. It names something people already believe but have not given themselves permission to act on.",
+            "zh": "那正是它有用的地方。它說出了一個人們早就相信、但還沒給自己許可去實踐的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sentence is going to stay with me.",
-            "zh": "這句真的會留在我心裡。"
+            "en": "Which brings us back to the desk corner. One sentence giving permission to one small act.",
+            "zh": "這又把我們帶回那個桌子角落。一句話給了一個小行動許可。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It is worth keeping close.",
-            "zh": "很好，這句值得放近一點。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Letting Daily Life Feel More Human",
-        "lines": [
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "So what does art in daily life really give people?",
-            "zh": "所以日常生活裡的藝術感，最後到底給了人什麼？"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "It gives texture, pause, tenderness, and a reminder that a life can be functional without becoming emotionally flat.",
-            "zh": "它會給人質地、停頓、溫柔，也提醒你：人生可以很有功能，但不用變得情感扁平。",
-            "vocab": [
-              {
-                "word": "tenderness",
-                "def": "情感扁平"
-              }
-            ]
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "That comes through as a complete answer.",
-            "zh": "這真的很像一個很完整的答案。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Sensory nourishment matters because a person lives better when the world around them stops feeling purely mechanical.",
-            "zh": "感官滋養很重要，因為當一個人周圍的世界不再只像機械運作時，他通常會活得比較好。",
-            "vocab": []
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I have been waiting for the right conditions, and I think that is exactly what you are describing as the trap.",
-            "zh": "我一直都在等那個剛剛好的條件，而我覺得你說的陷阱就是這個。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "We can leave it on that note for now.",
-            "zh": "我們就停在這個念頭上吧。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I am going to look at my daily routines a little differently now.",
-            "zh": "我現在真的會用不太一樣的眼光去看自己的日常了。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "That shift is already part of the art.",
-            "zh": "而那個眼光的轉變，本身就已經是藝術的一部分。"
+            "en": "And sometimes one small act is the whole thing.",
+            "zh": "有時候一個小行動就是全部了。"
           }
         ]
       }
@@ -764,13 +603,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because story instinct is deeply human. We use narrative to turn events into something we can live with.",
-            "zh": "那是因為故事本能本來就很人。人會用敘事把事件變成自己比較活得下去的東西。",
-            "vocab": [
-              {
-                "word": "story instinct",
-                "def": "人會自然把經驗整理成故事來理解的本能"
-              }
-            ]
+            "zh": "那是因為故事本能本來就很人。人會用敘事把事件變成自己比較活得下去的東西。"
           },
           {
             "speaker": "b",
@@ -782,13 +615,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Narrative order helps when life feels messy, because sequence can create relief.",
-            "zh": "完全沒錯。當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。",
-            "vocab": [
-              {
-                "word": "narrative order",
-                "def": "把散亂經驗排成有前後關係的敘事秩序"
-              }
-            ]
+            "zh": "完全沒錯。當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -800,13 +627,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For many people, it is necessary. Meaning often arrives through telling.",
-            "zh": "對很多人來說，它本來就很必要。很多意義真的是在說出來之後才到。",
-            "vocab": [
-              {
-                "word": "Meaning often arrives",
-                "def": "很多意義真的是在說出來之後才到"
-              }
-            ]
+            "zh": "對很多人來說，它本來就很必要。很多意義真的是在說出來之後才到。"
           },
           {
             "speaker": "b",
@@ -835,13 +656,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually recognition. A good story makes someone feel seen inside their own life.",
-            "zh": "通常是辨認感。好的故事，會讓一個人覺得自己的生命被看見了。",
-            "vocab": [
-              {
-                "word": "feel seen",
-                "def": "感覺自己被注意、被理解、被放在心上"
-              }
-            ]
+            "zh": "通常是辨認感。好的故事，會讓一個人覺得自己的生命被看見了。"
           },
           {
             "speaker": "b",
@@ -853,13 +668,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
-            "zh": "完全沒錯。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。",
-            "vocab": [
-              {
-                "word": "human pattern",
-                "def": "人想知道自己的痛、希望和混亂"
-              }
-            ]
+            "zh": "完全沒錯。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。"
           },
           {
             "speaker": "b",
@@ -871,13 +680,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A personal myth can quietly shape how someone sees what kind of person they are allowed to become.",
-            "zh": "對。一個個人神話感，會很安靜地影響一個人認為自己被允許成為什麼樣的人。",
-            "vocab": [
-              {
-                "word": "personal myth",
-                "def": "一個個人神話感"
-              }
-            ]
+            "zh": "對。一個個人神話感，會很安靜地影響一個人認為自己被允許成為什麼樣的人。"
           },
           {
             "speaker": "b",
@@ -906,8 +709,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, \"Stories help people make sense of things that would otherwise feel scattered.\"",
-            "zh": "你可以說：「Stories help people make sense of things that would otherwise feel scattered.」",
-            "vocab": []
+            "zh": "你可以說：「Stories help people make sense of things that would otherwise feel scattered.」"
           },
           {
             "speaker": "b",
@@ -919,8 +721,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"A good story can make you feel less alone in your own experience.\"",
-            "zh": "另一句也很好用：「A good story can make you feel less alone in your own experience.」",
-            "vocab": []
+            "zh": "另一句也很好用：「A good story can make you feel less alone in your own experience.」"
           },
           {
             "speaker": "b",
@@ -932,13 +733,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, \"Stories help people feel understood.\"",
-            "zh": "如果你想講得更簡單，也可以說：「Stories help people feel understood.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「Stories help people feel understood.」"
           },
           {
             "speaker": "b",
@@ -979,13 +774,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Truthful telling matters because people trust detail, restraint, and real feeling more than polish alone.",
-            "zh": "完全沒錯。真實敘述很重要，因為人通常更相信細節、節制和真感受，而不只是漂亮表面。",
-            "vocab": [
-              {
-                "word": "truthful telling",
-                "def": "不是為了效果而誇張"
-              }
-            ]
+            "zh": "完全沒錯。真實敘述很重要，因為人通常更相信細節、節制和真感受，而不只是漂亮表面。"
           },
           {
             "speaker": "b",
@@ -1038,8 +827,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Listening imagination matters because a society gets more human when people can picture lives beyond their own.",
-            "zh": "傾聽想像力很重要，因為當人能想像自己之外的人生時，整個社會會變得更像人。",
-            "vocab": []
+            "zh": "傾聽想像力很重要，因為當人能想像自己之外的人生時，整個社會會變得更像人。"
           },
           {
             "speaker": "b",
@@ -1062,7 +850,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very good understanding to keep.",
+            "en": "That's a very good understanding to keep.",
             "zh": "那是一個很值得留下來的理解。"
           }
         ]
@@ -1131,14 +919,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good insight. A design lens often begins with noticing where life keeps catching on something unnecessary.",
-            "zh": "這個理解很好。設計視角很多時候就是從看見生活一直卡在某個不必要的地方開始。",
-            "vocab": [
-              {
-                "word": "design lens",
-                "def": "用設計的角度去看問題、流程和體驗的方式"
-              }
-            ]
+            "en": "Most people only realize design was bad once something stops frustrating them. A design lens flips that — it starts with noticing where life keeps catching on something unnecessary.",
+            "zh": "大多數人要等到某件事不再讓他們抓狂，才意識到設計本來就壞。設計視角把這個翻過來——它從看見生活一直卡在某個不必要的地方開始。"
           },
           {
             "speaker": "b",
@@ -1150,13 +932,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A friction point is often a clue that the system is asking too much from the human.",
-            "zh": "完全沒錯。所謂摩擦點，常常是在提醒你：這個系統正在向人要求太多。",
-            "vocab": [
-              {
-                "word": "friction point",
-                "def": "人一直卡住、不順的地方"
-              }
-            ]
+            "zh": "完全沒錯。所謂摩擦點，常常是在提醒你：這個系統正在向人要求太多。"
           },
           {
             "speaker": "b",
@@ -1168,13 +944,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "At its best, it is humane. Good design reduces unnecessary effort so attention can go somewhere more meaningful.",
-            "zh": "在最好的狀態下，它本來就很照顧人。好的設計會減少不必要的力氣，讓注意力能去更有意義的地方。",
-            "vocab": [
-              {
-                "word": "meaningful",
-                "def": "有意義的；做起來心裡有感的"
-              }
-            ]
+            "zh": "在最好的狀態下，它本來就很照顧人。好的設計會減少不必要的力氣，讓注意力能去更有意義的地方。"
           },
           {
             "speaker": "b",
@@ -1203,13 +973,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because people often optimize for logic instead of lived reality. A workable solution has to fit actual human habits.",
-            "zh": "因為很多人優化的是邏輯，不是活生生的現實。真正可行的解法，得長得進人類真的會怎麼做。",
-            "vocab": [
-              {
-                "word": "workable solution",
-                "def": "不是理論上漂亮"
-              }
-            ]
+            "zh": "因為很多人優化的是邏輯，不是活生生的現實。真正可行的解法，得長得進人類真的會怎麼做。"
           },
           {
             "speaker": "b",
@@ -1221,13 +985,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A small prototype helps because testing early is kinder than forcing a perfect plan on daily life.",
-            "zh": "完全沒錯。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。",
-            "vocab": [
-              {
-                "word": "small prototype",
-                "def": "看看實際用起來如何"
-              }
-            ]
+            "zh": "完全沒錯。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。"
           },
           {
             "speaker": "b",
@@ -1239,13 +997,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is useful everywhere. Most daily frustration comes from systems that were never honestly tested.",
-            "zh": "它到處都好用。很多日常挫折，其實都來自那些從來沒有被誠實測試過的系統。",
-            "vocab": [
-              {
-                "word": "daily frustration",
-                "def": "很多日常挫折"
-              }
-            ]
+            "zh": "它到處都好用。很多日常挫折，其實都來自那些從來沒有被誠實測試過的系統。"
           },
           {
             "speaker": "b",
@@ -1274,8 +1026,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a clear sentence, try \"I think the problem is not effort, but the way the system is set up.\"",
-            "zh": "你可以說：「I think the problem is not effort, but the way the system is set up.」",
-            "vocab": []
+            "zh": "你可以說：「I think the problem is not effort, but the way the system is set up.」"
           },
           {
             "speaker": "b",
@@ -1287,8 +1038,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"We may need a simpler process that matches how people actually behave.\"",
-            "zh": "另一句也很好用：「We may need a simpler process that matches how people actually behave.」",
-            "vocab": []
+            "zh": "另一句也很好用：「We may need a simpler process that matches how people actually behave.」"
           },
           {
             "speaker": "b",
@@ -1299,9 +1049,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to keep it simple, \"This works in theory, but not in real life.\" works well.",
-            "zh": "如果你想講得更簡單，也可以說：「This works in theory, but not in real life.」",
-            "vocab": []
+            "en": "A plainer version that still lands: \"This works in theory, but not in real life.\"",
+            "zh": "更簡單但一樣有力的說法：「This works in theory, but not in real life.」"
           },
           {
             "speaker": "b",
@@ -1330,31 +1079,19 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Notice what you keep avoiding. Avoidance is often a map of bad design.",
-            "zh": "去注意你一直在逃避什麼。逃避很多時候就是壞設計的地圖。",
-            "vocab": [
-              {
-                "word": "avoidance",
-                "def": "逃避；回避"
-              }
-            ]
+            "zh": "去注意你一直在逃避什麼。逃避很多時候就是壞設計的地圖。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely sharp idea.",
-            "zh": "這真的很銳利。"
+            "en": "Most people have never thought to treat their own frustration as a map.",
+            "zh": "大多數人從來沒有想過，要把自己的挫折感當成地圖來看。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A thoughtful adjustment matters because sometimes a tiny change in placement or sequence can remove a huge amount of drag.",
-            "zh": "有想法的微調很重要，因為有時候只是位置或順序的一個小改變，就能拿掉很大一塊阻力。",
-            "vocab": [
-              {
-                "word": "thoughtful adjustment",
-                "def": "不是大翻修"
-              }
-            ]
+            "zh": "有想法的微調很重要，因為有時候只是位置或順序的一個小改變，就能拿掉很大一塊阻力。"
           },
           {
             "speaker": "b",
@@ -1407,8 +1144,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Daily design matters because people do better work when the ordinary structure of life wastes less of them.",
-            "zh": "日常設計很重要，因為當普通生活的結構比較不浪費人時，人通常就能做出更好的事。",
-            "vocab": []
+            "zh": "日常設計很重要，因為當普通生活的結構比較不浪費人時，人通常就能做出更好的事。"
           },
           {
             "speaker": "b",
@@ -1431,7 +1167,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where better design usually begins.",
+            "en": "That's where better design usually begins.",
             "zh": "而更好的設計，通常就是從那裡開始。"
           }
         ]
@@ -1501,13 +1237,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens because music often reaches feeling faster than language does.",
-            "zh": "那會發生，是因為音樂很多時候比語言更快碰到感受。",
-            "vocab": [
-              {
-                "word": "reaches feeling",
-                "def": "音樂裡能直接帶動情緒的節奏感與流動"
-              }
-            ]
+            "zh": "那會發生，是因為音樂很多時候比語言更快碰到感受。"
           },
           {
             "speaker": "b",
@@ -1519,13 +1249,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Music memory is powerful because a melody can reopen a whole emotional world in seconds.",
-            "zh": "完全沒錯。音樂記憶很強，因為一段旋律幾秒內就能重新打開整個情緒世界。",
-            "vocab": [
-              {
-                "word": "music memory",
-                "def": "音樂記憶很強"
-              }
-            ]
+            "zh": "完全沒錯。音樂記憶很強，因為一段旋律幾秒內就能重新打開整個情緒世界。"
           },
           {
             "speaker": "b",
@@ -1537,13 +1261,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can feel intense. Sound goes around the thinking mind and straight into the body sometimes.",
-            "zh": "有時候真的會很強。聲音常常會繞過思考，直接進到身體裡。",
-            "vocab": [
-              {
-                "word": "feel intense",
-                "def": "很強"
-              }
-            ]
+            "zh": "有時候真的會很強。聲音常常會繞過思考，直接進到身體裡。"
           },
           {
             "speaker": "b",
@@ -1554,8 +1272,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good way to describe it.",
-            "zh": "這個說法很好。"
+            "en": "The physical side of it — tempo, bass, volume — actually lands before the words do.",
+            "zh": "那個身體面——節奏、低音、音量——其實比歌詞更早抵達。"
           }
         ]
       },
@@ -1572,13 +1290,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because music can become a mood channel. It helps emotion move when words feel too slow or too neat.",
-            "zh": "因為音樂會變成一條情緒通道。當語言太慢、太整齊時，它會幫情緒流動起來。",
-            "vocab": [
-              {
-                "word": "mood channel",
-                "def": "變成一條情緒通道"
-              }
-            ]
+            "zh": "因為音樂會變成一條情緒通道。當語言太慢、太整齊時，它會幫情緒流動起來。"
           },
           {
             "speaker": "b",
@@ -1590,13 +1302,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A private soundtrack often forms around periods of change, grief, love, or recovery.",
-            "zh": "完全沒錯。一段私人配樂，常常就是在改變、失落、愛，或修復的時期慢慢形成。",
-            "vocab": [
-              {
-                "word": "private soundtrack",
-                "def": "常常就是在改變、失落、愛"
-              }
-            ]
+            "zh": "完全沒錯。一段私人配樂，常常就是在改變、失落、愛，或修復的時期慢慢形成。"
           },
           {
             "speaker": "b",
@@ -1608,13 +1314,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. They are carrying too much of the emotional atmosphere of a particular time.",
-            "zh": "對。它們身上裝著某段時間太多情緒氛圍了。",
-            "vocab": [
-              {
-                "word": "emotional atmosphere",
-                "def": "它們身上裝著某段時間太多情緒氛圍了"
-              }
-            ]
+            "zh": "對。它們身上裝著某段時間太多情緒氛圍了。"
           },
           {
             "speaker": "b",
@@ -1643,13 +1343,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, \"Music helps me feel things I cannot always explain clearly.\"",
-            "zh": "你可以說：「Music helps me feel things I cannot always explain clearly.」",
-            "vocab": [
-              {
-                "word": "cannot always",
-                "def": "透過音樂把情緒放出來、鬆開來的經驗"
-              }
-            ]
+            "zh": "你可以說：「Music helps me feel things I cannot always explain clearly.」"
           },
           {
             "speaker": "b",
@@ -1661,8 +1355,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"That song takes me straight back to a very specific feeling.\"",
-            "zh": "另一句也很好用：「That song takes me straight back to a very specific feeling.」",
-            "vocab": []
+            "zh": "另一句也很好用：「That song takes me straight back to a very specific feeling.」"
           },
           {
             "speaker": "b",
@@ -1674,13 +1367,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An easier everyday line would be, \"This song gets under my skin in the best way.\"",
-            "zh": "如果你想講得更簡單，也可以說：「This song gets under my skin in the best way.」",
-            "vocab": [
-              {
-                "word": "easier everyday",
-                "def": "更日常的說法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「This song gets under my skin in the best way.」"
           },
           {
             "speaker": "b",
@@ -1697,7 +1384,7 @@ export const WEEK_44: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Using Music More Intentionally",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -1721,8 +1408,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sonic comfort matters because some sounds help a person return to themselves more gently.",
-            "zh": "完全沒錯。聲音安慰感很重要，因為有些聲音真的會幫一個人比較溫柔地回到自己身上。",
-            "vocab": []
+            "zh": "完全沒錯。聲音安慰感很重要，因為有些聲音真的會幫一個人比較溫柔地回到自己身上。"
           },
           {
             "speaker": "b",
@@ -1747,12 +1433,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "It is a very important one.",
             "zh": "這真的是很重要的區分。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Letting Music Carry Feeling",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1775,8 +1456,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Emotional release matters because sometimes healing begins the moment a feeling is finally allowed to move.",
-            "zh": "情緒釋放很重要，因為有時候修復就是從某個感受終於被允許流動的那一刻開始。",
-            "vocab": []
+            "zh": "情緒釋放很重要，因為有時候修復就是從某個感受終於被允許流動的那一刻開始。"
           },
           {
             "speaker": "b",
@@ -1869,13 +1549,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because writer attention is very concentrated. A sentence can ask for more feeling than people realize.",
-            "zh": "那是因為作者注意力其實非常集中。一個句子有時候會向你要求比別人以為的更多感受。",
-            "vocab": [
-              {
-                "word": "writer attention",
-                "def": "那是因為作者注意力其實非常集中"
-              }
-            ]
+            "zh": "那是因為作者注意力其實非常集中。一個句子有時候會向你要求比別人以為的更多感受。"
           },
           {
             "speaker": "b",
@@ -1887,13 +1561,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sentence pressure happens when language has to carry more truth than it is ready for yet.",
-            "zh": "完全沒錯。句子壓力，就是語言被迫去承載比它當下還沒準備好承載的真相。",
-            "vocab": [
-              {
-                "word": "sentence pressure",
-                "def": "很難寫的壓力"
-              }
-            ]
+            "zh": "完全沒錯。句子壓力，就是語言被迫去承載比它當下還沒準備好承載的真相。"
           },
           {
             "speaker": "b",
@@ -1905,13 +1573,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of blank staring is not emptiness. It is the mind waiting for the truer sentence.",
-            "zh": "很多發呆其實不是空白，而是腦袋在等那句比較真的句子。",
-            "vocab": [
-              {
-                "word": "blank staring",
-                "def": "很多發呆其實不是空白"
-              }
-            ]
+            "zh": "很多發呆其實不是空白，而是腦袋在等那句比較真的句子。"
           },
           {
             "speaker": "b",
@@ -1940,13 +1602,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because every sentence reveals preference, distance, rhythm, and what the writer is willing to notice.",
-            "zh": "因為每一句話都會洩漏偏好、距離感、節奏感，還有作者到底願意看見什麼。",
-            "vocab": [
-              {
-                "word": "preference",
-                "def": "偏好；喜好"
-              }
-            ]
+            "zh": "因為每一句話都會洩漏偏好、距離感、節奏感，還有作者到底願意看見什麼。"
           },
           {
             "speaker": "b",
@@ -1958,13 +1614,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Blank page fear often has less to do with talent and more to do with being seen.",
-            "zh": "完全沒錯。空白頁恐懼很多時候和天分關係沒那麼大，反而和被看見有關。",
-            "vocab": [
-              {
-                "word": "blank page fear",
-                "def": "反而和被看見有關"
-              }
-            ]
+            "zh": "完全沒錯。空白頁恐懼很多時候和天分關係沒那麼大，反而和被看見有關。"
           },
           {
             "speaker": "b",
@@ -1976,13 +1626,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Revision patience helps because good writing often arrives by staying with discomfort longer than you first want to.",
-            "zh": "修訂耐心很有幫助，因為好的寫作很多時候是靠你比原本想像的再多待在不舒服裡一點點才出現的。",
-            "vocab": [
-              {
-                "word": "revision patience",
-                "def": "願意反覆修改、不急著立刻定稿的耐心"
-              }
-            ]
+            "zh": "修訂耐心很有幫助，因為好的寫作很多時候是靠你比原本想像的再多待在不舒服裡一點點才出現的。"
           },
           {
             "speaker": "b",
@@ -2011,8 +1655,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, \"Writing is slow for me because I can usually feel when a sentence is not honest yet.\"",
-            "zh": "你可以說：「Writing is slow for me because I can usually feel when a sentence is not honest yet.」",
-            "vocab": []
+            "zh": "你可以說：「Writing is slow for me because I can usually feel when a sentence is not honest yet.」"
           },
           {
             "speaker": "b",
@@ -2024,13 +1667,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"The hardest part is not wording it, but getting close enough to what I actually mean.\"",
-            "zh": "另一句也很好用：「The hardest part is not wording it, but getting close enough to what I actually mean.」",
-            "vocab": [
-              {
-                "word": "mean",
-                "def": "但帶很多"
-              }
-            ]
+            "zh": "另一句也很好用：「The hardest part is not wording it, but getting close enough to what I actually mean.」"
           },
           {
             "speaker": "b",
@@ -2042,8 +1679,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, \"I know what I feel, but the sentence is not there yet.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I know what I feel, but the sentence is not there yet.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I know what I feel, but the sentence is not there yet.」"
           },
           {
             "speaker": "b",
@@ -2084,13 +1720,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Language precision grows better in steady practice than in emotional intensity alone.",
-            "zh": "完全沒錯。語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。",
-            "vocab": [
-              {
-                "word": "language precision",
-                "def": "對字詞、語氣和表達細節拿得更準的能力"
-              }
-            ]
+            "zh": "完全沒錯。語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
           },
           {
             "speaker": "b",
@@ -2143,8 +1773,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Written clarity matters because many people only fully know their own mind after they see it on the page.",
-            "zh": "文字清楚感很重要，因為很多人其實要等到心裡的東西真的出現在頁面上，才會完全知道自己在想什麼。",
-            "vocab": []
+            "zh": "文字清楚感很重要，因為很多人其實要等到心裡的東西真的出現在頁面上，才會完全知道自己在想什麼。"
           },
           {
             "speaker": "b",
@@ -2237,13 +1866,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very true. A creative habit matters more than occasional inspiration.",
-            "zh": "這真的很真。創意習慣很多時候比偶爾的靈感還重要。",
-            "vocab": [
-              {
-                "word": "creative habit",
-                "def": "不是等靈感"
-              }
-            ]
+            "zh": "這真的很真。創意習慣很多時候比偶爾的靈感還重要。"
           },
           {
             "speaker": "b",
@@ -2255,13 +1878,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A making rhythm helps because people create more honestly when the work is part of life instead of a rare performance.",
-            "zh": "完全沒錯。創作節奏很有幫助，因為當創作是生活的一部分，而不是偶爾上台表演時，人通常會創作得更誠實。",
-            "vocab": [
-              {
-                "word": "making rhythm",
-                "def": "讓創作穩定發生的節奏與生活安排"
-              }
-            ]
+            "zh": "完全沒錯。創作節奏很有幫助，因為當創作是生活的一部分，而不是偶爾上台表演時，人通常會創作得更誠實。"
           },
           {
             "speaker": "b",
@@ -2273,13 +1890,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A creative life has to be livable. Otherwise it becomes self-image instead of practice.",
-            "zh": "創意人生本來就要住得下去，不然它很快就會變成形象，而不是練習。",
-            "vocab": [
-              {
-                "word": "self-image",
-                "def": "一個人心裡對自己是什麼樣子的整體印象"
-              }
-            ]
+            "zh": "創意人生本來就要住得下去，不然它很快就會變成形象，而不是練習。"
           },
           {
             "speaker": "b",
@@ -2308,13 +1919,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often perfection, comparison, and the belief that making only counts when it is impressive.",
-            "zh": "很多時候是完美主義、比較，還有那種「只有做得很厲害才算創作」的信念。",
-            "vocab": [
-              {
-                "word": "impressive",
-                "def": "令人印象深刻的"
-              }
-            ]
+            "zh": "很多時候是完美主義、比較，還有那種「只有做得很厲害才算創作」的信念。"
           },
           {
             "speaker": "b",
@@ -2326,31 +1931,19 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An unfinished draft can be more alive than a perfect idea that never leaves the mind.",
-            "zh": "完全沒錯。一份未完成草稿，常常比一個永遠沒離開腦袋的完美點子更有生命。",
-            "vocab": [
-              {
-                "word": "unfinished draft",
-                "def": "一份未完成草稿"
-              }
-            ]
+            "zh": "完全沒錯。一份未完成草稿，常常比一個永遠沒離開腦袋的完美點子更有生命。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like something many people need to hear.",
-            "zh": "這真的很像很多人需要聽到的話。"
+            "en": "Think about the last time you abandoned something before it got good. Was that about talent, or about being scared of the unfinished version of yourself?",
+            "zh": "想想你上次在某件事變好之前就放棄的時候——那真的是因為沒天分，還是因為你怕那個還沒完成的自己？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A permission slip helps too. Many adults are still waiting for someone to tell them they are allowed to make imperfect things.",
-            "zh": "一張允許紙也很有幫助。很多大人其實還在等，等某個人告訴他們：你可以做出不完美的東西。",
-            "vocab": [
-              {
-                "word": "permission slip",
-                "def": "允許自己開始、不必先完美的內在許可"
-              }
-            ]
+            "zh": "一張允許紙也很有幫助。很多大人其實還在等，等某個人告訴他們：你可以做出不完美的東西。"
           },
           {
             "speaker": "b",
@@ -2379,13 +1972,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, \"I want creativity to be part of my daily life, not just an occasional project.\"",
-            "zh": "你可以說：「I want creativity to be part of my daily life, not just an occasional project.」",
-            "vocab": [
-              {
-                "word": "occasional project",
-                "def": "不是一直被消耗"
-              }
-            ]
+            "zh": "你可以說：「I want creativity to be part of my daily life, not just an occasional project.」"
           },
           {
             "speaker": "b",
@@ -2397,13 +1984,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, \"I am trying to make room for small acts of expression on a regular basis.\"",
-            "zh": "另一句也很好用：「I am trying to make room for small acts of expression on a regular basis.」",
-            "vocab": [
-              {
-                "word": "make room",
-                "def": "讓對方有空間把自己說完整"
-              }
-            ]
+            "zh": "另一句也很好用：「I am trying to make room for small acts of expression on a regular basis.」"
           },
           {
             "speaker": "b",
@@ -2415,8 +1996,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, \"I want to make more and overthink less.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I want to make more and overthink less.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I want to make more and overthink less.」"
           },
           {
             "speaker": "b",
@@ -2433,7 +2013,7 @@ export const WEEK_44: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Protecting the Conditions for Making",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -2457,8 +2037,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Creative energy grows when people have enough safety to play, fail, and begin again.",
-            "zh": "完全沒錯。當人有足夠安全感去玩、去失敗、再重新開始時，創作能量就會長。",
-            "vocab": []
+            "zh": "完全沒錯。當人有足夠安全感去玩、去失敗、再重新開始時，創作能量就會長。"
           },
           {
             "speaker": "b",
@@ -2483,12 +2062,7 @@ export const WEEK_44: Episode[] = [
             "speakerName": "Mira",
             "en": "Many people feel the same once they hear it clearly.",
             "zh": "很多人其實一聽清楚，就會有同樣感覺。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — A Life with More Making in It",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2511,8 +2085,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Lived creativity matters because people become easier to live with when their inner life is allowed to move outward a little.",
-            "zh": "活出創造力很重要，因為當一個人的內在生活被允許往外流動一點時，他整個人通常也會變得比較好和自己相處。",
-            "vocab": []
+            "zh": "活出創造力很重要，因為當一個人的內在生活被允許往外流動一點時，他整個人通常也會變得比較好和自己相處。"
           },
           {
             "speaker": "b",
@@ -2535,7 +2108,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very good direction.",
+            "en": "That's a very good direction.",
             "zh": "那是一個很好的方向。"
           }
         ]

@@ -22,13 +22,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That usually means the meeting agenda looked tidy on paper but never became a real guide in the room.",
-            "zh": "那通常代表會議議程在紙上看起來很整齊，可是進到現場後根本沒有真的變成導航。",
-            "vocab": [
-              {
-                "word": "meeting agenda",
-                "def": "會議議程"
-              }
-            ]
+            "zh": "那通常代表會議議程在紙上看起來很整齊，可是進到現場後根本沒有真的變成導航。"
           },
           {
             "speaker": "b",
@@ -46,25 +40,13 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And once we started drifting, the meeting ran over time without anyone noticing.",
-            "zh": "而且一開始飄掉之後，整場會就超時了，大家好像還沒什麼感覺。",
-            "vocab": [
-              {
-                "word": "ran over time",
-                "def": "超過原本預定時間"
-              }
-            ]
+            "zh": "而且一開始飄掉之後，整場會就超時了，大家好像還沒什麼感覺。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because meetings rarely fail all at once. They usually go in circles first.",
-            "zh": "那是因為會議通常不是突然失敗的，它比較常是先開始原地打轉。",
-            "vocab": [
-              {
-                "word": "go in circles",
-                "def": "一直繞圈子，沒有真正往前"
-              }
-            ]
+            "zh": "那是因為會議通常不是突然失敗的，它比較常是先開始原地打轉。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That matters a lot. If there is no decision maker, people often confuse discussion with progress.",
-            "zh": "那真的差很多。如果沒有清楚的決定者，大家很容易把討論本身誤以為是進展。",
-            "vocab": [
-              {
-                "word": "decision maker",
-                "def": "真正負責做決定的人"
-              }
-            ]
+            "zh": "那真的差很多。如果沒有清楚的決定者，大家很容易把討論本身誤以為是進展。"
           },
           {
             "speaker": "b",
@@ -123,17 +99,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. But unclear meetings create more work later through messy action items and repeated follow-up.",
-            "zh": "對。可是沒講清楚的會議，最後只會靠一堆混亂的待辦和重複追問，把工作加倍奉還。",
-            "vocab": [
-              {
-                "word": "action items",
-                "def": "會後需要執行的待辦事項"
-              },
-              {
-                "word": "follow-up",
-                "def": "後續追蹤與補充確認"
-              }
-            ]
+            "zh": "對。可是沒講清楚的會議，最後只會靠一堆混亂的待辦和重複追問，把工作加倍奉還。"
           },
           {
             "speaker": "b",
@@ -186,13 +152,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If something needs to wait, you can also say, 'Can we table that and come back after we land this point?'",
-            "zh": "沒錯。如果有東西需要先放一下，你也可以說：「我們先把這個暫時放著，等這個重點落地之後再回來。」",
-            "vocab": [
-              {
-                "word": "table that",
-                "def": "先暫時擱置這個議題"
-              }
-            ]
+            "zh": "沒錯。如果有東西需要先放一下，你也可以說：「我們先把這個暫時放著，等這個重點落地之後再回來。」"
           },
           {
             "speaker": "b",
@@ -233,31 +193,19 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A short follow-up note helps too, but it should confirm the decision, not rescue a vague meeting after the fact.",
-            "zh": "沒錯。短短的會後紀錄也很有幫助，但它應該是確認一個已經講清楚的決定，不是事後去拯救一場本來就模糊的會。",
-            "vocab": [
-              {
-                "word": "follow-up note",
-                "def": "會後簡短追蹤紀錄"
-              }
-            ]
+            "zh": "沒錯。短短的會後紀錄也很有幫助，但它應該是確認一個已經講清楚的決定，不是事後去拯救一場本來就模糊的會。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really helpful distinction.",
-            "zh": "這個差別真的很關鍵。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good meetings create closure. Bad meetings export confusion to everybody's calendar.",
-            "zh": "好的會議會產生結尾感，壞的會議只會把混亂輸出到每個人的行事曆裡。",
-            "vocab": [
-              {
-                "word": "closure",
-                "def": "一件事有被收束、講完的感覺"
-              }
-            ]
+            "zh": "好的會議會產生結尾感，壞的會議只會把混亂輸出到每個人的行事曆裡。"
           },
           {
             "speaker": "b",
@@ -415,13 +363,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good prep means you did your homework before other people start asking you to defend your point.",
-            "zh": "沒錯。好的準備，就是你已經先把功課做好了，不是等別人開始挑戰時才現場補。",
-            "vocab": [
-              {
-                "word": "homework before",
-                "def": "事前把功課準備好"
-              }
-            ]
+            "zh": "沒錯。好的準備，就是你已經先把功課做好了，不是等別人開始挑戰時才現場補。"
           },
           {
             "speaker": "b",
@@ -433,13 +375,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Important meetings deserve thinking before performance.",
-            "zh": "很好。重要會議值得你先思考，再上場表現。",
-            "vocab": [
-              {
-                "word": "performance",
-                "def": "表現；效能"
-              }
-            ]
+            "zh": "很好。重要會議值得你先思考，再上場表現。"
           }
         ]
       },
@@ -456,17 +392,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You need to know your key point, the outcome you want, and the questions people are likely to ask.",
-            "zh": "你要知道你的核心重點是什麼、你想要的結果是什麼，還有大家最可能問哪些問題。",
-            "vocab": [
-              {
-                "word": "key point",
-                "def": "核心重點"
-              },
-              {
-                "word": "outcome you want",
-                "def": "你希望這場會帶出的結果"
-              }
-            ]
+            "zh": "你要知道你的核心重點是什麼、你想要的結果是什麼，還有大家最可能問哪些問題。"
           },
           {
             "speaker": "b",
@@ -490,13 +416,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why it helps to write down your talking points without the slides first.",
-            "zh": "完全沒錯。這也是為什麼先不看投影片、直接把你要講的重點列成 talking points 會很有幫助。",
-            "vocab": [
-              {
-                "word": "talking points",
-                "def": "你準備要講的重點條列"
-              }
-            ]
+            "zh": "完全沒錯。這也是為什麼先不看投影片、直接把你要講的重點列成 talking points 會很有幫助。"
           },
           {
             "speaker": "b",
@@ -537,13 +457,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or: 'I walked in with three questions, and if we answer those, I think we will be in good shape.'",
-            "zh": "或者也可以說：「I walked in with three questions, and if we answer those, I think we will be in good shape.」",
-            "vocab": [
-              {
-                "word": "walked",
-                "def": "帶著某個明確準備走進會議"
-              }
-            ]
+            "zh": "或者也可以說：「I walked in with three questions, and if we answer those, I think we will be in good shape.」"
           },
           {
             "speaker": "b",
@@ -555,13 +469,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if someone challenges you, say, 'Here is the reasoning behind that, and I can back it up with the numbers.'",
-            "zh": "沒錯。如果有人挑戰你，你也可以說：「Here is the reasoning behind that, and I can back it up with the numbers.」",
-            "vocab": [
-              {
-                "word": "back it up",
-                "def": "用資料或證據把說法撐住"
-              }
-            ]
+            "zh": "沒錯。如果有人挑戰你，你也可以說：「Here is the reasoning behind that, and I can back it up with the numbers.」"
           },
           {
             "speaker": "b",
@@ -602,13 +510,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Once that sentence is clear, the slides, examples, and likely questions all become easier to organize.",
-            "zh": "完全沒錯。一旦那句話清楚了，投影片、例子，還有可能會被問的問題，都會變得比較好整理。",
-            "vocab": [
-              {
-                "word": "likely questions",
-                "def": "很可能會被問到的問題"
-              }
-            ]
+            "zh": "完全沒錯。一旦那句話清楚了，投影片、例子，還有可能會被問的問題，都會變得比較好整理。"
           },
           {
             "speaker": "b",
@@ -754,13 +656,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens a lot. Speaking up gets harder every extra minute you spend rehearsing it in your head.",
-            "zh": "這真的很常見。你在腦中每多預演一分鐘，真正開口就會更難一點。",
-            "vocab": [
-              {
-                "word": "Speaking up",
-                "def": "這真的很常見"
-              }
-            ]
+            "zh": "這真的很常見。你在腦中每多預演一分鐘，真正開口就會更難一點。"
           },
           {
             "speaker": "b",
@@ -784,13 +680,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of thoughtful people have that fear, which is why they often wait until they are so frustrated that they do sound sharp.",
-            "zh": "很多有在思考的人都有這個怕法，所以他們常常拖到自己已經很煩時才說，結果真的就變得很尖。",
-            "vocab": [
-              {
-                "word": "thoughtful",
-                "def": "讓人感覺起來是某種樣子"
-              }
-            ]
+            "zh": "很多有在思考的人都有這個怕法，所以他們常常拖到自己已經很煩時才說，結果真的就變得很尖。"
           },
           {
             "speaker": "b",
@@ -819,13 +709,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because many people think their only choices are shrinking or cutting in hard.",
-            "zh": "因為很多人以為自己的選項只有兩個：縮小自己，或是很硬地插進去。",
-            "vocab": [
-              {
-                "word": "cutting",
-                "def": "插話切入別人的發言"
-              }
-            ]
+            "zh": "因為很多人以為自己的選項只有兩個：縮小自己，或是很硬地插進去。"
           },
           {
             "speaker": "b",
@@ -837,13 +721,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Then the pressure builds, and you make a point with more force than you actually wanted.",
-            "zh": "沒錯。然後壓力慢慢累積，你最後講出來的重點，就會比你原本想要的力道大很多。",
-            "vocab": [
-              {
-                "word": "make a point",
-                "def": "把自己的重點講出來"
-              }
-            ]
+            "zh": "沒錯。然後壓力慢慢累積，你最後講出來的重點，就會比你原本想要的力道大很多。"
           },
           {
             "speaker": "b",
@@ -855,13 +733,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A useful middle voice is firm enough to be heard and calm enough that nobody has to brace for impact.",
-            "zh": "對。好用的中間聲音，要夠堅定讓人聽見，也要夠平靜，讓別人不用先準備被撞。",
-            "vocab": [
-              {
-                "word": "firm",
-                "def": "堅定而不飆高音量的"
-              }
-            ]
+            "zh": "對。好用的中間聲音，要夠堅定讓人聽見，也要夠平靜，讓別人不用先準備被撞。"
           },
           {
             "speaker": "b",
@@ -890,13 +762,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One easy one is, 'Can I jump in for a second? I think we may be assuming the timeline is shorter than it really is.'",
-            "zh": "很實用的一句是：「Can I jump in for a second? I think we may be assuming the timeline is shorter than it really is.」",
-            "vocab": [
-              {
-                "word": "jump in",
-                "def": "適時插進來發言"
-              }
-            ]
+            "zh": "很實用的一句是：「Can I jump in for a second? I think we may be assuming the timeline is shorter than it really is.」"
           },
           {
             "speaker": "b",
@@ -908,13 +774,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'I want to push back on one part of that, specifically the timing.'",
-            "zh": "另一句也很好：「I want to push back on one part of that, specifically the timing.」",
-            "vocab": [
-              {
-                "word": "push back",
-                "def": "針對某一點提出不同意見"
-              }
-            ]
+            "zh": "另一句也很好：「I want to push back on one part of that, specifically the timing.」"
           },
           {
             "speaker": "b",
@@ -926,13 +786,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you need to interrupt politely, try, 'Sorry, can I add something before we move on?'",
-            "zh": "沒錯。如果你真的需要禮貌插話，也可以說：「Sorry, can I add something before we move on?」",
-            "vocab": [
-              {
-                "word": "interrupt politely",
-                "def": "用有禮貌的方式插話"
-              }
-            ]
+            "zh": "沒錯。如果你真的需要禮貌插話，也可以說：「Sorry, can I add something before we move on?」"
           },
           {
             "speaker": "b",
@@ -949,7 +803,7 @@ export const WEEK_20: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Habit That Makes This Easier",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -985,13 +839,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And remember that holding your ground does not require raising your voice.",
-            "zh": "而且也要記得，穩住立場不代表你一定要提高音量。",
-            "vocab": [
-              {
-                "word": "holding your ground",
-                "def": "穩住自己的立場不退掉"
-              }
-            ]
+            "zh": "而且也要記得，穩住立場不代表你一定要提高音量。"
           },
           {
             "speaker": "b",
@@ -1004,12 +852,7 @@ export const WEEK_20: Episode[] = [
             "speakerName": "Mira",
             "en": "A lot of strong meeting presence is really just steady timing and clear wording.",
             "zh": "很多所謂強的會議存在感，其實只是穩的時機和清楚的 wording 而已。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What a Strong Voice Actually Sounds Like",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1137,17 +980,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Productive disagreement starts by slowing the room down enough to keep it constructive.",
-            "zh": "完全沒錯。有效的不同意，第一步其實是先把房間的速度降到足以維持建設性。",
-            "vocab": [
-              {
-                "word": "keep it constructive",
-                "def": "讓討論維持建設性"
-              },
-              {
-                "word": "productive disagreement",
-                "def": "能推動事情往前的不同意"
-              }
-            ]
+            "zh": "完全沒錯。有效的不同意，第一步其實是先把房間的速度降到足以維持建設性。"
           },
           {
             "speaker": "b",
@@ -1188,13 +1021,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First, people show they can see the point before they challenge it.",
-            "zh": "第一步，是在挑戰之前，先讓人知道你看見了那個觀點。",
-            "vocab": [
-              {
-                "word": "see the point",
-                "def": "先讓對方知道你理解他的意思"
-              }
-            ]
+            "zh": "第一步，是在挑戰之前，先讓人知道你看見了那個觀點。"
           },
           {
             "speaker": "b",
@@ -1206,13 +1033,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Then you can offer a different read of the situation without insulting the person who spoke.",
-            "zh": "完全就是。接著你就可以提出一個不同的解讀，而不是順手羞辱講話的人。",
-            "vocab": [
-              {
-                "word": "different read",
-                "def": "對同一件事的另一種解讀"
-              }
-            ]
+            "zh": "完全就是。接著你就可以提出一個不同的解讀，而不是順手羞辱講話的人。"
           },
           {
             "speaker": "b",
@@ -1236,13 +1057,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Good questions slow down certainty and create common ground people can stand on together.",
-            "zh": "非常重要。好的問題會讓那種太快的確定感慢下來，也會創造出雙方可以一起站的共同地面。",
-            "vocab": [
-              {
-                "word": "common ground",
-                "def": "雙方都能站住的共同基礎"
-              }
-            ]
+            "zh": "非常重要。好的問題會讓那種太快的確定感慢下來，也會創造出雙方可以一起站的共同地面。"
           }
         ]
       },
@@ -1259,13 +1074,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sentence that works well is 'I see your point, but I think the trade-off may be bigger than we want.'",
-            "zh": "你可以試這句：「I see your point, but I think the trade-off may be bigger than we want.」",
-            "vocab": [
-              {
-                "word": "trade-off",
-                "def": "取捨成本；一邊得一邊失"
-              }
-            ]
+            "zh": "你可以試這句：「I see your point, but I think the trade-off may be bigger than we want.」"
           },
           {
             "speaker": "b",
@@ -1277,13 +1086,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'Can I challenge the idea, not the goal? I think the goal makes sense.'",
-            "zh": "另一句也很好：「Can I challenge the idea, not the goal? I think the goal makes sense.」",
-            "vocab": [
-              {
-                "word": "challenge the idea",
-                "def": "針對想法本身提出挑戰"
-              }
-            ]
+            "zh": "另一句也很好：「Can I challenge the idea, not the goal? I think the goal makes sense.」"
           },
           {
             "speaker": "b",
@@ -1295,13 +1098,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can also ask, 'What problem is this solving better than the other option?' That keeps the disagreement useful.",
-            "zh": "沒錯。你也可以直接問：「What problem is this solving better than the other option?」這樣會讓不同意維持在有用的層次。",
-            "vocab": [
-              {
-                "word": "disagreement",
-                "def": "問一個能把討論拉回問題本身的問題"
-              }
-            ]
+            "zh": "沒錯。你也可以直接問：「What problem is this solving better than the other option?」這樣會讓不同意維持在有用的層次。"
           },
           {
             "speaker": "b",
@@ -1488,17 +1285,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a classic sign the room has gone off track and nobody has brought it back yet.",
-            "zh": "這就是很典型的會議離軌，而且還沒有人把它拉回來。",
-            "vocab": [
-              {
-                "word": "gone off track",
-                "def": "會議或討論偏離原本的軌道"
-              },
-              {
-                "word": "brought it back",
-                "def": "把討論拉回原本該走的方向"
-              }
-            ]
+            "zh": "這就是很典型的會議離軌，而且還沒有人把它拉回來。"
           },
           {
             "speaker": "b",
@@ -1516,19 +1303,13 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And because nobody stopped it early, we ended up rushing the only item that really mattered.",
-            "zh": "而且因為前面沒人早點停下來，最後真正重要的那個項目反而只能被很趕地帶過。"
+            "zh": "而且因為前面沒人早點停下來，最後真正重要的那個專案反而只能被很趕地帶過。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why side conversations are expensive. They steal time from the part the room actually came for.",
-            "zh": "這也是為什麼旁枝討論很昂貴。它會偷走大家原本真正來開這場會的時間。",
-            "vocab": [
-              {
-                "word": "side conversation",
-                "def": "旁枝的小討論，偏離主題的對話"
-              }
-            ]
+            "zh": "這也是為什麼旁枝討論很昂貴。它會偷走大家原本真正來開這場會的時間。"
           },
           {
             "speaker": "b",
@@ -1569,13 +1350,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A simple time check can save a meeting because it reminds the room that minutes are choices.",
-            "zh": "完全沒錯。一個簡單的 time check 就可以救一場會，因為它會提醒大家：時間本身就是選擇。",
-            "vocab": [
-              {
-                "word": "time check",
-                "def": "提醒大家看一下時間與剩餘空間"
-              }
-            ]
+            "zh": "完全沒錯。一個簡單的 time check 就可以救一場會，因為它會提醒大家：時間本身就是選擇。"
           },
           {
             "speaker": "b",
@@ -1587,13 +1362,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if a topic matters but not right now, put it in a parking lot instead of pretending it never came up.",
-            "zh": "如果一個話題有價值、但不是現在要談，就把它放進 parking lot，而不是假裝它沒被提過。",
-            "vocab": [
-              {
-                "word": "parking lot",
-                "def": "先停放待之後再談的議題清單"
-              }
-            ]
+            "zh": "如果一個話題有價值、但不是現在要談，就把它放進 parking lot，而不是假裝它沒被提過。"
           },
           {
             "speaker": "b",
@@ -1622,13 +1391,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try this: 'This is useful, but I want to make sure we do not lose the main thread.'",
-            "zh": "你可以試這句：「This is useful, but I want to make sure we do not lose the main thread.」",
-            "vocab": [
-              {
-                "word": "main thread",
-                "def": "討論真正要守住的主線"
-              }
-            ]
+            "zh": "你可以試這句：「This is useful, but I want to make sure we do not lose the main thread.」"
           },
           {
             "speaker": "b",
@@ -1640,13 +1403,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'Can we park this for now and wrap up the decision we actually need today?'",
-            "zh": "另一句也很好：「Can we park this for now and wrap up the decision we actually need today?」",
-            "vocab": [
-              {
-                "word": "wrap up",
-                "def": "把某個段落或議題收束結尾"
-              }
-            ]
+            "zh": "另一句也很好：「Can we park this for now and wrap up the decision we actually need today?」"
           },
           {
             "speaker": "b",
@@ -1699,13 +1456,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Once people can see who is doing what by when, the meeting suddenly becomes real.",
-            "zh": "完全沒錯。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。",
-            "vocab": [
-              {
-                "word": "suddenly becomes",
-                "def": "接下來明確要做的事項"
-              }
-            ]
+            "zh": "完全沒錯。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。"
           },
           {
             "speaker": "b",
@@ -1851,13 +1602,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Virtual meetings fail differently from in-person ones because the friction is harder to read and easier to ignore.",
-            "zh": "線上會議壞掉的方式跟實體會不太一樣，因為那些摩擦比較難看見，也更容易被忽略。",
-            "vocab": [
-              {
-                "word": "virtual meeting",
-                "def": "線上會議"
-              }
-            ]
+            "zh": "線上會議壞掉的方式跟實體會不太一樣，因為那些摩擦比較難看見，也更容易被忽略。"
           },
           {
             "speaker": "b",
@@ -1875,13 +1620,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And once people start talking over each other, the energy gets strange really fast.",
-            "zh": "而且一旦大家開始互相蓋過彼此，整個能量就會很快變得很奇怪。",
-            "vocab": [
-              {
-                "word": "over each other",
-                "def": "彼此同時講，互相蓋過對方"
-              }
-            ]
+            "zh": "而且一旦大家開始互相蓋過彼此，整個能量就會很快變得很奇怪。"
           },
           {
             "speaker": "a",
@@ -1916,13 +1655,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Clear turn-taking, visible cues, and extra patience for delay. Lag changes timing more than people realize.",
-            "zh": "清楚的輪流、看得見的提示，還有對延遲多一點耐心。lag 對時機的影響，比大家想像的大很多。",
-            "vocab": [
-              {
-                "word": "lag",
-                "def": "網路或音訊的延遲"
-              }
-            ]
+            "zh": "清楚的輪流、看得見的提示，還有對延遲多一點耐心。lag 對時機的影響，比大家想像的大很多。"
           },
           {
             "speaker": "b",
@@ -1934,13 +1667,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And some people contribute better in the chat, which can be helpful if the room actually watches it.",
-            "zh": "沒錯。有些人本來就比較能在 chat 裡貢獻，而如果房間有真的在看，那其實是有幫助的。",
-            "vocab": [
-              {
-                "word": "in the chat",
-                "def": "在聊天視窗裡打字回應"
-              }
-            ]
+            "zh": "沒錯。有些人本來就比較能在 chat 裡貢獻，而如果房間有真的在看，那其實是有幫助的。"
           },
           {
             "speaker": "b",
@@ -1952,13 +1679,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Same with screen share. If one person is driving the screen, they have to narrate what everybody else is looking at.",
-            "zh": "完全正確。screen share 也是一樣。如果是某一個人在操作畫面，他就要把大家正在看的東西講出來。",
-            "vocab": [
-              {
-                "word": "screen share",
-                "def": "分享螢幕畫面給大家看"
-              }
-            ]
+            "zh": "完全正確。screen share 也是一樣。如果是某一個人在操作畫面，他就要把大家正在看的東西講出來。"
           },
           {
             "speaker": "b",
@@ -1970,13 +1691,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They really do. If you just jump on a call and hope for the best, the weakest habits will lead.",
-            "zh": "真的就是這樣。如果你只是隨便跳上線開會然後希望一切順利，最後帶頭的通常會是那些最弱的習慣。",
-            "vocab": [
-              {
-                "word": "jump on a call",
-                "def": "直接進入一場通話或線上會議"
-              }
-            ]
+            "zh": "真的就是這樣。如果你只是隨便跳上線開會然後希望一切順利，最後帶頭的通常會是那些最弱的習慣。"
           }
         ]
       },
@@ -2034,7 +1749,7 @@ export const WEEK_20: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Habit That Makes Remote Calls Better",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -2058,13 +1773,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say whether people should use the chat, whether cameras are expected, and how you want questions handled.",
-            "zh": "例如先說大家可不可以用 chat、鏡頭是否預設要開，還有問題要怎麼插進來。",
-            "vocab": [
-              {
-                "word": "cameras",
-                "def": "開啟鏡頭參與會議"
-              }
-            ]
+            "zh": "例如先說大家可不可以用 chat、鏡頭是否預設要開，還有問題要怎麼插進來。"
           },
           {
             "speaker": "b",
@@ -2076,13 +1785,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Remote fatigue gets worse when people are not only thinking about content but also decoding the social rules.",
-            "zh": "完全沒錯。遠端疲勞會變得更嚴重，很多時候不是因為內容太多，而是因為大家還得一直解讀社交規則。",
-            "vocab": [
-              {
-                "word": "remote fatigue",
-                "def": "遠端會議帶來的疲勞與耗神感"
-              }
-            ]
+            "zh": "完全沒錯。遠端疲勞會變得更嚴重，很多時候不是因為內容太多，而是因為大家還得一直解讀社交規則。"
           },
           {
             "speaker": "b",
@@ -2095,12 +1798,7 @@ export const WEEK_20: Episode[] = [
             "speakerName": "Mira",
             "en": "Absolutely. Clear structure is one of the kindest things you can give a remote room.",
             "zh": "完全正確。清楚的結構，是你能送給遠端房間最溫柔的東西之一。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Good Remote Meetings Feel Like",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2240,17 +1938,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A useful discussion may not end with total agreement, but it should end with a clearer decision or a clearer open question.",
-            "zh": "完全沒錯。有用的討論不一定要以全體同意收尾，但至少要以更清楚的決定，或更清楚的未解問題收尾。",
-            "vocab": [
-              {
-                "word": "clearer decision",
-                "def": "清楚已定下來的決策"
-              },
-              {
-                "word": "decision",
-                "def": "還沒解完、但已被準確命名的問題"
-              }
-            ]
+            "zh": "完全沒錯。有用的討論不一定要以全體同意收尾，但至少要以更清楚的決定，或更清楚的未解問題收尾。"
           },
           {
             "speaker": "b",
@@ -2291,35 +1979,19 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If people never get honest input, the discussion stays shallow. If it never gets follow-through, it stays decorative.",
-            "zh": "完全沒錯。如果現場沒有真誠輸入，討論就會停在很淺的地方；如果沒有後續做到，它就只會變成裝飾。",
-            "vocab": [
-              {
-                "word": "honest input",
-                "def": "真誠而不是敷衍的意見輸入"
-              },
-              {
-                "word": "follow-through",
-                "def": "會後真的繼續做下去"
-              }
-            ]
+            "zh": "完全沒錯。如果現場沒有真誠輸入，討論就會停在很淺的地方；如果沒有後續做到，它就只會變成裝飾。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely brutal but accurate word for some meetings: decorative.",
-            "zh": "有些會議真的就是這樣，decorative 這個字殘忍但超準。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if the room never hears everyone out, it usually confuses speed with quality.",
-            "zh": "而如果房間從來沒有真的把每個人聽完，它通常就會把速度誤以為品質。",
-            "vocab": [
-              {
-                "word": "hears everyone out",
-                "def": "把每個人的重點真的聽完"
-              }
-            ]
+            "zh": "而如果房間從來沒有真的把每個人聽完，它通常就會把速度誤以為品質。"
           },
           {
             "speaker": "b",
@@ -2348,13 +2020,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can ask, 'What are we deciding here, and what are we only exploring?'",
-            "zh": "你可以先問：「What are we deciding here, and what are we only exploring?」",
-            "vocab": [
-              {
-                "word": "exploring",
-                "def": "先探索想法而不急著定案"
-              }
-            ]
+            "zh": "你可以先問：「What are we deciding here, and what are we only exploring?」"
           },
           {
             "speaker": "b",
@@ -2378,13 +2044,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if the room is ready to end, say, 'Can we close the loop on who is taking the next step?'",
-            "zh": "沒錯。如果房間已經準備要收尾，你也可以說：「Can we close the loop on who is taking the next step?」",
-            "vocab": [
-              {
-                "word": "close the loop",
-                "def": "把責任和後續完整收束起來"
-              }
-            ]
+            "zh": "沒錯。如果房間已經準備要收尾，你也可以說：「Can we close the loop on who is taking the next step?」"
           },
           {
             "speaker": "b",
@@ -2478,13 +2138,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a higher bar, but it is also a more honest one.",
-            "zh": "它的確比較高，但也更誠實。",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "討論最後有明確落點"
-              }
-            ]
+            "zh": "它的確比較高，但也更誠實。"
           },
           {
             "speaker": "b",

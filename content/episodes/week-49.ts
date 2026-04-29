@@ -22,13 +22,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That sounds familiar. You were physically off but mentally still at your desk.",
-            "zh": "聽起來很熟悉。你的身體放假了，但腦袋還在辦公桌前。",
-            "vocab": [
-              {
-                "word": "physically off",
-                "def": "身體上放假"
-              }
-            ]
+            "zh": "聽起來很熟悉。你的身體放假了，但腦袋還在辦公桌前。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the trap. Rest gets treated like a gap between productive moments, not something valuable on its own.",
-            "zh": "那就是陷阱所在。休息被當成兩段生產力之間的空檔，而不是本身就有價值的事。",
-            "vocab": [
-              {
-                "word": "productive",
-                "def": "有生產力的"
-              }
-            ]
+            "zh": "那就是陷阱所在。休息被當成兩段生產力之間的空檔，而不是本身就有價值的事。"
           },
           {
             "speaker": "b",
@@ -70,13 +58,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Those are all rest states. Your brain is still working, just without the pressure to perform.",
-            "zh": "那些都是休息狀態。你的大腦仍然在運作，只是沒有要表現的壓力。",
-            "vocab": [
-              {
-                "word": "rest state",
-                "def": "休息狀態"
-              }
-            ]
+            "zh": "那些都是休息狀態。你的大腦仍然在運作，只是沒有要表現的壓力。"
           }
         ]
       },
@@ -93,13 +75,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because we have been taught that busyness equals worth. If you are not doing something, you feel like you are falling behind.",
-            "zh": "因為我們被教導說忙碌等於有價值。如果你沒在做事，你就會覺得自己在落後。",
-            "vocab": [
-              {
-                "word": "busyness",
-                "def": "忙碌狀態"
-              }
-            ]
+            "zh": "因為我們被教導說忙碌等於有價值。如果你沒在做事，你就會覺得自己在落後。"
           },
           {
             "speaker": "b",
@@ -117,13 +93,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a strange incentive. You get rewarded for the appearance of effort, not the outcome.",
-            "zh": "這是個很奇怪的激勵機制。你因為表現出努力的樣子而獲得獎勵，而不是因為結果。",
-            "vocab": [
-              {
-                "word": "incentive",
-                "def": "激勵；誘因"
-              }
-            ]
+            "zh": "這是個很奇怪的激勵機制。你因為表現出努力的樣子而獲得獎勵，而不是因為結果。"
           },
           {
             "speaker": "a",
@@ -141,13 +111,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You start by redefining what rest is. It is recovery, not laziness. The body and mind both need it to function well.",
-            "zh": "你先從重新定義什麼是休息開始。那是恢復，不是懶惰。身體和心靈都需要它才能良好運作。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "你先從重新定義什麼是休息開始。那是恢復，不是懶惰。身體和心靈都需要它才能良好運作。"
           }
         ]
       },
@@ -164,13 +128,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple version is, \"I need to recharge.\" That one is simple and nobody questions it.",
-            "zh": "你可以說「I need to recharge（我需要充個電）」。這句話很簡單，沒有人會質疑。",
-            "vocab": [
-              {
-                "word": "recharge",
-                "def": "充電；恢復精力"
-              }
-            ]
+            "zh": "你可以說「I need to recharge（我需要充個電）」。這句話很簡單，沒有人會質疑。"
           },
           {
             "speaker": "b",
@@ -182,13 +140,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"I am protecting some time for myself this weekend.\" It sounds intentional, not defensive.",
-            "zh": "試試看「I'm protecting some time for myself this weekend（我週末想給自己留一些時間）」。這聽起來很有意識，而不是在找藉口。",
-            "vocab": [
-              {
-                "word": "protecting some time",
-                "def": "保留時間；守住時間"
-              }
-            ]
+            "zh": "試試看「I'm protecting some time for myself this weekend（我週末想給自己留一些時間）」。這聽起來很有意識，而不是在找藉口。"
           },
           {
             "speaker": "b",
@@ -200,13 +152,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the right instinct. You can also say, \"I have been running on empty and I need to slow down for a bit.\"",
-            "zh": "你的直覺很對。你也可以說「I've been running on empty and I need to slow down for a bit（我已經在空油狀態跑很久了，我需要稍微放慢一下）」。",
-            "vocab": [
-              {
-                "word": "running on empty",
-                "def": "精力耗盡地撐著"
-              }
-            ]
+            "zh": "你的直覺很對。你也可以說「I've been running on empty and I need to slow down for a bit（我已經在空油狀態跑很久了，我需要稍微放慢一下）」。"
           },
           {
             "speaker": "b",
@@ -223,7 +169,7 @@ export const WEEK_49: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Thing That Actually Helps",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -235,13 +181,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Schedule it. Put a rest block on your calendar the same way you would a meeting.",
-            "zh": "把休息排進行程。像排會議一樣，把一段休息時間加進你的行事曆。",
-            "vocab": [
-              {
-                "word": "Schedule",
-                "def": "把休息排進行程"
-              }
-            ]
+            "zh": "把休息排進行程。像排會議一樣，把一段休息時間加進你的行事曆。"
           },
           {
             "speaker": "b",
@@ -265,13 +205,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "So name it. \"Rest time\" or \"quiet time\" — whatever label feels right. The act of naming it makes it feel legitimate.",
-            "zh": "所以給它命名。「休息時間」或「安靜時間」——隨便什麼名字都好。命名這個動作會讓它感覺名正言順。",
-            "vocab": [
-              {
-                "word": "legitimate",
-                "def": "正當的；合理的"
-              }
-            ]
+            "zh": "所以給它命名。「休息時間」或「安靜時間」——隨便什麼名字都好。命名這個動作會讓它感覺名正言順。"
           },
           {
             "speaker": "b",
@@ -284,12 +218,7 @@ export const WEEK_49: Episode[] = [
             "speakerName": "Mira",
             "en": "And the second step is to protect it when something tries to replace it. That is the hard part but also the most important one.",
             "zh": "第二步是當有事情要替換它時要守住它。那是最難的部分，也是最重要的部分。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Rest as a Long Game",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -300,13 +229,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It gets easier. Once you start noticing how much better you perform after real rest, the guilt starts to quiet down.",
-            "zh": "會越來越容易。一旦你開始注意到真正休息後自己狀態有多好，那種內疚感就會漸漸安靜下來。",
-            "vocab": [
-              {
-                "word": "perform",
-                "def": "表現；運作"
-              }
-            ]
+            "zh": "會越來越容易。一旦你開始注意到真正休息後自己狀態有多好，那種內疚感就會漸漸安靜下來。"
           },
           {
             "speaker": "b",
@@ -318,13 +241,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Most people do not realize how depleted they are until they actually stop and feel the difference.",
-            "zh": "沒錯。大多數人在真正停下來、感受到那個差別之前，都不知道自己有多耗盡了。",
-            "vocab": [
-              {
-                "word": "depleted",
-                "def": "耗盡的；精力透支的"
-              }
-            ]
+            "zh": "沒錯。大多數人在真正停下來、感受到那個差別之前，都不知道自己有多耗盡了。"
           },
           {
             "speaker": "b",
@@ -336,13 +253,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a perfect analogy. And rest is not selfish either. When you are restored, you have more to give everyone around you.",
-            "zh": "這個比喻很貼切。而且休息也不自私。當你恢復了，你能給身邊每個人的也更多。",
-            "vocab": [
-              {
-                "word": "restored",
-                "def": "恢復的；重新充飽的"
-              }
-            ]
+            "zh": "這個比喻很貼切。而且休息也不自私。當你恢復了，你能給身邊每個人的也更多。"
           },
           {
             "speaker": "b",
@@ -353,7 +264,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the mindset shift that makes rest sustainable instead of something you have to talk yourself into every single time.",
+            "en": "That's the mindset shift that makes rest sustainable instead of something you have to talk yourself into every single time.",
             "zh": "那就是讓休息變得可持續的心態轉變，而不是每次都要說服自己去做。"
           }
         ]
@@ -423,13 +334,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Seven minutes is actually a decent start. Most people reach for their phone in under two.",
-            "zh": "七分鐘其實已經是個不錯的開始。大多數人兩分鐘不到就會去拿手機了。",
-            "vocab": [
-              {
-                "word": "decent",
-                "def": "還不錯的；相當好的"
-              }
-            ]
+            "zh": "七分鐘其實已經是個不錯的開始。大多數人兩分鐘不到就會去拿手機了。"
           },
           {
             "speaker": "b",
@@ -441,13 +346,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is trained into us. Screens make it worse because there is always something ready to fill the gap.",
-            "zh": "那是被訓練出來的。螢幕讓情況更糟，因為永遠有東西準備好來填那個空缺。",
-            "vocab": [
-              {
-                "word": "trained",
-                "def": "後天訓練出的反應"
-              }
-            ]
+            "zh": "那是被訓練出來的。螢幕讓情況更糟，因為永遠有東西準備好來填那個空缺。"
           },
           {
             "speaker": "b",
@@ -471,13 +370,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Welcome to the idle mind. It is not comfortable at first, but you can learn to stay with it.",
-            "zh": "歡迎來到閒置的腦袋。一開始不舒服，但你可以學會跟它共處。",
-            "vocab": [
-              {
-                "word": "idle mind",
-                "def": "閒置的頭腦；放空狀態"
-              }
-            ]
+            "zh": "歡迎來到閒置的腦袋。一開始不舒服，但你可以學會跟它共處。"
           }
         ]
       },
@@ -494,13 +387,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You are right. There is passive rest and there is restorative rest. They feel different afterward.",
-            "zh": "你說得對。有被動的休息，也有真正能恢復的休息。事後的感受不一樣。",
-            "vocab": [
-              {
-                "word": "restorative",
-                "def": "能恢復精力的；有恢復作用的"
-              }
-            ]
+            "zh": "你說得對。有被動的休息，也有真正能恢復的休息。事後的感受不一樣。"
           },
           {
             "speaker": "b",
@@ -524,13 +411,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it satisfies the need for stimulation without actually resting the parts of your brain that are tired.",
-            "zh": "因為它滿足了你對刺激的需求，但實際上並沒有讓你大腦裡疲憊的部分休息。",
-            "vocab": [
-              {
-                "word": "stimulation",
-                "def": "刺激；興奮"
-              }
-            ]
+            "zh": "因為它滿足了你對刺激的需求，但實際上並沒有讓你大腦裡疲憊的部分休息。"
           },
           {
             "speaker": "b",
@@ -542,13 +423,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Anything that asks nothing of your attention. A walk without headphones. Sitting in sunlight. Cooking something simple. Even daydreaming.",
-            "zh": "任何不要求你注意力的事情。不戴耳機散步。坐在陽光下。做一些簡單的料理。甚至發呆。",
-            "vocab": [
-              {
-                "word": "daydreaming",
-                "def": "白日夢；發呆胡思亂想"
-              }
-            ]
+            "zh": "任何不要求你注意力的事情。不戴耳機散步。坐在陽光下。做一些簡單的料理。甚至發呆。"
           }
         ]
       },
@@ -565,13 +440,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Try, \"I need some downtime to recharge before I am good company again.\" That is honest and kind at the same time.",
-            "zh": "有。試試看「I need some downtime to recharge before I'm good company again（我需要一些休息時間充個電，才能再次成為好的陪伴）」。那句話既誠實又體貼。",
-            "vocab": [
-              {
-                "word": "downtime",
-                "def": "空閒時間；休停時間"
-              }
-            ]
+            "zh": "有。試試看「I need some downtime to recharge before I'm good company again（我需要一些休息時間充個電，才能再次成為好的陪伴）」。那句話既誠實又體貼。"
           },
           {
             "speaker": "b",
@@ -583,13 +452,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. You can also say, \"I have been pretty overstimulated this week. I need a slow day.\" People understand that.",
-            "zh": "對。你也可以說「I've been pretty overstimulated this week. I need a slow day（這週的刺激太多了，我需要放慢一天）」。大家都能理解這個。",
-            "vocab": [
-              {
-                "word": "overstimulated",
-                "def": "過度刺激的；感官負荷過重的"
-              }
-            ]
+            "zh": "對。你也可以說「I've been pretty overstimulated this week. I need a slow day（這週的刺激太多了，我需要放慢一天）」。大家都能理解這個。"
           },
           {
             "speaker": "b",
@@ -601,13 +464,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, \"I know. I am working on building more recovery time into my routine.\" That shifts it from complaint to intention.",
-            "zh": "你可以說「我知道。我正在試著把更多恢復時間建入我的日常」。這樣就從抱怨變成了有意識的計畫。",
-            "vocab": [
-              {
-                "word": "recovery time",
-                "def": "恢復時間"
-              }
-            ]
+            "zh": "你可以說「我知道。我正在試著把更多恢復時間建入我的日常」。這樣就從抱怨變成了有意識的計畫。"
           },
           {
             "speaker": "b",
@@ -636,13 +493,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with five minutes. Set a timer and do not do anything except notice what is around you. What you hear, what the light looks like, how your body feels.",
-            "zh": "從五分鐘開始。設一個計時器，什麼都不做，只是留意你周圍的事物。你聽到什麼、光線看起來如何、你的身體感覺怎樣。",
-            "vocab": [
-              {
-                "word": "five minutes",
-                "def": "遠端團隊"
-              }
-            ]
+            "zh": "從五分鐘開始。設一個計時器，什麼都不做，只是留意你周圍的事物。你聽到什麼、光線看起來如何、你的身體感覺怎樣。"
           },
           {
             "speaker": "b",
@@ -654,13 +505,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is similar, but you do not need a special practice. Just sitting quietly counts. The goal is to stop producing and start receiving.",
-            "zh": "有點像，但你不需要特別的練習。只是安靜地坐著就算數。目標是停止產出，開始接收。",
-            "vocab": [
-              {
-                "word": "stop producing",
-                "def": "停止產出；停止一直「做」"
-              }
-            ]
+            "zh": "有點像，但你不需要特別的練習。只是安靜地坐著就算數。目標是停止產出，開始接收。"
           },
           {
             "speaker": "b",
@@ -684,13 +529,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly the point. We forget that absorption in something small and quiet is its own kind of rest.",
-            "zh": "這正是重點所在。我們忘記了沉浸在某件小而安靜的事物中，本身就是一種休息。",
-            "vocab": [
-              {
-                "word": "absorption",
-                "def": "全神貫注；沉浸"
-              }
-            ]
+            "zh": "這正是重點所在。我們忘記了沉浸在某件小而安靜的事物中，本身就是一種休息。"
           }
         ]
       },
@@ -707,13 +546,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often what they actually want. When the noise stops, what rises to the surface is usually what matters to you.",
-            "zh": "通常是他們真正想要的東西。當噪音停止時，浮上來的通常是對你真正重要的事。",
-            "vocab": [
-              {
-                "word": "surface",
-                "def": "浮現；出現"
-              }
-            ]
+            "zh": "通常是他們真正想要的東西。當噪音停止時，浮上來的通常是對你真正重要的事。"
           },
           {
             "speaker": "b",
@@ -725,13 +558,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Busyness is a great way to avoid knowing yourself. Stillness makes it harder to hide.",
-            "zh": "沒錯。忙碌是一個避免了解自己的好方法。靜止讓躲藏變得更難。",
-            "vocab": [
-              {
-                "word": "stillness",
-                "def": "靜止；寧靜"
-              }
-            ]
+            "zh": "沒錯。忙碌是一個避免了解自己的好方法。靜止讓躲藏變得更難。"
           },
           {
             "speaker": "b",
@@ -754,7 +581,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is well put. The mind sorts itself out when you give it space. You do not need to force that. You just need to stop filling every gap.",
+            "en": "That's well put. The mind sorts itself out when you give it space. You do not need to force that. You just need to stop filling every gap.",
             "zh": "說得很好。當你給予大腦空間，它會自己整理好。你不需要強迫它。你只需要停止填滿每一個空隙。"
           }
         ]
@@ -824,13 +651,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is one of the oldest ideas about rest as something sacred rather than optional. One day a week where you stop completely.",
-            "zh": "這是最古老的把休息視為神聖而非可選的概念之一。每週有一天你完全停下來。",
-            "vocab": [
-              {
-                "word": "sacred",
-                "def": "神聖的；不可侵犯的"
-              }
-            ]
+            "zh": "這是最古老的把休息視為神聖而非可選的概念之一。每週有一天你完全停下來。"
           },
           {
             "speaker": "b",
@@ -842,13 +663,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That says something about our current moment, does it not? When a day of rest sounds extreme, something has shifted.",
-            "zh": "這說明了我們現在的狀態，不是嗎？當一天的休息聽起來很極端時，某些東西已經偏了。",
-            "vocab": [
-              {
-                "word": "current moment",
-                "def": "激進的；徹底的"
-              }
-            ]
+            "zh": "這說明了我們現在的狀態，不是嗎？當一天的休息聽起來很極端時，某些東西已經偏了。"
           },
           {
             "speaker": "b",
@@ -871,14 +686,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An external rule that protects an internal need. That is actually a smart design.",
-            "zh": "沒錯。一個保護內在需求的外在規則。那其實是個很聰明的設計。",
-            "vocab": [
-              {
-                "word": "internal",
-                "def": "內斂的；內在的"
-              }
-            ]
+            "en": "Exactly. An external rule that protects an internal need. It is actually a smart design.",
+            "zh": "沒錯。一個保護內在需求的外在規則。那其實是個很聰明的設計。"
           }
         ]
       },
@@ -895,31 +704,19 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the mental residue of unfinished work. Your brain is running background processes even when you are not actively working.",
-            "zh": "那是未完成工作留下的心理殘留。你的大腦即使在你沒有主動工作的時候也在跑背景程序。",
-            "vocab": [
-              {
-                "word": "mental residue",
-                "def": "心理殘留；心理上的後遺症"
-              }
-            ]
+            "zh": "那是未完成工作留下的心理殘留。你的大腦即使在你沒有主動工作的時候，也還在跑背景程式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do you close those background processes?",
-            "zh": "你怎麼關掉那些背景程序？"
+            "zh": "你怎麼關掉那些背景程式？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One method is to do a short written brain dump before your rest day. Get everything out of your head and onto a page. Then you know it is captured.",
-            "zh": "一個方法是在你的休息日開始前做一個簡短的書面腦力傾倒。把你腦中所有的東西都寫到紙上。這樣你就知道它們被記錄下來了。",
-            "vocab": [
-              {
-                "word": "brain dump",
-                "def": "腦力傾倒；把腦中所有想法快速寫出來"
-              }
-            ]
+            "zh": "一個方法是在你的休息日開始前做一個簡短的書面腦力傾倒。把你腦中所有的東西都寫到紙上。這樣你就知道它們被記錄下來了。"
           },
           {
             "speaker": "b",
@@ -943,13 +740,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The list is not for resting. The list is what makes resting possible. There is a difference.",
-            "zh": "清單不是用來休息的。清單是讓休息成為可能的工具。這兩者不一樣。",
-            "vocab": [
-              {
-                "word": "possible",
-                "def": "認知負擔"
-              }
-            ]
+            "zh": "清單不是用來休息的。清單是讓休息成為可能的工具。這兩者不一樣。"
           }
         ]
       },
@@ -966,13 +757,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a clear sentence, try \"I am taking a deliberate break,\" or \"I am being intentional about resting this week.\" Those words signal choice.",
-            "zh": "你可以說「I'm taking a deliberate break（我在有意識地休息）」或「I'm being intentional about resting this week（我這週是刻意把休息當回事）」。那些詞傳達了這是一個選擇。",
-            "vocab": [
-              {
-                "word": "deliberate",
-                "def": "刻意的；有意識的"
-              }
-            ]
+            "zh": "你可以說「I'm taking a deliberate break（我在有意識地休息）」或「I'm being intentional about resting this week（我這週是刻意把休息當回事）」。那些詞傳達了這是一個選擇。"
           },
           {
             "speaker": "b",
@@ -984,13 +769,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Agency matters. You can also say, \"I am honoring my need for rest,\" which sounds a bit formal but communicates respect for yourself.",
-            "zh": "沒錯。主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。",
-            "vocab": [
-              {
-                "word": "agency",
-                "def": "主體性；自主能力"
-              }
-            ]
+            "zh": "沒錯。主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。"
           },
           {
             "speaker": "b",
@@ -1031,13 +810,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Rituals help a lot. A short ritual signals to your nervous system that it is safe to slow down.",
-            "zh": "儀式很有幫助。一個短暫的儀式告訴你的神經系統：現在可以放慢了，是安全的。",
-            "vocab": [
-              {
-                "word": "ritual",
-                "def": "儀式；固定的習慣性動作"
-              }
-            ]
+            "zh": "儀式很有幫助。一個短暫的儀式告訴你的神經系統：現在可以放慢了，是安全的。"
           },
           {
             "speaker": "b",
@@ -1049,13 +822,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Something physical and consistent. Changing clothes. Making a specific drink. Taking a short walk. The action itself is less important than the consistency.",
-            "zh": "一些身體性的、一致的動作。換衣服。泡一杯特定的飲料。出去短暫散步。動作本身不那麼重要，重要的是一致性。",
-            "vocab": [
-              {
-                "word": "consistency",
-                "def": "一致性；持續性"
-              }
-            ]
+            "zh": "一些身體性的、一致的動作。換衣服。泡一杯特定的飲料。出去短暫散步。動作本身不那麼重要，重要的是一致性。"
           },
           {
             "speaker": "b",
@@ -1079,13 +846,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where a lot of restless evenings come from. Without a signal that work is done, the brain keeps a foot in both worlds.",
-            "zh": "很多讓人坐立不安的夜晚就是從這裡來的。如果沒有一個訊號說工作結束了，大腦就一直踩在兩個世界裡。",
-            "vocab": [
-              {
-                "word": "restless",
-                "def": "坐立不安的"
-              }
-            ]
+            "zh": "很多讓人坐立不安的夜晚就是從這裡來的。如果沒有一個訊號說工作結束了，大腦就一直踩在兩個世界裡。"
           }
         ]
       },
@@ -1102,13 +863,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. How you treat your own energy says a lot about what you believe you deserve.",
-            "zh": "非常有關。你如何對待自己的精力，說明了很多你相信自己值得什麼。",
-            "vocab": [
-              {
-                "word": "own energy",
-                "def": "自尊；自我尊重"
-              }
-            ]
+            "zh": "非常有關。你如何對待自己的精力，說明了很多你相信自己值得什麼。"
           },
           {
             "speaker": "b",
@@ -1120,13 +875,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That word, earned, is worth looking at. Rest is not a reward for finishing everything. It is a requirement for continuing.",
-            "zh": "「賺到」這個詞值得審視。休息不是完成所有事情的獎勵。它是繼續下去的必要條件。",
-            "vocab": [
-              {
-                "word": "requirement",
-                "def": "必要條件；要求"
-              }
-            ]
+            "zh": "「賺到」這個詞值得審視。休息不是完成所有事情的獎勵。它是繼續下去的必要條件。"
           },
           {
             "speaker": "b",
@@ -1149,7 +898,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the trap. The practice is learning to rest before the list is done. Not despite the list, but alongside it.",
+            "en": "That's the trap. The practice is learning to rest before the list is done. Not despite the list, but alongside it.",
             "zh": "那就是陷阱。練習是學著在清單完成之前就休息。不是無視清單，而是和清單共存。"
           }
         ]
@@ -1219,13 +968,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Creative blocks are almost always a signal that something has been depleted. Usually attention, sometimes inspiration, sometimes both.",
-            "zh": "創意瓶頸幾乎永遠都是某些東西耗盡的訊號。通常是注意力，有時是靈感，有時兩者都有。",
-            "vocab": [
-              {
-                "word": "creative block",
-                "def": "創意瓶頸；創作障礙"
-              }
-            ]
+            "zh": "創意瓶頸幾乎永遠都是某些東西耗盡的訊號。通常是注意力，有時是靈感，有時兩者都有。"
           },
           {
             "speaker": "b",
@@ -1237,13 +980,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can make things worse. When you force creativity, you often produce something safe and predictable. The interesting stuff needs room to emerge.",
-            "zh": "它可能讓事情更糟。當你強迫創意時，你往往只能產出安全且可預測的東西。有趣的東西需要空間才能浮現。",
-            "vocab": [
-              {
-                "word": "predictable",
-                "def": "可預測的；一成不變的"
-              }
-            ]
+            "zh": "它可能讓事情更糟。當你強迫創意時，你往往只能產出安全且可預測的東西。有趣的東西需要空間才能浮現。"
           },
           {
             "speaker": "b",
@@ -1255,13 +992,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Input of a different kind. Not more information about your subject, but exposure to completely different things. Art, music, conversations, physical experiences.",
-            "zh": "不同種類的輸入。不是更多關於你的主題的資訊，而是接觸完全不同的事物。藝術、音樂、對話、身體上的體驗。",
-            "vocab": [
-              {
-                "word": "exposure",
-                "def": "接觸；暴露於"
-              }
-            ]
+            "zh": "不同種類的輸入。不是更多關於你的主題的資訊，而是接觸完全不同的事物。藝術、音樂、對話、身體上的體驗。"
           },
           {
             "speaker": "b",
@@ -1290,13 +1021,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most creative people I know show up even when inspiration is absent. They trust that action creates momentum.",
-            "zh": "我認識的大多數有創意的人，就算靈感不在也會現身。他們相信行動會創造動能。",
-            "vocab": [
-              {
-                "word": "momentum",
-                "def": "動能；衝勁"
-              }
-            ]
+            "zh": "我認識的大多數有創意的人，就算靈感不在也會現身。他們相信行動會創造動能。"
           },
           {
             "speaker": "b",
@@ -1308,13 +1033,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes. But even mediocre sessions warm the engine. They make the inspired moments easier to capture when they do arrive.",
-            "zh": "有時候是的。但就算是平庸的一次練習也能暖機。它們讓靈感真的來的時候更容易被抓住。",
-            "vocab": [
-              {
-                "word": "mediocre",
-                "def": "平庸的；普通的"
-              }
-            ]
+            "zh": "有時候是的。但就算是平庸的一次練習也能暖機。它們讓靈感真的來的時候更容易被抓住。"
           },
           {
             "speaker": "b",
@@ -1326,13 +1045,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Some ideas can only form when you are not actively chasing them. Distance from the work gives you a fresh perspective.",
-            "zh": "當然。有些想法只有在你沒有主動追它們的時候才能形成。和作品保持距離，會給你新鮮的視角。",
-            "vocab": [
-              {
-                "word": "perspective",
-                "def": "視角；觀點"
-              }
-            ]
+            "zh": "當然。有些想法只有在你沒有主動追它們的時候才能形成。和作品保持距離，會給你新鮮的視角。"
           },
           {
             "speaker": "b",
@@ -1361,13 +1074,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I have been in a creative slump lately.\" A slump is a period when things are not flowing naturally.",
-            "zh": "你可以說「I've been in a creative slump lately（我最近創意低迷）」。Slump 是一段事情不自然流動的時期。",
-            "vocab": [
-              {
-                "word": "creative slump",
-                "def": "創意低迷期"
-              }
-            ]
+            "zh": "你可以說「I've been in a creative slump lately（我最近創意低迷）」。Slump 是一段事情不自然流動的時期。"
           },
           {
             "speaker": "b",
@@ -1391,13 +1098,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, \"I am stepping away from it for a bit to let it breathe.\" Or, \"I am giving myself some creative distance.\"",
-            "zh": "試試看「I'm stepping away from it for a bit to let it breathe（我暫時離它遠一點，讓它透透氣）」。或者「I'm giving myself some creative distance（我讓自己和它保持一些創意距離）」。",
-            "vocab": [
-              {
-                "word": "creative distance",
-                "def": "創意距離；和作品保持距離"
-              }
-            ]
+            "zh": "試試看「I'm stepping away from it for a bit to let it breathe（我暫時離它遠一點，讓它透透氣）」。或者「I'm giving myself some creative distance（我讓自己和它保持一些創意距離）」。"
           },
           {
             "speaker": "b",
@@ -1414,7 +1115,7 @@ export const WEEK_49: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Feeding Creativity Through Everyday Life",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1426,13 +1127,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pay attention to things you usually tune out. The conversations you overhear in a coffee shop. The colors in a vegetable market. The way light changes in the afternoon.",
-            "zh": "注意你通常忽略的事物。在咖啡店無意間聽到的對話。蔬菜市場裡的顏色。下午光線的變化方式。",
-            "vocab": [
-              {
-                "word": "tune out",
-                "def": "忽略；不注意"
-              }
-            ]
+            "zh": "注意你通常忽略的事物。在咖啡店無意間聽到的對話。蔬菜市場裡的顏色。下午光線的變化方式。"
           },
           {
             "speaker": "b",
@@ -1444,13 +1139,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Creative people are usually better observers. They file away small details that later show up in their work.",
-            "zh": "沒錯。有創意的人通常是更好的觀察者。他們把小細節存進記憶，這些細節後來會出現在他們的作品裡。",
-            "vocab": [
-              {
-                "word": "file away",
-                "def": "記下；歸檔備用"
-              }
-            ]
+            "zh": "沒錯。有創意的人通常是更好的觀察者。他們把小細節存進記憶，這些細節後來會出現在他們的作品裡。"
           },
           {
             "speaker": "b",
@@ -1474,19 +1163,8 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Presence is one of the most underrated creative practices. You cannot create from a reservoir you never filled.",
-            "zh": "對。專注當下是最被低估的創意練習之一。你沒辦法從一個你從未填滿過的水庫裡創作。",
-            "vocab": [
-              {
-                "word": "reservoir",
-                "def": "水庫；儲備"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Creativity Really Needs From You",
-        "lines": [
+            "zh": "對。專注當下是最被低估的創意練習之一。你沒辦法從一個你從未填滿過的水庫裡創作。"
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1497,13 +1175,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Creativity needs you to be a person with a life, not just a person with a project. The richer your experience, the more you have to draw from.",
-            "zh": "創意需要你成為一個有生活的人，而不只是一個有專案的人。你的經歷越豐富，你可以汲取的東西就越多。",
-            "vocab": [
-              {
-                "word": "Creativity",
-                "def": "汲取；從...提取"
-              }
-            ]
+            "zh": "創意需要你成為一個有生活的人，而不只是一個有專案的人。你的經歷越豐富，你可以汲取的東西就越多。"
           },
           {
             "speaker": "b",
@@ -1527,13 +1199,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. It is raw material. The problem is that this is hard to measure, so it gets cut first when things get busy.",
-            "zh": "完全不是。那是原材料。問題是這很難量化，所以當事情變忙時，它是第一個被砍掉的。",
-            "vocab": [
-              {
-                "word": "raw material",
-                "def": "原材料；素材"
-              }
-            ]
+            "zh": "完全不是。那是原材料。問題是這很難量化，所以當事情變忙時，它是第一個被砍掉的。"
           },
           {
             "speaker": "b",
@@ -1545,13 +1211,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. You cannot keep withdrawing without making deposits. The creative account needs regular replenishment.",
-            "zh": "對。你不能只提款不存款。創意帳戶需要定期補充。",
-            "vocab": [
-              {
-                "word": "replenishment",
-                "def": "補充；重新填滿"
-              }
-            ]
+            "zh": "對。你不能只提款不存款。創意帳戶需要定期補充。"
           }
         ]
       }
@@ -1620,13 +1280,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That actually happens often. It is sometimes called let-down effect. Your immune system runs on stress hormones, and when they drop, the body catches up.",
-            "zh": "這其實很常見。有時候被稱為「放鬆後效應」。你的免疫系統靠壓力荷爾蒙維持，當它們下降時，身體就開始追討。",
-            "vocab": [
-              {
-                "word": "let-down effect",
-                "def": "放鬆後效應；壓力解除後生病"
-              }
-            ]
+            "zh": "這其實很常見。有時候被稱為「放鬆後效應」。你的免疫系統靠壓力荷爾蒙維持，當它們下降時，身體就開始追討。"
           },
           {
             "speaker": "b",
@@ -1638,13 +1292,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In a way. Cortisol suppresses certain immune responses. When the deadline pressure lifts, the immune system processes what it had been holding back.",
-            "zh": "某種程度上是的。皮質醇會抑制某些免疫反應。當截止日期的壓力解除時，免疫系統才開始處理它一直壓著的東西。",
-            "vocab": [
-              {
-                "word": "cortisol",
-                "def": "皮質醇；壓力荷爾蒙"
-              }
-            ]
+            "zh": "某種程度上是的。皮質醇會抑制某些免疫反應。當截止日期的壓力解除時，免疫系統才開始處理它一直壓著的東西。"
           },
           {
             "speaker": "b",
@@ -1656,13 +1304,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a reminder that the body keeps score. You can push through in the short term, but there is always a bill.",
-            "zh": "這是一個提醒：身體在記帳。你可以短期撐過去，但永遠都有帳單要付。",
-            "vocab": [
-              {
-                "word": "push through",
-                "def": "身體在記帳；身體記住一切"
-              }
-            ]
+            "zh": "這是一個提醒：身體在記帳。你可以短期撐過去，但永遠都有帳單要付。"
           },
           {
             "speaker": "b",
@@ -1691,13 +1333,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One reason you might not feel it is that chronic sleep deprivation affects your ability to judge how impaired you are. You get used to feeling off.",
-            "zh": "你可能感受不到的一個原因是，長期睡眠不足會影響你判斷自己有多受損的能力。你習慣了感覺不對勁。",
-            "vocab": [
-              {
-                "word": "sleep deprivation",
-                "def": "睡眠剝奪；睡眠不足"
-              }
-            ]
+            "zh": "你可能感受不到的一個原因是，長期睡眠不足會影響你判斷自己有多受損的能力。你習慣了感覺不對勁。"
           },
           {
             "speaker": "b",
@@ -1709,13 +1345,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Most people do not know how good they can feel until they actually get consistent sleep for a week or two.",
-            "zh": "沒錯。大多數人不知道自己可以有多好的狀態，直到他們真的連續一兩週睡眠充足。",
-            "vocab": [
-              {
-                "word": "consistent",
-                "def": "一致的；穩定的"
-              }
-            ]
+            "zh": "沒錯。大多數人不知道自己可以有多好的狀態，直到他們真的連續一兩週睡眠充足。"
           },
           {
             "speaker": "b",
@@ -1727,18 +1357,12 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It consolidates memory, regulates mood, repairs tissue, and clears waste from the brain. The brain has a cleaning system that is most active during sleep.",
-            "zh": "它鞏固記憶、調節情緒、修復組織，並清除大腦中的廢物。大腦有一套在睡眠期間最活躍的清潔系統。",
-            "vocab": [
-              {
-                "word": "consolidate",
-                "def": "鞏固；整合"
-              }
-            ]
+            "zh": "它鞏固記憶、調節情緒、修復組織，並清除大腦中的廢物。大腦有一套在睡眠期間最活躍的清潔系統。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "A brain cleaning system. That sounds like something I desperately need.",
+            "en": "A brain cleaning system. That is exactly what I desperately need.",
             "zh": "大腦清潔系統。聽起來像是我非常需要的東西。"
           },
           {
@@ -1762,13 +1386,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful phrase is, \"My body is telling me something.\" It acknowledges that you are reading the signals rather than ignoring them.",
-            "zh": "一個有用的說法是「My body is telling me something（我的身體在跟我說什麼）」。這承認了你在讀取訊號而不是忽略它們。",
-            "vocab": [
-              {
-                "word": "signals rather",
-                "def": "身體訊號"
-              }
-            ]
+            "zh": "一個有用的說法是「My body is telling me something（我的身體在跟我說什麼）」。這承認了你在讀取訊號而不是忽略它們。"
           },
           {
             "speaker": "b",
@@ -1780,13 +1398,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I am feeling run down,\" which means your energy reserves are low but you are not sick. Or \"I need to regroup physically.\"",
-            "zh": "你也可以說「I'm feeling run down（我感覺精力透支）」，意思是你的能量儲備很低但你沒有生病。或者「I need to regroup physically（我需要在身體上重整一下）」。",
-            "vocab": [
-              {
-                "word": "run down",
-                "def": "精力透支；疲憊不堪"
-              }
-            ]
+            "zh": "你也可以說「I'm feeling run down（我感覺精力透支）」，意思是你的能量儲備很低但你沒有生病。或者「I need to regroup physically（我需要在身體上重整一下）」。"
           },
           {
             "speaker": "b",
@@ -1798,13 +1410,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, \"I am focusing on recovery this week,\" or \"I am giving my body what it needs right now.\" Both sound grounded and clear.",
-            "zh": "試試「I'm focusing on recovery this week（我這週專注在恢復）」或「I'm giving my body what it needs right now（我現在在給我的身體它需要的東西）」。兩句都聽起來踏實且清楚。",
-            "vocab": [
-              {
-                "word": "grounded",
-                "def": "踏實的；有根基的"
-              }
-            ]
+            "zh": "試試「I'm focusing on recovery this week（我這週專注在恢復）」或「I'm giving my body what it needs right now（我現在在給我的身體它需要的東西）」。兩句都聽起來踏實且清楚。"
           },
           {
             "speaker": "b",
@@ -1833,13 +1439,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Getting outside for even ten to fifteen minutes in the morning. Natural light resets your body clock and makes it easier to fall asleep that night.",
-            "zh": "早上出去哪怕只是十到十五分鐘。自然光會重置你的生理時鐘，讓你那天晚上更容易入睡。",
-            "vocab": [
-              {
-                "word": "body clock",
-                "def": "生理時鐘；生理節律"
-              }
-            ]
+            "zh": "早上出去哪怕只是十到十五分鐘。自然光會重置你的生理時鐘，讓你那天晚上更容易入睡。"
           },
           {
             "speaker": "b",
@@ -1851,13 +1451,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is all part of the same circadian rhythm. The morning light anchors the whole day.",
-            "zh": "這都是同一個晝夜節律的一部分。早上的光線錨定了整天。",
-            "vocab": [
-              {
-                "word": "circadian rhythm",
-                "def": "晝夜節律；生理節律"
-              }
-            ]
+            "zh": "這都是同一個晝夜節律的一部分。早上的光線錨定了整天。"
           },
           {
             "speaker": "b",
@@ -1869,13 +1463,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Regular walking counts enormously. Twenty minutes of walking has measurable effects on mood, cognitive function, and energy levels.",
-            "zh": "規律散步非常有用。二十分鐘的散步對情緒、認知功能和能量水平有可測量的效果。",
-            "vocab": [
-              {
-                "word": "cognitive function",
-                "def": "認知功能"
-              }
-            ]
+            "zh": "規律散步非常有用。二十分鐘的散步對情緒、認知功能和能量水平有可測量的效果。"
           },
           {
             "speaker": "b",
@@ -1904,13 +1492,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means paying attention to the earlier, quieter signals. Tension in the shoulders. A slight headache. Food that does not sound appealing.",
-            "zh": "這意味著注意那些更早期、更安靜的訊號。肩膀的緊繃。輕微的頭痛。食物聽起來不吸引人。",
-            "vocab": [
-              {
-                "word": "quieter signals",
-                "def": "早期訊號"
-              }
-            ]
+            "zh": "這意味著注意那些更早期、更安靜的訊號。肩膀的緊繃。輕微的頭痛。食物聽起來不吸引人。"
           },
           {
             "speaker": "b",
@@ -1922,13 +1504,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people do. We have learned to override the body with willpower. But that just delays the message and makes it louder.",
-            "zh": "大多數人都這樣。我們學會了用意志力壓過身體。但那只是推遲了訊息，讓它變得更大聲。",
-            "vocab": [
-              {
-                "word": "override",
-                "def": "凌駕；壓制"
-              }
-            ]
+            "zh": "大多數人都這樣。我們學會了用意志力壓過身體。但那只是推遲了訊息，讓它變得更大聲。"
           },
           {
             "speaker": "b",
@@ -1952,13 +1528,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Preventive rest is much cheaper than recovery rest. That is true for the body and for the mind.",
-            "zh": "沒錯。預防性的休息比恢復性的休息便宜得多。對身體如此，對心靈也是。",
-            "vocab": [
-              {
-                "word": "preventive rest",
-                "def": "預防性的休息"
-              }
-            ]
+            "zh": "沒錯。預防性的休息比恢復性的休息便宜得多。對身體如此，對心靈也是。"
           }
         ]
       }
@@ -2027,13 +1597,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how ambient pace works. The environment moves fast and you match it without realizing you have made a choice.",
-            "zh": "那就是環境節奏的運作方式。環境動得快，你就跟著它，卻沒有意識到自己做了一個選擇。",
-            "vocab": [
-              {
-                "word": "ambient pace",
-                "def": "環境節奏；周遭的速度"
-              }
-            ]
+            "zh": "那就是環境節奏的運作方式。環境動得快，你就跟著它，卻沒有意識到自己做了一個選擇。"
           },
           {
             "speaker": "b",
@@ -2045,13 +1609,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Slowness starts to feel lazy or inefficient. But those are stories, not facts.",
-            "zh": "對。慢開始感覺像懶惰或低效。但那些是故事，不是事實。",
-            "vocab": [
-              {
-                "word": "inefficient",
-                "def": "低效的；沒有效率的"
-              }
-            ]
+            "zh": "對。慢開始感覺像懶惰或低效。但那些是故事，不是事實。"
           },
           {
             "speaker": "b",
@@ -2063,13 +1621,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly. It came up as a philosophy in response to the fast-food movement, actually. The idea that quality of experience matters more than efficiency.",
-            "zh": "部分是。它其實是作為對速食運動的哲學反應而興起的。即體驗的品質比效率更重要的想法。",
-            "vocab": [
-              {
-                "word": "philosophy",
-                "def": "哲學；人生觀"
-              }
-            ]
+            "zh": "部分是。它其實是作為對速食運動的哲學反應而興起的。即體驗的品質比效率更重要的想法。"
           },
           {
             "speaker": "b",
@@ -2098,13 +1650,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The texture of experience. When you rush, you get the facts but not the feeling. You were there, but you were not really present.",
-            "zh": "體驗的質感。當你很匆忙時，你得到了事實但沒有感受。你在那裡，但你沒有真正在場。",
-            "vocab": [
-              {
-                "word": "texture of experience",
-                "def": "體驗的質感；生活的厚度"
-              }
-            ]
+            "zh": "體驗的質感。當你很匆忙時，你得到了事實但沒有感受。你在那裡，但你沒有真正在場。"
           },
           {
             "speaker": "b",
@@ -2116,13 +1662,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And it extends beyond food. Rushed conversations leave both people feeling unheard. Rushed decisions tend to need revisiting.",
-            "zh": "沒錯。而且這不只限於食物。匆忙的對話讓雙方都覺得沒有被傾聽。倉促的決定往往需要重新審視。",
-            "vocab": [
-              {
-                "word": "unheard",
-                "def": "沒有被傾聽的"
-              }
-            ]
+            "zh": "沒錯。而且這不只限於食物。匆忙的對話讓雙方都覺得沒有被傾聽。倉促的決定往往需要重新審視。"
           },
           {
             "speaker": "b",
@@ -2146,13 +1686,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why slowing down is not a luxury for people who have extra time. It is a strategy for people who want less rework in their lives.",
-            "zh": "這就是為什麼放慢腳步不是有多餘時間的人才能有的奢侈品。它是想要在生活中減少重做的人的策略。",
-            "vocab": [
-              {
-                "word": "rework",
-                "def": "重做；返工"
-              }
-            ]
+            "zh": "這就是為什麼放慢腳步不是有多餘時間的人才能有的奢侈品。它是想要在生活中減少重做的人的策略。"
           }
         ]
       },
@@ -2169,13 +1703,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Keep it practical. Say, \"I have been trying to be more present lately,\" or \"I am experimenting with slowing down my mornings.\"",
-            "zh": "保持務實。說「I've been trying to be more present lately（我最近一直在嘗試更加活在當下）」或「I'm experimenting with slowing down my mornings（我在試驗讓我的早晨慢下來）」。",
-            "vocab": [
-              {
-                "word": "present",
-                "def": "活在當下；專注當下"
-              }
-            ]
+            "zh": "保持務實。說「I've been trying to be more present lately（我最近一直在嘗試更加活在當下）」或「I'm experimenting with slowing down my mornings（我在試驗讓我的早晨慢下來）」。"
           },
           {
             "speaker": "b",
@@ -2187,13 +1715,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, \"I am trying to leave more margin in my schedule,\" which means you are intentionally leaving empty space.",
-            "zh": "沒錯。你也可以說「I'm trying to leave more margin in my schedule（我在嘗試在行程中留更多餘裕）」，意思是你刻意留下空白空間。",
-            "vocab": [
-              {
-                "word": "margin",
-                "def": "餘裕；空白空間"
-              }
-            ]
+            "zh": "沒錯。你也可以說「I'm trying to leave more margin in my schedule（我在嘗試在行程中留更多餘裕）」，意思是你刻意留下空白空間。"
           },
           {
             "speaker": "b",
@@ -2205,13 +1727,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or you could say, \"I am simplifying my commitments so I can actually show up for the ones that matter.\" That one works well in a conversation about balance.",
-            "zh": "或者你可以說「I'm simplifying my commitments so I can actually show up for the ones that matter（我在簡化我的承諾，這樣我才能真正出現在重要的事情上）」。那句話在談論平衡的對話中很好用。",
-            "vocab": [
-              {
-                "word": "simplifying my commitments",
-                "def": "簡化承諾；減少義務"
-              }
-            ]
+            "zh": "或者你可以說「I'm simplifying my commitments so I can actually show up for the ones that matter（我在簡化我的承諾，這樣我才能真正出現在重要的事情上）」。那句話在談論平衡的對話中很好用。"
           },
           {
             "speaker": "b",
@@ -2240,13 +1756,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A transition pause. Before you move from one activity to the next, take thirty seconds. Put down what you were doing. Breathe. Then begin the next thing.",
-            "zh": "過渡暫停。在你從一個活動轉到下一個之前，暫停三十秒。放下你正在做的事情。呼吸。然後開始下一件事。",
-            "vocab": [
-              {
-                "word": "transition pause",
-                "def": "過渡暫停；轉換間的停頓"
-              }
-            ]
+            "zh": "過渡暫停。在你從一個活動轉到下一個之前，暫停三十秒。放下你正在做的事情。呼吸。然後開始下一件事。"
           },
           {
             "speaker": "b",
@@ -2270,13 +1780,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Even a glass of water and a look out the window counts. The point is not the duration. It is the intentional break in the chain.",
-            "zh": "對。就算只是喝杯水、看一眼窗外也算。重點不是時間長短。而是那個刻意的，打斷連鎖反應的停頓。",
-            "vocab": [
-              {
-                "word": "intentional break",
-                "def": "刻意的停頓；有意識的中斷"
-              }
-            ]
+            "zh": "對。就算只是喝杯水、看一眼窗外也算。重點不是時間長短。而是那個刻意的，打斷連鎖反應的停頓。"
           },
           {
             "speaker": "b",
@@ -2305,13 +1809,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Better decisions. When you are not rushing, you notice more. And when you notice more, you tend to choose better.",
-            "zh": "更好的決策。當你不匆忙時，你會注意到更多。而當你注意到更多，你往往做出更好的選擇。",
-            "vocab": [
-              {
-                "word": "Better decisions",
-                "def": "決策品質"
-              }
-            ]
+            "zh": "更好的決策。當你不匆忙時，你會注意到更多。而當你注意到更多，你往往做出更好的選擇。"
           },
           {
             "speaker": "b",
@@ -2323,13 +1821,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Definitely. People feel the difference between someone who is half-present and someone who is genuinely there. Slow attention is one of the best gifts you can give someone.",
-            "zh": "肯定的。人們能感受到半心半意在場和真正在場之間的差別。緩慢而專注的關注是你能給一個人的最好的禮物之一。",
-            "vocab": [
-              {
-                "word": "genuinely",
-                "def": "真誠地；真正地"
-              }
-            ]
+            "zh": "肯定的。人們能感受到半心半意在場和真正在場之間的差別。緩慢而專注的關注是你能給一個人的最好的禮物之一。"
           },
           {
             "speaker": "b",
@@ -2341,13 +1833,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And slower living tends to give people a stronger sense of meaning too. When you actually taste the meal, see the sunset, hear the conversation, you feel like you are living.",
-            "zh": "而且慢活往往也給人更強的意義感。當你真正品嚐那頓飯、看見那場日落、聽清楚那段對話時，你感覺自己真的在生活。",
-            "vocab": [
-              {
-                "word": "sense of meaning",
-                "def": "意義感"
-              }
-            ]
+            "zh": "而且慢活往往也給人更強的意義感。當你真正品嚐那頓飯、看見那場日落、聽清楚那段對話時，你感覺自己真的在生活。"
           },
           {
             "speaker": "b",
@@ -2428,13 +1914,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Honestly, the idea that rest is a requirement, not a reward. I know it intellectually but I still catch myself treating it like something to earn.",
-            "zh": "說實話，休息是必要條件而不是獎勵這個想法。我在知識上懂這件事，但我還是會抓到自己把它當成需要賺取的東西。",
-            "vocab": [
-              {
-                "word": "intellectually",
-                "def": "在理智層面"
-              }
-            ]
+            "zh": "說實話，休息是必要條件而不是獎勵這個想法。我在知識上懂這件事，但我還是會抓到自己把它當成需要賺取的東西。"
           },
           {
             "speaker": "b",
@@ -2446,13 +1926,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That one is hard to ignore once you hear it. Every choice leaves a trace somewhere.",
-            "zh": "那個一旦聽到就很難忽視。每一個選擇都會在某處留下痕跡。",
-            "vocab": [
-              {
-                "word": "leaves a trace",
-                "def": "留下痕跡"
-              }
-            ]
+            "zh": "那個一旦聽到就很難忽視。每一個選擇都會在某處留下痕跡。"
           },
           {
             "speaker": "b",
@@ -2464,13 +1938,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a very common pattern, especially for people who are ambitious. The same drive that helps at work does not know how to switch off at home.",
-            "zh": "這是一個非常常見的模式，尤其是對有抱負的人來說。在工作中有幫助的那種動力，不知道怎麼在家裡關掉。",
-            "vocab": [
-              {
-                "word": "switch off",
-                "def": "關掉；切換到休息模式"
-              }
-            ]
+            "zh": "這是一個非常常見的模式，尤其是對有抱負的人來說。在工作中有幫助的那種動力，不知道怎麼在家裡關掉。"
           },
           {
             "speaker": "b",
@@ -2499,13 +1967,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Treating it as a binary. Either they are on full blast or they collapse. There is no middle mode.",
-            "zh": "把它當成二元的。要麼全力衝刺要麼崩潰。沒有中間的模式。",
-            "vocab": [
-              {
-                "word": "binary",
-                "def": "二元的；非此即彼的"
-              }
-            ]
+            "zh": "把它當成二元的。要麼全力衝刺要麼崩潰。沒有中間的模式。"
           },
           {
             "speaker": "b",
@@ -2517,13 +1979,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The sustainable approach is staying somewhere between the extremes most of the time. Working steadily, resting regularly, not waiting until you are depleted to recover.",
-            "zh": "可持續的方法是大多數時間保持在兩個極端之間的某個地方。穩定地工作、定期地休息，而不是等到精力耗盡才去恢復。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "可持續的；能長久維持的"
-              }
-            ]
+            "zh": "可持續的方法是大多數時間保持在兩個極端之間的某個地方。穩定地工作、定期地休息，而不是等到精力耗盡才去恢復。"
           },
           {
             "speaker": "b",
@@ -2535,13 +1991,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Waiting for permission. People wait until things settle down, or until the busy season ends, or until they deserve it. The permission never comes on its own.",
-            "zh": "等待許可。人們等待事情穩定下來，或等待繁忙季節結束，或等到自己值得了。那個許可永遠不會自己來。",
-            "vocab": [
-              {
-                "word": "waiting for permission",
-                "def": "等待許可"
-              }
-            ]
+            "zh": "等待許可。人們等待事情穩定下來，或等待繁忙季節結束，或等到自己值得了。那個許可永遠不會自己來。"
           },
           {
             "speaker": "b",
@@ -2570,13 +2020,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sure. We started with \"running on empty.\" That is when you have gone past your energy limit and are still moving.",
-            "zh": "好。我們從「running on empty（在空油狀態下跑）」開始。那是當你已經超過你的能量極限卻還在繼續前進的時候。",
-            "vocab": [
-              {
-                "word": "running on empty",
-                "def": "精力耗盡地撐著"
-              }
-            ]
+            "zh": "好。我們從「running on empty（在空油狀態下跑）」開始。那是當你已經超過你的能量極限卻還在繼續前進的時候。"
           },
           {
             "speaker": "b",
@@ -2588,13 +2032,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And \"downtime,\" which is broader than sleep. It includes any time when you are not performing or producing.",
-            "zh": "對。還有「downtime（空閒時間）」，它比睡眠更廣泛。包括任何你不在表現或產出的時間。",
-            "vocab": [
-              {
-                "word": "downtime",
-                "def": "空閒時間；非工作時間"
-              }
-            ]
+            "zh": "對。還有「downtime（空閒時間）」，它比睡眠更廣泛。包括任何你不在表現或產出的時間。"
           },
           {
             "speaker": "b",
@@ -2606,13 +2044,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And \"restorative.\" Not all rest restores. Some rest is just passive. Restorative rest leaves you genuinely better than before.",
-            "zh": "對。還有「restorative（能恢復精力的）」。不是所有休息都能恢復。有些休息只是被動的。能恢復精力的休息讓你之後真的比之前更好。",
-            "vocab": [
-              {
-                "word": "restorative rest",
-                "def": "能恢復精力的休息"
-              }
-            ]
+            "zh": "對。還有「restorative（能恢復精力的）」。不是所有休息都能恢復。有些休息只是被動的。能恢復精力的休息讓你之後真的比之前更好。"
           },
           {
             "speaker": "b",
@@ -2629,7 +2061,7 @@ export const WEEK_49: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Applying This Week to Real Life",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -2641,13 +2073,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pick one part of your routine and make it slower. Not the whole routine, just one part. Maybe your breakfast, or the first ten minutes after you wake up, or the way you end the workday.",
-            "zh": "選擇你日常中的一個部分讓它慢下來。不是整個日常，只是一個部分。也許是你的早餐，或者醒來後的前十分鐘，或者你結束工作日的方式。",
-            "vocab": [
-              {
-                "word": "routine",
-                "def": "日常；固定流程"
-              }
-            ]
+            "zh": "選擇你日常中的一個部分讓它慢下來。不是整個日常，只是一個部分。也許是你的早餐，或者醒來後的前十分鐘，或者你結束工作日的方式。"
           },
           {
             "speaker": "b",
@@ -2659,13 +2085,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly the right scale. One successful change builds confidence for the next one. You do not need a lifestyle overhaul.",
-            "zh": "那正是正確的規模。一個成功的改變為下一個建立信心。你不需要全面的生活方式改革。",
-            "vocab": [
-              {
-                "word": "overhaul",
-                "def": "全面改革；大翻修"
-              }
-            ]
+            "zh": "那正是正確的規模。一個成功的改變為下一個建立信心。你不需要全面的生活方式改革。"
           },
           {
             "speaker": "b",
@@ -2677,13 +2097,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a beautiful way to measure it. Rest is successful when it brings you back to yourself.",
-            "zh": "這是一個很美的衡量方式。休息成功的時候，就是它把你帶回自己。",
-            "vocab": [
-              {
-                "word": "brings you back",
-                "def": "回到自己；找回自我"
-              }
-            ]
+            "zh": "這是一個很美的衡量方式。休息成功的時候，就是它把你帶回自己。"
           },
           {
             "speaker": "b",
@@ -2696,12 +2110,7 @@ export const WEEK_49: Episode[] = [
             "speakerName": "Mira",
             "en": "That is it. When the noise is down, you are more likely to hear what you actually think and feel. That is worth protecting.",
             "zh": "就是這樣。當噪音降低，你更容易聽見自己真正的想法和感受。那值得守護。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Last Word on Rest",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2712,13 +2121,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Just that rest is personal. What restores you is not what restores someone else. The practice is in knowing what works for you, not copying what works for others.",
-            "zh": "只是休息是非常個人的。讓你恢復的東西不一定讓別人恢復。練習在於知道什麼對你有效，而不是複製對別人有效的東西。",
-            "vocab": [
-              {
-                "word": "personal",
-                "def": "個人化的練習方式"
-              }
-            ]
+            "zh": "只是休息是非常個人的。讓你恢復的東西不一定讓別人恢復。練習在於知道什麼對你有效，而不是複製對別人有效的東西。"
           },
           {
             "speaker": "b",
@@ -2730,13 +2133,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much more. Discipline helps you show up. But self-knowledge helps you show up for the right things.",
-            "zh": "多很多。紀律幫助你出現。但自我認識幫助你為正確的事情出現。",
-            "vocab": [
-              {
-                "word": "self-knowledge",
-                "def": "自我認識；了解自己"
-              }
-            ]
+            "zh": "多很多。紀律幫助你出現。但自我認識幫助你為正確的事情出現。"
           },
           {
             "speaker": "b",

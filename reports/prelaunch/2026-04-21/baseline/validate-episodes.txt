@@ -1,0 +1,14 @@
+W06D1: expected at least 8 vocab items, got 6
+W06D2: expected at least 8 vocab items, got 6
+W06D3: expected at least 8 vocab items, got 6
+W06D4: expected at least 8 vocab items, got 6
+W06D5: expected at least 8 vocab items, got 6
+W06D6: expected at least 8 vocab items, got 6
+W06D7: expected at least 8 vocab items, got 6
+W07D1: expected at least 8 vocab items, got 6
+W07D2: expected at least 8 vocab items, got 6
+W07D3: expected at least 8 vocab items, got 6
+W07D4: expected at least 8 vocab items, got 6
+W07D5: expected at least 8 vocab items, got 6
+W07D6: expected at least 8 vocab items, got 6
+W07D7: expected at least 8 vocab items, got 6

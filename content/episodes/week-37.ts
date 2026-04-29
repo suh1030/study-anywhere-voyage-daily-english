@@ -22,13 +22,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of moment matters because it is often a body signal before it becomes a dramatic crisis.",
-            "zh": "那種時刻很重要，因為它常常是一個身體訊號，還沒大到像危機之前就先出現了。",
-            "vocab": [
-              {
-                "word": "body signal",
-                "def": "身體或情緒提早發出的微小提醒訊號"
-              }
-            ]
+            "zh": "那種時刻很重要，因為它常常是一個身體訊號，還沒大到像危機之前就先出現了。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you keep ignoring your baseline energy, even easy tasks start feeling oddly expensive.",
-            "zh": "完全沒錯。如果你一直忽略自己的基礎能量，連簡單的事都會開始變得異常耗費力氣。",
-            "vocab": [
-              {
-                "word": "baseline energy",
-                "def": "異常耗費力氣"
-              }
-            ]
+            "zh": "完全沒錯。如果你一直忽略自己的基礎能量，連簡單的事都會開始變得異常耗費力氣。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and stress load often builds quietly long before people finally name it.",
-            "zh": "對，而且壓力負荷很多時候早就在慢慢累積，只是人很晚才願意替它取名字。",
-            "vocab": [
-              {
-                "word": "stress load",
-                "def": "長時間累積在身上和心上的整體壓力重量"
-              }
-            ]
+            "zh": "對，而且壓力負荷很多時候早就在慢慢累積，只是人很晚才願意替它取名字。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because people imagine health as an extra project instead of the condition that makes everything else possible.",
-            "zh": "因為很多人把健康想成額外的專案，而不是讓其他事情能成立的基本條件。",
-            "vocab": [
-              {
-                "word": "imagine health",
-                "def": "很多人把健康想成額外的專案"
-              }
-            ]
+            "zh": "因為很多人把健康想成額外的專案，而不是讓其他事情能成立的基本條件。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right, and sleep debt makes that pattern worse because it quietly weakens judgment and patience.",
-            "zh": "對，而且睡眠債會讓這個模式更糟，因為它會默默削弱一個人的判斷力和耐性。",
-            "vocab": [
-              {
-                "word": "sleep debt",
-                "def": "慢慢補回的睡眠不足"
-              }
-            ]
+            "zh": "對，而且睡眠債會讓這個模式更糟，因為它會默默削弱一個人的判斷力和耐性。"
           },
           {
             "speaker": "b",
@@ -170,13 +140,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I need a real check-in, not just another productive day.'",
-            "zh": "另一句也很好用：「I need a real check-in, not just another productive day.」",
-            "vocab": [
-              {
-                "word": "real check-in",
-                "def": "固定停下來確認自己狀態的習慣"
-              }
-            ]
+            "zh": "另一句也很好用：「I need a real check-in, not just another productive day.」"
           },
           {
             "speaker": "b",
@@ -188,13 +152,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, 'I have been pushing past too many warning signs.'",
-            "zh": "如果你想講得更簡單，也可以說：「I have been pushing past too many warning signs.」",
-            "vocab": [
-              {
-                "word": "warning sign",
-                "def": "停下來注意的早期不對勁跡象"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I have been pushing past too many warning signs.」"
           },
           {
             "speaker": "b",
@@ -235,13 +193,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A gentle reset can be a short walk, an earlier night, or one meal eaten without multitasking.",
-            "zh": "完全沒錯。所謂溫和重整，可能只是短短散步、早一點睡，或好好吃一餐不多工。",
-            "vocab": [
-              {
-                "word": "gentle reset",
-                "def": "可能只是短短散步、早一點睡"
-              }
-            ]
+            "zh": "完全沒錯。所謂溫和重整，可能只是短短散步、早一點睡，或好好吃一餐不多工。"
           },
           {
             "speaker": "b",
@@ -253,13 +205,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and a recovery cue helps because tired people often need something obvious to follow.",
-            "zh": "本來就比較實際，而且恢復提示也很有用，因為累的人通常需要一個夠明顯的提醒來跟著走。",
-            "vocab": [
-              {
-                "word": "recovery cue",
-                "def": "本來就比較實際"
-              }
-            ]
+            "zh": "本來就比較實際，而且恢復提示也很有用，因為累的人通常需要一個夠明顯的提醒來跟著走。"
           },
           {
             "speaker": "b",
@@ -300,13 +246,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Health baseline matters because it decides how much of yourself is available for work, love, and attention.",
-            "zh": "健康底線很重要，因為它會決定你有多少自己還能拿去工作、去愛人、去專心生活。",
-            "vocab": [
-              {
-                "word": "health baseline",
-                "def": "健康底線很重要"
-              }
-            ]
+            "zh": "健康底線很重要，因為它會決定你有多少自己還能拿去工作、去愛人、去專心生活。"
           },
           {
             "speaker": "b",
@@ -318,13 +258,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it is a form of respect. Not because the body must perform, but because it carries everything.",
-            "zh": "我覺得那其實是一種尊重。不是因為身體必須表現，而是因為它承載了所有事。",
-            "vocab": [
-              {
-                "word": "form of respect",
-                "def": "而不是理所當然的工具"
-              }
-            ]
+            "zh": "我覺得那其實是一種尊重。不是因為身體必須表現，而是因為它承載了所有事。"
           },
           {
             "speaker": "b",
@@ -335,7 +269,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like the cleanest point to stop on.",
+            "en": "It feels like the cleanest point to stop on.",
             "zh": "停在這裡最乾淨。"
           }
         ]
@@ -405,13 +339,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and the real thing is much more ordinary. It is about whether daily life feels livable from the inside.",
-            "zh": "對，而真正的意思其實普通得多。它比較是在說，一個人的日常從裡面活起來是不是還住得下去。",
-            "vocab": [
-              {
-                "word": "ordinary",
-                "def": "而真正的意思其實普通得多"
-              }
-            ]
+            "zh": "對，而真正的意思其實普通得多。它比較是在說，一個人的日常從裡面活起來是不是還住得下去。"
           },
           {
             "speaker": "b",
@@ -423,13 +351,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Your inner weather matters even when no one else can see it clearly.",
-            "zh": "完全沒錯。你的內在天氣就算別人看不太出來，也還是很重要。",
-            "vocab": [
-              {
-                "word": "inner weather",
-                "def": "也還是很重要"
-              }
-            ]
+            "zh": "完全沒錯。你的內在天氣就算別人看不太出來，也還是很重要。"
           },
           {
             "speaker": "b",
@@ -470,31 +392,19 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would say it is the ability to live your days without constantly abandoning yourself.",
-            "zh": "我會說，那是一種能力，讓你過日子時不需要一直把自己丟在後面。",
-            "vocab": [
-              {
-                "word": "without constantly",
-                "def": "那是一種能力"
-              }
-            ]
+            "zh": "我會說，那是一種能力，讓你過日子時不需要一直把自己丟在後面。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a stronger definition than 'feeling good all the time.'",
-            "zh": "這真的比『一直感覺很好』那種定義強很多。"
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A steady mind is not a permanently happy mind. It is a mind that can recover, reflect, and reconnect.",
-            "zh": "對。所謂穩定的心，不是永遠開心的心，而是能恢復、能反思、也能再連回來的心。",
-            "vocab": [
-              {
-                "word": "steady mind",
-                "def": "不是沒有波動"
-              }
-            ]
+            "zh": "對。所謂穩定的心，不是永遠開心的心，而是能恢復、能反思、也能再連回來的心。"
           },
           {
             "speaker": "b",
@@ -547,13 +457,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'My mood has been drifting, and I can tell I need more care than usual.'",
-            "zh": "另一句也很好用：「My mood has been drifting, and I can tell I need more care than usual.」",
-            "vocab": [
-              {
-                "word": "mood",
-                "def": "情緒上來了；有點鬧情緒"
-              }
-            ]
+            "zh": "另一句也很好用：「My mood has been drifting, and I can tell I need more care than usual.」"
           },
           {
             "speaker": "b",
@@ -565,13 +469,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "'I have less room inside than I usually do.' works well when you want something simpler.",
-            "zh": "如果你想講得更簡單，也可以說：「I have less room inside than I usually do.」",
-            "vocab": [
-              {
-                "word": "room inside",
-                "def": "留意自己情緒和精神變化的自我觀察能力"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I have less room inside than I usually do.」"
           },
           {
             "speaker": "b",
@@ -612,13 +510,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The overwhelm point usually arrives long after the early changes begin.",
-            "zh": "完全沒錯。所謂過載點，通常都是在那些早期變化開始很久之後才真正出現。",
-            "vocab": [
-              {
-                "word": "overwhelm point",
-                "def": "所謂過載點"
-              }
-            ]
+            "zh": "完全沒錯。所謂過載點，通常都是在那些早期變化開始很久之後才真正出現。"
           },
           {
             "speaker": "b",
@@ -630,13 +522,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Waiting until everything feels terrible makes support much harder to start.",
-            "zh": "對。等到整體都很糟了才開始處理，會讓任何支持都變得更難起步。",
-            "vocab": [
-              {
-                "word": "support much harder",
-                "def": "更難起步"
-              }
-            ]
+            "zh": "對。等到整體都很糟了才開始處理，會讓任何支持都變得更難起步。"
           },
           {
             "speaker": "b",
@@ -677,13 +563,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A humane standard matters because people heal better when the goal is steadiness, not constant excellence.",
-            "zh": "一個更像人的標準很重要，因為當目標是穩定而不是持續優秀時，人通常會恢復得更好。",
-            "vocab": [
-              {
-                "word": "humane standard",
-                "def": "恢復的現實標準"
-              }
-            ]
+            "zh": "一個更像人的標準很重要，因為當目標是穩定而不是持續優秀時，人通常會恢復得更好。"
           },
           {
             "speaker": "b",
@@ -775,14 +655,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good description of background stress. It is not loud enough to stop the day, but it keeps wearing the system down.",
-            "zh": "這真的很像背景壓力。它沒有大到讓一天停下來，卻會一直磨損整個人。",
-            "vocab": [
-              {
-                "word": "background stress",
-                "def": "沒有爆炸性"
-              }
-            ]
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "b",
@@ -794,13 +668,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An anxious loop often begins before a person consciously decides to worry.",
-            "zh": "完全沒錯。焦慮迴圈很多時候在一個人有意識地開始擔心之前，就已經啟動了。",
-            "vocab": [
-              {
-                "word": "anxious loop",
-                "def": "一個念頭引發另一個擔心"
-              }
-            ]
+            "zh": "完全沒錯。焦慮迴圈很多時候在一個人有意識地開始擔心之前，就已經啟動了。"
           },
           {
             "speaker": "b",
@@ -812,13 +680,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The body often enters an alert state before the mind catches up with what is happening.",
-            "zh": "對。很多時候是身體先進入警戒狀態，腦袋才慢慢追上來到底發生了什麼。",
-            "vocab": [
-              {
-                "word": "alert state",
-                "def": "身體進入警戒和準備應對的緊繃狀態"
-              }
-            ]
+            "zh": "對。很多時候是身體先進入警戒狀態，腦袋才慢慢追上來到底發生了什麼。"
           },
           {
             "speaker": "b",
@@ -847,13 +709,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Too many inputs, too little pause, and not enough breathing room between one demand and the next.",
-            "zh": "輸入太多、停頓太少，而且一個要求和下一個要求之間幾乎沒有喘息空間。",
-            "vocab": [
-              {
-                "word": "breathing room",
-                "def": "輸入太多、停頓太少"
-              }
-            ]
+            "zh": "輸入太多、停頓太少，而且一個要求和下一個要求之間幾乎沒有喘息空間。"
           },
           {
             "speaker": "b",
@@ -865,13 +721,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and doom scrolling makes it worse because the body reads endless threat faster than the mind can process it.",
-            "zh": "完全沒錯，而且 doom scrolling 會讓事情更糟，因為身體讀到連續威脅的速度，常常比大腦消化得還快。",
-            "vocab": [
-              {
-                "word": "doom scrolling",
-                "def": "一直滑負面資訊"
-              }
-            ]
+            "zh": "完全沒錯，而且 doom scrolling 會讓事情更糟，因為身體讀到連續威脅的速度，常常比大腦消化得還快。"
           },
           {
             "speaker": "b",
@@ -883,13 +733,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Stress spikes are normal, but living inside permanent spikes is not.",
-            "zh": "壓力尖峰本來就會有，可是把自己一直活在尖峰裡就不正常了。",
-            "vocab": [
-              {
-                "word": "stress spike",
-                "def": "某個時刻因事件而突然升高的壓力峰值"
-              }
-            ]
+            "zh": "壓力尖峰本來就會有，可是把自己一直活在尖峰裡就不正常了。"
           },
           {
             "speaker": "b",
@@ -930,13 +774,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'My nervous system has not really come down from high alert.'",
-            "zh": "另一句也很好用：「My nervous system has not really come down from high alert.」",
-            "vocab": [
-              {
-                "word": "nervous system",
-                "def": "神經系統"
-              }
-            ]
+            "zh": "另一句也很好用：「My nervous system has not really come down from high alert.」"
           },
           {
             "speaker": "b",
@@ -948,13 +786,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'I feel more wired than rested lately.'",
-            "zh": "如果你想講得更簡單，也可以說：「I feel more wired than rested lately.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I feel more wired than rested lately.」"
           },
           {
             "speaker": "b",
@@ -971,7 +803,7 @@ export const WEEK_37: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Bringing the Body Back Down",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -995,13 +827,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A regulation practice might be slower breathing, a quiet walk, or putting space between yourself and the screen.",
-            "zh": "完全沒錯。所謂調節練習，可能只是呼吸放慢、安靜散步，或刻意把自己和螢幕隔開一點。",
-            "vocab": [
-              {
-                "word": "regulation practice",
-                "def": "可能只是呼吸放慢、安靜散步"
-              }
-            ]
+            "zh": "完全沒錯。所謂調節練習，可能只是呼吸放慢、安靜散步，或刻意把自己和螢幕隔開一點。"
           },
           {
             "speaker": "b",
@@ -1013,13 +839,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because one practical exit matters more than ten correct ideas when you are flooded.",
-            "zh": "對，因為當一個人已經被淹沒時，一個可做的出口比十個正確道理都重要。",
-            "vocab": [
-              {
-                "word": "practical exit",
-                "def": "可實行的出口；立刻能做的出口"
-              }
-            ]
+            "zh": "對，因為當一個人已經被淹沒時，一個可做的出口比十個正確道理都重要。"
           },
           {
             "speaker": "b",
@@ -1032,12 +852,7 @@ export const WEEK_37: Episode[] = [
             "speakerName": "Mira",
             "en": "Support should feel usable in the body, not just persuasive in the mind.",
             "zh": "好的支持，應該是身體用得上，不只是腦袋聽起來有道理。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Making Peace With a Busy Era",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1060,13 +875,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it is wiser too. Sustainable calm matters more than dramatic control.",
-            "zh": "我覺得它也更有智慧。可持續的平靜，比戲劇化的掌控更重要。",
-            "vocab": [
-              {
-                "word": "sustainable calm",
-                "def": "可持續的平靜"
-              }
-            ]
+            "zh": "我覺得它也更有智慧。可持續的平靜，比戲劇化的掌控更重要。"
           },
           {
             "speaker": "b",
@@ -1159,13 +968,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is usually how protective habits work. They are modest, repeatable, and easy to underestimate.",
-            "zh": "很多真正有保護力的習慣本來就是這樣。它們很樸素、可重複，而且很容易被低估。",
-            "vocab": [
-              {
-                "word": "protective habits",
-                "def": "雖然很小，但能穩住整天節奏的核心習慣"
-              }
-            ]
+            "zh": "很多真正有保護力的習慣本來就是這樣。它們很樸素、可重複，而且很容易被低估。"
           },
           {
             "speaker": "b",
@@ -1177,13 +980,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Morning light matters more than people think because it helps the body remember time.",
-            "zh": "完全沒錯。早晨光線比大家以為的重要，因為它會幫身體重新記得時間。",
-            "vocab": [
-              {
-                "word": "morning light",
-                "def": "早上接觸自然光"
-              }
-            ]
+            "zh": "完全沒錯。早晨光線比大家以為的重要，因為它會幫身體重新記得時間。"
           },
           {
             "speaker": "b",
@@ -1195,13 +992,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Simple does not mean weak. Some of the strongest supports are boring on purpose.",
-            "zh": "簡單不代表沒力。有些最強的支持，本來就故意很無聊。",
-            "vocab": [
-              {
-                "word": "strongest supports",
-                "def": "有些最強的支持"
-              }
-            ]
+            "zh": "簡單不代表沒力。有些最強的支持，本來就故意很無聊。"
           },
           {
             "speaker": "b",
@@ -1230,13 +1021,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they fit into real life. A habit only protects you if it survives ordinary weekdays.",
-            "zh": "因為它們放得進真實生活。只有撐得過普通平日的習慣，才真的能保護你。",
-            "vocab": [
-              {
-                "word": "real life",
-                "def": "不是理想中的版本"
-              }
-            ]
+            "zh": "因為它們放得進真實生活。只有撐得過普通平日的習慣，才真的能保護你。"
           },
           {
             "speaker": "b",
@@ -1248,13 +1033,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A digital boundary helps for that reason too, because attention needs edges if it is going to rest.",
-            "zh": "完全沒錯。數位界線也是同樣道理，因為注意力如果要休息，就需要邊界。",
-            "vocab": [
-              {
-                "word": "digital boundary",
-                "def": "邊界"
-              }
-            ]
+            "zh": "完全沒錯。數位界線也是同樣道理，因為注意力如果要休息，就需要邊界。"
           },
           {
             "speaker": "b",
@@ -1307,13 +1086,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clearer option here is 'I protect that routine because it works like a mental buffer for me.'",
-            "zh": "另一句也很好用：「I protect that routine because it works like a mental buffer for me.」",
-            "vocab": [
-              {
-                "word": "mental buffer",
-                "def": "在壓力和自己之間留下的一層緩衝空間"
-              }
-            ]
+            "zh": "另一句也很好用：「I protect that routine because it works like a mental buffer for me.」"
           },
           {
             "speaker": "b",
@@ -1325,13 +1098,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, 'That little routine keeps me from spiraling so easily.'",
-            "zh": "如果你想講得更簡單，也可以說：「That little routine keeps me from spiraling so easily.」",
-            "vocab": [
-              {
-                "word": "routine",
-                "def": "日常；固定流程"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「That little routine keeps me from spiraling so easily.」"
           },
           {
             "speaker": "b",
@@ -1372,13 +1139,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A sleep window matters because the brain loves rhythm more than heroics.",
-            "zh": "完全沒錯。固定睡眠時段很重要，因為大腦愛的是節奏，不是英雄式衝刺。",
-            "vocab": [
-              {
-                "word": "sleep window",
-                "def": "讓自己大致固定入睡和休息的時間範圍"
-              }
-            ]
+            "zh": "完全沒錯。固定睡眠時段很重要，因為大腦愛的是節奏，不是英雄式衝刺。"
           },
           {
             "speaker": "b",
@@ -1390,13 +1151,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That would already help a lot. The mind becomes more fragile when the rhythm keeps breaking.",
-            "zh": "那樣其實就會幫到很多。當節奏一直被打斷時，人的心真的會比較脆弱。",
-            "vocab": [
-              {
-                "word": "fragile",
-                "def": "脆弱的；易碎的"
-              }
-            ]
+            "zh": "那樣其實就會幫到很多。當節奏一直被打斷時，人的心真的會比較脆弱。"
           },
           {
             "speaker": "b",
@@ -1437,13 +1192,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the secret of ordinary care. The most protective things often look completely unremarkable from the outside.",
-            "zh": "這就是普通照顧的秘密。最有保護力的事，從外面看常常都一點都不顯眼。",
-            "vocab": [
-              {
-                "word": "ordinary care",
-                "def": "普通照顧的秘密"
-              }
-            ]
+            "zh": "這就是普通照顧的秘密。最有保護力的事，從外面看常常都一點都不顯眼。"
           },
           {
             "speaker": "b",
@@ -1536,13 +1285,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because honest check-in language asks people to give up the performance of being fine.",
-            "zh": "對，因為誠實報平安這種語言，會要求人放下那種『我沒事』的表演。",
-            "vocab": [
-              {
-                "word": "honest check-in",
-                "def": "誠實報平安這種語言"
-              }
-            ]
+            "zh": "對，因為誠實報平安這種語言，會要求人放下那種『我沒事』的表演。"
           },
           {
             "speaker": "b",
@@ -1554,13 +1297,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why even a low patch can feel strangely hard to admit.",
-            "zh": "完全沒錯。也因此，連只是進入一段低潮期，都會讓人覺得很難承認。",
-            "vocab": [
-              {
-                "word": "low patch",
-                "def": "不是永久狀態"
-              }
-            ]
+            "zh": "完全沒錯。也因此，連只是進入一段低潮期，都會讓人覺得很難承認。"
           },
           {
             "speaker": "b",
@@ -1572,13 +1309,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and shame spiral is often what keeps the silence going after the first hard day.",
-            "zh": "對，而且羞愧螺旋常常就是讓沉默在第一個難熬的日子之後繼續延長的東西。",
-            "vocab": [
-              {
-                "word": "shame spiral",
-                "def": "羞恥螺旋"
-              }
-            ]
+            "zh": "對，而且羞愧螺旋常常就是讓沉默在第一個難熬的日子之後繼續延長的東西。"
           },
           {
             "speaker": "b",
@@ -1607,13 +1338,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Using safe language that names the state without exaggerating or minimizing it.",
-            "zh": "去用一種安全語言，既不誇大也不縮小，只是把狀態說出來。",
-            "vocab": [
-              {
-                "word": "safe language",
-                "def": "去用一種安全語言"
-              }
-            ]
+            "zh": "去用一種安全語言，既不誇大也不縮小，只是把狀態說出來。"
           },
           {
             "speaker": "b",
@@ -1625,13 +1350,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Emotional honesty works best when it comes with steadiness, not spectacle.",
-            "zh": "完全沒錯。情緒誠實最有力量的時候，通常是它帶著穩定感，不是帶著奇觀感。",
-            "vocab": [
-              {
-                "word": "emotional honesty",
-                "def": "不包裝也不誇張"
-              }
-            ]
+            "zh": "完全沒錯。情緒誠實最有力量的時候，通常是它帶著穩定感，不是帶著奇觀感。"
           },
           {
             "speaker": "b",
@@ -1684,13 +1403,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, 'I am okay enough to keep going, but not okay enough to pretend nothing is happening.'",
-            "zh": "另一句也很好用：「I am okay enough to keep going, but not okay enough to pretend nothing is happening.」",
-            "vocab": [
-              {
-                "word": "pretend nothing",
-                "def": "不是徹底崩潰"
-              }
-            ]
+            "zh": "另一句也很好用：「I am okay enough to keep going, but not okay enough to pretend nothing is happening.」"
           },
           {
             "speaker": "b",
@@ -1701,14 +1414,8 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something gentler, another option is, 'I am a little more fragile than I look right now.'",
-            "zh": "如果你想更溫和一點，也可以說：「I am a little more fragile than I look right now.」",
-            "vocab": [
-              {
-                "word": "fragile",
-                "def": "脆弱的；易碎的"
-              }
-            ]
+            "en": "When you need something gentler, another option is, 'I am a little more fragile than I look right now.'",
+            "zh": "如果你想更溫和一點，也可以說：「I am a little more fragile than I look right now.」"
           },
           {
             "speaker": "b",
@@ -1737,13 +1444,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually less advice and more steady presence. A supportive reply should make the other person feel less alone, not more managed.",
-            "zh": "通常是少一點建議，多一點穩定陪伴。好的支持回應，應該讓對方覺得沒那麼孤單，不是被管理。",
-            "vocab": [
-              {
-                "word": "supportive reply",
-                "def": "方感到被接住"
-              }
-            ]
+            "zh": "通常是少一點建議，多一點穩定陪伴。好的支持回應，應該讓對方覺得沒那麼孤單，不是被管理。"
           },
           {
             "speaker": "b",
@@ -1755,13 +1456,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, 'Thank you for telling me,' before you say anything else.",
-            "zh": "完全沒錯。你甚至可以先只說一句：「謝謝你願意告訴我。」",
-            "vocab": [
-              {
-                "word": "One option",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。你甚至可以先只說一句：「謝謝你願意告訴我。」"
           },
           {
             "speaker": "b",
@@ -1814,13 +1509,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Honest language matters because people can only support the version of you that they are allowed to meet.",
-            "zh": "誠實語言很重要，因為別人只能支持那個你願意讓他們遇見的你。",
-            "vocab": [
-              {
-                "word": "Honest language",
-                "def": "誠實語言很重要"
-              }
-            ]
+            "zh": "誠實語言很重要，因為別人只能支持那個你願意讓他們遇見的你。"
           },
           {
             "speaker": "b",
@@ -1843,7 +1532,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we can stop there.",
+            "en": "We can stop there.",
             "zh": "那我們就停在這裡。"
           }
         ]
@@ -1913,13 +1602,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that belief hurts people twice. First when they struggle, and again when they delay support.",
-            "zh": "對，而那種信念會讓人受兩次傷。一次是在本來就辛苦的時候，另一次是在他們把支持拖延掉的時候。",
-            "vocab": [
-              {
-                "word": "delay support",
-                "def": "而那種信念會讓人受兩次傷"
-              }
-            ]
+            "zh": "對，而那種信念會讓人受兩次傷。一次是在本來就辛苦的時候，另一次是在他們把支持拖延掉的時候。"
           },
           {
             "speaker": "b",
@@ -1931,13 +1614,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Rest guilt is one reason people keep acting strong long after strength has become expensive.",
-            "zh": "完全沒錯。休息罪惡感就是其中一個原因，讓人明明已經很勉強了，還繼續硬撐。",
-            "vocab": [
-              {
-                "word": "rest guilt",
-                "def": "休息"
-              }
-            ]
+            "zh": "完全沒錯。休息罪惡感就是其中一個原因，讓人明明已經很勉強了，還繼續硬撐。"
           },
           {
             "speaker": "b",
@@ -1978,13 +1655,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They give structure, witness, language, and sometimes enough steadiness for healing to finally begin.",
-            "zh": "它們會給人結構、見證、語言，有時候還有那種終於足夠穩定、讓修復得以開始的條件。",
-            "vocab": [
-              {
-                "word": "structure",
-                "def": "結構；框架；規律"
-              }
-            ]
+            "zh": "它們會給人結構、見證、語言，有時候還有那種終於足夠穩定、讓修復得以開始的條件。"
           },
           {
             "speaker": "b",
@@ -1996,13 +1667,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Emotional unpacking becomes possible when there is enough safety around the feelings.",
-            "zh": "完全沒錯。只有當情緒周圍夠安全時，把心裡的東西慢慢打開整理才有可能。",
-            "vocab": [
-              {
-                "word": "emotional unpacking",
-                "def": "只有當情緒周圍夠安全時"
-              }
-            ]
+            "zh": "完全沒錯。只有當情緒周圍夠安全時，把心裡的東西慢慢打開整理才有可能。"
           },
           {
             "speaker": "b",
@@ -2055,13 +1720,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I am not looking for someone to fix this. I just do not want to carry it alone.'",
-            "zh": "另一句也很好用：「I am not looking for someone to fix this. I just do not want to carry it alone.」",
-            "vocab": [
-              {
-                "word": "carry it alone",
-                "def": "什麼都自己扛，不向外求助"
-              }
-            ]
+            "zh": "另一句也很好用：「I am not looking for someone to fix this. I just do not want to carry it alone.」"
           },
           {
             "speaker": "b",
@@ -2073,13 +1732,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make it more everyday, try, 'I could use a little more support right now than usual.'",
-            "zh": "完全沒錯。如果你想講得更簡單，也可以說：「I could use a little more support right now than usual.」",
-            "vocab": [
-              {
-                "word": "support",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。如果你想講得更簡單，也可以說：「I could use a little more support right now than usual.」"
           },
           {
             "speaker": "b",
@@ -2108,13 +1761,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because rest feels unproductive on the surface, even when it is essential inside the healing process.",
-            "zh": "因為休息表面上看起來沒有產出，即使在修復過程裡它其實非常必要。",
-            "vocab": [
-              {
-                "word": "healing process",
-                "def": "休息表面上看起來沒有產出"
-              }
-            ]
+            "zh": "因為休息表面上看起來沒有產出，即使在修復過程裡它其實非常必要。"
           },
           {
             "speaker": "b",
@@ -2126,13 +1773,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Recovery plan is not only about tasks. It is also about permission.",
-            "zh": "完全沒錯。恢復計畫不只是在安排事情，它同時也是在安排允許。",
-            "vocab": [
-              {
-                "word": "recovery plan",
-                "def": "恢復計畫不只是在安排事情"
-              }
-            ]
+            "zh": "完全沒錯。恢復計畫不只是在安排事情，它同時也是在安排允許。"
           },
           {
             "speaker": "b",
@@ -2185,13 +1826,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Professional help matters for that reason too. Sometimes care has to come from trained hands as well as loving ones.",
-            "zh": "專業幫助也因此很重要。有時候，照顧需要同時來自受過訓練的手，也來自真心關心你的手。",
-            "vocab": [
-              {
-                "word": "professional help",
-                "def": "由專業訓練的人提供的心理或健康支持"
-              }
-            ]
+            "zh": "專業幫助也因此很重要。有時候，照顧需要同時來自受過訓練的手，也來自真心關心你的手。"
           },
           {
             "speaker": "b",
@@ -2214,7 +1849,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we can leave it here.",
+            "en": "We can leave it here.",
             "zh": "那我們就留在這裡。"
           }
         ]
@@ -2296,13 +1931,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Inner pace matters because you cannot think clearly if your days never loosen.",
-            "zh": "完全沒錯。內在節奏很重要，因為如果你的日子從來沒有鬆下來，很多事根本想不清楚。",
-            "vocab": [
-              {
-                "word": "inner pace",
-                "def": "的生活節奏"
-              }
-            ]
+            "zh": "完全沒錯。內在節奏很重要，因為如果你的日子從來沒有鬆下來，很多事根本想不清楚。"
           },
           {
             "speaker": "b",
@@ -2343,13 +1972,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Enough rest, enough honesty, enough boundaries, and a rhythm that does not demand emotional stamina every hour.",
-            "zh": "像是足夠休息、足夠誠實、足夠界線，還有一種不會每個小時都在索取情緒耐力的節奏。",
-            "vocab": [
-              {
-                "word": "emotional stamina",
-                "def": "像是足夠休息、足夠誠實、足夠界線"
-              }
-            ]
+            "zh": "像是足夠休息、足夠誠實、足夠界線，還有一種不會每個小時都在索取情緒耐力的節奏。"
           },
           {
             "speaker": "b",
@@ -2361,19 +1984,13 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A sustainable rhythm includes recovery as part of the design, not just as emergency repair.",
-            "zh": "完全沒錯。可持續的節奏，會把恢復放進設計裡，而不是等壞掉了才拿來急救。",
-            "vocab": [
-              {
-                "word": "sustainable rhythm",
-                "def": "可持續的節奏"
-              }
-            ]
+            "zh": "完全沒錯。可持續的節奏，會把恢復放進設計裡，而不是等壞掉了才拿來急救。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely good standard.",
-            "zh": "這真的是很好的標準。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
@@ -2420,13 +2037,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is 'I need routines that restore trust in myself, not just efficiency in my calendar.'",
-            "zh": "另一句也很好用：「I need routines that restore trust in myself, not just efficiency in my calendar.」",
-            "vocab": [
-              {
-                "word": "trust",
-                "def": "的內在信任"
-              }
-            ]
+            "zh": "另一句也很好用：「I need routines that restore trust in myself, not just efficiency in my calendar.」"
           },
           {
             "speaker": "b",
@@ -2438,13 +2049,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shorter version would be, 'I am trying to live in a way I can keep.'",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying to live in a way I can keep.」",
-            "vocab": [
-              {
-                "word": "shorter version",
-                "def": "會讓人慢慢恢復、補回精神的固定做法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am trying to live in a way I can keep.」"
           },
           {
             "speaker": "b",
@@ -2461,7 +2066,7 @@ export const WEEK_37: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Reducing What Keeps Draining You",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2485,19 +2090,13 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Inner alignment matters because even success becomes tiring when it keeps betraying your real needs.",
-            "zh": "完全沒錯。內在對齊很重要，因為如果一種成功一直背叛你的真實需要，它最後也會變得很累。",
-            "vocab": [
-              {
-                "word": "inner alignment",
-                "def": "很累"
-              }
-            ]
+            "zh": "完全沒錯。內在對齊很重要，因為如果一種成功一直背叛你的真實需要，它最後也會變得很累。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually clarifying idea.",
-            "zh": "這真的是很能讓人看清楚的想法。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "a",
@@ -2516,12 +2115,7 @@ export const WEEK_37: Episode[] = [
             "speakerName": "Mira",
             "en": "And usually the more useful one.",
             "zh": "而且通常也是比較有用的那個。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — A Life You Can Stay Inside",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2544,13 +2138,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Long-range care matters because a sustainable inner life is not built through occasional rescue. It is built through repeated respect.",
-            "zh": "長程照顧很重要，因為可持續的內在生活不是靠偶爾自救蓋起來的，而是靠反覆的尊重。",
-            "vocab": [
-              {
-                "word": "long-range care",
-                "def": "不是撐到最後才補救"
-              }
-            ]
+            "zh": "長程照顧很重要，因為可持續的內在生活不是靠偶爾自救蓋起來的，而是靠反覆的尊重。"
           },
           {
             "speaker": "b",
@@ -2562,13 +2150,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Sustainability is not glamorous, but it is one of the kindest goals a person can have.",
-            "zh": "本來就該很平靜。可持續不華麗，可是它真的是一個人能給自己最溫柔的目標之一。",
-            "vocab": [
-              {
-                "word": "glamorous",
-                "def": "迷人的；美好的（常指理想化的）"
-              }
-            ]
+            "zh": "本來就該很平靜。可持續不華麗，可是它真的是一個人能給自己最溫柔的目標之一。"
           },
           {
             "speaker": "b",

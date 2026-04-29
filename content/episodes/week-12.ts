@@ -22,13 +22,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That was just the household routine, and you probably did not think it was unusual until much later.",
-            "zh": "那就是你們家的日常，你可能很晚才意識到這跟別人家不一樣。",
-            "vocab": [
-              {
-                "word": "household",
-                "def": "家庭；同住的家人"
-              }
-            ]
+            "zh": "那就是你們家的日常，你可能很晚才意識到這跟別人家不一樣。"
           },
           {
             "speaker": "b",
@@ -40,25 +34,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That moment — when you see a different family dynamic up close — is usually when you start noticing your own.",
-            "zh": "就是那個時刻——當你近距離看到不同的家庭相處模式——你才開始注意到自己家裡的。",
-            "vocab": [
-              {
-                "word": "family dynamic",
-                "def": "家庭相處模式"
-              }
-            ]
+            "zh": "就是那個時刻——當你近距離看到不同的家庭相處模式——你才開始注意到自己家裡的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I realized I had never described how we grew up to anyone outside the family before.",
-            "zh": "我才意識到我從來沒有跟家人以外的人描述過我們是怎麼長大的。",
-            "vocab": [
-              {
-                "word": "grew up",
-                "def": "長大"
-              }
-            ]
+            "zh": "我才意識到我從來沒有跟家人以外的人描述過我們是怎麼長大的。"
           },
           {
             "speaker": "a",
@@ -87,13 +69,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have a vivid childhood memory of my grandmother folding laundry while watching the evening news. I do not know why that stuck.",
-            "zh": "我有一個很鮮明的童年記憶：奶奶一邊看晚間新聞一邊折衣服。我不知道為什麼偏偏是這個。",
-            "vocab": [
-              {
-                "word": "childhood memory",
-                "def": "童年記憶"
-              }
-            ]
+            "zh": "我有一個很鮮明的童年記憶：奶奶一邊看晚間新聞一邊折衣服。我不知道為什麼偏偏是這個。"
           },
           {
             "speaker": "a",
@@ -105,13 +81,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "She was always there. She was part of our extended family who actually lived with us.",
-            "zh": "她一直都在。她是住在我們家的大家庭成員之一。",
-            "vocab": [
-              {
-                "word": "extended family",
-                "def": "大家族；大家庭"
-              }
-            ]
+            "zh": "她一直都在。她是住在我們家的大家庭成員之一。"
           },
           {
             "speaker": "a",
@@ -129,13 +99,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the sibling bond too. You grow up sharing space, competing, and somehow still looking out for each other.",
-            "zh": "手足情也是這樣。你們在同一個空間長大，競爭，但又莫名地相互照顧。",
-            "vocab": [
-              {
-                "word": "sibling bond",
-                "def": "手足情"
-              }
-            ]
+            "zh": "手足情也是這樣。你們在同一個空間長大，競爭，但又莫名地相互照顧。"
           },
           {
             "speaker": "b",
@@ -158,13 +122,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do I talk about my family background without it sounding like a CV?",
-            "zh": "我要怎麼談自己的家庭背景，又不讓它聽起來像在背履歷？",
-            "vocab": [
-              {
-                "word": "family background",
-                "def": "家庭背景"
-              }
-            ]
+            "zh": "我要怎麼談自己的家庭背景，又不讓它聽起來像在背履歷？"
           },
           {
             "speaker": "a",
@@ -182,13 +140,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or instead of \"traditional family,\" describe the parental role more concretely. \"My mom managed everything. My dad worked. We did not question it.\"",
-            "zh": "或者不要說「傳統家庭」，把父母的角色說得更具體一點。比如：「我媽管一切，我爸負責工作，我們從不質疑。」",
-            "vocab": [
-              {
-                "word": "parental role",
-                "def": "父母的角色"
-              }
-            ]
+            "zh": "或者不要說「傳統家庭」，把父母的角色說得更具體一點。比如：「我媽管一切，我爸負責工作，我們從不質疑。」"
           },
           {
             "speaker": "b",
@@ -398,14 +350,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a strict upbringing in action. It is not necessarily cruel — it usually comes from anxiety and hope mixed together.",
-            "zh": "這就是嚴格管教的樣子。不一定是殘忍，通常是焦慮和期盼混在一起的結果。",
-            "vocab": [
-              {
-                "word": "strict upbringing",
-                "def": "嚴格管教"
-              }
-            ]
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "b",
@@ -417,13 +363,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why the generational gap is so hard. The same behavior can feel like love from one direction and pressure from the other.",
-            "zh": "這也就是為什麼代溝那麼難跨越。同一個行為，從一個方向看是愛，從另一個方向看是壓力。",
-            "vocab": [
-              {
-                "word": "generational gap",
-                "def": "代溝"
-              }
-            ]
+            "zh": "這也就是為什麼代溝那麼難跨越。同一個行為，從一個方向看是愛，從另一個方向看是壓力。"
           },
           {
             "speaker": "b",
@@ -435,13 +375,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Honestly. You just say, \"My parents had high expectations and I spent a lot of my childhood trying to meet them.\" That is enough.",
-            "zh": "直說就好。你只要說：「我父母對我的期望很高，我花了很多童年在試著達到那個標準。」這樣就夠了。",
-            "vocab": [
-              {
-                "word": "high expectations",
-                "def": "我父母對我的期望很高"
-              }
-            ]
+            "zh": "直說就好。你只要說：「我父母對我的期望很高，我花了很多童年在試著達到那個標準。」這樣就夠了。"
           }
         ]
       },
@@ -458,13 +392,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens to a lot of people. You can look up to someone without really knowing them.",
-            "zh": "很多人都這樣。你可以很崇拜一個人，卻不真的了解他。",
-            "vocab": [
-              {
-                "word": "look up to",
-                "def": "崇拜；仰視"
-              }
-            ]
+            "zh": "很多人都這樣。你可以很崇拜一個人，卻不真的了解他。"
           },
           {
             "speaker": "b",
@@ -476,25 +404,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That shift — from feeling like a child to seeing your parents as people — is one of the quieter milestones of growing up.",
-            "zh": "那個轉變——從用孩子的眼光看，到把父母當作一個人來看——是成長中比較安靜的一個里程碑。",
-            "vocab": [
-              {
-                "word": "milestone",
-                "def": "那個轉變——從用孩子的眼光看"
-              }
-            ]
+            "zh": "那個轉變——從用孩子的眼光看，到把父母當作一個人來看——是成長中比較安靜的一個里程碑。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My mom was overprotective about everything. She did not like me going out at night even in high school.",
-            "zh": "我媽對什麼都過度保護。我高中的時候她也不喜歡我晚上出去。",
-            "vocab": [
-              {
-                "word": "overprotective",
-                "def": "過度保護的"
-              }
-            ]
+            "zh": "我媽對什麼都過度保護。我高中的時候她也不喜歡我晚上出去。"
           },
           {
             "speaker": "a",
@@ -570,7 +486,7 @@ export const WEEK_12: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Conversation Worth Having",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -606,13 +522,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually, you find out they were also just trying to figure things out. The parental approval you wanted? They wanted the same thing from their own parents.",
-            "zh": "你通常會發現，他們其實也只是在摸索。你想要的那個父母認可？他們當年也在跟自己的父母要同樣的東西。",
-            "vocab": [
-              {
-                "word": "parental approval",
-                "def": "父母的認可"
-              }
-            ]
+            "zh": "你通常會發現，他們其實也只是在摸索。你想要的那個父母認可？他們當年也在跟自己的父母要同樣的東西。"
           },
           {
             "speaker": "b",
@@ -625,23 +535,12 @@ export const WEEK_12: Episode[] = [
             "speakerName": "Mira",
             "en": "Most honest family conversations feel that way. That is not a sign that something is wrong.",
             "zh": "大多數誠實的家庭對話都是這個感覺。這不代表哪裡有問題。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Changes When You Understand Them Better",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I am at a point now where I want independence but I also want my parents to feel close.",
-            "zh": "我現在的狀態是，我想要獨立，但也想讓父母感覺到我們還很親近。",
-            "vocab": [
-              {
-                "word": "independence",
-                "def": "獨立"
-              }
-            ]
+            "zh": "我現在的狀態是，我想要獨立，但也想讓父母感覺到我們還很親近。"
           },
           {
             "speaker": "a",
@@ -752,13 +651,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Classic sibling rivalry. The object does not matter. The argument is usually about something else entirely.",
-            "zh": "典型的手足競爭。物品本身不重要，爭的通常是另一件事。",
-            "vocab": [
-              {
-                "word": "sibling rivalry",
-                "def": "手足競爭"
-              }
-            ]
+            "zh": "典型的手足競爭。物品本身不重要，爭的通常是另一件事。"
           },
           {
             "speaker": "b",
@@ -770,13 +663,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is birth order in action. The oldest one protects their position, the younger one tries to earn theirs.",
-            "zh": "這就是出生順序的作用。老大保護自己的位置，老么則努力爭取自己的。",
-            "vocab": [
-              {
-                "word": "birth order",
-                "def": "出生順序；兄弟姊妹的排行"
-              }
-            ]
+            "zh": "這就是出生順序的作用。老大保護自己的位置，老么則努力爭取自己的。"
           },
           {
             "speaker": "b",
@@ -823,13 +710,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "But now I think I have better negotiation skills because of it. You learn very quickly that the other person is not going anywhere.",
-            "zh": "但現在我覺得我因此多了更好的談判能力。你很快就學到，那個人不可能消失。",
-            "vocab": [
-              {
-                "word": "negotiation skills",
-                "def": "談判能力"
-              }
-            ]
+            "zh": "但現在我覺得我因此多了更好的談判能力。你很快就學到，那個人不可能消失。"
           },
           {
             "speaker": "a",
@@ -841,25 +722,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "We would bicker every single day about lights, noise, and everything.",
-            "zh": "我們每天都在為燈光、噪音和各種事情拌嘴。",
-            "vocab": [
-              {
-                "word": "bicker",
-                "def": "拌嘴；鬥嘴"
-              }
-            ]
+            "zh": "我們每天都在為燈光、噪音和各種事情拌嘴。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And then make up the next morning without any formal apology because there was no time for one.",
-            "zh": "然後隔天早上就和好了，連正式道歉都沒有，因為根本沒時間那樣做。",
-            "vocab": [
-              {
-                "word": "make up",
-                "def": "和好"
-              }
-            ]
+            "zh": "然後隔天早上就和好了，連正式道歉都沒有，因為根本沒時間那樣做。"
           },
           {
             "speaker": "b",
@@ -882,13 +751,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do I describe my sibling dynamic to someone who grew up as an only child?",
-            "zh": "我要怎麼跟一個獨生子女描述手足之間的相處模式？",
-            "vocab": [
-              {
-                "word": "sibling dynamic",
-                "def": "手足之間的相處模式"
-              }
-            ]
+            "zh": "我要怎麼跟一個獨生子女描述手足之間的相處模式？"
           },
           {
             "speaker": "a",
@@ -906,13 +769,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what siblings usually sound like. You can also say, \"We grew apart for a few years and then life pulled us back.\"",
-            "zh": "這就是手足關係聽起來的樣子。你也可以說：「我們有幾年漸行漸遠，然後生活又把我們拉回來了。」",
-            "vocab": [
-              {
-                "word": "grew apart",
-                "def": "漸行漸遠"
-              }
-            ]
+            "zh": "這就是手足關係聽起來的樣子。你也可以說：「我們有幾年漸行漸遠，然後生活又把我們拉回來了。」"
           },
           {
             "speaker": "b",
@@ -936,13 +793,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Just say \"We teamed up on that one.\" It is natural and everyone who has siblings understands it immediately.",
-            "zh": "就說「那件事我們是一夥的」。這很自然，有手足的人馬上就懂。",
-            "vocab": [
-              {
-                "word": "teamed up",
-                "def": "聯手；站在同一邊"
-              }
-            ]
+            "zh": "就說「那件事我們是一夥的」。這很自然，有手足的人馬上就懂。"
           }
         ]
       },
@@ -1117,13 +968,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The family reunion version of a standardized exam. You did not study for it, but you still feel like you failed.",
-            "zh": "家族團聚版的統一考試。你沒有準備，但還是覺得自己考差了。",
-            "vocab": [
-              {
-                "word": "family reunion",
-                "def": "家族團聚"
-              }
-            ]
+            "zh": "家族團聚版的統一考試。你沒有準備，但還是覺得自己考差了。"
           },
           {
             "speaker": "b",
@@ -1134,14 +979,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a survival strategy. A lot of people use it.",
-            "zh": "這是生存策略。很多人都這樣。",
-            "vocab": [
-              {
-                "word": "survival strategy",
-                "def": "生存策略"
-              }
-            ]
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "b",
@@ -1153,13 +992,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Prepare one short, cheerful answer for each predictable question. Say it, smile, and immediately ask them something about themselves.",
-            "zh": "對每個可以預測到的問題準備一個簡短、開朗的答案。說出來，微笑，然後馬上問他們關於自己的事。",
-            "vocab": [
-              {
-                "word": "predictable question",
-                "def": "尷尬的問題"
-              }
-            ]
+            "zh": "對每個可以預測到的問題準備一個簡短、開朗的答案。說出來，微笑，然後馬上問他們關於自己的事。"
           },
           {
             "speaker": "b",
@@ -1171,13 +1004,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People who ask intrusive questions usually love talking about themselves. Use that.",
-            "zh": "愛問侵入性問題的人通常很愛談自己。利用這一點。",
-            "vocab": [
-              {
-                "word": "intrusive question",
-                "def": "過度打探的問題"
-              }
-            ]
+            "zh": "愛問侵入性問題的人通常很愛談自己。利用這一點。"
           }
         ]
       },
@@ -1194,13 +1021,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because there is something real there. Underneath the awkward questions and old arguments, there is still a version of belonging that you can only get from extended family.",
-            "zh": "因為那裡有真實的東西。在那些尷尬問題和陳年爭吵的下面，有一種歸屬感，只有大家族能給你。",
-            "vocab": [
-              {
-                "word": "extended family",
-                "def": "大家族；大家庭"
-              }
-            ]
+            "zh": "因為那裡有真實的東西。在那些尷尬問題和陳年爭吵的下面，有一種歸屬感，只有大家族能給你。"
           },
           {
             "speaker": "b",
@@ -1212,13 +1033,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That dish is a meaningful tradition now. You did not choose it, it just accumulated. And somewhere along the way it became meaningful.",
-            "zh": "那道菜現在是個有意義的傳統了。你沒有選擇它，它就這樣慢慢積累起來。在某個時間點，它變得有意義了。",
-            "vocab": [
-              {
-                "word": "meaningful tradition",
-                "def": "有意義的傳統"
-              }
-            ]
+            "zh": "那道菜現在是個有意義的傳統了。你沒有選擇它，它就這樣慢慢積累起來。在某個時間點，它變得有意義了。"
           },
           {
             "speaker": "b",
@@ -1259,13 +1074,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try staying in the middle. \"It was loud and a little overwhelming, but it was good to catch up.\"",
-            "zh": "試著待在中間地帶。「很吵，有點讓人不知所措，但敘舊還是很好的。」",
-            "vocab": [
-              {
-                "word": "catch up",
-                "def": "敘舊；聊近況"
-              }
-            ]
+            "zh": "試著待在中間地帶。「很吵，有點讓人不知所措，但敘舊還是很好的。」"
           },
           {
             "speaker": "b",
@@ -1348,13 +1157,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "They are busy. The obligation to perform is lower.",
-            "zh": "他們在忙。表演的義務感低一點。",
-            "vocab": [
-              {
-                "word": "obligation",
-                "def": "義務感"
-              }
-            ]
+            "zh": "他們在忙。表演的義務感低一點。"
           },
           {
             "speaker": "a",
@@ -1500,25 +1303,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I know we should just talk it out. But talking is somehow harder than texting.",
-            "zh": "我知道我們應該好好談開來。但不知道為什麼，說話比傳訊息難。",
-            "vocab": [
-              {
-                "word": "talk it out",
-                "def": "好好談；說清楚"
-              }
-            ]
+            "zh": "我知道我們應該好好談開來。但不知道為什麼，說話比傳訊息難。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For some families, yes. Texting gives you time to revise. Face-to-face does not.",
-            "zh": "對某些家庭來說是這樣。傳訊息讓你有時間修改。面對面不行。",
-            "vocab": [
-              {
-                "word": "face-to-face",
-                "def": "面對面地"
-              }
-            ]
+            "zh": "對某些家庭來說是這樣。傳訊息讓你有時間修改。面對面不行。"
           },
           {
             "speaker": "b",
@@ -1541,25 +1332,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My family has a habit of avoiding conflict completely. If something is uncomfortable, nobody says anything.",
-            "zh": "我家有一個習慣，就是完全迴避衝突。只要有什麼不舒服的事，沒有人會說。",
-            "vocab": [
-              {
-                "word": "avoiding conflict",
-                "def": "迴避衝突"
-              }
-            ]
+            "zh": "我家有一個習慣，就是完全迴避衝突。只要有什麼不舒服的事，沒有人會說。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That works until it stops working. The silent treatment is quiet, but it is also a message.",
-            "zh": "這個方法有用，直到它不再有用為止。冷戰是安靜的，但它也是一種訊息。",
-            "vocab": [
-              {
-                "word": "silent treatment",
-                "def": "冷戰"
-              }
-            ]
+            "zh": "這個方法有用，直到它不再有用為止。冷戰是安靜的，但它也是一種訊息。"
           },
           {
             "speaker": "b",
@@ -1571,13 +1350,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what happens when people bottle up emotions. The pressure builds and it usually comes out sideways — an argument about dishes instead of the real thing.",
-            "zh": "這就是當人們壓抑情緒時發生的事。壓力會累積，然後通常從旁邊洩出來——為碗盤爭吵，而不是真正的問題。",
-            "vocab": [
-              {
-                "word": "bottle up emotions",
-                "def": "壓抑情緒"
-              }
-            ]
+            "zh": "這就是當人們壓抑情緒時發生的事。壓力會累積，然後通常從旁邊洩出來——為碗盤爭吵，而不是真正的問題。"
           },
           {
             "speaker": "b",
@@ -1618,13 +1391,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with your own feeling, not an accusation. \"I have been feeling a little disconnected lately\" is easier to receive than \"You never call me.\"",
-            "zh": "從你自己的感受開始，不是從指控開始。「我最近感覺有點疏離」比「你從來不打電話給我」好入耳多了。",
-            "vocab": [
-              {
-                "word": "feeling a little",
-                "def": "表達感受"
-              }
-            ]
+            "zh": "從你自己的感受開始，不是從指控開始。「我最近感覺有點疏離」比「你從來不打電話給我」好入耳多了。"
           },
           {
             "speaker": "b",
@@ -1654,13 +1421,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Clear the air without escalating.",
-            "zh": "化解誤解，又不讓情況升溫。",
-            "vocab": [
-              {
-                "word": "clear the air",
-                "def": "化解誤會；說清楚"
-              }
-            ]
+            "zh": "化解誤解，又不讓情況升溫。"
           },
           {
             "speaker": "a",
@@ -1707,13 +1468,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it gives you practice expressing things before they become urgent. Open up about small things so you are not waiting for a big reason.",
-            "zh": "而且這讓你有機會在事情變緊急之前就練習表達。把小事說出來，這樣你就不需要等到有大事才開口。",
-            "vocab": [
-              {
-                "word": "open up",
-                "def": "敞開心扉；說出來"
-              }
-            ]
+            "zh": "而且這讓你有機會在事情變緊急之前就練習表達。把小事說出來，這樣你就不需要等到有大事才開口。"
           },
           {
             "speaker": "b",
@@ -1865,17 +1620,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I did not realize how much my aging parents needed routine until I missed two Saturdays in a row for work.",
-            "zh": "我直到連續兩個週六因為工作沒去，才意識到我年邁的父母多需要這個規律。",
-            "vocab": [
-              {
-                "word": "aging parents",
-                "def": "年邁的父母"
-              },
-              {
-                "word": "routine",
-                "def": "固定規律；例行安排"
-              }
-            ]
+            "zh": "我直到連續兩個週六因為工作沒去，才意識到我年邁的父母多需要這個規律。"
           },
           {
             "speaker": "a",
@@ -1922,13 +1667,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The best time to have that conversation is before it becomes urgent. When everyone can speak calmly.",
-            "zh": "進行那場對話的最好時機，是在它變緊急之前。在大家都能平靜說話的時候。",
-            "vocab": [
-              {
-                "word": "conversation",
-                "def": "好好把話說清楚"
-              }
-            ]
+            "zh": "進行那場對話的最好時機，是在它變緊急之前。在大家都能平靜說話的時候。"
           },
           {
             "speaker": "b",
@@ -1969,13 +1708,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Keep them as the subject. Say \"My parents like to do things their own way\" instead of \"I have to manage everything for them.\"",
-            "zh": "讓他們當主詞。說「我父母喜歡用自己的方式做事」，而不是「我要幫他們管一切」。",
-            "vocab": [
-              {
-                "word": "subject",
-                "def": "畫面中你真正想拍的主體"
-              }
-            ]
+            "zh": "讓他們當主詞。說「我父母喜歡用自己的方式做事」，而不是「我要幫他們管一切」。"
           },
           {
             "speaker": "b",
@@ -1987,13 +1720,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And instead of using heavy words, you can say \"we take turns checking in\" or \"I handle the medical appointments.\" Specific and practical.",
-            "zh": "對。而不是用很沉重的詞，你可以說「我們輪流去關心」或「我負責醫療預約」。具體又實際。",
-            "vocab": [
-              {
-                "word": "medical appointment",
-                "def": "醫療預約"
-              }
-            ]
+            "zh": "對。而不是用很沉重的詞，你可以說「我們輪流去關心」或「我負責醫療預約」。具體又實際。"
           },
           {
             "speaker": "b",
@@ -2022,7 +1749,7 @@ export const WEEK_12: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Protecting Your Own Energy While Showing Up",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -2034,13 +1761,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That tension is the core of being a caregiver. You step up, but you also have your own life.",
-            "zh": "這種張力就是照顧者的核心處境。你要承擔責任，但你也有自己的生活。",
-            "vocab": [
-              {
-                "word": "step up",
-                "def": "承擔責任；挺身而出"
-              }
-            ]
+            "zh": "這種張力就是照顧者的核心處境。你要承擔責任，但你也有自己的生活。"
           },
           {
             "speaker": "b",
@@ -2052,13 +1773,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By being honest about capacity. You cannot give quality time if you arrive already empty.",
-            "zh": "誠實面對自己的能量狀態。如果你到達時已經是空的，你沒辦法給出真正有品質的陪伴。",
-            "vocab": [
-              {
-                "word": "quality time",
-                "def": "高品質的相處時間"
-              }
-            ]
+            "zh": "誠實面對自己的能量狀態。如果你到達時已經是空的，你沒辦法給出真正有品質的陪伴。"
           },
           {
             "speaker": "b",
@@ -2083,12 +1798,7 @@ export const WEEK_12: Episode[] = [
             "speakerName": "Mira",
             "en": "Write it down somewhere. The guilt will still appear, but at least you can argue back with something true.",
             "zh": "把它寫在某個地方。愧疚感還是會出現，但至少你可以用一個真實的東西來反駁它。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What It Means to Really Show Up",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2117,13 +1827,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The support system for aging parents is not just practical. It is emotional.",
-            "zh": "對年邁父母的支持系統不只是實際層面的。它也是情感層面的。",
-            "vocab": [
-              {
-                "word": "support system",
-                "def": "支持系統"
-              }
-            ]
+            "zh": "對年邁父母的支持系統不只是實際層面的。它也是情感層面的。"
           },
           {
             "speaker": "a",
@@ -2140,7 +1844,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what showing up becomes over time. Not just duty. Gradually, it becomes something closer to gratitude.",
+            "en": "That's what showing up becomes over time. Not just duty. Gradually, it becomes something closer to gratitude.",
             "zh": "這就是「出現」這件事隨著時間會變成的樣子。不只是義務。慢慢地，它變得更像是感謝。"
           }
         ]
@@ -2210,13 +1914,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is your chosen family. The people you selected, and who selected you back.",
-            "zh": "那就是你自己選的家人。你選了他們，他們也選了你。",
-            "vocab": [
-              {
-                "word": "chosen family",
-                "def": "自己選的家人"
-              }
-            ]
+            "zh": "那就是你自己選的家人。你選了他們，他們也選了你。"
           },
           {
             "speaker": "b",
@@ -2228,25 +1926,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You did not replace it. You added to it. Blood relative and chosen family are not competing categories.",
-            "zh": "你沒有替換它，你是在加上去。血親和自己選的家人不是相互競爭的兩類。",
-            "vocab": [
-              {
-                "word": "blood relative",
-                "def": "血親"
-              }
-            ]
+            "zh": "你沒有替換它，你是在加上去。血親和自己選的家人不是相互競爭的兩類。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I just did not expect to feel more at home with people I met at twenty-five than with people I grew up with.",
-            "zh": "我只是沒想到，我跟二十五歲才認識的人在一起，比跟從小一起長大的人在一起更有家的感覺。",
-            "vocab": [
-              {
-                "word": "home with people",
-                "def": "感到自在；有家的感覺"
-              }
-            ]
+            "zh": "我只是沒想到，我跟二十五歲才認識的人在一起，比跟從小一起長大的人在一起更有家的感覺。"
           },
           {
             "speaker": "a",
@@ -2281,13 +1967,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of unconditional support is exactly what the word family is supposed to mean.",
-            "zh": "那種無條件的支持，就是「家人」這個詞本來應該代表的意思。",
-            "vocab": [
-              {
-                "word": "unconditional support",
-                "def": "無條件的支持"
-              }
-            ]
+            "zh": "那種無條件的支持，就是「家人」這個詞本來應該代表的意思。"
           },
           {
             "speaker": "b",
@@ -2299,13 +1979,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That absence of transaction — no calculation, no \"do I have to\" — that is what the best relationships feel like. Found family or otherwise.",
-            "zh": "那種沒有交換條件的感覺——沒有計算，沒有「我需要去嗎」——這就是最好的關係有的感覺。不管是後天的家人還是其他關係。",
-            "vocab": [
-              {
-                "word": "found family",
-                "def": "後天的家人"
-              }
-            ]
+            "zh": "那種沒有交換條件的感覺——沒有計算，沒有「我需要去嗎」——這就是最好的關係有的感覺。不管是後天的家人還是其他關係。"
           },
           {
             "speaker": "b",
@@ -2364,13 +2038,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about talking about a sense of belonging with a group of friends? There is not always a word for that feeling.",
-            "zh": "那如果要談在一群朋友中的歸屬感呢？那種感覺不是每次都有一個詞可以形容。",
-            "vocab": [
-              {
-                "word": "sense of belonging",
-                "def": "歸屬感"
-              }
-            ]
+            "zh": "那如果要談在一群朋友中的歸屬感呢？那種感覺不是每次都有一個詞可以形容。"
           },
           {
             "speaker": "a",
@@ -2417,25 +2085,13 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The support network does not maintain itself. But that also means when it is strong, it is genuinely chosen.",
-            "zh": "對。支持網絡不會自己維持。但這也代表，當它很強大的時候，它是真正被選擇的。",
-            "vocab": [
-              {
-                "word": "support network",
-                "def": "支持網絡"
-              }
-            ]
+            "zh": "對。支援系統不會自己維持。但這也代表，當它很強大的時候，它是真正被選擇出來的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have started sending one short message a week to each person I care about. Just something small.",
-            "zh": "我開始每週給每個我在乎的人傳一條短訊息。只是一些小事。",
-            "vocab": [
-              {
-                "word": "short message",
-                "def": "主動聯絡；關心近況"
-              }
-            ]
+            "zh": "我開始每週給每個我在乎的人傳一條短訊息。只是一些小事。"
           },
           {
             "speaker": "a",
@@ -2544,7 +2200,7 @@ export const WEEK_12: Episode[] = [
       },
       {
         "en": "support network",
-        "zh": "支持網絡",
+        "zh": "支援系統",
         "example": "Building a support network takes time, but without one, every hard moment feels harder than it needs to."
       },
       {

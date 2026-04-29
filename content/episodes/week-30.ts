@@ -22,13 +22,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That makes sense. Sometimes a book is not only reading material. It is a signal to yourself about the kind of life you want to stay close to.",
-            "zh": "這很合理。有時候一本書不只是閱讀材料，它也是你給自己的一個訊號，提醒你想靠近哪一種生活。",
-            "vocab": [
-              {
-                "word": "reading material",
-                "def": "有時候一本書不只是閱讀材料"
-              }
-            ]
+            "zh": "這很合理。有時候一本書不只是閱讀材料，它也是你給自己的一個訊號，提醒你想靠近哪一種生活。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Books often represent attention before they represent progress.",
-            "zh": "完全沒錯。書很多時候先代表的是注意力，之後才代表進度。",
-            "vocab": [
-              {
-                "word": "represent attention",
-                "def": "象徵一個人願意把心力放到某件事上"
-              }
-            ]
+            "zh": "完全沒錯。書很多時候先代表的是注意力，之後才代表進度。"
           },
           {
             "speaker": "b",
@@ -99,13 +87,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Deep reading gives the mind a longer runway.",
-            "zh": "完全沒錯。深度閱讀會給大腦一條比較長的跑道。",
-            "vocab": [
-              {
-                "word": "deep reading",
-                "def": "給大腦一條比較長的跑道"
-              }
-            ]
+            "zh": "完全沒錯。深度閱讀會給大腦一條比較長的跑道。"
           },
           {
             "speaker": "b",
@@ -117,13 +99,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And once the runway is long enough, thoughts can actually land instead of just circling.",
-            "zh": "而當那條跑道夠長，想法才真的降落，而不是一直在上面盤旋。",
-            "vocab": [
-              {
-                "word": "runway",
-                "def": "（計畫或合約的）剩餘時間"
-              }
-            ]
+            "zh": "而當那條跑道夠長，想法才真的降落，而不是一直在上面盤旋。"
           },
           {
             "speaker": "b",
@@ -164,13 +140,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'A good book changes the speed of my mind.'",
-            "zh": "另一句也很好用：「A good book changes the speed of my mind.」",
-            "vocab": [
-              {
-                "word": "the speed of my mind",
-                "def": "自己腦中思考運轉的節奏與快慢"
-              }
-            ]
+            "zh": "另一句也很好用：「A good book changes the speed of my mind.」"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural line when you want to talk about writing too is 'Reading gives me better language for things I already half-knew.'",
-            "zh": "如果你也想把寫作一起講進去，可以說：「Reading gives me better language for things I already half-knew.」",
-            "vocab": [
-              {
-                "word": "better language",
-                "def": "更貼近自己感受、也更準確的表達方式"
-              }
-            ]
+            "zh": "如果你也想把寫作一起講進去，可以說：「Reading gives me better language for things I already half-knew.」"
           },
           {
             "speaker": "b",
@@ -229,13 +193,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good reading habits survive because they are hospitable, not intimidating.",
-            "zh": "完全沒錯。好的閱讀習慣之所以活得下來，是因為它對你有邀請感，不是讓人害怕。",
-            "vocab": [
-              {
-                "word": "habits survive",
-                "def": "人害怕"
-              }
-            ]
+            "zh": "完全沒錯。好的閱讀習慣之所以活得下來，是因為它對你有邀請感，不是讓人害怕。"
           },
           {
             "speaker": "b",
@@ -288,13 +246,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Language helps people keep company with themselves.",
-            "zh": "本來就是。語言會幫人陪伴自己。",
-            "vocab": [
-              {
-                "word": "themselves",
-                "def": "幫人陪伴自己"
-              }
-            ]
+            "zh": "本來就是。語言會幫人陪伴自己。"
           },
           {
             "speaker": "b",
@@ -360,9 +312,9 @@ export const WEEK_30: Episode[] = [
         "example": "A book by the bed made easy re-entry possible after long workdays."
       },
       {
-        "en": "keep company with yourself",
-        "zh": "有能力和自己相處，而不只是被空白吞掉",
-        "example": "Books helped her keep company with yourself during a lonely season."
+        "en": "enjoy your own company",
+        "zh": "有能力自在地和自己相處，而不只是被空白吞掉",
+        "example": "Books helped her enjoy your own company during a lonely season."
       }
     ]
   },
@@ -387,13 +339,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a good description. Scrolling often leaves people stimulated without making them feel settled.",
-            "zh": "這個形容超好。滑手機常常會讓人被刺激到，可是又完全不會真的安定下來。",
-            "vocab": [
-              {
-                "word": "settled",
-                "def": "一個人腦和情緒真的慢慢安下來的狀態"
-              }
-            ]
+            "zh": "這個形容超好。滑手機常常會讓人被刺激到，可是又完全不會真的安定下來。"
           },
           {
             "speaker": "b",
@@ -405,13 +351,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the nervous system is doing fewer abrupt turns. Reading gives attention one lane instead of ten.",
-            "zh": "因為神經系統需要做的急轉彎比較少。閱讀只給注意力一條車道，不是十條。",
-            "vocab": [
-              {
-                "word": "one lane",
-                "def": "注意力只需要沿著同一條線前進的狀態"
-              }
-            ]
+            "zh": "因為神經系統需要做的急轉彎比較少。閱讀只給注意力一條車道，不是十條。"
           },
           {
             "speaker": "b",
@@ -464,13 +404,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Reading invites contemplation instead of constant reaction.",
-            "zh": "完全沒錯。閱讀會邀請你進入沉思，而不是一直做反應。",
-            "vocab": [
-              {
-                "word": "contemplation",
-                "def": "一種比較慢、比較深的思考與咀嚼"
-              }
-            ]
+            "zh": "完全沒錯。閱讀會邀請你進入沉思，而不是一直做反應。"
           },
           {
             "speaker": "b",
@@ -487,20 +421,14 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a different value system from the internet.",
-            "zh": "這和網路的價值系統真的差好多。"
+            "en": "That maps well onto the actual experience.",
+            "zh": "這很貼合真實的感受。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, which is why reading can feel almost rebellious now. Rebuilding reading stamina is part of that resistance.",
-            "zh": "真的差很多，所以現在閱讀有時候甚至會讓人覺得有點反叛。而把閱讀耐力慢慢養回來，也正是那種抵抗的一部分。",
-            "vocab": [
-              {
-                "word": "reading stamina",
-                "def": "可以持續待在文字裡而不急著分心的耐力"
-              }
-            ]
+            "zh": "真的差很多，所以現在閱讀有時候甚至會讓人覺得有點反叛。而把閱讀耐力慢慢養回來，也正是那種抵抗的一部分。"
           }
         ]
       },
@@ -529,13 +457,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'A book gives me enough time to think one thought all the way through.'",
-            "zh": "另一句也很好用：「A book gives me enough time to think one thought all the way through.」",
-            "vocab": [
-              {
-                "word": "all the way through",
-                "def": "而不是中途一直被切斷"
-              }
-            ]
+            "zh": "另一句也很好用：「A book gives me enough time to think one thought all the way through.」"
           },
           {
             "speaker": "b",
@@ -547,19 +469,13 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'Reading slows me down in a way that feels clarifying, not dull.'",
-            "zh": "如果你想拿它和手機做對照，也可以說：「Reading slows me down in a way that feels clarifying, not dull.」",
-            "vocab": [
-              {
-                "word": "clarifying",
-                "def": "讓一個人的感覺與想法變得比較清楚"
-              }
-            ]
+            "zh": "如果你想拿它和手機做對照，也可以說：「Reading slows me down in a way that feels clarifying, not dull.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely good sentence for people who think slow automatically means boring.",
-            "zh": "這句真的很適合拿來對付那些覺得『慢』就等於無聊的人。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "a",
@@ -570,7 +486,7 @@ export const WEEK_30: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Making Space for Slower Attention",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -594,13 +510,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you want a slower mind, you often need a slower doorway into it.",
-            "zh": "完全沒錯。如果你想要比較慢的腦，很多時候你也需要一個比較慢的入口。",
-            "vocab": [
-              {
-                "word": "slower doorway",
-                "def": "讓自己進入比較安靜狀態的前置方式"
-              }
-            ]
+            "zh": "完全沒錯。如果你想要比較慢的腦，很多時候你也需要一個比較慢的入口。"
           },
           {
             "speaker": "b",
@@ -625,12 +535,7 @@ export const WEEK_30: Episode[] = [
             "speakerName": "Mira",
             "en": "That is usually the better combination.",
             "zh": "那通常就是比較好的組合。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Slow Reading Protects",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -653,13 +558,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, which is why reading matters even more now. It keeps some inner capacities from being flattened.",
-            "zh": "完全沒錯，所以現在閱讀反而更重要。它會讓一些內在能力不至於被壓平。",
-            "vocab": [
-              {
-                "word": "inner capacities",
-                "def": "一個人內在的耐心、理解力與感受力"
-              }
-            ]
+            "zh": "完全沒錯，所以現在閱讀反而更重要。它會讓一些內在能力不至於被壓平。"
           },
           {
             "speaker": "b",
@@ -752,13 +651,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is understandable. People often imagine habits as proof of character instead of systems that need support and a reliable reading cue.",
-            "zh": "這很能理解。很多人會把習慣想成品格證明，而不是需要被支撐、也需要固定提醒訊號的系統。",
-            "vocab": [
-              {
-                "word": "reading cue",
-                "def": "很多人會把習慣想成品格證明"
-              }
-            ]
+            "zh": "這很能理解。很多人會把習慣想成品格證明，而不是需要被支撐、也需要固定提醒訊號的系統。"
           },
           {
             "speaker": "b",
@@ -770,13 +663,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, when it may simply be a design problem. Is the book visible? Is the time realistic? Is the phone nearby?",
-            "zh": "完全沒錯，但那其實可能只是設計問題。書有沒有放在看得到的地方？時間是不是現實？手機是不是就在旁邊？",
-            "vocab": [
-              {
-                "word": "design problem",
-                "def": "不是意志力不夠"
-              }
-            ]
+            "zh": "完全沒錯，但那其實可能只是設計問題。書有沒有放在看得到的地方？時間是不是現實？手機是不是就在旁邊？"
           },
           {
             "speaker": "b",
@@ -829,13 +716,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And possible matters. Sustainable habits are usually built from repeated completion, not heroic intention.",
-            "zh": "而『做得到』這件事很重要。可持續的習慣，通常是靠一次次完成建立起來的，不是靠英雄式的決心。",
-            "vocab": [
-              {
-                "word": "repeated completion",
-                "def": "一次做一點、但穩定地完成，累積成習慣"
-              }
-            ]
+            "zh": "而『做得到』這件事很重要。可持續的習慣，通常是靠一次次完成建立起來的，不是靠英雄式的決心。"
           },
           {
             "speaker": "b",
@@ -852,8 +733,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely useful way to think about discipline.",
-            "zh": "這個理解自律的方式真的很有用。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
@@ -888,13 +769,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I am building the habit around my real life, not my ideal life.'",
-            "zh": "另一句也很好用：「I am building the habit around my real life, not my ideal life.」",
-            "vocab": [
-              {
-                "word": "real life",
-                "def": "不是理想中的版本"
-              }
-            ]
+            "zh": "另一句也很好用：「I am building the habit around my real life, not my ideal life.」"
           },
           {
             "speaker": "b",
@@ -906,13 +781,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, 'I am trying to keep the book in reach.'",
-            "zh": "如果你想再簡單一點，也可以說：「I am trying to keep the book in reach.」",
-            "vocab": [
-              {
-                "word": "in reach",
-                "def": "很順手、很容易再次拿起來的狀態"
-              }
-            ]
+            "zh": "如果你想再簡單一點，也可以說：「I am trying to keep the book in reach.」"
           },
           {
             "speaker": "b",
@@ -953,17 +822,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Reading needs enough structure to lower friction, and a simple habit stack can help a lot.",
-            "zh": "完全沒錯。閱讀需要的是足夠的結構，好把摩擦降下來，而把閱讀接在固定動作後面，通常也很有幫助。",
-            "vocab": [
-              {
-                "word": "lower friction",
-                "def": "把開始一件事前的麻煩和阻力降到最低"
-              },
-              {
-                "word": "habit stack",
-                "def": "把閱讀接在原本就會做的固定動作後面"
-              }
-            ]
+            "zh": "完全沒錯。閱讀需要的是足夠的結構，好把摩擦降下來，而把閱讀接在固定動作後面，通常也很有幫助。"
           },
           {
             "speaker": "b",
@@ -1016,13 +875,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And they trust their attention more. They know they can stay with something longer than the internet trained them to believe.",
-            "zh": "而且他們會比較信任自己的注意力。他們會知道，自己其實比網路教他們相信的樣子，更能陪一件事待久一點。",
-            "vocab": [
-              {
-                "word": "trust their attention",
-                "def": "相信自己有能力把心穩穩放在一件事上"
-              }
-            ]
+            "zh": "而且他們會比較信任自己的注意力。他們會知道，自己其實比網路教他們相信的樣子，更能陪一件事待久一點。"
           },
           {
             "speaker": "b",
@@ -1115,13 +968,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often how private writing begins. It starts before clarity, not after, like morning pages often do.",
-            "zh": "私人的寫作常常就是這樣開始的。它很多時候是在清楚之前開始，不是在清楚之後，就像很多人的晨間自由書寫一樣。",
-            "vocab": [
-              {
-                "word": "morning pages",
-                "def": "早上先自由寫一段，把腦打開的寫作習慣"
-              }
-            ]
+            "zh": "私人的寫作常常就是這樣開始的。它很多時候是在清楚之前開始，不是在清楚之後，就像很多人的晨間自由書寫一樣。"
           },
           {
             "speaker": "b",
@@ -1133,13 +980,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A notebook can be a thinking space, not just a storage space.",
-            "zh": "完全沒錯。筆記本可以是思考空間，不只是儲存空間。",
-            "vocab": [
-              {
-                "word": "thinking space",
-                "def": "讓想法可以在紙上慢慢長出來的空間"
-              }
-            ]
+            "zh": "完全沒錯。筆記本可以是思考空間，不只是儲存空間。"
           },
           {
             "speaker": "b",
@@ -1192,31 +1033,19 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Notes create a second chance to think.",
-            "zh": "完全沒錯。筆記會替你創造第二次思考的機會。",
-            "vocab": [
-              {
-                "word": "second chance to think",
-                "def": "先記下來，之後還能再想一次的空間"
-              }
-            ]
+            "zh": "完全沒錯。筆記會替你創造第二次思考的機會。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good way to describe it.",
-            "zh": "這個形容真的很好。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is why a marked sentence in a book can stay alive in you for weeks. A margin note means you touched it twice.",
-            "zh": "這也就是為什麼，一句被你畫線的句子，可以在你身上活好幾週。如果你還在旁邊寫了註記，就等於碰了它兩次。",
-            "vocab": [
-              {
-                "word": "margin note",
-                "def": "寫在書頁邊邊、替自己留下的小註記"
-              }
-            ]
+            "zh": "這也就是為什麼，一句被你畫線的句子，可以在你身上活好幾週。如果你還在旁邊寫了註記，就等於碰了它兩次。"
           },
           {
             "speaker": "b",
@@ -1244,8 +1073,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'Writing things down helps me hear what I actually think.'",
-            "zh": "你可以說：「Writing things down helps me hear what I actually think.」"
+            "en": "The phrasing that lands clearly is, 'Writing things down helps me hear what I actually think.'",
+            "zh": "這裡很自然的說法是：「Writing things down helps me hear what I actually think.」"
           },
           {
             "speaker": "b",
@@ -1257,13 +1086,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'My journal is where I sort out the noise before I speak.'",
-            "zh": "另一句也很好用：「My journal is where I sort out the noise before I speak.」",
-            "vocab": [
-              {
-                "word": "sort out the noise",
-                "def": "先把腦中的雜訊整理一下，再開口說話"
-              }
-            ]
+            "zh": "另一句也很好用：「My journal is where I sort out the noise before I speak.」"
           },
           {
             "speaker": "b",
@@ -1275,13 +1098,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to talk about note-taking, another option is, 'I take notes so I can come back to ideas while they still feel warm.'",
-            "zh": "如果你想談做筆記，也可以說：「I take notes so I can come back to ideas while they still feel warm.」",
-            "vocab": [
-              {
-                "word": "still feel warm",
-                "def": "一個想法還沒有冷掉、還保有當下感的狀態"
-              }
-            ]
+            "zh": "如果你想談做筆記，也可以說：「I take notes so I can come back to ideas while they still feel warm.」"
           },
           {
             "speaker": "b",
@@ -1322,13 +1139,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not if neatness is hiding you. A private page should feel like contact, not performance.",
-            "zh": "如果整齊是在把你藏起來，就不是。寫給自己的頁面應該比較像接觸，不是表演。",
-            "vocab": [
-              {
-                "word": "private page",
-                "def": "只寫給自己看、用來接住真實想法的頁面"
-              }
-            ]
+            "zh": "如果整齊是在把你藏起來，就不是。寫給自己的頁面應該比較像接觸，不是表演。"
           },
           {
             "speaker": "b",
@@ -1381,13 +1192,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. A journal becomes a record of consciousness, not only of events.",
-            "zh": "本來就是。一本日記最後會變成意識的紀錄，不只是事件的紀錄。",
-            "vocab": [
-              {
-                "word": "record of consciousness",
-                "def": "一個人怎麼想、怎麼感受的長期痕跡"
-              }
-            ]
+            "zh": "本來就是。一本日記最後會變成意識的紀錄，不只是事件的紀錄。"
           },
           {
             "speaker": "b",
@@ -1480,13 +1285,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a normal writing response. The blank page carries possibility, pressure, and self-exposure all at once.",
-            "zh": "這真的是很正常的寫作反應。空白頁會同時帶著可能性、壓力，還有某種把自己暴露出來的感覺。",
-            "vocab": [
-              {
-                "word": "blank page carries",
-                "def": "空白頁會同時帶著可能性、壓力"
-              }
-            ]
+            "zh": "這真的是很正常的寫作反應。空白頁會同時帶著可能性、壓力，還有某種把自己暴露出來的感覺。"
           },
           {
             "speaker": "b",
@@ -1510,13 +1309,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Writing is slow exposure to your own mind.",
-            "zh": "完全沒錯。寫作很像是慢速地把自己的腦攤在面前。",
-            "vocab": [
-              {
-                "word": "slow exposure",
-                "def": "寫作很像是慢速地把自己的腦攤在面前"
-              }
-            ]
+            "zh": "完全沒錯。寫作很像是慢速地把自己的腦攤在面前。"
           },
           {
             "speaker": "b",
@@ -1557,13 +1350,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A sentence can become a handle on something slippery.",
-            "zh": "完全沒錯。一個句子可以變成一個把手，讓你抓住原本很滑的東西。",
-            "vocab": [
-              {
-                "word": "a handle on something",
-                "def": "原本抓不住的感覺，終於有地方可以抓"
-              }
-            ]
+            "zh": "完全沒錯。一個句子可以變成一個把手，讓你抓住原本很滑的東西。"
           },
           {
             "speaker": "b",
@@ -1616,13 +1403,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another strong line is, 'The hardest part is getting past the version of me that wants to sound impressive.'",
-            "zh": "另一句也很有力：「The hardest part is getting past the version of me that wants to sound impressive.」",
-            "vocab": [
-              {
-                "word": "sound impressive",
-                "def": "急著讓文字看起來厲害，而不是先說真話"
-              }
-            ]
+            "zh": "另一句也很有力：「The hardest part is getting past the version of me that wants to sound impressive.」"
           },
           {
             "speaker": "b",
@@ -1634,13 +1415,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something more practical, a natural line is, 'I usually find the point by writing past the awkward beginning.'",
-            "zh": "如果你想講得更實際，也可以說：「I usually find the point by writing past the awkward beginning.」",
-            "vocab": [
-              {
-                "word": "awkward beginning",
-                "def": "剛開始寫時一定會有的生澀、卡卡的前段"
-              }
-            ]
+            "zh": "如果你想講得更實際，也可以說：「I usually find the point by writing past the awkward beginning.」"
           },
           {
             "speaker": "b",
@@ -1681,17 +1456,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try separating drafting from editing. Drafting is for discovery, and the rough draft only has to exist before it becomes clear.",
-            "zh": "你可以試試把起草和編修分開。起草是用來發現，而粗稿的第一個任務，只是先存在，之後才慢慢清楚。",
-            "vocab": [
-              {
-                "word": "drafting",
-                "def": "先把材料寫出來、不急著修漂亮的階段"
-              },
-              {
-                "word": "rough draft",
-                "def": "想法開始成形的初稿"
-              }
-            ]
+            "zh": "你可以試試把起草和編修分開。起草是用來發現，而粗稿的第一個任務，只是先存在，之後才慢慢清楚。"
           },
           {
             "speaker": "b",
@@ -1744,13 +1509,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is. A true sentence can feel like unclenching.",
-            "zh": "很多時候真的有。一個真的句子，會有一種慢慢鬆開的感覺。",
-            "vocab": [
-              {
-                "word": "unclenching",
-                "def": "因為終於說清楚而慢慢鬆開來的感覺"
-              }
-            ]
+            "zh": "很多時候真的有。一個真的句子，會有一種慢慢鬆開的感覺。"
           },
           {
             "speaker": "b",
@@ -1843,13 +1602,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is one of the gifts books can give. They make solitude feel inhabited.",
-            "zh": "這就是書會給人的其中一種禮物。它會讓獨處變得像是有人住在裡面。",
-            "vocab": [
-              {
-                "word": "solitude",
-                "def": "獨處（正面含義）"
-              }
-            ]
+            "zh": "這就是書會給人的其中一種禮物。它會讓獨處變得像是有人住在裡面。"
           },
           {
             "speaker": "b",
@@ -1861,13 +1614,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good book can feel like company without becoming noise, which is part of why a bookish life can feel so sustaining.",
-            "zh": "一本好書會像陪伴，可是又不會變成噪音。這也是為什麼一種有書陪伴的生活，會那麼能支撐人。",
-            "vocab": [
-              {
-                "word": "bookish life",
-                "def": "生活裡固定有書、有思考"
-              }
-            ]
+            "zh": "一本好書會像陪伴，可是又不會變成噪音。這也是為什麼一種有書陪伴的生活，會那麼能支撐人。"
           },
           {
             "speaker": "b",
@@ -1920,13 +1667,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Reading can create felt connection even in physical aloneness.",
-            "zh": "完全沒錯。就算身體上是一個人，閱讀也能創造一種有感的連結。",
-            "vocab": [
-              {
-                "word": "felt connection",
-                "def": "雖然不一定有人在身邊"
-              }
-            ]
+            "zh": "完全沒錯。就算身體上是一個人，閱讀也能創造一種有感的連結。"
           },
           {
             "speaker": "b",
@@ -1943,8 +1684,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a strong form of comfort.",
-            "zh": "那真的是很強的一種安慰。"
+            "en": "That tracks — especially in practice.",
+            "zh": "這說得通——尤其在實際情況裡。"
           },
           {
             "speaker": "a",
@@ -1979,13 +1720,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'Books give my inner life somewhere to go.'",
-            "zh": "另一句也很好用：「Books give my inner life somewhere to go.」",
-            "vocab": [
-              {
-                "word": "inner life",
-                "def": "一個人內在的感受、思考與精神活動"
-              }
-            ]
+            "zh": "另一句也很好用：「Books give my inner life somewhere to go.」"
           },
           {
             "speaker": "b",
@@ -1997,13 +1732,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to be even more specific, try, 'A good book keeps me company without asking anything from me.'",
-            "zh": "如果你想更具體，也可以說：「A good book keeps me company without asking anything from me.」",
-            "vocab": [
-              {
-                "word": "keeps me company",
-                "def": "用很安靜的方式陪著我，而不是消耗我"
-              }
-            ]
+            "zh": "如果你想更具體，也可以說：「A good book keeps me company without asking anything from me.」"
           },
           {
             "speaker": "b",
@@ -2015,13 +1744,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. It captures a kind of support many readers know well. Literary companionship can be remarkably steady.",
-            "zh": "很好。它真的抓到了很多讀者很熟悉的那種支持感。那種透過文學而來的陪伴，常常非常穩。",
-            "vocab": [
-              {
-                "word": "literary companionship",
-                "def": "透過書與作者、人物形成的一種文字陪伴"
-              }
-            ]
+            "zh": "很好。它真的抓到了很多讀者很熟悉的那種支持感。那種透過文學而來的陪伴，常常非常穩。"
           }
         ]
       },
@@ -2050,13 +1773,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a little radical. Inner life needs margin, and margin is disappearing.",
-            "zh": "有一點激進。內在生活需要邊界留白，而那種留白現在一直在消失。",
-            "vocab": [
-              {
-                "word": "margin",
-                "def": "一天裡沒有被塞滿、能讓自己呼吸的留白"
-              }
-            ]
+            "zh": "有一點激進。內在生活需要邊界留白，而那種留白現在一直在消失。"
           },
           {
             "speaker": "b",
@@ -2109,13 +1826,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Books remind people that inwardness is a place, not a punishment.",
-            "zh": "書會提醒人，內向時間是一個地方，不是一種處罰。",
-            "vocab": [
-              {
-                "word": "inwardness",
-                "def": "一個人往內沉、和自己待在一起的狀態"
-              }
-            ]
+            "zh": "書會提醒人，內向時間是一個地方，不是一種處罰。"
           },
           {
             "speaker": "b",
@@ -2220,13 +1931,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Books become landmarks in a person's inner landscape.",
-            "zh": "完全沒錯。書會慢慢變成一個人內在地景裡的地標。",
-            "vocab": [
-              {
-                "word": "inner landscape",
-                "def": "一個人內在世界的樣子與地形"
-              }
-            ]
+            "zh": "完全沒錯。書會慢慢變成一個人內在地景裡的地標。"
           },
           {
             "speaker": "b",
@@ -2279,13 +1984,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Reading expands the number of lives you can enter, and writing deepens the life you are already living.",
-            "zh": "完全沒錯。閱讀會擴大你能進入的生命數量，寫作則會加深你已經在過的那個生命。",
-            "vocab": [
-              {
-                "word": "deepens the life",
-                "def": "透過閱讀暫時進入別人的世界與視角"
-              }
-            ]
+            "zh": "完全沒錯。閱讀會擴大你能進入的生命數量，寫作則會加深你已經在過的那個生命。"
           },
           {
             "speaker": "b",
@@ -2338,13 +2037,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'Reading stretches my sense of what a human life can contain.'",
-            "zh": "另一句也很好：「Reading stretches my sense of what a human life can contain.」",
-            "vocab": [
-              {
-                "word": "life can contain",
-                "def": "一個人生裡到底能裝進多少感受、經驗與可能"
-              }
-            ]
+            "zh": "另一句也很好：「Reading stretches my sense of what a human life can contain.」"
           },
           {
             "speaker": "b",
@@ -2356,13 +2049,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you want to include writing, you can use 'Writing helps me turn experience into understanding instead of leaving it unnamed.'",
-            "zh": "如果你也想把寫作一起放進來，也可以說：「Writing helps me turn experience into understanding instead of leaving it unnamed.」",
-            "vocab": [
-              {
-                "word": "turn experience into understanding",
-                "def": "把經歷慢慢變成自己真正懂的東西"
-              }
-            ]
+            "zh": "如果你也想把寫作一起放進來，也可以說：「Writing helps me turn experience into understanding instead of leaving it unnamed.」"
           },
           {
             "speaker": "b",
@@ -2379,7 +2066,7 @@ export const WEEK_30: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Staying Close to Words Over Time",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -2403,17 +2090,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A lifelong reading life is adaptable. It bends instead of breaking, and that is how a reading identity survives.",
-            "zh": "完全沒錯。一個能維持一輩子的閱讀生活，是會調整的。它會彎，不會直接斷，而讀者這個身份感也就是這樣活下來的。",
-            "vocab": [
-              {
-                "word": "adaptable",
-                "def": "適應能力強的；靈活的"
-              },
-              {
-                "word": "reading identity",
-                "def": "不會直接斷"
-              }
-            ]
+            "zh": "完全沒錯。一個能維持一輩子的閱讀生活，是會調整的。它會彎，不會直接斷，而讀者這個身份感也就是這樣活下來的。"
           },
           {
             "speaker": "b",
@@ -2438,12 +2115,7 @@ export const WEEK_30: Episode[] = [
             "speakerName": "Mira",
             "en": "Most readers do at some point.",
             "zh": "很多讀者在某個時候都會需要。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Life That Words Keep Opening",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2466,13 +2138,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is hard to measure, but easy to feel over time. People with words often have more ways to stay human under pressure.",
-            "zh": "確實很難量化，可是時間久了會很好感覺出來。有文字陪伴的人，很多時候在壓力裡也會有更多方式保持人味。",
-            "vocab": [
-              {
-                "word": "stay human",
-                "def": "在很趕、很亂、很壓的時候"
-              }
-            ]
+            "zh": "確實很難量化，可是時間久了會很好感覺出來。有文字陪伴的人，很多時候在壓力裡也會有更多方式保持人味。"
           },
           {
             "speaker": "b",
@@ -2484,13 +2150,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. They do not save people from life, but they help people live a more language-rich life inside it.",
-            "zh": "我也這麼覺得。它們不會把人從生活裡救出去，可是它們會幫人把生活活成一種有更多文字與思考陪伴的樣子。",
-            "vocab": [
-              {
-                "word": "language-rich life",
-                "def": "它們不會把人從生活裡救出去"
-              }
-            ]
+            "zh": "我也這麼覺得。它們不會把人從生活裡救出去，可是它們會幫人把生活活成一種有更多文字與思考陪伴的樣子。"
           },
           {
             "speaker": "b",
@@ -2501,7 +2161,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels more like a good response to this conversation.",
+            "en": "It feels more like a good response to this conversation.",
             "zh": "這聽起來就是對這場對話最好的回應。"
           }
         ]

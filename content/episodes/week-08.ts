@@ -22,13 +22,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what a spending habit looks like in real life. It usually appears as a string of tiny yeses, not one dramatic mistake.",
-            "zh": "這就是消費習慣在真實生活裡的樣子。它通常不是一個戲劇性的錯誤，而是一連串很小的「好吧」。",
-            "vocab": [
-              {
-                "word": "spending habit",
-                "def": "消費習慣"
-              }
-            ]
+            "zh": "這就是消費習慣在真實生活裡的樣子。它通常不是一個戲劇性的錯誤，而是一連串很小的「好吧」。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You only feel the weight at the checkout total, when the decisions are already behind you.",
-            "zh": "沒錯。你通常是到看到結帳總額時，才感受到那個重量，但那時每個決定都已經做完了。",
-            "vocab": [
-              {
-                "word": "checkout total",
-                "def": "結帳總額"
-              }
-            ]
+            "zh": "沒錯。你通常是到看到結帳總額時，才感受到那個重量，但那時每個決定都已經做完了。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. An impulse buy often feels emotional first and reasonable second.",
-            "zh": "對。衝動購買通常是先在情緒上成立，之後才補上看似合理的理由。",
-            "vocab": [
-              {
-                "word": "impulse buy",
-                "def": "衝動購買"
-              }
-            ]
+            "zh": "對。衝動購買通常是先在情緒上成立，之後才補上看似合理的理由。"
           },
           {
             "speaker": "b",
@@ -99,13 +81,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So that is why retail therapy feels real, even when it does not last.",
-            "zh": "所以這也就是為什麼所謂的購物療癒感是真的，雖然它常常不持久。",
-            "vocab": [
-              {
-                "word": "retail therapy",
-                "def": "透過購物紓壓"
-              }
-            ]
+            "zh": "所以這也就是為什麼所謂的購物療癒感是真的，雖然它常常不持久。"
           },
           {
             "speaker": "a",
@@ -123,13 +99,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how people justify a purchase. They stop asking, \"Do I need it?\" and start asking, \"Am I missing out if I do not buy it?\"",
-            "zh": "這就是人如何替一筆消費找理由。問題不再是「我需要它嗎？」，而變成「我如果不買，是不是就吃虧了？」",
-            "vocab": [
-              {
-                "word": "justify a purchase",
-                "def": "替一筆消費找合理理由"
-              }
-            ]
+            "zh": "這就是人如何替一筆消費找理由。問題不再是「我需要它嗎？」，而變成「我如果不買，是不是就吃虧了？」"
           },
           {
             "speaker": "b",
@@ -158,13 +128,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with ordinary verbs. Say, \"I browsed,\" \"I added it to cart,\" or \"I talked myself into it.\"",
-            "zh": "先從普通的動詞開始。像是說「我滑著看了一下」、「我把它放進購物車」，或「我把自己說服了」。",
-            "vocab": [
-              {
-                "word": "cart",
-                "def": "加入購物車"
-              }
-            ]
+            "zh": "先從普通的動詞開始。像是說「我滑著看了一下」、「我把它放進購物車」，或「我把自己說服了」。"
           },
           {
             "speaker": "b",
@@ -176,13 +140,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clean way to say it is, \"I did not stick to my list,\" which is simple and very believable.",
-            "zh": "沒錯。你也可以說「我沒有照著購物清單買」，這種說法很簡單，也很像真人會說的話。",
-            "vocab": [
-              {
-                "word": "stick",
-                "def": "堅持；持續下去"
-              }
-            ]
+            "zh": "沒錯。你也可以說「我沒有照著購物清單買」，這種說法很簡單，也很像真人會說的話。"
           },
           {
             "speaker": "b",
@@ -194,13 +152,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sentence that works well is \"It felt like a reward,\" or \"It looked like a good deal.\" Those phrases sound natural because they sound honest.",
-            "zh": "可以試試看「它感覺像是給自己的獎勵」，或「它看起來真的很划算」。這些句子之所以自然，是因為它們很誠實。",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "划算的選擇"
-              }
-            ]
+            "zh": "可以試試看「它感覺像是給自己的獎勵」，或「它看起來真的很划算」。這些句子之所以自然，是因為它們很誠實。"
           },
           {
             "speaker": "b",
@@ -229,13 +181,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Make the default choice slower. If you usually buy immediately, wait ten minutes or walk one more aisle first.",
-            "zh": "讓預設選項變慢一點。如果你平常是立刻買，就多等十分鐘，或先多走一個走道再決定。",
-            "vocab": [
-              {
-                "word": "default choice",
-                "def": "預設選擇"
-              }
-            ]
+            "zh": "讓預設選項變慢一點。如果你平常是立刻買，就多等十分鐘，或先多走一個走道再決定。"
           },
           {
             "speaker": "b",
@@ -259,13 +205,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All the time. A wish list separates, \"I want it now,\" from, \"I still want it tomorrow.\"",
-            "zh": "我很常用。想買清單最大的作用，就是把「我現在想要」跟「我明天還是想要」分開。",
-            "vocab": [
-              {
-                "word": "wish list",
-                "def": "想買清單"
-              }
-            ]
+            "zh": "我很常用。想買清單最大的作用，就是把「我現在想要」跟「我明天還是想要」分開。"
           },
           {
             "speaker": "b",
@@ -305,14 +245,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Intentional spending feels very different from automatic spending.",
-            "zh": "沒錯。有意識地花錢，和自動駕駛式地花錢，感受完全不同。",
-            "vocab": [
-              {
-                "word": "intentional spending",
-                "def": "有意識的消費"
-              }
-            ]
+            "en": "Right. Intentional spending feels very different from automatic spending.",
+            "zh": "對。有意識地花錢，和自動駕駛式地花錢，感受完全不同。"
           },
           {
             "speaker": "b",
@@ -324,13 +258,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Everybody has a financial blind spot. The useful thing is learning to spot yours earlier.",
-            "zh": "對。每個人都有自己的金錢盲點。真正有用的，是更早看見自己的那一個。",
-            "vocab": [
-              {
-                "word": "financial blind spot",
-                "def": "金錢上的盲點"
-              }
-            ]
+            "zh": "對。每個人都有自己的金錢盲點。真正有用的，是更早看見自己的那一個。"
           },
           {
             "speaker": "b",
@@ -341,7 +269,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the tone we need. Shame usually hides the pattern. Honesty makes it visible.",
+            "en": "That's the tone we need. Shame usually hides the pattern. Honesty makes it visible.",
             "zh": "我們需要的就是這種語氣。羞愧通常會把模式藏起來，誠實才會把它照出來。"
           }
         ]
@@ -411,13 +339,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That usually means your monthly budget exists in your head, not on paper.",
-            "zh": "那通常代表你的每月預算只存在腦中，沒有真正落在紙上或系統裡。",
-            "vocab": [
-              {
-                "word": "monthly budget",
-                "def": "每月預算"
-              }
-            ]
+            "zh": "那通常代表你的每月預算只存在腦中，沒有真正落在紙上或系統裡。"
           },
           {
             "speaker": "b",
@@ -441,13 +363,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Fixed expenses are quiet, but they are not optional.",
-            "zh": "沒錯。固定支出平常很安靜，但它們從來都不是可選的。",
-            "vocab": [
-              {
-                "word": "fixed expense",
-                "def": "固定支出"
-              }
-            ]
+            "zh": "沒錯。固定支出平常很安靜，但它們從來都不是可選的。"
           },
           {
             "speaker": "b",
@@ -488,13 +404,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Pay yourself first. Even a small transfer on salary day changes the whole month.",
-            "zh": "對。先支付給未來的自己。就算只是薪水入帳當天先轉走一小筆，也會改變整個月的走向。",
-            "vocab": [
-              {
-                "word": "pay yourself first",
-                "def": "先把錢存給自己"
-              }
-            ]
+            "zh": "對。先支付給未來的自己。就算只是薪水入帳當天先轉走一小筆，也會改變整個月的走向。"
           },
           {
             "speaker": "b",
@@ -506,13 +416,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That belief is expensive. A small automatic transfer beats a big promise you never repeat.",
-            "zh": "那種想法其實很花錢。小額的自動轉帳，通常比一個很大的、卻做不到第二次的承諾有用得多。",
-            "vocab": [
-              {
-                "word": "automatic transfer",
-                "def": "自動轉帳"
-              }
-            ]
+            "zh": "那種想法其實很花錢。小額的自動轉帳，通常比一個很大的、卻做不到第二次的承諾有用得多。"
           },
           {
             "speaker": "b",
@@ -541,13 +445,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Set aside money\" is a very useful one. It sounds practical and calm.",
-            "zh": "「預先留一筆錢」這個說法非常好用。它聽起來很務實，也很平靜。",
-            "vocab": [
-              {
-                "word": "set aside money",
-                "def": "先留出一筆錢"
-              }
-            ]
+            "zh": "「預先留一筆錢」這個說法非常好用。它聽起來很務實，也很平靜。"
           },
           {
             "speaker": "b",
@@ -558,14 +456,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"I need to cut back on delivery,\" or \"I am tracking my spending this month.\"",
-            "zh": "沒錯。你也可以說「我需要少叫一點外送」，或「我這個月在記錄自己的支出」。",
-            "vocab": [
-              {
-                "word": "cut back on",
-                "def": "減少；縮減"
-              }
-            ]
+            "en": "A phrase that works well here is, \"I need to cut back on delivery,\" or \"I am tracking my spending this month.\"",
+            "zh": "沒錯。你也可以說「我需要少叫一點外送」，或「我這個月在記錄自己的支出」。"
           },
           {
             "speaker": "b",
@@ -577,13 +469,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a useful phrase because it gives saving a purpose. An emergency fund is money for the unexpected, not money for guilt.",
-            "zh": "那是一個很有用的說法，因為它讓存錢有了明確目的。緊急預備金是拿來應付意外的，不是拿來製造焦慮的。",
-            "vocab": [
-              {
-                "word": "emergency fund",
-                "def": "緊急預備金"
-              }
-            ]
+            "zh": "那是一個很有用的說法，因為它讓存錢有了明確目的。緊急預備金是拿來應付意外的，不是拿來製造焦慮的。"
           },
           {
             "speaker": "b",
@@ -600,7 +486,7 @@ export const WEEK_08: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A System You Can Keep on an Ordinary Month",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -624,13 +510,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if you know an irregular cost is coming, build a sinking fund for it.",
-            "zh": "沒錯。如果你知道某個不規則支出一定會來，就替它準備一個預備基金。",
-            "vocab": [
-              {
-                "word": "sinking fund",
-                "def": "預先分月累積的專用基金"
-              }
-            ]
+            "zh": "沒錯。如果你知道某個不規則支出一定會來，就替它準備一個預備基金。"
           },
           {
             "speaker": "b",
@@ -642,13 +522,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Those are not true surprises. They are just delayed expenses.",
-            "zh": "對。那些不是真正的意外，它們只是延後出現的支出而已。",
-            "vocab": [
-              {
-                "word": "delayed expense",
-                "def": "延後出現的支出"
-              }
-            ]
+            "zh": "對。那些不是真正的意外，它們只是延後出現的支出而已。"
           },
           {
             "speaker": "b",
@@ -661,12 +535,7 @@ export const WEEK_08: Episode[] = [
             "speakerName": "Mira",
             "en": "That is the point. A good system should make reality feel less chaotic, not more.",
             "zh": "這就是重點。好的系統，應該讓現實看起來比較不混亂，而不是更混亂。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Why a Budget Should Feel Like Permission",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -701,13 +570,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should create breathing room, not constant fear.",
-            "zh": "它本來就應該創造喘息空間，而不是持續的恐懼。",
-            "vocab": [
-              {
-                "word": "breathing room",
-                "def": "喘息空間；餘裕"
-              }
-            ]
+            "zh": "它本來就應該創造喘息空間，而不是持續的恐懼。"
           },
           {
             "speaker": "b",
@@ -718,7 +581,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then start with a system small enough to prove the opposite.",
+            "en": "Start with a system small enough to prove the opposite.",
             "zh": "那就從一個夠小、但能證明相反結果的系統開始。"
           }
         ]
@@ -788,13 +651,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is real. A spending trigger is often physical or emotional before it is financial.",
-            "zh": "這是真的。所謂的消費觸發點，很多時候在變成財務問題之前，就已經先是身體或情緒問題了。",
-            "vocab": [
-              {
-                "word": "spending trigger",
-                "def": "引發消費衝動的觸發點"
-              }
-            ]
+            "zh": "這是真的。所謂的消費觸發點，很多時候在變成財務問題之前，就已經先是身體或情緒問題了。"
           },
           {
             "speaker": "b",
@@ -818,13 +675,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often it is the dopamine hit that matters more than the item.",
-            "zh": "很多時候，比起商品本身，更重要的是那一下被刺激到的快感。",
-            "vocab": [
-              {
-                "word": "dopamine hit",
-                "def": "瞬間的快感刺激"
-              }
-            ]
+            "zh": "很多時候，比起商品本身，更重要的是那一下被刺激到的快感。"
           },
           {
             "speaker": "b",
@@ -853,13 +704,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because the psychology is subtle. The anchor price is one example.",
-            "zh": "那是因為那套心理設計很細。像錨定價格就是一個很典型的例子。",
-            "vocab": [
-              {
-                "word": "anchor price",
-                "def": "錨定價格；先出現用來影響判斷的價格"
-              }
-            ]
+            "zh": "那是因為那套心理設計很細。像錨定價格就是一個很典型的例子。"
           },
           {
             "speaker": "b",
@@ -870,14 +715,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Then scarcity effect joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
-            "zh": "沒錯。接著稀缺效果就會跟著進來，例如「只剩三件」或「今晚截止」。",
-            "vocab": [
-              {
-                "word": "scarcity effect",
-                "def": "稀缺效果；因為快沒了而覺得更想要"
-              }
-            ]
+            "en": "Exactly. Then limited-time pressure joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
+            "zh": "沒錯。接著限時壓力就會跟著進來，例如「只剩三件」或「今晚截止」。"
           },
           {
             "speaker": "b",
@@ -889,13 +728,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And free shipping thresholds do the same thing. They make spending more feel like saving money.",
-            "zh": "免運門檻也是一樣。它會讓人覺得多花一點錢，好像反而是在省錢。",
-            "vocab": [
-              {
-                "word": "free shipping threshold",
-                "def": "免運門檻"
-              }
-            ]
+            "zh": "免運門檻也是一樣。它會讓人覺得多花一點錢，好像反而是在省錢。"
           },
           {
             "speaker": "b",
@@ -924,13 +757,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"I talked myself into it\" is excellent. It captures a whole decision in one line.",
-            "zh": "「我把自己說服了」這句超級好用。它可以用一行話把整個決定說清楚。",
-            "vocab": [
-              {
-                "word": "talked",
-                "def": "說服自己去做某事"
-              }
-            ]
+            "zh": "「我把自己說服了」這句超級好用。它可以用一行話把整個決定說清楚。"
           },
           {
             "speaker": "b",
@@ -942,13 +769,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I was in a mood.\" It sounds light, but it tells the truth.",
-            "zh": "另一句很好用的是「我那時就是一個情緒上來了」。它聽起來很輕，但其實很誠實。",
-            "vocab": [
-              {
-                "word": "mood",
-                "def": "情緒上來了；有點鬧情緒"
-              }
-            ]
+            "zh": "另一句很好用的是「我那時就是一個情緒上來了」。它聽起來很輕，但其實很誠實。"
           },
           {
             "speaker": "b",
@@ -960,13 +781,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say, \"I was rationalizing it.\" That is direct, natural, and a little uncomfortable, which is good.",
-            "zh": "你可以說「我那時在替它合理化」。這樣很直接、很自然，而且還帶著一點不舒服，這其實是好事。",
-            "vocab": [
-              {
-                "word": "rationalizing",
-                "def": "事後替自己找合理化理由"
-              }
-            ]
+            "zh": "你可以說「我那時在替它合理化」。這樣很直接、很自然，而且還帶著一點不舒服，這其實是好事。"
           },
           {
             "speaker": "b",
@@ -995,13 +810,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use a cooling-off period. Leave the tab open, or put the item on a list and come back tomorrow.",
-            "zh": "給自己一個冷靜期。先把分頁留著，或把東西放進清單裡，明天再回來看。",
-            "vocab": [
-              {
-                "word": "cooling-off period",
-                "def": "冷靜期"
-              }
-            ]
+            "zh": "給自己一個冷靜期。先把分頁留著，或把東西放進清單裡，明天再回來看。"
           },
           {
             "speaker": "b",
@@ -1025,13 +834,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then ask a second question: Do I want the object, or the mood I think it will give me?",
-            "zh": "那就再問第二個問題：我想要的真的是這個東西，還是我以為它會帶給我的那種心情？",
-            "vocab": [
-              {
-                "word": "second question",
-                "def": "情緒性消費"
-              }
-            ]
+            "zh": "那就再問第二個問題：我想要的真的是這個東西，還是我以為它會帶給我的那種心情？"
           },
           {
             "speaker": "b",
@@ -1118,9 +921,9 @@ export const WEEK_08: Episode[] = [
         "example": "The expensive option worked as an anchor price, so the second option suddenly felt fair."
       },
       {
-        "en": "scarcity effect",
-        "zh": "稀缺效果",
-        "example": "The scarcity effect made the sale feel urgent, even though he had not wanted the item an hour earlier."
+        "en": "limited-time pressure",
+        "zh": "限時或限量資訊帶來的急迫感",
+        "example": "Limited-time pressure made the sale feel urgent, even though he had not wanted the item an hour earlier."
       },
       {
         "en": "free shipping threshold",
@@ -1177,13 +980,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people feel that way. They think asking for a lower price is rude by default.",
-            "zh": "很多人都有這種感覺。他們會先預設，問能不能算便宜一點就是沒有禮貌。",
-            "vocab": [
-              {
-                "word": "lower price",
-                "def": "詢問是否能便宜一點"
-              }
-            ]
+            "zh": "很多人都有這種感覺。他們會先預設，問能不能算便宜一點就是沒有禮貌。"
           },
           {
             "speaker": "b",
@@ -1195,13 +992,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not if you ask clearly and respectfully. Tone matters more than the request itself.",
-            "zh": "如果你問得清楚、態度也尊重，那就不算。語氣往往比請求內容本身更重要。",
-            "vocab": [
-              {
-                "word": "respectfully",
-                "def": "帶著尊重地；有禮貌地"
-              }
-            ]
+            "zh": "如果你問得清楚、態度也尊重，那就不算。語氣往往比請求內容本身更重要。"
           },
           {
             "speaker": "b",
@@ -1242,13 +1033,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A counteroffer sounds much calmer when it is based on something concrete.",
-            "zh": "沒錯。當你的回價是建立在具體理由上時，整個人聽起來就會冷靜很多。",
-            "vocab": [
-              {
-                "word": "counteroffer",
-                "def": "回價；回應對方價格提出的新條件"
-              }
-            ]
+            "zh": "沒錯。當你的回價是建立在具體理由上時，整個人聽起來就會冷靜很多。"
           },
           {
             "speaker": "b",
@@ -1260,13 +1045,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens when you have no internal anchor. If you know your final price, your voice usually gets steadier.",
-            "zh": "那通常是因為你心裡沒有一個穩定的錨點。如果你知道自己的最後價格在哪裡，聲音就會穩很多。",
-            "vocab": [
-              {
-                "word": "final price",
-                "def": "心中可接受的最後價格"
-              }
-            ]
+            "zh": "那通常是因為你心裡沒有一個穩定的錨點。如果你知道自己的最後價格在哪裡，聲音就會穩很多。"
           },
           {
             "speaker": "b",
@@ -1295,13 +1074,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way to say it is, \"Would you be open to a lower price?\" That sounds softer than, \"This is too expensive.\"",
-            "zh": "你可以試試看「你願意接受再低一點的價格嗎？」這會比直接說「這太貴了」柔和很多。",
-            "vocab": [
-              {
-                "word": "be open to",
-                "def": "願意考慮；願意接受"
-              }
-            ]
+            "zh": "你可以試試看「你願意接受再低一點的價格嗎？」這會比直接說「這太貴了」柔和很多。"
           },
           {
             "speaker": "b",
@@ -1313,13 +1086,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple version is, \"I saw similar ones listed for less,\" if you really did compare options first.",
-            "zh": "如果你事前真的有比過，也可以說「我看到類似的商品有更低的價格」。",
-            "vocab": [
-              {
-                "word": "compare options",
-                "def": "比較不同選項"
-              }
-            ]
+            "zh": "如果你事前真的有比過，也可以說「我看到類似的商品有更低的價格」。"
           },
           {
             "speaker": "b",
@@ -1331,13 +1098,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"If I take both, could you do a bundle discount?\" That is a very natural phrase.",
-            "zh": "那你可以說：「如果我兩樣一起拿，可以算我組合價嗎？」這是一個很自然的說法。",
-            "vocab": [
-              {
-                "word": "bundle discount",
-                "def": "組合折扣"
-              }
-            ]
+            "zh": "那你可以說：「如果我兩樣一起拿，可以算我組合價嗎？」這是一個很自然的說法。"
           },
           {
             "speaker": "b",
@@ -1366,13 +1127,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where walking away becomes important. Not as punishment, just as information.",
-            "zh": "那時候，「離開」這件事就很重要。不是為了懲罰對方，而是為了讓資訊變得清楚。",
-            "vocab": [
-              {
-                "word": "walking away becomes",
-                "def": "談不成就離開；不勉強成交"
-              }
-            ]
+            "zh": "那時候，「離開」這件事就很重要。不是為了懲罰對方，而是為了讓資訊變得清楚。"
           },
           {
             "speaker": "b",
@@ -1383,8 +1138,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And sometimes the other person changes their mind once they realize you were serious.",
-            "zh": "沒錯。有時候對方看到你是真的願意離開，也會重新思考自己的價格。"
+            "en": "Yes — and sometimes the other person changes their mind once they realize you were serious.",
+            "zh": "對——有時候對方看到你是真的願意離開，也會重新思考自己的價格。"
           },
           {
             "speaker": "b",
@@ -1396,13 +1151,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. If everything feels non-negotiable to you, you end up paying for your own discomfort.",
-            "zh": "對。如果在你心裡每樣東西都變成了「非買不可」，那你最後付的其實是自己的不自在。",
-            "vocab": [
-              {
-                "word": "non-negotiable",
-                "def": "沒有討價還價空間的；非做不可的"
-              }
-            ]
+            "zh": "對。如果在你心裡每樣東西都變成了「非買不可」，那你最後付的其實是自己的不自在。"
           },
           {
             "speaker": "b",
@@ -1454,14 +1203,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Confidence in money conversations often looks like steadiness, not dominance.",
-            "zh": "沒錯。金錢對話裡的自信，很多時候看起來比較像穩定，而不是壓過別人。",
-            "vocab": [
-              {
-                "word": "steadiness",
-                "def": "穩定感；沉著"
-              }
-            ]
+            "en": "Precisely. Confidence in money conversations often looks like steadiness, not dominance.",
+            "zh": "正是。金錢對話裡的自信，很多時候看起來比較像穩定，而不是壓過別人。"
           },
           {
             "speaker": "b",
@@ -1542,13 +1285,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because a financial goal has to become visible before it becomes useful.",
-            "zh": "那是因為，一個財務目標必須先變得看得見，之後才會變得有用。",
-            "vocab": [
-              {
-                "word": "financial goal",
-                "def": "財務目標"
-              }
-            ]
+            "zh": "那是因為，一個財務目標必須先變得看得見，之後才會變得有用。"
           },
           {
             "speaker": "b",
@@ -1572,13 +1309,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A short-term goal and a long-term goal ask different things from you.",
-            "zh": "沒錯。短期目標和長期目標，對你的要求本來就不一樣。",
-            "vocab": [
-              {
-                "word": "short-term goal",
-                "def": "短期目標"
-              }
-            ]
+            "zh": "沒錯。短期目標和長期目標，對你的要求本來就不一樣。"
           },
           {
             "speaker": "b",
@@ -1631,13 +1362,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A realistic timeline protects the goal from your own fantasy version of yourself.",
-            "zh": "沒錯。現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。",
-            "vocab": [
-              {
-                "word": "realistic timeline",
-                "def": "實際可行的時間表"
-              }
-            ]
+            "zh": "沒錯。現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
           },
           {
             "speaker": "b",
@@ -1666,13 +1391,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"I am putting aside three thousand dollars a month\" already sounds much more real than \"I want to be financially secure.\"",
-            "zh": "像是「我每個月會先存三千元」這種句子，聽起來就比「我想要財務穩定」真實多了。",
-            "vocab": [
-              {
-                "word": "aside three thousand",
-                "def": "先留存；預先存下"
-              }
-            ]
+            "zh": "像是「我每個月會先存三千元」這種句子，聽起來就比「我想要財務穩定」真實多了。"
           },
           {
             "speaker": "b",
@@ -1684,19 +1403,13 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"I have a monthly contribution to my emergency fund,\" or \"I am building a travel fund for a trip later on.\"",
-            "zh": "沒錯。你也可以說「我每個月固定投入一筆錢到緊急預備金」，或「我正在為之後的一趟旅行慢慢存一筆專用基金」。",
-            "vocab": [
-              {
-                "word": "monthly contribution",
-                "def": "每月固定投入的金額"
-              }
-            ]
+            "zh": "沒錯。你也可以說「我每個月固定投入一筆錢到緊急預備金」，或「我正在為之後的一趟旅行慢慢存一筆專用基金」。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much steadier than a huge emotional promise.",
-            "zh": "這聽起來真的比一個很情緒化的大承諾穩很多。"
+            "en": "That's a much more grounded approach than making a huge emotional promise.",
+            "zh": "這比立一個很情緒化的大承諾踏實多了。"
           },
           {
             "speaker": "a",
@@ -1714,18 +1427,12 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because vague fear helps nobody. A retirement account is easier to face once it becomes one line in a monthly system.",
-            "zh": "對，因為模糊的恐懼對誰都沒有幫助。退休帳戶這件事，一旦它變成每月系統中的一行，就會比較容易面對。",
-            "vocab": [
-              {
-                "word": "retirement account",
-                "def": "退休帳戶；退休投資帳戶"
-              }
-            ]
+            "zh": "對，因為模糊的恐懼對誰都沒有幫助。退休帳戶這件事，一旦它變成每月系統中的一行，就會比較容易面對。"
           }
         ]
       },
       {
-        "title": "Part 4 — Small Contributions, Long Horizons",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -1761,13 +1468,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Compound interest is what happens when patience finally gets visible.",
-            "zh": "沒錯。複利，某種程度上就是耐心終於變得看得見的樣子。",
-            "vocab": [
-              {
-                "word": "compound interest",
-                "def": "複利"
-              }
-            ]
+            "zh": "沒錯。複利，某種程度上就是耐心終於變得看得見的樣子。"
           },
           {
             "speaker": "b",
@@ -1780,12 +1481,7 @@ export const WEEK_08: Episode[] = [
             "speakerName": "Mira",
             "en": "Because it is not really about ads. It is about learning to stay in a relationship with the future.",
             "zh": "因為它本來就不只是廣告話術。它真正關於的，是學著和未來保持一段關係。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Future You Is Built a Little at a Time",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1832,13 +1528,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Financial adulthood is mostly a series of quiet decisions that future you will one day thank you for.",
-            "zh": "很好。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。",
-            "vocab": [
-              {
-                "word": "Financial adulthood",
-                "def": "未來的自己"
-              }
-            ]
+            "zh": "很好。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
           }
         ]
       }
@@ -1907,13 +1597,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That makes sense. Money etiquette is rarely about money alone. It is about generosity, status, care, and expectation all at once.",
-            "zh": "這很合理。所謂金錢禮儀，很少真的只是錢的問題。它通常同時牽涉到大方、地位、關心，還有彼此的期待。",
-            "vocab": [
-              {
-                "word": "money etiquette",
-                "def": "金錢禮儀；牽涉金錢時的社交分寸"
-              }
-            ]
+            "zh": "這很合理。所謂金錢禮儀，很少真的只是錢的問題。它通常同時牽涉到大方、地位、關心，還有彼此的期待。"
           },
           {
             "speaker": "b",
@@ -1937,13 +1621,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That uncertainty is normal. The rules change across families, friendships, and cultures.",
-            "zh": "那種不確定感很正常。因為規則本來就會隨著家庭、朋友關係，還有文化而改變。",
-            "vocab": [
-              {
-                "word": "across families",
-                "def": "社交上的期待"
-              }
-            ]
+            "zh": "那種不確定感很正常。因為規則本來就會隨著家庭、朋友關係，還有文化而改變。"
           },
           {
             "speaker": "b",
@@ -1972,13 +1650,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If the relationship feels equal and routine, splitting the bill is usually simple and clean.",
-            "zh": "如果這段關係本來就比較平等、而且是日常性質，分帳通常會是最簡單也最乾淨的做法。",
-            "vocab": [
-              {
-                "word": "splitting the bill",
-                "def": "分帳；各付各的"
-              }
-            ]
+            "zh": "如果這段關係本來就比較平等、而且是日常性質，分帳通常會是最簡單也最乾淨的做法。"
           },
           {
             "speaker": "b",
@@ -1990,13 +1662,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. To treat someone can mean affection, gratitude, celebration, or seniority, depending on the context.",
-            "zh": "對。請客可能代表的是疼愛、感謝、慶祝，或在某些情境裡也可能是資歷上的位置。",
-            "vocab": [
-              {
-                "word": "treat someone",
-                "def": "請客；替對方付錢"
-              }
-            ]
+            "zh": "對。請客可能代表的是疼愛、感謝、慶祝，或在某些情境裡也可能是資歷上的位置。"
           },
           {
             "speaker": "b",
@@ -2037,13 +1703,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Do you want to split it?\" is simple, polite, and hard to misunderstand.",
-            "zh": "「我們要分開付嗎？」這句很簡單、有禮貌，而且幾乎不會被誤會。",
-            "vocab": [
-              {
-                "word": "polite",
-                "def": "把費用分開付"
-              }
-            ]
+            "zh": "「我們要分開付嗎？」這句很簡單、有禮貌，而且幾乎不會被誤會。"
           },
           {
             "speaker": "b",
@@ -2055,13 +1715,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then \"chip in\" is perfect. You can say, \"We all chipped in for the gift.\"",
-            "zh": "那「大家一起湊」這個說法就很好用。你可以說：「那份禮物是大家一起湊錢買的。」",
-            "vocab": [
-              {
-                "word": "chip in",
-                "def": "一起出錢；分攤"
-              }
-            ]
+            "zh": "那「大家一起湊」這個說法就很好用。你可以說：「那份禮物是大家一起湊錢買的。」"
           },
           {
             "speaker": "b",
@@ -2073,13 +1727,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then say exactly that: \"I am not sure what is customary here. Do people usually tip?\" Asking is better than pretending you know.",
-            "zh": "那你就直接這樣問：「我不太確定這裡通常怎麼做。大家一般會給小費嗎？」直接問，通常比假裝自己懂更好。",
-            "vocab": [
-              {
-                "word": "customary",
-                "def": "慣常的；按習俗來看的"
-              }
-            ]
+            "zh": "那你就直接這樣問：「我不太確定這裡通常怎麼做。大家一般會給小費嗎？」直接問，通常比假裝自己懂更好。"
           },
           {
             "speaker": "b",
@@ -2096,7 +1744,7 @@ export const WEEK_08: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Gifts, Favors, and Returning the Kindness",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2120,13 +1768,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Sometimes a very expensive gift creates pressure to return the favor, even if nobody says that out loud.",
-            "zh": "對。有時候一份很貴的禮物，會默默製造一種「我也該回禮」的壓力，就算沒有人把它講出來。",
-            "vocab": [
-              {
-                "word": "return the favor",
-                "def": "回人情；回禮"
-              }
-            ]
+            "zh": "對。有時候一份很貴的禮物，會默默製造一種「我也該回禮」的壓力，就算沒有人把它講出來。"
           },
           {
             "speaker": "b",
@@ -2137,14 +1779,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A cash gift can be deeply thoughtful if the situation calls for practicality.",
-            "zh": "沒錯。如果情況真的需要實用性，現金禮其實可以非常貼心。",
-            "vocab": [
-              {
-                "word": "cash gift",
-                "def": "現金禮；包現金的禮物"
-              }
-            ]
+            "en": "Right. A cash gift can be deeply thoughtful if the situation calls for practicality.",
+            "zh": "對。如果情況真的需要實用性，現金禮其實可以非常貼心。"
           },
           {
             "speaker": "b",
@@ -2157,12 +1793,7 @@ export const WEEK_08: Episode[] = [
             "speakerName": "Mira",
             "en": "That is a perfect way to put it.",
             "zh": "這個說法非常準。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Best Etiquette Leaves Dignity Intact",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2184,8 +1815,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The cleanest money decisions are often the ones that leave nobody embarrassed afterward.",
-            "zh": "沒錯。最漂亮的金錢決定，很多時候就是那種讓誰都不會在事後感到難堪的決定。"
+            "en": "Precisely. The cleanest money decisions are often the ones that leave nobody embarrassed afterward.",
+            "zh": "正是。最漂亮的金錢決定，很多時候就是那種讓誰都不會在事後感到難堪的決定。"
           },
           {
             "speaker": "b",
@@ -2197,13 +1828,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. It is about learning how to be clear, generous, and appropriate at the same time.",
-            "zh": "不是。真正的重點是學會怎麼同時做到清楚、大方，還有合宜。",
-            "vocab": [
-              {
-                "word": "appropriate",
-                "def": "合宜的；得體的"
-              }
-            ]
+            "zh": "不是。真正的重點是學會怎麼同時做到清楚、大方，還有合宜。"
           },
           {
             "speaker": "b",
@@ -2284,13 +1909,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is one of the biggest changes in a cashless system. Friction disappears, and awareness often disappears with it.",
-            "zh": "這就是無現金系統裡最大的變化之一。摩擦感消失了，而覺察感往往也跟著一起消失。",
-            "vocab": [
-              {
-                "word": "cashless system",
-                "def": "無現金支付系統"
-              }
-            ]
+            "zh": "這就是無現金系統裡最大的變化之一。摩擦感消失了，而覺察感往往也跟著一起消失。"
           },
           {
             "speaker": "b",
@@ -2314,13 +1933,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A digital wallet saves time, but it can also hide the emotional cost of convenience.",
-            "zh": "沒錯。數位錢包確實省時間，但它也可能把方便背後的代價藏得很好。",
-            "vocab": [
-              {
-                "word": "digital wallet",
-                "def": "數位錢包"
-              }
-            ]
+            "zh": "沒錯。數位錢包確實省時間，但它也可能把方便背後的代價藏得很好。"
           },
           {
             "speaker": "b",
@@ -2373,13 +1986,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the subscription trap. The first decision feels small, but the long tail is expensive.",
-            "zh": "那就是訂閱陷阱。第一個決定看起來很小，但後面的長尾成本很可觀。",
-            "vocab": [
-              {
-                "word": "subscription trap",
-                "def": "訂閱陷阱"
-              }
-            ]
+            "zh": "那就是訂閱陷阱。第一個決定看起來很小，但後面的長尾成本很可觀。"
           },
           {
             "speaker": "b",
@@ -2408,13 +2015,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Tap to pay\" is common and natural. So is \"There is a transaction fee\" or \"It renewed automatically.\"",
-            "zh": "像「感應付款」就很常見也很自然。還有「會收手續費」或「它自動續訂了」也都很常用。",
-            "vocab": [
-              {
-                "word": "tap to pay",
-                "def": "感應付款"
-              }
-            ]
+            "zh": "像「感應付款」就很常見也很自然。還有「會收手續費」或「它自動續訂了」也都很常用。"
           },
           {
             "speaker": "b",
@@ -2438,13 +2039,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then phrases like \"transaction fee,\" \"automatic renewal,\" and \"privacy concern\" are useful because they name the hidden part.",
-            "zh": "那像「交易手續費」、「自動續訂」，還有「隱私上的顧慮」這些說法就很有用，因為它們會把隱藏的部分點出來。",
-            "vocab": [
-              {
-                "word": "privacy concern",
-                "def": "對隱私的顧慮"
-              }
-            ]
+            "zh": "那像「交易手續費」、「自動續訂」，還有「隱私上的顧慮」這些說法就很有用，因為它們會把隱藏的部分點出來。"
           },
           {
             "speaker": "b",
@@ -2485,13 +2080,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A budgeting app can help too, but only if it shows you patterns instead of just producing pretty charts.",
-            "zh": "沒錯。預算管理 app 也會有幫助，但前提是它真的能讓你看到模式，而不只是產生漂亮的圖表。",
-            "vocab": [
-              {
-                "word": "budgeting app",
-                "def": "預算管理應用程式"
-              }
-            ]
+            "zh": "沒錯。預算管理 app 也會有幫助，但前提是它真的能讓你看到模式，而不只是產生漂亮的圖表。"
           },
           {
             "speaker": "b",
@@ -2515,13 +2104,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Anything that keeps charging you after your attention has left deserves a regular review.",
-            "zh": "很好。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。",
-            "vocab": [
-              {
-                "word": "regular review",
-                "def": "自動續訂"
-              }
-            ]
+            "zh": "很好。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
           }
         ]
       },
@@ -2543,8 +2126,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the whole issue in one sentence.",
-            "zh": "這句話好像就把整個問題都說完了。"
+            "en": "That captures the whole issue in one sentence.",
+            "zh": "這句話真的就把整個問題說完了。"
           },
           {
             "speaker": "a",
@@ -2561,14 +2144,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better tools are good, but better awareness still matters more.",
-            "zh": "沒錯。更好的工具當然很好，但更好的覺察依然更重要。",
-            "vocab": [
-              {
-                "word": "awareness",
-                "def": "覺察；注意到自己在做什麼"
-              }
-            ]
+            "en": "You've got it. Better tools are good, but better awareness still matters more.",
+            "zh": "就是這樣。更好的工具當然很好，但更好的覺察依然更重要。"
           },
           {
             "speaker": "b",
@@ -2579,7 +2156,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a healthy way to hold it.",
+            "en": "That's a healthy way to hold it.",
             "zh": "這是一種很健康的理解方式。"
           }
         ]

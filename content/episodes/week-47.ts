@@ -22,13 +22,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful starting point is this: culture is the set of things that feel normal until you meet someone whose normal is different.",
-            "zh": "一個很好用的起點是：文化，就是那些你一直覺得很正常，直到你遇見一個把別的東西當正常的人。",
-            "vocab": [
-              {
-                "word": "meet someone",
-                "def": "自己長期視為理所當然的做法與感受"
-              }
-            ]
+            "zh": "一個很好用的起點是：文化，就是那些你一直覺得很正常，直到你遇見一個把別的東西當正常的人。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It lives in assumptions about time, politeness, family, work, food, space, and even what counts as respect.",
-            "zh": "沒錯。它活在你對時間、禮貌、家庭、工作、食物、空間，甚至「什麼算尊重」的預設裡。",
-            "vocab": [
-              {
-                "word": "lives in assumptions",
-                "def": "特別注意的預設"
-              }
-            ]
+            "zh": "沒錯。它活在你對時間、禮貌、家庭、工作、食物、空間，甚至「什麼算尊重」的預設裡。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should, because culture is not floating above life. It is built into how life is organized and interpreted.",
-            "zh": "本來就該更具體，因為文化不是飄在生活上面；它是蓋進生活如何被安排、如何被理解裡的。",
-            "vocab": [
-              {
-                "word": "culture",
-                "def": "不是理論，而是實際活在日常裡的文化"
-              }
-            ]
+            "zh": "本來就該更具體，因為文化不是飄在生活上面；它是蓋進生活如何被安排、如何被理解裡的。"
           },
           {
             "speaker": "b",
@@ -76,13 +58,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Words explain values, but habits often reveal them more honestly.",
-            "zh": "對。語言會解釋價值，可是習慣通常更誠實地把它們露出來。",
-            "vocab": [
-              {
-                "word": "habits often reveal",
-                "def": "從日常習慣看見文化價值怎麼真的運作"
-              }
-            ]
+            "zh": "對。語言會解釋價值，可是習慣通常更誠實地把它們露出來。"
           }
         ]
       },
@@ -99,13 +75,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They treat it like a museum object instead of a living system. Real culture changes, mixes, and argues with itself all the time.",
-            "zh": "他們會把文化當成博物館裡的物件，而不是一個活著的系統。真實的文化會改變、會混合，也會一直和自己爭論。",
-            "vocab": [
-              {
-                "word": "living system",
-                "def": "會改變、流動、彼此影響的活文化"
-              }
-            ]
+            "zh": "他們會把文化當成博物館裡的物件，而不是一個活著的系統。真實的文化會改變、會混合，也會一直和自己爭論。"
           },
           {
             "speaker": "b",
@@ -117,13 +87,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Another mistake is assuming one person can represent a whole culture perfectly. People always carry both culture and personality.",
-            "zh": "完全不是。另一個常見錯誤，是以為一個人能完美代表整個文化。每個人身上都同時帶著文化和個性。",
-            "vocab": [
-              {
-                "word": "mistake",
-                "def": "把一個人或一個例子當成整個文化的全部"
-              }
-            ]
+            "zh": "完全不是。另一個常見錯誤，是以為一個人能完美代表整個文化。每個人身上都同時帶著文化和個性。"
           },
           {
             "speaker": "b",
@@ -135,13 +99,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it matters because stereotypes often begin where curiosity stops too early.",
-            "zh": "而這件事很重要，因為 stereotype 往往就是在好奇心太早停下來的地方開始的。",
-            "vocab": [
-              {
-                "word": "stops too early",
-                "def": "太快下結論，不再繼續看更深的差異"
-              }
-            ]
+            "zh": "而這件事很重要，因為 stereotype 往往就是在好奇心太早停下來的地方開始的。"
           },
           {
             "speaker": "b",
@@ -153,13 +111,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good cross-cultural understanding is built from questions strong enough to outlast your first impression.",
-            "zh": "沒錯。好的跨文化理解，來自那些強到足以撐過第一印象的問題。",
-            "vocab": [
-              {
-                "word": "first impression",
-                "def": "第一印象"
-              }
-            ]
+            "zh": "沒錯。好的跨文化理解，來自那些強到足以撐過第一印象的問題。"
           }
         ]
       },
@@ -176,13 +128,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I did not notice that this was cultural until I saw someone handle it differently.\" That sounds reflective and natural.",
-            "zh": "你可以試試：「I did not notice that this was cultural until I saw someone handle it differently.」這句既自然，又有反思。",
-            "vocab": [
-              {
-                "word": "notice",
-                "def": "從差異中看見原本沒注意到的文化層"
-              }
-            ]
+            "zh": "你可以試試：「I did not notice that this was cultural until I saw someone handle it differently.」這句既自然，又有反思。"
           },
           {
             "speaker": "b",
@@ -194,13 +140,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another helpful one is: \"What feels polite in one context can feel distant in another.\" It is simple, but it carries a lot.",
-            "zh": "另一句也很好，就是「在一個情境裡算禮貌的事，換到另一個情境裡可能會顯得有距離。」這句很簡單，但很有層次。",
-            "vocab": [
-              {
-                "word": "context",
-                "def": "情境；脈絡"
-              }
-            ]
+            "zh": "另一句也很好，就是「在一個情境裡算禮貌的事，換到另一個情境裡可能會顯得有距離。」這句很簡單，但很有層次。"
           },
           {
             "speaker": "b",
@@ -212,13 +152,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something broader, say: \"Culture shapes what people expect before anyone says a word.\" That works in many conversations.",
-            "zh": "如果你想講得更廣一點，也可以說：「Culture shapes what people expect before anyone says a word.」這句適用面很大。",
-            "vocab": [
-              {
-                "word": "expect before",
-                "def": "還沒開口前，就已經存在的文化期待"
-              }
-            ]
+            "zh": "如果你想講得更廣一點，也可以說：「Culture shapes what people expect before anyone says a word.」這句適用面很大。"
           },
           {
             "speaker": "b",
@@ -235,7 +169,7 @@ export const WEEK_47: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Familiar Cross-Cultural Moment",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -259,13 +193,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. But if they do not recognize the cultural layer, each person may read the other as careless or controlling.",
-            "zh": "沒錯。可是如果他們沒看見文化層，彼此就很可能把對方讀成隨便，或太控制。",
-            "vocab": [
-              {
-                "word": "careless",
-                "def": "粗心的；大意的"
-              }
-            ]
+            "zh": "沒錯。可是如果他們沒看見文化層，彼此就很可能把對方讀成隨便，或太控制。"
           },
           {
             "speaker": "b",
@@ -277,13 +205,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point. Cross-cultural skill often means pausing long enough to ask, \"What meaning might this behavior carry for them?\"",
-            "zh": "這就是重點。跨文化能力，很多時候就是多停一下，去問：「這個行為對他來說，可能帶著什麼意思？」",
-            "vocab": [
-              {
-                "word": "means pausing",
-                "def": "跨文化能力"
-              }
-            ]
+            "zh": "這就是重點。跨文化能力，很多時候就是多停一下，去問：「這個行為對他來說，可能帶著什麼意思？」"
           },
           {
             "speaker": "b",
@@ -296,12 +218,7 @@ export const WEEK_47: Episode[] = [
             "speakerName": "Mira",
             "en": "It really can, especially in ordinary interactions that repeat every week.",
             "zh": "真的可以，尤其是在那些每週都會重複的小互動裡。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Curiosity as a Cultural Skill",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -417,13 +334,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes yes, but they still overlap a lot. A workplace carries its own norms, and people bring cultural habits into those norms.",
-            "zh": "有時候會分開一點，但兩者仍然大量重疊。職場有自己的規則，而人也會把文化習慣帶進那些規則裡。",
-            "vocab": [
-              {
-                "word": "those norms",
-                "def": "職場規則和文化習慣彼此交疊的狀態"
-              }
-            ]
+            "zh": "有時候會分開一點，但兩者仍然大量重疊。職場有自己的規則，而人也會把文化習慣帶進那些規則裡。"
           },
           {
             "speaker": "b",
@@ -435,13 +346,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
-            "zh": "沒錯。直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。",
-            "vocab": [
-              {
-                "word": "Directness",
-                "def": "直接、沉默、階層、不同意、速度"
-              }
-            ]
+            "zh": "沒錯。直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
           },
           {
             "speaker": "b",
@@ -453,13 +358,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and the risk is that people judge character when they are really encountering a different operating system.",
-            "zh": "對。而最大的風險，是人以為自己在判斷人格，其實只是在撞到不同的作業系統。",
-            "vocab": [
-              {
-                "word": "different operating system",
-                "def": "對方不是怪，而是背後運作邏輯不同"
-              }
-            ]
+            "zh": "對。而最大的風險，是人以為自己在判斷人格，其實只是在撞到不同的作業系統。"
           },
           {
             "speaker": "b",
@@ -488,13 +387,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Feedback is a big one. In some places, direct critique shows respect for efficiency. In others, the same sentence may feel harsh or humiliating.",
-            "zh": "feedback 是很大的來源。在有些地方，直接批評代表尊重效率；但在另外一些地方，同一句話可能會顯得很刺，甚至讓人覺得被羞辱。",
-            "vocab": [
-              {
-                "word": "Feedback",
-                "def": "一個文化裡習慣怎麼給意見的方式"
-              }
-            ]
+            "zh": "feedback 是很大的來源。在有些地方，直接批評代表尊重效率；但在另外一些地方，同一句話可能會顯得很刺，甚至讓人覺得被羞辱。"
           },
           {
             "speaker": "b",
@@ -506,13 +399,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
-            "zh": "沒錯。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。",
-            "vocab": [
-              {
-                "word": "hierarchy",
-                "def": "對上下關係和分寸的文化敏感度"
-              }
-            ]
+            "zh": "沒錯。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。"
           },
           {
             "speaker": "b",
@@ -524,13 +411,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. And if nobody names those patterns, people start telling themselves moral stories about who is respectful, brave, passive, or difficult.",
-            "zh": "確實會。而如果沒有人把這些模式說出來，大家就會開始在心裡編道德故事，判斷誰尊重人、誰勇敢、誰被動、誰很難合作。",
-            "vocab": [
-              {
-                "word": "themselves moral stories",
-                "def": "把文化差異誤解成對方人格好壞的故事"
-              }
-            ]
+            "zh": "確實會。而如果沒有人把這些模式說出來，大家就會開始在心裡編道德故事，判斷誰尊重人、誰勇敢、誰被動、誰很難合作。"
           },
           {
             "speaker": "b",
@@ -559,13 +440,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very useful line is: \"I think we may be using different communication defaults here.\" It sounds thoughtful instead of accusatory.",
-            "zh": "一句很好用的是：「I think we may be using different communication defaults here.」這句會顯得有思考，而不是在指責。",
-            "vocab": [
-              {
-                "word": "communication default",
-                "def": "一個人習慣自動採用的溝通模式"
-              }
-            ]
+            "zh": "一句很好用的是：「I think we may be using different communication defaults here.」這句會顯得有思考，而不是在指責。"
           },
           {
             "speaker": "b",
@@ -577,13 +452,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Can you tell me how this kind of feedback is usually handled on your side?\" That turns difference into inquiry.",
-            "zh": "另一句也很好：「Can you tell me how this kind of feedback is usually handled on your side?」這會把差異變成詢問。",
-            "vocab": [
-              {
-                "word": "difference into inquiry",
-                "def": "把差異變成值得問的事，而不是先下判斷"
-              }
-            ]
+            "zh": "另一句也很好：「Can you tell me how this kind of feedback is usually handled on your side?」這會把差異變成詢問。"
           },
           {
             "speaker": "b",
@@ -595,13 +464,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you need to explain your own style, try: \"I am being direct because I want clarity, not because I am upset.\" That can reduce unnecessary alarm.",
-            "zh": "如果你需要解釋自己的風格，可以試：「I am being direct because I want clarity, not because I am upset.」這句能減少很多不必要的緊張。",
-            "vocab": [
-              {
-                "word": "explain",
-                "def": "主動說明自己的溝通風格，避免被誤解"
-              }
-            ]
+            "zh": "如果你需要解釋自己的風格，可以試：「I am being direct because I want clarity, not because I am upset.」這句能減少很多不必要的緊張。"
           },
           {
             "speaker": "b",
@@ -642,13 +505,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A more culturally skilled leader would not force one style. They might say, \"If you prefer to think first, please send comments by this afternoon as well.\"",
-            "zh": "沒錯。更有跨文化敏感度的領導者，不會只強迫一種表達方式。他可能會說：「If you prefer to think first, please send comments by this afternoon as well.」",
-            "vocab": [
-              {
-                "word": "culturally skilled",
-                "def": "只強迫一種表達方式"
-              }
-            ]
+            "zh": "沒錯。更有跨文化敏感度的領導者，不會只強迫一種表達方式。他可能會說：「If you prefer to think first, please send comments by this afternoon as well.」"
           },
           {
             "speaker": "b",
@@ -660,13 +517,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The fairest system is not always the one that treats everyone identically. It is the one that lets more people contribute meaningfully.",
-            "zh": "對。最公平的系統，不一定是每個人都被完全同樣對待；而是讓更多人能真的貢獻。",
-            "vocab": [
-              {
-                "word": "contribute meaningfully",
-                "def": "更多人能真的貢獻"
-              }
-            ]
+            "zh": "對。最公平的系統，不一定是每個人都被完全同樣對待；而是讓更多人能真的貢獻。"
           },
           {
             "speaker": "b",
@@ -800,13 +651,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because food is intimate, repeated, and sensory. It lets people encounter culture through taste, routine, memory, and family stories all at once.",
-            "zh": "因為食物既親密、又重複，而且帶著感官。它讓人同時透過味道、習慣、記憶和家庭故事去碰到文化。",
-            "vocab": [
-              {
-                "word": "sensory",
-                "def": "透過味道、氣味和身體感覺留下的記憶"
-              }
-            ]
+            "zh": "因為食物既親密、又重複，而且帶著感官。它讓人同時透過味道、習慣、記憶和家庭故事去碰到文化。"
           },
           {
             "speaker": "b",
@@ -818,13 +663,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Food often carries migration, class, celebration, care, religion, and identity without announcing all of that directly.",
-            "zh": "沒錯。食物常常默默背著移動史、階級、慶祝、照顧、宗教和身份認同，但它不會直接把這些全部講出來。",
-            "vocab": [
-              {
-                "word": "celebration",
-                "def": "直接把這些全部講出來"
-              }
-            ]
+            "zh": "沒錯。食物常常默默背著移動史、階級、慶祝、照顧、宗教和身份認同，但它不會直接把這些全部講出來。"
           },
           {
             "speaker": "b",
@@ -836,13 +675,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. A meal can become a map of what a family values, remembers, and wants to keep alive.",
-            "zh": "真的會。一頓飯可以變成一張地圖，畫出一個家庭在乎什麼、記得什麼、又想把什麼繼續留住。",
-            "vocab": [
-              {
-                "word": "become a map",
-                "def": "一頓飯可以變成一張地圖"
-              }
-            ]
+            "zh": "真的會。一頓飯可以變成一張地圖，畫出一個家庭在乎什麼、記得什麼、又想把什麼繼續留住。"
           },
           {
             "speaker": "b",
@@ -871,13 +704,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot. Food can reveal comfort, scarcity, status, nostalgia, discipline, hospitality, and what \"home\" means to someone.",
-            "zh": "很多。食物會揭露一個人的舒適感、匱乏經驗、地位感、懷舊、紀律、待客方式，甚至他心中的「家」是什麼。",
-            "vocab": [
-              {
-                "word": "Food can reveal",
-                "def": "和食物連在一起的懷舊與情感記憶"
-              }
-            ]
+            "zh": "很多。食物會揭露一個人的舒適感、匱乏經驗、地位感、懷舊、紀律、待客方式，甚至他心中的「家」是什麼。"
           },
           {
             "speaker": "b",
@@ -889,13 +716,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
-            "zh": "沒錯。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。",
-            "vocab": [
-              {
-                "word": "food made",
-                "def": "透過準備或分享食物來表達照顧"
-              }
-            ]
+            "zh": "沒錯。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
           },
           {
             "speaker": "b",
@@ -907,13 +728,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is emotional. Food touches survival first, then belonging. That is why it can be so powerful in cross-cultural conversations.",
-            "zh": "它很多時候本來就很情緒。食物先碰到的是生存，接著才碰到歸屬。這也是它在跨文化對話裡那麼有力的原因。",
-            "vocab": [
-              {
-                "word": "Food touches survival",
-                "def": "透過食物產生歸屬與被接住的感覺"
-              }
-            ]
+            "zh": "它很多時候本來就很情緒。食物先碰到的是生存，接著才碰到歸屬。這也是它在跨文化對話裡那麼有力的原因。"
           },
           {
             "speaker": "b",
@@ -942,13 +757,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line is: \"This dish tastes like family to me.\" It is short, but it carries a lot of emotional meaning.",
-            "zh": "一句很好用的是：「This dish tastes like family to me.」它很短，但情感含量很高。",
-            "vocab": [
-              {
-                "word": "tastes like family",
-                "def": "某道食物讓人直接聯想到家人和家的感覺"
-              }
-            ]
+            "zh": "一句很好用的是：「This dish tastes like family to me.」它很短，但情感含量很高。"
           },
           {
             "speaker": "b",
@@ -960,13 +769,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is \"I did not understand the dish fully until I understood the story around it.\" That works when food is tied to memory or tradition.",
-            "zh": "另一句也很好：「I did not understand the dish fully until I understood the story around it.」這句很適合描述食物和記憶或傳統綁在一起的狀態。",
-            "vocab": [
-              {
-                "word": "story around",
-                "def": "一道食物周圍承載的故事與文化背景"
-              }
-            ]
+            "zh": "另一句也很好：「I did not understand the dish fully until I understood the story around it.」這句很適合描述食物和記憶或傳統綁在一起的狀態。"
           },
           {
             "speaker": "b",
@@ -978,13 +781,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something simpler, say: \"Food was the first thing that helped me feel less foreign.\" That works well in travel or migration stories.",
-            "zh": "如果你想簡單一點，可以說：「Food was the first thing that helped me feel less foreign.」這句很適合旅行或移動經驗。",
-            "vocab": [
-              {
-                "word": "feel less foreign",
-                "def": "比較不那麼像外人；比較不陌生"
-              }
-            ]
+            "zh": "如果你想簡單一點，可以說：「Food was the first thing that helped me feel less foreign.」這句很適合旅行或移動經驗。"
           },
           {
             "speaker": "b",
@@ -1001,7 +798,7 @@ export const WEEK_47: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Sharing a Meal, Sharing a World",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -1013,13 +810,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. Shared eating creates a softer context where people can become curious without feeling formally interrogated.",
-            "zh": "很多時候真的會。一起吃東西會創造一個比較柔軟的情境，讓人能夠好奇，而不會覺得自己像在被正式盤問。",
-            "vocab": [
-              {
-                "word": "softer context",
-                "def": "比較放鬆、讓人願意打開的互動情境"
-              }
-            ]
+            "zh": "很多時候真的會。一起吃東西會創造一個比較柔軟的情境，讓人能夠好奇，而不會覺得自己像在被正式盤問。"
           },
           {
             "speaker": "b",
@@ -1031,13 +822,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can. Someone may not know how to discuss culture broadly, but they can explain why their grandmother made soup that way.",
-            "zh": "確實可能。很多人不一定知道怎麼宏觀地談文化，但他能講得出為什麼他奶奶會那樣煮湯。",
-            "vocab": [
-              {
-                "word": "discuss culture",
-                "def": "從具體細節切進去，而不是先講大道理"
-              }
-            ]
+            "zh": "確實可能。很多人不一定知道怎麼宏觀地談文化，但他能講得出為什麼他奶奶會那樣煮湯。"
           },
           {
             "speaker": "b",
@@ -1049,13 +834,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Culture becomes more accessible when it is invited through lived detail.",
-            "zh": "沒錯。當文化是透過活生生的細節被邀請出來時，它會變得更容易靠近。",
-            "vocab": [
-              {
-                "word": "lived detail",
-                "def": "活在日常裡、帶著真實感的小細節"
-              }
-            ]
+            "zh": "沒錯。當文化是透過活生生的細節被邀請出來時，它會變得更容易靠近。"
           },
           {
             "speaker": "b",
@@ -1068,12 +847,7 @@ export const WEEK_47: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes, and from that doorway, bigger conversations often become possible.",
             "zh": "對。而從那扇門走進去之後，更大的對話也常常就變得可能了。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Respecting Difference at the Table",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1189,13 +963,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true. Curiosity changes travel from consumption into relationship. You stop asking only what a place can give you and start asking what it is trying to tell you.",
-            "zh": "這是真的。好奇心會把旅行從消費，慢慢轉成關係。你不再只問一個地方能給你什麼，而開始問：這個地方正在對你說什麼。",
-            "vocab": [
-              {
-                "word": "travel from consumption",
-                "def": "慢慢轉成關係"
-              }
-            ]
+            "zh": "這是真的。好奇心會把旅行從消費，慢慢轉成關係。你不再只問一個地方能給你什麼，而開始問：這個地方正在對你說什麼。"
           },
           {
             "speaker": "b",
@@ -1207,13 +975,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is different, because curiosity slows the ego down. You notice more when you stop needing every place to match your own habits.",
-            "zh": "它真的不同，因為好奇心會讓 ego 慢下來。當你不再要求每個地方都配合你的習慣時，你就會看見更多。",
-            "vocab": [
-              {
-                "word": "slows the ego",
-                "def": "不再急著用自己熟悉的標準判斷一切"
-              }
-            ]
+            "zh": "它真的不同，因為好奇心會讓 ego 慢下來。當你不再要求每個地方都配合你的習慣時，你就會看見更多。"
           },
           {
             "speaker": "b",
@@ -1225,13 +987,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It opens the possibility that confusion is not failure. It may simply be the first stage of understanding.",
-            "zh": "沒錯。它會打開一個可能性：困惑不是失敗，它可能只是理解的第一階段。",
-            "vocab": [
-              {
-                "word": "confusion",
-                "def": "雖然不熟悉，但這種困惑其實會帶向理解"
-              }
-            ]
+            "zh": "沒錯。它會打開一個可能性：困惑不是失敗，它可能只是理解的第一階段。"
           },
           {
             "speaker": "b",
@@ -1260,31 +1016,19 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One clue is whether they are leaving room to be changed. Consumption keeps your preferences at the center. Observation lets the place interrupt you.",
-            "zh": "一個線索是：他有沒有留出空間，讓自己被改變。消費會把自己的偏好放在中心；觀察則允許那個地方打斷你。",
-            "vocab": [
-              {
-                "word": "leaving room",
-                "def": "自己被改變"
-              }
-            ]
+            "zh": "一個線索是：他有沒有留出空間，讓自己被改變。消費會把自己的偏好放在中心；觀察則允許那個地方打斷你。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely sharp difference.",
-            "zh": "這個差異很銳利。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another clue is pace. If you move too fast, every place becomes a checklist and none of it becomes real.",
-            "zh": "另一個線索是節奏。如果你移動得太快，每個地方都會變成清單，而沒有任何東西真的變真。",
-            "vocab": [
-              {
-                "word": "becomes a checklist",
-                "def": "把旅行變成打卡清單，而不是經驗"
-              }
-            ]
+            "zh": "另一個線索是節奏。如果你移動得太快，每個地方都會變成清單，而沒有任何東西真的變真。"
           },
           {
             "speaker": "b",
@@ -1296,13 +1040,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. Even one repeated walk or one regular cafe can teach you more than ten rushed landmarks.",
-            "zh": "很多時候真的是這樣。就算只是同一條路重走幾次，或固定去同一家咖啡店，都可能比十個趕場景點教你更多。",
-            "vocab": [
-              {
-                "word": "one repeated",
-                "def": "透過重複接觸一個地方，慢慢長出理解"
-              }
-            ]
+            "zh": "很多時候真的是這樣。就算只是同一條路重走幾次，或固定去同一家咖啡店，都可能比十個趕場景點教你更多。"
           },
           {
             "speaker": "b",
@@ -1331,13 +1069,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is \"I was trying to understand the rhythm of the place, not only visit it.\" That sounds reflective and grounded.",
-            "zh": "一句很好用的是：「I was trying to understand the rhythm of the place, not only visit it.」這句很有反思，也很落地。",
-            "vocab": [
-              {
-                "word": "rhythm of the place",
-                "def": "一個地方自己的節奏與生活感"
-              }
-            ]
+            "zh": "一句很好用的是：「I was trying to understand the rhythm of the place, not only visit it.」這句很有反思，也很落地。"
           },
           {
             "speaker": "b",
@@ -1349,13 +1081,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"The more I noticed, the less confident I became in my first assumptions.\" That works when travel made you more humble.",
-            "zh": "另一句也很好：「The more I noticed, the less confident I became in my first assumptions.」這很適合描述旅行讓你變得更謙卑。",
-            "vocab": [
-              {
-                "word": "first assumptions",
-                "def": "剛到一個地方時很快形成的第一批判斷"
-              }
-            ]
+            "zh": "另一句也很好：「The more I noticed, the less confident I became in my first assumptions.」這很適合描述旅行讓你變得更謙卑。"
           },
           {
             "speaker": "b",
@@ -1366,14 +1092,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something simple, say: \"I learned more once I stopped trying to compare everything to home.\" That is often very true.",
-            "zh": "如果你想簡單一點，可以說：「I learned more once I stopped trying to compare everything to home.」這句常常真的很真。",
-            "vocab": [
-              {
-                "word": "compare everything",
-                "def": "一直拿自己熟悉的地方來比的習慣"
-              }
-            ]
+            "en": "When you need something simple, say: \"I learned more once I stopped trying to compare everything to home.\" That is often very true.",
+            "zh": "如果你想簡單一點，可以說：「I learned more once I stopped trying to compare everything to home.」這句常常真的很真。"
           },
           {
             "speaker": "b",
@@ -1414,13 +1134,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The curious traveler notices the reaction and then asks what that tempo might mean locally instead of declaring it wrong.",
-            "zh": "沒錯。帶著好奇旅行的人，會先注意自己的反應，再去問那個節奏在當地可能代表什麼，而不是立刻宣判它不對。",
-            "vocab": [
-              {
-                "word": "notices the reaction",
-                "def": "帶著好奇旅行的人"
-              }
-            ]
+            "zh": "沒錯。帶著好奇旅行的人，會先注意自己的反應，再去問那個節奏在當地可能代表什麼，而不是立刻宣判它不對。"
           },
           {
             "speaker": "b",
@@ -1432,13 +1146,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Travel teaches you about the world, but it also reveals what you carry into the world automatically.",
-            "zh": "非常是。旅行當然會教你世界長什麼樣，但它也會把你自己自動帶進世界裡的東西照出來。",
-            "vocab": [
-              {
-                "word": "world automatically",
-                "def": "自己很自然帶著的觀點與反應方式"
-              }
-            ]
+            "zh": "非常是。旅行當然會教你世界長什麼樣，但它也會把你自己自動帶進世界裡的東西照出來。"
           },
           {
             "speaker": "b",
@@ -1572,13 +1280,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often both, but people underestimate how often the conflict is about expression rather than value. Two cultures may both care about respect and still show it very differently.",
-            "zh": "兩種情況都有，但很多人低估了一件事：衝突很常出在表達方式，不是真的價值完全相反。兩個文化都可能很在乎尊重，卻用完全不同的方法表現。",
-            "vocab": [
-              {
-                "word": "expression rather",
-                "def": "兩種情況都有"
-              }
-            ]
+            "zh": "兩種情況都有，但很多人低估了一件事：衝突很常出在表達方式，不是真的價值完全相反。兩個文化都可能很在乎尊重，卻用完全不同的方法表現。"
           },
           {
             "speaker": "b",
@@ -1590,13 +1292,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
-            "zh": "沒錯。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。",
-            "vocab": [
-              {
-                "word": "direct",
-                "def": "引導；導向"
-              }
-            ]
+            "zh": "沒錯。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。"
           },
           {
             "speaker": "b",
@@ -1608,13 +1304,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Once you see the value underneath the style, people stop looking immediately wrong and start looking more understandable.",
-            "zh": "本來就該改變。當你看見風格下面的價值，人就不會立刻看起來像錯的，而是開始變得比較能理解。",
-            "vocab": [
-              {
-                "word": "value underneath",
-                "def": "藏在溝通或行為風格底下的真正價值"
-              }
-            ]
+            "zh": "本來就該改變。當你看見風格下面的價值，人就不會立刻看起來像錯的，而是開始變得比較能理解。"
           },
           {
             "speaker": "b",
@@ -1643,13 +1333,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and it helps to admit that honestly. Not every difference can be solved by better interpretation alone.",
-            "zh": "對，而且誠實承認這一點很重要。不是每一個差異，都能靠更好的理解就直接解決。",
-            "vocab": [
-              {
-                "word": "honestly",
-                "def": "老實說；誠實地"
-              }
-            ]
+            "zh": "對，而且誠實承認這一點很重要。不是每一個差異，都能靠更好的理解就直接解決。"
           },
           {
             "speaker": "b",
@@ -1661,13 +1345,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It is knowing when to adapt, when to negotiate, and when to draw a respectful boundary.",
-            "zh": "沒錯。它是知道什麼時候可以調整、什麼時候要談判、又什麼時候該畫出一個帶著尊重的界線。",
-            "vocab": [
-              {
-                "word": "respectful boundary",
-                "def": "即使不同意，仍然帶著尊重劃出的界線"
-              }
-            ]
+            "zh": "沒錯。它是知道什麼時候可以調整、什麼時候要談判、又什麼時候該畫出一個帶著尊重的界線。"
           },
           {
             "speaker": "b",
@@ -1679,13 +1357,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more mature because it takes both reality and dignity seriously. Some differences invite learning; others require clear limits.",
-            "zh": "它更成熟，因為它同時把現實和尊嚴看得很重。有些差異值得學習；另外一些差異則需要很清楚的界線。",
-            "vocab": [
-              {
-                "word": "differences invite learning",
-                "def": "有些差異值得學習"
-              }
-            ]
+            "zh": "它更成熟，因為它同時把現實和尊嚴看得很重。有些差異值得學習；另外一些差異則需要很清楚的界線。"
           },
           {
             "speaker": "b",
@@ -1714,13 +1386,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I think we may care about the same thing, but we are showing it through different behaviors.\" It opens the conversation well.",
-            "zh": "一句很好用的是：「I think we may care about the same thing, but we are showing it through different behaviors.」這句很適合用來打開對話。",
-            "vocab": [
-              {
-                "word": "through different behaviors",
-                "def": "用不同行為表達"
-              }
-            ]
+            "zh": "一句很好用的是：「I think we may care about the same thing, but we are showing it through different behaviors.」這句很適合用來打開對話。"
           },
           {
             "speaker": "b",
@@ -1732,13 +1398,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"What does respect look like in this context for you?\" That is a powerful question because it invites specificity.",
-            "zh": "另一句也很有力：「What does respect look like in this context for you?」這個問題很強，因為它會把事情拉回具體。",
-            "vocab": [
-              {
-                "word": "specificity",
-                "def": "具體性"
-              }
-            ]
+            "zh": "另一句也很有力：「What does respect look like in this context for you?」這個問題很強，因為它會把事情拉回具體。"
           },
           {
             "speaker": "b",
@@ -1750,13 +1410,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If there is a real conflict, you can say: \"I understand the value you are protecting, but I still need a different boundary here.\" That is honest and respectful.",
-            "zh": "如果真的有價值衝突，你也可以說：「I understand the value you are protecting, but I still need a different boundary here.」這句很誠實，也很尊重。",
-            "vocab": [
-              {
-                "word": "understand the value",
-                "def": "一個人的行為背後其實是在守護某個價值"
-              }
-            ]
+            "zh": "如果真的有價值衝突，你也可以說：「I understand the value you are protecting, but I still need a different boundary here.」這句很誠實，也很尊重。"
           },
           {
             "speaker": "b",
@@ -1773,7 +1427,7 @@ export const WEEK_47: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Value Conflict in Real Life",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1797,13 +1451,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If people miss that, they may think the other side is cold or controlling, when they are actually acting from care.",
-            "zh": "沒錯。如果看不到這一層，人就很容易覺得對方冷漠、或太控制；但對方其實可能是從 care 在出發。",
-            "vocab": [
-              {
-                "word": "acting from care",
-                "def": "一個人是透過哪種方式理解和表達照顧"
-              }
-            ]
+            "zh": "沒錯。如果看不到這一層，人就很容易覺得對方冷漠、或太控制；但對方其實可能是從 care 在出發。"
           },
           {
             "speaker": "b",
@@ -1815,13 +1463,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does, which is why value conversations matter so much. They help people move from accusation to interpretation.",
-            "zh": "真的會。所以價值對話很重要，因為它會把人從指控，帶到理解。",
-            "vocab": [
-              {
-                "word": "move from accusation to interpretation",
-                "def": "不再先怪對方"
-              }
-            ]
+            "zh": "真的會。所以價值對話很重要，因為它會把人從指控，帶到理解。"
           },
           {
             "speaker": "b",
@@ -1834,12 +1476,7 @@ export const WEEK_47: Episode[] = [
             "speakerName": "Mira",
             "en": "It is often the move that saves the relationship.",
             "zh": "它也常常就是那個能把關係救回來的轉折。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Holding Difference With More Skill",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1955,13 +1592,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the smallest part of it. Translation is really about carrying meaning, tone, context, and intention across worlds that do not line up perfectly.",
-            "zh": "那其實是最小的一部分。翻譯真正做的是：把意思、語氣、情境和意圖，搬過兩個根本不會完全對齊的世界。",
-            "vocab": [
-              {
-                "word": "carrying meaning",
-                "def": "不是搬字，而是把真正意思帶過去"
-              }
-            ]
+            "zh": "那其實是最小的一部分。翻譯真正做的是：把意思、語氣、情境和意圖，搬過兩個根本不會完全對齊的世界。"
           },
           {
             "speaker": "b",
@@ -1973,13 +1604,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A sentence can be technically correct and still culturally wrong, emotionally off, or too flat for what it needs to do.",
-            "zh": "沒錯。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。",
-            "vocab": [
-              {
-                "word": "technically correct",
-                "def": "但在文化上不對、情緒上不對"
-              }
-            ]
+            "zh": "沒錯。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。"
           },
           {
             "speaker": "b",
@@ -1991,13 +1616,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Good translation asks not only \"What was said?\" but also \"What was this sentence trying to do?\"",
-            "zh": "對。好的翻譯不只問「他說了什麼」，也會問「這句話本來想完成什麼作用？」",
-            "vocab": [
-              {
-                "word": "sentence trying",
-                "def": "一句話在情境裡真正想做的事"
-              }
-            ]
+            "zh": "對。好的翻譯不只問「他說了什麼」，也會問「這句話本來想完成什麼作用？」"
           },
           {
             "speaker": "b",
@@ -2026,13 +1645,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Tone and implied meaning. The words may arrive, but the warmth, restraint, humor, or softness may disappear on the way.",
-            "zh": "是語氣和暗示意思。字有可能到了，但溫度、克制、幽默感，或柔軟度會在路上掉掉。",
-            "vocab": [
-              {
-                "word": "implied meaning",
-                "def": "沒有明講，但原句裡其實一直都在的意思"
-              }
-            ]
+            "zh": "是語氣和暗示意思。字有可能到了，但溫度、克制、幽默感，或柔軟度會在路上掉掉。"
           },
           {
             "speaker": "b",
@@ -2044,13 +1657,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very fragile. Humor is another hard one, because jokes are often built on local rhythm, shared context, or sound patterns.",
-            "zh": "非常脆弱。幽默也是很難的一塊，因為笑點常常長在在地節奏、共同脈絡，或聲音的花樣裡。",
-            "vocab": [
-              {
-                "word": "shared context",
-                "def": "大家都站在相同背景資訊上"
-              }
-            ]
+            "zh": "非常脆弱。幽默也是很難的一塊，因為笑點常常長在在地節奏、共同脈絡，或聲音的花樣裡。"
           },
           {
             "speaker": "b",
@@ -2062,13 +1669,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is both. Sometimes the translator must choose between preserving the wording and preserving the effect.",
-            "zh": "它本來就兩者都要。有時候譯者得在保留 wording 和保留效果之間做選擇。",
-            "vocab": [
-              {
-                "word": "preserving the effect",
-                "def": "不一定保留原字"
-              }
-            ]
+            "zh": "它本來就兩者都要。有時候譯者得在保留 wording 和保留效果之間做選擇。"
           },
           {
             "speaker": "b",
@@ -2097,13 +1698,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way to say it is, \"The literal meaning came through, but the feeling did not.\" That is short and very clear.",
-            "zh": "你可以說：「The literal meaning came through, but the feeling did not.」這句很短，也很清楚。",
-            "vocab": [
-              {
-                "word": "literal meaning",
-                "def": "字面意思本身"
-              }
-            ]
+            "zh": "你可以說：「The literal meaning came through, but the feeling did not.」這句很短，也很清楚。"
           },
           {
             "speaker": "b",
@@ -2115,13 +1710,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I could translate the words, but not the social texture around them.\" That works when context matters more than vocabulary.",
-            "zh": "另一句也很好：「I could translate the words, but not the social texture around them.」當脈絡比字彙本身更重要時，這句很好用。",
-            "vocab": [
-              {
-                "word": "social texture",
-                "def": "一句話周圍的人情感、文化感和互動細節"
-              }
-            ]
+            "zh": "另一句也很好：「I could translate the words, but not the social texture around them.」當脈絡比字彙本身更重要時，這句很好用。"
           },
           {
             "speaker": "b",
@@ -2133,13 +1722,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something simpler, say: \"It sounded fine in English, but it stopped sounding like the same person.\" That is powerful in identity conversations.",
-            "zh": "如果你想更簡單一點，可以說：「It sounded fine in English, but it stopped sounding like the same person.」這句在身份和語氣的討論裡很有力。",
-            "vocab": [
-              {
-                "word": "like the same",
-                "def": "換了語言後，還能不能聽起來像同一個人"
-              }
-            ]
+            "zh": "如果你想更簡單一點，可以說：「It sounded fine in English, but it stopped sounding like the same person.」這句在身份和語氣的討論裡很有力。"
           },
           {
             "speaker": "b",
@@ -2180,13 +1763,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why translation often needs cultural judgment, not only bilingual ability.",
-            "zh": "沒錯。也正因如此，翻譯很多時候需要的是文化判斷，不只是雙語能力。",
-            "vocab": [
-              {
-                "word": "cultural judgment",
-                "def": "也正因如此"
-              }
-            ]
+            "zh": "沒錯。也正因如此，翻譯很多時候需要的是文化判斷，不只是雙語能力。"
           },
           {
             "speaker": "b",
@@ -2198,13 +1775,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. They are often making dozens of tiny decisions about dignity, tone, and meaning every few seconds.",
-            "zh": "本來就該更尊敬。他們常常每幾秒就在替尊嚴、語氣和意思做很多微小決定。",
-            "vocab": [
-              {
-                "word": "tone",
-                "def": "語氣"
-              }
-            ]
+            "zh": "本來就該更尊敬。他們常常每幾秒就在替尊嚴、語氣和意思做很多微小決定。"
           },
           {
             "speaker": "b",
@@ -2268,7 +1839,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good outcome for this topic.",
+            "en": "That's a good outcome for this topic.",
             "zh": "這對這個主題來說，是很好的結果。"
           }
         ]
@@ -2338,13 +1909,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means making it easier for people who read the world differently to meet without flattening each other.",
-            "zh": "它的意思是：讓那些用不同方式讀世界的人，更容易彼此遇見，而且不用把彼此壓平成同一種人。",
-            "vocab": [
-              {
-                "word": "without flattening",
-                "def": "更容易彼此遇見"
-              }
-            ]
+            "zh": "它的意思是：讓那些用不同方式讀世界的人，更容易彼此遇見，而且不用把彼此壓平成同一種人。"
           },
           {
             "speaker": "b",
@@ -2356,13 +1921,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A bridge is not a demand that one side become the other. It is a structure that helps movement both ways.",
-            "zh": "沒錯。橋不是要求哪一邊變成另一邊；橋是一種結構，讓雙向移動變得可能。",
-            "vocab": [
-              {
-                "word": "movement",
-                "def": "理解和調整不是單向要求，而是雙向流動"
-              }
-            ]
+            "zh": "沒錯。橋不是要求哪一邊變成另一邊；橋是一種結構，讓雙向移動變得可能。"
           },
           {
             "speaker": "b",
@@ -2374,13 +1933,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more respectful because it assumes both sides have something worth bringing.",
-            "zh": "它比較尊重，因為它假設兩邊都帶著值得被帶進來的東西。",
-            "vocab": [
-              {
-                "word": "respectful",
-                "def": "它假設兩邊都帶著值得被帶進來的東西"
-              }
-            ]
+            "zh": "它比較尊重，因為它假設兩邊都帶著值得被帶進來的東西。"
           },
           {
             "speaker": "b",
@@ -2409,13 +1962,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They explain context, soften needless friction, and notice where people are silently misreading each other.",
-            "zh": "他們會補 context、減少不必要的摩擦，也會注意哪裡有人在安靜地彼此誤讀。",
-            "vocab": [
-              {
-                "word": "explain context",
-                "def": "替彼此補上對方原本不知道的背景脈絡"
-              }
-            ]
+            "zh": "他們會補 context、減少不必要的摩擦，也會注意哪裡有人在安靜地彼此誤讀。"
           },
           {
             "speaker": "b",
@@ -2427,13 +1974,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. They know when to translate a joke, when to explain a custom, and when to slow a conversation down before embarrassment hardens into distance.",
-            "zh": "沒錯。他們知道什麼時候要翻一個玩笑、什麼時候要解釋一個習慣，也知道什麼時候該在尷尬硬化成距離前先把對話慢下來。",
-            "vocab": [
-              {
-                "word": "embarrassment hardens",
-                "def": "也知道什麼時候該在尷尬硬化成距離前先把對話慢下來"
-              }
-            ]
+            "zh": "沒錯。他們知道什麼時候要翻一個玩笑、什麼時候要解釋一個習慣，也知道什麼時候該在尷尬硬化成距離前先把對話慢下來。"
           },
           {
             "speaker": "b",
@@ -2445,13 +1986,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is, which is why bridge-building deserves more recognition than it usually gets.",
-            "zh": "很多時候確實是，所以搭橋這件事值得比現在更多的認可。",
-            "vocab": [
-              {
-                "word": "bridge-building",
-                "def": "很多時候確實是"
-              }
-            ]
+            "zh": "很多時候確實是，所以搭橋這件事值得比現在更多的認可。"
           },
           {
             "speaker": "b",
@@ -2480,13 +2015,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very useful sentence is: \"I think there may be some context missing on both sides.\" It lowers blame and opens explanation.",
-            "zh": "一句非常好用的是：「I think there may be some context missing on both sides.」這句會降低 blame，也打開解釋空間。",
-            "vocab": [
-              {
-                "word": "context missing",
-                "def": "彼此都少了一些背景，所以才會看歪"
-              }
-            ]
+            "zh": "一句非常好用的是：「I think there may be some context missing on both sides.」這句會降低 blame，也打開解釋空間。"
           },
           {
             "speaker": "b",
@@ -2498,13 +2027,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, \"What I think they meant was...\" That can be helpful when someone needs a fairer interpretation in the moment.",
-            "zh": "另一句也很好：「What I think they meant was...」當現場需要一個比較公平的解讀時，這句很好用。",
-            "vocab": [
-              {
-                "word": "fairer interpretation",
-                "def": "先替對方做一個比較善意、合理的解讀"
-              }
-            ]
+            "zh": "另一句也很好：「What I think they meant was...」當現場需要一個比較公平的解讀時，這句很好用。"
           },
           {
             "speaker": "b",
@@ -2516,13 +2039,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you need to invite more curiosity, try: \"Before we react, can we ask what this behavior means in its own context?\"",
-            "zh": "如果你想邀請更多好奇，也可以試：「Before we react, can we ask what this behavior means in its own context?」",
-            "vocab": [
-              {
-                "word": "Before we react",
-                "def": "也可以試："
-              }
-            ]
+            "zh": "如果你想邀請更多好奇，也可以試：「Before we react, can we ask what this behavior means in its own context?」"
           },
           {
             "speaker": "b",
@@ -2563,13 +2080,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The bridge-builder did not erase the difference. They simply restored a fuller interpretation.",
-            "zh": "沒錯。那個搭橋的人沒有抹掉差異，他只是把比較完整的理解補回來。",
-            "vocab": [
-              {
-                "word": "restored",
-                "def": "重新充飽的；恢復的"
-              }
-            ]
+            "zh": "沒錯。那個搭橋的人沒有抹掉差異，他只是把比較完整的理解補回來。"
           },
           {
             "speaker": "b",
@@ -2581,13 +2092,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. One sentence can protect a person from being miscast, and protect the group from becoming narrower than it needs to be.",
-            "zh": "對。一句話可以保護一個人不被錯誤定型，也保護整個群體不要變得比它本來需要的更狹窄。",
-            "vocab": [
-              {
-                "word": "sentence can protect",
-                "def": "的更狹窄"
-              }
-            ]
+            "zh": "對。一句話可以保護一個人不被錯誤定型，也保護整個群體不要變得比它本來需要的更狹窄。"
           },
           {
             "speaker": "b",

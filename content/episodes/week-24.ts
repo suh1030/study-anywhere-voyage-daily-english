@@ -22,13 +22,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such a real adult-learning moment. Growth often begins when a skill gap becomes impossible to hide from yourself.",
-            "zh": "那真的是很典型的大人學習時刻。成長很多時候，就是從你再也無法假裝沒看到那個能力落差開始。",
-            "vocab": [
-              {
-                "word": "skill gap",
-                "def": "自己目前能力和需求之間的落差"
-              }
-            ]
+            "zh": "那真的是很典型的大人學習時刻。成長很多時候，就是從你再也無法假裝沒看到那個能力落差開始。"
           },
           {
             "speaker": "b",
@@ -52,13 +46,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly where learn by doing matters. Some kinds of understanding only arrive after your hands have made the same move enough times.",
-            "zh": "那也正是做中學真正重要的地方。有些理解，真的要等你的手做過夠多次同樣的動作才會到位。",
-            "vocab": [
-              {
-                "word": "learn by doing",
-                "def": "透過實際操作把理解長出來"
-              }
-            ]
+            "zh": "那也正是做中學真正重要的地方。有些理解，真的要等你的手做過夠多次同樣的動作才會到位。"
           },
           {
             "speaker": "b",
@@ -99,13 +87,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why getting reps in matters. Repetition gives the nervous system proof that unfamiliar does not mean impossible.",
-            "zh": "完全沒錯。這也就是為什麼累積練習次數很重要。重複，會讓你的神經系統慢慢相信，不熟不代表不可能。",
-            "vocab": [
-              {
-                "word": "getting reps",
-                "def": "透過反覆實作累積練習次數"
-              }
-            ]
+            "zh": "完全沒錯。這也就是為什麼累積練習次數很重要。重複，會讓你的神經系統慢慢相信，不熟不代表不可能。"
           },
           {
             "speaker": "b",
@@ -146,13 +128,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clean way to say it is, 'I am still getting comfortable with it, but I am learning fast through real-world practice.'",
-            "zh": "你可以說：「I am still getting comfortable with it, but I am learning fast through real-world practice.」",
-            "vocab": [
-              {
-                "word": "real-world practice",
-                "def": "在真實情境裡的實際練習"
-              }
-            ]
+            "zh": "你可以說：「I am still getting comfortable with it, but I am learning fast through real-world practice.」"
           },
           {
             "speaker": "b",
@@ -164,13 +140,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I can feel the improvement curve, even though I am not smooth yet.'",
-            "zh": "另一句也很好：「I can feel the improvement curve, even though I am not smooth yet.」",
-            "vocab": [
-              {
-                "word": "improvement curve",
-                "def": "能力慢慢往上走的變化曲線"
-              }
-            ]
+            "zh": "另一句也很好：「I can feel the improvement curve, even though I am not smooth yet.」"
           },
           {
             "speaker": "b",
@@ -199,7 +169,7 @@ export const WEEK_24: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — The Habit That Makes Improvement Real",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -223,13 +193,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A good feedback loop is short enough that you can still remember what you tried when you review it.",
-            "zh": "完全沒錯。好的回饋循環，會短到你回頭看時還記得自己到底做了什麼。",
-            "vocab": [
-              {
-                "word": "feedback loop",
-                "def": "做了、看到結果、再調整的短循環"
-              }
-            ]
+            "zh": "完全沒錯。好的回饋循環，會短到你回頭看時還記得自己到底做了什麼。"
           },
           {
             "speaker": "b",
@@ -254,12 +218,7 @@ export const WEEK_24: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly. That is when improvement stops being inspirational and starts being normal.",
             "zh": "完全沒錯。也就是在那個時候，進步不再只是一種勵志畫面，而是開始變正常。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Growth Leaves Behind",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -282,13 +241,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Growth often is. Sometimes all it means is that you quietly outgrew an older version of yourself.",
-            "zh": "成長很多時候本來就這樣。有時候它只代表，你安靜地長過了自己以前那個版本。",
-            "vocab": [
-              {
-                "word": "quietly outgrew",
-                "def": "慢慢長出並超過自己以前的狀態"
-              }
-            ]
+            "zh": "成長很多時候本來就這樣。有時候它只代表，你安靜地長過了自己以前那個版本。"
           },
           {
             "speaker": "b",
@@ -312,13 +265,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That matters. Small improvement repeated long enough can change a whole identity.",
-            "zh": "這很重要。小小的進步如果重複得夠久，最後真的會改變整個自我感。",
-            "vocab": [
-              {
-                "word": "small improvement",
-                "def": "不大但真實累積的小進步"
-              }
-            ]
+            "zh": "這很重要。小小的進步如果重複得夠久，最後真的會改變整個自我感。"
           }
         ]
       }
@@ -387,13 +334,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That awkwardness is often the sign that you are actually in the growth zone instead of just repeating what you already know.",
-            "zh": "那種尷尬感，很多時候正表示你真的進到成長區了，而不是只是在重複你早就會的東西。",
-            "vocab": [
-              {
-                "word": "growth zone",
-                "def": "真正會讓能力被拉開的學習區域"
-              }
-            ]
+            "zh": "那種尷尬感，很多時候正表示你真的進到成長區了，而不是只是在重複你早就會的東西。"
           },
           {
             "speaker": "b",
@@ -417,13 +358,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not necessarily at all. Sometimes it is proof that you are stretching yourself beyond your current comfort shape.",
-            "zh": "完全不一定。有時候它反而是在證明，你正在把自己拉出原本舒服的形狀。",
-            "vocab": [
-              {
-                "word": "stretching yourself beyond",
-                "def": "把自己拉到比原本舒服區更外面"
-              }
-            ]
+            "zh": "完全不一定。有時候它反而是在證明，你正在把自己拉出原本舒服的形狀。"
           },
           {
             "speaker": "b",
@@ -452,13 +387,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because confidence usually lags behind reality. Your ability often improves before your self-image updates.",
-            "zh": "因為信心通常會落後於現實。你的能力常常已經進步了，可是自我感還沒更新。",
-            "vocab": [
-              {
-                "word": "confidence usually lags",
-                "def": "能力進步了，但信心還沒跟上的落差"
-              }
-            ]
+            "zh": "因為信心通常會落後於現實。你的能力常常已經進步了，可是自我感還沒更新。"
           },
           {
             "speaker": "b",
@@ -482,13 +411,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that can feel like an ego bruise. Not because anything is wrong, but because the old identity is losing authority.",
-            "zh": "完全沒錯，而那常常會讓人有一種 ego 被磨到的感覺。不是因為哪裡出錯，而是因為舊身份正在失去主導權。",
-            "vocab": [
-              {
-                "word": "ego bruise",
-                "def": "自尊被碰到的不舒服感"
-              }
-            ]
+            "zh": "完全沒錯，而那常常會讓人有一種 ego 被磨到的感覺。不是因為哪裡出錯，而是因為舊身份正在失去主導權。"
           },
           {
             "speaker": "b",
@@ -517,13 +440,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sentence that works well is 'I am in a phase where I still feel awkward, but I know I am learning.'",
-            "zh": "你可以說：「I am in a phase where I still feel awkward, but I know I am learning.」",
-            "vocab": [
-              {
-                "word": "feel awkward",
-                "def": "做起來還很不順、很卡的感覺"
-              }
-            ]
+            "zh": "你可以說：「I am in a phase where I still feel awkward, but I know I am learning.」"
           },
           {
             "speaker": "b",
@@ -535,13 +452,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'This is uncomfortable, but it is probably the right kind of discomfort.'",
-            "zh": "另一句也很好：「This is uncomfortable, but it is probably the right kind of discomfort.」",
-            "vocab": [
-              {
-                "word": "discomfort",
-                "def": "不舒服"
-              }
-            ]
+            "zh": "另一句也很好：「This is uncomfortable, but it is probably the right kind of discomfort.」"
           },
           {
             "speaker": "b",
@@ -553,13 +464,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to sound grounded, try, 'I think I hit a ceiling, and now I need a different way to practice.'",
-            "zh": "如果你想講得更踏實，也可以說：「I think I hit a ceiling, and now I need a different way to practice.」",
-            "vocab": [
-              {
-                "word": "hit a ceiling",
-                "def": "碰到目前方式的上限"
-              }
-            ]
+            "zh": "如果你想講得更踏實，也可以說：「I think I hit a ceiling, and now I need a different way to practice.」"
           },
           {
             "speaker": "b",
@@ -600,13 +505,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right, which is why you need to tolerate frustration without worshipping it. The point is information, not suffering.",
-            "zh": "對，所以你需要學的是承受挫折，而不是崇拜挫折。重點是資訊，不是痛苦本身。",
-            "vocab": [
-              {
-                "word": "tolerate frustration",
-                "def": "能承受挫折感，但不被它帶走"
-              }
-            ]
+            "zh": "對，所以你需要學的是承受挫折，而不是崇拜挫折。重點是資訊，不是痛苦本身。"
           },
           {
             "speaker": "b",
@@ -764,13 +663,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and now the challenge is to recover a beginner mindset without recovering a beginner schedule.",
-            "zh": "完全沒錯。現在真正的挑戰，是你得拿回初學者心態，但不可能拿回初學者的時間表。",
-            "vocab": [
-              {
-                "word": "beginner mindset",
-                "def": "願意從不熟開始學的心態"
-              }
-            ]
+            "zh": "完全沒錯。現在真正的挑戰，是你得拿回初學者心態，但不可能拿回初學者的時間表。"
           },
           {
             "speaker": "b",
@@ -811,13 +704,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually the shorter repeatable kind. A short session you can protect three times a week beats a heroic plan you cancel for a month.",
-            "zh": "通常是後者。你每週能保住三次的短練習，往往會贏過一個很英雄、結果你一整個月都沒做成的計畫。",
-            "vocab": [
-              {
-                "word": "short session",
-                "def": "時間不長、但能穩定做到的練習時段"
-              }
-            ]
+            "zh": "通常是後者。你每週能保住三次的短練習，往往會贏過一個很英雄、結果你一整個月都沒做成的計畫。"
           },
           {
             "speaker": "b",
@@ -841,13 +728,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of people do. But learning builds momentum when the routine fits the life you actually have.",
-            "zh": "很多人都會。可是當日常節奏真的符合你現在過的生活時，學習才比較容易累積動能。",
-            "vocab": [
-              {
-                "word": "builds momentum",
-                "def": "把一點點穩定做成越來越順的動能"
-              }
-            ]
+            "zh": "很多人都會。可是當日常節奏真的符合你現在過的生活時，學習才比較容易累積動能。"
           },
           {
             "speaker": "b",
@@ -876,13 +757,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, 'I am starting from scratch on this part, so I am being very intentional about the basics.'",
-            "zh": "你可以說：「I am starting from scratch on this part, so I am being very intentional about the basics.」",
-            "vocab": [
-              {
-                "word": "starting from scratch",
-                "def": "從幾乎沒有基礎的地方重新開始"
-              }
-            ]
+            "zh": "你可以說：「I am starting from scratch on this part, so I am being very intentional about the basics.」"
           },
           {
             "speaker": "b",
@@ -894,13 +769,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'The learning curve is steep, but I can already see what is getting easier.'",
-            "zh": "另一句也很好：「The learning curve is steep, but I can already see what is getting easier.」",
-            "vocab": [
-              {
-                "word": "learning curve",
-                "def": "剛開始上手時進步很陡或很卡的曲線"
-              }
-            ]
+            "zh": "另一句也很好：「The learning curve is steep, but I can already see what is getting easier.」"
           },
           {
             "speaker": "b",
@@ -912,13 +781,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if you are returning to something old, say, 'I am rusty, but it is coming back faster than I expected.'",
-            "zh": "如果你是在重新撿回以前的東西，也可以說：「I am rusty, but it is coming back faster than I expected.」",
-            "vocab": [
-              {
-                "word": "rusty",
-                "def": "以前會，但現在有點生疏"
-              }
-            ]
+            "zh": "如果你是在重新撿回以前的東西，也可以說：「I am rusty, but it is coming back faster than I expected.」"
           },
           {
             "speaker": "b",
@@ -947,13 +810,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the body starts helping. Once the move begins turning into muscle memory, the mind does not have to carry every detail alone.",
-            "zh": "因為身體開始幫忙了。當那個動作慢慢變成肌肉記憶，大腦就不用再一個人扛每個細節。",
-            "vocab": [
-              {
-                "word": "muscle memory",
-                "def": "重複後身體會記住的熟悉感"
-              }
-            ]
+            "zh": "因為身體開始幫忙了。當那個動作慢慢變成肌肉記憶，大腦就不用再一個人扛每個細節。"
           },
           {
             "speaker": "b",
@@ -977,13 +834,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right, which is why you sometimes just have to stick with it long enough for your system to catch up.",
-            "zh": "對，所以很多時候你只是需要先撐著做久一點，讓整個系統追上來。",
-            "vocab": [
-              {
-                "word": "stick with it",
-                "def": "先持續做下去，不要太早放掉"
-              }
-            ]
+            "zh": "對，所以很多時候你只是需要先撐著做久一點，讓整個系統追上來。"
           },
           {
             "speaker": "b",
@@ -1117,13 +968,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such an important difference. Practice consistently does not automatically mean practice effectively.",
-            "zh": "這個差別超重要。持續練習，不會自動等於有效練習。",
-            "vocab": [
-              {
-                "word": "practice consistently",
-                "def": "穩定地持續做練習"
-              }
-            ]
+            "zh": "這個差別超重要。持續練習，不會自動等於有效練習。"
           },
           {
             "speaker": "b",
@@ -1135,13 +980,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is normal, but it is why good practice usually includes a focused practice section for the part that still feels weak.",
-            "zh": "這很正常，但也正因為這樣，好的練習通常都會留一段真正聚焦在弱點上的時間。",
-            "vocab": [
-              {
-                "word": "focused practice",
-                "def": "刻意把注意力放在特定弱點上的練習"
-              }
-            ]
+            "zh": "這很正常，但也正因為這樣，好的練習通常都會留一段真正聚焦在弱點上的時間。"
           },
           {
             "speaker": "b",
@@ -1182,13 +1021,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Look for the weak spot you keep covering with speed, charm, or general confidence.",
-            "zh": "去找那個你一直用速度、氣勢或整體自信把它蓋掉的弱點。",
-            "vocab": [
-              {
-                "word": "weak spot",
-                "def": "真正拖慢整體進步的薄弱點"
-              }
-            ]
+            "zh": "去找那個你一直用速度、氣勢或整體自信把它蓋掉的弱點。"
           },
           {
             "speaker": "b",
@@ -1200,13 +1033,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then the answer is often to slow it down enough that the hidden mistake has nowhere to hide.",
-            "zh": "那很多時候，答案就是先把速度放慢，慢到那個藏起來的錯誤無處可躲。",
-            "vocab": [
-              {
-                "word": "slow it down",
-                "def": "先刻意放慢來看清楚問題"
-              }
-            ]
+            "zh": "那很多時候，答案就是先把速度放慢，慢到那個藏起來的錯誤無處可躲。"
           },
           {
             "speaker": "b",
@@ -1247,13 +1074,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, 'I am repeating this on purpose because I am trying to fix one specific habit.'",
-            "zh": "你可以說：「I am repeating this on purpose because I am trying to fix one specific habit.」",
-            "vocab": [
-              {
-                "word": "this on purpose",
-                "def": "帶著明確目的去重複"
-              }
-            ]
+            "zh": "你可以說：「I am repeating this on purpose because I am trying to fix one specific habit.」"
           },
           {
             "speaker": "b",
@@ -1265,13 +1086,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I need feedback quickly so I can correct it in real time.'",
-            "zh": "另一句也很好用：「I need feedback quickly so I can correct it in real time.」",
-            "vocab": [
-              {
-                "word": "real time",
-                "def": "作品還在形成時就立刻受到外界反應影響的狀態"
-              }
-            ]
+            "zh": "另一句也很好用：「I need feedback quickly so I can correct it in real time.」"
           },
           {
             "speaker": "b",
@@ -1283,13 +1098,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if you are tracking development, say, 'I am trying to track progress, not just spend time.'",
-            "zh": "如果你想表達自己在追進度，也可以說：「I am trying to track progress, not just spend time.」",
-            "vocab": [
-              {
-                "word": "track progress",
-                "def": "把進步看得見、記得住"
-              }
-            ]
+            "zh": "如果你想表達自己在追進度，也可以說：「I am trying to track progress, not just spend time.」"
           },
           {
             "speaker": "b",
@@ -1306,7 +1115,7 @@ export const WEEK_24: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Why Quality Beats Volume",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -1318,13 +1127,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not if the repetitions are sloppy. A few quality reps can teach more than a mountain of distracted ones.",
-            "zh": "如果那些重複都很鬆散，那就不一定。幾個高品質的 reps，常常比一整座分心重複更能教你東西。",
-            "vocab": [
-              {
-                "word": "quality reps",
-                "def": "高品質、真的有在學的重複練習"
-              }
-            ]
+            "zh": "如果那些重複都很鬆散，那就不一定。幾個高品質的 reps，常常比一整座分心重複更能教你東西。"
           },
           {
             "speaker": "b",
@@ -1361,12 +1164,7 @@ export const WEEK_24: Episode[] = [
             "speakerName": "Mira",
             "en": "It matters because attention is usually the part that creates change.",
             "zh": "這很重要，因為真正會創造改變的，通常就是注意力本身。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Good Practice Feels Like From the Inside",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1412,7 +1210,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the goal. Practice should leave you more honest than when you began.",
+            "en": "That's the goal. Practice should leave you more honest than when you began.",
             "zh": "這就是重點。練習結束時，應該讓你比開始前更誠實。"
           }
         ]
@@ -1482,13 +1280,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All the time, and that is usually what a plateau feels like before you have language for it.",
-            "zh": "超常，而那很多時候就是所謂 plateau 的感覺，只是你還沒替它找到名字而已。",
-            "vocab": [
-              {
-                "word": "plateau",
-                "def": "明明有在做，但進步感暫時停住的平台期"
-              }
-            ]
+            "zh": "超常，而那很多時候就是所謂 plateau 的感覺，只是你還沒替它找到名字而已。"
           },
           {
             "speaker": "b",
@@ -1512,13 +1304,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is common, but growth often inches forward long before it announces itself.",
-            "zh": "這很常見，但成長很多時候都是先一點一點往前挪，之後才會自己宣布。",
-            "vocab": [
-              {
-                "word": "inches forward",
-                "def": "很慢但真的有在往前推進"
-              }
-            ]
+            "zh": "這很常見，但成長很多時候都是先一點一點往前挪，之後才會自己宣布。"
           },
           {
             "speaker": "b",
@@ -1547,13 +1333,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You need better progress markers. If you only look for big wins, you miss the smaller signals that matter sooner.",
-            "zh": "你需要更好的進度指標。如果你只看大勝利，就會漏掉那些其實比較早出現的小訊號。",
-            "vocab": [
-              {
-                "word": "progress marker",
-                "def": "用來辨認進步是否真的發生的指標"
-              }
-            ]
+            "zh": "你需要更好的進度指標。如果你只看大勝利，就會漏掉那些其實比較早出現的小訊號。"
           },
           {
             "speaker": "b",
@@ -1577,13 +1357,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly why invisible progress gets missed. We are often measuring for drama, not for truth.",
-            "zh": "這也就是為什麼，看不太見的進步常常被漏掉。我們很多時候是在用戲劇感量，而不是用真相量。",
-            "vocab": [
-              {
-                "word": "invisible progress",
-                "def": "這也就是為什麼"
-              }
-            ]
+            "zh": "這也就是為什麼，看不太見的進步常常被漏掉。我們很多時候是在用戲劇感量，而不是用真相量。"
           },
           {
             "speaker": "b",
@@ -1612,13 +1386,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way to say it is, 'The payoff is delayed, but I can tell the foundation is getting stronger.'",
-            "zh": "你可以說：「The payoff is delayed, but I can tell the foundation is getting stronger.」",
-            "vocab": [
-              {
-                "word": "foundation",
-                "def": "基礎；根基"
-              }
-            ]
+            "zh": "你可以說：「The payoff is delayed, but I can tell the foundation is getting stronger.」"
           },
           {
             "speaker": "b",
@@ -1630,13 +1398,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I am playing the long game here, so I am trying not to judge it too early.'",
-            "zh": "另一句也很好：「I am playing the long game here, so I am trying not to judge it too early.」",
-            "vocab": [
-              {
-                "word": "long game",
-                "def": "用比較長的時間尺度看這件事"
-              }
-            ]
+            "zh": "另一句也很好：「I am playing the long game here, so I am trying not to judge it too early.」"
           },
           {
             "speaker": "b",
@@ -1648,13 +1410,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you want to sound quietly committed, you can use 'I am going to keep showing up even if the results still look small.'",
-            "zh": "如果你想表達一種安靜但堅定的投入，也可以說：「I am going to keep showing up even if the results still look small.」",
-            "vocab": [
-              {
-                "word": "keep showing up",
-                "def": "不管感覺如何，還是繼續穩定出現"
-              }
-            ]
+            "zh": "如果你想表達一種安靜但堅定的投入，也可以說：「I am going to keep showing up even if the results still look small.」"
           },
           {
             "speaker": "b",
@@ -1695,13 +1451,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you are patient, you are still looking for the next turning point. You have not given up on learning from the slow phase.",
-            "zh": "如果你是在有耐心地等，你其實還在找下一個轉折點。你沒有放棄從這段慢期裡繼續學東西。",
-            "vocab": [
-              {
-                "word": "turning point",
-                "def": "某個慢慢累積後開始出現明顯變化的轉折"
-              }
-            ]
+            "zh": "如果你是在有耐心地等，你其實還在找下一個轉折點。你沒有放棄從這段慢期裡繼續學東西。"
           },
           {
             "speaker": "b",
@@ -1847,13 +1597,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That mix is so normal. Watching someone strong can be incredibly useful and also trigger the comparison trap almost immediately.",
-            "zh": "那種混合感真的很正常。看一個很強的人，既可能非常有幫助，也可能幾乎立刻啟動比較陷阱。",
-            "vocab": [
-              {
-                "word": "comparison trap",
-                "def": "把學習變成自我打擊的比較陷阱"
-              }
-            ]
+            "zh": "那種混合感真的很正常。看一個很強的人，既可能非常有幫助，也可能幾乎立刻啟動比較陷阱。"
           },
           {
             "speaker": "b",
@@ -1906,13 +1650,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Borrow a method, not an identity. Take the useful piece without deciding you have to become their whole personality.",
-            "zh": "借一個方法，不要借整個身份。把有用的部分拿走，但不要因此以為自己也得變成他那整個人。",
-            "vocab": [
-              {
-                "word": "borrow a method",
-                "def": "而不是照單全收"
-              }
-            ]
+            "zh": "借一個方法，不要借整個身份。把有用的部分拿走，但不要因此以為自己也得變成他那整個人。"
           },
           {
             "speaker": "b",
@@ -1924,13 +1662,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because a role model is useful when they widen your options, not when they narrow your self-worth.",
-            "zh": "這很重要，因為 role model 真正有用，是它替你打開選項，不是替你壓縮自我價值。",
-            "vocab": [
-              {
-                "word": "role model",
-                "def": "值得觀察與學習的對象"
-              }
-            ]
+            "zh": "這很重要，因為 role model 真正有用，是它替你打開選項，不是替你壓縮自我價值。"
           },
           {
             "speaker": "b",
@@ -1971,13 +1703,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple version is, 'I noticed the way you structured that. Can I ask what you were paying attention to?'",
-            "zh": "你可以說：「I noticed the way you structured that. Can I ask what you were paying attention to?」",
-            "vocab": [
-              {
-                "word": "paying attention",
-                "def": "留意；認真觀察"
-              }
-            ]
+            "zh": "你可以說：「I noticed the way you structured that. Can I ask what you were paying attention to?」"
           },
           {
             "speaker": "b",
@@ -1989,13 +1715,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'What would you tell someone who is trying to get better at this part?' That is often better than asking for secrets.",
-            "zh": "另一句也很好：「What would you tell someone who is trying to get better at this part?」這通常比直接問祕訣好很多。",
-            "vocab": [
-              {
-                "word": "better at this",
-                "def": "用更好的問題把有用經驗問出來"
-              }
-            ]
+            "zh": "另一句也很好：「What would you tell someone who is trying to get better at this part?」這通常比直接問祕訣好很多。"
           },
           {
             "speaker": "b",
@@ -2007,17 +1727,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And if they offer useful feedback, you can say, 'That helps. I think I can adapt that to my own style.'",
-            "zh": "完全沒錯。如果對方給了有用回饋，你也可以接：「That helps. I think I can adapt that to my own style.」",
-            "vocab": [
-              {
-                "word": "useful feedback",
-                "def": "真的能幫自己下一步調整的回饋"
-              },
-              {
-                "word": "adapt",
-                "def": "把別人的做法調成適合自己的版本"
-              }
-            ]
+            "zh": "完全沒錯。如果對方給了有用回饋，你也可以接：「That helps. I think I can adapt that to my own style.」"
           },
           {
             "speaker": "b",
@@ -2046,19 +1756,13 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use them as one reference, not your whole personal benchmark. One person shows a possibility, not your final score.",
-            "zh": "把他們當成一個參考，不要當成你整個人的評分標準。一個人展示的是一種可能，不是你的期末成績。",
-            "vocab": [
-              {
-                "word": "personal benchmark",
-                "def": "拿來衡量自己時用的個人標準"
-              }
-            ]
+            "zh": "把他們當成一個參考，不要當成你整個人的評分標準。一個人展示的是一種可能，不是你的期末成績。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really needed distinction.",
-            "zh": "這個區分真的超需要。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
@@ -2087,8 +1791,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is already a wise adjustment.",
-            "zh": "這本身就已經是一個很有智慧的調整了。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           }
         ]
       },
@@ -2222,13 +1926,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does, and maybe that is not a flaw. Maybe it is what keeps you curious and alive to the next layer of yourself.",
-            "zh": "真的不肯，而且那也許不是缺陷。它也可能正是讓你對自己的下一層還保有好奇、還活著的原因。",
-            "vocab": [
-              {
-                "word": "curious",
-                "def": "對新的自己和新的學習仍保有好奇"
-              }
-            ]
+            "zh": "真的不肯，而且那也許不是缺陷。它也可能正是讓你對自己的下一層還保有好奇、還活著的原因。"
           },
           {
             "speaker": "b",
@@ -2269,13 +1967,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Stay teachable. The moment you need to protect an old version of yourself more than you need to learn, growth gets expensive.",
-            "zh": "要保持可受教。當你開始更需要保護舊版本的自己，而不是學新東西時，成長就會變得很昂貴。",
-            "vocab": [
-              {
-                "word": "stay teachable",
-                "def": "保持一種還願意被教、被修正的狀態"
-              }
-            ]
+            "zh": "要保持可受教。當你開始更需要保護舊版本的自己，而不是學新東西時，成長就會變得很昂貴。"
           },
           {
             "speaker": "b",
@@ -2299,13 +1991,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why an evolving standard matters. Your life changes, so your definition of better has to keep changing too.",
-            "zh": "完全沒錯。這也就是為什麼一個會更新的標準很重要。你的生活會變，所以你對『更好』的定義也得跟著變。",
-            "vocab": [
-              {
-                "word": "evolving standard",
-                "def": "會隨人生階段更新的成長標準"
-              }
-            ]
+            "zh": "完全沒錯。這也就是為什麼一個會更新的標準很重要。你的生活會變，所以你對『更好』的定義也得跟著變。"
           },
           {
             "speaker": "b",
@@ -2334,13 +2020,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: 'I am still learning how to do this version of my life well.'",
-            "zh": "你可以說：「I am still learning how to do this version of my life well.」",
-            "vocab": [
-              {
-                "word": "learning",
-                "def": "主動設計自己怎麼學、怎麼長的過程"
-              }
-            ]
+            "zh": "你可以說：「I am still learning how to do this version of my life well.」"
           },
           {
             "speaker": "b",
@@ -2352,13 +2032,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is, 'I want to keep improving without losing my ability to listen and adapt.'",
-            "zh": "另一句也很好：「I want to keep improving without losing my ability to listen and adapt.」",
-            "vocab": [
-              {
-                "word": "keep improving",
-                "def": "持續往前長"
-              }
-            ]
+            "zh": "另一句也很好：「I want to keep improving without losing my ability to listen and adapt.」"
           },
           {
             "speaker": "b",
@@ -2370,13 +2044,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'I am trying to build quietly in the areas that matter most to me.'",
-            "zh": "如果你想講得更安靜一點，也可以說：「I am trying to build quietly in the areas that matter most to me.」",
-            "vocab": [
-              {
-                "word": "build quietly",
-                "def": "不張揚地慢慢把重要部分長起來"
-              }
-            ]
+            "zh": "如果你想講得更安靜一點，也可以說：「I am trying to build quietly in the areas that matter most to me.」"
           },
           {
             "speaker": "b",
@@ -2417,13 +2085,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It needs to be. When you outgrow an old version of yourself, gratitude often makes the transition cleaner.",
-            "zh": "這件事本來就需要溫柔。當你長過自己以前的版本時，感謝，很多時候會讓過渡更乾淨。",
-            "vocab": [
-              {
-                "word": "outgrow an old version",
-                "def": "慢慢超過以前那個自己"
-              }
-            ]
+            "zh": "這件事本來就需要溫柔。當你長過自己以前的版本時，感謝，很多時候會讓過渡更乾淨。"
           },
           {
             "speaker": "b",
@@ -2464,13 +2126,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means staying awake to your life. Keep learning, keep revising, and keep returning to the work that makes you more honest.",
-            "zh": "它的意思是，對自己的生活保持醒著。持續學、持續修、持續回到那些會讓你更誠實的功課上。",
-            "vocab": [
-              {
-                "word": "keep returning to the work",
-                "def": "持續回到真正重要的功課上"
-              }
-            ]
+            "zh": "它的意思是，對自己的生活保持醒著。持續學、持續修、持續回到那些會讓你更誠實的功課上。"
           },
           {
             "speaker": "b",

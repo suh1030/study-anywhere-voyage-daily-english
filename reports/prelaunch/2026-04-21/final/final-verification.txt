@@ -1,0 +1,7 @@
+Final verification: PASS_WITH_WAIVER
+- articles import: PASS (53/53 importable)
+- article wordCount: PASS (0 outliers, 0 import failures)
+- episode vocab: PASS (0 episodes below 8)
+- episode closing dupes: PASS (0 duplicate groups)
+- flashcard examples: PASS (86 short examples (waived))
+- theme alignment: PASS (0 mismatches)

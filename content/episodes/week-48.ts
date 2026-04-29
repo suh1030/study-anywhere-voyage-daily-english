@@ -22,13 +22,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often yes, because language carries habit, memory, confidence, and social expectation all at once.",
-            "zh": "很多時候會，因為語言會同時帶著習慣、記憶、自信程度和社會期待。",
-            "vocab": [
-              {
-                "word": "social expectation",
-                "def": "社交上的期待"
-              }
-            ]
+            "zh": "很多時候會，因為語言會同時帶著習慣、記憶、自信程度和社會期待。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A person may sound softer, funnier, more formal, or more careful depending on which parts of themselves the language makes easiest to access.",
-            "zh": "沒錯。人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。",
-            "vocab": [
-              {
-                "word": "sound softer",
-                "def": "可能會比較柔和、比較好笑、比較正式"
-              }
-            ]
+            "zh": "沒錯。人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。"
           },
           {
             "speaker": "b",
@@ -58,19 +46,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It really can feel like that. Language is not only a tool for thought. It is also a social room your body has learned how to enter.",
-            "zh": "真的會有那種感覺。語言不只是思考工具，它也像一個社會房間，而你的身體早就學會怎麼走進那個房間。",
-            "vocab": [
-              {
-                "word": "social room",
-                "def": "一種語言所附帶的社會氣氛和互動規則"
-              }
-            ]
+            "zh": "真的會有那種感覺。語言不只是思考工具，它也像一個社會房間，而你的身體早就學會怎麼走進那個房間。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really vivid way to describe it.",
-            "zh": "這個形容很有畫面。"
+            "en": "The image of entering a social room really captures the physical side of it.",
+            "zh": "「走進社會房間」這個畫面，真的抓到那種身體層面的感覺。"
           },
           {
             "speaker": "a",
@@ -93,13 +75,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because familiarity changes emotional range. In your stronger language, you usually have faster access to nuance, humor, comfort, and precision.",
-            "zh": "因為熟悉度會改變情緒範圍。在你比較強的語言裡，你通常能更快碰到細膩度、幽默、舒服感和精準度。",
-            "vocab": [
-              {
-                "word": "familiarity changes emotional range",
-                "def": "因為熟悉度會改變情緒範圍"
-              }
-            ]
+            "zh": "因為熟悉度會改變情緒範圍。在你比較強的語言裡，你通常能更快碰到細膩度、幽默、舒服感和精準度。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It can feel like you are operating with fewer colors, even if you can still complete the sentence.",
-            "zh": "對。那種感覺會像你手上還是有畫筆，但顏色變少了。",
-            "vocab": [
-              {
-                "word": "fewer colors",
-                "def": "語言功能還在，但表達層次明顯變少"
-              }
-            ]
+            "zh": "對。那種感覺會像你手上還是有畫筆，但顏色變少了。"
           },
           {
             "speaker": "b",
@@ -129,13 +99,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it can go the other way too. A second language may offer distance, which sometimes makes honesty easier.",
-            "zh": "而且也可能反過來。第二語言有時候會提供距離感，而那個距離反而會讓誠實變得更容易。",
-            "vocab": [
-              {
-                "word": "sometimes makes honesty easier",
-                "def": "而且也可能反過來"
-              }
-            ]
+            "zh": "而且也可能反過來。第二語言有時候會提供距離感，而那個距離反而會讓誠實變得更容易。"
           },
           {
             "speaker": "b",
@@ -163,14 +127,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want a more grounded version, try \"I sound more careful in English, but not always more honest.\" It captures the difference between tone and truth.",
-            "zh": "一句很好用的是：「I sound more careful in English, but not always more honest.」這句抓到了語氣和真實之間的差別。",
-            "vocab": [
-              {
-                "word": "sound more careful",
-                "def": "換成某種語言後，整體聽起來更謹慎"
-              }
-            ]
+            "en": "A very grounded sentence is \"I sound more careful in English, but not always more honest.\" It captures the difference between tone and truth.",
+            "zh": "一句很有根基的說法是：「I sound more careful in English, but not always more honest.」這句抓到了語氣和真實之間的差別。"
           },
           {
             "speaker": "b",
@@ -182,13 +140,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"My first language feels like instinct, and my second language feels like construction.\" That is strong when talking about effort and identity.",
-            "zh": "另一句也很好：「My first language feels like instinct, and my second language feels like construction.」這句很適合談努力和身份。",
-            "vocab": [
-              {
-                "word": "language feels like instinct",
-                "def": "幾乎不用想就能直接長出來的語言"
-              }
-            ]
+            "zh": "另一句也很好：「My first language feels like instinct, and my second language feels like construction.」這句很適合談努力和身份。"
           },
           {
             "speaker": "b",
@@ -199,14 +151,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something gentler, try: \"Different languages bring out different parts of me.\" That is simple and widely usable.",
-            "zh": "如果你想溫和一點，可以試：「Different languages bring out different parts of me.」這句簡單，而且很通用。",
-            "vocab": [
-              {
-                "word": "bring out different parts",
-                "def": "不同語言會引出自己不同的面向"
-              }
-            ]
+            "en": "For a lighter touch, \"Different languages bring out different parts of me\" works beautifully. Simple and widely usable.",
+            "zh": "如果你想輕一點，「Different languages bring out different parts of me」就很好。簡單，而且很通用。"
           },
           {
             "speaker": "b",
@@ -229,7 +175,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Could you give me a very ordinary moment that makes that clearer?",
-            "zh": "你可以給我一個很生活化的 moment，讓這件事更清楚嗎？"
+            "zh": "你可以給我一個很生活化的例子，讓這件事更清楚嗎？"
           },
           {
             "speaker": "a",
@@ -247,13 +193,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The vocabulary changes, but so do tempo, self-protection, and the kind of confidence you can reach.",
-            "zh": "沒錯。改變的不只是字，還包括節奏、自我保護的程度，以及你能碰到哪一種自信。",
-            "vocab": [
-              {
-                "word": "vocabulary changes",
-                "def": "改變的不只是字"
-              }
-            ]
+            "zh": "沒錯。改變的不只是字，還包括節奏、自我保護的程度，以及你能碰到哪一種自信。"
           },
           {
             "speaker": "b",
@@ -264,14 +204,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Very much. That is why people can be fluent and still tired. The work is not only producing sentences; it is also reorienting the self.",
-            "zh": "非常是。這也是為什麼有人明明很流利，還是會累。辛苦的不只是造句，也是重新把自己對準。",
-            "vocab": [
-              {
-                "word": "producing sentences",
-                "def": "非常是"
-              }
-            ]
+            "en": "Very much. That is why people can be fluent and still tired. The work is not only producing sentences; it is also adjusting to who they are in that language.",
+            "zh": "非常是。這也是為什麼有人明明很流利，還是會累。辛苦的不只是造句，也是在適應那個語言裡的自己。"
           },
           {
             "speaker": "b",
@@ -311,8 +245,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is reassuring because it means change does not always equal betrayal. Sometimes it means your identity has gained more room to move.",
-            "zh": "它之所以讓人安心，是因為它提醒你：改變不一定等於背叛。很多時候，它只是代表你的身份多長出了一點可以活動的空間。"
+            "en": "It is reassuring because it means change does not always equal betrayal. Sometimes it just means you have more room to be yourself.",
+            "zh": "它之所以讓人安心，是因為它提醒你：改變不一定等於背叛。很多時候，它只是代表你多了一點空間，可以更像自己。"
           },
           {
             "speaker": "b",
@@ -329,8 +263,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a hopeful ending.",
-            "zh": "這是一個很有希望的收尾。"
+            "en": "The idea that identity can expand rather than split — that actually reassures me.",
+            "zh": "身份是擴大而不是分裂的這個想法，真的讓我比較安心。"
           },
           {
             "speaker": "a",
@@ -343,14 +277,14 @@ export const WEEK_48: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "language-shaped self",
-        "zh": "在某種語言裡逐漸形成的那個自己",
-        "example": "Her language-shaped self sounded different in meetings."
+        "en": "a different side of yourself",
+        "zh": "在不同語言裡被帶出來的不同面向",
+        "example": "A different side of yourself can come out when another language gives you new room."
       },
       {
-        "en": "accessible self",
-        "zh": "在某種語言裡比較容易被表達出來的那個自己",
-        "example": "English brought out a more accessible self for him."
+        "en": "be more direct",
+        "zh": "更直接地表達自己",
+        "example": "English made it easier for him to be more direct."
       },
       {
         "en": "social room",
@@ -405,13 +339,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they tell you who is inside the circle. Shared language can signal familiarity, competence, humor, and trust in just a few words.",
-            "zh": "因為它們會告訴你誰在圈子裡。共享的語言只用幾個字，就能傳遞熟悉感、能力、幽默和信任。",
-            "vocab": [
-              {
-                "word": "Shared language can signal",
-                "def": "傳遞熟悉感、能力、幽默和信任"
-              }
-            ]
+            "zh": "因為它們會告訴你誰在圈子裡。共享的語言只用幾個字，就能傳遞熟悉感、能力、幽默和信任。"
           },
           {
             "speaker": "b",
@@ -423,13 +351,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you understand the language, you feel less outside. If you do not, the same room can suddenly feel a little farther away.",
-            "zh": "沒錯。聽得懂，你就比較不會在外面；聽不懂，同一個房間會忽然離你遠一點。",
-            "vocab": [
-              {
-                "word": "little farther away",
-                "def": "你就比較不會在外面"
-              }
-            ]
+            "zh": "沒錯。聽得懂，你就比較不會在外面；聽不懂，同一個房間會忽然離你遠一點。"
           },
           {
             "speaker": "b",
@@ -441,13 +363,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It feels bigger because people are not only missing content. They are missing evidence that they belong.",
-            "zh": "會那麼有感，是因為人漏掉的不只是內容，而是自己也屬於這裡的一個證據。",
-            "vocab": [
-              {
-                "word": "missing evidence",
-                "def": "會那麼有感，是因為人漏掉的不只是內容"
-              }
-            ]
+            "zh": "會那麼有感，是因為人漏掉的不只是內容，而是自己也屬於這裡的一個證據。"
           },
           {
             "speaker": "b",
@@ -476,13 +392,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can become exclusion without anyone intending it. People bond by talking naturally, but natural talk can still leave newcomers outside.",
-            "zh": "它可能會在沒人故意的情況下變成排除。大家只是自然地說話，可是自然的說話本身就可能把新人留在外面。",
-            "vocab": [
-              {
-                "word": "become exclusion without anyone",
-                "def": "在沒人故意的情況下變成排除"
-              }
-            ]
+            "zh": "它可能會在沒人故意的情況下變成排除。大家只是自然地說話，可是自然的說話本身就可能把新人留在外面。"
           },
           {
             "speaker": "b",
@@ -494,13 +404,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Workplace jargon can do this a lot too. It makes insiders efficient, but it can make outsiders feel slow or invisible.",
-            "zh": "沒錯。職場 jargon 也很容易這樣。它會讓圈內人效率很高，但也會讓圈外人覺得自己很慢，甚至像透明人。",
-            "vocab": [
-              {
-                "word": "makes insiders efficient",
-                "def": "甚至像透明人"
-              }
-            ]
+            "zh": "沒錯。職場 jargon 也很容易這樣。它會讓圈內人效率很高，但也會讓圈外人覺得自己很慢，甚至像透明人。"
           },
           {
             "speaker": "b",
@@ -512,13 +416,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can be fragile, especially early on. That is why inclusive groups learn when to translate their own language a little.",
-            "zh": "它本來就可能很脆弱，尤其是在一開始。這也是為什麼有包容力的群體，會學著在適當時機替自己的語言翻一下。",
-            "vocab": [
-              {
-                "word": "inclusive groups learn",
-                "def": "這也是為什麼有包容力的群體"
-              }
-            ]
+            "zh": "它本來就可能很脆弱，尤其是在一開始。這也是為什麼有包容力的群體，會學著在適當時機替自己的語言翻一下。"
           },
           {
             "speaker": "b",
@@ -547,13 +445,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I could follow the words, but I could feel there was a layer I was not inside yet.\" That is honest and nuanced.",
-            "zh": "一句很好用的是：「I could follow the words, but I could feel there was a layer I was not inside yet.」這句很誠實，也很有層次。",
-            "vocab": [
-              {
-                "word": "inside yet",
-                "def": "聽得懂表面，但還沒真的進到圈內層"
-              }
-            ]
+            "zh": "一句很好用的是：「I could follow the words, but I could feel there was a layer I was not inside yet.」這句很誠實，也很有層次。"
           },
           {
             "speaker": "b",
@@ -565,13 +457,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural option is, \"Once I learned the local phrases, I stopped feeling like I was always one beat behind.\" That works well for immersion stories.",
-            "zh": "另一句也很好：「Once I learned the local phrases, I stopped feeling like I was always one beat behind.」很適合沉浸式學習經驗。",
-            "vocab": [
-              {
-                "word": "one beat behind",
-                "def": "在節奏上總是慢半拍的感覺"
-              }
-            ]
+            "zh": "另一句也很好：「Once I learned the local phrases, I stopped feeling like I was always one beat behind.」很適合沉浸式學習經驗。"
           },
           {
             "speaker": "b",
@@ -583,13 +469,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make a broader point, say: \"Shared language can create warmth, but it can also create walls if nobody notices who is missing.\"",
-            "zh": "如果你想講得更廣一點，也可以說：「Shared language can create warmth, but it can also create walls if nobody notices who is missing.」",
-            "vocab": [
-              {
-                "word": "Shared language can create",
-                "def": "也帶來界線"
-              }
-            ]
+            "zh": "如果你想講得更廣一點，也可以說：「Shared language can create warmth, but it can also create walls if nobody notices who is missing.」"
           },
           {
             "speaker": "b",
@@ -606,7 +486,7 @@ export const WEEK_48: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Small Exclusion Moment",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -630,13 +510,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then one person slows down and says, \"Let me translate that a bit.\" Suddenly the room becomes usable again.",
-            "zh": "這時有一個人慢下來說：「Let me translate that a bit.」整個房間就突然又能用了。",
-            "vocab": [
-              {
-                "word": "room becomes usable",
-                "def": "這時有一個人慢下來說：整個房間就突然又能用了"
-              }
-            ]
+            "zh": "這時有一個人慢下來說：「Let me translate that a bit.」整個房間就突然又能用了。"
           },
           {
             "speaker": "b",
@@ -648,13 +522,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Inclusive language is not always complex. Often it is just the willingness to notice who is still translating silently.",
-            "zh": "沒錯。包容性的語言不一定很複雜；很多時候，它只是願不願意看見誰還在默默翻譯。",
-            "vocab": [
-              {
-                "word": "willingness to notice",
-                "def": "包容性的語言不一定很複雜"
-              }
-            ]
+            "zh": "沒錯。包容性的語言不一定很複雜；很多時候，它只是願不願意看見誰還在默默翻譯。"
           },
           {
             "speaker": "b",
@@ -667,12 +535,7 @@ export const WEEK_48: Episode[] = [
             "speakerName": "Mira",
             "en": "Good. Humor can connect, but it becomes healthier when people also know how to widen the doorway.",
             "zh": "很好。幽默當然可以連結，但當大家也知道怎麼把門口打寬一點時，它會更健康。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Belonging and Language Awareness",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -726,14 +589,14 @@ export const WEEK_48: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "inside-the-circle language",
-        "zh": "只有圈內人比較自然懂得的說法",
-        "example": "Inside-the-circle language can feel warm and exclusive at once."
+        "en": "insider language",
+        "zh": "只有圈內人自然會懂的說法",
+        "example": "Insider language can feel warm and exclusive at once."
       },
       {
-        "en": "social distance through language",
-        "zh": "因為語言聽不懂而產生的距離感",
-        "example": "He felt the social distance through language immediately."
+        "en": "language barrier",
+        "zh": "因為語言不通而產生的距離感",
+        "example": "He felt the language barrier immediately."
       },
       {
         "en": "belonging cue",
@@ -788,13 +651,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That you are often living between worlds at the same time. You are not only switching codes; you are switching social expectations, emotional reflexes, and ways of belonging.",
-            "zh": "就是你常常同時活在世界和世界之間。你不只是換 code，而是在切換社會期待、情緒反射和歸屬方式。",
-            "vocab": [
-              {
-                "word": "living between worlds",
-                "def": "同時活在不只一套語言和文化系統裡"
-              }
-            ]
+            "zh": "就是你常常同時活在世界和世界之間。你不只是換 code，而是在切換社會期待、情緒反射和歸屬方式。"
           },
           {
             "speaker": "b",
@@ -806,13 +663,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not even close. It can mean carrying multiple homes, multiple embarrassments, and multiple forms of competence inside one body.",
-            "zh": "差得很遠。它可能代表同一個身體裡同時裝著多個家的感覺、多種尷尬，也有多種能力。",
-            "vocab": [
-              {
-                "word": "multiple homes",
-                "def": "不只一種語言會讓人感覺像家"
-              }
-            ]
+            "zh": "差得很遠。它可能代表同一個身體裡同時裝著多個家的感覺、多種尷尬，也有多種能力。"
           },
           {
             "speaker": "b",
@@ -824,13 +675,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is both. Richness and fatigue are very normal companions in bilingual life.",
-            "zh": "它很多時候本來就兩者都有。豐富感和疲憊感，往往是雙語生活很正常的同伴。",
-            "vocab": [
-              {
-                "word": "richness and fatigue",
-                "def": "多語生活裡常同時存在的豐富感與疲憊感"
-              }
-            ]
+            "zh": "它很多時候本來就兩者都有。豐富感和疲憊感，往往是雙語生活很正常的同伴。"
           },
           {
             "speaker": "b",
@@ -859,13 +704,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The constant micro-adjustment. People may look fluent from the outside while still translating tone, filtering words, and calibrating how they sound.",
-            "zh": "是那種持續不斷的微調。從外面看，一個人也許很流利，但他腦中其實還在翻 tone、過濾字、調整自己聽起來怎麼樣。",
-            "vocab": [
-              {
-                "word": "micro-adjustment",
-                "def": "是那種持續不斷的微調"
-              }
-            ]
+            "zh": "是那種持續不斷的微調。從外面看，一個人也許很流利，但他腦中其實還在翻 tone、過濾字、調整自己聽起來怎麼樣。"
           },
           {
             "speaker": "b",
@@ -877,13 +716,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Another invisible task is memory management. Different languages can hold different relationships, ages, or versions of your history.",
-            "zh": "對。另一個很隱形的工作是記憶管理。不同語言有時會裝著不同的關係、不同年紀的自己，或不同版本的歷史。",
-            "vocab": [
-              {
-                "word": "invisible task is memory",
-                "def": "另一個很隱形的工作是記憶管理"
-              }
-            ]
+            "zh": "對。另一個很隱形的工作是記憶管理。不同語言有時會裝著不同的關係、不同年紀的自己，或不同版本的歷史。"
           },
           {
             "speaker": "b",
@@ -895,13 +728,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is complicated because language is not a neutral container. It can change which memories feel near, and which ones feel harder to reach.",
-            "zh": "它很複雜，因為語言不是中性容器。它會改變哪一段記憶離你比較近，哪一段比較難碰到。",
-            "vocab": [
-              {
-                "word": "complicated",
-                "def": "語言不是中性容器"
-              }
-            ]
+            "zh": "它很複雜，因為語言不是中性容器。它會改變哪一段記憶離你比較近，哪一段比較難碰到。"
           },
           {
             "speaker": "b",
@@ -929,14 +756,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"Being bilingual means I am often translating more than words.\" That is simple, but very strong.",
-            "zh": "你可以試：「Being bilingual means I am often translating more than words.」這句簡單，但很強。",
-            "vocab": [
-              {
-                "word": "words",
-                "def": "真正需要轉換的不只是字面"
-              }
-            ]
+            "en": "A powerful line is: \"Being bilingual means I am often translating more than words.\" Simple, but it carries a lot of weight.",
+            "zh": "一句很有力的說法是：「Being bilingual means I am often translating more than words.」簡單，但帶得很多。"
           },
           {
             "speaker": "b",
@@ -948,13 +769,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Some memories arrive faster in one language than the other.\" That sounds reflective without being too abstract.",
-            "zh": "另一句也很好：「Some memories arrive faster in one language than the other.」這句有反思感，又不會太抽象。",
-            "vocab": [
-              {
-                "word": "memories arrive faster",
-                "def": "某種語言會讓某些記憶更快浮上來"
-              }
-            ]
+            "zh": "另一句也很好：「Some memories arrive faster in one language than the other.」這句有反思感，又不會太抽象。"
           },
           {
             "speaker": "b",
@@ -966,13 +781,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to talk about fatigue, say: \"I can do it, but the effort is not always visible from the outside.\" That is honest and clear.",
-            "zh": "如果你想談疲累，也可以說：「I can do it, but the effort is not always visible from the outside.」這句誠實又清楚。",
-            "vocab": [
-              {
-                "word": "always visible",
-                "def": "從外面總看得見"
-              }
-            ]
+            "zh": "如果你想談疲累，也可以說：「I can do it, but the effort is not always visible from the outside.」這句誠實又清楚。"
           },
           {
             "speaker": "b",
@@ -1001,13 +810,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes you can feel both too much and not enough in each place. Too foreign in one room, too different in another, and fully simple in neither.",
-            "zh": "有時候你會在每個地方都同時太多又不夠。在一個房間裡太外來，在另一個房間裡又太不同，而在任何地方都很難很單純。",
-            "vocab": [
-              {
-                "word": "fully simple in neither",
-                "def": "在一個房間裡太外來"
-              }
-            ]
+            "zh": "有時候你會在每個地方都同時太多又不夠。在一個房間裡太外來，在另一個房間裡又太不同，而在任何地方都很難很單純。"
           },
           {
             "speaker": "b",
@@ -1019,13 +822,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can be lonely, especially before people find language for it. But it can also become a form of sensitivity and depth over time.",
-            "zh": "它可能真的很孤單，尤其是在一個人還沒有語言能描述它之前。但時間久了，它也可能長成一種敏感和深度。",
-            "vocab": [
-              {
-                "word": "especially before people",
-                "def": "它可能真的很孤單"
-              }
-            ]
+            "zh": "它可能真的很孤單，尤其是在一個人還沒有語言能描述它之前。但時間久了，它也可能長成一種敏感和深度。"
           },
           {
             "speaker": "b",
@@ -1037,13 +834,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. People who live between languages often become better at noticing nuance, translating context, and recognizing complexity.",
-            "zh": "沒錯。活在語言之間的人，常常會變得更會看細微差異、更會翻 context，也更能辨認複雜性。",
-            "vocab": [
-              {
-                "word": "between languages often become",
-                "def": "活在語言之間的人"
-              }
-            ]
+            "zh": "沒錯。活在語言之間的人，常常會變得更會看細微差異、更會翻 context，也更能辨認複雜性。"
           },
           {
             "speaker": "b",
@@ -1177,13 +968,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because story is one of the main ways people make their lives legible to themselves. We understand ourselves partly by how we narrate what happened.",
-            "zh": "因為故事是人讓自己的人生變得可讀的主要方式之一。我們理解自己，有一部分就是透過我們怎麼敘述自己經歷過的事。",
-            "vocab": [
-              {
-                "word": "make their lives legible",
-                "def": "可讀的主要方式之一"
-              }
-            ]
+            "zh": "因為故事是人讓自己的人生變得可讀的主要方式之一。我們理解自己，有一部分就是透過我們怎麼敘述自己經歷過的事。"
           },
           {
             "speaker": "b",
@@ -1195,13 +980,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
-            "zh": "沒錯。事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。",
-            "vocab": [
-              {
-                "word": "facts matter",
-                "def": "事實很重要"
-              }
-            ]
+            "zh": "沒錯。事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
           },
           {
             "speaker": "b",
@@ -1213,13 +992,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is powerful because people do not only live through events. They live through the meaning they attach to those events.",
-            "zh": "它本來就很有力量，因為人不只是在經歷事件，他同時也在活自己賦予事件的意義。",
-            "vocab": [
-              {
-                "word": "attach to those events",
-                "def": "人貼在某段經驗上的解釋與意義"
-              }
-            ]
+            "zh": "它本來就很有力量，因為人不只是在經歷事件，他同時也在活自己賦予事件的意義。"
           },
           {
             "speaker": "b",
@@ -1248,13 +1021,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many are inherited. Family myths, cultural scripts, migration stories, and group expectations all shape what people think a meaningful life is supposed to look like.",
-            "zh": "很多都是繼承來的。家庭神話、文化劇本、移動故事，還有群體期待，都在塑造人以為「有意義的人生應該長什麼樣」。",
-            "vocab": [
-              {
-                "word": "cultural scripts",
-                "def": "家庭神話、文化劇本、移動故事"
-              }
-            ]
+            "zh": "很多都是繼承來的。家庭神話、文化劇本、移動故事，還有群體期待，都在塑造人以為「有意義的人生應該長什麼樣」。"
           },
           {
             "speaker": "b",
@@ -1266,13 +1033,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And part of growing up is noticing which parts of your story are actually yours, and which parts were handed to you before you could choose.",
-            "zh": "沒錯。而長大的其中一部分，就是慢慢辨認：你故事裡哪些部分真的屬於你，哪些部分是在你還沒能選之前，就先被塞進來的。",
-            "vocab": [
-              {
-                "word": "growing up is noticing",
-                "def": "而長大的其中一部分"
-              }
-            ]
+            "zh": "沒錯。而長大的其中一部分，就是慢慢辨認：你故事裡哪些部分真的屬於你，哪些部分是在你還沒能選之前，就先被塞進來的。"
           },
           {
             "speaker": "b",
@@ -1284,13 +1045,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is both. Rewriting a story can feel like betrayal before it starts feeling like truth.",
-            "zh": "它很多時候就是兩種感覺同時存在。重寫故事，在它開始像真相之前，常常會先像背叛。",
-            "vocab": [
-              {
-                "word": "feel like betrayal",
-                "def": "重寫故事"
-              }
-            ]
+            "zh": "它很多時候就是兩種感覺同時存在。重寫故事，在它開始像真相之前，常常會先像背叛。"
           },
           {
             "speaker": "b",
@@ -1319,13 +1074,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong sentence is: \"I am still learning how to tell that part of my life in a way that feels true.\" It sounds honest and mature.",
-            "zh": "一句很強的句子是：「I am still learning how to tell that part of my life in a way that feels true.」這句很誠實，也很成熟。",
-            "vocab": [
-              {
-                "word": "feels true",
-                "def": "也很成熟"
-              }
-            ]
+            "zh": "一句很強的句子是：「I am still learning how to tell that part of my life in a way that feels true.」這句很誠實，也很成熟。"
           },
           {
             "speaker": "b",
@@ -1337,31 +1086,19 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is: \"For a long time, I used someone else's language for my own experience.\" That works when the old story no longer fits.",
-            "zh": "另一句也很好：「For a long time, I used someone else's language for my own experience.」如果舊故事已經不再合身，這句很有用。",
-            "vocab": [
-              {
-                "word": "old story",
-                "def": "一直跟著自己、限制自己的自我敘事"
-              }
-            ]
+            "zh": "另一句也很好：「For a long time, I used someone else's language for my own experience.」如果舊故事已經不再合身，這句很有用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a clear way to describe identity growth.",
-            "zh": "這是形容 identity growth 很清楚的一句。"
+            "en": "That tracks — especially in practice.",
+            "zh": "這說得通——尤其在實際情況裡。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something simpler, say: \"The story changed when I changed what counted as the important part.\" That captures reframing well.",
-            "zh": "如果你想簡單一點，可以說：「The story changed when I changed what counted as the important part.」這句很能抓到 reframing。",
-            "vocab": [
-              {
-                "word": "changed what counted",
-                "def": "重新決定哪個部分才是故事真正重要的核心"
-              }
-            ]
+            "zh": "如果你想簡單一點，可以說：「The story changed when I changed what counted as the important part.」這句很能抓到 reframing。"
           },
           {
             "speaker": "b",
@@ -1378,7 +1115,7 @@ export const WEEK_48: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — When the Story Changes",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -1402,13 +1139,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Narrative identity often changes not because memory changes, but because meaning does.",
-            "zh": "沒錯。narrative identity 很多時候不是記憶變了，而是意義變了。",
-            "vocab": [
-              {
-                "word": "memory changes",
-                "def": "而是意義變了"
-              }
-            ]
+            "zh": "沒錯。narrative identity 很多時候不是記憶變了，而是意義變了。"
           },
           {
             "speaker": "b",
@@ -1420,13 +1151,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. A better story does not deny the pain. It just puts the pain in a larger and more workable frame.",
-            "zh": "非常是。更好的故事不是否認痛，而是把痛放進一個更大、也更能活下去的框裡。",
-            "vocab": [
-              {
-                "word": "workable frame",
-                "def": "一個能讓人繼續往前活下去的故事框架"
-              }
-            ]
+            "zh": "非常是。更好的故事不是否認痛，而是把痛放進一個更大、也更能活下去的框裡。"
           },
           {
             "speaker": "b",
@@ -1439,12 +1164,7 @@ export const WEEK_48: Episode[] = [
             "speakerName": "Mira",
             "en": "It can be, especially when the speaker finally hears themselves with more truth and less shame.",
             "zh": "它很多時候真的會，尤其是當說話的人終於用比較多真相、比較少羞愧去聽見自己時。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Stories We Choose to Live By",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1498,14 +1218,14 @@ export const WEEK_48: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "make life legible",
-        "zh": "把原本混亂的人生經驗說成自己也能看懂的樣子",
-        "example": "Story helped her make life legible again."
+        "en": "make sense of life",
+        "zh": "把混亂的人生經驗慢慢整理到自己看得懂",
+        "example": "Story helped her make sense of life again."
       },
       {
-        "en": "self-story frame",
-        "zh": "一個人用什麼角度去框自己的人生故事",
-        "example": "His self-story frame changed after that year."
+        "en": "the story you tell yourself",
+        "zh": "你如何解釋自己人生經驗的那套說法",
+        "example": "The story you tell yourself can change after one honest year."
       },
       {
         "en": "inherited script",
@@ -1560,13 +1280,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does both. Language may not trap thought completely, but it definitely guides attention, habit, and what feels easy to notice.",
-            "zh": "兩者都會。語言也許不會完全把思考關住，但它確實會引導注意力、習慣，以及什麼東西會比較容易被你看見。",
-            "vocab": [
-              {
-                "word": "definitely guides attention",
-                "def": "語言也許不會完全把思考關住"
-              }
-            ]
+            "zh": "兩者都會。語言也許不會完全把思考關住，但它確實會引導注意力、習慣，以及什麼東西會比較容易被你看見。"
           },
           {
             "speaker": "b",
@@ -1578,13 +1292,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If a language gives you rich ways to name a feeling or relationship, it can make that inner territory easier to think about.",
-            "zh": "沒錯。如果一種語言給了你很多方式去命名某種感受或關係，那片內在領域對你來說就會比較好思考。",
-            "vocab": [
-              {
-                "word": "inner territory easier",
-                "def": "比較好思考"
-              }
-            ]
+            "zh": "沒錯。如果一種語言給了你很多方式去命名某種感受或關係，那片內在領域對你來說就會比較好思考。"
           },
           {
             "speaker": "b",
@@ -1596,13 +1304,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is powerful because naming is a form of mental organization. Once you can name something well, you can often work with it better too.",
-            "zh": "它本來就有力量，因為命名本身就是一種心理整理。你一旦把某件事命名得比較好，通常也會比較能和它一起工作。",
-            "vocab": [
-              {
-                "word": "form of mental organization",
-                "def": "一種心理整理"
-              }
-            ]
+            "zh": "它本來就有力量，因為命名本身就是一種心理整理。你一旦把某件事命名得比較好，通常也會比較能和它一起工作。"
           },
           {
             "speaker": "b",
@@ -1613,8 +1315,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good way to put it.",
-            "zh": "你這個說法很好。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           }
         ]
       },
@@ -1631,13 +1333,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, especially in small repeated areas like emotion, time, politeness, family roles, and responsibility.",
-            "zh": "會，尤其是在那些小但會重複出現的區域，像情緒、時間、禮貌、家庭角色和責任。",
-            "vocab": [
-              {
-                "word": "repeated areas like emotion",
-                "def": "會，尤其是在那些小但會重複出現的區域"
-              }
-            ]
+            "zh": "會，尤其是在那些小但會重複出現的區域，像情緒、時間、禮貌、家庭角色和責任。"
           },
           {
             "speaker": "b",
@@ -1649,13 +1345,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. One language may encourage blunt naming. Another may encourage more relational or indirect framing. Over time that changes mental habits.",
-            "zh": "沒錯。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的 framing。時間久了，心智習慣就會被改動。",
-            "vocab": [
-              {
-                "word": "encourage blunt naming",
-                "def": "一種語言可能鼓勵直接命名"
-              }
-            ]
+            "zh": "沒錯。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的 framing。時間久了，心智習慣就會被改動。"
           },
           {
             "speaker": "b",
@@ -1667,13 +1357,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that can be a real gift. It can make a person more flexible about interpretation and less trapped by one default frame.",
-            "zh": "沒錯，而這會是一種很真的 gift。它會讓人對解讀比較有彈性，不會被單一預設框架困住。",
-            "vocab": [
-              {
-                "word": "one default frame",
-                "def": "而這會是一種很真的gift"
-              }
-            ]
+            "zh": "沒錯，而這會是一種很真的 gift。它會讓人對解讀比較有彈性，不會被單一預設框架困住。"
           },
           {
             "speaker": "b",
@@ -1702,13 +1386,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version would be \"The words available to me changed what I could notice clearly.\" That sounds thoughtful and concrete.",
-            "zh": "一句很好用的是：「The words available to me changed what I could notice clearly.」這句很有思考，也很具體。",
-            "vocab": [
-              {
-                "word": "words available",
-                "def": "也很具體"
-              }
-            ]
+            "zh": "一句很好用的是：「The words available to me changed what I could notice clearly.」這句很有思考，也很具體。"
           },
           {
             "speaker": "b",
@@ -1720,13 +1398,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might also say, \"Once I had language for it, the experience stopped feeling so vague.\" That works for emotion and identity topics too.",
-            "zh": "另一句也很好：「Once I had language for it, the experience stopped feeling so vague.」這句在情緒和身份主題裡也很好用。",
-            "vocab": [
-              {
-                "word": "experience stopped",
-                "def": "那段經驗不再那麼模糊"
-              }
-            ]
+            "zh": "另一句也很好：「Once I had language for it, the experience stopped feeling so vague.」這句在情緒和身份主題裡也很好用。"
           },
           {
             "speaker": "b",
@@ -1737,14 +1409,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want something broader, try: \"Different languages do not only offer different words. They offer different ways of organizing attention.\"",
-            "zh": "如果你想講得更廣，也可以試：「Different languages do not only offer different words. They offer different ways of organizing attention.」",
-            "vocab": [
-              {
-                "word": "offer different ways",
-                "def": "也可以試："
-              }
-            ]
+            "en": "When you need something broader, try: \"Different languages do not only offer different words. They offer different ways of organizing attention.\"",
+            "zh": "如果你想講得更廣，也可以試：「Different languages do not only offer different words. They offer different ways of organizing attention.」"
           },
           {
             "speaker": "b",
@@ -1785,13 +1451,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It gives the mind a stronger handle, and that can change how quickly a person recognizes a pattern.",
-            "zh": "沒錯。它像是替心智做了一個更好的把手，而那會改變一個人認出 pattern 的速度。",
-            "vocab": [
-              {
-                "word": "mind a stronger handle",
-                "def": "它像是替心智做了一個更好的把手"
-              }
-            ]
+            "zh": "沒錯。它像是替心智做了一個更好的把手，而那會改變一個人認出 pattern 的速度。"
           },
           {
             "speaker": "b",
@@ -1803,13 +1463,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. New words can rearrange more than expression. They can rearrange self-understanding.",
-            "zh": "對。新字改動的不只是表達，它們也可能重排自我理解。",
-            "vocab": [
-              {
-                "word": "rearrange self-understanding",
-                "def": "因為新的語言，把對自己的理解重新排過一次"
-              }
-            ]
+            "zh": "對。新字改動的不只是表達，它們也可能重排自我理解。"
           },
           {
             "speaker": "b",
@@ -1943,13 +1597,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because writing lets thought slow down enough to hear itself. In speech, meaning often arrives while it is still forming.",
-            "zh": "因為寫作會讓思考慢下來，慢到它能聽見自己。說話時，意思常常還在形成就已經到了嘴邊。",
-            "vocab": [
-              {
-                "word": "lets thought slow down",
-                "def": "慢到它能聽見自己"
-              }
-            ]
+            "zh": "因為寫作會讓思考慢下來，慢到它能聽見自己。說話時，意思常常還在形成就已經到了嘴邊。"
           },
           {
             "speaker": "b",
@@ -1961,13 +1609,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can revise tone, shape emotion, and notice contradictions before someone else hears them.",
-            "zh": "沒錯。你可以修語氣、整理情緒，也可以在別人聽見前，先看到自己的矛盾。",
-            "vocab": [
-              {
-                "word": "shape emotion",
-                "def": "你可以修語氣、整理情緒"
-              }
-            ]
+            "zh": "沒錯。你可以修語氣、整理情緒，也可以在別人聽見前，先看到自己的矛盾。"
           },
           {
             "speaker": "b",
@@ -1979,19 +1621,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is. Writing lets people become visible to themselves before they become visible to other people.",
-            "zh": "很多時候真的就是。寫作會讓人先對自己變得可見，之後才對別人可見。",
-            "vocab": [
-              {
-                "word": "become visible to themselves",
-                "def": "很多時候真的就是"
-              }
-            ]
+            "zh": "很多時候真的就是。寫作會讓人先對自己變得可見，之後才對別人可見。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely strong phrase.",
-            "zh": "這個說法很強。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "a",
@@ -2014,13 +1650,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because speech rewards speed, while writing rewards reflection. Some selves need a little time before they become articulate.",
-            "zh": "因為說話獎勵的是速度，而寫作獎勵的是反思。有些自己，需要多一點時間，才會變得有表達能力。",
-            "vocab": [
-              {
-                "word": "speech rewards speed",
-                "def": "而寫作獎勵的是反思"
-              }
-            ]
+            "zh": "因為說話獎勵的是速度，而寫作獎勵的是反思。有些自己，需要多一點時間，才會變得有表達能力。"
           },
           {
             "speaker": "b",
@@ -2032,13 +1662,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Writing also gives privacy, and privacy can lower performance pressure enough for honesty to show up.",
-            "zh": "沒錯。而且寫作會給出私密性，那個私密性有時會把表演壓力降到夠低，讓誠實真的出來。",
-            "vocab": [
-              {
-                "word": "performance pressure enough",
-                "def": "而且寫作會給出私密性"
-              }
-            ]
+            "zh": "沒錯。而且寫作會給出私密性，那個私密性有時會把表演壓力降到夠低，讓誠實真的出來。"
           },
           {
             "speaker": "b",
@@ -2050,13 +1674,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very different. One asks for fast coherence in public. The other allows unfinished truth in private.",
-            "zh": "差很多。一個要求的是公開場合裡快速成形的 coherence；另一個則允許你在私下保留還沒完成的真相。",
-            "vocab": [
-              {
-                "word": "unfinished truth",
-                "def": "還沒有整理完，但已經比表面更真的東西"
-              }
-            ]
+            "zh": "差很多。一個要求的是公開場合裡快速成形的 coherence；另一個則允許你在私下保留還沒完成的真相。"
           },
           {
             "speaker": "b",
@@ -2085,13 +1703,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong line is: \"Writing helps me hear what I actually mean.\" It is simple, but it works.",
-            "zh": "一句很強的是：「Writing helps me hear what I actually mean.」這句很簡單，但很好用。",
-            "vocab": [
-              {
-                "word": "Writing helps me hear",
-                "def": "透過寫作比較清楚知道自己真正想說什麼"
-              }
-            ]
+            "zh": "一句很強的是：「Writing helps me hear what I actually mean.」這句很簡單，但很好用。"
           },
           {
             "speaker": "b",
@@ -2103,13 +1715,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I sound more like myself when I have time to shape the sentence.\" That works well when you want to talk about pace and identity.",
-            "zh": "另一句也很好：「I sound more like myself when I have time to shape the sentence.」如果你想談節奏和身份，這句很好用。",
-            "vocab": [
-              {
-                "word": "shape the sentence",
-                "def": "慢慢把句子修成更像自己的樣子"
-              }
-            ]
+            "zh": "另一句也很好：「I sound more like myself when I have time to shape the sentence.」如果你想談節奏和身份，這句很好用。"
           },
           {
             "speaker": "b",
@@ -2121,13 +1727,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something more emotional, say: \"The page gives me a kind of honesty that conversation does not always allow.\" That lands for many people.",
-            "zh": "如果你想講得更情感一點，可以說：「The page gives me a kind of honesty that conversation does not always allow.」這句很多人都會有感。",
-            "vocab": [
-              {
-                "word": "page gives",
-                "def": "有感"
-              }
-            ]
+            "zh": "如果你想講得更情感一點，可以說：「The page gives me a kind of honesty that conversation does not always allow.」這句很多人都會有感。"
           },
           {
             "speaker": "b",
@@ -2144,7 +1744,7 @@ export const WEEK_48: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Writing Moment That Changes Someone",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2168,13 +1768,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The page reflects back more than memory. It reflects back emphasis, and emphasis changes identity.",
-            "zh": "沒錯。紙面反射回來的不只是記憶，也包括重點的配置；而重點一改，身份感就會跟著改。",
-            "vocab": [
-              {
-                "word": "identity",
-                "def": "身份；自我認同"
-              }
-            ]
+            "zh": "沒錯。紙面反射回來的不只是記憶，也包括重點的配置；而重點一改，身份感就會跟著改。"
           },
           {
             "speaker": "b",
@@ -2186,13 +1780,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because people often believe the first story they tell. Writing gives them a chance to revise what the first story forgot.",
-            "zh": "它很重要，因為很多人會直接相信自己第一次說出的故事；寫作會給他第二次機會，去修第一次故事漏掉的東西。",
-            "vocab": [
-              {
-                "word": "first story forgot",
-                "def": "去修第一次故事漏掉的東西"
-              }
-            ]
+            "zh": "它很重要，因為很多人會直接相信自己第一次說出的故事；寫作會給他第二次機會，去修第一次故事漏掉的東西。"
           },
           {
             "speaker": "b",
@@ -2205,12 +1793,7 @@ export const WEEK_48: Episode[] = [
             "speakerName": "Mira",
             "en": "Often, yes.",
             "zh": "常常都是這樣。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Courage to Put Yourself on the Page",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2264,9 +1847,9 @@ export const WEEK_48: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "slow thought space",
-        "zh": "寫作提供的一種讓思考慢下來的空間",
-        "example": "Writing gave her the slow thought space she needed."
+        "en": "time to think clearly",
+        "zh": "讓思緒慢下來、把事情想清楚的空間",
+        "example": "Writing gave her the time she needed to think clearly."
       },
       {
         "en": "revision-based honesty",
@@ -2326,13 +1909,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because being able to find language for your inner life changes what kind of life becomes possible. Expression gives shape, connection, and sometimes relief.",
-            "zh": "因為當你能替內在生活找到語言時，你能活出的生活種類就會改變。表達會帶來形狀、連結，有時也帶來鬆一口氣。",
-            "vocab": [
-              {
-                "word": "inner life changes",
-                "def": "你能活出的生活種類就會改變"
-              }
-            ]
+            "zh": "因為當你能替內在生活找到語言時，你能活出的生活種類就會改變。表達會帶來形狀、連結，有時也帶來鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -2344,13 +1921,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Once something can be expressed, it becomes easier to share, reflect on, and respond to.",
-            "zh": "沒錯。一件事一旦能被表達，就更容易被分享、被反思，也更容易被回應。",
-            "vocab": [
-              {
-                "word": "becomes easier to share",
-                "def": "一件事一旦能被表達"
-              }
-            ]
+            "zh": "沒錯。一件事一旦能被表達，就更容易被分享、被反思，也更容易被回應。"
           },
           {
             "speaker": "b",
@@ -2362,13 +1933,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Words are alive in that sense. They let hidden things move from isolation into relation.",
-            "zh": "在這個意義上，字本來就很活。它會讓原本隱藏的東西，從孤立慢慢移進關係裡。",
-            "vocab": [
-              {
-                "word": "move from isolation into relation",
-                "def": "原本孤零零的感受"
-              }
-            ]
+            "zh": "在這個意義上，字本來就很活。它會讓原本隱藏的東西，從孤立慢慢移進關係裡。"
           },
           {
             "speaker": "b",
@@ -2397,13 +1962,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of inner life stays trapped in rough form. People may feel overwhelmed, misunderstood, or strangely absent from their own conversations.",
-            "zh": "很多內在生活會卡在很粗糙的形狀裡。人會覺得 overwhelmed、被誤解，或在自己的對話裡奇怪地缺席。",
-            "vocab": [
-              {
-                "word": "life stays trapped",
-                "def": "很多內在生活會卡在很粗糙的形狀裡"
-              }
-            ]
+            "zh": "很多內在生活會卡在很粗糙的形狀裡。人會覺得 overwhelmed、被誤解，或在自己的對話裡奇怪地缺席。"
           },
           {
             "speaker": "b",
@@ -2415,13 +1974,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is ordinary and painful. When expression is blocked, people often fall back on silence, over-explaining, or language that feels too small for what they mean.",
-            "zh": "它既普通，也很痛。當表達被卡住，人常常會退回沉默、過度解釋，或只能用太小的字去裝太大的意思。",
-            "vocab": [
-              {
-                "word": "back on silence",
-                "def": "人常常會退回沉默、過度解釋"
-              }
-            ]
+            "zh": "它既普通，也很痛。當表達被卡住，人常常會退回沉默、過度解釋，或只能用太小的字去裝太大的意思。"
           },
           {
             "speaker": "b",
@@ -2433,13 +1986,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. When you cannot say what matters, it can feel like your reality has less weight in the room.",
-            "zh": "完全會。當你說不出真正重要的東西時，你會感覺自己的現實在那個房間裡比較沒重量。",
-            "vocab": [
-              {
-                "word": "reality has less weight",
-                "def": "完全會"
-              }
-            ]
+            "zh": "完全會。當你說不出真正重要的東西時，你會感覺自己的現實在那個房間裡比較沒重量。"
           },
           {
             "speaker": "b",
@@ -2468,13 +2015,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A strong sentence is: \"I feel more whole when I can say what I actually mean.\" It is simple, but it carries a lot.",
-            "zh": "一句很強的是：「I feel more whole when I can say what I actually mean.」這句很簡單，但帶很多。",
-            "vocab": [
-              {
-                "word": "mean",
-                "def": "但帶很多"
-              }
-            ]
+            "zh": "一句很強的是：「I feel more whole when I can say what I actually mean.」這句很簡單，但帶很多。"
           },
           {
             "speaker": "b",
@@ -2486,13 +2027,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"Expression gives me a way to meet other people without leaving myself behind.\" That works beautifully for identity topics.",
-            "zh": "另一句也很美：「Expression gives me a way to meet other people without leaving myself behind.」它很適合身份主題。",
-            "vocab": [
-              {
-                "word": "other people without leaving",
-                "def": "跟別人連結；同時不丟掉自己"
-              }
-            ]
+            "zh": "另一句也很美：「Expression gives me a way to meet other people without leaving myself behind.」它很適合身份主題。"
           },
           {
             "speaker": "b",
@@ -2504,13 +2039,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something gentler, say: \"Sometimes the gift is not having perfect words. It is having enough words to be understood.\"",
-            "zh": "如果你想講得更溫柔，也可以說：「Sometimes the gift is not having perfect words. It is having enough words to be understood.」",
-            "vocab": [
-              {
-                "word": "enough words",
-                "def": "不求完美"
-              }
-            ]
+            "zh": "如果你想講得更溫柔，也可以說：「Sometimes the gift is not having perfect words. It is having enough words to be understood.」"
           },
           {
             "speaker": "b",
@@ -2533,7 +2062,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Can one moment of good expression really change a relationship?",
-            "zh": "一個表達得很好的 moment，真的會改變一段關係嗎？"
+            "zh": "一個表達得很好的時刻，真的會改變一段關係嗎？"
           },
           {
             "speaker": "a",
@@ -2551,13 +2080,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Good expression is not decoration. It can be the bridge between private feeling and shared reality.",
-            "zh": "沒錯。好的表達不是裝飾，它可能就是私人感受和共享現實之間的橋。",
-            "vocab": [
-              {
-                "word": "between private feeling",
-                "def": "好的表達不是裝飾"
-              }
-            ]
+            "zh": "沒錯。好的表達不是裝飾，它可能就是私人感受和共享現實之間的橋。"
           },
           {
             "speaker": "b",
@@ -2569,13 +2092,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In some moments it does feel that way, because language can carry tenderness, repair, truth, and release all at once.",
-            "zh": "在某些時刻，真的會有那種感覺，因為語言可以同時承載溫柔、修復、真相和釋放。",
-            "vocab": [
-              {
-                "word": "language can carry tenderness",
-                "def": "真的會有那種感覺"
-              }
-            ]
+            "zh": "在某些時刻，真的會有那種感覺，因為語言可以同時承載溫柔、修復、真相和釋放。"
           },
           {
             "speaker": "b",
@@ -2647,9 +2164,9 @@ export const WEEK_48: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "find language for yourself",
-        "zh": "替自己的感受和經驗找到真正能用的語言",
-        "example": "It took years to find language for herself."
+        "en": "find the right words",
+        "zh": "替自己的感受找到真正貼切的說法",
+        "example": "It took years for her to find the right words."
       },
       {
         "en": "expressible self",

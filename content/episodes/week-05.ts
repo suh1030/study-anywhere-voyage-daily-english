@@ -22,13 +22,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because celebrations do more than create fun. They help people mark time, remember meaning, and feel part of something larger.",
-            "zh": "因為慶祝不只是好玩而已。它會幫人標記時間、記住意義，也讓人感覺自己屬於更大的群體。",
-            "vocab": [
-              {
-                "word": "mark time",
-                "def": "人感覺自己屬於更大的群體"
-              }
-            ]
+            "zh": "因為慶祝不只是好玩而已。它會幫人標記時間、記住意義，也讓人感覺自己屬於更大的群體。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It says, \"This moment matters. Do not rush past it.\"",
-            "zh": "對。它像是在說：「這個時刻很重要，不要匆匆地經過它。」",
-            "vocab": [
-              {
-                "word": "moment matters",
-                "def": "這個時刻值得被特別注意和記住"
-              }
-            ]
+            "zh": "對。它像是在說：「這個時刻很重要，不要匆匆地經過它。」"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They create shared emotion. People laugh together, remember together, and sometimes even grieve together.",
-            "zh": "它們會創造共享的情緒。大家一起笑、一起記得，有時候甚至一起哀悼。",
-            "vocab": [
-              {
-                "word": "shared emotion",
-                "def": "很多人一起感受到的情緒連結"
-              }
-            ]
+            "zh": "它們會創造共享的情緒。大家一起笑、一起記得，有時候甚至一起哀悼。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Some are joyful, some are tender, and some are mixed. But they all bring people into the same emotional room.",
-            "zh": "對。有些很開心，有些很溫柔，也有些是複雜混合的。但它們都會把人帶進同一個情緒空間。",
-            "vocab": [
-              {
-                "word": "emotional room",
-                "def": "把人帶進同一個情緒空間"
-              }
-            ]
+            "zh": "對。有些很開心，有些很溫柔，也有些是複雜混合的。但它們都會把人帶進同一個情緒空間。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They are deeper. A celebration can become a memory anchor for years.",
-            "zh": "它們本來就比較深。一場慶祝可能會變成你很多年後還記得的記憶錨點。",
-            "vocab": [
-              {
-                "word": "memory anchor",
-                "def": "多年後仍然會想起來的重要記憶點"
-              }
-            ]
+            "zh": "它們本來就比較深。一場慶祝可能會變成你很多年後還記得的記憶錨點。"
           },
           {
             "speaker": "b",
@@ -158,13 +128,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very simple one is: \"We wanted to make the day feel special.\" That works in many situations.",
-            "zh": "一個很簡單、很好用的說法是：「We wanted to make the day feel special.」很多情況都能用。",
-            "vocab": [
-              {
-                "word": "feel special",
-                "def": "讓某一天特別有儀式感"
-              }
-            ]
+            "zh": "一個很簡單、很好用的說法是：「We wanted to make the day feel special.」很多情況都能用。"
           },
           {
             "speaker": "b",
@@ -176,13 +140,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good one is: \"The celebration brought everyone together.\" That is useful when the event was more about people than activities.",
-            "zh": "另一句很好用的是：「The celebration brought everyone together.」如果那場慶祝重點比較在人和關係上，這句很適合。",
-            "vocab": [
-              {
-                "word": "brought everyone together",
-                "def": "把大家聚在一起、拉近彼此"
-              }
-            ]
+            "zh": "另一句很好用的是：「The celebration brought everyone together.」如果那場慶祝重點比較在人和關係上，這句很適合。"
           },
           {
             "speaker": "b",
@@ -194,13 +152,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, \"It gave us a reason to pause and appreciate things.\" That line works when the mood is more reflective.",
-            "zh": "你也可以說：「It gave us a reason to pause and appreciate things.」如果那個氣氛比較偏反思，這句很好用。",
-            "vocab": [
-              {
-                "word": "pause",
-                "def": "暫停；間歇"
-              }
-            ]
+            "zh": "你也可以說：「It gave us a reason to pause and appreciate things.」如果那個氣氛比較偏反思，這句很好用。"
           },
           {
             "speaker": "b",
@@ -217,7 +169,7 @@ export const WEEK_05: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Small Celebrations Count Too",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -229,13 +181,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In some ways, yes. Small celebrations happen more often, so they may shape daily life even more.",
-            "zh": "某些方面是這樣。小慶祝發生得更頻繁，所以它對日常生活的影響，有時候反而更大。",
-            "vocab": [
-              {
-                "word": "small celebration",
-                "def": "不大張旗鼓，但仍然值得慶祝的小時刻"
-              }
-            ]
+            "zh": "某些方面是這樣。小慶祝發生得更頻繁，所以它對日常生活的影響，有時候反而更大。"
           },
           {
             "speaker": "b",
@@ -259,13 +205,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. When people wait only for major events, they miss many chances to feel gratitude and connection.",
-            "zh": "真的會。當人只等重大事件才慶祝時，他會錯過很多感恩和連結的機會。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "真的會。當人只等重大事件才慶祝時，他會錯過很多感恩和連結的機會。"
           },
           {
             "speaker": "b",
@@ -278,12 +218,7 @@ export const WEEK_05: Episode[] = [
             "speakerName": "Mira",
             "en": "That is usually a good instinct.",
             "zh": "那通常會是一個很好的直覺。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Celebrations Protect",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -294,13 +229,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Attention, gratitude, and memory. They stop important moments from getting flattened into routine.",
-            "zh": "它們在保護注意力、感謝，還有記憶。它們會阻止重要時刻被日常壓平。",
-            "vocab": [
-              {
-                "word": "flattened into routine",
-                "def": "沒有感覺"
-              }
-            ]
+            "zh": "它們在保護注意力、感謝，還有記憶。它們會阻止重要時刻被日常壓平。"
           },
           {
             "speaker": "b",
@@ -323,14 +252,14 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People do not only need efficiency. They also need meaning they can feel together.",
-            "zh": "沒錯。人需要的不只是效率，也需要那種能一起感受到的意義。"
+            "en": "Right. People do not only need efficiency. They also need meaning they can feel together.",
+            "zh": "對。人需要的不只是效率，也需要那種能一起感受到的意義。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the heart of the whole topic.",
-            "zh": "這很像就是整個主題的核心。"
+            "en": "That puts the whole topic in perspective.",
+            "zh": "這讓整個主題都清晰多了。"
           },
           {
             "speaker": "a",
@@ -405,13 +334,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually because one tradition still feels alive, while another only feels repeated.",
-            "zh": "通常是因為有些傳統還活著，有些則只是一直重複而已。",
-            "vocab": [
-              {
-                "word": "feels alive",
-                "def": "有些則只是一直重複而已"
-              }
-            ]
+            "zh": "通常是因為有些傳統還活著，有些則只是一直重複而已。"
           },
           {
             "speaker": "b",
@@ -435,13 +358,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A living tradition can bend a little without breaking. A dead one becomes rigid very quickly.",
-            "zh": "一個活著的傳統，可以微微彎一下而不會斷。一個死掉的傳統，則會很快變得很僵。",
-            "vocab": [
-              {
-                "word": "living tradition",
-                "def": "會隨著人和時代調整，但核心還在的傳統"
-              }
-            ]
+            "zh": "一個活著的傳統，可以微微彎一下而不會斷。一個死掉的傳統，則會很快變得很僵。"
           },
           {
             "speaker": "b",
@@ -470,13 +387,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often the simple ones: a dish, a phrase, a song, or the way one person always welcomes everyone at the door.",
-            "zh": "很多時候是很簡單的東西：一道菜、一句話、一首歌，或某個人每次都會在門口迎接大家的方式。",
-            "vocab": [
-              {
-                "word": "always welcomes",
-                "def": "在門口迎接大家的方式"
-              }
-            ]
+            "zh": "很多時候是很簡單的東西：一道菜、一句話、一首歌，或某個人每次都會在門口迎接大家的方式。"
           },
           {
             "speaker": "b",
@@ -500,13 +411,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a perfect example. One taste can hold years of family memory.",
-            "zh": "那就是很好的例子。一個味道，就可以裝下很多年的家庭記憶。",
-            "vocab": [
-              {
-                "word": "family memory",
-                "def": "承載著記憶和情感"
-              }
-            ]
+            "zh": "那就是很好的例子。一個味道，就可以裝下很多年的家庭記憶。"
           },
           {
             "speaker": "b",
@@ -535,13 +440,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A simple line is: \"It is something my family has always done.\" That works in many contexts.",
-            "zh": "一個簡單好用的說法是：「It is something my family has always done.」很多情況都可以用。",
-            "vocab": [
-              {
-                "word": "family",
-                "def": "長久以來家裡一直都這樣做"
-              }
-            ]
+            "zh": "一個簡單好用的說法是：「It is something my family has always done.」很多情況都可以用。"
           },
           {
             "speaker": "b",
@@ -553,31 +452,19 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, \"The tradition has changed a little, but the feeling is still the same.\" That is good when the form has changed over time.",
-            "zh": "另一句也很好用：「The tradition has changed a little, but the feeling is still the same.」如果形式有變，但核心沒變，這句很好用。",
-            "vocab": [
-              {
-                "word": "the feeling is still the same",
-                "def": "雖然做法變了，但核心感受還在"
-              }
-            ]
+            "zh": "另一句也很好用：「The tradition has changed a little, but the feeling is still the same.」如果形式有變，但核心沒變，這句很好用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a particularly helpful sentence.",
-            "zh": "這句很有幫助。"
+            "en": "I can see how that one travels well across different situations.",
+            "zh": "我能理解這句為什麼在很多情況下都適用。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"We kept the spirit, even if we changed the format.\" That sounds warm and flexible.",
-            "zh": "你也可以說：「We kept the spirit, even if we changed the format.」這句聽起來溫暖，也有彈性。",
-            "vocab": [
-              {
-                "word": "kept the spirit",
-                "def": "保留傳統真正重要的精神"
-              }
-            ]
+            "zh": "你也可以說：「We kept the spirit, even if we changed the format.」這句聽起來溫暖，也有彈性。"
           },
           {
             "speaker": "b",
@@ -618,13 +505,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If nobody can fit it into present life, people slowly stop doing it.",
-            "zh": "沒錯。如果它完全塞不進現在的生活，人就會慢慢不做了。",
-            "vocab": [
-              {
-                "word": "present life",
-                "def": "能和現在的生活方式相容"
-              }
-            ]
+            "zh": "沒錯。如果它完全塞不進現在的生活，人就會慢慢不做了。"
           },
           {
             "speaker": "b",
@@ -641,8 +522,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels more realistic and kinder.",
-            "zh": "這樣比較現實，也比較溫柔。"
+            "en": "That's a much more workable way to look at it.",
+            "zh": "這樣看就合理多了，也做得到。"
           },
           {
             "speaker": "a",
@@ -665,13 +546,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually a feeling, not just a procedure. They want to pass on belonging, warmth, or a way of being together.",
-            "zh": "通常是一種感覺，不只是流程。他想傳下去的，常常是歸屬感、溫暖，或一種大家在一起的方式。",
-            "vocab": [
-              {
-                "word": "pass on belonging",
-                "def": "把某種做法或感覺傳給下一代"
-              }
-            ]
+            "zh": "通常是一種感覺，不只是流程。他想傳下去的，常常是歸屬感、溫暖，或一種大家在一起的方式。"
           },
           {
             "speaker": "b",
@@ -682,8 +557,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The recipe matters, but the emotional meaning matters too.",
-            "zh": "沒錯。食譜很重要，但情感上的意義也同樣重要。"
+            "en": "Right. The recipe matters, but the emotional meaning matters just as much.",
+            "zh": "對。食譜很重要，但情感上的意義同樣重要。"
           },
           {
             "speaker": "b",
@@ -700,8 +575,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful reason to keep one.",
-            "zh": "這真的是一個很美的理由去把傳統留著。"
+            "en": "It makes the tradition feel like an act of care, not just obligation.",
+            "zh": "這讓傳統感覺像是一種關心的行動，而不只是義務。"
           },
           {
             "speaker": "a",
@@ -776,13 +651,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because a gift carries emotion. It is not only an object. It can carry love, effort, expectation, or pressure.",
-            "zh": "因為禮物本身會承載情感。它不只是一個物品，還會承載愛、用心、期待，甚至壓力。",
-            "vocab": [
-              {
-                "word": "carries emotion",
-                "def": "一個禮物本身帶著情感和關係的重量"
-              }
-            ]
+            "zh": "因為禮物本身會承載情感。它不只是一個物品，還會承載愛、用心、期待，甚至壓力。"
           },
           {
             "speaker": "b",
@@ -806,13 +675,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Many people remember the thought behind a gift more than the cost of it.",
-            "zh": "對。很多人記住的，是禮物背後的心意，而不是它的價格。",
-            "vocab": [
-              {
-                "word": "thought behind",
-                "def": "禮物背後真正的心思和心意"
-              }
-            ]
+            "zh": "對。很多人記住的，是禮物背後的心意，而不是它的價格。"
           },
           {
             "speaker": "b",
@@ -841,13 +704,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually attention. A good gift often says, \"I noticed something about you.\"",
-            "zh": "很多時候是注意力。一份好的禮物，常常像是在說：「我有注意到你。」",
-            "vocab": [
-              {
-                "word": "Usually attention",
-                "def": "真的有去觀察對方喜歡什麼、需要什麼"
-              }
-            ]
+            "zh": "很多時候是注意力。一份好的禮物，常常像是在說：「我有注意到你。」"
           },
           {
             "speaker": "b",
@@ -859,13 +716,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It does not have to be big. It just has to feel chosen.",
-            "zh": "對。它不一定要很大，但要讓人感覺是被選過的。",
-            "vocab": [
-              {
-                "word": "feel chosen",
-                "def": "讓人覺得這份禮物是特地為自己挑的"
-              }
-            ]
+            "zh": "對。它不一定要很大，但要讓人感覺是被選過的。"
           },
           {
             "speaker": "b",
@@ -882,8 +733,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a helpful way to think about it.",
-            "zh": "這樣想真的很有幫助。"
+            "en": "That changes how I want to think about giving from now on.",
+            "zh": "這讓我以後想到送禮這件事的方式都跟著變了。"
           },
           {
             "speaker": "a",
@@ -906,13 +757,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A simple line is: \"I wanted to get you something thoughtful.\" That sounds warm and natural.",
-            "zh": "一個很簡單的說法是：「I wanted to get you something thoughtful.」這句溫暖又自然。",
-            "vocab": [
-              {
-                "word": "thoughtful",
-                "def": "有想過對方、帶著心意的禮物"
-              }
-            ]
+            "zh": "一個很簡單的說法是：「I wanted to get you something thoughtful.」這句溫暖又自然。"
           },
           {
             "speaker": "b",
@@ -924,13 +769,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a more grounded version, try \"It is a small thing, but I thought of you when I saw it.\" That is great for simple gifts.",
-            "zh": "另一句也很好用：「It is a small thing, but I thought of you when I saw it.」這句很適合簡單的小禮物。",
-            "vocab": [
-              {
-                "word": "more grounded",
-                "def": "比較穩、比較落地"
-              }
-            ]
+            "zh": "另一句也很好用：「It is a small thing, but I thought of you when I saw it.」這句很適合簡單的小禮物。"
           },
           {
             "speaker": "b",
@@ -942,13 +781,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a clear sentence, try \"The best gifts feel personal, not just expensive.\" That is useful in conversation about gift culture.",
-            "zh": "你也可以說：「The best gifts feel personal, not just expensive.」如果在談送禮文化，這句很適合。",
-            "vocab": [
-              {
-                "word": "feel personal",
-                "def": "不是一般性的東西"
-              }
-            ]
+            "zh": "你也可以說：「The best gifts feel personal, not just expensive.」如果在談送禮文化，這句很適合。"
           },
           {
             "speaker": "b",
@@ -977,13 +810,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not necessarily. In some families and cultures, practical care is one of the deepest forms of love.",
-            "zh": "不一定。在有些家庭和文化裡，實用型的照顧，反而是最深的一種愛。",
-            "vocab": [
-              {
-                "word": "practical care",
-                "def": "透過實用的方式去照顧和支持別人"
-              }
-            ]
+            "zh": "不一定。在有些家庭和文化裡，實用型的照顧，反而是最深的一種愛。"
           },
           {
             "speaker": "b",
@@ -995,13 +822,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. What matters is whether the gift fits the relationship and the moment.",
-            "zh": "沒錯。真正重要的是，那份禮物是不是適合這段關係，也適合那個時刻。",
-            "vocab": [
-              {
-                "word": "fits the relationship",
-                "def": "符合彼此的關係和互動方式"
-              }
-            ]
+            "zh": "沒錯。真正重要的是，那份禮物是不是適合這段關係，也適合那個時刻。"
           },
           {
             "speaker": "b",
@@ -1018,8 +839,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much healthier way to look at it.",
-            "zh": "這是一個健康很多的看法。"
+            "en": "So knowing how someone receives care completely changes what to give them.",
+            "zh": "所以了解一個人怎麼接收愛，對要給什麼就完全不同了。"
           },
           {
             "speaker": "a",
@@ -1042,13 +863,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Attention, generosity, and the art of making someone feel seen.",
-            "zh": "它會教會人注意力、慷慨，還有怎麼讓別人感覺自己被看見。",
-            "vocab": [
-              {
-                "word": "feel seen",
-                "def": "感覺自己被注意、被理解、被放在心上"
-              }
-            ]
+            "zh": "它會教會人注意力、慷慨，還有怎麼讓別人感覺自己被看見。"
           },
           {
             "speaker": "b",
@@ -1059,8 +874,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The shopping part is small. The relational part is the real heart of it.",
-            "zh": "沒錯。買東西本身只是小部分，真正的核心還是在關係裡。"
+            "en": "Precisely. The shopping part is small. The relational part is the real heart of it.",
+            "zh": "正是。買東西本身只是小部分，真正的核心還是在關係裡。"
           },
           {
             "speaker": "b",
@@ -1153,13 +968,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because family carries history. You are not only meeting people. You are walking back into old roles, habits, and memories.",
-            "zh": "因為家人之間會帶著很多歷史。你遇到的不只是人，也是那些舊角色、舊習慣和舊記憶。",
-            "vocab": [
-              {
-                "word": "history",
-                "def": "帶著很多歷史"
-              }
-            ]
+            "zh": "因為家人之間會帶著很多歷史。你遇到的不只是人，也是那些舊角色、舊習慣和舊記憶。"
           },
           {
             "speaker": "b",
@@ -1171,13 +980,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A family table may hold love, comfort, unfinished tension, and expectation all at once.",
-            "zh": "沒錯。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。",
-            "vocab": [
-              {
-                "word": "unfinished tension",
-                "def": "還有期待"
-              }
-            ]
+            "zh": "沒錯。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。"
           },
           {
             "speaker": "b",
@@ -1218,13 +1021,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually recognition. People get reminded of where they come from and who still holds them in mind.",
-            "zh": "很多時候是那種被認出的感覺。人會被提醒，自己來自哪裡，也會被提醒，還有人一直把你放在心上。",
-            "vocab": [
-              {
-                "word": "mind",
-                "def": "被別人記得、掛念著"
-              }
-            ]
+            "zh": "很多時候是那種被認出的感覺。人會被提醒，自己來自哪裡，也會被提醒，還有人一直把你放在心上。"
           },
           {
             "speaker": "b",
@@ -1236,13 +1033,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Even small things like someone remembering your favorite dish can carry a lot of warmth.",
-            "zh": "真的會。就算只是有人記得你最喜歡吃什麼，那種溫暖也可以很大。",
-            "vocab": [
-              {
-                "word": "warmth",
-                "def": "帶著明顯的溫暖和關心"
-              }
-            ]
+            "zh": "真的會。就算只是有人記得你最喜歡吃什麼，那種溫暖也可以很大。"
           },
           {
             "speaker": "b",
@@ -1283,31 +1074,19 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, \"It was nice to have everyone in one place.\" That is simple and very natural.",
-            "zh": "你可以說：「It was nice to have everyone in one place.」這句很簡單，也很自然。",
-            "vocab": [
-              {
-                "word": "everyone in one place",
-                "def": "大家都聚在同一個地方"
-              }
-            ]
+            "zh": "你可以說：「It was nice to have everyone in one place.」這句很簡單，也很自然。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds easy to use.",
-            "zh": "這句很好用。"
+            "en": "I can picture using that in a real conversation.",
+            "zh": "我能想像這句在真實對話裡的樣子。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is: \"The gathering was a little chaotic, but it felt warm.\" That is good when the event was messy in a human way.",
-            "zh": "另一句也很好用：「The gathering was a little chaotic, but it felt warm.」如果那場聚會有點亂，但亂得很有人味，這句很好用。",
-            "vocab": [
-              {
-                "word": "chaotic",
-                "def": "混亂的；雜亂的"
-              }
-            ]
+            "zh": "另一句也很好用：「The gathering was a little chaotic, but it felt warm.」如果那場聚會有點亂，但亂得很有人味，這句很好用。"
           },
           {
             "speaker": "b",
@@ -1319,13 +1098,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, \"It reminded me how much history we share.\" That works when the mood is more reflective.",
-            "zh": "你也可以說：「It reminded me how much history we share.」如果氣氛比較反思，這句很適合。",
-            "vocab": [
-              {
-                "word": "history we share",
-                "def": "一家人之間共同累積的過去和回憶"
-              }
-            ]
+            "zh": "你也可以說：「It reminded me how much history we share.」如果氣氛比較反思，這句很適合。"
           },
           {
             "speaker": "b",
@@ -1342,7 +1115,7 @@ export const WEEK_05: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Difficult Questions and Boundaries",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1354,13 +1127,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of it comes from old expectations. People ask familiar questions without realizing how heavy they can feel.",
-            "zh": "很多時候是來自舊期待。人會問那些很熟悉的問題，卻沒有意識到它們對別人來說可以有多重。",
-            "vocab": [
-              {
-                "word": "old expectations",
-                "def": "家人長期以來對彼此的既定期待"
-              }
-            ]
+            "zh": "很多時候是來自舊期待。人會問那些很熟悉的問題，卻沒有意識到它們對別人來說可以有多重。"
           },
           {
             "speaker": "b",
@@ -1371,14 +1138,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why boundaries matter. Warmth and boundaries can exist together.",
-            "zh": "沒錯。這也是為什麼界線很重要。溫暖和界線，本來就可以一起存在。",
-            "vocab": [
-              {
-                "word": "boundaries",
-                "def": "界線；與工作保持的合理範圍"
-              }
-            ]
+            "en": "Right. That is why boundaries matter. Warmth and boundaries can exist together.",
+            "zh": "對。這也是為什麼界線很重要。溫暖和界線，本來就可以一起存在。"
           },
           {
             "speaker": "b",
@@ -1403,12 +1164,7 @@ export const WEEK_05: Episode[] = [
             "speakerName": "Mira",
             "en": "Right. It is one where people can stay human inside the tension.",
             "zh": "對。而是即使有緊張，大家還是能保有人味。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What People Carry Home",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1430,8 +1186,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And often it is the small moment that stays: a joke, a dish, a glance, or one kind sentence.",
-            "zh": "沒錯。而且很多時候，留下來的反而是很小的瞬間：一個玩笑、一道菜、一個眼神，或一句溫柔的話。"
+            "en": "Precisely. And often it is the small moment that stays: a joke, a dish, a glance, or one kind sentence.",
+            "zh": "正是。而且很多時候，留下來的反而是很小的瞬間：一個玩笑、一道菜、一個眼神，或一句溫柔的話。"
           },
           {
             "speaker": "b",
@@ -1448,8 +1204,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a good note to end on.",
-            "zh": "這很適合作為結尾。"
+            "en": "That's where I want to focus, then.",
+            "zh": "那就是我想把注意力放的地方了。"
           },
           {
             "speaker": "a",
@@ -1524,13 +1280,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because food is practical and emotional at the same time. It feeds the body, but it also signals care, effort, and welcome.",
-            "zh": "因為食物同時很實際，也很有情感。它餵飽身體，但也在傳達照顧、用心和歡迎。",
-            "vocab": [
-              {
-                "word": "practical",
-                "def": "實際的；務實的"
-              }
-            ]
+            "zh": "因為食物同時很實際，也很有情感。它餵飽身體，但也在傳達照顧、用心和歡迎。"
           },
           {
             "speaker": "b",
@@ -1542,13 +1292,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It creates atmosphere. The smell, the table, and the waiting all become part of the feeling.",
-            "zh": "沒錯。它會創造氣氛。味道、餐桌，還有等待的過程，全部都會變成那個感受的一部分。",
-            "vocab": [
-              {
-                "word": "creates atmosphere",
-                "def": "透過味道、空間和安排創造出特別氣氛"
-              }
-            ]
+            "zh": "沒錯。它會創造氣氛。味道、餐桌，還有等待的過程，全部都會變成那個感受的一部分。"
           },
           {
             "speaker": "b",
@@ -1560,13 +1304,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And they remember who cooked, who served, and who was missing. Food is full of relationship.",
-            "zh": "而且大家也會記得是誰煮的、誰端上來的，還有誰不在場。食物裡面其實裝滿了關係。",
-            "vocab": [
-              {
-                "word": "full of relationship",
-                "def": "裡面包含了很多人和人之間的關係感"
-              }
-            ]
+            "zh": "而且大家也會記得是誰煮的、誰端上來的，還有誰不在場。食物裡面其實裝滿了關係。"
           },
           {
             "speaker": "b",
@@ -1595,13 +1333,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because memory attaches to the senses. Taste and smell can bring a whole scene back very quickly.",
-            "zh": "因為記憶很會附著在感官上。味道和氣味，常常會很快把整個場景帶回來。",
-            "vocab": [
-              {
-                "word": "back very quickly",
-                "def": "把某個回憶或感覺很快地帶回來"
-              }
-            ]
+            "zh": "因為記憶很會附著在感官上。味道和氣味，常常會很快把整個場景帶回來。"
           },
           {
             "speaker": "b",
@@ -1613,13 +1345,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A dish can hold a person, a place, or a season of life.",
-            "zh": "沒錯。一道菜可以裝著一個人、一個地方，或人生中的某一段時期。",
-            "vocab": [
-              {
-                "word": "season of life",
-                "def": "人生現階段；當下這一段生活狀態"
-              }
-            ]
+            "zh": "沒錯。一道菜可以裝著一個人、一個地方，或人生中的某一段時期。"
           },
           {
             "speaker": "b",
@@ -1660,13 +1386,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A simple line is: \"This dish always takes me back.\" It sounds very natural.",
-            "zh": "一個很簡單、很好用的說法是：「This dish always takes me back.」這句很自然。",
-            "vocab": [
-              {
-                "word": "takes me back",
-                "def": "一下子把人帶回某個過去時刻"
-              }
-            ]
+            "zh": "一個很簡單、很好用的說法是：「This dish always takes me back.」這句很自然。"
           },
           {
             "speaker": "b",
@@ -1678,13 +1398,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"The meal felt like home.\" That works when you want to describe emotional comfort.",
-            "zh": "另一句也很好用：「The meal felt like home.」如果你想形容那種情感上的安慰感，這句很適合。",
-            "vocab": [
-              {
-                "word": "felt like home",
-                "def": "讓人感到熟悉、被安放、像回到家的感覺"
-              }
-            ]
+            "zh": "另一句也很好用：「The meal felt like home.」如果你想形容那種情感上的安慰感，這句很適合。"
           },
           {
             "speaker": "b",
@@ -1696,13 +1410,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, \"Food is one of the ways my family remembers.\" That sounds simple but deep.",
-            "zh": "你也可以說：「Food is one of the ways my family remembers.」這句簡單，但很深。",
-            "vocab": [
-              {
-                "word": "family remembers",
-                "def": "但很深"
-              }
-            ]
+            "zh": "你也可以說：「Food is one of the ways my family remembers.」這句簡單，但很深。"
           },
           {
             "speaker": "b",
@@ -1731,13 +1439,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true. Celebrations often look effortless from the outside, but someone usually carried a lot of invisible labor.",
-            "zh": "這是真的。很多慶祝從外面看起來很輕鬆，但通常都有人默默扛了很多看不見的勞動。",
-            "vocab": [
-              {
-                "word": "invisible labor",
-                "def": "不容易被看見"
-              }
-            ]
+            "zh": "這是真的。很多慶祝從外面看起來很輕鬆，但通常都有人默默扛了很多看不見的勞動。"
           },
           {
             "speaker": "b",
@@ -1748,8 +1450,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why gratitude matters so much around food.",
-            "zh": "沒錯。這也就是為什麼在食物這件事上，感謝會特別重要。"
+            "en": "Yes — and that is exactly why gratitude matters so much around food.",
+            "zh": "對——而這正是為什麼在食物這件事上，感謝會特別重要。"
           },
           {
             "speaker": "b",
@@ -1761,19 +1463,13 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. It is a way of recognizing the care that made the gathering possible.",
-            "zh": "完全不是。那是在承認，正是那些照顧和用心，才讓這場聚會成為可能。",
-            "vocab": [
-              {
-                "word": "recognizing the care",
-                "def": "看見並說出別人付出的照顧和用心"
-              }
-            ]
+            "zh": "完全不是。那是在承認，正是那些照顧和用心，才讓這場聚會成為可能。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels important.",
-            "zh": "這真的很重要。"
+            "en": "That's worth saying more clearly.",
+            "zh": "這個值得說得更清楚一點。"
           },
           {
             "speaker": "a",
@@ -1796,13 +1492,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Connection, memory, and a sense of being expected and welcomed.",
-            "zh": "它在讓連結、記憶，還有一種「有人在等你、歡迎你」的感覺繼續活著。",
-            "vocab": [
-              {
-                "word": "welcomed",
-                "def": "被歡迎、被期待、被放進心裡的感覺"
-              }
-            ]
+            "zh": "它在讓連結、記憶，還有一種「有人在等你、歡迎你」的感覺繼續活著。"
           },
           {
             "speaker": "b",
@@ -1813,8 +1503,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Food can become a language of belonging.",
-            "zh": "沒錯。食物本身就可以變成一種歸屬感的語言。"
+            "en": "Precisely. Food can become a language of belonging.",
+            "zh": "正是。食物本身就可以變成一種歸屬感的語言。"
           },
           {
             "speaker": "b",
@@ -1837,7 +1527,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how it feels to me too.",
+            "en": "That's how it feels to me too.",
             "zh": "對我來說也的確是那樣。"
           }
         ]
@@ -1907,13 +1597,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because music changes the room quickly. It gives people a shared mood before anyone has to explain anything.",
-            "zh": "因為音樂能很快改變整個空間。它會在任何人開口解釋之前，先給大家一個共同的情緒。",
-            "vocab": [
-              {
-                "word": "shared mood",
-                "def": "很多人一起進入的共同氣氛"
-              }
-            ]
+            "zh": "因為音樂能很快改變整個空間。它會在任何人開口解釋之前，先給大家一個共同的情緒。"
           },
           {
             "speaker": "b",
@@ -1925,13 +1609,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A song can make people feel playful, proud, tender, or ready to move.",
-            "zh": "沒錯。一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。",
-            "vocab": [
-              {
-                "word": "ready to move",
-                "def": "身體自然想跟著動的狀態"
-              }
-            ]
+            "zh": "沒錯。一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
           },
           {
             "speaker": "b",
@@ -1972,13 +1650,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because dance turns emotion into movement. Instead of only feeling joy, people act it out with the body.",
-            "zh": "因為舞蹈會把情緒變成動作。人不只是感受到喜悅，而是把那種感覺用身體演出來。",
-            "vocab": [
-              {
-                "word": "act it out",
-                "def": "把感覺或情緒用動作表現出來"
-              }
-            ]
+            "zh": "因為舞蹈會把情緒變成動作。人不只是感受到喜悅，而是把那種感覺用身體演出來。"
           },
           {
             "speaker": "b",
@@ -1990,13 +1662,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is part of why group dancing can feel so powerful.",
-            "zh": "沒錯。這也是為什麼一群人一起跳舞，會那麼有力量。",
-            "vocab": [
-              {
-                "word": "group dancing",
-                "def": "一群人一起動起來時產生的能量感"
-              }
-            ]
+            "zh": "沒錯。這也是為什麼一群人一起跳舞，會那麼有力量。"
           },
           {
             "speaker": "b",
@@ -2013,8 +1679,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good point.",
-            "zh": "這個點真的很好。"
+            "en": "So the celebration itself grows when the barrier to join it goes down.",
+            "zh": "所以當加入的門檻降低，慶祝本身也會跟著變得更豐富。"
           },
           {
             "speaker": "a",
@@ -2025,7 +1691,7 @@ export const WEEK_05: Episode[] = [
         ]
       },
       {
-        "title": "Part 3 — English for Talking About Festive Music",
+        "title": "Part 3 — English for Celebrating With Sound",
         "lines": [
           {
             "speaker": "b",
@@ -2037,13 +1703,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A simple line is: \"The music set the tone.\" That is very natural.",
-            "zh": "一個很簡單的說法是：「The music set the tone.」這句很自然。",
-            "vocab": [
-              {
-                "word": "set the tone",
-                "def": "替整個場合定下氣氛和感覺"
-              }
-            ]
+            "zh": "一個很簡單的說法是：「The music set the tone.」這句很自然。"
           },
           {
             "speaker": "b",
@@ -2055,13 +1715,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"The song brought the room to life.\" That works when music changes the whole atmosphere.",
-            "zh": "另一句也很好用：「The song brought the room to life.」如果音樂讓整個氣氛都活起來，這句很適合。",
-            "vocab": [
-              {
-                "word": "room to life",
-                "def": "讓整個空間和大家的情緒都活起來"
-              }
-            ]
+            "zh": "另一句也很好用：「The song brought the room to life.」如果音樂讓整個氣氛都活起來，這句很適合。"
           },
           {
             "speaker": "b",
@@ -2073,13 +1727,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also go with \"Everyone joined in.\" That is useful when the celebration became communal.",
-            "zh": "你也可以說：「Everyone joined in.」如果整個慶祝變得很有共同參與感，這句很好用。",
-            "vocab": [
-              {
-                "word": "joined in",
-                "def": "不是旁觀，而是真的一起參與進來"
-              }
-            ]
+            "zh": "你也可以說：「Everyone joined in.」如果整個慶祝變得很有共同參與感，這句很好用。"
           },
           {
             "speaker": "b",
@@ -2096,7 +1744,7 @@ export const WEEK_05: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Old Songs and New Versions",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -2108,13 +1756,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because old songs carry memory. They connect the present celebration to earlier ones.",
-            "zh": "因為老歌會承載記憶。它會把現在這場慶祝，連到以前那些時刻。",
-            "vocab": [
-              {
-                "word": "carry memory",
-                "def": "一首歌裡裝著很多過去的感覺和記憶"
-              }
-            ]
+            "zh": "因為老歌會承載記憶。它會把現在這場慶祝，連到以前那些時刻。"
           },
           {
             "speaker": "b",
@@ -2138,13 +1780,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. New songs become future memory. Every tradition was new once.",
-            "zh": "完全不會。新的歌會變成未來的記憶。每一個傳統，原本都曾經是新的。",
-            "vocab": [
-              {
-                "word": "future memory",
-                "def": "現在剛建立"
-              }
-            ]
+            "zh": "完全不會。新的歌會變成未來的記憶。每一個傳統，原本都曾經是新的。"
           },
           {
             "speaker": "b",
@@ -2157,12 +1793,7 @@ export const WEEK_05: Episode[] = [
             "speakerName": "Mira",
             "en": "It means people are allowed to create their own festive language too.",
             "zh": "這也表示，人本來就可以創造屬於自己的慶祝語言。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Music Leaves Behind",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2173,13 +1804,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often a feeling trail. People may forget the exact order of the night, but remember how the room felt when a certain song played.",
-            "zh": "很多時候，它會留下一條感覺的痕跡。人也許會忘記那晚細節的順序，卻會記得某首歌響起時，整個空間是什麼感覺。",
-            "vocab": [
-              {
-                "word": "feeling trail",
-                "def": "活動結束後，還留在心裡的一串情緒痕跡"
-              }
-            ]
+            "zh": "很多時候，它會留下一條感覺的痕跡。人也許會忘記那晚細節的順序，卻會記得某首歌響起時，整個空間是什麼感覺。"
           },
           {
             "speaker": "b",
@@ -2202,8 +1827,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It helps shape what the moment becomes and what people carry away from it.",
-            "zh": "沒錯。它會一起塑造這個時刻會變成什麼，以及人最後會從中帶走什麼。"
+            "en": "Right. It helps shape what the moment becomes and what people carry away from it.",
+            "zh": "對。它會一起塑造這個時刻會變成什麼，以及人最後會從中帶走什麼。"
           },
           {
             "speaker": "b",
@@ -2284,13 +1909,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because contrast is powerful. After a high-energy event, ordinary life can feel unexpectedly quiet.",
-            "zh": "因為對比很強。經過一場能量很高的活動之後，普通生活會突然顯得很安靜。",
-            "vocab": [
-              {
-                "word": "feel unexpectedly",
-                "def": "因為對比很強"
-              }
-            ]
+            "zh": "因為對比很強。經過一場能量很高的活動之後，普通生活會突然顯得很安靜。"
           },
           {
             "speaker": "b",
@@ -2302,13 +1921,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. It is more that the body notices the change in energy very clearly.",
-            "zh": "不是。比較像是身體很清楚地感受到能量轉變。",
-            "vocab": [
-              {
-                "word": "energy very clearly",
-                "def": "熱鬧結束後，整體情緒和氣氛突然往下掉"
-              }
-            ]
+            "zh": "不是。比較像是身體很清楚地感受到能量轉變。"
           },
           {
             "speaker": "b",
@@ -2349,13 +1962,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By keeping one small element instead of trying to keep the whole mood.",
-            "zh": "方法是留下一個小元素，而不是想把整個氣氛都留住。",
-            "vocab": [
-              {
-                "word": "one small element",
-                "def": "方法是留下一個小元素"
-              }
-            ]
+            "zh": "方法是留下一個小元素，而不是想把整個氣氛都留住。"
           },
           {
             "speaker": "b",
@@ -2379,13 +1986,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It is to let the meaning stay in a smaller form.",
-            "zh": "沒錯。真正的重點，是讓那個意義用比較小的形式留下來。",
-            "vocab": [
-              {
-                "word": "smaller form",
-                "def": "真正的重點"
-              }
-            ]
+            "zh": "沒錯。真正的重點，是讓那個意義用比較小的形式留下來。"
           },
           {
             "speaker": "b",
@@ -2414,13 +2015,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A simple sentence is: \"It was lovely, and now I want to carry some of that feeling forward.\" That sounds natural and reflective.",
-            "zh": "一個簡單的說法是：「It was lovely, and now I want to carry some of that feeling forward.」這句自然，也很有反思感。",
-            "vocab": [
-              {
-                "word": "feeling forward",
-                "def": "把某種好的感覺或意義帶去後面的生活"
-              }
-            ]
+            "zh": "一個簡單的說法是：「It was lovely, and now I want to carry some of that feeling forward.」這句自然，也很有反思感。"
           },
           {
             "speaker": "b",
@@ -2432,13 +2027,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural option is, \"I do not want the meaning to disappear just because the event is over.\" That is good after a meaningful gathering.",
-            "zh": "另一句也很好用：「I do not want the meaning to disappear just because the event is over.」如果是一場很有意義的聚會之後，這句很適合。",
-            "vocab": [
-              {
-                "word": "meaningful",
-                "def": "有意義的；做起來心裡有感的"
-              }
-            ]
+            "zh": "另一句也很好用：「I do not want the meaning to disappear just because the event is over.」如果是一場很有意義的聚會之後，這句很適合。"
           },
           {
             "speaker": "b",
@@ -2450,13 +2039,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I want to bring some of that warmth into ordinary life.\" That is warm and very usable.",
-            "zh": "你也可以說：「I want to bring some of that warmth into ordinary life.」這句溫暖，也很好用。",
-            "vocab": [
-              {
-                "word": "ordinary life",
-                "def": "節慶之外、平常每天在過的生活"
-              }
-            ]
+            "zh": "你也可以說：「I want to bring some of that warmth into ordinary life.」這句溫暖，也很好用。"
           },
           {
             "speaker": "b",
@@ -2485,13 +2068,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Send a message the next day. Share leftovers. Print a photo. Repeat one small gesture you loved from the event.",
-            "zh": "隔天傳一則訊息、分享剩下的食物、印出一張照片，或把你在那場活動裡很喜歡的一個小動作再做一次。",
-            "vocab": [
-              {
-                "word": "leftovers",
-                "def": "剩菜；剩飯"
-              }
-            ]
+            "zh": "隔天傳一則訊息、分享剩下的食物、印出一張照片，或把你在那場活動裡很喜歡的一個小動作再做一次。"
           },
           {
             "speaker": "b",
@@ -2508,26 +2085,20 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good point.",
-            "zh": "這個點真的很好。"
+            "en": "So the celebration does not end when the event does.",
+            "zh": "所以慶祝並不是在活動結束的那一刻就停了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Celebrations do not have to end all at once. They can fade out slowly in good ways.",
-            "zh": "慶祝不一定要一下子就完全結束。它也可以用很好的方式慢慢退場。",
-            "vocab": [
-              {
-                "word": "fade out slowly",
-                "def": "不是突然結束，而是慢慢回到日常"
-              }
-            ]
+            "zh": "慶祝不一定要一下子就完全結束。它也可以用很好的方式慢慢退場。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much softer than the usual crash back into routine.",
-            "zh": "這聽起來比那種一下子撞回日常柔和很多。"
+            "en": "I can see how that would make the return much less jarring.",
+            "zh": "我能理解這樣會讓回歸日常沒那麼突然。"
           },
           {
             "speaker": "a",
@@ -2573,19 +2144,19 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good celebration should leave behind more than photos. It should leave behind a little more warmth for the days after it.",
-            "zh": "沒錯。一場好的慶祝不只該留下照片，也該為之後的日子多留下一點溫暖。"
+            "en": "Precisely. A good celebration should leave behind more than photos. It should leave behind a little more warmth for the days after it.",
+            "zh": "正是。一場好的慶祝不只該留下照片，也該為之後的日子多留下一點溫暖。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the perfect ending for this week.",
-            "zh": "這很像是這一週最適合的結尾。"
+            "en": "That's the note I want to carry into next week.",
+            "zh": "這就是我想帶進下一週的感覺。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels true to me as well.",
+            "en": "It feels true to me as well.",
             "zh": "對我來說也真的是這樣。"
           }
         ]

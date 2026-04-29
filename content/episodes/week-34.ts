@@ -21,14 +21,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common experience. Movement often changes mood before it changes appearance.",
-            "zh": "那是很常見的經驗。身體一動起來，通常先改變的是心情，不是外表。",
-            "vocab": [
-              {
-                "word": "Movement",
-                "def": "不是外表"
-              }
-            ]
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The body gives feedback all day, but people often notice it only when they finally move.",
-            "zh": "完全沒錯。身體其實整天都在回饋，只是很多人是等到真的動起來時才注意到。",
-            "vocab": [
-              {
-                "word": "feedback",
-                "def": "身體其實整天都在回饋"
-              }
-            ]
+            "zh": "完全沒錯。身體其實整天都在回饋，只是很多人是等到真的動起來時才注意到。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Sedentary life creates a kind of drag people gradually mistake for personality.",
-            "zh": "對。久坐生活會製造一種拖滯感，而人有時候會慢慢把那種感覺誤認成自己的個性。",
-            "vocab": [
-              {
-                "word": "Sedentary life creates",
-                "def": "久坐生活會製造一種拖滯感"
-              }
-            ]
+            "zh": "對。久坐生活會製造一種拖滯感，而人有時候會慢慢把那種感覺誤認成自己的個性。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Gentle activation done often will usually help more than dramatic effort done rarely.",
-            "zh": "完全沒錯。常常做一點溫和啟動，通常比偶爾做一次很戲劇化的大強度更有幫助。",
-            "vocab": [
-              {
-                "word": "gentle activation",
-                "def": "爆量"
-              }
-            ]
+            "zh": "完全沒錯。常常做一點溫和啟動，通常比偶爾做一次很戲劇化的大強度更有幫助。"
           },
           {
             "speaker": "b",
@@ -123,19 +99,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. The goal is not punishment. The goal is a body that remembers how to participate in life.",
-            "zh": "本來就不該可怕。目標不是懲罰自己，而是讓身體還記得怎麼參與生活。",
-            "vocab": [
-              {
-                "word": "punishment",
-                "def": "平常一整天能維持的基本精神和體力狀態"
-              }
-            ]
+            "zh": "本來就不該可怕。目標不是懲罰自己，而是讓身體還記得怎麼參與生活。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much healthier definition of exercise.",
-            "zh": "這真的是一個健康很多的運動定義。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
@@ -157,8 +127,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I exercise partly for health, but also because it helps my mind feel more livable.'",
-            "zh": "你可以說：「I exercise partly for health, but also because it helps my mind feel more livable.」"
+            "en": "A useful version of that is, 'I exercise partly for health, but also because it helps my mind feel more livable.'",
+            "zh": "這裡很自然的說法是：「I exercise partly for health, but also because it helps my mind feel more livable.」"
           },
           {
             "speaker": "b",
@@ -170,13 +140,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One more way to say it is 'Even a short workout changes the quality of my day.'",
-            "zh": "另一句也很好用：「Even a short workout changes the quality of my day.」",
-            "vocab": [
-              {
-                "word": "workout",
-                "def": "一次運動訓練；運動時段"
-              }
-            ]
+            "zh": "另一句也很好用：「Even a short workout changes the quality of my day.」"
           },
           {
             "speaker": "b",
@@ -188,13 +152,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make it more everyday, try, 'I do better when my body does not stay still all day.'",
-            "zh": "如果你想講得更簡單，也可以說：「I do better when my body does not stay still all day.」",
-            "vocab": [
-              {
-                "word": "body",
-                "def": "把身體當成合作對象"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I do better when my body does not stay still all day.」"
           },
           {
             "speaker": "b",
@@ -211,7 +169,7 @@ export const WEEK_34: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Making Activity Sustainable",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -235,13 +193,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Everyday fitness lasts because it is woven into ordinary behavior.",
-            "zh": "完全沒錯。日常體能之所以活得久，就是因為它被織進了普通行為裡。",
-            "vocab": [
-              {
-                "word": "everyday fitness",
-                "def": "不是靠一次很猛"
-              }
-            ]
+            "zh": "完全沒錯。日常體能之所以活得久，就是因為它被織進了普通行為裡。"
           },
           {
             "speaker": "b",
@@ -253,13 +205,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. People need movement systems that survive real calendars.",
-            "zh": "本來就應該感覺可能。人需要的是能活過真實行程表的活動系統。",
-            "vocab": [
-              {
-                "word": "movement systems",
-                "def": "的是能活過真實行程表的活動系統"
-              }
-            ]
+            "zh": "本來就應該感覺可能。人需要的是能活過真實行程表的活動系統。"
           },
           {
             "speaker": "b",
@@ -272,12 +218,7 @@ export const WEEK_34: Episode[] = [
             "speakerName": "Mira",
             "en": "I think so.",
             "zh": "我也這麼覺得。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Staying Active Gives Back",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -300,13 +241,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Staying active is one of the quietest ways people keep life open inside the body.",
-            "zh": "持續活動，其實是人讓自己的身體裡還保有開放感的其中一種最安靜方式。",
-            "vocab": [
-              {
-                "word": "inside the body",
-                "def": "持續活動"
-              }
-            ]
+            "zh": "持續活動，其實是人讓自己的身體裡還保有開放感的其中一種最安靜方式。"
           },
           {
             "speaker": "b",
@@ -318,13 +253,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe it is. Many people are kinder after they have moved.",
-            "zh": "也許真的是。很多人在動過之後，對自己和別人都會比較善良。",
-            "vocab": [
-              {
-                "word": "Many people",
-                "def": "也許真的是"
-              }
-            ]
+            "zh": "也許真的是。很多人在動過之後，對自己和別人都會比較善良。"
           },
           {
             "speaker": "b",
@@ -335,7 +264,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us start there.",
+            "en": "Let us start there.",
             "zh": "那我們就從這裡開始。"
           }
         ]
@@ -417,13 +346,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The reason matters because it changes how sustainable the habit feels.",
-            "zh": "完全沒錯。動機很重要，因為它會直接改變一個習慣可不可以長久。",
-            "vocab": [
-              {
-                "word": "reason matters",
-                "def": "動機很重要"
-              }
-            ]
+            "zh": "完全沒錯。動機很重要，因為它會直接改變一個習慣可不可以長久。"
           },
           {
             "speaker": "b",
@@ -435,19 +358,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Motivation shapes emotional recovery as much as the workout itself does.",
-            "zh": "對。動機會和運動本身一樣，影響你最後的情緒回收方式。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "對。動機會和運動本身一樣，影響你最後的情緒回收方式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really helpful way to frame it.",
-            "zh": "這真的很有幫助。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "a",
@@ -470,13 +387,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because appearance is visible, marketable, and easy to compare. Internal benefits are slower and harder to photograph.",
-            "zh": "因為外表看得見、好賣，也容易被拿來比較。內在好處比較慢，也比較難拍出來。",
-            "vocab": [
-              {
-                "word": "appearance",
-                "def": "外表看得見、好賣"
-              }
-            ]
+            "zh": "因為外表看得見、好賣，也容易被拿來比較。內在好處比較慢，也比較難拍出來。"
           },
           {
             "speaker": "b",
@@ -488,13 +399,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often, yes. But people usually stay with exercise for deeper reasons than the ones that get advertised first.",
-            "zh": "很多時候確實是。可是人真正留下來運動，通常靠的都是那些比廣告文案更深的理由。",
-            "vocab": [
-              {
-                "word": "deeper reasons",
-                "def": "運動後腦中比較清、比較不混亂的狀態"
-              }
-            ]
+            "zh": "很多時候確實是。可是人真正留下來運動，通常靠的都是那些比廣告文案更深的理由。"
           },
           {
             "speaker": "b",
@@ -547,13 +452,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is 'The visible results matter less to me now than the way I feel during the rest of the week.'",
-            "zh": "另一句也很好用：「The visible results matter less to me now than the way I feel during the rest of the week.」",
-            "vocab": [
-              {
-                "word": "visible",
-                "def": "這是個容易掉進去的陷阱"
-              }
-            ]
+            "zh": "另一句也很好用：「The visible results matter less to me now than the way I feel during the rest of the week.」"
           },
           {
             "speaker": "b",
@@ -565,13 +464,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shorter version would be, 'It helps me feel stronger in daily life, not just in the gym.'",
-            "zh": "如果你想講得更簡單，也可以說：「It helps me feel stronger in daily life, not just in the gym.」",
-            "vocab": [
-              {
-                "word": "shorter version",
-                "def": "更短的說法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「It helps me feel stronger in daily life, not just in the gym.」"
           },
           {
             "speaker": "b",
@@ -612,13 +505,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A flexible motive is often healthier than a rigid one.",
-            "zh": "完全沒錯。可以調整的動機，通常比僵硬的動機健康很多。",
-            "vocab": [
-              {
-                "word": "flexible motive",
-                "def": "可以調整的動機"
-              }
-            ]
+            "zh": "完全沒錯。可以調整的動機，通常比僵硬的動機健康很多。"
           },
           {
             "speaker": "b",
@@ -630,19 +517,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. People should be allowed to grow into better reasons.",
-            "zh": "本來就該自由。人本來就應該被允許慢慢長進比較好的理由裡。",
-            "vocab": [
-              {
-                "word": "better reasons",
-                "def": "被允許慢慢長進比較好的理由裡"
-              }
-            ]
+            "zh": "本來就該自由。人本來就應該被允許慢慢長進比較好的理由裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really compassionate way to think about it.",
-            "zh": "這真的是很有同理心的看法。"
+            "en": "That maps well onto real conversations.",
+            "zh": "這個說法很貼合真實的對話。"
           },
           {
             "speaker": "a",
@@ -677,13 +558,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Different motives can still lead to good care, as long as they become more honest over time.",
-            "zh": "只要那些動機會越來越誠實，不同理由其實都還是能帶人走向好的照顧。",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "只要那些動機會越來越誠實"
-              }
-            ]
+            "zh": "只要那些動機會越來越誠實，不同理由其實都還是能帶人走向好的照顧。"
           },
           {
             "speaker": "b",
@@ -695,13 +570,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Fitness culture gets healthier when it becomes more human and less uniform.",
-            "zh": "完全沒錯。當運動文化變得比較像人，而不是要求每個人都一樣時，它才會更健康。",
-            "vocab": [
-              {
-                "word": "Fitness culture",
-                "def": "更健康"
-              }
-            ]
+            "zh": "完全沒錯。當運動文化變得比較像人，而不是要求每個人都一樣時，它才會更健康。"
           },
           {
             "speaker": "b",
@@ -712,8 +581,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let us keep it, then.",
-            "zh": "那我們就把它留著吧。"
+            "en": "I want to carry that thought into my next workout.",
+            "zh": "我想把這個想法帶進我下一次運動裡。"
           }
         ]
       }
@@ -782,13 +651,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is such an important lesson. Sustainability begins where dread ends.",
-            "zh": "這真的是很重要的課。可持續這件事，往往就是從不再那麼抗拒開始的。",
-            "vocab": [
-              {
-                "word": "dread",
-                "def": "害怕；抗拒；不情願"
-              }
-            ]
+            "zh": "這真的是很重要的課。可持續這件事，往往就是從不再那麼抗拒開始的。"
           },
           {
             "speaker": "b",
@@ -800,13 +663,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. If you hate every minute of a routine, that matters.",
-            "zh": "完全沒錯。如果你每一分鐘都很討厭一套運動，這本身就是重要資訊。",
-            "vocab": [
-              {
-                "word": "routine",
-                "def": "日常；固定流程"
-              }
-            ]
+            "zh": "完全沒錯。如果你每一分鐘都很討厭一套運動，這本身就是重要資訊。"
           },
           {
             "speaker": "b",
@@ -818,13 +675,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People are often sold ideal workouts instead of realistic ones.",
-            "zh": "對。很多人被賣的都是理想中的運動，而不是現實裡做得下去的運動。",
-            "vocab": [
-              {
-                "word": "instead of realistic",
-                "def": "而不是現實裡做得下去的運動"
-              }
-            ]
+            "zh": "對。很多人被賣的都是理想中的運動，而不是現實裡做得下去的運動。"
           },
           {
             "speaker": "b",
@@ -865,31 +716,19 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sustainable movement is a compatibility problem as much as a discipline problem.",
-            "zh": "完全沒錯。可持續的活動，一半是自律問題，另一半其實是相容性問題。",
-            "vocab": [
-              {
-                "word": "sustainable movement",
-                "def": "不是一下子衝很猛"
-              }
-            ]
+            "zh": "完全沒錯。可持續的活動，一半是自律問題，另一半其實是相容性問題。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much kinder frame.",
-            "zh": "這個框法真的善良很多。"
+            "en": "That changes how I want to use it.",
+            "zh": "這改變了我想怎麼去用它。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is also more accurate. The best routine is often the one that makes the next session feel possible.",
-            "zh": "而且也比較準。最好的安排，很多時候就是那種會讓下一次感覺還有可能的安排。",
-            "vocab": [
-              {
-                "word": "routine",
-                "def": "日常；固定流程"
-              }
-            ]
+            "zh": "而且也比較準。最好的安排，很多時候就是那種會讓下一次感覺還有可能的安排。"
           },
           {
             "speaker": "b",
@@ -930,13 +769,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'The best form of exercise for me turned out to be the one I do consistently.'",
-            "zh": "另一句也很好用：「The best form of exercise for me turned out to be the one I do consistently.」",
-            "vocab": [
-              {
-                "word": "exercise",
-                "def": "不是一次爆發"
-              }
-            ]
+            "zh": "另一句也很好用：「The best form of exercise for me turned out to be the one I do consistently.」"
           },
           {
             "speaker": "b",
@@ -947,14 +780,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to keep it simple, 'I needed something I would not keep negotiating with every day.' works well.",
-            "zh": "如果你想講得更簡單，也可以說：「I needed something I would not keep negotiating with every day.」",
-            "vocab": [
-              {
-                "word": "every day",
-                "def": "每次要開始前都要和自己談判很久的那種阻力"
-              }
-            ]
+            "en": "When you need to keep it simple, 'I needed something I would not keep negotiating with every day.' works well.",
+            "zh": "如果你想講得更簡單，也可以說：「I needed something I would not keep negotiating with every day.」"
           },
           {
             "speaker": "b",
@@ -995,13 +822,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Missed-day recovery often matters more than streak perfection.",
-            "zh": "完全是。漏掉幾天後怎麼回來，很多時候比完美連續紀錄更重要。",
-            "vocab": [
-              {
-                "word": "missed-day recovery",
-                "def": "中斷幾天後"
-              }
-            ]
+            "zh": "完全是。漏掉幾天後怎麼回來，很多時候比完美連續紀錄更重要。"
           },
           {
             "speaker": "b",
@@ -1013,13 +834,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good habits survive because people know how to return, not because they never slip.",
-            "zh": "好的習慣會活下來，是因為人知道怎麼回來，不是因為他們永遠不會失手。",
-            "vocab": [
-              {
-                "word": "habits survive",
-                "def": "失手"
-              }
-            ]
+            "zh": "好的習慣會活下來，是因為人知道怎麼回來，不是因為他們永遠不會失手。"
           },
           {
             "speaker": "b",
@@ -1060,13 +875,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The right routine usually feels like relief, not fantasy.",
-            "zh": "真正對的安排，很多時候比較像鬆一口氣，不像幻想。",
-            "vocab": [
-              {
-                "word": "routine",
-                "def": "日常；固定流程"
-              }
-            ]
+            "zh": "真正對的安排，很多時候比較像鬆一口氣，不像幻想。"
           },
           {
             "speaker": "b",
@@ -1078,13 +887,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If the plan makes your life more livable, you probably chose well.",
-            "zh": "如果一個安排會讓你的生活變得更住得下去，那你大概就選對了。",
-            "vocab": [
-              {
-                "word": "plan",
-                "def": "那你大概就選對了"
-              }
-            ]
+            "zh": "如果一個安排會讓你的生活變得更住得下去，那你大概就選對了。"
           },
           {
             "speaker": "b",
@@ -1095,7 +898,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then this was a useful conversation.",
+            "en": "This was a useful conversation.",
             "zh": "那這就是一場有用的對話。"
           }
         ]
@@ -1165,13 +968,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That makes sense. Competition has a way of revealing character fast.",
-            "zh": "這很合理。競爭這件事很會快速把人的性格照出來。",
-            "vocab": [
-              {
-                "word": "character",
-                "def": "性格；品格"
-              }
-            ]
+            "zh": "這很合理。競爭這件事很會快速把人的性格照出來。"
           },
           {
             "speaker": "b",
@@ -1183,13 +980,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Stress reveals what habits are underneath the image.",
-            "zh": "完全沒錯。壓力會把一個人形象下面真正的習慣翻出來。",
-            "vocab": [
-              {
-                "word": "underneath",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。壓力會把一個人形象下面真正的習慣翻出來。"
           },
           {
             "speaker": "b",
@@ -1242,13 +1033,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is hard. That is why fair play is a moral skill, not just a rulebook phrase.",
-            "zh": "本來就很難。也因此，公平競爭比較像一種道德能力，不只是規則書上的一句話。",
-            "vocab": [
-              {
-                "word": "fair play",
-                "def": "不是只守規則"
-              }
-            ]
+            "zh": "本來就很難。也因此，公平競爭比較像一種道德能力，不只是規則書上的一句話。"
           },
           {
             "speaker": "b",
@@ -1260,13 +1045,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It trains people to hold intensity without letting it turn ugly.",
-            "zh": "完全沒錯。它是在訓練人怎麼承受強烈感，但不讓它變醜。",
-            "vocab": [
-              {
-                "word": "intensity without",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯。它是在訓練人怎麼承受強烈感，但不讓它變醜。"
           },
           {
             "speaker": "b",
@@ -1307,13 +1086,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'Losing well is part of becoming someone who can compete well.'",
-            "zh": "另一句也很好用：「Losing well is part of becoming someone who can compete well.」",
-            "vocab": [
-              {
-                "word": "Losing well",
-                "def": "輸了之後仍能保持尊重、穩定和風度的方式"
-              }
-            ]
+            "zh": "另一句也很好用：「Losing well is part of becoming someone who can compete well.」"
           },
           {
             "speaker": "b",
@@ -1325,13 +1098,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you want something shorter, you can use 'Competition shows me where my character still needs work.'",
-            "zh": "如果你想講得更短，也可以說：「Competition shows me where my character still needs work.」",
-            "vocab": [
-              {
-                "word": "character",
-                "def": "性格；品格"
-              }
-            ]
+            "zh": "如果你想講得更短，也可以說：「Competition shows me where my character still needs work.」"
           },
           {
             "speaker": "b",
@@ -1372,13 +1139,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Team trust grows from repeated behavior under pressure.",
-            "zh": "完全沒錯。團隊信任很多時候就是由壓力下反覆出現的行為慢慢長出來的。",
-            "vocab": [
-              {
-                "word": "team trust",
-                "def": "由壓力下反覆出現的行為慢慢長出來的"
-              }
-            ]
+            "zh": "完全沒錯。團隊信任很多時候就是由壓力下反覆出現的行為慢慢長出來的。"
           },
           {
             "speaker": "b",
@@ -1390,19 +1151,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Teams remember tone, not only talent.",
-            "zh": "本來就是。團隊會記得的是語氣，不只是天分。",
-            "vocab": [
-              {
-                "word": "tone",
-                "def": "語氣"
-              }
-            ]
+            "zh": "本來就是。團隊會記得的是語氣，不只是天分。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence a lot of workplaces could use too.",
-            "zh": "這句放在很多職場裡也會很有用。"
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "a",
@@ -1437,13 +1192,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Sports are not morally good by default, but they can become powerful places of practice.",
-            "zh": "本來就是。運動不會自動在道德上很美，可是它真的可以變成很有力量的練習場。",
-            "vocab": [
-              {
-                "word": "become powerful",
-                "def": "本來就是"
-              }
-            ]
+            "zh": "本來就是。運動不會自動在道德上很美，可是它真的可以變成很有力量的練習場。"
           },
           {
             "speaker": "b",
@@ -1455,13 +1204,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. They build character only if people are willing to look at what competition reveals.",
-            "zh": "完全沒錯。運動只有在你願意看見競爭把什麼照出來時，才真的會培養性格。",
-            "vocab": [
-              {
-                "word": "character",
-                "def": "性格；品格"
-              }
-            ]
+            "zh": "完全沒錯。運動只有在你願意看見競爭把什麼照出來時，才真的會培養性格。"
           },
           {
             "speaker": "b",
@@ -1541,14 +1284,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very modern problem. Social media can turn movement into performance faster than people realize.",
-            "zh": "那真的是很現代的問題。社群媒體會比人意識到的更快，把身體活動變成表演。",
-            "vocab": [
-              {
-                "word": "performance",
-                "def": "表現；效能"
-              }
-            ]
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "b",
@@ -1560,13 +1297,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The body is especially vulnerable to comparison because it feels so personal.",
-            "zh": "完全沒錯。身體這件事特別容易被比較傷到，因為它本來就很私人。",
-            "vocab": [
-              {
-                "word": "vulnerable",
-                "def": "脆弱的；無防備的"
-              }
-            ]
+            "zh": "完全沒錯。身體這件事特別容易被比較傷到，因為它本來就很私人。"
           },
           {
             "speaker": "b",
@@ -1578,19 +1309,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The algorithm is very good at turning bodies into ranked objects.",
-            "zh": "對。演算法很擅長把身體變成可以被排名的物件。",
-            "vocab": [
-              {
-                "word": "bodies into ranked",
-                "def": "經過挑選、修飾和包裝後呈現出來的身體形象"
-              }
-            ]
+            "zh": "對。演算法很擅長把身體變成可以被排名的物件。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a disturbing sentence, but a true one.",
-            "zh": "這句有點可怕，但是真的。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "a",
@@ -1625,31 +1350,19 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The healthiest routines usually care about performance and function more than optics.",
-            "zh": "完全沒錯。比較健康的訓練，通常在意的是功能和表現，不是外觀效果。",
-            "vocab": [
-              {
-                "word": "performance",
-                "def": "表現；效能"
-              }
-            ]
+            "zh": "完全沒錯。比較健康的訓練，通常在意的是功能和表現，不是外觀效果。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a much saner anchor.",
-            "zh": "這聽起來真的是比較清醒的錨點。"
+            "en": "That matches the harder situations well.",
+            "zh": "這個說法很貼合比較難的情況。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Strength, stamina, recovery, and mood are harder to fake than aesthetics online.",
-            "zh": "本來就是。力量、耐力、恢復和心情，比起網路上的審美形象更難造假。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "本來就是。力量、耐力、恢復和心情，比起網路上的審美形象更難造假。"
           },
           {
             "speaker": "b",
@@ -1677,8 +1390,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am trying to focus more on how my body functions than on how it compares.'",
-            "zh": "你可以說：「I am trying to focus more on how my body functions than on how it compares.」"
+            "en": "A phrase that works well here is, 'I am trying to focus more on how my body functions than on how it compares.'",
+            "zh": "這裡很自然的說法是：「I am trying to focus more on how my body functions than on how it compares.」"
           },
           {
             "speaker": "b",
@@ -1690,13 +1403,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'I want my routine to support my life, not my insecurity.'",
-            "zh": "另一句也很好用：「I want my routine to support my life, not my insecurity.」",
-            "vocab": [
-              {
-                "word": "insecurity",
-                "def": "不安全感"
-              }
-            ]
+            "zh": "另一句也很好用：「I want my routine to support my life, not my insecurity.」"
           },
           {
             "speaker": "b",
@@ -1708,13 +1415,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'I am trying to train from respect, not shame.'",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying to train from respect, not shame.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am trying to train from respect, not shame.」"
           },
           {
             "speaker": "b",
@@ -1731,7 +1432,7 @@ export const WEEK_34: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Protecting Your Head While Training",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1755,13 +1456,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Fitness culture affects perception long before it affects behavior.",
-            "zh": "完全是。健身文化往往先影響的是知覺，然後才影響行為。",
-            "vocab": [
-              {
-                "word": "perception",
-                "def": "感知；觀感"
-              }
-            ]
+            "zh": "完全是。健身文化往往先影響的是知覺，然後才影響行為。"
           },
           {
             "speaker": "b",
@@ -1773,31 +1468,20 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That could be a very healthy workout for your mind.",
-            "zh": "那可能會是對你的腦很健康的一次訓練。",
-            "vocab": [
-              {
-                "word": "workout",
-                "def": "一次運動訓練；運動時段"
-              }
-            ]
+            "zh": "那可能會是對你的腦很健康的一次訓練。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a particularly useful phrase too.",
-            "zh": "這個詞也真的很好用。"
+            "en": "Right, and that shift changes how you approach it.",
+            "zh": "對，而那個轉變會改變你怎麼去面對它。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Naming the problem often weakens it.",
             "zh": "很好。把問題叫出名字，很多時候就已經是在削弱它。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What a Better Fitness Culture Would Feel Like",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1820,13 +1504,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. The goal should be a stronger relationship with the body, not a more frightened one.",
-            "zh": "我也這麼覺得。目標應該是和身體建立更強的關係，不是更害怕的關係。",
-            "vocab": [
-              {
-                "word": "body",
-                "def": "不是更害怕的關係"
-              }
-            ]
+            "zh": "我也這麼覺得。目標應該是和身體建立更強的關係，不是更害怕的關係。"
           },
           {
             "speaker": "b",
@@ -1838,13 +1516,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then keep this one too: training should leave you more available to life, not more trapped inside comparison.",
-            "zh": "那再把這句也留著：訓練應該讓你更有力氣去過生活，不是更被比較困住。",
-            "vocab": [
-              {
-                "word": "training",
-                "def": "不是更被比較困住"
-              }
-            ]
+            "zh": "那再把這句也留著：訓練應該讓你更有力氣去過生活，不是更被比較困住。"
           },
           {
             "speaker": "b",
@@ -1855,7 +1527,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels like enough for today.",
+            "en": "It feels like enough for today.",
             "zh": "今天先到這裡就很好。"
           }
         ]
@@ -1925,13 +1597,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very real. Long-term exercise becomes as much about recovery wisdom as about effort.",
-            "zh": "這真的很真。長期運動到後來，重點會和恢復智慧一樣多，不只剩下努力而已。",
-            "vocab": [
-              {
-                "word": "recovery",
-                "def": "恢復；復原"
-              }
-            ]
+            "zh": "這真的很真。長期運動到後來，重點會和恢復智慧一樣多，不只剩下努力而已。"
           },
           {
             "speaker": "b",
@@ -1943,13 +1609,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The goal shifts from proving durability to building it wisely.",
-            "zh": "完全沒錯。目標會從『證明自己多硬』變成『比較聰明地把耐用度建起來』。",
-            "vocab": [
-              {
-                "word": "goal shifts",
-                "def": "從變成"
-              }
-            ]
+            "zh": "完全沒錯。目標會從『證明自己多硬』變成『比較聰明地把耐用度建起來』。"
           },
           {
             "speaker": "b",
@@ -1961,19 +1621,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Age often strips away the fantasy of endless recovery, which can actually make training healthier.",
-            "zh": "年齡很多時候會把『恢復力無限』的幻想拿掉，而那反而會讓訓練變健康。",
-            "vocab": [
-              {
-                "word": "training healthier",
-                "def": "訓練變健康"
-              }
-            ]
+            "zh": "年齡很多時候會把『恢復力無限』的幻想拿掉，而那反而會讓訓練變健康。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a surprisingly hopeful way to see it.",
-            "zh": "這個看法意外地很有希望。"
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
@@ -2008,13 +1662,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Durability is built through smart volume, joint-friendly choices, and enough recovery to let adaptation happen.",
-            "zh": "完全沒錯。耐用度是靠聰明的訓練量、對關節友善的選擇，還有足夠讓適應發生的恢復時間長出來的。",
-            "vocab": [
-              {
-                "word": "joint-friendly",
-                "def": "適應發生的恢復時間長出來的"
-              }
-            ]
+            "zh": "完全沒錯。耐用度是靠聰明的訓練量、對關節友善的選擇，還有足夠讓適應發生的恢復時間長出來的。"
           },
           {
             "speaker": "b",
@@ -2026,19 +1674,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Long-term training should sound a little boring. That is often a sign it can survive real life.",
-            "zh": "長期訓練本來就應該有一點無聊。那通常反而是它能活進真實生活的證據。",
-            "vocab": [
-              {
-                "word": "real life",
-                "def": "不是理想中的版本"
-              }
-            ]
+            "zh": "長期訓練本來就應該有一點無聊。那通常反而是它能活進真實生活的證據。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence I needed years ago.",
-            "zh": "這句我真的很希望幾年前就聽過。"
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "a",
@@ -2073,13 +1715,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, 'These days I care more about consistency and recovery than intensity for its own sake.'",
-            "zh": "另一句也很好用：「These days I care more about consistency and recovery than intensity for its own sake.」",
-            "vocab": [
-              {
-                "word": "consistency",
-                "def": "一致性；前後如一"
-              }
-            ]
+            "zh": "另一句也很好用：「These days I care more about consistency and recovery than intensity for its own sake.」"
           },
           {
             "speaker": "b",
@@ -2091,19 +1727,13 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An easier everyday line would be, 'I want exercise to keep helping my life, not start taking it over.'",
-            "zh": "如果你想講得更簡單，也可以說：「I want exercise to keep helping my life, not start taking it over.」",
-            "vocab": [
-              {
-                "word": "easier everyday",
-                "def": "更日常的說法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I want exercise to keep helping my life, not start taking it over.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a useful line.",
-            "zh": "這句真的很好用。"
+            "en": "That tracks — especially in practice.",
+            "zh": "這說得通——尤其在實際情況裡。"
           },
           {
             "speaker": "a",
@@ -2138,31 +1768,19 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The best athletes age by changing the plan, not by pretending nothing changed.",
-            "zh": "完全沒錯。最好的運動者會透過改變計畫來變老，不是透過假裝什麼都沒變。",
-            "vocab": [
-              {
-                "word": "plan",
-                "def": "不是透過假裝什麼都沒變"
-              }
-            ]
+            "zh": "完全沒錯。最好的運動者會透過改變計畫來變老，不是透過假裝什麼都沒變。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a helpful correction to the all-or-nothing mindset.",
-            "zh": "這真的是對全有或全無心態的一個很好修正。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. A body can stay strong much longer when pride does not keep getting in the way.",
-            "zh": "本來就是。如果自尊心不要一直來搗亂，身體反而可以強很久。",
-            "vocab": [
-              {
-                "word": "pride",
-                "def": "自尊、驕傲"
-              }
-            ]
+            "zh": "本來就是。如果自尊心不要一直來搗亂，身體反而可以強很久。"
           },
           {
             "speaker": "b",
@@ -2203,13 +1821,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Long-term exercise is not about fighting age. It is about building a wiser partnership with time.",
-            "zh": "長期運動不是在對抗年紀，而是在和時間建立一段比較聰明的合作關係。",
-            "vocab": [
-              {
-                "word": "partnership with time",
-                "def": "長期運動不是在對抗年紀"
-              }
-            ]
+            "zh": "長期運動不是在對抗年紀，而是在和時間建立一段比較聰明的合作關係。"
           },
           {
             "speaker": "b",
@@ -2221,13 +1833,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is what the long game should feel like.",
-            "zh": "很好。長期戰，本來就該有這種感覺。",
-            "vocab": [
-              {
-                "word": "long game",
-                "def": "用比較長的時間尺度看這件事"
-              }
-            ]
+            "zh": "很好。長期戰，本來就該有這種感覺。"
           },
           {
             "speaker": "b",
@@ -2307,14 +1913,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very good starting point. Relationships improve when people stop treating the other side like a permanent problem to solve.",
-            "zh": "這真的是很好的起點。任何關係只要不再把對方當成一個永久待修理的問題，通常就會開始變好。",
-            "vocab": [
-              {
-                "word": "permanent",
-                "def": "永久的；持久的"
-              }
-            ]
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "b",
@@ -2326,13 +1926,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The body often responds better to partnership than to war.",
-            "zh": "完全沒錯。身體很多時候對合作的反應，會比對戰爭好得多。",
-            "vocab": [
-              {
-                "word": "better to partnership",
-                "def": "比對戰爭好得多"
-              }
-            ]
+            "zh": "完全沒錯。身體很多時候對合作的反應，會比對戰爭好得多。"
           },
           {
             "speaker": "b",
@@ -2385,13 +1979,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Internal signals become information instead of insults.",
-            "zh": "完全沒錯。身體內部的訊號會重新變成資訊，不是辱罵。",
-            "vocab": [
-              {
-                "word": "internal signal",
-                "def": "不是辱罵"
-              }
-            ]
+            "zh": "完全沒錯。身體內部的訊號會重新變成資訊，不是辱罵。"
           },
           {
             "speaker": "b",
@@ -2403,13 +1991,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It really can. Many people are not bad at self-care. They are just translating body information through shame.",
-            "zh": "真的會。很多人不是不會照顧自己，他們只是一直在用羞愧去翻譯身體資訊。",
-            "vocab": [
-              {
-                "word": "through shame",
-                "def": "很多人不是不會照顧自己"
-              }
-            ]
+            "zh": "真的會。很多人不是不會照顧自己，他們只是一直在用羞愧去翻譯身體資訊。"
           },
           {
             "speaker": "b",
@@ -2437,8 +2019,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am trying to work with my body instead of constantly trying to correct it.'",
-            "zh": "你可以說：「I am trying to work with my body instead of constantly trying to correct it.」"
+            "en": "One natural option is, 'I am trying to work with my body instead of constantly trying to correct it.'",
+            "zh": "這裡很自然的說法是：「I am trying to work with my body instead of constantly trying to correct it.」"
           },
           {
             "speaker": "b",
@@ -2450,13 +2032,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, 'I want my routines to build trust, not fear.'",
-            "zh": "另一句也很好用：「I want my routines to build trust, not fear.」",
-            "vocab": [
-              {
-                "word": "build trust",
-                "def": "透過穩定出現，慢慢把信任長出來"
-              }
-            ]
+            "zh": "另一句也很好用：「I want my routines to build trust, not fear.」"
           },
           {
             "speaker": "b",
@@ -2468,13 +2044,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, 'I am trying to treat my body like part of my life, not a project.'",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying to treat my body like part of my life, not a project.」",
-            "vocab": [
-              {
-                "word": "simpler version",
-                "def": "不是盲目樂觀"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am trying to treat my body like part of my life, not a project.」"
           },
           {
             "speaker": "b",
@@ -2515,31 +2085,19 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A better relationship begins when the body stops needing to earn basic respect.",
-            "zh": "完全沒錯。比較好的關係，往往是從身體不再需要『賺』到基本尊重開始。",
-            "vocab": [
-              {
-                "word": "basic respect",
-                "def": "比較好的關係"
-              }
-            ]
+            "zh": "完全沒錯。比較好的關係，往往是從身體不再需要『賺』到基本尊重開始。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a powerful standard.",
-            "zh": "這真的是很有力量的標準。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It changes everything from training to eating to sleep.",
-            "zh": "它會改變從訓練到吃東西再到睡覺的每一件事。",
-            "vocab": [
-              {
-                "word": "sleep",
-                "def": "改變從訓練到吃東西再到睡覺的每一件事"
-              }
-            ]
+            "zh": "它會改變從訓練到吃東西再到睡覺的每一件事。"
           },
           {
             "speaker": "b",
@@ -2580,13 +2138,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. A body treated with respect often becomes more cooperative over time.",
-            "zh": "本來就是。被尊重對待的身體，很多時候久了也會變得比較願意合作。",
-            "vocab": [
-              {
-                "word": "body treated",
-                "def": "比較願意合作"
-              }
-            ]
+            "zh": "本來就是。被尊重對待的身體，很多時候久了也會變得比較願意合作。"
           },
           {
             "speaker": "b",
@@ -2598,13 +2150,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more than an idea. Many people feel it once they stop living at war with themselves.",
-            "zh": "它不只是一個想法。很多人一旦不再和自己打仗，就真的會感受到。",
-            "vocab": [
-              {
-                "word": "stop living",
-                "def": "感受到"
-              }
-            ]
+            "zh": "它不只是一個想法。很多人一旦不再和自己打仗，就真的會感受到。"
           },
           {
             "speaker": "b",
@@ -2615,7 +2161,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us keep it.",
+            "en": "Let us keep it.",
             "zh": "那我們就把它留下來。"
           }
         ]

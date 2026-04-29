@@ -52,14 +52,6 @@ function main() {
       errors.push(`${id}: expected 39-54 lines, got ${lineCount}`)
     }
 
-    const vocabCount = episode.parts.reduce(
-      (sum, part) => sum + part.lines.reduce((partSum, line) => partSum + ((line.vocab || []).length), 0),
-      0,
-    )
-    if (vocabCount < 8) {
-      errors.push(`${id}: expected at least 8 vocab items, got ${vocabCount}`)
-    }
-
     if (!episode.keyPhrases || episode.keyPhrases.length !== 8) {
       errors.push(`${id}: expected 8 key phrases, got ${(episode.keyPhrases || []).length}`)
     }
@@ -97,10 +89,8 @@ function main() {
           errors.push(`${id}: Chinese line still contains English text`)
         }
 
-        for (const vocab of line.vocab || []) {
-          if (countChineseChars(vocab.def) < 1) {
-            errors.push(`${id}: vocab definition for "${vocab.word}" still contains English text`)
-          }
+        if (line.vocab || line.vocabulary) {
+          errors.push(`${id}: inline line vocab has been retired; use keyPhrases instead`)
         }
       }
     }

@@ -40,25 +40,19 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And it requires no personal disclosure. You can bond with a stranger over a rainy commute without revealing anything about yourself.",
-            "zh": "而且它不需要個人披露。你可以在下雨通勤的過程中和陌生人建立連結，而不必透露任何關於自己的信息。"
+            "zh": "而且它不需要揭露個人資訊。你可以在下雨通勤的過程中和陌生人建立連結，而不必透露任何關於自己的事。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why it's the default small talk opener in many cultures. Safe, shared, non-threatening.",
-            "zh": "這就是為什麼它在許多文化中是默認的閒聊開場。安全、共同、無威脅性。"
+            "zh": "這就是為什麼它在許多文化中都是最自然的閒聊開場。安全、共同、沒有威脅性。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do you actually enjoy talking about weather or is it just filler?",
-            "zh": "你真的喜歡談論天氣，還是它只是填充物？",
-            "vocab": [
-              {
-                "word": "filler",
-                "def": "填充物；湊數的話題"
-              }
-            ]
+            "zh": "你真的喜歡談論天氣，還是它只是填充物？"
           },
           {
             "speaker": "a",
@@ -93,25 +87,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Drizzle\" for light rain. \"Downpour\" for very heavy rain. \"Shower\" for a brief, moderate rain that comes and goes.",
-            "zh": "「細雨」用於小雨。「傾盆大雨」用於非常大的雨。「陣雨」用於來了又去的短暫中等降雨。",
-            "vocab": [
-              {
-                "word": "drizzle",
-                "def": "毛毛雨；細雨"
-              }
-            ]
+            "zh": "「細雨」用於小雨。「傾盆大雨」用於非常大的雨。「陣雨」用於來了又去的短暫中等降雨。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And \"breezy\" versus \"windy\" versus \"gusty\"? Those all sound similar.",
-            "zh": "那「微風徐徐」、「有風」和「陣風強勁」呢？這些聽起來都差不多。",
-            "vocab": [
-              {
-                "word": "gusty",
-                "def": "陣風強勁的；風忽大忽小的"
-              }
-            ]
+            "zh": "那「微風徐徐」、「有風」和「陣風強勁」呢？這些聽起來都差不多。"
           },
           {
             "speaker": "a",
@@ -158,13 +140,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Serotonin production is linked to light exposure. Less light means less serotonin. Melatonin disruption too — your body can't tell when to sleep or wake.",
-            "zh": "血清素的產生與光照有關。光照越少，血清素越少。褪黑激素也會被擾亂——你的身體分不清該什麼時候睡覺或醒來。",
-            "vocab": [
-              {
-                "word": "melatonin",
-                "def": "褪黑激素（調節睡眠的荷爾蒙）"
-              }
-            ]
+            "zh": "血清素的產生與光照有關。光照越少，血清素越少。褪黑激素也會被擾亂——你的身體分不清該什麼時候睡覺或醒來。"
           },
           {
             "speaker": "b",
@@ -193,7 +169,7 @@ export const WEEK_07: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Reading Weather Forecasts",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -211,19 +187,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Weather forecasts are much better now than they were twenty years ago. Computer modelling improved dramatically.",
-            "zh": "天氣預報現在比二十年前好多了。電腦模型大幅改進了。",
-            "vocab": [
-              {
-                "word": "modelling",
-                "def": "模型建立；電腦模擬"
-              }
-            ]
+            "zh": "天氣預報現在比二十年前好多了。電腦模型大幅改進了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Five-day forecasts are now as accurate as three-day forecasts were in the nineties. The data inputs are just enormous.",
-            "zh": "五天預報現在和九十年代的三天預報一樣準確。數據輸入量非常巨大。"
+            "zh": "現在的五天預報，已經和九十年代的三天預報一樣準確。資料量非常龐大。"
           },
           {
             "speaker": "b",
@@ -248,23 +218,12 @@ export const WEEK_07: Episode[] = [
             "speakerName": "Mira",
             "en": "Exact timing and location of convective storms — thunderstorms that develop suddenly. And long-range beyond ten days is still quite uncertain.",
             "zh": "對流風暴——突然形成的雷暴——的確切時間和位置。還有超過十天的長期預測仍然相當不確定。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Extreme Weather and Preparation",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Typhoon season is always stressful here. Have you ever been caught in a really bad one?",
-            "zh": "這裡的颱風季節總是很緊張。你有沒有遇到過真的很糟糕的颱風？",
-            "vocab": [
-              {
-                "word": "typhoon season",
-                "def": "颱風季節"
-              }
-            ]
+            "zh": "這裡的颱風季節總是很緊張。你有沒有遇到過真的很糟糕的颱風？"
           },
           {
             "speaker": "a",
@@ -393,13 +352,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The problem is the constant dampness. Everything feels slightly wet. Clothes don't dry. Walls get mold.",
-            "zh": "問題是持續的潮濕。一切都感覺略微濕。衣服不幹。牆壁發霉。",
-            "vocab": [
-              {
-                "word": "dampness",
-                "def": "潮濕；濕氣"
-              }
-            ]
+            "zh": "問題是持續的潮濕。一切都感覺略微濕。衣服不幹。牆壁發霉。"
           },
           {
             "speaker": "a",
@@ -458,13 +411,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good windproof umbrella with fiberglass ribs is worth the investment. You feel it the first time a storm hits.",
-            "zh": "一把有玻璃纖維骨架的好防風傘值得投資。第一次遇到風暴時你就會感受到差別。",
-            "vocab": [
-              {
-                "word": "windproof",
-                "def": "一把有玻璃纖維骨架的好防風傘值得投資"
-              }
-            ]
+            "zh": "一把有玻璃纖維骨架的好防風傘值得投資。第一次遇到風暴時你就會感受到差別。"
           },
           {
             "speaker": "b",
@@ -493,7 +440,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I actually find enforced indoor time good for reading and projects. The rain gives you permission to stay in.",
-            "zh": "我其實發現被迫待在室內的時間對閱讀和項目有好處。雨給了你待在家的許可。"
+            "zh": "我其實發現，被迫待在室內的時間對閱讀和自己的專案有好處。雨給了你待在家的許可。"
           },
           {
             "speaker": "b",
@@ -529,13 +476,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfect. There's even research showing that the sound of rain improves concentration for certain people. White noise effect.",
-            "zh": "很棒。甚至有研究顯示雨聲能提高某些人的專注力。白噪音效果。",
-            "vocab": [
-              {
-                "word": "concentration",
-                "def": "專注力；注意力"
-              }
-            ]
+            "zh": "很棒。甚至有研究顯示雨聲能提高某些人的專注力。白噪音效果。"
           }
         ]
       },
@@ -546,13 +487,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "From a bigger picture, rainy season isn't just inconvenient — it's essential for the ecosystem and agriculture.",
-            "zh": "從更大的角度看，雨季不只是不方便——它對生態系統和農業是必不可少的。",
-            "vocab": [
-              {
-                "word": "ecosystem",
-                "def": "生態系統"
-              }
-            ]
+            "zh": "從更大的角度看，雨季不只是不方便——它對生態系統和農業是必不可少的。"
           },
           {
             "speaker": "a",
@@ -576,13 +511,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Climate change is shifting rainfall patterns too. Some areas get more, some less, at the wrong times.",
-            "zh": "氣候變化也在改變降雨模式。一些地區獲得更多，一些地區更少，而且在錯誤的時間。",
-            "vocab": [
-              {
-                "word": "rainfall patterns",
-                "def": "降雨模式；降水規律"
-              }
-            ]
+            "zh": "氣候變化也在改變降雨模式。一些地區獲得更多，一些地區更少，而且在錯誤的時間。"
           },
           {
             "speaker": "a",
@@ -629,13 +558,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Petrichor is caused by geosmin, a compound released by bacteria in the soil. The rain activates it. It's literally the smell of life.",
-            "zh": "石雨香是由土壤中細菌釋放的一種化合物土腥素引起的。雨水激活它。它字面上就是生命的氣味。",
-            "vocab": [
-              {
-                "word": "geosmin",
-                "def": "土腥素；引起石雨香的化合物"
-              }
-            ]
+            "zh": "石雨香是由土壤中細菌釋放的一種化合物土腥素引起的。雨水激活它。它字面上就是生命的氣味。"
           },
           {
             "speaker": "b",
@@ -722,19 +645,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I've noticed that people from colder climates seem more reserved, while tropical countries often seem more outgoing. Is there something to that?",
-            "zh": "我注意到來自寒冷氣候的人似乎更內斂，而熱帶國家的人往往看起來更外向。這有依據嗎？",
-            "vocab": [
-              {
-                "word": "reserved",
-                "def": "內斂的；保守的"
-              }
-            ]
+            "zh": "我注意到來自寒冷氣候的人似乎更內斂，而熱帶國家的人往往看起來更外向。這有依據嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It's a real hypothesis in cultural psychology, though it's more correlation than causation and has many exceptions.",
-            "zh": "這在文化心理學中是個真實的假說，雖然它更多是相關性而不是因果關係，而且有很多例外。"
+            "en": "It is a possible explanation, though it is more pattern than proof and has many exceptions.",
+            "zh": "這是一種可能的解釋，不過它更像是一種模式，不是證明，而且有很多例外。"
           },
           {
             "speaker": "b",
@@ -770,13 +687,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many scientific studies now show that a short afternoon rest improves cognitive performance. The body knows.",
-            "zh": "許多科學研究現在顯示短暫的午後休息能提升認知表現。身體知道。",
-            "vocab": [
-              {
-                "word": "cognitive performance",
-                "def": "認知表現；腦力效能"
-              }
-            ]
+            "zh": "許多科學研究現在顯示短暫的午後休息能提升認知表現。身體知道。"
           }
         ]
       },
@@ -787,13 +698,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Traditional architecture is so adapted to local climate. Wide eaves in Taiwan for shade and rain protection.",
-            "zh": "傳統建築非常適應當地氣候。台灣寬大的屋簷用於遮陽和防雨。",
-            "vocab": [
-              {
-                "word": "eaves",
-                "def": "屋簷；屋緣"
-              }
-            ]
+            "zh": "傳統建築非常適應當地氣候。台灣寬大的屋簷用於遮陽和防雨。"
           },
           {
             "speaker": "a",
@@ -817,13 +722,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Compare that to Nordic architecture — small windows to retain heat, thick walls as insulation.",
-            "zh": "對比北歐建築——小窗戶以保留熱量，厚牆作為隔熱。",
-            "vocab": [
-              {
-                "word": "insulation",
-                "def": "隔熱；保溫材料"
-              }
-            ]
+            "zh": "對比北歐建築——小窗戶以保留熱量，厚牆作為隔熱。"
           },
           {
             "speaker": "a",
@@ -852,13 +751,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Almost every traditional festival ties to a season or weather event. Midsummer, harvest moon, winter solstice.",
-            "zh": "幾乎每一個傳統節日都和一個季節或天氣事件相關聯。仲夏節、中秋月、冬至。",
-            "vocab": [
-              {
-                "word": "winter solstice",
-                "def": "仲夏節、中秋月、冬至"
-              }
-            ]
+            "zh": "幾乎每一個傳統節日都和一個季節或天氣事件相關聯。仲夏節、中秋月、冬至。"
           },
           {
             "speaker": "a",
@@ -900,18 +793,12 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which disconnects us from the rhythm our bodies evolved with. That disconnection has its own costs.",
-            "zh": "這讓我們與我們的身體進化出的節奏斷開了連結。那種斷開有其自身的代價。",
-            "vocab": [
-              {
-                "word": "disconnection",
-                "def": "斷開連結；脫節"
-              }
-            ]
+            "zh": "這讓我們與我們的身體進化出的節奏斷開了連結。那種斷開有其自身的代價。"
           }
         ]
       },
       {
-        "title": "Part 4 — Clothing and Seasonal Dressing",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -960,12 +847,7 @@ export const WEEK_07: Episode[] = [
             "speakerName": "Mira",
             "en": "Natural fibers are usually better in humidity. Linen especially — it's cool, breathable, and looks decent even when slightly crumpled.",
             "zh": "天然纖維在潮濕環境中通常更好。亞麻尤其——它涼爽、透氣，而且即使稍微皺了也看起來像樣。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Finding a Connection to the Seasons",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1019,9 +901,9 @@ export const WEEK_07: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "hypothesis",
-        "zh": "假說；假設",
-        "example": "The theory that climate shapes culture is an interesting hypothesis."
+        "en": "possible explanation",
+        "zh": "可能可以解釋某件事的說法，但還不是確定答案",
+        "example": "Weather offered one possible explanation for his low mood, but it was not the whole story."
       },
       {
         "en": "passive cooling",
@@ -1075,13 +957,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I read a climate report last week and couldn't sleep for two nights. The projections were devastating.",
-            "zh": "我上週讀了一份氣候報告，兩個晚上都睡不著。那些預測令人震驚。",
-            "vocab": [
-              {
-                "word": "projections",
-                "def": "預測；預估"
-              }
-            ]
+            "zh": "我上週讀了一份氣候報告，兩個晚上都睡不著。那些預測令人震驚。"
           },
           {
             "speaker": "a",
@@ -1134,13 +1010,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What's the highest-impact individual action for climate? Is it going vegan? Selling the car?",
-            "zh": "對氣候影響最大的個人行動是什麼？變成純素食者？賣掉汽車？",
-            "vocab": [
-              {
-                "word": "highest-impact",
-                "def": "影響最大的"
-              }
-            ]
+            "zh": "對氣候影響最大的個人行動是什麼？變成純素食者？賣掉汽車？"
           },
           {
             "speaker": "a",
@@ -1182,13 +1052,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And vote for climate policies. Political action is probably the highest-leverage individual behavior of all.",
-            "zh": "以及投票支持氣候政策。政治行動可能是所有個人行為中影響力最大的。",
-            "vocab": [
-              {
-                "word": "climate policies",
-                "def": "氣候政策"
-              }
-            ]
+            "zh": "以及投票支持氣候政策。政治行動可能是所有個人行為中影響力最大的。"
           }
         ]
       },
@@ -1235,13 +1099,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I started mentioning it in casual conversations. \"I took the train because I'm cutting down on flights.\" No lecture, just modeling.",
-            "zh": "我開始在日常對話中提到它。「我坐火車是因為我在減少飛行次數。」沒有說教，只是示範。",
-            "vocab": [
-              {
-                "word": "modeling",
-                "def": "示範；以身作則"
-              }
-            ]
+            "zh": "我開始在日常對話中提到它。「我坐火車是因為我在減少飛行次數。」沒有說教，只是示範。"
           },
           {
             "speaker": "a",
@@ -1288,13 +1146,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Young people also give me hope. They're growing up with climate awareness baked in. Their expectations and demands will reshape policy.",
-            "zh": "年輕人也給了我希望。他們是帶著氣候意識成長的。他們的期望和需求將重塑政策。",
-            "vocab": [
-              {
-                "word": "awareness",
-                "def": "覺察"
-              }
-            ]
+            "zh": "年輕人也給了我希望。他們是帶著氣候意識成長的。他們的期望和需求將重塑政策。"
           },
           {
             "speaker": "b",
@@ -1341,13 +1193,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Channel the energy differently. Worry less, do more. Even small things.",
-            "zh": "以不同的方式引導能量。少擔憂，多行動。即使是小事。",
-            "vocab": [
-              {
-                "word": "channel",
-                "def": "引導；轉化"
-              }
-            ]
+            "zh": "以不同的方式引導能量。少擔憂，多行動。即使是小事。"
           },
           {
             "speaker": "a",
@@ -1458,13 +1304,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "High emotion burns memory in deep. Extreme weather is genuinely scary. Fear is one of the strongest memory consolidators.",
-            "zh": "強烈的情感把記憶燒得很深。極端天氣真的很可怕。恐懼是最強的記憶鞏固因素之一。",
-            "vocab": [
-              {
-                "word": "consolidators",
-                "def": "鞏固因素；強化記憶的因素"
-              }
-            ]
+            "zh": "強烈的情感把記憶燒得很深。極端天氣真的很可怕。恐懼是最強的記憶鞏固因素之一。"
           },
           {
             "speaker": "b",
@@ -1493,13 +1333,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Okay. A few years ago I was cycling back from a friend's place when a typhoon warning upgraded to the highest level suddenly.",
-            "zh": "好的。幾年前我騎車從朋友家回來，颱風警報突然升到了最高級別。",
-            "vocab": [
-              {
-                "word": "warning upgraded",
-                "def": "警報升級"
-              }
-            ]
+            "zh": "好的。幾年前我騎車從朋友家回來，颱風警報突然升到了最高級別。"
           },
           {
             "speaker": "b",
@@ -1523,13 +1357,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I found a parking garage and pulled in. Sat there for two hours watching debris fly past the entrance. A plastic sign nearly hit me going in.",
-            "zh": "我找到一個停車場然後進去了。在那裡坐了兩個小時，看著碎片從入口飛過。一個塑料招牌差點打到我進去的時候。",
-            "vocab": [
-              {
-                "word": "debris",
-                "def": "碎片；殘骸"
-              }
-            ]
+            "zh": "我找到一個停車場然後進去了。在那裡坐了兩個小時，看著碎片從入口飛過。一個塑料招牌差點打到我進去的時候。"
           },
           {
             "speaker": "b",
@@ -1623,13 +1451,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The novelty is precious. People who grew up with snow often lose the wonder. First-time snow is genuinely magical.",
-            "zh": "新奇感是珍貴的。從小見到雪的人往往失去了驚奇感。第一次見到雪是真正神奇的。",
-            "vocab": [
-              {
-                "word": "novelty",
-                "def": "新奇感；新鮮感"
-              }
-            ]
+            "zh": "新奇感是珍貴的。從小見到雪的人往往失去了驚奇感。第一次見到雪是真正神奇的。"
           },
           {
             "speaker": "b",
@@ -1688,13 +1510,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "True. The poorest communities are most vulnerable to climate impacts. They did the least to cause it.",
-            "zh": "確實。最貧窮的社區對氣候影響最脆弱。而他們對氣候變化的貢獻最少。",
-            "vocab": [
-              {
-                "word": "vulnerable",
-                "def": "脆弱的；易受影響的"
-              }
-            ]
+            "zh": "確實。最貧窮的社區對氣候影響最脆弱。而他們對氣候變化的貢獻最少。"
           },
           {
             "speaker": "a",
@@ -1706,13 +1522,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Back to weather as a lens for seeing the world. It's never just meteorology.",
-            "zh": "回到天氣作為看世界的鏡頭。它從來不只是氣象學。",
-            "vocab": [
-              {
-                "word": "meteorology",
-                "def": "氣象學；天氣科學"
-              }
-            ]
+            "zh": "回到天氣作為看世界的鏡頭。它從來不只是氣象學。"
           },
           {
             "speaker": "a",
@@ -1798,8 +1608,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Sort of. Physiological arousal from cold or fear can be misattributed as romantic excitement. You feel your heart rate up and assume it's attraction.",
-            "zh": "某種程度上是的。來自寒冷或恐懼的生理喚起可能被錯誤歸因為浪漫興奮。你感到心率加快，並認為那是吸引力。"
+            "en": "Sort of. Cold or fear can make your body feel excited, and then you may misread a feeling as attraction.",
+            "zh": "某種程度上是。寒冷或害怕會讓身體進入興奮狀態，然後你可能會把那種感覺誤讀成吸引力。"
           },
           {
             "speaker": "b",
@@ -1823,13 +1633,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Oxytocin is released through touch and closeness. Cold weather creates natural reasons for both. In that sense, cold weather creates its own kind of closeness.",
-            "zh": "催產素會透過觸碰和親近感釋放。寒冷天氣剛好會自然創造這兩種情境。從這個角度看，冷天氣本身就會帶出一種特別的靠近。",
-            "vocab": [
-              {
-                "word": "oxytocin",
-                "def": "催產素；「擁抱荷爾蒙」"
-              }
-            ]
+            "zh": "催產素會透過觸碰和親近感釋放。寒冷天氣剛好會自然創造這兩種情境。從這個角度看，冷天氣本身就會帶出一種特別的靠近。"
           }
         ]
       },
@@ -1876,13 +1680,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Japanese art captures that beautifully — the natural world going on while human things happen within it.",
-            "zh": "日本藝術捕捉了這一點——自然世界繼續前行，而人類的事情在其中發生。",
-            "vocab": [
-              {
-                "word": "captures",
-                "def": "捕捉；呈現"
-              }
-            ]
+            "zh": "日本藝術捕捉了這一點——自然世界繼續前行，而人類的事情在其中發生。"
           },
           {
             "speaker": "a",
@@ -1911,13 +1709,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Unplanned is the key. Those accidental shared moments hit different than planned ones.",
-            "zh": "不在計劃中是關鍵。那些意外的共同時刻比計劃中的感覺不同。",
-            "vocab": [
-              {
-                "word": "accidental",
-                "def": "意外的；偶然的"
-              }
-            ]
+            "zh": "不在計劃中是關鍵。那些意外的共同時刻比計劃中的感覺不同。"
           },
           {
             "speaker": "a",
@@ -1947,13 +1739,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Presence is free. That's the most romantic thing about weather moments — they force you to be here now.",
-            "zh": "臨在感是免費的。這是天氣時刻最浪漫的地方——它們迫使你活在當下。",
-            "vocab": [
-              {
-                "word": "weather moments",
-                "def": "活在當下；此時此刻"
-              }
-            ]
+            "zh": "臨在感是免費的。這是天氣時刻最浪漫的地方——它們迫使你活在當下。"
           }
         ]
       },
@@ -1970,13 +1756,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a beautiful metaphor. Spring as new love — everything bright and growing and uncertain. Summer as the peak of connection and ease.",
-            "zh": "那是個美麗的比喻。春天是新戀愛——一切都是明亮的、成長的、不確定的。夏天是連結和輕鬆的高峰。",
-            "vocab": [
-              {
-                "word": "metaphor",
-                "def": "比喻；隱喻"
-              }
-            ]
+            "zh": "那是個美麗的比喻。春天是新戀愛——一切都是明亮的、成長的、不確定的。夏天是連結和輕鬆的高峰。"
           },
           {
             "speaker": "b",
@@ -2029,13 +1809,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Lean into it. Bad weather is an invitation to be indoors together, which is its own kind of gift.",
-            "zh": "順應它。惡劣天氣是在一起待在室內的邀請，那本身就是一種禮物。",
-            "vocab": [
-              {
-                "word": "invitation",
-                "def": "邀請；機會"
-              }
-            ]
+            "zh": "順應它。惡劣天氣是在一起待在室內的邀請，那本身就是一種禮物。"
           },
           {
             "speaker": "b",
@@ -2046,8 +1820,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Contrast creates appreciation. The warmth feels warmer because of the cold outside.",
-            "zh": "就是。對比創造感恩。溫暖因為外面的寒冷而感覺更溫暖。"
+            "en": "Right. Contrast creates appreciation. The warmth feels warmer because of the cold outside.",
+            "zh": "對。對比創造感恩。溫暖因為外面的寒冷而感覺更溫暖。"
           },
           {
             "speaker": "b",
@@ -2078,9 +1852,9 @@ export const WEEK_07: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "misattributed",
-        "zh": "錯誤歸因的",
-        "example": "The excitement from the roller coaster was misattributed as romantic attraction."
+        "en": "misread a feeling",
+        "zh": "把一種感受誤解成另一種原因造成的反應",
+        "example": "After the scary ride, she misread a feeling of excitement as something romantic."
       },
       {
         "en": "pathetic fallacy",
@@ -2140,25 +1914,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think about what you want to experience. Landscapes are most dramatic in specific seasons. Cherry blossoms, autumn foliage, monsoons.",
-            "zh": "想想你想體驗什麼。風景在特定季節最壯觀。櫻花、秋葉、季風。",
-            "vocab": [
-              {
-                "word": "foliage",
-                "def": "樹葉；葉子（尤指秋葉）"
-              }
-            ]
+            "zh": "想想你想體驗什麼。風景在特定季節最壯觀。櫻花、秋葉、季風。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I've always wanted to see cherry blossoms in Japan. That requires perfect timing — a week too early or late and you miss it.",
-            "zh": "我一直想在日本看櫻花。那需要完美的時機——早一週或晚一週就錯過了。",
-            "vocab": [
-              {
-                "word": "timing",
-                "def": "時機；時間點"
-              }
-            ]
+            "zh": "我一直想在日本看櫻花。那需要完美的時機——早一週或晚一週就錯過了。"
           },
           {
             "speaker": "a",
@@ -2223,13 +1985,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I went to Kyoto in peak season once. The temples were so crowded you couldn't experience them properly.",
-            "zh": "我有一次在旺季去了京都。寺廟太擁擠了，你無法好好體驗它們。",
-            "vocab": [
-              {
-                "word": "peak season",
-                "def": "旺季；高峰季節"
-              }
-            ]
+            "zh": "我有一次在旺季去了京都。寺廟太擁擠了，你無法好好體驗它們。"
           },
           {
             "speaker": "a",
@@ -2264,13 +2020,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A fog delay at an airport once meant I missed my connection, but instead I had an unexpected night in a layover city I'd never visited.",
-            "zh": "有一次機場的霧延誤讓我錯過了轉機，但我反而在一個我從未去過的中轉城市意外地過了一晚。",
-            "vocab": [
-              {
-                "word": "layover city",
-                "def": "中轉城市；轉機停留城市"
-              }
-            ]
+            "zh": "有一次機場的霧延誤讓我錯過了轉機，但我反而在一個我從未去過的中轉城市意外地過了一晚。"
           },
           {
             "speaker": "b",
@@ -2311,7 +2061,7 @@ export const WEEK_07: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Extreme Weather Tourism",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -2323,13 +2073,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Both, in different measures. The storm chasing community actually contributes valuable meteorological data. They're scientists as much as adventurers.",
-            "zh": "兩者都是，程度不同。追風暴社群實際上貢獻了有價值的氣象數據。他們既是科學家也是冒險者。",
-            "vocab": [
-              {
-                "word": "meteorological",
-                "def": "氣象學的；氣象方面的"
-              }
-            ]
+            "zh": "兩者都是，只是程度不同。追風暴社群其實也貢獻了有價值的氣象資料。他們既像科學家，也像冒險者。"
           },
           {
             "speaker": "b",
@@ -2366,12 +2110,7 @@ export const WEEK_07: Episode[] = [
             "speakerName": "Mira",
             "en": "Perspective through weather. That's actually therapeutic. Hard to dwell on minor stresses when something that powerful is right in front of you.",
             "zh": "通過天氣獲得視角。那實際上是有療效的。當那麼強大的東西就在你面前時，很難糾結於小壓力。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Your Dream Weather Destination",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2394,13 +2133,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly my vibe. Though I'd also say Kyoto in early spring before the cherry blossom crowds arrive.",
-            "zh": "完全是我的氛圍。不過我也會說早春的京都，在櫻花人群到來之前。",
-            "vocab": [
-              {
-                "word": "vibe",
-                "def": "氛圍；感覺（口語）"
-              }
-            ]
+            "zh": "完全是我的氛圍。不過我也會說早春的京都，在櫻花人群到來之前。"
           },
           {
             "speaker": "b",
@@ -2411,8 +2144,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds extraordinary. Sitting in hot water while it snows around you under a clear sky hoping for aurora. What an image.",
-            "zh": "那聽起來非常了不起。坐在熱水中，四周下著雪，在清澈的天空下希望看到極光。多美的畫面。"
+            "en": "I can picture it vividly — sitting in hot water while it snows around you under a clear sky, hoping for aurora. What an image.",
+            "zh": "我能很清楚地想像那個畫面——坐在熱水裡，四周下著雪，在清澈天空下盼著看到極光。真是一幅景。"
           },
           {
             "speaker": "b",

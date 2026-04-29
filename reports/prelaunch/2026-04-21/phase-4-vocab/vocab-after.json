@@ -1,0 +1,2562 @@
+{
+  "totalEpisodes": 365,
+  "rows": [
+    {
+      "episodeId": "W01D1",
+      "weekNumber": 1,
+      "dayOfWeek": 1,
+      "title": "A Fresh Start Can Happen Anytime",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W01D2",
+      "weekNumber": 1,
+      "dayOfWeek": 2,
+      "title": "Intentions, Not Pressure",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W01D3",
+      "weekNumber": 1,
+      "dayOfWeek": 3,
+      "title": "Why Starting Again Works",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W01D4",
+      "weekNumber": 1,
+      "dayOfWeek": 4,
+      "title": "Letting Go to Begin Again",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W02D1",
+      "weekNumber": 2,
+      "dayOfWeek": 1,
+      "title": "The Perfect Morning",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W02D2",
+      "weekNumber": 2,
+      "dayOfWeek": 2,
+      "title": "The Early Bird Advantage",
+      "vocabCount": 15
+    },
+    {
+      "episodeId": "W02D3",
+      "weekNumber": 2,
+      "dayOfWeek": 3,
+      "title": "Breakfast Conversations",
+      "vocabCount": 16
+    },
+    {
+      "episodeId": "W02D4",
+      "weekNumber": 2,
+      "dayOfWeek": 4,
+      "title": "Moving Your Body at Dawn",
+      "vocabCount": 18
+    },
+    {
+      "episodeId": "W02D5",
+      "weekNumber": 2,
+      "dayOfWeek": 5,
+      "title": "Mindful Mornings",
+      "vocabCount": 16
+    },
+    {
+      "episodeId": "W02D6",
+      "weekNumber": 2,
+      "dayOfWeek": 6,
+      "title": "The Art of the Slow Morning",
+      "vocabCount": 17
+    },
+    {
+      "episodeId": "W02D7",
+      "weekNumber": 2,
+      "dayOfWeek": 7,
+      "title": "When Routines Go Wrong",
+      "vocabCount": 18
+    },
+    {
+      "episodeId": "W03D1",
+      "weekNumber": 3,
+      "dayOfWeek": 1,
+      "title": "Getting Around: Commute Stories",
+      "vocabCount": 16
+    },
+    {
+      "episodeId": "W03D2",
+      "weekNumber": 3,
+      "dayOfWeek": 2,
+      "title": "Walking and Cycling to Work",
+      "vocabCount": 16
+    },
+    {
+      "episodeId": "W03D3",
+      "weekNumber": 3,
+      "dayOfWeek": 3,
+      "title": "Remote Work Days",
+      "vocabCount": 17
+    },
+    {
+      "episodeId": "W03D4",
+      "weekNumber": 3,
+      "dayOfWeek": 4,
+      "title": "Commuting Etiquette",
+      "vocabCount": 20
+    },
+    {
+      "episodeId": "W03D5",
+      "weekNumber": 3,
+      "dayOfWeek": 5,
+      "title": "Driving to Work",
+      "vocabCount": 17
+    },
+    {
+      "episodeId": "W03D6",
+      "weekNumber": 3,
+      "dayOfWeek": 6,
+      "title": "Long-Distance Commuters",
+      "vocabCount": 15
+    },
+    {
+      "episodeId": "W03D7",
+      "weekNumber": 3,
+      "dayOfWeek": 7,
+      "title": "The Future of Getting to Work",
+      "vocabCount": 16
+    },
+    {
+      "episodeId": "W04D1",
+      "weekNumber": 4,
+      "dayOfWeek": 1,
+      "title": "Where I Live: Describing Your Home",
+      "vocabCount": 19
+    },
+    {
+      "episodeId": "W04D2",
+      "weekNumber": 4,
+      "dayOfWeek": 2,
+      "title": "Renting vs. Buying",
+      "vocabCount": 25
+    },
+    {
+      "episodeId": "W04D3",
+      "weekNumber": 4,
+      "dayOfWeek": 3,
+      "title": "Decluttering and Minimalism",
+      "vocabCount": 25
+    },
+    {
+      "episodeId": "W04D4",
+      "weekNumber": 4,
+      "dayOfWeek": 4,
+      "title": "Neighbors and Community",
+      "vocabCount": 26
+    },
+    {
+      "episodeId": "W04D5",
+      "weekNumber": 4,
+      "dayOfWeek": 5,
+      "title": "Home Cooking and the Kitchen",
+      "vocabCount": 26
+    },
+    {
+      "episodeId": "W04D6",
+      "weekNumber": 4,
+      "dayOfWeek": 6,
+      "title": "Interior Design and Personal Style",
+      "vocabCount": 29
+    },
+    {
+      "episodeId": "W04D7",
+      "weekNumber": 4,
+      "dayOfWeek": 7,
+      "title": "Home, Rest, and Reflection",
+      "vocabCount": 30
+    },
+    {
+      "episodeId": "W05D1",
+      "weekNumber": 5,
+      "dayOfWeek": 1,
+      "title": "Why People Celebrate",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W05D2",
+      "weekNumber": 5,
+      "dayOfWeek": 2,
+      "title": "Traditions That Still Feel Alive",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W05D3",
+      "weekNumber": 5,
+      "dayOfWeek": 3,
+      "title": "Gifts and Giving",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W05D4",
+      "weekNumber": 5,
+      "dayOfWeek": 4,
+      "title": "Family Gatherings",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W05D5",
+      "weekNumber": 5,
+      "dayOfWeek": 5,
+      "title": "Food and Festival Memory",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W05D6",
+      "weekNumber": 5,
+      "dayOfWeek": 6,
+      "title": "Music, Dance, and Celebration",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W05D7",
+      "weekNumber": 5,
+      "dayOfWeek": 7,
+      "title": "Carrying Celebration into Everyday Life",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W06D1",
+      "weekNumber": 6,
+      "dayOfWeek": 1,
+      "title": "Let's Eat: Food Preferences and Habits",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W06D2",
+      "weekNumber": 6,
+      "dayOfWeek": 2,
+      "title": "Eating Out and Restaurant Culture",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W06D3",
+      "weekNumber": 6,
+      "dayOfWeek": 3,
+      "title": "Street Food and Local Eats",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W06D4",
+      "weekNumber": 6,
+      "dayOfWeek": 4,
+      "title": "Healthy Eating and Diets",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W06D5",
+      "weekNumber": 6,
+      "dayOfWeek": 5,
+      "title": "Food Memories and Family Recipes",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W06D6",
+      "weekNumber": 6,
+      "dayOfWeek": 6,
+      "title": "International Cuisine and Fusion",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W06D7",
+      "weekNumber": 6,
+      "dayOfWeek": 7,
+      "title": "Food Trends and the Future of Eating",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D1",
+      "weekNumber": 7,
+      "dayOfWeek": 1,
+      "title": "The Weather Today: Talking About Climate",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D2",
+      "weekNumber": 7,
+      "dayOfWeek": 2,
+      "title": "Surviving the Rainy Season",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D3",
+      "weekNumber": 7,
+      "dayOfWeek": 3,
+      "title": "How Weather Shapes Culture",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D4",
+      "weekNumber": 7,
+      "dayOfWeek": 4,
+      "title": "Climate Anxiety and Everyday Action",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D5",
+      "weekNumber": 7,
+      "dayOfWeek": 5,
+      "title": "Storm Stories and Weather Memories",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D6",
+      "weekNumber": 7,
+      "dayOfWeek": 6,
+      "title": "Weather and Romance",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W07D7",
+      "weekNumber": 7,
+      "dayOfWeek": 7,
+      "title": "Dream Destinations by Season",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W08D1",
+      "weekNumber": 8,
+      "dayOfWeek": 1,
+      "title": "Spending Habits: How We Buy Things",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W08D2",
+      "weekNumber": 8,
+      "dayOfWeek": 2,
+      "title": "Budgeting and Saving Money",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W08D3",
+      "weekNumber": 8,
+      "dayOfWeek": 3,
+      "title": "The Psychology of Spending",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W08D4",
+      "weekNumber": 8,
+      "dayOfWeek": 4,
+      "title": "Negotiating and Getting a Good Deal",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W08D5",
+      "weekNumber": 8,
+      "dayOfWeek": 5,
+      "title": "Financial Goals and the Future",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W08D6",
+      "weekNumber": 8,
+      "dayOfWeek": 6,
+      "title": "Gifting, Tipping, and Money Etiquette",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W08D7",
+      "weekNumber": 8,
+      "dayOfWeek": 7,
+      "title": "The Future of Money",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W09D1",
+      "weekNumber": 9,
+      "dayOfWeek": 1,
+      "title": "Taking Care of Yourself: Health Routines",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W09D2",
+      "weekNumber": 9,
+      "dayOfWeek": 2,
+      "title": "Sleep and Recovery",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W09D3",
+      "weekNumber": 9,
+      "dayOfWeek": 3,
+      "title": "Mental Health at Work",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W09D4",
+      "weekNumber": 9,
+      "dayOfWeek": 4,
+      "title": "Eating Well Without Obsessing",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W09D5",
+      "weekNumber": 9,
+      "dayOfWeek": 5,
+      "title": "When You Get Sick",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W09D6",
+      "weekNumber": 9,
+      "dayOfWeek": 6,
+      "title": "Exercise and Finding What Works",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W09D7",
+      "weekNumber": 9,
+      "dayOfWeek": 7,
+      "title": "Building Lasting Health Habits",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D1",
+      "weekNumber": 10,
+      "dayOfWeek": 1,
+      "title": "My Week: Talking About Time and Schedules",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D2",
+      "weekNumber": 10,
+      "dayOfWeek": 2,
+      "title": "The Power of Morning Routines",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D3",
+      "weekNumber": 10,
+      "dayOfWeek": 3,
+      "title": "Managing Time at Work",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D4",
+      "weekNumber": 10,
+      "dayOfWeek": 4,
+      "title": "After Work: How We Spend Our Evenings",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D5",
+      "weekNumber": 10,
+      "dayOfWeek": 5,
+      "title": "Weekends: Rest, Play, and Meaning",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D6",
+      "weekNumber": 10,
+      "dayOfWeek": 6,
+      "title": "Slow Living and Doing Less",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W10D7",
+      "weekNumber": 10,
+      "dayOfWeek": 7,
+      "title": "Women's Time: Invisible Labor and Reclaiming Your Hours",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W11D1",
+      "weekNumber": 11,
+      "dayOfWeek": 1,
+      "title": "Good Friends: What Makes a Great Friendship",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W11D2",
+      "weekNumber": 11,
+      "dayOfWeek": 2,
+      "title": "Making New Friends as an Adult",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W11D3",
+      "weekNumber": 11,
+      "dayOfWeek": 3,
+      "title": "Long-Distance Friendships",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W11D4",
+      "weekNumber": 11,
+      "dayOfWeek": 4,
+      "title": "Conflict and Repair in Friendship",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W11D5",
+      "weekNumber": 11,
+      "dayOfWeek": 5,
+      "title": "Friendship and Social Media",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W11D6",
+      "weekNumber": 11,
+      "dayOfWeek": 6,
+      "title": "What Makes a Best Friend",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W11D7",
+      "weekNumber": 11,
+      "dayOfWeek": 7,
+      "title": "Friendship Across Differences",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D1",
+      "weekNumber": 12,
+      "dayOfWeek": 1,
+      "title": "Family Life: Talking About the People We Grew Up With",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D2",
+      "weekNumber": 12,
+      "dayOfWeek": 2,
+      "title": "Parents and Growing Up",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D3",
+      "weekNumber": 12,
+      "dayOfWeek": 3,
+      "title": "Siblings and Sibling Dynamics",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D4",
+      "weekNumber": 12,
+      "dayOfWeek": 4,
+      "title": "Family Gatherings and Celebrations",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D5",
+      "weekNumber": 12,
+      "dayOfWeek": 5,
+      "title": "Communication in Families",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D6",
+      "weekNumber": 12,
+      "dayOfWeek": 6,
+      "title": "Caring for Aging Parents",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W12D7",
+      "weekNumber": 12,
+      "dayOfWeek": 7,
+      "title": "Chosen Family and What Family Really Means",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D1",
+      "weekNumber": 13,
+      "dayOfWeek": 1,
+      "title": "Working Together: Office Relationships",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D2",
+      "weekNumber": 13,
+      "dayOfWeek": 2,
+      "title": "Giving and Receiving Feedback at Work",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D3",
+      "weekNumber": 13,
+      "dayOfWeek": 3,
+      "title": "Difficult Colleagues",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D4",
+      "weekNumber": 13,
+      "dayOfWeek": 4,
+      "title": "Leading and Being Led",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D5",
+      "weekNumber": 13,
+      "dayOfWeek": 5,
+      "title": "Remote Work and Team Connection",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D6",
+      "weekNumber": 13,
+      "dayOfWeek": 6,
+      "title": "Meetings and Productivity",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W13D7",
+      "weekNumber": 13,
+      "dayOfWeek": 7,
+      "title": "Professional Growth and Career Development",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D1",
+      "weekNumber": 14,
+      "dayOfWeek": 1,
+      "title": "Being Social",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D2",
+      "weekNumber": 14,
+      "dayOfWeek": 2,
+      "title": "Networking Without Feeling Fake",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D3",
+      "weekNumber": 14,
+      "dayOfWeek": 3,
+      "title": "Hosting Without Losing Your Mind",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D4",
+      "weekNumber": 14,
+      "dayOfWeek": 4,
+      "title": "Reading the Room and Adapting",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D5",
+      "weekNumber": 14,
+      "dayOfWeek": 5,
+      "title": "Awkward Moments and How to Recover",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D6",
+      "weekNumber": 14,
+      "dayOfWeek": 6,
+      "title": "Friend Groups, Invitations, and Exclusion",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W14D7",
+      "weekNumber": 14,
+      "dayOfWeek": 7,
+      "title": "Boundaries, Capacity, and Saying No Gracefully",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W15D1",
+      "weekNumber": 15,
+      "dayOfWeek": 1,
+      "title": "Who Are You: Talking About Personality Types",
+      "vocabCount": 24
+    },
+    {
+      "episodeId": "W15D2",
+      "weekNumber": 15,
+      "dayOfWeek": 2,
+      "title": "First Impressions and Personality Signals",
+      "vocabCount": 24
+    },
+    {
+      "episodeId": "W15D3",
+      "weekNumber": 15,
+      "dayOfWeek": 3,
+      "title": "Introversion, Extroversion, and Social Energy",
+      "vocabCount": 26
+    },
+    {
+      "episodeId": "W15D4",
+      "weekNumber": 15,
+      "dayOfWeek": 4,
+      "title": "Traits We Admire",
+      "vocabCount": 29
+    },
+    {
+      "episodeId": "W15D5",
+      "weekNumber": 15,
+      "dayOfWeek": 5,
+      "title": "Flaws, Habits, and Personal Growth",
+      "vocabCount": 33
+    },
+    {
+      "episodeId": "W15D6",
+      "weekNumber": 15,
+      "dayOfWeek": 6,
+      "title": "How Personality Shapes Relationships",
+      "vocabCount": 32
+    },
+    {
+      "episodeId": "W15D7",
+      "weekNumber": 15,
+      "dayOfWeek": 7,
+      "title": "Becoming More Fully Yourself",
+      "vocabCount": 32
+    },
+    {
+      "episodeId": "W16D1",
+      "weekNumber": 16,
+      "dayOfWeek": 1,
+      "title": "How We Talk: Different Ways of Communicating",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W16D2",
+      "weekNumber": 16,
+      "dayOfWeek": 2,
+      "title": "Direct and Indirect Communication",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W16D3",
+      "weekNumber": 16,
+      "dayOfWeek": 3,
+      "title": "Listening Beyond the Words",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W16D4",
+      "weekNumber": 16,
+      "dayOfWeek": 4,
+      "title": "Expressing Disagreement Respectfully",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W16D5",
+      "weekNumber": 16,
+      "dayOfWeek": 5,
+      "title": "Texting, Voice Notes, and Miscommunication",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W16D6",
+      "weekNumber": 16,
+      "dayOfWeek": 6,
+      "title": "Asking Better Questions",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W16D7",
+      "weekNumber": 16,
+      "dayOfWeek": 7,
+      "title": "Speaking Clearly Under Pressure",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W17D1",
+      "weekNumber": 17,
+      "dayOfWeek": 1,
+      "title": "Lending a Hand: Acts of Kindness and Support",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W17D2",
+      "weekNumber": 17,
+      "dayOfWeek": 2,
+      "title": "Why People Decide to Help",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W17D3",
+      "weekNumber": 17,
+      "dayOfWeek": 3,
+      "title": "Helping Without Taking Control",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W17D4",
+      "weekNumber": 17,
+      "dayOfWeek": 4,
+      "title": "Knowing When Not to Help",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W17D5",
+      "weekNumber": 17,
+      "dayOfWeek": 5,
+      "title": "Receiving Help Gracefully",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W17D6",
+      "weekNumber": 17,
+      "dayOfWeek": 6,
+      "title": "Community, Neighbors, and Everyday Care",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W17D7",
+      "weekNumber": 17,
+      "dayOfWeek": 7,
+      "title": "What Lasting Help Really Looks Like",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W18D1",
+      "weekNumber": 18,
+      "dayOfWeek": 1,
+      "title": "Working It Out: How We Handle Disagreements",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W18D2",
+      "weekNumber": 18,
+      "dayOfWeek": 2,
+      "title": "Where Arguments Usually Begin",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W18D3",
+      "weekNumber": 18,
+      "dayOfWeek": 3,
+      "title": "How to Disagree Without Hurting the Relationship",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W18D4",
+      "weekNumber": 18,
+      "dayOfWeek": 4,
+      "title": "When an Apology Works and When It Does Not",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W18D5",
+      "weekNumber": 18,
+      "dayOfWeek": 5,
+      "title": "Boundaries, Honesty, and Respect",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W18D6",
+      "weekNumber": 18,
+      "dayOfWeek": 6,
+      "title": "Repairing Trust After a Fight",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W18D7",
+      "weekNumber": 18,
+      "dayOfWeek": 7,
+      "title": "What Conflict Can Teach a Relationship",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W19D1",
+      "weekNumber": 19,
+      "dayOfWeek": 1,
+      "title": "What I Do: Explaining Your Job to Anyone",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W19D2",
+      "weekNumber": 19,
+      "dayOfWeek": 2,
+      "title": "How to Introduce Your Role Clearly",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W19D3",
+      "weekNumber": 19,
+      "dayOfWeek": 3,
+      "title": "Purpose, Meaning, and Work",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W19D4",
+      "weekNumber": 19,
+      "dayOfWeek": 4,
+      "title": "Talking About Responsibility and Ownership",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W19D5",
+      "weekNumber": 19,
+      "dayOfWeek": 5,
+      "title": "Career Changes and How to Explain Them",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W19D6",
+      "weekNumber": 19,
+      "dayOfWeek": 6,
+      "title": "The Difference Between a Role and an Identity",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W19D7",
+      "weekNumber": 19,
+      "dayOfWeek": 7,
+      "title": "How to Talk About Your Work With Confidence",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W20D1",
+      "weekNumber": 20,
+      "dayOfWeek": 1,
+      "title": "Let's Meet: Navigating Work Meetings",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W20D2",
+      "weekNumber": 20,
+      "dayOfWeek": 2,
+      "title": "Preparing for Meetings That Matter",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W20D3",
+      "weekNumber": 20,
+      "dayOfWeek": 3,
+      "title": "Speaking Up Without Sounding Aggressive",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W20D4",
+      "weekNumber": 20,
+      "dayOfWeek": 4,
+      "title": "How to Disagree Productively in Discussions",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W20D5",
+      "weekNumber": 20,
+      "dayOfWeek": 5,
+      "title": "Keeping a Meeting on Track",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W20D6",
+      "weekNumber": 20,
+      "dayOfWeek": 6,
+      "title": "Better Participation in Virtual Meetings",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W20D7",
+      "weekNumber": 20,
+      "dayOfWeek": 7,
+      "title": "What Makes a Discussion Actually Useful",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W21D1",
+      "weekNumber": 21,
+      "dayOfWeek": 1,
+      "title": "Under Pressure: Managing Stress at Work",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W21D2",
+      "weekNumber": 21,
+      "dayOfWeek": 2,
+      "title": "What Pressure Does to Your Thinking",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W21D3",
+      "weekNumber": 21,
+      "dayOfWeek": 3,
+      "title": "Prioritizing When Everything Feels Urgent",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W21D4",
+      "weekNumber": 21,
+      "dayOfWeek": 4,
+      "title": "How to Ask for Help Before It Is Too Late",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W21D5",
+      "weekNumber": 21,
+      "dayOfWeek": 5,
+      "title": "Recovering After a High-Pressure Week",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W21D6",
+      "weekNumber": 21,
+      "dayOfWeek": 6,
+      "title": "Leading Others Through Pressure",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W21D7",
+      "weekNumber": 21,
+      "dayOfWeek": 7,
+      "title": "A Healthier Relationship With Pressure",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D1",
+      "weekNumber": 22,
+      "dayOfWeek": 1,
+      "title": "Figuring It Out: How We Tackle Problems",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D2",
+      "weekNumber": 22,
+      "dayOfWeek": 2,
+      "title": "How You Approach a Difficult Problem",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D3",
+      "weekNumber": 22,
+      "dayOfWeek": 3,
+      "title": "Creative Solutions and Fresh Thinking",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D4",
+      "weekNumber": 22,
+      "dayOfWeek": 4,
+      "title": "When the Real Problem Is Hidden",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D5",
+      "weekNumber": 22,
+      "dayOfWeek": 5,
+      "title": "Making Better Decisions When the Answer Is Unclear",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D6",
+      "weekNumber": 22,
+      "dayOfWeek": 6,
+      "title": "Solving Problems Better as a Team",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W22D7",
+      "weekNumber": 22,
+      "dayOfWeek": 7,
+      "title": "What Better Problem Solving Feels Like",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W23D1",
+      "weekNumber": 23,
+      "dayOfWeek": 1,
+      "title": "Where I'm Headed: Talking About Career Ambitions",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W23D2",
+      "weekNumber": 23,
+      "dayOfWeek": 2,
+      "title": "What Success Looks Like to You",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W23D3",
+      "weekNumber": 23,
+      "dayOfWeek": 3,
+      "title": "Ambition and Its Tradeoffs",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W23D4",
+      "weekNumber": 23,
+      "dayOfWeek": 4,
+      "title": "How to Talk About Your Next Step",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W23D5",
+      "weekNumber": 23,
+      "dayOfWeek": 5,
+      "title": "Choosing Between Stability and Growth",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W23D6",
+      "weekNumber": 23,
+      "dayOfWeek": 6,
+      "title": "Revising Your Goals Without Feeling Lost",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W23D7",
+      "weekNumber": 23,
+      "dayOfWeek": 7,
+      "title": "Building a Career That Still Feels Like Yours",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W24D1",
+      "weekNumber": 24,
+      "dayOfWeek": 1,
+      "title": "Always Learning: How We Grow and Improve",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W24D2",
+      "weekNumber": 24,
+      "dayOfWeek": 2,
+      "title": "Why Growth Requires Discomfort",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W24D3",
+      "weekNumber": 24,
+      "dayOfWeek": 3,
+      "title": "Learning New Skills as an Adult",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W24D4",
+      "weekNumber": 24,
+      "dayOfWeek": 4,
+      "title": "What Good Practice Actually Looks Like",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W24D5",
+      "weekNumber": 24,
+      "dayOfWeek": 5,
+      "title": "When Progress Feels Slow",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W24D6",
+      "weekNumber": 24,
+      "dayOfWeek": 6,
+      "title": "Learning From Other People Without Comparing Yourself",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W24D7",
+      "weekNumber": 24,
+      "dayOfWeek": 7,
+      "title": "What It Means to Keep Growing",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W25D1",
+      "weekNumber": 25,
+      "dayOfWeek": 1,
+      "title": "Wins and Losses: What We Learn From Both",
+      "vocabCount": 29
+    },
+    {
+      "episodeId": "W25D2",
+      "weekNumber": 25,
+      "dayOfWeek": 2,
+      "title": "What Success Costs and What It Gives",
+      "vocabCount": 35
+    },
+    {
+      "episodeId": "W25D3",
+      "weekNumber": 25,
+      "dayOfWeek": 3,
+      "title": "Failure, Shame, and Starting Again",
+      "vocabCount": 34
+    },
+    {
+      "episodeId": "W25D4",
+      "weekNumber": 25,
+      "dayOfWeek": 4,
+      "title": "The Pressure to Succeed in Public",
+      "vocabCount": 35
+    },
+    {
+      "episodeId": "W25D5",
+      "weekNumber": 25,
+      "dayOfWeek": 5,
+      "title": "When Plans Fail but Life Does Not",
+      "vocabCount": 35
+    },
+    {
+      "episodeId": "W25D6",
+      "weekNumber": 25,
+      "dayOfWeek": 6,
+      "title": "The Success That No One Sees",
+      "vocabCount": 38
+    },
+    {
+      "episodeId": "W25D7",
+      "weekNumber": 25,
+      "dayOfWeek": 7,
+      "title": "A Healthier Way to Keep Going",
+      "vocabCount": 38
+    },
+    {
+      "episodeId": "W26D1",
+      "weekNumber": 26,
+      "dayOfWeek": 1,
+      "title": "On and Off: Finding Balance Between Work and Rest",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W26D2",
+      "weekNumber": 26,
+      "dayOfWeek": 2,
+      "title": "How Work Follows You Home",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W26D3",
+      "weekNumber": 26,
+      "dayOfWeek": 3,
+      "title": "Rest Without Guilt",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W26D4",
+      "weekNumber": 26,
+      "dayOfWeek": 4,
+      "title": "Boundaries at Work, Not Just After Work",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W26D5",
+      "weekNumber": 26,
+      "dayOfWeek": 5,
+      "title": "What Hobbies Give Back to Working Adults",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W26D6",
+      "weekNumber": 26,
+      "dayOfWeek": 6,
+      "title": "When Work Becomes Too Much of Who You Are",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W26D7",
+      "weekNumber": 26,
+      "dayOfWeek": 7,
+      "title": "A More Sustainable Way to Work and Live",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W27D1",
+      "weekNumber": 27,
+      "dayOfWeek": 1,
+      "title": "Going Somewhere: The Joy and Challenge of Travel",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W27D2",
+      "weekNumber": 27,
+      "dayOfWeek": 2,
+      "title": "Why Travel Changes Your Perspective",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W27D3",
+      "weekNumber": 27,
+      "dayOfWeek": 3,
+      "title": "Planning vs. Spontaneity on a Trip",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W27D4",
+      "weekNumber": 27,
+      "dayOfWeek": 4,
+      "title": "Traveling on a Budget Without Losing the Experience",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W27D5",
+      "weekNumber": 27,
+      "dayOfWeek": 5,
+      "title": "Culture Shock and How to Handle It",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W27D6",
+      "weekNumber": 27,
+      "dayOfWeek": 6,
+      "title": "Traveling With Other People",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W27D7",
+      "weekNumber": 27,
+      "dayOfWeek": 7,
+      "title": "Coming Home After a Trip",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W28D1",
+      "weekNumber": 28,
+      "dayOfWeek": 1,
+      "title": "Seeing and Capturing: Photography and Visual Creativity",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W28D2",
+      "weekNumber": 28,
+      "dayOfWeek": 2,
+      "title": "Why People Take Photos",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W28D3",
+      "weekNumber": 28,
+      "dayOfWeek": 3,
+      "title": "Composition, Light, and Learning to See",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W28D4",
+      "weekNumber": 28,
+      "dayOfWeek": 4,
+      "title": "Editing, Selection, and What to Leave Out",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W28D5",
+      "weekNumber": 28,
+      "dayOfWeek": 5,
+      "title": "Drawing, Visual Journaling, and Creative Healing",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W28D6",
+      "weekNumber": 28,
+      "dayOfWeek": 6,
+      "title": "Creating in the Age of Social Media",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W28D7",
+      "weekNumber": 28,
+      "dayOfWeek": 7,
+      "title": "What Visual Art Teaches About Life",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W29D1",
+      "weekNumber": 29,
+      "dayOfWeek": 1,
+      "title": "What We Listen To: Music, Podcasts, and Audio",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W29D2",
+      "weekNumber": 29,
+      "dayOfWeek": 2,
+      "title": "How Music Shapes Mood",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W29D3",
+      "weekNumber": 29,
+      "dayOfWeek": 3,
+      "title": "Musical Taste and Personal Identity",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W29D4",
+      "weekNumber": 29,
+      "dayOfWeek": 4,
+      "title": "Podcasts, Learning, and the New Intimacy of Audio",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W29D5",
+      "weekNumber": 29,
+      "dayOfWeek": 5,
+      "title": "How Audio Fills Our Empty Time",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W29D6",
+      "weekNumber": 29,
+      "dayOfWeek": 6,
+      "title": "Shared Listening and Social Connection",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W29D7",
+      "weekNumber": 29,
+      "dayOfWeek": 7,
+      "title": "Listening With More Intention",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W30D1",
+      "weekNumber": 30,
+      "dayOfWeek": 1,
+      "title": "Words and Pages: Our Love of Reading and Writing",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W30D2",
+      "weekNumber": 30,
+      "dayOfWeek": 2,
+      "title": "Why Reading Slows the Mind Down",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W30D3",
+      "weekNumber": 30,
+      "dayOfWeek": 3,
+      "title": "Building a Reading Habit That Lasts",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W30D4",
+      "weekNumber": 30,
+      "dayOfWeek": 4,
+      "title": "Journaling, Notes, and Writing for Yourself",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W30D5",
+      "weekNumber": 30,
+      "dayOfWeek": 5,
+      "title": "Why Writing Is Hard and Why It Matters",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W30D6",
+      "weekNumber": 30,
+      "dayOfWeek": 6,
+      "title": "Books, Solitude, and the Inner Life",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W30D7",
+      "weekNumber": 30,
+      "dayOfWeek": 7,
+      "title": "What a Life With Books and Words Can Give You",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D1",
+      "weekNumber": 31,
+      "dayOfWeek": 1,
+      "title": "Animal Companions: Pets, Wildlife, and Our Bond With Animals",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D2",
+      "weekNumber": 31,
+      "dayOfWeek": 2,
+      "title": "Why People Love Animals So Much",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D3",
+      "weekNumber": 31,
+      "dayOfWeek": 3,
+      "title": "What Caring for a Pet Teaches You",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D4",
+      "weekNumber": 31,
+      "dayOfWeek": 4,
+      "title": "Wild Animals, Awe, and Conservation",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D5",
+      "weekNumber": 31,
+      "dayOfWeek": 5,
+      "title": "Animal Welfare and the Ethics of Care",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D6",
+      "weekNumber": 31,
+      "dayOfWeek": 6,
+      "title": "What Animals Teach Us About Ourselves",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W31D7",
+      "weekNumber": 31,
+      "dayOfWeek": 7,
+      "title": "Living More Gently in a Shared World",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W32D1",
+      "weekNumber": 32,
+      "dayOfWeek": 1,
+      "title": "Things We Love: Hobbies, Collections, and Passions",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W32D2",
+      "weekNumber": 32,
+      "dayOfWeek": 2,
+      "title": "Why People Collect Things",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W32D3",
+      "weekNumber": 32,
+      "dayOfWeek": 3,
+      "title": "Hobbies as Relief From Hustle Culture",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W32D4",
+      "weekNumber": 32,
+      "dayOfWeek": 4,
+      "title": "Learning Through Hobbies and Slow Skill-Building",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W32D5",
+      "weekNumber": 32,
+      "dayOfWeek": 5,
+      "title": "Niche Interests and Finding Your People",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W32D6",
+      "weekNumber": 32,
+      "dayOfWeek": 6,
+      "title": "The Beauty of Doing Something Just for Yourself",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W32D7",
+      "weekNumber": 32,
+      "dayOfWeek": 7,
+      "title": "What Passion Adds to an Adult Life",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W33D1",
+      "weekNumber": 33,
+      "dayOfWeek": 1,
+      "title": "Into the Open: Nature, Fresh Air, and the Outdoors",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W33D2",
+      "weekNumber": 33,
+      "dayOfWeek": 2,
+      "title": "Why Nature Changes the Way We Feel",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W33D3",
+      "weekNumber": 33,
+      "dayOfWeek": 3,
+      "title": "Urban Nature and Small Outdoor Rituals",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W33D4",
+      "weekNumber": 33,
+      "dayOfWeek": 4,
+      "title": "Hiking, Difficulty, and the Value of Effort",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W33D5",
+      "weekNumber": 33,
+      "dayOfWeek": 5,
+      "title": "Children, Screens, and Nature Deprivation",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W33D6",
+      "weekNumber": 33,
+      "dayOfWeek": 6,
+      "title": "Travel, Tourism, and Protecting Fragile Places",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W33D7",
+      "weekNumber": 33,
+      "dayOfWeek": 7,
+      "title": "Living Closer to the Living World",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W34D1",
+      "weekNumber": 34,
+      "dayOfWeek": 1,
+      "title": "Moving Your Body: Sports, Exercise, and Staying Active",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W34D2",
+      "weekNumber": 34,
+      "dayOfWeek": 2,
+      "title": "Why People Exercise for Different Reasons",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W34D3",
+      "weekNumber": 34,
+      "dayOfWeek": 3,
+      "title": "Finding Exercise You Will Actually Keep Doing",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W34D4",
+      "weekNumber": 34,
+      "dayOfWeek": 4,
+      "title": "Sportsmanship, Competition, and Character",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W34D5",
+      "weekNumber": 34,
+      "dayOfWeek": 5,
+      "title": "Social Media, Body Image, and Fitness Pressure",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W34D6",
+      "weekNumber": 34,
+      "dayOfWeek": 6,
+      "title": "Aging, Recovery, and Exercising for the Long Term",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W34D7",
+      "weekNumber": 34,
+      "dayOfWeek": 7,
+      "title": "A Better Relationship With Your Body",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W35D1",
+      "weekNumber": 35,
+      "dayOfWeek": 1,
+      "title": "Always On: Technology in Our Daily Lives",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W35D2",
+      "weekNumber": 35,
+      "dayOfWeek": 2,
+      "title": "Notifications, Attention, and Daily Focus",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W35D3",
+      "weekNumber": 35,
+      "dayOfWeek": 3,
+      "title": "Convenience and the Hidden Costs of Tech",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W35D4",
+      "weekNumber": 35,
+      "dayOfWeek": 4,
+      "title": "Smart Homes and Digital Habits",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W35D5",
+      "weekNumber": 35,
+      "dayOfWeek": 5,
+      "title": "When Technology Feels Overwhelming",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W35D6",
+      "weekNumber": 35,
+      "dayOfWeek": 6,
+      "title": "Choosing What Technology Is Worth Keeping",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W35D7",
+      "weekNumber": 35,
+      "dayOfWeek": 7,
+      "title": "Building a Healthier Relationship with Devices",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W36D1",
+      "weekNumber": 36,
+      "dayOfWeek": 1,
+      "title": "Intelligent Machines: Living With AI",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W36D2",
+      "weekNumber": 36,
+      "dayOfWeek": 2,
+      "title": "What AI Is Good At and What It Is Not",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W36D3",
+      "weekNumber": 36,
+      "dayOfWeek": 3,
+      "title": "How AI Changes Everyday Work",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W36D4",
+      "weekNumber": 36,
+      "dayOfWeek": 4,
+      "title": "Trust, Accuracy, and Human Judgment",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W36D5",
+      "weekNumber": 36,
+      "dayOfWeek": 5,
+      "title": "Creative Work in the Age of AI",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W36D6",
+      "weekNumber": 36,
+      "dayOfWeek": 6,
+      "title": "Ethics, Bias, and Responsibility",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W36D7",
+      "weekNumber": 36,
+      "dayOfWeek": 7,
+      "title": "Living Alongside Smarter Machines",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W37D1",
+      "weekNumber": 37,
+      "dayOfWeek": 1,
+      "title": "Mind and Body: Taking Care of Your Health",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W37D2",
+      "weekNumber": 37,
+      "dayOfWeek": 2,
+      "title": "What Mental Wellbeing Really Means",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W37D3",
+      "weekNumber": 37,
+      "dayOfWeek": 3,
+      "title": "Stress, Anxiety, and Modern Life",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W37D4",
+      "weekNumber": 37,
+      "dayOfWeek": 4,
+      "title": "Small Habits That Protect Your Mind",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W37D5",
+      "weekNumber": 37,
+      "dayOfWeek": 5,
+      "title": "Talking More Honestly About Struggle",
+      "vocabCount": 10
+    },
+    {
+      "episodeId": "W37D6",
+      "weekNumber": 37,
+      "dayOfWeek": 6,
+      "title": "Rest, Therapy, and Support Systems",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W37D7",
+      "weekNumber": 37,
+      "dayOfWeek": 7,
+      "title": "Building a More Sustainable Inner Life",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W38D1",
+      "weekNumber": 38,
+      "dayOfWeek": 1,
+      "title": "Our Planet: Living Sustainably and Thinking Long-Term",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W38D2",
+      "weekNumber": 38,
+      "dayOfWeek": 2,
+      "title": "Why Environmental Issues Feel So Big",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W38D3",
+      "weekNumber": 38,
+      "dayOfWeek": 3,
+      "title": "Daily Choices and Their Real Impact",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W38D4",
+      "weekNumber": 38,
+      "dayOfWeek": 4,
+      "title": "Convenience, Consumption, and Waste",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W38D5",
+      "weekNumber": 38,
+      "dayOfWeek": 5,
+      "title": "Hope, Guilt, and Climate Emotions",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W38D6",
+      "weekNumber": 38,
+      "dayOfWeek": 6,
+      "title": "Cities, Nature, and Sustainable Design",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W38D7",
+      "weekNumber": 38,
+      "dayOfWeek": 7,
+      "title": "What a Sustainable Future Could Look Like",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W39D1",
+      "weekNumber": 39,
+      "dayOfWeek": 1,
+      "title": "Talking About Money: Goals, Habits, and Mindset",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W39D2",
+      "weekNumber": 39,
+      "dayOfWeek": 2,
+      "title": "What Money Means Beyond Numbers",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W39D3",
+      "weekNumber": 39,
+      "dayOfWeek": 3,
+      "title": "Saving, Spending, and Personal Priorities",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W39D4",
+      "weekNumber": 39,
+      "dayOfWeek": 4,
+      "title": "Talking About Money with Other People",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W39D5",
+      "weekNumber": 39,
+      "dayOfWeek": 5,
+      "title": "Financial Goals and Emotional Pressure",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W39D6",
+      "weekNumber": 39,
+      "dayOfWeek": 6,
+      "title": "Lifestyle, Status, and the Cost of Image",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W39D7",
+      "weekNumber": 39,
+      "dayOfWeek": 7,
+      "title": "A Healthier Relationship with Money",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D1",
+      "weekNumber": 40,
+      "dayOfWeek": 1,
+      "title": "Life in Motion: Navigating Change and New Chapters",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D2",
+      "weekNumber": 40,
+      "dayOfWeek": 2,
+      "title": "Why Change Feels Unsettling",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D3",
+      "weekNumber": 40,
+      "dayOfWeek": 3,
+      "title": "Life Transitions and Identity Shifts",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D4",
+      "weekNumber": 40,
+      "dayOfWeek": 4,
+      "title": "Starting Over in Midstream",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D5",
+      "weekNumber": 40,
+      "dayOfWeek": 5,
+      "title": "How to Adapt Without Losing Yourself",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D6",
+      "weekNumber": 40,
+      "dayOfWeek": 6,
+      "title": "Letting Go of What No Longer Fits",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W40D7",
+      "weekNumber": 40,
+      "dayOfWeek": 7,
+      "title": "Trusting Yourself Through Uncertainty",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D1",
+      "weekNumber": 41,
+      "dayOfWeek": 1,
+      "title": "What We Stand For: Values, Principles, and Beliefs",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D2",
+      "weekNumber": 41,
+      "dayOfWeek": 2,
+      "title": "Where Our Values Come From",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D3",
+      "weekNumber": 41,
+      "dayOfWeek": 3,
+      "title": "When Beliefs Start to Change",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D4",
+      "weekNumber": 41,
+      "dayOfWeek": 4,
+      "title": "Living According to What You Believe",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D5",
+      "weekNumber": 41,
+      "dayOfWeek": 5,
+      "title": "Disagreeing with People You Respect",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D6",
+      "weekNumber": 41,
+      "dayOfWeek": 6,
+      "title": "What You Refuse to Compromise On",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W41D7",
+      "weekNumber": 41,
+      "dayOfWeek": 7,
+      "title": "Becoming More Thoughtful About What Matters",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W42D1",
+      "weekNumber": 42,
+      "dayOfWeek": 1,
+      "title": "Looking Ahead: Hopes, Fears, and the Future",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W42D2",
+      "weekNumber": 42,
+      "dayOfWeek": 2,
+      "title": "Imagining the Future We Might Live In",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W42D3",
+      "weekNumber": 42,
+      "dayOfWeek": 3,
+      "title": "Hope, Fear, and What Comes Next",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W42D4",
+      "weekNumber": 42,
+      "dayOfWeek": 4,
+      "title": "Technology, Work, and the Near Future",
+      "vocabCount": 15
+    },
+    {
+      "episodeId": "W42D5",
+      "weekNumber": 42,
+      "dayOfWeek": 5,
+      "title": "The Kind of Future People Want",
+      "vocabCount": 15
+    },
+    {
+      "episodeId": "W42D6",
+      "weekNumber": 42,
+      "dayOfWeek": 6,
+      "title": "Planning for a Future You Cannot Fully Predict",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W42D7",
+      "weekNumber": 42,
+      "dayOfWeek": 7,
+      "title": "How Today's Choices Shape Tomorrow",
+      "vocabCount": 15
+    },
+    {
+      "episodeId": "W43D1",
+      "weekNumber": 43,
+      "dayOfWeek": 1,
+      "title": "Full Circle: Reflections on the Journey",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W43D2",
+      "weekNumber": 43,
+      "dayOfWeek": 2,
+      "title": "Looking Back on How Much You’ve Changed",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W43D3",
+      "weekNumber": 43,
+      "dayOfWeek": 3,
+      "title": "What the Hard Years Taught You",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W43D4",
+      "weekNumber": 43,
+      "dayOfWeek": 4,
+      "title": "The People and Moments That Shaped You",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W43D5",
+      "weekNumber": 43,
+      "dayOfWeek": 5,
+      "title": "Regret, Gratitude, and Perspective",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W43D6",
+      "weekNumber": 43,
+      "dayOfWeek": 6,
+      "title": "What You Want to Leave Behind",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W43D7",
+      "weekNumber": 43,
+      "dayOfWeek": 7,
+      "title": "Moving Forward with More Intention",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W44D1",
+      "weekNumber": 44,
+      "dayOfWeek": 1,
+      "title": "Finding Your Creative Voice",
+      "vocabCount": 9
+    },
+    {
+      "episodeId": "W44D2",
+      "weekNumber": 44,
+      "dayOfWeek": 2,
+      "title": "Art in Everyday Life",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W44D3",
+      "weekNumber": 44,
+      "dayOfWeek": 3,
+      "title": "Storytelling as a Human Need",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W44D4",
+      "weekNumber": 44,
+      "dayOfWeek": 4,
+      "title": "Design Thinking in Daily Life",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W44D5",
+      "weekNumber": 44,
+      "dayOfWeek": 5,
+      "title": "Music and Emotional Expression",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W44D6",
+      "weekNumber": 44,
+      "dayOfWeek": 6,
+      "title": "The Writer's Mind",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W44D7",
+      "weekNumber": 44,
+      "dayOfWeek": 7,
+      "title": "Living a Creative Life",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W45D1",
+      "weekNumber": 45,
+      "dayOfWeek": 1,
+      "title": "What Makes a Real Leader",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W45D2",
+      "weekNumber": 45,
+      "dayOfWeek": 2,
+      "title": "Influence Without Authority",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W45D3",
+      "weekNumber": 45,
+      "dayOfWeek": 3,
+      "title": "Emotional Intelligence in Leadership",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W45D4",
+      "weekNumber": 45,
+      "dayOfWeek": 4,
+      "title": "Building and Leading Teams",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W45D5",
+      "weekNumber": 45,
+      "dayOfWeek": 5,
+      "title": "Decision-Making Under Pressure",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W45D6",
+      "weekNumber": 45,
+      "dayOfWeek": 6,
+      "title": "Leading Yourself First",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W45D7",
+      "weekNumber": 45,
+      "dayOfWeek": 7,
+      "title": "Leadership in Everyday Life",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W46D1",
+      "weekNumber": 46,
+      "dayOfWeek": 1,
+      "title": "The Power of Community",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W46D2",
+      "weekNumber": 46,
+      "dayOfWeek": 2,
+      "title": "The Art of Listening",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W46D3",
+      "weekNumber": 46,
+      "dayOfWeek": 3,
+      "title": "Local Heroes and Changemakers",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W46D4",
+      "weekNumber": 46,
+      "dayOfWeek": 4,
+      "title": "Navigating Differences in Community",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W46D5",
+      "weekNumber": 46,
+      "dayOfWeek": 5,
+      "title": "Technology for Social Good",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W46D6",
+      "weekNumber": 46,
+      "dayOfWeek": 6,
+      "title": "Generations of Service",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W46D7",
+      "weekNumber": 46,
+      "dayOfWeek": 7,
+      "title": "This Week's Reflections",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W47D1",
+      "weekNumber": 47,
+      "dayOfWeek": 1,
+      "title": "What Is Culture, Anyway?",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W47D2",
+      "weekNumber": 47,
+      "dayOfWeek": 2,
+      "title": "Navigating Cultural Differences at Work",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W47D3",
+      "weekNumber": 47,
+      "dayOfWeek": 3,
+      "title": "Food as a Cultural Gateway",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W47D4",
+      "weekNumber": 47,
+      "dayOfWeek": 4,
+      "title": "Traveling with Curiosity",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W47D5",
+      "weekNumber": 47,
+      "dayOfWeek": 5,
+      "title": "Values Across Cultures",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W47D6",
+      "weekNumber": 47,
+      "dayOfWeek": 6,
+      "title": "Language, Translation, and Meaning",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W47D7",
+      "weekNumber": 47,
+      "dayOfWeek": 7,
+      "title": "Building Cultural Bridges",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W48D1",
+      "weekNumber": 48,
+      "dayOfWeek": 1,
+      "title": "Who Are You When You Speak?",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W48D2",
+      "weekNumber": 48,
+      "dayOfWeek": 2,
+      "title": "Slang, Jargon, and Belonging",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W48D3",
+      "weekNumber": 48,
+      "dayOfWeek": 3,
+      "title": "Bilingual Lives",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W48D4",
+      "weekNumber": 48,
+      "dayOfWeek": 4,
+      "title": "Storytelling and Narrative Identity",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W48D5",
+      "weekNumber": 48,
+      "dayOfWeek": 5,
+      "title": "Words That Shape Thinking",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W48D6",
+      "weekNumber": 48,
+      "dayOfWeek": 6,
+      "title": "Writing and Self-Expression",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W48D7",
+      "weekNumber": 48,
+      "dayOfWeek": 7,
+      "title": "The Gift of Expression",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W49D1",
+      "weekNumber": 49,
+      "dayOfWeek": 1,
+      "title": "Why Rest Is Productive",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W49D2",
+      "weekNumber": 49,
+      "dayOfWeek": 2,
+      "title": "The Art of Doing Nothing",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W49D3",
+      "weekNumber": 49,
+      "dayOfWeek": 3,
+      "title": "Sabbath and Sacred Rest",
+      "vocabCount": 13
+    },
+    {
+      "episodeId": "W49D4",
+      "weekNumber": 49,
+      "dayOfWeek": 4,
+      "title": "Creative Renewal",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W49D5",
+      "weekNumber": 49,
+      "dayOfWeek": 5,
+      "title": "Physical Renewal and Body Wisdom",
+      "vocabCount": 15
+    },
+    {
+      "episodeId": "W49D6",
+      "weekNumber": 49,
+      "dayOfWeek": 6,
+      "title": "Slow Living in a Fast World",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W49D7",
+      "weekNumber": 49,
+      "dayOfWeek": 7,
+      "title": "A Week of Rest Reflections",
+      "vocabCount": 14
+    },
+    {
+      "episodeId": "W50D1",
+      "weekNumber": 50,
+      "dayOfWeek": 1,
+      "title": "The Science of Gratitude",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W50D2",
+      "weekNumber": 50,
+      "dayOfWeek": 2,
+      "title": "Appreciating People in Your Life",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W50D3",
+      "weekNumber": 50,
+      "dayOfWeek": 3,
+      "title": "Finding Beauty in Ordinary Life",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W50D4",
+      "weekNumber": 50,
+      "dayOfWeek": 4,
+      "title": "Gratitude and Perspective",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W50D5",
+      "weekNumber": 50,
+      "dayOfWeek": 5,
+      "title": "Gratitude at Work",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W50D6",
+      "weekNumber": 50,
+      "dayOfWeek": 6,
+      "title": "Gratitude Across Cultures",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W50D7",
+      "weekNumber": 50,
+      "dayOfWeek": 7,
+      "title": "A Week of Thankfulness",
+      "vocabCount": 12
+    },
+    {
+      "episodeId": "W51D1",
+      "weekNumber": 51,
+      "dayOfWeek": 1,
+      "title": "What Do You Really Want?",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W51D2",
+      "weekNumber": 51,
+      "dayOfWeek": 2,
+      "title": "The Vision Behind the Goal",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W51D3",
+      "weekNumber": 51,
+      "dayOfWeek": 3,
+      "title": "Habits, Systems, and Daily Practice",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W51D4",
+      "weekNumber": 51,
+      "dayOfWeek": 4,
+      "title": "Work, Purpose, and Calling",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W51D5",
+      "weekNumber": 51,
+      "dayOfWeek": 5,
+      "title": "Resilience and Bouncing Back",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W51D6",
+      "weekNumber": 51,
+      "dayOfWeek": 6,
+      "title": "The Year Ahead",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W51D7",
+      "weekNumber": 51,
+      "dayOfWeek": 7,
+      "title": "Setting Yourself Up for a Great Year",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D1",
+      "weekNumber": 52,
+      "dayOfWeek": 1,
+      "title": "Looking Back to Move Forward",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D2",
+      "weekNumber": 52,
+      "dayOfWeek": 2,
+      "title": "Relationships and Connections",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D3",
+      "weekNumber": 52,
+      "dayOfWeek": 3,
+      "title": "Health and Energy in Review",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D4",
+      "weekNumber": 52,
+      "dayOfWeek": 4,
+      "title": "Work and Purpose Review",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D5",
+      "weekNumber": 52,
+      "dayOfWeek": 5,
+      "title": "Growth and Learning This Year",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D6",
+      "weekNumber": 52,
+      "dayOfWeek": 6,
+      "title": "Creativity and Joy in Review",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W52D7",
+      "weekNumber": 52,
+      "dayOfWeek": 7,
+      "title": "A Letter to Your Future Self",
+      "vocabCount": 11
+    },
+    {
+      "episodeId": "W53D1",
+      "weekNumber": 53,
+      "dayOfWeek": 1,
+      "title": "The Threshold",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W53D2",
+      "weekNumber": 53,
+      "dayOfWeek": 2,
+      "title": "Letting Go to Move Forward",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W53D3",
+      "weekNumber": 53,
+      "dayOfWeek": 3,
+      "title": "Designing the Year Ahead",
+      "vocabCount": 8
+    },
+    {
+      "episodeId": "W53D4",
+      "weekNumber": 53,
+      "dayOfWeek": 4,
+      "title": "The Last Day and the First Step",
+      "vocabCount": 8
+    }
+  ],
+  "lowCountEpisodes": [],
+  "passed": true
+}

@@ -22,13 +22,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very common now. Audio has become the background layer of modern life.",
-            "zh": "這現在很普遍。聲音內容已經變成現代生活的背景層。",
-            "vocab": [
-              {
-                "word": "background layer",
-                "def": "背景層；底層背景"
-              }
-            ]
+            "zh": "這現在很普遍。聲音內容已經變成現代生活的背景層。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The interesting question is whether you are choosing intentionally or just filling the silence automatically.",
-            "zh": "有趣的問題是，你是有意識地在選，還是只是自動地把靜默填滿。",
-            "vocab": [
-              {
-                "word": "filling the silence",
-                "def": "填補靜默"
-              }
-            ]
+            "zh": "有趣的問題是，你是有意識地在選，還是只是自動地把靜默填滿。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly mood regulation. We use audio to shift how we feel, not just to absorb information.",
-            "zh": "主要是調節心情。我們用聲音來改變感受，不只是吸收資訊。",
-            "vocab": [
-              {
-                "word": "mood regulation",
-                "def": "情緒調節"
-              }
-            ]
+            "zh": "主要是調節心情。我們用聲音來改變感受，不只是吸收資訊。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It works, though. Tempo affects focus in real ways. Athletes have known this for decades.",
-            "zh": "但確實有效。節奏對專注力有真實的影響，運動員幾十年前就知道這件事了。",
-            "vocab": [
-              {
-                "word": "tempo",
-                "def": "節奏；速度"
-              }
-            ]
+            "zh": "但確實有效。節奏對專注力有真實的影響，運動員幾十年前就知道這件事了。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That parasocial element is huge. People feel genuine affection for podcast hosts they have never met.",
-            "zh": "那種單向關係的成分很大。人們會對從未見過面的 podcast 主持人產生真實的親切感。",
-            "vocab": [
-              {
-                "word": "parasocial",
-                "def": "單向（與媒體人物的）情感連結"
-              }
-            ]
+            "zh": "那種單向關係的成分很大。人們會對從未見過面的 podcast 主持人產生真實的親切感。"
           },
           {
             "speaker": "b",
@@ -158,13 +128,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Lead with what it gave you, not what it covers. Say, \"I got really into a podcast about...\" and follow with the feeling.",
-            "zh": "先說它帶給你什麼，而不是它涵蓋什麼主題。說「我最近很沉迷一個關於……的 podcast」，然後接著說感受。",
-            "vocab": [
-              {
-                "word": "podcast",
-                "def": "先說它帶給你什麼"
-              }
-            ]
+            "zh": "先說它帶給你什麼，而不是它涵蓋什麼主題。說「我最近很沉迷一個關於……的 podcast」，然後接著說感受。"
           },
           {
             "speaker": "b",
@@ -188,13 +152,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pick one specific memory. Say something like \"I listen to jazz when I need to concentrate, but hip-hop on weekends.\" That is more honest and more interesting.",
-            "zh": "挑一個具體的記憶。說「我需要專注的時候聽爵士，但週末聽嘻哈」。這樣更誠實，也更有趣。",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "音樂品味"
-              }
-            ]
+            "zh": "挑一個具體的記憶。說「我需要專注的時候聽爵士，但週末聽嘻哈」。這樣更誠實，也更有趣。"
           },
           {
             "speaker": "b",
@@ -223,13 +181,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Stop saving and start choosing. Delete the backlog. Keep only three things in your queue at any time.",
-            "zh": "停止收藏，開始選擇。把待聽清單刪掉。隨時在待聽佇列裡只放三樣東西。",
-            "vocab": [
-              {
-                "word": "backlog",
-                "def": "積壓未處理的清單"
-              }
-            ]
+            "zh": "停止收藏，開始選擇。把待聽清單刪掉。隨時在待聽佇列裡只放三樣東西。"
           },
           {
             "speaker": "b",
@@ -247,13 +199,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I never thought of it that way. So fewer options might mean actually engaging more deeply.",
-            "zh": "我從來沒有這樣想過。所以選項更少，反而可能代表更深度地投入。",
-            "vocab": [
-              {
-                "word": "mean actually engaging",
-                "def": "投入；深入參與"
-              }
-            ]
+            "zh": "我從來沒有這樣想過。所以選項更少，反而可能代表更深度地投入。"
           },
           {
             "speaker": "a",
@@ -271,13 +217,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For music I actually think a curated playlist for each context works well. A commute playlist, a focus playlist, a weekend one.",
-            "zh": "音樂的話，我覺得針對不同情境整理好的播放清單很管用。通勤清單、專注清單、週末清單。",
-            "vocab": [
-              {
-                "word": "curated playlist",
-                "def": "精心整理的播放清單"
-              }
-            ]
+            "zh": "音樂的話，我覺得針對不同情境整理好的播放清單很管用。通勤清單、專注清單、週末清單。"
           }
         ]
       },
@@ -306,13 +246,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of self-awareness is worth developing. Your playlist is almost like a mood journal.",
-            "zh": "這種自我覺察值得培養。你的播放清單幾乎像一本情緒日記。",
-            "vocab": [
-              {
-                "word": "self-awareness",
-                "def": "自我覺察"
-              }
-            ]
+            "zh": "這種自我覺察值得培養。你的播放清單幾乎像一本情緒日記。"
           },
           {
             "speaker": "b",
@@ -324,13 +258,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "More and more. Silence is actually an underrated productivity tool. Your brain processes things in the quiet.",
-            "zh": "越來越常。靜默其實是被低估的生產力工具。你的大腦在安靜中處理事情。",
-            "vocab": [
-              {
-                "word": "underrated",
-                "def": "被低估的"
-              }
-            ]
+            "zh": "越來越常。靜默其實是被低估的生產力工具。你的大腦在安靜中處理事情。"
           },
           {
             "speaker": "b",
@@ -423,13 +351,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That matters less than the pattern. You already knew which song to reach for. That is the habit doing its job.",
-            "zh": "哪首歌不是重點。重點是你已經知道該伸手去找哪首歌。那是習慣在發揮作用。",
-            "vocab": [
-              {
-                "word": "reach for",
-                "def": "伸手去拿；本能地取用"
-              }
-            ]
+            "zh": "哪首歌不是重點。重點是你已經知道該伸手去找哪首歌。那是習慣在發揮作用。"
           },
           {
             "speaker": "b",
@@ -441,13 +363,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good taste is partly just knowing yourself well enough to match a sound to a need.",
-            "zh": "好的品味，有一部分就是足夠了解自己，能把一種聲音和一種需求配對起來。",
-            "vocab": [
-              {
-                "word": "well enough",
-                "def": "把聲音與需求配對"
-              }
-            ]
+            "zh": "好的品味，有一部分就是足夠了解自己，能把一種聲音和一種需求配對起來。"
           },
           {
             "speaker": "b",
@@ -476,13 +392,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The risk is avoidance. If every uncomfortable feeling gets immediately covered by a song, you stop sitting with things long enough to understand them.",
-            "zh": "風險是逃避。如果每一個不舒服的感受都立刻被一首歌蓋過去，你就沒有機會停留夠久、去真正理解它。",
-            "vocab": [
-              {
-                "word": "stop sitting",
-                "def": "停留在某種感受中；不急著排除"
-              }
-            ]
+            "zh": "風險是逃避。如果每一個不舒服的感受都立刻被一首歌蓋過去，你就沒有機會停留夠久、去真正理解它。"
           },
           {
             "speaker": "b",
@@ -494,13 +404,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. There is a difference between processing an emotion through music and escaping it with music.",
-            "zh": "沒錯。用音樂來處理情緒，和用音樂來逃離情緒，是兩件不同的事。",
-            "vocab": [
-              {
-                "word": "processing an emotion",
-                "def": "消化、處理一種情緒"
-              }
-            ]
+            "zh": "沒錯。用音樂來處理情緒，和用音樂來逃離情緒，是兩件不同的事。"
           },
           {
             "speaker": "b",
@@ -541,13 +445,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Just say it plainly. \"A song came on and it shifted my whole energy.\" That is honest and people relate to it immediately.",
-            "zh": "就直接說。說「一首歌播出來，我整個能量都跟著轉了」。這很誠實，而且大家馬上就能理解。",
-            "vocab": [
-              {
-                "word": "whole energy",
-                "def": "改變我的整體狀態或能量"
-              }
-            ]
+            "zh": "就直接說。說「一首歌播出來，我整個能量都跟著轉了」。這很誠實，而且大家馬上就能理解。"
           },
           {
             "speaker": "b",
@@ -559,13 +457,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try \"bittersweet\" for that mix of happy and sad. It is exactly the right word and native speakers use it a lot.",
-            "zh": "那種快樂和悲傷混在一起的感覺，可以用「bittersweet」。這個詞正好，而且母語者很常用。",
-            "vocab": [
-              {
-                "word": "bittersweet",
-                "def": "苦樂交雜的；甜蜜中帶著苦澀"
-              }
-            ]
+            "zh": "那種快樂和悲傷混在一起的感覺，可以用「bittersweet」。這個詞正好，而且母語者很常用。"
           },
           {
             "speaker": "b",
@@ -577,13 +469,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say \"it pumped me up\" for gym energy, or \"it got me in the zone\" for deep focus.",
-            "zh": "如果是健身那種衝勁，可以說「it pumped me up」。如果是深度專注的狀態，可以說「it got me in the zone」。",
-            "vocab": [
-              {
-                "word": "energy",
-                "def": "不只是拿來產出的能量來源"
-              }
-            ]
+            "zh": "如果是健身那種衝勁，可以說「it pumped me up」。如果是深度專注的狀態，可以說「it got me in the zone」。"
           },
           {
             "speaker": "b",
@@ -624,13 +510,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly instrumental music without lyrics. Words in songs compete with the words I am trying to write or think about.",
-            "zh": "大多是沒有歌詞的純器樂。歌詞裡的文字會和我試著要寫的或思考的文字互相搶奪注意力。",
-            "vocab": [
-              {
-                "word": "instrumental",
-                "def": "純器樂的；無歌詞的"
-              }
-            ]
+            "zh": "大多是沒有歌詞的純器樂。歌詞裡的文字會和我試著要寫的或思考的文字互相搶奪注意力。"
           },
           {
             "speaker": "b",
@@ -642,13 +522,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Creative work gets slower, more spacious music. Repetitive tasks get something with a beat to push through them.",
-            "zh": "會。創意工作配比較慢、有空間感的音樂。重複性的工作配有節拍的，幫助我撐過去。",
-            "vocab": [
-              {
-                "word": "spacious",
-                "def": "有空間感的；寬廣的"
-              }
-            ]
+            "zh": "會。創意工作配比較慢、有空間感的音樂。重複性的工作配有節拍的，幫助我撐過去。"
           },
           {
             "speaker": "b",
@@ -677,13 +551,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Songs from your teens get layered with emotional memory in a way that songs you discover later rarely do.",
-            "zh": "有。青少年時期的歌被疊加了情緒記憶，這是後來才接觸到的歌很難做到的。",
-            "vocab": [
-              {
-                "word": "emotional memory",
-                "def": "情緒記憶"
-              }
-            ]
+            "zh": "有。青少年時期的歌被疊加了情緒記憶，這是後來才接觸到的歌很難做到的。"
           },
           {
             "speaker": "b",
@@ -695,13 +563,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Music is almost a form of time travel for the emotional brain.",
-            "zh": "沒錯。對情感大腦來說，音樂幾乎是一種時間旅行。",
-            "vocab": [
-              {
-                "word": "time travel",
-                "def": "時間旅行（此指情感上的回溯）"
-              }
-            ]
+            "zh": "沒錯。對情感大腦來說，音樂幾乎是一種時間旅行。"
           },
           {
             "speaker": "b",
@@ -794,13 +656,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Musical taste feels personal in a way that most other preferences do not. People attach identity to it.",
-            "zh": "音樂品味讓人感覺是非常個人的東西，和大多數其他偏好不一樣。人們會把身份認同依附在上面。",
-            "vocab": [
-              {
-                "word": "attach identity to",
-                "def": "將身份認同依附於……"
-              }
-            ]
+            "zh": "音樂品味讓人感覺是非常個人的東西，和大多數其他偏好不一樣。人們會把身份認同依附在上面。"
           },
           {
             "speaker": "b",
@@ -824,13 +680,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because music is partly about who you were when you first discovered it. It carries that history.",
-            "zh": "因為音樂有一部分關乎你第一次發現它時是什麼樣的人。它帶著那段歷史。",
-            "vocab": [
-              {
-                "word": "history",
-                "def": "承載歷史；帶著過去的痕跡"
-              }
-            ]
+            "zh": "因為音樂有一部分關乎你第一次發現它時是什麼樣的人。它帶著那段歷史。"
           },
           {
             "speaker": "b",
@@ -859,13 +709,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very common, especially among people who use music as a big part of their self-image. The snobbery is usually about status, not aesthetics.",
-            "zh": "非常常見，尤其是把音樂當成自我形象重要一部分的人。那種精英心態通常關乎地位，而不是真的在談美學。",
-            "vocab": [
-              {
-                "word": "use music",
-                "def": "音樂精英主義者"
-              }
-            ]
+            "zh": "非常常見，尤其是把音樂當成自我形象重要一部分的人。那種精英心態通常關乎地位，而不是真的在談美學。"
           },
           {
             "speaker": "b",
@@ -889,13 +733,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that is fine to notice. The problem is when the snobbery stops you from discovering things that do not fit your current identity.",
-            "zh": "注意到這一點是好事。問題是當那種精英心態阻止你去發現不符合你目前身份框架的東西。",
-            "vocab": [
-              {
-                "word": "current identity",
-                "def": "注意到這一點是好事"
-              }
-            ]
+            "zh": "注意到這一點是好事。問題是當那種精英心態阻止你去發現不符合你目前身份框架的東西。"
           },
           {
             "speaker": "b",
@@ -924,13 +762,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with what you actually enjoy, not what you think you should enjoy. Say, \"I grew up on Taiwanese pop, and I still come back to it.\"",
-            "zh": "從你真的喜歡的東西開始，而不是你覺得自己應該喜歡的。說「我從小聽台灣流行樂長大，我現在還是會回去聽」。",
-            "vocab": [
-              {
-                "word": "grew up",
-                "def": "回去聽"
-              }
-            ]
+            "zh": "從你真的喜歡的東西開始，而不是你覺得自己應該喜歡的。說「我從小聽台灣流行樂長大，我現在還是會回去聽」。"
           },
           {
             "speaker": "b",
@@ -942,13 +774,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can also say \"it depends on my mood\" which is honest and immediately relatable to anyone.",
-            "zh": "沒錯。你也可以說「這要看我的心情」，這很誠實，任何人都能馬上理解。",
-            "vocab": [
-              {
-                "word": "relatable",
-                "def": "能引起共鳴的；讓人感同身受的"
-              }
-            ]
+            "zh": "沒錯。你也可以說「這要看我的心情」，這很誠實，任何人都能馬上理解。"
           },
           {
             "speaker": "b",
@@ -977,7 +803,7 @@ export const WEEK_29: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Expanding Your Listening",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -989,13 +815,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not a crisis, but it might be worth poking at. Tastes that calcify usually signal that you stopped letting things surprise you.",
-            "zh": "不是危機，但值得戳一下。品味僵化通常是你停止讓事情帶給你驚喜的訊號。",
-            "vocab": [
-              {
-                "word": "calcify",
-                "def": "僵化；固化"
-              }
-            ]
+            "zh": "不是危機，但值得戳一下。品味僵化通常是你停止讓事情帶給你驚喜的訊號。"
           },
           {
             "speaker": "b",
@@ -1007,13 +827,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask a friend with different taste to send you one song without explaining it. Then listen twice before deciding how you feel.",
-            "zh": "請一個品味和你不同的朋友傳一首歌給你，不要解釋。然後聽兩遍再決定你的感覺。",
-            "vocab": [
-              {
-                "word": "without explaining",
-                "def": "不做解釋地"
-              }
-            ]
+            "zh": "請一個品味和你不同的朋友傳一首歌給你，不要解釋。然後聽兩遍再決定你的感覺。"
           },
           {
             "speaker": "b",
@@ -1038,12 +852,7 @@ export const WEEK_29: Episode[] = [
             "speakerName": "Mira",
             "en": "That happens. You were not in the right place for it yet. Music and timing are more connected than people realize.",
             "zh": "這種事會發生。你當時還沒有準備好接受它。音樂和時機的關係比人們意識到的更緊密。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Your Taste Says About Who You Are Becoming",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1054,13 +863,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it goes both directions. Sometimes you discover music that pulls you toward a new version of yourself.",
-            "zh": "我覺得兩個方向都有。有時候你發現一種音樂，它把你往一個新版本的自己拉過去。",
-            "vocab": [
-              {
-                "word": "pulls you toward",
-                "def": "把……拉往某個方向"
-              }
-            ]
+            "zh": "我覺得兩個方向都有。有時候你發現一種音樂，它把你往一個新版本的自己拉過去。"
           },
           {
             "speaker": "b",
@@ -1072,13 +875,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of self-navigation through music is real. What you reach for in a difficult season tells you what you need.",
-            "zh": "透過音樂來引導自己是真實的。你在困難的時期所伸手去拿的東西，告訴你你需要什麼。",
-            "vocab": [
-              {
-                "word": "self-navigation",
-                "def": "自我引導；透過選擇找到方向"
-              }
-            ]
+            "zh": "透過音樂來引導自己是真實的。你在困難的時期所伸手去拿的東西，告訴你你需要什麼。"
           },
           {
             "speaker": "b",
@@ -1090,13 +887,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a sharp observation. The artists you used to love but cannot listen to anymore often mark something you have outgrown.",
-            "zh": "這是個很銳利的觀察。你曾經喜歡卻再也聽不下去的藝人，往往標誌著你已經超越的某樣東西。",
-            "vocab": [
-              {
-                "word": "outgrow",
-                "def": "超越；長大後不再需要"
-              }
-            ]
+            "zh": "這是個很銳利的觀察。你曾經喜歡卻再也聽不下去的藝人，往往標誌著你已經超越的某樣東西。"
           },
           {
             "speaker": "b",
@@ -1183,25 +974,13 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Honestly, it feels like eavesdropping on a smart conversation. I feel included even though no one knows I am there.",
-            "zh": "說實話，感覺像是在旁聽一場聰明人的對話。我覺得自己在裡面，雖然沒有人知道我在。",
-            "vocab": [
-              {
-                "word": "eavesdrop",
-                "def": "偷聽；旁聽"
-              }
-            ]
+            "zh": "說實話，感覺像是在旁聽一場聰明人的對話。我覺得自己在裡面，雖然沒有人知道我在。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That intimacy of audio is real. A voice in your ear is a very different relationship from reading text or watching video.",
-            "zh": "聲音的親密感是真實存在的。耳機裡的聲音，和讀文字或看影片是很不一樣的關係。",
-            "vocab": [
-              {
-                "word": "intimacy of audio",
-                "def": "聲音的親密感"
-              }
-            ]
+            "zh": "聲音的親密感是真實存在的。耳機裡的聲音，和讀文字或看影片是很不一樣的關係。"
           },
           {
             "speaker": "b",
@@ -1224,8 +1003,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a genuine skill of good hosts. They make the scale disappear.",
-            "zh": "這是好主持人的真實技能。他們讓規模感消失。"
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           }
         ]
       },
@@ -1242,31 +1021,19 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Passive listening is one of the least efficient ways to retain information. You feel like you learned, but much of it fades within hours.",
-            "zh": "被動聆聽是留存資訊效率最低的方式之一。你感覺像是學到了，但大多數幾個小時內就消退了。",
-            "vocab": [
-              {
-                "word": "passive listening",
-                "def": "被動聆聽"
-              }
-            ]
+            "zh": "被動聆聽是留存資訊效率最低的方式之一。你感覺像是學到了，但大多數幾個小時內就消退了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a bit deflating. So two hours of podcast every day is mostly entertainment, not education?",
-            "zh": "這有點令人氣餒。所以每天兩個小時的 podcast 主要是娛樂，不是教育？"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Entertainment is fine. But if you want to actually learn, you need to do something with the content right after you hear it.",
-            "zh": "娛樂沒什麼問題。但如果你真的想學習，你需要在聽完之後立刻對內容做點什麼。",
-            "vocab": [
-              {
-                "word": "Entertainment",
-                "def": "對內容採取行動；主動處理所聽到的內容"
-              }
-            ]
+            "zh": "娛樂沒什麼問題。但如果你真的想學習，你需要在聽完之後立刻對內容做點什麼。"
           },
           {
             "speaker": "b",
@@ -1278,13 +1045,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Or write a single sentence about what you want to remember before you move on. One sentence is enough to anchor it.",
-            "zh": "或者在繼續之前寫下一句你想記住的東西。一句話就足夠讓它留下來了。",
-            "vocab": [
-              {
-                "word": "anchor",
-                "def": "錨定；讓……固定下來"
-              }
-            ]
+            "zh": "或者在繼續之前寫下一句你想記住的東西。一句話就足夠讓它留下來了。"
           },
           {
             "speaker": "b",
@@ -1313,13 +1074,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Lead with a question the podcast raised for you, not a summary of what it covered. That invites the other person in.",
-            "zh": "用那個 podcast 讓你產生的疑問來開頭，而不是它涵蓋了什麼的摘要。這樣才是在邀請對方進來。",
-            "vocab": [
-              {
-                "word": "podcast raised",
-                "def": "提出一個問題；讓人產生疑問"
-              }
-            ]
+            "zh": "用那個 podcast 讓你產生的疑問來開頭，而不是它涵蓋了什麼的摘要。這樣才是在邀請對方進來。"
           },
           {
             "speaker": "b",
@@ -1343,13 +1098,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Niche is fine. Just give one line of context and keep moving. Say \"It is a show about competitive dog grooming, and I know nothing about dogs, but—\"",
-            "zh": "小眾沒關係。給一行背景說明然後繼續往下說。說「這是一個關於競賽級寵物美容的節目，我對狗狗一無所知，但——」",
-            "vocab": [
-              {
-                "word": "niche",
-                "def": "小眾的；利基的"
-              }
-            ]
+            "zh": "小眾沒關係。給一行背景說明然後繼續往下說。說「這是一個關於競賽級寵物美容的節目，我對狗狗一無所知，但——」"
           },
           {
             "speaker": "b",
@@ -1378,13 +1127,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First I check if the host can hold an interview, not just ask questions. A bad interviewer is hard to forgive over fifty episodes.",
-            "zh": "我首先看主持人能不能主持一個訪談，而不只是提問。一個不好的訪談者，在五十集後很難原諒。",
-            "vocab": [
-              {
-                "word": "hold an interview",
-                "def": "主導、掌控一個訪談"
-              }
-            ]
+            "zh": "我首先看主持人能不能主持一個訪談，而不只是提問。一個不好的訪談者，在五十集後很難原諒。"
           },
           {
             "speaker": "b",
@@ -1396,13 +1139,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Completely wrong. Some of the best shows have under thirty episodes. Tight, focused content often beats volume.",
-            "zh": "完全錯了。一些最好的節目不到三十集。精簡、有焦點的內容往往勝過數量。",
-            "vocab": [
-              {
-                "word": "tight",
-                "def": "精簡的；緊湊的（指內容）"
-              }
-            ]
+            "zh": "完全錯了。一些最好的節目不到三十集。精簡、有焦點的內容往往勝過數量。"
           },
           {
             "speaker": "b",
@@ -1419,8 +1156,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a clever way to test it. Skip the highlight reel and go straight to the regular performance.",
-            "zh": "這是個聰明的測試方式。跳過精華集錦，直接看正常表現。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "a",
@@ -1443,13 +1180,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a real effect. Sustained exposure to articulate speech actually improves how you form thoughts. It is not imaginary.",
-            "zh": "這是真實的效果。持續接觸說話清晰的表達，確實會改善你組織想法的方式。這不是想像。",
-            "vocab": [
-              {
-                "word": "articulate",
-                "def": "表達清晰的；說話有條理的"
-              }
-            ]
+            "zh": "這是真實的效果。持續接觸說話清晰的表達，確實會改善你組織想法的方式。這不是想像。"
           },
           {
             "speaker": "b",
@@ -1461,13 +1192,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Language is highly imitative. We absorb vocabulary, pacing, and reasoning patterns from what we hear regularly.",
-            "zh": "是的。語言具有高度模仿性。我們從我們定期聽到的東西中吸收詞彙、節奏和推理模式。",
-            "vocab": [
-              {
-                "word": "reasoning pattern",
-                "def": "推理模式；思考習慣"
-              }
-            ]
+            "zh": "是的。語言具有高度模仿性。我們從我們定期聽到的東西中吸收詞彙、節奏和推理模式。"
           },
           {
             "speaker": "b",
@@ -1479,13 +1204,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. The people you listen to regularly become a kind of silent mentor.",
-            "zh": "確實如此。你定期聆聽的那些人，會成為一種無聲的導師。",
-            "vocab": [
-              {
-                "word": "silent mentor",
-                "def": "無聲的導師"
-              }
-            ]
+            "zh": "確實如此。你定期聆聽的那些人，會成為一種無聲的導師。"
           },
           {
             "speaker": "b",
@@ -1566,13 +1285,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The commute is one of the most contested pieces of time in modern life. Everyone wants to use it for something.",
-            "zh": "通勤是現代生活中競爭最激烈的一塊時間。每個人都想用它來做些什麼。",
-            "vocab": [
-              {
-                "word": "contested",
-                "def": "被競爭的；被爭奪的"
-              }
-            ]
+            "zh": "通勤是現代生活中競爭最激烈的一塊時間。每個人都想用它來做些什麼。"
           },
           {
             "speaker": "b",
@@ -1584,13 +1297,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Depends on what you need. Zoning out is not wasted time. Your brain is still doing processing work you cannot see.",
-            "zh": "取決於你需要什麼。發呆放空不是浪費時間。你的大腦仍然在做你看不見的處理工作。",
-            "vocab": [
-              {
-                "word": "Zoning out",
-                "def": "發呆；放空"
-              }
-            ]
+            "zh": "取決於你需要什麼。發呆放空不是浪費時間。你的大腦仍然在做你看不見的處理工作。"
           },
           {
             "speaker": "b",
@@ -1614,13 +1321,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The commute can be a transition zone, not a productivity window. Protecting that can matter more than filling it.",
-            "zh": "通勤可以是一個過渡地帶，而不是生產力視窗。保護它可能比填滿它更重要。",
-            "vocab": [
-              {
-                "word": "transition zone",
-                "def": "過渡地帶；緩衝空間"
-              }
-            ]
+            "zh": "通勤可以是一個過渡地帶，而不是生產力視窗。保護它可能比填滿它更重要。"
           }
         ]
       },
@@ -1637,13 +1338,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It might be a sign that your comfort with stillness has eroded. Constant stimulation resets the baseline.",
-            "zh": "這可能是個徵兆，說明你對靜止的適應力已經被消磨了。持續的刺激會重設基準線。",
-            "vocab": [
-              {
-                "word": "erode",
-                "def": "被消磨；慢慢侵蝕"
-              }
-            ]
+            "zh": "這可能是個徵兆，說明你對靜止的適應力已經被消磨了。持續的刺激會重設基準線。"
           },
           {
             "speaker": "b",
@@ -1655,19 +1350,13 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
-            "zh": "沒錯。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。",
-            "vocab": [
-              {
-                "word": "discomfort",
-                "def": "不舒服"
-              }
-            ]
+            "zh": "沒錯。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like something worth addressing. Not being able to be quiet feels like losing a skill.",
-            "zh": "這聽起來是值得處理的事情。無法安靜下來感覺像是失去了一種技能。"
+            "en": "That matches the harder situations well.",
+            "zh": "這個說法很貼合比較難的情況。"
           },
           {
             "speaker": "a",
@@ -1702,13 +1391,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say \"I cannot focus without background noise\" or \"silence makes me restless.\" Both are clear and natural.",
-            "zh": "你可以說「I cannot focus without background noise」，或「silence makes me restless」。兩個都清楚自然。",
-            "vocab": [
-              {
-                "word": "restless",
-                "def": "坐立不安的；無法靜下來的"
-              }
-            ]
+            "zh": "你可以說「I cannot focus without background noise」，或「silence makes me restless」。兩個都清楚自然。"
           },
           {
             "speaker": "b",
@@ -1720,13 +1403,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might say \"she needs quiet to recharge\" or \"he does his best thinking in silence.\" Both capture the preference without making it sound extreme.",
-            "zh": "可以說「she needs quiet to recharge」，或「he does his best thinking in silence」。兩者都表達了那個偏好，又不會讓它聽起來很極端。",
-            "vocab": [
-              {
-                "word": "recharge",
-                "def": "恢復精力；充電"
-              }
-            ]
+            "zh": "可以說「she needs quiet to recharge」，或「he does his best thinking in silence」。兩者都表達了那個偏好，又不會讓它聽起來很極端。"
           },
           {
             "speaker": "b",
@@ -1738,13 +1415,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Just say it directly. \"I use white noise to block distractions\" or \"I play cafe sounds when I work at home.\"",
-            "zh": "就直接說。「I use white noise to block distractions」，或「I play cafe sounds when I work at home」。",
-            "vocab": [
-              {
-                "word": "white noise",
-                "def": "就直接說"
-              }
-            ]
+            "zh": "就直接說。「I use white noise to block distractions」，或「I play cafe sounds when I work at home」。"
           },
           {
             "speaker": "b",
@@ -1773,13 +1444,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start by auditing one week. Write down what you actually listened to versus what you planned to listen to.",
-            "zh": "從審計一週開始。把你實際上聽了什麼，和你計劃要聽什麼，都寫下來。",
-            "vocab": [
-              {
-                "word": "audit",
-                "def": "審計；逐項核查"
-              }
-            ]
+            "zh": "從審計一週開始。把你實際上聽了什麼，和你計劃要聽什麼，都寫下來。"
           },
           {
             "speaker": "b",
@@ -1791,13 +1456,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Autoplay is the algorithm deciding for you. Awareness is just noticing that you let it happen.",
-            "zh": "自動播放是演算法在替你決定。覺察就是注意到你讓它發生了。",
-            "vocab": [
-              {
-                "word": "autoplay",
-                "def": "自動播放"
-              }
-            ]
+            "zh": "自動播放是演算法在替你決定。覺察就是注意到你讓它發生了。"
           },
           {
             "speaker": "b",
@@ -1809,13 +1468,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Even pausing for three seconds before hitting play is a fundamentally different relationship with your attention.",
-            "zh": "是的。就算只是在按播放之前停頓三秒鐘，也是和你的注意力建立了一種根本不同的關係。",
-            "vocab": [
-              {
-                "word": "fundamentally",
-                "def": "根本上；從本質上"
-              }
-            ]
+            "zh": "是的。就算只是在按播放之前停頓三秒鐘，也是和你的注意力建立了一種根本不同的關係。"
           },
           {
             "speaker": "b",
@@ -1844,13 +1497,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A full day is hard. But I have done mornings without audio, and by ten o'clock my thoughts feel more organized.",
-            "zh": "一整天很難。但我做過不放任何聲音的早晨，到了十點，我的思路感覺更有條理。",
-            "vocab": [
-              {
-                "word": "organized",
-                "def": "有條理的；整齊的"
-              }
-            ]
+            "zh": "一整天很難。但我做過不放任何聲音的早晨，到了十點，我的思路感覺更有條理。"
           },
           {
             "speaker": "b",
@@ -1862,13 +1509,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Your own thoughts get more airtime. When there is always external audio, internal processing gets crowded out.",
-            "zh": "你自己的想法得到更多的播放時間。當外部聲音一直存在時，內部處理就被擠壓出去了。",
-            "vocab": [
-              {
-                "word": "airtime",
-                "def": "播出時間；發言時間（此指「機會」）"
-              }
-            ]
+            "zh": "你自己的想法得到更多的播放時間。當外部聲音一直存在時，內部處理就被擠壓出去了。"
           },
           {
             "speaker": "b",
@@ -1880,13 +1521,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The shower is one of the last analog spaces most people have. The brain fills it differently than it fills a stimulated moment.",
-            "zh": "淋浴是大多數人最後剩下的類比空間之一。大腦在那個時候的運作方式，和被刺激的時刻完全不同。",
-            "vocab": [
-              {
-                "word": "analog space",
-                "def": "類比空間；不受數位干擾的空間"
-              }
-            ]
+            "zh": "淋浴是大多數人最後剩下的類比空間之一。大腦在那個時候的運作方式，和被刺激的時刻完全不同。"
           },
           {
             "speaker": "b",
@@ -1897,7 +1532,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the whole conversation we just had, in one sentence.",
+            "en": "That's the whole conversation we just had, in one sentence.",
             "zh": "這就是我們剛才整個對話，用一句話說完了。"
           }
         ]
@@ -1967,13 +1602,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A curated playlist is an act of attention. Someone had to listen, remember you, and decide what fit.",
-            "zh": "精心整理的播放清單是一種注意力的行動。有人必須去聆聽、記住你，然後決定什麼適合你。",
-            "vocab": [
-              {
-                "word": "act of attention",
-                "def": "一種注意力的行動；用心的表達"
-              }
-            ]
+            "zh": "精心整理的播放清單是一種注意力的行動。有人必須去聆聽、記住你，然後決定什麼適合你。"
           },
           {
             "speaker": "b",
@@ -1997,13 +1626,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is music as a memory of friendship. It is also a low-key way of saying, \"I have been paying attention.\"",
-            "zh": "那是音樂作為友誼記憶的方式。這也是一種低調的方式說「我一直有在注意你」。",
-            "vocab": [
-              {
-                "word": "low-key",
-                "def": "低調的；不張揚的"
-              }
-            ]
+            "zh": "那是音樂作為友誼記憶的方式。這也是一種低調的方式說「我一直有在注意你」。"
           },
           {
             "speaker": "b",
@@ -2032,13 +1655,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Background music at social events is one of the most underappreciated forms of hospitality.",
-            "zh": "社交場合的背景音樂是最容易被忽視的待客之道之一。",
-            "vocab": [
-              {
-                "word": "hospitality",
-                "def": "待客之道；款待"
-              }
-            ]
+            "zh": "社交場合的背景音樂是最容易被忽視的待客之道之一。"
           },
           {
             "speaker": "b",
@@ -2050,13 +1667,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And you can feel that difference immediately. Curated music says the host considered how people would feel in the space.",
-            "zh": "而那個差異你立刻就能感受到。精心挑選的音樂說明了主人有考慮到客人在這個空間裡的感受。",
-            "vocab": [
-              {
-                "word": "curated",
-                "def": "精心挑選的；策展式的"
-              }
-            ]
+            "zh": "而那個差異你立刻就能感受到。精心挑選的音樂說明了主人有考慮到客人在這個空間裡的感受。"
           },
           {
             "speaker": "b",
@@ -2097,13 +1708,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say \"that song captured the moment perfectly\" or \"everything just clicked when that song came on.\"",
-            "zh": "你可以說「that song captured the moment perfectly」，或「everything just clicked when that song came on」。",
-            "vocab": [
-              {
-                "word": "click",
-                "def": "突然完美契合；一切都對上了"
-              }
-            ]
+            "zh": "你可以說「that song captured the moment perfectly」，或「everything just clicked when that song came on」。"
           },
           {
             "speaker": "b",
@@ -2115,13 +1720,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try \"that song killed the vibe\" or more gently \"it was not really the right moment for that one.\" Both are very natural.",
-            "zh": "可以試試「that song killed the vibe」，或是比較溫和地說「it was not really the right moment for that one」。兩個都非常自然。",
-            "vocab": [
-              {
-                "word": "killed the vibe",
-                "def": "破壞氣氛"
-              }
-            ]
+            "zh": "可以試試「that song killed the vibe」，或是比較溫和地說「it was not really the right moment for that one」。兩個都非常自然。"
           },
           {
             "speaker": "b",
@@ -2133,13 +1732,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say \"that is our song\" if it belongs to a specific memory, or \"we have been obsessed with this lately\" for something current.",
-            "zh": "如果它屬於某個特定記憶，就說「that is our song」。如果是最近的東西，就說「we have been obsessed with this lately」。",
-            "vocab": [
-              {
-                "word": "obsessed with",
-                "def": "沉迷於；深深著迷"
-              }
-            ]
+            "zh": "如果它屬於某個特定記憶，就說「that is our song」。如果是最近的東西，就說「we have been obsessed with this lately」。"
           },
           {
             "speaker": "b",
@@ -2156,7 +1749,7 @@ export const WEEK_29: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Music Discovery as a Social Act",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -2168,13 +1761,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is still how most meaningful discovery happens. A personal recommendation carries context that an algorithm cannot replicate.",
-            "zh": "大多數有意義的發現仍然是這樣發生的。個人推薦帶有演算法無法複製的脈絡。",
-            "vocab": [
-              {
-                "word": "personal recommendation",
-                "def": "個人推薦"
-              }
-            ]
+            "zh": "大多數有意義的發現仍然是這樣發生的。個人推薦帶有演算法無法複製的脈絡。"
           },
           {
             "speaker": "b",
@@ -2186,13 +1773,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
-            "zh": "沒錯。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。",
-            "vocab": [
-              {
-                "word": "algorithm",
-                "def": "你可能也喜歡（演算法推薦語）"
-              }
-            ]
+            "zh": "沒錯。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
           },
           {
             "speaker": "b",
@@ -2217,12 +1798,7 @@ export const WEEK_29: Episode[] = [
             "speakerName": "Mira",
             "en": "\"I heard this and thought of you\" is a sentence that does not get old.",
             "zh": "「我聽到這個，就想到了你」這句話永遠不會過時。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Listening Together Does",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2233,13 +1809,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is solid research showing that synchronized sound exposure syncs up emotional states. Concerts exploit this on purpose.",
-            "zh": "有紮實的研究顯示，同步的聲音接觸會讓情緒狀態同步。演唱會就是故意利用這一點的。",
-            "vocab": [
-              {
-                "word": "synchronized",
-                "def": "同步的；協調一致的"
-              }
-            ]
+            "zh": "有紮實的研究顯示，同步的聲音接觸會讓情緒狀態同步。演唱會就是故意利用這一點的。"
           },
           {
             "speaker": "b",
@@ -2251,13 +1821,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The shared experience multiplies the emotional response. You are not just feeling something — you are feeling it together.",
-            "zh": "共同體驗會倍增情緒反應。你不只是在感受某樣東西，你是在一起感受它。",
-            "vocab": [
-              {
-                "word": "experience multiplies",
-                "def": "倍增；成倍放大"
-              }
-            ]
+            "zh": "共同體驗會倍增情緒反應。你不只是在感受某樣東西，你是在一起感受它。"
           },
           {
             "speaker": "b",
@@ -2269,13 +1833,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The headphones give you the song. The crowd gives you the confirmation that the song matters to more than just you.",
-            "zh": "耳機給你那首歌。人群給你那首歌對不只你一個人都重要的確認。",
-            "vocab": [
-              {
-                "word": "confirmation",
-                "def": "確認；印證"
-              }
-            ]
+            "zh": "耳機給你那首歌。人群給你那首歌對不只你一個人都重要的確認。"
           },
           {
             "speaker": "b",
@@ -2356,13 +1914,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is hearing, not listening. The album became ambient. You were present in the room but not in the music.",
-            "zh": "那是在聽見，不是在聆聽。那張專輯變成了環境音。你在房間裡，但你不在音樂裡。",
-            "vocab": [
-              {
-                "word": "ambient",
-                "def": "環境音的；背景性的"
-              }
-            ]
+            "zh": "那是在聽見，不是在聆聽。那張專輯變成了環境音。你在房間裡，但你不在音樂裡。"
           },
           {
             "speaker": "b",
@@ -2374,13 +1926,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a legitimate category. But if you never listen actively, you miss what music can actually do at its best.",
-            "zh": "它是合理的類別。但如果你從不主動地聆聽，你就錯過了音樂在最佳狀態下真正能做到的事。",
-            "vocab": [
-              {
-                "word": "actively",
-                "def": "主動地；積極地"
-              }
-            ]
+            "zh": "它是合理的類別。但如果你從不主動地聆聽，你就錯過了音樂在最佳狀態下真正能做到的事。"
           },
           {
             "speaker": "b",
@@ -2392,13 +1938,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can look like that. It can also just mean choosing to follow one instrument through a whole song without letting your mind drift.",
-            "zh": "可以是那樣。但也可以只是選擇在一整首歌裡跟著一種樂器，不讓你的思緒漂移。",
-            "vocab": [
-              {
-                "word": "drift",
-                "def": "漂移；游離；跑神"
-              }
-            ]
+            "zh": "可以是那樣。但也可以只是選擇在一整首歌裡跟著一種樂器，不讓你的思緒漂移。"
           },
           {
             "speaker": "b",
@@ -2427,13 +1967,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is partly a habit and partly the result of years of multitasking. The brain learned that audio is background, not foreground.",
-            "zh": "這一部分是習慣，一部分是多年多工處理的結果。大腦學會了聲音是背景，不是前景。",
-            "vocab": [
-              {
-                "word": "multitasking",
-                "def": "多工處理；同時進行多件事"
-              }
-            ]
+            "zh": "這一部分是習慣，一部分是多年多工處理的結果。大腦學會了聲音是背景，不是前景。"
           },
           {
             "speaker": "b",
@@ -2445,13 +1979,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Pick one short song a day and commit to it fully for the whole three or four minutes. Nothing else.",
-            "zh": "可以。每天選一首短的歌，在整整三到四分鐘裡全心投入它。不做別的事。",
-            "vocab": [
-              {
-                "word": "fully",
-                "def": "完整地；充分地"
-              }
-            ]
+            "zh": "可以。每天選一首短的歌，在整整三到四分鐘裡全心投入它。不做別的事。"
           },
           {
             "speaker": "b",
@@ -2463,13 +1991,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Leave the phone in another room. Or even just face-down on the table. Physical distance creates mental space.",
-            "zh": "把手機放在另一個房間。或者就算只是把它翻面放在桌上。物理距離創造心理空間。",
-            "vocab": [
-              {
-                "word": "physical distance",
-                "def": "物理距離"
-              }
-            ]
+            "zh": "把手機放在另一個房間。或者就算只是把它翻面放在桌上。物理距離創造心理空間。"
           },
           {
             "speaker": "b",
@@ -2498,13 +2020,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say \"I got completely lost in it\" or \"I forgot where I was for a few minutes.\" Both sound natural and specific.",
-            "zh": "你可以說「I got completely lost in it」，或「I forgot where I was for a few minutes」。兩個都聽起來自然而具體。",
-            "vocab": [
-              {
-                "word": "got completely lost",
-                "def": "沉浸於；迷失在（某種體驗中）"
-              }
-            ]
+            "zh": "你可以說「I got completely lost in it」，或「I forgot where I was for a few minutes」。兩個都聽起來自然而具體。"
           },
           {
             "speaker": "b",
@@ -2516,13 +2032,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"It gave me chills\" or \"it sent a chill down my spine\" are both standard. If you want to be more expressive, \"goosebumps\" works really well.",
-            "zh": "「It gave me chills」或「it sent a chill down my spine」都是標準說法。如果你想更有表現力，「goosebumps」用起來很好。",
-            "vocab": [
-              {
-                "word": "goosebumps",
-                "def": "雞皮疙瘩（因感動或寒冷引起）"
-              }
-            ]
+            "zh": "「It gave me chills」或「it sent a chill down my spine」都是標準說法。如果你想更有表現力，「goosebumps」用起來很好。"
           },
           {
             "speaker": "b",
@@ -2534,13 +2044,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Just say \"that song always gets me\" or \"I cannot hear that without getting emotional.\" People respect that kind of honesty.",
-            "zh": "完全不會。只要說「that song always gets me」，或「I cannot hear that without getting emotional」。人們尊重這種誠實。",
-            "vocab": [
-              {
-                "word": "without getting",
-                "def": "讓我很有感；每次都觸動我"
-              }
-            ]
+            "zh": "完全不會。只要說「that song always gets me」，或「I cannot hear that without getting emotional」。人們尊重這種誠實。"
           },
           {
             "speaker": "b",
@@ -2569,13 +2073,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pick one album a month that you actually listen to, start to finish, on purpose. No skipping.",
-            "zh": "每個月選一張專輯，你真的去聽，從頭到尾，有目的地。不跳過。",
-            "vocab": [
-              {
-                "word": "finish",
-                "def": "有目的地；刻意地"
-              }
-            ]
+            "zh": "每個月選一張專輯，你真的去聽，從頭到尾，有目的地。不跳過。"
           },
           {
             "speaker": "b",
@@ -2587,13 +2085,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a bit radical. Album listening was the default for decades and now it feels like a commitment.",
-            "zh": "有一點激進。聽整張專輯幾十年來都是預設方式，但現在感覺像是一種承諾了。",
-            "vocab": [
-              {
-                "word": "commitment",
-                "def": "承諾；認真投入"
-              }
-            ]
+            "zh": "有一點激進。聽整張專輯幾十年來都是預設方式，但現在感覺像是一種承諾了。"
           },
           {
             "speaker": "b",
@@ -2634,13 +2126,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You start noticing more in general. Attention is a transferable skill. Sharpen it with music and it shows up at work too.",
-            "zh": "你開始普遍地注意到更多東西。注意力是一種可轉移的技能。用音樂磨練它，它也會出現在工作中。",
-            "vocab": [
-              {
-                "word": "transferable skill",
-                "def": "可轉移的技能；通用技能"
-              }
-            ]
+            "zh": "你開始普遍地注意到更多東西。注意力是一種可轉移的技能。用音樂磨練它，它也會出現在工作中。"
           },
           {
             "speaker": "b",
@@ -2652,13 +2138,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They are connected through attention. Anything that trains you to stay present in one area makes you better at staying present in others.",
-            "zh": "它們通過注意力連結。任何訓練你在一個領域保持當下的事情，都會讓你在其他領域也更好地保持當下。",
-            "vocab": [
-              {
-                "word": "stay present",
-                "def": "保持當下；不走神"
-              }
-            ]
+            "zh": "它們通過注意力連結。任何訓練你在一個領域保持當下的事情，都會讓你在其他領域也更好地保持當下。"
           },
           {
             "speaker": "b",
@@ -2670,13 +2150,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Access to the full emotional weight of something. Surface listening skims. Deep listening lands.",
-            "zh": "接觸到某樣東西的完整情感重量。表面聆聽是掠過。深層聆聽是著陸。",
-            "vocab": [
-              {
-                "word": "skim",
-                "def": "掠過；略讀；表面瀏覽"
-              }
-            ]
+            "zh": "接觸到某樣東西的完整情感重量。表面聆聽是掠過。深層聆聽是著陸。"
           },
           {
             "speaker": "b",

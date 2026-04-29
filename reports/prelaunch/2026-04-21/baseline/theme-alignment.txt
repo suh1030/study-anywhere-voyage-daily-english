@@ -1,0 +1,2 @@
+Theme alignment: curriculum=53, episodes=365, questions=365, mismatches=0
+Theme alignment is clean.

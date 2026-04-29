@@ -1,0 +1,87 @@
+id,source,weekNumber,english,exampleSentence,wordCount
+w1-listen-01,listen,1,reset moment,A long walk gave her the reset moment she needed.,10
+w1-listen-03,listen,1,marker,A new notebook became a marker for the next chapter.,10
+w1-listen-04,listen,1,let go,She was learning how to let go without rushing herself.,10
+w1-listen-05,listen,1,clean break,Moving desks gave him a clean break from the old routine.,11
+w4-listen-01,listen,4,studio apartment,She rents a studio apartment near the office.,8
+w4-listen-02,listen,4,down payment,Saving for a down payment takes years in this city.,10
+w4-listen-04,listen,4,break the ice,Introducing myself first helped break the ice with my new neighbors.,11
+w4-speak-02,speak,4,natural light,This room gets great natural light in the afternoon.,9
+w4-speak-03,speak,4,mortgage,His monthly mortgage payment is higher than most people's rent.,10
+w4-speak-04,speak,4,clutter,Getting rid of clutter made the apartment feel twice as big.,11
+w4-speak-05,speak,4,inconsiderate,It's inconsiderate to play loud music after ten at night.,10
+w5-speak-02,speak,5,moment matters,"The whole dinner said, without words, that the moment matters.",10
+w5-speak-04,speak,5,the thought behind it,She remembered the thought behind it more than the object.,10
+w6-listen-01,listen,6,on rotation,She has five dinner recipes on rotation for busy weeknights.,10
+w6-listen-03,listen,6,mastery,Years of making the same dish leads to true mastery.,10
+w6-listen-06,listen,6,globalization,Globalization has brought hundreds of cuisines to every major city.,10
+w6-speak-01,speak,6,lab-grown meat,Lab-grown meat could dramatically reduce the environmental impact of protein production.,11
+w6-speak-04,speak,6,local knowledge,Local knowledge takes years to acquire but is invaluable when traveling.,11
+w6-speak-05,speak,6,individual variation,Individual variation explains why the same diet works differently for everyone.,11
+w7-listen-01,listen,7,cold front,A cold front is moving in — temperatures will drop tonight.,11
+w7-listen-03,listen,7,hypothesis,The theory that climate shapes culture is an interesting hypothesis.,10
+w7-listen-06,listen,7,misattributed,The excitement from the roller coaster was misattributed as romantic attraction.,11
+w7-speak-02,speak,7,overcast,"It's been overcast for days, which really affects my mood.",10
+w7-speak-03,speak,7,dehumidifier,A dehumidifier is essential during Taiwan's rainy season.,8
+w7-speak-04,speak,7,passive cooling,Traditional architecture used passive cooling techniques before air conditioning existed.,10
+w8-listen-06,listen,8,money etiquette,Good money etiquette made the dinner feel easy instead of awkward.,11
+w13-speak-04,speak,13,passive-aggressive,His passive-aggressive emails always sounded polite but felt like a warning.,11
+w15-listen-03,listen,15,social battery,"After three back-to-back events, her social battery was completely empty.",10
+w15-listen-05,listen,15,procrastinate,She tends to procrastinate on tasks that feel ambiguous or overwhelming.,11
+w26-listen-04,listen,26,availability,"Constant availability made her feel responsive, but not necessarily useful.",10
+w26-speak-05,speak,26,response window,Setting a response window reduced panic without making her seem cold.,11
+w27-speak-02,speak,27,unfamiliar place,An unfamiliar place can make your ordinary habits look surprisingly visible.,11
+w28-listen-06,listen,28,public comparison,Public comparison changed the mood of the project almost instantly.,10
+w28-speak-02,speak,28,anticipation,Street photography often depends on anticipation more than on luck.,10
+w28-speak-05,speak,28,sequence,The sequence felt stronger once the extra landscape shots were removed.,11
+w30-speak-03,speak,30,one lane,A novel gave her mind one lane instead of constant branching.,11
+w30-speak-04,speak,30,repeated completion,Repeated completion mattered more than one ambitious weekend of reading.,10
+w31-listen-02,listen,31,emotional clarity,People respond to the emotional clarity they often see in animals.,11
+w31-listen-05,listen,31,animal welfare,Good policy starts by asking real questions about animal welfare.,10
+w31-speak-04,speak,31,read behavior,Good owners learn to read behavior instead of guessing blindly.,10
+w32-listen-01,listen,32,hands-on hobby,Her hands-on hobby gave the evenings a different texture from work.,11
+w32-listen-05,listen,32,niche interest,His niche interest in fountain pens led to several real friendships.,11
+w32-speak-01,speak,32,passion project,The small band remained a passion project long after college.,10
+w33-listen-02,listen,33,green time,A little green time changed her whole mood after work.,10
+w33-listen-05,listen,33,nature deprivation,Some educators worry about a growing kind of nature deprivation.,10
+w33-speak-01,speak,33,seasonal awareness,Her seasonal awareness grew after she started walking outside every evening.,11
+w34-listen-02,listen,34,intrinsic reason,Her intrinsic reason had more staying power than external pressure.,10
+w34-listen-06,listen,34,recovery window,He learned to respect the recovery window instead of ignoring it.,11
+w34-speak-02,speak,34,body feedback,She only noticed the body feedback after sitting too long.,10
+w36-listen-05,listen,36,creative friction,Too little creative friction can make the result feel hollow.,10
+w36-speak-03,speak,36,confident error,"The problem was not just the error, but the confident error.",11
+w37-listen-06,listen,37,support network,Her support network became more visible after she asked for help.,11
+w37-speak-02,speak,37,baseline energy,Her baseline energy had dropped for days before she admitted it.,11
+w38-listen-01,listen,38,daily footprint,Her daily footprint became easier to see after the move.,10
+w38-listen-04,listen,38,hidden waste,The hidden waste bothered her more than the product itself.,10
+w38-listen-06,listen,38,livable city,They wanted the neighborhood to become a more livable city space.,11
+w38-speak-02,speak,38,resource use,They started paying more attention to resource use at home.,10
+w39-listen-06,listen,39,image management,The spending had more to do with image management than joy.,11
+w39-speak-02,speak,39,cash flow,Her cash flow looked different once she tracked it honestly.,10
+w39-speak-05,speak,39,income gap,The income gap was shaping more feelings than either admitted.,10
+w40-listen-04,listen,40,midlife restart,Her midlife restart felt terrifying and alive at the same time.,11
+w43-speak-03,speak,43,quiet change,Quiet change often goes unnoticed until it suddenly feels undeniable.,10
+w43-speak-04,speak,43,survival learning,Survival learning left deep marks that took years to fully understand.,11
+w44-speak-05,speak,44,friction point,The friction point was obvious once they watched people use it.,11
+w45-listen-02,listen,45,earn buy-in,She had to earn buy-in before the plan could move.,10
+w45-listen-03,listen,45,emotional weather,She noticed the emotional weather shift before the meeting stalled.,10
+w45-speak-01,speak,45,visible label,She led well long before she had a visible label.,10
+w45-speak-03,speak,45,informal influence,His informal influence was stronger than his job title suggested.,10
+w45-speak-04,speak,45,name tension,A good manager can name tension without making people defensive.,10
+w47-listen-01,listen,47,felt normal,What felt normal to her was surprising to someone else.,10
+w47-listen-02,listen,47,overlapping norms,Overlapping norms made the team harder to read at first.,10
+w47-listen-04,listen,47,travel as relationship,Travel as relationship changed how she moved through the city.,10
+w47-listen-06,listen,47,carry meaning,"A good translator knows how to carry meaning, not only words.",11
+w48-listen-06,listen,48,slow thought space,Writing gave her the slow thought space she needed.,9
+w48-speak-04,speak,48,multiple homes,He was learning how to live with multiple homes inside him.,11
+w51-listen-01,listen,51,respectable answer,He had been living inside a respectable answer for years.,10
+w51-listen-05,listen,51,recover and reorganize,She learned how to recover and reorganize after the setback.,10
+w51-speak-01,speak,51,prepare the ground,She had to prepare the ground before starting anything big.,10
+w52-speak-01,speak,52,carry it forward,He wanted to carry it forward in a wiser form.,10
+w52-speak-02,speak,52,emotional architecture,Her year was shaped by emotional architecture more than events.,10
+w53-listen-03,listen,53,design around reality,The plan started working once she learned to design around reality.,11
+w53-listen-04,listen,53,close the chapter well,She wanted to close the chapter well instead of disappearing quietly.,11
+w53-listen-06,listen,53,old script,The old script kept asking him to stay small and predictable.,11
+w53-speak-01,speak,53,weekly anchor,His weekly anchor was one quiet planning hour every Sunday evening.,11
+w53-speak-04,speak,53,release with respect,He learned to release with respect instead of burning everything down.,11
+w53-speak-05,speak,53,realistic pace,They chose a realistic pace instead of an impressive one.,10

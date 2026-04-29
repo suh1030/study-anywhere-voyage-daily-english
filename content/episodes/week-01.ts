@@ -22,13 +22,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think they are real. A reset moment can change your energy, even if nothing outside changes overnight.",
-            "zh": "我覺得它是真實的。一個重置時刻確實會改變你的能量感，即使外在的一切沒有一夜之間改變。",
-            "vocab": [
-              {
-                "word": "reset moment",
-                "def": "讓人重新整理狀態、重新出發的時刻"
-              }
-            ]
+            "zh": "我覺得它是真實的。一個重置時刻確實會改變你的能量感，即使外在的一切沒有一夜之間改變。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. When people feel a clean break, they often become more willing to try again.",
-            "zh": "對。當人感覺到一個乾淨的分界點時，他通常會更願意再試一次。",
-            "vocab": [
-              {
-                "word": "clean break",
-                "def": "和上一段狀態清楚切開的感覺"
-              }
-            ]
+            "zh": "對。當人感覺到一個乾淨的分界點時，他通常會更願意再試一次。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because small starts feel possible. They ask for action, not performance.",
-            "zh": "因為小的開始感覺比較做得到。它要求的是行動，不是表演。",
-            "vocab": [
-              {
-                "word": "small start",
-                "def": "不誇張但真的能開始做的第一步"
-              }
-            ]
+            "zh": "因為小的開始感覺比較做得到。它要求的是行動，不是表演。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The goal is to make tomorrow easier than yesterday.",
-            "zh": "對。真正的重點是讓明天比昨天更容易往前走。",
-            "vocab": [
-              {
-                "word": "make tomorrow easier",
-                "def": "明天比昨天更容易往前走"
-              }
-            ]
+            "zh": "對。真正的重點是讓明天比昨天更容易往前走。"
           },
           {
             "speaker": "b",
@@ -123,19 +99,13 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Instead of saying, \"I will change everything,\" you say, \"I will take one honest step today.\" That step might be ten minutes of study, one walk, or one difficult message.",
-            "zh": "與其說「我要把一切都改掉」，不如說「我今天先走一個誠實的小步」。那一步可能是十分鐘學習、一段散步，或一則你一直拖著沒發的訊息。",
-            "vocab": [
-              {
-                "word": "honest step",
-                "def": "我今天先走一個誠實的小步"
-              }
-            ]
+            "zh": "與其說「我要把一切都改掉」，不如說「我今天先走一個誠實的小步」。那一步可能是十分鐘學習、一段散步，或一則你一直拖著沒發的訊息。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much less scary.",
-            "zh": "這聽起來就沒那麼可怕了。"
+            "en": "I hadn't thought about it that way.",
+            "zh": "我還沒從這個角度想過。"
           },
           {
             "speaker": "a",
@@ -158,13 +128,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good simple line is: \"I needed a reset.\" It sounds natural and clear.",
-            "zh": "一個很好用、很簡單的說法是：「I needed a reset.」聽起來自然又清楚。",
-            "vocab": [
-              {
-                "word": "needed a reset",
-                "def": "重新調整一下"
-              }
-            ]
+            "zh": "一個很好用、很簡單的說法是：「I needed a reset.」聽起來自然又清楚。"
           },
           {
             "speaker": "b",
@@ -176,13 +140,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I am trying again, but in a smarter way.\" That sounds honest and calm.",
-            "zh": "另一句也很好用：「I am trying again, but in a smarter way.」這句很誠實，也很穩。",
-            "vocab": [
-              {
-                "word": "sounds honest",
-                "def": "聽起來很誠實、很穩"
-              }
-            ]
+            "zh": "另一句也很好用：「I am trying again, but in a smarter way.」這句很誠實，也很穩。"
           },
           {
             "speaker": "b",
@@ -193,20 +151,14 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"This time I want a pace I can keep.\" That is helpful when you do not want another intense beginning that disappears fast.",
-            "zh": "沒錯。你也可以說：「This time I want a pace I can keep.」如果你不想再來一次很猛、卻很快消失的開始，這句特別有用。",
-            "vocab": [
-              {
-                "word": "pace I can keep",
-                "def": "自己真的能維持下去的節奏"
-              }
-            ]
+            "en": "One natural option is, \"This time I want a pace I can keep.\" That is especially helpful when you do not want another intense start that disappears within weeks.",
+            "zh": "另一個很自然的說法是：「This time I want a pace I can keep.」如果你不想再來一次很猛、卻很快就消失的開始，這句特別好用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels very practical.",
-            "zh": "這句很實際。"
+            "en": "That gives me something concrete to try.",
+            "zh": "這給了我一個可以直接試的方向。"
           },
           {
             "speaker": "a",
@@ -229,13 +181,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Old stories about themselves. If someone keeps saying, \"I always quit,\" that sentence becomes part of the problem.",
-            "zh": "通常是他對自己的舊故事。如果一個人一直說「我總是半途而廢」，那句話本身就會變成問題的一部分。",
-            "vocab": [
-              {
-                "word": "Old stories about themselves",
-                "def": "通常是他對自己的舊故事"
-              }
-            ]
+            "zh": "通常是他對自己的舊故事。如果一個人一直說「我總是半途而廢」，那句話本身就會變成問題的一部分。"
           },
           {
             "speaker": "b",
@@ -247,13 +193,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Harsh self-talk makes a new attempt feel unsafe before it even starts.",
-            "zh": "非常重要。太苛刻的自我對話，會在開始之前就讓新的嘗試變得不安全。",
-            "vocab": [
-              {
-                "word": "self-talk",
-                "def": "一個人在心裡對自己說話的方式"
-              }
-            ]
+            "zh": "非常重要。太苛刻的自我對話，會在開始之前就讓新的嘗試變得不安全。"
           },
           {
             "speaker": "b",
@@ -265,13 +205,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Something more accurate, like: \"I have struggled before, but I can learn from that.\" Accurate language gives you room to move.",
-            "zh": "可以改成比較準確的說法，例如：「我以前確實有卡住過，但我可以從那裡學。」準確的語言會替你留出移動空間。",
-            "vocab": [
-              {
-                "word": "accurate language",
-                "def": "既不誇大也不自責"
-              }
-            ]
+            "zh": "可以改成比較準確的說法，例如：「我以前確實有卡住過，但我可以從那裡學。」準確的語言會替你留出移動空間。"
           },
           {
             "speaker": "b",
@@ -300,13 +234,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It looks modest, repeatable, and real. It fits an actual life, not an imaginary one.",
-            "zh": "它看起來通常不誇張、可以重複，而且很真。它是貼合真實生活的，不是貼合想像中的生活。",
-            "vocab": [
-              {
-                "word": "repeatable",
-                "def": "可以一再做下去、不只是做一次而已"
-              }
-            ]
+            "zh": "它看起來通常不誇張、可以重複，而且很真。它是貼合真實生活的，不是貼合想像中的生活。"
           },
           {
             "speaker": "b",
@@ -341,7 +269,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly how I see it.",
+            "en": "That's exactly how I see it.",
             "zh": "對，我就是這樣看它的。"
           }
         ]
@@ -399,327 +327,214 @@ export const WEEK_01: Episode[] = [
     "phase": "p1",
     "parts": [
       {
-        "title": "Part 1 — Why Pressure Backfires",
+        "title": "Part 1 — When the New Year Goal Feels Like a Demand",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Why do people so often fail when they start with a lot of pressure?",
-            "zh": "為什麼很多人一開始壓力很大時，反而更容易失敗？"
+            "en": "Every January I write a list of goals, feel excited for about a week, and then it all falls apart. What am I doing wrong?",
+            "zh": "每年一月我都會寫一份目標清單，興奮大概一週，然後一切都崩了。我哪裡出了問題？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Because pressure can create urgency, but it rarely creates stability.",
-            "zh": "因為壓力也許會製造急迫感，但它很少能製造穩定。",
-            "vocab": [
-              {
-                "word": "urgency",
-                "def": "急迫感；很想立刻做成的壓力"
-              }
-            ]
+            "en": "You are probably setting goals the way most people do — as demands. \"I must exercise every day.\" \"I will never eat junk food again.\" The language is harsh from the start.",
+            "zh": "你可能和大多數人一樣，把目標設定成要求：「我一定要每天運動。」「我永遠不再吃垃圾食物。」從一開始語氣就很嚴厲。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So it can push you for a few days, but not for very long.",
-            "zh": "所以它可能推得動你幾天，但推不久。"
+            "en": "And when you miss one day, the whole thing feels broken.",
+            "zh": "然後只要有一天沒做到，整件事就感覺垮掉了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If the starting voice is harsh, the whole process feels like punishment.",
-            "zh": "沒錯。如果開始的那個聲音很嚴厲，整個過程就會像懲罰。",
-            "vocab": [
-              {
-                "word": "harsh",
-                "def": "嚴厲的；太硬的"
-              }
-            ]
+            "en": "Exactly. A demand has no room for being human. The first slip feels like total failure, so people just stop.",
+            "zh": "沒錯。要求沒有任何讓你喘息的空間。第一次沒做到就像是徹底失敗，所以大家就乾脆放棄了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That explains why some goals feel heavy before you even begin.",
-            "zh": "這就能解釋，為什麼有些目標在開始前就已經讓人覺得很重。"
+            "en": "So the format itself is part of the problem.",
+            "zh": "所以這個形式本身就是問題的一部分。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. Pressure-focused goals often ask, \"How do I fix myself fast?\" A better question is, \"How do I support the person I am becoming?\"",
-            "zh": "對。以壓力為主的目標，常常在問「我怎麼快點把自己修好？」比較好的問題其實是：「我怎麼支持那個正在長出來的自己？」"
+            "en": "Right. Pressure creates urgency, but urgency alone rarely builds anything lasting. You need something that stays alive after the excitement fades.",
+            "zh": "對。壓力會製造急迫感，但光有急迫感很難建立長久的東西。你需要的是一個在熱情消退後依然活著的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That second question feels much gentler.",
-            "zh": "第二個問題真的溫柔很多。"
+            "en": "And that is where intentions come in?",
+            "zh": "這就是意圖出場的地方？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is gentler, and usually more sustainable too.",
-            "zh": "它比較溫柔，而且通常也更能持續。"
+            "en": "That is where they help most, yes.",
+            "zh": "對，這正是它們最有幫助的地方。"
           }
         ]
       },
       {
-        "title": "Part 2 — Intentions Give You Direction",
+        "title": "Part 2 — Why This Gets People Stuck",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Then what is the value of an intention?",
-            "zh": "那麼意圖真正的價值是什麼？"
+            "en": "What makes goals-as-demands so hard to keep? Is it just motivation?",
+            "zh": "為什麼把目標當成要求這麼難持續？純粹是動力的問題嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "An intention gives direction without making every small mistake feel like failure.",
-            "zh": "意圖會給你方向，但不會讓每一個小失誤都變成失敗。",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "en": "Mostly no. It is a design problem. A strict goal asks you to perform at your best every day, but real life does not work that way.",
+            "zh": "大部分不是。這是設計上的問題。嚴格的目標要你每天都表現最好，但真實生活不是這樣運作的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So it stays alive even when the week goes badly.",
-            "zh": "所以就算這一週過得不太好，它也還活著。"
+            "en": "You might be tired, sick, or just having a bad week.",
+            "zh": "你可能很累、生病，或只是過了糟糕的一週。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If your intention is \"I want to care for my energy better,\" that can show up in sleep, food, breaks, or saying no.",
-            "zh": "沒錯。如果你的意圖是「我想更照顧自己的能量」，它可以表現在睡眠、吃東西、休息，或學會說不。",
-            "vocab": [
-              {
-                "word": "care for my energy",
-                "def": "用比較照顧自己的方式安排精力"
-              }
-            ]
+            "en": "And a goal that cannot survive those moments is not really a goal — it is a countdown to quitting.",
+            "zh": "而一個在這些時刻撐不住的目標，其實不是目標，而是通往放棄的倒數。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds wider than a checklist.",
-            "zh": "這聽起來比清單寬很多。"
+            "en": "So the goal needs to be designed for imperfect conditions.",
+            "zh": "所以目標必須是為不完美的狀況而設計的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is wider, but also more realistic. Real life changes every day, so your intention needs room to move.",
-            "zh": "它確實比較寬，但也比較現實。真實生活每天都在變，所以你的意圖也需要有移動空間。"
+            "en": "Exactly. An intention works differently — it gives direction without punishing every stumble. If you miss a day, you still know where you are heading.",
+            "zh": "沒錯。意圖的運作方式不同——它給你方向，但不會在你每次絆倒時懲罰你。就算你有一天漏掉了，你還是知道自己往哪裡走。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So intentions are flexible, not vague.",
-            "zh": "所以意圖不是模糊，而是有彈性。"
+            "en": "It is more like a compass than a schedule.",
+            "zh": "它比較像指南針，而不是時間表。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a great way to say it.",
-            "zh": "這個說法很好。"
+            "en": "Well put. A compass points home even when the path is messy.",
+            "zh": "說得很好。指南針就算路很亂，還是指得到家的方向。"
           }
         ]
       },
       {
-        "title": "Part 3 — English for Setting Intentions",
+        "title": "Part 3 — A More Useful Approach",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What English is useful for talking about intentions?",
-            "zh": "如果想用英文談意圖，有哪些說法會很好用？"
+            "en": "So how do I turn a goal into an intention? What does that actually look like?",
+            "zh": "那我要怎麼把目標轉成意圖？實際上是什麼樣子？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A simple one is: \"I want to be more consistent.\" That sounds natural and useful.",
-            "zh": "一個很簡單的說法是：「I want to be more consistent.」這句自然又實用。",
-            "vocab": [
-              {
-                "word": "consistent",
-                "def": "穩定的；持續做得到的"
-              }
-            ]
+            "en": "Start with the feeling you want, not the outcome. Instead of \"I will run five days a week,\" try \"I want to feel more energized in my body.\"",
+            "zh": "從你想要的感受出發，不是結果。不要說「我要每週跑五天」，改成「我想讓身體感覺更有活力」。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That works for study, exercise, and work.",
-            "zh": "這句用在學習、運動和工作都很適合。"
+            "en": "And then the specific action comes from that feeling.",
+            "zh": "然後具體的行動從那個感受出發。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another natural line is, \"I want to respond with more patience.\" That is good when your goal is about relationships or communication.",
-            "zh": "另一句也很好用：「I want to respond with more patience.」如果你的目標和關係或溝通有關，這句很適合。",
-            "vocab": [
-              {
-                "word": "respond with more patience",
-                "def": "用更有耐心的方式回應"
-              }
-            ]
+            "en": "Right. Running three times, cycling, walking — all of those serve the intention. None of them is the only valid path.",
+            "zh": "對。跑步三次、騎車、走路——這些都在服務那個意圖。沒有哪一個是唯一正確的路。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That works for me because it focuses on character, not only results.",
-            "zh": "我喜歡它，因為它比較在談狀態和品格，不只是結果。"
+            "en": "That flexibility is what makes it survivable.",
+            "zh": "這種彈性才讓它撐得住。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"I want my routine to feel steadier.\" That helps when you are changing daily habits.",
-            "zh": "沒錯。你也可以說：「I want my routine to feel steadier.」如果你在調整日常習慣，這句很好用。",
-            "vocab": [
-              {
-                "word": "routine to feel steadier",
-                "def": "比較穩定、不那麼忽上忽下的日常節奏"
-              }
-            ]
+            "en": "And when the week gets hard, you can honor the intention in a smaller way. Maybe it is just a ten-minute walk. The direction stays the same.",
+            "zh": "當那一週變得很難時，你可以用更小的方式去照顧那個意圖。也許只是走十分鐘。方向還是一樣的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "These all sound more humane than a strict promise.",
-            "zh": "這些聽起來都比很嚴格的承諾更有人味。"
+            "en": "Something I often hear is: \"I want to be more consistent.\" Is that an intention or still a demand?",
+            "zh": "我常常聽到有人說：「我想更穩定一點。」這算是意圖，還是還是要求？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why many people can keep them longer.",
-            "zh": "也正因如此，很多人才更有可能把它們維持久一點。"
+            "en": "It can be either. Pair it with \"even on hard days, I will come back to this\" — then it becomes an intention with staying power.",
+            "zh": "都可以。再加上「就算是難的日子，我還是會回來」——這樣就成了一個有持久力的意圖。"
           }
         ]
       },
       {
-        "title": "Part 4 — How to Keep an Intention Alive",
+        "title": "Part 4 — Trying It in a Real Situation",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How do you stop an intention from becoming just a nice sentence?",
-            "zh": "那要怎麼避免一個意圖最後只剩下好聽的一句話？"
+            "en": "Let me try. I want to study English more regularly. How do I make that an intention?",
+            "zh": "讓我試試。我想更規律地學英文。我要怎麼把這個變成意圖？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You connect it to one repeatable action. The intention gives meaning, and the action gives structure.",
-            "zh": "你要把它接到一個可重複的動作上。意圖提供的是意義，動作提供的是結構。",
-            "vocab": [
-              {
-                "word": "repeatable action",
-                "def": "可以一再做、不只是一時衝動的行動"
-              }
-            ]
+            "en": "First, ask: what do you really want from studying? Not the goal itself — the feeling or the outcome underneath it.",
+            "zh": "首先，問自己：你學英文真正想要的是什麼？不是目標本身，而是它底下的那個感受或結果。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So both are needed.",
-            "zh": "所以這兩個都需要。"
+            "en": "I want to feel less nervous when I speak at work. More confident.",
+            "zh": "我想在工作上說話的時候沒那麼緊張。更有自信。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. If I want more calm, maybe my repeatable action is ten quiet minutes before bed.",
-            "zh": "對。如果我想要更多平靜，也許那個可重複的動作就是睡前十分鐘安靜時間。"
+            "en": "Good. So your intention might be: \"I want to build confidence in how I express myself at work.\" Now that intention can include this podcast, reading emails aloud, or practicing one phrase per day.",
+            "zh": "很好。那你的意圖可以是：「我想建立在工作中表達自己的自信。」這個意圖就可以包含這個播客、大聲讀電子郵件，或每天練習一句話。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the intention visible.",
-            "zh": "這樣意圖就變得看得見了。"
+            "en": "And none of those feel like a punishment.",
+            "zh": "而且這些都不像懲罰。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good intention should appear in the calendar somewhere, not only in your head.",
-            "zh": "沒錯。好的意圖應該在行程裡某個地方看得到，而不只是留在腦中。",
-            "vocab": [
-              {
-                "word": "calendar somewhere",
-                "def": "好的意圖應該在行程裡某個地方看得到"
-              }
-            ]
+            "en": "That is the point. A good intention should stretch you a little, but not make you dread waking up.",
+            "zh": "這就是重點。好的意圖應該把你往前拉一點，但不該讓你害怕早上起床。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a practical standard.",
-            "zh": "這是一個很實際的標準。"
+            "en": "Pressure says prove yourself. Intention says practice this.",
+            "zh": "壓力是在說「證明你自己」。意圖是在說「把這件事練進生活裡」。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It needs to be practical, or it will disappear when life gets noisy.",
-            "zh": "它本來就得很實際，不然生活一吵，它就不見了。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What a Good Intention Feels Like",
-        "lines": [
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "What should a good intention feel like?",
-            "zh": "一個好的意圖，感覺上應該像什麼？"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Clear, kind, and steady. It should stretch you a little, but not scare you all the time.",
-            "zh": "它應該是清楚、溫和、穩的。它會稍微拉你一下，但不會一直把你嚇住。",
-            "vocab": [
-              {
-                "word": "stretch you a little",
-                "def": "讓你成長一點，但不至於太勉強"
-              }
-            ]
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "So if an intention only creates dread, it probably needs work.",
-            "zh": "所以如果一個意圖只帶來害怕，那它可能就還需要調整。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Yes. A useful intention gives courage and guidance at the same time.",
-            "zh": "對。好用的意圖會同時給你勇氣和方向。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I think I understand the difference now. Pressure says \"prove yourself.\" Intention says \"practice this.\"",
-            "zh": "我覺得我現在懂差別了。壓力是在說「證明你自己」，意圖是在說「把這件事練進生活裡」。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "That is beautifully said.",
-            "zh": "你這句說得很好。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "Then maybe I know what my first intention should be.",
-            "zh": "那我可能知道我的第一個意圖該是什麼了。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Good. Start there, and let it become real slowly.",
-            "zh": "很好。就從那裡開始，然後讓它慢慢變真。"
+            "en": "Exactly right. And the second one has a much better chance of making it to February.",
+            "zh": "完全正確。而第二種活到二月的機會大得多。"
           }
         ]
       }
@@ -788,13 +603,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the brain likes markers. A clear boundary helps people separate the old attempt from the new one.",
-            "zh": "因為大腦喜歡有標記的界線。當一個分界點夠清楚時，人比較容易把舊的嘗試和新的嘗試分開。",
-            "vocab": [
-              {
-                "word": "marker",
-                "def": "讓人感覺「從這裡重新開始」的明顯記號"
-              }
-            ]
+            "zh": "因為大腦喜歡有標記的界線。當一個分界點夠清楚時，人比較容易把舊的嘗試和新的嘗試分開。"
           },
           {
             "speaker": "b",
@@ -806,13 +615,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. It gives people a cleaner story about what comes next.",
-            "zh": "沒錯。它會讓人對下一步有一個比較乾淨的敘事。",
-            "vocab": [
-              {
-                "word": "cleaner story",
-                "def": "心裡有多一點空間去重新整理和決定"
-              }
-            ]
+            "zh": "沒錯。它會讓人對下一步有一個比較乾淨的敘事。"
           },
           {
             "speaker": "b",
@@ -824,13 +627,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Those actions look small, but they tell the mind that a new pattern is allowed now.",
-            "zh": "對。那些動作看起來很小，但它們會對心說：現在可以開始新的模式了。",
-            "vocab": [
-              {
-                "word": "new pattern",
-                "def": "一種新的做事方式或生活節奏"
-              }
-            ]
+            "zh": "對。那些動作看起來很小，但它們會對心說：現在可以開始新的模式了。"
           },
           {
             "speaker": "b",
@@ -859,13 +656,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the feeling is not enough by itself. The emotional lift is real, but it fades unless a system catches it.",
-            "zh": "因為那個感覺本身不夠。情緒上的提振是真的，但如果沒有系統接住它，它就會退掉。",
-            "vocab": [
-              {
-                "word": "emotional lift",
-                "def": "剛開始時那種被提起來、想動起來的感覺"
-              }
-            ]
+            "zh": "因為那個感覺本身不夠。情緒上的提振是真的，但如果沒有系統接住它，它就會退掉。"
           },
           {
             "speaker": "b",
@@ -877,13 +668,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A new mood can open the door, but a routine is what keeps it open.",
-            "zh": "沒錯。新的心情可以把門打開，但真正讓門維持打開的是日常。",
-            "vocab": [
-              {
-                "word": "keeps it open",
-                "def": "新的心情可以把門打開"
-              }
-            ]
+            "zh": "沒錯。新的心情可以把門打開，但真正讓門維持打開的是日常。"
           },
           {
             "speaker": "b",
@@ -895,13 +680,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Also, people often start too big. They turn a real desire into a performance project.",
-            "zh": "還有一個原因是，很多人一開始做太大，最後把原本真實的渴望做成一個表演型專案。",
-            "vocab": [
-              {
-                "word": "turn a real desire",
-                "def": "還有一個原因是，很多人一開始做太大"
-              }
-            ]
+            "zh": "還有一個原因是，很多人一開始做太大，最後把原本真實的渴望做成一個表演型專案。"
           },
           {
             "speaker": "b",
@@ -930,13 +709,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way to say it is, \"I needed a better way to begin.\" That is simple and useful.",
-            "zh": "你可以說：「I needed a better way to begin.」這句很簡單，也很好用。",
-            "vocab": [
-              {
-                "word": "better way to begin",
-                "def": "一種比以前更適合自己的開始方式"
-              }
-            ]
+            "zh": "你可以說：「I needed a better way to begin.」這句很簡單，也很好用。"
           },
           {
             "speaker": "b",
@@ -948,13 +721,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"This time I want something I can return to.\" That is helpful when you are choosing sustainability over drama.",
-            "zh": "另一句也很好用：「This time I want something I can return to.」如果你想選擇可持續，而不是戲劇化，這句很適合。",
-            "vocab": [
-              {
-                "word": "want something",
-                "def": "就算中斷了，也回得去的做法"
-              }
-            ]
+            "zh": "另一句也很好用：「This time I want something I can return to.」如果你想選擇可持續，而不是戲劇化，這句很適合。"
           },
           {
             "speaker": "b",
@@ -966,13 +733,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple version is, \"I am trying to build trust with myself again.\" That line is especially good after burnout or inconsistency.",
-            "zh": "沒錯。你也可以說：「I am trying to build trust with myself again.」如果你之前有 burnout 或很不穩，這句特別有用。",
-            "vocab": [
-              {
-                "word": "build trust with myself",
-                "def": "重新建立對自己的信任感"
-              }
-            ]
+            "zh": "沒錯。你也可以說：「I am trying to build trust with myself again.」如果你之前有 burnout 或很不穩，這句特別有用。"
           },
           {
             "speaker": "b",
@@ -1001,13 +762,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Reducing friction. Put the book on the table, prepare the clothes, or make the first step easier to reach.",
-            "zh": "降低摩擦。把書放到桌上、把衣服先準備好，或讓第一步比較容易碰得到。",
-            "vocab": [
-              {
-                "word": "Reducing friction",
-                "def": "降低摩擦"
-              }
-            ]
+            "zh": "降低摩擦。把書放到桌上、把衣服先準備好，或讓第一步比較容易碰得到。"
           },
           {
             "speaker": "b",
@@ -1019,13 +774,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. Good setup protects weak moments.",
-            "zh": "很多時候確實如此。好的設定會保護你那些比較弱的時刻。",
-            "vocab": [
-              {
-                "word": "setup protects weak",
-                "def": "能幫助自己自然去做對的事的事前安排"
-              }
-            ]
+            "zh": "很多時候確實如此。好的設定會保護你那些比較弱的時刻。"
           },
           {
             "speaker": "b",
@@ -1049,13 +798,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And a more useful one too. Return is what builds reliability.",
-            "zh": "而且也更有用。真正建立可靠感的，是你有沒有再回來。",
-            "vocab": [
-              {
-                "word": "builds reliability",
-                "def": "而且也更有用"
-              }
-            ]
+            "zh": "而且也更有用。真正建立可靠感的，是你有沒有再回來。"
           }
         ]
       },
@@ -1077,8 +820,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds a lot less exciting than the usual version.",
-            "zh": "這聽起來比一般想像中的那種版本不那麼刺激。"
+            "en": "I can see how that would hold up better over time.",
+            "zh": "我能理解這種方式為什麼更撐得住。"
           },
           {
             "speaker": "a",
@@ -1101,13 +844,13 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a good principle for almost anything.",
-            "zh": "這感覺幾乎可以拿去用在很多事情上。"
+            "en": "That principle works across a lot of different areas.",
+            "zh": "這個原則真的可以用在很多不同的地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how I see it too. Starting again is a skill, and skills grow through practice.",
+            "en": "That's how I see it too. Starting again is a skill, and skills grow through practice.",
             "zh": "我也是這樣看的。重新開始本身就是一種能力，而能力會在練習裡慢慢長出來。"
           }
         ]
@@ -1177,13 +920,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often it is not one thing. It might be an old plan, an old version of themselves, or a way of measuring worth that no longer helps.",
-            "zh": "很多時候不是單一一件事。可能是舊計畫、舊的自己，或一種已經不再有幫助的自我衡量方式。",
-            "vocab": [
-              {
-                "word": "old version",
-                "def": "可能是舊計畫、舊的自己"
-              }
-            ]
+            "zh": "很多時候不是單一一件事。可能是舊計畫、舊的自己，或一種已經不再有幫助的自我衡量方式。"
           },
           {
             "speaker": "b",
@@ -1195,13 +932,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Sometimes you are dropping a habit, but sometimes you are dropping a story.",
-            "zh": "沒錯。有時候你放下的是一個習慣，有時候你放下的是一個故事。",
-            "vocab": [
-              {
-                "word": "dropping a habit",
-                "def": "停止相信一個一直限制自己的舊敘事"
-              }
-            ]
+            "zh": "沒錯。有時候你放下的是一個習慣，有時候你放下的是一個故事。"
           },
           {
             "speaker": "b",
@@ -1213,13 +944,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually is, because the old thing may still feel familiar even when it does not help anymore.",
-            "zh": "通常真的比較難，因為舊的東西就算已經沒幫助了，還是可能讓人覺得很熟悉。",
-            "vocab": [
-              {
-                "word": "feel familiar",
-                "def": "人覺得很熟悉"
-              }
-            ]
+            "zh": "通常真的比較難，因為舊的東西就算已經沒幫助了，還是可能讓人覺得很熟悉。"
           },
           {
             "speaker": "b",
@@ -1248,13 +973,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would ask two questions: Does this still support my real life? And does it help me become more honest or more trapped?",
-            "zh": "我會問兩個問題：這個東西現在還有在支持我的真實生活嗎？它讓我變得更誠實，還是更被困住？",
-            "vocab": [
-              {
-                "word": "support my real life",
-                "def": "而不是只剩習慣性存在"
-              }
-            ]
+            "zh": "我會問兩個問題：這個東西現在還有在支持我的真實生活嗎？它讓我變得更誠實，還是更被困住？"
           },
           {
             "speaker": "b",
@@ -1266,13 +985,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It helps because some things look useful from the outside but keep you stuck on the inside.",
-            "zh": "它很有用，因為有些東西從外面看很有用，但在裡面其實一直把你卡住。",
-            "vocab": [
-              {
-                "word": "stuck on the inside",
-                "def": "外表正常，內心卻一直走不出去"
-              }
-            ]
+            "zh": "它很有用，因為有些東西從外面看很有用，但在裡面其實一直把你卡住。"
           },
           {
             "speaker": "b",
@@ -1313,13 +1026,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural sentence is: \"I am trying to move on without pretending it was easy.\" That sounds honest and human.",
-            "zh": "一個很自然的句子是：「I am trying to move on without pretending it was easy.」這句很誠實，也很有人味。",
-            "vocab": [
-              {
-                "word": "trying to move",
-                "def": "往前走，不再一直卡在原地"
-              }
-            ]
+            "zh": "一個很自然的句子是：「I am trying to move on without pretending it was easy.」這句很誠實，也很有人味。"
           },
           {
             "speaker": "b",
@@ -1331,13 +1038,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I want to keep the lesson, but not the weight.\" That is good when you learned something but do not want to keep carrying the pain in the same way.",
-            "zh": "另一句也很好用，就是「我想把學到的留下來，但不要再背著同樣的重量。」如果你有學到東西，但不想再用同樣方式一直背著那個痛，這句很適合。",
-            "vocab": [
-              {
-                "word": "keep the lesson",
-                "def": "但不要再背著同樣的重量。"
-              }
-            ]
+            "zh": "另一句也很好用，就是「我想把學到的留下來，但不要再背著同樣的重量。」如果你有學到東西，但不想再用同樣方式一直背著那個痛，這句很適合。"
           },
           {
             "speaker": "b",
@@ -1349,13 +1050,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"I am making room for what fits better.\" That works when you want to sound hopeful, not bitter.",
-            "zh": "你也可以說：「I am making room for what fits better.」如果你想讓語氣比較有希望，而不是比較苦，這句很好用。",
-            "vocab": [
-              {
-                "word": "like this",
-                "def": "而不是比較苦"
-              }
-            ]
+            "zh": "你也可以說：「I am making room for what fits better.」如果你想讓語氣比較有希望，而不是比較苦，這句很好用。"
           },
           {
             "speaker": "b",
@@ -1384,13 +1079,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Do one visible act. Put the notes away, unfollow the account, clear the shelf, or stop opening the old conversation every night.",
-            "zh": "做一個看得見的動作。把那些筆記收起來、取消追蹤那個帳號、清掉架子，或不要再每晚打開那個舊對話。",
-            "vocab": [
-              {
-                "word": "visible act",
-                "def": "做一個看得見的動作"
-              }
-            ]
+            "zh": "做一個看得見的動作。把那些筆記收起來、取消追蹤那個帳號、清掉架子，或不要再每晚打開那個舊對話。"
           },
           {
             "speaker": "b",
@@ -1402,13 +1091,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Repetition builds attachment, so changing one repeated action can loosen the old hold.",
-            "zh": "沒錯。重複會建立依附，所以只要改掉一個一直重複的動作，就可能開始鬆開舊的抓力。",
-            "vocab": [
-              {
-                "word": "builds attachment",
-                "def": "重複會建立依附"
-              }
-            ]
+            "zh": "沒錯。重複會建立依附，所以只要改掉一個一直重複的動作，就可能開始鬆開舊的抓力。"
           },
           {
             "speaker": "b",
@@ -1449,13 +1132,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually, more space, more truth, and more energy for what actually belongs to you now.",
-            "zh": "通常會有更多空間、更多真實，還有更多力氣留給現在真正屬於你的東西。",
-            "vocab": [
-              {
-                "word": "belongs to you now",
-                "def": "通常會有更多空間、更多真實"
-              }
-            ]
+            "zh": "通常會有更多空間、更多真實，還有更多力氣留給現在真正屬於你的東西。"
           },
           {
             "speaker": "b",
@@ -1527,7 +1204,7 @@ export const WEEK_01: Episode[] = [
       {
         "en": "support my real life",
         "zh": "真的有在幫助現在的生活，而不是只剩習慣性存在",
-        "example": "She kept asking whether the plan still support her real life."
+        "example": "She kept asking whether the plan still supports her real life."
       },
       {
         "en": "move on",

@@ -1,0 +1,12 @@
+Episode closing dupes: 10 duplicate groups
+Effective duplicate groups after whitelist: 10
+- "Then we can stop there." -> W37D5, W39D2, W40D7
+- "Let us end on that note." -> W34D6, W36D7
+- "Let us keep it, then." -> W34D2, W52D7
+- "So am I." -> W38D7, W39D7
+- "That feels true for me too." -> W36D1, W51D1
+- "That lands the same way for me." -> W33D2, W52D6
+- "That rings true for me as well." -> W32D3, W52D2
+- "That sounds like a good start." -> W32D2, W39D3
+- "Then we can stop here." -> W39D1, W39D5
+- "Then we should end there." -> W33D7, W36D6

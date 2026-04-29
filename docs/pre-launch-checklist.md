@@ -2,6 +2,22 @@
 > 建立日期：2026-03-27
 > 每項必須親自測試確認，打勾才算完成
 
+> 2026-04-23 current scope notice:
+> This checklist contains historical article-era items. For the current launch
+> content scope and sign-off criteria, use
+> [product-content-scope.md](./product-content-scope.md) and
+> [launch-content-quality-signoff.md](./launch-content-quality-signoff.md).
+> Current launch content is episodes, questions, and flashcards. Articles are
+> legacy archive content and are not seeded, fetched, or counted as launch
+> product content.
+
+> 2026-04-21 補充：
+> 本文件負責一般上線流程與產品檢查。
+> 若是「最後一輪內容修復」的優先序、驗證方式、交付證據與完成標準，
+> 一律以 [final-prelaunch-remediation-master.md](./final-prelaunch-remediation-master.md) 與
+> [final-prelaunch-execution-guide.md](./final-prelaunch-execution-guide.md) 為準。
+> 本文件中較早的內容完成紀錄，不得覆蓋那兩份文件的最新判定。
+
 ---
 
 ## 🔴 P0 — 上架前必須完成（封鎖上架）

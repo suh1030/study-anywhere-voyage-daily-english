@@ -21,14 +21,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. A reflection arc often appears backward, not in the middle of the confusion itself.",
-            "zh": "這是真的。所謂反思弧線，常常是在回頭看的時候才出現，不是在混亂當中就立刻看得見。",
-            "vocab": [
-              {
-                "word": "reflection arc",
-                "def": "所謂反思弧線"
-              }
-            ]
+            "en": "That is true. You often understand a year better when you look back, not while you are still inside the confusion.",
+            "zh": "這是真的。很多時候，要等你回頭看，才會比較看得懂那一年，不是在混亂當中就立刻看得見。"
           },
           {
             "speaker": "b",
@@ -39,14 +33,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A completed circle feels surprising because the beginning often looked nothing like the ending.",
-            "zh": "完全沒錯。所謂走完一個圓之所以讓人驚訝，是因為開頭常常和結尾看起來完全不像。",
-            "vocab": [
-              {
-                "word": "completed circle",
-                "def": "某段經歷走到後來"
-              }
-            ]
+            "en": "Exactly. When things come full circle, it can feel surprising because the beginning often looked nothing like the end.",
+            "zh": "完全沒錯。當事情繞一圈又接回來時，常常會讓人驚訝，因為開頭和結尾看起來完全不像。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The turning point is usually quieter than people imagine. It often looks ordinary at the time.",
-            "zh": "對。轉折點通常比大家想像的安靜很多，當下看起來甚至很普通。",
-            "vocab": [
-              {
-                "word": "turning point",
-                "def": "事後回頭才發現其實改變方向的關鍵時刻"
-              }
-            ]
+            "zh": "對。轉折點通常比大家想像的安靜很多，當下看起來甚至很普通。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because lived experience is noisy. Reflection needs a little distance from survival mode.",
-            "zh": "因為活在裡面的經驗很吵。反思通常需要稍微離開生存模式一點。",
-            "vocab": [
-              {
-                "word": "lived experience",
-                "def": "活在裡面的經驗很吵"
-              }
-            ]
+            "zh": "因為活在裡面的經驗很吵。反思通常需要稍微離開生存模式一點。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Perspective delay happens when understanding arrives later than the event itself.",
-            "zh": "完全沒錯。視角延遲，就是理解總是在事情發生之後才慢慢跟上。",
-            "vocab": [
-              {
-                "word": "perspective delay",
-                "def": "事情早就發生了"
-              }
-            ]
+            "zh": "完全沒錯。視角延遲，就是理解總是在事情發生之後才慢慢跟上。"
           },
           {
             "speaker": "b",
@@ -129,13 +99,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is comforting because it means confusion is not always failure. Sometimes it is just unfinished meaning.",
-            "zh": "它會讓人安慰，是因為它提醒你：混亂不一定是失敗，有時候只是意義還沒完成。",
-            "vocab": [
-              {
-                "word": "unfinished meaning",
-                "def": "顯出意義"
-              }
-            ]
+            "zh": "它會讓人安慰，是因為它提醒你：混亂不一定是失敗，有時候只是意義還沒完成。"
           },
           {
             "speaker": "b",
@@ -164,13 +128,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also go with \"It only became clear to me after I had some distance from it.\"",
-            "zh": "你可以說：「It only became clear to me after I had some distance from it.」",
-            "vocab": [
-              {
-                "word": "some distance",
-                "def": "事情過後回頭看，才終於清楚起來的理解"
-              }
-            ]
+            "zh": "你可以說：「It only became clear to me after I had some distance from it.」"
           },
           {
             "speaker": "b",
@@ -182,8 +140,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I understand that period differently now than I did while I was inside it.\"",
-            "zh": "另一句也很好用：「I understand that period differently now than I did while I was inside it.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I understand that period differently now than I did while I was inside it.」"
           },
           {
             "speaker": "b",
@@ -194,14 +151,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to keep it simple, \"I could not see it then, but I can see it now.\" works well.",
-            "zh": "如果你想講得更簡單，也可以說：「I could not see it then, but I can see it now.」",
-            "vocab": [
-              {
-                "word": "well",
-                "def": "人看見整體意義的那條線"
-              }
-            ]
+            "en": "When you need to keep it simple, \"I could not see it then, but I can see it now.\" works well.",
+            "zh": "如果你想講得更簡單，也可以說：「I could not see it then, but I can see it now.」"
           },
           {
             "speaker": "b",
@@ -242,8 +193,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Retrospective clarity matters when it helps a person live the next season with more honesty.",
-            "zh": "完全沒錯。事後清楚感很重要，是因為它能幫一個人更誠實地活進下一個階段。",
-            "vocab": []
+            "zh": "完全沒錯。事後清楚感很重要，是因為它能幫一個人更誠實地活進下一個階段。"
           },
           {
             "speaker": "b",
@@ -296,8 +246,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A meaning thread matters because it lets the past become guidance instead of background noise.",
-            "zh": "意義線很重要，因為它會讓過去變成指引，而不是背景雜音。",
-            "vocab": []
+            "zh": "意義線很重要，因為它會讓過去變成指引，而不是背景雜音。"
           },
           {
             "speaker": "b",
@@ -328,14 +277,14 @@ export const WEEK_43: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "reflection arc",
-        "zh": "回頭看時，才慢慢看清楚一段經歷整體意義的脈絡",
-        "example": "The reflection arc only appeared later."
+        "en": "looking back",
+        "zh": "回頭看時，才慢慢看清楚一段經歷",
+        "example": "Looking back helped her understand that season better."
       },
       {
-        "en": "completed circle",
-        "zh": "某段經歷走到後來，終於能把前後意義連起來的感覺",
-        "example": "It felt like a completed circle."
+        "en": "come full circle",
+        "zh": "事情繞了一圈，最後又在新的位置重新接上",
+        "example": "Their story seemed to come full circle."
       },
       {
         "en": "turning point",
@@ -390,13 +339,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often a sign of real growth. Personal distance makes the old version of you visible again.",
-            "zh": "那常常就是一種真實成長的證據。個人距離感，會讓以前那個自己重新變得看得見。",
-            "vocab": [
-              {
-                "word": "personal distance",
-                "def": "隔了一段時間後"
-              }
-            ]
+            "zh": "那常常就是一種真實成長的證據。個人距離感，會讓以前那個自己重新變得看得見。"
           },
           {
             "speaker": "b",
@@ -408,13 +351,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Quiet change is still change, even if nobody applauded when it was happening.",
-            "zh": "完全沒錯。安靜的改變一樣是改變，就算它發生時沒有人替你鼓掌。",
-            "vocab": [
-              {
-                "word": "quiet change",
-                "def": "安靜的改變一樣是改變"
-              }
-            ]
+            "zh": "完全沒錯。安靜的改變一樣是改變，就算它發生時沒有人替你鼓掌。"
           },
           {
             "speaker": "b",
@@ -426,13 +363,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You should. Identity stretch often happens in boring weeks, not only in dramatic breakthroughs.",
-            "zh": "你本來就該尊重。身份伸展很多時候是在那些普通到有點無聊的星期裡發生，不只是在大突破裡。",
-            "vocab": [
-              {
-                "word": "identity stretch",
-                "def": "不只是在大突破裡。"
-              }
-            ]
+            "zh": "你本來就該尊重。身份伸展很多時候是在那些普通到有點無聊的星期裡發生，不只是在大突破裡。"
           },
           {
             "speaker": "b",
@@ -461,13 +392,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because inner updates arrive gradually. You are busy living them before you are able to name them.",
-            "zh": "因為內在更新是慢慢到的。你通常先忙著活過它們，之後才有辦法命名。",
-            "vocab": [
-              {
-                "word": "inner update",
-                "def": "不是外在大事件"
-              }
-            ]
+            "zh": "因為內在更新是慢慢到的。你通常先忙著活過它們，之後才有辦法命名。"
           },
           {
             "speaker": "b",
@@ -479,13 +404,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Growth blindness happens when people only count dramatic outcomes and ignore changed reactions.",
-            "zh": "完全沒錯。成長盲點常常發生在：人只計算戲劇性結果，卻忽略了自己已經改變的反應方式。",
-            "vocab": [
-              {
-                "word": "growth blindness",
-                "def": "明明已經變了"
-              }
-            ]
+            "zh": "完全沒錯。成長盲點常常發生在：人只計算戲劇性結果，卻忽略了自己已經改變的反應方式。"
           },
           {
             "speaker": "b",
@@ -497,13 +416,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A better metric is often emotional. What no longer hooks you? What no longer scares you in the same way?",
-            "zh": "更好的衡量方式很多時候是情緒性的：什麼東西現在不再那麼勾你？什麼東西不再用同樣方式嚇到你？",
-            "vocab": [
-              {
-                "word": "metric",
-                "def": "指標"
-              }
-            ]
+            "zh": "更好的衡量方式很多時候是情緒性的：什麼東西現在不再那麼勾你？什麼東西不再用同樣方式嚇到你？"
           },
           {
             "speaker": "b",
@@ -532,8 +445,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clean way to say it is, \"I do not always notice it day to day, but I can see that I respond differently now.\"",
-            "zh": "你可以說：「I do not always notice it day to day, but I can see that I respond differently now.」",
-            "vocab": []
+            "zh": "你可以說：「I do not always notice it day to day, but I can see that I respond differently now.」"
           },
           {
             "speaker": "b",
@@ -545,13 +457,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version would be \"The old version of me would not have handled this in the same way.\"",
-            "zh": "另一句也很好用：「The old version of me would not have handled this in the same way.」",
-            "vocab": [
-              {
-                "word": "old version",
-                "def": "能被自己辨認出的過去那個自己"
-              }
-            ]
+            "zh": "另一句也很好用：「The old version of me would not have handled this in the same way.」"
           },
           {
             "speaker": "b",
@@ -563,8 +469,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An easier everyday line would be, \"I think I have grown more quietly than I knew.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I think I have grown more quietly than I knew.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I think I have grown more quietly than I knew.」"
           },
           {
             "speaker": "b",
@@ -605,13 +510,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Self-recognition matters because people need evidence of change that is personal, not borrowed.",
-            "zh": "完全沒錯。自我辨認很重要，因為人需要的是屬於自己的改變證據，不是借來的標準。",
-            "vocab": [
-              {
-                "word": "self-recognition",
-                "def": "不是借來的標準"
-              }
-            ]
+            "zh": "完全沒錯。自我辨認很重要，因為人需要的是屬於自己的改變證據，不是借來的標準。"
           },
           {
             "speaker": "b",
@@ -664,8 +563,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Self-recognition matters because people become stronger when their own inner evidence is finally allowed to count.",
-            "zh": "自我辨認很重要，因為當一個人終於允許自己的內在證據算數時，他就會變得更有力量。",
-            "vocab": []
+            "zh": "自我辨認很重要，因為當一個人終於允許自己的內在證據算數時，他就會變得更有力量。"
           },
           {
             "speaker": "b",
@@ -758,13 +656,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true. Hard-earned wisdom usually arrives with a cost, which is why people value it so differently from easy advice.",
-            "zh": "這是真的。辛苦換來的智慧通常都帶著代價，所以它和輕鬆得到的建議，重量真的不一樣。",
-            "vocab": [
-              {
-                "word": "hard-earned wisdom",
-                "def": "不是聽來的"
-              }
-            ]
+            "zh": "這是真的。辛苦換來的智慧通常都帶著代價，所以它和輕鬆得到的建議，重量真的不一樣。"
           },
           {
             "speaker": "b",
@@ -776,13 +668,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Survival learning leaves marks. It teaches through repetition, fear, and adaptation.",
-            "zh": "完全沒錯。生存式學習會留下痕跡。它是透過重複、害怕和調整來教你的。",
-            "vocab": [
-              {
-                "word": "survival learning",
-                "def": "的理解和能力"
-              }
-            ]
+            "zh": "完全沒錯。生存式學習會留下痕跡。它是透過重複、害怕和調整來教你的。"
           },
           {
             "speaker": "b",
@@ -794,13 +680,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. They do not live only in memory. They change reflex, patience, and what you notice first.",
-            "zh": "對。它們不只是活在記憶裡，還會改變你的反射、耐心，以及你最先注意到什麼。",
-            "vocab": [
-              {
-                "word": "memory",
-                "def": "還會改變你的反射、耐心"
-              }
-            ]
+            "zh": "對。它們不只是活在記憶裡，還會改變你的反射、耐心，以及你最先注意到什麼。"
           },
           {
             "speaker": "b",
@@ -829,13 +709,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they are linked to consequence. Pain creates emotional memory whether we want it to or not.",
-            "zh": "因為它們和後果是綁在一起的。痛會創造情緒記憶，不管我們想不想。",
-            "vocab": [
-              {
-                "word": "emotional memory",
-                "def": "情緒記憶"
-              }
-            ]
+            "zh": "因為它們和後果是綁在一起的。痛會創造情緒記憶，不管我們想不想。"
           },
           {
             "speaker": "b",
@@ -847,13 +721,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Pressure wisdom is often clearer than comfortable theory because the stakes forced attention.",
-            "zh": "完全沒錯。壓力中的智慧常常比舒適狀態下的理論更清楚，因為代價逼出了真正的注意力。",
-            "vocab": [
-              {
-                "word": "pressure wisdom",
-                "def": "代價逼出了真正的注意力"
-              }
-            ]
+            "zh": "完全沒錯。壓力中的智慧常常比舒適狀態下的理論更清楚，因為代價逼出了真正的注意力。"
           },
           {
             "speaker": "b",
@@ -865,13 +733,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many people can. The hard part later is not learning the lesson. It is carrying it without letting it harden the whole self.",
-            "zh": "很多人都能。後來真正難的不是學到那個教訓，而是帶著它往前走時，不讓整個自己都變硬。",
-            "vocab": [
-              {
-                "word": "whole self",
-                "def": "不只工作角色，而是包含全部生活的自己"
-              }
-            ]
+            "zh": "很多人都能。後來真正難的不是學到那個教訓，而是帶著它往前走時，不讓整個自己都變硬。"
           },
           {
             "speaker": "b",
@@ -900,13 +762,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"That period taught me more about myself than I understood at the time.\"",
-            "zh": "你可以說：「That period taught me more about myself than I understood at the time.」",
-            "vocab": [
-              {
-                "word": "period taught",
-                "def": "那段時期教會我的事"
-              }
-            ]
+            "zh": "你可以說：「That period taught me more about myself than I understood at the time.」"
           },
           {
             "speaker": "b",
@@ -918,8 +774,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might also say, \"I would not choose that experience again, but I cannot deny what it taught me.\"",
-            "zh": "另一句也很好用：「I would not choose that experience again, but I cannot deny what it taught me.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I would not choose that experience again, but I cannot deny what it taught me.」"
           },
           {
             "speaker": "b",
@@ -931,8 +786,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you want something simpler, you can use \"It changed me in ways I only understood later.\"",
-            "zh": "如果你想講得更簡單，也可以說：「It changed me in ways I only understood later.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「It changed me in ways I only understood later.」"
           },
           {
             "speaker": "b",
@@ -949,7 +803,7 @@ export const WEEK_43: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Carrying the Lesson Without Worshipping the Pain",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -973,8 +827,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Recovered strength matters because the goal is not to admire the wound. It is to notice what was built around it.",
-            "zh": "完全沒錯。修復後的力量很重要，因為目標不是崇拜那道傷，而是看見傷的周圍到底長出了什麼。",
-            "vocab": []
+            "zh": "完全沒錯。修復後的力量很重要，因為目標不是崇拜那道傷，而是看見傷的周圍到底長出了什麼。"
           },
           {
             "speaker": "b",
@@ -986,13 +839,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It helps people keep their dignity without pretending the past was good simply because it was formative.",
-            "zh": "這會幫人保住尊嚴，同時又不需要假裝：只因為過去很有形成性，它就一定是好的。",
-            "vocab": [
-              {
-                "word": "formative",
-                "def": "這會幫人保住尊嚴"
-              }
-            ]
+            "zh": "這會幫人保住尊嚴，同時又不需要假裝：只因為過去很有形成性，它就一定是好的。"
           },
           {
             "speaker": "b",
@@ -1005,12 +852,7 @@ export const WEEK_43: Episode[] = [
             "speakerName": "Mira",
             "en": "I think it is.",
             "zh": "我也覺得是。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Letting the Hard Years Become Wisdom",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1033,8 +875,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A delayed lesson matters because many people only become gentle once they understand what hardship actually gave them.",
-            "zh": "延後抵達的教訓很重要，因為很多人是在真正懂得那些艱難經驗到底給了自己什麼之後，才慢慢變得溫柔。",
-            "vocab": []
+            "zh": "延後抵達的教訓很重要，因為很多人是在真正懂得那些艱難經驗到底給了自己什麼之後，才慢慢變得溫柔。"
           },
           {
             "speaker": "b",
@@ -1057,7 +898,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very healthy place to land.",
+            "en": "That's a very healthy place to land.",
             "zh": "那真的是一個很健康的落點。"
           }
         ]
@@ -1070,9 +911,9 @@ export const WEEK_43: Episode[] = [
         "example": "Hard-earned wisdom changed how she chose."
       },
       {
-        "en": "survival learning",
-        "zh": "在艱難時期為了撐下去而被迫學會的理解和能力",
-        "example": "Survival learning left deep marks."
+        "en": "hard lessons",
+        "zh": "在艱難時期逼自己學會的現實教訓",
+        "example": "The hard lessons from that year stayed with her."
       },
       {
         "en": "scar lesson",
@@ -1127,13 +968,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because shaping moments are often small in form and huge in effect.",
-            "zh": "那是因為所謂塑形時刻，常常外形很小，效果卻很大。",
-            "vocab": [
-              {
-                "word": "shaping moment",
-                "def": "卻長期影響一個人的關鍵時刻"
-              }
-            ]
+            "zh": "那是因為所謂塑形時刻，常常外形很小，效果卻很大。"
           },
           {
             "speaker": "b",
@@ -1145,13 +980,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A meaningful encounter can quietly rearrange what a person expects from themselves.",
-            "zh": "完全沒錯。一場有意義的相遇，常常會很安靜地重新排列一個人對自己的期待。",
-            "vocab": [
-              {
-                "word": "meaningful encounter",
-                "def": "後來一直保留重要意義"
-              }
-            ]
+            "zh": "完全沒錯。一場有意義的相遇，常常會很安靜地重新排列一個人對自己的期待。"
           },
           {
             "speaker": "b",
@@ -1163,19 +992,13 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually is. A remembered sentence can become a private resource long after the speaker has forgotten saying it.",
-            "zh": "很多時候真的是如此。一句被記住的話，常常會在說的人早就忘了之後，還留在另一個人那裡變成資源。",
-            "vocab": [
-              {
-                "word": "remembered sentence",
-                "def": "一句被記住的話"
-              }
-            ]
+            "zh": "很多時候真的是如此。一句被記住的話，常常會在說的人早就忘了之後，還留在另一個人那裡變成資源。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful thought.",
-            "zh": "這真的是很美的想法。"
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "a",
@@ -1198,13 +1021,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Timing matters. A person can say the right thing, but if you are not ready, it passes by you.",
-            "zh": "時機很重要。有人可以說出很對的話，但如果你還沒準備好，那句話就會直接經過你。",
-            "vocab": [
-              {
-                "word": "Timing matters",
-                "def": "時機很重要"
-              }
-            ]
+            "zh": "時機很重要。有人可以說出很對的話，但如果你還沒準備好，那句話就會直接經過你。"
           },
           {
             "speaker": "b",
@@ -1216,13 +1033,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Relational influence is not only about wisdom. It is also about whether a person feels safe enough to receive it.",
-            "zh": "完全沒錯。關係影響力不只和智慧有關，也和一個人當下是不是覺得安全到能接住有關。",
-            "vocab": [
-              {
-                "word": "relational influence",
-                "def": "某個人透過關係本身"
-              }
-            ]
+            "zh": "完全沒錯。關係影響力不只和智慧有關，也和一個人當下是不是覺得安全到能接住有關。"
           },
           {
             "speaker": "b",
@@ -1234,13 +1045,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Emotional permission matters. People hear differently when they feel seen, not managed.",
-            "zh": "對。情感允許感很重要。當人覺得自己是被看見，而不是被管理時，聽進去的方式就會不同。",
-            "vocab": [
-              {
-                "word": "emotional permission",
-                "def": "情感允許感很重要"
-              }
-            ]
+            "zh": "對。情感允許感很重要。當人覺得自己是被看見，而不是被管理時，聽進去的方式就會不同。"
           },
           {
             "speaker": "b",
@@ -1269,13 +1074,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sentence that works well is \"That person changed the way I think about myself.\"",
-            "zh": "你可以說：「That person changed the way I think about myself.」",
-            "vocab": [
-              {
-                "word": "person changed",
-                "def": "某個人或時刻留下來、長期不消失的影響痕跡"
-              }
-            ]
+            "zh": "你可以說：「That person changed the way I think about myself.」"
           },
           {
             "speaker": "b",
@@ -1287,8 +1086,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"What they said stayed with me long after the moment passed.\"",
-            "zh": "另一句也很好用：「What they said stayed with me long after the moment passed.」",
-            "vocab": []
+            "zh": "另一句也很好用：「What they said stayed with me long after the moment passed.」"
           },
           {
             "speaker": "b",
@@ -1300,8 +1098,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, \"I still carry that conversation with me.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I still carry that conversation with me.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I still carry that conversation with me.」"
           },
           {
             "speaker": "b",
@@ -1342,8 +1139,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A lasting imprint matters because some influences are still active long after the original relationship changed.",
-            "zh": "完全沒錯。長久痕跡很重要，因為有些影響就算原本那段關係早就變了，還是繼續活著。",
-            "vocab": []
+            "zh": "完全沒錯。長久痕跡很重要，因為有些影響就算原本那段關係早就變了，還是繼續活著。"
           },
           {
             "speaker": "b",
@@ -1355,13 +1151,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is wise. Being shaped is inevitable, but being unconscious about it is not.",
-            "zh": "這很有智慧。被塑造是無法避免的，但對這件事完全沒有意識，不是必然。",
-            "vocab": [
-              {
-                "word": "unconscious",
-                "def": "無意識的；在未察覺到的狀態下"
-              }
-            ]
+            "zh": "這很有智慧。被塑造是無法避免的，但對這件事完全沒有意識，不是必然。"
           },
           {
             "speaker": "b",
@@ -1402,8 +1192,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Relational influence matters because we become ourselves partly through other people, but not only through them.",
-            "zh": "關係影響力很重要，因為我們有一部分確實是透過別人慢慢成為自己，但也不只透過別人。",
-            "vocab": []
+            "zh": "關係影響力很重要，因為我們有一部分確實是透過別人慢慢成為自己，但也不只透過別人。"
           },
           {
             "speaker": "b",
@@ -1496,13 +1285,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They often sit in the same room. A mixed feeling is very common when people look back honestly.",
-            "zh": "它們很多時候其實會坐在同一個房間裡。當人誠實地回頭看時，混合感受非常常見。",
-            "vocab": [
-              {
-                "word": "mixed feeling",
-                "def": "混合感受非常常見"
-              }
-            ]
+            "zh": "它們很多時候其實會坐在同一個房間裡。當人誠實地回頭看時，混合感受非常常見。"
           },
           {
             "speaker": "b",
@@ -1514,13 +1297,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Regret can reveal value, and gratitude can coexist with pain.",
-            "zh": "完全沒錯。後悔有時候會揭露價值，而感謝也可以和痛一起存在。",
-            "vocab": [
-              {
-                "word": "gratitude can coexist",
-                "def": "後悔有時候會揭露價值"
-              }
-            ]
+            "zh": "完全沒錯。後悔有時候會揭露價值，而感謝也可以和痛一起存在。"
           },
           {
             "speaker": "b",
@@ -1532,13 +1309,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more humane. Honest reflection does not demand one emotion at a time.",
-            "zh": "它本來就比較有人味。誠實的反思不會要求你一次只能有一種情緒。",
-            "vocab": [
-              {
-                "word": "honest reflection",
-                "def": "不急著美化或簡化"
-              }
-            ]
+            "zh": "它本來就比較有人味。誠實的反思不會要求你一次只能有一種情緒。"
           },
           {
             "speaker": "b",
@@ -1567,13 +1338,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Regret can be an information signal. It shows you what matters enough to hurt.",
-            "zh": "後悔很多時候是一種資訊訊號。它會告訴你，什麼東西重要到足以讓你痛。",
-            "vocab": [
-              {
-                "word": "signal",
-                "def": "暗示底下有更大問題的訊號"
-              }
-            ]
+            "zh": "後悔很多時候是一種資訊訊號。它會告訴你，什麼東西重要到足以讓你痛。"
           },
           {
             "speaker": "b",
@@ -1585,13 +1350,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Gratitude perspective helps because it does not erase regret. It simply widens the frame around it.",
-            "zh": "完全沒錯。感謝視角有幫助，不是因為它把後悔擦掉，而是因為它把後悔放進比較大的框裡。",
-            "vocab": [
-              {
-                "word": "gratitude perspective",
-                "def": "不是否認困難"
-              }
-            ]
+            "zh": "完全沒錯。感謝視角有幫助，不是因為它把後悔擦掉，而是因為它把後悔放進比較大的框裡。"
           },
           {
             "speaker": "b",
@@ -1603,13 +1362,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A wider frame often lets people feel grief and appreciation without forcing either one to disappear.",
-            "zh": "比較大的框，常常會讓人能同時感到失落和感謝，而不用逼任何一種感受消失。",
-            "vocab": [
-              {
-                "word": "wider frame",
-                "def": "把事情放進比較寬的脈絡裡去看"
-              }
-            ]
+            "zh": "比較大的框，常常會讓人能同時感到失落和感謝，而不用逼任何一種感受消失。"
           },
           {
             "speaker": "b",
@@ -1638,8 +1391,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"Part of me regrets it, and part of me is grateful for what it taught me.\"",
-            "zh": "你可以說：「Part of me regrets it, and part of me is grateful for what it taught me.」",
-            "vocab": []
+            "zh": "你可以說：「Part of me regrets it, and part of me is grateful for what it taught me.」"
           },
           {
             "speaker": "b",
@@ -1651,8 +1403,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I would not choose that pain again, but I can still see what came from it.\"",
-            "zh": "另一句也很好用：「I would not choose that pain again, but I can still see what came from it.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I would not choose that pain again, but I can still see what came from it.」"
           },
           {
             "speaker": "b",
@@ -1664,8 +1415,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, \"It was hard, and it still mattered.\"",
-            "zh": "如果你想講得更簡單，也可以說：「It was hard, and it still mattered.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「It was hard, and it still mattered.」"
           },
           {
             "speaker": "b",
@@ -1677,13 +1427,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Simple sentences can hold very complicated truths.",
-            "zh": "很簡單的句子，有時候也能裝下很複雜的真相。",
-            "vocab": [
-              {
-                "word": "complicated truth",
-                "def": "很簡單的句子"
-              }
-            ]
+            "zh": "很簡單的句子，有時候也能裝下很複雜的真相。"
           }
         ]
       },
@@ -1700,13 +1444,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By letting the pain tell the truth first. Gratitude that arrives too early often feels like emotional pressure.",
-            "zh": "要先讓痛把真相說完。太早到的感謝，常常會讓人感覺像情緒壓迫。",
-            "vocab": [
-              {
-                "word": "emotional pressure",
-                "def": "太早到的感謝"
-              }
-            ]
+            "zh": "要先讓痛把真相說完。太早到的感謝，常常會讓人感覺像情緒壓迫。"
           },
           {
             "speaker": "b",
@@ -1718,8 +1456,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Honest reflection matters because people need permission to feel the full shape of experience before summarizing it.",
-            "zh": "完全沒錯。誠實反思很重要，因為人在下結論之前，需要先被允許感受整段經驗完整的形狀。",
-            "vocab": []
+            "zh": "完全沒錯。誠實反思很重要，因為人在下結論之前，需要先被允許感受整段經驗完整的形狀。"
           },
           {
             "speaker": "b",
@@ -1772,8 +1509,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Gratitude perspective matters because it helps people widen the story without lying about the pain inside it.",
-            "zh": "感謝視角很重要，因為它能幫人把故事放大，卻不需要對裡面的痛說謊。",
-            "vocab": []
+            "zh": "感謝視角很重要，因為它能幫人把故事放大，卻不需要對裡面的痛說謊。"
           },
           {
             "speaker": "b",
@@ -1865,14 +1601,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That kind of sentence matters. A release decision often begins before a full plan exists.",
-            "zh": "這種句子很重要。放下決定很多時候是在完整計畫還沒出現前，就先開始了。",
-            "vocab": [
-              {
-                "word": "release decision",
-                "def": "就先開始了"
-              }
-            ]
+            "en": "That kind of sentence matters. Deciding to let go often begins before a full plan exists.",
+            "zh": "這種句子很重要。決定放手很多時候是在完整計畫還沒出現前，就先開始了。"
           },
           {
             "speaker": "b",
@@ -1884,13 +1614,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An outdated pattern can stay alive simply because it is familiar, not because it is still good for you.",
-            "zh": "完全沒錯。一個過時模式之所以會一直活著，常常只是因為它很熟，不是因為它還真的適合你。",
-            "vocab": [
-              {
-                "word": "outdated pattern",
-                "def": "現在卻已經不再適合的舊模式"
-              }
-            ]
+            "zh": "完全沒錯。一個過時模式之所以會一直活著，常常只是因為它很熟，不是因為它還真的適合你。"
           },
           {
             "speaker": "b",
@@ -1902,13 +1626,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is clean because it removes a lot of confusion. Not everything old is sacred.",
-            "zh": "它之所以乾淨，是因為它會拿掉很多混亂。不是所有舊的東西都神聖到不能碰。",
-            "vocab": [
-              {
-                "word": "sacred",
-                "def": "神聖的；不可侵犯的"
-              }
-            ]
+            "zh": "它之所以乾淨，是因為它會拿掉很多混亂。不是所有舊的東西都神聖到不能碰。"
           },
           {
             "speaker": "b",
@@ -1937,13 +1655,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because old coping can feel like part of your survival history. Releasing it can feel like betraying who helped you through.",
-            "zh": "因為舊的應對方式常常會像是你的生存歷史之一部分。放下它，有時候會像是在背叛那個曾經幫你撐過來的人。",
-            "vocab": [
-              {
-                "word": "old coping",
-                "def": "像是你的生存歷史之一部分"
-              }
-            ]
+            "zh": "因為舊的應對方式常常會像是你的生存歷史之一部分。放下它，有時候會像是在背叛那個曾經幫你撐過來的人。"
           },
           {
             "speaker": "b",
@@ -1955,13 +1667,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Lingering loyalty keeps many people tied to pain long after the lesson is learned.",
-            "zh": "完全沒錯。延遲忠誠感會讓很多人就算教訓早就學會了，還是繼續和痛綁在一起。",
-            "vocab": [
-              {
-                "word": "lingering loyalty",
-                "def": "因而很難放下"
-              }
-            ]
+            "zh": "完全沒錯。延遲忠誠感會讓很多人就算教訓早就學會了，還是繼續和痛綁在一起。"
           },
           {
             "speaker": "b",
@@ -1973,13 +1679,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It helps to remember that gratitude and continuation are not the same thing. You can thank something and still stop carrying it.",
-            "zh": "記得一件事會很有幫助：感謝和繼續攜帶，不是同一件事。你可以感謝某樣東西曾經幫助你，然後依然把它放下。",
-            "vocab": [
-              {
-                "word": "gratitude",
-                "def": "感激；感謝"
-              }
-            ]
+            "zh": "記得一件事會很有幫助：感謝和繼續攜帶，不是同一件事。你可以感謝某樣東西曾經幫助你，然後依然把它放下。"
           },
           {
             "speaker": "b",
@@ -2008,8 +1708,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way to say it is, \"I do not think this belongs in the next season of my life anymore.\"",
-            "zh": "你可以說：「I do not think this belongs in the next season of my life anymore.」",
-            "vocab": []
+            "zh": "你可以說：「I do not think this belongs in the next season of my life anymore.」"
           },
           {
             "speaker": "b",
@@ -2021,8 +1720,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clearer option here is \"I am grateful for what this once did for me, but I do not need to keep living inside it.\"",
-            "zh": "另一句也很好用：「I am grateful for what this once did for me, but I do not need to keep living inside it.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I am grateful for what this once did for me, but I do not need to keep living inside it.」"
           },
           {
             "speaker": "b",
@@ -2034,8 +1732,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, \"I am ready to stop carrying this.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I am ready to stop carrying this.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I am ready to stop carrying this.」"
           },
           {
             "speaker": "b",
@@ -2047,13 +1744,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Simple language can make a hard truth easier to live.",
-            "zh": "簡單的語言，常常會讓很難的真相變得比較活得下去。",
-            "vocab": [
-              {
-                "word": "hard truth",
-                "def": "殘酷的事實；令人不舒服但真實的道理"
-              }
-            ]
+            "zh": "簡單的語言，常常會讓很難的真相變得比較活得下去。"
           }
         ]
       },
@@ -2082,8 +1773,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. An outdated pattern does not disappear just because you dislike it. It weakens when the daily conditions that feed it start changing.",
-            "zh": "完全沒錯。過時模式不會只因為你不喜歡它就消失。它會變弱，是因為每天餵養它的條件開始改變了。",
-            "vocab": []
+            "zh": "完全沒錯。過時模式不會只因為你不喜歡它就消失。它會變弱，是因為每天餵養它的條件開始改變了。"
           },
           {
             "speaker": "b",
@@ -2095,13 +1785,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is practical. Emotional clarity gets stronger when life structure starts agreeing with it.",
-            "zh": "它本來就很實際。當生活結構開始和情緒上的清楚感站在同一邊時，那份清楚就會更穩。",
-            "vocab": [
-              {
-                "word": "emotional clarity",
-                "def": "更穩"
-              }
-            ]
+            "zh": "它本來就很實際。當生活結構開始和情緒上的清楚感站在同一邊時，那份清楚就會更穩。"
           },
           {
             "speaker": "b",
@@ -2142,8 +1826,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Identity residue matters because what you leave behind still shapes how much freedom you feel in the next chapter.",
-            "zh": "身份殘留很重要，因為你留下什麼不放，會直接影響你在下一章到底感覺自己有多少自由。",
-            "vocab": []
+            "zh": "身份殘留很重要，因為你留下什麼不放，會直接影響你在下一章到底感覺自己有多少自由。"
           },
           {
             "speaker": "b",
@@ -2174,9 +1857,9 @@ export const WEEK_43: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "release decision",
-        "zh": "一個人開始決定把某種舊模式或舊重量放下的選擇",
-        "example": "The release decision took months to form."
+        "en": "let go",
+        "zh": "真的開始把某件事放下",
+        "example": "Learning to let go took months."
       },
       {
         "en": "outdated pattern",
@@ -2236,13 +1919,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Forward intention gives direction to motion. Otherwise momentum can still be accidental.",
-            "zh": "對。向前意圖會替移動加上方向，不然連動能都可能只是意外。",
-            "vocab": [
-              {
-                "word": "forward intention",
-                "def": "不是只是繼續走"
-              }
-            ]
+            "zh": "對。向前意圖會替移動加上方向，不然連動能都可能只是意外。"
           },
           {
             "speaker": "b",
@@ -2254,13 +1931,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A future posture starts forming the moment a person stops asking only what happened and starts asking what they want to build next.",
-            "zh": "完全沒錯。所謂面向未來的姿態，常常就是從一個人不再只問「發生了什麼」，而開始問「我接下來想建立什麼」時開始形成。",
-            "vocab": [
-              {
-                "word": "future posture",
-                "def": "所謂面向未來的姿態"
-              }
-            ]
+            "zh": "完全沒錯。所謂面向未來的姿態，常常就是從一個人不再只問「發生了什麼」，而開始問「我接下來想建立什麼」時開始形成。"
           },
           {
             "speaker": "b",
@@ -2272,19 +1943,13 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is active, but not rushed. Good intention is quieter than panic.",
-            "zh": "它是主動的，但不是慌張的。好的意圖通常比恐慌更安靜。",
-            "vocab": [
-              {
-                "word": "active",
-                "def": "但不是慌張的"
-              }
-            ]
+            "zh": "它是主動的，但不是慌張的。好的意圖通常比恐慌更安靜。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is already a helpful distinction.",
-            "zh": "這個區分本身就很有幫助。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "a",
@@ -2307,13 +1972,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because reaction is faster than intention. Pressure usually speaks first.",
-            "zh": "因為反應永遠比意圖更快。壓力通常會先說話。",
-            "vocab": [
-              {
-                "word": "reaction",
-                "def": "一忙或一有壓力就自動照舊反應的循環"
-              }
-            ]
+            "zh": "因為反應永遠比意圖更快。壓力通常會先說話。"
           },
           {
             "speaker": "b",
@@ -2325,8 +1984,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A deliberate step often looks small because it has to be strong enough to survive ordinary chaos.",
-            "zh": "完全沒錯。有意識的下一步常常看起來很小，因為它得強到能在普通混亂裡活下來。",
-            "vocab": []
+            "zh": "完全沒錯。有意識的下一步常常看起來很小，因為它得強到能在普通混亂裡活下來。"
           },
           {
             "speaker": "b",
@@ -2338,13 +1996,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more realistic. Sustainable movement usually grows from repeatable choices, not emotional intensity.",
-            "zh": "它本來就比較現實。可持續的前進，通常是從可重複的選擇長出來的，不是從情緒強度長出來的。",
-            "vocab": [
-              {
-                "word": "repeatable choice",
-                "def": "不是一時衝動"
-              }
-            ]
+            "zh": "它本來就比較現實。可持續的前進，通常是從可重複的選擇長出來的，不是從情緒強度長出來的。"
           },
           {
             "speaker": "b",
@@ -2373,8 +2025,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple version is, \"I want to move into the next season more consciously than I moved through the last one.\"",
-            "zh": "你可以說：「I want to move into the next season more consciously than I moved through the last one.」",
-            "vocab": []
+            "zh": "你可以說：「I want to move into the next season more consciously than I moved through the last one.」"
           },
           {
             "speaker": "b",
@@ -2386,13 +2037,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I do not want to repeat old patterns just because they are familiar.\"",
-            "zh": "另一句也很好用：「I do not want to repeat old patterns just because they are familiar.」",
-            "vocab": [
-              {
-                "word": "old pattern",
-                "def": "舊有的習慣模式；因為熟悉而繼續保留的行為方式"
-              }
-            ]
+            "zh": "另一句也很好用：「I do not want to repeat old patterns just because they are familiar.」"
           },
           {
             "speaker": "b",
@@ -2404,8 +2049,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make it more everyday, try, \"I want my next steps to be chosen, not automatic.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I want my next steps to be chosen, not automatic.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I want my next steps to be chosen, not automatic.」"
           },
           {
             "speaker": "b",
@@ -2422,7 +2066,7 @@ export const WEEK_43: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Building a Different Future Slowly",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -2446,13 +2090,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Conscious direction matters because a person needs enough space to notice whether the next chapter actually fits.",
-            "zh": "完全是。清楚方向感很重要，因為一個人需要足夠的空間，才看得出下一章到底是不是真的合身。",
-            "vocab": [
-              {
-                "word": "conscious direction",
-                "def": "不是盲目前進"
-              }
-            ]
+            "zh": "完全是。清楚方向感很重要，因為一個人需要足夠的空間，才看得出下一章到底是不是真的合身。"
           },
           {
             "speaker": "b",
@@ -2464,13 +2102,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a good reading of it. The best future plans often sound more caring than heroic.",
-            "zh": "這個理解很好。最好的未來計畫，很多時候聽起來比較像照顧，不像英雄式衝刺。",
-            "vocab": [
-              {
-                "word": "heroic",
-                "def": "最好的未來計畫"
-              }
-            ]
+            "zh": "這個理解很好。最好的未來計畫，很多時候聽起來比較像照顧，不像英雄式衝刺。"
           },
           {
             "speaker": "b",
@@ -2483,12 +2115,7 @@ export const WEEK_43: Episode[] = [
             "speakerName": "Mira",
             "en": "Lots of people do.",
             "zh": "很多人都會這樣。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — A More Deliberate Next Chapter",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2511,8 +2138,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Repeatable choice matters because the future is built more by pattern than by intensity.",
-            "zh": "可重複選擇很重要，因為未來很多時候不是被強度蓋起來的，而是被模式蓋起來的。",
-            "vocab": []
+            "zh": "可重複選擇很重要，因為未來很多時候不是被強度蓋起來的，而是被模式蓋起來的。"
           },
           {
             "speaker": "b",
@@ -2535,7 +2161,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often how a good next chapter begins.",
+            "en": "That's often how a good next chapter begins.",
             "zh": "而好的下一章，很多時候就是這樣開始的。"
           }
         ]
@@ -2543,9 +2169,9 @@ export const WEEK_43: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "forward intention",
-        "zh": "不是只是繼續走，而是知道自己想帶著什麼往前走的意圖",
-        "example": "Forward intention changed the way he planned."
+        "en": "clear direction",
+        "zh": "知道自己接下來想往哪裡走的方向感",
+        "example": "A clear direction changed the way he planned."
       },
       {
         "en": "future posture",

@@ -46,13 +46,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why meal planning helps. You make the decision on Sunday so you don't have to make it on Wednesday.",
-            "zh": "這就是為什麼飲食計劃有幫助。你在週日做決定，這樣週三就不用再想了。",
-            "vocab": [
-              {
-                "word": "meal planning",
-                "def": "飲食計劃；規劃餐食"
-              }
-            ]
+            "zh": "這就是為什麼飲食計劃有幫助。你在週日做決定，這樣週三就不用再想了。"
           },
           {
             "speaker": "b",
@@ -75,13 +69,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Are you a picky eater? I used to be terrible as a kid. Refused vegetables for years.",
-            "zh": "你挑食嗎？我小時候很挑剔。好幾年都不吃蔬菜。",
-            "vocab": [
-              {
-                "word": "picky eater",
-                "def": "挑食的人"
-              }
-            ]
+            "zh": "你挑食嗎？我小時候很挑剔。好幾年都不吃蔬菜。"
           },
           {
             "speaker": "a",
@@ -123,13 +111,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Expectations, company, ambiance — they all contribute to what your brain registers as taste.",
-            "zh": "期待、同伴、環境氛圍——它們都影響你的大腦對口味的感知。",
-            "vocab": [
-              {
-                "word": "ambiance",
-                "def": "環境氛圍；氣氛"
-              }
-            ]
+            "zh": "期待、同伴、環境氛圍——它們都影響你的大腦對口味的感知。"
           }
         ]
       },
@@ -158,13 +140,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The congee tastes like being taken care of. Like my mother's hands are in the bowl somehow.",
-            "zh": "就是。那粥嘗起來像是被照顧。就像我媽媽的手不知為何也在碗裡。",
-            "vocab": [
-              {
-                "word": "congee tastes",
-                "def": "被照顧；受到呵護"
-              }
-            ]
+            "zh": "就是。那碗粥喝起來像是有人在照顧你，好像媽媽的心意也一起煮進去了。"
           },
           {
             "speaker": "b",
@@ -211,13 +187,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My cousin in London has a full Taiwanese kitchen setup. She hunts for specific ingredients across the city.",
-            "zh": "我在倫敦的表妹有完整的台灣廚房設備。她在整個城市尋找特定食材。",
-            "vocab": [
-              {
-                "word": "ingredients",
-                "def": "食材；原料"
-              }
-            ]
+            "zh": "我在倫敦的表妹有完整的台灣廚房設備。她在整個城市尋找特定食材。"
           },
           {
             "speaker": "a",
@@ -247,13 +217,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Food as an entry point into culture. Sometimes you can reach someone through their stomach when nothing else works.",
-            "zh": "食物作為文化的入口。有時候你可以在其他方法都失敗時，透過胃來接觸一個人。",
-            "vocab": [
-              {
-                "word": "entry point",
-                "def": "入口；切入點"
-              }
-            ]
+            "zh": "食物作為文化的入口。有時候你可以在其他方法都失敗時，透過胃來接觸一個人。"
           }
         ]
       },
@@ -363,303 +327,214 @@ export const WEEK_06: Episode[] = [
     "phase": "p1",
     "parts": [
       {
-        "title": "Part 1 — Why We Love Eating Out",
+        "title": "Part 1 — When You Don't Know What to Order",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I probably eat out four or five times a week. It's expensive but I can't seem to stop.",
-            "zh": "我可能一週外食四五次。很貴但我就是停不下來。"
+            "en": "I had the most awkward dinner last week. My client kept asking for my recommendation and I froze every single time.",
+            "zh": "我上週有一頓超尷尬的晚餐。我的客戶一直問我有什麼推薦，我每次都楞住了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think eating out serves multiple needs at once. Convenience, socialization, and novelty — all in one place.",
-            "zh": "我覺得外食同時滿足多種需求。方便、社交和新鮮感——一次全都有。"
+            "en": "Freezing at the menu is such a common thing. There's pressure when someone's watching you decide.",
+            "zh": "看著菜單發愣是很常見的事。當有人在看你做決定時，那種壓力真的很大。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "And you don't have to do the dishes. That's honestly a big selling point for me.",
-            "zh": "而且不用洗碗。說實話那對我來說是個很大的吸引點。"
+            "en": "And this was a restaurant I'd never been to before. Unfamiliar menu, client waiting, time ticking.",
+            "zh": "而且我從來沒去過那家餐廳。陌生的菜單、客戶在等、時間一分一秒過去。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Ha! The full experience — someone brings you food, it appears like magic, and the cleanup disappears too.",
-            "zh": "哈！完整的體驗——有人把食物帶給你，它就像魔法一樣出現，清理也消失了。"
+            "en": "In that situation, the honest move is actually the confident one. \"I haven't tried this place before — what are you in the mood for?\" puts it back in their court.",
+            "zh": "在那種情況下，誠實其實是最有自信的做法。「我沒來過這裡——你想吃什麼口味的？」這樣就把球丟回給他們了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "And restaurants create an atmosphere you can't replicate at home. The lighting, the music, the energy of other people.",
-            "zh": "而且餐廳創造了一種你在家無法複製的氛圍。燈光、音樂、其他人的活力。",
-            "vocab": [
-              {
-                "word": "replicate",
-                "def": "複製；重現"
-              }
-            ]
+            "en": "I didn't think of that. I just kept staring at the menu like it was going to help.",
+            "zh": "我沒想到這個。我只是盯著菜單看，好像它會幫我一樣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The \"stagecraft\" of a good restaurant is underappreciated. Interior design, staff training, even the spacing of tables — it all matters.",
-            "zh": "一家好餐廳的「舞台設計」被低估了。室內設計、員工培訓，甚至桌子的間距——都很重要。"
+            "en": "The menu stare — we've all been there. The problem is the silence makes it worse, not the indecision itself.",
+            "zh": "盯著菜單這件事每個人都經歷過。問題是沉默會讓情況更糟，而不是猶豫不決本身。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I never thought of a restaurant as a designed performance space. But it really is.",
-            "zh": "我從來沒有把餐廳想成是一個設計過的表演空間。但確實是的。"
+            "en": "Right. The client probably wouldn't have minded, but my awkward silence made it a thing.",
+            "zh": "對。客戶可能沒在意，但我尷尬的沉默讓這件事變得好像很嚴重。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You're paying for the experience as much as the food. The best ones understand both sides of that equation.",
-            "zh": "你為體驗付費就像為食物付費一樣。最好的餐廳理解這個等式的兩面。"
+            "en": "Most restaurant moments feel bigger inside your head than they do to the people around you. That's worth remembering.",
+            "zh": "大多數在餐廳的尷尬瞬間，在你腦子裡放得比別人眼中大很多。這點值得記住。"
           }
         ]
       },
       {
-        "title": "Part 2 — Dining Etiquette",
+        "title": "Part 2 — Why Eating Out Feels Harder Than It Should",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Do you think about table manners much? Things like not putting your elbows on the table?",
-            "zh": "你常想到餐桌禮儀嗎？比如不把手肘放在桌上之類的？"
+            "en": "I think I generally overthink restaurant situations. Seating, ordering, splitting the bill — all of it stresses me out.",
+            "zh": "我覺得我在餐廳的情況普遍想太多。座位、點餐、分帳——每件事都讓我很有壓力。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The elbow rule is old and honestly pretty meaningless now. But some etiquette still matters — like not interrupting a waiter mid-sentence.",
-            "zh": "手肘規則已經過時了，說實話現在沒什麼意義。但某些禮儀仍然重要——比如不要在服務生說話中途打斷他。"
+            "en": "There are a lot of unspoken rules at restaurants that nobody actually explains. And they vary by culture too.",
+            "zh": "餐廳裡有很多沒人解釋過的潛規則，而且因文化不同也各有差異。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How you treat servers says a lot about someone's character. I always pay attention to that on dates.",
-            "zh": "你如何對待服務人員說明了一個人的很多特質。我在約會時總是特別注意這點。"
+            "en": "Like tipping. In Taiwan we don't tip. When I went to the US I was terrified I'd mess it up.",
+            "zh": "比如給小費。台灣不用給小費。我去美國的時候很怕自己會搞砸。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Absolutely. Rudeness to service staff is a real red flag. It shows entitlement and lack of empathy.",
-            "zh": "完全同意。對服務人員無禮是真正的警示信號。它顯示出一種特權感和缺乏同理心。"
+            "en": "And how you treat servers. Being polite to service staff in a natural way — not overly formal, not dismissive — takes practice.",
+            "zh": "還有怎麼對待服務人員。用自然的方式對服務人員有禮貌——不過度正式，也不忽視他們——是需要練習的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "And tipping culture varies so much. In Taiwan we don't really tip. In the US it's almost mandatory.",
-            "zh": "而且給小費的文化差異很大。在台灣我們通常不給小費。在美國幾乎是強制性的。",
-            "vocab": [
-              {
-                "word": "mandatory",
-                "def": "強制的；必須的"
-              }
-            ]
+            "en": "I've noticed how I treat waitstaff changes depending on who I'm with. I'm more relaxed alone than on a work dinner.",
+            "zh": "我注意到我對待服務生的方式，會隨著一起吃飯的人不同而改變。一個人的時候比工作餐時自在多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The tipping system is controversial because it means servers' income depends on customer generosity rather than a fair wage.",
-            "zh": "給小費制度有爭議，因為這意味著服務人員的收入取決於顧客的慷慨度，而不是公平工資。"
+            "en": "That's normal. The social layer adds pressure. And honestly, how you treat servers on a work dinner is visible — it signals a lot about you.",
+            "zh": "這很正常。社交那一層讓人有壓力。老實說，你在工作餐時怎麼對待服務人員是看得見的——這傳遞了很多關於你的訊息。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "When I travel and the culture does tip, I always do. It's basic respect for local norms.",
-            "zh": "當我去一個有給小費文化的地方旅行時，我總是給。這是對當地規範的基本尊重。",
-            "vocab": [
-              {
-                "word": "local norms",
-                "def": "這是對當地規範的基本尊重"
-              }
-            ]
+            "en": "My colleague once snapped at a waiter during a client dinner. The whole table went quiet. Damaged the whole mood.",
+            "zh": "我同事有一次在客戶晚餐時對服務生出言不遜。整桌人都安靜了。把整個氣氛都破壞掉了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good rule. Cultural humility at the dining table. When in Rome, eat as the Romans eat.",
-            "zh": "好規則。餐桌上的文化謙遜。入境隨俗。"
+            "en": "Exactly. Rudeness to service staff is a red flag that's hard to unsee. It reveals something about character under pressure.",
+            "zh": "就是。對服務人員無禮是一個很難忽視的警訊。它揭示了一個人在壓力下的性格。"
           }
         ]
       },
       {
-        "title": "Part 3 — Choosing a Restaurant",
+        "title": "Part 3 — A More Useful Approach to Dining Out",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How do you choose where to eat? Do you use apps, ask friends, just walk in somewhere?",
-            "zh": "你怎麼選擇去哪裡吃？你用應用程式、問朋友，還是直接走進去？"
+            "en": "So what's a better mindset going into a restaurant situation you're not sure about?",
+            "zh": "那麼，面對不確定的餐廳情境，有什麼更好的心態嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A mix. I check reviews but I don't trust them blindly. Star ratings can be gamed. I read the actual text.",
-            "zh": "混合使用。我查評論，但不盲目信任。星評可以被操弄。我讀實際的文字。"
+            "en": "Treat it as a conversation, not a performance. You're not there to impress the restaurant. You're there to have a good time with whoever you're with.",
+            "zh": "把它當成一段對話，不是一場表演。你不是去讓餐廳留下深刻印象的。你是去和同伴好好享受的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What do you look for in the text? Anything specific?",
-            "zh": "你在文字裡找什麼？有什麼特別的嗎？"
+            "en": "I like that. Conversation, not performance.",
+            "zh": "我喜歡這個說法。對話，不是表演。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "How people describe the food specifically. Generic \"great food great service\" tells me nothing. Specific details tell me more.",
-            "zh": "人們如何具體描述食物。「食物好、服務好」這種泛泛的話對我沒有幫助。具體細節告訴我更多。"
+            "en": "When you're choosing where to eat, word of mouth still beats any app. Ask colleagues who eat out a lot — they usually know the real spots.",
+            "zh": "選擇去哪裡吃的時候，口耳相傳還是勝過任何應用程式。問常外食的同事——他們通常知道真正的好地方。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Also the negative reviews can reveal useful things. Not every complaint is valid, but patterns matter.",
-            "zh": "負評也能揭示有用的東西。不是每個投訴都成立，但模式很重要。"
+            "en": "Right, I've got a few colleagues who are basically walking restaurant guides for this area.",
+            "zh": "對，我有幾個同事基本上就是這一帶的活地圖。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If five reviews mention \"slow service\" that's probably real. If one person hated the owner's attitude, that might be noise.",
-            "zh": "就是。如果五個評論都提到「服務慢」，那可能是真的。如果只有一個人討厭老闆的態度，那可能只是個例。"
+            "en": "And when you read reviews, skip the star rating — read the actual text. Specific descriptions are way more useful than generic five-star praise.",
+            "zh": "而且看評論時，跳過星評——直接讀文字內容。具體的描述比泛泛的五星好評有用多了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I also ask colleagues. Especially people who eat out a lot. They're usually reliable local guides.",
-            "zh": "我也問同事。尤其是常外食的人。他們通常是可靠的當地導覽。"
+            "en": "I do that already. \"Great food great service\" means nothing. But \"the braised pork was falling apart\" — now I know what to order.",
+            "zh": "我已經這樣做了。「食物好、服務好」沒有任何意義。但「滷肉鬆得要散開來了」——這樣我就知道點什麼了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Word of mouth beats algorithms for local restaurants. Personal recommendations carry weight reviews don't.",
-            "zh": "口耳相傳勝過算法推薦，對於當地餐廳尤其如此。個人推薦帶有評論沒有的分量。"
+            "en": "Specific details are the signal. Vague praise is often just noise — sometimes written by the restaurant's own people.",
+            "zh": "具體的細節才是訊號。模糊的稱讚往往只是雜訊——有時候還是餐廳自己人寫的。"
           }
         ]
       },
       {
-        "title": "Part 4 — Business Dining and Work Lunches",
+        "title": "Part 4 — Trying It in a Real Situation",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Work lunches are a whole different category. You're half eating, half networking, half performing.",
-            "zh": "工作午餐是完全不同的類別。你一半在吃飯，一半在交際，一半在表現。",
-            "vocab": [
-              {
-                "word": "networking",
-                "def": "人脈交際；建立關係網絡"
-              }
-            ]
+            "en": "I have another client dinner coming up next month. Completely different restaurant — upscale place I've never been to.",
+            "zh": "我下個月還有另一場客戶晚餐。完全不同的餐廳——一個我從來沒去過的高檔地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Three halves — and none of them get your full attention. That's exhausting.",
-            "zh": "三個「一半」——而且沒有一個得到你全部的注意力。那很累人。"
+            "en": "Go look it up before you go. Read the menu. Pick two or three things you'd genuinely enjoy — not just safe choices.",
+            "zh": "去之前先查一下。看看菜單。選兩三樣你真心想吃的——不只是保險選項。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "There's something about sitting across from someone and eating that creates intimacy. It works for business too.",
-            "zh": "面對面坐著一起吃飯會創造一種親密感。這在商業場合也有效。"
+            "en": "Preparation! That's actually obvious but I never do it. I always just show up and wing it.",
+            "zh": "事先準備！這其實很顯而易見，但我從來沒這樣做過。我總是就這樣去了然後隨機應變。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Sharing food lowers defenses. You're in a physically vulnerable position — you can't run anywhere, your hands are occupied.",
-            "zh": "分享食物降低防衛。你在一個身體上脆弱的位置——你哪裡也跑不了，雙手都在忙。"
+            "en": "Knowing what you want before you sit down removes almost all of the on-the-spot pressure. You can focus on the client.",
+            "zh": "坐下來之前就知道自己想吃什麼，幾乎可以消除所有臨場壓力。你就可以把注意力放在客戶身上。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's an interesting way to think about it. Shared meals as environments of enforced trust.",
-            "zh": "那是個有趣的思考方式。共同用餐作為被迫信任的環境。"
+            "en": "And if they ask for a recommendation, I'll just be honest and say I've done my research and ask what mood they're in.",
+            "zh": "而且如果他們問我有什麼推薦，我就直接說我做過功課了，然後問他們今天想吃什麼口味的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In many cultures, you don't discuss business until after the meal is done. The eating comes first.",
-            "zh": "在許多文化中，你要等吃完飯才討論業務。吃飯是第一位的。"
+            "en": "Right, and there's more to it — when you show you've prepared, it signals that you respect the client's time. That impression sticks.",
+            "zh": "對，還有更多——當你表現出你有準備，這傳遞出你尊重客戶的時間。這個印象會留下來的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "My boss always orders for the table without asking. Is that a power move or just confidence?",
-            "zh": "我老闆總是不問就幫整桌點餐。那是權力展示還是只是自信？",
-            "vocab": [
-              {
-                "word": "power move",
-                "def": "權力展示；強勢舉動"
-              }
-            ]
+            "en": "I never connected dinner preparation with professional impression. But it makes total sense.",
+            "zh": "我從來沒有把吃飯前的準備和專業印象聯繫起來。但這完全說得通。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Depends on the context and how everyone feels about it! If people enjoy it, it's confidence. If they hate it, it's control.",
-            "zh": "取決於情境以及每個人的感受！如果大家喜歡，那是自信。如果大家討厭，那是控制欲。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Solo Dining",
-        "lines": [
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "Do you ever eat out alone? I feel awkward doing that sometimes.",
-            "zh": "你有沒有獨自外出吃飯過？我有時候覺得這樣做有點尷尬。",
-            "vocab": [
-              {
-                "word": "feel awkward",
-                "def": "做起來還很不順、很卡的感覺"
-              }
-            ]
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "All the time. I actually love solo dining. You can fully focus on the food and observe everything around you.",
-            "zh": "常常。我其實很喜歡獨自用餐。你可以完全專注在食物上，觀察你周圍的一切。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I always feel like people are looking at me and thinking \"why is that person alone?\"",
-            "zh": "我總覺得人們在看我，心想「那個人為什麼是一個人？」"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Most people are too absorbed in their own meals and conversations to notice you. That's the spotlight effect — we overestimate how much others notice us.",
-            "zh": "大多數人都太沉浸在自己的餐食和對話中，根本不會注意你。那是焦點效應——我們高估了別人對我們的關注程度。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I've heard of that! We think we're center stage but we're actually extras in everyone else's story.",
-            "zh": "我聽說過！我們以為自己是中心舞台，但實際上我們是別人故事中的路人甲。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Exactly. Try it — take a book or just sit with your thoughts. A solo lunch is actually quite restorative.",
-            "zh": "就是。試試看——帶本書或只是坐著想想事情。獨自午餐其實非常恢復元氣。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I might try it next week. Just me and a bowl of ramen and no phone.",
-            "zh": "我可能下週試試。就我自己、一碗拉麵，還有不帶手機。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "That sounds perfect. Good food, quiet mind. That's really all you need sometimes.",
-            "zh": "那聽起來很完美。好食物、安靜的心。有時候那真的是你需要的全部。"
+            "en": "The restaurant is just the setting. The real work is showing up ready to connect — and preparation is what gets you there.",
+            "zh": "餐廳只是個舞台。真正重要的是準備好去連結對方——而事前準備就是讓你做到這一點的方式。"
           }
         ]
       }
@@ -686,9 +561,9 @@ export const WEEK_06: Episode[] = [
         "example": "Sharing a meal creates intimacy that speeds up relationship-building."
       },
       {
-        "en": "spotlight effect",
-        "zh": "焦點效應",
-        "example": "The spotlight effect makes us think others notice our mistakes more than they do."
+        "en": "feel watched",
+        "zh": "覺得自己被別人注意或評價",
+        "example": "She felt watched at the restaurant, but everyone else was busy with their own meal."
       },
       {
         "en": "restorative",
@@ -722,13 +597,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I went to the night market last night and spent way too much on stinky tofu and oyster noodles.",
-            "zh": "我昨晚去夜市，在臭豆腐和蚵仔麵線上花了太多錢。",
-            "vocab": [
-              {
-                "word": "stinky tofu",
-                "def": "在臭豆腐和蚵仔麵線上花了太多錢"
-              }
-            ]
+            "zh": "我昨晚去夜市，在臭豆腐和蚵仔麵線上花了太多錢。"
           },
           {
             "speaker": "a",
@@ -758,13 +627,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Low overhead — no rent for a dining room, no waitstaff. The savings go into the ingredients and the recipe.",
-            "zh": "低開銷——沒有餐廳租金，沒有服務人員。省下的錢用在食材和食譜上。",
-            "vocab": [
-              {
-                "word": "overhead",
-                "def": "開銷；日常費用"
-              }
-            ]
+            "zh": "低開銷——沒有餐廳租金，沒有服務人員。省下的錢用在食材和食譜上。"
           },
           {
             "speaker": "b",
@@ -793,13 +656,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ha! There's a breakfast place near my old apartment that has no sign. You have to know someone who knows.",
-            "zh": "哈！我舊公寓附近有一家早餐店沒有招牌。你必須認識認識它的人才行。",
-            "vocab": [
-              {
-                "word": "old apartment",
-                "def": "沒有招牌；不顯眼"
-              }
-            ]
+            "zh": "哈！我舊公寓附近有一家早餐店沒有招牌。你必須認識認識它的人才行。"
           },
           {
             "speaker": "b",
@@ -829,13 +686,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Authenticity is a strange concept though. Who gets to decide what's \"real\" local food?",
-            "zh": "但道地是個奇怪的概念。誰來決定什麼是「真正的」當地食物？",
-            "vocab": [
-              {
-                "word": "authenticity",
-                "def": "道地性；真實性"
-              }
-            ]
+            "zh": "但道地是個奇怪的概念。誰來決定什麼是「真正的」當地食物？"
           },
           {
             "speaker": "a",
@@ -876,13 +727,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Night markets are like the last outdoor public living room. A community space that's not commercialized.",
-            "zh": "夜市就像最後的戶外公共客廳。一個未被商業化的社區空間。",
-            "vocab": [
-              {
-                "word": "commercialized",
-                "def": "商業化的"
-              }
-            ]
+            "zh": "夜市就像最後的戶外公共客廳。一個未被商業化的社區空間。"
           },
           {
             "speaker": "a",
@@ -941,13 +786,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Price doesn't correlate directly with safety. A lot of high-end places prep food hours ahead.",
-            "zh": "價格和安全不直接相關。很多高級餐廳提前幾個小時就準備好食物了。",
-            "vocab": [
-              {
-                "word": "correlate",
-                "def": "相關；關聯"
-              }
-            ]
+            "zh": "價格和安全不直接相關。很多高級餐廳提前幾個小時就準備好食物了。"
           },
           {
             "speaker": "b",
@@ -1075,13 +914,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I feel like every few years there's a new diet that everyone is doing. Keto, intermittent fasting, plant-based...",
-            "zh": "我覺得每隔幾年就有一種大家都在做的新飲食法。生酮、間歇性禁食、植物性飲食……",
-            "vocab": [
-              {
-                "word": "intermittent fasting",
-                "def": "間歇性禁食"
-              }
-            ]
+            "zh": "我覺得每隔幾年就有一種大家都在做的新飲食法。生酮、間歇性禁食、植物性飲食……"
           },
           {
             "speaker": "a",
@@ -1110,8 +943,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Because it's a young science and diet is incredibly complex. Individual variation matters enormously.",
-            "zh": "因為那是一門年輕的科學，而飲食非常複雜。個體差異非常重要。"
+            "en": "Because nutrition is complex, and each person's body can respond differently to the same food or routine.",
+            "zh": "因為營養很複雜，而且每個人的身體對同樣的食物或作息都可能有不同反應。"
           },
           {
             "speaker": "b",
@@ -1164,13 +997,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The post-lunch slump is often a blood sugar spike and crash. Protein and fiber stabilize that.",
-            "zh": "午後精神不振通常是血糖急升和驟降。蛋白質和纖維能穩定這種情況。",
-            "vocab": [
-              {
-                "word": "blood sugar spike",
-                "def": "血糖急升"
-              }
-            ]
+            "zh": "午後精神不振通常是血糖急升和驟降。蛋白質和纖維能穩定這種情況。"
           },
           {
             "speaker": "b",
@@ -1193,13 +1020,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Plant-based diets seem to be the current consensus for health and environment. Do you eat much meat?",
-            "zh": "植物性飲食似乎是目前健康和環境方面的共識。你吃很多肉嗎？",
-            "vocab": [
-              {
-                "word": "plant-based",
-                "def": "植物性的；以植物為主的"
-              }
-            ]
+            "zh": "植物性飲食似乎是目前健康和環境方面的共識。你吃很多肉嗎？"
           },
           {
             "speaker": "a",
@@ -1217,13 +1038,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That seems like the most sustainable approach for most people. Perfect can be the enemy of good.",
-            "zh": "這對大多數人來說似乎是最可持續的方法。完美可以是好的敵人。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "可持續的；能維持的"
-              }
-            ]
+            "zh": "這對大多數人來說似乎是最可持續的方法。完美可以是好的敵人。"
           },
           {
             "speaker": "b",
@@ -1252,19 +1067,13 @@ export const WEEK_06: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Food and Mental Health",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There's increasingly more research on how food affects mood. The gut-brain connection.",
-            "zh": "越來越多的研究涉及食物如何影響情緒。腸腦連結。",
-            "vocab": [
-              {
-                "word": "gut-brain connection",
-                "def": "腸腦連結；腸腦軸"
-              }
-            ]
+            "zh": "越來越多的研究涉及食物如何影響情緒。腸腦連結。"
           },
           {
             "speaker": "a",
@@ -1307,12 +1116,7 @@ export const WEEK_06: Episode[] = [
             "speakerName": "Mira",
             "en": "Even if it's partly placebo, the positive effect is real. The mechanism matters less than the outcome.",
             "zh": "就算部分是安慰劑效應，正面效果是真實的。機制比結果少重要。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — A Balanced Relationship with Food",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1335,13 +1139,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Cortisol from chronic stress actually causes more harm than most \"bad\" foods. Enjoyment has biological value.",
-            "zh": "慢性壓力產生的皮質醇實際上比大多數「不好」的食物造成更多傷害。享受有生物學上的價值。",
-            "vocab": [
-              {
-                "word": "chronic stress",
-                "def": "慢性壓力"
-              }
-            ]
+            "zh": "慢性壓力產生的皮質醇實際上比大多數「不好」的食物造成更多傷害。享受有生物學上的價值。"
           },
           {
             "speaker": "b",
@@ -1377,9 +1175,9 @@ export const WEEK_06: Episode[] = [
         "example": "Many diet myths have been debunked by modern research."
       },
       {
-        "en": "individual variation",
-        "zh": "個體差異",
-        "example": "Individual variation explains why the same diet works differently for everyone."
+        "en": "personal response",
+        "zh": "同一件事在不同人身上產生的不同反應",
+        "example": "A personal response to food can depend on sleep, stress, culture, and what your body needs."
       },
       {
         "en": "flexitarian",
@@ -1428,19 +1226,13 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I had a soup last week that tasted exactly like something my grandma made. I nearly cried at the restaurant table.",
-            "zh": "我上週喝了一碗湯，味道和我奶奶做的一模一樣。我差點在餐桌上哭出來。",
-            "vocab": [
-              {
-                "word": "nearly cried",
-                "def": "差點哭出來"
-              }
-            ]
+            "zh": "我上週喝了一碗湯，味道和我奶奶做的一模一樣。我差點在餐桌上哭出來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That involuntary rush of memory is called the Proust phenomenon. A taste or smell can unlock a very specific moment in your past.",
-            "zh": "那種不由自主的記憶衝擊被稱為普魯斯特現象。一種味道或氣味可以解鎖你過去的一個非常特定的時刻。"
+            "en": "That sudden food memory is powerful. A taste or smell can unlock a very specific moment in your past.",
+            "zh": "那種突然出現的食物記憶很有力量。一種味道或氣味，可能會把你帶回過去某個很具體的時刻。"
           },
           {
             "speaker": "b",
@@ -1540,13 +1332,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Have you ever tried to recreate a dish from memory? Something you ate once and can't forget?",
-            "zh": "你有沒有試過從記憶中重現一道菜？那種你吃過一次就忘不了的東西？",
-            "vocab": [
-              {
-                "word": "recreate",
-                "def": "重現；重新創造"
-              }
-            ]
+            "zh": "你有沒有試過從記憶中重現一道菜？那種你吃過一次就忘不了的東西？"
           },
           {
             "speaker": "a",
@@ -1588,13 +1374,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a beautiful way to put it. Cooking as dialogue with the past.",
-            "zh": "那是個很美的說法。烹飪作為與過去的對話。",
-            "vocab": [
-              {
-                "word": "dialogue",
-                "def": "對話；交流"
-              }
-            ]
+            "zh": "那是個很美的說法。烹飪作為與過去的對話。"
           }
         ]
       },
@@ -1629,13 +1409,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My mom adapted grandma's soup to be vegetarian because she developed a dairy allergy. Same warmth, different ingredients.",
-            "zh": "我媽媽把奶奶的湯改成了素食版，因為她後來對乳製品過敏了。同樣的溫暖，不同的食材。",
-            "vocab": [
-              {
-                "word": "dairy allergy",
-                "def": "乳製品過敏"
-              }
-            ]
+            "zh": "我媽媽把奶奶的湯改成了素食版，因為她後來對乳製品過敏了。同樣的溫暖，不同的食材。"
           },
           {
             "speaker": "a",
@@ -1664,13 +1438,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do you consciously try to create food memories now? Knowing that a meal can become someone's Proust moment.",
-            "zh": "你現在有意識地試著創造食物記憶嗎？知道一頓飯可以成為某人的普魯斯特時刻。",
-            "vocab": [
-              {
-                "word": "consciously",
-                "def": "有意識地；刻意地"
-              }
-            ]
+            "zh": "你現在有意識地試著創造食物記憶嗎？知道一頓飯可以成為某人的普魯斯特時刻。"
           },
           {
             "speaker": "a",
@@ -1700,13 +1468,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because emotion does the encoding. High emotion — laughter, surprise, love — burns the memory in deeper.",
-            "zh": "因為情感負責編碼。強烈的情感——笑聲、驚喜、愛——把記憶燒得更深。",
-            "vocab": [
-              {
-                "word": "encoding",
-                "def": "編碼；記憶形成"
-              }
-            ]
+            "zh": "因為情感負責編碼。強烈的情感——笑聲、驚喜、愛——把記憶燒得更深。"
           },
           {
             "speaker": "b",
@@ -1725,9 +1487,9 @@ export const WEEK_06: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "Proust phenomenon",
-        "zh": "普魯斯特現象；感官觸發的記憶",
-        "example": "The smell of fresh bread triggered a Proust phenomenon — she was suddenly six years old again."
+        "en": "food memory",
+        "zh": "被味道或氣味帶回某段生活經驗的記憶",
+        "example": "The smell of fresh bread brought back a food memory from her grandmother's kitchen."
       },
       {
         "en": "olfactory system",
@@ -1817,13 +1579,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I never thought of food as a form of migration history. But that's exactly what it is.",
-            "zh": "我從來沒有把食物想成是一種移民歷史的形式。但那正是它的本質。",
-            "vocab": [
-              {
-                "word": "migration history",
-                "def": "移民歷史"
-              }
-            ]
+            "zh": "我從來沒有把食物想成是一種移民歷史的形式。但那正是它的本質。"
           },
           {
             "speaker": "a",
@@ -1840,13 +1596,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Fusion food gets a bad reputation sometimes. \"Not authentic,\" people say.",
-            "zh": "融合料理有時名聲不好。人們說「不道地」。",
-            "vocab": [
-              {
-                "word": "fusion food",
-                "def": "融合料理"
-              }
-            ]
+            "zh": "融合料理有時名聲不好。人們說「不道地」。"
           },
           {
             "speaker": "a",
@@ -1888,13 +1638,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Agreed. The world's most interesting cuisines have always been the result of cross-cultural exchange anyway.",
-            "zh": "同意。世界上最有趣的料理無論如何都一直是跨文化交流的結果。",
-            "vocab": [
-              {
-                "word": "exchange",
-                "def": "交流；交換"
-              }
-            ]
+            "zh": "同意。世界上最有趣的料理無論如何都一直是跨文化交流的結果。"
           }
         ]
       },
@@ -1917,13 +1661,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Ha! That's notorious for being one of the world's most challenging foods. How did it taste?",
-            "zh": "哈！那是世界上最具挑戰性的食物之一，大名鼎鼎。嘗起來怎麼樣？",
-            "vocab": [
-              {
-                "word": "notorious",
-                "def": "惡名昭彰的；大名鼎鼎的"
-              }
-            ]
+            "zh": "哈！那是世界上最具挑戰性的食物之一，大名鼎鼎。嘗起來怎麼樣？"
           },
           {
             "speaker": "a",
@@ -1958,7 +1696,7 @@ export const WEEK_06: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Cooking Internationally at Home",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1982,13 +1720,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because humans solved similar problems in similar ways. Preserve protein, add flavor, add warmth. The specific ingredients vary but the logic is universal.",
-            "zh": "因為人類以相似的方式解決了相似的問題。保存蛋白質、增加風味、增加暖意。具體食材各不相同，但邏輯是普遍的。",
-            "vocab": [
-              {
-                "word": "preserve",
-                "def": "保存；保鮮"
-              }
-            ]
+            "zh": "因為人類以相似的方式解決了相似的問題。保存蛋白質、增加風味、增加暖意。具體食材各不相同，但邏輯是普遍的。"
           },
           {
             "speaker": "b",
@@ -2006,25 +1738,14 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I'm starting to see cooking as universal language. Different vocabularies, same grammar.",
-            "zh": "我開始把烹飪看作是普世語言。不同的詞彙，相同的語法。",
-            "vocab": [
-              {
-                "word": "universal language",
-                "def": "普世語言；通用語言"
-              }
-            ]
+            "zh": "我開始把烹飪看作是普世語言。不同的詞彙，相同的語法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfectly put. And every time you cook a new cuisine, you learn a new vocabulary. The grammar was always the same.",
             "zh": "說得非常準確。而且每次你做一種新料理，你就學到了新的詞彙。語法始終是一樣的。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Food as Diplomacy",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2133,8 +1854,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I read that lab-grown meat could be commercially viable within the next decade. How do you feel about that?",
-            "zh": "我讀到實驗室培育肉在未來十年內可能商業化可行。你怎麼看這件事？"
+            "en": "I read that meat alternatives could become much more common within the next decade. How do you feel about that?",
+            "zh": "我讀到未來十年肉類替代品可能會變得更常見。你怎麼看這件事？"
           },
           {
             "speaker": "a",
@@ -2146,13 +1867,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The \"yuck factor\" though. Psychologically, eating something grown in a lab feels different from something raised on a farm.",
-            "zh": "但「噁心感」。從心理上講，吃在實驗室裡培育的東西感覺和在農場上養大的不一樣。",
-            "vocab": [
-              {
-                "word": "yuck factor",
-                "def": "噁心感；厭惡反應"
-              }
-            ]
+            "zh": "但「噁心感」。從心理上講，吃在實驗室裡培育的東西感覺和在農場上養大的不一樣。"
           },
           {
             "speaker": "a",
@@ -2199,13 +1914,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I've used that. It's actually useful for reducing food waste. No more \"I have these random ingredients and no idea what to make.\"",
-            "zh": "我用過那個。它對減少食物浪費很有用。不再有「我有這些隨機食材，不知道做什麼」的情況。",
-            "vocab": [
-              {
-                "word": "food waste",
-                "def": "食物浪費"
-              }
-            ]
+            "zh": "我用過那個。它對減少食物浪費很有用。不再有「我有這些隨機食材，不知道做什麼」的情況。"
           },
           {
             "speaker": "b",
@@ -2223,13 +1932,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "But is there a danger of losing culinary creativity? If AI tells you what to cook, are you still really cooking?",
-            "zh": "但有沒有失去烹飪創意的危險？如果 AI 告訴你煮什麼，你還是真的在烹飪嗎？",
-            "vocab": [
-              {
-                "word": "culinary creativity",
-                "def": "烹飪創意"
-              }
-            ]
+            "zh": "但有沒有失去烹飪創意的危險？如果 AI 告訴你煮什麼，你還是真的在烹飪嗎？"
           },
           {
             "speaker": "a",
@@ -2258,13 +1961,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The environmental impact of food production is enormous. Agriculture accounts for a huge portion of global emissions.",
-            "zh": "食品生產對環境的影響是巨大的。農業占全球排放量的很大一部分。",
-            "vocab": [
-              {
-                "word": "emissions",
-                "def": "排放（量）；溫室氣體排放"
-              }
-            ]
+            "zh": "食品生產對環境的影響是巨大的。農業占全球排放量的很大一部分。"
           },
           {
             "speaker": "a",
@@ -2306,13 +2003,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Both and, not either or. Personal responsibility and systemic advocacy. The two work together.",
-            "zh": "兩者兼顧，不是非此即彼。個人責任和系統性倡議。兩者共同作用。",
-            "vocab": [
-              {
-                "word": "advocacy",
-                "def": "倡議；支持"
-              }
-            ]
+            "zh": "兩者兼顧，不是非此即彼。個人責任和系統性倡議。兩者共同作用。"
           }
         ]
       },
@@ -2323,13 +2014,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The convenience food industry is booming. Meal kits, ready-to-eat, delivery. People have less time to cook.",
-            "zh": "便利食品產業蓬勃發展。料理包、即食食品、外送服務。人們做飯的時間越來越少。",
-            "vocab": [
-              {
-                "word": "meal kits",
-                "def": "料理包；備餐套組"
-              }
-            ]
+            "zh": "便利食品產業蓬勃發展。料理包、即食食品、外送服務。人們做飯的時間越來越少。"
           },
           {
             "speaker": "a",
@@ -2431,9 +2116,9 @@ export const WEEK_06: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "lab-grown meat",
-        "zh": "實驗室培育肉",
-        "example": "Lab-grown meat could dramatically reduce the environmental impact of protein production."
+        "en": "meat alternatives",
+        "zh": "用植物或新技術做出的肉類替代選擇",
+        "example": "Meat alternatives are becoming more common as people look for affordable and lower-impact protein."
       },
       {
         "en": "environmental footprint",

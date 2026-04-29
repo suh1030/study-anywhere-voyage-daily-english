@@ -22,13 +22,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which test? The Myers-Briggs one?",
-            "zh": "是哪種測驗？MBTI 那種嗎？",
-            "vocab": [
-              {
-                "word": "test",
-                "def": "性格測驗"
-              }
-            ]
+            "zh": "是哪種測驗？MBTI 那種嗎？"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I am not sure how I feel about managers using personality labels to explain people. It feels a bit reductive.",
-            "zh": "我不太確定我對主管用性格標籤來解釋一個人這件事有什麼感覺。感覺有點太過簡化。",
-            "vocab": [
-              {
-                "word": "reductive",
-                "def": "過於簡化的"
-              }
-            ]
+            "zh": "我不太確定我對主管用性格標籤來解釋一個人這件事有什麼感覺。感覺有點太過簡化。"
           },
           {
             "speaker": "b",
@@ -58,25 +46,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That part I get. Knowing someone is very detail-oriented versus big-picture helps you communicate better.",
-            "zh": "這點我能理解。知道一個人是很注重細節還是喜歡看大局，確實有助於溝通。",
-            "vocab": [
-              {
-                "word": "detail-oriented",
-                "def": "注重細節的"
-              }
-            ]
+            "zh": "這點我能理解。知道一個人是很注重細節還是喜歡看大局，確實有助於溝通。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My coworker Grace is extremely analytical. She wants data before making any decision. I just go with my gut.",
-            "zh": "我同事 Grace 非常善於分析。她做任何決定前都需要數據。我就是憑直覺。",
-            "vocab": [
-              {
-                "word": "analytical",
-                "def": "善於分析的"
-              }
-            ]
+            "zh": "我同事 Grace 非常善於分析。她做任何決定前都需要資料。我就是憑直覺。"
           },
           {
             "speaker": "a",
@@ -98,56 +74,32 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is always interesting. How are you different?",
-            "zh": "這挺有意思的。你們哪裡不同？"
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She is very outgoing and confident in social situations. I tend to hang back and observe first.",
-            "zh": "她很外向，在社交場合很有自信。我則傾向於先退後、觀察。",
-            "vocab": [
-              {
-                "word": "outgoing",
-                "def": "外向的；開朗的"
-              }
-            ]
+            "zh": "她很外向，在社交場合很有自信。我則傾向於先退後、觀察。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do you think that is nature or nurture? Like were you born that way or shaped by experience?",
-            "zh": "你覺得這是天性還是後天培養的？是天生如此，還是被經歷塑造的？",
-            "vocab": [
-              {
-                "word": "nurture",
-                "def": "後天環境；培養"
-              }
-            ]
+            "zh": "你覺得這是天性還是後天培養的？是天生如此，還是被經歷塑造的？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Probably both. I was definitely a shy child. But some of my caution also came from getting teased at school.",
-            "zh": "可能都有。我小時候確實很害羞。但我有些謹慎也是被學校的霸凌塑造出來的。",
-            "vocab": [
-              {
-                "word": "caution",
-                "def": "謹慎；小心"
-              }
-            ]
+            "zh": "可能都有。我小時候確實很害羞。但我有些謹慎也是被學校的霸凌塑造出來的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Experiences leave a mark on your personality even when you do not realize it.",
-            "zh": "經歷會在你的性格上留下印記，即使你沒有意識到。",
-            "vocab": [
-              {
-                "word": "leave a mark",
-                "def": "留下印記；影響深遠"
-              }
-            ]
+            "zh": "經歷會在你的性格上留下印記，即使你沒有意識到。"
           },
           {
             "speaker": "a",
@@ -170,13 +122,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have noticed people use \"introvert\" as an excuse sometimes. Like, \"I cannot come to your party, I am an introvert.\"",
-            "zh": "我注意到有些人有時會用「內向」作為藉口。比如：「我不能去你的派對，我是內向的人。」",
-            "vocab": [
-              {
-                "word": "introvert",
-                "def": "內向的人"
-              }
-            ]
+            "zh": "我注意到有些人有時會用「內向」作為藉口。比如：「我不能去你的派對，我是內向的人。」"
           },
           {
             "speaker": "a",
@@ -188,61 +134,31 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right. Being an introvert means social situations drain your energy, not that you hate people.",
-            "zh": "對。內向是指社交場合會消耗你的能量，不是說你討厭人。",
-            "vocab": [
-              {
-                "word": "drain",
-                "def": "耗盡；消耗"
-              }
-            ]
+            "zh": "對。內向是指社交場合會消耗你的能量，不是說你討厭人。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And extroverts are not necessarily confident or loud. They just recharge differently.",
-            "zh": "而外向的人也不一定就是自信或喧鬧的。他們只是用不同的方式恢復精力。",
-            "vocab": [
-              {
-                "word": "extrovert",
-                "def": "外向的人"
-              }
-            ]
+            "zh": "而外向的人也不一定就是自信或喧鬧的。他們只是用不同的方式恢復精力。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My loudest colleague is actually quite insecure underneath. He just performs confidence.",
-            "zh": "我最喧鬧的同事其實內心頗不安全感。他只是在表演自信。",
-            "vocab": [
-              {
-                "word": "insecure",
-                "def": "缺乏安全感的"
-              }
-            ]
+            "zh": "我最喧鬧的同事其實內心頗不安全感。他只是在表演自信。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why behavior is more revealing than labels. Watch what someone does under pressure.",
-            "zh": "這就是為什麼行為比標籤更能揭示一個人。看看一個人在壓力下怎麼做。",
-            "vocab": [
-              {
-                "word": "revealing",
-                "def": "揭示真相的；說明問題的"
-              }
-            ]
+            "zh": "這就是為什麼行為比標籤更能揭示一個人。看看一個人在壓力下怎麼做。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Under pressure, the real character comes out. My calmest coworker becomes a mess during deadline week.",
-            "zh": "在壓力下，真實性格才會顯現。我最沉著的同事在截止日期那週會變得一團亂。",
-            "vocab": [
-              {
-                "word": "character",
-                "def": "性格；品格"
-              }
-            ]
+            "zh": "在壓力下，真實性格才會顯現。我最沉著的同事在截止日期那週會變得一團亂。"
           },
           {
             "speaker": "a",
@@ -271,61 +187,31 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She sent a detailed follow-up email that showed she had thought carefully about every question I asked.",
-            "zh": "她後來發了一封非常詳細的後續電郵，顯示她仔細思考過我問的每一個問題。",
-            "vocab": [
-              {
-                "word": "follow-up",
-                "def": "後續跟進的"
-              }
-            ]
+            "zh": "她後來發了一封非常詳細的後續電郵，顯示她仔細思考過我問的每一個問題。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the quiet in the interview was just how she processes, not a lack of engagement.",
-            "zh": "所以面試時的安靜只是她處理資訊的方式，而不是缺乏參與感。",
-            "vocab": [
-              {
-                "word": "engagement",
-                "def": "參與；投入"
-              }
-            ]
+            "zh": "所以面試時的安靜只是她處理資訊的方式，而不是缺乏參與感。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. I nearly let a first impression overrule better judgment.",
-            "zh": "就是這樣。我差點讓第一印象凌駕於更好的判斷之上。",
-            "vocab": [
-              {
-                "word": "overrule",
-                "def": "否決；凌駕於"
-              }
-            ]
+            "zh": "就是這樣。我差點讓第一印象凌駕於更好的判斷之上。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "First impressions are powerful. But they are also just snapshots. They miss so much context.",
-            "zh": "第一印象很有力量。但它們也只是快照而已，遺漏了太多背景資訊。",
-            "vocab": [
-              {
-                "word": "snapshot",
-                "def": "快照；片刻印象"
-              }
-            ]
+            "zh": "第一印象很有力量。但它們也只是快照而已，遺漏了太多背景資訊。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why I try to suspend judgment for a bit longer now. Give someone three interactions before forming a firm opinion.",
-            "zh": "這就是為什麼我現在試著多保留一些判斷的空間。在形成確切看法前，先給對方三次互動的機會。",
-            "vocab": [
-              {
-                "word": "suspend judgment",
-                "def": "暫緩評斷；保持開放"
-              }
-            ]
+            "zh": "這就是為什麼我現在試著多保留一些判斷的空間。在形成確切看法前，先給對方三次互動的機會。"
           },
           {
             "speaker": "b",
@@ -348,37 +234,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Better than I did five years ago. I used to think I was easygoing. Then I discovered I just avoid conflict.",
-            "zh": "比五年前了解多了。我以前以為自己很隨和。後來我發現我只是在逃避衝突。",
-            "vocab": [
-              {
-                "word": "easygoing",
-                "def": "隨和的；不計較的"
-              }
-            ]
+            "zh": "比五年前了解多了。我以前以為自己很隨和。後來我發現我只是在逃避衝突。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That feels like an honest distinction. Easygoing versus conflict-avoidant.",
-            "zh": "這是個很誠實的區分。隨和，對比逃避衝突。",
-            "vocab": [
-              {
-                "word": "conflict-avoidant",
-                "def": "逃避衝突的"
-              }
-            ]
+            "zh": "這是個很誠實的區分。隨和，對比逃避衝突。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "My therapist pointed it out. She said real easygoing people do not feel resentful after giving in.",
-            "zh": "是我的諮商師指出來的。她說真正隨和的人在讓步後不會感到怨恨。",
-            "vocab": [
-              {
-                "word": "resentful",
-                "def": "怨恨的；憤憤不平的"
-              }
-            ]
+            "zh": "是我的諮商師指出來的。她說真正隨和的人在讓步後不會感到怨恨。"
           },
           {
             "speaker": "b",
@@ -390,13 +258,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes. Which was a signal that I was not actually okay with the situation.",
-            "zh": "有時候。那是個信號，說明我對那個情況其實並不真的沒意見。",
-            "vocab": [
-              {
-                "word": "signal",
-                "def": "信號；跡象"
-              }
-            ]
+            "zh": "有時候。那是個信號，說明我對那個情況其實並不真的沒意見。"
           },
           {
             "speaker": "b",
@@ -408,13 +270,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That gap between self-image and reality is where a lot of personal growth happens.",
-            "zh": "對。自我形象與現實之間的落差，正是很多個人成長發生的地方。",
-            "vocab": [
-              {
-                "word": "self-image",
-                "def": "自我形象；自我認知"
-              }
-            ]
+            "zh": "對。自我形象與現實之間的落差，正是很多個人成長發生的地方。"
           }
         ]
       }
@@ -477,13 +333,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I read that people form a first impression within seven seconds of meeting someone. That feels terrifyingly fast.",
-            "zh": "我讀到人們在與某人見面後七秒內就形成第一印象。感覺快得令人恐懼。",
-            "vocab": [
-              {
-                "word": "first impression",
-                "def": "第一印象"
-              }
-            ]
+            "zh": "我讀到人們在與某人見面後七秒內就形成第一印象。感覺快得令人恐懼。"
           },
           {
             "speaker": "a",
@@ -501,61 +351,31 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She made eye contact, smiled without performing, and asked a genuine question. I thought — this person listens.",
-            "zh": "她與我眼神接觸，笑得很自然不做作，還問了一個真誠的問題。我想——這個人是會傾聽的人。",
-            "vocab": [
-              {
-                "word": "genuine",
-                "def": "真誠的；真實的"
-              }
-            ]
+            "zh": "她與我眼神接觸，笑得很自然不做作，還問了一個真誠的問題。我想——這個人是會傾聽的人。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Eye contact is huge. People notice immediately whether you are actually looking at them or looking past them.",
-            "zh": "眼神接觸非常重要。人們立刻就能感覺到你是真的在看他們，還是視線飄過他們。",
-            "vocab": [
-              {
-                "word": "eye contact",
-                "def": "眼神接觸"
-              }
-            ]
+            "zh": "眼神接觸非常重要。人們立刻就能感覺到你是真的在看他們，還是視線飄過他們。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Posture also signals a lot. Someone who walks in hunched and avoiding eyes reads as uncertain, even if they are not.",
-            "zh": "姿勢也傳達很多訊息。一個低著頭、眼神游移走進來的人，感覺就像不自信，即使他們其實不是。",
-            "vocab": [
-              {
-                "word": "posture",
-                "def": "姿勢；體態"
-              }
-            ]
+            "zh": "姿勢也傳達很多訊息。一個低著頭、眼神游移走進來的人，感覺就像不自信，即使他們其實不是。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is unfair but true. A lot of personality signals are body language rather than words.",
-            "zh": "這不太公平，但確實如此。很多性格訊號來自肢體語言，而不是言語。",
-            "vocab": [
-              {
-                "word": "body language",
-                "def": "肢體語言"
-              }
-            ]
+            "zh": "這不太公平，但確實如此。很多性格訊號來自肢體語言，而不是言語。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Words come later. The first read is almost entirely physical and tonal.",
-            "zh": "言語是後來的事。第一印象幾乎完全來自肢體和語氣。",
-            "vocab": [
-              {
-                "word": "tonal",
-                "def": "語氣上的；音調上的"
-              }
-            ]
+            "zh": "言語是後來的事。第一印象幾乎完全來自肢體和語氣。"
           }
         ]
       },
@@ -578,37 +398,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. She was just very focused when she walked somewhere. In meetings she was warm and funny.",
-            "zh": "完全不是。她只是走路時非常專注。在會議上她很溫和又幽默。",
-            "vocab": [
-              {
-                "word": "focused",
-                "def": "專注的；集中的"
-              }
-            ]
+            "zh": "完全不是。她只是走路時非常專注。在會議上她很溫和又幽默。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the resting face fooled you. Some people look serious or unapproachable when they are just thinking.",
-            "zh": "所以是她放鬆時的表情騙了你。有些人只是在思考時看起來很嚴肅或難以接近。",
-            "vocab": [
-              {
-                "word": "unapproachable",
-                "def": "難以接近的"
-              }
-            ]
+            "zh": "所以是她放鬆時的表情騙了你。有些人只是在思考時看起來很嚴肅或難以接近。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. I had to consciously remind myself not to read into her hallway face.",
-            "zh": "就是這樣。我必須刻意提醒自己，不要過度解讀她走廊上的表情。",
-            "vocab": [
-              {
-                "word": "consciously",
-                "def": "有意識地；刻意地"
-              }
-            ]
+            "zh": "就是這樣。我必須刻意提醒自己，不要過度解讀她走廊上的表情。"
           },
           {
             "speaker": "b",
@@ -620,25 +422,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe they just do not enjoy shouting to be heard. That is a preference, not a personality flaw.",
-            "zh": "也許他們只是不喜歡大聲喊叫才能讓人聽到。那是一種偏好，不是性格缺陷。",
-            "vocab": [
-              {
-                "word": "preference",
-                "def": "偏好；喜好"
-              }
-            ]
+            "zh": "也許他們只是不喜歡大聲喊叫才能讓人聽到。那是一種偏好，不是性格缺陷。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right. The problem is we often interpret unfamiliar behavior as a personality trait instead of situational.",
-            "zh": "對。問題是我們常常把不熟悉的行為解讀為性格特質，而不是情境因素。",
-            "vocab": [
-              {
-                "word": "situational",
-                "def": "因情境而異的"
-              }
-            ]
+            "zh": "對。問題是我們常常把不熟悉的行為解讀為性格特質，而不是情境因素。"
           }
         ]
       },
@@ -655,13 +445,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "More now than I used to. I realized I looked impatient in conversations even when I was not.",
-            "zh": "現在比以前更有意識了。我發現我在對話中看起來很不耐煩，即使我並不是。",
-            "vocab": [
-              {
-                "word": "impatient",
-                "def": "不耐煩的"
-              }
-            ]
+            "zh": "現在比以前更有意識了。我發現我在對話中看起來很不耐煩，即使我並不是。"
           },
           {
             "speaker": "b",
@@ -673,13 +457,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A friend showed me a video of myself at a dinner. I was glancing at my phone every few minutes.",
-            "zh": "一個朋友給我看了一段我在晚餐時的影片。我每隔幾分鐘就看一眼手機。",
-            "vocab": [
-              {
-                "word": "glancing",
-                "def": "瞥視；瞄一眼"
-              }
-            ]
+            "zh": "一個朋友給我看了一段我在晚餐時的影片。我每隔幾分鐘就看一眼手機。"
           },
           {
             "speaker": "b",
@@ -691,42 +469,24 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The habit was sending a completely different message from what I actually felt.",
-            "zh": "就是這樣。那個習慣傳遞的訊息和我實際的感受完全不同。",
-            "vocab": [
-              {
-                "word": "habit",
-                "def": "就是這樣"
-              }
-            ]
+            "zh": "就是這樣。那個習慣傳遞的訊息和我實際的感受完全不同。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That gap between intention and perception is where most first impression problems happen.",
-            "zh": "這種意圖與感知之間的落差，正是大多數第一印象問題發生的地方。",
-            "vocab": [
-              {
-                "word": "perception",
-                "def": "感知；觀感"
-              }
-            ]
+            "zh": "這種意圖與感知之間的落差，正是大多數第一印象問題發生的地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why feedback from people who know you well is actually valuable. They can see your blind spots.",
-            "zh": "這就是為什麼來自了解你的人的反饋其實很有價值。他們能看到你的盲點。",
-            "vocab": [
-              {
-                "word": "blind spot",
-                "def": "盲點"
-              }
-            ]
+            "zh": "這就是為什麼來自了解你的人的反饋其實很有價值。他們能看到你的盲點。"
           }
         ]
       },
       {
-        "title": "Part 4 — Online and In-Person Impressions",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -738,13 +498,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Almost never. Some people are completely different. Bolder online, more hesitant in person.",
-            "zh": "幾乎從來不一樣。有些人差別很大。網路上更大膽，現實中更猶豫。",
-            "vocab": [
-              {
-                "word": "hesitant",
-                "def": "猶豫的；遲疑的"
-              }
-            ]
+            "zh": "幾乎從來不一樣。有些人差別很大。網路上更大膽，現實中更猶豫。"
           },
           {
             "speaker": "b",
@@ -762,25 +516,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "He was nervous and mumbly and kept apologizing for things that did not need apologizing.",
-            "zh": "他很緊張，說話含糊，一直為一些不需要道歉的事情道歉。",
-            "vocab": [
-              {
-                "word": "mumbly",
-                "def": "說話含糊不清的"
-              }
-            ]
+            "zh": "他很緊張，說話含糊，一直為一些不需要道歉的事情道歉。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe he is a better writer than speaker. Or maybe he crafts his online persona very carefully.",
-            "zh": "也許他寫作比說話強。或者也許他非常精心地打造自己的網路形象。",
-            "vocab": [
-              {
-                "word": "persona",
-                "def": "形象；人設"
-              }
-            ]
+            "zh": "也許他寫作比說話強。或者也許他非常精心地打造自己的網路形象。"
           },
           {
             "speaker": "b",
@@ -792,19 +534,8 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think both versions are real. People show different parts in different contexts. Neither is fake.",
-            "zh": "我認為兩個版本都是真實的。人在不同情境下展示不同的面向，哪個都不是假的。",
-            "vocab": [
-              {
-                "word": "context",
-                "def": "情境；脈絡"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Recovering from a Bad First Impression",
-        "lines": [
+            "zh": "我認為兩個版本都是真實的。人在不同情境下展示不同的面向，哪個都不是假的。"
+          },
           {
             "speaker": "a",
             "speakerName": "Mira",
@@ -815,13 +546,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Once. I was late to a first meeting with a client and my phone rang twice during it. Disaster.",
-            "zh": "有一次。我第一次與客戶開會遲到了，而且在會議中手機響了兩次。災難。",
-            "vocab": [
-              {
-                "word": "client",
-                "def": "有一次"
-              }
-            ]
+            "zh": "有一次。我第一次與客戶開會遲到了，而且在會議中手機響了兩次。災難。"
           },
           {
             "speaker": "a",
@@ -833,13 +558,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I sent a handwritten apology card and then delivered the project two days ahead of schedule.",
-            "zh": "我手寫了一張道歉卡，然後提前兩天交付了專案。",
-            "vocab": [
-              {
-                "word": "ahead of schedule",
-                "def": "提前；早於預期"
-              }
-            ]
+            "zh": "我手寫了一張道歉卡，然後提前兩天交付了專案。"
           },
           {
             "speaker": "a",
@@ -851,13 +570,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It worked. He became one of my best clients. He still jokes about the ringtone.",
-            "zh": "奏效了。他後來成了我最好的客戶之一。他現在還在拿那個鈴聲開玩笑。",
-            "vocab": [
-              {
-                "word": "ringtone",
-                "def": "手機鈴聲"
-              }
-            ]
+            "zh": "奏效了。他後來成了我最好的客戶之一。他現在還在拿那個鈴聲開玩笑。"
           },
           {
             "speaker": "a",
@@ -869,13 +582,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "First impressions stick, but they are not permanent. Consistent behavior over time is what really defines you.",
-            "zh": "第一印象會留下，但它不是永久的。長期一致的行為，才是真正定義你的東西。",
-            "vocab": [
-              {
-                "word": "consistent",
-                "def": "一致的；持續的"
-              }
-            ]
+            "zh": "第一印象會留下，但它不是永久的。長期一致的行為，才是真正定義你的東西。"
           }
         ]
       }
@@ -938,25 +645,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I had three social events in a row last weekend and by Sunday night I felt completely hollow.",
-            "zh": "上週末我連續參加了三個社交活動，到週日晚上我感覺整個人掏空了。",
-            "vocab": [
-              {
-                "word": "hollow",
-                "def": "空洞的；掏空的"
-              }
-            ]
+            "zh": "上週末我連續參加了三個社交活動，到週日晚上我感覺整個人掏空了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is classic introvert exhaustion. Your social battery ran out.",
-            "zh": "那是典型的內向者疲勞。你的社交電池耗盡了。",
-            "vocab": [
-              {
-                "word": "social battery",
-                "def": "社交電池（比喻社交能量）"
-              }
-            ]
+            "zh": "那是典型的內向者疲勞。你的社交電池耗盡了。"
           },
           {
             "speaker": "b",
@@ -968,43 +663,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Being an introvert does not mean you are bad at it. It means it costs you more energy than it does for extroverts.",
-            "zh": "內向不代表你不擅長社交。這意味著社交對你消耗的能量比外向者更多。",
-            "vocab": [
-              {
-                "word": "cost",
-                "def": "消耗；代價"
-              }
-            ]
+            "zh": "內向不代表你不擅長社交。這意味著社交對你消耗的能量比外向者更多。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So extroverts actually gain energy from being around people?",
-            "zh": "所以外向的人真的從與人相處中獲得能量？",
-            "vocab": [
-              {
-                "word": "gain energy",
-                "def": "獲得能量"
-              }
-            ]
+            "zh": "所以外向的人真的從與人相處中獲得能量？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For many of them, yes. A long quiet Sunday can feel draining rather than restful.",
-            "zh": "對他們中的許多人來說，確實如此。安靜地待一個週日對他們來說可能是消耗，而不是休息。",
-            "vocab": [
-              {
-                "word": "draining",
-                "def": "消耗精力的"
-              }
-            ]
+            "zh": "對他們中的許多人來說，確實如此。安靜地待一個週日對他們來說可能是消耗，而不是休息。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like another planet to me. I live for quiet Sunday mornings.",
-            "zh": "對我來說那感覺像另一個星球。我最愛安靜的週日早晨。"
+            "en": "That tracks — especially in practice.",
+            "zh": "這說得通——尤其在實際情況裡。"
           },
           {
             "speaker": "a",
@@ -1021,25 +698,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Workplaces tend to reward extroverted behavior. Speak up in meetings, network, be visible.",
-            "zh": "職場傾向於獎勵外向行為。在會議上發言、建立人脈、讓自己被看見。",
-            "vocab": [
-              {
-                "word": "network",
-                "def": "建立人脈"
-              }
-            ]
+            "zh": "職場傾向於獎勵外向行為。在會議上發言、建立人脈、讓自己被看見。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I feel that pressure constantly. My boss once said I needed to \"put myself out there more.\"",
-            "zh": "我一直感受到這種壓力。我主管有一次說我需要「更主動展現自己」。",
-            "vocab": [
-              {
-                "word": "put myself out",
-                "def": "主動讓自己被看見；勇於表現"
-              }
-            ]
+            "zh": "我一直感受到這種壓力。我主管有一次說我需要「更主動展現自己」。"
           },
           {
             "speaker": "a",
@@ -1051,25 +716,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Mostly attending after-work drinks and joining the Friday afternoon small talk sessions.",
-            "zh": "主要是指參加下班後的聚飲，還有週五下午的閒聊時間。",
-            "vocab": [
-              {
-                "word": "small talk",
-                "def": "閒聊；寒暄"
-              }
-            ]
+            "zh": "主要是指參加下班後的聚飲，還有週五下午的閒聊時間。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a performance of extroversion, not actual competence. The two should not be confused.",
-            "zh": "那是在表演外向，不是真正的能力。這兩件事不應該被混為一談。",
-            "vocab": [
-              {
-                "word": "competence",
-                "def": "能力；勝任"
-              }
-            ]
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "b",
@@ -1081,13 +734,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Introvert strengths — depth, focus, listening — are just as valuable in a workplace. Often more so.",
-            "zh": "內向者的優勢——深度、專注、傾聽——在職場上同樣有價值，往往更有價值。",
-            "vocab": [
-              {
-                "word": "depth",
-                "def": "往往更有價值"
-              }
-            ]
+            "zh": "內向者的優勢——深度、專注、傾聽——在職場上同樣有價值，往往更有價值。"
           },
           {
             "speaker": "b",
@@ -1110,49 +757,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is called ambiversion. Most people are actually somewhere in the middle of the spectrum.",
-            "zh": "那叫做中向性格。大多數人其實都處於這個光譜的中間某處。",
-            "vocab": [
-              {
-                "word": "ambiversion",
-                "def": "中向性格（兼具內外向特質）"
-              }
-            ]
+            "zh": "那叫做中向性格。大多數人其實都處於這個光譜的中間某處。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the introvert-extrovert thing is more of a scale than two separate boxes?",
-            "zh": "所以內向-外向不是兩個分開的箱子，而是一個量尺？",
-            "vocab": [
-              {
-                "word": "separate",
-                "def": "分開；區分"
-              }
-            ]
+            "zh": "所以內向-外向不是兩個分開的箱子，而是一個量尺？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And even a strong introvert can learn to function well in social situations with practice.",
-            "zh": "對。而且就算是非常內向的人，也可以透過練習學會在社交場合良好運作。",
-            "vocab": [
-              {
-                "word": "function",
-                "def": "運作；發揮功能"
-              }
-            ]
+            "zh": "對。而且就算是非常內向的人，也可以透過練習學會在社交場合良好運作。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I do okay at work events when I have a clear role. Like if I am presenting, it is fine.",
-            "zh": "如果我有明確的角色，我在工作活動中表現還不錯。比如我在做簡報時，就還好。",
-            "vocab": [
-              {
-                "word": "presenting",
-                "def": "做簡報；發表"
-              }
-            ]
+            "zh": "如果我有明確的角色，我在工作活動中表現還不錯。比如我在做簡報時，就還好。"
           },
           {
             "speaker": "a",
@@ -1170,13 +793,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A good opening question does half the work for you at any social event.",
-            "zh": "就是這樣。一個好的開場問題，在任何社交活動中都能幫你完成一半的工作。",
-            "vocab": [
-              {
-                "word": "opening question",
-                "def": "開場問題；破冰問題"
-              }
-            ]
+            "zh": "就是這樣。一個好的開場問題，在任何社交活動中都能幫你完成一半的工作。"
           }
         ]
       },
@@ -1187,13 +804,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I used to think my quiet colleague was unfriendly. It took months to realize she was just very internal.",
-            "zh": "我以前以為我那個安靜的同事很不友善。花了好幾個月才意識到她只是很內斂。",
-            "vocab": [
-              {
-                "word": "internal",
-                "def": "內斂的；內在的"
-              }
-            ]
+            "zh": "我以前以為我那個安靜的同事很不友善。花了好幾個月才意識到她只是很內斂。"
           },
           {
             "speaker": "b",
@@ -1211,61 +822,31 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "She was paying attention the whole time. Just not showing it in real time.",
-            "zh": "她一直都有在關注。只是不在當下表現出來。",
-            "vocab": [
-              {
-                "word": "real time",
-                "def": "只是不在當下表現出來"
-              }
-            ]
+            "zh": "她一直都有在關注。只是不在當下表現出來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Introverts often process and respond later. They are not absent, just slower to surface.",
-            "zh": "就是這樣。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。",
-            "vocab": [
-              {
-                "word": "surface",
-                "def": "浮現；顯現"
-              }
-            ]
+            "zh": "就是這樣。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Extroverts think out loud. Introverts think, then speak. Both are valid ways of working through ideas.",
-            "zh": "外向者邊想邊說。內向者先想，再說。兩者都是梳理想法的合理方式。",
-            "vocab": [
-              {
-                "word": "think out loud",
-                "def": "邊想邊說；大聲思考"
-              }
-            ]
+            "zh": "外向者邊想邊說。內向者先想，再說。兩者都是梳理想法的合理方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The problem is meetings favor the think-out-loud style. It looks more decisive even when it is not.",
-            "zh": "問題是會議偏向於「邊想邊說」的風格。這看起來更果斷，即使實際上未必如此。",
-            "vocab": [
-              {
-                "word": "decisive",
-                "def": "果斷的；決斷的"
-              }
-            ]
+            "zh": "問題是會議偏向於「邊想邊說」的風格。這看起來更果斷，即使實際上未必如此。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a real structural bias in most workplaces. Worth naming out loud.",
-            "zh": "這是大多數職場中真實存在的結構性偏見。值得直接說出來。",
-            "vocab": [
-              {
-                "word": "structural bias",
-                "def": "結構性偏見"
-              }
-            ]
+            "zh": "這是大多數職場中真實存在的結構性偏見。值得直接說出來。"
           }
         ]
       },
@@ -1282,13 +863,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I started blocking out one lunch per week to eat alone. No phone, no conversation. Just food and quiet.",
-            "zh": "我開始每週留出一個午餐時間獨自吃飯。沒有手機，沒有對話。只有食物和安靜。",
-            "vocab": [
-              {
-                "word": "blocking out",
-                "def": "排定；保留（時間）"
-              }
-            ]
+            "zh": "我開始每週留出一個午餐時間獨自吃飯。沒有手機，沒有對話。只有食物和安靜。"
           },
           {
             "speaker": "b",
@@ -1300,13 +875,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Enormously. I used to hit Thursday completely depleted. Now I am still functional on Friday afternoon.",
-            "zh": "非常有用。我以前到週四就整個人耗盡了。現在週五下午我還有辦法正常運作。",
-            "vocab": [
-              {
-                "word": "depleted",
-                "def": "耗盡的；精疲力竭的"
-              }
-            ]
+            "zh": "非常有用。我以前到週四就整個人耗盡了。現在週五下午我還有辦法正常運作。"
           },
           {
             "speaker": "b",
@@ -1318,37 +887,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. And I stopped apologizing for needing it. Protecting your energy is not antisocial.",
-            "zh": "確實是。而且我也不再為這個需求道歉了。保護自己的能量不是反社會。",
-            "vocab": [
-              {
-                "word": "antisocial",
-                "def": "反社會的；不合群的"
-              }
-            ]
+            "zh": "確實是。而且我也不再為這個需求道歉了。保護自己的能量不是反社會。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That shift in framing matters. \"I need recovery time\" versus \"I do not like people.\"",
-            "zh": "這種框架的轉變很重要。「我需要恢復時間」對比「我不喜歡人」。",
-            "vocab": [
-              {
-                "word": "framing",
-                "def": "框架；表述方式"
-              }
-            ]
+            "zh": "這種框架的轉變很重要。「我需要恢復時間」對比「我不喜歡人」。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Self-awareness about energy is a strength, not a limitation. Own it.",
-            "zh": "對。對能量的自我覺察是優勢，不是局限。要坦然面對它。",
-            "vocab": [
-              {
-                "word": "self-awareness",
-                "def": "自我覺察；自我意識"
-              }
-            ]
+            "zh": "對。對能量的自我覺察是優勢，不是局限。要坦然面對它。"
           }
         ]
       }
@@ -1411,25 +962,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There is a woman in my yoga class who everyone gravitates toward. She is not the loudest or the funniest. I cannot figure out what it is.",
-            "zh": "我瑜伽班有個女生，每個人都自然地被她吸引。她不是最大聲的，也不是最有趣的。我想不透是什麼原因。",
-            "vocab": [
-              {
-                "word": "gravitates toward",
-                "def": "自然被…吸引；傾向於"
-              }
-            ]
+            "zh": "我瑜伽班有個女生，每個人都自然地被她吸引。她不是最大聲的，也不是最有趣的。我想不透是什麼原因。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes it is just presence. The way someone occupies a room without needing to dominate it.",
-            "zh": "有時候那只是氣場。一個人佔據空間的方式，不需要主導，卻讓人感覺得到。",
-            "vocab": [
-              {
-                "word": "presence",
-                "def": "氣場；存在感"
-              }
-            ]
+            "zh": "有時候那只是氣場。一個人佔據空間的方式，不需要主導，卻讓人感覺得到。"
           },
           {
             "speaker": "b",
@@ -1441,25 +980,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think people with strong presence are genuinely interested in others. They ask real questions and actually listen to the answers.",
-            "zh": "我覺得有強烈氣場的人，是真正對他人感興趣的人。他們問真實的問題，也真的聆聽答案。",
-            "vocab": [
-              {
-                "word": "genuinely",
-                "def": "真誠地；真正地"
-              }
-            ]
+            "zh": "我覺得有強烈氣場的人，是真正對他人感興趣的人。他們問真實的問題，也真的聆聽答案。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is it. She always remembers what you told her last week. Small details.",
-            "zh": "就是這樣。她總是記得你上週說的事。小細節。",
-            "vocab": [
-              {
-                "word": "detail",
-                "def": "小細節"
-              }
-            ]
+            "zh": "就是這樣。她總是記得你上週說的事。小細節。"
           },
           {
             "speaker": "a",
@@ -1477,13 +1004,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why real listening is rare and why it stands out so much when you experience it.",
-            "zh": "這就是為什麼真正的傾聽很罕見，也是為什麼當你真正體驗到它時，它會如此突出。",
-            "vocab": [
-              {
-                "word": "stands out",
-                "def": "突出；與眾不同"
-              }
-            ]
+            "zh": "這就是為什麼真正的傾聽很罕見，也是為什麼當你真正體驗到它時，它會如此突出。"
           }
         ]
       },
@@ -1494,13 +1015,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The trait I respect most is integrity. Not grand gestures — small consistent choices when no one is watching.",
-            "zh": "我最尊重的特質是正直。不是宏大的姿態，而是沒人看的時候一致的小選擇。",
-            "vocab": [
-              {
-                "word": "integrity",
-                "def": "正直；誠信"
-              }
-            ]
+            "zh": "我最尊重的特質是正直。不是宏大的姿態，而是沒人看的時候一致的小選擇。"
           },
           {
             "speaker": "b",
@@ -1512,61 +1027,31 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "My colleague takes credit for his own mistakes in front of the team. He does not blame the data or the timeline.",
-            "zh": "我同事在團隊面前承擔自己的錯誤。他不會把責任推給數據或時間表。",
-            "vocab": [
-              {
-                "word": "credit",
-                "def": "稱讚；功勞"
-              }
-            ]
+            "zh": "我同事在團隊面前承擔自己的錯誤。他不會把責任推給資料或時間表。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That takes real courage in a workplace culture that punishes mistakes.",
-            "zh": "在一個懲罰錯誤的職場文化裡，這需要真正的勇氣。",
-            "vocab": [
-              {
-                "word": "courage",
-                "def": "這需要真正的勇氣"
-              }
-            ]
+            "zh": "在一個懲罰錯誤的職場文化裡，這需要真正的勇氣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And people notice. His credibility with the team is much higher because of it.",
-            "zh": "而且人們都有感覺到。正因如此，他在團隊中的可信度要高得多。",
-            "vocab": [
-              {
-                "word": "credibility",
-                "def": "可信度；信譽"
-              }
-            ]
+            "zh": "而且人們都有感覺到。正因如此，他在團隊中的可信度要高得多。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It is counterintuitive. Admitting failure builds trust faster than always looking polished.",
-            "zh": "這有點反直覺。承認失敗比永遠看起來光鮮更快地建立信任。",
-            "vocab": [
-              {
-                "word": "counterintuitive",
-                "def": "反直覺的"
-              }
-            ]
+            "zh": "這有點反直覺。承認失敗比永遠看起來光鮮更快地建立信任。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it signals that you value truth over appearance. That is a rare and genuinely admirable thing.",
-            "zh": "因為這表明你重視真相勝過外表。這是罕見的，也是真正值得敬佩的事。",
-            "vocab": [
-              {
-                "word": "admirable",
-                "def": "令人欽佩的"
-              }
-            ]
+            "zh": "因為這表明你重視真相勝過外表。這是罕見的，也是真正值得敬佩的事。"
           },
           {
             "speaker": "b",
@@ -1583,85 +1068,43 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My uncle lost his business during the economic downturn. Within a year he had started a new one.",
-            "zh": "我舅舅在經濟衰退期間失去了他的生意。不到一年，他又創辦了一個新事業。",
-            "vocab": [
-              {
-                "word": "downturn",
-                "def": "衰退；低迷"
-              }
-            ]
+            "zh": "我舅舅在經濟衰退期間失去了他的生意。不到一年，他又創辦了一個新事業。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of resilience is rare. What do you think got him through?",
-            "zh": "那種韌性很罕見。你覺得是什麼讓他撐過去的？",
-            "vocab": [
-              {
-                "word": "resilience",
-                "def": "韌性；恢復力"
-              }
-            ]
+            "zh": "那種韌性很罕見。你覺得是什麼讓他撐過去的？"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "He said he gave himself one week to feel bad about it. Then he switched to problem-solving mode.",
-            "zh": "他說他給了自己一週的時間難過。然後他切換到解決問題模式。",
-            "vocab": [
-              {
-                "word": "problem-solving mode",
-                "def": "解決問題的狀態"
-              }
-            ]
+            "zh": "他說他給了自己一週的時間難過。然後他切換到解決問題模式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That structure — feeling it fully, then choosing to move — is very different from just suppressing the emotion.",
-            "zh": "這種結構——完整地感受，然後選擇前進——和單純壓抑情緒非常不同。",
-            "vocab": [
-              {
-                "word": "suppress",
-                "def": "壓抑；抑制"
-              }
-            ]
+            "zh": "這種結構——完整地感受，然後選擇前進——和單純壓抑情緒非常不同。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "He also said he was clear about what he could and could not control. He stopped wasting energy on the latter.",
-            "zh": "他還說他很清楚自己能控制和不能控制的事情。他停止把精力浪費在後者上。",
-            "vocab": [
-              {
-                "word": "latter",
-                "def": "他停止把精力浪費在後者上"
-              }
-            ]
+            "zh": "他還說他很清楚自己能控制和不能控制的事情。他停止把精力浪費在後者上。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the core of resilience — directing energy toward what responds to effort.",
-            "zh": "這就是韌性的核心——把能量導向那些能被努力影響的事情。",
-            "vocab": [
-              {
-                "word": "direct",
-                "def": "引導；導向"
-              }
-            ]
+            "zh": "這就是韌性的核心——把能量導向那些能被努力影響的事情。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I admire that in him deeply. It made his recovery feel intentional rather than just lucky.",
-            "zh": "我非常敬佩他這一點。這讓他的復原感覺是有意圖的，而不只是運氣好。",
-            "vocab": [
-              {
-                "word": "intentional",
-                "def": "有意圖的；刻意的"
-              }
-            ]
+            "zh": "我非常敬佩他這一點。這讓他的復原感覺是有意圖的，而不只是運氣好。"
           },
           {
             "speaker": "a",
@@ -1678,13 +1121,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think there is a difference between being kind and being nice. I admire kindness much more.",
-            "zh": "我覺得善良和和善是不同的。我更欽佩善良。",
-            "vocab": [
-              {
-                "word": "kindness",
-                "def": "善良；仁慈"
-              }
-            ]
+            "zh": "我覺得善良和和善是不同的。我更欽佩善良。"
           },
           {
             "speaker": "b",
@@ -1696,13 +1133,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Nice people avoid discomfort. Kind people do the harder thing when it matters, even if it creates friction.",
-            "zh": "和善的人迴避不舒適。善良的人在重要時刻做更難的事，即使這會造成摩擦。",
-            "vocab": [
-              {
-                "word": "friction",
-                "def": "摩擦；不和諧"
-              }
-            ]
+            "zh": "和善的人迴避不舒適。善良的人在重要時刻做更難的事，即使這會造成摩擦。"
           },
           {
             "speaker": "b",
@@ -1714,49 +1145,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A nice person says \"looks great!\" A kind person says \"I want this to work, so let me be honest with you.\"",
-            "zh": "就是這樣。和善的人說「看起來很棒！」善良的人說「我希望這能成功，所以讓我對你誠實。」",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "你誠實。"
-              }
-            ]
+            "zh": "就是這樣。和善的人說「看起來很棒！」善良的人說「我希望這能成功，所以讓我對你誠實。」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That kind of honesty requires trust. You have to know the person cares about you before it lands well.",
-            "zh": "那種誠實需要信任。你必須知道對方關心你，才能接受得了。",
-            "vocab": [
-              {
-                "word": "trust",
-                "def": "那種誠實需要信任"
-              }
-            ]
+            "zh": "那種誠實需要信任。你必須知道對方關心你，才能接受得了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Honest feedback without relationship context just feels like criticism.",
-            "zh": "說得對。沒有關係基礎的誠實反饋，只會讓人感覺像批評。",
-            "vocab": [
-              {
-                "word": "criticism",
-                "def": "批評；批判"
-              }
-            ]
+            "zh": "說得對。沒有關係基礎的誠實反饋，只會讓人感覺像批評。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Which is why earning the right to be direct with someone matters as much as what you say.",
-            "zh": "這就是為什麼贏得對某人直言的資格，和你說什麼一樣重要。",
-            "vocab": [
-              {
-                "word": "earning",
-                "def": "贏得資格"
-              }
-            ]
+            "zh": "這就是為什麼贏得對某人直言的資格，和你說什麼一樣重要。"
           }
         ]
       },
@@ -1773,49 +1180,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Learnable, but through experience, not reading. You develop resilience by going through hard things.",
-            "zh": "可以學，但要透過經歷，而不是閱讀。你是在經歷艱難事物的過程中培養韌性的。",
-            "vocab": [
-              {
-                "word": "develop",
-                "def": "培養；發展"
-              }
-            ]
+            "zh": "可以學，但要透過經歷，而不是閱讀。你是在經歷艱難事物的過程中培養韌性的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So trying to shortcut it — skipping the hard part — does not really work.",
-            "zh": "所以試圖走捷徑——跳過艱難的部分——並不真的管用。",
-            "vocab": [
-              {
-                "word": "shortcut",
-                "def": "所以試圖走捷徑——跳過艱難的部分——並不真的管用"
-              }
-            ]
+            "zh": "所以試圖走捷徑——跳過艱難的部分——並不真的管用。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not for the deep traits. You cannot read your way to courage or integrity. You have to act your way there.",
-            "zh": "深層特質不行。你沒辦法讀書讀出勇氣或正直。你必須用行動走到那裡。",
-            "vocab": [
-              {
-                "word": "act your way",
-                "def": "透過行動達成"
-              }
-            ]
+            "zh": "深層特質不行。你沒辦法讀書讀出勇氣或正直。你必須用行動走到那裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is slightly terrifying. It means the only way forward is through uncomfortable situations.",
-            "zh": "這有點令人恐懼。意思是向前走的唯一方法就是穿越不舒適的情境。",
-            "vocab": [
-              {
-                "word": "terrifying",
-                "def": "令人恐懼的；可怕的"
-              }
-            ]
+            "zh": "這有點令人恐懼。意思是向前走的唯一方法就是穿越不舒適的情境。"
           },
           {
             "speaker": "a",
@@ -1827,13 +1210,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Earned traits hit differently than natural ones. There is more respect in them.",
-            "zh": "後天習得的特質和天生的感覺不一樣。它們有更多值得尊敬的東西。",
-            "vocab": [
-              {
-                "word": "hit differently",
-                "def": "感覺不同；有另一番滋味"
-              }
-            ]
+            "zh": "後天習得的特質和天生的感覺不一樣。它們有更多值得尊敬的東西。"
           },
           {
             "speaker": "a",
@@ -1902,49 +1279,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I procrastinate badly. I know I do it. I can see myself doing it. I still do it.",
-            "zh": "我拖延症很嚴重。我知道我有這個問題。我能看到自己在拖延。但我還是這樣做。",
-            "vocab": [
-              {
-                "word": "procrastinate",
-                "def": "拖延"
-              }
-            ]
+            "zh": "我拖延症很嚴重。我知道我有這個問題。我能看到自己在拖延。但我還是這樣做。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Self-awareness without behavior change is one of the most frustrating loops. I know it well.",
-            "zh": "有自我覺察卻沒有行為改變，是最令人沮喪的循環之一。我很了解那種感覺。",
-            "vocab": [
-              {
-                "word": "self-awareness",
-                "def": "自我覺察"
-              }
-            ]
+            "zh": "有自我覺察卻沒有行為改變，是最令人沮喪的循環之一。我很了解那種感覺。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I read about it. I tried apps. I made lists. Two days later I am back to the same pattern.",
-            "zh": "我讀了很多資料。試過各種 app。做了清單。兩天後又回到同樣的模式。",
-            "vocab": [
-              {
-                "word": "pattern",
-                "def": "模式；規律"
-              }
-            ]
+            "zh": "我讀了很多資料。試過各種 app。做了清單。兩天後又回到同樣的模式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Have you tried figuring out what you are procrastinating toward rather than away from?",
-            "zh": "你有沒有試著搞清楚你在拖延的是什麼，而不只是想著你在逃避什麼？",
-            "vocab": [
-              {
-                "word": "toward",
-                "def": "不是外面給的讚賞"
-              }
-            ]
+            "zh": "你有沒有試著搞清楚你在拖延的是什麼，而不只是想著你在逃避什麼？"
           },
           {
             "speaker": "b",
@@ -1962,25 +1315,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Usually scrolling or reorganizing things that do not need reorganizing.",
-            "zh": "通常是滑手機，或者整理那些根本不需要整理的東西。",
-            "vocab": [
-              {
-                "word": "scrolling",
-                "def": "滑手機；滾動瀏覽"
-              }
-            ]
+            "zh": "通常是滑手機，或者整理那些根本不需要整理的東西。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Low-stakes activity that feels productive. Your brain is managing anxiety, not being lazy.",
-            "zh": "低風險的活動，但感覺有在做事。你的大腦在管理焦慮，不是在偷懶。",
-            "vocab": [
-              {
-                "word": "anxiety",
-                "def": "焦慮"
-              }
-            ]
+            "zh": "低風險的活動，但感覺有在做事。你的大腦在管理焦慮，不是在偷懶。"
           }
         ]
       },
@@ -1991,13 +1332,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Some flaws are easy to admit. Some we protect because they are secretly useful.",
-            "zh": "有些缺點很容易承認。有些我們保護著，因為它們其實很有用。",
-            "vocab": [
-              {
-                "word": "flaw",
-                "def": "缺點；瑕疵"
-              }
-            ]
+            "zh": "有些缺點很容易承認。有些我們保護著，因為它們其實很有用。"
           },
           {
             "speaker": "b",
@@ -2009,73 +1344,37 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Being a perfectionist sounds like a flaw. But it also means you never ship embarrassing work.",
-            "zh": "完美主義聽起來像缺點。但它也代表你從來不會交出令人難堪的作品。",
-            "vocab": [
-              {
-                "word": "perfectionist",
-                "def": "完美主義者"
-              }
-            ]
+            "zh": "完美主義聽起來像缺點。但它也代表你從來不會交出令人難堪的作品。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the flaw protects you from something worse — or at least from something you fear.",
-            "zh": "所以這個缺點保護你免於某件更糟的事——或至少是某件你害怕的事。",
-            "vocab": [
-              {
-                "word": "protect",
-                "def": "隨著人生調整、仍然活著的投入"
-              }
-            ]
+            "zh": "所以這個缺點保護你免於某件更糟的事——或至少是某件你害怕的事。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. My tendency to overwork protects me from the fear of being seen as inadequate.",
-            "zh": "就是這樣。我過度工作的傾向保護我免於被視為不夠格的恐懼。",
-            "vocab": [
-              {
-                "word": "inadequate",
-                "def": "不夠格的；不充分的"
-              }
-            ]
+            "zh": "就是這樣。我過度工作的傾向保護我免於被視為不夠格的恐懼。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So changing the habit means dealing with the fear underneath it.",
-            "zh": "所以改變這個習慣意味著要處理它底下的恐懼。",
-            "vocab": [
-              {
-                "word": "underneath",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "所以改變這個習慣意味著要處理它底下的恐懼。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is why willpower alone rarely works. You need to address the root, not just the branch.",
-            "zh": "對。這就是為什麼光靠意志力很少有用。你需要處理根源，而不只是枝枒。",
-            "vocab": [
-              {
-                "word": "willpower",
-                "def": "意志力"
-              }
-            ]
+            "zh": "對。這就是為什麼光靠意志力很少有用。你需要處理根源，而不只是枝枒。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That reframe changes everything. It is not \"stop procrastinating.\" It is \"what am I avoiding?\"",
-            "zh": "這個重新框架改變了一切。不是「停止拖延」，而是「我在逃避什麼？」",
-            "vocab": [
-              {
-                "word": "reframe",
-                "def": "重新框架；換個角度看"
-              }
-            ]
+            "zh": "這個重新框架改變了一切。不是「停止拖延」，而是「我在逃避什麼？」"
           }
         ]
       },
@@ -2092,102 +1391,54 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A friend told me I go quiet when I am upset instead of saying so. She said it made her feel shut out.",
-            "zh": "有。一個朋友告訴我，我難過的時候會變得沉默，而不是說出來。她說這讓她感覺被拒之門外。",
-            "vocab": [
-              {
-                "word": "shut out",
-                "def": "被排除在外；被拒之門外"
-              }
-            ]
+            "zh": "有。一個朋友告訴我，我難過的時候會變得沉默，而不是說出來。她說這讓她感覺被拒之門外。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Did that land hard?",
-            "zh": "那句話打擊到你了嗎？",
-            "vocab": [
-              {
-                "word": "land hard",
-                "def": "衝擊很大；很難受"
-              }
-            ]
+            "zh": "那句話打擊到你了嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A little. But mostly I was grateful. I thought I was just being calm. I did not realize it read as cold.",
-            "zh": "有一點。但大多是感激。我以為我只是在保持冷靜。我沒意識到那看起來是冷漠。",
-            "vocab": [
-              {
-                "word": "cold",
-                "def": "冷漠的；冷淡的"
-              }
-            ]
+            "zh": "有一點。但大多是感激。我以為我只是在保持冷靜。我沒意識到那看起來是冷漠。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That gap between intention and impact is so common. You think you are holding it together and others think you do not care.",
-            "zh": "意圖和影響之間的這種落差很常見。你以為你在撐著，別人卻以為你不在乎。",
-            "vocab": [
-              {
-                "word": "holding it together",
-                "def": "撐著；保持冷靜"
-              }
-            ]
+            "zh": "意圖和影響之間的這種落差很常見。你以為你在撐著，別人卻以為你不在乎。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Unsolicited feedback is uncomfortable. But it is often more accurate than what people say when you ask directly.",
-            "zh": "不請自來的反饋很不舒服。但它往往比你直接詢問時人們說的更準確。",
-            "vocab": [
-              {
-                "word": "unsolicited",
-                "def": "不請自來的；未被要求的"
-              }
-            ]
+            "zh": "不請自來的反饋很不舒服。但它往往比你直接詢問時人們說的更準確。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Because when you ask, people tend to soften it.",
-            "zh": "因為當你主動詢問時，人們往往會說得溫和一些。",
-            "vocab": [
-              {
-                "word": "soften",
-                "def": "使變溫和；緩和"
-              }
-            ]
+            "zh": "因為當你主動詢問時，人們往往會說得溫和一些。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The raw, unfiltered version is usually closer to how you actually come across.",
-            "zh": "就是這樣。原始、未經過濾的版本通常更接近你真正給人的印象。",
-            "vocab": [
-              {
-                "word": "come across",
-                "def": "給人…的印象；被感知為"
-              }
-            ]
+            "zh": "就是這樣。原始、未經過濾的版本通常更接近你真正給人的印象。"
           }
         ]
       },
       {
-        "title": "Part 4 — Habits That Shape You",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I started journaling six months ago. I was skeptical but my therapist pushed me to try it for two weeks.",
-            "zh": "我六個月前開始寫日記。我本來很懷疑，但我的諮商師推動我嘗試兩週。",
-            "vocab": [
-              {
-                "word": "journaling",
-                "def": "寫日記；日誌記錄"
-              }
-            ]
+            "zh": "我六個月前開始寫日記。我本來很懷疑，但我的諮商師推動我嘗試兩週。"
           },
           {
             "speaker": "a",
@@ -2199,49 +1450,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Yes. Unexpectedly. I started noticing patterns I could not see when everything was just in my head.",
-            "zh": "是的。出乎意料地。我開始注意到一些模式，這些模式在一切都只在我腦中時我無法看到。",
-            "vocab": [
-              {
-                "word": "Unexpectedly",
-                "def": "堅持；持續下去"
-              }
-            ]
+            "zh": "是的。出乎意料地。我開始注意到一些模式，這些模式在一切都只在我腦中時我無法看到。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Writing externalizes your thoughts. You can see them as separate from you, which makes them easier to examine.",
-            "zh": "寫作把你的思想外化了。你可以把它們視為獨立於你自身的東西，這讓它們更容易被審視。",
-            "vocab": [
-              {
-                "word": "externalize",
-                "def": "外化；使具體化"
-              }
-            ]
+            "zh": "寫作把你的思想外化了。你可以把它們視為獨立於你自身的東西，這讓它們更容易被審視。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I noticed I kept writing about the same argument with my sister in different forms. That helped me realize I had not actually let it go.",
-            "zh": "我注意到我一直在以不同的形式寫關於和我姊的同一個爭論。這幫助我意識到我其實還沒有放下它。",
-            "vocab": [
-              {
-                "word": "let it go",
-                "def": "放下；釋懷"
-              }
-            ]
+            "zh": "我注意到我一直在以不同的形式寫關於和我姊的同一個爭論。這幫助我意識到我其實還沒有放下它。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly the kind of blind spot a journal surfaces. Your head had moved on; your feelings had not.",
-            "zh": "這正是日記會浮現出的盲點。你的思緒已經繼續走了；你的情緒沒有。",
-            "vocab": [
-              {
-                "word": "surface",
-                "def": "使浮現；揭示"
-              }
-            ]
+            "zh": "這正是日記會浮現出的盲點。你的思緒已經繼續走了；你的情緒沒有。"
           },
           {
             "speaker": "b",
@@ -2254,107 +1481,54 @@ export const WEEK_15: Episode[] = [
             "speakerName": "Mira",
             "en": "A good habit does not just change behavior. It changes what you can see about yourself.",
             "zh": "一個好習慣不只是改變行為。它改變你對自己能看到的東西。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Growing Without Hating Yourself",
-        "lines": [
+          },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I used to have a very harsh inner critic. Every mistake felt like evidence of being fundamentally flawed.",
-            "zh": "我以前有一個非常嚴苛的內在批評者。每一個錯誤都感覺像是我從根本上有缺陷的證明。",
-            "vocab": [
-              {
-                "word": "inner critic",
-                "def": "內在批評者；自我批判聲音"
-              }
-            ]
+            "zh": "我以前有一個非常嚴苛的內在批評者。每一個錯誤都感覺像是我從根本上有缺陷的證明。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sounds exhausting. How did you shift out of that?",
-            "zh": "聽起來很累人。你是怎麼走出那種狀態的？",
-            "vocab": [
-              {
-                "word": "shift",
-                "def": "轉變；改變"
-              }
-            ]
+            "zh": "聽起來很累人。你是怎麼走出那種狀態的？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Slowly. Therapy helped. But the main shift was separating the behavior from my identity.",
-            "zh": "慢慢地。諮商有幫助。但主要的轉變是把行為和我的身份分開來。",
-            "vocab": [
-              {
-                "word": "identity",
-                "def": "身份；自我認同"
-              }
-            ]
+            "zh": "慢慢地。諮商有幫助。但主要的轉變是把行為和我的身份分開來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Meaning — \"I did something careless\" rather than \"I am a careless person\"?",
-            "zh": "意思是——「我做了一件粗心的事」而不是「我是一個粗心的人」？",
-            "vocab": [
-              {
-                "word": "careless",
-                "def": "粗心的；大意的"
-              }
-            ]
+            "zh": "意思是——「我做了一件粗心的事」而不是「我是一個粗心的人」？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Behavior is changeable. Identity feels fixed. The language you use matters enormously.",
-            "zh": "就是這樣。行為是可以改變的。身份感覺是固定的。你用的語言非常重要。",
-            "vocab": [
-              {
-                "word": "changeable",
-                "def": "可改變的"
-              }
-            ]
+            "zh": "就是這樣。行為是可以改變的。身份感覺是固定的。你用的語言非常重要。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is the growth mindset idea. Effort and behavior are malleable; you are not a finished product.",
-            "zh": "這就是成長型思維的概念。努力和行為是可塑的；你不是一個已完成的產品。",
-            "vocab": [
-              {
-                "word": "malleable",
-                "def": "可塑的；易改變的"
-              }
-            ]
+            "zh": "這就是成長型思維的概念。努力和行為是可塑的；你不是一個已完成的產品。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And self-compassion is not softness — it is the foundation for honest self-examination.",
-            "zh": "對。自我同理不是軟弱——它是誠實自我審視的基礎。",
-            "vocab": [
-              {
-                "word": "self-compassion",
-                "def": "自我同理；對自己的慈悲"
-              }
-            ]
+            "zh": "對。自我同理不是軟弱——它是誠實自我審視的基礎。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "If you are too busy punishing yourself for the last mistake, you have no capacity to learn from it.",
-            "zh": "如果你忙著為上一個錯誤懲罰自己，你就沒有能力從中學習了。",
-            "vocab": [
-              {
-                "word": "capacity",
-                "def": "能力；容量"
-              }
-            ]
+            "zh": "如果你忙著為上一個錯誤懲罰自己，你就沒有能力從中學習了。"
           }
         ]
       }
@@ -2429,73 +1603,37 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Both, honestly. We argue about things my same-type friends would never question. But we also learn a lot from each other.",
-            "zh": "老實說兩者都有。我們為一些我的同類型朋友從來不會質疑的事情爭論。但我們也從彼此身上學到很多。",
-            "vocab": [
-              {
-                "word": "honestly",
-                "def": "老實說；誠實地"
-              }
-            ]
+            "zh": "老實說兩者都有。我們為一些我的同類型朋友從來不會質疑的事情爭論。但我們也從彼此身上學到很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Similarity makes relationships easier to start. Difference makes them more expansive over time.",
-            "zh": "相似性讓關係更容易開始。差異讓關係隨著時間變得更廣闊。",
-            "vocab": [
-              {
-                "word": "expansive",
-                "def": "廣闊的；寬廣的"
-              }
-            ]
+            "zh": "相似性讓關係更容易開始。差異讓關係隨著時間變得更廣闊。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a useful way to think about it. I never framed it as expansive before.",
-            "zh": "這是個有用的思考方式。我以前從來沒有把它框架成「廣闊」。",
-            "vocab": [
-              {
-                "word": "frame",
-                "def": "框架；以…方式理解"
-              }
-            ]
+            "zh": "這是個有用的思考方式。我以前從來沒有把它框架成「廣闊」。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "My best friendships are with people who challenge me. Not aggressively, but by simply being different.",
-            "zh": "我最好的友誼都是和挑戰我的人建立的。不是咄咄逼人，而是單純地不一樣。",
-            "vocab": [
-              {
-                "word": "challenge",
-                "def": "挑戰；考驗"
-              }
-            ]
+            "zh": "我最好的友誼都是和挑戰我的人建立的。不是咄咄逼人，而是單純地不一樣。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Being around someone who thinks differently forces you to articulate why you believe what you believe.",
-            "zh": "和思考方式不同的人在一起，會迫使你說清楚為什麼你相信你相信的事。",
-            "vocab": [
-              {
-                "word": "articulate",
-                "def": "清楚表達；說清楚"
-              }
-            ]
+            "zh": "和思考方式不同的人在一起，會迫使你說清楚為什麼你相信你相信的事。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is healthy. Echo chambers feel comfortable but they do not help you grow.",
-            "zh": "這是健康的。同溫層讓人感覺舒適，但不能幫助你成長。",
-            "vocab": [
-              {
-                "word": "echo chamber",
-                "def": "同溫層；迴音壁"
-              }
-            ]
+            "zh": "這是健康的。同溫層讓人感覺舒適，但不能幫助你成長。"
           }
         ]
       },
@@ -2506,13 +1644,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I had a friendship that ended because our communication styles were fundamentally incompatible.",
-            "zh": "我有一段友誼結束了，因為我們的溝通方式在根本上不相容。",
-            "vocab": [
-              {
-                "word": "incompatible",
-                "def": "不相容的；合不來的"
-              }
-            ]
+            "zh": "我有一段友誼結束了，因為我們的溝通方式在根本上不相容。"
           },
           {
             "speaker": "b",
@@ -2524,37 +1656,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She needed frequent check-ins and reassurance. I am more independent and often go quiet when I am busy.",
-            "zh": "她需要頻繁的聯繫和reassurance。我比較獨立，忙的時候常常安靜下來。",
-            "vocab": [
-              {
-                "word": "reassurance",
-                "def": "安慰；安全感"
-              }
-            ]
+            "zh": "她需要頻繁的聯繫和reassurance。我比較獨立，忙的時候常常安靜下來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And she read your quietness as withdrawal or not caring.",
-            "zh": "而她把你的安靜讀作退縮或不在乎。",
-            "vocab": [
-              {
-                "word": "withdrawal",
-                "def": "退縮；疏遠"
-              }
-            ]
+            "zh": "而她把你的安靜讀作退縮或不在乎。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And I read her need for contact as pressure. Neither of us was wrong — we just needed different things.",
-            "zh": "是的。而我把她對聯繫的需求讀作壓力。我們兩個都沒有錯——我們只是需要不同的東西。",
-            "vocab": [
-              {
-                "word": "contact",
-                "def": "聯繫；接觸"
-              }
-            ]
+            "zh": "是的。而我把她對聯繫的需求讀作壓力。我們兩個都沒有錯——我們只是需要不同的東西。"
           },
           {
             "speaker": "b",
@@ -2566,25 +1680,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Once. But it was too late by then. The resentment on both sides was already too high.",
-            "zh": "有一次。但那時候已經太遲了。雙方的怨恨已經太深。",
-            "vocab": [
-              {
-                "word": "resentment",
-                "def": "怨恨；憤恨"
-              }
-            ]
+            "zh": "有一次。但那時候已經太遲了。雙方的怨恨已經太深。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Naming a mismatch early changes the outcome completely. It becomes a conversation instead of a slow erosion.",
-            "zh": "早早說出不匹配，結果會完全不同。它變成一次對話，而不是緩慢的侵蝕。",
-            "vocab": [
-              {
-                "word": "erosion",
-                "def": "侵蝕；逐漸瓦解"
-              }
-            ]
+            "zh": "早早說出不匹配，結果會完全不同。它變成一次對話，而不是緩慢的侵蝕。"
           }
         ]
       },
@@ -2601,61 +1703,31 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All the time. My manager prefers bullet points and directness. My team responds better to more context and warmth.",
-            "zh": "一直都有。我主管喜歡條列式和直接。我的團隊對更多背景和溫度反應更好。",
-            "vocab": [
-              {
-                "word": "directness",
-                "def": "直接；直截了當"
-              }
-            ]
+            "zh": "一直都有。我主管喜歡條列式和直接。我的團隊對更多背景和溫度反應更好。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Does that feel inauthentic?",
-            "zh": "這樣感覺不真實嗎？",
-            "vocab": [
-              {
-                "word": "inauthentic",
-                "def": "不真實的；虛假的"
-              }
-            ]
+            "zh": "這樣感覺不真實嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. It is adapting, not pretending. My values stay the same — I just adjust the delivery.",
-            "zh": "不。那是在適應，不是假裝。我的價值觀沒有變——我只是調整表達方式。",
-            "vocab": [
-              {
-                "word": "delivery",
-                "def": "表達方式；傳遞方式"
-              }
-            ]
+            "zh": "不。那是在適應，不是假裝。我的價值觀沒有變——我只是調整表達方式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I struggle with that. I tend to communicate the same way with everyone and then wonder why some people respond poorly.",
-            "zh": "我在這方面有困難。我傾向於和每個人用同樣的方式溝通，然後不明白為什麼有些人反應不佳。",
-            "vocab": [
-              {
-                "word": "struggle",
-                "def": "掙扎；感到困難"
-              }
-            ]
+            "zh": "我在這方面有困難。我傾向於和每個人用同樣的方式溝通，然後不明白為什麼有些人反應不佳。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Adjusting to your audience is a skill. It takes practice and paying attention to feedback signals.",
-            "zh": "調整以符合你的聽眾是一種技能。需要練習，也需要關注反饋信號。",
-            "vocab": [
-              {
-                "word": "audience",
-                "def": "對象；聽眾"
-              }
-            ]
+            "zh": "調整以符合你的聽眾是一種技能。需要練習，也需要關注反饋信號。"
           },
           {
             "speaker": "b",
@@ -2667,13 +1739,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mainly body language and how much someone talks back. If they go quiet, I have lost them. If they lean in, it is working.",
-            "zh": "主要是肢體語言，還有對方說話的多少。如果他們沉默了，我就已經失去他們了。如果他們身體前傾，就說明有用。",
-            "vocab": [
-              {
-                "word": "lean in",
-                "def": "身體前傾；更積極投入"
-              }
-            ]
+            "zh": "主要是肢體語言，還有對方說話的多少。如果他們沉默了，我就已經失去他們了。如果他們身體前傾，就說明有用。"
           }
         ]
       },
@@ -2684,49 +1750,25 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I tend to go completely silent in arguments. My partner says it drives her crazy.",
-            "zh": "我在爭論中傾向於完全沉默。我的伴侶說這讓她抓狂。",
-            "vocab": [
-              {
-                "word": "argument",
-                "def": "爭論；吵架"
-              }
-            ]
+            "zh": "我在爭論中傾向於完全沉默。我的伴侶說這讓她抓狂。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is stonewalling. It is one of the most frustrating things for a more verbal partner.",
-            "zh": "那叫冷戰。對一個較多言語表達的伴侶來說，這是最令人沮喪的事情之一。",
-            "vocab": [
-              {
-                "word": "stonewalling",
-                "def": "冷戰；拒絕溝通"
-              }
-            ]
+            "zh": "那叫冷戰。對一個較多言語表達的伴侶來說，這是最令人沮喪的事情之一。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I am not trying to punish her. I just need time to process before I can say anything useful.",
-            "zh": "我不是想懲罰她。我只是在說出任何有用的話之前，需要時間消化。",
-            "vocab": [
-              {
-                "word": "process",
-                "def": "消化；處理"
-              }
-            ]
+            "zh": "我不是想懲罰她。我只是在說出任何有用的話之前，需要時間消化。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Have you told her that? That it is processing time, not rejection?",
-            "zh": "你有告訴她嗎？那是消化時間，不是拒絕？",
-            "vocab": [
-              {
-                "word": "rejection",
-                "def": "拒絕；被排拒"
-              }
-            ]
+            "zh": "你有告訴她嗎？那是消化時間，不是拒絕？"
           },
           {
             "speaker": "b",
@@ -2738,37 +1780,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could try saying it explicitly before the next argument. \"When I go quiet, I am not shutting you out. I need twenty minutes.\"",
-            "zh": "你可以試著在下次爭論前明確說出來。「當我沉默的時候，我不是要把你關在門外。我需要二十分鐘。」",
-            "vocab": [
-              {
-                "word": "explicitly",
-                "def": "明確地；清楚地"
-              }
-            ]
+            "zh": "你可以試著在下次爭論前明確說出來。「當我沉默的時候，我不是要把你關在門外。我需要二十分鐘。」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That framing is so much better than just disappearing and making her guess.",
-            "zh": "這個框架比直接消失讓她猜測要好得多。",
-            "vocab": [
-              {
-                "word": "disappearing",
-                "def": "消失；不見蹤影"
-              }
-            ]
+            "zh": "這個框架比直接消失讓她猜測要好得多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Explaining your process converts a behavior that looks like abandonment into something she can understand and work with.",
-            "zh": "解釋你的過程，可以把一個看起來像遺棄的行為，轉變成她能理解並配合的東西。",
-            "vocab": [
-              {
-                "word": "abandonment",
-                "def": "遺棄；拋棄"
-              }
-            ]
+            "zh": "解釋你的過程，可以把一個看起來像遺棄的行為，轉變成她能理解並配合的東西。"
           }
         ]
       },
@@ -2779,73 +1803,37 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The best relationships I have had are ones where both people changed over time. Not just tolerated each other.",
-            "zh": "我經歷過最好的關係，是雙方隨著時間都有改變的關係。不只是相互容忍。",
-            "vocab": [
-              {
-                "word": "tolerate",
-                "def": "容忍；忍受"
-              }
-            ]
+            "zh": "我經歷過最好的關係，是雙方隨著時間都有改變的關係。不只是相互容忍。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is it possible to grow in opposite directions though? To drift apart even while trying?",
-            "zh": "但有可能朝相反方向成長嗎？即使在努力，也漸行漸遠？",
-            "vocab": [
-              {
-                "word": "drift apart",
-                "def": "漸行漸遠"
-              }
-            ]
+            "zh": "但有可能朝相反方向成長嗎？即使在努力，也漸行漸遠？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Some relationships have a natural lifespan. The people you need at twenty are not always the same at forty.",
-            "zh": "當然有可能。有些關係有自然的生命週期。你二十歲需要的人，不總是你四十歲需要的。",
-            "vocab": [
-              {
-                "word": "lifespan",
-                "def": "壽命；存續期間"
-              }
-            ]
+            "zh": "當然有可能。有些關係有自然的生命週期。你二十歲需要的人，不總是你四十歲需要的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a gentler way to think about friendships that faded. Not a failure — just a different season.",
-            "zh": "這是一種更溫和的方式來看待逐漸淡去的友誼。不是失敗——只是不同的季節。",
-            "vocab": [
-              {
-                "word": "faded",
-                "def": "淡去的；消逝的"
-              }
-            ]
+            "zh": "這是一種更溫和的方式來看待逐漸淡去的友誼。不是失敗——只是不同的季節。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And sometimes people grow back toward each other after a gap. I have experienced that too.",
-            "zh": "對。有時候人們在分開一段時間後會重新靠近。我也有過這樣的經歷。",
-            "vocab": [
-              {
-                "word": "gap",
-                "def": "間隔；距離"
-              }
-            ]
+            "zh": "對。有時候人們在分開一段時間後會重新靠近。我也有過這樣的經歷。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is hopeful. It means a difficult patch does not have to be the end of the story.",
-            "zh": "這讓人感到希望。這意味著一段艱難時期不一定是故事的終點。",
-            "vocab": [
-              {
-                "word": "patch",
-                "def": "一段時期；困難時期"
-              }
-            ]
+            "zh": "這讓人感到希望。這意味著一段艱難時期不一定是故事的終點。"
           },
           {
             "speaker": "a",
@@ -2856,14 +1844,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much more optimistic view than treating relationships as either working or not working.",
-            "zh": "這比把關係看作要麼有效要麼無效，樂觀得多。",
-            "vocab": [
-              {
-                "word": "optimistic",
-                "def": "這比把關係看作要麼有效要麼無效"
-              }
-            ]
+            "en": "That's a much more optimistic view than treating relationships as either working or not working.",
+            "zh": "這比把關係看作要麼有效要麼無效，樂觀得多。"
           }
         ]
       }
@@ -2926,13 +1908,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I spent most of my twenties trying to be who I thought I was supposed to be. It was exhausting.",
-            "zh": "我二十幾歲大半時間都在試圖成為我以為自己應該成為的人。非常累。",
-            "vocab": [
-              {
-                "word": "exhausting",
-                "def": "令人疲憊的；精疲力竭的"
-              }
-            ]
+            "zh": "我二十幾歲大半時間都在試圖成為我以為自己應該成為的人。非常累。"
           },
           {
             "speaker": "a",
@@ -2944,25 +1920,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Taking jobs I did not actually want because they sounded impressive. Dating people who seemed right on paper.",
-            "zh": "接下我其實不想要的工作，因為聽起來很令人印象深刻。和在紙上看起來對的人交往。",
-            "vocab": [
-              {
-                "word": "impressive",
-                "def": "令人印象深刻的"
-              }
-            ]
+            "zh": "接下我其實不想要的工作，因為聽起來很令人印象深刻。和在紙上看起來對的人交往。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That performance of the expected life is so common in your twenties. The pressure to have the right answers is intense.",
-            "zh": "在二十幾歲表演那種「預期的人生」非常普遍。那種需要有正確答案的壓力非常強烈。",
-            "vocab": [
-              {
-                "word": "intense",
-                "def": "強烈的；激烈的"
-              }
-            ]
+            "zh": "在二十幾歲表演那種「預期的人生」非常普遍。那種需要有正確答案的壓力非常強烈。"
           },
           {
             "speaker": "b",
@@ -2974,37 +1938,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Burnout. I hit a wall at twenty-nine and there was nothing left to maintain the performance with.",
-            "zh": "是倦怠。我在二十九歲撞牆了，沒有任何東西剩下來維持那個表演。",
-            "vocab": [
-              {
-                "word": "burnout",
-                "def": "倦怠；耗竭"
-              }
-            ]
+            "zh": "是倦怠。我在二十九歲撞牆了，沒有任何東西剩下來維持那個表演。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The wall is almost useful. It strips away what is not real.",
-            "zh": "那道牆幾乎是有用的。它剝去了不真實的東西。",
-            "vocab": [
-              {
-                "word": "strips away",
-                "def": "剝去；去除"
-              }
-            ]
+            "zh": "那道牆幾乎是有用的。它剝去了不真實的東西。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. I learned more about myself in the six months after that crash than in the previous decade.",
-            "zh": "對。我在那次崩潰後的六個月裡，比過去十年了解了更多關於自己的事。",
-            "vocab": [
-              {
-                "word": "decade",
-                "def": "我在那次崩潰後的六個月裡"
-              }
-            ]
+            "zh": "對。我在那次崩潰後的六個月裡，比過去十年了解了更多關於自己的事。"
           }
         ]
       },
@@ -3015,13 +1961,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One of the hardest things is separating what you want from what you have been told you should want.",
-            "zh": "最難的事情之一，是把你真正想要的和你被告知你應該想要的分開來。",
-            "vocab": [
-              {
-                "word": "separating",
-                "def": "分開；區分"
-              }
-            ]
+            "zh": "最難的事情之一，是把你真正想要的和你被告知你應該想要的分開來。"
           },
           {
             "speaker": "b",
@@ -3033,25 +1973,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pay attention to your body. Not your thoughts — your physical reactions. What makes you feel alive versus drained?",
-            "zh": "注意你的身體。不是你的思想——是你的身體反應。什麼讓你感到活著，什麼讓你感到耗盡？",
-            "vocab": [
-              {
-                "word": "physical reaction",
-                "def": "身體反應"
-              }
-            ]
+            "zh": "注意你的身體。不是你的思想——是你的身體反應。什麼讓你感到活著，什麼讓你感到耗盡？"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is interesting. Because thoughts can be rationalizations.",
-            "zh": "這很有意思。因為思想可能是合理化的藉口。",
-            "vocab": [
-              {
-                "word": "rationalization",
-                "def": "合理化；自欺欺人的理由"
-              }
-            ]
+            "zh": "這很有意思。因為思想可能是合理化的藉口。"
           },
           {
             "speaker": "a",
@@ -3063,37 +1991,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I notice I feel genuinely light after certain conversations. And heavy after others. Even when both are \"fine.\"",
-            "zh": "我注意到某些對話後，我感覺真正地輕盈。其他的之後則感覺沉重。即使兩者都「還好」。",
-            "vocab": [
-              {
-                "word": "genuinely",
-                "def": "真正地；真誠地"
-              }
-            ]
+            "zh": "我注意到某些對話後，我感覺真正地輕盈。其他的之後則感覺沉重。即使兩者都「還好」。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That lightness is information. Your system is telling you something your conscious mind might be ignoring.",
-            "zh": "那種輕盈是資訊。你的系統在告訴你一些你的意識心智可能在忽略的事情。",
-            "vocab": [
-              {
-                "word": "conscious mind",
-                "def": "意識心智；理性思維"
-              }
-            ]
+            "zh": "那種輕盈是資訊。你的系統在告訴你一些你的意識心智可能在忽略的事情。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to start paying more attention to that. It sounds like a more honest compass than logic.",
-            "zh": "我想開始更多地關注這一點。聽起來比邏輯更誠實的指南針。",
-            "vocab": [
-              {
-                "word": "compass",
-                "def": "指南針；方向感"
-              }
-            ]
+            "zh": "我想開始更多地關注這一點。聽起來比邏輯更誠實的指南針。"
           }
         ]
       },
@@ -3104,97 +2014,49 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Some people confuse being authentic with saying everything they think. That is not the same thing.",
-            "zh": "有些人把真實性與說出他們所想的一切混為一談。這不是同一回事。",
-            "vocab": [
-              {
-                "word": "authentic",
-                "def": "真實的；真誠的"
-              }
-            ]
+            "zh": "有些人把真實性與說出他們所想的一切混為一談。這不是同一回事。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Authenticity is about acting from your real values, not about having zero filter.",
-            "zh": "完全正確。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。",
-            "vocab": [
-              {
-                "word": "filter",
-                "def": "過濾器；篩選"
-              }
-            ]
+            "zh": "完全正確。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I know someone who says hurtful things and calls it \"just being honest.\" That is not authenticity.",
-            "zh": "我認識一個說傷人話然後說「只是誠實」的人。那不是真實性。",
-            "vocab": [
-              {
-                "word": "hurtful",
-                "def": "傷人的；造成傷害的"
-              }
-            ]
+            "zh": "我認識一個說傷人話然後說「只是誠實」的人。那不是真實性。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is using honesty as a weapon without taking responsibility for the impact.",
-            "zh": "對。那是把誠實當武器使用，卻不為影響負責。",
-            "vocab": [
-              {
-                "word": "weapon",
-                "def": "那是把誠實當武器使用"
-              }
-            ]
+            "zh": "對。那是把誠實當武器使用，卻不為影響負責。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Authentic people I respect choose their words thoughtfully. They are real, but not reckless.",
-            "zh": "我尊重的真實的人，選詞是經過深思熟慮的。他們是真實的，但不魯莽。",
-            "vocab": [
-              {
-                "word": "reckless",
-                "def": "魯莽的；不顧後果的"
-              }
-            ]
+            "zh": "我尊重的真實的人，選詞是經過深思熟慮的。他們是真實的，但不魯莽。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Authenticity includes integrity. How you say something is as much a part of who you are as what you say.",
-            "zh": "真實性包含正直。你怎麼說，和你說什麼，一樣都是你身份的一部分。",
-            "vocab": [
-              {
-                "word": "integrity",
-                "def": "正直；誠信"
-              }
-            ]
+            "zh": "真實性包含正直。你怎麼說，和你說什麼，一樣都是你身份的一部分。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a much more sophisticated definition than \"just be real.\"",
-            "zh": "這比「就做真實的自己」複雜得多。",
-            "vocab": [
-              {
-                "word": "sophisticated",
-                "def": "複雜精妙的；有深度的"
-              }
-            ]
+            "zh": "這比「就做真實的自己」複雜得多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Being real is the starting point. Wisdom is knowing which real things to say and how.",
-            "zh": "做真實的自己是起點。智慧是知道哪些真實的事情值得說，以及怎麼說。",
-            "vocab": [
-              {
-                "word": "wisdom",
-                "def": "做真實的自己是起點"
-              }
-            ]
+            "zh": "做真實的自己是起點。智慧是知道哪些真實的事情值得說，以及怎麼說。"
           }
         ]
       },
@@ -3205,13 +2067,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I used to define myself very tightly. I told myself I was not a creative person. I was a facts person.",
-            "zh": "我以前對自己的定義非常嚴格。我告訴自己我不是有創意的人。我是一個重視事實的人。",
-            "vocab": [
-              {
-                "word": "define",
-                "def": "定義；界定"
-              }
-            ]
+            "zh": "我以前對自己的定義非常嚴格。我告訴自己我不是有創意的人。我是一個重視事實的人。"
           },
           {
             "speaker": "b",
@@ -3223,13 +2079,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I started doing photography as a hobby and discovered I actually love making things. That label was just a story I had inherited.",
-            "zh": "我開始把攝影當作興趣，然後發現我其實很喜歡創作東西。那個標籤只是一個我繼承來的故事。",
-            "vocab": [
-              {
-                "word": "inherit",
-                "def": "繼承；沿用"
-              }
-            ]
+            "zh": "我開始把攝影當作興趣，然後發現我其實很喜歡創作東西。那個標籤只是一個我繼承來的故事。"
           },
           {
             "speaker": "b",
@@ -3241,37 +2091,19 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly. And partly from early experiences of failing at art class and drawing the wrong conclusion.",
-            "zh": "部分是。部分也來自早期在美術課失敗，然後得出錯誤結論的經歷。",
-            "vocab": [
-              {
-                "word": "conclusion",
-                "def": "部分是"
-              }
-            ]
+            "zh": "部分是。部分也來自早期在美術課失敗，然後得出錯誤結論的經歷。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "One teacher telling you that you were not artistic ended up shaping decades of your self-concept.",
-            "zh": "一個老師告訴你你沒有藝術天分，最終塑造了你幾十年的自我概念。",
-            "vocab": [
-              {
-                "word": "self-concept",
-                "def": "自我概念；自我認知"
-              }
-            ]
+            "zh": "一個老師告訴你你沒有藝術天分，最終塑造了你幾十年的自我概念。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why staying open to updating your self-image is so important. You might be wrong about yourself in useful ways.",
-            "zh": "這就是為什麼保持對更新自我形象的開放態度如此重要。你可能在有用的方面對自己判斷錯誤。",
-            "vocab": [
-              {
-                "word": "open to",
-                "def": "對…開放；願意接受"
-              }
-            ]
+            "zh": "這就是為什麼保持對更新自我形象的開放態度如此重要。你可能在有用的方面對自己判斷錯誤。"
           },
           {
             "speaker": "b",
@@ -3288,73 +2120,37 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There is a quiet pressure to always be working on yourself. Like existing is never enough.",
-            "zh": "有一種無聲的壓力，讓你總是在「努力改善自己」。好像單純存在是永遠不夠的。",
-            "vocab": [
-              {
-                "word": "pressure",
-                "def": "有一種無聲的壓力"
-              }
-            ]
+            "zh": "有一種無聲的壓力，讓你總是在「努力改善自己」。好像單純存在是永遠不夠的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The self-improvement industry runs on that feeling. There is always another course, habit, or optimization.",
-            "zh": "自我提升產業就靠這種感覺運作。永遠有下一門課、下一個習慣、下一個優化。",
-            "vocab": [
-              {
-                "word": "self-improvement",
-                "def": "自我提升"
-              }
-            ]
+            "zh": "自我提升產業就靠這種感覺運作。永遠有下一門課、下一個習慣、下一個優化。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "At some point it tips into self-rejection. Like you are only valuable once you become a better version.",
-            "zh": "到了某個點，它就變成了自我否定。就好像你只有在成為更好的版本後才有價值。",
-            "vocab": [
-              {
-                "word": "self-rejection",
-                "def": "自我否定"
-              }
-            ]
+            "zh": "到了某個點，它就變成了自我否定。就好像你只有在成為更好的版本後才有價值。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Growth is good. But it should come from curiosity, not shame. Those two engines produce very different results.",
-            "zh": "成長是好的。但它應該來自好奇心，而不是羞恥。這兩種驅動力產生截然不同的結果。",
-            "vocab": [
-              {
-                "word": "curiosity",
-                "def": "好奇心"
-              }
-            ]
+            "zh": "成長是好的。但它應該來自好奇心，而不是羞恥。這兩種驅動力產生截然不同的結果。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Shame-driven growth eventually burns out. Curiosity-driven growth can sustain indefinitely.",
-            "zh": "羞恥驅動的成長最終會耗盡。好奇心驅動的成長可以無限期持續。",
-            "vocab": [
-              {
-                "word": "sustain",
-                "def": "維持；持續"
-              }
-            ]
+            "zh": "羞恥驅動的成長最終會耗盡。好奇心驅動的成長可以無限期持續。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Becoming more fully yourself is not about fixing what is broken. It is about understanding what is actually there.",
-            "zh": "就是這樣。更完整地成為自己，不是關於修復破損的東西。而是關於理解那裡實際上有什麼。",
-            "vocab": [
-              {
-                "word": "fully",
-                "def": "完整地；充分地"
-              }
-            ]
+            "zh": "就是這樣。更完整地成為自己，不是關於修復破損的東西。而是關於理解那裡實際上有什麼。"
           },
           {
             "speaker": "b",
@@ -3366,13 +2162,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And the version of you that shows up from curiosity is usually much more interesting than the one trying to perform perfection.",
-            "zh": "而從好奇心出發所呈現的你，通常比試圖表演完美的那個你有趣得多。",
-            "vocab": [
-              {
-                "word": "perform",
-                "def": "表演；刻意展現"
-              }
-            ]
+            "zh": "而從好奇心出發所呈現的你，通常比試圖表演完美的那個你有趣得多。"
           }
         ]
       }

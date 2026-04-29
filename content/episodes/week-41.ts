@@ -22,13 +22,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A core value is easy to praise in public and much harder to protect when the choice becomes expensive.",
-            "zh": "沒錯。核心價值在公開場合很好稱讚，但一旦選擇變得有代價，要保住它就難得多。",
-            "vocab": [
-              {
-                "word": "core value",
-                "def": "影響選擇的核心價值"
-              }
-            ]
+            "zh": "沒錯。核心價值在公開場合很好稱讚，但一旦選擇變得有代價，要保住它就難得多。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and a guiding principle usually shows up in the small decisions first, not only the dramatic ones.",
-            "zh": "對，而且一條指引原則通常會先出現在那些小決定裡，不只是戲劇性的那種。",
-            "vocab": [
-              {
-                "word": "guiding principle",
-                "def": "不只是戲劇性的那種"
-              }
-            ]
+            "zh": "對，而且一條指引原則通常會先出現在那些小決定裡，不只是戲劇性的那種。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They do. People often hear their own moral instinct only after convenience gets loud enough to compete with it.",
-            "zh": "真的如此。很多人都是等到方便和省事的聲音大到開始競爭時，才聽見自己的道德直覺。",
-            "vocab": [
-              {
-                "word": "moral instinct",
-                "def": "一個人對對錯、合不合適的直覺感受"
-              }
-            ]
+            "zh": "真的如此。很多人都是等到方便和省事的聲音大到開始競爭時，才聽見自己的道德直覺。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because value conflict is normal. Two good things can pull against each other at the same time.",
-            "zh": "因為價值衝突本來就很正常。兩件都好的事情，有時候會同時把你往不同方向拉。",
-            "vocab": [
-              {
-                "word": "value conflict",
-                "def": "卻彼此拉扯的狀態"
-              }
-            ]
+            "zh": "因為價值衝突本來就很正常。兩件都好的事情，有時候會同時把你往不同方向拉。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Loyalty pressure can make silence feel kind, even when silence is quietly damaging everyone involved.",
-            "zh": "完全沒錯。忠誠壓力會讓沉默看起來像善意，即使那個沉默其實正在慢慢傷害每一個人。",
-            "vocab": [
-              {
-                "word": "loyalty pressure",
-                "def": "因為在意關係或立場，而不敢說真話的壓力"
-              }
-            ]
+            "zh": "完全沒錯。忠誠壓力會讓沉默看起來像善意，即使那個沉默其實正在慢慢傷害每一個人。"
           },
           {
             "speaker": "b",
@@ -158,13 +128,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"I am trying to make choices that I can still respect later.\"",
-            "zh": "你可以說：「I am trying to make choices that I can still respect later.」",
-            "vocab": [
-              {
-                "word": "like this",
-                "def": "而不是比較苦"
-              }
-            ]
+            "zh": "你可以說：「I am trying to make choices that I can still respect later.」"
           },
           {
             "speaker": "b",
@@ -176,13 +140,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I care a lot about being honest, even when the timing is uncomfortable.\"",
-            "zh": "另一句也很好用：「I care a lot about being honest, even when the timing is uncomfortable.」",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "不識時務的；不敏感的"
-              }
-            ]
+            "zh": "另一句也很好用：「I care a lot about being honest, even when the timing is uncomfortable.」"
           },
           {
             "speaker": "b",
@@ -194,13 +152,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An easier everyday line would be, \"I do not want my values to disappear under pressure.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I do not want my values to disappear under pressure.」",
-            "vocab": [
-              {
-                "word": "under pressure",
-                "def": "在高壓狀態下帶隊或工作"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I do not want my values to disappear under pressure.」"
           },
           {
             "speaker": "b",
@@ -241,8 +193,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A public stance that keeps changing for convenience can slowly make a person distrust their own voice.",
-            "zh": "對。若一個公開立場總是為了方便而改變，久了之後，連自己都會開始不相信自己的聲音。",
-            "vocab": []
+            "zh": "對。若一個公開立場總是為了方便而改變，久了之後，連自己都會開始不相信自己的聲音。"
           },
           {
             "speaker": "b",
@@ -295,8 +246,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lived belief matters because it lets a person feel less split inside their own life.",
-            "zh": "活出來的信念很重要，因為它會讓一個人比較不需要在自己的人生裡分裂。",
-            "vocab": []
+            "zh": "活出來的信念很重要，因為它會讓一個人比較不需要在自己的人生裡分裂。"
           },
           {
             "speaker": "b",
@@ -319,7 +269,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often where the real learning starts.",
+            "en": "That's often where the real learning starts.",
             "zh": "而真正的學習，很多時候就是從那裡開始。"
           }
         ]
@@ -389,13 +339,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens a lot. A family script can stay active for years after the original household is gone.",
-            "zh": "這真的很常發生。家庭腳本常常會在原本那個家早就不在之後，還繼續運作很多年。",
-            "vocab": [
-              {
-                "word": "family script",
-                "def": "還繼續運作很多年"
-              }
-            ]
+            "zh": "這真的很常發生。家庭腳本常常會在原本那個家早就不在之後，還繼續運作很多年。"
           },
           {
             "speaker": "b",
@@ -407,13 +351,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Social inheritance works quietly. We copy tone, fear, rules, and even what counts as success.",
-            "zh": "完全沒錯。社會承襲常常很安靜地發生。語氣、害怕、規則，甚至成功的定義，都會被一起複製。",
-            "vocab": [
-              {
-                "word": "social inheritance",
-                "def": "承襲常常很安靜地發生"
-              }
-            ]
+            "zh": "完全沒錯。社會承襲常常很安靜地發生。語氣、害怕、規則，甚至成功的定義，都會被一起複製。"
           },
           {
             "speaker": "b",
@@ -425,13 +363,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Some are chosen later, but many begin as inherited beliefs that only become visible when life starts rubbing against them.",
-            "zh": "有些是後來慢慢選的，但很多其實先是被繼承的信念，要等到人生開始和它們摩擦時才看得見。",
-            "vocab": [
-              {
-                "word": "inherited belief",
-                "def": "不是自己重新思考後形成"
-              }
-            ]
+            "zh": "有些是後來慢慢選的，但很多其實先是被繼承的信念，要等到人生開始和它們摩擦時才看得見。"
           },
           {
             "speaker": "b",
@@ -460,13 +392,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Early messages about safety, effort, gender, money, conflict, and who gets to speak without apology.",
-            "zh": "像關於安全、努力、性別、金錢、衝突，還有誰有資格不道歉就直接說話的那些早期訊息。",
-            "vocab": [
-              {
-                "word": "early message",
-                "def": "像關於安全、努力、性別、金錢、衝突"
-              }
-            ]
+            "zh": "像關於安全、努力、性別、金錢、衝突，還有誰有資格不道歉就直接說話的那些早期訊息。"
           },
           {
             "speaker": "b",
@@ -478,13 +404,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A cultural norm can feel natural simply because you were surrounded by it before you had language for alternatives.",
-            "zh": "完全沒錯。一個文化常規之所以會看起來很自然，常常只是因為在你還沒有別種語言之前，它就已經把你包圍了。",
-            "vocab": [
-              {
-                "word": "cultural norm",
-                "def": "它就已經把你包圍了"
-              }
-            ]
+            "zh": "完全沒錯。一個文化常規之所以會看起來很自然，常常只是因為在你還沒有別種語言之前，它就已經把你包圍了。"
           },
           {
             "speaker": "b",
@@ -496,13 +416,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Distance helps people turn an inherited rule into an examined value.",
-            "zh": "對。距離會幫人把一條被接收下來的規則，慢慢變成一個被檢查過的價值。",
-            "vocab": [
-              {
-                "word": "examined value",
-                "def": "慢慢變成一個被檢查過的價值"
-              }
-            ]
+            "zh": "對。距離會幫人把一條被接收下來的規則，慢慢變成一個被檢查過的價值。"
           },
           {
             "speaker": "b",
@@ -531,13 +445,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, \"A lot of what I believed early on came from the environment I grew up in.\"",
-            "zh": "你可以說：「A lot of what I believed early on came from the environment I grew up in.」",
-            "vocab": [
-              {
-                "word": "grew up",
-                "def": "長大"
-              }
-            ]
+            "zh": "你可以說：「A lot of what I believed early on came from the environment I grew up in.」"
           },
           {
             "speaker": "b",
@@ -549,13 +457,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Some of my values were inherited, and some had to be chosen later.\"",
-            "zh": "另一句也很好用：「Some of my values were inherited, and some had to be chosen later.」",
-            "vocab": [
-              {
-                "word": "chosen later",
-                "def": "不是被動接收"
-              }
-            ]
+            "zh": "另一句也很好用：「Some of my values were inherited, and some had to be chosen later.」"
           },
           {
             "speaker": "b",
@@ -567,8 +469,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, \"I am still sorting out what is really mine.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I am still sorting out what is really mine.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I am still sorting out what is really mine.」"
           },
           {
             "speaker": "b",
@@ -585,7 +486,7 @@ export const WEEK_41: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Choosing Without Rejecting Everything",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -609,8 +510,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A chosen principle carries more strength when it is made consciously, not just copied automatically.",
-            "zh": "完全沒錯。當一條原則是有意識地選出來的，而不是自動複製下來的，它通常會更有力量。",
-            "vocab": []
+            "zh": "完全沒錯。當一條原則是有意識地選出來的，而不是自動複製下來的，它通常會更有力量。"
           },
           {
             "speaker": "b",
@@ -635,12 +535,7 @@ export const WEEK_41: Episode[] = [
             "speakerName": "Mira",
             "en": "Balance matters when identity and history are both involved.",
             "zh": "當身份和歷史都被拉進來時，平衡就很重要。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Growing Into Your Own Values",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -663,8 +558,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An examined value matters because it lets a person inherit with more freedom instead of more confusion.",
-            "zh": "經過檢查的價值很重要，因為它會讓一個人帶著更多自由去承接，而不是帶著更多混亂。",
-            "vocab": []
+            "zh": "經過檢查的價值很重要，因為它會讓一個人帶著更多自由去承接，而不是帶著更多混亂。"
           },
           {
             "speaker": "b",
@@ -700,9 +594,9 @@ export const WEEK_41: Episode[] = [
         "example": "The family script was still shaping her choices."
       },
       {
-        "en": "social inheritance",
-        "zh": "從家庭、環境和文化裡默默承接下來的觀念與反應",
-        "example": "Social inheritance is often invisible at first."
+        "en": "family influence",
+        "zh": "成長家庭和環境長期帶來的影響",
+        "example": "Family influence is easy to miss at first."
       },
       {
         "en": "inherited belief",
@@ -757,13 +651,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A belief revision often begins before the person has words for it.",
-            "zh": "完全沒錯。信念修正很多時候在一個人還說不出來之前，就已經開始了。",
-            "vocab": [
-              {
-                "word": "belief revision",
-                "def": "就已經開始了"
-              }
-            ]
+            "zh": "完全沒錯。信念修正很多時候在一個人還說不出來之前，就已經開始了。"
           },
           {
             "speaker": "b",
@@ -774,14 +662,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. A certainty crack feels unsettling because it interrupts the story you used to rely on.",
-            "zh": "對。確定感裂縫會讓人不安，因為它打斷了你以前依靠的那個故事。",
-            "vocab": [
-              {
-                "word": "certainty crack",
-                "def": "原本很篤定的信念開始出現裂縫的瞬間"
-              }
-            ]
+            "en": "Yes. Second thoughts can feel unsettling because they interrupt the story you used to rely on.",
+            "zh": "對。心裡開始有第二個想法時，常常會讓人不安，因為它打斷了你以前依靠的那個故事。"
           },
           {
             "speaker": "b",
@@ -793,13 +675,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can feel physical because the mind is not the only thing attached to a belief. Identity is often attached too.",
-            "zh": "它會有身體感，是因為綁在信念上的不只有思考，常常還有身份感。",
-            "vocab": [
-              {
-                "word": "feel physical",
-                "def": "一個人看世界的整體方式開始發生轉變"
-              }
-            ]
+            "zh": "它會有身體感，是因為綁在信念上的不只有思考，常常還有身份感。"
           },
           {
             "speaker": "b",
@@ -828,13 +704,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because contradictory evidence does not only threaten an idea. It can threaten a whole identity structure.",
-            "zh": "因為互相矛盾的證據威脅的常常不只是一個觀點，而是整個身份結構。",
-            "vocab": [
-              {
-                "word": "contradictory evidence",
-                "def": "和原本相信的內容明顯不一致的新證據"
-              }
-            ]
+            "zh": "因為互相矛盾的證據威脅的常常不只是一個觀點，而是整個身份結構。"
           },
           {
             "speaker": "b",
@@ -846,13 +716,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Identity defense is powerful because people want continuity more than they want embarrassment.",
-            "zh": "完全沒錯。身份防衛很強，是因為人通常更想要連續感，而不是尷尬地承認自己錯了。",
-            "vocab": [
-              {
-                "word": "identity defense",
-                "def": "身份防衛很強"
-              }
-            ]
+            "zh": "完全沒錯。身份防衛很強，是因為人通常更想要連續感，而不是尷尬地承認自己錯了。"
           },
           {
             "speaker": "b",
@@ -864,13 +728,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Intellectual humility grows faster when you understand the emotional cost of updating a belief.",
-            "zh": "那很好。當你理解更新信念的情緒代價時，智識上的謙卑反而會長得更快。",
-            "vocab": [
-              {
-                "word": "intellectual humility",
-                "def": "修正的思考態度"
-              }
-            ]
+            "zh": "那很好。當你理解更新信念的情緒代價時，智識上的謙卑反而會長得更快。"
           },
           {
             "speaker": "b",
@@ -898,14 +756,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want a clear sentence, try \"I am rethinking some things I used to feel very certain about.\"",
-            "zh": "你可以說：「I am rethinking some things I used to feel very certain about.」",
-            "vocab": [
-              {
-                "word": "some things",
-                "def": "不是敷衍懷疑"
-              }
-            ]
+            "en": "The clearest way to put it is \"I am rethinking some things I used to feel very certain about.\"",
+            "zh": "你可以說：「I am rethinking some things I used to feel very certain about.」"
           },
           {
             "speaker": "b",
@@ -917,13 +769,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, \"New experiences have made my old assumptions feel less complete.\"",
-            "zh": "另一句也很好用：「New experiences have made my old assumptions feel less complete.」",
-            "vocab": [
-              {
-                "word": "New experiences",
-                "def": "比表面立場更深一層、願意承認複雜度的誠實"
-              }
-            ]
+            "zh": "另一句也很好用：「New experiences have made my old assumptions feel less complete.」"
           },
           {
             "speaker": "b",
@@ -935,8 +781,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, \"I do not believe this as simply as I used to.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I do not believe this as simply as I used to.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I do not believe this as simply as I used to.」"
           },
           {
             "speaker": "b",
@@ -977,8 +822,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Honest doubt is healthier than fake certainty, especially when a person is still learning what they can truly stand behind.",
-            "zh": "完全沒錯。尤其當一個人還在學自己到底能真正站在哪裡時，誠實的懷疑比假的確定健康得多。",
-            "vocab": []
+            "zh": "完全沒錯。尤其當一個人還在學自己到底能真正站在哪裡時，誠實的懷疑比假的確定健康得多。"
           },
           {
             "speaker": "b",
@@ -1031,8 +875,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Deeper honesty matters because a person can only build a stable life on what they are actually willing to see.",
-            "zh": "更深的誠實很重要，因為一個人只能在自己真的願意看見的東西上，蓋出穩定的人生。",
-            "vocab": []
+            "zh": "更深的誠實很重要，因為一個人只能在自己真的願意看見的東西上，蓋出穩定的人生。"
           },
           {
             "speaker": "b",
@@ -1068,9 +911,9 @@ export const WEEK_41: Episode[] = [
         "example": "Belief revision can feel slower than people expect."
       },
       {
-        "en": "certainty crack",
-        "zh": "原本很篤定的信念開始出現裂縫的瞬間",
-        "example": "The certainty crack came from one small question."
+        "en": "second thoughts",
+        "zh": "原本很篤定時，心裡開始浮出懷疑",
+        "example": "His second thoughts started with one small question."
       },
       {
         "en": "contradictory evidence",
@@ -1125,13 +968,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because lived alignment is harder than verbal agreement. Daily life is full of friction.",
-            "zh": "那是因為活出一致，比口頭同意難得多。日常生活裡到處都是摩擦。",
-            "vocab": [
-              {
-                "word": "lived alignment",
-                "def": "那是因為活出一致"
-              }
-            ]
+            "zh": "那是因為活出一致，比口頭同意難得多。日常生活裡到處都是摩擦。"
           },
           {
             "speaker": "b",
@@ -1143,31 +980,19 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The convenience test appears everywhere. Values sound different when they cost time, comfort, or reputation.",
-            "zh": "完全沒錯。方便測試到處都會出現。當價值觀開始花掉你的時間、舒服感，甚至名聲時，它聽起來就會完全不一樣。",
-            "vocab": [
-              {
-                "word": "convenience test",
-                "def": "一件事是否還守得住原則"
-              }
-            ]
+            "zh": "完全沒錯。方便測試到處都會出現。當價值觀開始花掉你的時間、舒服感，甚至名聲時，它聽起來就會完全不一樣。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a true description of adult life.",
-            "zh": "這真的就是成年生活的真實描述。"
+            "en": "That names it more honestly.",
+            "zh": "這才是更誠實的說法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it is why private behavior matters so much. People become what they repeat when nobody is watching.",
-            "zh": "也因此，私下行為很重要。沒有人在看的時候，你反覆做的事，最後會把你變成那樣的人。",
-            "vocab": [
-              {
-                "word": "private behavior",
-                "def": "不是做給別人看"
-              }
-            ]
+            "zh": "也因此，私下行為很重要。沒有人在看的時候，你反覆做的事，最後會把你變成那樣的人。"
           },
           {
             "speaker": "b",
@@ -1196,13 +1021,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because value gap grows quietly. Very few people wake up intending to betray themselves.",
-            "zh": "因為價值落差是安靜長大的。很少有人一醒來就打算背叛自己。",
-            "vocab": [
-              {
-                "word": "value gap",
-                "def": "價值落差是安靜長大的"
-              }
-            ]
+            "zh": "因為價值落差是安靜長大的。很少有人一醒來就打算背叛自己。"
           },
           {
             "speaker": "b",
@@ -1214,13 +1033,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Repeated choice is powerful because one small compromise teaches the next one to feel normal.",
-            "zh": "完全沒錯。重複選擇很有力量，因為一次小妥協會教下一次妥協變得正常。",
-            "vocab": [
-              {
-                "word": "repeated choice",
-                "def": "不是一次性的決定"
-              }
-            ]
+            "zh": "完全沒錯。重複選擇很有力量，因為一次小妥協會教下一次妥協變得正常。"
           },
           {
             "speaker": "b",
@@ -1231,14 +1044,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good way to put it. Moral habit matters because conviction without practice becomes fragile quickly.",
-            "zh": "這個說法很好。道德習慣很重要，因為沒有練習的信念，很快就會變脆弱。",
-            "vocab": [
-              {
-                "word": "moral habit",
-                "def": "把信念慢慢練成穩定行動的一種習慣"
-              }
-            ]
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "b",
@@ -1266,14 +1073,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, \"I want my everyday choices to reflect what I say I care about.\"",
-            "zh": "你可以說：「I want my everyday choices to reflect what I say I care about.」",
-            "vocab": [
-              {
-                "word": "everyday choices",
-                "def": "一個人內在信念與外在生活比較沒有分裂的狀態"
-              }
-            ]
+            "en": "One natural option is, \"I want my everyday choices to reflect what I say I care about.\"",
+            "zh": "這裡很自然的說法是：「I want my everyday choices to reflect what I say I care about.」"
           },
           {
             "speaker": "b",
@@ -1285,8 +1086,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a more grounded version, try \"I am trying to close the gap between what I believe and how I actually live.\"",
-            "zh": "另一句也很好用：「I am trying to close the gap between what I believe and how I actually live.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I am trying to close the gap between what I believe and how I actually live.」"
           },
           {
             "speaker": "b",
@@ -1298,8 +1098,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural line when you want something simpler is \"I do not want convenience to make my decisions for me.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I do not want convenience to make my decisions for me.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I do not want convenience to make my decisions for me.」"
           },
           {
             "speaker": "b",
@@ -1340,8 +1139,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A repeated choice in the right direction is often more powerful than one dramatic promise.",
-            "zh": "完全沒錯。朝對的方向做一個能重複的選擇，通常比一次很戲劇化的承諾更有力量。",
-            "vocab": []
+            "zh": "完全沒錯。朝對的方向做一個能重複的選擇，通常比一次很戲劇化的承諾更有力量。"
           },
           {
             "speaker": "b",
@@ -1365,13 +1163,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Honest return is often more mature than flawless performance.",
-            "zh": "完全是。誠實地回來，常常比完美表現更成熟。",
-            "vocab": [
-              {
-                "word": "flawless",
-                "def": "無缺點的；完美無瑕的"
-              }
-            ]
+            "zh": "完全是。誠實地回來，常常比完美表現更成熟。"
           }
         ]
       },
@@ -1400,8 +1192,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Inner consistency matters because a person rests differently when they are not constantly negotiating against themselves.",
-            "zh": "內在一致很重要，因為一個人如果不需要一直和自己談判，連休息的方式都會不一樣。",
-            "vocab": []
+            "zh": "內在一致很重要，因為一個人如果不需要一直和自己談判，連休息的方式都會不一樣。"
           },
           {
             "speaker": "b",
@@ -1424,7 +1215,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then you already know why the work is worth doing.",
+            "en": "You already know why the work is worth doing.",
             "zh": "那你其實已經知道，這份功課為什麼值得做了。"
           }
         ]
@@ -1494,13 +1285,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because respectful disagreement asks you to hold truth and relationship at the same time.",
-            "zh": "對，因為有尊重的分歧，會要求你同時拿住真實和關係。",
-            "vocab": [
-              {
-                "word": "respectful disagreement",
-                "def": "即使立場不同"
-              }
-            ]
+            "zh": "對，因為有尊重的分歧，會要求你同時拿住真實和關係。"
           },
           {
             "speaker": "b",
@@ -1512,13 +1297,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Shared respect matters because once contempt enters the room, real listening usually leaves it.",
-            "zh": "完全沒錯。共享尊重很重要，因為一旦輕蔑進了房間，真正的傾聽通常就會離開。",
-            "vocab": [
-              {
-                "word": "shared respect",
-                "def": "即使不同意"
-              }
-            ]
+            "zh": "完全沒錯。共享尊重很重要，因為一旦輕蔑進了房間，真正的傾聽通常就會離開。"
           },
           {
             "speaker": "b",
@@ -1530,13 +1309,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Tone matters because people decide whether they are safe long before they decide whether they agree.",
-            "zh": "語氣很重要，因為人在決定自己同不同意之前，通常會先決定自己安不安全。",
-            "vocab": [
-              {
-                "word": "people decide",
-                "def": "語氣很重要"
-              }
-            ]
+            "zh": "語氣很重要，因為人在決定自己同不同意之前，通常會先決定自己安不安全。"
           },
           {
             "speaker": "b",
@@ -1577,13 +1350,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Honest tension is survivable, but personal humiliation usually is not.",
-            "zh": "完全沒錯。誠實的張力是撐得過去的，但人格上的羞辱通常撐不過去。",
-            "vocab": [
-              {
-                "word": "honest tension",
-                "def": "彼此不完全舒服"
-              }
-            ]
+            "zh": "完全沒錯。誠實的張力是撐得過去的，但人格上的羞辱通常撐不過去。"
           },
           {
             "speaker": "b",
@@ -1595,13 +1362,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and a non-negotiable point should be named carefully. If you announce it like a weapon, people stop hearing the reason behind it.",
-            "zh": "對，而且一個不能退讓的點要很小心地說。如果你把它像武器一樣丟出去，別人通常就聽不見背後真正的理由了。",
-            "vocab": [
-              {
-                "word": "non-negotiable point",
-                "def": "一個人明確知道自己不能退讓的核心立場"
-              }
-            ]
+            "zh": "對，而且一個不能退讓的點要很小心地說。如果你把它像武器一樣丟出去，別人通常就聽不見背後真正的理由了。"
           },
           {
             "speaker": "b",
@@ -1630,13 +1391,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, \"I respect where you are coming from, but I see this differently.\"",
-            "zh": "你可以說：「I respect where you are coming from, but I see this differently.」",
-            "vocab": [
-              {
-                "word": "this differently",
-                "def": "這件事看法不同"
-              }
-            ]
+            "zh": "你可以說：「I respect where you are coming from, but I see this differently.」"
           },
           {
             "speaker": "b",
@@ -1648,13 +1403,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, \"I want to stay honest here, even if we do not land in the same place.\"",
-            "zh": "另一句也很好用：「I want to stay honest here, even if we do not land in the same place.」",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "不識時務的；不敏感的"
-              }
-            ]
+            "zh": "另一句也很好用：「I want to stay honest here, even if we do not land in the same place.」"
           },
           {
             "speaker": "b",
@@ -1666,8 +1415,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, \"I hear you, but I cannot fully agree.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I hear you, but I cannot fully agree.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I hear you, but I cannot fully agree.」"
           },
           {
             "speaker": "b",
@@ -1684,7 +1432,7 @@ export const WEEK_41: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — How to Stay Steady Without Going Silent",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -1696,13 +1444,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By speaking earlier, speaking cleaner, and not waiting until resentment does the speaking for them.",
-            "zh": "要更早一點說，也要說得更乾淨，不要等到怨氣替自己開口。",
-            "vocab": [
-              {
-                "word": "resentment",
-                "def": "積怨；長期壓抑不滿而形成的負面情緒"
-              }
-            ]
+            "zh": "要更早一點說，也要說得更乾淨，不要等到怨氣替自己開口。"
           },
           {
             "speaker": "b",
@@ -1714,8 +1456,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often, yes. A listening stance helps because people soften when they feel heard before they feel corrected.",
-            "zh": "很多時候真的會。傾聽姿態很有幫助，因為人在覺得自己先被聽見之後，通常會比在先被糾正時更容易柔軟。",
-            "vocab": []
+            "zh": "很多時候真的會。傾聽姿態很有幫助，因為人在覺得自己先被聽見之後，通常會比在先被糾正時更容易柔軟。"
           },
           {
             "speaker": "b",
@@ -1740,12 +1481,7 @@ export const WEEK_41: Episode[] = [
             "speakerName": "Mira",
             "en": "In healthy relationships, it often is.",
             "zh": "在健康的關係裡，很多時候真的就是。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Respect That Survives Difference",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1768,8 +1504,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A principled boundary matters because real closeness is not built by pretending every difference is small.",
-            "zh": "有原則的界線很重要，因為真正的親近不是靠假裝每個差異都很小來建立的。",
-            "vocab": []
+            "zh": "有原則的界線很重要，因為真正的親近不是靠假裝每個差異都很小來建立的。"
           },
           {
             "speaker": "b",
@@ -1862,13 +1597,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very true. A non-negotiable often becomes visible through regret before it becomes visible through theory.",
-            "zh": "這真的很真。一個不能妥協的點，很多時候是先透過後悔才看見，不是先透過理論。",
-            "vocab": [
-              {
-                "word": "non-negotiable",
-                "def": "的底線或原則"
-              }
-            ]
+            "zh": "這真的很真。一個不能妥協的點，很多時候是先透過後悔才看見，不是先透過理論。"
           },
           {
             "speaker": "b",
@@ -1880,13 +1609,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A red line is often the shape of self-respect becoming specific.",
-            "zh": "對。所謂紅線，很多時候就是自我尊重開始變得具體的形狀。",
-            "vocab": [
-              {
-                "word": "red line",
-                "def": "一旦踩到就代表嚴重違背自己原則的界線"
-              }
-            ]
+            "zh": "對。所謂紅線，很多時候就是自我尊重開始變得具體的形狀。"
           },
           {
             "speaker": "b",
@@ -1898,13 +1621,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it is stronger. Preference and principle are not the same thing.",
-            "zh": "因為它本來就比較強。偏好和原則，真的不是同一回事。",
-            "vocab": [
-              {
-                "word": "principle",
-                "def": "原則；基本規則"
-              }
-            ]
+            "zh": "因為它本來就比較強。偏好和原則，真的不是同一回事。"
           },
           {
             "speaker": "b",
@@ -1933,13 +1650,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the hidden cost is delayed. The decision looks manageable now, and the damage shows up later.",
-            "zh": "因為隱藏代價往往是延後出現的。當下看起來好像還能撐，但真正的傷害會晚一點才跑出來。",
-            "vocab": [
-              {
-                "word": "hidden cost",
-                "def": "慢慢浮現的代價"
-              }
-            ]
+            "zh": "因為隱藏代價往往是延後出現的。當下看起來好像還能撐，但真正的傷害會晚一點才跑出來。"
           },
           {
             "speaker": "b",
@@ -1951,13 +1662,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Self-betrayal rarely feels dramatic in the moment. It feels like one more thing you will tolerate this time.",
-            "zh": "完全沒錯。自我背叛在當下很少是戲劇性的，它比較像「這次再忍一下好了」那種感覺。",
-            "vocab": [
-              {
-                "word": "self-betrayal",
-                "def": "明知道不合適"
-              }
-            ]
+            "zh": "完全沒錯。自我背叛在當下很少是戲劇性的，它比較像「這次再忍一下好了」那種感覺。"
           },
           {
             "speaker": "b",
@@ -1969,13 +1674,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And often a necessary one. People need to see how quiet patterns create big regret.",
-            "zh": "可是很多時候又是必要的。人需要看見，很多很安靜的模式最後會長成很大的後悔。",
-            "vocab": [
-              {
-                "word": "create big regret",
-                "def": "人需要看見"
-              }
-            ]
+            "zh": "可是很多時候又是必要的。人需要看見，很多很安靜的模式最後會長成很大的後悔。"
           },
           {
             "speaker": "b",
@@ -2004,13 +1703,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, \"I have realized this is not something I can keep giving up without costing myself too much.\"",
-            "zh": "你可以說：「I have realized this is not something I can keep giving up without costing myself too much.」",
-            "vocab": [
-              {
-                "word": "without costing",
-                "def": "把自己的界線清楚說出來的一段話"
-              }
-            ]
+            "zh": "你可以說：「I have realized this is not something I can keep giving up without costing myself too much.」"
           },
           {
             "speaker": "b",
@@ -2022,8 +1715,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"I need to be clear that this matters more deeply to me than I have been showing.\"",
-            "zh": "另一句也很好用：「I need to be clear that this matters more deeply to me than I have been showing.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I need to be clear that this matters more deeply to me than I have been showing.」"
           },
           {
             "speaker": "b",
@@ -2035,8 +1727,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to make it more everyday, try, \"I cannot keep saying yes to this.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I cannot keep saying yes to this.」",
-            "vocab": []
+            "zh": "如果你想講得更簡單，也可以說：「I cannot keep saying yes to this.」"
           },
           {
             "speaker": "b",
@@ -2077,13 +1768,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A boundary statement is strongest when it sounds clear, calm, and free of revenge.",
-            "zh": "完全沒錯。一段界線說法最有力量的時候，通常是它聽起來很清楚、很平靜，而且沒有報復感。",
-            "vocab": [
-              {
-                "word": "revenge",
-                "def": "報復；帶有憤怒或敵意的反擊衝動"
-              }
-            ]
+            "zh": "完全沒錯。一段界線說法最有力量的時候，通常是它聽起來很清楚、很平靜，而且沒有報復感。"
           },
           {
             "speaker": "b",
@@ -2136,8 +1821,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Moral clarity matters because life gets simpler once every decision is not up for argument again.",
-            "zh": "道德清楚感很重要，因為當每一個決定都不再需要重新跟自己辯論一次時，生活就會簡單很多。",
-            "vocab": []
+            "zh": "道德清楚感很重要，因為當每一個決定都不再需要重新跟自己辯論一次時，生活就會簡單很多。"
           },
           {
             "speaker": "b",
@@ -2230,13 +1914,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Value sorting is hard because urgency and importance often wear the same clothes.",
-            "zh": "完全沒錯。價值排序很難，因為急迫和重要，常常穿得很像。",
-            "vocab": [
-              {
-                "word": "value sorting",
-                "def": "重新辨認什麼真正重要的過程"
-              }
-            ]
+            "zh": "完全沒錯。價值排序很難，因為急迫和重要，常常穿得很像。"
           },
           {
             "speaker": "b",
@@ -2248,31 +1926,19 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Moral attention matters because what you keep looking at slowly starts deciding who you become.",
-            "zh": "對。道德注意力很重要，因為你一直看著什麼，最後就會慢慢決定你成為什麼樣的人。",
-            "vocab": [
-              {
-                "word": "moral attention",
-                "def": "道德注意力很重要"
-              }
-            ]
+            "zh": "對。道德注意力很重要，因為你一直看著什麼，最後就會慢慢決定你成為什麼樣的人。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely strong reminder.",
-            "zh": "這真的是很強的提醒。"
+            "en": "That gives me a much clearer starting point.",
+            "zh": "這給了我一個更清楚的起點。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A person can lose a lot without making one dramatic mistake. They just keep giving their attention away.",
-            "zh": "一個人不一定要犯什麼大錯，才會失去很多東西。有時候他只是一直把自己的注意力送出去而已。",
-            "vocab": [
-              {
-                "word": "dramatic mistake",
-                "def": "失去很多東西"
-              }
-            ]
+            "zh": "一個人不一定要犯什麼大錯，才會失去很多東西。有時候他只是一直把自己的注意力送出去而已。"
           },
           {
             "speaker": "b",
@@ -2313,37 +1979,25 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A priority test helps because it forces you to ask whether something feels urgent, or whether it is truly worth your life energy.",
-            "zh": "完全沒錯。優先測試很有幫助，因為它會逼你問：這件事只是很急，還是真的值得你的人生能量。",
-            "vocab": [
-              {
-                "word": "priority test",
-                "def": "用來分辨事情是真的重要"
-              }
-            ]
+            "zh": "完全沒錯。優先測試很有幫助，因為它會逼你問：這件事只是很急，還是真的值得你的人生能量。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a question I probably do not ask enough.",
-            "zh": "這個問題我大概真的問得不夠多。"
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people do not. Thoughtful living usually begins when people slow down enough to separate signal from noise.",
-            "zh": "大多數人都沒有。所謂活得更有思想，常常是從人慢下來、終於能把訊號和雜音分開開始。",
-            "vocab": [
-              {
-                "word": "Thoughtful living",
-                "def": "所謂活得更有思想"
-              }
-            ]
+            "zh": "大多數人都沒有。所謂活得更有思想，常常是從人慢下來、終於能把訊號和雜音分開開始。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a life skill, not just a personality trait.",
-            "zh": "這聽起來比較像一種生活能力，不只是個性。"
+            "en": "That's consistent with what happens in real life.",
+            "zh": "這和真實生活裡發生的事是一致的。"
           },
           {
             "speaker": "a",
@@ -2366,13 +2020,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, \"I am trying to be more deliberate about what gets my time and attention.\"",
-            "zh": "你可以說：「I am trying to be more deliberate about what gets my time and attention.」",
-            "vocab": [
-              {
-                "word": "deliberate",
-                "def": "刻意的；有意識的"
-              }
-            ]
+            "zh": "你可以說：「I am trying to be more deliberate about what gets my time and attention.」"
           },
           {
             "speaker": "b",
@@ -2384,8 +2032,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural option is, \"I do not want urgency to decide my life for me.\"",
-            "zh": "另一句也很好用：「I do not want urgency to decide my life for me.」",
-            "vocab": []
+            "zh": "另一句也很好用：「I do not want urgency to decide my life for me.」"
           },
           {
             "speaker": "b",
@@ -2397,13 +2044,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A shorter version would be, \"I am trying to give more room to what actually matters.\"",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying to give more room to what actually matters.」",
-            "vocab": [
-              {
-                "word": "shorter version",
-                "def": "更短的說法"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am trying to give more room to what actually matters.」"
           },
           {
             "speaker": "b",
@@ -2432,13 +2073,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually a wise limit. Less input, fewer automatic yeses, and more time before deciding what deserves a response.",
-            "zh": "通常是一個有智慧的限制。少一點輸入、少一點自動答應，也多一點時間去決定什麼值得回應。",
-            "vocab": [
-              {
-                "word": "wise limit",
-                "def": "不是僵硬控制"
-              }
-            ]
+            "zh": "通常是一個有智慧的限制。少一點輸入、少一點自動答應，也多一點時間去決定什麼值得回應。"
           },
           {
             "speaker": "b",
@@ -2450,14 +2085,13 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A thoughtful filter only works if a person is willing to disappoint some noise in order to stay loyal to what matters.",
-            "zh": "完全沒錯。只有當一個人願意讓一些雜音失望，好對真正重要的東西保持忠誠時，那個內在過濾器才會真的有用。",
-            "vocab": []
+            "zh": "完全沒錯。只有當一個人願意讓一些雜音失望，好對真正重要的東西保持忠誠時，那個內在過濾器才會真的有用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually challenging sentence.",
-            "zh": "這句真的很有挑戰性。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "a",
@@ -2497,15 +2131,14 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful summary.",
-            "zh": "這真的是很美的總結。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Chosen meaning matters because people become steadier when their days reflect what their heart has actually judged to be important.",
-            "zh": "被選出來的意義很重要，因為當一個人的日子真的開始反映他內心判斷的重要性時，他就會變得更穩。",
-            "vocab": []
+            "zh": "被選出來的意義很重要，因為當一個人的日子真的開始反映他內心判斷的重要性時，他就會變得更穩。"
           },
           {
             "speaker": "b",
@@ -2536,9 +2169,9 @@ export const WEEK_41: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "value sorting",
-        "zh": "在很多事都在拉扯時，重新辨認什麼真正重要的過程",
-        "example": "Value sorting takes more honesty than speed."
+        "en": "set priorities",
+        "zh": "重新排出先後順序，弄清楚什麼最重要",
+        "example": "He had to set priorities before making the decision."
       },
       {
         "en": "moral attention",

@@ -34,13 +34,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what building rapport does. It adds context. Suddenly a colleague is a person, and a person is easier to work with.",
-            "zh": "這就是建立關係的作用。它增加了背景脈絡。突然間，同事變成了一個人，而一個人更容易相處。",
-            "vocab": [
-              {
-                "word": "building rapport",
-                "def": "這就是建立關係的作用"
-              }
-            ]
+            "zh": "這就是建立關係的作用。它增加了背景脈絡。突然間，同事變成了一個人，而一個人更容易相處。"
           },
           {
             "speaker": "b",
@@ -52,13 +46,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The workplace relationship was. Once that improved, the technical problem became much easier to solve together.",
-            "zh": "職場關係才是。一旦那個改善了，技術問題就容易多了，一起解決。",
-            "vocab": [
-              {
-                "word": "workplace relationship",
-                "def": "職場關係"
-              }
-            ]
+            "zh": "職場關係才是。一旦那個改善了，技術問題就容易多了，一起解決。"
           },
           {
             "speaker": "b",
@@ -81,13 +69,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I keep a certain professional distance with most of my colleagues. Is that a bad thing?",
-            "zh": "我跟大多數同事保持某種職業距離。這是壞事嗎？",
-            "vocab": [
-              {
-                "word": "professional distance",
-                "def": "職業距離"
-              }
-            ]
+            "zh": "我跟大多數同事保持某種職業距離。這是壞事嗎？"
           },
           {
             "speaker": "a",
@@ -104,14 +86,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually fine in most office environments. The key is that people feel respected and comfortable working with you.",
-            "zh": "在大多數辦公室環境裡，這其實沒問題。關鍵是人們在跟你合作時感到被尊重和自在。",
-            "vocab": [
-              {
-                "word": "comfortable working",
-                "def": "這其實沒問題"
-              }
-            ]
+            "en": "That's the kind of insight worth keeping.",
+            "zh": "這種洞察很值得留著。"
           },
           {
             "speaker": "b",
@@ -152,13 +128,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Be specific about what makes it work. \"We have a good team chemistry because she always asks clarifying questions and I fill in the context.\"",
-            "zh": "具體說明是什麼讓合作順暢。「我們有很好的團隊默契，因為她總是問釐清問題，而我補上背景脈絡。」",
-            "vocab": [
-              {
-                "word": "team chemistry",
-                "def": "團隊默契；配合度"
-              }
-            ]
+            "zh": "具體說明是什麼讓合作順暢。「我們有很好的團隊默契，因為她總是問釐清問題，而我補上背景脈絡。」"
           },
           {
             "speaker": "b",
@@ -170,13 +140,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And for a trickier work dynamic, you can say \"We work better when there is a clear brief upfront.\" That is honest without being negative.",
-            "zh": "而對於比較棘手的工作關係，你可以說「有了清楚的前期說明，我們合作得更好。」這是誠實的，但不帶負面意味。",
-            "vocab": [
-              {
-                "word": "work dynamic",
-                "def": "工作相處模式"
-              }
-            ]
+            "zh": "而對於比較棘手的工作關係，你可以說「有了清楚的前期說明，我們合作得更好。」這是誠實的，但不帶負面意味。"
           },
           {
             "speaker": "b",
@@ -194,13 +158,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about finding common ground with someone you do not naturally click with?",
-            "zh": "那如果是跟一個你不太自然合得來的人，要怎麼找共同點？",
-            "vocab": [
-              {
-                "word": "common ground",
-                "def": "共同點"
-              }
-            ]
+            "zh": "那如果是跟一個你不太自然合得來的人，要怎麼找共同點？"
           },
           {
             "speaker": "a",
@@ -211,7 +169,7 @@ export const WEEK_13: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Move That Builds Trust Fast",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -223,13 +181,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Follow through on small commitments. If you say you will send something by three o'clock, send it by three o'clock.",
-            "zh": "兌現小承諾。如果你說你會在三點前把東西傳過去，就在三點前傳。",
-            "vocab": [
-              {
-                "word": "follow through",
-                "def": "兌現；貫徹執行"
-              }
-            ]
+            "zh": "兌現小承諾。如果你說你會在三點前把東西傳過去，就在三點前傳。"
           },
           {
             "speaker": "b",
@@ -266,12 +218,7 @@ export const WEEK_13: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. People remember how you handled it, not just that it happened. Recovery matters as much as the original mistake.",
             "zh": "對。人們記住的是你怎麼處理，不只是它發生了。恢復的方式和原來的失誤一樣重要。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Why Office Relationships Matter Beyond the Office",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -405,19 +352,13 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Exactly. Feedback without context is almost worse than no feedback.",
-            "zh": "沒錯。沒有背景的回饋幾乎比沒有回饋更糟。",
-            "vocab": [
-              {
-                "word": "Feedback without context",
-                "def": "沒有背景的回饋幾乎比沒有回饋更糟"
-              }
-            ]
+            "zh": "沒錯。沒有背景的回饋幾乎比沒有回饋更糟。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common problem. Good feedback needs to say what, where, and ideally why.",
-            "zh": "這是非常常見的問題。好的回饋需要說清楚什麼、哪裡，以及最好是為什麼。"
+            "en": "So the whole approach changes once you see it that way.",
+            "zh": "一旦這樣看，整個做法都跟著變了。"
           },
           {
             "speaker": "b",
@@ -446,13 +387,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. It means you care about your work. The problem is when caring turns into shutting down instead of listening.",
-            "zh": "不是。這代表你在乎自己的工作。問題是當在乎變成關閉自己而不是傾聽的時候。",
-            "vocab": [
-              {
-                "word": "caring turns into shutting",
-                "def": "不是"
-              }
-            ]
+            "zh": "不是。這代表你在乎自己的工作。問題是當在乎變成關閉自己而不是傾聽的時候。"
           },
           {
             "speaker": "b",
@@ -463,8 +398,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very natural reaction. Vague criticism plus high stakes equals fight or flight.",
-            "zh": "這是非常自然的反應。模糊的批評加上高風險，等於逃跑或對抗。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "b",
@@ -476,13 +411,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask a clarifying question before you respond. \"Can you give me a specific example?\" That slows everything down and puts you back in control.",
-            "zh": "在回應之前先問一個釐清問題。「你能給我一個具體的例子嗎？」這會讓一切慢下來，把主導權還給你。",
-            "vocab": [
-              {
-                "word": "clarifying question",
-                "def": "釐清問題"
-              }
-            ]
+            "zh": "在回應之前先問一個釐清問題。「你能給我一個具體的例子嗎？」這會讓一切慢下來，把主導權還給你。"
           },
           {
             "speaker": "b",
@@ -511,13 +440,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Lead with what the work is trying to do, then describe what is getting in the way. \"The goal is clarity — right now the third section slows the reader down.\"",
-            "zh": "先說這份工作想達成什麼，然後說明什麼阻礙了它。「目標是清楚——現在第三節讓讀者的速度慢了下來。」",
-            "vocab": [
-              {
-                "word": "third section slows",
-                "def": "讀者的速度慢了下來。"
-              }
-            ]
+            "zh": "先說這份工作想達成什麼，然後說明什麼阻礙了它。「目標是清楚——現在第三節讓讀者的速度慢了下來。」"
           },
           {
             "speaker": "b",
@@ -529,13 +452,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can also say \"One thing that would make this stronger is...\" — that positions it as a suggestion, not a verdict.",
-            "zh": "沒錯。你也可以說「有一件事可以讓這個更強...」——這把它定位成建議，而不是裁決。",
-            "vocab": [
-              {
-                "word": "suggestion, not a verdict",
-                "def": "而不是裁決"
-              }
-            ]
+            "zh": "沒錯。你也可以說「有一件事可以讓這個更強...」——這把它定位成建議，而不是裁決。"
           },
           {
             "speaker": "b",
@@ -576,13 +493,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask for it more often. When feedback is regular and small, it stops feeling like a performance review and starts feeling like conversation.",
-            "zh": "更常要求回饋。當回饋變得定期且小規模，它就不再感覺像績效評估，開始感覺像對話。",
-            "vocab": [
-              {
-                "word": "feedback",
-                "def": "反饋；意見"
-              }
-            ]
+            "zh": "更常要求回饋。當回饋變得定期且小規模，它就不再感覺像績效評估，開始感覺像對話。"
           },
           {
             "speaker": "b",
@@ -606,13 +517,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it also signals that you are someone who wants to grow. Managers notice that.",
-            "zh": "這也傳遞了一個訊號，你是個想要成長的人。主管會注意到這件事。",
-            "vocab": [
-              {
-                "word": "wants to grow",
-                "def": "這也傳遞了一個訊號"
-              }
-            ]
+            "zh": "這也傳遞了一個訊號，你是個想要成長的人。主管會注意到這件事。"
           },
           {
             "speaker": "b",
@@ -653,13 +558,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That kind of psychological safety is rare. But it starts with one person deciding their blind spots are worth knowing.",
-            "zh": "那種心理安全感是罕見的。但它從一個人決定自己的盲點值得被知道開始。",
-            "vocab": [
-              {
-                "word": "blind spot",
-                "def": "盲點"
-              }
-            ]
+            "zh": "那種心理安全感是罕見的。但它從一個人決定自己的盲點值得被知道開始。"
           },
           {
             "speaker": "b",
@@ -746,13 +645,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There is someone on my team who CC's our manager on every email. Every single one. Even the ones about lunch.",
-            "zh": "我們團隊有一個人，每封電子郵件都會副本給我們主管。每一封，就連討論午飯的那種也是。",
-            "vocab": [
-              {
-                "word": "Every single",
-                "def": "每一封"
-              }
-            ]
+            "zh": "我們團隊有一個人，每封電子郵件都會副本給我們主管。每一封，就連討論午飯的那種也是。"
           },
           {
             "speaker": "a",
@@ -770,13 +663,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually both. Difficult colleagues are rarely simple. Their behavior usually has a history attached to it.",
-            "zh": "通常兩者都是。難相處的同事很少是簡單的。他們的行為通常背後有段歷史。",
-            "vocab": [
-              {
-                "word": "Difficult colleagues are rarely",
-                "def": "通常兩者都是"
-              }
-            ]
+            "zh": "通常兩者都是。難相處的同事很少是簡單的。他們的行為通常背後有段歷史。"
           },
           {
             "speaker": "b",
@@ -817,13 +704,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is passive-aggressive behavior. The sting is usually deniable — they can always say \"I did not mean it that way.\"",
-            "zh": "這是被動攻擊行為。那個刺通常是可以被否認的——他們總是可以說「我不是那個意思」。",
-            "vocab": [
-              {
-                "word": "passive-aggressive",
-                "def": "被動攻擊的；陰陽怪氣的"
-              }
-            ]
+            "zh": "這是被動攻擊行為。那個刺通常是可以被否認的——他們總是可以說「我不是那個意思」。"
           },
           {
             "speaker": "b",
@@ -847,13 +728,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You are not attacking the person — you are describing a situation that needs to change.",
-            "zh": "對。你不是在攻擊那個人，你是在描述一個需要改變的狀況。",
-            "vocab": [
-              {
-                "word": "describing a situation",
-                "def": "你不是在攻擊那個人"
-              }
-            ]
+            "zh": "對。你不是在攻擊那個人，你是在描述一個需要改變的狀況。"
           },
           {
             "speaker": "b",
@@ -865,13 +740,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Document it and escalate. Some workplace problems cannot be solved peer to peer. That is what managers are for.",
-            "zh": "記錄下來然後往上反映。有些職場問題無法同事之間自己解決。那就是主管的工作。",
-            "vocab": [
-              {
-                "word": "escalate",
-                "def": "往上反映；升級處理"
-              }
-            ]
+            "zh": "記錄下來然後往上反映。有些職場問題無法同事之間自己解決。那就是主管的工作。"
           }
         ]
       },
@@ -900,13 +769,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if someone pushes you in a meeting, try \"I need to think about that before I respond.\" It gives you time and control.",
-            "zh": "如果有人在會議中逼你，試試「我需要想想再回應」。這給了你時間和主動權。",
-            "vocab": [
-              {
-                "word": "before I respond",
-                "def": "想想再回應"
-              }
-            ]
+            "zh": "如果有人在會議中逼你，試試「我需要想想再回應」。這給了你時間和主動權。"
           },
           {
             "speaker": "b",
@@ -959,13 +822,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And when you do escalate, describe behaviors and impacts, not personality. \"This happened on these dates, and here is the effect on the project.\"",
-            "zh": "當你往上反映時，描述行為和影響，不是個性。「這在這幾個日期發生了，這是對專案的影響。」",
-            "vocab": [
-              {
-                "word": "happened on these dates",
-                "def": "描述行為和影響"
-              }
-            ]
+            "zh": "當你往上反映時，描述行為和影響，不是個性。「這在這幾個日期發生了，這是對專案的影響。」"
           },
           {
             "speaker": "b",
@@ -1018,13 +875,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You cannot change a person. You can only change how you engage with them, what you expect from them, and how much access they have to your attention.",
-            "zh": "你無法改變一個人。你只能改變你怎麼跟他們互動、你對他們期望什麼，以及他們能佔用你多少注意力。",
-            "vocab": [
-              {
-                "word": "cannot change a person",
-                "def": "你無法改變一個人"
-              }
-            ]
+            "zh": "你無法改變一個人。你只能改變你怎麼跟他們互動、你對他們期望什麼，以及他們能佔用你多少注意力。"
           },
           {
             "speaker": "b",
@@ -1117,13 +968,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what micromanagement does over time. It does not just slow the work down — it erodes the person's confidence.",
-            "zh": "這就是微觀管理長期下來的作用。它不只是讓工作慢下來，它也磨損了那個人的自信心。",
-            "vocab": [
-              {
-                "word": "micromanage",
-                "def": "微觀管理；管太細"
-              }
-            ]
+            "zh": "這就是微觀管理長期下來的作用。它不只是讓工作慢下來，它也磨損了那個人的自信心。"
           },
           {
             "speaker": "b",
@@ -1134,8 +979,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common effect. Micromanagers often do not realize they are sending that message.",
-            "zh": "這是非常常見的影響。微觀管理的人往往不意識到他們在傳遞這個訊息。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "b",
@@ -1147,13 +992,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually anxiety about outcomes and difficulty delegating. They want things done right and do not yet trust the team to do it their way.",
-            "zh": "通常是對結果的焦慮以及授權的困難。他們想要事情做對，但還不信任團隊能按他們的方式做。",
-            "vocab": [
-              {
-                "word": "anxiety about outcomes",
-                "def": "授權；委派任務"
-              }
-            ]
+            "zh": "通常是對結果的焦慮以及授權的困難。他們想要事情做對，但還不信任團隊能按他們的方式做。"
           },
           {
             "speaker": "b",
@@ -1182,13 +1021,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the opposite problem. Too little structure can be just as damaging as too much.",
-            "zh": "那是相反的問題。結構太少和太多一樣有害。",
-            "vocab": [
-              {
-                "word": "structure",
-                "def": "結構；框架；規律"
-              }
-            ]
+            "zh": "那是相反的問題。結構太少和太多一樣有害。"
           },
           {
             "speaker": "b",
@@ -1206,13 +1039,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is neither control nor absence. It is structured autonomy.",
-            "zh": "所以目標不是控制也不是缺席，而是有結構的自主。",
-            "vocab": [
-              {
-                "word": "neither control nor absence",
-                "def": "而是有結構的自主"
-              }
-            ]
+            "zh": "所以目標不是控制也不是缺席，而是有結構的自主。"
           },
           {
             "speaker": "a",
@@ -1247,13 +1074,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask before you start rather than guessing and correcting later. Try \"Can I confirm what success looks like for this?\" That is direct and professional.",
-            "zh": "在開始之前問，而不是猜了再改。試試說「我可以確認一下這個成功看起來是什麼樣子嗎？」這樣直接又專業。",
-            "vocab": [
-              {
-                "word": "direct",
-                "def": "引導；導向"
-              }
-            ]
+            "zh": "在開始之前問，而不是猜了再改。試試說「我可以確認一下這個成功看起來是什麼樣子嗎？」這樣直接又專業。"
           },
           {
             "speaker": "b",
@@ -1265,13 +1086,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And when you are leading, try \"I want to give you full ownership on this — let me know if you want to check in before the deadline.\"",
-            "zh": "對。當你在帶人的時候，試著說「我想把這個完全交給你負責——如果你想在截止日期前確認，跟我說。」",
-            "vocab": [
-              {
-                "word": "ownership",
-                "def": "主導感；歸屬感"
-              }
-            ]
+            "zh": "對。當你在帶人的時候，試著說「我想把這個完全交給你負責——如果你想在截止日期前確認，跟我說。」"
           },
           {
             "speaker": "b",
@@ -1295,18 +1110,12 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is accountability without shame. It is much more useful than blame.",
-            "zh": "對。這是不帶羞恥的問責。比指責有用多了。",
-            "vocab": [
-              {
-                "word": "accountability",
-                "def": "問責制；承擔責任"
-              }
-            ]
+            "zh": "對。這是不帶羞恥的問責。比指責有用多了。"
           }
         ]
       },
       {
-        "title": "Part 4 — Following Direction You Do Not Agree With",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -1318,13 +1127,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First, make sure you have actually heard their reasoning. A lot of disagreements shrink when you understand the full picture.",
-            "zh": "首先，確認你真的有聽進他們的理由。很多不同意見，在你了解完整情況後就縮小了。",
-            "vocab": [
-              {
-                "word": "understand the full picture",
-                "def": "很多不同意見"
-              }
-            ]
+            "zh": "首先，確認你真的有聽進他們的理由。很多不同意見，在你了解完整情況後就縮小了。"
           },
           {
             "speaker": "b",
@@ -1361,12 +1164,7 @@ export const WEEK_13: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. Raising every concern with the same intensity is the fastest way to stop being heard on the ones that matter.",
             "zh": "對。對每個擔憂都以相同的強度提出，是讓你在真正重要的事情上停止被聽見的最快方法。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Leadership Is Really About",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1482,13 +1280,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the most common remote work communication problem. Text strips out tone and leaves the reader to fill it in.",
-            "zh": "這是遠端工作溝通中最常見的問題。文字去掉了語氣，讓讀者自己填進去。",
-            "vocab": [
-              {
-                "word": "common remote work communication",
-                "def": "這是遠端工作溝通中最常見的問題"
-              }
-            ]
+            "zh": "這是遠端工作溝通中最常見的問題。文字去掉了語氣，讓讀者自己填進去。"
           },
           {
             "speaker": "b",
@@ -1512,13 +1304,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. In an office, she might hear your voice, see your expression, or catch you making a joke five minutes later. None of that exists in text.",
-            "zh": "對。在辦公室裡，她可能會聽到你的聲音，看到你的表情，或者五分鐘後看到你在開玩笑。在文字裡，這些都不存在。",
-            "vocab": [
-              {
-                "word": "five minutes",
-                "def": "遠端團隊"
-              }
-            ]
+            "zh": "對。在辦公室裡，她可能會聽到你的聲音，看到你的表情，或者五分鐘後看到你在開玩笑。在文字裡，這些都不存在。"
           },
           {
             "speaker": "b",
@@ -1547,13 +1333,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is screen fatigue plus boundary blurring. When work and home are the same place, the signals that normally tell your brain \"work is over\" disappear.",
-            "zh": "這是螢幕疲勞加上界限模糊。當工作和家是同一個地方，那些通常告訴你大腦「工作結束了」的信號就消失了。",
-            "vocab": [
-              {
-                "word": "screen fatigue",
-                "def": "螢幕疲勞"
-              }
-            ]
+            "zh": "這是螢幕疲勞加上界限模糊。當工作和家是同一個地方，那些通常告訴你大腦「工作結束了」的信號就消失了。"
           },
           {
             "speaker": "b",
@@ -1600,13 +1380,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do I build connection with teammates I have never met in person?",
-            "zh": "我要怎麼跟從來沒有面對面見過的隊友建立連結？",
-            "vocab": [
-              {
-                "word": "build connection with teammates",
-                "def": "我要怎麼跟從來沒有面對面見過的隊友建立連結"
-              }
-            ]
+            "zh": "我要怎麼跟從來沒有面對面見過的隊友建立連結？"
           },
           {
             "speaker": "a",
@@ -1618,13 +1392,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And in virtual meetings? How do I participate better?",
-            "zh": "那在視訊會議裡呢？我要怎麼參與得更好？",
-            "vocab": [
-              {
-                "word": "virtual meeting",
-                "def": "視訊會議"
-              }
-            ]
+            "zh": "那在視訊會議裡呢？我要怎麼參與得更好？"
           },
           {
             "speaker": "a",
@@ -1648,13 +1416,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about informal chat? I miss the random conversations by the coffee machine.",
-            "zh": "那非正式的聊天呢？我懷念在咖啡機旁隨機的對話。",
-            "vocab": [
-              {
-                "word": "informal chat",
-                "def": "非正式閒聊"
-              }
-            ]
+            "zh": "那非正式的聊天呢？我懷念在咖啡機旁隨機的對話。"
           },
           {
             "speaker": "a",
@@ -1689,13 +1451,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Use chat for quick questions, email for decisions, call for anything that needs nuance.\" Simple rules reduce a lot of friction.",
-            "zh": "「簡單問題用聊天，決定用郵件，需要細節討論的打電話。」簡單的規則可以減少很多摩擦。",
-            "vocab": [
-              {
-                "word": "friction",
-                "def": "阻力；讓事情變難開始的摩擦"
-              }
-            ]
+            "zh": "「簡單問題用聊天，決定用郵件，需要細節討論的打電話。」簡單的規則可以減少很多摩擦。"
           },
           {
             "speaker": "b",
@@ -1754,13 +1510,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have also found I am more focused when I work alone. Fewer interruptions.",
-            "zh": "我也發現獨自工作的時候我更專注。更少打擾。",
-            "vocab": [
-              {
-                "word": "Fewer interruptions",
-                "def": "更少打擾"
-              }
-            ]
+            "zh": "我也發現獨自工作的時候我更專注。更少打擾。"
           },
           {
             "speaker": "a",
@@ -1846,20 +1596,14 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common version of a modern workday. The calendar fills up and the actual work gets pushed to the margins.",
-            "zh": "這是現代工作日非常常見的版本。行事曆被填滿了，實際工作被推到邊緣去。"
+            "en": "Right, and it's far more practical that way.",
+            "zh": "對，而且那樣實際很多。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "At least two of those meetings were just status updates. They could have been a shared document.",
-            "zh": "其中至少兩個會議只是狀態更新，可以是一份共用文件就解決的事。",
-            "vocab": [
-              {
-                "word": "those meetings",
-                "def": "會議疲勞"
-              }
-            ]
+            "zh": "其中至少兩個會議只是狀態更新，可以是一份共用文件就解決的事。"
           },
           {
             "speaker": "a",
@@ -1877,13 +1621,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Before accepting a meeting request, ask what decision needs to be made. If there is no clear decision, suggest an alternative format.",
-            "zh": "有。在接受會議邀請之前，先問需要做什麼決定。如果沒有清楚的決定，建議一個替代形式。",
-            "vocab": [
-              {
-                "word": "Before accepting a meeting",
-                "def": "有"
-              }
-            ]
+            "zh": "有。在接受會議邀請之前，先問需要做什麼決定。如果沒有清楚的決定，建議一個替代形式。"
           },
           {
             "speaker": "b",
@@ -1912,13 +1650,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most effective move is to state the purpose and the end goal at the very beginning. \"We have forty minutes. We need to decide X. Let's start.\"",
-            "zh": "最有效的做法是在一開始就說清楚目的和最終目標。「我們有四十分鐘，需要決定X，開始吧。」",
-            "vocab": [
-              {
-                "word": "most effective move",
-                "def": "最有效的做法"
-              }
-            ]
+            "zh": "最有效的做法是在一開始就說清楚目的和最終目標。「我們有四十分鐘，需要決定X，開始吧。」"
           },
           {
             "speaker": "b",
@@ -1929,26 +1661,20 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Acknowledge it and park it. \"That is a good point — let me add it to the follow-up list so we can address it properly.\" People feel heard and the meeting stays on track.",
-            "zh": "承認它然後暫時停放。「這是個好觀點——我把它加到跟進清單，這樣我們可以好好處理。」人們感到被聽見，會議也保持在正軌上。"
+            "en": "That maps well onto real conversations.",
+            "zh": "這個說法很貼合真實的對話。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much better response than just ignoring the point or letting it derail everything.",
-            "zh": "這比直接忽略那個觀點或讓它讓一切偏離軌道好多了。"
+            "en": "That changes how I want to use it.",
+            "zh": "這改變了我想怎麼去用它。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It validates the person while protecting the meeting's purpose. Both matter.",
-            "zh": "對。它讓那個人感到被認可，同時保護了會議的目的。兩個都重要。",
-            "vocab": [
-              {
-                "word": "Both matter",
-                "def": "主持一場會議"
-              }
-            ]
+            "zh": "對。它讓那個人感到被認可，同時保護了會議的目的。兩個都重要。"
           },
           {
             "speaker": "b",
@@ -1960,13 +1686,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "End with three things: what was decided, who is doing what by when, and when you will check in next. That is a complete meeting close.",
-            "zh": "用三件事結束：決定了什麼、誰在什麼時候前做什麼、以及下次何時跟進。這是完整的會議結束。",
-            "vocab": [
-              {
-                "word": "complete meeting",
-                "def": "議結束"
-              }
-            ]
+            "zh": "用三件事結束：決定了什麼、誰在什麼時候前做什麼、以及下次何時跟進。這是完整的會議結束。"
           }
         ]
       },
@@ -1983,13 +1703,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Let me make sure I understood that correctly\" is useful when you want to clarify without challenging. \"Can we come back to that in a moment?\" lets you redirect politely.",
-            "zh": "「讓我確認一下我理解正確了」在你想釐清而不是挑戰的時候很好用。「我們能等一下再回到那個嗎？」讓你禮貌地重新導向。",
-            "vocab": [
-              {
-                "word": "sure I understood",
-                "def": "確認一下我理解正確了"
-              }
-            ]
+            "zh": "「讓我確認一下我理解正確了」在你想釐清而不是挑戰的時候很好用。「我們能等一下再回到那個嗎？」讓你禮貌地重新導向。"
           },
           {
             "speaker": "b",
@@ -2042,13 +1756,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Block time on your calendar and treat it like a meeting you cannot move. \"Focus block, 9 to 11\" sends a visible signal to others.",
-            "zh": "在行事曆上封鎖時間，把它當成你不能移動的會議。「專注時間，9到11點」向其他人發出了可見的信號。",
-            "vocab": [
-              {
-                "word": "signal",
-                "def": "暗示底下有更大問題的訊號"
-              }
-            ]
+            "zh": "在行事曆上封鎖時間，把它當成你不能移動的會議。「專注時間，9到11點」向其他人發出了可見的信號。"
           },
           {
             "speaker": "b",
@@ -2125,13 +1833,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is an easy trap. Busyness is visible. Productivity is measurable. They are very different things.",
-            "zh": "這是個容易掉進去的陷阱。忙碌是可見的，生產力是可量測的。它們是非常不同的事情。",
-            "vocab": [
-              {
-                "word": "visible",
-                "def": "這是個容易掉進去的陷阱"
-              }
-            ]
+            "zh": "這是個容易掉進去的陷阱。忙碌是可見的，生產力是可量測的。它們是非常不同的事情。"
           },
           {
             "speaker": "b",
@@ -2218,19 +1920,13 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I asked for clarification and got: \"Take more initiative and be more visible in cross-team work.\"",
-            "zh": "我要求釐清，得到的是：「更有主動性，在跨團隊工作中更有存在感。」",
-            "vocab": [
-              {
-                "word": "initiative",
-                "def": "主動性；自發行動"
-              }
-            ]
+            "zh": "我要求釐清，得到的是：「更有主動性，在跨團隊工作中更有存在感。」"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually useful feedback, even if it felt abstract. It tells you the problem is not your output — it is your visibility.",
-            "zh": "這其實是有用的回饋，就算感覺很抽象。它告訴你問題不是你的產出，而是你的能見度。"
+            "en": "That reframes it in a helpful direction.",
+            "zh": "這把它換到了一個更有幫助的方向。"
           },
           {
             "speaker": "b",
@@ -2265,13 +1961,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I spent three years in one role that I eventually realized was not leading anywhere. I felt stuck.",
-            "zh": "我在一個角色待了三年，最後意識到那條路走不到哪裡去。我感到被困住了。",
-            "vocab": [
-              {
-                "word": "eventually realized",
-                "def": "職涯道路"
-              }
-            ]
+            "zh": "我在一個角色待了三年，最後意識到那條路走不到哪裡去。我感到被困住了。"
           },
           {
             "speaker": "a",
@@ -2295,13 +1985,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What helped me was talking to a mentor who had made a lateral move I had not considered.",
-            "zh": "幫助我的是跟一個做過我沒有考慮過的橫向移動的導師談話。",
-            "vocab": [
-              {
-                "word": "mentor",
-                "def": "導師；前輩"
-              }
-            ]
+            "zh": "幫助我的是跟一個做過我沒有考慮過的橫向移動的導師談話。"
           },
           {
             "speaker": "a",
@@ -2336,13 +2020,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say what you want to learn, not just what title you want to reach. \"I want to develop stronger data skills\" sounds focused and specific.",
-            "zh": "說你想學什麼，而不只是你想得到什麼頭銜。「我想建立更強的數據技能」聽起來專注而具體。",
-            "vocab": [
-              {
-                "word": "develop stronger data skills",
-                "def": "我想建立更強的數據技能"
-              }
-            ]
+            "zh": "說你想學什麼，而不只是你想得到什麼頭銜。「我想建立更強的資料能力」聽起來專注而具體。"
           },
           {
             "speaker": "b",
@@ -2360,13 +2038,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And if I am making a career change, how do I explain that positively?",
-            "zh": "那如果我在做職業轉換，我要怎麼正面地解釋那件事？",
-            "vocab": [
-              {
-                "word": "making a career change",
-                "def": "那如果我在做職業轉換"
-              }
-            ]
+            "zh": "那如果我在做職業轉換，我要怎麼正面地解釋那件事？"
           },
           {
             "speaker": "a",
@@ -2401,13 +2073,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Document your wins. Keep a running list of things you accomplished, decisions you made, problems you solved. Most people forget what they have done within months.",
-            "zh": "記錄你的成就。保持一個持續更新的清單，記載你完成了什麼、做了什麼決定、解決了什麼問題。大多數人幾個月內就忘了自己做過什麼。",
-            "vocab": [
-              {
-                "word": "Most people forget",
-                "def": "記錄你的成就"
-              }
-            ]
+            "zh": "記錄你的成就。保持一個持續更新的清單，記載你完成了什麼、做了什麼決定、解決了什麼問題。大多數人幾個月內就忘了自己做過什麼。"
           },
           {
             "speaker": "b",
@@ -2425,13 +2091,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about stretch goals? Are they worth pursuing?",
-            "zh": "那延伸目標呢？值得追求嗎？",
-            "vocab": [
-              {
-                "word": "stretch goal",
-                "def": "延伸目標；挑戰性目標"
-              }
-            ]
+            "zh": "那延伸目標呢？值得追求嗎？"
           },
           {
             "speaker": "a",
@@ -2490,13 +2150,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Figuring things out is often the highest-value phase. It is when you are building capability that will show up later.",
-            "zh": "對。摸索中往往是最高價值的階段，這時你在建立稍後才會顯現的能力。",
-            "vocab": [
-              {
-                "word": "Figuring things out",
-                "def": "摸索中往往是最高價值的階段"
-              }
-            ]
+            "zh": "對。摸索中往往是最高價值的階段，這時你在建立稍後才會顯現的能力。"
           },
           {
             "speaker": "b",
@@ -2507,7 +2161,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually a very precise observation about how learning works. Confusion is the precursor to understanding, not the opposite of it.",
+            "en": "That's actually a very precise observation about how learning works. Confusion is the precursor to understanding, not the opposite of it.",
             "zh": "這其實是對學習如何運作非常精確的觀察。混亂是理解的前兆，不是它的反面。"
           }
         ]
@@ -2551,7 +2205,7 @@ export const WEEK_13: Episode[] = [
       },
       {
         "en": "network",
-        "zh": "建立人脈；人際網絡",
+        "zh": "建立人脈；人際連結",
         "example": "Networking felt uncomfortable until she reframed it as just having honest conversations with interesting people."
       }
     ]

@@ -40,25 +40,13 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I underestimate my own social energy before events. I imagine I will have none, and then once I am there I find more.",
-            "zh": "我想我在活動之前低估了自己的社交能量。我以為自己完全沒有，然後到了那裡卻發現有更多。",
-            "vocab": [
-              {
-                "word": "social energy",
-                "def": "社交能量"
-              }
-            ]
+            "zh": "我想我在活動之前低估了自己的社交能量。我以為自己完全沒有，然後到了那裡卻發現有更多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very common, especially for people who lean introverted. The anticipation drains you, but the actual social contact sometimes replenishes.",
-            "zh": "這很常見，尤其是偏內向的人。預期感讓你耗盡，但實際的社交接觸有時會補充能量。",
-            "vocab": [
-              {
-                "word": "actual social",
-                "def": "社交電量"
-              }
-            ]
+            "zh": "這很常見，尤其是偏內向的人。預期感讓你耗盡，但實際的社交接觸有時會補充能量。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the most common social anxiety point. The opening is harder than the continuation for almost everyone.",
-            "zh": "這是最常見的社交焦慮點。開頭比繼續說下去對幾乎所有人來說都更難。",
-            "vocab": [
-              {
-                "word": "social anxiety",
-                "def": "社交焦慮"
-              }
-            ]
+            "zh": "這是最常見的社交焦慮點。開頭比繼續說下去對幾乎所有人來說都更難。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Comment on something shared — the room, the food, the occasion. \"Have you tried the dumplings? They are surprisingly good\" is a low-pressure opener.",
-            "zh": "評論一個共同的東西——房間、食物、場合。「你試過餃子了嗎？出乎意料地好吃」是個低壓力的開場白。",
-            "vocab": [
-              {
-                "word": "opener",
-                "def": "出乎意料地好吃」是個低壓力的開場白"
-              }
-            ]
+            "zh": "評論一個共同的東西——房間、食物、場合。「你試過餃子了嗎？出乎意料地好吃」是個低壓力的開場白。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The best small talk is not impressive — it is inviting. You are opening a door, not performing.",
-            "zh": "對。最好的寒暄不是要讓人印象深刻，而是要讓人進來。你在開門，不是在表演。",
-            "vocab": [
-              {
-                "word": "small talk",
-                "def": "寒暄；閒聊"
-              }
-            ]
+            "zh": "對。最好的寒暄不是要讓人印象深刻，而是要讓人進來。你在開門，不是在表演。"
           },
           {
             "speaker": "b",
@@ -176,13 +146,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about when I want to describe someone who is very social? Not in a negative way, just factually.",
-            "zh": "那如果我想描述一個非常擅長社交的人呢？不帶負面意味，就是事實陳述。",
-            "vocab": [
-              {
-                "word": "negative",
-                "def": "與人交際；融入人群"
-              }
-            ]
+            "zh": "那如果我想描述一個非常擅長社交的人呢？不帶負面意味，就是事實陳述。"
           },
           {
             "speaker": "a",
@@ -217,13 +181,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is very common. But usually, there are more people who feel the same way in that room than you think.",
-            "zh": "那種感覺非常普遍。但通常，那個房間裡有比你想像的更多人有同樣的感覺。",
-            "vocab": [
-              {
-                "word": "usually",
-                "def": "感到被接納；有歸屬感"
-              }
-            ]
+            "zh": "那種感覺非常普遍。但通常，那個房間裡有比你想像的更多人有同樣的感覺。"
           },
           {
             "speaker": "b",
@@ -288,13 +246,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people do. Social anxiety often decreases as people accumulate more evidence that social situations can go well.",
-            "zh": "大多數人都是這樣。社交焦慮通常會隨著人們積累更多「社交情況可以順利進行」的證據而減少。",
-            "vocab": [
-              {
-                "word": "social anxiety",
-                "def": "社交焦慮"
-              }
-            ]
+            "zh": "大多數人都是這樣。社交焦慮通常會隨著人們積累更多「社交情況可以順利進行」的證據而減少。"
           },
           {
             "speaker": "b",
@@ -399,13 +351,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the classic networking trap. You optimize for the exchange of contact information instead of the exchange of genuine interest.",
-            "zh": "這就是典型的人脈陷阱。你優化的是聯絡資訊的交換，而不是真正興趣的交換。",
-            "vocab": [
-              {
-                "word": "networking",
-                "def": "建立人脈；社交拓展"
-              }
-            ]
+            "zh": "這就是典型的人脈陷阱。你優化的是聯絡資訊的交換，而不是真正興趣的交換。"
           },
           {
             "speaker": "b",
@@ -446,17 +392,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is accurate. Transactional networking is obvious and people resist it instinctively.",
-            "zh": "那種不自在是準確的。功利性的人脈建立很明顯，人們本能地會抵制它。",
-            "vocab": [
-              {
-                "word": "discomfort",
-                "def": "不舒服"
-              },
-              {
-                "word": "transactional",
-                "def": "帶交易意味的；功利的"
-              }
-            ]
+            "zh": "那種不自在是準確的。功利性的人脈建立很明顯，人們本能地會抵制它。"
           },
           {
             "speaker": "b",
@@ -509,13 +445,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Skip the job title first and start with what you actually do. \"I help small companies figure out how to use data to make better decisions\" is more interesting than \"I am a data analyst.\"",
-            "zh": "先跳過職稱，從你實際在做什麼開始。「我幫助小公司弄清楚如何用數據做更好的決策」比「我是一名數據分析師」更有趣。",
-            "vocab": [
-              {
-                "word": "job title",
-                "def": "職稱"
-              }
-            ]
+            "zh": "先跳過職稱，從你實際在做什麼開始。「我幫助小公司弄清楚如何用資料做更好的決策」比「我是一名資料分析師」更有趣。"
           },
           {
             "speaker": "b",
@@ -533,13 +463,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about following up after you meet someone? What do you actually say?",
-            "zh": "那在見到某人之後跟進呢？你實際上說什麼？",
-            "vocab": [
-              {
-                "word": "following up",
-                "def": "跟進；後續聯絡"
-              }
-            ]
+            "zh": "那在見到某人之後跟進呢？你實際上說什麼？"
           },
           {
             "speaker": "a",
@@ -574,13 +498,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That pressure kills the conversation. When you are focused on outcome, people can feel it.",
-            "zh": "那種壓力會扼殺對話。當你專注於結果時，人們能感受到。",
-            "vocab": [
-              {
-                "word": "pressure",
-                "def": "產業活動；業界聚會"
-              }
-            ]
+            "zh": "那種壓力會扼殺對話。當你專注於結果時，人們能感受到。"
           },
           {
             "speaker": "b",
@@ -604,13 +522,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And you will usually find that two good conversations lead to natural follow-up, while twenty perfunctory ones lead to nothing.",
-            "zh": "而且你通常會發現兩場好對話會帶來自然的後續聯絡，而二十場敷衍的對話什麼都不會帶來。",
-            "vocab": [
-              {
-                "word": "follow-up",
-                "def": "後續跟進的"
-              }
-            ]
+            "zh": "而且你通常會發現兩場好對話會帶來自然的後續聯絡，而二十場敷衍的對話什麼都不會帶來。"
           },
           {
             "speaker": "b",
@@ -663,13 +575,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much less. The best thing you can do for your long-term network is be someone people want to work with. Reputation travels further than a business card.",
-            "zh": "少多了。你為長期人脈能做的最好的事，是成為一個人們想和他合作的人。名聲比名片傳得更遠。",
-            "vocab": [
-              {
-                "word": "network",
-                "def": "建立人脈；人際網絡"
-              }
-            ]
+            "zh": "少多了。你為長期人脈能做的最好的事，是成為一個人們想和他合作的人。名聲比名片傳得更遠。"
           },
           {
             "speaker": "b",
@@ -762,13 +668,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is almost always how it goes. Guests do not come for perfection. They come for the atmosphere and the company.",
-            "zh": "幾乎總是這樣。客人不是來追求完美的。他們是為了氣氛和陪伴而來的。",
-            "vocab": [
-              {
-                "word": "atmosphere",
-                "def": "氛圍；氣氛"
-              }
-            ]
+            "zh": "幾乎總是這樣。客人不是來追求完美的。他們是為了氣氛和陪伴而來的。"
           },
           {
             "speaker": "b",
@@ -780,13 +680,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the hosting trap. You start planning the event and end up planning your own anxiety instead.",
-            "zh": "這就是主辦的陷阱。你開始規劃活動，最後卻在規劃自己的焦慮。",
-            "vocab": [
-              {
-                "word": "host",
-                "def": "主辦；招待"
-              }
-            ]
+            "zh": "這就是主辦的陷阱。你開始規劃活動，最後卻在規劃自己的焦慮。"
           },
           {
             "speaker": "b",
@@ -839,13 +733,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Prepare things in advance that you can finish quickly on the day. That way you are not cooking and hosting simultaneously.",
-            "zh": "沒錯。提前準備好可以在當天快速完成的東西。這樣你就不用同時在煮飯和招待了。",
-            "vocab": [
-              {
-                "word": "finish quickly",
-                "def": "賓客名單"
-              }
-            ]
+            "zh": "沒錯。提前準備好可以在當天快速完成的東西。這樣你就不用同時在煮飯和招待了。"
           },
           {
             "speaker": "b",
@@ -874,13 +762,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"So glad you could make it\" works better than just \"hi\" because it signals that their presence matters. \"Come in, make yourself at home\" immediately tells them to relax.",
-            "zh": "「很高興你能來」比只說「嗨」效果更好，因為它傳遞了他們的出現很重要的信號。「進來，把這裡當自己家」立刻告訴他們可以放鬆。",
-            "vocab": [
-              {
-                "word": "presence",
-                "def": "人真的回到此時此刻、回到生活裡的狀態"
-              }
-            ]
+            "zh": "「很高興你能來」比只說「嗨」效果更好，因為它傳遞了他們的出現很重要的信號。「進來，把這裡當自己家」立刻告訴他們可以放鬆。"
           },
           {
             "speaker": "b",
@@ -904,13 +786,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Good hosting is partly social architecture — you create the conditions for connection. The guests do the rest.",
-            "zh": "對。好的款待有一部分是社交架構——你創造連結的條件。客人做剩下的。",
-            "vocab": [
-              {
-                "word": "partly social",
-                "def": "與人交際；融入人群"
-              }
-            ]
+            "zh": "對。好的款待有一部分是社交架構——你創造連結的條件。客人做剩下的。"
           },
           {
             "speaker": "b",
@@ -927,7 +803,7 @@ export const WEEK_14: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Thing That Makes Hosting Easier",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -939,13 +815,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask guests to bring one thing. A bottle of wine, a dessert, some snacks. A potluck model takes the food pressure off you and gives guests a sense of contribution.",
-            "zh": "請客人帶一樣東西。一瓶酒、一份甜點、一些零食。各帶一道菜的模式讓你減少食物的壓力，也讓客人有貢獻感。",
-            "vocab": [
-              {
-                "word": "potluck",
-                "def": "各帶一道菜的聚餐"
-              }
-            ]
+            "zh": "請客人帶一樣東西。一瓶酒、一份甜點、一些零食。各帶一道菜的模式讓你減少食物的壓力，也讓客人有貢獻感。"
           },
           {
             "speaker": "b",
@@ -963,13 +833,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And what about dietary restrictions? I always worry about that.",
-            "zh": "那飲食限制呢？我總是擔心這個。",
-            "vocab": [
-              {
-                "word": "dietary restriction",
-                "def": "飲食限制"
-              }
-            ]
+            "zh": "那飲食限制呢？我總是擔心這個。"
           },
           {
             "speaker": "a",
@@ -988,12 +852,7 @@ export const WEEK_14: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. And people always appreciate being asked rather than assumed about.",
             "zh": "對。而且人們總是欣賞被詢問，而不是被假設。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Why Hosting Is Worth the Effort",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1016,13 +875,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Creating a space where people connect and enjoy themselves is genuinely meaningful. That is why people host even when it is hard.",
-            "zh": "對。創造一個人們能連結並享受的空間是真正有意義的。這就是為什麼人們即使在困難的情況下也還是主辦。",
-            "vocab": [
-              {
-                "word": "meaningful",
-                "def": "有意義的；做起來心裡有感的"
-              }
-            ]
+            "zh": "對。創造一個人們能連結並享受的空間是真正有意義的。這就是為什麼人們即使在困難的情況下也還是主辦。"
           },
           {
             "speaker": "b",
@@ -1127,13 +980,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly what \"reading the room\" is about. What works in one context does not always transfer.",
-            "zh": "這就是「讀懂現場氣氛」的核心。在一個情境有效的東西，不一定能轉移到另一個情境。",
-            "vocab": [
-              {
-                "word": "reading the room",
-                "def": "讀懂現場氣氛；察言觀色"
-              }
-            ]
+            "zh": "這就是「讀懂現場氣氛」的核心。在一個情境有效的東西，不一定能轉移到另一個情境。"
           },
           {
             "speaker": "b",
@@ -1145,13 +992,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Listen more than you talk for the first few minutes. People reveal the group's energy through their tone, their topics, and how they react to each other.",
-            "zh": "前幾分鐘聽得比說得多。人們透過語氣、話題以及彼此之間的反應，揭示了群體的能量。",
-            "vocab": [
-              {
-                "word": "tone",
-                "def": "語氣"
-              }
-            ]
+            "zh": "前幾分鐘聽得比說得多。人們透過語氣、話題以及彼此之間的反應，揭示了群體的能量。"
           },
           {
             "speaker": "b",
@@ -1180,13 +1021,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Energy levels in the room. Are people leaning in or pulling back? Are responses short or expansive? Is there laughter or polite silence?",
-            "zh": "房間裡的能量水平。人們是在向前傾還是在後退？回應是簡短的還是寬廣的？是有笑聲還是禮貌的沉默？",
-            "vocab": [
-              {
-                "word": "expansive",
-                "def": "廣闊的；寬廣的"
-              }
-            ]
+            "zh": "房間裡的能量水平。人們是在向前傾還是在後退？回應是簡短的還是寬廣的？是有笑聲還是禮貌的沉默？"
           },
           {
             "speaker": "b",
@@ -1198,13 +1033,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Conversations have momentum. When multiple people start picking up the same thread, that is the direction. Go there.",
-            "zh": "有。對話有動力。當多個人開始接同一條線索，那就是方向，往那裡去。",
-            "vocab": [
-              {
-                "word": "picking up",
-                "def": "察覺到；注意到"
-              }
-            ]
+            "zh": "有。對話有動力。當多個人開始接同一條線索，那就是方向，往那裡去。"
           },
           {
             "speaker": "b",
@@ -1245,13 +1074,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Actually, that reminds me of something lighter\" is a soft pivot when things get too heavy.",
-            "zh": "「說起來，這讓我想到一件比較輕鬆的事」是當事情變得太沉重時的輕柔轉向。",
-            "vocab": [
-              {
-                "word": "pivot",
-                "def": "轉向；轉換話題"
-              }
-            ]
+            "zh": "「說起來，這讓我想到一件比較輕鬆的事」是當事情變得太沉重時的輕柔轉向。"
           },
           {
             "speaker": "b",
@@ -1275,13 +1098,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"I did not mean that the way it came out\" is simple and honest. Sometimes acknowledging it immediately is the fastest way past it.",
-            "zh": "「我說這句話不是那個意思」很簡單也很誠實。有時候立刻承認是最快過去的方式。",
-            "vocab": [
-              {
-                "word": "honest",
-                "def": "不識時務的；不敏感的"
-              }
-            ]
+            "zh": "「我說這句話不是那個意思」很簡單也很誠實。有時候立刻承認是最快過去的方式。"
           },
           {
             "speaker": "b",
@@ -1315,20 +1132,14 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a quick debrief I could actually do.",
-            "zh": "這是一個我真的可以做到的快速覆盤。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You do not need to analyze everything. Just notice the pattern over time. Were there moments you felt in sync? What made them different?",
-            "zh": "對。你不需要分析每件事。只要隨著時間注意模式。有沒有你感覺很同步的時刻？是什麼讓它們不同？",
-            "vocab": [
-              {
-                "word": "pattern",
-                "def": "模式；規律"
-              }
-            ]
+            "zh": "對。你不需要分析每件事。只要隨著時間注意模式。有沒有你感覺很同步的時刻？是什麼讓它們不同？"
           },
           {
             "speaker": "b",
@@ -1375,13 +1186,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a good distinction. That is not inauthenticity. That is range.",
-            "zh": "這是個好的區分。那不是不真實，那是廣度。",
-            "vocab": [
-              {
-                "word": "distinction",
-                "def": "區分；差別"
-              }
-            ]
+            "zh": "這是個好的區分。那不是不真實，那是廣度。"
           },
           {
             "speaker": "a",
@@ -1491,20 +1296,14 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually a very functional strategy. Sometimes the context comes back.",
-            "zh": "這實際上是一個非常有效的策略。有時候背景記憶會回來。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It did not. I still have no idea who she was.",
-            "zh": "沒有。我現在還是不知道她是誰。",
-            "vocab": [
-              {
-                "word": "no idea",
-                "def": "不知道她是誰"
-              }
-            ]
+            "zh": "沒有。我現在還是不知道她是誰。"
           },
           {
             "speaker": "a",
@@ -1533,13 +1332,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do embarrassing moments stay with me so much longer than they seem to stay with anyone else?",
-            "zh": "為什麼尷尬的時刻在我腦海裡停留的時間，比在其他人身上停留的時間長得多？",
-            "vocab": [
-              {
-                "word": "embarrassing moment",
-                "def": "尷尬的時刻；出糗的時刻"
-              }
-            ]
+            "zh": "為什麼尷尬的時刻在我腦海裡停留的時間，比在其他人身上停留的時間長得多？"
           },
           {
             "speaker": "a",
@@ -1550,14 +1343,8 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "The spotlight effect.",
-            "zh": "聚光燈效應。",
-            "vocab": [
-              {
-                "word": "spotlight effect",
-                "def": "聚光燈效應"
-              }
-            ]
+            "en": "We feel watched.",
+            "zh": "我們會覺得自己被看著。"
           },
           {
             "speaker": "a",
@@ -1598,13 +1385,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do you actually say to recover from an awkward moment in real time?",
-            "zh": "在當下要從一個尷尬時刻恢復，你實際上說什麼？",
-            "vocab": [
-              {
-                "word": "recover",
-                "def": "恢復；從尷尬中回復"
-              }
-            ]
+            "zh": "在當下要從一個尷尬時刻恢復，你實際上說什麼？"
           },
           {
             "speaker": "a",
@@ -1616,13 +1397,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about silence after something you said? How do you break it without making it worse?",
-            "zh": "那如果你說了什麼之後有沉默呢？你怎麼打破它，而不讓情況更糟？",
-            "vocab": [
-              {
-                "word": "silence after something",
-                "def": "用笑聲化解；一笑置之"
-              }
-            ]
+            "zh": "那如果你說了什麼之後有沉默呢？你怎麼打破它，而不讓情況更糟？"
           },
           {
             "speaker": "a",
@@ -1640,13 +1415,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Just be careful not to do it too aggressively. A small laugh is permission to move on. A long self-flagellation keeps the spotlight on the awkward moment.",
-            "zh": "對。只要小心不要做得太過頭。一個小笑聲是繼續前進的許可。長篇自我譴責讓聚光燈繼續照在那個尷尬時刻上。",
-            "vocab": [
-              {
-                "word": "awkward moment",
-                "def": "轉向；轉換話題"
-              }
-            ]
+            "zh": "對。只要小心不要做得太過頭。一個小笑聲是繼續前進的許可。長篇自我譴責讓聚光燈繼續照在那個尷尬時刻上。"
           },
           {
             "speaker": "b",
@@ -1687,13 +1456,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Pausing for one beat before speaking, especially in unfamiliar groups, gives you time to register the room's energy first.",
-            "zh": "對。在說話前停頓一拍，尤其是在不熟悉的群體中，給了你先感受房間能量的時間。",
-            "vocab": [
-              {
-                "word": "before speaking",
-                "def": "優雅地；從容地"
-              }
-            ]
+            "zh": "對。在說話前停頓一拍，尤其是在不熟悉的群體中，給了你先感受房間能量的時間。"
           },
           {
             "speaker": "b",
@@ -1746,13 +1509,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a significant observation. When you are performing, you are less attuned to the room because you are focused on your own output.",
-            "zh": "這是個重要的觀察。當你在表演，你對房間的感知就少了，因為你專注在你自己的輸出上。",
-            "vocab": [
-              {
-                "word": "significant",
-                "def": "相當大的；重要的"
-              }
-            ]
+            "zh": "這是個重要的觀察。當你在表演，你對房間的感知就少了，因為你專注在你自己的輸出上。"
           },
           {
             "speaker": "b",
@@ -1851,25 +1608,13 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I knew rationally that it was not a deliberate snub. But emotionally it felt like one.",
-            "zh": "我理智上知道這不是刻意的冷落。但情緒上感覺就像是。",
-            "vocab": [
-              {
-                "word": "deliberate",
-                "def": "刻意的；有意識的"
-              }
-            ]
+            "zh": "我理智上知道這不是刻意的冷落。但情緒上感覺就像是。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The rational and emotional responses to exclusion are rarely in sync. Your brain registers social exclusion similarly to physical pain.",
-            "zh": "對排除的理智和情感反應很少同步。你的大腦對社交排除的登記方式類似於身體疼痛。",
-            "vocab": [
-              {
-                "word": "exclusion",
-                "def": "排除；被排外"
-              }
-            ]
+            "zh": "對排除的理智和情感反應很少同步。你的大腦對社交排除的登記方式類似於身體疼痛。"
           },
           {
             "speaker": "b",
@@ -1904,13 +1649,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have multiple friend groups that do not really overlap. Is that unusual?",
-            "zh": "我有多個朋友群體，它們實際上不太重疊。這不尋常嗎？",
-            "vocab": [
-              {
-                "word": "friend group",
-                "def": "朋友群體"
-              }
-            ]
+            "zh": "我有多個朋友群體，它們實際上不太重疊。這不尋常嗎？"
           },
           {
             "speaker": "a",
@@ -1928,13 +1667,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the friend group dynamics challenge. When circles collide, you sometimes become a bridge person — expected to manage both sides.",
-            "zh": "這就是朋友群體動態的挑戰。當圈子碰撞，你有時會成為橋樑人物——被期望管理兩側。",
-            "vocab": [
-              {
-                "word": "group dynamic",
-                "def": "群體動態"
-              }
-            ]
+            "zh": "這就是朋友群體動態的挑戰。當圈子碰撞，你有時會成為橋樑人物——被期望管理兩側。"
           },
           {
             "speaker": "b",
@@ -1975,13 +1708,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Be direct and light at the same time. \"Hey, I heard about the trip — next time keep me in the loop?\" is friendly, clear, and invites a response without creating a dramatic scene.",
-            "zh": "同時直接又輕鬆。「嘿，我聽說了那次旅行——下次讓我知道好嗎？」這很友善、清楚，並邀請回應而不製造戲劇性場面。",
-            "vocab": [
-              {
-                "word": "invite",
-                "def": "邀請"
-              }
-            ]
+            "zh": "同時直接又輕鬆。「嘿，我聽說了那次旅行——下次讓我知道好嗎？」這很友善、清楚，並邀請回應而不製造戲劇性場面。"
           },
           {
             "speaker": "b",
@@ -1993,13 +1720,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And what about when you want to include someone who has been left out of your own event?",
-            "zh": "對。那如果你想把一個被排除在你自己活動之外的人加進來呢？",
-            "vocab": [
-              {
-                "word": "include someone",
-                "def": "感到被接納；有歸屬感"
-              }
-            ]
+            "zh": "對。那如果你想把一個被排除在你自己活動之外的人加進來呢？"
           },
           {
             "speaker": "b",
@@ -2052,13 +1773,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much more. The friendships that survive the transition are the ones where both people make the scheduling effort.",
-            "zh": "多很多。在這個轉變中存活下來的友情，是雙方都努力安排行程的那些。",
-            "vocab": [
-              {
-                "word": "transition",
-                "def": "過渡；轉換"
-              }
-            ]
+            "zh": "多很多。在這個轉變中存活下來的友情，是雙方都努力安排行程的那些。"
           },
           {
             "speaker": "b",
@@ -2123,13 +1838,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually one person being willing to go first — to say something real instead of something safe. That signals it is okay for others to do the same.",
-            "zh": "通常是一個人願意先走出那一步——說一些真實的事情而不是安全的事情。這傳遞了信號，說其他人這樣做也是可以的。",
-            "vocab": [
-              {
-                "word": "real instead",
-                "def": "小圈子；排外的小群體"
-              }
-            ]
+            "zh": "通常是一個人願意先走出那一步——說一些真實的事情而不是安全的事情。這傳遞了信號，說其他人這樣做也是可以的。"
           },
           {
             "speaker": "b",
@@ -2210,13 +1919,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what overcommitting looks like. You protect the other person's feelings in the short term and drain yourself in the medium term.",
-            "zh": "這就是過度承諾的樣子。你短期保護了對方的感受，中期卻耗盡了自己。",
-            "vocab": [
-              {
-                "word": "overcommit",
-                "def": "過度承諾；攬太多事"
-              }
-            ]
+            "zh": "這就是過度承諾的樣子。你短期保護了對方的感受，中期卻耗盡了自己。"
           },
           {
             "speaker": "b",
@@ -2234,13 +1937,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is exactly what happened. Saying yes out of guilt is not really saying yes.",
-            "zh": "正是這樣發生的。出於愧疚說好，並不是真的說好。",
-            "vocab": [
-              {
-                "word": "guilt",
-                "def": "罪惡感；內疚"
-              }
-            ]
+            "zh": "正是這樣發生的。出於愧疚說好，並不是真的說好。"
           },
           {
             "speaker": "a",
@@ -2287,13 +1984,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And once you say no gracefully and the world does not end, it gets easier. The first few times are the hardest.",
-            "zh": "一旦你優雅地說不，而世界沒有結束，就會變容易了。前幾次是最難的。",
-            "vocab": [
-              {
-                "word": "gracefully",
-                "def": "優雅地；從容地"
-              }
-            ]
+            "zh": "一旦你優雅地說不，而世界沒有結束，就會變容易了。前幾次是最難的。"
           },
           {
             "speaker": "b",
@@ -2328,13 +2019,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What are some natural ways to decline an invitation without a long explanation?",
-            "zh": "有哪些自然的方式可以拒絕邀請，而不需要長篇解釋？",
-            "vocab": [
-              {
-                "word": "decline an invitation",
-                "def": "禮貌地拒絕"
-              }
-            ]
+            "zh": "有哪些自然的方式可以拒絕邀請，而不需要長篇解釋？"
           },
           {
             "speaker": "a",
@@ -2352,13 +2037,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Over-explaining often signals guilt. A confident no is short and warm. \"I have plans that day — rain check?\" is enough.",
-            "zh": "過度解釋往往傳遞愧疚感。一個自信的不是簡短而溫暖的。「那天我有安排——可以改期嗎？」就夠了。",
-            "vocab": [
-              {
-                "word": "guilt",
-                "def": "罪惡感；內疚"
-              }
-            ]
+            "zh": "過度解釋往往傳遞愧疚感。一個自信的不是簡短而溫暖的。「那天我有安排——可以改期嗎？」就夠了。"
           },
           {
             "speaker": "b",
@@ -2387,25 +2066,19 @@ export const WEEK_14: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — One Way to Know Your Social Limits",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do I figure out what my actual social capacity is? I am never sure if I am being appropriately cautious or just avoidant.",
-            "zh": "我要怎麼弄清楚我實際的社交容量是什麼？我永遠不確定我是在適當地謹慎，還是只是在逃避。",
-            "vocab": [
-              {
-                "word": "avoidant",
-                "def": "逃避的；回避的"
-              }
-            ]
+            "zh": "我要怎麼弄清楚我實際的社交容量是什麼？我永遠不確定我是在適當地謹慎，還是只是在逃避。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Track how you feel after social events for a few weeks. Do you leave feeling drained or replenished? That data tells you a lot.",
-            "zh": "追蹤幾週後社交活動後的感受。你是帶著耗盡感還是充電感離開？那個數據告訴你很多。"
+            "zh": "追蹤幾週社交活動後的感受。你是帶著耗盡感還是充電感離開？那些資料會告訴你很多。"
           },
           {
             "speaker": "b",
@@ -2429,13 +2102,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Not all social obligations are equal. A dinner with two close friends costs very different energy than a big networking event.",
-            "zh": "對。不是所有社交義務都是平等的。和兩個親密朋友的晚餐消耗的能量，和一個大型人脈活動非常不同。",
-            "vocab": [
-              {
-                "word": "networking",
-                "def": "建立人脈；社交拓展"
-              }
-            ]
+            "zh": "對。不是所有社交義務都是平等的。和兩個親密朋友的晚餐消耗的能量，和一個大型人脈活動非常不同。"
           },
           {
             "speaker": "b",
@@ -2448,12 +2115,7 @@ export const WEEK_14: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. And you stop saying no to everything or yes to everything, and start saying yes to the right things.",
             "zh": "對。你停止對所有事情說不或說好，開始對正確的事情說好。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Healthy Social Boundaries Look Like",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2476,13 +2138,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A clear no lets the other person move on and make other plans. A vague maybe keeps them waiting and feeling uncertain.",
-            "zh": "對。一個清楚的不讓對方繼續並做其他計劃。一個模糊的也許讓他們等待，感到不確定。",
-            "vocab": [
-              {
-                "word": "feeling uncertain",
-                "def": "說不；拒絕"
-              }
-            ]
+            "zh": "對。一個清楚的不讓對方繼續並做其他計劃。一個模糊的也許讓他們等待，感到不確定。"
           },
           {
             "speaker": "b",

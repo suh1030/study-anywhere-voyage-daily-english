@@ -22,13 +22,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That question hits differently in your thirties. It is not just about a job title anymore.",
-            "zh": "這個問題在三十歲之後感覺完全不一樣了。它不再只是關於職稱而已。",
-            "vocab": [
-              {
-                "word": "job title",
-                "def": "職稱"
-              }
-            ]
+            "zh": "這個問題在三十歲之後感覺完全不一樣了。它不再只是關於職稱而已。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is actually a sign of more experience, not less direction. You have seen enough to know the simpler answers were incomplete.",
-            "zh": "那其實是更多歷練的跡象，不是迷失方向。你見識夠多，才知道以前那些簡單的答案其實是不完整的。",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "那其實是更多歷練的跡象，不是迷失方向。你見識夠多，才知道以前那些簡單的答案其實是不完整的。"
           },
           {
             "speaker": "b",
@@ -58,13 +46,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You do not need a perfect plan. You just need a true sentence about what you are currently working toward.",
-            "zh": "你不需要一個完美的計畫。你只需要一句真實的話，說明你現在正在往哪個方向走。",
-            "vocab": [
-              {
-                "word": "working toward",
-                "def": "努力朝向某個目標"
-              }
-            ]
+            "zh": "你不需要一個完美的計畫。你只需要一句真實的話，說明你現在正在往哪個方向走。"
           },
           {
             "speaker": "b",
@@ -93,13 +75,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That gap is very real, especially in office culture. There is a lot of pressure to want the next promotion even when you are still figuring out the current role.",
-            "zh": "這個落差很真實，尤其是在辦公室文化裡。即使你還在摸清楚現在的職位，也有很大的壓力要說你想要下一個升遷。",
-            "vocab": [
-              {
-                "word": "promotion",
-                "def": "這個落差很真實"
-              }
-            ]
+            "zh": "這個落差很真實，尤其是在辦公室文化裡。即使你還在摸清楚現在的職位，也有很大的壓力要說你想要下一個升遷。"
           },
           {
             "speaker": "b",
@@ -111,13 +87,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a cultural issue, not a personal failure. Wanting depth over speed is a legitimate ambition.",
-            "zh": "那是文化問題，不是個人失敗。追求深度而非速度，也是一種合理的抱負。",
-            "vocab": [
-              {
-                "word": "depth over speed",
-                "def": "注重深度勝於速度"
-              }
-            ]
+            "zh": "那是文化問題，不是個人失敗。追求深度而非速度，也是一種合理的抱負。"
           },
           {
             "speaker": "b",
@@ -141,13 +111,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And you cannot fake that for long without burning out.",
-            "zh": "對。而且你無法長時間偽裝那種熱情而不精疲力竭。",
-            "vocab": [
-              {
-                "word": "without burning",
-                "def": "而且你無法長時間偽裝那種熱情而不精疲力竭"
-              }
-            ]
+            "zh": "對。而且你無法長時間偽裝那種熱情而不精疲力竭。"
           }
         ]
       },
@@ -164,13 +128,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with, I am trying to build expertise in a certain area. That is honest and forward-looking without sounding like a rehearsed answer.",
-            "zh": "從「I am trying to build expertise in a certain area」開始。這種說法誠實且具前瞻性，但不會聽起來像背稿。",
-            "vocab": [
-              {
-                "word": "build expertise",
-                "def": "累積專業能力"
-              }
-            ]
+            "zh": "從「I am trying to build expertise in a certain area」開始。這種說法誠實且具前瞻性，但不會聽起來像背稿。"
           },
           {
             "speaker": "b",
@@ -182,13 +140,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can say, I am exploring a shift into a different type of role. That phrase signals openness without committing to anything.",
-            "zh": "你可以說「I am exploring a shift into a different type of role」。這個說法表達了開放的態度，但不承諾任何事。",
-            "vocab": [
-              {
-                "word": "exploring a shift",
-                "def": "探索轉換方向的可能性"
-              }
-            ]
+            "zh": "你可以說「I am exploring a shift into a different type of role」。這個說法表達了開放的態度，但不承諾任何事。"
           },
           {
             "speaker": "b",
@@ -200,13 +152,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try, I want my work to add up to something I can stand behind. That is personal without being dramatic.",
-            "zh": "試試看「I want my work to add up to something I can stand behind」。這句話很個人，卻不誇張。",
-            "vocab": [
-              {
-                "word": "stand behind",
-                "def": "為某事感到驕傲並支持它"
-              }
-            ]
+            "zh": "試試看「I want my work to add up to something I can stand behind」。這句話很個人，卻不誇張。"
           },
           {
             "speaker": "b",
@@ -247,13 +193,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Look for any overlap. If the same kind of energy shows up in all three, that tells you something real about your direction.",
-            "zh": "尋找重疊之處。如果三件事裡都出現相同類型的能量，那就告訴了你一些關於方向的真實訊息。",
-            "vocab": [
-              {
-                "word": "overlap",
-                "def": "重疊；交集"
-              }
-            ]
+            "zh": "尋找重疊之處。如果三件事裡都出現相同類型的能量，那就告訴了你一些關於方向的真實訊息。"
           },
           {
             "speaker": "b",
@@ -265,13 +205,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then write more. Sometimes it takes ten examples before a pattern shows up. That is not failure, it is information.",
-            "zh": "那就多寫幾條。有時候要到第十個例子，模式才會浮現。那不是失敗，那是資訊。",
-            "vocab": [
-              {
-                "word": "pattern",
-                "def": "規律；模式"
-              }
-            ]
+            "zh": "那就多寫幾條。有時候要到第十個例子，模式才會浮現。那不是失敗，那是資訊。"
           },
           {
             "speaker": "b",
@@ -300,13 +234,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They matter, but not because they predict exactly where you will end up. They matter because they shape how you spend your attention today.",
-            "zh": "它們很重要，但不是因為它們能預測你最後會去哪。它們重要是因為，它們決定了你今天把注意力放在哪裡。",
-            "vocab": [
-              {
-                "word": "attention today",
-                "def": "引導注意力的方向"
-              }
-            ]
+            "zh": "它們很重要，但不是因為它們能預測你最後會去哪。它們重要是因為，它們決定了你今天把注意力放在哪裡。"
           },
           {
             "speaker": "b",
@@ -330,13 +258,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The track itself changes. The only real failure is refusing to update the map when the landscape has clearly shifted.",
-            "zh": "那條路本身就在變。唯一真正的失敗是，當地形明顯已經改變了，你卻拒絕更新地圖。",
-            "vocab": [
-              {
-                "word": "update the map",
-                "def": "重新評估並調整計畫"
-              }
-            ]
+            "zh": "那條路本身就在變。唯一真正的失敗是，當地形明顯已經改變了，你卻拒絕更新地圖。"
           },
           {
             "speaker": "b",
@@ -417,13 +339,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a question most people have never seriously sat with. We spend more time chasing success than defining it.",
-            "zh": "那是一個大多數人從未認真思考過的問題。我們花更多時間追求成功，而不是定義它。",
-            "vocab": [
-              {
-                "word": "success",
-                "def": "定義成功"
-              }
-            ]
+            "zh": "那是一個大多數人從未認真思考過的問題。我們花更多時間追求成功，而不是定義它。"
           },
           {
             "speaker": "b",
@@ -435,13 +351,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She probably wanted to hear something about your values, not just your targets. Those are very different conversations.",
-            "zh": "她可能想聽的是關於你的價值觀，不只是你的目標。那是完全不同的對話。",
-            "vocab": [
-              {
-                "word": "values",
-                "def": "價值觀"
-              }
-            ]
+            "zh": "她可能想聽的是關於你的價值觀，不只是你的目標。那是完全不同的對話。"
           },
           {
             "speaker": "b",
@@ -482,13 +392,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very common. And it often only becomes visible after you have achieved something and still feel empty.",
-            "zh": "這非常普遍。而且通常是在你達成了某件事但仍然感到空虛之後，才會看清楚。",
-            "vocab": [
-              {
-                "word": "feel empty",
-                "def": "感到空虛；沒有成就感"
-              }
-            ]
+            "zh": "這非常普遍。而且通常是在你達成了某件事但仍然感到空虛之後，才會看清楚。"
           },
           {
             "speaker": "b",
@@ -500,13 +404,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That moment of, is this it, is often when real self-reflection starts.",
-            "zh": "沒錯。那個「就這樣？」的時刻，往往就是真正的自我反思開始的時候。",
-            "vocab": [
-              {
-                "word": "self-reflection",
-                "def": "自我反思"
-              }
-            ]
+            "zh": "沒錯。那個「就這樣？」的時刻，往往就是真正的自我反思開始的時候。"
           },
           {
             "speaker": "b",
@@ -547,13 +445,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One common phrase is, I measure success by how much I am learning, not just by the outcomes.",
-            "zh": "一個常見的說法是「I measure success by how much I am learning, not just by the outcomes」。",
-            "vocab": [
-              {
-                "word": "measure success",
-                "def": "衡量成功"
-              }
-            ]
+            "zh": "一個常見的說法是「I measure success by how much I am learning, not just by the outcomes」。"
           },
           {
             "speaker": "b",
@@ -565,13 +457,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also say, for me success means doing work that I am still proud of a year later. That brings in time as a filter.",
-            "zh": "你也可以說「For me success means doing work that I am still proud of a year later」。這加入了時間作為過濾器。",
-            "vocab": [
-              {
-                "word": "filter",
-                "def": "過濾器；篩選"
-              }
-            ]
+            "zh": "你也可以說「For me success means doing work that I am still proud of a year later」。這加入了時間作為過濾器。"
           },
           {
             "speaker": "b",
@@ -583,13 +469,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Just say it. You can say, success for me includes financial stability because that gives me the freedom to do better work.",
-            "zh": "就直接說。你可以說「Success for me includes financial stability because that gives me the freedom to do better work」。",
-            "vocab": [
-              {
-                "word": "financial stability",
-                "def": "財務穩定"
-              }
-            ]
+            "zh": "就直接說。你可以說「Success for me includes financial stability because that gives me the freedom to do better work」。"
           },
           {
             "speaker": "b",
@@ -618,13 +498,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try writing one success metric that is completely within your control. Not a salary number, but something behavioral.",
-            "zh": "試著寫下一個完全在你掌控之內的成功指標。不是薪資數字，而是行為上的東西。",
-            "vocab": [
-              {
-                "word": "success metric",
-                "def": "成功指標"
-              }
-            ]
+            "zh": "試著寫下一個完全在你掌控之內的成功指標。不是薪資數字，而是行為上的東西。"
           },
           {
             "speaker": "b",
@@ -648,13 +522,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the test. A good success definition should be something you can observe, not just feel.",
-            "zh": "這就是測試標準。好的成功定義應該是你可以觀察到的，不只是感覺到的。",
-            "vocab": [
-              {
-                "word": "definition",
-                "def": "可觀察到的；清楚看得見的"
-              }
-            ]
+            "zh": "這就是測試標準。好的成功定義應該是你可以觀察到的，不只是感覺到的。"
           },
           {
             "speaker": "b",
@@ -683,13 +551,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mine has changed completely. At twenty-five I equated success with visibility. Now I care much more about depth and impact.",
-            "zh": "我的已經完全改變了。二十五歲時我把成功等同於曝光度。現在我更在乎深度和影響力。",
-            "vocab": [
-              {
-                "word": "twenty-five I equated",
-                "def": "把…等同於"
-              }
-            ]
+            "zh": "我的已經完全改變了。二十五歲時我把成功等同於曝光度。現在我更在乎深度和影響力。"
           },
           {
             "speaker": "b",
@@ -713,13 +575,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Holding onto an old definition can make you climb a ladder that is leaning against the wrong wall.",
-            "zh": "對。抱著舊定義不放，可能讓你爬著一把靠在錯誤牆上的梯子。",
-            "vocab": [
-              {
-                "word": "wrong wall",
-                "def": "錯誤的方向或目標"
-              }
-            ]
+            "zh": "對。抱著舊定義不放，可能讓你爬著一把靠在錯誤牆上的梯子。"
           },
           {
             "speaker": "b",
@@ -800,13 +656,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is one of the most real descriptions of ambition I have heard. It is not just wanting more, it is wanting more while knowing there is a cost.",
-            "zh": "那是我聽過的對抱負最真實的描述之一。它不只是想要更多，而是在知道有代價的情況下想要更多。",
-            "vocab": [
-              {
-                "word": "ambition",
-                "def": "雄心；抱負"
-              }
-            ]
+            "zh": "那是我聽過的對抱負最真實的描述之一。它不只是想要更多，而是在知道有代價的情況下想要更多。"
           },
           {
             "speaker": "b",
@@ -818,13 +668,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That grief is real and it deserves to be acknowledged. Making the right choice does not eliminate the loss.",
-            "zh": "那種哀傷是真實的，它值得被承認。做了正確的選擇不能消除失去的感受。",
-            "vocab": [
-              {
-                "word": "acknowledge",
-                "def": "承認；認可"
-              }
-            ]
+            "zh": "那種哀傷是真實的，它值得被承認。做了正確的選擇不能消除失去的感受。"
           },
           {
             "speaker": "b",
@@ -871,25 +715,13 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Like wanting to be a great parent and take a less demanding job for a decade. Or wanting to leave a prestigious firm to open a small business.",
-            "zh": "比如想做一個好父母，然後接下來十年做一份要求不那麼高的工作。或者想離開一家知名公司去開小店。",
-            "vocab": [
-              {
-                "word": "prestigious",
-                "def": "有聲望的；知名的"
-              }
-            ]
+            "zh": "比如想做一個好父母，然後接下來十年做一份要求不那麼高的工作。或者想離開一家知名公司去開小店。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Those are legitimate ambitions. They are just harder to explain in a world that values upward movement above all else.",
-            "zh": "那些都是合理的抱負。它們只是在一個把向上移動看得高於一切的世界裡，更難解釋。",
-            "vocab": [
-              {
-                "word": "upward movement",
-                "def": "向上晉升；職涯上升"
-              }
-            ]
+            "zh": "那些都是合理的抱負。它們只是在一個把向上移動看得高於一切的世界裡，更難解釋。"
           },
           {
             "speaker": "b",
@@ -930,13 +762,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try, I chose not to pursue that because it did not align with where I want my life to go right now. That is confident and honest.",
-            "zh": "試試「I chose not to pursue that because it did not align with where I want my life to go right now」。這樣說既有自信又誠實。",
-            "vocab": [
-              {
-                "word": "align with",
-                "def": "與…一致；符合"
-              }
-            ]
+            "zh": "試試「I chose not to pursue that because it did not align with where I want my life to go right now」。這樣說既有自信又誠實。"
           },
           {
             "speaker": "b",
@@ -948,13 +774,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can say, I understand it looks that way from the outside. From my perspective, I made the choice that fit my priorities.",
-            "zh": "你可以說「I understand it looks that way from the outside. From my perspective, I made the choice that fit my priorities」。",
-            "vocab": [
-              {
-                "word": "fit my priorities",
-                "def": "符合我的優先考量"
-              }
-            ]
+            "zh": "你可以說「I understand it looks that way from the outside. From my perspective, I made the choice that fit my priorities」。"
           },
           {
             "speaker": "b",
@@ -983,7 +803,7 @@ export const WEEK_23: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Habit for Checking Your Direction",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -995,13 +815,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I ask myself one question at the start of each year: if nothing about my situation changed, would I be okay with that?",
-            "zh": "我在每年初問自己一個問題：如果我的情況沒有任何改變，我能接受嗎？",
-            "vocab": [
-              {
-                "word": "situation changed",
-                "def": "對自己誠實"
-              }
-            ]
+            "zh": "我在每年初問自己一個問題：如果我的情況沒有任何改變，我能接受嗎？"
           },
           {
             "speaker": "b",
@@ -1013,13 +827,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then I figure out what one thing I would change if I could, and I start there. Not everywhere at once, just one thing.",
-            "zh": "然後我找出如果可以我會改變的一件事，然後從那裡開始。不是同時改變所有事，只是一件事。",
-            "vocab": [
-              {
-                "word": "one thing",
-                "def": "一次一步；循序漸進"
-              }
-            ]
+            "zh": "然後我找出如果可以我會改變的一件事，然後從那裡開始。不是同時改變所有事，只是一件事。"
           },
           {
             "speaker": "b",
@@ -1044,12 +852,7 @@ export const WEEK_23: Episode[] = [
             "speakerName": "Mira",
             "en": "Exactly. Clarity requires courage, and most people avoid it until something forces the question.",
             "zh": "沒錯。清晰需要勇氣，大多數人都會逃避它，直到某件事強迫這個問題出現。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Ambition Looks Like When It Is Healthy",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1060,13 +863,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Healthy ambition pulls you forward. The other kind pushes you away from something, usually fear of failure or judgment.",
-            "zh": "健康的抱負是往前拉你的。另一種是把你從某件事推走的，通常是對失敗或評判的恐懼。",
-            "vocab": [
-              {
-                "word": "healthy ambition",
-                "def": "健康的抱負"
-              }
-            ]
+            "zh": "健康的抱負是往前拉你的。另一種是把你從某件事推走的，通常是對失敗或評判的恐懼。"
           },
           {
             "speaker": "b",
@@ -1090,13 +887,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask yourself, if I fail at this, what is the story I am afraid of? If the answer is very specific and social, like what people will think, that is fear talking.",
-            "zh": "問自己，如果我在這件事上失敗了，我害怕的是什麼故事？如果答案非常具體且社會化，像是別人會怎麼想，那是恐懼在說話。",
-            "vocab": [
-              {
-                "word": "fear talking",
-                "def": "害怕被評判"
-              }
-            ]
+            "zh": "問自己，如果我在這件事上失敗了，我害怕的是什麼故事？如果答案非常具體且社會化，像是別人會怎麼想，那是恐懼在說話。"
           },
           {
             "speaker": "b",
@@ -1107,7 +898,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then it is much closer to real ambition. Losing something you love is a real loss. Fear of judgment is a borrowed one.",
+            "en": "It is much closer to real ambition. Losing something you love is a real loss. Fear of judgment is a borrowed one.",
             "zh": "那就更接近真正的抱負了。失去你喜愛的東西是真實的損失。害怕評判是借來的損失。"
           }
         ]
@@ -1177,13 +968,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That question shows up a lot. And most people answer it with something vague like, you know, just see what comes up.",
-            "zh": "那個問題很常出現。而且大多數人的回答都很模糊，像是「你知道，就看看有什麼機會吧」。",
-            "vocab": [
-              {
-                "word": "most people",
-                "def": "下一步；接下來的行動"
-              }
-            ]
+            "zh": "那個問題很常出現。而且大多數人的回答都很模糊，像是「你知道，就看看有什麼機會吧」。"
           },
           {
             "speaker": "b",
@@ -1195,13 +980,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often both. But vague answers are actually a missed opportunity. A clear answer makes you memorable.",
-            "zh": "通常兩者都有。但模糊的答案其實是錯過機會。清晰的答案讓你讓人印象深刻。",
-            "vocab": [
-              {
-                "word": "memorable",
-                "def": "令人印象深刻的；難忘的"
-              }
-            ]
+            "zh": "通常兩者都有。但模糊的答案其實是錯過機會。清晰的答案讓你讓人印象深刻。"
           },
           {
             "speaker": "b",
@@ -1224,14 +1003,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It signals intention without claiming certainty. That is a very useful space to be in.",
-            "zh": "它傳達出意圖，但不聲稱確定性。那是一個非常有用的位置。",
-            "vocab": [
-              {
-                "word": "signals intention",
-                "def": "表達意圖"
-              }
-            ]
+            "en": "It signals intention without claiming certainty. It is worth staying in that position.",
+            "zh": "它傳達出意圖，但不聲稱確定性。在那個位置上待著是值得的。"
           }
         ]
       },
@@ -1248,13 +1021,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That pressure to calibrate based on the listener is real. But it often leads to saying nothing of substance.",
-            "zh": "根據聽眾調整的壓力是真實的。但這往往導致說了很多卻沒有實質內容。",
-            "vocab": [
-              {
-                "word": "pressure",
-                "def": "低估；說得不夠有力"
-              }
-            ]
+            "zh": "根據聽眾調整的壓力是真實的。但這往往導致說了很多卻沒有實質內容。"
           },
           {
             "speaker": "b",
@@ -1278,13 +1045,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You are also making it easier for people to care about your situation when you give them something specific to grab onto.",
-            "zh": "對。當你給他們一些具體可以抓住的東西時，你也讓人們更容易關心你的情況。",
-            "vocab": [
-              {
-                "word": "grab onto",
-                "def": "抓住；專注於某個具體點"
-              }
-            ]
+            "zh": "對。當你給他們一些具體可以抓住的東西時，你也讓人們更容易關心你的情況。"
           },
           {
             "speaker": "b",
@@ -1313,13 +1074,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with the why, not the title. Say, I am looking for roles where I can do more of X and less of Y. That is specific and human.",
-            "zh": "從原因開始，不是職稱。說「I am looking for roles where I can do more of X and less of Y」。這樣既具體又有人情味。",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "求職；找工作"
-              }
-            ]
+            "zh": "從原因開始，不是職稱。說「I am looking for roles where I can do more of X and less of Y」。這樣既具體又有人情味。"
           },
           {
             "speaker": "b",
@@ -1331,13 +1086,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can say, I am in the middle of figuring that out, but the direction is toward work that involves more X. That is honest and still forward-moving.",
-            "zh": "你可以說「I am in the middle of figuring that out, but the direction is toward work that involves more X」。這樣誠實且仍然在前進。",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "你可以說「I am in the middle of figuring that out, but the direction is toward work that involves more X」。這樣誠實且仍然在前進。"
           },
           {
             "speaker": "b",
@@ -1349,13 +1098,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Most people do not. Pretending you do often makes you sound less authentic, not more.",
-            "zh": "完全不需要。大多數人都沒有。假裝你有計畫通常讓你聽起來不那麼真實，而不是更多。",
-            "vocab": [
-              {
-                "word": "authentic",
-                "def": "真實的；真誠的"
-              }
-            ]
+            "zh": "完全不需要。大多數人都沒有。假裝你有計畫通常讓你聽起來不那麼真實，而不是更多。"
           },
           {
             "speaker": "b",
@@ -1384,13 +1127,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start small. Tell one trusted friend this week what you are currently thinking about your career. See how it sounds when you say it out loud.",
-            "zh": "從小事開始。這週告訴一個信任的朋友，你目前對職涯的想法。看看大聲說出來是什麼感覺。",
-            "vocab": [
-              {
-                "word": "say it out loud",
-                "def": "大聲說出來"
-              }
-            ]
+            "zh": "從小事開始。這週告訴一個信任的朋友，你目前對職涯的想法。看看大聲說出來是什麼感覺。"
           },
           {
             "speaker": "b",
@@ -1402,19 +1139,13 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And a trusted friend can give you feedback. They can tell you if it sounds like you or if it sounds like something you read on a career website.",
-            "zh": "沒錯。而且信任的朋友可以給你反饋。他們可以告訴你，它聽起來像你，還是像你從職涯網站上讀到的東西。",
-            "vocab": [
-              {
-                "word": "feedback",
-                "def": "反饋；意見"
-              }
-            ]
+            "zh": "沒錯。而且信任的朋友可以給你反饋。他們可以告訴你，它聽起來像你，還是像你從職涯網站上讀到的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a useful quality filter.",
-            "zh": "那是一個有用的質量過濾器。"
+            "zh": "那是一個有用的品質過濾器。"
           },
           {
             "speaker": "a",
@@ -1449,13 +1180,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly for yourself. When you can say your direction clearly, you start making decisions that align with it without even thinking.",
-            "zh": "主要是為了你自己。當你能清楚說出自己的方向時，你開始做出與之一致的決定，甚至不需要刻意思考。",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "主要是為了你自己。當你能清楚說出自己的方向時，你開始做出與之一致的決定，甚至不需要刻意思考。"
           },
           {
             "speaker": "b",
@@ -1467,13 +1192,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And the more you articulate the direction, the less time you spend second-guessing your choices.",
-            "zh": "沒錯。而且你越是表達方向，你花在對自己選擇猶豫的時間就越少。",
-            "vocab": [
-              {
-                "word": "articulate",
-                "def": "清楚表達；說得清晰"
-              }
-            ]
+            "zh": "沒錯。而且你越是表達方向，你花在對自己選擇猶豫的時間就越少。"
           },
           {
             "speaker": "b",
@@ -1566,13 +1285,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a classic stability versus growth decision. Two weeks is a long time to sit with it. What is actually holding you back?",
-            "zh": "那是一個典型的穩定vs成長的決定。兩週是坐在那裡想很長的時間了。什麼讓你猶豫不決？",
-            "vocab": [
-              {
-                "word": "stability",
-                "def": "穩定性"
-              }
-            ]
+            "zh": "那是一個典型的穩定vs成長的決定。兩週是坐在那裡想很長的時間了。什麼讓你猶豫不決？"
           },
           {
             "speaker": "b",
@@ -1584,13 +1297,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Predictability has real value. Do not let anyone tell you it does not. The question is whether predictability is still giving you what you need.",
-            "zh": "可預期性有真實的價值。不要讓任何人告訴你它沒有。問題是可預期性是否仍然給你你需要的東西。",
-            "vocab": [
-              {
-                "word": "predictability",
-                "def": "可預期性；可預測性"
-              }
-            ]
+            "zh": "可預期性有真實的價值。不要讓任何人告訴你它沒有。問題是可預期性是否仍然給你你需要的東西。"
           },
           {
             "speaker": "b",
@@ -1602,13 +1309,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That stagnation has a cost too, even if it does not feel as urgent as financial risk.",
-            "zh": "那種停滯也有代價，即使它感覺上不像財務風險那麼緊迫。",
-            "vocab": [
-              {
-                "word": "stagnation",
-                "def": "停滯；停止成長"
-              }
-            ]
+            "zh": "那種停滯也有代價，即使它感覺上不像財務風險那麼緊迫。"
           },
           {
             "speaker": "b",
@@ -1637,13 +1338,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That distinction matters. Familiarity feels safe because it is known. But known is not the same as secure.",
-            "zh": "那個區別很重要。熟悉感感覺安全是因為它是已知的。但已知並不等於安全。",
-            "vocab": [
-              {
-                "word": "familiarity",
-                "def": "那個區別很重要"
-              }
-            ]
+            "zh": "那個區別很重要。熟悉感感覺安全是因為它是已知的。但已知並不等於安全。"
           },
           {
             "speaker": "b",
@@ -1655,13 +1350,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Real security often comes from being adaptable, not from staying in one place.",
-            "zh": "沒錯。真正的安全感通常來自適應能力，而不是留在一個地方。",
-            "vocab": [
-              {
-                "word": "adaptable",
-                "def": "適應能力強的；靈活的"
-              }
-            ]
+            "zh": "沒錯。真正的安全感通常來自適應能力，而不是留在一個地方。"
           },
           {
             "speaker": "b",
@@ -1702,13 +1391,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, I am weighing a more stable role against one with higher upside but shorter runway. That is honest and professional.",
-            "zh": "你可以說「I am weighing a more stable role against one with higher upside but shorter runway」。這樣誠實且專業。",
-            "vocab": [
-              {
-                "word": "weighing",
-                "def": "權衡選項"
-              }
-            ]
+            "zh": "你可以說「I am weighing a more stable role against one with higher upside but shorter runway」。這樣誠實且專業。"
           },
           {
             "speaker": "b",
@@ -1720,13 +1403,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And the phrase shorter runway is honest about the constraint without making it sound like a problem.",
-            "zh": "對。而「shorter runway」這個說法對限制很誠實，但不讓它聽起來像個問題。",
-            "vocab": [
-              {
-                "word": "runway",
-                "def": "（計畫或合約的）剩餘時間"
-              }
-            ]
+            "zh": "對。而「shorter runway」這個說法對限制很誠實，但不讓它聽起來像個問題。"
           },
           {
             "speaker": "b",
@@ -1738,13 +1415,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try, I think the growth opportunity outweighs the uncertainty at this stage of my career. That is clear and shows you have thought it through.",
-            "zh": "試試「I think the growth opportunity outweighs the uncertainty at this stage of my career」。這很清晰，並且表明你認真考慮過了。",
-            "vocab": [
-              {
-                "word": "outweigh",
-                "def": "超過；比…更重要"
-              }
-            ]
+            "zh": "試試「I think the growth opportunity outweighs the uncertainty at this stage of my career」。這很清晰，並且表明你認真考慮過了。"
           },
           {
             "speaker": "b",
@@ -1761,7 +1432,7 @@ export const WEEK_23: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Framework for the Decision",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1773,13 +1444,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask yourself three things. First, what is the worst realistic outcome if the risky option fails? Second, can I recover from that? Third, what is the cost of not trying?",
-            "zh": "問自己三件事。第一，如果風險選項失敗，最壞的現實結果是什麼？第二，我能從那裡恢復嗎？第三，不嘗試的代價是什麼？",
-            "vocab": [
-              {
-                "word": "worst realistic outcome",
-                "def": "最壞情況"
-              }
-            ]
+            "zh": "問自己三件事。第一，如果風險選項失敗，最壞的現實結果是什麼？第二，我能從那裡恢復嗎？第三，不嘗試的代價是什麼？"
           },
           {
             "speaker": "b",
@@ -1791,13 +1456,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. But the third question is often the most important. The cost of not trying is often underestimated.",
-            "zh": "對。但第三個問題往往是最重要的。不嘗試的代價往往被低估了。",
-            "vocab": [
-              {
-                "word": "underestimate",
-                "def": "低估"
-              }
-            ]
+            "zh": "對。但第三個問題往往是最重要的。不嘗試的代價往往被低估了。"
           },
           {
             "speaker": "b",
@@ -1809,13 +1468,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Regret of inaction tends to outlast regret of action in most people's experience.",
-            "zh": "沒錯。不作為的遺憾在大多數人的經驗中往往比行動的遺憾持續更久。",
-            "vocab": [
-              {
-                "word": "regret of inaction",
-                "def": "因為沒有行動而後悔"
-              }
-            ]
+            "zh": "沒錯。不作為的遺憾在大多數人的經驗中往往比行動的遺憾持續更久。"
           },
           {
             "speaker": "b",
@@ -1828,12 +1481,7 @@ export const WEEK_23: Episode[] = [
             "speakerName": "Mira",
             "en": "Then that third question deserves a real answer before you decide.",
             "zh": "那麼在你決定之前，第三個問題值得一個真實的答案。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What This Choice Reveals",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1844,13 +1492,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not quite. It says more about where they are in their life. The same person can choose stability at twenty-eight and risk at thirty-five.",
-            "zh": "不完全是。它更多說明了他們生活中的位置。同一個人可以在二十八歲選擇穩定，在三十五歲選擇冒險。",
-            "vocab": [
-              {
-                "word": "risk at thirty-five",
-                "def": "風險承受能力"
-              }
-            ]
+            "zh": "不完全是。它更多說明了他們生活中的位置。同一個人可以在二十八歲選擇穩定，在三十五歲選擇冒險。"
           },
           {
             "speaker": "b",
@@ -1862,13 +1504,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A new mortgage, a newborn, aging parents. Those are not weaknesses. They are real variables.",
-            "zh": "對。新的房貸、新生兒、年邁的父母。那些不是弱點。它們是真實的變數。",
-            "vocab": [
-              {
-                "word": "variables",
-                "def": "變數；會影響結果的因素"
-              }
-            ]
+            "zh": "對。新的房貸、新生兒、年邁的父母。那些不是弱點。它們是真實的變數。"
           },
           {
             "speaker": "b",
@@ -1891,7 +1527,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly it. And then give yourself permission to revisit when the variables change.",
+            "en": "That's exactly it. And then give yourself permission to revisit when the variables change.",
             "zh": "正是如此。然後允許自己在變數改變時重新考慮。"
           }
         ]
@@ -1961,13 +1597,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is only a crisis if you decide it is. It can just as easily be a recalibration.",
-            "zh": "那只是危機，如果你決定它是的話。它也可以同樣輕鬆地只是一次重新校準。",
-            "vocab": [
-              {
-                "word": "crisis",
-                "def": "重新校準；調整方向"
-              }
-            ]
+            "zh": "那只是危機，如果你決定它是的話。它也可以同樣輕鬆地只是一次重新校準。"
           },
           {
             "speaker": "b",
@@ -1979,13 +1609,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Did you waste it, or did you learn what you actually need in order to know what you want now?",
-            "zh": "你是浪費了它，還是你學到了你現在需要的東西，才能知道你現在想要什麼？",
-            "vocab": [
-              {
-                "word": "waste",
-                "def": "重新框架；用不同角度詮釋"
-              }
-            ]
+            "zh": "你是浪費了它，還是你學到了你現在需要的東西，才能知道你現在想要什麼？"
           },
           {
             "speaker": "b",
@@ -2026,13 +1650,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly because we live in a culture that values consistency as a form of character. Changing is often read as quitting.",
-            "zh": "部分原因是因為我們生活在一個把一致性視為品格的文化中。改變往往被解讀為放棄。",
-            "vocab": [
-              {
-                "word": "consistency",
-                "def": "一致性；前後如一"
-              }
-            ]
+            "zh": "部分原因是因為我們生活在一個把一致性視為品格的文化中。改變往往被解讀為放棄。"
           },
           {
             "speaker": "b",
@@ -2044,13 +1662,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That social dimension makes it harder. But most people in your life are not tracking your goals as closely as you think.",
-            "zh": "那個社交維度讓它更難。但你生活中的大多數人並不像你想象的那樣密切追蹤你的目標。",
-            "vocab": [
-              {
-                "word": "social dimension",
-                "def": "社會壓力"
-              }
-            ]
+            "zh": "那個社交維度讓它更難。但你生活中的大多數人並不像你想象的那樣密切追蹤你的目標。"
           },
           {
             "speaker": "b",
@@ -2091,13 +1703,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Keep it forward-facing. Say, after spending time in X, I realized my real interest is in Y. That is honest and shows self-awareness.",
-            "zh": "保持朝前。說「After spending time in X, I realized my real interest is in Y」。這樣誠實且展示了自我認識。",
-            "vocab": [
-              {
-                "word": "self-awareness",
-                "def": "自我認識；自我覺察"
-              }
-            ]
+            "zh": "保持朝前。說「After spending time in X, I realized my real interest is in Y」。這樣誠實且展示了自我認識。"
           },
           {
             "speaker": "b",
@@ -2109,13 +1715,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You can also say, I have been deliberately shifting my focus toward a different area. That language suggests intention, not accident.",
-            "zh": "沒錯。你也可以說「I have been deliberately shifting my focus toward a different area」。那種語言暗示的是意圖，而不是偶然。",
-            "vocab": [
-              {
-                "word": "deliberately",
-                "def": "刻意地；深思熟慮地"
-              }
-            ]
+            "zh": "沒錯。你也可以說「I have been deliberately shifting my focus toward a different area」。那種語言暗示的是意圖，而不是偶然。"
           },
           {
             "speaker": "b",
@@ -2127,13 +1727,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Owning the change in your language is what separates it from sounding like a retreat.",
-            "zh": "對。在語言中擁有這個改變，是讓它聽起來不像是撤退的關鍵。",
-            "vocab": [
-              {
-                "word": "Owning the change",
-                "def": "主動接受並表達自己的改變"
-              }
-            ]
+            "zh": "對。在語言中擁有這個改變，是讓它聽起來不像是撤退的關鍵。"
           },
           {
             "speaker": "b",
@@ -2162,13 +1756,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Write down what you actually learned in the old path, not just what you did. Skills, perspectives, relationships, habits.",
-            "zh": "寫下你在舊路上實際學到的東西，不只是你做了什麼。技能、觀點、關係、習慣。",
-            "vocab": [
-              {
-                "word": "Skills",
-                "def": "可轉移的技能"
-              }
-            ]
+            "zh": "寫下你在舊路上實際學到的東西，不只是你做了什麼。技能、觀點、關係、習慣。"
           },
           {
             "speaker": "b",
@@ -2180,13 +1768,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And usually more transfers than people expect. They just have not named it yet.",
-            "zh": "對。通常比人們預期的轉移更多。他們只是還沒有命名它。",
-            "vocab": [
-              {
-                "word": "people expect",
-                "def": "明確說出來；命名"
-              }
-            ]
+            "zh": "對。通常比人們預期的轉移更多。他們只是還沒有命名它。"
           },
           {
             "speaker": "b",
@@ -2227,25 +1809,19 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not just okay. It is probably necessary if you are paying attention.",
-            "zh": "不只可以。如果你有在留意的話，那可能是必要的。",
-            "vocab": [
-              {
-                "word": "paying attention",
-                "def": "留意；認真觀察"
-              }
-            ]
+            "zh": "不只可以。如果你有在留意的話，那可能是必要的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Because your circumstances change and new information comes in.",
-            "zh": "因為你的情況改變了，新的信息進來了。"
+            "zh": "因為你的情況改變了，新的資訊進來了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. A goal set at twenty-eight was made without information you will have at thirty-five. That is not a bug in the system. That is how life works.",
-            "zh": "對。在二十八歲設定的目標是在沒有你三十五歲會有的信息的情況下制定的。那不是系統中的錯誤。那就是生活的運作方式。"
+            "zh": "對。在二十八歲設定的目標，是在沒有你三十五歲會有的資訊時制定的。那不是系統中的錯誤。那就是生活的運作方式。"
           },
           {
             "speaker": "b",
@@ -2257,13 +1833,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so. The people who never revise are often either very lucky or very stuck.",
-            "zh": "我這樣認為。從不修改的人往往要麼非常幸運，要麼非常卡住。",
-            "vocab": [
-              {
-                "word": "never revise",
-                "def": "智識上的謙遜；承認自己可能是錯的"
-              }
-            ]
+            "zh": "我這樣認為。從不修改的人往往要麼非常幸運，要麼非常卡住。"
           },
           {
             "speaker": "b",
@@ -2344,13 +1914,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That gap is universal. A resume is a retrospective narrative. It makes sense backward, even when it felt chaotic forward.",
-            "zh": "那個差距是普遍的。履歷是一個回顧性的敘事。它往後看是有意義的，即使往前走時感覺很混亂。",
-            "vocab": [
-              {
-                "word": "retrospective",
-                "def": "回顧性的；事後看的"
-              }
-            ]
+            "zh": "那個差距是普遍的。履歷是一個回顧性的敘事。它往後看是有意義的，即使往前走時感覺很混亂。"
           },
           {
             "speaker": "b",
@@ -2362,13 +1926,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And that is fine. You do not need a coherent story while you are still living it.",
-            "zh": "對。而且這沒關係。在你還在經歷它的時候，你不需要一個連貫的故事。",
-            "vocab": [
-              {
-                "word": "coherent",
-                "def": "連貫的；有邏輯的"
-              }
-            ]
+            "zh": "對。而且這沒關係。在你還在經歷它的時候，你不需要一個連貫的故事。"
           },
           {
             "speaker": "b",
@@ -2392,13 +1950,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. But the antidote is usually to go deeper into your own story rather than wider into theirs.",
-            "zh": "是的。但解藥通常是更深入你自己的故事，而不是更廣泛地進入別人的故事。",
-            "vocab": [
-              {
-                "word": "antidote",
-                "def": "解藥；對抗措施"
-              }
-            ]
+            "zh": "是的。但解藥通常是更深入你自己的故事，而不是更廣泛地進入別人的故事。"
           }
         ]
       },
@@ -2415,13 +1967,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly a feeling, but grounded in something specific. Usually it means your daily choices reflect your actual priorities, not someone else's expectations.",
-            "zh": "部分是一種感覺，但有具體的基礎。通常意味著你的日常選擇反映了你真實的優先考量，而不是別人的期望。",
-            "vocab": [
-              {
-                "word": "grounded",
-                "def": "腳踏實地的"
-              }
-            ]
+            "zh": "部分是一種感覺，但有具體的基礎。通常意味著你的日常選擇反映了你真實的優先考量，而不是別人的期望。"
           },
           {
             "speaker": "b",
@@ -2433,13 +1979,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A job that matches your skills but not your values will sustain you for a while and then quietly drain you.",
-            "zh": "沒錯。一份符合你技能但不符合你價值觀的工作會支撐你一段時間，然後悄悄地耗盡你。",
-            "vocab": [
-              {
-                "word": "values",
-                "def": "價值觀"
-              }
-            ]
+            "zh": "沒錯。一份符合你技能但不符合你價值觀的工作會支撐你一段時間，然後悄悄地耗盡你。"
           },
           {
             "speaker": "b",
@@ -2450,8 +1990,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. You can be performing well and still be losing something important. That is a dangerous place to stay too long.",
-            "zh": "對。你可以表現很好，但仍然在失去一些重要的東西。那是一個不能待太久的危險地方。"
+            "en": "Right. You can be performing well and still be losing something important. It becomes a dangerous place to stay too long.",
+            "zh": "對。你可以表現很好，但仍然在失去一些重要的東西。那成了一個不能待太久的危險地方。"
           },
           {
             "speaker": "b",
@@ -2463,7 +2003,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They check in with the quality of their curiosity. When you stop being curious about your own field, that is usually an early warning.",
-            "zh": "他們檢視自己好奇心的質量。當你對自己的領域停止好奇時，那通常是一個早期警告。"
+            "zh": "他們檢視自己好奇心的品質。當你對自己的領域停止好奇時，那通常是一個早期警告。"
           }
         ]
       },
@@ -2480,13 +2020,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You can say, I want to build a career that still reflects what I actually care about. That is personal without being dramatic.",
-            "zh": "有。你可以說「I want to build a career that still reflects what I actually care about」。這樣個人但不誇張。",
-            "vocab": [
-              {
-                "word": "career",
-                "def": "職涯身份；職業自我認同"
-              }
-            ]
+            "zh": "有。你可以說「I want to build a career that still reflects what I actually care about」。這樣個人但不誇張。"
           },
           {
             "speaker": "b",
@@ -2498,13 +2032,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a strong line. Who I am becoming implies ongoing development rather than a fixed identity. That is accurate.",
-            "zh": "那是一句強有力的話。「who I am becoming」暗示了持續的發展而不是固定的身份。這是準確的。",
-            "vocab": [
-              {
-                "word": "ongoing development",
-                "def": "持續的發展"
-              }
-            ]
+            "zh": "那是一句強有力的話。「who I am becoming」暗示了持續的發展而不是固定的身份。這是準確的。"
           },
           {
             "speaker": "b",
@@ -2516,13 +2044,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try, I thrive in environments where I have real ownership over the outcomes, not just responsibility for the process.",
-            "zh": "試試說「我在那些對結果有真正主導感、而不只是對流程負責的環境裡最能發揮」。",
-            "vocab": [
-              {
-                "word": "thrive",
-                "def": "茁壯；在某種環境中表現出色"
-              }
-            ]
+            "zh": "試試說「我在那些對結果有真正主導感、而不只是對流程負責的環境裡最能發揮」。"
           },
           {
             "speaker": "b",
@@ -2551,13 +2073,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say yes to one thing this month that nobody asked you to do, because you wanted to. Even something small.",
-            "zh": "這個月對一件沒有人要求你做的事說是，因為你想做。即使是很小的事。",
-            "vocab": [
-              {
-                "word": "nobody asked",
-                "def": "主動性；自發行動"
-              }
-            ]
+            "zh": "這個月對一件沒有人要求你做的事說是，因為你想做。即使是很小的事。"
           },
           {
             "speaker": "b",
@@ -2569,13 +2085,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And it does not have to be a large project. Proposing a small process improvement counts.",
-            "zh": "沒錯。而且不必是一個大項目。提出一個小的流程改進就算數了。",
-            "vocab": [
-              {
-                "word": "Proposing",
-                "def": "提出；建議"
-              }
-            ]
+            "zh": "沒錯。而且不必是一個大型專案。提出一個小的流程改進就算數了。"
           },
           {
             "speaker": "b",
@@ -2616,13 +2126,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For me it is always been curiosity about how people communicate and make decisions. The contexts changed but that thread stayed.",
-            "zh": "對我來說，一直是對人們如何溝通和做決定的好奇心。背景改變了，但那條線索保留下來了。",
-            "vocab": [
-              {
-                "word": "curiosity",
-                "def": "好奇心"
-              }
-            ]
+            "zh": "對我來說，一直是對人們如何溝通和做決定的好奇心。背景改變了，但那條線索保留下來了。"
           },
           {
             "speaker": "b",
@@ -2634,13 +2138,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Almost all of them. In retrospect you can see how each one added something. At the time some of them felt like mistakes.",
-            "zh": "幾乎所有。回顧起來你可以看到每一個都增加了什麼。當時其中一些感覺像是錯誤。",
-            "vocab": [
-              {
-                "word": "like mistakes",
-                "def": "回顧起來；事後看"
-              }
-            ]
+            "zh": "幾乎所有。回顧起來你可以看到每一個都增加了什麼。當時其中一些感覺像是錯誤。"
           },
           {
             "speaker": "b",

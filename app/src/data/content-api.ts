@@ -4,19 +4,6 @@ import { normalizeEpisodeParts, normalizeKeyPhrases } from './episode-normalize'
 
 // ── DB row types ──────────────────────────────────────────────────────────────
 
-export interface ArticleRow {
-  id: string
-  date_key: string
-  week_number: number
-  day_of_week: number
-  topic: string
-  title: string
-  word_count: number
-  text_en: string
-  text_zh: string
-  vocabulary: { word: string; definition: string; example: string }[]
-}
-
 export interface FlashcardRow {
   id: string
   source: 'listen' | 'speak'
@@ -40,7 +27,6 @@ export interface EpisodeLine {
   speakerName: string
   en: string
   zh: string
-  vocab?: { word: string; def: string }[]
 }
 
 export interface EpisodePart {
@@ -60,16 +46,6 @@ export interface EpisodeRow {
   key_phrases: { en: string; zh: string; example: string }[]
 }
 
-// ── Helpers ───────────────────────────────────────────────────────────────────
-
-/** Strip HTML tags and extract text content from <p> blocks */
-export function parseParagraphs(html: string): string[] {
-  return html
-    .split(/<\/p>/i)
-    .map((chunk) => chunk.replace(/<[^>]+>/g, '').trim())
-    .filter(Boolean)
-}
-
 function normalizeEpisodeRow(row: any): EpisodeRow {
   return {
     ...row,
@@ -79,26 +55,6 @@ function normalizeEpisodeRow(row: any): EpisodeRow {
 }
 
 // ── API functions (cache-first) ───────────────────────────────────────────────
-
-export async function fetchArticle(
-  weekNumber: number,
-  dayOfWeek: number
-): Promise<ArticleRow | null> {
-  const cacheKey = `article:${weekNumber}:${dayOfWeek}`
-  const cached = await getCache<ArticleRow>(cacheKey)
-  if (cached) return cached
-
-  const { data, error } = await supabase
-    .from('articles')
-    .select('*')
-    .eq('week_number', weekNumber)
-    .eq('day_of_week', dayOfWeek)
-    .single()
-  if (error || !data) return null
-  const row = data as ArticleRow
-  await setCache(cacheKey, row)
-  return row
-}
 
 export async function fetchEpisode(
   weekNumber: number,

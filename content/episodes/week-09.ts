@@ -22,13 +22,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how a health routine usually reveals itself. You notice it through the consequence first, not the routine itself.",
-            "zh": "健康日常常常就是這樣露出來的。你通常先注意到後果，才注意到那個日常本身。",
-            "vocab": [
-              {
-                "word": "health routine",
-                "def": "健康日常；照顧自己的固定習慣"
-              }
-            ]
+            "zh": "健康日常常常就是這樣露出來的。你通常先注意到後果，才注意到那個日常本身。"
           },
           {
             "speaker": "b",
@@ -46,19 +40,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I also skip breakfast more often than I admit, then wonder why my energy is unstable by noon.",
-            "zh": "我其實比自己承認的更常沒吃早餐，然後中午又納悶為什麼精神那麼不穩。",
-            "vocab": [
-              {
-                "word": "skip breakfast",
-                "def": "不吃早餐"
-              }
-            ]
+            "zh": "我其實比自己承認的更常沒吃早餐，然後中午又納悶為什麼精神那麼不穩。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common pattern. People call it being busy, but the body still experiences it as neglect.",
-            "zh": "這是非常常見的模式。人會把它叫做忙，可是身體感受到的還是被忽略。"
+            "en": "That distinction makes things clearer.",
+            "zh": "這個區別讓事情清楚多了。"
           },
           {
             "speaker": "b",
@@ -105,13 +93,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That probably explains why I never drink enough water unless I am working from home.",
-            "zh": "這大概也解釋了，為什麼我只有在家工作時，才比較有可能喝夠水。",
-            "vocab": [
-              {
-                "word": "drink enough water",
-                "def": "喝足夠的水"
-              }
-            ]
+            "zh": "這大概也解釋了，為什麼我只有在家工作時，才比較有可能喝夠水。"
           },
           {
             "speaker": "a",
@@ -158,13 +140,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, \"I need to wind down earlier,\" when you mean your evenings are too stimulating.",
-            "zh": "沒錯。如果你想表達自己晚上太亢奮、該早點收心，也可以說「我需要更早讓自己慢下來」。",
-            "vocab": [
-              {
-                "word": "wind down",
-                "def": "慢慢放鬆下來；收心"
-              }
-            ]
+            "zh": "沒錯。如果你想表達自己晚上太亢奮、該早點收心，也可以說「我需要更早讓自己慢下來」。"
           },
           {
             "speaker": "b",
@@ -176,13 +152,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a clear sentence, try \"I need to take a stretch break.\" It is simple, clear, and exactly what people say in daily life.",
-            "zh": "那你可以直接說「我需要起來伸展一下」。這個說法很簡單、很清楚，也非常像生活裡會真的說的話。",
-            "vocab": [
-              {
-                "word": "take a stretch break",
-                "def": "起來伸展一下"
-              }
-            ]
+            "zh": "那你可以直接說「我需要起來伸展一下」。這個說法很簡單、很清楚，也非常像生活裡會真的說的話。"
           },
           {
             "speaker": "b",
@@ -199,7 +169,7 @@ export const WEEK_09: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Building a Routine That Can Survive Work",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -223,13 +193,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A filled water bottle, a simple lunch plan, or meal prep that removes one decision from tomorrow.",
-            "zh": "像是先裝好水瓶、先想好一頓簡單午餐，或做一點 meal prep，讓明天少一個要臨時決定的點。",
-            "vocab": [
-              {
-                "word": "meal prep",
-                "def": "預先準備餐食"
-              }
-            ]
+            "zh": "像是先裝好水瓶、先想好一頓簡單午餐，或做一點 meal prep，讓明天少一個要臨時決定的點。"
           },
           {
             "speaker": "b",
@@ -247,25 +211,14 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I should probably also stop pretending my posture will magically improve on its own.",
-            "zh": "我大概也該停止假裝自己的姿勢會自己奇蹟式地變好。",
-            "vocab": [
-              {
-                "word": "posture",
-                "def": "姿勢；坐姿站姿"
-              }
-            ]
+            "zh": "我大概也該停止假裝自己的姿勢會自己奇蹟式地變好。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That would be a good start. Bodies love support, but they rarely respond well to denial.",
             "zh": "那會是個不錯的開始。身體很喜歡被支持，但通常不太會對否認有正面反應。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Care Is Better Than Perfection",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -276,13 +229,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That care counts even when it is small. Drinking water, standing up, or booking a checkup are not trivial things.",
-            "zh": "就是：照顧本身就算很小，也是真的算數。喝水、站起來動一動，或預約一次健康檢查，都不是小到可以忽略的事。",
-            "vocab": [
-              {
-                "word": "checkup",
-                "def": "健康檢查；例行檢查"
-              }
-            ]
+            "zh": "就是：照顧本身就算很小，也是真的算數。喝水、站起來動一動，或預約一次健康檢查，都不是小到可以忽略的事。"
           },
           {
             "speaker": "b",
@@ -411,13 +358,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is why sleep debt builds so quietly. One late night feels manageable until it becomes four.",
-            "zh": "沒錯。這也就是為什麼睡眠債會累得那麼安靜。一個晚睡的夜晚看起來還能撐，直到它變成第四個。",
-            "vocab": [
-              {
-                "word": "sleep debt",
-                "def": "睡眠債；長期累積的睡眠不足"
-              }
-            ]
+            "zh": "沒錯。這也就是為什麼睡眠債會累得那麼安靜。一個晚睡的夜晚看起來還能撐，直到它變成第四個。"
           },
           {
             "speaker": "b",
@@ -464,13 +405,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Caffeine probably makes the whole loop worse too.",
-            "zh": "咖啡因大概也讓整個循環變得更糟。",
-            "vocab": [
-              {
-                "word": "Caffeine probably",
-                "def": "咖啡因停止攝取時間"
-              }
-            ]
+            "zh": "咖啡因大概也讓整個循環變得更糟。"
           },
           {
             "speaker": "a",
@@ -505,17 +440,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, \"I stayed up too late,\" \"I slept in,\" or \"I woke up groggy.\"",
-            "zh": "你可以說「我昨天睡太晚」、「我睡到比較晚」，或「我醒來時整個人昏昏沉沉」。",
-            "vocab": [
-              {
-                "word": "slept",
-                "def": "睡晚一點；比平常晚起"
-              },
-              {
-                "word": "groggy",
-                "def": "昏沉沉的；沒睡醒的"
-              }
-            ]
+            "zh": "你可以說「我昨天睡太晚」、「我睡到比較晚」，或「我醒來時整個人昏昏沉沉」。"
           },
           {
             "speaker": "b",
@@ -527,13 +452,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, \"I was tossing and turning.\" That is exactly the phrase people use for restless sleep.",
-            "zh": "那你可以說「我翻來覆去睡不著」。這就是大家描述睡得很不安穩時最常用的說法。",
-            "vocab": [
-              {
-                "word": "restless",
-                "def": "坐立不安的"
-              }
-            ]
+            "zh": "那你可以說「我翻來覆去睡不著」。這就是大家描述睡得很不安穩時最常用的說法。"
           },
           {
             "speaker": "b",
@@ -545,19 +464,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use \"wind down.\" For example: \"I need more time to wind down before bed.\"",
-            "zh": "就用 `wind down`。例如：「我需要多一點時間在睡前慢慢放鬆下來。」",
-            "vocab": [
-              {
-                "word": "wind down",
-                "def": "睡前慢慢放鬆下來"
-              }
-            ]
+            "zh": "就用 `wind down`。例如：「我需要多一點時間在睡前慢慢放鬆下來。」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more useful than memorizing scientific terms.",
-            "zh": "這真的比背一堆科學名詞有用多了。"
+            "en": "That's far more practical than memorizing scientific terms.",
+            "zh": "這比背一堆科學名詞實際多了。"
           },
           {
             "speaker": "a",
@@ -580,13 +493,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A consistent wake-up time. Not because it is glamorous, but because it is stabilizing.",
-            "zh": "固定起床時間。不是因為它很厲害，而是因為它真的有穩定作用。",
-            "vocab": [
-              {
-                "word": "consistent wake-up time",
-                "def": "固定的起床時間"
-              }
-            ]
+            "zh": "固定起床時間。不是因為它很厲害，而是因為它真的有穩定作用。"
           },
           {
             "speaker": "b",
@@ -610,13 +517,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A short nap can help, but recovery works best when you still protect the next full night of sleep.",
-            "zh": "短暫的午睡是有幫助的，但真正的恢復還是得建立在你有沒有保護好接下來那一整晚的睡眠。",
-            "vocab": [
-              {
-                "word": "nap",
-                "def": "小睡；午睡"
-              }
-            ]
+            "zh": "短暫的午睡是有幫助的，但真正的恢復還是得建立在你有沒有保護好接下來那一整晚的睡眠。"
           },
           {
             "speaker": "b",
@@ -674,8 +575,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels doable in a way that perfection never does.",
-            "zh": "這種說法讓人覺得做得到，而完美從來不會給人這種感覺。"
+            "en": "That's achievable in a way that perfection never is.",
+            "zh": "這是做得到的，而完美從來都不是。"
           },
           {
             "speaker": "a",
@@ -768,13 +669,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The phrase I keep using lately is \"mentally drained.\"",
-            "zh": "我最近最常說的一句話就是：我整個人 mentally drained。",
-            "vocab": [
-              {
-                "word": "mentally drained",
-                "def": "精神被耗盡的；心很累的"
-              }
-            ]
+            "zh": "我最近最常說的一句話就是：我整個人 mentally drained。"
           },
           {
             "speaker": "a",
@@ -809,13 +704,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A busy week usually passes. Burnout lingers, flattens your motivation, and changes how everything feels.",
-            "zh": "忙碌的一週通常會過去；burnout 則會停留很久，壓平你的動力，還會改變你看所有事情的感受。",
-            "vocab": [
-              {
-                "word": "burnout",
-                "def": "身心耗竭；職業倦怠"
-              }
-            ]
+            "zh": "忙碌的一週通常會過去；burnout 則會停留很久，壓平你的動力，還會改變你看所有事情的感受。"
           },
           {
             "speaker": "b",
@@ -827,13 +716,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And it often gets worse when someone is overcommitted but still keeps saying yes out of habit.",
-            "zh": "沒錯。而且如果一個人已經 overcommitted，卻還是因為習慣一直答應事情，通常會更嚴重。",
-            "vocab": [
-              {
-                "word": "overcommitted",
-                "def": "答應太多事；行程和責任超載"
-              }
-            ]
+            "zh": "沒錯。而且如果一個人已經 overcommitted，卻還是因為習慣一直答應事情，通常會更嚴重。"
           },
           {
             "speaker": "b",
@@ -874,17 +757,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They could say, \"I am hitting a wall,\" or \"I need to take a breather before I respond.\"",
-            "zh": "他可以說：「我真的撞牆了」，或者「我需要先喘一下再回應這件事」。",
-            "vocab": [
-              {
-                "word": "wall",
-                "def": "撞牆；突然撐不下去"
-              },
-              {
-                "word": "take a breather",
-                "def": "喘一下；短暫休息"
-              }
-            ]
+            "zh": "他可以說：「我真的撞牆了」，或者「我需要先喘一下再回應這件事」。"
           },
           {
             "speaker": "b",
@@ -896,13 +769,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I need clearer boundaries around my evenings.\"",
-            "zh": "沒錯。你也可以說：「我需要讓自己的晚上有更清楚的界線。」",
-            "vocab": [
-              {
-                "word": "boundaries",
-                "def": "界線；與工作保持的合理範圍"
-              }
-            ]
+            "zh": "沒錯。你也可以說：「我需要讓自己的晚上有更清楚的界線。」"
           },
           {
             "speaker": "b",
@@ -914,17 +781,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, \"Can we check in on priorities?\" or \"I need a deadline extension on this one.\" Both are clear and professional.",
-            "zh": "你可以試試看說：「我們可以一起確認一下優先順序嗎？」或「這件事我需要延長期限。」這兩種都很清楚，也很專業。",
-            "vocab": [
-              {
-                "word": "check in on priorities",
-                "def": "確認優先順序"
-              },
-              {
-                "word": "deadline extension",
-                "def": "期限延長"
-              }
-            ]
+            "zh": "你可以試試看說：「我們可以一起確認一下優先順序嗎？」或「這件事我需要延長期限。」這兩種都很清楚，也很專業。"
           },
           {
             "speaker": "b",
@@ -977,13 +834,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If the strain is real, yes. A sick day is still a sick day when the thing that is struggling is your mind.",
-            "zh": "如果那個狀態是真的，當然可以。就算出問題的是你的心，不是你的喉嚨，sick day 也還是 sick day。",
-            "vocab": [
-              {
-                "word": "sick day",
-                "def": "病假；因身心狀況請的休假"
-              }
-            ]
+            "zh": "如果那個狀態是真的，當然可以。就算出問題的是你的心，不是你的喉嚨，sick day 也還是 sick day。"
           },
           {
             "speaker": "b",
@@ -1041,13 +892,13 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more sustainable than waiting for a crisis.",
-            "zh": "這比起等到危機真的出現，再來處理，聽起來可持續得多。"
+            "en": "Catching it early rather than waiting for a breakdown — that's a completely different relationship to work.",
+            "zh": "在早期就注意到，而不是等到崩潰再處理——這是完全不同的工作方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Healthier work is often built through earlier noticing, not louder breakdowns.",
+            "en": "That's the point. Healthier work is often built through earlier noticing, not louder breakdowns.",
             "zh": "這就是重點。比較健康的工作方式，常常是靠更早注意到，而不是靠更大聲的崩潰建立的。"
           }
         ]
@@ -1129,25 +980,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that swing is exhausting. A balanced plate should support you, not judge you.",
-            "zh": "而那種來回擺盪其實很耗人。一個 balanced plate 本來應該是支持你，不是審判你。",
-            "vocab": [
-              {
-                "word": "balanced plate",
-                "def": "均衡餐盤；份量和種類都比較平衡的一餐"
-              }
-            ]
+            "zh": "而那種來回擺盪其實很耗人。一個 balanced plate 本來應該是支持你，不是審判你。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I also make portion size more emotional than it needs to be.",
-            "zh": "我覺得我也常常把 portion size 這件事弄得比它本來更情緒化。",
-            "vocab": [
-              {
-                "word": "portion size",
-                "def": "食物份量"
-              }
-            ]
+            "zh": "我覺得我也常常把 portion size 這件事弄得比它本來更情緒化。"
           },
           {
             "speaker": "a",
@@ -1182,13 +1021,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They go all-in too fast. They make rules that sound clean, but are too rigid for real life.",
-            "zh": "他們太快全力衝進去，訂了一些聽起來很乾淨、但對真實生活來說太僵硬的規則。",
-            "vocab": [
-              {
-                "word": "real life",
-                "def": "不是理想中的版本"
-              }
-            ]
+            "zh": "他們太快全力衝進去，訂了一些聽起來很乾淨、但對真實生活來說太僵硬的規則。"
           },
           {
             "speaker": "b",
@@ -1200,13 +1033,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is when cravings start feeling dangerous instead of informative.",
-            "zh": "沒錯。也就是在那個時候，cravings 聽起來像危險訊號，而不是一個值得觀察的資訊。",
-            "vocab": [
-              {
-                "word": "cravings",
-                "def": "食慾衝動；特別想吃某樣東西"
-              }
-            ]
+            "zh": "沒錯。也就是在那個時候，cravings 聽起來像危險訊號，而不是一個值得觀察的資訊。"
           },
           {
             "speaker": "b",
@@ -1247,13 +1074,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People say things like, \"I grabbed something quick,\" \"I was craving something salty,\" or \"I needed a real meal.\"",
-            "zh": "大家很常說像這樣的句子：「我隨便抓了點東西吃」、「我那時很想吃鹹的」，或「我需要一頓像樣的正餐」。",
-            "vocab": [
-              {
-                "word": "real meal",
-                "def": "一頓像樣的正餐"
-              }
-            ]
+            "zh": "大家很常說像這樣的句子：「我隨便抓了點東西吃」、「我那時很想吃鹹的」，或「我需要一頓像樣的正餐」。"
           },
           {
             "speaker": "b",
@@ -1265,13 +1086,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also go with \"I needed more protein,\" or \"I wanted comfort food.\"",
-            "zh": "沒錯。你也可以說「我需要多一點蛋白質」，或者「我那時就是想吃 comfort food。」",
-            "vocab": [
-              {
-                "word": "comfort food",
-                "def": "讓人覺得安慰、熟悉的食物"
-              }
-            ]
+            "zh": "沒錯。你也可以說「我需要多一點蛋白質」，或者「我那時就是想吃 comfort food。」"
           },
           {
             "speaker": "b",
@@ -1283,13 +1098,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say, \"I waited too long to eat.\" It is simple, honest, and more useful than self-criticism.",
-            "zh": "你可以直接說：「我拖太久才吃東西。」這很簡單、很誠實，而且比自責有用。",
-            "vocab": [
-              {
-                "word": "long to eat",
-                "def": "吃得夠；攝取足夠食物"
-              }
-            ]
+            "zh": "你可以直接說：「我拖太久才吃東西。」這很簡單、很誠實，而且比自責有用。"
           },
           {
             "speaker": "b",
@@ -1306,7 +1115,7 @@ export const WEEK_09: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What Makes Better Eating More Repeatable",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1336,13 +1145,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So meal prep helps here too, as long as it does not become perfectionism.",
-            "zh": "所以 meal prep 在這裡也有幫助，只要它沒有變成另一種完美主義。",
-            "vocab": [
-              {
-                "word": "meal prep",
-                "def": "預先準備餐食"
-              }
-            ]
+            "zh": "所以 meal prep 在這裡也有幫助，只要它沒有變成另一種完美主義。"
           },
           {
             "speaker": "a",
@@ -1361,12 +1164,7 @@ export const WEEK_09: Episode[] = [
             "speakerName": "Mira",
             "en": "Then keep it. Food systems should support life, not take it over.",
             "zh": "那你就把它記住。飲食系統本來應該支援生活，而不是接管生活。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Food Works Better Without Shame",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1400,8 +1198,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A steady relationship with food is worth much more than a dramatic week of control.",
-            "zh": "沒錯。和食物之間一段穩定的關係，比一個戲劇化地自我控制的星期有價值得多。"
+            "en": "Precisely. A steady relationship with food is worth much more than a dramatic week of control.",
+            "zh": "正是。和食物之間一段穩定的關係，比一個戲劇化地自我控制的星期有價值得多。"
           },
           {
             "speaker": "b",
@@ -1482,13 +1280,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and it often starts with something small. A sore throat, heavy eyes, or a body that suddenly feels slower than usual.",
-            "zh": "會，而且通常都是從一些很小的訊號開始。像喉嚨痛、眼睛很沉，或者整個人突然比平常更遲鈍。",
-            "vocab": [
-              {
-                "word": "sore throat",
-                "def": "像喉嚨痛、眼睛很沉"
-              }
-            ]
+            "zh": "會，而且通常都是從一些很小的訊號開始。像喉嚨痛、眼睛很沉，或者整個人突然比平常更遲鈍。"
           },
           {
             "speaker": "b",
@@ -1500,13 +1292,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a very recognizable one. A lot of people know they are coming down with something before they can name exactly what it is.",
-            "zh": "那是很典型的訊號。很多人其實在還說不出病名之前，就已經知道自己 coming down with something 了。",
-            "vocab": [
-              {
-                "word": "coming down",
-                "def": "開始生病；染上某種病"
-              }
-            ]
+            "zh": "那是很典型的訊號。很多人其實在還說不出病名之前，就已經知道自己 coming down with something 了。"
           },
           {
             "speaker": "b",
@@ -1559,13 +1345,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, even when the wiser move would be to call in sick and go back to bed.",
-            "zh": "沒錯，哪怕更有智慧的做法其實是 call in sick，然後回床上休息。",
-            "vocab": [
-              {
-                "word": "call in sick",
-                "def": "打電話請病假；告知因病無法上班"
-              }
-            ]
+            "zh": "沒錯，哪怕更有智慧的做法其實是 call in sick，然後回床上休息。"
           },
           {
             "speaker": "b",
@@ -1606,13 +1386,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People say, \"I am under the weather,\" \"I have a sore throat,\" or \"I think I am coming down with something.\"",
-            "zh": "大家很常說像是「我有點不舒服」、「我喉嚨痛」，或「我覺得我好像要生病了」。",
-            "vocab": [
-              {
-                "word": "under the weather",
-                "def": "身體不太舒服；有點病懨懨的"
-              }
-            ]
+            "zh": "大家很常說像是「我有點不舒服」、「我喉嚨痛」，或「我覺得我好像要生病了」。"
           },
           {
             "speaker": "b",
@@ -1624,13 +1398,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A clean way to say it is, \"I am running a fever.\" That is the standard phrase.",
-            "zh": "那就說「我在發燒」。`run a fever` 就是最標準的說法。",
-            "vocab": [
-              {
-                "word": "running a fever",
-                "def": "在發燒"
-              }
-            ]
+            "zh": "那就說「我在發燒」。`run a fever` 就是最標準的說法。"
           },
           {
             "speaker": "b",
@@ -1642,13 +1410,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use \"take it easy.\" It is a gentle phrase, and people also say it to others who need to rest.",
-            "zh": "可以用 `take it easy`。這是個很溫和的說法，而且也常拿來叫別人多休息。",
-            "vocab": [
-              {
-                "word": "take it easy",
-                "def": "放輕鬆；多休息一下"
-              }
-            ]
+            "zh": "可以用 `take it easy`。這是個很溫和的說法，而且也常拿來叫別人多休息。"
           },
           {
             "speaker": "b",
@@ -1689,29 +1451,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Sometimes the right step is urgent care or a doctor visit, especially if you are getting worse instead of slowly stabilizing.",
-            "zh": "完全不是。有時候正確的一步就是去 urgent care 或安排 doctor visit，尤其是在你不是慢慢穩住，而是越來越糟的情況下。",
-            "vocab": [
-              {
-                "word": "urgent care",
-                "def": "急診以外的即時門診／急症照護"
-              },
-              {
-                "word": "doctor visit",
-                "def": "看醫生；就醫"
-              }
-            ]
+            "zh": "完全不是。有時候正確的一步就是去 urgent care 或安排 doctor visit，尤其是在你不是慢慢穩住，而是越來越糟的情況下。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And if I might be contagious, that changes things too.",
-            "zh": "而且如果我可能會傳染，那整件事又更不一樣了。",
-            "vocab": [
-              {
-                "word": "contagious",
-                "def": "有傳染性的"
-              }
-            ]
+            "zh": "而且如果我可能會傳染，那整件事又更不一樣了。"
           },
           {
             "speaker": "a",
@@ -1875,13 +1621,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. The best workout is often the one you do often enough to build a relationship with.",
-            "zh": "沒錯。最好的 workout，很多時候就是那個你做得夠常，常到能和它建立關係的運動。",
-            "vocab": [
-              {
-                "word": "workout",
-                "def": "一次運動訓練；運動時段"
-              }
-            ]
+            "zh": "沒錯。最好的 workout，很多時候就是那個你做得夠常，常到能和它建立關係的運動。"
           },
           {
             "speaker": "b",
@@ -1922,13 +1662,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And people also choose movement they think they should respect, instead of movement they might actually stick with.",
-            "zh": "沒錯。而且很多人選的運動，是自己覺得「應該要尊敬」的那種，不是自己真的可能 stick with 的那種。",
-            "vocab": [
-              {
-                "word": "stick",
-                "def": "堅持；持續下去"
-              }
-            ]
+            "zh": "沒錯。而且很多人選的運動，是自己覺得「應該要尊敬」的那種，不是自己真的可能 stick with 的那種。"
           },
           {
             "speaker": "b",
@@ -1940,13 +1674,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is also why low-impact exercise gets underestimated. People hear \"gentle\" and assume it means \"not effective.\"",
-            "zh": "這也就是為什麼 low-impact 運動常常被低估。大家一聽到「溫和」就以為它等於「沒有效」。",
-            "vocab": [
-              {
-                "word": "low-impact",
-                "def": "低衝擊的；對關節負擔較小的"
-              }
-            ]
+            "zh": "這也就是為什麼 low-impact 運動常常被低估。大家一聽到「溫和」就以為它等於「沒有效」。"
           },
           {
             "speaker": "b",
@@ -1975,17 +1703,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People say, \"I worked out,\" \"I am trying to get moving again,\" or \"I need to warm up first.\"",
-            "zh": "大家很常說像是「我去運動了」、「我想重新動起來」，或者「我需要先暖身一下」。",
-            "vocab": [
-              {
-                "word": "get moving",
-                "def": "開始動起來；開始活動身體"
-              },
-              {
-                "word": "warm up",
-                "def": "暖身"
-              }
-            ]
+            "zh": "大家很常說像是「我去運動了」、「我想重新動起來」，或者「我需要先暖身一下」。"
           },
           {
             "speaker": "b",
@@ -1997,13 +1715,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use simple categories like \"strength training,\" \"cardio,\" or \"something low-impact.\" That is more than enough for everyday conversation.",
-            "zh": "你可以用很簡單的分類，像是 strength training、cardio，或是 something low-impact。日常對話這樣就完全夠了。",
-            "vocab": [
-              {
-                "word": "strength training",
-                "def": "肌力訓練"
-              }
-            ]
+            "zh": "你可以用很簡單的分類，像是 strength training、cardio，或是 something low-impact。日常對話這樣就完全夠了。"
           },
           {
             "speaker": "b",
@@ -2015,13 +1727,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say exactly that. Or say, \"I never regret it once I finish.\" That sounds natural and very believable.",
-            "zh": "你就照這樣說就好。也可以說「我每次做完都不後悔」。這聽起來很自然，也很可信。",
-            "vocab": [
-              {
-                "word": "regret",
-                "def": "緩和收操"
-              }
-            ]
+            "zh": "你就照這樣說就好。也可以說「我每次做完都不後悔」。這聽起來很自然，也很可信。"
           },
           {
             "speaker": "b",
@@ -2062,13 +1768,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And an exercise buddy can help too, not because you need supervision, but because shared structure lowers friction.",
-            "zh": "另外有一個 exercise buddy 也很有幫助，不是因為你需要被監督，而是因為有人一起，整個結構的阻力會更低。",
-            "vocab": [
-              {
-                "word": "exercise buddy",
-                "def": "一起運動的夥伴"
-              }
-            ]
+            "zh": "另外有一個 exercise buddy 也很有幫助，不是因為你需要被監督，而是因為有人一起，整個結構的阻力會更低。"
           },
           {
             "speaker": "b",
@@ -2079,8 +1779,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Put the class on the calendar, keep the shoes by the door, or walk right after lunch. Help the decision happen sooner.",
-            "zh": "沒錯。把課放進行事曆、把鞋放在門口，或午餐後立刻去走。幫那個決定更早發生。"
+            "en": "Right. Put the class on the calendar, keep the shoes by the door, or walk right after lunch. Help the decision happen sooner.",
+            "zh": "對。把課放進行事曆、把鞋放在門口，或午餐後立刻去走。幫那個決定更早發生。"
           },
           {
             "speaker": "b",
@@ -2132,8 +1832,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point is not to win against your body. The point is to learn how to work with it.",
-            "zh": "沒錯。重點不是打贏你的身體，而是學會怎麼和它合作。"
+            "en": "That's the key shift. The point is not to win against your body. The point is to learn how to work with it.",
+            "zh": "這是最關鍵的轉變。重點不是打贏你的身體，而是學會怎麼和它合作。"
           },
           {
             "speaker": "b",
@@ -2267,17 +1967,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A visible cue, low friction, and a minimum version that still counts on a bad day.",
-            "zh": "一個看得見的 cue、低摩擦，還有一個在爛日子裡做也仍然算數的最低版本。",
-            "vocab": [
-              {
-                "word": "cue",
-                "def": "一個看得見的cue、低摩擦"
-              },
-              {
-                "word": "friction",
-                "def": "阻力；讓事情變難開始的摩擦"
-              }
-            ]
+            "zh": "一個看得見的 cue、低摩擦，還有一個在爛日子裡做也仍然算數的最低版本。"
           },
           {
             "speaker": "b",
@@ -2289,13 +1979,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If the ideal is a thirty-minute workout, the minimum version might be five minutes of stretching. If the ideal is cooking, the minimum might be a decent grocery run.",
-            "zh": "如果理想版是三十分鐘運動，最低版本可能就是五分鐘伸展；如果理想版是自己煮飯，最低版本可能只是去買一趟還不錯的食材。",
-            "vocab": [
-              {
-                "word": "minimum version",
-                "def": "最低可行版本；最小仍算數的做法"
-              }
-            ]
+            "zh": "如果理想版是三十分鐘運動，最低版本可能就是五分鐘伸展；如果理想版是自己煮飯，最低版本可能只是去買一趟還不錯的食材。"
           },
           {
             "speaker": "b",
@@ -2336,17 +2020,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "People say, \"I stayed on track,\" \"I fell off,\" or \"I am trying to get back into it.\"",
-            "zh": "大家很常說像是「我有跟上」、「我掉出去了」，或「我正在想辦法重新回到那個狀態」。",
-            "vocab": [
-              {
-                "word": "stayed on track",
-                "def": "維持在正軌上"
-              },
-              {
-                "word": "fell off",
-                "def": "中斷；沒繼續維持下去"
-              }
-            ]
+            "zh": "大家很常說像是「我有跟上」、「我掉出去了」，或「我正在想辦法重新回到那個狀態」。"
           },
           {
             "speaker": "b",
@@ -2358,17 +2032,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because it is living language. Another good one is \"make it sustainable.\"",
-            "zh": "那是因為它本來就是活在生活裡的語言。另一個很好用的說法是 `make it sustainable`。",
-            "vocab": [
-              {
-                "word": "sustainable",
-                "def": "可持續的；能長期維持的"
-              },
-              {
-                "word": "sustainable",
-                "def": "可持續的；做得長久的"
-              }
-            ]
+            "zh": "那是因為它本來就是活在生活裡的語言。另一個很好用的說法是 `make it sustainable`。"
           },
           {
             "speaker": "b",
@@ -2397,7 +2061,7 @@ export const WEEK_09: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Designing for the Version of You That Is Busy",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -2446,12 +2110,7 @@ export const WEEK_09: Episode[] = [
             "speakerName": "Mira",
             "en": "Then keep it now. Good design can still save a lot of future frustration.",
             "zh": "那你現在把它留下就好。好的設計，現在開始也一樣能幫你省掉很多未來的挫折。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Consistency Needs Kindness Too",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2474,13 +2133,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. All-or-nothing thinking destroys more habits than laziness ever does.",
-            "zh": "沒錯。all-or-nothing thinking 毀掉的習慣，比懶惰本身還多。",
-            "vocab": [
-              {
-                "word": "all-or-nothing thinking",
-                "def": "全有或全無的思維方式"
-              }
-            ]
+            "zh": "沒錯。all-or-nothing thinking 毀掉的習慣，比懶惰本身還多。"
           },
           {
             "speaker": "b",

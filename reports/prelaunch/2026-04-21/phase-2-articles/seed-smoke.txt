@@ -1,0 +1,10 @@
+SAV Seeding — start
+Target: https://ioosxzbdkscllgesmeqw.supabase.co
+
+── Episodes ──
+
+Seed failed: Error: [episodes] TypeError: fetch failed
+    at upsert (/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/scripts/seed.ts:48:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async seedEpisodes (/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/scripts/seed.ts:87:3)
+    at async main (/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/scripts/seed.ts:245:5)

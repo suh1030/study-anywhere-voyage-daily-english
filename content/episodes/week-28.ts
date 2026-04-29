@@ -21,14 +21,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such a photographer's moment. Nothing dramatic happened, but your attention clicked into place.",
-            "zh": "這就是很典型的攝影時刻。明明沒發生什麼大事，可是你的注意力突然卡進正確的位置。",
-            "vocab": [
-              {
-                "word": "photographer's moment",
-                "def": "一個平凡場景突然變得值得拍下來的時刻"
-              }
-            ]
+            "en": "That is such a picture-worthy moment. Nothing dramatic happened, but your attention clicked into place.",
+            "zh": "這就是很典型的攝影時刻。明明沒發生什麼大事，可是你的注意力突然卡進正確的位置。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why photography is partly about anticipation. You are learning to notice half a second earlier.",
-            "zh": "這也就是為什麼攝影有一部分是在練預判。你其實是在學著比原本早半秒注意到東西。",
-            "vocab": [
-              {
-                "word": "anticipation",
-                "def": "提早感覺到畫面快要成立的能力"
-              }
-            ]
+            "zh": "這也就是為什麼攝影有一部分是在練預判。你其實是在學著比原本早半秒注意到東西。"
           },
           {
             "speaker": "b",
@@ -99,13 +87,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and later you discover it was the reflection, the distance, or the quiet space around the subject.",
-            "zh": "對，而且後來你才會發現，原來你喜歡的是反光、距離感，或主體周圍那個安靜的空間。",
-            "vocab": [
-              {
-                "word": "subject",
-                "def": "畫面中你真正想拍的主體"
-              }
-            ]
+            "zh": "對，而且後來你才會發現，原來你喜歡的是反光、距離感，或主體周圍那個安靜的空間。"
           },
           {
             "speaker": "b",
@@ -117,13 +99,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Over time, your photo roll becomes a record of your attention, not just a record of events.",
-            "zh": "完全沒錯。久了之後，你的相簿會變成注意力的紀錄，不只是事件的紀錄。",
-            "vocab": [
-              {
-                "word": "becomes a record",
-                "def": "一個人平常最容易被什麼吸引的痕跡"
-              }
-            ]
+            "zh": "完全沒錯。久了之後，你的相簿會變成注意力的紀錄，不只是事件的紀錄。"
           },
           {
             "speaker": "b",
@@ -164,13 +140,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'The frame felt balanced, but not too neat.' That is a natural way to talk about composition.",
-            "zh": "另一句也很好用：「The frame felt balanced, but not too neat.」這是很自然地在談構圖。",
-            "vocab": [
-              {
-                "word": "frame",
-                "def": "這是很自然地在談構圖"
-              }
-            ]
+            "zh": "另一句也很好用：「The frame felt balanced, but not too neat.」這是很自然地在談構圖。"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good line here is, 'I liked how the eye knew where to go first.' That is a simple way to talk about visual focus.",
-            "zh": "完全沒錯。你也可以說：「I liked how the eye knew where to go first.」這就是很簡單地在講視覺焦點。",
-            "vocab": [
-              {
-                "word": "visual focus",
-                "def": "觀者的眼睛一進畫面最先被帶到的位置"
-              }
-            ]
+            "zh": "完全沒錯。你也可以說：「I liked how the eye knew where to go first.」這就是很簡單地在講視覺焦點。"
           },
           {
             "speaker": "b",
@@ -205,7 +169,7 @@ export const WEEK_28: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — How the Practice Gets Stronger",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -229,13 +193,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Simple is powerful here. When the options get smaller, your seeing gets deeper.",
-            "zh": "在這裡，簡單其實很有力量。選項一少，你看東西就會看得更深。",
-            "vocab": [
-              {
-                "word": "powerful",
-                "def": "刻意設下來幫助自己看得更深的限制條件"
-              }
-            ]
+            "zh": "在這裡，簡單其實很有力量。選項一少，你看東西就會看得更深。"
           },
           {
             "speaker": "b",
@@ -247,13 +205,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and reviewing your own photos matters too. Editing teaches you what you really value in an image.",
-            "zh": "完全沒錯，而且回看自己的照片也很重要。編選會教你，你在一張畫面裡真正重視的是什麼。",
-            "vocab": [
-              {
-                "word": "Editing teaches",
-                "def": "回看並挑選照片時的那一輪編選"
-              }
-            ]
+            "zh": "完全沒錯，而且回看自己的照片也很重要。編選會教你，你在一張畫面裡真正重視的是什麼。"
           },
           {
             "speaker": "b",
@@ -266,12 +218,7 @@ export const WEEK_28: Episode[] = [
             "speakerName": "Mira",
             "en": "Yes. Seeing, shooting, and selecting are all part of the same conversation.",
             "zh": "對。看見、拍下來、再挑選，其實都是同一場對話的不同階段。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Photography Teaches Beyond Photos",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -294,13 +241,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It kind of is. Photography makes you practice attention, and attention changes how life feels from the inside.",
-            "zh": "某種程度上真的是。攝影逼你練注意力，而注意力會從內部改變一個人對生活的感覺。",
-            "vocab": [
-              {
-                "word": "practice attention",
-                "def": "透過拍照反覆練習留意眼前細節"
-              }
-            ]
+            "zh": "某種程度上真的是。攝影逼你練注意力，而注意力會從內部改變一個人對生活的感覺。"
           },
           {
             "speaker": "b",
@@ -331,9 +272,9 @@ export const WEEK_28: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "photographer's moment",
-        "zh": "一個平凡場景突然變得值得拍下來的時刻",
-        "example": "The reflection in the train door gave her a photographer's moment she almost missed."
+        "en": "picture-worthy moment",
+        "zh": "一個平凡場景突然變得很值得拍下來的時刻",
+        "example": "The reflection in the train door gave her a picture-worthy moment she almost missed."
       },
       {
         "en": "anticipation",
@@ -393,13 +334,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because she is not only making an image. She is trying to hold on to a feeling before it dissolves.",
-            "zh": "那是因為她不只是在做一張照片，她是在試著抓住一種還沒散掉的感覺。",
-            "vocab": [
-              {
-                "word": "hold on to a feeling",
-                "def": "趁感覺還在時先把它留住"
-              }
-            ]
+            "zh": "那是因為她不只是在做一張照片，她是在試著抓住一種還沒散掉的感覺。"
           },
           {
             "speaker": "b",
@@ -410,14 +345,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Sometimes that is true, but the more interesting reason is memory. Photos help people make a moment easier to return to later.",
-            "zh": "有時候確實是這樣，可是更有趣的理由通常是記憶。照片會幫人把一個時刻變得比較容易回去。",
-            "vocab": [
-              {
-                "word": "return to later",
-                "def": "未來還能重新回到那個時刻裡"
-              }
-            ]
+            "en": "Sometimes that is true, but the more interesting reason is memory. Photos help people preserve a moment they can look back on later.",
+            "zh": "有時候確實是這樣，可是更有趣的理由通常是記憶。照片會幫人把一個時刻變得比較容易回去。"
           },
           {
             "speaker": "b",
@@ -470,13 +399,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the line each person has to learn. Are you recording the moment, or replacing it?",
-            "zh": "對，而那條線每個人都要自己學。你是在記錄那個時刻，還是在用拍照取代它？",
-            "vocab": [
-              {
-                "word": "recording the moment",
-                "def": "拍照拍到反而沒有真正活在當下"
-              }
-            ]
+            "zh": "對，而那條線每個人都要自己學。你是在記錄那個時刻，還是在用拍照取代它？"
           },
           {
             "speaker": "b",
@@ -488,13 +411,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good photography often comes from staying emotionally present, not from taking more shots than everyone else.",
-            "zh": "好的攝影常常來自情感上真的在場，不是比別人多按幾次快門。",
-            "vocab": [
-              {
-                "word": "emotionally present",
-                "def": "心也真的在現場，而不是只剩拍照動作"
-              }
-            ]
+            "zh": "好的攝影常常來自情感上真的在場，不是比別人多按幾次快門。"
           },
           {
             "speaker": "b",
@@ -535,13 +452,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'I took it because I knew the moment was about to pass.'",
-            "zh": "另一句也很好用：「I took it because I knew the moment was about to pass.」",
-            "vocab": [
-              {
-                "word": "about to pass",
-                "def": "那個片刻眼看就要過去了"
-              }
-            ]
+            "zh": "另一句也很好用：「I took it because I knew the moment was about to pass.」"
           },
           {
             "speaker": "b",
@@ -553,13 +464,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "'I wanted to remember how everyone looked when they forgot the camera was there.' works well when you want to talk about people.",
-            "zh": "如果你是想講拍人，也可以說：「I wanted to remember how everyone looked when they forgot the camera was there.」",
-            "vocab": [
-              {
-                "word": "forgot the camera was there",
-                "def": "大家忘記鏡頭存在時那種最自然的狀態"
-              }
-            ]
+            "zh": "如果你是想講拍人，也可以說：「I wanted to remember how everyone looked when they forgot the camera was there.」"
           },
           {
             "speaker": "b",
@@ -600,13 +505,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A living image often contains a small imperfection that makes the moment believable.",
-            "zh": "完全沒錯。真正活著的畫面，常常會留著一點小小的不完美，讓那個瞬間更可信。",
-            "vocab": [
-              {
-                "word": "living image",
-                "def": "看起來像真的還有呼吸感的照片"
-              }
-            ]
+            "zh": "完全沒錯。真正活著的畫面，常常會留著一點小小的不完美，讓那個瞬間更可信。"
           },
           {
             "speaker": "b",
@@ -618,13 +517,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. Those details are sometimes the proof that a real life was happening in front of you.",
-            "zh": "很好。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。",
-            "vocab": [
-              {
-                "word": "real life was happening",
-                "def": "照片裡真的有正在發生的生活感"
-              }
-            ]
+            "zh": "很好。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
           },
           {
             "speaker": "b",
@@ -665,13 +558,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is also practical. When someone we love changes, leaves, or grows older, photos help us keep meeting them across time.",
-            "zh": "它也很實際。當我們愛的人改變了、離開了，或慢慢變老，照片會幫我們在時間裡繼續和他們相遇。",
-            "vocab": [
-              {
-                "word": "across time",
-                "def": "隔著時間還能重新相遇的感覺"
-              }
-            ]
+            "zh": "它也很實際。當我們愛的人改變了、離開了，或慢慢變老，照片會幫我們在時間裡繼續和他們相遇。"
           },
           {
             "speaker": "b",
@@ -707,9 +594,9 @@ export const WEEK_28: Episode[] = [
         "example": "She raised her phone because she wanted to hold on to a feeling, not because the room looked perfect."
       },
       {
-        "en": "return to later",
-        "zh": "未來還能重新回到那個時刻裡",
-        "example": "He took the picture so there would be something he could return to later."
+        "en": "look back on later",
+        "zh": "之後還能回頭再看、重新感受那個時刻",
+        "example": "He took the picture so there would be something he could look back on later."
       },
       {
         "en": "replace the moment",
@@ -764,13 +651,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is composition teaching you in real time. The camera reveals what the eye ignored until you had to frame it.",
-            "zh": "這就是構圖在即時教你。相機會把眼睛原本略過的東西逼到你面前，因為你必須替畫面取景。",
-            "vocab": [
-              {
-                "word": "composition",
-                "def": "決定畫面裡各個元素怎麼被安排的方式"
-              }
-            ]
+            "zh": "這就是構圖在即時教你。相機會把眼睛原本略過的東西逼到你面前，因為你必須替畫面取景。"
           },
           {
             "speaker": "b",
@@ -782,13 +663,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that is how you learn to see space. Composition is often about what not to include.",
-            "zh": "而這就是你開始學會看空間的方式。構圖很多時候其實是在決定什麼不要放進來。",
-            "vocab": [
-              {
-                "word": "see space",
-                "def": "讓主體旁邊留白，畫面比較能呼吸的空間"
-              }
-            ]
+            "zh": "而這就是你開始學會看空間的方式。構圖很多時候其實是在決定什麼不要放進來。"
           },
           {
             "speaker": "b",
@@ -812,13 +687,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You are learning how shapes, distance, and weight create visual rhythm inside the frame.",
-            "zh": "完全沒錯。你是在學形狀、距離和視覺重量怎麼在畫面裡形成節奏感。",
-            "vocab": [
-              {
-                "word": "visual rhythm",
-                "def": "畫面裡元素分布所形成的節奏感"
-              }
-            ]
+            "zh": "完全沒錯。你是在學形狀、距離和視覺重量怎麼在畫面裡形成節奏感。"
           }
         ]
       },
@@ -847,13 +716,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and side light is a good teacher because it shows form. Flat light hides too many decisions from beginners.",
-            "zh": "完全沒錯，而且側光很適合教人，因為它會把形體帶出來。太平的光會把很多該學的決定都藏起來。",
-            "vocab": [
-              {
-                "word": "side light",
-                "def": "完全沒錯"
-              }
-            ]
+            "zh": "完全沒錯，而且側光很適合教人，因為它會把形體帶出來。太平的光會把很多該學的決定都藏起來。"
           },
           {
             "speaker": "b",
@@ -864,8 +727,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a smart shift. Often the scene is fine. You just arrived at the wrong hour.",
-            "zh": "這是很聰明的轉向。很多時候不是場景有問題，而是你在不對的時候到了。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "b",
@@ -906,13 +769,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good line is, 'Once I simplified the frame, the subject finally had room to breathe.'",
-            "zh": "另一句也很好用：「Once I simplified the frame, the subject finally had room to breathe.」",
-            "vocab": [
-              {
-                "word": "room to breathe",
-                "def": "主體周圍終於有足夠空間，不再被擠住"
-              }
-            ]
+            "zh": "另一句也很好用：「Once I simplified the frame, the subject finally had room to breathe.」"
           },
           {
             "speaker": "b",
@@ -924,13 +781,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'The softer light made everything feel less literal.'",
-            "zh": "如果你想講光，也可以說：「The softer light made everything feel less literal.」",
-            "vocab": [
-              {
-                "word": "softer light",
-                "def": "讓邊緣與氣氛比較柔和的光線"
-              }
-            ]
+            "zh": "如果你想講光，也可以說：「The softer light made everything feel less literal.」"
           },
           {
             "speaker": "b",
@@ -971,13 +822,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It works because repetition removes novelty. Then your eye finally notices structure.",
-            "zh": "它有用，就是因為重複會把新鮮感拿掉。新鮮感一拿掉，眼睛才終於會開始注意結構。",
-            "vocab": [
-              {
-                "word": "repetition removes",
-                "def": "透過重複拍同一個場景來訓練觀察的練習"
-              }
-            ]
+            "zh": "它有用，就是因為重複會把新鮮感拿掉。新鮮感一拿掉，眼睛才終於會開始注意結構。"
           },
           {
             "speaker": "b",
@@ -1030,13 +875,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Once you understand framing, you also understand that attention is always shaping reality for you.",
-            "zh": "本來就是。當你開始懂取景，你也會開始懂得，注意力本來就在替你塑造現實。",
-            "vocab": [
-              {
-                "word": "framing",
-                "def": "什麼退到背景的方式"
-              }
-            ]
+            "zh": "本來就是。當你開始懂取景，你也會開始懂得，注意力本來就在替你塑造現實。"
           },
           {
             "speaker": "b",
@@ -1129,13 +968,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because editing is not cleanup. Even a quick contact sheet review is already the start of meaning-making.",
-            "zh": "那是因為編選不是清理而已。就連很快地看一遍縮圖表，也已經是在開始做意義了。",
-            "vocab": [
-              {
-                "word": "contact sheet",
-                "def": "把一整批照片縮圖排開來看整體的方式"
-              }
-            ]
+            "zh": "那是因為編選不是清理而已。就連很快地看一遍縮圖表，也已經是在開始做意義了。"
           },
           {
             "speaker": "b",
@@ -1147,13 +980,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Selection is where you decide what the day was really about.",
-            "zh": "完全不是。真正挑照片的時候，你才是在決定那一天到底是關於什麼。",
-            "vocab": [
-              {
-                "word": "selection",
-                "def": "真正挑照片的時候"
-              }
-            ]
+            "zh": "完全不是。真正挑照片的時候，你才是在決定那一天到底是關於什麼。"
           },
           {
             "speaker": "b",
@@ -1206,13 +1033,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A sequence becomes stronger when every image earns its place.",
-            "zh": "完全沒錯。當每張圖都真的有理由留下來時，一個系列才會變強。",
-            "vocab": [
-              {
-                "word": "sequence",
-                "def": "一組照片被排成有順序、有節奏的系列"
-              }
-            ]
+            "zh": "完全沒錯。當每張圖都真的有理由留下來時，一個系列才會變強。"
           },
           {
             "speaker": "b",
@@ -1236,13 +1057,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is hard, but it is also where stronger work begins. Sometimes you really do have to kill your favorites for the set to breathe.",
-            "zh": "是很難，可是更成熟的作品常常就是從那裡開始。有時候你真的得刪掉自己最愛的那幾張，整組作品才會呼吸。",
-            "vocab": [
-              {
-                "word": "kill your favorites",
-                "def": "就算自己很愛"
-              }
-            ]
+            "zh": "是很難，可是更成熟的作品常常就是從那裡開始。有時候你真的得刪掉自己最愛的那幾張，整組作品才會呼吸。"
           }
         ]
       },
@@ -1271,13 +1086,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I cut the ones that repeated the same idea without adding anything new.'",
-            "zh": "另一句也很好用：「I cut the ones that repeated the same idea without adding anything new.」",
-            "vocab": [
-              {
-                "word": "repeated the same idea",
-                "def": "畫面雖然不同，但其實在重複同一個意思"
-              }
-            ]
+            "zh": "另一句也很好用：「I cut the ones that repeated the same idea without adding anything new.」"
           },
           {
             "speaker": "b",
@@ -1289,13 +1098,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to talk about sequence, you could say, 'These images started making sense once I saw them next to each other.'",
-            "zh": "如果你想談系列，也可以說：「These images started making sense once I saw them next to each other.」",
-            "vocab": [
-              {
-                "word": "next to each other",
-                "def": "照片放在一起後才看得出彼此關係"
-              }
-            ]
+            "zh": "如果你想談系列，也可以說：「These images started making sense once I saw them next to each other.」"
           },
           {
             "speaker": "b",
@@ -1312,7 +1115,7 @@ export const WEEK_28: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — How to Get Better at Choosing",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -1336,13 +1139,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually is. Endless tweaking often means you are avoiding the commitment of choosing.",
-            "zh": "通常真的是。無止盡地微調，很多時候代表你在逃避真正選擇所需要的承諾。",
-            "vocab": [
-              {
-                "word": "commitment of choosing",
-                "def": "一旦選了就等於要為那個判斷負責"
-              }
-            ]
+            "zh": "通常真的是。無止盡地微調，很多時候代表你在逃避真正選擇所需要的承諾。"
           },
           {
             "speaker": "b",
@@ -1367,12 +1164,7 @@ export const WEEK_28: Episode[] = [
             "speakerName": "Mira",
             "en": "That is often a good place to start.",
             "zh": "那通常就是一個很好的起點。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Bigger Lesson in Leaving Things Out",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1395,13 +1187,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Taste is partly the courage to say, this belongs, and this does not.",
-            "zh": "完全沒錯。品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。",
-            "vocab": [
-              {
-                "word": "this belongs",
-                "def": "判斷某個元素真的值得留下來的感覺"
-              }
-            ]
+            "zh": "完全沒錯。品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
           },
           {
             "speaker": "b",
@@ -1494,37 +1280,19 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That makes sense. Drawing can turn passive time into a place where your mind comes back to itself.",
-            "zh": "這很合理。畫畫會把原本很被動的時間，變成一個讓心慢慢回到自己身上的地方。",
-            "vocab": [
-              {
-                "word": "passive",
-                "def": "畫畫會把原本很被動的時間"
-              }
-            ]
+            "zh": "這很合理。畫畫會把原本很被動的時間，變成一個讓心慢慢回到自己身上的地方。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I am not even drawing anything impressive. Sometimes I just sketch from life: shoes, hands, or the cup in front of me.",
-            "zh": "我畫的東西根本也不厲害，有時候就只是照著眼前真實的東西快速畫下來，像鞋子、手，或前面的杯子。",
-            "vocab": [
-              {
-                "word": "sketch from life",
-                "def": "像鞋子、手"
-              }
-            ]
+            "zh": "我畫的東西根本也不厲害，有時候就只是照著眼前真實的東西快速畫下來，像鞋子、手，或前面的杯子。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly why it helps. Visual journaling is not performance. It is contact.",
-            "zh": "這也正是它有幫助的原因。視覺日記不是表演，它比較像是接觸。",
-            "vocab": [
-              {
-                "word": "visual journaling",
-                "def": "視覺日記不是表演"
-              }
-            ]
+            "zh": "這也正是它有幫助的原因。視覺日記不是表演，它比較像是接觸。"
           },
           {
             "speaker": "b",
@@ -1577,13 +1345,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A mark can hold emotion without needing to summarize it.",
-            "zh": "完全沒錯。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。",
-            "vocab": [
-              {
-                "word": "mark",
-                "def": "立刻把情緒總結出來"
-              }
-            ]
+            "zh": "完全沒錯。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。"
           },
           {
             "speaker": "b",
@@ -1623,8 +1385,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'It gives my mind somewhere gentle to land.'",
-            "zh": "你可以說：「It gives my mind somewhere gentle to land.」"
+            "en": "One natural option is, 'It gives my mind somewhere gentle to land.'",
+            "zh": "這裡很自然的說法是：「It gives my mind somewhere gentle to land.」"
           },
           {
             "speaker": "b",
@@ -1636,13 +1398,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I do it to notice what I am carrying, not to make something impressive.'",
-            "zh": "另一句也很好用：「I do it to notice what I am carrying, not to make something impressive.」",
-            "vocab": [
-              {
-                "word": "what I am carrying",
-                "def": "自己心裡正在背著、帶著的情緒或壓力"
-              }
-            ]
+            "zh": "另一句也很好用：「I do it to notice what I am carrying, not to make something impressive.」"
           },
           {
             "speaker": "b",
@@ -1654,13 +1410,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to sound very natural, another option is, 'Drawing helps me settle without having to explain myself first.'",
-            "zh": "如果你想講得很自然，也可以說：「Drawing helps me settle without having to explain myself first.」",
-            "vocab": [
-              {
-                "word": "settle",
-                "def": "讓自己慢慢沉下來、穩下來"
-              }
-            ]
+            "zh": "如果你想講得很自然，也可以說：「Drawing helps me settle without having to explain myself first.」"
           },
           {
             "speaker": "b",
@@ -1701,13 +1451,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Private art often survives better because it is not spending half its energy being seen.",
-            "zh": "真的很重要。私密的創作常常比較活得下來，因為它不用把一半力氣花在被看見。",
-            "vocab": [
-              {
-                "word": "Private art",
-                "def": "私密的創作常常比較活得下來"
-              }
-            ]
+            "zh": "真的很重要。私密的創作常常比較活得下來，因為它不用把一半力氣花在被看見。"
           },
           {
             "speaker": "b",
@@ -1760,13 +1504,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many adults lose contact with themselves because every part of life gets optimized. Art interrupts that.",
-            "zh": "很多成年人會和自己失聯，是因為生活每一塊都被拿去優化了。藝術會打斷這件事。",
-            "vocab": [
-              {
-                "word": "adults lose contact",
-                "def": "忙到和自己真正的感受失去連線"
-              }
-            ]
+            "zh": "很多成年人會和自己失聯，是因為生活每一塊都被拿去優化了。藝術會打斷這件事。"
           },
           {
             "speaker": "b",
@@ -1789,7 +1527,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then you already have the best reason.",
+            "en": "You already have the best reason.",
             "zh": "那你其實已經有最好的理由了。"
           }
         ]
@@ -1799,7 +1537,7 @@ export const WEEK_28: Episode[] = [
       {
         "en": "come back to yourself",
         "zh": "注意力和情緒重新回到自己身上的狀態",
-        "example": "A few quiet sketches helped him come back to yourself after a noisy day."
+        "example": "A few quiet sketches can help you come back to yourself after a noisy day."
       },
       {
         "en": "visual journaling",
@@ -1832,9 +1570,9 @@ export const WEEK_28: Episode[] = [
         "example": "Learning to sketch from life made her more present in cafés and train stations."
       },
       {
-        "en": "lose contact with yourself",
+        "en": "lose touch with yourself",
         "zh": "忙到和自己真正的感受失去連線",
-        "example": "He realized he had started to lose contact with yourself after months of nonstop work."
+        "example": "He realized he had started to lose touch with himself after months of nonstop work."
       }
     ]
   },
@@ -1859,13 +1597,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That makes sense. The work changes when it moves from private space into public comparison.",
-            "zh": "這很合理。當作品從私人空間移到公開比較的場域時，它本來就會變質。",
-            "vocab": [
-              {
-                "word": "public comparison",
-                "def": "立刻被拿去和別人比較的狀態"
-              }
-            ]
+            "zh": "這很合理。當作品從私人空間移到公開比較的場域時，它本來就會變質。"
           },
           {
             "speaker": "b",
@@ -1877,13 +1609,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and borrowed eyes usually make people edit toward approval instead of truth.",
-            "zh": "完全沒錯。而借來的眼睛，常常會讓人朝著被喜歡去修，而不是朝著真實去修。",
-            "vocab": [
-              {
-                "word": "toward approval",
-                "def": "做決定時主要在朝別人會不會喜歡靠近"
-              }
-            ]
+            "zh": "完全沒錯。而借來的眼睛，常常會讓人朝著被喜歡去修，而不是朝著真實去修。"
           },
           {
             "speaker": "b",
@@ -1924,7 +1650,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because metrics feel objective, even when they are measuring a very narrow kind of response.",
-            "zh": "因為數據會給人一種很客觀的感覺，即使它測量的其實只是很窄的一種反應。"
+            "zh": "因為資料會給人一種很客觀的感覺，即使它測量的其實只是很窄的一種反應。"
           },
           {
             "speaker": "b",
@@ -1936,13 +1662,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Numbers can tell you what got quick attention, but not what had depth, staying power, or real artistic risk.",
-            "zh": "完全沒錯。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。",
-            "vocab": [
-              {
-                "word": "quick attention",
-                "def": "或真的有藝術上的風險"
-              }
-            ]
+            "zh": "完全沒錯。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。"
           },
           {
             "speaker": "b",
@@ -1960,13 +1680,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So one risk of the algorithm is not just distraction. It is taste drift.",
-            "zh": "所以演算法的風險不只是分心，而是品味慢慢漂走。",
-            "vocab": [
-              {
-                "word": "taste drift",
-                "def": "長期被流量牽著走後"
-              }
-            ]
+            "zh": "所以演算法的風險不只是分心，而是品味慢慢漂走。"
           },
           {
             "speaker": "a",
@@ -2001,13 +1715,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another useful line is, 'I do not want every creative decision to be shaped by an audience in real time.'",
-            "zh": "另一句也很好用：「I do not want every creative decision to be shaped by an audience in real time.」",
-            "vocab": [
-              {
-                "word": "real time",
-                "def": "作品還在形成時就立刻受到外界反應影響的狀態"
-              }
-            ]
+            "zh": "另一句也很好用：「I do not want every creative decision to be shaped by an audience in real time.」"
           },
           {
             "speaker": "b",
@@ -2019,13 +1727,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to explain your process, a natural line is, 'I share some work publicly, but I also need a space where I can experiment quietly.'",
-            "zh": "如果你想進一步解釋自己的做法，也可以說：「I share some work publicly, but I also need a space where I can experiment quietly.」",
-            "vocab": [
-              {
-                "word": "experiment quietly",
-                "def": "在沒有被立刻評價的情況下慢慢試作品"
-              }
-            ]
+            "zh": "如果你想進一步解釋自己的做法，也可以說：「I share some work publicly, but I also need a space where I can experiment quietly.」"
           },
           {
             "speaker": "b",
@@ -2066,13 +1768,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. When posting becomes the imagined destination too early, the work starts performing before it is even finished.",
-            "zh": "完全沒錯。當『發出去』太早變成心裡的終點，作品就會在還沒完成前先開始表演。",
-            "vocab": [
-              {
-                "word": "imagined destination",
-                "def": "在創作還沒成熟前"
-              }
-            ]
+            "zh": "完全沒錯。當『發出去』太早變成心裡的終點，作品就會在還沒完成前先開始表演。"
           },
           {
             "speaker": "b",
@@ -2125,13 +1821,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A creative life gets stronger when the internet becomes one room in the house, not the whole house.",
-            "zh": "當網路只是你創作房子裡的一個房間，而不是整棟房子時，創作生活就會變強。",
-            "vocab": [
-              {
-                "word": "one room in the house",
-                "def": "網路只是創作的一部分，不是全部世界"
-              }
-            ]
+            "zh": "當網路只是你創作房子裡的一個房間，而不是整棟房子時，創作生活就會變強。"
           },
           {
             "speaker": "b",
@@ -2224,13 +1914,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is one of the best side effects of art. It enlarges perception before it changes output.",
-            "zh": "這其實是藝術最好的副作用之一。它通常是在改變你的作品之前，先把你的感知放大。",
-            "vocab": [
-              {
-                "word": "enlarges perception",
-                "def": "先把你的感知放大"
-              }
-            ]
+            "zh": "這其實是藝術最好的副作用之一。它通常是在改變你的作品之前，先把你的感知放大。"
           },
           {
             "speaker": "b",
@@ -2242,13 +1926,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A trained eye does not switch off just because the camera or pen is back in the bag.",
-            "zh": "完全沒錯。練過的眼睛，不會因為相機或筆收回包包裡就突然關機。",
-            "vocab": [
-              {
-                "word": "trained eye",
-                "def": "自然注意到畫面與細節的眼睛"
-              }
-            ]
+            "zh": "完全沒錯。練過的眼睛，不會因為相機或筆收回包包裡就突然關機。"
           },
           {
             "speaker": "b",
@@ -2265,8 +1943,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a huge gift for something people sometimes dismiss as nonessential.",
-            "zh": "對一件常常被人覺得不是必需品的東西來說，這真的是很大的禮物。"
+            "en": "Right — and that's the version that holds up.",
+            "zh": "對——而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
@@ -2301,13 +1979,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Visual art keeps teaching the same question: what story are you making possible by where you place your attention?",
-            "zh": "完全沒錯。視覺藝術一直在教同一個問題：你把注意力放哪裡，就會讓哪一種故事變得可能。",
-            "vocab": [
-              {
-                "word": "place your attention",
-                "def": "有意識地把注意力放到某個角度或事物上"
-              }
-            ]
+            "zh": "完全沒錯。視覺藝術一直在教同一個問題：你把注意力放哪裡，就會讓哪一種故事變得可能。"
           },
           {
             "speaker": "b",
@@ -2360,13 +2032,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another strong line is, 'Making images changed the way I move through ordinary days.'",
-            "zh": "另一句也很有力：「Making images changed the way I move through ordinary days.」",
-            "vocab": [
-              {
-                "word": "ordinary days",
-                "def": "那些看起來普通、但其實充滿細節的日子"
-              }
-            ]
+            "zh": "另一句也很有力：「Making images changed the way I move through ordinary days.」"
           },
           {
             "speaker": "b",
@@ -2378,13 +2044,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to go deeper, try, 'Art taught me that attention is one of the ways we make meaning.'",
-            "zh": "如果你想再深一點，也可以說：「Art taught me that attention is one of the ways we make meaning.」",
-            "vocab": [
-              {
-                "word": "make meaning",
-                "def": "透過注意與理解"
-              }
-            ]
+            "zh": "如果你想再深一點，也可以說：「Art taught me that attention is one of the ways we make meaning.」"
           },
           {
             "speaker": "b",
@@ -2425,13 +2085,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why artists need rhythm, not only openness. You have to know when to take in and when to step back.",
-            "zh": "這也就是為什麼創作者需要節奏，不只是敞開。你要知道什麼時候吸收，什麼時候退後。",
-            "vocab": [
-              {
-                "word": "step back",
-                "def": "自己緩一口氣"
-              }
-            ]
+            "zh": "這也就是為什麼創作者需要節奏，不只是敞開。你要知道什麼時候吸收，什麼時候退後。"
           },
           {
             "speaker": "b",
@@ -2472,13 +2126,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would say it is practical in a deep way. Visual literacy helps people see, feel, remember, and choose with more care.",
-            "zh": "我會說，它是在很深的層次上很實用。讀懂畫面的能力會幫人看得更清楚、感受得更細、記得更深，也選得更有分寸。",
-            "vocab": [
-              {
-                "word": "visual literacy",
-                "def": "讀懂畫面、光線與構圖所傳遞訊息的能力"
-              }
-            ]
+            "zh": "我會說，它是在很深的層次上很實用。讀懂畫面的能力會幫人看得更清楚、感受得更細、記得更深，也選得更有分寸。"
           },
           {
             "speaker": "b",
@@ -2490,13 +2138,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Those things matter too, but first art helps people have a fuller interior life.",
-            "zh": "那些當然也重要，可是在那之前，藝術先幫人擁有比較完整的內在生活。",
-            "vocab": [
-              {
-                "word": "interior life",
-                "def": "一個人內在感受、思考與觀察的豐富度"
-              }
-            ]
+            "zh": "那些當然也重要，可是在那之前，藝術先幫人擁有比較完整的內在生活。"
           },
           {
             "speaker": "b",
@@ -2519,7 +2161,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then keep it. Good arguments for art should feel useful, not decorative.",
+            "en": "Keep it. Good arguments for art should feel useful, not decorative.",
             "zh": "那就把它留著吧。對藝術最好的辯護，本來就該是有用的，不只是好看而已。"
           }
         ]

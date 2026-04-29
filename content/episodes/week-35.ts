@@ -22,13 +22,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is usually the first sign. You are not using the device anymore. The device is using your habit.",
-            "zh": "那通常是第一個訊號。你不再是在使用裝置，而是裝置在使用你的習慣。",
-            "vocab": [
-              {
-                "word": "device",
-                "def": "裝置、設備"
-              }
-            ]
+            "zh": "那通常是第一個訊號。你不再是在使用裝置，而是裝置在使用你的習慣。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The tricky part is that it always feels like a choice in the moment. The pattern only becomes visible later.",
-            "zh": "棘手的地方就在這裡，它在當下永遠感覺像是你的選擇。整個模式只有到後來才看得清楚。",
-            "vocab": [
-              {
-                "word": "pattern",
-                "def": "模式；規律"
-              }
-            ]
+            "zh": "棘手的地方就在這裡，它在當下永遠感覺像是你的選擇。整個模式只有到後來才看得清楚。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is because every convenience comes with a cost that is easy to miss. The cost is usually your attention, your time, or your sense of quiet.",
-            "zh": "因為每一種方便都附帶一個很容易被忽略的代價，而那個代價通常是你的注意力、你的時間，或者你的安靜感。",
-            "vocab": [
-              {
-                "word": "convenience",
-                "def": "便利"
-              }
-            ]
+            "zh": "因為每一種方便都附帶一個很容易被忽略的代價，而那個代價通常是你的注意力、你的時間，或者你的安靜感。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the first thing that goes when you are always connected. A lot of people notice the loss only after they have been offline for a few hours.",
-            "zh": "它是你一直連線時第一個消失的東西。很多人要等到離線幾個小時之後，才會注意到那個失去。",
-            "vocab": [
-              {
-                "word": "connected",
-                "def": "連線的"
-              }
-            ]
+            "zh": "它是你一直連線時第一個消失的東西。很多人要等到離線幾個小時之後，才會注意到那個失去。"
           },
           {
             "speaker": "b",
@@ -123,13 +99,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly not. The trade happens in small increments, so no single moment feels like a real loss.",
-            "zh": "大部分不知道。那個交換是以很小的增量發生的，所以每一個單獨的時刻都不像是真正的損失。",
-            "vocab": [
-              {
-                "word": "increments",
-                "def": "增量、微小步驟"
-              }
-            ]
+            "zh": "大部分不知道。那個交換是以很小的增量發生的，所以每一個單獨的時刻都不像是真正的損失。"
           },
           {
             "speaker": "b",
@@ -158,13 +128,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with one honest sentence. Something like, \"I check my phone too often and I am not always sure why.\"",
-            "zh": "從一句誠實的句子開始，像是「我太常查看手機了，而且我不總是知道為什麼。」",
-            "vocab": [
-              {
-                "word": "check my phone",
-                "def": "查看手機"
-              }
-            ]
+            "zh": "從一句誠實的句子開始，像是「我太常查看手機了，而且我不總是知道為什麼。」"
           },
           {
             "speaker": "b",
@@ -176,13 +140,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Simple and specific beats complex and vague every time in spoken English. You can also say, \"I am trying to be more intentional about screen time.\"",
-            "zh": "在口語英文裡，簡單而具體永遠勝過複雜而模糊。你也可以說「我正在試著對螢幕使用時間更有意識。」",
-            "vocab": [
-              {
-                "word": "intentional",
-                "def": "有意識的、刻意的"
-              }
-            ]
+            "zh": "在口語英文裡，簡單而具體永遠勝過複雜而模糊。你也可以說「我正在試著對螢幕使用時間更有意識。」"
           },
           {
             "speaker": "b",
@@ -194,13 +152,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"I have a hard time putting it down,\" or \"It pulls at my attention even when I want to focus.\" Both are very natural.",
-            "zh": "可以說「我很難把它放下」，或是「即使我想專心，它還是一直抓著我的注意力。」兩個都非常自然。",
-            "vocab": [
-              {
-                "word": "pulls",
-                "def": "拉扯、吸引"
-              }
-            ]
+            "zh": "可以說「我很難把它放下」，或是「即使我想專心，它還是一直抓著我的注意力。」兩個都非常自然。"
           },
           {
             "speaker": "b",
@@ -229,13 +181,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Put your phone in a different room while you eat. That is it. No screen during meals for one week.",
-            "zh": "吃飯的時候把手機放到另一個房間。就這樣。一週內吃飯不看螢幕。",
-            "vocab": [
-              {
-                "word": "screen during",
-                "def": "螢幕使用時間"
-              }
-            ]
+            "zh": "吃飯的時候把手機放到另一個房間。就這樣。一週內吃飯不看螢幕。"
           },
           {
             "speaker": "b",
@@ -247,13 +193,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Small is the point. You are not fighting the habit all day. You are carving out one protected space where the old pattern cannot follow you.",
-            "zh": "小就是重點。你不是整天在跟那個習慣搏鬥，你是在切出一個受保護的空間，讓舊習慣沒辦法跟進來。",
-            "vocab": [
-              {
-                "word": "carving out",
-                "def": "切出、騰出"
-              }
-            ]
+            "zh": "小就是重點。你不是整天在跟那個習慣搏鬥，你是在切出一個受保護的空間，讓舊習慣沒辦法跟進來。"
           },
           {
             "speaker": "b",
@@ -294,13 +234,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not necessarily less. The goal is to use it on purpose, not by default.",
-            "zh": "不一定是更少，目標是有目的地使用，而不是習慣性地使用。",
-            "vocab": [
-              {
-                "word": "by default",
-                "def": "習慣性地、預設地"
-              }
-            ]
+            "zh": "不一定是更少，目標是有目的地使用，而不是習慣性地使用。"
           },
           {
             "speaker": "b",
@@ -324,13 +258,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Time limits are useful but they are not the core of it. The core is noticing the gap between what you want to do and what you end up doing.",
-            "zh": "時間限制有用，但那不是核心。核心是注意到你想做的事和你最後實際做的事之間的落差。",
-            "vocab": [
-              {
-                "word": "end up doing",
-                "def": "最後實際做了"
-              }
-            ]
+            "zh": "時間限制有用，但那不是核心。核心是注意到你想做的事和你最後實際做的事之間的落差。"
           },
           {
             "speaker": "b",
@@ -411,13 +339,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is called phantom vibration. It is a real thing and it usually means your nervous system has been trained to expect interruptions.",
-            "zh": "那叫做幻震，是真實存在的，通常代表你的神經系統已經被訓練成預期隨時會有打擾。",
-            "vocab": [
-              {
-                "word": "phantom vibration",
-                "def": "幻震"
-              }
-            ]
+            "zh": "那叫做幻震，是真實存在的，通常代表你的神經系統已經被訓練成預期隨時會有打擾。"
           },
           {
             "speaker": "b",
@@ -429,13 +351,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a sign of how deeply the notification loop has become part of the background of your day.",
-            "zh": "這是一個訊號，代表通知循環已經多深地融入你一天的背景中了。",
-            "vocab": [
-              {
-                "word": "notification",
-                "def": "通知"
-              }
-            ]
+            "zh": "這是一個訊號，代表通知循環已經多深地融入你一天的背景中了。"
           },
           {
             "speaker": "b",
@@ -447,13 +363,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And that background noise, even imagined, breaks concentration. It costs you something even when you are not consciously aware of it.",
-            "zh": "對。那種背景噪音，就算是幻想出來的，也會打斷注意力。即使你沒有刻意意識到，它仍在消耗你的東西。",
-            "vocab": [
-              {
-                "word": "concentration",
-                "def": "專注力"
-              }
-            ]
+            "zh": "對。那種背景噪音，就算是幻想出來的，也會打斷注意力。即使你沒有刻意意識到，它仍在消耗你的東西。"
           },
           {
             "speaker": "b",
@@ -482,13 +392,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The research on this is pretty clear. What people call multitasking is usually fast switching between tasks, and every switch has a cost.",
-            "zh": "這方面的研究很明確。人們說的多工，通常是在不同任務之間快速切換，而每次切換都有代價。",
-            "vocab": [
-              {
-                "word": "multitasking",
-                "def": "多工處理"
-              }
-            ]
+            "zh": "這方面的研究很明確。人們說的多工，通常是在不同任務之間快速切換，而每次切換都有代價。"
           },
           {
             "speaker": "b",
@@ -500,13 +404,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You lose a bit of context each time. You have to re-enter the task, re-find your place, and re-warm up the thinking. It adds up across a whole day.",
-            "zh": "你每次都會流失一點脈絡。你必須重新進入任務、重新找到你在哪裡、重新讓思考暖機。累積一整天下來，很可觀的。",
-            "vocab": [
-              {
-                "word": "context",
-                "def": "情境；脈絡"
-              }
-            ]
+            "zh": "你每次都會流失一點脈絡。你必須重新進入任務、重新找到你在哪裡、重新讓思考暖機。累積一整天下來，很可觀的。"
           },
           {
             "speaker": "b",
@@ -518,13 +416,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly how a lot of office workers describe their days. Busy but not particularly productive.",
-            "zh": "這正是很多上班族描述他們的一天的方式，很忙，但沒什麼特別的成效。",
-            "vocab": [
-              {
-                "word": "productive",
-                "def": "有成效的"
-              }
-            ]
+            "zh": "這正是很多上班族描述他們的一天的方式，很忙，但沒什麼特別的成效。"
           },
           {
             "speaker": "b",
@@ -553,13 +445,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One simple version is, \"I need a block of uninterrupted time to get this done.\" That is clear and professional.",
-            "zh": "你可以說「我需要一段不受打擾的時間來完成這件事。」這很清楚也很專業。",
-            "vocab": [
-              {
-                "word": "uninterrupted",
-                "def": "不受打擾的"
-              }
-            ]
+            "zh": "你可以說「我需要一段不受打擾的時間來完成這件事。」這很清楚也很專業。"
           },
           {
             "speaker": "b",
@@ -571,13 +457,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it like this: \"I am in deep work mode right now. Can I come back to you in an hour?\" Most people respect that.",
-            "zh": "你可以說「我現在在深度工作模式，我可以一個小時後回來跟你說嗎？」大部分人都會尊重這樣的說法。",
-            "vocab": [
-              {
-                "word": "deep work",
-                "def": "深度工作"
-              }
-            ]
+            "zh": "你可以說「我現在在深度工作模式，我可以一個小時後回來跟你說嗎？」大部分人都會尊重這樣的說法。"
           },
           {
             "speaker": "b",
@@ -606,7 +486,7 @@ export const WEEK_35: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Smarter Approach to Notifications",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
@@ -618,13 +498,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Batch your checks. Instead of responding to every notification as it arrives, pick two or three times a day to check messages and reply.",
-            "zh": "把查看集中在一起。不要每來一個通知就回，而是每天選兩三個時間統一查看和回覆訊息。",
-            "vocab": [
-              {
-                "word": "batch",
-                "def": "集中處理"
-              }
-            ]
+            "zh": "把查看集中在一起。不要每來一個通知就回，而是每天選兩三個時間統一查看和回覆訊息。"
           },
           {
             "speaker": "b",
@@ -642,13 +516,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I never thought about it that way. The phone call is the real urgency signal.",
-            "zh": "我從來沒這樣想過，打電話才是真正的緊急訊號。",
-            "vocab": [
-              {
-                "word": "urgency",
-                "def": "急迫感；很想立刻做成的壓力"
-              }
-            ]
+            "zh": "我從來沒這樣想過，打電話才是真正的緊急訊號。"
           },
           {
             "speaker": "a",
@@ -667,12 +535,7 @@ export const WEEK_35: Episode[] = [
             "speakerName": "Mira",
             "en": "Very likely. Replying from a focused mind usually produces better answers than replying mid-interruption.",
             "zh": "很可能。從專注的狀態回覆通常比在被打斷中間回覆產生更好的答案。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Attention as a Resource",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -683,13 +546,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is a useful frame. Attention is finite and it gets spent whether you plan it or not.",
-            "zh": "那是個很有用的框架。注意力是有限的，而且無論你有沒有計劃，它都在被消耗。",
-            "vocab": [
-              {
-                "word": "finite",
-                "def": "有限的"
-              }
-            ]
+            "zh": "那是個很有用的框架。注意力是有限的，而且無論你有沒有計劃，它都在被消耗。"
           },
           {
             "speaker": "b",
@@ -713,13 +570,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is exactly it. And once you notice where the attention is leaking, the choices become much more obvious.",
-            "zh": "就是這樣。而一旦你注意到注意力從哪裡流失，選擇就會變得清楚很多。",
-            "vocab": [
-              {
-                "word": "leaking",
-                "def": "漏水的；漏氣的"
-              }
-            ]
+            "zh": "就是這樣。而一旦你注意到注意力從哪裡流失，選擇就會變得清楚很多。"
           },
           {
             "speaker": "b",
@@ -800,13 +651,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the thing about convenience. Each decision feels isolated, so you never really add them up until the credit card bill arrives.",
-            "zh": "這就是方便的問題所在。每個決定感覺都是獨立的，所以你從來沒有真正把它們加總，直到信用卡帳單到了。",
-            "vocab": [
-              {
-                "word": "isolated",
-                "def": "孤立的、獨立的"
-              }
-            ]
+            "zh": "這就是方便的問題所在。每個決定感覺都是獨立的，所以你從來沒有真正把它們加總，直到信用卡帳單到了。"
           },
           {
             "speaker": "b",
@@ -818,18 +663,12 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the app is designed to make the total feel reasonable. The fee appears late and small, and by then you have already committed emotionally.",
-            "zh": "因為那個 app 被設計成讓總額感覺合理。費用出現得很晚而且看起來很小，而那時你在情感上已經做出承諾了。",
-            "vocab": [
-              {
-                "word": "committed",
-                "def": "做出承諾的"
-              }
-            ]
+            "zh": "因為那個 app 被設計成讓總額感覺合理。費用出現得很晚而且看起來很小，而那時你在情感上已經做出承諾了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Emotionally committed to a bowl of noodles. That is a new way to think about it.",
+            "en": "Emotionally committed to a bowl of noodles. That reframes about it.",
             "zh": "在情感上承諾了一碗麵，這是個新的想法。"
           },
           {
@@ -848,13 +687,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the right question. Convenience tools are not the problem. Using them on autopilot is.",
-            "zh": "這是對的問題。方便工具本身不是問題，用自動駕駛模式使用它們才是。",
-            "vocab": [
-              {
-                "word": "autopilot",
-                "def": "自動駕駛模式"
-              }
-            ]
+            "zh": "這是對的問題。方便工具本身不是問題，用自動駕駛模式使用它們才是。"
           }
         ]
       },
@@ -871,13 +704,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. When the inconvenient option starts to feel impossible rather than just harder. That is usually when you have crossed into dependency.",
-            "zh": "有，當那個不方便的選項開始感覺不可能，而不只是更難時，通常那時候你已經越過了依賴的界線。",
-            "vocab": [
-              {
-                "word": "dependency",
-                "def": "依賴狀態"
-              }
-            ]
+            "zh": "有，當那個不方便的選項開始感覺不可能，而不只是更難時，通常那時候你已經越過了依賴的界線。"
           },
           {
             "speaker": "b",
@@ -889,13 +716,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Skills also fade when they stop being used regularly. That includes cooking, navigation, and even remembering phone numbers.",
-            "zh": "技能在停止定期使用時也會退步，包括烹飪、導航，甚至記電話號碼。",
-            "vocab": [
-              {
-                "word": "navigation",
-                "def": "導航；找方向"
-              }
-            ]
+            "zh": "技能在停止定期使用時也會退步，包括烹飪、導航，甚至記電話號碼。"
           },
           {
             "speaker": "b",
@@ -936,13 +757,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural way is to say, \"I have outsourced a lot of daily tasks to apps.\" That one phrase covers cooking, planning, navigation, all of it.",
-            "zh": "一個自然的方式是說「我把很多日常工作外包給 app 了。」這一個說法就涵蓋了烹飪、規劃、導航，全部都有。",
-            "vocab": [
-              {
-                "word": "outsource",
-                "def": "外包"
-              }
-            ]
+            "zh": "一個自然的方式是說「我把很多日常工作外包給 app 了。」這一個說法就涵蓋了烹飪、規劃、導航，全部都有。"
           },
           {
             "speaker": "b",
@@ -954,13 +769,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want to express that you are trying to change, say, \"I am trying to rely less on apps for things I can actually do myself.\"",
-            "zh": "如果你想表達你在試著改變，可以說「我試著減少對 app 的依賴，對於那些我自己其實做得到的事情。」",
-            "vocab": [
-              {
-                "word": "rely less",
-                "def": "少依賴一點"
-              }
-            ]
+            "zh": "如果你想表達你在試著改變，可以說「我試著減少對 app 的依賴，對於那些我自己其實做得到的事情。」"
           },
           {
             "speaker": "b",
@@ -1001,13 +810,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pick one thing you normally use technology for and do it the manual way once a week. Cook once. Walk without GPS once. Write a to-do list on paper.",
-            "zh": "選一件你通常用科技來做的事，每週用手動的方式做一次。煮飯一次、走路不用 GPS 一次、用紙寫待辦清單。",
-            "vocab": [
-              {
-                "word": "manual",
-                "def": "手動的"
-              }
-            ]
+            "zh": "選一件你通常用科技來做的事，每週用手動的方式做一次。煮飯一次、走路不用 GPS 一次、用紙寫待辦清單。"
           },
           {
             "speaker": "b",
@@ -1019,13 +822,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does two things. First, it keeps the skill from fading. Second, it reminds you that the app is a choice, not a necessity.",
-            "zh": "它做了兩件事。第一，它防止技能退步。第二，它提醒你那個 app 是一個選擇，不是必需品。",
-            "vocab": [
-              {
-                "word": "necessity",
-                "def": "必需品"
-              }
-            ]
+            "zh": "它做了兩件事。第一，它防止技能退步。第二，它提醒你那個 app 是一個選擇，不是必需品。"
           },
           {
             "speaker": "b",
@@ -1066,13 +863,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That question is worth sitting with. Not \"what can technology do?\" but \"what do I want it to do for my specific life?\"",
-            "zh": "那個問題值得細想，不是「科技能做什麼？」而是「我想讓它為我的具體生活做什麼？」",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "那個問題值得細想"
-              }
-            ]
+            "zh": "那個問題值得細想，不是「科技能做什麼？」而是「我想讓它為我的具體生活做什麼？」"
           },
           {
             "speaker": "b",
@@ -1096,13 +887,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.",
-            "zh": "沒錯。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。",
-            "vocab": [
-              {
-                "word": "drained",
-                "def": "被消耗的、精疲力竭的"
-              }
-            ]
+            "zh": "沒錯。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。"
           },
           {
             "speaker": "b",
@@ -1183,13 +968,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is impressive technology. But I am always curious about what happens when the system goes down. Or what happens when you realize the house is optimized for the average version of your day, not the actual one.",
-            "zh": "那是令人印象深刻的科技。但我總是好奇當系統當機時會發生什麼，或者當你意識到那個家是為你平均的一天優化的，而不是你實際的那一天。",
-            "vocab": [
-              {
-                "word": "optimized",
-                "def": "優化的"
-              }
-            ]
+            "zh": "那是令人印象深刻的科技。但我總是好奇當系統當機時會發生什麼，或者當你意識到那個家是為你平均的一天優化的，而不是你實際的那一天。"
           },
           {
             "speaker": "b",
@@ -1201,13 +980,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The system learns your patterns and automates around them. But some days you want the lights bright because you are tired, not dim because it is eight pm.",
-            "zh": "那個系統學習你的模式並圍繞它們自動化。但有些天你想要燈光明亮是因為你很累，而不是暗淡是因為現在是晚上八點。",
-            "vocab": [
-              {
-                "word": "automate",
-                "def": "自動化"
-              }
-            ]
+            "zh": "那個系統學習你的模式並圍繞它們自動化。但有些天你想要燈光明亮是因為你很累，而不是暗淡是因為現在是晚上八點。"
           },
           {
             "speaker": "b",
@@ -1219,13 +992,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is subtle, but yes. When your environment makes decisions for you, the feeling of agency can quietly shrink.",
-            "zh": "這很微妙，但是的。當你的環境為你做決定時，主導感可能會悄悄縮小。",
-            "vocab": [
-              {
-                "word": "agency",
-                "def": "主導感、自主性"
-              }
-            ]
+            "zh": "這很微妙，但是的。當你的環境為你做決定時，主導感可能會悄悄縮小。"
           },
           {
             "speaker": "b",
@@ -1254,13 +1021,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Sleeping with your phone by your bed is one. Your last act before sleep and your first act after waking are both shaped by the screen.",
-            "zh": "絕對有，把手機放在床邊睡覺就是一個。你睡前最後一件事和醒來後第一件事，都被螢幕塑造了。",
-            "vocab": [
-              {
-                "word": "screen",
-                "def": "把手機放在床邊睡覺就是一個"
-              }
-            ]
+            "zh": "絕對有，把手機放在床邊睡覺就是一個。你睡前最後一件事和醒來後第一件事，都被螢幕塑造了。"
           },
           {
             "speaker": "b",
@@ -1272,13 +1033,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Being reachable around the clock is a habit too. And it changes the quality of your rest even if you never actually pick the phone up at night.",
-            "zh": "全天候保持聯繫得上也是一個習慣，而且即使你晚上從來沒有真正拿起手機，它也會改變你休息的品質。",
-            "vocab": [
-              {
-                "word": "quality",
-                "def": "休息品質"
-              }
-            ]
+            "zh": "全天候保持聯繫得上也是一個習慣，而且即使你晚上從來沒有真正拿起手機，它也會改變你休息的品質。"
           },
           {
             "speaker": "b",
@@ -1319,13 +1074,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want a clear sentence, try \"I have a pretty simple setup at home. Just my laptop and my phone, no smart devices yet.\" That is honest and easy.",
-            "zh": "你可以說「我家的設置很簡單，就只有筆電和手機，還沒有智慧裝置。」這很誠實而且很容易說。",
-            "vocab": [
-              {
-                "word": "setup",
-                "def": "設置"
-              }
-            ]
+            "zh": "你可以說「我家的設置很簡單，就只有筆電和手機，還沒有智慧裝置。」這很誠實而且很容易說。"
           },
           {
             "speaker": "b",
@@ -1337,13 +1086,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say something like, \"I have most things connected. My lights, my speakers, even my thermostat. It is convenient but it took some getting used to.\"",
-            "zh": "可以說「我幾乎所有東西都連起來了，燈光、喇叭、甚至恆溫器，很方便但花了一點時間適應。」",
-            "vocab": [
-              {
-                "word": "thermostat",
-                "def": "恆溫器"
-              }
-            ]
+            "zh": "可以說「我幾乎所有東西都連起來了，燈光、喇叭、甚至恆溫器，很方便但花了一點時間適應。」"
           },
           {
             "speaker": "b",
@@ -1384,13 +1127,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Stop checking your phone for the first thirty minutes after you wake up. That window sets the tone for your morning, and most of what arrives in that window can wait.",
-            "zh": "醒來後的前三十分鐘不要看手機。那個窗口為你的早晨定調，而且大多數在那個窗口到達的事情都可以等。",
-            "vocab": [
-              {
-                "word": "sets the tone",
-                "def": "定調"
-              }
-            ]
+            "zh": "醒來後的前三十分鐘不要看手機。那個窗口為你的早晨定調，而且大多數在那個窗口到達的事情都可以等。"
           },
           {
             "speaker": "b",
@@ -1402,13 +1139,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can feel that way. But responding before you have had time to think often means reacting rather than deciding.",
-            "zh": "可能感覺是這樣，但在你有時間思考之前就回應，通常意味著是在反應而不是在決定。",
-            "vocab": [
-              {
-                "word": "reacting",
-                "def": "反應式的"
-              }
-            ]
+            "zh": "可能感覺是這樣，但在你有時間思考之前就回應，通常意味著是在反應而不是在決定。"
           },
           {
             "speaker": "b",
@@ -1449,13 +1180,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It looks like you still have spaces and times in your home that are not managed by a device. Meals. Bedtime. At least one room.",
-            "zh": "看起來像是你的家裡仍然有不被裝置管理的空間和時間，吃飯、就寢、至少一個房間。",
-            "vocab": [
-              {
-                "word": "managed",
-                "def": "被管理的"
-              }
-            ]
+            "zh": "看起來像是你的家裡仍然有不被裝置管理的空間和時間，吃飯、就寢、至少一個房間。"
           },
           {
             "speaker": "b",
@@ -1467,13 +1192,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That tension you feel is actually a useful signal. It tells you that you know what you are missing, even if you have not made space for it yet.",
-            "zh": "你感受到的那種張力其實是一個有用的訊號，它告訴你你知道你錯過了什麼，即使你還沒有為它騰出空間。",
-            "vocab": [
-              {
-                "word": "tension",
-                "def": "張力、拉扯"
-              }
-            ]
+            "zh": "你感受到的那種張力其實是一個有用的訊號，它告訴你你知道你錯過了什麼，即使你還沒有為它騰出空間。"
           },
           {
             "speaker": "b",
@@ -1566,13 +1285,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is more common than people realize. It usually hits when the volume of input finally exceeds your capacity to process it.",
-            "zh": "那種感覺比人們意識到的更普遍，通常是在輸入量終於超過你的處理能力時才發作的。",
-            "vocab": [
-              {
-                "word": "input",
-                "def": "輸入"
-              }
-            ]
+            "zh": "那種感覺比人們意識到的更普遍，通常是在輸入量終於超過你的處理能力時才發作的。"
           },
           {
             "speaker": "b",
@@ -1584,13 +1297,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people manage it privately. The ones who look like they are handling it well often have the same overwhelm happening on the inside.",
-            "zh": "大多數人是私下應付的，那些看起來處理得很好的人，內心常常也有同樣的不堪重負。",
-            "vocab": [
-              {
-                "word": "overwhelm",
-                "def": "不堪重負"
-              }
-            ]
+            "zh": "大多數人是私下應付的，那些看起來處理得很好的人，內心常常也有同樣的不堪重負。"
           },
           {
             "speaker": "b",
@@ -1602,13 +1309,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What you felt is not a failure. It is feedback. It means the current setup is costing you more than it is giving you.",
-            "zh": "你感受到的不是失敗，而是回饋，它代表目前的設置消耗你的比它給你的更多。",
-            "vocab": [
-              {
-                "word": "feedback",
-                "def": "反饋；意見"
-              }
-            ]
+            "zh": "你感受到的不是失敗，而是回饋，它代表目前的設置消耗你的比它給你的更多。"
           },
           {
             "speaker": "b",
@@ -1637,13 +1338,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it builds over time. Each new platform you join, each new notification you enable, each new chat group you enter adds a small amount to the total.",
-            "zh": "因為它隨著時間累積，你加入的每個新平台、你開啟的每個新通知、你進入的每個新聊天群組，都在總量上加了一點點。",
-            "vocab": [
-              {
-                "word": "platform",
-                "def": "平台"
-              }
-            ]
+            "zh": "因為它隨著時間累積，你加入的每個新平台、你開啟的每個新通知、你進入的每個新聊天群組，都在總量上加了一點點。"
           },
           {
             "speaker": "b",
@@ -1655,13 +1350,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And because each individual addition seemed reasonable, none of them felt like the obvious cause.",
-            "zh": "沒錯，而且因為每個單獨的增加看起來都合理，沒有一個感覺像是明顯的原因。",
-            "vocab": [
-              {
-                "word": "addition seemed",
-                "def": "而且因為每個單獨的增加看起來都合理"
-              }
-            ]
+            "zh": "沒錯，而且因為每個單獨的增加看起來都合理，沒有一個感覺像是明顯的原因。"
           },
           {
             "speaker": "b",
@@ -1702,13 +1391,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A simple and honest option is, \"I am finding it hard to keep up with everything right now.\" That covers it without sounding dramatic.",
-            "zh": "一個簡單誠實的選項是「我現在發現很難跟上所有事情。」這涵蓋了一切，但聽起來不誇張。",
-            "vocab": [
-              {
-                "word": "keep up with",
-                "def": "跟上"
-              }
-            ]
+            "zh": "一個簡單誠實的選項是「我現在發現很難跟上所有事情。」這涵蓋了一切，但聽起來不誇張。"
           },
           {
             "speaker": "b",
@@ -1720,13 +1403,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would probably say, \"I am trying to reduce the number of channels I am in. Could you share updates with me directly instead?\" That is polite and clear.",
-            "zh": "你可以說「我在試著減少我所在的頻道數量，你可以直接和我分享更新嗎？」這很有禮貌也很清楚。",
-            "vocab": [
-              {
-                "word": "channels",
-                "def": "溝通管道；頻道"
-              }
-            ]
+            "zh": "你可以說「我在試著減少我所在的頻道數量，你可以直接和我分享更新嗎？」這很有禮貌也很清楚。"
           },
           {
             "speaker": "b",
@@ -1767,13 +1444,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with a quick audit. Write down every platform, app, and group chat you are currently in. Just seeing it on paper is often enough to find the obvious cuts.",
-            "zh": "從一個快速審計開始，寫下你目前在的每個平台、app 和群聊，光是在紙上看到它，通常就足以找到明顯應該刪掉的。",
-            "vocab": [
-              {
-                "word": "audit",
-                "def": "審計、盤點"
-              }
-            ]
+            "zh": "從一個快速審計開始，寫下你目前在的每個平台、app 和群聊，光是在紙上看到它，通常就足以找到明顯應該刪掉的。"
           },
           {
             "speaker": "b",
@@ -1785,13 +1456,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people are. Then ask for each one: when did I last actively use this? If the answer is more than two weeks ago, it is probably adding noise, not value.",
-            "zh": "大多數人都會。然後對每一個問：我上次主動使用這個是什麼時候？如果答案是兩週前以上，它很可能是在增加噪音，而不是價值。",
-            "vocab": [
-              {
-                "word": "actively",
-                "def": "主動地"
-              }
-            ]
+            "zh": "大多數人都會。然後對每一個問：我上次主動使用這個是什麼時候？如果答案是兩週前以上，它很可能是在增加噪音，而不是價值。"
           },
           {
             "speaker": "b",
@@ -1832,13 +1497,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sign is that you can close the laptop at the end of the day without the urge to keep checking. If putting it away feels complete, that is usually a good indicator.",
-            "zh": "一個跡象是你一天結束時可以關上筆電，沒有繼續查看的衝動。如果把它放下感覺完整，那通常是一個好的指標。",
-            "vocab": [
-              {
-                "word": "urge",
-                "def": "衝動"
-              }
-            ]
+            "zh": "一個跡象是你一天結束時可以關上筆電，沒有繼續查看的衝動。如果把它放下感覺完整，那通常是一個好的指標。"
           },
           {
             "speaker": "b",
@@ -1850,13 +1509,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is worth paying attention to. It might mean the work genuinely is not done. Or it might mean the boundary between work and not-work has blurred.",
-            "zh": "那種感覺值得注意，它可能意味著工作真的還沒完成，或者可能意味著工作和非工作之間的界限已經模糊了。",
-            "vocab": [
-              {
-                "word": "boundary",
-                "def": "界限"
-              }
-            ]
+            "zh": "那種感覺值得注意，它可能意味著工作真的還沒完成，或者可能意味著工作和非工作之間的界限已經模糊了。"
           },
           {
             "speaker": "b",
@@ -1868,13 +1521,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It makes the boundaries invisible. Everything is one device. Work, rest, entertainment, communication all in the same rectangle.",
-            "zh": "它讓界限變得看不見，一切都在一個裝置上，工作、休息、娛樂、溝通全都在同一個長方形裡。",
-            "vocab": [
-              {
-                "word": "rectangle",
-                "def": "它讓界限變得看不見"
-              }
-            ]
+            "zh": "它讓界限變得看不見，一切都在一個裝置上，工作、休息、娛樂、溝通全都在同一個長方形裡。"
           },
           {
             "speaker": "b",
@@ -1955,13 +1602,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens to almost everyone with productivity tools. The setup often feels like progress, but the actual use requires a completely different kind of commitment.",
-            "zh": "幾乎每個人都發生過這種事，設置常常感覺像是進步，但實際使用需要一種完全不同的承諾。",
-            "vocab": [
-              {
-                "word": "commitment",
-                "def": "承諾、投入"
-              }
-            ]
+            "zh": "幾乎每個人都發生過這種事，設置常常感覺像是進步，但實際使用需要一種完全不同的承諾。"
           },
           {
             "speaker": "b",
@@ -1973,13 +1614,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not even close. Downloading is just intent. Adoption means the tool has actually changed how you do something.",
-            "zh": "差遠了。下載只是意圖，採用意味著那個工具實際上改變了你做某件事的方式。",
-            "vocab": [
-              {
-                "word": "adoption",
-                "def": "採用"
-              }
-            ]
+            "zh": "差遠了。下載只是意圖，採用意味著那個工具實際上改變了你做某件事的方式。"
           },
           {
             "speaker": "b",
@@ -1991,13 +1626,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You are not alone. Most people's phones are full of apps that represent aspirations more than habits.",
-            "zh": "你不是唯一一個，大多數人的手機充滿了代表願望多於習慣的 app。",
-            "vocab": [
-              {
-                "word": "aspirations",
-                "def": "抱負、渴望"
-              }
-            ]
+            "zh": "你不是唯一一個，大多數人的手機充滿了代表願望多於習慣的 app。"
           },
           {
             "speaker": "b",
@@ -2026,13 +1655,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, definitely. There is a kind of professional anxiety around not being on the newest platform or tool. Like you might be left behind.",
-            "zh": "有，絕對有。有一種職業焦慮圍繞著沒有在最新的平台或工具上，就像你可能會被落下一樣。",
-            "vocab": [
-              {
-                "word": "anxiety",
-                "def": "焦慮"
-              }
-            ]
+            "zh": "有，絕對有。有一種職業焦慮圍繞著沒有在最新的平台或工具上，就像你可能會被落下一樣。"
           },
           {
             "speaker": "b",
@@ -2044,13 +1667,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often the case. New technology is sometimes solving a problem the previous generation of tools already solved, just in a more polished way.",
-            "zh": "這通常是這樣。新科技有時候是在解決上一代工具已經解決的問題，只是以更精緻的方式。",
-            "vocab": [
-              {
-                "word": "generation",
-                "def": "只是以更精緻的方式"
-              }
-            ]
+            "zh": "這通常是這樣。新科技有時候是在解決上一代工具已經解決的問題，只是以更精緻的方式。"
           },
           {
             "speaker": "b",
@@ -2062,13 +1679,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And switching to a new tool has a real cost in time and attention, even when the new one is genuinely better.",
-            "zh": "對，而且切換到新工具在時間和注意力上有真實的代價，即使新的確實更好。",
-            "vocab": [
-              {
-                "word": "switching",
-                "def": "切換"
-              }
-            ]
+            "zh": "對，而且切換到新工具在時間和注意力上有真實的代價，即使新的確實更好。"
           },
           {
             "speaker": "b",
@@ -2097,13 +1708,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"It might not be the newest option, but it does exactly what I need without adding complications.\" That is confident and practical.",
-            "zh": "試試「它可能不是最新的選項，但它做到我需要的，而不增加複雜性。」這很自信也很務實。",
-            "vocab": [
-              {
-                "word": "complications",
-                "def": "額外的複雜性；麻煩"
-              }
-            ]
+            "zh": "試試「它可能不是最新的選項，但它做到我需要的，而不增加複雜性。」這很自信也很務實。"
           },
           {
             "speaker": "b",
@@ -2115,13 +1720,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One option would be, \"I looked at it and decided the learning curve did not seem worth the benefit for what I am doing right now.\"",
-            "zh": "你可以說「我看過了，決定那個學習曲線在我目前做的事情上看起來不值得那個效益。」",
-            "vocab": [
-              {
-                "word": "learning curve",
-                "def": "學習曲線"
-              }
-            ]
+            "zh": "你可以說「我看過了，決定那個學習曲線在我目前做的事情上看起來不值得那個效益。」"
           },
           {
             "speaker": "b",
@@ -2150,7 +1749,7 @@ export const WEEK_35: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — A Framework for Deciding",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -2162,13 +1761,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask three questions. First: what specific problem will this solve? Second: does that problem cost me enough time or energy to justify learning a new tool? Third: can I try it for two weeks and then decide?",
-            "zh": "問三個問題。第一：這會解決什麼具體的問題？第二：那個問題是否消耗了足夠多的時間或精力值得學習一個新工具？第三：我可以試用兩週然後再決定嗎？",
-            "vocab": [
-              {
-                "word": "justify",
-                "def": "值得、合理化"
-              }
-            ]
+            "zh": "問三個問題。第一：這會解決什麼具體的問題？第二：那個問題是否消耗了足夠多的時間或精力值得學習一個新工具？第三：我可以試用兩週然後再決定嗎？"
           },
           {
             "speaker": "b",
@@ -2180,13 +1773,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The important part is committing to actually evaluate after two weeks, not just continuing by default.",
-            "zh": "重要的部分是承諾在兩週後真正評估，而不只是默認繼續使用。",
-            "vocab": [
-              {
-                "word": "evaluate",
-                "def": "評估"
-              }
-            ]
+            "zh": "重要的部分是承諾在兩週後真正評估，而不是預設繼續使用。"
           },
           {
             "speaker": "b",
@@ -2198,13 +1785,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is how tool stacks get bloated. Each one seemed reasonable at the time. Together they create a system that is harder than the problems it was supposed to solve.",
-            "zh": "這就是工具組合如何變得臃腫的，每一個在當時看起來都合理，加在一起創造了一個比它應該解決的問題更複雜的系統。",
-            "vocab": [
-              {
-                "word": "bloated",
-                "def": "這就是工具組合如何變得臃腫的"
-              }
-            ]
+            "zh": "這就是工具組合如何變得臃腫的，每一個在當時看起來都合理，加在一起創造了一個比它應該解決的問題更複雜的系統。"
           },
           {
             "speaker": "b",
@@ -2217,12 +1798,7 @@ export const WEEK_35: Episode[] = [
             "speakerName": "Mira",
             "en": "Almost always. Simplicity is underrated in technology, partly because it is less exciting to talk about.",
             "zh": "幾乎永遠是的，簡單在科技上被低估了，部分原因是它不那麼令人興奮去談論。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Your Relationship With Technology Is Personal",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -2245,13 +1821,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You are right. And most people have never consciously made those choices. They just accumulated their digital life along the way.",
-            "zh": "你說得對，而且大多數人從來沒有有意識地做過那些選擇，他們只是在路上累積了他們的數位生活。",
-            "vocab": [
-              {
-                "word": "accumulated",
-                "def": "積累的"
-              }
-            ]
+            "zh": "你說得對，而且大多數人從來沒有有意識地做過那些選擇，他們只是在路上累積了他們的數位生活。"
           },
           {
             "speaker": "b",
@@ -2263,13 +1833,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And using something that feels like yours is a completely different experience from using something that just landed in your life by default.",
-            "zh": "而使用感覺像是你的東西，和使用一個只是默認就進入你生活的東西，是完全不同的體驗。",
-            "vocab": [
-              {
-                "word": "completely different",
-                "def": "深思熟慮的"
-              }
-            ]
+            "zh": "而使用一個感覺像是由你選擇的東西，和使用一個只是預設就進入你生活的東西，是完全不同的體驗。"
           },
           {
             "speaker": "b",
@@ -2350,13 +1914,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The honest first step is admitting where you actually are, not where you think you should be. Most people underestimate how much time they really spend on screens.",
-            "zh": "誠實的第一步是承認你實際上在哪裡，而不是你認為你應該在哪裡。大多數人低估了他們真正花在螢幕上的時間。",
-            "vocab": [
-              {
-                "word": "underestimate",
-                "def": "低估"
-              }
-            ]
+            "zh": "誠實的第一步是承認你實際上在哪裡，而不是你認為你應該在哪裡。大多數人低估了他們真正花在螢幕上的時間。"
           },
           {
             "speaker": "b",
@@ -2368,13 +1926,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Looking at the screen time report on your phone is often the first genuinely useful thing a person can do.",
-            "zh": "對，查看手機上的螢幕使用時間報告，通常是一個人可以做的第一件真正有用的事。",
-            "vocab": [
-              {
-                "word": "screen time report",
-                "def": "螢幕使用時間報告"
-              }
-            ]
+            "zh": "對，查看手機上的螢幕使用時間報告，通常是一個人可以做的第一件真正有用的事。"
           },
           {
             "speaker": "b",
@@ -2386,13 +1938,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is valuable. It means the data landed. The key is using it as a starting point rather than a reason to feel bad about yourself.",
-            "zh": "那種不舒服是有價值的，它意味著數據落地了。關鍵是把它作為起點，而不是讓自己感覺不好的理由。",
-            "vocab": [
-              {
-                "word": "discomfort",
-                "def": "不舒服"
-              }
-            ]
+            "zh": "那種不舒服是有價值的，它意味著資料變得具體了。關鍵是把它當成起點，而不是讓自己感覺糟糕的理由。"
           },
           {
             "speaker": "b",
@@ -2404,7 +1950,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
-            "zh": "沒錯，關於你行為的數據不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。"
+            "zh": "沒錯，關於你行為的資料不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。"
           }
         ]
       },
@@ -2421,13 +1967,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In a real week it might look like: phone in another room during dinner every night, no screens for the first thirty minutes of the morning, and a specific time when you stop checking messages.",
-            "zh": "在真實的一週中，它可能像是：每天晚餐時把手機放在另一個房間，早上前三十分鐘不看螢幕，以及一個你停止查看訊息的特定時間。",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "早上前三十分鐘不看螢幕"
-              }
-            ]
+            "zh": "在真實的一週中，它可能像是：每天晚餐時把手機放在另一個房間，早上前三十分鐘不看螢幕，以及一個你停止查看訊息的特定時間。"
           },
           {
             "speaker": "b",
@@ -2439,13 +1979,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Healthy technology use is not about never using devices. It is about having clear beginnings and endings to the use.",
-            "zh": "沒錯，健康的科技使用不是關於從不使用裝置，而是關於使用有清楚的開始和結束。",
-            "vocab": [
-              {
-                "word": "Healthy technology",
-                "def": "邊界、界限"
-              }
-            ]
+            "zh": "沒錯，健康的科技使用不是關於從不使用裝置，而是關於使用有清楚的開始和結束。"
           },
           {
             "speaker": "b",
@@ -2486,13 +2020,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A more everyday version is, \"I have been trying to be more intentional about how I use my phone. It is a work in progress.\" That is honest and relatable.",
-            "zh": "你可以說「我一直在試著對如何使用手機更有意識，這是個進行中的工作。」這很誠實也很有共鳴。",
-            "vocab": [
-              {
-                "word": "work in progress",
-                "def": "進行中的工作"
-              }
-            ]
+            "zh": "你可以說「我一直在試著對如何使用手機更有意識，這是個進行中的工作。」這很誠實也很有共鳴。"
           },
           {
             "speaker": "b",
@@ -2504,13 +2032,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is why it works. People trust someone who is still in the middle of figuring something out more than someone who claims to have all the answers.",
-            "zh": "這就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。",
-            "vocab": [
-              {
-                "word": "trust",
-                "def": "有共鳴的"
-              }
-            ]
+            "zh": "這就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。"
           },
           {
             "speaker": "b",
@@ -2551,13 +2073,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Create one daily moment of intentional disconnection. Five minutes where the phone is in another room and you are doing something that does not require a screen.",
-            "zh": "創造每天一個刻意斷線的時刻，五分鐘手機放在另一個房間，你在做不需要螢幕的事情。",
-            "vocab": [
-              {
-                "word": "disconnection",
-                "def": "斷線"
-              }
-            ]
+            "zh": "創造每天一個刻意斷線的時刻，五分鐘手機放在另一個房間，你在做不需要螢幕的事情。"
           },
           {
             "speaker": "b",
@@ -2569,13 +2085,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And the five minutes is not just about the time. It is about the experience of feeling okay without the screen. That feeling is what you are actually trying to build.",
-            "zh": "而且那五分鐘不只是關於時間，而是關於體驗沒有螢幕也沒關係的感覺。那種感覺才是你真正試著建立的。",
-            "vocab": [
-              {
-                "word": "five minutes",
-                "def": "遠端團隊"
-              }
-            ]
+            "zh": "而且那五分鐘不只是關於時間，而是關於體驗沒有螢幕也沒關係的感覺。那種感覺才是你真正試著建立的。"
           },
           {
             "speaker": "b",
@@ -2616,13 +2126,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That technology is not the enemy, but it is also not neutral. Every tool has a design intention, and knowing that design helps you use the tool on your terms rather than theirs.",
-            "zh": "科技不是敵人，但它也不是中立的。每個工具都有一個設計意圖，知道那個設計有助於你按照你的條件使用工具，而不是他們的。",
-            "vocab": [
-              {
-                "word": "design intention",
-                "def": "設計意圖"
-              }
-            ]
+            "zh": "科技不是敵人，但它也不是中立的。每個工具都有一個設計意圖，知道那個設計有助於你按照你的條件使用工具，而不是他們的。"
           },
           {
             "speaker": "b",
@@ -2634,13 +2138,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Willpower is useful for short bursts. Awareness changes how you see the situation and that shift is what actually lasts.",
-            "zh": "意志力在短期衝刺中很有用，覺察改變了你看待情況的方式，而那種轉變才是真正持久的。",
-            "vocab": [
-              {
-                "word": "awareness",
-                "def": "覺察"
-              }
-            ]
+            "zh": "意志力在短期衝刺中很有用，覺察改變了你看待情況的方式，而那種轉變才是真正持久的。"
           },
           {
             "speaker": "b",
@@ -2652,13 +2150,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is it. Not optimal. Not maximally productive. Just genuinely yours, with technology as the tool, not the landlord.",
-            "zh": "就是這樣，不是最優的，不是最有生產力的，只是真正是你的，科技是工具，而不是房東。",
-            "vocab": [
-              {
-                "word": "optimal",
-                "def": "不是最有生產力的"
-              }
-            ]
+            "zh": "就是這樣，不是最優的，不是最有生產力的，只是真正是你的，科技是工具，而不是房東。"
           },
           {
             "speaker": "b",
@@ -2669,7 +2161,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what it feels like when you have lost the agency. And getting it back does not require a dramatic overhaul. Just a few clear decisions repeated consistently.",
+            "en": "That's what it feels like when you have lost the agency. And getting it back does not require a dramatic overhaul. Just a few clear decisions repeated consistently.",
             "zh": "那就是當你失去主導感時的感覺，而把它拿回來不需要戲劇性的大整修，只需要幾個清楚的決定持續地重複。"
           }
         ]

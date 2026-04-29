@@ -22,13 +22,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is often how sustainability becomes real. It stops being a slogan and starts becoming visible in ordinary material form.",
-            "zh": "可持續這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。",
-            "vocab": [
-              {
-                "word": "sustainability",
-                "def": "可持續性"
-              }
-            ]
+            "zh": "可持續這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Resource use is often easiest to understand when waste becomes impossible to ignore.",
-            "zh": "完全沒錯。資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。",
-            "vocab": [
-              {
-                "word": "resource use",
-                "def": "資源使用這件事"
-              }
-            ]
+            "zh": "完全沒錯。資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the ecological cost is often delayed, while convenience gives its reward immediately.",
-            "zh": "因為生態成本常常是延後出現的，但方便帶來的回報卻是立刻的。",
-            "vocab": [
-              {
-                "word": "ecological cost",
-                "def": "某種方便或消費背後"
-              }
-            ]
+            "zh": "因為生態成本常常是延後出現的，但方便帶來的回報卻是立刻的。"
           },
           {
             "speaker": "b",
@@ -105,13 +87,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
-            "zh": "完全沒錯。長期思考是在要求人去在乎那些當下感受不到的後果。",
-            "vocab": [
-              {
-                "word": "long-term thinking",
-                "def": "不只看眼前方便"
-              }
-            ]
+            "zh": "完全沒錯。長期思考是在要求人去在乎那些當下感受不到的後果。"
           },
           {
             "speaker": "b",
@@ -151,8 +127,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I am trying to make everyday choices that create less unnecessary waste.'",
-            "zh": "你可以說：「I am trying to make everyday choices that create less unnecessary waste.」"
+            "en": "A useful version of that is, 'I am trying to make everyday choices that create less unnecessary waste.'",
+            "zh": "這裡很自然的說法是：「I am trying to make everyday choices that create less unnecessary waste.」"
           },
           {
             "speaker": "b",
@@ -164,13 +140,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is 'I care more now about my carbon footprint than I used to.'",
-            "zh": "另一句也很好用：「I care more now about my carbon footprint than I used to.」",
-            "vocab": [
-              {
-                "word": "carbon footprint",
-                "def": "一個人生活方式累積出來的碳排放量和氣候影響"
-              }
-            ]
+            "zh": "另一句也很好用：「I care more now about my carbon footprint than I used to.」"
           },
           {
             "speaker": "b",
@@ -182,13 +152,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A natural line when you want something simpler is 'I do not want my convenience to become someone else's future problem.'",
-            "zh": "如果你想講得更簡單，也可以說：「I do not want my convenience to become someone else's future problem.」",
-            "vocab": [
-              {
-                "word": "convenience",
-                "def": "便利"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I do not want my convenience to become someone else's future problem.」"
           },
           {
             "speaker": "b",
@@ -229,13 +193,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A low-waste habit works because it becomes ordinary enough to repeat.",
-            "zh": "完全沒錯。低廢棄習慣之所以有用，就是因為它最後變得普通到可以一直重複。",
-            "vocab": [
-              {
-                "word": "low-waste habit",
-                "def": "能穩定減少一次性浪費的日常小習慣"
-              }
-            ]
+            "zh": "完全沒錯。低廢棄習慣之所以有用，就是因為它最後變得普通到可以一直重複。"
           },
           {
             "speaker": "b",
@@ -288,13 +246,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Collective responsibility matters because no one person can solve everything, but everyone helps shape the normal.",
-            "zh": "共同責任很重要，因為沒有任何一個人能解決全部，可是每個人都在一起塑造什麼叫作正常。",
-            "vocab": [
-              {
-                "word": "collective responsibility",
-                "def": "不是把責任丟給單一個人"
-              }
-            ]
+            "zh": "共同責任很重要，因為沒有任何一個人能解決全部，可是每個人都在一起塑造什麼叫作正常。"
           },
           {
             "speaker": "b",
@@ -387,13 +339,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, climate scale is hard for the human mind because it mixes time, geography, politics, and personal guilt all at once.",
-            "zh": "對，氣候尺度對人腦來說真的很難，因為它把時間、地理、政治和個人罪惡感一次混在一起。",
-            "vocab": [
-              {
-                "word": "climate scale",
-                "def": "氣候尺度對人腦來說真的很難"
-              }
-            ]
+            "zh": "對，氣候尺度對人腦來說真的很難，因為它把時間、地理、政治和個人罪惡感一次混在一起。"
           },
           {
             "speaker": "b",
@@ -405,13 +351,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Helpless feeling grows fast when a problem is global but your body is only one body in one room.",
-            "zh": "完全沒錯。當問題是全球性的，而你的身體只是一個房間裡的一個身體時，無力感很快就會長大。",
-            "vocab": [
-              {
-                "word": "helpless feeling",
-                "def": "長大"
-              }
-            ]
+            "zh": "完全沒錯。當問題是全球性的，而你的身體只是一個房間裡的一個身體時，無力感很快就會長大。"
           },
           {
             "speaker": "b",
@@ -452,13 +392,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Definitely. A systems problem is harder to hold because it asks people to see infrastructure, policy, and culture at the same time.",
-            "zh": "絕對是。系統性問題更難承接，因為它會要求人同時去看基礎設施、政策和文化。",
-            "vocab": [
-              {
-                "word": "systems problem",
-                "def": "不是單一人做錯"
-              }
-            ]
+            "zh": "絕對是。系統性問題更難承接，因為它會要求人同時去看基礎設施、政策和文化。"
           },
           {
             "speaker": "b",
@@ -470,13 +404,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Distant consequence is part of that too, because much of the damage arrives somewhere else or later in time.",
-            "zh": "完全沒錯。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。",
-            "vocab": [
-              {
-                "word": "distant consequence",
-                "def": "而是在之後或別處才顯現"
-              }
-            ]
+            "zh": "完全沒錯。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。"
           },
           {
             "speaker": "b",
@@ -529,13 +457,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'I care about this, but I also notice how quickly news fatigue shuts me down.'",
-            "zh": "另一句也很好用：「I care about this, but I also notice how quickly news fatigue shuts me down.」",
-            "vocab": [
-              {
-                "word": "news fatigue",
-                "def": "資訊看太多後出現的麻木、疲倦和不想再接收的狀態"
-              }
-            ]
+            "zh": "另一句也很好用：「I care about this, but I also notice how quickly news fatigue shuts me down.」"
           },
           {
             "speaker": "b",
@@ -547,13 +469,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If that is the direction you want, you could say, 'The problem feels huge, so I need a smaller place to begin.'",
-            "zh": "如果你想講得更簡單，也可以說：「The problem feels huge, so I need a smaller place to begin.」",
-            "vocab": [
-              {
-                "word": "direction",
-                "def": "前進的大方向，而不是死板規定"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「The problem feels huge, so I need a smaller place to begin.」"
           },
           {
             "speaker": "b",
@@ -570,7 +486,7 @@ export const WEEK_38: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Shrinking the Scale Without Denying It",
+        "title": "Part 4 — Making the Switch in Real Conversations",
         "lines": [
           {
             "speaker": "b",
@@ -594,13 +510,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Emotional overload does not make people more useful. It usually makes them shut down or lash out.",
-            "zh": "完全沒錯。情緒過載不會讓人更有用，反而通常只會讓人關機或失控。",
-            "vocab": [
-              {
-                "word": "emotional overload",
-                "def": "情緒過載不會讓人更有用"
-              }
-            ]
+            "zh": "完全沒錯。情緒過載不會讓人更有用，反而通常只會讓人關機或失控。"
           },
           {
             "speaker": "b",
@@ -625,12 +535,7 @@ export const WEEK_38: Episode[] = [
             "speakerName": "Mira",
             "en": "And less lonely is often what keeps action alive.",
             "zh": "而沒那麼孤單，常常就是行動能活下來的原因。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — Big Problems Still Need Human Scale",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -653,13 +558,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Everyday leverage is not everything, but it is often where responsibility becomes real enough to keep.",
-            "zh": "完全沒錯。日常槓桿不是全部，但它常常是責任開始變得夠真、夠留得住的地方。",
-            "vocab": [
-              {
-                "word": "everyday leverage",
-                "def": "夠真、夠留得住的地方"
-              }
-            ]
+            "zh": "完全沒錯。日常槓桿不是全部，但它常常是責任開始變得夠真、夠留得住的地方。"
           },
           {
             "speaker": "b",
@@ -682,7 +581,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we can end here.",
+            "en": "We can end here.",
             "zh": "那我們就停在這裡。"
           }
         ]
@@ -752,13 +651,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is true because daily choices rarely look dramatic, even when their accumulated effect is huge.",
-            "zh": "這是真的，因為日常選擇看起來很少戲劇化，即使它們累積起來的效果其實很大。",
-            "vocab": [
-              {
-                "word": "accumulated effect",
-                "def": "慢慢形成的整體影響"
-              }
-            ]
+            "zh": "這是真的，因為日常選擇看起來很少戲劇化，即使它們累積起來的效果其實很大。"
           },
           {
             "speaker": "b",
@@ -770,13 +663,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Consumption pattern matters more than isolated moments of virtue.",
-            "zh": "完全沒錯。真正重要的是消費模式，不是偶爾某一次很有道德感的表現。",
-            "vocab": [
-              {
-                "word": "consumption pattern",
-                "def": "真正重要的是消費模式"
-              }
-            ]
+            "zh": "完全沒錯。真正重要的是消費模式，不是偶爾某一次很有道德感的表現。"
           },
           {
             "speaker": "b",
@@ -829,13 +716,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A reusable habit or a repair choice keeps working after the moment passes.",
-            "zh": "完全沒錯。像重複使用的習慣或先修再換的選擇，效果都會在那個當下過後繼續存在。",
-            "vocab": [
-              {
-                "word": "reusable habit",
-                "def": "在那個當下過後繼續存在"
-              }
-            ]
+            "zh": "完全沒錯。像重複使用的習慣或先修再換的選擇，效果都會在那個當下過後繼續存在。"
           },
           {
             "speaker": "b",
@@ -847,13 +728,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and food miles matter for that reason too. They remind people that distance is part of the story.",
-            "zh": "對，而 food miles 也正是同樣的道理。它會提醒人，距離本身也是故事的一部分。",
-            "vocab": [
-              {
-                "word": "food miles",
-                "def": "而foodmiles也正是同樣的道理"
-              }
-            ]
+            "zh": "對，而 food miles 也正是同樣的道理。它會提醒人，距離本身也是故事的一部分。"
           },
           {
             "speaker": "b",
@@ -894,13 +769,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, 'I am trying to pay more attention to the hidden impact of ordinary habits.'",
-            "zh": "另一句也很好用：「I am trying to pay more attention to the hidden impact of ordinary habits.」",
-            "vocab": [
-              {
-                "word": "hidden impact",
-                "def": "表面看不出來，但實際存在的環境影響"
-              }
-            ]
+            "zh": "另一句也很好用：「I am trying to pay more attention to the hidden impact of ordinary habits.」"
           },
           {
             "speaker": "b",
@@ -911,14 +780,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want to keep it simple, 'I am trying to waste less without making life impossible.' works well.",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying to waste less without making life impossible.」",
-            "vocab": [
-              {
-                "word": "life impossible",
-                "def": "把生活弄得很難過"
-              }
-            ]
+            "en": "When you need to keep it simple, 'I am trying to waste less without making life impossible.' works well.",
+            "zh": "如果你想講得更簡單，也可以說：「I am trying to waste less without making life impossible.」"
           },
           {
             "speaker": "b",
@@ -959,13 +822,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Household waste drops faster when the better option is easy, visible, and close at hand.",
-            "zh": "完全沒錯。當比較好的選項夠簡單、看得到、拿得到時，家庭廢棄量就比較容易真的降下來。",
-            "vocab": [
-              {
-                "word": "household waste",
-                "def": "一個家庭日常產生的垃圾和廢棄物總量"
-              }
-            ]
+            "zh": "完全沒錯。當比較好的選項夠簡單、看得到、拿得到時，家庭廢棄量就比較容易真的降下來。"
           },
           {
             "speaker": "b",
@@ -1018,13 +875,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Energy use is part of that too, because even invisible habits still train a person's relationship with limits.",
-            "zh": "用能方式也是其中一部分，因為就算看不見的習慣，也還是在訓練一個人怎麼跟限制相處。",
-            "vocab": [
-              {
-                "word": "energy use",
-                "def": "日常生活中實際消耗電力和能源的方式"
-              }
-            ]
+            "zh": "用能方式也是其中一部分，因為就算看不見的習慣，也還是在訓練一個人怎麼跟限制相處。"
           },
           {
             "speaker": "b",
@@ -1047,7 +898,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then we can end there.",
+            "en": "We can end there.",
             "zh": "那我們就停在這裡。"
           }
         ]
@@ -1117,13 +968,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is why convenience can feel clean while secretly producing hidden waste all around it.",
-            "zh": "對，也因此，便利表面上看起來很乾淨，背後卻常常一路都在製造隱性浪費。",
-            "vocab": [
-              {
-                "word": "hidden waste",
-                "def": "也因此"
-              }
-            ]
+            "zh": "對，也因此，便利表面上看起來很乾淨，背後卻常常一路都在製造隱性浪費。"
           },
           {
             "speaker": "b",
@@ -1135,13 +980,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Single-use packaging is one of the clearest examples because the lifespan of the object is so short.",
-            "zh": "完全沒錯。一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。",
-            "vocab": [
-              {
-                "word": "single-use packaging",
-                "def": "只用一次就丟掉的包裝材料和外層包材"
-              }
-            ]
+            "zh": "完全沒錯。一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。"
           },
           {
             "speaker": "b",
@@ -1194,13 +1033,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Delivery culture grows because it turns planning, travel, and waiting into one tap.",
-            "zh": "完全沒錯。外送文化之所以長這麼快，就是因為它把規劃、移動和等待全都縮成一個按鈕。",
-            "vocab": [
-              {
-                "word": "delivery culture",
-                "def": "外送文化之所以長這麼快"
-              }
-            ]
+            "zh": "完全沒錯。外送文化之所以長這麼快，就是因為它把規劃、移動和等待全都縮成一個按鈕。"
           },
           {
             "speaker": "b",
@@ -1212,19 +1045,13 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A convenience trap is hard to escape when the rest of life is already overpacked.",
-            "zh": "對。當其他生活部分本來就已經塞滿時，便利陷阱本來就很難逃。",
-            "vocab": [
-              {
-                "word": "convenience trap",
-                "def": "明知有代價"
-              }
-            ]
+            "zh": "對。當其他生活部分本來就已經塞滿時，便利陷阱本來就很難逃。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a much more compassionate way to talk about it.",
-            "zh": "這真的比一般說法有同理心得多。"
+            "en": "That resonates — the pattern really is there.",
+            "zh": "這說到點上——那個規律確實存在。"
           },
           {
             "speaker": "a",
@@ -1246,8 +1073,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'I have started noticing how much waste is built into things that feel effortless.'",
-            "zh": "你可以說：「I have started noticing how much waste is built into things that feel effortless.」"
+            "en": "A phrase that works well here is, 'I have started noticing how much waste is built into things that feel effortless.'",
+            "zh": "這裡很自然的說法是：「I have started noticing how much waste is built into things that feel effortless.」"
           },
           {
             "speaker": "b",
@@ -1259,13 +1086,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could also say, 'I am trying to see the disposal chain, not just the moment of purchase.'",
-            "zh": "另一句也很好用：「I am trying to see the disposal chain, not just the moment of purchase.」",
-            "vocab": [
-              {
-                "word": "disposal chain",
-                "def": "東西被買下後一路到丟棄為止的整條處理過程"
-              }
-            ]
+            "zh": "另一句也很好用：「I am trying to see the disposal chain, not just the moment of purchase.」"
           },
           {
             "speaker": "b",
@@ -1277,13 +1098,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "An easier everyday line would be, 'I am trying not to let easy choices become throwaway habits.'",
-            "zh": "如果你想講得更簡單，也可以說：「I am trying not to let easy choices become throwaway habits.」",
-            "vocab": [
-              {
-                "word": "become throwaway",
-                "def": "把東西用完就丟、很少想長久使用的消費心態"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I am trying not to let easy choices become throwaway habits.」"
           },
           {
             "speaker": "b",
@@ -1324,13 +1139,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Landfill burden drops when durable choice becomes normal rather than exceptional.",
-            "zh": "完全沒錯。當耐用選擇變成常態，而不是例外時，掩埋場負擔就會下降。",
-            "vocab": [
-              {
-                "word": "landfill burden",
-                "def": "下降"
-              }
-            ]
+            "zh": "完全沒錯。當耐用選擇變成常態，而不是例外時，掩埋場負擔就會下降。"
           },
           {
             "speaker": "b",
@@ -1347,8 +1156,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really sharp way to put it.",
-            "zh": "這個說法真的很銳利。"
+            "en": "That makes the difference much easier to name.",
+            "zh": "這讓那個差異容易多了。"
           },
           {
             "speaker": "a",
@@ -1376,20 +1185,14 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a serious question.",
-            "zh": "這真的是很嚴肅的問題。"
+            "en": "That's more honest about how it actually works.",
+            "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Durable choice matters because it teaches the opposite lesson: that not everything valuable should be disposable.",
-            "zh": "耐用選擇很重要，因為它在教另一件事：不是所有有價值的東西都該被設計成可拋棄。",
-            "vocab": [
-              {
-                "word": "durable choice",
-                "def": "耐用選擇很重要"
-              }
-            ]
+            "zh": "耐用選擇很重要，因為它在教另一件事：不是所有有價值的東西都該被設計成可拋棄。"
           },
           {
             "speaker": "b",
@@ -1412,7 +1215,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Then let us stop here.",
+            "en": "Let us stop here.",
             "zh": "那我們就停在這裡。"
           }
         ]
@@ -1482,13 +1285,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and climate guilt grows fast when people care deeply but cannot control the larger system.",
-            "zh": "對，而當一個人很在乎、卻又控制不了更大的系統時，氣候罪惡感就很容易長得很快。",
-            "vocab": [
-              {
-                "word": "climate guilt",
-                "def": "氣候罪惡感就很容易長得很快"
-              }
-            ]
+            "zh": "對，而當一個人很在乎、卻又控制不了更大的系統時，氣候罪惡感就很容易長得很快。"
           },
           {
             "speaker": "b",
@@ -1500,13 +1297,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Eco-anxiety is not proof that someone is irrational. It can be a very sane response to real danger.",
-            "zh": "完全沒錯。生態焦慮不是一個人不理性，而可能是對真實危險非常合理的回應。",
-            "vocab": [
-              {
-                "word": "eco-anxiety",
-                "def": "生態焦慮不是一個人不理性"
-              }
-            ]
+            "zh": "完全沒錯。生態焦慮不是一個人不理性，而可能是對真實危險非常合理的回應。"
           },
           {
             "speaker": "b",
@@ -1547,13 +1338,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Grounded hope, not decorative hope. The kind that stays honest about difficulty while still making action imaginable.",
-            "zh": "要的是有根的希望，不是裝飾性的希望。那種一邊對困難誠實，一邊還是讓行動變得可想像的希望。",
-            "vocab": [
-              {
-                "word": "grounded hope",
-                "def": "要的是有根的希望"
-              }
-            ]
+            "zh": "要的是有根的希望，不是裝飾性的希望。那種一邊對困難誠實，一邊還是讓行動變得可想像的希望。"
           },
           {
             "speaker": "b",
@@ -1565,13 +1350,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Active hope works because it treats action as part of the emotion, not a separate thing.",
-            "zh": "完全沒錯。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。",
-            "vocab": [
-              {
-                "word": "active hope",
-                "def": "不是空想"
-              }
-            ]
+            "zh": "完全沒錯。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
           },
           {
             "speaker": "b",
@@ -1624,13 +1403,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, 'I am trying not to confuse guilt with responsibility, or hope with denial.'",
-            "zh": "另一句也很好用：「I am trying not to confuse guilt with responsibility, or hope with denial.」",
-            "vocab": [
-              {
-                "word": "guilt",
-                "def": "罪惡感；內疚"
-              }
-            ]
+            "zh": "另一句也很好用：「I am trying not to confuse guilt with responsibility, or hope with denial.」"
           },
           {
             "speaker": "b",
@@ -1642,13 +1415,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a simpler version, you could say, 'I want to care in a way I can keep.'",
-            "zh": "如果你想講得更簡單，也可以說：「I want to care in a way I can keep.」",
-            "vocab": [
-              {
-                "word": "simpler version",
-                "def": "不是盲目樂觀"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I want to care in a way I can keep.」"
           },
           {
             "speaker": "b",
@@ -1665,7 +1432,7 @@ export const WEEK_38: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Staying Open Without Burning Out",
+        "title": "Part 4 — Adapting for Different Situations",
         "lines": [
           {
             "speaker": "b",
@@ -1689,13 +1456,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Shared effort matters because isolation intensifies fear more than people realize.",
-            "zh": "完全沒錯。共同努力很重要，因為孤立感會比人想像中更快放大恐懼。",
-            "vocab": [
-              {
-                "word": "shared effort",
-                "def": "不是一個人獨自扛"
-              }
-            ]
+            "zh": "完全沒錯。共同努力很重要，因為孤立感會比人想像中更快放大恐懼。"
           },
           {
             "speaker": "b",
@@ -1707,13 +1468,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Emotional resilience grows when people feel accompanied by action, not abandoned inside awareness.",
-            "zh": "對。當一個人感覺自己是被行動陪著，而不是被意識丟在那裡時，情緒韌性才會長出來。",
-            "vocab": [
-              {
-                "word": "emotional resilience",
-                "def": "仍能恢復和平衡的能力"
-              }
-            ]
+            "zh": "對。當一個人感覺自己是被行動陪著，而不是被意識丟在那裡時，情緒韌性才會長出來。"
           },
           {
             "speaker": "b",
@@ -1726,12 +1481,7 @@ export const WEEK_38: Episode[] = [
             "speakerName": "Mira",
             "en": "I hope it gives people a gentler way forward.",
             "zh": "我也希望它能給人一條比較溫柔的路。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — The Kind of Hope Worth Keeping",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1754,13 +1504,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the kind that lasts. Emotional wisdom matters here because raw intensity alone cannot sustain care.",
-            "zh": "而那也正是能撐久的那種。情緒智慧在這裡很重要，因為光靠原始強度是撐不起長久在乎的。",
-            "vocab": [
-              {
-                "word": "emotional wisdom",
-                "def": "情緒智慧在這裡很重要"
-              }
-            ]
+            "zh": "而那也正是能撐久的那種。情緒智慧在這裡很重要，因為光靠原始強度是撐不起長久在乎的。"
           },
           {
             "speaker": "b",
@@ -1853,13 +1597,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is very true. A livable city is often legible through comfort before it is legible through theory.",
-            "zh": "這真的很對。所謂宜居城市，很多時候是先透過舒適被讀懂，之後才是透過理論。",
-            "vocab": [
-              {
-                "word": "livable city",
-                "def": "人願意走、願意停"
-              }
-            ]
+            "zh": "這真的很對。所謂宜居城市，很多時候是先透過舒適被讀懂，之後才是透過理論。"
           },
           {
             "speaker": "b",
@@ -1871,13 +1609,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Urban tree cover does that all the time by changing heat, light, and emotional tone.",
-            "zh": "完全沒錯。城市樹蔭覆蓋就是一直在做這件事，它會改變熱度、光線，也改變情緒的色調。",
-            "vocab": [
-              {
-                "word": "urban tree cover",
-                "def": "城市裡樹木和綠蔭提供的遮蔽與綠色覆蓋"
-              }
-            ]
+            "zh": "完全沒錯。城市樹蔭覆蓋就是一直在做這件事，它會改變熱度、光線，也改變情緒的色調。"
           },
           {
             "speaker": "b",
@@ -1930,13 +1662,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A walkable block changes behavior because it makes low-energy movement realistic.",
-            "zh": "完全沒錯。可步行街區會改變行為，是因為它讓低消耗的移動方式真的變得可行。",
-            "vocab": [
-              {
-                "word": "walkable block",
-                "def": "可行"
-              }
-            ]
+            "zh": "完全沒錯。可步行街區會改變行為，是因為它讓低消耗的移動方式真的變得可行。"
           },
           {
             "speaker": "b",
@@ -1948,13 +1674,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Public transit matters because it turns a private burden into shared infrastructure.",
-            "zh": "對。大眾運輸很重要，因為它把原本個人要單獨扛的負擔，變成一套共享基礎設施。",
-            "vocab": [
-              {
-                "word": "public transit",
-                "def": "大眾運輸很重要"
-              }
-            ]
+            "zh": "對。大眾運輸很重要，因為它把原本個人要單獨扛的負擔，變成一套共享基礎設施。"
           },
           {
             "speaker": "b",
@@ -1995,13 +1715,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A steadier way to put it is, 'The neighborhood works because daily needs are close enough to reach without a car.'",
-            "zh": "另一句也很好用：「The neighborhood works because daily needs are close enough to reach without a car.」",
-            "vocab": [
-              {
-                "word": "neighborhood",
-                "def": "社區；鄰近地區"
-              }
-            ]
+            "zh": "另一句也很好用：「The neighborhood works because daily needs are close enough to reach without a car.」"
           },
           {
             "speaker": "b",
@@ -2013,13 +1727,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A plainer way to put it is, 'This place makes the good choice easier.'",
-            "zh": "如果你想講得更簡單，也可以說：「This place makes the good choice easier.」",
-            "vocab": [
-              {
-                "word": "choice easier",
-                "def": "把公園、樹道或自然空間串連起來的城市綠色通道"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「This place makes the good choice easier.」"
           },
           {
             "speaker": "b",
@@ -2060,13 +1768,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Cooling shade matters because heat changes mood, safety, and who can comfortably use a space.",
-            "zh": "完全沒錯。降溫遮蔭很重要，因為高溫會直接改變情緒、安全感，以及誰還能舒服地使用那個空間。",
-            "vocab": [
-              {
-                "word": "cooling shade",
-                "def": "高溫會直接改變情緒、安全感"
-              }
-            ]
+            "zh": "完全沒錯。降溫遮蔭很重要，因為高溫會直接改變情緒、安全感，以及誰還能舒服地使用那個空間。"
           },
           {
             "speaker": "b",
@@ -2078,13 +1780,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and community garden spaces matter too because they turn abstract sustainability into shared local practice.",
-            "zh": "對，而且社區花園空間也很重要，因為它會把抽象的可持續，變成共享的在地練習。",
-            "vocab": [
-              {
-                "word": "community garden",
-                "def": "變成共享的在地練習"
-              }
-            ]
+            "zh": "對，而且社區花園空間也很重要，因為它會把抽象的可持續，變成共享的在地練習。"
           },
           {
             "speaker": "b",
@@ -2125,13 +1821,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Urban design matters because policy becomes personal the moment it touches a person's feet, breath, and time.",
-            "zh": "城市設計很重要，因為政策一碰到一個人的腳步、呼吸和時間，就會立刻變得非常個人。",
-            "vocab": [
-              {
-                "word": "design matters",
-                "def": "非常個人"
-              }
-            ]
+            "zh": "城市設計很重要，因為政策一碰到一個人的腳步、呼吸和時間，就會立刻變得非常個人。"
           },
           {
             "speaker": "b",
@@ -2236,13 +1926,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Civic imagination helps people move from fear into design.",
-            "zh": "完全沒錯。公民想像力會幫人從恐懼，慢慢走到設計和建造。",
-            "vocab": [
-              {
-                "word": "civic imagination",
-                "def": "更好的能力和視野"
-              }
-            ]
+            "zh": "完全沒錯。公民想像力會幫人從恐懼，慢慢走到設計和建造。"
           },
           {
             "speaker": "b",
@@ -2295,13 +1979,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Circular economy thinking matters because it asks what can keep circulating instead of becoming waste.",
-            "zh": "完全沒錯。循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。",
-            "vocab": [
-              {
-                "word": "circular economy",
-                "def": "循環經濟思維很重要"
-              }
-            ]
+            "zh": "完全沒錯。循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。"
           },
           {
             "speaker": "b",
@@ -2341,8 +2019,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could say, 'A sustainable future should feel healthier, fairer, and more livable in ordinary ways.'",
-            "zh": "你可以說：「A sustainable future should feel healthier, fairer, and more livable in ordinary ways.」"
+            "en": "One natural option is, 'A sustainable future should feel healthier, fairer, and more livable in ordinary ways.'",
+            "zh": "這裡很自然的說法是：「A sustainable future should feel healthier, fairer, and more livable in ordinary ways.」"
           },
           {
             "speaker": "b",
@@ -2353,14 +2031,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you want a more grounded version, try 'I want progress to mean cleaner systems, not just faster consumption.'",
-            "zh": "另一句也很好用：「I want progress to mean cleaner systems, not just faster consumption.」",
-            "vocab": [
-              {
-                "word": "cleaner systems",
-                "def": "較少污染、較少碳排的能源來源和系統"
-              }
-            ]
+            "en": "For a more grounded option, try 'I want progress to mean cleaner systems, not just faster consumption.'",
+            "zh": "另一句也很好用：「I want progress to mean cleaner systems, not just faster consumption.」"
           },
           {
             "speaker": "b",
@@ -2372,13 +2044,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you want something simpler, you can use 'I want the future to feel easier to live in, not harder.'",
-            "zh": "如果你想講得更簡單，也可以說：「I want the future to feel easier to live in, not harder.」",
-            "vocab": [
-              {
-                "word": "future",
-                "def": "把人帶進較好未來的生活習慣"
-              }
-            ]
+            "zh": "如果你想講得更簡單，也可以說：「I want the future to feel easier to live in, not harder.」"
           },
           {
             "speaker": "b",
@@ -2419,31 +2085,19 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Repairable design matters because it teaches care instead of constant replacement.",
-            "zh": "完全沒錯。可修復設計很重要，因為它教的是照顧，而不是一直替換。",
-            "vocab": [
-              {
-                "word": "repairable design",
-                "def": "而不是壞了就丟"
-              }
-            ]
+            "zh": "完全沒錯。可修復設計很重要，因為它教的是照顧，而不是一直替換。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a cultural value as much as a technical one.",
-            "zh": "這聽起來真的同時是文化價值，也是技術選擇。"
+            "en": "Right — and that's where the real difference shows up.",
+            "zh": "對——那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and local resilience matters too because people need nearby systems they can actually rely on.",
-            "zh": "對，而且在地韌性也很重要，因為人需要的是附近真的靠得住的系統。",
-            "vocab": [
-              {
-                "word": "local resilience",
-                "def": "而且在地韌性也很重要"
-              }
-            ]
+            "zh": "對，而且在地韌性也很重要，因為人需要的是附近真的靠得住的系統。"
           },
           {
             "speaker": "b",
@@ -2472,13 +2126,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That it should not only reduce harm. It should also increase dignity, beauty, and everyday ease.",
-            "zh": "要記得，它不只應該減少傷害，也應該增加尊嚴、美感和日常生活的輕鬆度。",
-            "vocab": [
-              {
-                "word": "increase dignity",
-                "def": "要記得"
-              }
-            ]
+            "zh": "要記得，它不只應該減少傷害，也應該增加尊嚴、美感和日常生活的輕鬆度。"
           },
           {
             "speaker": "b",
@@ -2490,13 +2138,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Regenerative thinking matters because it asks not just how to do less damage, but how to restore what has been worn down.",
-            "zh": "再生式思維很重要，因為它不只問怎麼少造成傷害，也會問怎麼把已經磨損的東西慢慢補回來。",
-            "vocab": [
-              {
-                "word": "regenerative thinking",
-                "def": "不只減少消耗"
-              }
-            ]
+            "zh": "再生式思維很重要，因為它不只問怎麼少造成傷害，也會問怎麼把已經磨損的東西慢慢補回來。"
           },
           {
             "speaker": "b",

@@ -22,13 +22,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what a close friend feels like. The gap disappears because the trust is already there. You do not need to rebuild it every time.",
-            "zh": "那就是親近的朋友的感覺。距離消失是因為信任早就在那裡了，你不需要每次都重新建立。",
-            "vocab": [
-              {
-                "word": "close friend",
-                "def": "親近的朋友"
-              }
-            ]
+            "zh": "那就是親近的朋友的感覺。距離消失是因為信任早就在那裡了，你不需要每次都重新建立。"
           },
           {
             "speaker": "b",
@@ -40,13 +34,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Frequency matters less than consistency. Your friend knows you will still be you when you show up.",
-            "zh": "沒錯。頻率比不上一致性重要。你的朋友知道你出現的時候還是你自己。",
-            "vocab": [
-              {
-                "word": "consistency",
-                "def": "一致性；前後如一"
-              }
-            ]
+            "zh": "沒錯。頻率比不上一致性重要。你的朋友知道你出現的時候還是你自己。"
           },
           {
             "speaker": "b",
@@ -87,13 +75,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Life gets busier, and friendships stop being automatic. In school you saw people every day. Now you have to decide to show up for someone.",
-            "zh": "完全不是。生活變得更忙，友誼不再自動發生。在學校你每天都見到人，現在你必須主動決定要為某人出現。",
-            "vocab": [
-              {
-                "word": "show up for someone",
-                "def": "為某人出現、支持某人"
-              }
-            ]
+            "zh": "完全不是。生活變得更忙，友誼不再自動發生。在學校你每天都見到人，現在你必須主動決定要為某人出現。"
           },
           {
             "speaker": "b",
@@ -111,13 +93,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So how do you stay in touch without it feeling like a chore?",
-            "zh": "那怎麼樣保持聯絡又不讓它感覺像例行公事？",
-            "vocab": [
-              {
-                "word": "stay in touch",
-                "def": "保持聯絡"
-              }
-            ]
+            "zh": "那怎麼樣保持聯絡又不讓它感覺像例行公事？"
           },
           {
             "speaker": "a",
@@ -170,13 +146,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about talking about shared history, like a friendship that has lasted a long time?",
-            "zh": "那如何談論共同的過去，像是一段已經很長時間的友誼呢？",
-            "vocab": [
-              {
-                "word": "shared history",
-                "def": "共同的過去"
-              }
-            ]
+            "zh": "那如何談論共同的過去，像是一段已經很長時間的友誼呢？"
           },
           {
             "speaker": "a",
@@ -188,13 +158,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What if I want to describe a friendship that has grown apart over time?",
-            "zh": "如果我想描述一段隨著時間漸行漸遠的友誼呢？",
-            "vocab": [
-              {
-                "word": "grown apart",
-                "def": "漸行漸遠"
-              }
-            ]
+            "zh": "如果我想描述一段隨著時間漸行漸遠的友誼呢？"
           },
           {
             "speaker": "a",
@@ -235,13 +199,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I never thought about it that way. Asking for support is actually an act of trust.",
-            "zh": "我從沒這樣想過。尋求支持其實是一種信任的表現。",
-            "vocab": [
-              {
-                "word": "support",
-                "def": "感到被支持"
-              }
-            ]
+            "zh": "我從沒這樣想過。尋求支持其實是一種信任的表現。"
           },
           {
             "speaker": "a",
@@ -276,13 +234,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The ones that last can survive an honest conversation. They do not require you to always be agreeable or always be at your best.",
-            "zh": "能持久的友誼能撐過一次坦白的對話。它不要求你總是贊同對方，也不要求你永遠狀態最好。",
-            "vocab": [
-              {
-                "word": "honest conversation",
-                "def": "坦誠的對話"
-              }
-            ]
+            "zh": "能持久的友誼能撐過一次坦白的對話。它不要求你總是贊同對方，也不要求你永遠狀態最好。"
           },
           {
             "speaker": "b",
@@ -318,13 +270,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And that takes time. You cannot rush the kind of trust that makes that possible.",
-            "zh": "沒錯。而那需要時間。讓那成為可能的那種信任，是急不來的。",
-            "vocab": [
-              {
-                "word": "trust",
-                "def": "彼此信任"
-              }
-            ]
+            "zh": "沒錯。而那需要時間。讓那成為可能的那種信任，是急不來的。"
           }
         ]
       }
@@ -393,13 +339,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Nothing is wrong with you. Making friends as an adult is genuinely harder. The conditions that made it easy in school, seeing the same people every day, do not exist anymore.",
-            "zh": "你沒什麼問題。成年後交朋友真的更難。讓它在學校時變得容易的條件，也就是每天看到同樣的人，已經不存在了。",
-            "vocab": [
-              {
-                "word": "genuinely",
-                "def": "真誠地；真正地"
-              }
-            ]
+            "zh": "你沒什麼問題。成年後交朋友真的更難。讓它在學校時變得容易的條件，也就是每天看到同樣的人，已經不存在了。"
           },
           {
             "speaker": "b",
@@ -411,13 +351,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Friendship needs repeated contact and a low-stakes setting. Work can help, but work also has performance pressure.",
-            "zh": "沒錯。友誼需要重複接觸和低壓力的環境。工作可以幫忙，但工作也有表現壓力。",
-            "vocab": [
-              {
-                "word": "repeated contact",
-                "def": "重複的接觸"
-              }
-            ]
+            "zh": "沒錯。友誼需要重複接觸和低壓力的環境。工作可以幫忙，但工作也有表現壓力。"
           },
           {
             "speaker": "b",
@@ -429,13 +363,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the hardest part. The awkward phase is not a sign you are incompatible. It is just what the beginning of any connection feels like.",
-            "zh": "那是最難的部分。尷尬的階段不是你們不合的訊號，那只是任何連結開始時的感覺。",
-            "vocab": [
-              {
-                "word": "awkward phase",
-                "def": "關係剛開始時那段尷尬又不確定的階段"
-              }
-            ]
+            "zh": "那是最難的部分。尷尬的階段不是你們不合的訊號，那只是任何連結開始時的感覺。"
           },
           {
             "speaker": "b",
@@ -464,13 +392,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The biggest one is waiting to feel ready. People want to feel confident before they reach out, but confidence comes from reaching out, not before it.",
-            "zh": "最大的一個是等到有準備好的感覺。大家想要感覺有信心才去主動，但信心是從主動聯絡之後來的，不是在那之前。",
-            "vocab": [
-              {
-                "word": "reach out",
-                "def": "主動聯絡"
-              }
-            ]
+            "zh": "最大的一個是等到有準備好的感覺。大家想要感覺有信心才去主動，但信心是從主動聯絡之後來的，不是在那之前。"
           },
           {
             "speaker": "b",
@@ -535,13 +457,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Instead of, \"How was your weekend?\" try, \"I finally tried that hiking trail near the reservoir. It destroyed me but I actually loved it.\" That invites a real response.",
-            "zh": "不要說「你週末過得怎樣？」，試試「我終於去了水庫旁邊那條步道。把我整個人搞垮了，但我其實蠻喜歡的。」那能引出真實的回應。",
-            "vocab": [
-              {
-                "word": "reservoir",
-                "def": "水庫；儲備"
-              }
-            ]
+            "zh": "不要說「你週末過得怎樣？」，試試「我終於去了水庫旁邊那條步道。把我整個人搞垮了，但我其實蠻喜歡的。」那能引出真實的回應。"
           },
           {
             "speaker": "b",
@@ -559,13 +475,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about when I want to move from an acquaintance to an actual friend? How do I make that jump?",
-            "zh": "那當我想從點頭之交變成真正的朋友時呢？怎麼跨越那一步？",
-            "vocab": [
-              {
-                "word": "acquaintance",
-                "def": "點頭之交"
-              }
-            ]
+            "zh": "那當我想從點頭之交變成真正的朋友時呢？怎麼跨越那一步？"
           },
           {
             "speaker": "a",
@@ -612,13 +522,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
-            "zh": "沒錯。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。",
-            "vocab": [
-              {
-                "word": "casual plan",
-                "def": "隨興的計畫"
-              }
-            ]
+            "zh": "沒錯。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
           },
           {
             "speaker": "b",
@@ -677,18 +581,12 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So making friends as an adult is really just about finding the people where being yourself is easy.",
-            "zh": "所以成年後交朋友，其實只是找到那些讓你做自己很輕鬆的人。",
-            "vocab": [
-              {
-                "word": "friends",
-                "def": "自然地做自己，不用過度修飾"
-              }
-            ]
+            "zh": "所以成年後交朋友，其實只是找到那些讓你做自己很輕鬆的人。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the whole thing. And it takes longer than it did at school. But when it happens, it is worth every awkward coffee you sat through.",
+            "en": "That's the whole thing. And it takes longer than it did at school. But when it happens, it is worth every awkward coffee you sat through.",
             "zh": "就是那樣。而且它花的時間比在學校時更長。但當它發生的時候，那值得你坐過的每一次尷尬咖啡。"
           }
         ]
@@ -746,315 +644,214 @@ export const WEEK_11: Episode[] = [
     "phase": "p2",
     "parts": [
       {
-        "title": "Part 1 — When Distance Changes Everything",
+        "title": "Part 1 — The Slow Drift Nobody Planned For",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "My best friend moved abroad two years ago. We still talk sometimes but it feels different now. Is that just how it goes?",
-            "zh": "我最好的朋友兩年前移居國外了。我們還是偶爾聯絡，但感覺不一樣了。這就是必然的結果嗎？"
+            "en": "My best friend moved abroad two years ago. We texted constantly at first, then monthly, then almost never. I did not notice it happening until it already had.",
+            "zh": "我最好的朋友兩年前移居國外了。一開始我們一直傳訊息，然後變成一個月一次，然後幾乎沒有了。我沒注意到它在發生，直到已經發生了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Not necessarily. Long-distance friendships do change shape, but they do not have to fade. The question is whether both people are willing to adjust how they connect.",
-            "zh": "不一定。長距離的友誼確實會改變形態，但不一定要淡掉。問題是兩個人是否都願意調整連結的方式。",
-            "vocab": [
-              {
-                "word": "long-distance friendship",
-                "def": "遠距友誼"
-              }
-            ]
+            "en": "That drift is one of the most common things that happens in long-distance friendships. It is not anyone's fault. The structure that used to hold the friendship together just disappeared.",
+            "zh": "那種漂離是遠距友誼中最常發生的事之一。不是任何人的錯，只是原本撐著這段友誼的結構消失了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What do you mean by adjust? Like talking more often?",
-            "zh": "調整是什麼意思？像是更常聯絡？"
+            "en": "In school we saw each other every day. After that, you have to be intentional about staying in touch.",
+            "zh": "在學校我們每天都見面。那之後，保持聯絡就必須刻意去做了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Not always more often, but more intentionally. You cannot rely on bumping into each other anymore. Every connection has to be a choice.",
-            "zh": "不一定是更常，而是更刻意。你不能再依靠偶遇了。每一次連結都必須是一個選擇。",
-            "vocab": [
-              {
-                "word": "intentionally",
-                "def": "刻意地、有意識地"
-              }
-            ]
+            "en": "Exactly. And being intentional feels effortful when life is already full. So people keep meaning to reach out and never quite do.",
+            "zh": "沒錯。而當生活已經很充實的時候，刻意聯絡感覺費力。所以大家一直心裡有這個念頭，但就是一直沒有去做。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds exhausting, honestly. Like friendship becomes another thing to schedule.",
-            "zh": "老實說，那聽起來很累。好像友誼變成另一件要排程的事。"
+            "en": "And then one day you realize months have passed and neither of you said anything.",
+            "zh": "然後有一天你意識到已經過了好幾個月，而你們兩個都沒說什麼。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I understand that feeling. But the alternative is losing the friendship by doing nothing. Most long-distance friendships die of neglect, not conflict.",
-            "zh": "我理解那種感覺。但另一個選擇是什麼都不做然後失去這段友誼。大多數長距離友誼是被忽視殺死的，不是衝突。"
+            "en": "At that point many people feel too embarrassed to reach out. They worry the gap makes it awkward. So nothing happens and the friendship quietly fades.",
+            "zh": "到了那個時候，很多人覺得太不好意思主動聯絡了。他們擔心那個空白讓事情變得尷尬。於是什麼都沒發生，友誼就這樣安靜地淡掉了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the friendship does not end badly, it just quietly stops.",
-            "zh": "所以友誼不是以壞的方式結束，它只是安靜地停了。"
+            "en": "So the problem is not the distance itself. It is the silence that builds up around the distance.",
+            "zh": "所以問題不是距離本身，而是圍繞著距離積累起來的沉默。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And that quiet ending is often more painful because there is nothing to point to. It just slipped away.",
-            "zh": "沒錯。而那種安靜的結束往往更痛，因為沒有什麼可以指向的。它只是溜走了。"
+            "en": "Right. Most long-distance friendships do not end with a fight. They end because both people felt abandoned and neither one said so.",
+            "zh": "對。大多數遠距友誼不是以爭吵結束的，而是因為雙方都感到被遺棄，卻都沒有說出口。"
           }
         ]
       },
       {
-        "title": "Part 2 — What Makes Long-Distance Friendships Fail",
+        "title": "Part 2 — Why This Gets People Stuck",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What is the most common reason long-distance friendships fall apart?",
-            "zh": "長距離友誼最常見的崩潰原因是什麼？"
+            "en": "I want to reconnect with that friend, but every time I think about messaging I feel like I need to explain the long silence first. That makes it harder.",
+            "zh": "我很想跟那個朋友重新聯絡，但每次想傳訊息，我覺得我需要先解釋那段長時間的沉默。那讓它變得更難。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Both people waiting for the other one to reach out first. It becomes a silent standoff and nobody knows how to break it without feeling like they are the only one who cares.",
-            "zh": "兩個人都在等另一個人先主動聯絡。它變成一種沉默的對峙，而且沒有人知道怎麼打破它，又不讓自己覺得好像只有自己在乎。"
+            "en": "That expectation is the trap. You are treating the gap as something that needs to be justified, but most friends do not actually need that explanation.",
+            "zh": "那個期待就是陷阱所在。你把那段空白當成需要被解釋的東西，但大多數朋友其實不需要那個解釋。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I have definitely been in that situation. You stop reaching out because you tell yourself they would have contacted you if they wanted to talk.",
-            "zh": "我絕對遇過那種情況。你停止聯絡，因為你告訴自己，如果他們想聊他們就會找你了。"
+            "en": "So the explanation I think they need is really something I am demanding of myself.",
+            "zh": "所以我以為他們需要的解釋，其實是我對自己的要求。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And they are probably thinking the same thing. Both people feel slightly abandoned, but neither one says anything.",
-            "zh": "而他們可能也在想同樣的事。兩個人都感覺有點被遺棄，但沒有人開口說。",
-            "vocab": [
-              {
-                "word": "feel slightly abandoned",
-                "def": "感到被遺棄"
-              }
-            ]
+            "en": "Often yes. People spend so long preparing the perfect message that they never send it. A short and genuine check-in is almost always better than a perfectly worded essay.",
+            "zh": "常常是的。大家花太多時間準備完美的訊息，然後根本沒有寄出去。一個簡短而真誠的問候，幾乎都比一篇措辭完美的長文更好。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What is the other big mistake?",
-            "zh": "另一個大錯誤是什麼？"
+            "en": "And the other person might also be waiting and feeling just as stuck.",
+            "zh": "而對方可能也在等待，感覺同樣卡住了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Only catching up when you have something big to report. If you only talk during major life events, the relationship starts to feel formal and obligatory.",
-            "zh": "只在有大事可以報告時才聯絡。如果你只在人生大事時才說話，這段關係開始感覺正式而且像義務。"
+            "en": "Very likely. Both people feel abandoned. Both people are waiting. The one who breaks the silence is actually doing both of them a favor.",
+            "zh": "很有可能。兩個人都感到被遺棄，兩個人都在等待。打破沉默的那個人，其實是在幫兩個人一個忙。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the small, ordinary check-ins matter more than people think.",
-            "zh": "所以那些小而普通的問候，比人們以為的更重要。",
-            "vocab": [
-              {
-                "word": "ordinary check-ins",
-                "def": "問候、關心"
-              }
-            ]
+            "en": "That reframe helps. It is not a sign of weakness to reach out first. It is just someone deciding the friendship matters more than the discomfort.",
+            "zh": "這個重新框架很有幫助。率先聯絡不是軟弱的表現，只是有人決定這段友誼比那份不舒服更重要。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Much more. A photo of something funny, a song you thought they would like, a two-sentence message. Those are what keep the sense of closeness alive.",
-            "zh": "重要得多。一張有趣的照片、一首你覺得他們會喜歡的歌、兩句話的訊息。那些才是讓親密感持續存在的東西。"
+            "en": "And a regular call or voice note, even once a month, prevents that silence from building up in the first place.",
+            "zh": "而定期通話或語音訊息，就算一個月一次，可以從一開始就防止那種沉默積累起來。"
           }
         ]
       },
       {
-        "title": "Part 3 — English for Staying Connected Across Distance",
+        "title": "Part 3 — A More Effective Approach",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How do I start a message to a friend I have not spoken to in a while without it feeling awkward or heavy?",
-            "zh": "我怎麼開頭傳訊息給一個很久沒說話的朋友，又不讓它感覺尷尬或沉重？"
+            "en": "What actually works for keeping a long-distance friendship alive without it feeling like a chore?",
+            "zh": "什麼真的有用，可以讓遠距友誼保持活力，又不讓它感覺像例行公事？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Keep it light and specific. Something like, \"I just heard this song and immediately thought of you,\" or, \"I saw this and had to send it.\" No apology, no pressure.",
-            "zh": "保持輕鬆而具體。像是「我剛聽到這首歌立刻想到你」，或是「我看到這個非要傳給你不可」。不道歉，不施壓。"
+            "en": "Lower the bar for what counts as contact. It does not need to be a long call to catch up on everything. A voice note, a photo, two sentences about something you saw today.",
+            "zh": "降低對「聯絡」的標準。不需要是一通要更新所有事情的長電話。一則語音訊息、一張照片、兩句關於你今天看到的事情。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What if I want to actually catch up, not just send a funny link?",
-            "zh": "如果我真的想好好聊聊，不只是傳一個有趣的連結呢？"
+            "en": "So quality over quantity, but also letting go of the idea that every interaction needs to be meaningful.",
+            "zh": "所以是重質不重量，但也要放棄每次互動都必須有意義的想法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One option would be, \"I have been meaning to call. Are you free this weekend for a quick call? Even thirty minutes would be great.\" That is specific and low pressure.",
-            "zh": "你可以說「我一直想打給你。這週末有空快速通話嗎？就算三十分鐘也很好。」那很具體而且沒什麼壓力。",
-            "vocab": [
-              {
-                "word": "specific",
-                "def": "敘舊、更新近況"
-              }
-            ]
+            "en": "Exactly. The tone of a friendship is kept warm by ordinary moments, not just the deep conversations. Mundane check-ins signal that you are still in each other's lives.",
+            "zh": "沒錯。友誼的語氣是被平凡時刻保持溫暖的，而不只是深刻的對話。日常的問候傳達了你們仍然在彼此的生活中。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What about when I want to explain why I have been quiet without sounding like I am making excuses?",
-            "zh": "那如果我想解釋為什麼我一直沒有聯絡，但又不想聽起來像在找藉口呢？"
+            "en": "And async voice notes solve the time zone problem too. They do not respond right away, that is fine.",
+            "zh": "而且非同步的語音訊息也解決了時區問題。他們不會馬上回，那也沒關係。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can be brief and honest: \"I have been in my head lately. I am sorry for being quiet. I miss you.\" Three sentences. No elaborate explanation needed.",
-            "zh": "你可以簡短而誠實：「我最近一直很在自己的世界裡。對不起，沒有聯絡。我想你。」三句話。不需要詳細的解釋。"
+            "en": "Right. You leave a message when you feel like talking, they respond when they can. It feels more personal than text and there is no pressure to be available at the same moment.",
+            "zh": "對。你想說話時留一則訊息，他們有空時再回。它比文字訊息更有個人感，而且也沒有壓力說你們要在同一個時刻都有空。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "And that kind of honesty probably works better than a long apologetic message.",
-            "zh": "而那種誠實可能比一封長長的道歉訊息更有效。"
+            "en": "So the method should fit the friendship, not the other way around.",
+            "zh": "所以方式應該配合友誼，而不是反過來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Almost always. Long apologies often make the receiver feel they need to manage your guilt. Short and honest lets them just be glad you reached out.",
-            "zh": "幾乎都是。長篇道歉常常讓接收者覺得他們需要管理你的愧疚感。簡短而誠實讓他們只是高興你聯絡了。"
+            "en": "Exactly. The goal is to stay in touch in a way that feels natural for both of you, not to follow a formula.",
+            "zh": "沒錯。目標是以對你們兩個來說都感覺自然的方式保持聯絡，而不是遵循某個公式。"
           }
         ]
       },
       {
-        "title": "Part 4 — Small Habits That Keep Distance from Winning",
+        "title": "Part 4 — Putting It Into Practice",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Is there a routine that actually helps long-distance friendships stay alive?",
-            "zh": "有什麼實際上有用的習慣能讓長距離友誼保持活力嗎？"
+            "en": "What would you actually say to a friend you have not spoken to in six months? What is a good first message?",
+            "zh": "你真的會對一個六個月沒說話的朋友說什麼？什麼是好的第一則訊息？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A regular call, even just once a month, does a lot. Not a catch-up session where you have to report everything, just a real conversation.",
-            "zh": "固定的通話，就算只是一個月一次，效果很大。不是要報告所有事情的敘舊，只是一次真正的對話。",
-            "vocab": [
-              {
-                "word": "regular call",
-                "def": "固定通話"
-              }
-            ]
+            "en": "Something light and specific. \"I heard this song and immediately thought of you.\" Or, \"I have been meaning to reach out. I miss our conversations.\" No elaborate explanation needed.",
+            "zh": "輕鬆而具體的東西。「我聽到這首歌立刻想到你。」或者「我一直想聯絡你，我想念我們的對話。」不需要詳細的解釋。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What if schedules keep clashing and it is hard to find a time?",
-            "zh": "如果時間表一直對不上，很難找到時間怎麼辦？"
+            "en": "And if I want to actually talk, not just send a message?",
+            "zh": "如果我真的想聊，而不只是傳訊息呢？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Async voice notes are underrated. You leave a message when you feel like talking, they respond when they can. It feels more personal than text and fits any schedule.",
-            "zh": "非同步語音訊息被低估了。你想說話時留一則訊息，他們有空時再回。它比文字訊息更有個人感，而且適合任何時間表。"
+            "en": "Be specific about the plan. \"Are you free this weekend for a quick call? Even thirty minutes would be great.\" Vague suggestions like 'we should catch up' never happen.",
+            "zh": "對計畫要具體。「這週末有空快速通話嗎？就算三十分鐘也很好。」「我們應該敘舊」這種模糊的建議從來不會實現。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I actually love receiving voice notes. They feel warmer than reading a message.",
-            "zh": "我其實很喜歡收到語音訊息。它比閱讀訊息感覺更溫暖。"
+            "en": "And once you are actually talking, do you feel like you need to cover everything you have both missed?",
+            "zh": "而一旦你們真的在聊了，你覺得需要把所有錯過的都補回來嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Because you hear the person. Tone and pace carry things that words on a screen cannot.",
-            "zh": "因為你聽到了那個人的聲音。語氣和節奏傳達了文字螢幕無法傳遞的東西。",
-            "vocab": [
-              {
-                "word": "tone",
-                "def": "語氣"
-              }
-            ]
+            "en": "Let go of that. Just talk about what is on your mind right now. Good long-distance friendships do not require a complete status report. They just require two people being present with each other.",
+            "zh": "放掉那個念頭。只聊你現在在想的事情。好的遠距友誼不需要一份完整的狀態報告，只需要兩個人當下都在彼此身邊。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the medium matters too, not just what you say.",
-            "zh": "所以媒介也很重要，不只是你說什麼。"
+            "en": "So the friendship does not depend on covering the gap. It just depends on reconnecting in this moment.",
+            "zh": "所以友誼不在於填補那段空白，而在於在這個當下重新連結。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It does. A well-chosen medium makes the other person feel considered, not just maintained.",
-            "zh": "確實。選對了媒介讓對方感到被在意，而不只是被維持。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Long-Distance Friendships Can Teach You",
-        "lines": [
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "I have noticed that my long-distance friendships sometimes feel more real than ones where I see the person regularly. Why is that?",
-            "zh": "我注意到我的長距離友誼有時候感覺比我定期見面的友誼更真實。為什麼會這樣？"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Because you have had to choose them. Proximity can make friendships passive. You see someone every day and confuse that familiarity for depth.",
-            "zh": "因為你必須主動選擇他們。地理上的接近可以讓友誼變被動。你每天看到一個人，卻把那種熟悉感誤認為深度。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "And with long-distance you only talk when there is something real to say.",
-            "zh": "而長距離的話，你只有在有真實的話要說時才聯絡。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Exactly. The scarcity forces quality. Each conversation tends to matter more.",
-            "zh": "沒錯。稀少性逼出了品質。每次對話往往更有意義。",
-            "vocab": [
-              {
-                "word": "scarcity forces quality",
-                "def": "重質不重量"
-              }
-            ]
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "So maybe distance is not just a problem to manage. It is also something that can deepen a friendship.",
-            "zh": "所以距離也許不只是要應對的問題。它也可以是深化友誼的東西。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "If both people are willing, yes. Distance removes the casual. What is left is only what both people actually want to keep.",
-            "zh": "如果兩個人都願意的話，是的。距離移除了隨性的部分。留下來的只有兩個人真正想要保留的東西。"
-          },
-          {
-            "speaker": "b",
-            "speakerName": "Jamie",
-            "en": "That is a generous way to look at it. Distance as a filter, not just an obstacle.",
-            "zh": "那是個寬容的看法。距離是一個過濾器，而不只是一個障礙。"
-          },
-          {
-            "speaker": "a",
-            "speakerName": "Mira",
-            "en": "Right. And the friendships that survive it, you tend to trust a little more because you know they were not just convenient.",
-            "zh": "對。而撐過了距離的友誼，你往往會多信任一點，因為你知道它們不只是方便而已。"
+            "en": "That is it. Distance does not erase shared history. It just means you have to choose to continue writing it.",
+            "zh": "就是這樣。距離不會抹去共同的過去，只是意味著你必須選擇繼續書寫它。"
           }
         ]
       }
@@ -1123,13 +920,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That standoff is very common. Both people are waiting for the other to move. The longer it goes on, the harder it becomes.",
-            "zh": "那種對峙非常常見。兩個人都在等另一個先動。持續越久，就越難開口。",
-            "vocab": [
-              {
-                "word": "Both people",
-                "def": "吵架、鬧翻"
-              }
-            ]
+            "zh": "那種對峙非常常見。兩個人都在等另一個先動。持續越久，就越難開口。"
           },
           {
             "speaker": "b",
@@ -1176,25 +967,13 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Even when I want to patch things up, I do not know how to start. What stops people from repairing a friendship?",
-            "zh": "即使我想修好這段友誼，我也不知道怎麼開始。是什麼讓人們無法修復一段友誼？",
-            "vocab": [
-              {
-                "word": "patch things up",
-                "def": "修補關係"
-              }
-            ]
+            "zh": "即使我想修好這段友誼，我也不知道怎麼開始。是什麼讓人們無法修復一段友誼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pride is the biggest one. People wait for the other person to apologize first. But if both are waiting, nothing moves.",
-            "zh": "自尊是最大的一個。大家都在等另一個人先道歉。但如果兩個人都在等，什麼都不會動。",
-            "vocab": [
-              {
-                "word": "pride",
-                "def": "自尊、驕傲"
-              }
-            ]
+            "zh": "自尊是最大的一個。大家都在等另一個人先道歉。但如果兩個人都在等，什麼都不會動。"
           },
           {
             "speaker": "b",
@@ -1206,13 +985,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That fear is often a misunderstanding. Repair does not mean going back. It means building something that includes what happened.",
-            "zh": "那個恐懼常常是一個誤解。修復不是回到原點，而是建立一個把發生過的事納入其中的東西。",
-            "vocab": [
-              {
-                "word": "repair",
-                "def": "修復關係或互動中的裂痕"
-              }
-            ]
+            "zh": "那個恐懼常常是一個誤解。修復不是回到原點，而是建立一個把發生過的事納入其中的東西。"
           },
           {
             "speaker": "b",
@@ -1253,13 +1026,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A good apology has three things: what you did, why it was a problem, and what you intend differently. It does not have the word \"but\" anywhere near the middle.",
-            "zh": "一個好的道歉有三件事：你做了什麼、為什麼那是個問題、以及你打算怎麼做不一樣。而且「但是」不能出現在中間任何地方。",
-            "vocab": [
-              {
-                "word": "apology",
-                "def": "道歉"
-              }
-            ]
+            "zh": "一個好的道歉有三件事：你做了什麼、為什麼那是個問題、以及你打算怎麼做不一樣。而且「但是」不能出現在中間任何地方。"
           },
           {
             "speaker": "b",
@@ -1283,13 +1050,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Wait. After an apology, the kindest thing you can do is leave space. Do not rush to explain yourself or fill the silence.",
-            "zh": "等待。道歉之後，你能做的最體貼的事是留下空間。不要急著解釋自己或填滿沉默。",
-            "vocab": [
-              {
-                "word": "leave space",
-                "def": "給對方空間"
-              }
-            ]
+            "zh": "等待。道歉之後，你能做的最體貼的事是留下空間。不要急著解釋自己或填滿沉默。"
           },
           {
             "speaker": "b",
@@ -1330,13 +1091,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Something like, \"I have been thinking about you. I miss our friendship. I know things got complicated. I hope we can talk when you are ready.\"",
-            "zh": "像是「我一直在想你。我想念我們的友誼。我知道事情變得複雜了。我希望當你準備好的時候我們能聊聊。」",
-            "vocab": [
-              {
-                "word": "miss our friendship",
-                "def": "想念某人"
-              }
-            ]
+            "zh": "像是「我一直在想你。我想念我們的友誼。我知道事情變得複雜了。我希望當你準備好的時候我們能聊聊。」"
           },
           {
             "speaker": "b",
@@ -1377,13 +1132,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The goal is understanding, not winning. If you go in to prove your point, the conversation will not heal anything.",
-            "zh": "目標是理解，不是贏。如果你進去是為了證明你的觀點，那次對話不會修復任何東西。",
-            "vocab": [
-              {
-                "word": "understanding",
-                "def": "相互理解"
-              }
-            ]
+            "zh": "目標是理解，不是贏。如果你進去是為了證明你的觀點，那次對話不會修復任何東西。"
           },
           {
             "speaker": "b",
@@ -1488,13 +1237,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Social media is optimized for visibility, not connection. You can be seen by many people and still not feel truly known by anyone.",
-            "zh": "社群媒體是為了曝光而優化，不是為了連結。你可以被很多人看見，但還是不覺得被任何人真正了解。",
-            "vocab": [
-              {
-                "word": "visibility",
-                "def": "曝光、能見度"
-              }
-            ]
+            "zh": "社群媒體是為了曝光而優化，不是為了連結。你可以被很多人看見，但還是不覺得被任何人真正了解。"
           },
           {
             "speaker": "b",
@@ -1518,13 +1261,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is comparison. People post their highlights, and you compare their best moments to your ordinary Tuesday. It is not a fair comparison.",
-            "zh": "那是比較。人們貼出他們的精彩時刻，而你把他們最好的時刻和你平凡的週二相比。那不是公平的比較。",
-            "vocab": [
-              {
-                "word": "fair comparison",
-                "def": "社交比較"
-              }
-            ]
+            "zh": "那是比較。人們貼出他們的精彩時刻，而你把他們最好的時刻和你平凡的週二相比。那不是公平的比較。"
           },
           {
             "speaker": "b",
@@ -1559,31 +1296,19 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the habit of passive engagement can make us feel like we are maintaining friendships when we are actually just watching them from a distance.",
-            "zh": "所以被動互動的習慣會讓我們覺得在維持友誼，實際上我們只是在遠距離觀看。",
-            "vocab": [
-              {
-                "word": "passive engagement",
-                "def": "被動互動"
-              }
-            ]
+            "zh": "所以被動互動的習慣會讓我們覺得在維持友誼，實際上我們只是在遠距離觀看。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
-            "zh": "沒錯。而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。",
-            "vocab": [
-              {
-                "word": "algorithm",
-                "def": "演算法製造了接觸的幻覺"
-              }
-            ]
+            "zh": "沒錯。而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a strange thing to think about. I have probably lost touch with people while thinking I was keeping up with them.",
-            "zh": "那是個奇怪的想法。我可能一直以為自己在關注某人，實際上已經和他們失去聯絡了。"
+            "en": "That framing shifts the whole picture.",
+            "zh": "這個框架改變了整個畫面。"
           },
           {
             "speaker": "a",
@@ -1630,25 +1355,13 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could say, \"We interact a lot online, but in person we do not really talk.\" Or, \"She posts constantly but is hard to reach when you actually need her.\"",
-            "zh": "你可以說「我們網路上互動很多，但面對面我們不太說話」。或者「她一直在發文，但當你真的需要她時很難聯絡上」。",
-            "vocab": [
-              {
-                "word": "interact",
-                "def": "互動"
-              }
-            ]
+            "zh": "你可以說「我們網路上互動很多，但面對面我們不太說話」。或者「她一直在發文，但當你真的需要她時很難聯絡上」。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about describing the feeling of seeing something on social media that made you feel left out?",
-            "zh": "那如何描述看到社群媒體上某些東西讓你感覺被排除在外的感覺？",
-            "vocab": [
-              {
-                "word": "feel left out",
-                "def": "感到被排除、被冷落"
-              }
-            ]
+            "zh": "那如何描述看到社群媒體上某些東西讓你感覺被排除在外的感覺？"
           },
           {
             "speaker": "a",
@@ -1671,7 +1384,7 @@ export const WEEK_11: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — Using Social Media Better for Friendships",
+        "title": "Part 4 — What It Revealed About Language",
         "lines": [
           {
             "speaker": "b",
@@ -1683,13 +1396,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use it as a trigger, not a substitute. See something and think of a friend? Do not just like it, send them a message about it.",
-            "zh": "把它當作觸發器，而不是替代品。看到什麼想到一個朋友？不要只是按讚，給他們發一則關於它的訊息。",
-            "vocab": [
-              {
-                "word": "trigger",
-                "def": "觸發點"
-              }
-            ]
+            "zh": "把它當作觸發器，而不是替代品。看到什麼想到一個朋友？不要只是按讚，給他們發一則關於它的訊息。"
           },
           {
             "speaker": "b",
@@ -1713,13 +1420,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That helps too. When you scroll less, each time you see someone's post it feels more notable, not just noise in a feed.",
-            "zh": "那也有幫助。當你滑得少，你每次看到某人的貼文感覺更值得注意，而不只是動態上的噪音。",
-            "vocab": [
-              {
-                "word": "scroll",
-                "def": "滑動、瀏覽動態"
-              }
-            ]
+            "zh": "那也有幫助。當你滑得少，你每次看到某人的貼文感覺更值得注意，而不只是動態上的噪音。"
           },
           {
             "speaker": "b",
@@ -1732,12 +1433,7 @@ export const WEEK_11: Episode[] = [
             "speakerName": "Mira",
             "en": "Right. The same app can either deepen a friendship or hollow it out. Depends entirely on how you use it.",
             "zh": "對。同一個應用程式可以深化一段友誼，也可以掏空它。完全取決於你怎麼用。"
-          }
-        ]
-      },
-      {
-        "title": "Part 5 — What Real Connection Looks Like in a Digital Age",
-        "lines": [
+          },
           {
             "speaker": "b",
             "speakerName": "Jamie",
@@ -1760,13 +1456,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Maybe that attention is the real currency. That choosing to give someone your focused attention is the most valuable thing you can offer.",
-            "zh": "也許是注意力才是真正的貨幣。選擇給予某人你專注的注意力，是你能提供的最有價值的東西。",
-            "vocab": [
-              {
-                "word": "focused attention",
-                "def": "專注的注意力"
-              }
-            ]
+            "zh": "也許是注意力才是真正的貨幣。選擇給予某人你專注的注意力，是你能提供的最有價值的東西。"
           },
           {
             "speaker": "b",
@@ -1859,13 +1549,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not a clear line, more a quiet accumulation. It is usually when you realize you would tell them something before you tell anyone else.",
-            "zh": "沒有清楚的界線，更像是一種安靜的累積。通常是當你意識到你會在告訴任何人之前先告訴他們。",
-            "vocab": [
-              {
-                "word": "quiet accumulation",
-                "def": "很多小的付出慢慢累積成真正的改變"
-              }
-            ]
+            "zh": "沒有清楚的界線，更像是一種安靜的累積。通常是當你意識到你會在告訴任何人之前先告訴他們。"
           },
           {
             "speaker": "b",
@@ -1918,13 +1602,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Time is part of it. Deep friendship requires enough shared experience that you know each other across different seasons of life.",
-            "zh": "時間是一部分。深厚的友誼需要足夠的共同經歷，讓你們在不同人生階段都互相了解。",
-            "vocab": [
-              {
-                "word": "deep friendship",
-                "def": "深厚的友誼"
-              }
-            ]
+            "zh": "時間是一部分。深厚的友誼需要足夠的共同經歷，讓你們在不同人生階段都互相了解。"
           },
           {
             "speaker": "b",
@@ -1936,13 +1614,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Most people are guarded early in a friendship. The guard comes down slowly as trust accumulates.",
-            "zh": "對。大多數人在友誼初期是有防備的。隨著信任累積，防備慢慢放下。",
-            "vocab": [
-              {
-                "word": "guard",
-                "def": "防備心"
-              }
-            ]
+            "zh": "對。大多數人在友誼初期是有防備的。隨著信任累積，防備慢慢放下。"
           },
           {
             "speaker": "b",
@@ -1995,17 +1667,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfect. That sentence tells me everything. It shows the relationship, not just labels it. That is the difference.",
-            "zh": "完美。那句話告訴了我一切。它展示了這段關係，而不只是貼標籤。那是差別所在。",
-            "vocab": [
-              {
-                "word": "sentence tells",
-                "def": "無條件的支持"
-              },
-              {
-                "word": "sentence tells",
-                "def": "不必修飾自己地相處"
-              }
-            ]
+            "zh": "完美。那句話告訴了我一切。它展示了這段關係，而不只是貼標籤。那是差別所在。"
           },
           {
             "speaker": "b",
@@ -2046,13 +1708,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Taking it for granted. Assuming the friendship is solid enough that it does not need tending. Even strong friendships need attention.",
-            "zh": "把它視為理所當然。假設這段友誼夠穩固所以不需要照料。即使是強的友誼也需要關注。",
-            "vocab": [
-              {
-                "word": "granted",
-                "def": "視為理所當然"
-              }
-            ]
+            "zh": "把它視為理所當然。假設這段友誼夠穩固所以不需要照料。即使是強的友誼也需要關注。"
           },
           {
             "speaker": "b",
@@ -2076,13 +1732,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Celebrate their wins, even the small ones. Many friendships are good at showing up for hard times but forget to show up for the good ones.",
-            "zh": "慶祝他們的成功，即使是小的。很多友誼很擅長在困難時出現，但忘記在好的時候也要出現。",
-            "vocab": [
-              {
-                "word": "show up",
-                "def": "出現；出席"
-              }
-            ]
+            "zh": "慶祝他們的成功，即使是小的。很多友誼很擅長在困難時出現，但忘記在好的時候也要出現。"
           },
           {
             "speaker": "b",
@@ -2111,13 +1761,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the most common thing people say when they describe a best friendship. That feeling of being enough is exactly what makes it irreplaceable.",
-            "zh": "那是人們描述最好的友誼時最常說的事。那種足夠的感覺正是讓它無可取代的東西。",
-            "vocab": [
-              {
-                "word": "irreplaceable",
-                "def": "無可取代的"
-              }
-            ]
+            "zh": "那是人們描述最好的友誼時最常說的事。那種足夠的感覺正是讓它無可取代的東西。"
           },
           {
             "speaker": "b",
@@ -2135,13 +1779,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the best friendship creates a space where you do not need to perform.",
-            "zh": "所以最好的友誼創造了一個你不需要表演的空間。",
-            "vocab": [
-              {
-                "word": "perform",
-                "def": "表演；刻意展現"
-              }
-            ]
+            "zh": "所以最好的友誼創造了一個你不需要表演的空間。"
           },
           {
             "speaker": "a",
@@ -2228,13 +1866,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is less common than it should be. Most people naturally drift toward people who mirror their own experience. Crossing that line takes more attention.",
-            "zh": "比它應該有的更不常見。大多數人自然地傾向於靠近反映他們自身經歷的人。跨越那條線需要更多的注意力。",
-            "vocab": [
-              {
-                "word": "mirror",
-                "def": "鏡像；模仿以建立連結"
-              }
-            ]
+            "zh": "比它應該有的更不常見。大多數人自然地傾向於靠近反映他們自身經歷的人。跨越那條線需要更多的注意力。"
           },
           {
             "speaker": "b",
@@ -2287,13 +1919,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When one person expects the other to think like them. Especially when things get political or emotional. The friendship hits a wall when one side stops being curious.",
-            "zh": "當一個人期待另一個人像他們一樣思考的時候。尤其是當事情變得政治性或情緒性的時候。當一方停止好奇心時，友誼就碰壁了。",
-            "vocab": [
-              {
-                "word": "political",
-                "def": "觀點、視角"
-              }
-            ]
+            "zh": "當一個人期待另一個人像他們一樣思考的時候。尤其是當事情變得政治性或情緒性的時候。當一方停止好奇心時，友誼就碰壁了。"
           },
           {
             "speaker": "b",
@@ -2317,13 +1943,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First, separate the view from the person. You can disagree with someone's politics and still respect them. They are not identical.",
-            "zh": "首先，把觀點和那個人分開。你可以不同意某人的政治觀點，但仍然尊重他們。它們不是同一件事。",
-            "vocab": [
-              {
-                "word": "disagree",
-                "def": "不同意"
-              }
-            ]
+            "zh": "首先，把觀點和那個人分開。你可以不同意某人的政治觀點，但仍然尊重他們。它們不是同一件事。"
           },
           {
             "speaker": "b",
@@ -2352,13 +1972,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Shift from debate mode to exploration mode. Say, \"Help me understand your thinking,\" instead of, \"You are wrong because.\"",
-            "zh": "從辯論模式轉換到探索模式。說「幫我理解你的想法」，而不是「你錯了，因為……」。",
-            "vocab": [
-              {
-                "word": "help me understand",
-                "def": "幫我理解"
-              }
-            ]
+            "zh": "從辯論模式轉換到探索模式。說「幫我理解你的想法」，而不是「你錯了，因為……」。"
           },
           {
             "speaker": "b",
@@ -2382,13 +1996,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
-            "zh": "沒錯。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。",
-            "vocab": [
-              {
-                "word": "without turning",
-                "def": "接受並面對某事"
-              }
-            ]
+            "zh": "沒錯。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
           },
           {
             "speaker": "b",
@@ -2417,13 +2025,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "How many things I assumed were universal are actually just cultural. What counts as rude, what counts as too direct, how much you share with acquaintances.",
-            "zh": "我以為是普遍的事情，有多少只是文化上的。什麼算失禮、什麼算太直接、你和點頭之交分享多少。",
-            "vocab": [
-              {
-                "word": "cultural",
-                "def": "文化假設"
-              }
-            ]
+            "zh": "我以為是普遍的事情，有多少只是文化上的。什麼算失禮、什麼算太直接、你和點頭之交分享多少。"
           },
           {
             "speaker": "b",
@@ -2447,13 +2049,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the best kind. You do not have to change your views. But seeing where they come from makes you hold them with a little more humility.",
-            "zh": "那是最好的那種。你不必改變你的觀點。但看到它們從哪裡來，讓你更謙遜地持有它們。",
-            "vocab": [
-              {
-                "word": "humility",
-                "def": "謙遜"
-              }
-            ]
+            "zh": "那是最好的那種。你不必改變你的觀點。但看到它們從哪裡來，讓你更謙遜地持有它們。"
           },
           {
             "speaker": "b",
@@ -2482,13 +2078,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Almost certainly. It is hard to fully dehumanize someone you have laughed with over dinner. Familiarity matters.",
-            "zh": "幾乎可以確定。很難把你曾經在晚餐上一起大笑過的人完全非人化。熟悉感很重要。",
-            "vocab": [
-              {
-                "word": "fully",
-                "def": "完整地；充分地"
-              }
-            ]
+            "zh": "幾乎可以確定。很難把你曾經在晚餐上一起大笑過的人完全非人化。熟悉感很重要。"
           },
           {
             "speaker": "b",

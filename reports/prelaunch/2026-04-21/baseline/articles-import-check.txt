@@ -1,0 +1,34 @@
+Articles import: 37/53 files importable
+Failures:
+- articles-w04.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w04.ts:54:1029: ERROR: Expected "}" but found "s"
+- articles-w07.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w07.ts:9:901: ERROR: Expected "}" but found "s"
+- articles-w09.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w09.ts:24:1872: ERROR: Expected "}" but found "s"
+- articles-w12.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w12.ts:9:1123: ERROR: Expected "}" but found "s"
+- articles-w13.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w13.ts:24:263: ERROR: Expected "}" but found "s"
+- articles-w14.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w14.ts:9:2716: ERROR: Expected "}" but found "s"
+- articles-w15.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w15.ts:24:1663: ERROR: Expected "}" but found "s"
+- articles-w16.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w16.ts:9:837: ERROR: Expected "}" but found "s"
+- articles-w17.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w17.ts:9:853: ERROR: Expected "}" but found "s"
+- articles-w19.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w19.ts:9:95: ERROR: Expected "}" but found "s"
+- articles-w20.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w20.ts:24:1625: ERROR: Expected "}" but found "other"
+- articles-w30.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w30.ts:9:806: ERROR: Expected "}" but found "s"
+- articles-w41.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w41.ts:9:1365: ERROR: Expected "}" but found "s"
+- articles-w51.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w51.ts:9:2000: ERROR: Expected "}" but found "s"
+- articles-w52.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w52.ts:9:1565: ERROR: Expected "}" but found "t"
+- articles-w53.ts: Transform failed with 1 error:
+/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/content/articles/articles-w53.ts:24:2156: ERROR: Expected "}" but found "s"

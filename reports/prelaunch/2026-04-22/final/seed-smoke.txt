@@ -1,0 +1,13 @@
+SAV Seeding — start
+Target: https://ioosxzbdkscllgesmeqw.supabase.co
+
+── Episodes ──
+
+Seed failed: Error: [episodes] TypeError: fetch failed
+    at upsert (/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/scripts/seed.ts:48:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async seedEpisodes (/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/scripts/seed.ts:87:3)
+    at async main (/Users/suh/Desktop/study-anywhere-voyage/study-anywhere-voyage-daily-english/scripts/seed.ts:245:5)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: ioosxzbdkscllgesmeqw.supabase.co

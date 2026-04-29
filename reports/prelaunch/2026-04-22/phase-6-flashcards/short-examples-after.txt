@@ -1,0 +1,2 @@
+Flashcard example length: 0/583 below 12 words
+All flashcard examples meet the minimum length.

@@ -87,40 +87,17 @@ async function seedEpisodes() {
   await upsert('episodes', rows, 'week_number,day_of_week')
 }
 
-// ── seed articles ─────────────────────────────────────────────────────────────
+// ── retire legacy articles ───────────────────────────────────────────────────
 
-async function seedArticles() {
-  console.log('\n── Articles ──')
-  const rows: object[] = []
+async function retireLegacyArticles() {
+  console.log('\n── Legacy Articles ──')
+  const { error } = await supabase
+    .from('articles')
+    .delete()
+    .neq('id', '00000000-0000-0000-0000-000000000000')
 
-  for (let w = 1; w <= 53; w++) {
-    const pad    = String(w).padStart(2, '0')
-    const mod    = await import(`../content/articles/articles-w${pad}`)
-    const key    = `W${w}_ARTICLES`
-    const arts: any[] = mod[key] ?? []
-    const expected = getExpectedWeekLength(w)
-    const normalized = arts.slice(0, expected)
-
-    if (arts.length > expected) {
-      console.warn(`[articles] W${pad} has ${arts.length} articles; trimming to ${expected}.`)
-    }
-
-    normalized.forEach((a, i) => {
-      rows.push({
-        date_key:    a.dateKey ?? `legacy-w${pad}-d${String(i + 1).padStart(2, '0')}`,
-        week_number: w,
-        day_of_week: i + 1,
-        topic:      a.topic,
-        title:      a.title,
-        word_count: a.wordCount,
-        text_en:    a.text,
-        text_zh:    a.textZh,
-        vocabulary: a.vocabulary,
-      })
-    })
-  }
-
-  await upsert('articles', rows, 'date_key')
+  if (error) throw new Error(`[articles] delete failed: ${error.message}`)
+  console.log('  ✓ articles: retired from seeded product content')
 }
 
 // ── seed flashcards ───────────────────────────────────────────────────────────
@@ -243,7 +220,7 @@ async function main() {
 
   try {
     await seedEpisodes()
-    await seedArticles()
+    await retireLegacyArticles()
     await seedFlashcards()
     await seedQuestions()
     console.log('\nDone.')
