@@ -86,7 +86,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotional lag is normal when the mind understands a change before the body does.",
+            "en": "Right. Emotional lag is normal when the mind understands a change before the body does.",
             "zh": "完全沒錯。當腦袋先理解改變、但身體還沒跟上時，情緒延遲是很正常的。"
           },
           {
@@ -121,7 +121,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What sounds natural if I want to describe being in the middle of a transition?",
+            "en": "When I want to describe being in the middle of a transition, what phrase would feel most natural?",
             "zh": "如果我想用英文描述自己正處在一段轉換中，可以怎麼講？"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Temporary ground matters because people cannot live on pure transition energy forever.",
+            "en": "True. Temporary ground matters because people cannot live on pure transition energy forever.",
             "zh": "完全沒錯。暫時地板很重要，因為人不可能永遠只靠轉換能量活著。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Control loss is part of why transition feels unsettling. You know what is ending before you know how the new thing will hold.",
+            "en": "Precisely. Control loss is part of why transition feels unsettling. You know what is ending before you know how the new thing will hold.",
             "zh": "完全沒錯。控制感流失正是轉變讓人不安的原因之一。你會先知道舊的東西在結束，卻還不知道新的東西要怎麼撐住。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Identity wobble can start even before any external outcome is final, because the self is already leaning away from certainty.",
+            "en": "Indeed. Identity wobble can start even before any external outcome is final, because the self is already leaning away from certainty.",
             "zh": "完全沒錯。身分搖晃甚至會在外在結果還沒真的定案前就開始，因為自我感已經先離開確定性了。"
           },
           {
@@ -667,7 +667,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Self-image gets rewritten quietly while daily life keeps asking you to answer as if nothing changed.",
+            "en": "True. Self-image gets rewritten quietly while daily life keeps asking you to answer as if nothing changed.",
             "zh": "完全沒錯。自我形象會默默重寫，可是日常生活還是一直逼你用舊答案回應。"
           },
           {
@@ -720,7 +720,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A belonging question often appears when identity rebuild begins, because people wonder where they still fit.",
+            "en": "Precisely. A belonging question often appears when identity rebuild begins, because people wonder where they still fit.",
             "zh": "完全沒錯。當身分重建開始時，歸屬問題常常會浮上來，因為人會開始問自己還屬於哪裡。"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Inner reorientation matters because people often need to turn inward before they can speak outwardly again.",
+            "en": "Indeed. Inner reorientation matters because people often need to turn inward before they can speak outwardly again.",
             "zh": "完全沒錯。內在重新定位很重要，因為很多人需要先在裡面轉向，之後才能再次對外說話。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Beginner energy feels awkward when the person carrying it also remembers competence elsewhere.",
+            "en": "That is right. Beginner energy feels awkward when the person carrying it also remembers competence elsewhere.",
             "zh": "完全沒錯。當一個本來在別處已經很熟的人，忽然要重新當新手時，那種初學者能量本來就會很彆扭。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A learning curve feels less humiliating when you remember you are not a child beginner. You are an experienced beginner.",
+            "en": "Precisely. A learning curve feels less humiliating when you remember you are not a child beginner. You are an experienced beginner.",
             "zh": "完全沒錯。當你記得自己不是孩童式新手，而是有經驗的新手時，學習曲線就沒那麼羞辱人。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A core value helps because it gives the self a center while the external shape keeps changing.",
+            "en": "Indeed. A core value helps because it gives the self a center while the external shape keeps changing.",
             "zh": "完全沒錯。核心價值很有幫助，因為當外在形狀一直在變時，它還是能替自己留一個中心。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A personal anchor matters because otherwise every external demand starts sounding equally important.",
+            "en": "That is right. A personal anchor matters because otherwise every external demand starts sounding equally important.",
             "zh": "完全沒錯。個人錨點很重要，不然每一個外在要求最後都會聽起來一樣重要。"
           },
           {
@@ -1455,7 +1455,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Self-preservation matters because adaptation should expand life, not quietly shrink the self.",
+            "en": "That is true. Self-preservation matters because adaptation should expand life, not quietly shrink the self.",
             "zh": "完全沒錯。自我保存很重要，因為適應應該是擴大生活，不是默默把自己縮小。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An honest ending often hurts because truth is arriving at the same time as loss.",
+            "en": "Indeed. An honest ending often hurts because truth is arriving at the same time as loss.",
             "zh": "完全沒錯。誠實的結束之所以會痛，是因為真相和失去往往會一起到場。"
           },
           {
@@ -1772,7 +1772,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotional clutter makes it hard to hear what the next season is asking for.",
+            "en": "That is right. Emotional clutter makes it hard to hear what the next season is asking for.",
             "zh": "完全沒錯。情緒雜物會讓人很難聽見下一個季節到底在要什麼。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And that is why trusting yourself becomes such important work in uncertain seasons.",
+            "en": "That is true. And that is why trusting yourself becomes such important work in uncertain seasons.",
             "zh": "完全沒錯。而那也就是為什麼，在不確定時期裡，信任自己會變成這麼重要的功課。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An internal compass matters because external information is often incomplete in the middle of change.",
+            "en": "Yes. An internal compass matters because external information is often incomplete in the middle of change.",
             "zh": "完全沒錯。內在羅盤很重要，因為在變化的中間，外在資訊常常本來就不完整。"
           },
           {

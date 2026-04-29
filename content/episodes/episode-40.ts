@@ -55,7 +55,7 @@ export const EPISODE_40: Episode = {
         { speaker: 'a', speakerName: 'Mira', en: 'Fear and love are often two sides of the same thing. You fear losing what you love.', zh: '恐懼和愛往往是同一事物的兩面，你害怕失去你所愛的。', vocab: [{ word: 'two sides of the same thing', def: 'closely related aspects that come from the same source' }] },
         { speaker: 'b', speakerName: 'Jamie', en: 'Sitting with fear instead of running from it — asking "what is this trying to protect?" — is transformative.', zh: '與恐懼共處而不是逃離它——問「這試圖保護什麼？」——是變革性的。', vocab: [{ word: 'sitting with fear', def: 'accepting and exploring a fear rather than avoiding or denying it' }] },
         { speaker: 'a', speakerName: 'Mira', en: 'Most fear is a signal, not a stop sign. It tells you something needs attention.', zh: '大多數恐懼是一個信號，而不是停止標誌，它告訴你某些事情需要注意。', vocab: [{ word: 'signal vs stop sign', def: 'something that warns you to pay attention vs. something that tells you to quit' }] },
-        { speaker: 'b', speakerName: 'Jamie', en: 'Use fear as information. "What matters enough to me that I\'m afraid of losing it?"', zh: '將恐懼用作信息，「什麼對我足夠重要，以至於我害怕失去它？」' },
+        { speaker: 'b', speakerName: 'Jamie', en: 'Use fear as information. "What matters enough to me that I\'m afraid of losing it?"', zh: '把恐懼當作資訊，「什麼對我足夠重要，以至於我害怕失去它？」' },
       ]
     },
     {

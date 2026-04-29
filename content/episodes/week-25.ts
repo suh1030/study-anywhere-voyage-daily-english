@@ -239,7 +239,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. I never gave the wins the same treatment. They got filed away and the failures stayed front of mind.",
+            "en": "I think so. I never gave the wins the same treatment. They got filed away and the failures stayed front of mind.",
             "zh": "就是這樣。我從來沒有給勝利同樣的待遇。勝利被歸檔了，失敗卻一直留在腦前。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the audience was mostly made up of people who were not actually paying attention to me.",
+            "en": "That's true. And the audience was mostly made up of people who were not actually paying attention to me.",
             "zh": "就是這樣。而那個觀眾大多是由那些實際上根本沒在注意我的人組成的。"
           },
           {
@@ -1326,7 +1326,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And those values help you recognize a good unexpected opportunity when it shows up.",
+            "en": "That is the point. And those values help you recognize a good unexpected opportunity when it shows up.",
             "zh": "就是這樣。而那些價值觀幫助你在意外機會出現時認出它。"
           }
         ]
@@ -1426,7 +1426,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. And then we could actually talk about what to do next.",
+            "en": "Exactly right. And then we could actually talk about what to do next.",
             "zh": "就是這樣。然後我們才真的能談接下來怎麼做。"
           },
           {
@@ -1838,7 +1838,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And over time, a collection of those specific moments builds a real picture of your character and growth.",
+            "en": "Yes. And over time, a collection of those specific moments builds a real picture of your character and growth.",
             "zh": "就是這樣。隨著時間，那些具體時刻的積累建立了你性格和成長的真實圖像。"
           },
           {
@@ -1943,7 +1943,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The less you rely on willpower in the moment, the more consistent you become over time.",
+            "en": "Right. The less you rely on willpower in the moment, the more consistent you become over time.",
             "zh": "就是這樣。你在當下越少依賴意志力，你隨著時間就越一致。"
           },
           {

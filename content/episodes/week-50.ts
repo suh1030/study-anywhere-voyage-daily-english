@@ -33,7 +33,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Real gratitude does not erase pain. It changes what else is visible alongside the pain.",
+            "en": "That's the key. Real gratitude does not erase pain. It changes what else is visible alongside the pain.",
             "zh": "沒錯。真正的感謝不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
+            "en": "I think so. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
             "zh": "沒錯。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and small climate shifts can change a lot over time.",
+            "en": "Yes. small climate shifts can change a lot over time.",
             "zh": "對，而小小的氣候改變，時間一久其實會改很多。"
           }
         ]
@@ -245,7 +245,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Practice helps too, but not as performance. More as a way of reminding the mind where it can return when stress narrows it.",
+            "en": "That's true. Practice helps too, but not as performance. More as a way of reminding the mind where it can return when stress narrows it.",
             "zh": "沒錯。練習也有幫助，但不是表演式的練習，而比較像是在提醒自己的心：壓力把你縮小時，你還能回去哪裡。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Appreciation becomes powerful when it gets specific enough that the other person can actually receive it.",
+            "en": "That is the point. Appreciation becomes powerful when it gets specific enough that the other person can actually receive it.",
             "zh": "沒錯。當感謝夠具體，具體到對方真的收得到時，它才會變得有力量。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The friend who always checks in, the colleague who quietly fixes details, the parent who remembers logistics, the partner who carries mental load.",
+            "en": "Exactly right. The friend who always checks in, the colleague who quietly fixes details, the parent who remembers logistics, the partner who carries mental load.",
             "zh": "沒錯。像是總會來關心的朋友、默默把細節補好的同事、記住一堆流程的父母，或一直扛著心理負擔的伴侶。"
           },
           {
@@ -468,7 +468,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Behavior-based appreciation often feels more believable and less performative.",
+            "en": "Yes. Behavior-based appreciation often feels more believable and less performative.",
             "zh": "沒錯。以行為為基礎的感謝，通常比較可信，也比較不表演。"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Specific appreciation gives people a mirror that reflects their actual value back to them.",
+            "en": "Right. Specific appreciation gives people a mirror that reflects their actual value back to them.",
             "zh": "沒錯。具體的感謝會像一面鏡子，把一個人真正的價值反射回給他。"
           },
           {
@@ -533,7 +533,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why it matters so much in close relationships.",
+            "en": "Yes. that is why it matters so much in close relationships.",
             "zh": "對，而這也是它在親近關係裡那麼重要的原因。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Appreciation becomes more urgent once you realize how much of life is temporary, unannounced, and already passing.",
+            "en": "Right. Appreciation becomes more urgent once you realize how much of life is temporary, unannounced, and already passing.",
             "zh": "沒錯。當你意識到人生有多少東西是暫時的、沒有預告的、而且已經在流走時，感謝就會突然變得更迫切。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ordinary beauty often lives in light, timing, routine, gesture, or tiny forms of care that are easy to step past.",
+            "en": "Yes. Ordinary beauty often lives in light, timing, routine, gesture, or tiny forms of care that are easy to step past.",
             "zh": "沒錯。日常的美，常常活在光線、時機、日常節奏、動作，或那些很容易被跨過去的小照顧裡。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It can soften the pace of the mind for a moment and create a little more room to feel alive.",
+            "en": "That's the key. It can soften the pace of the mind for a moment and create a little more room to feel alive.",
             "zh": "沒錯。它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
           },
           {
@@ -740,7 +740,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. It may not solve the hard thing, but it can change the quality of how you live through it.",
-            "zh": "非常是。它不一定解決難題，但會改變你怎麼活過那段難的品質。"
+            "zh": "沒錯。它不一定解決難題，但會改變你怎麼活過那段難的品質。"
           }
         ]
       },
@@ -979,7 +979,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Gratitude often helps by widening the frame. It reminds people of support, context, and what still remains workable.",
+            "en": "I think so. Gratitude often helps by widening the frame. It reminds people of support, context, and what still remains workable.",
             "zh": "沒錯。感謝很常就是透過把框變大來幫忙。它會提醒人：支持還在、脈絡還在，以及還有哪些部分仍然可用。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Under stress, the mind often magnifies what hurts and shrinks what still holds. Perspective helps rebalance that distortion.",
+            "en": "True. Under stress, the mind often magnifies what hurts and shrinks what still holds. Perspective helps rebalance that distortion.",
             "zh": "沒錯。在壓力下，大腦很容易把痛的地方放大，把還撐著你的東西縮小。視角會去重新平衡那種扭曲。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Perspective does not erase the critique. It puts it back inside a larger context where learning is still possible.",
+            "en": "That's true. Perspective does not erase the critique. It puts it back inside a larger context where learning is still possible.",
             "zh": "沒錯。視角不會擦掉那段批評，它只是把那段批評放回一個更大的脈絡裡，而在那個脈絡裡，學習仍然是可能的。"
           },
           {
@@ -1204,7 +1204,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. A larger perspective is often just a larger emotional container.",
-            "zh": "非常是。更大的視角，很多時候其實就是更大的情緒容器。"
+            "zh": "沒錯。更大的視角，很多時候其實就是更大的情緒容器。"
           },
           {
             "speaker": "b",
@@ -1296,7 +1296,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
+            "en": "That is the point. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
             "zh": "沒錯。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The person who prevents a mistake, calms a client, mentors a junior teammate, or keeps the meeting clear may have changed the day without obvious applause.",
+            "en": "Exactly right. The person who prevents a mistake, calms a client, mentors a junior teammate, or keeps the meeting clear may have changed the day without obvious applause.",
             "zh": "沒錯。那個防止錯誤發生的人、安撫客戶的人、帶新人上手的人，或讓會議維持清楚的人，都可能在沒有掌聲的情況下改變了那一天。"
           },
           {
@@ -1455,7 +1455,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Imagine a team lead who regularly names thoughtful work, shared labor, and quiet reliability. People start relaxing into better effort, not only bigger effort.",
+            "en": "Yes. Imagine a team lead who regularly names thoughtful work, shared labor, and quiet reliability. People start relaxing into better effort, not only bigger effort.",
             "zh": "沒錯。想像一個 team lead 會穩定地指出：誰做得很周到、誰分擔了勞務、誰的 quiet reliability 正在支撐大家。人會開始比較放鬆地做出更好的努力，而不是只做更大的努力。"
           },
           {
@@ -1503,7 +1503,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Teams get stronger when people feel seen in accurate, proportionate, human ways.",
+            "en": "Precisely. Teams get stronger when people feel seen in accurate, proportionate, human ways.",
             "zh": "沒錯。當人被準確、合比例、也有人味地看見時，團隊會變強。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. In some places frequent verbal thanks feels warm. In others, repeated action, modesty, or not making the other person uncomfortable may matter more.",
+            "en": "Right. In some places frequent verbal thanks feels warm. In others, repeated action, modesty, or not making the other person uncomfortable may matter more.",
             "zh": "沒錯。有些地方頻繁口頭感謝會讓人覺得溫暖；在另外一些地方，重複性的行動、謙遜，或避免讓對方尷尬，反而更重要。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. In some contexts, gratitude may be shown through returning the favor, preparing something for you, or quietly remembering a need.",
+            "en": "Yes. In some contexts, gratitude may be shown through returning the favor, preparing something for you, or quietly remembering a need.",
             "zh": "沒錯。在某些脈絡裡，感謝可能是透過回報、替你準備什麼，或默默記住你的需要來表達。"
           },
           {
@@ -1691,7 +1691,7 @@ export const WEEK_50: Episode[] = [
         ]
       },
       {
-        "title": "Part 3 — English for This Topic",
+        "title": "Part 3 — English for Cross-Cultural Gratitude",
         "lines": [
           {
             "speaker": "b",
@@ -1767,7 +1767,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. One may think, \"Why do you never say it?\" The other may think, \"How can you not see everything I am already doing?\"",
+            "en": "That's the key. One may think, \"Why do you never say it?\" The other may think, \"How can you not see everything I am already doing?\"",
             "zh": "沒錯。一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is to become more literate in how appreciation moves through human life.",
+            "en": "I think so. The goal is to become more literate in how appreciation moves through human life.",
             "zh": "沒錯。目標是讓自己更有讀寫能力，去看懂感謝怎麼在人類生活裡流動。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It matters in relationships, in work, in hard seasons, and in ordinary beauty because it keeps pointing back to what is already holding us.",
+            "en": "Indeed. It matters in relationships, in work, in hard seasons, and in ordinary beauty because it keeps pointing back to what is already holding us.",
             "zh": "沒錯。它在關係、工作、艱難時期，甚至在 ordinary beauty 裡都重要，因為它一直把人帶回那些其實已經在支撐著自己的東西。"
           },
           {
@@ -2108,7 +2108,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is the version most people can actually keep.",
+            "en": "That's true. That is the version most people can actually keep.",
             "zh": "沒錯。而那也是大多數人真的留得住的版本。"
           },
           {
@@ -2132,7 +2132,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Gratitude is not only a feeling you happen to have. It can become a way of being in the world.",
+            "en": "That is the point. Gratitude is not only a feeling you happen to have. It can become a way of being in the world.",
             "zh": "沒錯。感謝不只是一種你剛好有沒有的感受，它也可能變成你活在世界裡的一種方式。"
           },
           {

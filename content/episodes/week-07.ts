@@ -558,7 +558,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Petrichor is caused by geosmin, a compound released by bacteria in the soil. The rain activates it. It's literally the smell of life.",
-            "zh": "石雨香是由土壤中細菌釋放的一種化合物土腥素引起的。雨水激活它。它字面上就是生命的氣味。"
+            "zh": "石雨香來自土壤中細菌釋放的一種化合物——土腥素。雨水觸發了它。它字面上就是生命的氣味。"
           },
           {
             "speaker": "b",
@@ -893,7 +893,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The seasons are part of being alive on this planet. Being present with them is a form of gratitude.",
+            "en": "That's true. The seasons are part of being alive on this planet. Being present with them is a form of gratitude.",
             "zh": "就是。季節是在這個星球上活著的一部分。與它們同在是一種感恩的形式。"
           }
         ]
@@ -1210,7 +1210,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Love is a better motivator than fear. Protect what you love, not just resist what you fear.",
+            "en": "That is the point. Love is a better motivator than fear. Protect what you love, not just resist what you fear.",
             "zh": "就是。愛是比恐懼更好的動力。保護你愛的東西，不只是抵抗你害怕的東西。"
           }
         ]
@@ -1620,7 +1620,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. So cold weather date activities — ice skating, hot cocoa by the heater — work partly because of shared physical sensation.",
+            "en": "Exactly right. So cold weather date activities — ice skating, hot cocoa by the heater — work partly because of shared physical sensation.",
             "zh": "就是。所以寒冷天氣約會活動——溜冰、在暖器旁喝熱可可——部分原因是共同的身體感覺起了作用。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And it requires no planning, no budget. Weather gave us an intimacy that money can't buy.",
+            "en": "Yes. And it requires no planning, no budget. Weather gave us an intimacy that money can't buy.",
             "zh": "就是。而且它不需要任何計劃，不需要預算。天氣給了我們金錢買不到的親密感。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the shoulder season — the transition between high and low season — often has the best combination of good weather and smaller crowds.",
+            "en": "Right. And the shoulder season — the transition between high and low season — often has the best combination of good weather and smaller crowds.",
             "zh": "就是。而且肩季——旺季和淡季之間的過渡——通常有好天氣和較小人群的最佳組合。"
           },
           {

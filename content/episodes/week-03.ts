@@ -264,7 +264,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The commute is invisible on the job description. But it shapes your day more than almost anything else in it.",
+            "en": "That's true. The commute is invisible on the job description. But it shapes your day more than almost anything else in it.",
             "zh": "正是如此。通勤在職位描述中是看不見的。但它對你的一天的塑造，超過了其中幾乎任何其他事情。"
           }
         ]
@@ -422,7 +422,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The cycling commute is partly a personal choice and partly a question of what your workplace and city make possible. It should not all fall on the individual.",
+            "en": "That is the point. The cycling commute is partly a personal choice and partly a question of what your workplace and city make possible. It should not all fall on the individual.",
             "zh": "正是如此。騎自行車通勤部分是個人選擇，部分是你的工作場所和城市使什麼成為可能的問題。這不應該全部落在個人身上。"
           }
         ]
@@ -557,7 +557,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If the first attempt is on a morning you are already stressed, and something goes wrong, you will associate walking to work with failure. If it is on a light day, the experience is probably pleasant, and that memory pulls you back.",
+            "en": "Exactly right. If the first attempt is on a morning you are already stressed, and something goes wrong, you will associate walking to work with failure. If it is on a light day, the experience is probably pleasant, and that memory pulls you back.",
             "zh": "正是如此。如果第一次嘗試是在你已經有壓力的早晨，而且出了問題，你就會把步行上班與失敗聯繫起來。如果是在輕鬆的一天，體驗可能是愉快的，那個記憶會把你帶回來。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. What you wear can affect how seriously you take the task. It is not vanity; it is a practical cue.",
+            "en": "Yes. What you wear can affect how seriously you take the task. It is not vanity; it is a practical cue.",
             "zh": "沒錯。你穿什麼會影響你多認真看待眼前的任務。這不是虛榮，而是一個實用的提示。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The mistake is treating remote work as universally better or worse. Match where you work to what you are working on.",
+            "en": "Right. The mistake is treating remote work as universally better or worse. Match where you work to what you are working on.",
             "zh": "正是如此。錯誤是把遠端工作視為普遍更好或更差的。把你工作的地點與你正在做的事情匹配起來。"
           },
           {
@@ -833,7 +833,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The brain keeps rehearsing each unfinished task. Writing them down closes the loop and gives your mind permission to stop cycling through them.",
+            "en": "Right. The brain keeps rehearsing each unfinished task. Writing them down closes the loop and gives your mind permission to stop cycling through them.",
             "zh": "正是如此。大腦會一直重播每個還沒收尾的任務。把它們寫下來能幫你收個尾，讓腦袋不用一直反覆想。"
           },
           {
@@ -998,7 +998,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the failure is usually not malice — most people do not realize they are imposing. That is what makes etiquette interesting. It is about awareness, not character.",
+            "en": "Yes. And the failure is usually not malice — most people do not realize they are imposing. That is what makes etiquette interesting. It is about awareness, not character.",
             "zh": "正是如此。而失敗通常不是惡意的——大多數人沒有意識到他們在打擾別人。這就是禮儀的有趣之處。這關乎意識，而不是品格。"
           }
         ]
@@ -1315,7 +1315,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
+            "en": "That's the key. Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
             "zh": "正是如此。這就是為什麼我認為開車通勤在認知上比看起來更消耗——特別是在交通不可預測的情況下。"
           }
         ]
@@ -1680,7 +1680,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
+            "en": "I think so. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
             "zh": "正是如此。決定性的因素不是通勤的長度——而是你是否對如何使用它做出了刻意的選擇。"
           }
         ]
@@ -1762,7 +1762,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A friend I know stopped when she missed her nephew's birthday due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
+            "en": "True. A friend I know stopped when she missed her nephew's birthday due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
             "zh": "正是如此。我認識的一個朋友在因為火車取消而錯過姪子的生日時停止了。不是因為那是發生過的最糟糕的事情——而是因為那是累積的成本變得無法忽視的時刻。"
           },
           {
@@ -1827,7 +1827,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. \"I am doing this for us\" has to actually be said and heard — not just assumed. Once it is acknowledged, people can build around it rather than being slowly worn down by it.",
+            "en": "That's true. \"I am doing this for us\" has to actually be said and heard — not just assumed. Once it is acknowledged, people can build around it rather than being slowly worn down by it.",
             "zh": "正是如此。「我為我們做這件事」必須真正地被說出來和被聽到——而不是僅僅被假設。一旦它被承認，人們就可以圍繞它建立，而不是被它慢慢磨損。"
           },
           {
@@ -1997,7 +1997,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The person who chooses to drive instead of taking transit because the train is too slow is a different problem from the person who has no car and depends on an unreliable bus.",
+            "en": "That is the point. The person who chooses to drive instead of taking transit because the train is too slow is a different problem from the person who has no car and depends on an unreliable bus.",
             "zh": "正是如此。因為地鐵太慢而選擇開車而不是坐交通工具的人，和沒有汽車卻依靠不可靠的公車的人，是不同的問題。"
           }
         ]

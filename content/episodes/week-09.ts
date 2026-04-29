@@ -33,7 +33,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A weak routine rarely feels dramatic. It usually feels like ten small things you keep postponing.",
+            "en": "Right. A weak routine rarely feels dramatic. It usually feels like ten small things you keep postponing.",
             "zh": "沒錯。脆弱的日常很少看起來很戲劇化，它通常比較像十件你一直往後拖的小事。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Health routines mature the moment they become portable.",
+            "en": "Yes. Health routines mature the moment they become portable.",
             "zh": "沒錯。健康日常真正成熟的那一刻，就是它開始可以被帶著走。"
           }
         ]
@@ -252,7 +252,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why it lasts. Ordinary care is the kind you can actually keep doing.",
+            "en": "That's the key. That is why it lasts. Ordinary care is the kind you can actually keep doing.",
             "zh": "沒錯。而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why sleep debt builds so quietly. One late night feels manageable until it becomes four.",
+            "en": "I think so. That is why sleep debt builds so quietly. One late night feels manageable until it becomes four.",
             "zh": "沒錯。這也就是為什麼睡眠債會累得那麼安靜。一個晚睡的夜晚看起來還能撐，直到它變成第四個。"
           },
           {
@@ -528,7 +528,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Recovery gets better the moment you stop treating every tired day like a small emergency.",
+            "en": "That's true. Recovery gets better the moment you stop treating every tired day like a small emergency.",
             "zh": "沒錯。當你不再把每個疲累的日子都當成小型緊急狀況處理時，恢復反而會變得更好。"
           }
         ]
@@ -650,7 +650,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is part of why work-related mental strain gets missed. People often judge by output, not by cost.",
+            "en": "Yes. that is part of why work-related mental strain gets missed. People often judge by output, not by cost.",
             "zh": "有，而這也正是工作相關心理壓力很容易被忽略的原因。大家常常是看產出，不是看代價。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why so many people say they are fine right up until they are not.",
+            "en": "That is the point. That is why so many people say they are fine right up until they are not.",
             "zh": "沒錯。這也就是為什麼很多人會一路說自己沒事，直到真的撐不住。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And it often gets worse when someone is overcommitted but still keeps saying yes out of habit.",
+            "en": "Exactly right. And it often gets worse when someone is overcommitted but still keeps saying yes out of habit.",
             "zh": "沒錯。而且如果一個人已經 overcommitted，卻還是因為習慣一直答應事情，通常會更嚴重。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good nutrition needs steadiness far more than drama.",
+            "en": "Yes. Good nutrition needs steadiness far more than drama.",
             "zh": "沒錯。好的飲食其實更需要穩定，而不是戲劇性。"
           }
         ]
@@ -1032,7 +1032,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is when cravings start feeling dangerous instead of informative.",
+            "en": "Right. That is when cravings start feeling dangerous instead of informative.",
             "zh": "沒錯。也就是在那個時候，cravings 聽起來像危險訊號，而不是一個值得觀察的資訊。"
           },
           {
@@ -1150,7 +1150,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point is to reduce decisions when you are tired, not to become your own cafeteria.",
+            "en": "Right. The point is to reduce decisions when you are tired, not to become your own cafeteria.",
             "zh": "沒錯。重點是在你累的時候幫你減少決定，不是要你把自己變成公司的自助餐部門。"
           },
           {
@@ -1279,7 +1279,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and it often starts with something small. A sore throat, heavy eyes, or a body that suddenly feels slower than usual.",
+            "en": "Yes. it often starts with something small. A sore throat, heavy eyes, or a body that suddenly feels slower than usual.",
             "zh": "會，而且通常都是從一些很小的訊號開始。像喉嚨痛、眼睛很沉，或者整個人突然比平常更遲鈍。"
           },
           {
@@ -1315,7 +1315,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Which is why people often wait longer than they should to slow down.",
+            "en": "Yes. Which is why people often wait longer than they should to slow down.",
             "zh": "沒錯。也正因為如此，人通常都比應該的更晚才願意慢下來。"
           }
         ]
@@ -1421,7 +1421,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sick-day English should help you communicate clearly, not sound impressive.",
+            "en": "That's the key. Sick-day English should help you communicate clearly, not sound impressive.",
             "zh": "沒錯。生病時用的英文，本來就應該幫你清楚溝通，而不是讓你聽起來很厲害。"
           }
         ]
@@ -1515,7 +1515,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Recovery gets easier when you stop negotiating and start cooperating with reality.",
+            "en": "I think so. Recovery gets easier when you stop negotiating and start cooperating with reality.",
             "zh": "沒錯。當你停止討價還價，開始和現實合作時，恢復反而會變得比較容易。"
           },
           {
@@ -1596,7 +1596,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that can make movement feel more exclusive than it really is.",
+            "en": "Yes. that can make movement feel more exclusive than it really is.",
             "zh": "有，而這很容易讓「動起來」這件事聽起來比它本來更排外。"
           },
           {
@@ -1620,7 +1620,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best workout is often the one you do often enough to build a relationship with.",
+            "en": "True. The best workout is often the one you do often enough to build a relationship with.",
             "zh": "沒錯。最好的 workout，很多時候就是那個你做得夠常，常到能和它建立關係的運動。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And people also choose movement they think they should respect, instead of movement they might actually stick with.",
+            "en": "That's true. And people also choose movement they think they should respect, instead of movement they might actually stick with.",
             "zh": "沒錯。而且很多人選的運動，是自己覺得「應該要尊敬」的那種，不是自己真的可能 stick with 的那種。"
           },
           {
@@ -1685,7 +1685,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Repeatable beats impressive almost every time.",
+            "en": "That is the point. Repeatable beats impressive almost every time.",
             "zh": "沒錯。可重複，幾乎每次都比看起來厲害更重要。"
           }
         ]
@@ -1925,7 +1925,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And a lot of people confuse intensity with commitment.",
+            "en": "Exactly right. And a lot of people confuse intensity with commitment.",
             "zh": "沒錯。而且很多人會把強度誤認成承諾。"
           },
           {
@@ -1990,7 +1990,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A habit dies faster when it can only exist in its best form.",
+            "en": "Yes. A habit dies faster when it can only exist in its best form.",
             "zh": "沒錯。一個習慣如果只能用它最漂亮的樣子存在，通常會死得更快。"
           },
           {
@@ -2132,7 +2132,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. All-or-nothing thinking destroys more habits than laziness ever does.",
+            "en": "Precisely. All-or-nothing thinking destroys more habits than laziness ever does.",
             "zh": "沒錯。all-or-nothing thinking 毀掉的習慣，比懶惰本身還多。"
           },
           {

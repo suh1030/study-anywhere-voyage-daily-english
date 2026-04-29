@@ -86,7 +86,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Perspective delay happens when understanding arrives later than the event itself.",
+            "en": "Right. Perspective delay happens when understanding arrives later than the event itself.",
             "zh": "完全沒錯。視角延遲，就是理解總是在事情發生之後才慢慢跟上。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Retrospective clarity matters when it helps a person live the next season with more honesty.",
+            "en": "True. Retrospective clarity matters when it helps a person live the next season with more honesty.",
             "zh": "完全沒錯。事後清楚感很重要，是因為它能幫一個人更誠實地活進下一個階段。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Quiet change is still change, even if nobody applauded when it was happening.",
+            "en": "Precisely. Quiet change is still change, even if nobody applauded when it was happening.",
             "zh": "完全沒錯。安靜的改變一樣是改變，就算它發生時沒有人替你鼓掌。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Growth blindness happens when people only count dramatic outcomes and ignore changed reactions.",
+            "en": "Indeed. Growth blindness happens when people only count dramatic outcomes and ignore changed reactions.",
             "zh": "完全沒錯。成長盲點常常發生在：人只計算戲劇性結果，卻忽略了自己已經改變的反應方式。"
           },
           {
@@ -667,7 +667,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Survival learning leaves marks. It teaches through repetition, fear, and adaptation.",
+            "en": "True. Survival learning leaves marks. It teaches through repetition, fear, and adaptation.",
             "zh": "完全沒錯。生存式學習會留下痕跡。它是透過重複、害怕和調整來教你的。"
           },
           {
@@ -720,7 +720,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Pressure wisdom is often clearer than comfortable theory because the stakes forced attention.",
+            "en": "Precisely. Pressure wisdom is often clearer than comfortable theory because the stakes forced attention.",
             "zh": "完全沒錯。壓力中的智慧常常比舒適狀態下的理論更清楚，因為代價逼出了真正的注意力。"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Recovered strength matters because the goal is not to admire the wound. It is to notice what was built around it.",
+            "en": "Indeed. Recovered strength matters because the goal is not to admire the wound. It is to notice what was built around it.",
             "zh": "完全沒錯。修復後的力量很重要，因為目標不是崇拜那道傷，而是看見傷的周圍到底長出了什麼。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A meaningful encounter can quietly rearrange what a person expects from themselves.",
+            "en": "That is right. A meaningful encounter can quietly rearrange what a person expects from themselves.",
             "zh": "完全沒錯。一場有意義的相遇，常常會很安靜地重新排列一個人對自己的期待。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lasting imprint matters because some influences are still active long after the original relationship changed.",
+            "en": "Precisely. A lasting imprint matters because some influences are still active long after the original relationship changed.",
             "zh": "完全沒錯。長久痕跡很重要，因為有些影響就算原本那段關係早就變了，還是繼續活著。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Regret can reveal value, and gratitude can coexist with pain.",
+            "en": "Indeed. Regret can reveal value, and gratitude can coexist with pain.",
             "zh": "完全沒錯。後悔有時候會揭露價值，而感謝也可以和痛一起存在。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Gratitude perspective helps because it does not erase regret. It simply widens the frame around it.",
+            "en": "That is right. Gratitude perspective helps because it does not erase regret. It simply widens the frame around it.",
             "zh": "完全沒錯。感謝視角有幫助，不是因為它把後悔擦掉，而是因為它把後悔放進比較大的框裡。"
           },
           {
@@ -1455,7 +1455,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Honest reflection matters because people need permission to feel the full shape of experience before summarizing it.",
+            "en": "That is true. Honest reflection matters because people need permission to feel the full shape of experience before summarizing it.",
             "zh": "完全沒錯。誠實反思很重要，因為人在下結論之前，需要先被允許感受整段經驗完整的形狀。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Lingering loyalty keeps many people tied to pain long after the lesson is learned.",
+            "en": "Indeed. Lingering loyalty keeps many people tied to pain long after the lesson is learned.",
             "zh": "完全沒錯。延遲忠誠感會讓很多人就算教訓早就學會了，還是繼續和痛綁在一起。"
           },
           {
@@ -1701,7 +1701,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What sounds natural if I want to say I am ready to leave something behind?",
+            "en": "When I want to say I am ready to leave something behind, what phrase would feel most natural?",
             "zh": "如果我想用英文說，我準備好把某個東西留在身後了，可以怎麼講？"
           },
           {
@@ -1772,7 +1772,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An outdated pattern does not disappear just because you dislike it. It weakens when the daily conditions that feed it start changing.",
+            "en": "That is right. An outdated pattern does not disappear just because you dislike it. It weakens when the daily conditions that feed it start changing.",
             "zh": "完全沒錯。過時模式不會只因為你不喜歡它就消失。它會變弱，是因為每天餵養它的條件開始改變了。"
           },
           {
@@ -1930,7 +1930,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A future posture starts forming the moment a person stops asking only what happened and starts asking what they want to build next.",
+            "en": "That is true. A future posture starts forming the moment a person stops asking only what happened and starts asking what they want to build next.",
             "zh": "完全沒錯。所謂面向未來的姿態，常常就是從一個人不再只問「發生了什麼」，而開始問「我接下來想建立什麼」時開始形成。"
           },
           {
@@ -1983,7 +1983,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A deliberate step often looks small because it has to be strong enough to survive ordinary chaos.",
+            "en": "Yes. A deliberate step often looks small because it has to be strong enough to survive ordinary chaos.",
             "zh": "完全沒錯。有意識的下一步常常看起來很小，因為它得強到能在普通混亂裡活下來。"
           },
           {
@@ -2018,7 +2018,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How would I say it if I wanted to say I want to move forward more intentionally?",
+            "en": "Is there a natural phrase in English if I want to say I want to move forward more intentionally?",
             "zh": "如果我想用英文說，自己希望更有意圖地往前走，可以怎麼說？"
           },
           {

@@ -27,7 +27,7 @@ export const EPISODE_13: Episode = {
         { speaker: 'b', speakerName: 'Jamie', en: "Those are genuinely useful traits. What about weaknesses — things you've had to actively work on?", zh: '那些是真正有用的特質。那弱點呢——你不得不積極努力的事情？' },
         { speaker: 'a', speakerName: 'Mira', en: "I can be overly self-critical. I hold myself to high standards and sometimes that tips into perfectionism, which is its own kind of obstacle. I've learned to recognize when good enough is genuinely enough.", zh: '我可能過於自我批評。我對自己要求很高，有時那會變成完美主義，那本身就是一種障礙。我學會了認識什麼時候「夠好」真的就夠了。', vocab: [{ word: 'perfectionism', def: '完美主義' }, { word: 'obstacle', def: '障礙' }] },
         { speaker: 'b', speakerName: 'Jamie', en: "Perfectionism is a sneaky one — it masquerades as ambition.", zh: '完美主義是個狡猾的——它偽裝成雄心壯志。', vocab: [{ word: 'masquerade as', def: '偽裝成' }] },
-        { speaker: 'a', speakerName: 'Mira', en: "Exactly. And it can be paralyzing. I've had periods where I've not started things because I couldn't guarantee they'd be done well. Which is obviously counterproductive.", zh: '正是。而且它可以令人癱瘓。我有過一些時期因為無法保證事情會做得好而沒有開始。那顯然是適得其反的。', vocab: [{ word: 'paralyzing', def: '令人癱瘓的' }, { word: 'counterproductive', def: '適得其反的' }] },
+        { speaker: 'a', speakerName: 'Mira', en: "Right. And it can be paralyzing. I've had periods where I've not started things because I couldn't guarantee they'd be done well. Which is obviously counterproductive.", zh: '正是。而且它可以令人癱瘓。我有過一些時期因為無法保證事情會做得好而沒有開始。那顯然是適得其反的。', vocab: [{ word: 'paralyzing', def: '令人癱瘓的' }, { word: 'counterproductive', def: '適得其反的' }] },
         { speaker: 'b', speakerName: 'Jamie', en: "I struggle with impatience. I want things to move quickly and I can get frustrated when they don't. It's useful as a driver but not great for relationships.", zh: '我在耐心方面有挑戰。我希望事情快速推進，當它們沒有時我會變得沮喪。作為推動力很有用，但對關係不太好。', vocab: [{ word: 'impatience', def: '不耐煩' }] },
         { speaker: 'a', speakerName: 'Mira', en: "That's an honest self-assessment. And recognizing that your strengths have shadow sides is the beginning of managing them better.", zh: '那是誠實的自我評估。而認識到你的優點有陰暗面，是更好地管理它們的開始。', vocab: [{ word: 'shadow sides', def: '陰暗面' }] },
       ],
@@ -55,7 +55,7 @@ export const EPISODE_13: Episode = {
         { speaker: 'b', speakerName: 'Jamie', en: "That's reassuring in a way. It means we're not stuck with our worst traits.", zh: '那以某種方式令人安慰。意思是我們不會被我們最糟糕的特質困住。', vocab: [{ word: 'reassuring', def: '令人安慰的' }] },
         { speaker: 'a', speakerName: 'Mira', en: "And that intention matters. People who actively work on themselves — therapy, honest self-reflection, seeking feedback — tend to change more than those who just let life happen to them.", zh: '而且意圖很重要。那些積極致力於自我提升的人——治療、誠實的自我反思、尋求反饋——比那些只是讓生活隨波逐流的人更容易改變。' },
         { speaker: 'b', speakerName: 'Jamie', en: "So personality isn't destiny — it's a starting point.", zh: '所以個性不是命運——它是一個起點。' },
-        { speaker: 'a', speakerName: 'Mira', en: "Exactly. The raw material shapes you, but you still get to do something with it.", zh: '正是。原料塑造你，但你仍然可以對它做些事情。' },
+        { speaker: 'a', speakerName: 'Mira', en: "True. The raw material shapes you, but you still get to do something with it.", zh: '正是。原料塑造你，但你仍然可以對它做些事情。' },
       ],
     },
     {

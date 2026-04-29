@@ -35,11 +35,11 @@ export const EPISODE_27: Episode = {
     {
       title: 'The Rise of Podcasts',
       lines: [
-        { speaker: 'a', speakerName: 'Mira', en: 'Podcasts have completely changed how I consume information.', zh: '播客完全改變了我消費信息的方式。', vocab: [{ word: 'consume information', def: 'to take in and process knowledge or content' }] },
+        { speaker: 'a', speakerName: 'Mira', en: 'Podcasts have completely changed how I consume information.', zh: 'Podcast 完全改變了我吸收資訊的方式。', vocab: [{ word: 'consume information', def: 'to take in and process knowledge or content' }] },
         { speaker: 'b', speakerName: 'Jamie', en: 'Same. The commute used to feel wasted. Now it\'s my favorite learning time.', zh: '我也是，通勤以前感覺浪費了，現在它是我最喜歡的學習時間。' },
         { speaker: 'a', speakerName: 'Mira', en: 'Podcasts work for the "idle time" that used to just slip away — commuting, exercising, cooking.', zh: '播客適用於曾經悄悄溜走的「閒置時間」——通勤、鍛煉、做飯。', vocab: [{ word: 'idle time', def: 'time when you are not actively focused on a task' }] },
         { speaker: 'b', speakerName: 'Jamie', en: 'You can listen to a conversation between two world experts on your way to the grocery store.', zh: '你可以在去雜貨店的路上聽兩位世界專家之間的對話。' },
-        { speaker: 'a', speakerName: 'Mira', en: 'That access is extraordinary. Democratized access to knowledge and ideas.', zh: '那種訪問是非凡的，對知識和想法的民主化訪問。', vocab: [{ word: 'extraordinary', def: 'very unusual or remarkable; beyond what is ordinary' }] },
+        { speaker: 'a', speakerName: 'Mira', en: 'That access is extraordinary. Democratized access to knowledge and ideas.', zh: '那種接觸機會是非凡的，讓所有人都能平等觸及知識和想法。', vocab: [{ word: 'extraordinary', def: 'very unusual or remarkable; beyond what is ordinary' }] },
         { speaker: 'b', speakerName: 'Jamie', en: 'But there\'s so much content. The challenge is curation — finding the good ones.', zh: '但是有太多內容了，挑戰是策劃——找到好的。', vocab: [{ word: 'curation', def: 'the process of selecting the best content from a large collection' }] },
         { speaker: 'a', speakerName: 'Mira', en: 'Word of mouth still works best for that. Someone you trust saying "you\'ll love this."', zh: '口耳相傳仍然是最好的方法，一個你信任的人說「你會喜歡這個的。」' },
         { speaker: 'b', speakerName: 'Jamie', en: 'A personal recommendation is worth a thousand algorithm suggestions.', zh: '個人推薦價值千算法建議。' },

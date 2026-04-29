@@ -33,7 +33,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Style drift happens when people copy what they admire before they trust what naturally comes out of them.",
+            "en": "Exactly right. Style drift happens when people copy what they admire before they trust what naturally comes out of them.",
             "zh": "完全沒錯。風格漂移常常發生在：人先學著複製自己欣賞的東西，卻還沒開始信任自己自然長出的東西。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Inner censorship can make capable people sound careful, polished, and strangely absent.",
+            "en": "Yes. Inner censorship can make capable people sound careful, polished, and strangely absent.",
             "zh": "完全沒錯。內在審查會讓很有能力的人，聽起來小心、平整，卻也奇怪地不在場。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Everyday art often appears where attention meets care. She did not redecorate the room. She noticed one corner and decided it deserved something better.",
+            "en": "Right. Everyday art often appears where attention meets care. She did not redecorate the room. She noticed one corner and decided it deserved something better.",
             "zh": "完全沒錯。日常藝術很多時候就是在注意力和照顧相遇的地方出現。她沒有重新裝潢房間，她注意到一個角落，然後決定它值得更好的東西。"
           },
           {
@@ -456,7 +456,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The trap is treating ordinary beauty as a reward you earn after productivity, rather than a condition that supports it.",
+            "en": "Yes. The trap is treating ordinary beauty as a reward you earn after productivity, rather than a condition that supports it.",
             "zh": "沒錯。陷阱就是把日常美感當成生產力之後才能拿到的獎勵，而不是支撐生產力的條件。"
           },
           {
@@ -614,7 +614,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Narrative order helps when life feels messy, because sequence can create relief.",
+            "en": "That's the key. Narrative order helps when life feels messy, because sequence can create relief.",
             "zh": "完全沒錯。當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
           },
           {
@@ -638,7 +638,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is part of its power.",
+            "en": "Yes. that is part of its power.",
             "zh": "對，而那正是它的力量之一。"
           }
         ]
@@ -667,7 +667,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
+            "en": "I think so. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
             "zh": "完全沒錯。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。"
           },
           {
@@ -773,7 +773,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Truthful telling matters because people trust detail, restraint, and real feeling more than polish alone.",
+            "en": "Right. Truthful telling matters because people trust detail, restraint, and real feeling more than polish alone.",
             "zh": "完全沒錯。真實敘述很重要，因為人通常更相信細節、節制和真感受，而不只是漂亮表面。"
           },
           {
@@ -931,7 +931,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A friction point is often a clue that the system is asking too much from the human.",
+            "en": "That's true. A friction point is often a clue that the system is asking too much from the human.",
             "zh": "完全沒錯。所謂摩擦點，常常是在提醒你：這個系統正在向人要求太多。"
           },
           {
@@ -984,7 +984,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A small prototype helps because testing early is kinder than forcing a perfect plan on daily life.",
+            "en": "That is the point. A small prototype helps because testing early is kinder than forcing a perfect plan on daily life.",
             "zh": "完全沒錯。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。"
           },
           {
@@ -1248,7 +1248,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Music memory is powerful because a melody can reopen a whole emotional world in seconds.",
+            "en": "Exactly right. Music memory is powerful because a melody can reopen a whole emotional world in seconds.",
             "zh": "完全沒錯。音樂記憶很強，因為一段旋律幾秒內就能重新打開整個情緒世界。"
           },
           {
@@ -1301,7 +1301,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A private soundtrack often forms around periods of change, grief, love, or recovery.",
+            "en": "Yes. A private soundtrack often forms around periods of change, grief, love, or recovery.",
             "zh": "完全沒錯。一段私人配樂，常常就是在改變、失落、愛，或修復的時期慢慢形成。"
           },
           {
@@ -1407,7 +1407,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sonic comfort matters because some sounds help a person return to themselves more gently.",
+            "en": "True. Sonic comfort matters because some sounds help a person return to themselves more gently.",
             "zh": "完全沒錯。聲音安慰感很重要，因為有些聲音真的會幫一個人比較溫柔地回到自己身上。"
           },
           {
@@ -1560,7 +1560,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sentence pressure happens when language has to carry more truth than it is ready for yet.",
+            "en": "Right. Sentence pressure happens when language has to carry more truth than it is ready for yet.",
             "zh": "完全沒錯。句子壓力，就是語言被迫去承載比它當下還沒準備好承載的真相。"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Blank page fear often has less to do with talent and more to do with being seen.",
+            "en": "Yes. Blank page fear often has less to do with talent and more to do with being seen.",
             "zh": "完全沒錯。空白頁恐懼很多時候和天分關係沒那麼大，反而和被看見有關。"
           },
           {
@@ -1638,7 +1638,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so.",
-            "zh": "真的非常是。"
+            "zh": "真的沒錯。"
           }
         ]
       },
@@ -1719,7 +1719,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Language precision grows better in steady practice than in emotional intensity alone.",
+            "en": "That's the key. Language precision grows better in steady practice than in emotional intensity alone.",
             "zh": "完全沒錯。語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
           },
           {
@@ -1877,7 +1877,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A making rhythm helps because people create more honestly when the work is part of life instead of a rare performance.",
+            "en": "I think so. A making rhythm helps because people create more honestly when the work is part of life instead of a rare performance.",
             "zh": "完全沒錯。創作節奏很有幫助，因為當創作是生活的一部分，而不是偶爾上台表演時，人通常會創作得更誠實。"
           },
           {
@@ -1930,7 +1930,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An unfinished draft can be more alive than a perfect idea that never leaves the mind.",
+            "en": "Precisely. An unfinished draft can be more alive than a perfect idea that never leaves the mind.",
             "zh": "完全沒錯。一份未完成草稿，常常比一個永遠沒離開腦袋的完美點子更有生命。"
           },
           {
@@ -2036,7 +2036,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Creative energy grows when people have enough safety to play, fail, and begin again.",
+            "en": "That's true. Creative energy grows when people have enough safety to play, fail, and begin again.",
             "zh": "完全沒錯。當人有足夠安全感去玩、去失敗、再重新開始時，創作能量就會長。"
           },
           {

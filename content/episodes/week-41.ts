@@ -21,7 +21,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A core value is easy to praise in public and much harder to protect when the choice becomes expensive.",
+            "en": "Exactly right. A core value is easy to praise in public and much harder to protect when the choice becomes expensive.",
             "zh": "沒錯。核心價值在公開場合很好稱讚，但一旦選擇變得有代價，要保住它就難得多。"
           },
           {
@@ -33,7 +33,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and a guiding principle usually shows up in the small decisions first, not only the dramatic ones.",
+            "en": "Yes. a guiding principle usually shows up in the small decisions first, not only the dramatic ones.",
             "zh": "對，而且一條指引原則通常會先出現在那些小決定裡，不只是戲劇性的那種。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Loyalty pressure can make silence feel kind, even when silence is quietly damaging everyone involved.",
+            "en": "Yes. Loyalty pressure can make silence feel kind, even when silence is quietly damaging everyone involved.",
             "zh": "完全沒錯。忠誠壓力會讓沉默看起來像善意，即使那個沉默其實正在慢慢傷害每一個人。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why values work requires patience. If you judge yourself too quickly, you miss what the conflict is trying to teach you.",
+            "en": "Yes. that is why values work requires patience. If you judge yourself too quickly, you miss what the conflict is trying to teach you.",
             "zh": "對，也因此，整理價值觀需要耐心。如果你太快責怪自己，就會錯過那個拉扯真正想教你的事。"
           },
           {
@@ -216,7 +216,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. What you repeat becomes the kind of person you trust yourself to be.",
+            "en": "Right. What you repeat becomes the kind of person you trust yourself to be.",
             "zh": "完全沒錯。你反覆做的事，最後會變成你願不願意信任自己的原因。"
           }
         ]
@@ -350,7 +350,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Social inheritance works quietly. We copy tone, fear, rules, and even what counts as success.",
+            "en": "Yes. Social inheritance works quietly. We copy tone, fear, rules, and even what counts as success.",
             "zh": "完全沒錯。社會承襲常常很安靜地發生。語氣、害怕、規則，甚至成功的定義，都會被一起複製。"
           },
           {
@@ -374,7 +374,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why the process can feel tender, not only intellectual.",
+            "en": "Yes. that is why the process can feel tender, not only intellectual.",
             "zh": "對，也因此，這整個過程會讓人覺得柔軟而敏感，不只是理性上的事。"
           }
         ]
@@ -403,7 +403,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A cultural norm can feel natural simply because you were surrounded by it before you had language for alternatives.",
+            "en": "That's the key. A cultural norm can feel natural simply because you were surrounded by it before you had language for alternatives.",
             "zh": "完全沒錯。一個文化常規之所以會看起來很自然，常常只是因為在你還沒有別種語言之前，它就已經把你包圍了。"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A chosen principle carries more strength when it is made consciously, not just copied automatically.",
+            "en": "I think so. A chosen principle carries more strength when it is made consciously, not just copied automatically.",
             "zh": "完全沒錯。當一條原則是有意識地選出來的，而不是自動複製下來的，它通常會更有力量。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A belief revision often begins before the person has words for it.",
+            "en": "Right. A belief revision often begins before the person has words for it.",
             "zh": "完全沒錯。信念修正很多時候在一個人還說不出來之前，就已經開始了。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Identity defense is powerful because people want continuity more than they want embarrassment.",
+            "en": "That's true. Identity defense is powerful because people want continuity more than they want embarrassment.",
             "zh": "完全沒錯。身份防衛很強，是因為人通常更想要連續感，而不是尷尬地承認自己錯了。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Honest doubt is healthier than fake certainty, especially when a person is still learning what they can truly stand behind.",
+            "en": "That is the point. Honest doubt is healthier than fake certainty, especially when a person is still learning what they can truly stand behind.",
             "zh": "完全沒錯。尤其當一個人還在學自己到底能真正站在哪裡時，誠實的懷疑比假的確定健康得多。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The convenience test appears everywhere. Values sound different when they cost time, comfort, or reputation.",
+            "en": "Exactly right. The convenience test appears everywhere. Values sound different when they cost time, comfort, or reputation.",
             "zh": "完全沒錯。方便測試到處都會出現。當價值觀開始花掉你的時間、舒服感，甚至名聲時，它聽起來就會完全不一樣。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Repeated choice is powerful because one small compromise teaches the next one to feel normal.",
+            "en": "Yes. Repeated choice is powerful because one small compromise teaches the next one to feel normal.",
             "zh": "完全沒錯。重複選擇很有力量，因為一次小妥協會教下一次妥協變得正常。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A repeated choice in the right direction is often more powerful than one dramatic promise.",
+            "en": "True. A repeated choice in the right direction is often more powerful than one dramatic promise.",
             "zh": "完全沒錯。朝對的方向做一個能重複的選擇，通常比一次很戲劇化的承諾更有力量。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Shared respect matters because once contempt enters the room, real listening usually leaves it.",
+            "en": "Right. Shared respect matters because once contempt enters the room, real listening usually leaves it.",
             "zh": "完全沒錯。共享尊重很重要，因為一旦輕蔑進了房間，真正的傾聽通常就會離開。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Honest tension is survivable, but personal humiliation usually is not.",
+            "en": "Yes. Honest tension is survivable, but personal humiliation usually is not.",
             "zh": "完全沒錯。誠實的張力是撐得過去的，但人格上的羞辱通常撐不過去。"
           },
           {
@@ -1361,7 +1361,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and a non-negotiable point should be named carefully. If you announce it like a weapon, people stop hearing the reason behind it.",
+            "en": "Yes. a non-negotiable point should be named carefully. If you announce it like a weapon, people stop hearing the reason behind it.",
             "zh": "對，而且一個不能退讓的點要很小心地說。如果你把它像武器一樣丟出去，別人通常就聽不見背後真正的理由了。"
           },
           {
@@ -1373,7 +1373,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That skill protects both truth and dignity.",
+            "en": "That's the key. That skill protects both truth and dignity.",
             "zh": "完全沒錯。那個能力同時保護了真相和尊嚴。"
           }
         ]
@@ -1661,7 +1661,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Self-betrayal rarely feels dramatic in the moment. It feels like one more thing you will tolerate this time.",
+            "en": "I think so. Self-betrayal rarely feels dramatic in the moment. It feels like one more thing you will tolerate this time.",
             "zh": "完全沒錯。自我背叛在當下很少是戲劇性的，它比較像「這次再忍一下好了」那種感覺。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A boundary statement is strongest when it sounds clear, calm, and free of revenge.",
+            "en": "Precisely. A boundary statement is strongest when it sounds clear, calm, and free of revenge.",
             "zh": "完全沒錯。一段界線說法最有力量的時候，通常是它聽起來很清楚、很平靜，而且沒有報復感。"
           },
           {
@@ -1913,7 +1913,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Value sorting is hard because urgency and importance often wear the same clothes.",
+            "en": "That's true. Value sorting is hard because urgency and importance often wear the same clothes.",
             "zh": "完全沒錯。價值排序很難，因為急迫和重要，常常穿得很像。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A priority test helps because it forces you to ask whether something feels urgent, or whether it is truly worth your life energy.",
+            "en": "That is the point. A priority test helps because it forces you to ask whether something feels urgent, or whether it is truly worth your life energy.",
             "zh": "完全沒錯。優先測試很有幫助，因為它會逼你問：這件事只是很急，還是真的值得你的人生能量。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A thoughtful filter only works if a person is willing to disappoint some noise in order to stay loyal to what matters.",
+            "en": "Exactly right. A thoughtful filter only works if a person is willing to disappoint some noise in order to stay loyal to what matters.",
             "zh": "完全沒錯。只有當一個人願意讓一些雜音失望，好對真正重要的東西保持忠誠時，那個內在過濾器才會真的有用。"
           },
           {

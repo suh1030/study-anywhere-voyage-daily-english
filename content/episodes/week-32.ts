@@ -33,7 +33,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A hobby often changes posture before it changes skill.",
+            "en": "That is the point. A hobby often changes posture before it changes skill.",
             "zh": "完全沒錯。一個興趣很多時候先改變的是姿態，然後才是技巧。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They add personal texture to a life that could otherwise become purely functional.",
+            "en": "Exactly right. They add personal texture to a life that could otherwise become purely functional.",
             "zh": "完全沒錯。它們會替一個原本可能只剩功能性的生活，加上一層很個人的質地。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A hobby stays alive through repeatable contact, not occasional obsession.",
+            "en": "Yes. A hobby stays alive through repeatable contact, not occasional obsession.",
             "zh": "完全沒錯。一個興趣能活下來，是靠可重複的接觸，不是靠偶爾的大爆發。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Collections often hold continuity for people.",
+            "en": "Right. Collections often hold continuity for people.",
             "zh": "完全沒錯。收藏很多時候是在替一個人保存連續感。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A collection lets people rehearse control, taste, and memory at the same time.",
+            "en": "Yes. A collection lets people rehearse control, taste, and memory at the same time.",
             "zh": "完全沒錯。收藏會讓人同時在練習掌控感、品味，還有記憶。"
           },
           {
@@ -521,7 +521,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good collecting still leaves room for delight.",
+            "en": "That's the key. Good collecting still leaves room for delight.",
             "zh": "完全沒錯。好的收藏，到最後還是要留得下喜悅。"
           },
           {
@@ -720,7 +720,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why unmonetized joy can feel strangely radical.",
+            "en": "I think so. That is why unmonetized joy can feel strangely radical.",
             "zh": "完全沒錯。也因此，不被拿去變現的快樂有時候會顯得特別激進。"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You are not rebuilding a brand. You are rebuilding a relationship.",
+            "en": "Right. You are not rebuilding a brand. You are rebuilding a relationship.",
             "zh": "完全沒錯。你不是在重建一個品牌，而是在重建一段關係。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is one reason hobbies are so educational for adults.",
+            "en": "That's true. That is one reason hobbies are so educational for adults.",
             "zh": "完全沒錯。這也是為什麼，興趣對大人來說其實很有教育性。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Most people quit not because they cannot learn, but because they misread the stage they are in.",
+            "en": "That is the point. Most people quit not because they cannot learn, but because they misread the stage they are in.",
             "zh": "完全沒錯。大多數人放棄，不是真的學不會，而是把自己所在的階段讀錯了。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Specificity lowers performance sometimes. People stop trying to impress and start trying to connect.",
+            "en": "Exactly right. Specificity lowers performance sometimes. People stop trying to impress and start trying to connect.",
             "zh": "完全沒錯。有時候越具體，表演感反而越低。人不再一直想 impress，而是開始真的想連上。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Shared enthusiasm makes intimacy easier to approach sideways.",
+            "en": "Yes. Shared enthusiasm makes intimacy easier to approach sideways.",
             "zh": "完全沒錯。共同的熱情，會讓親近感比較容易從側邊靠近，而不是硬撞上去。"
           },
           {
@@ -1455,7 +1455,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best niche spaces stay generous about different entry points and different levels of knowledge.",
+            "en": "True. The best niche spaces stay generous about different entry points and different levels of knowledge.",
             "zh": "完全沒錯。最好的小圈圈，會對不同的進入方式和不同程度的知識都很大方。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It can also protect honesty. People often notice what they truly like when nobody is watching.",
+            "en": "Right. It can also protect honesty. People often notice what they truly like when nobody is watching.",
             "zh": "完全沒錯。它也會保護誠實。很多人其實都是在沒人看的時候，才比較容易注意到自己真正喜歡什麼。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Healthy privacy keeps the activity from being hijacked by outside expectations.",
+            "en": "Yes. Healthy privacy keeps the activity from being hijacked by outside expectations.",
             "zh": "完全沒錯。健康的隱私會避免一個活動被外面的期待整個接管。"
           },
           {
@@ -1949,7 +1949,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It thickens time, memory, and selfhood.",
+            "en": "That's the key. It thickens time, memory, and selfhood.",
             "zh": "完全沒錯。它會讓時間、記憶和自我都重新變厚。"
           }
         ]
@@ -1978,7 +1978,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It gives people continuity across changing jobs, ages, and circumstances.",
+            "en": "I think so. It gives people continuity across changing jobs, ages, and circumstances.",
             "zh": "完全沒錯。它會讓人即使換工作、變老、處境改變，也還有一條可以延續的線。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Passion survives when people protect it from both cynicism and neglect.",
+            "en": "Precisely. Passion survives when people protect it from both cynicism and neglect.",
             "zh": "完全沒錯。熱情要活下來，常常得同時避開犬儒和忽視。"
           },
           {

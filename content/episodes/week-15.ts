@@ -104,7 +104,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. I think personality is like a starting point that gets reshaped by everything that happens to you.",
+            "en": "Right. I think personality is like a starting point that gets reshaped by everything that happens to you.",
             "zh": "對。我覺得性格就像一個起點，然後被你所經歷的一切重新塑造。"
           },
           {
@@ -198,7 +198,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. I nearly let a first impression overrule better judgment.",
+            "en": "Yes. I nearly let a first impression overrule better judgment.",
             "zh": "就是這樣。我差點讓第一印象凌駕於更好的判斷之上。"
           },
           {
@@ -409,7 +409,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. I had to consciously remind myself not to read into her hallway face.",
+            "en": "That's the key. I had to consciously remind myself not to read into her hallway face.",
             "zh": "就是這樣。我必須刻意提醒自己，不要過度解讀她走廊上的表情。"
           },
           {
@@ -468,7 +468,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The habit was sending a completely different message from what I actually felt.",
+            "en": "I think so. The habit was sending a completely different message from what I actually felt.",
             "zh": "就是這樣。那個習慣傳遞的訊息和我實際的感受完全不同。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good opening question does half the work for you at any social event.",
+            "en": "That's true. A good opening question does half the work for you at any social event.",
             "zh": "就是這樣。一個好的開場問題，在任何社交活動中都能幫你完成一半的工作。"
           }
         ]
@@ -827,7 +827,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Introverts often process and respond later. They are not absent, just slower to surface.",
+            "en": "That is the point. Introverts often process and respond later. They are not absent, just slower to surface.",
             "zh": "就是這樣。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。"
           },
           {
@@ -1144,7 +1144,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A nice person says \"looks great!\" A kind person says \"I want this to work, so let me be honest with you.\"",
+            "en": "Exactly right. A nice person says \"looks great!\" A kind person says \"I want this to work, so let me be honest with you.\"",
             "zh": "就是這樣。和善的人說「看起來很棒！」善良的人說「我希望這能成功，所以讓我對你誠實。」"
           },
           {
@@ -1215,7 +1215,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The struggle is part of what makes the trait worth admiring.",
+            "en": "Yes. The struggle is part of what makes the trait worth admiring.",
             "zh": "就是這樣。掙扎本身就是讓這個特質值得欽佩的一部分。"
           }
         ]
@@ -1355,7 +1355,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. My tendency to overwork protects me from the fear of being seen as inadequate.",
+            "en": "Right. My tendency to overwork protects me from the fear of being seen as inadequate.",
             "zh": "就是這樣。我過度工作的傾向保護我免於被視為不夠格的恐懼。"
           },
           {
@@ -1426,7 +1426,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The raw, unfiltered version is usually closer to how you actually come across.",
+            "en": "Right. The raw, unfiltered version is usually closer to how you actually come across.",
             "zh": "就是這樣。原始、未經過濾的版本通常更接近你真正給人的印象。"
           }
         ]
@@ -1509,7 +1509,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Behavior is changeable. Identity feels fixed. The language you use matters enormously.",
+            "en": "Yes. Behavior is changeable. Identity feels fixed. The language you use matters enormously.",
             "zh": "就是這樣。行為是可以改變的。身份感覺是固定的。你用的語言非常重要。"
           },
           {
@@ -1984,7 +1984,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can talk yourself into and out of anything. But your body usually knows.",
+            "en": "That's the key. You can talk yourself into and out of anything. But your body usually knows.",
             "zh": "就是這樣。你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
           },
           {
@@ -2019,7 +2019,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Authenticity is about acting from your real values, not about having zero filter.",
+            "en": "I think so. Authenticity is about acting from your real values, not about having zero filter.",
             "zh": "完全正確。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Becoming more fully yourself is not about fixing what is broken. It is about understanding what is actually there.",
+            "en": "True. Becoming more fully yourself is not about fixing what is broken. It is about understanding what is actually there.",
             "zh": "就是這樣。更完整地成為自己，不是關於修復破損的東西。而是關於理解那裡實際上有什麼。"
           },
           {

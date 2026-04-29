@@ -33,7 +33,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It lives in assumptions about time, politeness, family, work, food, space, and even what counts as respect.",
+            "en": "Yes. It lives in assumptions about time, politeness, family, work, food, space, and even what counts as respect.",
             "zh": "沒錯。它活在你對時間、禮貌、家庭、工作、食物、空間，甚至「什麼算尊重」的預設裡。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. But if they do not recognize the cultural layer, each person may read the other as careless or controlling.",
+            "en": "Right. But if they do not recognize the cultural layer, each person may read the other as careless or controlling.",
             "zh": "沒錯。可是如果他們沒看見文化層，彼此就很可能把對方讀成隨便，或太控制。"
           },
           {
@@ -252,7 +252,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is not to erase difference. It is to become more skillful and less threatened inside difference.",
+            "en": "Yes. The goal is not to erase difference. It is to become more skillful and less threatened inside difference.",
             "zh": "沒錯。目標不是消滅差異，而是在差異裡變得更有能力、也沒那麼容易被威脅。"
           },
           {
@@ -345,7 +345,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
+            "en": "That's the key. Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
             "zh": "沒錯。直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and the risk is that people judge character when they are really encountering a different operating system.",
+            "en": "Yes. the risk is that people judge character when they are really encountering a different operating system.",
             "zh": "對。而最大的風險，是人以為自己在判斷人格，其實只是在撞到不同的作業系統。"
           },
           {
@@ -398,7 +398,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
+            "en": "I think so. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
             "zh": "沒錯。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。"
           },
           {
@@ -504,7 +504,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A more culturally skilled leader would not force one style. They might say, \"If you prefer to think first, please send comments by this afternoon as well.\"",
+            "en": "Right. A more culturally skilled leader would not force one style. They might say, \"If you prefer to think first, please send comments by this afternoon as well.\"",
             "zh": "沒錯。更有跨文化敏感度的領導者，不會只強迫一種表達方式。他可能會說：「If you prefer to think first, please send comments by this afternoon as well.」"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Food often carries migration, class, celebration, care, religion, and identity without announcing all of that directly.",
+            "en": "That's true. Food often carries migration, class, celebration, care, religion, and identity without announcing all of that directly.",
             "zh": "沒錯。食物常常默默背著移動史、階級、慶祝、照顧、宗教和身份認同，但它不會直接把這些全部講出來。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
+            "en": "That is the point. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
             "zh": "沒錯。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
           },
           {
@@ -739,7 +739,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that order matters when you are trying to understand someone kindly.",
+            "en": "Yes. that order matters when you are trying to understand someone kindly.",
             "zh": "對。而如果你想帶著善意去理解一個人，這個順序很重要。"
           }
         ]
@@ -792,7 +792,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Food often becomes a bridge before language does.",
+            "en": "Exactly right. Food often becomes a bridge before language does.",
             "zh": "沒錯。很多時候，食物比語言更早變成橋。"
           }
         ]
@@ -833,7 +833,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Culture becomes more accessible when it is invited through lived detail.",
+            "en": "Yes. Culture becomes more accessible when it is invited through lived detail.",
             "zh": "沒錯。當文化是透過活生生的細節被邀請出來時，它會變得更容易靠近。"
           },
           {
@@ -845,7 +845,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and from that doorway, bigger conversations often become possible.",
+            "en": "Yes. from that doorway, bigger conversations often become possible.",
             "zh": "對。而從那扇門走進去之後，更大的對話也常常就變得可能了。"
           },
           {
@@ -869,7 +869,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The table is one of the easiest places to practice cultural humility, because the stakes are small and the details are rich.",
+            "en": "True. The table is one of the easiest places to practice cultural humility, because the stakes are small and the details are rich.",
             "zh": "沒錯。餐桌其實是最容易練文化謙卑的地方之一，因為風險相對小，但細節非常豐富。"
           },
           {
@@ -986,7 +986,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It opens the possibility that confusion is not failure. It may simply be the first stage of understanding.",
+            "en": "Right. It opens the possibility that confusion is not failure. It may simply be the first stage of understanding.",
             "zh": "沒錯。它會打開一個可能性：困惑不是失敗，它可能只是理解的第一階段。"
           },
           {
@@ -1133,7 +1133,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The curious traveler notices the reaction and then asks what that tempo might mean locally instead of declaring it wrong.",
+            "en": "Yes. The curious traveler notices the reaction and then asks what that tempo might mean locally instead of declaring it wrong.",
             "zh": "沒錯。帶著好奇旅行的人，會先注意自己的反應，再去問那個節奏在當地可能代表什麼，而不是立刻宣判它不對。"
           },
           {
@@ -1146,7 +1146,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Travel teaches you about the world, but it also reveals what you carry into the world automatically.",
-            "zh": "非常是。旅行當然會教你世界長什麼樣，但它也會把你自己自動帶進世界裡的東西照出來。"
+            "zh": "沒錯。旅行當然會教你世界長什麼樣，但它也會把你自己自動帶進世界裡的東西照出來。"
           },
           {
             "speaker": "b",
@@ -1186,7 +1186,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
+            "en": "That's the key. It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
             "zh": "沒錯。它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
+            "en": "I think so. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
             "zh": "沒錯。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。"
           },
           {
@@ -1315,7 +1315,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and generosity is often what makes cross-cultural understanding possible in the first place.",
+            "en": "Yes. generosity is often what makes cross-cultural understanding possible in the first place.",
             "zh": "對，而這種寬度，常常就是跨文化理解一開始得以發生的條件。"
           }
         ]
@@ -1332,7 +1332,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and it helps to admit that honestly. Not every difference can be solved by better interpretation alone.",
+            "en": "Yes. it helps to admit that honestly. Not every difference can be solved by better interpretation alone.",
             "zh": "對，而且誠實承認這一點很重要。不是每一個差異，都能靠更好的理解就直接解決。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is knowing when to adapt, when to negotiate, and when to draw a respectful boundary.",
+            "en": "Precisely. It is knowing when to adapt, when to negotiate, and when to draw a respectful boundary.",
             "zh": "沒錯。它是知道什麼時候可以調整、什麼時候要談判、又什麼時候該畫出一個帶著尊重的界線。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If people miss that, they may think the other side is cold or controlling, when they are actually acting from care.",
+            "en": "That's true. If people miss that, they may think the other side is cold or controlling, when they are actually acting from care.",
             "zh": "沒錯。如果看不到這一層，人就很容易覺得對方冷漠、或太控制；但對方其實可能是從 care 在出發。"
           },
           {
@@ -1603,7 +1603,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A sentence can be technically correct and still culturally wrong, emotionally off, or too flat for what it needs to do.",
+            "en": "That is the point. A sentence can be technically correct and still culturally wrong, emotionally off, or too flat for what it needs to do.",
             "zh": "沒錯。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。"
           },
           {
@@ -1628,7 +1628,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. That is why translating well is such a form of judgment.",
-            "zh": "非常是。也正因如此，翻得好本身就是一種判斷力。"
+            "zh": "沒錯。也正因如此，翻得好本身就是一種判斷力。"
           }
         ]
       },
@@ -1762,7 +1762,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why translation often needs cultural judgment, not only bilingual ability.",
+            "en": "Exactly right. That is why translation often needs cultural judgment, not only bilingual ability.",
             "zh": "沒錯。也正因如此，翻譯很多時候需要的是文化判斷，不只是雙語能力。"
           },
           {
@@ -1786,7 +1786,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and the best translators make those trade-offs with care rather than ego.",
+            "en": "Yes. the best translators make those trade-offs with care rather than ego.",
             "zh": "對，而好的譯者會帶著 care 做那些取捨，不是帶著 ego。"
           }
         ]
@@ -1920,7 +1920,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A bridge is not a demand that one side become the other. It is a structure that helps movement both ways.",
+            "en": "Yes. A bridge is not a demand that one side become the other. It is a structure that helps movement both ways.",
             "zh": "沒錯。橋不是要求哪一邊變成另一邊；橋是一種結構，讓雙向移動變得可能。"
           },
           {
@@ -1973,7 +1973,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They know when to translate a joke, when to explain a custom, and when to slow a conversation down before embarrassment hardens into distance.",
+            "en": "Indeed. They know when to translate a joke, when to explain a custom, and when to slow a conversation down before embarrassment hardens into distance.",
             "zh": "沒錯。他們知道什麼時候要翻一個玩笑、什麼時候要解釋一個習慣，也知道什麼時候該在尷尬硬化成距離前先把對話慢下來。"
           },
           {
@@ -1997,7 +1997,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The smoothest moments in diverse groups are often supported by invisible bridge work.",
+            "en": "Right. The smoothest moments in diverse groups are often supported by invisible bridge work.",
             "zh": "沒錯。多元群體裡最順的時刻，常常就是靠那些看不見的搭橋工作撐出來的。"
           }
         ]
@@ -2079,7 +2079,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The bridge-builder did not erase the difference. They simply restored a fuller interpretation.",
+            "en": "Yes. The bridge-builder did not erase the difference. They simply restored a fuller interpretation.",
             "zh": "沒錯。那個搭橋的人沒有抹掉差異，他只是把比較完整的理解補回來。"
           },
           {

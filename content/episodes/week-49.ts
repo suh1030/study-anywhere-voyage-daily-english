@@ -27,7 +27,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. I kept thinking I should be doing something useful with the time.",
+            "en": "Exactly right. I kept thinking I should be doing something useful with the time.",
             "zh": "就是這樣。我一直覺得自己應該把這段時間用來做些有用的事。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. So when you rest, something in your brain says, \"I am breaking the rules.\"",
+            "en": "Yes. So when you rest, something in your brain says, \"I am breaking the rules.\"",
             "zh": "沒錯。所以當你休息時，大腦裡有個聲音會說：「我在違規。」"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Busyness is a great way to avoid knowing yourself. Stillness makes it harder to hide.",
+            "en": "Right. Busyness is a great way to avoid knowing yourself. Stillness makes it harder to hide.",
             "zh": "沒錯。忙碌是一個避免了解自己的好方法。靜止讓躲藏變得更難。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An external rule that protects an internal need. It is actually a smart design.",
+            "en": "Yes. An external rule that protects an internal need. It is actually a smart design.",
             "zh": "沒錯。一個保護內在需求的外在規則。那其實是個很聰明的設計。"
           }
         ]
@@ -768,7 +768,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Agency matters. You can also say, \"I am honoring my need for rest,\" which sounds a bit formal but communicates respect for yourself.",
+            "en": "That's the key. Agency matters. You can also say, \"I am honoring my need for rest,\" which sounds a bit formal but communicates respect for yourself.",
             "zh": "沒錯。主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And when you treat rest as something you have to earn, you will always feel slightly behind. There will always be one more thing to finish first.",
+            "en": "I think so. And when you treat rest as something you have to earn, you will always feel slightly behind. There will always be one more thing to finish first.",
             "zh": "沒錯。而當你把休息當成需要賺取的東西時，你永遠都會覺得自己稍微落後了。永遠都會有一件事要先完成。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Learning to read your own creative state is part of the skill.",
+            "en": "Right. Learning to read your own creative state is part of the skill.",
             "zh": "沒錯。學會解讀自己的創意狀態，本身就是那個技能的一部分。"
           }
         ]
@@ -1138,7 +1138,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Creative people are usually better observers. They file away small details that later show up in their work.",
+            "en": "That's true. Creative people are usually better observers. They file away small details that later show up in their work.",
             "zh": "沒錯。有創意的人通常是更好的觀察者。他們把小細節存進記憶，這些細節後來會出現在他們的作品裡。"
           },
           {
@@ -1315,7 +1315,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Physical rest is not optional equipment. It is part of the basic system.",
+            "en": "That is the point. Physical rest is not optional equipment. It is part of the basic system.",
             "zh": "沒錯。身體上的休息不是選配設備。它是基本系統的一部分。"
           }
         ]
@@ -1344,7 +1344,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Most people do not know how good they can feel until they actually get consistent sleep for a week or two.",
+            "en": "Exactly right. Most people do not know how good they can feel until they actually get consistent sleep for a week or two.",
             "zh": "沒錯。大多數人不知道自己可以有多好的狀態，直到他們真的連續一兩週睡眠充足。"
           },
           {
@@ -1421,7 +1421,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The language you use to talk about rest matters. If you frame it as weakness, you will feel guilty. If you frame it as maintenance, you can do it without apology.",
+            "en": "Yes. The language you use to talk about rest matters. If you frame it as weakness, you will feel guilty. If you frame it as maintenance, you can do it without apology.",
             "zh": "沒錯。你用來談休息的語言很重要。如果你把它框架為軟弱，你就會感到內疚。如果你把它框架為維護，你就可以理所當然地去做。"
           }
         ]
@@ -1527,7 +1527,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Preventive rest is much cheaper than recovery rest. That is true for the body and for the mind.",
+            "en": "True. Preventive rest is much cheaper than recovery rest. That is true for the body and for the mind.",
             "zh": "沒錯。預防性的休息比恢復性的休息便宜得多。對身體如此，對心靈也是。"
           }
         ]
@@ -1661,7 +1661,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And it extends beyond food. Rushed conversations leave both people feeling unheard. Rushed decisions tend to need revisiting.",
+            "en": "Right. And it extends beyond food. Rushed conversations leave both people feeling unheard. Rushed decisions tend to need revisiting.",
             "zh": "沒錯。而且這不只限於食物。匆忙的對話讓雙方都覺得沒有被傾聽。倉促的決定往往需要重新審視。"
           },
           {
@@ -1844,7 +1844,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is the difference between a life remembered and a life that passed in a blur. Speed often makes us efficient at living but poor at experiencing it.",
+            "en": "Yes. That is the difference between a life remembered and a life that passed in a blur. Speed often makes us efficient at living but poor at experiencing it.",
             "zh": "沒錯。那是一段被記住的生活和一段模糊度過的生活之間的差別。速度常常讓我們擅長「過」生活，但不擅長「體驗」它。"
           }
         ]

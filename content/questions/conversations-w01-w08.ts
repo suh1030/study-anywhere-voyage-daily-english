@@ -57,31 +57,6 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     'Name your city or neighborhood, describe one thing you genuinely like about it, and add one thing you wish were different.',
   ),
   q(
-    1,
-    'New Year & Fresh Starts',
-    'Friday',
-    'Tell me about your job or studies: what do you do every day, and what is the most interesting part?',
-    '先用一句話說你做什麼，再說一個讓你覺得有趣或有成就感的部分——不用很大，一個細節就好。',
-    'Describe your role in one sentence, then name the most interesting task or moment, and explain what makes it stand out.',
-  ),
-  q(
-    1,
-    'New Year & Fresh Starts',
-    'Saturday',
-    'Do you live alone, with family, or with roommates? Tell me about one thing you like about your current living situation.',
-    '先說你現在怎麼住，再選一個你覺得最好的地方：可以是自由、熱鬧、省錢，或有人陪。',
-    'Say who you live with, name one specific advantage of that situation, and give one quick example from daily life.',
-  ),
-  q(
-    1,
-    'New Year & Fresh Starts',
-    'Sunday',
-    'What is one thing you are looking forward to this year? It can be big or very small.',
-    '可以是旅行、嘗試新事物、達成一個小目標，或只是一件讓你期待的生活小事。',
-    'Name what you are looking forward to, say roughly when you hope it will happen, and give one reason why you are excited about it.',
-  ),
-
-  q(
     2,
     'Morning Routines',
     'Monday',

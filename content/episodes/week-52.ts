@@ -33,7 +33,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is about carrying the past forward in a more useful form.",
+            "en": "I think so. It is about carrying the past forward in a more useful form.",
             "zh": "沒錯。它其實是在把過去用比較有用的形式帶去前面。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that kind of clarity makes future choices wiser.",
+            "en": "Yes. that kind of clarity makes future choices wiser.",
             "zh": "對。而那種 clarity 會讓接下來的 choice 比較有智慧。"
           }
         ]
@@ -192,7 +192,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Insight matters most when it can return to life as a better condition, boundary, or decision.",
+            "en": "That's true. Insight matters most when it can return to life as a better condition, boundary, or decision.",
             "zh": "沒錯。insight 最重要的時候，是它能回到 life 裡，變成比較好的條件、boundary 或 decision。"
           },
           {
@@ -245,7 +245,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A useful review says, \"This was real. This mattered. And I do not have to become cruel in order to understand it.\"",
+            "en": "That is the point. A useful review says, \"This was real. This mattered. And I do not have to become cruel in order to understand it.\"",
             "zh": "沒錯。好的 review 會像是在說：「這件事是真的、這件事很重要，而我不需要變得殘忍，才能把它理解清楚。」"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. We were both busy. The contact stayed, but the closeness had faded without either of us making a deliberate choice about it.",
+            "en": "Exactly right. We were both busy. The contact stayed, but the closeness had faded without either of us making a deliberate choice about it.",
             "zh": "就是這樣。我們都很忙。聯絡還在，但親近感已經淡了，而我們誰都沒有真的做過什麼決定。"
           },
           {
@@ -427,7 +427,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and once you see it, you can decide what to do about it.",
+            "en": "Yes. once you see it, you can decide what to do about it.",
             "zh": "對，而一旦你看見了，你就可以決定要怎麼辦。"
           }
         ]
@@ -456,7 +456,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is the part that stays with me. Distance between people does not carry a label. Each person fills in the reason themselves.",
+            "en": "Yes. That is the part that stays with me. Distance between people does not carry a label. Each person fills in the reason themselves.",
             "zh": "沒錯。而這就是讓我一直記著的部分。人與人之間的距離不會附上說明，每個人都自己填進理由。"
           },
           {
@@ -533,7 +533,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It explains an absence. It does not restore the connection.",
+            "en": "Right. It explains an absence. It does not restore the connection.",
             "zh": "沒錯。它解釋了缺席。但它沒有讓 connection 恢復。"
           }
         ]
@@ -614,7 +614,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sleep, tension, appetite, pain, mood, focus, and recovery all carry information about how a life is being lived.",
+            "en": "Right. Sleep, tension, appetite, pain, mood, focus, and recovery all carry information about how a life is being lived.",
             "zh": "沒錯。睡眠、緊繃、食慾、疼痛、情緒、專注和恢復，全部都在帶著資訊，說明這個 life 到底是怎麼被活著的。"
           },
           {
@@ -679,7 +679,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It also helps people see where they were betraying their own limits in the name of being productive or responsible.",
+            "en": "Yes. It also helps people see where they were betraying their own limits in the name of being productive or responsible.",
             "zh": "沒錯。它也會讓人看到：自己是在哪裡打著 productive 或 responsible 的名義，一直在背叛自己的 limits。"
           },
           {
@@ -785,7 +785,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The body often reveals the moral structure of a life more honestly than a calendar does.",
+            "en": "That's the key. The body often reveals the moral structure of a life more honestly than a calendar does.",
             "zh": "沒錯。身體有時比日曆更誠實地揭露一個 life 的價值結構。"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better energy is not only about output. It is about being able to feel, connect, think, and remain human in the middle of effort.",
+            "en": "I think so. Better energy is not only about output. It is about being able to feel, connect, think, and remain human in the middle of effort.",
             "zh": "沒錯。更好的能量狀態不只是為了產出，而是讓人能在努力裡仍然感受、連結、思考，也保持人味。"
           },
           {
@@ -931,7 +931,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A year of strong output may still hide erosion, confusion, growth, confidence, burnout, or a clearer sense of purpose.",
+            "en": "True. A year of strong output may still hide erosion, confusion, growth, confidence, burnout, or a clearer sense of purpose.",
             "zh": "沒錯。一段 output 很強的時間，底下仍然可能藏著耗損、混亂、成長、自信、burnout，或更清楚的 purpose。"
           },
           {
@@ -984,7 +984,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It also asks whether the path itself was making you more coherent or more fragmented.",
+            "en": "That's true. It also asks whether the path itself was making you more coherent or more fragmented.",
             "zh": "沒錯。它也會問：那條路本身，究竟讓你變得更 coherent，還是更 fragmented。"
           },
           {
@@ -1090,7 +1090,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Review can correct prestige bias by showing what actually nourished the worker, not only what impressed the audience.",
+            "en": "That is the point. Review can correct prestige bias by showing what actually nourished the worker, not only what impressed the audience.",
             "zh": "沒錯。review 會修正 prestige bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The deeper point is to learn how to build a life where work supports the person, instead of slowly consuming them.",
+            "en": "Exactly right. The deeper point is to learn how to build a life where work supports the person, instead of slowly consuming them.",
             "zh": "沒錯。更深的一點是學會：怎麼建一種生活，讓工作在支撐這個人，而不是慢慢把他吃掉。"
           },
           {
@@ -1243,7 +1243,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Real learning often looks small from the inside because it arrives through habit, correction, and staying with the thing a little longer than before.",
+            "en": "Yes. Real learning often looks small from the inside because it arrives through habit, correction, and staying with the thing a little longer than before.",
             "zh": "沒錯。真正的 learning 從裡面看起來常常很小，因為它是透過 habit、修正，還有比以前多留一下而到的。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another sign is that a person can do something with less drama and more range. They are not only capable. They are steadier.",
+            "en": "Precisely. Another sign is that a person can do something with less drama and more range. They are not only capable. They are steadier.",
             "zh": "沒錯。另一個 sign 是：一個人能以比較少 drama、但更多 range 去做事。他不只是 capable，也更 steady。"
           },
           {
@@ -1320,7 +1320,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that makes it much easier to spot honestly.",
+            "en": "Yes. that makes it much easier to spot honestly.",
             "zh": "對，而這會讓它更容易被誠實看見。"
           }
         ]
@@ -1402,7 +1402,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A review can rescue growth from being overlooked by helping people look at function instead of spectacle.",
+            "en": "Right. A review can rescue growth from being overlooked by helping people look at function instead of spectacle.",
             "zh": "沒錯。回顧會把成長從被忽略裡救出來，因為它逼人去看作用方式，而不是表面光彩。"
           },
           {
@@ -1467,7 +1467,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point is not to impress yourself. The point is to understand yourself better and carry the learning forward.",
+            "en": "Yes. The point is not to impress yourself. The point is to understand yourself better and carry the learning forward.",
             "zh": "沒錯。重點不是要 impress 自己，而是更理解自己，然後把 learning 帶去前面。"
           },
           {
@@ -1560,7 +1560,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Creativity and joy often keep people in contact with wonder, play, and the parts of themselves that are not only useful.",
+            "en": "That's the key. Creativity and joy often keep people in contact with wonder, play, and the parts of themselves that are not only useful.",
             "zh": "沒錯。creativity 和 joy 會讓人繼續碰到 wonder、play，以及自己那些不只為了有用而存在的部分。"
           },
           {
@@ -1585,7 +1585,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. It helps people see what kept them alive beyond responsibility alone.",
-            "zh": "非常是。它會幫人看見：除了責任之外，還有什麼東西一直讓自己保持活著。"
+            "zh": "沒錯。它會幫人看見：除了責任之外，還有什麼東西一直讓自己保持活著。"
           }
         ]
       },
@@ -1613,7 +1613,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It asks where life opened and where it narrowed.",
+            "en": "I think so. It asks where life opened and where it narrowed.",
             "zh": "沒錯。它在問：life 在哪裡打開、又在哪裡收窄。"
           },
           {
@@ -1637,7 +1637,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and review can help call it back into visibility.",
+            "en": "Yes. review can help call it back into visibility.",
             "zh": "對。而 review 就能幫它重新回到可見。"
           }
         ]
@@ -1719,7 +1719,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That does not make it small in value. It may mean those rituals were carrying more of the person than they realized.",
+            "en": "Indeed. That does not make it small in value. It may mean those rituals were carrying more of the person than they realized.",
             "zh": "沒錯。但那不代表它的價值很小。它也可能表示：那些 ritual 承載了比那個人原本意識到的更多自我。"
           },
           {
@@ -1772,7 +1772,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point of review is not only to identify what was hard or productive. It is also to remember what was beautiful enough to protect.",
+            "en": "That's true. The point of review is not only to identify what was hard or productive. It is also to remember what was beautiful enough to protect.",
             "zh": "沒錯。review 的目的不只是看出什麼 hard、什麼 productive，也是在提醒自己：哪些東西美到值得保護。"
           },
           {
@@ -1877,7 +1877,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It lets a person speak across time with more care than daily life usually allows.",
+            "en": "That is the point. It lets a person speak across time with more care than daily life usually allows.",
             "zh": "沒錯。它讓一個人能用比 daily life 平常更細緻的方式，跨時間對自己說話。"
           },
           {
@@ -1902,7 +1902,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Form creates care in ways people do not always expect.",
-            "zh": "非常是。形式本身就會創造出人意想不到的 care。"
+            "zh": "沒錯。形式本身就會創造出人意想不到的 care。"
           }
         ]
       },
@@ -1954,7 +1954,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It keeps one version of the self from disappearing too quickly into the next one.",
+            "en": "Exactly right. It keeps one version of the self from disappearing too quickly into the next one.",
             "zh": "沒錯。它會讓這個版本的自己，不會那麼快被下一個版本吞沒。"
           }
         ]
@@ -2036,7 +2036,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Future-self letters often protect the truths that are easiest to abandon once life gets noisy again.",
+            "en": "Yes. Future-self letters often protect the truths that are easiest to abandon once life gets noisy again.",
             "zh": "沒錯。future-self letter 常常是在保護那些一旦 life 又吵起來，就最容易被丟掉的 truth。"
           },
           {

@@ -86,7 +86,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A savings goal works best when it feels connected to relief and freedom, not only restriction.",
+            "en": "Right. A savings goal works best when it feels connected to relief and freedom, not only restriction.",
             "zh": "完全沒錯。存款目標最有力量的時候，是它讓人感受到鬆一口氣和自由，而不是只有限制。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Money clarity matters because confusion makes avoidance feel safer than action.",
+            "en": "True. Money clarity matters because confusion makes avoidance feel safer than action.",
             "zh": "完全沒錯。金錢清楚感很重要，因為一旦混亂，逃避就會比行動更像安全選項。"
           },
           {
@@ -345,7 +345,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Scarcity mindset can survive even after a person's circumstances improve, because the body remembers earlier fear.",
+            "en": "Precisely. Scarcity mindset can survive even after a person's circumstances improve, because the body remembers earlier fear.",
             "zh": "完全沒錯。匱乏心態就算在一個人的條件變好之後也可能繼續存在，因為身體還記得早年的害怕。"
           },
           {
@@ -398,7 +398,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A status symbol can feel powerful because it seems to promise belonging, not only appearance.",
+            "en": "Indeed. A status symbol can feel powerful because it seems to promise belonging, not only appearance.",
             "zh": "完全沒錯。地位象徵之所以有吸引力，是因為它看起來像是在保證一種歸屬感，不只是外表。"
           },
           {
@@ -433,7 +433,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How would I say it if I wanted to say money feels emotional because of my background?",
+            "en": "Is there a natural phrase in English if I want to say money feels emotional because of my background?",
             "zh": "如果我想用英文說，金錢對我來說之所以很情緒化，是因為我的背景經驗，可以怎麼講？"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Intentional spending is less about restriction than about choosing what deserves the room.",
+            "en": "True. Intentional spending is less about restriction than about choosing what deserves the room.",
             "zh": "完全沒錯。有意識花錢與其說是在限制，不如說是在決定什麼值得被留出空間。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Delayed reward sounds rational, but it competes with today's tiredness, loneliness, and impulse.",
+            "en": "Precisely. Delayed reward sounds rational, but it competes with today's tiredness, loneliness, and impulse.",
             "zh": "完全沒錯。延後回報在理智上很合理，可是它每天都在和疲累、孤單和衝動競爭。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Future self thinking helps because it turns saving from deprivation into care across time.",
+            "en": "Indeed. Future self thinking helps because it turns saving from deprivation into care across time.",
             "zh": "完全沒錯。未來自己思維會有幫助，因為它會把存錢從剝奪感，轉成跨時間的照顧。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An awkward conversation gets worse when people feel exposed before they feel understood.",
+            "en": "That is right. An awkward conversation gets worse when people feel exposed before they feel understood.",
             "zh": "完全沒錯。如果人在覺得被理解之前，就先覺得自己被暴露了，那種尷尬對話只會更糟。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Expectation mismatch is often what hurts most, not the number itself.",
+            "en": "Precisely. Expectation mismatch is often what hurts most, not the number itself.",
             "zh": "完全沒錯。真正最傷的常常是期待落差，不是那個數字本身。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Milestone anxiety grows when progress starts feeling like a verdict on the self.",
+            "en": "Indeed. Milestone anxiety grows when progress starts feeling like a verdict on the self.",
             "zh": "完全沒錯。里程碑焦慮會在進度開始像是在評判你這個人時快速長大。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A self-worth link makes every setback feel larger than the actual money involved.",
+            "en": "That is right. A self-worth link makes every setback feel larger than the actual money involved.",
             "zh": "完全沒錯。當自我價值和目標綁在一起時，每一次小挫折都會比實際涉及的金錢看起來更大。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Financial recovery often depends on steady progress, not emotional whiplash.",
+            "en": "That is true. Financial recovery often depends on steady progress, not emotional whiplash.",
             "zh": "完全沒錯。財務修復很多時候靠的是穩定進步，不是情緒甩來甩去。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Lifestyle inflation is dangerous because it makes each upgrade feel normal almost immediately.",
+            "en": "Indeed. Lifestyle inflation is dangerous because it makes each upgrade feel normal almost immediately.",
             "zh": "完全沒錯。生活膨脹很危險，因為每一次升級都會很快讓人覺得『這本來就該有』。"
           },
           {
@@ -1673,7 +1673,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Hidden debt often grows in the space between what a life looks like and what it can truly support.",
+            "en": "That is right. Hidden debt often grows in the space between what a life looks like and what it can truly support.",
             "zh": "完全沒錯。隱性債務很多時候就是長在生活看起來像什麼，和它實際撐得住什麼之間。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Public success often looks attractive from the outside, but quiet stability is what helps people sleep.",
+            "en": "That is true. Public success often looks attractive from the outside, but quiet stability is what helps people sleep.",
             "zh": "完全沒錯。公開可見的成功從外面看很吸引人，可是真正讓人睡得著的，常常是安靜穩定。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Money calm matters because fear can distort both spending and planning.",
+            "en": "Yes. Money calm matters because fear can distort both spending and planning.",
             "zh": "完全沒錯。金錢平靜很重要，因為恐懼會同時扭曲花錢和規劃。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Honest limit setting matters because freedom without limits can turn into chaos very quickly.",
+            "en": "That is right. Honest limit setting matters because freedom without limits can turn into chaos very quickly.",
             "zh": "完全沒錯。誠實界線很重要，因為沒有界線的自由很快就會變成混亂。"
           },
           {

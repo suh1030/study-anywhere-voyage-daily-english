@@ -55,7 +55,7 @@ export const EPISODE_11: Episode = {
         { speaker: 'b', speakerName: 'Jamie', en: "How about office politics? That's an unavoidable part of most workplaces.", zh: '那辦公室政治呢？那是大多數工作場所不可避免的一部分。', vocab: [{ word: 'office politics', def: '辦公室政治' }] },
         { speaker: 'a', speakerName: 'Mira', en: "I try to stay out of the gossip side of it. But understanding the informal power structures — who actually influences decisions, who people go to when things are stuck — that's not politics, that's just knowing how things work.", zh: '我盡量遠離八卦的那一面。但理解非正式的權力結構——誰真正影響決策、事情卡住時人們去找誰——那不是政治，那只是了解事情如何運作。', vocab: [{ word: 'gossip', def: '八卦' }, { word: 'informal', def: '非正式的' }] },
         { speaker: 'b', speakerName: 'Jamie', en: "That's a mature way to put it. Political awareness without playing games.", zh: '那是一個成熟的說法。政治意識而不玩手段。' },
-        { speaker: 'a', speakerName: 'Mira', en: "Exactly. You don't have to participate in the politics to understand them. And understanding them protects you.", zh: '正是。你不必參與政治，但要理解它們。而理解它們保護你。' },
+        { speaker: 'a', speakerName: 'Mira', en: "Right. You don't have to participate in the politics to understand them. And understanding them protects you.", zh: '正是。你不必參與政治，但要理解它們。而理解它們保護你。' },
       ],
     },
     {

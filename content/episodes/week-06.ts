@@ -139,7 +139,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The congee tastes like being taken care of. Like my mother's hands are in the bowl somehow.",
+            "en": "Yes. The congee tastes like being taken care of. Like my mother's hands are in the bowl somehow.",
             "zh": "就是。那碗粥喝起來像是有人在照顧你，好像媽媽的心意也一起煮進去了。"
           },
           {
@@ -984,7 +984,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Your body gives you feedback constantly. The problem is we're not trained to listen to it.",
+            "en": "Right. Your body gives you feedback constantly. The problem is we're not trained to listen to it.",
             "zh": "就是。你的身體一直在給你反饋。問題是我們沒有被訓練去傾聽它。"
           },
           {
@@ -1243,14 +1243,14 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The olfactory system — smell — has a direct pathway to the hippocampus, the memory center. No other sense has that shortcut.",
+            "en": "Yes. The olfactory system — smell — has a direct pathway to the hippocampus, the memory center. No other sense has that shortcut.",
             "zh": "就是。嗅覺系統——氣味——直接通往海馬迴，即記憶中心。沒有其他感官有這個捷徑。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So smelling my grandma's soup literally activates the same neural pathways as being in her kitchen as a child.",
-            "zh": "所以聞到我奶奶的湯，從字面上講是激活了和我小時候在她廚房裡相同的神經通路。"
+            "zh": "所以聞到我奶奶的湯，從字面上說，喚起的是和我小時候坐在她廚房裡完全相同的神經迴路。"
           },
           {
             "speaker": "a",
@@ -1455,7 +1455,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Or the rushed breakfast before a journey. Or the takeout eaten on the floor because there were no chairs yet.",
+            "en": "That's the key. Or the rushed breakfast before a journey. Or the takeout eaten on the floor because there were no chairs yet.",
             "zh": "就是。或者旅行前匆忙的早餐。或者因為還沒有椅子而坐在地板上吃的外賣。"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A chef who combines Taiwanese and Japanese flavors successfully probably knows both cuisines inside out.",
+            "en": "I think so. A chef who combines Taiwanese and Japanese flavors successfully probably knows both cuisines inside out.",
             "zh": "就是。一個成功結合台灣和日本風味的廚師可能對兩種料理都瞭若指掌。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can't easily hate a people whose food you love. It humanizes the abstract.",
+            "en": "Right. You can't easily hate a people whose food you love. It humanizes the abstract.",
             "zh": "就是。你很難輕易仇恨一個你愛他們食物的民族。它使抽象的事物人性化。"
           },
           {

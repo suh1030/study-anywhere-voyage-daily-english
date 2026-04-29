@@ -27,7 +27,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. I noticed I had very strong opinions, but I was not sure where they came from.",
+            "en": "Yes. I noticed I had very strong opinions, but I was not sure where they came from.",
             "zh": "對啊。我發現自己有非常強烈的看法，但我不確定它們是從哪裡來的。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and the reverse happens too. One good quarter can make people wildly optimistic.",
+            "en": "Yes. the reverse happens too. One good quarter can make people wildly optimistic.",
             "zh": "對，反過來也一樣。一個好的季度會讓人過度樂觀。"
           },
           {
@@ -216,7 +216,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A written scenario also lets you spot what you are assuming, so you can check whether those assumptions are actually true.",
+            "en": "Right. A written scenario also lets you spot what you are assuming, so you can check whether those assumptions are actually true.",
             "zh": "沒錯。書面情境也讓你能看見自己做了什麼假設，這樣你才能檢查那些假設是不是真的。"
           },
           {
@@ -410,7 +410,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Neither person is necessarily wrong about the facts. They are starting from different priorities.",
+            "en": "Yes. Neither person is necessarily wrong about the facts. They are starting from different priorities.",
             "zh": "沒錯。兩個人對事實的判斷不一定哪個是錯的，他們只是從不同的優先順序出發。"
           },
           {
@@ -504,7 +504,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Now you have something actionable in the near term. The five-year vision becomes a current task.",
+            "en": "That's the key. Now you have something actionable in the near term. The five-year vision becomes a current task.",
             "zh": "沒錯。這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。"
           },
           {
@@ -774,7 +774,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another useful phrase is \"My concern is...\" followed by \"What gives me hope is...\" That contrast works well.",
+            "en": "I think so. Another useful phrase is \"My concern is...\" followed by \"What gives me hope is...\" That contrast works well.",
             "zh": "沒錯。另一個有用的說法是「我擔心的是……」接著「讓我感到有希望的是……」這種對比很有效。"
           },
           {
@@ -839,7 +839,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A plan B does not mean you are giving up. It means you have covered the ground, so your brain can relax.",
+            "en": "Right. A plan B does not mean you are giving up. It means you have covered the ground, so your brain can relax.",
             "zh": "沒錯。有備案不意味著你放棄了，它意味著你已經把情況考慮進去了，所以你的大腦可以放鬆。"
           },
           {
@@ -1009,7 +1009,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Specificity is kindness in those conversations.",
+            "en": "That's true. Specificity is kindness in those conversations.",
             "zh": "沒錯。在那些對話中，具體就是善意。"
           }
         ]
@@ -1050,7 +1050,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The question to ask is not \"is my job safe?\" but \"which parts of what I do are hardest to replicate?\"",
+            "en": "That is the point. The question to ask is not \"is my job safe?\" but \"which parts of what I do are hardest to replicate?\"",
             "zh": "沒錯。要問的問題不是「我的工作安全嗎？」而是「我所做的事情中，哪些部分最難被複製？」"
           },
           {
@@ -1144,7 +1144,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Trying to develop all skills simultaneously usually ends in burnout without real progress.",
+            "en": "Exactly right. Trying to develop all skills simultaneously usually ends in burnout without real progress.",
             "zh": "沒錯。同時嘗試發展所有技能通常會在沒有真正進步的情況下導致精疲力竭。"
           },
           {
@@ -1192,7 +1192,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The culture shapes how the technology gets used. Organizations that forget that often get results they did not intend.",
+            "en": "Yes. The culture shapes how the technology gets used. Organizations that forget that often get results they did not intend.",
             "zh": "沒錯。文化塑造了技術的使用方式。忘記這一點的組織往往會得到他們沒有預料到的結果。"
           },
           {
@@ -1350,7 +1350,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Behavioral economists call it present bias. The near-term always feels more important than it actually is.",
+            "en": "True. Behavioral economists call it present bias. The near-term always feels more important than it actually is.",
             "zh": "沒錯。行為經濟學家稱之為當下偏誤，近期總是感覺比它實際上更重要。"
           },
           {
@@ -1374,7 +1374,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The more concrete and personal the future image, the more power it has to compete with the present.",
+            "en": "Right. The more concrete and personal the future image, the more power it has to compete with the present.",
             "zh": "沒錯。未來的畫面越具體和個人化，它就越有能力與當下競爭。"
           }
         ]
@@ -1509,7 +1509,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That middle space, clear-eyed realism paired with genuine hope, is rare and very valuable.",
+            "en": "Yes. That middle space, clear-eyed realism paired with genuine hope, is rare and very valuable.",
             "zh": "沒錯。那個中間地帶，清醒的現實主義加上真誠的希望，是罕見而非常寶貴的。"
           },
           {
@@ -1626,7 +1626,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good plan helps you make faster decisions when things change, because you already know your priorities.",
+            "en": "That's the key. A good plan helps you make faster decisions when things change, because you already know your priorities.",
             "zh": "沒錯。好的計畫能幫助你在事情改變時做出更快的決定，因為你已經知道自己的優先順序了。"
           },
           {
@@ -1667,7 +1667,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Committing to the destination while staying flexible about the route is actually the most effective kind of planning.",
+            "en": "I think so. Committing to the destination while staying flexible about the route is actually the most effective kind of planning.",
             "zh": "沒錯。對目的地做出承諾，同時對路線保持靈活，實際上是最有效的規劃方式。"
           },
           {
@@ -1773,7 +1773,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An uncertain future does not mean no preparation is possible. It means preparing broadly rather than narrowly.",
+            "en": "Precisely. An uncertain future does not mean no preparation is possible. It means preparing broadly rather than narrowly.",
             "zh": "沒錯。不確定的未來並不意味著不可能做準備，它意味著廣泛地而不是狹隘地做準備。"
           },
           {
@@ -1943,7 +1943,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some decisions are reversible. Others narrow your future quite significantly. Knowing the difference is very useful.",
+            "en": "That's true. Some decisions are reversible. Others narrow your future quite significantly. Knowing the difference is very useful.",
             "zh": "沒錯。有些決定是可逆的，有些則會相當大幅地縮窄你的未來。知道這種差異非常有用。"
           },
           {
@@ -1996,7 +1996,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Today's choices vote for or against the person you are becoming. Over time, those votes accumulate.",
+            "en": "That is the point. Today's choices vote for or against the person you are becoming. Over time, those votes accumulate.",
             "zh": "沒錯。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。"
           },
           {

@@ -33,7 +33,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Resource use is often easiest to understand when waste becomes impossible to ignore.",
+            "en": "That's the key. Resource use is often easiest to understand when waste becomes impossible to ignore.",
             "zh": "完全沒錯。資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
+            "en": "I think so. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
             "zh": "完全沒錯。長期思考是在要求人去在乎那些當下感受不到的後果。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Helpless feeling grows fast when a problem is global but your body is only one body in one room.",
+            "en": "That's true. Helpless feeling grows fast when a problem is global but your body is only one body in one room.",
             "zh": "完全沒錯。當問題是全球性的，而你的身體只是一個房間裡的一個身體時，無力感很快就會長大。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Distant consequence is part of that too, because much of the damage arrives somewhere else or later in time.",
+            "en": "That is the point. Distant consequence is part of that too, because much of the damage arrives somewhere else or later in time.",
             "zh": "完全沒錯。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotional overload does not make people more useful. It usually makes them shut down or lash out.",
+            "en": "Exactly right. Emotional overload does not make people more useful. It usually makes them shut down or lash out.",
             "zh": "完全沒錯。情緒過載不會讓人更有用，反而通常只會讓人關機或失控。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Everyday leverage is not everything, but it is often where responsibility becomes real enough to keep.",
+            "en": "Yes. Everyday leverage is not everything, but it is often where responsibility becomes real enough to keep.",
             "zh": "完全沒錯。日常槓桿不是全部，但它常常是責任開始變得夠真、夠留得住的地方。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Consumption pattern matters more than isolated moments of virtue.",
+            "en": "Right. Consumption pattern matters more than isolated moments of virtue.",
             "zh": "完全沒錯。真正重要的是消費模式，不是偶爾某一次很有道德感的表現。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A reusable habit or a repair choice keeps working after the moment passes.",
+            "en": "Right. A reusable habit or a repair choice keeps working after the moment passes.",
             "zh": "完全沒錯。像重複使用的習慣或先修再換的選擇，效果都會在那個當下過後繼續存在。"
           },
           {
@@ -727,7 +727,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and food miles matter for that reason too. They remind people that distance is part of the story.",
+            "en": "Yes. food miles matter for that reason too. They remind people that distance is part of the story.",
             "zh": "對，而 food miles 也正是同樣的道理。它會提醒人，距離本身也是故事的一部分。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Household waste drops faster when the better option is easy, visible, and close at hand.",
+            "en": "Yes. Household waste drops faster when the better option is easy, visible, and close at hand.",
             "zh": "完全沒錯。當比較好的選項夠簡單、看得到、拿得到時，家庭廢棄量就比較容易真的降下來。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why convenience can feel clean while secretly producing hidden waste all around it.",
+            "en": "Yes. that is why convenience can feel clean while secretly producing hidden waste all around it.",
             "zh": "對，也因此，便利表面上看起來很乾淨，背後卻常常一路都在製造隱性浪費。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Single-use packaging is one of the clearest examples because the lifespan of the object is so short.",
+            "en": "That's the key. Single-use packaging is one of the clearest examples because the lifespan of the object is so short.",
             "zh": "完全沒錯。一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Delivery culture grows because it turns planning, travel, and waiting into one tap.",
+            "en": "I think so. Delivery culture grows because it turns planning, travel, and waiting into one tap.",
             "zh": "完全沒錯。外送文化之所以長這麼快，就是因為它把規劃、移動和等待全都縮成一個按鈕。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Landfill burden drops when durable choice becomes normal rather than exceptional.",
+            "en": "True. Landfill burden drops when durable choice becomes normal rather than exceptional.",
             "zh": "完全沒錯。當耐用選擇變成常態，而不是例外時，掩埋場負擔就會下降。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and climate guilt grows fast when people care deeply but cannot control the larger system.",
+            "en": "Yes. climate guilt grows fast when people care deeply but cannot control the larger system.",
             "zh": "對，而當一個人很在乎、卻又控制不了更大的系統時，氣候罪惡感就很容易長得很快。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Eco-anxiety is not proof that someone is irrational. It can be a very sane response to real danger.",
+            "en": "That's true. Eco-anxiety is not proof that someone is irrational. It can be a very sane response to real danger.",
             "zh": "完全沒錯。生態焦慮不是一個人不理性，而可能是對真實危險非常合理的回應。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Active hope works because it treats action as part of the emotion, not a separate thing.",
+            "en": "That is the point. Active hope works because it treats action as part of the emotion, not a separate thing.",
             "zh": "完全沒錯。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
           },
           {
@@ -1455,7 +1455,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Shared effort matters because isolation intensifies fear more than people realize.",
+            "en": "Exactly right. Shared effort matters because isolation intensifies fear more than people realize.",
             "zh": "完全沒錯。共同努力很重要，因為孤立感會比人想像中更快放大恐懼。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Urban tree cover does that all the time by changing heat, light, and emotional tone.",
+            "en": "Yes. Urban tree cover does that all the time by changing heat, light, and emotional tone.",
             "zh": "完全沒錯。城市樹蔭覆蓋就是一直在做這件事，它會改變熱度、光線，也改變情緒的色調。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A walkable block changes behavior because it makes low-energy movement realistic.",
+            "en": "Precisely. A walkable block changes behavior because it makes low-energy movement realistic.",
             "zh": "完全沒錯。可步行街區會改變行為，是因為它讓低消耗的移動方式真的變得可行。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Cooling shade matters because heat changes mood, safety, and who can comfortably use a space.",
+            "en": "Right. Cooling shade matters because heat changes mood, safety, and who can comfortably use a space.",
             "zh": "完全沒錯。降溫遮蔭很重要，因為高溫會直接改變情緒、安全感，以及誰還能舒服地使用那個空間。"
           },
           {
@@ -1913,7 +1913,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that matters. If people cannot picture a livable future, sacrifice starts to feel meaningless.",
+            "en": "Yes. that matters. If people cannot picture a livable future, sacrifice starts to feel meaningless.",
             "zh": "對，而那很重要。如果人想像不出一個住得下去的未來，任何犧牲都會開始顯得沒意義。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Civic imagination helps people move from fear into design.",
+            "en": "Yes. Civic imagination helps people move from fear into design.",
             "zh": "完全沒錯。公民想像力會幫人從恐懼，慢慢走到設計和建造。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Circular economy thinking matters because it asks what can keep circulating instead of becoming waste.",
+            "en": "That's the key. Circular economy thinking matters because it asks what can keep circulating instead of becoming waste.",
             "zh": "完全沒錯。循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Repairable design matters because it teaches care instead of constant replacement.",
+            "en": "I think so. Repairable design matters because it teaches care instead of constant replacement.",
             "zh": "完全沒錯。可修復設計很重要，因為它教的是照顧，而不是一直替換。"
           },
           {

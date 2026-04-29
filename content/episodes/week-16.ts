@@ -57,7 +57,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good communication starts when you stop assuming your own style sounds neutral to everyone.",
+            "en": "That's true. Good communication starts when you stop assuming your own style sounds neutral to everyone.",
             "zh": "沒錯。真正好的溝通，是從你不再假設自己的方式對所有人都聽起來很中性開始。"
           }
         ]
@@ -110,7 +110,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and also learning to read the room before deciding how direct or layered to be.",
+            "en": "Yes. also learning to read the room before deciding how direct or layered to be.",
             "zh": "對，而且也要學會先 read the room，再決定自己要講得多直接或多有層次。"
           }
         ]
@@ -163,7 +163,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A pattern gives you something you can notice and adjust.",
+            "en": "That is the point. A pattern gives you something you can notice and adjust.",
             "zh": "沒錯。模式是你可以觀察、也可以調整的東西。"
           }
         ]
@@ -240,7 +240,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The strongest communicators are not the loudest ones. They are the ones who can adjust without becoming fake.",
+            "en": "Exactly right. The strongest communicators are not the loudest ones. They are the ones who can adjust without becoming fake.",
             "zh": "沒錯。最強的溝通者不是聲量最大的人，而是能調整自己又不變得很假的人。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. One person thinks there is still room. The other thinks the answer was already obvious.",
+            "en": "Yes. One person thinks there is still room. The other thinks the answer was already obvious.",
             "zh": "沒錯。一個人以為事情還有空間，另一個人卻以為答案早就很清楚了。"
           },
           {
@@ -463,7 +463,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Language gets messy when it leaves room that you never meant to leave.",
+            "en": "Right. Language gets messy when it leaves room that you never meant to leave.",
             "zh": "沒錯。語言會變亂，常常是因為它 leave room 給了你本來根本沒想留下的可能性。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The problem begins when people use it to avoid responsibility forever.",
+            "en": "Yes. The problem begins when people use it to avoid responsibility forever.",
             "zh": "沒錯。真正的問題，是有人拿它來無限期逃避責任。"
           },
           {
@@ -780,7 +780,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That kind of line tells the other person you are with them, not cross-examining them.",
+            "en": "That's the key. That kind of line tells the other person you are with them, not cross-examining them.",
             "zh": "沒錯。這種句子會讓對方知道，你是在跟他站在一起，不是在盤問他。"
           },
           {
@@ -834,7 +834,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. If your inner voice is too loud, the other person's meaning never has space.",
-            "zh": "非常是。如果你腦中的聲音太大，別人的意思就根本沒有空間進來。"
+            "zh": "沒錯。如果你腦中的聲音太大，別人的意思就根本沒有空間進來。"
           },
           {
             "speaker": "b",
@@ -1056,7 +1056,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It keeps the conversation connected while you bring in tension.",
+            "en": "I think so. It keeps the conversation connected while you bring in tension.",
             "zh": "沒錯。你是在把張力帶進來的同時，也把連結留住。"
           }
         ]
@@ -1162,7 +1162,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Curiosity keeps disagreement from turning into a shut down.",
+            "en": "Right. Curiosity keeps disagreement from turning into a shut down.",
             "zh": "沒錯。好奇心能避免不同意直接變成 shut down。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Text removes timing, facial expression, and half the tone. That is why a dry text can feel colder than it was meant to.",
+            "en": "That's true. Text removes timing, facial expression, and half the tone. That is why a dry text can feel colder than it was meant to.",
             "zh": "沒錯。文字把時間感、表情，還有一大半的語氣都拿掉了。所以 dry text 很容易比原本想表達的還要冷。"
           },
           {
@@ -1356,7 +1356,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They ask for more attention, so you want to match the format to the relationship and the urgency.",
+            "en": "That is the point. They ask for more attention, so you want to match the format to the relationship and the urgency.",
             "zh": "沒錯。它要求更多注意力，所以你要讓格式跟關係、還有事情的緊急程度對得上。"
           },
           {
@@ -1409,7 +1409,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another useful line is, \"I think the tone got lost in text.\"",
+            "en": "Exactly right. Another useful line is, \"I think the tone got lost in text.\"",
             "zh": "沒錯。另一句很好用的是：「我覺得語氣在文字裡跑掉了。」"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. \"No worries, just checking\" lands very differently from \"Need this now.\"",
+            "en": "Yes. \"No worries, just checking\" lands very differently from \"Need this now.\"",
             "zh": "沒錯。「沒事，我只是確認一下」跟「現在就需要這個」落地的感覺完全不一樣。"
           },
           {
@@ -1503,7 +1503,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better communication is partly about choosing the right channel.",
+            "en": "True. Better communication is partly about choosing the right channel.",
             "zh": "沒錯。更好的溝通，有一部分其實只是選對 channel。"
           },
           {
@@ -1620,7 +1620,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An open-ended question like, \"What has been draining you lately?\" invites a real answer.",
+            "en": "Right. An open-ended question like, \"What has been draining you lately?\" invites a real answer.",
             "zh": "沒錯。像「最近到底是什麼在消耗你？」這樣的 open-ended question，才比較容易請出真正的答案。"
           },
           {
@@ -1714,7 +1714,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A yes-or-no question is easy to dodge when the truth is complicated.",
+            "en": "Yes. A yes-or-no question is easy to dodge when the truth is complicated.",
             "zh": "沒錯。當真相很複雜時，yes-or-no question 本來就很容易被閃掉。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you want to help someone get specific, offer a few real directions instead of one narrow guess.",
+            "en": "That's the key. If you want to help someone get specific, offer a few real directions instead of one narrow guess.",
             "zh": "沒錯。如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。"
           },
           {
@@ -1738,7 +1738,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That kind of question makes reflection easier, not harder.",
+            "en": "I think so. That kind of question makes reflection easier, not harder.",
             "zh": "對。這種問題會讓反思變得更容易，不是更難。"
           }
         ]
@@ -1780,7 +1780,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. A calm question plus silence often invites a fuller answer than a brilliant question plus pressure.",
-            "zh": "非常是。平靜的問題加上沉默，常常比很聰明的問題加上壓力，更能請出完整的回答。"
+            "zh": "沒錯。平靜的問題加上沉默，常常比很聰明的問題加上壓力，更能請出完整的回答。"
           },
           {
             "speaker": "b",
@@ -1937,7 +1937,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Start with the key point. The details can follow once people understand the shape of the problem.",
+            "en": "Precisely. Start with the key point. The details can follow once people understand the shape of the problem.",
             "zh": "沒錯。先講 key point。等別人先看懂問題輪廓，細節再跟上就好。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you know the spine of your message, you can still speak up even when your nerves show up first.",
+            "en": "That's true. If you know the spine of your message, you can still speak up even when your nerves show up first.",
             "zh": "沒錯。如果你知道自己那段話的骨架在哪裡，你就算先感覺到緊張，也還是能 speak up。"
           },
           {
@@ -2137,7 +2137,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Keep it simple, keep it honest, and keep returning to the point.",
+            "en": "That is the point. Keep it simple, keep it honest, and keep returning to the point.",
             "zh": "沒錯。Keep it simple，保持誠實，然後一直回到那個點上。"
           },
           {

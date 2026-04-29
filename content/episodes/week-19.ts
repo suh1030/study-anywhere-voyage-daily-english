@@ -27,7 +27,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. She smiled politely and then asked, 'No, I mean what do you actually do all day?'",
+            "en": "Yes. She smiled politely and then asked, 'No, I mean what do you actually do all day?'",
             "zh": "真的。她先很客氣地笑了一下，然後又問我：「不是啦，我是說你整天到底在做什麼？」"
           },
           {
@@ -245,7 +245,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A vague explanation makes your work look vague too.",
+            "en": "Right. A vague explanation makes your work look vague too.",
             "zh": "沒錯。模糊的說明，最後也會讓你的工作看起來很模糊。"
           },
           {
@@ -344,7 +344,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. One answer sounded too formal, another sounded too small, and one of them was just a mess.",
+            "en": "Yes. One answer sounded too formal, another sounded too small, and one of them was just a mess.",
             "zh": "真的。有一個版本太正式，一個又太像在把自己縮小，還有一個根本講得亂七八糟。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You are introducing your current role, not reciting your whole life story.",
+            "en": "That's the key. You are introducing your current role, not reciting your whole life story.",
             "zh": "沒錯。你是在介紹你現在的角色，不是在背自己的人生傳記。"
           },
           {
@@ -468,7 +468,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good intro should give context before detail.",
+            "en": "I think so. A good intro should give context before detail.",
             "zh": "沒錯。好的自我介紹，應該先給脈絡，再補細節。"
           },
           {
@@ -521,7 +521,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Write a version, say it out loud, then trim anything that sounds like it belongs on paper but not in your mouth.",
+            "en": "Right. Write a version, say it out loud, then trim anything that sounds like it belongs on paper but not in your mouth.",
             "zh": "完全正確。先寫一版，再把它講出來，把那些適合寫在紙上、卻不適合從你嘴裡說出來的部分修掉。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It helps you hear your own work with more accuracy too.",
+            "en": "That's true. It helps you hear your own work with more accuracy too.",
             "zh": "沒錯。它也會幫你自己更準確地聽見自己的工作到底是什麼。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes a job mainly pays the bills, and sometimes it also feeds your sense of purpose. Those are not always the same season.",
+            "en": "That is the point. Sometimes a job mainly pays the bills, and sometimes it also feeds your sense of purpose. Those are not always the same season.",
             "zh": "完全沒錯。有時候一份工作主要是在付帳單，有時候它也會滋養你的目的感。那兩件事不一定總是在同一個時期重疊。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some people need impact. Some need stability. Some need to feel they are good at what they do.",
+            "en": "Exactly right. Some people need impact. Some need stability. Some need to feel they are good at what they do.",
             "zh": "沒錯。有些人需要影響力，有些人需要穩定，有些人只是需要感覺自己真的擅長正在做的事。"
           },
           {
@@ -740,7 +740,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. Meaning usually grows from repeated evidence, not from one dramatic epiphany.",
-            "zh": "非常是。意義感通常是從反覆出現的證據長出來的，不是只靠一次戲劇性的頓悟。"
+            "zh": "沒錯。意義感通常是從反覆出現的證據長出來的，不是只靠一次戲劇性的頓悟。"
           }
         ]
       },
@@ -780,7 +780,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Honest work language often sounds calmer than people expect.",
+            "en": "Yes. Honest work language often sounds calmer than people expect.",
             "zh": "沒錯。誠實的工作語言，通常比大家想像的更平靜。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Big questions become useful only after they pass through concrete experience.",
+            "en": "True. Big questions become useful only after they pass through concrete experience.",
             "zh": "沒錯。大的問題只有在穿過具體經驗之後，才會變得有用。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes it is a quieter pattern that keeps saying yes to you over time.",
+            "en": "Right. Sometimes it is a quieter pattern that keeps saying yes to you over time.",
             "zh": "沒錯。有時候它只是某個比較安靜的模式，隨著時間一點一點對你說「對，這條路可以」。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The useful question is always, 'Who is making sure this does not quietly drop the ball?'",
+            "en": "Yes. The useful question is always, 'Who is making sure this does not quietly drop the ball?'",
             "zh": "完全沒錯。真正有用的問題永遠是：「到底誰在確保這件事不會默默掉到地上？」"
           }
         ]
@@ -1044,7 +1044,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good teams also loop someone in before the problem becomes expensive.",
+            "en": "That's the key. Good teams also loop someone in before the problem becomes expensive.",
             "zh": "沒錯。好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。"
           },
           {
@@ -1097,7 +1097,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you own the mistake clearly, people spend less time guessing whether they can trust you.",
+            "en": "I think so. If you own the mistake clearly, people spend less time guessing whether they can trust you.",
             "zh": "沒錯。當你把錯誤認得夠清楚，別人就不用花那麼多時間猜他還能不能信任你。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A clear expectation lowers the chance that everyone leaves with a slightly different story.",
+            "en": "Precisely. A clear expectation lowers the chance that everyone leaves with a slightly different story.",
             "zh": "沒錯。清楚的期待會大幅降低大家帶著不同版本的故事離開會議室的機率。"
           },
           {
@@ -1191,7 +1191,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ownership makes the path visible, especially when people are stressed.",
+            "en": "That's true. Ownership makes the path visible, especially when people are stressed.",
             "zh": "完全沒錯。當大家都在緊張時，ownership 其實就是在把路照出來。"
           },
           {
@@ -1215,7 +1215,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. At work, responsibility often sounds like clarity spoken a little earlier than comfort would prefer.",
+            "en": "That is the point. At work, responsibility often sounds like clarity spoken a little earlier than comfort would prefer.",
             "zh": "完全正確。在工作裡，責任感很多時候聽起來像是：比舒服更早一點，把清楚說出來。"
           }
         ]
@@ -1308,7 +1308,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good explanation of a career pivot starts with the connecting skill, not the chronological list.",
+            "en": "Exactly right. A good explanation of a career pivot starts with the connecting skill, not the chronological list.",
             "zh": "沒錯。好的轉職說明，應該先從串起這些工作的能力開始講，而不是先照時間順序背一遍。"
           },
           {
@@ -1373,7 +1373,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Continuity helps people relax enough to hear the change with interest instead of suspicion.",
+            "en": "Yes. Continuity helps people relax enough to hear the change with interest instead of suspicion.",
             "zh": "完全沒錯。當人先聽到延續性，就比較能放鬆下來，用興趣而不是懷疑去聽那個轉變。"
           }
         ]
@@ -1414,7 +1414,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You are giving the short version first, not trying to win a debate.",
+            "en": "Indeed. You are giving the short version first, not trying to win a debate.",
             "zh": "沒錯。你是在先給一個短版說法，不是在跟人辯論。"
           },
           {
@@ -1479,7 +1479,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Coherence is what lets people trust the move, including you.",
+            "en": "Right. Coherence is what lets people trust the move, including you.",
             "zh": "完全沒錯。連貫感會讓別人比較信這個轉變，也會讓你自己更信。"
           },
           {
@@ -1527,7 +1527,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A strong career story does not hide the turns. It explains what the turns were turning you toward.",
+            "en": "Yes. A strong career story does not hide the turns. It explains what the turns were turning you toward.",
             "zh": "完全沒錯。好的職涯故事不是把轉彎藏起來，而是解釋那些轉彎最後把你帶向哪裡。"
           }
         ]
@@ -1620,7 +1620,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why job loss or role change can hit the sense of self, not just the schedule.",
+            "en": "That's the key. That is why job loss or role change can hit the sense of self, not just the schedule.",
             "zh": "完全沒錯。這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。"
           },
           {
@@ -1673,7 +1673,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why it matters to build something outside of work that also holds you.",
+            "en": "I think so. That is why it matters to build something outside of work that also holds you.",
             "zh": "沒錯。這也是為什麼你需要在工作之外，也建立一些能接住你的東西。"
           },
           {
@@ -1779,7 +1779,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That does not make work less important. It just stops work from being your only mirror.",
+            "en": "That's true. That does not make work less important. It just stops work from being your only mirror.",
             "zh": "沒錯。那不會讓工作變得不重要，只是會阻止工作變成你唯一的鏡子。"
           },
           {
@@ -1808,7 +1808,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is to care about work in a way that still leaves room for a full life.",
+            "en": "That is the point. The goal is to care about work in a way that still leaves room for a full life.",
             "zh": "完全沒錯。重點是用一種仍然替完整人生留空間的方式去在乎工作。"
           },
           {
@@ -2002,7 +2002,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Not bragging is not the same as disappearing from your own story.",
+            "en": "Exactly right. Not bragging is not the same as disappearing from your own story.",
             "zh": "完全沒錯。不吹噓，不等於從自己的故事裡消失。"
           }
         ]
@@ -2043,7 +2043,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The key is to say it plainly and keep a steady voice.",
+            "en": "Yes. The key is to say it plainly and keep a steady voice.",
             "zh": "沒錯。關鍵就是把它平平地說出來，然後把聲音放穩。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of people sound uncertain simply because they have not kept track of their own evidence.",
+            "en": "True. A lot of people sound uncertain simply because they have not kept track of their own evidence.",
             "zh": "完全沒錯。很多人講起來沒把握，只是因為他根本沒有替自己留下證據。"
           },
           {
@@ -2137,7 +2137,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That middle space is accuracy with self-respect.",
+            "en": "Right. That middle space is accuracy with self-respect.",
             "zh": "完全沒錯。那塊中間地帶，就是帶著自尊的準確。"
           },
           {
@@ -2161,7 +2161,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Full size, plain language, steady voice. That is enough.",
+            "en": "Yes. Full size, plain language, steady voice. That is enough.",
             "zh": "完全沒錯。完整尺寸、白話、穩定語氣。那樣就夠了。"
           }
         ]

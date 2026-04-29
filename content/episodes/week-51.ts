@@ -33,7 +33,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Desire gets layered over by fear, duty, ambition, comparison, and survival thinking.",
+            "en": "Exactly right. Desire gets layered over by fear, duty, ambition, comparison, and survival thinking.",
             "zh": "沒錯。人的 desire 很容易被恐懼、責任感、野心、比較和生存思維一層層蓋住。"
           },
           {
@@ -58,7 +58,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so, and that is why people circle around it for years.",
-            "zh": "非常是，也正因如此，很多人會在它旁邊繞好多年。"
+            "zh": "沒錯，也正因如此，很多人會在它旁邊繞好多年。"
           }
         ]
       },
@@ -86,7 +86,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another clue is who the goal belongs to. If the imagined audience is louder than the inner voice, the goal may not be yours in a deep sense.",
+            "en": "Yes. Another clue is who the goal belongs to. If the imagined audience is louder than the inner voice, the goal may not be yours in a deep sense.",
             "zh": "沒錯。另一個線索是：那個目標到底屬於誰。如果想像中的觀眾比內在聲音還大，那個目標很可能沒有真的屬於你。"
           },
           {
@@ -252,7 +252,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good goal is not only something you admire. It is something you can actually keep meeting with your real life.",
+            "en": "Right. A good goal is not only something you admire. It is something you can actually keep meeting with your real life.",
             "zh": "沒錯。好的 goal 不只是你欣賞的東西，它也是一個你真的能帶著真實 life 一直去遇見的方向。"
           },
           {
@@ -345,7 +345,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Without vision, a goal can become a task that drains you. With vision, the same goal can feel connected to identity and direction.",
+            "en": "Yes. Without vision, a goal can become a task that drains you. With vision, the same goal can feel connected to identity and direction.",
             "zh": "沒錯。沒有 vision 的時候，goal 很容易變成只會耗你的 task；有了 vision，同樣的 goal 就會和 identity 和方向感連起來。"
           },
           {
@@ -398,7 +398,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
+            "en": "That's the key. Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
             "zh": "沒錯。另一個問題是：每一次 setback 都會變得像 identity collapse，因為那個 goal 扛了太多整個人生故事。"
           },
           {
@@ -423,7 +423,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. It gives people a reason deeper than immediate results.",
-            "zh": "非常是。它會給人一個比眼前結果更深的理由。"
+            "zh": "沒錯。它會給人一個比眼前結果更深的理由。"
           }
         ]
       },
@@ -504,7 +504,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
+            "en": "I think so. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
             "zh": "沒錯。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A rigid vision becomes a cage. A vague vision becomes a slogan. The useful middle is alive and directional.",
+            "en": "Right. A rigid vision becomes a cage. A vague vision becomes a slogan. The useful middle is alive and directional.",
             "zh": "沒錯。太硬的 vision 會變成牢籠；太模糊的 vision 又只剩 slogan。真正有用的是中間那塊，它既活，又有方向。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Habits and systems are not glamorous, but they protect effort from depending on perfect mood.",
+            "en": "That's true. Habits and systems are not glamorous, but they protect effort from depending on perfect mood.",
             "zh": "沒錯。habit 和 system 也許不 glamorous，但它們會保護 effort，不讓它全靠完美心情。"
           },
           {
@@ -739,7 +739,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Each repetition tells the self what kind of person it is becoming.",
+            "en": "That is the point. Each repetition tells the self what kind of person it is becoming.",
             "zh": "沒錯。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
           }
         ]
@@ -821,7 +821,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good systems do not pretend you are a different person. They work with the person you actually are.",
+            "en": "Exactly right. Good systems do not pretend you are a different person. They work with the person you actually are.",
             "zh": "沒錯。好的 system 不會假裝你是另一種人，它會和你真正是誰一起工作。"
           },
           {
@@ -846,7 +846,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. It says the future matters enough to build for honestly.",
-            "zh": "非常是。它像是在說：未來重要到值得你用誠實去替它設計。"
+            "zh": "沒錯。它像是在說：未來重要到值得你用誠實去替它設計。"
           },
           {
             "speaker": "b",
@@ -869,7 +869,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good intentions become more trustworthy once they leave the realm of mood and enter the realm of repetition.",
+            "en": "Yes. Good intentions become more trustworthy once they leave the realm of mood and enter the realm of repetition.",
             "zh": "沒錯。好的 intention 一旦離開 mood 的世界、進到 repetition 的世界，就會開始變得比較可信。"
           },
           {
@@ -974,7 +974,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Work can be meaningful, but it can also be practical, supportive, temporary, or simply a stable way to fund another part of life.",
+            "en": "True. Work can be meaningful, but it can also be practical, supportive, temporary, or simply a stable way to fund another part of life.",
             "zh": "沒錯。工作當然可以有意義，但它也可能是務實的、支撐性的、暫時的，或者只是讓你能養另一部分 life 的穩定方式。"
           },
           {
@@ -998,7 +998,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That wider view reduces shame and opens better choices.",
+            "en": "Right. That wider view reduces shame and opens better choices.",
             "zh": "沒錯。而那個更寬的 view，會減少羞愧，也讓選擇變得比較好。"
           }
         ]
@@ -1133,7 +1133,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Purpose often becomes clearer when people stop borrowing prestige as a compass.",
+            "en": "Yes. Purpose often becomes clearer when people stop borrowing prestige as a compass.",
             "zh": "沒錯。當人不再把 prestige 借來當羅盤時，purpose 常常會變得更清楚。"
           },
           {
@@ -1186,7 +1186,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
+            "en": "That's the key. If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
             "zh": "沒錯。如果一個 calling 把整個 self 都吞掉，它就不再像意義，而比較像囚禁。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
+            "en": "I think so. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
             "zh": "沒錯。事情真的發生了，而 resilience 是一邊尊重那個 impact，一邊仍然找回往前走的路。"
           },
           {
@@ -1316,7 +1316,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Sometimes tenderness is exactly what lets someone return.",
-            "zh": "非常是。有時候，正是柔軟讓一個人回得來。"
+            "zh": "沒錯。有時候，正是柔軟讓一個人回得來。"
           }
         ]
       },
@@ -1344,7 +1344,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People rarely recover through one giant heroic act. They recover through manageable returns to rhythm and trust.",
+            "en": "Precisely. People rarely recover through one giant heroic act. They recover through manageable returns to rhythm and trust.",
             "zh": "沒錯。人很少靠一次巨大的英雄時刻恢復；他通常是靠那些可承受的回返，慢慢回到節奏和信任。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The person is not proving they are impressive. They are proving the relationship with the habit is still alive.",
+            "en": "That's true. The person is not proving they are impressive. They are proving the relationship with the habit is still alive.",
             "zh": "沒錯。這個人不是在證明自己多厲害，而是在證明：他和那個 habit 的關係還活著。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A healthy future orientation leaves room for direction without demanding total certainty.",
+            "en": "That is the point. A healthy future orientation leaves room for direction without demanding total certainty.",
             "zh": "沒錯。健康地看未來，是有方向，但不要求完全確定。"
           },
           {
@@ -1685,7 +1685,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It often is.",
+            "en": "Exactly right. It often is.",
             "zh": "沒錯。很多時候就是。"
           }
         ]
@@ -1767,7 +1767,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Future planning gets wiser when it stops demanding a fantasy self to carry it.",
+            "en": "Yes. Future planning gets wiser when it stops demanding a fantasy self to carry it.",
             "zh": "沒錯。規劃未來一旦不再要求一個 fantasy self 來背它，就會變得比較聰明。"
           },
           {
@@ -1920,7 +1920,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sleep, calendar space, financial clarity, relational honesty, and a manageable pace all matter more than people like to admit.",
+            "en": "Indeed. Sleep, calendar space, financial clarity, relational honesty, and a manageable pace all matter more than people like to admit.",
             "zh": "沒錯。睡眠、日曆空間、財務清楚、關係誠實，和可承受的節奏，其實都比很多人願意承認的還更重要。"
           },
           {
@@ -1973,7 +1973,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some years look small from the outside but are huge on the inside because a person finally became more whole, more rested, or more honest.",
+            "en": "Right. Some years look small from the outside but are huge on the inside because a person finally became more whole, more rested, or more honest.",
             "zh": "沒錯。有些 year 從外面看起來很小，但在裡面非常大，因為一個人終於變得更完整、更休息，或更誠實。"
           },
           {
@@ -2079,7 +2079,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The person is not only choosing the goal. They are arranging the life around the goal so the goal can breathe.",
+            "en": "Yes. The person is not only choosing the goal. They are arranging the life around the goal so the goal can breathe.",
             "zh": "沒錯。這個人不只是在選 goal，他也在替那個 goal 重新安排周圍的 life，讓它有地方呼吸。"
           },
           {
@@ -2132,7 +2132,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good setup is one of the most compassionate things a person can build for themselves.",
+            "en": "That's the key. Good setup is one of the most compassionate things a person can build for themselves.",
             "zh": "沒錯。好的準備，其實是人能替自己建造的最有同情心的東西之一。"
           },
           {

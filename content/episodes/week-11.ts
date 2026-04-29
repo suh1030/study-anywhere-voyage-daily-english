@@ -33,7 +33,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Frequency matters less than consistency. Your friend knows you will still be you when you show up.",
+            "en": "Yes. Frequency matters less than consistency. Your friend knows you will still be you when you show up.",
             "zh": "沒錯。頻率比不上一致性重要。你的朋友知道你出現的時候還是你自己。"
           },
           {
@@ -139,7 +139,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That second sentence creates a picture. The listener can see the friendship, not just label it.",
+            "en": "That's the key. That second sentence creates a picture. The listener can see the friendship, not just label it.",
             "zh": "沒錯。第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
           },
           {
@@ -269,7 +269,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And that takes time. You cannot rush the kind of trust that makes that possible.",
+            "en": "I think so. And that takes time. You cannot rush the kind of trust that makes that possible.",
             "zh": "沒錯。而那需要時間。讓那成為可能的那種信任，是急不來的。"
           }
         ]
@@ -468,7 +468,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Open questions that are about their life, not their opinion on a topic, tend to lead somewhere real.",
+            "en": "That's true. Open questions that are about their life, not their opinion on a topic, tend to lead somewhere real.",
             "zh": "沒錯。關於他們生活的開放式問題，而不是詢問他們對某個話題的看法，通常會帶到真實的地方。"
           },
           {
@@ -521,7 +521,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
+            "en": "That is the point. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
             "zh": "沒錯。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
           },
           {
@@ -667,7 +667,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And being intentional feels effortful when life is already full. So people keep meaning to reach out and never quite do.",
+            "en": "Exactly right. And being intentional feels effortful when life is already full. So people keep meaning to reach out and never quite do.",
             "zh": "沒錯。而當生活已經很充實的時候，刻意聯絡感覺費力。所以大家一直心裡有這個念頭，但就是一直沒有去做。"
           },
           {
@@ -773,7 +773,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The tone of a friendship is kept warm by ordinary moments, not just the deep conversations. Mundane check-ins signal that you are still in each other's lives.",
+            "en": "Yes. The tone of a friendship is kept warm by ordinary moments, not just the deep conversations. Mundane check-ins signal that you are still in each other's lives.",
             "zh": "沒錯。友誼的語氣是被平凡時刻保持溫暖的，而不只是深刻的對話。日常的問候傳達了你們仍然在彼此的生活中。"
           },
           {
@@ -797,7 +797,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is to stay in touch in a way that feels natural for both of you, not to follow a formula.",
+            "en": "Right. The goal is to stay in touch in a way that feels natural for both of you, not to follow a formula.",
             "zh": "沒錯。目標是以對你們兩個來說都感覺自然的方式保持聯絡，而不是遵循某個公式。"
           }
         ]
@@ -1037,7 +1037,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. \"But\" erases everything before it. Try this instead: \"I am sorry for what I said. I know it hurt you. I should have handled that differently.\"",
+            "en": "Right. \"But\" erases everything before it. Try this instead: \"I am sorry for what I said. I know it hurt you. I should have handled that differently.\"",
             "zh": "沒錯。「但是」會抹掉它前面的所有東西。試試這樣說：「我為我說的話道歉。我知道那傷害了你。我應該用不同的方式處理。」"
           },
           {
@@ -1155,7 +1155,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And when people feel understood, they tend to soften. The defensiveness goes down and repair becomes possible.",
+            "en": "Yes. And when people feel understood, they tend to soften. The defensiveness goes down and repair becomes possible.",
             "zh": "沒錯。而當人們感到被理解時，他們往往會軟化。防禦性降低，修復就變得可能。"
           },
           {
@@ -1301,7 +1301,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
+            "en": "That's the key. And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
             "zh": "沒錯。而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
           },
           {
@@ -1407,7 +1407,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The difference between \"I liked your photo\" and \"I saw your photo and thought about you all day\" is enormous.",
+            "en": "I think so. The difference between \"I liked your photo\" and \"I saw your photo and thought about you all day\" is enormous.",
             "zh": "沒錯。「我按了你的照片讚」和「我看到你的照片想了你一整天」之間的差距是巨大的。"
           },
           {
@@ -1479,7 +1479,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Putting the phone down when a friend is talking is one of the most powerful things you can do for that relationship.",
+            "en": "True. Putting the phone down when a friend is talking is one of the most powerful things you can do for that relationship.",
             "zh": "沒錯。當朋友在說話時把手機放下，是你能為那段關係做的最有力的事情之一。"
           }
         ]
@@ -1584,7 +1584,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is the security that makes a best friendship feel different from all other friendships.",
+            "en": "That's true. That is the security that makes a best friendship feel different from all other friendships.",
             "zh": "沒錯。那種安全感讓最好的友誼感覺和所有其他友誼不同。"
           }
         ]
@@ -1995,7 +1995,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
+            "en": "That is the point. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
             "zh": "沒錯。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
           },
           {
@@ -2036,7 +2036,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And once you see that, your own assumptions become more visible and easier to question.",
+            "en": "Exactly right. And once you see that, your own assumptions become more visible and easier to question.",
             "zh": "沒錯。而一旦你看到這個，你自己的假設變得更可見，也更容易被質疑。"
           },
           {

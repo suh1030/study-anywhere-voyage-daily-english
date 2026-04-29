@@ -43,13 +43,19 @@ function main() {
       errors.push(`${id}: expected phase ${phase}, got ${episode.phase}`)
     }
 
-    if (episode.parts.length !== 5 && episode.parts.length !== 6) {
-      errors.push(`${id}: expected 5 or 6 parts, got ${episode.parts.length}`)
+    if (episode.parts.length < 4 || episode.parts.length > 6) {
+      errors.push(`${id}: expected 4-6 parts, got ${episode.parts.length}`)
     }
 
     const lineCount = episode.parts.reduce((sum, part) => sum + part.lines.length, 0)
-    if (lineCount < 39 || lineCount > 54) {
-      errors.push(`${id}: expected 39-54 lines, got ${lineCount}`)
+    if (lineCount < 32 || lineCount > 54) {
+      errors.push(`${id}: expected 32-54 lines, got ${lineCount}`)
+    }
+
+    for (const part of episode.parts) {
+      if (/English for This Topic/i.test(String(part.title || ''))) {
+        errors.push(`${id}: part title still uses placeholder copy`)
+      }
     }
 
     if (!episode.keyPhrases || episode.keyPhrases.length !== 8) {

@@ -45,7 +45,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A camera rewards attention before it rewards technique.",
+            "en": "That's the key. A camera rewards attention before it rewards technique.",
             "zh": "完全沒錯。相機最先回報的，通常不是技巧，而是注意力。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and later you discover it was the reflection, the distance, or the quiet space around the subject.",
+            "en": "Yes. later you discover it was the reflection, the distance, or the quiet space around the subject.",
             "zh": "對，而且後來你才會發現，原來你喜歡的是反光、距離感，或主體周圍那個安靜的空間。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Over time, your photo roll becomes a record of your attention, not just a record of events.",
+            "en": "I think so. Over time, your photo roll becomes a record of your attention, not just a record of events.",
             "zh": "完全沒錯。久了之後，你的相簿會變成注意力的紀錄，不只是事件的紀錄。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. One image can reopen a room, a smell, a voice, or an old version of yourself.",
+            "en": "That's true. One image can reopen a room, a smell, a voice, or an old version of yourself.",
             "zh": "完全沒錯。一張照片就可能重新打開一個房間、一個味道、一個聲音，或以前的某個自己。"
           },
           {
@@ -398,7 +398,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is the line each person has to learn. Are you recording the moment, or replacing it?",
+            "en": "Yes. that is the line each person has to learn. Are you recording the moment, or replacing it?",
             "zh": "對，而那條線每個人都要自己學。你是在記錄那個時刻，還是在用拍照取代它？"
           },
           {
@@ -422,7 +422,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes the best move is one photo and then your full attention back to the people there.",
+            "en": "That is the point. Sometimes the best move is one photo and then your full attention back to the people there.",
             "zh": "完全沒錯。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
           }
         ]
@@ -504,7 +504,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A living image often contains a small imperfection that makes the moment believable.",
+            "en": "Exactly right. A living image often contains a small imperfection that makes the moment believable.",
             "zh": "完全沒錯。真正活著的畫面，常常會留著一點小小的不完美，讓那個瞬間更可信。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You are learning how shapes, distance, and weight create visual rhythm inside the frame.",
+            "en": "Yes. You are learning how shapes, distance, and weight create visual rhythm inside the frame.",
             "zh": "完全沒錯。你是在學形狀、距離和視覺重量怎麼在畫面裡形成節奏感。"
           }
         ]
@@ -792,7 +792,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Visual English gets much easier when you describe effect instead of chasing perfect terminology.",
+            "en": "Right. Visual English gets much easier when you describe effect instead of chasing perfect terminology.",
             "zh": "完全沒錯。當你改成描述效果，而不是追求完美術語，談視覺的英文就會簡單很多。"
           }
         ]
@@ -833,7 +833,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and it also shows you that seeing is not a personality trait. It is a practice.",
+            "en": "Yes. it also shows you that seeing is not a personality trait. It is a practice.",
             "zh": "對，而且它也會讓你明白，看見不是人格特質，而是一種練習。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A sequence becomes stronger when every image earns its place.",
+            "en": "Right. A sequence becomes stronger when every image earns its place.",
             "zh": "完全沒錯。當每張圖都真的有理由留下來時，一個系列才會變強。"
           },
           {
@@ -1044,7 +1044,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and also trusting the viewer. You do not need to explain every detail if the feeling is already there.",
+            "en": "Yes. also trusting the viewer. You do not need to explain every detail if the feeling is already there.",
             "zh": "對，而且還要信任觀者。如果感覺已經到了，你不需要把每個細節都解釋完。"
           },
           {
@@ -1109,7 +1109,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Editing language becomes easier when you talk about function, not perfection.",
+            "en": "Yes. Editing language becomes easier when you talk about function, not perfection.",
             "zh": "完全沒錯。當你改成談功能，而不是完美，編輯英文就會容易很多。"
           }
         ]
@@ -1186,7 +1186,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Taste is partly the courage to say, this belongs, and this does not.",
+            "en": "That's the key. Taste is partly the courage to say, this belongs, and this does not.",
             "zh": "完全沒錯。品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A mark can hold emotion without needing to summarize it.",
+            "en": "I think so. A mark can hold emotion without needing to summarize it.",
             "zh": "完全沒錯。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。"
           },
           {
@@ -1515,7 +1515,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The page does not have to be brilliant if it helps you stay in touch with your own life.",
+            "en": "True. The page does not have to be brilliant if it helps you stay in touch with your own life.",
             "zh": "完全沒錯。如果那一頁能幫你和自己的生活保持連線，它就不需要很厲害。"
           },
           {
@@ -1632,7 +1632,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of creative maturity is really boundary-setting.",
+            "en": "That's true. A lot of creative maturity is really boundary-setting.",
             "zh": "完全沒錯。很多創作成熟度，說到底其實就是界線能力。"
           }
         ]
@@ -1661,7 +1661,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Numbers can tell you what got quick attention, but not what had depth, staying power, or real artistic risk.",
+            "en": "That is the point. Numbers can tell you what got quick attention, but not what had depth, staying power, or real artistic risk.",
             "zh": "完全沒錯。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。"
           },
           {
@@ -1685,7 +1685,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that drift can happen quietly, which is why people need places where they can make things unmeasured.",
+            "en": "Yes. that drift can happen quietly, which is why people need places where they can make things unmeasured.",
             "zh": "對，而且那種漂移常常發生得很安靜，所以人才需要一些不被量化的地方來做東西。"
           }
         ]
@@ -1767,7 +1767,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When posting becomes the imagined destination too early, the work starts performing before it is even finished.",
+            "en": "Exactly right. When posting becomes the imagined destination too early, the work starts performing before it is even finished.",
             "zh": "完全沒錯。當『發出去』太早變成心裡的終點，作品就會在還沒完成前先開始表演。"
           },
           {
@@ -1791,7 +1791,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Visibility is a tool. It should not become the boss of your inner life.",
+            "en": "Yes. Visibility is a tool. It should not become the boss of your inner life.",
             "zh": "完全沒錯。曝光只是工具，它不應該變成你內在生活的老闆。"
           }
         ]
@@ -1925,7 +1925,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A trained eye does not switch off just because the camera or pen is back in the bag.",
+            "en": "Precisely. A trained eye does not switch off just because the camera or pen is back in the bag.",
             "zh": "完全沒錯。練過的眼睛，不會因為相機或筆收回包包裡就突然關機。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Visual art keeps teaching the same question: what story are you making possible by where you place your attention?",
+            "en": "Right. Visual art keeps teaching the same question: what story are you making possible by where you place your attention?",
             "zh": "完全沒錯。視覺藝術一直在教同一個問題：你把注意力放哪裡，就會讓哪一種故事變得可能。"
           },
           {
@@ -2002,7 +2002,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And once you know that, you start living differently.",
+            "en": "Yes. And once you know that, you start living differently.",
             "zh": "完全沒錯。而一旦你知道這件事，你生活的方式就會開始不一樣。"
           }
         ]
@@ -2096,7 +2096,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good artistic life is not endless exposure. It is exposure with recovery.",
+            "en": "That's the key. A good artistic life is not endless exposure. It is exposure with recovery.",
             "zh": "完全沒錯。好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A richer way of seeing usually becomes a richer way of living.",
+            "en": "I think so. A richer way of seeing usually becomes a richer way of living.",
             "zh": "完全沒錯。更豐富的看見方式，通常也會慢慢變成更豐富的生活方式。"
           },
           {

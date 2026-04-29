@@ -27,7 +27,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. I was at a friend's house once and their whole family sat down together. I did not know what to say.",
+            "en": "Yes. I was at a friend's house once and their whole family sat down together. I did not know what to say.",
             "zh": "對。我有一次去朋友家，他們全家一起坐下來吃飯，我不知道該說什麼好。"
           },
           {
@@ -733,7 +733,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. There was no ceremony. You just moved on.",
+            "en": "Right. There was no ceremony. You just moved on.",
             "zh": "就是這樣。沒有儀式，就繼續往前了。"
           },
           {
@@ -1044,7 +1044,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The people in that room are the ones who were there at the beginning. That matters, even when it is uncomfortable.",
+            "en": "Yes. The people in that room are the ones who were there at the beginning. That matters, even when it is uncomfortable.",
             "zh": "沒錯。那個房間裡的人，就是從一開始就在那裡的人。這很重要，就算有時候讓人不自在。"
           },
           {
@@ -1150,7 +1150,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Plus, the people in the kitchen usually have better conversations.",
+            "en": "That's the key. Plus, the people in the kitchen usually have better conversations.",
             "zh": "沒錯。而且在廚房的人通常聊天聊得比較好。"
           },
           {
@@ -1402,7 +1402,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
+            "en": "I think so. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
             "zh": "沒錯。你也可以試試說：「我想談一件事——我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
           },
           {
@@ -1455,7 +1455,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Regular, low-stakes contact makes the high-stakes conversations easier when they come.",
+            "en": "Right. Regular, low-stakes contact makes the high-stakes conversations easier when they come.",
             "zh": "沒錯。定期的、低風險的聯繫，會讓高風險的對話到來時容易很多。"
           },
           {
@@ -1731,7 +1731,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say \"We are figuring it out as we go\" — that sounds honest and most people relate to it immediately.",
+            "en": "That's true. You can also say \"We are figuring it out as we go\" — that sounds honest and most people relate to it immediately.",
             "zh": "沒錯。你也可以說「我們邊走邊摸索」——這聽起來誠實，而且大多數人馬上就能感同身受。"
           },
           {
@@ -2031,7 +2031,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You do not need a label. You just need to communicate closeness and shared history.",
+            "en": "That is the point. You do not need a label. You just need to communicate closeness and shared history.",
             "zh": "沒錯。你不需要標籤，你只需要傳遞親密和共同歷史。"
           },
           {

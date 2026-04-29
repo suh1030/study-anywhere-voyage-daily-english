@@ -33,7 +33,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A person may sound softer, funnier, more formal, or more careful depending on which parts of themselves the language makes easiest to access.",
+            "en": "That's the key. A person may sound softer, funnier, more formal, or more careful depending on which parts of themselves the language makes easiest to access.",
             "zh": "沒錯。人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Identity is not only about fluency. It is also about where a language lets you breathe.",
+            "en": "I think so. Identity is not only about fluency. It is also about where a language lets you breathe.",
             "zh": "沒錯。身份認同不只跟流利度有關，也跟哪一種語言讓你比較能呼吸有關。"
           }
         ]
@@ -205,7 +205,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. That is why people can be fluent and still tired. The work is not only producing sentences; it is also adjusting to who they are in that language.",
-            "zh": "非常是。這也是為什麼有人明明很流利，還是會累。辛苦的不只是造句，也是在適應那個語言裡的自己。"
+            "zh": "沒錯。這也是為什麼有人明明很流利，還是會累。辛苦的不只是造句，也是在適應那個語言裡的自己。"
           },
           {
             "speaker": "b",
@@ -257,7 +257,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The challenge is learning how to trust the connection between your different voices.",
+            "en": "That's true. The challenge is learning how to trust the connection between your different voices.",
             "zh": "沒錯。真正的挑戰，是學著信任自己不同聲音之間其實是連著的。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you understand the language, you feel less outside. If you do not, the same room can suddenly feel a little farther away.",
+            "en": "That is the point. If you understand the language, you feel less outside. If you do not, the same room can suddenly feel a little farther away.",
             "zh": "沒錯。聽得懂，你就比較不會在外面；聽不懂，同一個房間會忽然離你遠一點。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Workplace jargon can do this a lot too. It makes insiders efficient, but it can make outsiders feel slow or invisible.",
+            "en": "Exactly right. Workplace jargon can do this a lot too. It makes insiders efficient, but it can make outsiders feel slow or invisible.",
             "zh": "沒錯。職場 jargon 也很容易這樣。它會讓圈內人效率很高，但也會讓圈外人覺得自己很慢，甚至像透明人。"
           },
           {
@@ -433,7 +433,7 @@ export const WEEK_48: Episode[] = [
         ]
       },
       {
-        "title": "Part 3 — English for This Topic",
+        "title": "Part 3 — English for Slang and Belonging",
         "lines": [
           {
             "speaker": "b",
@@ -521,7 +521,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Inclusive language is not always complex. Often it is just the willingness to notice who is still translating silently.",
+            "en": "Yes. Inclusive language is not always complex. Often it is just the willingness to notice who is still translating silently.",
             "zh": "沒錯。包容性的語言不一定很複雜；很多時候，它只是願不願意看見誰還在默默翻譯。"
           },
           {
@@ -569,7 +569,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes one new phrase gives people more than vocabulary. It gives them a place to stand.",
+            "en": "Right. Sometimes one new phrase gives people more than vocabulary. It gives them a place to stand.",
             "zh": "沒錯。有時候一個新學到的說法給人的不只是字彙，而是一個可以站住的位置。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The strain is real, but so is the expansion.",
+            "en": "Right. The strain is real, but so is the expansion.",
             "zh": "沒錯。那種拉扯是真的，可是那種擴張也是真的。"
           }
         ]
@@ -833,7 +833,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People who live between languages often become better at noticing nuance, translating context, and recognizing complexity.",
+            "en": "Yes. People who live between languages often become better at noticing nuance, translating context, and recognizing complexity.",
             "zh": "沒錯。活在語言之間的人，常常會變得更會看細微差異、更會翻 context，也更能辨認複雜性。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
+            "en": "That's the key. The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
             "zh": "沒錯。事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
           },
           {
@@ -1004,7 +1004,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. The same life can feel smaller or larger depending on the story language around it.",
-            "zh": "非常是。同一段人生，會因為旁邊圍著它的是什麼故事語言，而感覺比較小或比較大。"
+            "zh": "沒錯。同一段人生，會因為旁邊圍著它的是什麼故事語言，而感覺比較小或比較大。"
           }
         ]
       },
@@ -1032,7 +1032,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And part of growing up is noticing which parts of your story are actually yours, and which parts were handed to you before you could choose.",
+            "en": "I think so. And part of growing up is noticing which parts of your story are actually yours, and which parts were handed to you before you could choose.",
             "zh": "沒錯。而長大的其中一部分，就是慢慢辨認：你故事裡哪些部分真的屬於你，哪些部分是在你還沒能選之前，就先被塞進來的。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Narrative identity often changes not because memory changes, but because meaning does.",
+            "en": "True. Narrative identity often changes not because memory changes, but because meaning does.",
             "zh": "沒錯。narrative identity 很多時候不是記憶變了，而是意義變了。"
           },
           {
@@ -1151,7 +1151,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. A better story does not deny the pain. It just puts the pain in a larger and more workable frame.",
-            "zh": "非常是。更好的故事不是否認痛，而是把痛放進一個更大、也更能活下去的框裡。"
+            "zh": "沒錯。更好的故事不是否認痛，而是把痛放進一個更大、也更能活下去的框裡。"
           },
           {
             "speaker": "b",
@@ -1291,7 +1291,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If a language gives you rich ways to name a feeling or relationship, it can make that inner territory easier to think about.",
+            "en": "That's true. If a language gives you rich ways to name a feeling or relationship, it can make that inner territory easier to think about.",
             "zh": "沒錯。如果一種語言給了你很多方式去命名某種感受或關係，那片內在領域對你來說就會比較好思考。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. One language may encourage blunt naming. Another may encourage more relational or indirect framing. Over time that changes mental habits.",
+            "en": "That is the point. One language may encourage blunt naming. Another may encourage more relational or indirect framing. Over time that changes mental habits.",
             "zh": "沒錯。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的 framing。時間久了，心智習慣就會被改動。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It gives the mind a stronger handle, and that can change how quickly a person recognizes a pattern.",
+            "en": "Exactly right. It gives the mind a stronger handle, and that can change how quickly a person recognizes a pattern.",
             "zh": "沒錯。它像是替心智做了一個更好的把手，而那會改變一個人認出 pattern 的速度。"
           },
           {
@@ -1503,7 +1503,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That view is strong enough to be useful and humble enough to stay accurate.",
+            "en": "Yes. That view is strong enough to be useful and humble enough to stay accurate.",
             "zh": "沒錯。這個看法夠強，足以有用；也夠謙卑，足以保持準確。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can revise tone, shape emotion, and notice contradictions before someone else hears them.",
+            "en": "Precisely. You can revise tone, shape emotion, and notice contradictions before someone else hears them.",
             "zh": "沒錯。你可以修語氣、整理情緒，也可以在別人聽見前，先看到自己的矛盾。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Writing also gives privacy, and privacy can lower performance pressure enough for honesty to show up.",
+            "en": "Right. Writing also gives privacy, and privacy can lower performance pressure enough for honesty to show up.",
             "zh": "沒錯。而且寫作會給出私密性，那個私密性有時會把表演壓力降到夠低，讓誠實真的出來。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The page reflects back more than memory. It reflects back emphasis, and emphasis changes identity.",
+            "en": "Yes. The page reflects back more than memory. It reflects back emphasis, and emphasis changes identity.",
             "zh": "沒錯。紙面反射回來的不只是記憶，也包括重點的配置；而重點一改，身份感就會跟著改。"
           },
           {
@@ -1827,7 +1827,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
+            "en": "That's the key. You meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
             "zh": "沒錯。你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
           },
           {
@@ -1920,7 +1920,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once something can be expressed, it becomes easier to share, reflect on, and respond to.",
+            "en": "I think so. Once something can be expressed, it becomes easier to share, reflect on, and respond to.",
             "zh": "沒錯。一件事一旦能被表達，就更容易被分享、被反思，也更容易被回應。"
           },
           {
@@ -2079,7 +2079,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good expression is not decoration. It can be the bridge between private feeling and shared reality.",
+            "en": "Indeed. Good expression is not decoration. It can be the bridge between private feeling and shared reality.",
             "zh": "沒錯。好的表達不是裝飾，它可能就是私人感受和共享現實之間的橋。"
           },
           {
@@ -2103,7 +2103,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some sentences become landmarks in a life.",
+            "en": "That's true. Some sentences become landmarks in a life.",
             "zh": "沒錯。有些句子會直接變成人生裡的地標。"
           }
         ]
@@ -2144,7 +2144,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The gift is not mastery first. The gift is movement: from hidden to visible, from stuck to speakable, from alone to accompanied.",
+            "en": "That is the point. The gift is not mastery first. The gift is movement: from hidden to visible, from stuck to speakable, from alone to accompanied.",
             "zh": "沒錯。這個禮物首先不是 mastery，而是 movement：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
           },
           {

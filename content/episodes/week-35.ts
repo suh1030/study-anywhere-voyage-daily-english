@@ -110,7 +110,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is the design working as intended. The apps are not broken. They are doing exactly what they were built to do.",
+            "en": "Yes. That is the design working as intended. The apps are not broken. They are doing exactly what they were built to do.",
             "zh": "對，那就是設計按預期在運作。那些 app 沒有壞，它們在做它們被設計來做的事。"
           }
         ]
@@ -269,7 +269,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is the whole thing. Technology is not going away. The question is whether you are the one driving or just along for the ride.",
+            "en": "Right. That is the whole thing. Technology is not going away. The question is whether you are the one driving or just along for the ride.",
             "zh": "沒錯，就是這樣。科技不會消失，問題在於你是在駕駛，還是只是搭便車。"
           }
         ]
@@ -521,7 +521,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once you separate real urgency from the feeling of urgency, you can take back a lot of your day.",
+            "en": "Yes. Once you separate real urgency from the feeling of urgency, you can take back a lot of your day.",
             "zh": "沒錯。一旦你把真正的緊迫感和緊迫的感覺分開，你就可以拿回一天很大的部分了。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
+            "en": "That's the key. When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
             "zh": "沒錯。當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
           }
         ]
@@ -886,7 +886,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.",
+            "en": "I think so. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.",
             "zh": "沒錯。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。"
           },
           {
@@ -1203,7 +1203,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The technology can be excellent in the rest of the house. But having one zone where you are not being tracked, prompted, or notified changes something.",
+            "en": "Right. The technology can be excellent in the rest of the house. But having one zone where you are not being tracked, prompted, or notified changes something.",
             "zh": "沒錯。科技可以在家的其他地方很出色，但有一個你沒有被追蹤、提示或通知的區域，會改變一些東西。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And because each individual addition seemed reasonable, none of them felt like the obvious cause.",
+            "en": "That's true. And because each individual addition seemed reasonable, none of them felt like the obvious cause.",
             "zh": "沒錯，而且因為每個單獨的增加看起來都合理，沒有一個感覺像是明顯的原因。"
           },
           {
@@ -1743,7 +1743,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
+            "en": "That is the point. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
             "zh": "沒錯，它顯示你不是在否定那個工具，你只是在說它不適合你目前的情況。"
           }
         ]
@@ -1949,7 +1949,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
+            "en": "Exactly right. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
             "zh": "沒錯，關於你行為的資料不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。"
           }
         ]
@@ -1978,7 +1978,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Healthy technology use is not about never using devices. It is about having clear beginnings and endings to the use.",
+            "en": "Yes. Healthy technology use is not about never using devices. It is about having clear beginnings and endings to the use.",
             "zh": "沒錯，健康的科技使用不是關於從不使用裝置，而是關於使用有清楚的開始和結束。"
           },
           {
@@ -2096,7 +2096,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Most people are afraid that putting the phone down will feel worse than they can handle. The five minutes shows them it does not.",
+            "en": "True. Most people are afraid that putting the phone down will feel worse than they can handle. The five minutes shows them it does not.",
             "zh": "沒錯，大多數人害怕放下手機會感覺比他們能承受的更糟，五分鐘告訴他們不會的。"
           },
           {

@@ -33,7 +33,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You only feel the weight at the checkout total, when the decisions are already behind you.",
+            "en": "Yes. You only feel the weight at the checkout total, when the decisions are already behind you.",
             "zh": "沒錯。你通常是到看到結帳總額時，才感受到那個重量，但那時每個決定都已經做完了。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of spending problems begin when the wrong question takes over.",
+            "en": "That's the key. A lot of spending problems begin when the wrong question takes over.",
             "zh": "沒錯。很多消費問題，都是從錯的問題開始主導整個決定的。"
           }
         ]
@@ -216,7 +216,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Time is one of the best filters for fake urgency.",
+            "en": "I think so. Time is one of the best filters for fake urgency.",
             "zh": "沒錯。時間是過濾假性急迫感最好的工具之一。"
           }
         ]
@@ -509,7 +509,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you know an irregular cost is coming, build a sinking fund for it.",
+            "en": "That's true. And if you know an irregular cost is coming, build a sinking fund for it.",
             "zh": "沒錯。如果你知道某個不規則支出一定會來，就替它準備一個預備基金。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Then limited-time pressure joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
+            "en": "That is the point. Then limited-time pressure joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
             "zh": "沒錯。接著限時壓力就會跟著進來，例如「只剩三件」或「今晚截止」。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You do not need smart language. You need language that catches the moment honestly.",
+            "en": "Exactly right. You do not need smart language. You need language that catches the moment honestly.",
             "zh": "沒錯。你不需要聰明的語言，你需要的是能誠實抓住那個瞬間的語言。"
           }
         ]
@@ -1003,7 +1003,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Before you negotiate with a seller, you usually have to negotiate with your own discomfort first.",
+            "en": "Yes. Before you negotiate with a seller, you usually have to negotiate with your own discomfort first.",
             "zh": "沒錯。在你和賣家談之前，很多時候你得先和自己的不自在談一輪。"
           }
         ]
@@ -1032,7 +1032,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A counteroffer sounds much calmer when it is based on something concrete.",
+            "en": "Right. A counteroffer sounds much calmer when it is based on something concrete.",
             "zh": "沒錯。當你的回價是建立在具體理由上時，整個人聽起來就會冷靜很多。"
           },
           {
@@ -1109,7 +1109,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Most good bargaining English is calm, short, and easy to answer.",
+            "en": "Right. Most good bargaining English is calm, short, and easy to answer.",
             "zh": "沒錯。大多數好用的談價英文，都很冷靜、很短，而且讓對方容易回應。"
           }
         ]
@@ -1308,7 +1308,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A short-term goal and a long-term goal ask different things from you.",
+            "en": "Yes. A short-term goal and a long-term goal ask different things from you.",
             "zh": "沒錯。短期目標和長期目標，對你的要求本來就不一樣。"
           },
           {
@@ -1361,7 +1361,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A realistic timeline protects the goal from your own fantasy version of yourself.",
+            "en": "That's the key. A realistic timeline protects the goal from your own fantasy version of yourself.",
             "zh": "沒錯。現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
           },
           {
@@ -1467,7 +1467,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Compound interest is what happens when patience finally gets visible.",
+            "en": "I think so. Compound interest is what happens when patience finally gets visible.",
             "zh": "沒錯。複利，某種程度上就是耐心終於變得看得見的樣子。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The numbers may be smaller, but the social meaning is bigger.",
+            "en": "True. The numbers may be smaller, but the social meaning is bigger.",
             "zh": "沒錯。數字也許比較小，但社交上的含義反而更大。"
           },
           {
@@ -1685,7 +1685,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good etiquette often protects both the relationship and the wallet.",
+            "en": "That's true. Good etiquette often protects both the relationship and the wallet.",
             "zh": "沒錯。好的禮儀，很多時候同時是在保護關係，也在保護荷包。"
           }
         ]
@@ -1738,7 +1738,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point is to reduce awkwardness, not to perform certainty.",
+            "en": "That is the point. The point is to reduce awkwardness, not to perform certainty.",
             "zh": "沒錯。重點是降低尷尬，不是表演自己很懂規矩。"
           }
         ]
@@ -1932,7 +1932,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A digital wallet saves time, but it can also hide the emotional cost of convenience.",
+            "en": "Exactly right. A digital wallet saves time, but it can also hide the emotional cost of convenience.",
             "zh": "沒錯。數位錢包確實省時間，但它也可能把方便背後的代價藏得很好。"
           },
           {
@@ -1997,7 +1997,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The price is sometimes money, and sometimes attention or privacy.",
+            "en": "Yes. The price is sometimes money, and sometimes attention or privacy.",
             "zh": "沒錯。你付出的，有時是錢，有時則是注意力或隱私。"
           }
         ]
@@ -2079,7 +2079,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A budgeting app can help too, but only if it shows you patterns instead of just producing pretty charts.",
+            "en": "Precisely. A budgeting app can help too, but only if it shows you patterns instead of just producing pretty charts.",
             "zh": "沒錯。預算管理 app 也會有幫助，但前提是它真的能讓你看到模式，而不只是產生漂亮的圖表。"
           },
           {

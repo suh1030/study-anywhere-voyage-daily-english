@@ -198,7 +198,7 @@ export const EPISODE_02: Episode = {
         },
         {
           speaker: 'a', speakerName: 'Mira',
-          en: "Exactly. By the time I walk through the front door, I've already let go of most of the work stress.",
+          en: "Right. By the time I walk through the front door, I've already let go of most of the work stress.",
           zh: '沒錯。等我走進家門的時候，大部分的工作壓力已經放下了。',
         },
       ],

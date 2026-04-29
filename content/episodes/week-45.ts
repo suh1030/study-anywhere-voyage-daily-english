@@ -33,7 +33,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People remember calm direction because it lowers uncertainty for everyone else.",
+            "en": "That is the point. People remember calm direction because it lowers uncertainty for everyone else.",
             "zh": "沒錯。大家會記得那種冷靜的帶領，因為它替其他人降低了不確定感。"
           },
           {
@@ -204,7 +204,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and notice what that person did not do. They did not shame anyone, perform panic, or make themselves the hero.",
+            "en": "Yes. notice what that person did not do. They did not shame anyone, perform panic, or make themselves the hero.",
             "zh": "對，而且注意那個人沒有做什麼。他沒有羞辱別人、沒有表演式恐慌，也沒有把自己演成英雄。"
           },
           {
@@ -252,7 +252,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that climate is built in ordinary moments: how you react to bad news, how you ask for better work, and how you share credit.",
+            "en": "Yes. that climate is built in ordinary moments: how you react to bad news, how you ask for better work, and how you share credit.",
             "zh": "對，而那個氣候其實是在普通時刻裡建立的：你怎麼接壞消息、怎麼要求更好的工作、又怎麼分配功勞。"
           },
           {
@@ -345,7 +345,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Informal influence starts when people notice that your suggestions reduce friction instead of creating more work.",
+            "en": "Exactly right. Informal influence starts when people notice that your suggestions reduce friction instead of creating more work.",
             "zh": "沒錯。非正式影響力開始於別人發現：你的建議是在減少摩擦，而不是增加工作量。"
           },
           {
@@ -369,7 +369,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that usefulness has to be consistent enough that people start seeking your input before they are forced to.",
+            "en": "Yes. that usefulness has to be consistent enough that people start seeking your input before they are forced to.",
             "zh": "對，而且那種有用必須穩定到一個程度，別人才會在被逼之前，就主動來找你討論。"
           }
         ]
@@ -398,7 +398,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If people feel cornered, even a helpful idea can sound like criticism.",
+            "en": "Yes. If people feel cornered, even a helpful idea can sound like criticism.",
             "zh": "沒錯。如果大家覺得自己被逼到角落，再有幫助的想法也可能聽起來像批評。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A leader should be informed by emotion, not hijacked by it.",
+            "en": "Right. A leader should be informed by emotion, not hijacked by it.",
             "zh": "沒錯。領導者應該被情緒提供資訊，而不是被情緒綁架。"
           }
         ]
@@ -715,7 +715,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and the story they invent is often harsher than the truth. A small naming sentence can stop a lot of invisible damage.",
+            "en": "Yes. the story they invent is often harsher than the truth. A small naming sentence can stop a lot of invisible damage.",
             "zh": "對，而且他們腦中補出來的故事，常常比真相更苛刻。一句小小的命名句，就能止住很多看不見的損傷。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotional intelligence often lives in sentence design.",
+            "en": "Yes. Emotional intelligence often lives in sentence design.",
             "zh": "沒錯。很多時候，情緒 intelligence 就活在句子的設計裡。"
           }
         ]
@@ -974,7 +974,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
+            "en": "That's the key. If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
             "zh": "沒錯。如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
           },
           {
@@ -999,7 +999,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. A strong team is usually the result of many small agreements kept over time.",
-            "zh": "非常是。好的團隊，往往是很多小小的約定被長期守住的結果。"
+            "zh": "沒錯。好的團隊，往往是很多小小的約定被長期守住的結果。"
           }
         ]
       },
@@ -1027,7 +1027,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another one is inconsistent standards. If feedback changes with the leader's mood, people stop learning and start scanning for danger.",
+            "en": "I think so. Another one is inconsistent standards. If feedback changes with the leader's mood, people stop learning and start scanning for danger.",
             "zh": "沒錯。另一個常見問題是不一致的標準。如果 feedback 會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。"
           },
           {
@@ -1051,7 +1051,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and good leaders catch that early by listening for hesitation, not only for output.",
+            "en": "Yes. good leaders catch that early by listening for hesitation, not only for output.",
             "zh": "對，而好的領導者會很早從別人的猶豫裡聽出問題，不只是看產出而已。"
           }
         ]
@@ -1092,7 +1092,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if a discussion is getting vague, say: \"Can we turn this into one decision and one next action?\"",
+            "en": "Right. And if a discussion is getting vague, say: \"Can we turn this into one decision and one next action?\"",
             "zh": "沒錯。如果討論開始變得很散，也可以說：「Can we turn this into one decision and one next action?」"
           },
           {
@@ -1198,7 +1198,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Then people can use their intelligence on the task, not on staying safe inside the room.",
+            "en": "That's true. Then people can use their intelligence on the task, not on staying safe inside the room.",
             "zh": "沒錯。這樣一來，人的聰明才會用在任務上，而不是用在如何安全待在那個房間裡。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Under stress, urgency can disguise itself as importance.",
+            "en": "That is the point. Under stress, urgency can disguise itself as importance.",
             "zh": "沒錯。在壓力下，急迫感很容易偽裝成重要性。"
           },
           {
@@ -1356,7 +1356,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And under pressure, it helps to separate reversible decisions from high-cost irreversible ones.",
+            "en": "Exactly right. And under pressure, it helps to separate reversible decisions from high-cost irreversible ones.",
             "zh": "沒錯。而且在壓力下，把「可回頭的決定」和「代價很高、很難回頭的決定」分開來看，會很有幫助。"
           },
           {
@@ -1515,7 +1515,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best pressure decisions are rarely perfect, but they are defensible, focused, and kind to the future team that has to live with them.",
+            "en": "Yes. The best pressure decisions are rarely perfect, but they are defensible, focused, and kind to the future team that has to live with them.",
             "zh": "沒錯。最好的壓力決策很少完美，但它們通常站得住腳、焦點清楚，而且對未來那個得承接後果的團隊也算厚道。"
           },
           {
@@ -1620,7 +1620,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Self-leadership is practical because your private patterns become public consequences.",
+            "en": "True. Self-leadership is practical because your private patterns become public consequences.",
             "zh": "沒錯。自我領導之所以實際，是因為你的私人模式最後都會變成公開後果。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and so does focus protection. If you live in constant distraction, you end up exporting that fragmentation to everyone around you.",
+            "en": "Yes. so does focus protection. If you live in constant distraction, you end up exporting that fragmentation to everyone around you.",
             "zh": "對，還有保護專注力也是。如果你自己活在持續分心裡，最後你會把那種碎裂感輸出到身邊所有人身上。"
           },
           {
@@ -1738,7 +1738,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Self-leadership is often growth you can hear in the language before you see it in the title.",
+            "en": "Right. Self-leadership is often growth you can hear in the language before you see it in the title.",
             "zh": "沒錯。很多時候，自我領導會先出現在語言裡，之後才出現在頭銜裡。"
           }
         ]
@@ -1827,7 +1827,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best self-leadership is not self-obsession. It is building a version of yourself that makes life a little easier for other people too.",
+            "en": "Yes. The best self-leadership is not self-obsession. It is building a version of yourself that makes life a little easier for other people too.",
             "zh": "沒錯。最好的自我領導不是自我著迷，而是把自己練成一個版本，讓別人的生活也稍微容易一點。"
           },
           {
@@ -1933,7 +1933,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. Many people practice leadership for years in ordinary life before anyone gives it that name.",
-            "zh": "非常是。很多人其實在普通生活裡練了很多年的領導，只是從來沒有人替它取那個名字。"
+            "zh": "沒錯。很多人其實在普通生活裡練了很多年的領導，只是從來沒有人替它取那個名字。"
           },
           {
             "speaker": "b",
@@ -1985,7 +1985,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. What looks ordinary is often what prevents the bigger mess.",
+            "en": "That's the key. What looks ordinary is often what prevents the bigger mess.",
             "zh": "沒錯。很多看起來普通的事，其實正是在避免更大的混亂。"
           },
           {
@@ -2050,7 +2050,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Everyday leadership often deserves warmer language than corporate language gives it.",
+            "en": "I think so. Everyday leadership often deserves warmer language than corporate language gives it.",
             "zh": "沒錯。日常裡的領導，很多時候值得比企業語言更溫暖的說法。"
           }
         ]
@@ -2091,7 +2091,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and doing it in a way that people do not resent. That is the subtle part.",
+            "en": "Yes. doing it in a way that people do not resent. That is the subtle part.",
             "zh": "對，而且還要做得讓別人不會討厭你。那就是細膩的地方。"
           },
           {
@@ -2103,7 +2103,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Trust often grows from many low-ego moments people barely notice while they are happening.",
+            "en": "Precisely. Trust often grows from many low-ego moments people barely notice while they are happening.",
             "zh": "沒錯。信任常常長在很多低 ego 的小時刻裡，當下大家甚至不一定會特別注意到。"
           }
         ]
@@ -2132,7 +2132,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and you do not need to become louder to answer it. Often you only need to become a little more useful and a little more brave.",
+            "en": "Yes. you do not need to become louder to answer it. Often you only need to become a little more useful and a little more brave.",
             "zh": "對，而且你不需要變得更大聲才能回應它。很多時候，你只需要變得更有用一點，也更勇敢一點。"
           },
           {

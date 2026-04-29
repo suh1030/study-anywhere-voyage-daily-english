@@ -21,7 +21,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is usually when a daily schedule stops being a neat plan and starts becoming a real problem to solve.",
+            "en": "Yes. that is usually when a daily schedule stops being a neat plan and starts becoming a real problem to solve.",
             "zh": "有，而且通常就是在那個時候，「每日行程」不再只是整齊的計畫，而變成真的需要處理的問題。"
           },
           {
@@ -45,7 +45,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A fragmented day rarely feels dramatic in the moment. It just feels a little slippery every hour.",
+            "en": "Right. A fragmented day rarely feels dramatic in the moment. It just feels a little slippery every hour.",
             "zh": "沒錯。碎掉的一天在當下通常不會很戲劇化，它比較像是每個小時都滑掉一點點。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And that tiny excess is enough to make the whole week feel like it belongs to someone else.",
+            "en": "Yes. And that tiny excess is enough to make the whole week feel like it belongs to someone else.",
             "zh": "沒錯。而那一點點超載，就足以讓整週都像是不屬於自己。"
           }
         ]
@@ -163,7 +163,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Useful schedule English usually describes the moment of pressure, not your personality.",
+            "en": "That's the key. Useful schedule English usually describes the moment of pressure, not your personality.",
             "zh": "沒錯。有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
           }
         ]
@@ -350,7 +350,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The first hour of the day quietly sets the emotional speed for everything that follows.",
+            "en": "I think so. The first hour of the day quietly sets the emotional speed for everything that follows.",
             "zh": "沒錯。一天的 first hour，常常會默默決定後面所有事的情緒速度。"
           },
           {
@@ -427,7 +427,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A calmer morning often begins when yesterday ends with a little foresight.",
+            "en": "That's true. A calmer morning often begins when yesterday ends with a little foresight.",
             "zh": "完全沒錯。比較平靜的早晨，常常是從前一天結束時多一點準備開始的。"
           }
         ]
@@ -686,7 +686,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Work time gets distorted when every hour is visible but none of it is truly available.",
+            "en": "That is the point. Work time gets distorted when every hour is visible but none of it is truly available.",
             "zh": "沒錯。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
           }
         ]
@@ -792,7 +792,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Time language at work is strongest when it helps people choose, not guess.",
+            "en": "Exactly right. Time language at work is strongest when it helps people choose, not guess.",
             "zh": "沒錯。工作裡關於時間的語言，最有力的時候就是它能幫人做選擇，而不是瞎猜。"
           }
         ]
@@ -833,7 +833,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better estimates create calmer calendars because they stop borrowing time from the future.",
+            "en": "Yes. Better estimates create calmer calendars because they stop borrowing time from the future.",
             "zh": "沒錯。比較好的估算會產生比較平靜的行程表，因為它不會一直跟未來借時間。"
           },
           {
@@ -991,7 +991,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Many evenings disappear into maintenance before you even ask what you needed from the night.",
+            "en": "Right. Many evenings disappear into maintenance before you even ask what you needed from the night.",
             "zh": "沒錯。很多晚上的時間，都在你還沒來得及問自己今晚需要什麼之前，就先被維持生活這件事拿走了。"
           },
           {
@@ -1085,7 +1085,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another natural line is, \"The evening got away from me.\" That is useful when nothing went horribly wrong, but the night still vanished.",
+            "en": "Right. Another natural line is, \"The evening got away from me.\" That is useful when nothing went horribly wrong, but the night still vanished.",
             "zh": "沒錯。另一句很自然的是：「我的晚上就這樣滑走了。」這很適合拿來說那種沒有出大事，卻還是整個晚上不見了的感覺。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some nights just need food, a shower, one kind conversation, and a little quiet.",
+            "en": "Yes. Some nights just need food, a shower, one kind conversation, and a little quiet.",
             "zh": "沒錯。有些夜晚只需要吃飯、洗澡、一段好好講話的時間，還有一點安靜。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Running errands is still work, even if it does not look impressive on a calendar.",
+            "en": "That's the key. Running errands is still work, even if it does not look impressive on a calendar.",
             "zh": "沒錯。run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。"
           },
           {
@@ -1320,7 +1320,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A weekend can be full of chosen things and still leave no room to recover.",
+            "en": "I think so. A weekend can be full of chosen things and still leave no room to recover.",
             "zh": "沒錯。週末可以塞滿很多你自己選的事，卻還是完全沒有留下恢復的空間。"
           }
         ]
@@ -1373,7 +1373,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Rest still needs room around it, or it turns into one more assignment.",
+            "en": "True. Rest still needs room around it, or it turns into one more assignment.",
             "zh": "沒錯。休息周圍也需要空間，不然它最後就會變成另一份作業。"
           }
         ]
@@ -1620,7 +1620,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Doing more is not the same as moving well through the day.",
+            "en": "That's true. Doing more is not the same as moving well through the day.",
             "zh": "沒錯。做更多事，不等於把一天過得更好。"
           },
           {
@@ -1685,7 +1685,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Support is just harder to show off than exhaustion.",
+            "en": "That is the point. Support is just harder to show off than exhaustion.",
             "zh": "沒錯。只是支撐這件事，比起筋疲力盡，看起來更不容易拿來炫耀。"
           }
         ]
@@ -1767,7 +1767,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Slowness is often just coherence with less noise around it.",
+            "en": "Exactly right. Slowness is often just coherence with less noise around it.",
             "zh": "沒錯。所謂慢，很多時候只是比較一致，周圍比較少噪音。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That mental load can be heavier than the task itself because it never fully clocks out.",
+            "en": "Yes. That mental load can be heavier than the task itself because it never fully clocks out.",
             "zh": "沒錯。那種 mental load 有時比事情本身還重，因為它從來沒有真正下班。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The smoother a system looks, the easier it is to imagine it is running by itself.",
+            "en": "Precisely. The smoother a system looks, the easier it is to imagine it is running by itself.",
             "zh": "沒錯。一個系統看起來越順，大家就越容易想像它是自己在跑。"
           },
           {
@@ -2002,7 +2002,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And that expectation quietly drains time long before the actual task begins.",
+            "en": "Right. And that expectation quietly drains time long before the actual task begins.",
             "zh": "完全是。而那個期待，往往在事情真正開始之前，就已經先把時間抽走了。"
           }
         ]

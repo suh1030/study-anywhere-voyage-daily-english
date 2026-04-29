@@ -27,7 +27,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. We kept updating each other, but nobody ever said what the actual decision was supposed to be.",
+            "en": "That's the key. We kept updating each other, but nobody ever said what the actual decision was supposed to be.",
             "zh": "真的。我們一直在彼此更新進度，可是沒有人真的把這場會到底要決定什麼說出來。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good meetings save future confusion before it has a chance to spread.",
+            "en": "I think so. Good meetings save future confusion before it has a chance to spread.",
             "zh": "完全沒錯。好的會議是在未來的混亂還沒擴散之前，就先把它省掉。"
           }
         ]
@@ -192,7 +192,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A short follow-up note helps too, but it should confirm the decision, not rescue a vague meeting after the fact.",
+            "en": "That's true. A short follow-up note helps too, but it should confirm the decision, not rescue a vague meeting after the fact.",
             "zh": "沒錯。短短的會後紀錄也很有幫助，但它應該是確認一個已經講清楚的決定，不是事後去拯救一場本來就模糊的會。"
           },
           {
@@ -245,7 +245,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good meeting gives alignment, direction, and fewer surprises later.",
+            "en": "That is the point. A good meeting gives alignment, direction, and fewer surprises later.",
             "zh": "完全沒錯。好的會議會給你對齊感、方向感，還有之後比較少的意外。"
           },
           {
@@ -362,7 +362,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good prep means you did your homework before other people start asking you to defend your point.",
+            "en": "Exactly right. Good prep means you did your homework before other people start asking you to defend your point.",
             "zh": "沒錯。好的準備，就是你已經先把功課做好了，不是等別人開始挑戰時才現場補。"
           },
           {
@@ -415,7 +415,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why it helps to write down your talking points without the slides first.",
+            "en": "Yes. That is why it helps to write down your talking points without the slides first.",
             "zh": "完全沒錯。這也是為什麼先不看投影片、直接把你要講的重點列成 talking points 會很有幫助。"
           },
           {
@@ -468,7 +468,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if someone challenges you, say, 'Here is the reasoning behind that, and I can back it up with the numbers.'",
+            "en": "Right. And if someone challenges you, say, 'Here is the reasoning behind that, and I can back it up with the numbers.'",
             "zh": "沒錯。如果有人挑戰你，你也可以說：「Here is the reasoning behind that, and I can back it up with the numbers.」"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once that sentence is clear, the slides, examples, and likely questions all become easier to organize.",
+            "en": "Right. Once that sentence is clear, the slides, examples, and likely questions all become easier to organize.",
             "zh": "完全沒錯。一旦那句話清楚了，投影片、例子，還有可能會被問的問題，都會變得比較好整理。"
           },
           {
@@ -521,7 +521,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The room will always add pressure. Your prep is what makes pressure usable.",
+            "en": "Yes. The room will always add pressure. Your prep is what makes pressure usable.",
             "zh": "沒錯。房間一定會帶來壓力，而準備就是把壓力變得可用的東西。"
           },
           {
@@ -574,7 +574,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Polished is optional. Stable is what the room can actually trust.",
+            "en": "That's the key. Polished is optional. Stable is what the room can actually trust.",
             "zh": "完全沒錯。漂亮是選配，穩定才是整個房間真的能信任的東西。"
           },
           {
@@ -720,7 +720,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Then the pressure builds, and you make a point with more force than you actually wanted.",
+            "en": "I think so. Then the pressure builds, and you make a point with more force than you actually wanted.",
             "zh": "沒錯。然後壓力慢慢累積，你最後講出來的重點，就會比你原本想要的力道大很多。"
           },
           {
@@ -785,7 +785,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you need to interrupt politely, try, 'Sorry, can I add something before we move on?'",
+            "en": "True. And if you need to interrupt politely, try, 'Sorry, can I add something before we move on?'",
             "zh": "沒錯。如果你真的需要禮貌插話，也可以說：「Sorry, can I add something before we move on?」"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The room will still feel live, but you are not arriving empty-handed.",
+            "en": "That's true. The room will still feel live, but you are not arriving empty-handed.",
             "zh": "完全沒錯。房間還是會很即時，可是你不會空手進場。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Earlier clarity protects relationships much better than late frustration does.",
+            "en": "That is the point. Earlier clarity protects relationships much better than late frustration does.",
             "zh": "完全沒錯。更早的清楚，通常比拖到後面的挫折感更能保護關係。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Productive disagreement starts by slowing the room down enough to keep it constructive.",
+            "en": "Exactly right. Productive disagreement starts by slowing the room down enough to keep it constructive.",
             "zh": "完全沒錯。有效的不同意，第一步其實是先把房間的速度降到足以維持建設性。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Intelligence does not help much once the room shifts from curiosity into self-protection.",
+            "en": "Yes. Intelligence does not help much once the room shifts from curiosity into self-protection.",
             "zh": "沒錯。一旦房間從好奇轉成自我保護，聰明就幫不上太多了。"
           }
         ]
@@ -1032,7 +1032,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Then you can offer a different read of the situation without insulting the person who spoke.",
+            "en": "Precisely. Then you can offer a different read of the situation without insulting the person who spoke.",
             "zh": "完全就是。接著你就可以提出一個不同的解讀，而不是順手羞辱講話的人。"
           },
           {
@@ -1097,7 +1097,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also ask, 'What problem is this solving better than the other option?' That keeps the disagreement useful.",
+            "en": "Right. You can also ask, 'What problem is this solving better than the other option?' That keeps the disagreement useful.",
             "zh": "沒錯。你也可以直接問：「What problem is this solving better than the other option?」這樣會讓不同意維持在有用的層次。"
           },
           {
@@ -1109,7 +1109,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Productive disagreement always gives the room somewhere to go next.",
+            "en": "Yes. Productive disagreement always gives the room somewhere to go next.",
             "zh": "完全沒錯。有效的不同意，永遠都會替整個房間留下一個可以往下走的方向。"
           }
         ]
@@ -1179,7 +1179,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is one where people can disagree respectfully enough that the room still gets smarter.",
+            "en": "That's the key. It is one where people can disagree respectfully enough that the room still gets smarter.",
             "zh": "完全沒錯。好的討論，是大家可以有分寸地不同意，結果整個房間還是一起變聰明。"
           },
           {
@@ -1320,7 +1320,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Meetings rarely fail at the exact moment they drift. The failure shows up when there is no time left for the real work.",
+            "en": "I think so. Meetings rarely fail at the exact moment they drift. The failure shows up when there is no time left for the real work.",
             "zh": "完全沒錯。會議通常不是在偏掉的那一秒就宣告失敗，而是在最後真正重要的事情沒時間處理時才露出來。"
           }
         ]
@@ -1349,7 +1349,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A simple time check can save a meeting because it reminds the room that minutes are choices.",
+            "en": "Indeed. A simple time check can save a meeting because it reminds the room that minutes are choices.",
             "zh": "完全沒錯。一個簡單的 time check 就可以救一場會，因為它會提醒大家：時間本身就是選擇。"
           },
           {
@@ -1373,7 +1373,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Staying on track does not require being cold. It requires being intentional.",
+            "en": "That's true. Staying on track does not require being cold. It requires being intentional.",
             "zh": "沒錯。讓會議不離軌，不代表你要變冷，而是你要有意識。"
           }
         ]
@@ -1455,7 +1455,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once people can see who is doing what by when, the meeting suddenly becomes real.",
+            "en": "That is the point. Once people can see who is doing what by when, the meeting suddenly becomes real.",
             "zh": "完全沒錯。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。"
           },
           {
@@ -1467,7 +1467,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ambiguity survives in memory. It struggles when it gets written down in front of everyone.",
+            "en": "Exactly right. Ambiguity survives in memory. It struggles when it gets written down in front of everyone.",
             "zh": "完全沒錯。模糊很會活在記憶裡，但當它被當場寫下來時，就比較難繼續混。"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. On a call, people can miss each other for several minutes before anyone admits the meeting has gone weird.",
+            "en": "Yes. On a call, people can miss each other for several minutes before anyone admits the meeting has gone weird.",
             "zh": "沒錯。在通話裡，大家可以錯過彼此好幾分鐘，才終於有人承認整場會已經變怪了。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And some people contribute better in the chat, which can be helpful if the room actually watches it.",
+            "en": "Right. And some people contribute better in the chat, which can be helpful if the room actually watches it.",
             "zh": "沒錯。有些人本來就比較能在 chat 裡貢獻，而如果房間有真的在看，那其實是有幫助的。"
           },
           {
@@ -1678,7 +1678,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Same with screen share. If one person is driving the screen, they have to narrate what everybody else is looking at.",
+            "en": "Yes. Same with screen share. If one person is driving the screen, they have to narrate what everybody else is looking at.",
             "zh": "完全正確。screen share 也是一樣。如果是某一個人在操作畫面，他就要把大家正在看的東西講出來。"
           },
           {
@@ -1731,7 +1731,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if the energy is fading, you can say, 'Let's take thirty seconds to look at the screen share quietly before we respond.'",
+            "en": "That's the key. And if the energy is fading, you can say, 'Let's take thirty seconds to look at the screen share quietly before we respond.'",
             "zh": "沒錯。如果整個能量開始散掉，你也可以說：「Let's take thirty seconds to look at the screen share quietly before we respond.」"
           },
           {
@@ -1743,7 +1743,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. In virtual meetings, small pauses often do more than louder facilitation.",
+            "en": "I think so. In virtual meetings, small pauses often do more than louder facilitation.",
             "zh": "完全沒錯。線上會議裡，小小的停頓常常比更大聲的帶會有用得多。"
           }
         ]
@@ -1784,7 +1784,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Remote fatigue gets worse when people are not only thinking about content but also decoding the social rules.",
+            "en": "True. Remote fatigue gets worse when people are not only thinking about content but also decoding the social rules.",
             "zh": "完全沒錯。遠端疲勞會變得更嚴重，很多時候不是因為內容太多，而是因為大家還得一直解讀社交規則。"
           },
           {
@@ -1820,7 +1820,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point is to use the medium well instead of pretending it is something else.",
+            "en": "That's true. The point is to use the medium well instead of pretending it is something else.",
             "zh": "完全沒錯。重點是把這個媒介用好，不要假裝它是別的東西。"
           },
           {
@@ -1844,7 +1844,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good remote participation is less about energy and more about signal.",
+            "en": "That is the point. Good remote participation is less about energy and more about signal.",
             "zh": "完全沒錯。好的遠端參與，重點比較不是能量，而是訊號品質。"
           }
         ]
@@ -1937,7 +1937,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A useful discussion may not end with total agreement, but it should end with a clearer decision or a clearer open question.",
+            "en": "Exactly right. A useful discussion may not end with total agreement, but it should end with a clearer decision or a clearer open question.",
             "zh": "完全沒錯。有用的討論不一定要以全體同意收尾，但至少要以更清楚的決定，或更清楚的未解問題收尾。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If people never get honest input, the discussion stays shallow. If it never gets follow-through, it stays decorative.",
+            "en": "Yes. If people never get honest input, the discussion stays shallow. If it never gets follow-through, it stays decorative.",
             "zh": "完全沒錯。如果現場沒有真誠輸入，討論就會停在很淺的地方；如果沒有後續做到，它就只會變成裝飾。"
           },
           {
@@ -2002,7 +2002,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Useful is not the same as fast. Useful means the right things were surfaced in time.",
+            "en": "Precisely. Useful is not the same as fast. Useful means the right things were surfaced in time.",
             "zh": "完全正確。有用不等於快。有用比較像是：該浮出來的東西，有及時被浮出來。"
           }
         ]
@@ -2043,7 +2043,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if the room is ready to end, say, 'Can we close the loop on who is taking the next step?'",
+            "en": "Right. And if the room is ready to end, say, 'Can we close the loop on who is taking the next step?'",
             "zh": "沒錯。如果房間已經準備要收尾，你也可以說：「Can we close the loop on who is taking the next step?」"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If people know they are still exploring, they can stay open. If they know the room is deciding, they can tighten up productively.",
+            "en": "Yes. If people know they are still exploring, they can stay open. If they know the room is deciding, they can tighten up productively.",
             "zh": "完全沒錯。如果大家知道現在還在探索，就比較能保持開放；如果知道房間要決定了，就比較能有建設性地收緊。"
           },
           {
@@ -2125,7 +2125,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better informed matters, but a stronger team also knows what to do with what it just learned.",
+            "en": "That's the key. Better informed matters, but a stronger team also knows what to do with what it just learned.",
             "zh": "完全沒錯。知道更多當然重要，可是一個更強的團隊，還得知道要怎麼處理剛剛學到的東西。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Length is not depth. A useful discussion usually has both honesty and landing.",
+            "en": "I think so. Length is not depth. A useful discussion usually has both honesty and landing.",
             "zh": "完全沒錯。長度不等於深度。有用的討論，通常同時會有誠實，也會有落點。"
           },
           {

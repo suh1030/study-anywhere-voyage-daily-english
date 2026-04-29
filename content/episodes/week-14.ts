@@ -480,7 +480,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The details you remember from a conversation are the most valuable thing you can offer in a follow-up.",
+            "en": "That's true. The details you remember from a conversation are the most valuable thing you can offer in a follow-up.",
             "zh": "沒錯。你從對話中記得的細節，是你在後續聯絡中能提供的最有價值的東西。"
           }
         ]
@@ -586,7 +586,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Remove the word \"networking\" and most of the anxiety goes with it.",
+            "en": "That is the point. Remove the word \"networking\" and most of the anxiety goes with it.",
             "zh": "沒錯。把「建立人脈」這個詞拿掉，大部分的焦慮也跟著消失了。"
           }
         ]
@@ -732,7 +732,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Prepare things in advance that you can finish quickly on the day. That way you are not cooking and hosting simultaneously.",
+            "en": "Exactly right. Prepare things in advance that you can finish quickly on the day. That way you are not cooking and hosting simultaneously.",
             "zh": "沒錯。提前準備好可以在當天快速完成的東西。這樣你就不用同時在煮飯和招待了。"
           },
           {
@@ -1191,7 +1191,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Inauthenticity would be pretending to like something you do not, or agreeing with things that go against your values. Adapting your style is just social competence.",
+            "en": "Yes. Inauthenticity would be pretending to like something you do not, or agreeing with things that go against your values. Adapting your style is just social competence.",
             "zh": "沒錯。不真實是假裝喜歡你不喜歡的東西，或者同意違背你價值觀的事情。調整你的風格只是社交能力。"
           },
           {
@@ -1479,7 +1479,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The people who never seem awkward are usually just very good at pausing and listening.",
+            "en": "Right. The people who never seem awkward are usually just very good at pausing and listening.",
             "zh": "沒錯。那些看起來從不尷尬的人，通常只是非常擅長停頓和傾聽。"
           }
         ]

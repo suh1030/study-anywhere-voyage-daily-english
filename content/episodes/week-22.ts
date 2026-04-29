@@ -27,7 +27,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. People were already throwing solutions around before anyone knew what was actually failing.",
+            "en": "That is the point. People were already throwing solutions around before anyone knew what was actually failing.",
             "zh": "真的。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
           },
           {
@@ -57,7 +57,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Every clear question helps you get closer to what is true.",
+            "en": "Exactly right. Every clear question helps you get closer to what is true.",
             "zh": "沒錯。每一個更清楚的問題，都會讓你再更接近真實一點。"
           }
         ]
@@ -110,7 +110,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Problem solving rewards adjustment much more than ego.",
+            "en": "Yes. Problem solving rewards adjustment much more than ego.",
             "zh": "完全沒錯。解決問題這件事，獎勵的其實是調整能力，不是 ego。"
           }
         ]
@@ -192,7 +192,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of wasted effort comes from trial and error with no memory.",
+            "en": "Right. A lot of wasted effort comes from trial and error with no memory.",
             "zh": "完全沒錯。很多白花的力氣，其實都是沒有記憶的 trial and error。"
           },
           {
@@ -245,7 +245,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is not to look brilliant. The goal is to get closer to what is true.",
+            "en": "Yes. The goal is not to look brilliant. The goal is to get closer to what is true.",
             "zh": "完全沒錯。重點不是看起來多厲害，而是離真實更近一點。"
           },
           {
@@ -415,7 +415,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once you break it down, the problem often stops acting like one giant wall.",
+            "en": "That's the key. Once you break it down, the problem often stops acting like one giant wall.",
             "zh": "完全沒錯。一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
           },
           {
@@ -480,7 +480,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good English for problem solving keeps your thinking visible.",
+            "en": "I think so. Good English for problem solving keeps your thinking visible.",
             "zh": "完全沒錯。解題時好用的英文，會讓你的思考是看得見的。"
           }
         ]
@@ -509,7 +509,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That question gets you unstuck surprisingly often.",
+            "en": "Right. That question gets you unstuck surprisingly often.",
             "zh": "完全沒錯。這個問題常常比想像中更能幫你脫困。"
           },
           {
@@ -545,7 +545,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Fast starters need structure, careful thinkers need momentum, and everybody needs honesty about where they freeze.",
+            "en": "That's true. Fast starters need structure, careful thinkers need momentum, and everybody needs honesty about where they freeze.",
             "zh": "完全沒錯。動得快的人需要結構，想得細的人需要動能，而每個人都需要誠實面對自己會卡住在哪裡。"
           },
           {
@@ -581,7 +581,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Skill grows faster when the feedback is specific.",
+            "en": "That is the point. Skill grows faster when the feedback is specific.",
             "zh": "完全沒錯。回饋越具體，能力就長得越快。"
           }
         ]
@@ -650,7 +650,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is usually the moment you need a fresh angle more than another louder opinion.",
+            "en": "Yes. that is usually the moment you need a fresh angle more than another louder opinion.",
             "zh": "有，而且通常到了那個時候，你需要的比較不是另一個更大聲的意見，而是一個新的角度。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good creative thinking often begins with a better question.",
+            "en": "Exactly right. Good creative thinking often begins with a better question.",
             "zh": "完全沒錯。好的創意思考，常常是從一個更好的問題開始。"
           }
         ]
@@ -715,7 +715,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You usually need to generate options before you can recognize which one actually has energy.",
+            "en": "Yes. You usually need to generate options before you can recognize which one actually has energy.",
             "zh": "完全沒錯。你通常要先產生出幾個選項，才有可能認出哪一個真的有生命力。"
           },
           {
@@ -768,7 +768,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That kind of question forces the room to reframe the question in a more useful way.",
+            "en": "True. That kind of question forces the room to reframe the question in a more useful way.",
             "zh": "完全沒錯。那種問法會逼整個房間重新換一個更有用的問題框架。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The brain likes side doors. A walk, a different conversation, or a half-related example can create a spark.",
+            "en": "Right. The brain likes side doors. A walk, a different conversation, or a half-related example can create a spark.",
             "zh": "完全沒錯。大腦很喜歡側門。一場散步、一段不同的對話，或一個半相關的例子，都可能點出火花。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Creative people are often just people who stay in the room long enough for a new angle to arrive.",
+            "en": "Yes. Creative people are often just people who stay in the room long enough for a new angle to arrive.",
             "zh": "完全沒錯。很多有創意的人，說穿了只是願意在房間裡待得夠久，等新角度來的人。"
           },
           {
@@ -973,7 +973,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
+            "en": "That's the key. Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
             "zh": "真的。後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And often that pattern points to a bottleneck nobody wants to name directly.",
+            "en": "I think so. And often that pattern points to a bottleneck nobody wants to name directly.",
             "zh": "完全沒錯。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Surface fights are often cheaper than honest diagnosis.",
+            "en": "Precisely. Surface fights are often cheaper than honest diagnosis.",
             "zh": "完全沒錯。表層的架，很多時候比誠實診斷便宜得多。"
           }
         ]
@@ -1109,7 +1109,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good language can help a team notice what it has been stepping around.",
+            "en": "That's true. Good language can help a team notice what it has been stepping around.",
             "zh": "完全沒錯。好的語言，會幫團隊看見自己一直繞開的東西。"
           }
         ]
@@ -1138,7 +1138,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A misleading fix gives relief without resolution.",
+            "en": "That is the point. A misleading fix gives relief without resolution.",
             "zh": "完全沒錯。誤導性的修法，會給你舒緩感，但不會給你真正解決。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is when decision-making under incomplete information becomes a real skill instead of an abstract idea.",
+            "en": "Yes. that is when decision-making under incomplete information becomes a real skill instead of an abstract idea.",
             "zh": "知道，而且那就是在資訊不完整下做決定這件事，從抽象概念變成真本事的時候。"
           },
           {
@@ -1320,7 +1320,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good judgment is often calm courage, not perfect certainty.",
+            "en": "Exactly right. Good judgment is often calm courage, not perfect certainty.",
             "zh": "完全沒錯。好的判斷，很多時候比較像冷靜的勇氣，不是完美的確定。"
           }
         ]
@@ -1349,7 +1349,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Then I ask about confidence level. Are we at sixty percent, or are we at twenty percent and pretending?",
+            "en": "Yes. Then I ask about confidence level. Are we at sixty percent, or are we at twenty percent and pretending?",
             "zh": "完全沒錯。接著我會問，我們的把握程度到底是多少？是六成，還是其實只有兩成卻在假裝？"
           },
           {
@@ -1373,7 +1373,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Hidden uncertainty is usually more chaotic than spoken uncertainty.",
+            "en": "Indeed. Hidden uncertainty is usually more chaotic than spoken uncertainty.",
             "zh": "完全沒錯。沒講出口的不確定，通常比說出來的不確定更亂。"
           }
         ]
@@ -1426,7 +1426,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good decision language can be firm and modest at the same time.",
+            "en": "Right. Good decision language can be firm and modest at the same time.",
             "zh": "完全沒錯。好的決策語言，可以同時堅定又謙虛。"
           }
         ]
@@ -1467,7 +1467,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If the plan includes learning, being imperfect is no longer the end of the story.",
+            "en": "Yes. If the plan includes learning, being imperfect is no longer the end of the story.",
             "zh": "完全沒錯。如果計畫本身就包含學習，那不完美就不再是故事終點。"
           },
           {
@@ -1520,7 +1520,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ordinary courage is often what good decisions are made of.",
+            "en": "That's the key. Ordinary courage is often what good decisions are made of.",
             "zh": "完全沒錯。很多好決定，就是由那種日常版的勇氣做成的。"
           },
           {
@@ -1601,7 +1601,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is usually a sign the team never aligned on the goal before they started producing answers.",
+            "en": "Yes. that is usually a sign the team never aligned on the goal before they started producing answers.",
             "zh": "有，而且那通常表示團隊在開始丟答案前，根本沒有先對齊目標。"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Teams can generate a lot of motion without creating shared direction.",
+            "en": "I think so. Teams can generate a lot of motion without creating shared direction.",
             "zh": "完全沒錯。團隊可以產生很多動作，卻沒有創造出共同方向。"
           },
           {
@@ -1743,7 +1743,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Collaborative English should help the room think together, not just sound polite.",
+            "en": "That's true. Collaborative English should help the room think together, not just sound polite.",
             "zh": "完全沒錯。協作型英文的重點，是幫房間一起思考，不只是聽起來有禮貌。"
           }
         ]
@@ -1772,7 +1772,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Shared input and clear ownership are not opposites. They actually protect each other.",
+            "en": "That is the point. Shared input and clear ownership are not opposites. They actually protect each other.",
             "zh": "完全沒錯。共同輸入跟清楚責任，不是對立面，反而是互相保護。"
           },
           {
@@ -1784,7 +1784,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good teams end with a visible next action, not a shared cloud of good intentions.",
+            "en": "Exactly right. Good teams end with a visible next action, not a shared cloud of good intentions.",
             "zh": "完全沒錯。好的團隊會議，最後留下的是看得見的下一步，不是一團共同的好意。"
           },
           {
@@ -1837,7 +1837,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When people feel seen, heard, and clearly connected to the final direction, the team gets stronger with every hard problem.",
+            "en": "Yes. When people feel seen, heard, and clearly connected to the final direction, the team gets stronger with every hard problem.",
             "zh": "完全沒錯。當大家覺得自己有被看見、有被聽見，而且跟最後方向真的有清楚連結時，團隊每解一個難題都會更強。"
           },
           {
@@ -1930,7 +1930,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They tolerate frustration without assuming frustration means failure.",
+            "en": "True. They tolerate frustration without assuming frustration means failure.",
             "zh": "完全沒錯。他們比較能承受挫折感，而不會立刻把挫折感當成失敗。"
           },
           {
@@ -1995,7 +1995,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Calm gives the mind enough room to see options, trade-offs, and weak points.",
+            "en": "Right. Calm gives the mind enough room to see options, trade-offs, and weak points.",
             "zh": "完全沒錯。冷靜會替大腦留出空間，讓你看得見選項、取捨和薄弱點。"
           },
           {
@@ -2048,7 +2048,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better problem-solving language helps people move forward without pretending the work is easy.",
+            "en": "Yes. Better problem-solving language helps people move forward without pretending the work is easy.",
             "zh": "完全沒錯。更好的解題語言，會幫人往前走，又不會假裝工作很簡單。"
           },
           {
@@ -2089,7 +2089,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Small wins help you move forward because they reduce guesswork.",
+            "en": "That's the key. Small wins help you move forward because they reduce guesswork.",
             "zh": "完全沒錯。小進展之所以能推你往前，是因為它減少了亂猜。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better problem solvers move forward with less fear because they trust their process more.",
+            "en": "I think so. Better problem solvers move forward with less fear because they trust their process more.",
             "zh": "完全沒錯。更會解題的人之所以能更少害怕地往前，是因為他們比較信任自己的過程。"
           },
           {

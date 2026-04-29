@@ -33,7 +33,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Their signals can be subtle, but they are rarely ironic.",
+            "en": "That's the key. Their signals can be subtle, but they are rarely ironic.",
             "zh": "完全沒錯。牠們的訊號可能很細，可是通常不會拐彎抹角。"
           },
           {
@@ -45,7 +45,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that honesty can be incredibly regulating for people who spend all day reading complicated social cues.",
+            "en": "Yes. that honesty can be incredibly regulating for people who spend all day reading complicated social cues.",
             "zh": "對，而那種誠實，對那些整天都在讀複雜社交訊號的人來說，會非常有安定作用。"
           },
           {
@@ -57,7 +57,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes the body trusts simple kindness faster than the mind does.",
+            "en": "I think so. Sometimes the body trusts simple kindness faster than the mind does.",
             "zh": "完全沒錯。有時候身體會比腦更快相信那種簡單的善意。"
           }
         ]
@@ -264,7 +264,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes family is partly defined by who reshapes your daily tenderness.",
+            "en": "That's true. Sometimes family is partly defined by who reshapes your daily tenderness.",
             "zh": "完全沒錯。有時候所謂家人，本來就有一部分是由『誰改變了你每天的溫柔程度』來定義的。"
           }
         ]
@@ -345,7 +345,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Animals can bypass cynicism.",
+            "en": "That is the point. Animals can bypass cynicism.",
             "zh": "完全沒錯。動物常常會直接繞過人的那層防備和嘲諷。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Animals often touch people before their defenses have time to organize.",
+            "en": "Exactly right. Animals often touch people before their defenses have time to organize.",
             "zh": "完全沒錯。動物常常是在人的防衛系統還來不及排好隊之前，就先碰到他了。"
           },
           {
@@ -410,7 +410,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Mature love does not erase difference.",
+            "en": "Yes. Mature love does not erase difference.",
             "zh": "完全沒錯。成熟的愛，不會把差異擦掉。"
           },
           {
@@ -569,7 +569,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Quietly, repeatedly, and very effectively.",
+            "en": "Right. Quietly, repeatedly, and very effectively.",
             "zh": "完全沒錯。安安靜靜、反反覆覆，而且很有效。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A dog does not care about your philosophy of discipline. It just needs a walk at seven.",
+            "en": "Right. A dog does not care about your philosophy of discipline. It just needs a walk at seven.",
             "zh": "完全沒錯。狗根本不在意你對自律有什麼哲學，它只知道七點要出去散步。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Quietly, but very thoroughly.",
+            "en": "Yes. Quietly, but very thoroughly.",
             "zh": "完全沒錯。很安靜，可是很徹底。"
           }
         ]
@@ -715,7 +715,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good care depends on reading behavior, not just having affection.",
+            "en": "That's the key. Good care depends on reading behavior, not just having affection.",
             "zh": "完全沒錯。好的照顧，仰賴的是會讀行為，不只是很有愛。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Daily repetition builds trust on both sides.",
+            "en": "I think so. Daily repetition builds trust on both sides.",
             "zh": "完全沒錯。每天的重複，會在雙方身上慢慢建立信任。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Wildness asks for restraint as much as admiration.",
+            "en": "True. Wildness asks for restraint as much as admiration.",
             "zh": "完全沒錯。野性要求人的，不只是欣賞，還有節制。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good wildlife observation is non-invasive attention.",
+            "en": "That's true. Good wildlife observation is non-invasive attention.",
             "zh": "完全沒錯。好的野外觀察，是一種不打擾的注意。"
           },
           {
@@ -1162,7 +1162,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly.",
+            "en": "Precisely.",
             "zh": "完全沒錯。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Human delight and animal wellbeing are not automatically the same thing.",
+            "en": "That is the point. Human delight and animal wellbeing are not automatically the same thing.",
             "zh": "完全沒錯。人類覺得開心，和動物真的過得好，不會自動變成同一件事。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Values become visible in friction.",
+            "en": "Exactly right. Values become visible in friction.",
             "zh": "完全沒錯。價值觀常常是在摩擦裡才變得看得見。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A decision is not only about today. It is about what kind of life the animal is likely to have because of it.",
+            "en": "Yes. A decision is not only about today. It is about what kind of life the animal is likely to have because of it.",
             "zh": "完全沒錯。一個決定不只是在處理今天，它也在決定那隻動物往後比較可能會過上什麼樣的生活。"
           },
           {
@@ -1503,7 +1503,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ethical care deepens perception. It asks people to feel tenderness and responsibility at the same time.",
+            "en": "Indeed. Ethical care deepens perception. It asks people to feel tenderness and responsibility at the same time.",
             "zh": "完全沒錯。倫理照顧會加深人的感知。它要求人同時感到溫柔，也同時扛起責任。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They can become emotional mirrors.",
+            "en": "Right. They can become emotional mirrors.",
             "zh": "完全沒錯。牠們有時候真的像情緒鏡子。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes a restless dog means you are restless. Sometimes it just means the dog needs a longer walk.",
+            "en": "Yes. Sometimes a restless dog means you are restless. Sometimes it just means the dog needs a longer walk.",
             "zh": "完全沒錯。有時候一隻焦躁的狗，的確代表你很焦躁；但有時候它就只是需要走更久一點。"
           },
           {
@@ -1937,7 +1937,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Gentleness often begins as slowed attention.",
+            "en": "That's the key. Gentleness often begins as slowed attention.",
             "zh": "完全沒錯。溫柔很多時候就是從注意力慢下來開始的。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A gentle life pays attention to unseen consequences.",
+            "en": "I think so. A gentle life pays attention to unseen consequences.",
             "zh": "完全沒錯。比較溫柔的生活，會去注意那些平常看不見的後果。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A humane habit is often a tiny adjustment repeated consistently.",
+            "en": "That's true. A humane habit is often a tiny adjustment repeated consistently.",
             "zh": "完全沒錯。一個有人味的習慣，很多時候就是一個很小的調整，但會一直重複。"
           },
           {

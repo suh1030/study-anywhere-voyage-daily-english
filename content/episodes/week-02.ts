@@ -86,7 +86,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. There is research suggesting that the first fifteen minutes after waking significantly affect how you process stress for the rest of the day. Give those minutes to your phone and you are starting from a deficit.",
+            "en": "Right. There is research suggesting that the first fifteen minutes after waking significantly affect how you process stress for the rest of the day. Give those minutes to your phone and you are starting from a deficit.",
             "zh": "確實。有研究表明，醒來後的前十五分鐘對你一天剩餘時間處理壓力的方式有顯著影響。把這段時間給手機，你是從一個赤字開始的。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. For some people that transition happens at the coffee shop, or at the gym, or when they sit down at their desk. The specific activity matters less than having one reliable moment that says: now the day is real.",
+            "en": "Yes. For some people that transition happens at the coffee shop, or at the gym, or when they sit down at their desk. The specific activity matters less than having one reliable moment that says: now the day is real.",
             "zh": "沒錯。對有些人來說，這個過渡發生在咖啡店、健身房，或者當他們坐在書桌前的時候。具體的活動不那麼重要，重要的是有一個可靠的時刻在說：現在這一天是真實的了。"
           },
           {
@@ -374,7 +374,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Early morning is the one time when you can genuinely set your own agenda — before the agenda gets set for you.",
+            "en": "That's the key. Early morning is the one time when you can genuinely set your own agenda — before the agenda gets set for you.",
             "zh": "正是如此。清晨是你真正能夠設定自己議程的時間——在別人為你設定議程之前。"
           }
         ]
@@ -444,7 +444,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and this is where most \"wake up at five\" plans fall apart. People set the alarm back an hour without going to bed earlier, run a sleep debt for a week, and then crash back to their original habits.",
+            "en": "Yes. this is where most \"wake up at five\" plans fall apart. People set the alarm back an hour without going to bed earlier, run a sleep debt for a week, and then crash back to their original habits.",
             "zh": "是的，這正是大多數「五點起床」計畫崩潰的地方。人們把鬧鐘提前一個小時，但沒有更早上床睡覺，累積了一週的睡眠債，然後就恢復到原來的習慣。"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Light exposure also matters — try to get bright light in the morning and dim the lights in the evening. That helps reset your circadian rhythm.",
+            "en": "I think so. Light exposure also matters — try to get bright light in the morning and dim the lights in the evening. That helps reset your circadian rhythm.",
             "zh": "沒錯。光照也很重要——試著在早晨獲得充足的光線，在傍晚把燈光調暗。這有助於重置你的晝夜節律。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. By evening, you have a hundred reasons not to go — you are tired, it is dark, you deserve to rest, there is something good to watch. In the morning, you barely have time to build a case against it.",
+            "en": "That's true. By evening, you have a hundred reasons not to go — you are tired, it is dark, you deserve to rest, there is something good to watch. In the morning, you barely have time to build a case against it.",
             "zh": "正是如此。到了晚上，你有一百個理由不去——你累了，天黑了，你應該休息，有好看的節目。早晨，你幾乎沒有時間建立反對它的理由。"
           },
           {
@@ -1210,7 +1210,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the morning is the best time to start that chain reaction before everything else competes for your attention.",
+            "en": "That is the point. And the morning is the best time to start that chain reaction before everything else competes for your attention.",
             "zh": "正是如此。而早晨是在其他一切競爭你注意力之前，開始這個連鎖反應的最佳時機。"
           }
         ]
@@ -1315,7 +1315,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And mornings tend to amplify that — because there is a whole day ahead that the brain wants to start solving before you have even had breakfast.",
+            "en": "Exactly right. And mornings tend to amplify that — because there is a whole day ahead that the brain wants to start solving before you have even had breakfast.",
             "zh": "正是如此。早晨往往會放大這一點——因為整個一天就在前方，大腦想在你吃早餐之前就開始解決它。"
           }
         ]
@@ -1397,7 +1397,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Evening mindfulness is valuable too, but it requires more effort — you have to move through the day's emotional residue before you can get to stillness. Morning is a cleaner entry point.",
+            "en": "Yes. Evening mindfulness is valuable too, but it requires more effort — you have to move through the day's emotional residue before you can get to stillness. Morning is a cleaner entry point.",
             "zh": "正是如此。晚間的正念也很有價值，但它需要更多的努力——你必須穿越這一天的情緒殘留才能到達平靜。早晨是一個更乾淨的入口。"
           },
           {
@@ -1474,7 +1474,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Mindfulness is about the quality of your attention, not about how you look while you are practicing it.",
+            "en": "Right. Mindfulness is about the quality of your attention, not about how you look while you are practicing it.",
             "zh": "正是如此。正念是關於你注意力的品質，而不是你在練習時看起來如何。"
           }
         ]
@@ -1620,7 +1620,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You choose to move at a certain pace because that pace serves you — it gives your nervous system time to calibrate before the demands arrive.",
+            "en": "Right. You choose to move at a certain pace because that pace serves you — it gives your nervous system time to calibrate before the demands arrive.",
             "zh": "正是如此。你選擇以某種節奏移動，因為那種節奏對你有用——它給你的神經系統時間在要求到來之前進行校準。"
           },
           {
@@ -1650,7 +1650,7 @@ export const WEEK_02: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You arrive at the first task of the day already running on stress hormones. The hurry itself creates a kind of low-grade emergency signal in the body — and that signal is hard to switch off once it has been activated.",
-            "zh": "你到達這一天第一個任務時，已經在壓力荷爾蒙的驅動下運行了。匆忙本身在身體中產生了一種低程度的緊急信號——一旦被激活，那個信號就很難關掉。"
+            "zh": "你抵達這天第一件任務時，身體早就在壓力荷爾蒙的驅動下轉起來了。趕時間本身會在體內製造一種低程度的緊急訊號——一旦被觸發，那個訊號就很難關掉。"
           },
           {
             "speaker": "b",
@@ -1661,7 +1661,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Whereas if you arrive already calm — having not rushed — the first hour is actually your clearest thinking hour. You are not using half your energy to regulate your stress response.",
+            "en": "Yes. Whereas if you arrive already calm — having not rushed — the first hour is actually your clearest thinking hour. You are not using half your energy to regulate your stress response.",
             "zh": "正是如此。而如果你到達時已經平靜——沒有匆忙——第一個小時實際上是你思維最清晰的時段。你不需要用一半的能量來調節你的壓力反應。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the irony is that the rushed morning, in trying to pack in more, often leads to less — because the quality of what follows is compromised.",
+            "en": "That's the key. And the irony is that the rushed morning, in trying to pack in more, often leads to less — because the quality of what follows is compromised.",
             "zh": "正是如此。而諷刺的是，匆忙的早晨，試圖塞入更多，往往導致更少——因為接下來的品質受到了損害。"
           },
           {
@@ -1973,7 +1973,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The antidote is to look for a reset point — a moment in the day where you can start fresh. It does not have to be in the morning. A mindful lunch, a five-minute walk at two p.m. — these can reset the emotional tone.",
+            "en": "I think so. The antidote is to look for a reset point — a moment in the day where you can start fresh. It does not have to be in the morning. A mindful lunch, a five-minute walk at two p.m. — these can reset the emotional tone.",
             "zh": "正是如此。解藥是尋找一個重置點——一天中你可以重新開始的時刻。它不必在早晨。一頓有正念的午餐、下午兩點的五分鐘散步——這些都可以重置情緒基調。"
           },
           {

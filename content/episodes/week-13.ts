@@ -351,7 +351,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. Feedback without context is almost worse than no feedback.",
+            "en": "Exactly right. Feedback without context is almost worse than no feedback.",
             "zh": "沒錯。沒有背景的回饋幾乎比沒有回饋更糟。"
           },
           {
@@ -451,7 +451,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say \"One thing that would make this stronger is...\" — that positions it as a suggestion, not a verdict.",
+            "en": "Yes. You can also say \"One thing that would make this stronger is...\" — that positions it as a suggestion, not a verdict.",
             "zh": "沒錯。你也可以說「有一件事可以讓這個更強...」——這把它定位成建議，而不是裁決。"
           },
           {
@@ -1368,7 +1368,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The commute was not just inconvenient travel. It was a psychological buffer in both directions.",
+            "en": "Right. The commute was not just inconvenient travel. It was a psychological buffer in both directions.",
             "zh": "沒錯。通勤不只是不方便的移動，它是雙向的心理緩衝。"
           }
         ]
@@ -1632,7 +1632,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And it makes it much clearer which meetings are actually necessary.",
+            "en": "Yes. And it makes it much clearer which meetings are actually necessary.",
             "zh": "沒錯。而且這讓哪些會議真的必要變得更清楚。"
           }
         ]
@@ -1791,7 +1791,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Being selective is not being difficult. It is being honest about what the work actually requires.",
+            "en": "That's the key. Being selective is not being difficult. It is being honest about what the work actually requires.",
             "zh": "沒錯。有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
           }
         ]
@@ -2137,7 +2137,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Most career growth also happens in ways that are invisible from the outside for a long time before they become visible.",
+            "en": "I think so. Most career growth also happens in ways that are invisible from the outside for a long time before they become visible.",
             "zh": "沒錯。大多數職涯成長在從外部可見之前，往往有很長一段時間以肉眼看不見的方式在發生。"
           },
           {

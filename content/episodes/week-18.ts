@@ -39,7 +39,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. By the fourth day, even the sound of him making tea annoyed me.",
+            "en": "Right. By the fourth day, even the sound of him making tea annoyed me.",
             "zh": "真的。到第四天時，連他泡茶的聲音都讓我煩。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. By then you are reacting to accumulated meaning, not only tonight's dishes.",
+            "en": "Yes. By then you are reacting to accumulated meaning, not only tonight's dishes.",
             "zh": "沒錯。到那一步時，你反應的已經是累積出來的意義，不只是今晚的碗盤。"
           },
           {
@@ -139,7 +139,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you need a pause, say, 'I need ten minutes to cool off, but I do want to come back to this.'",
+            "en": "That's the key. And if you need a pause, say, 'I need ten minutes to cool off, but I do want to come back to this.'",
             "zh": "沒錯。如果你需要停一下，也可以說：「I need ten minutes to cool off, but I do want to come back to this.」"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And I would name one behavior, not a whole personality.",
+            "en": "I think so. And I would name one behavior, not a whole personality.",
             "zh": "沒錯。而且我會只指出一個行為，不會把對方整個人格一起判下去。"
           },
           {
@@ -374,7 +374,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The mind fills in the blanks faster than the other person can explain themselves.",
+            "en": "That's true. The mind fills in the blanks faster than the other person can explain themselves.",
             "zh": "沒錯。大腦腦補空缺的速度，常常比對方解釋自己的速度還快。"
           }
         ]
@@ -427,7 +427,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of conflict starts in the nervous system before it appears in language.",
+            "en": "That is the point. A lot of conflict starts in the nervous system before it appears in language.",
             "zh": "完全是。很多衝突其實先發生在神經系統裡，之後才進入語言。"
           }
         ]
@@ -509,7 +509,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That pause helps you notice what actually set someone off instead of blaming their whole character.",
+            "en": "Exactly right. That pause helps you notice what actually set someone off instead of blaming their whole character.",
             "zh": "沒錯。那個停頓會幫你看見，到底是什麼真正把某人點燃，而不是直接怪到整個人格上。"
           },
           {
@@ -533,7 +533,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Precision lowers the volume before anybody has to raise their voice.",
+            "en": "Yes. Precision lowers the volume before anybody has to raise their voice.",
             "zh": "完全沒錯。精準會先把音量降下來，甚至在任何人還沒開始大聲之前。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It starts when you notice your own story forming and choose not to worship it.",
+            "en": "Right. It starts when you notice your own story forming and choose not to worship it.",
             "zh": "沒錯。它開始於你注意到自己腦中那個故事正在形成，然後決定不要立刻把它當聖旨。"
           },
           {
@@ -780,7 +780,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if the room is heating up, say, 'Can we keep the tone calm and stay with the idea itself?'",
+            "en": "Right. And if the room is heating up, say, 'Can we keep the tone calm and stay with the idea itself?'",
             "zh": "沒錯。如果現場開始升溫，也可以說：「Can we keep the tone calm and stay with the idea itself?」"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When people feel accurately understood, they stop fighting as hard to prove they exist.",
+            "en": "Yes. When people feel accurately understood, they stop fighting as hard to prove they exist.",
             "zh": "對。當人感覺自己被準確理解時，就不需要那麼用力地證明自己存在。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Healthy disagreement lets both clarity and care stay in the room.",
+            "en": "That's the key. Healthy disagreement lets both clarity and care stay in the room.",
             "zh": "沒錯。健康的不同意，會讓清楚和在乎同時留在現場。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Without that, the apology never really starts.",
+            "en": "I think so. Without that, the apology never really starts.",
             "zh": "完全沒錯。沒有那一步，道歉其實根本還沒開始。"
           }
         ]
@@ -1097,7 +1097,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That phrase dodges the issue by treating the harm like an optional interpretation.",
+            "en": "True. That phrase dodges the issue by treating the harm like an optional interpretation.",
             "zh": "沒錯。那種說法就是在閃問題，因為它把傷害講得像只是對方自己的理解。"
           },
           {
@@ -1162,7 +1162,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You do not repair embarrassment, betrayal, and inconvenience in the same way.",
+            "en": "That's true. You do not repair embarrassment, betrayal, and inconvenience in the same way.",
             "zh": "完全正確。難堪、背叛，還有單純造成不便，修法本來就不可能一樣。"
           }
         ]
@@ -1215,7 +1215,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good apology cannot erase the moment, but it can stop the damage from spreading.",
+            "en": "That is the point. A good apology cannot erase the moment, but it can stop the damage from spreading.",
             "zh": "完全沒錯。好的道歉不能把那個瞬間擦掉，但它可以阻止傷害繼續擴散。"
           }
         ]
@@ -1361,7 +1361,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Respect needs information. People cannot honor limits they have never been told about.",
+            "en": "Exactly right. Respect needs information. People cannot honor limits they have never been told about.",
             "zh": "完全正確。尊重需要資訊。你沒說過的限制，別人其實無法好好尊重。"
           },
           {
@@ -1402,7 +1402,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if the pattern continues, you can say, 'I want to help, but late-night messages cross a line for me.'",
+            "en": "Yes. And if the pattern continues, you can say, 'I want to help, but late-night messages cross a line for me.'",
             "zh": "沒錯。如果這個模式還在持續，你就可以說：「I want to help, but late-night messages cross a line for me.」"
           },
           {
@@ -1479,7 +1479,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Clear limits are often kinder than cheerful resentment.",
+            "en": "Precisely. Clear limits are often kinder than cheerful resentment.",
             "zh": "沒錯。清楚的界線，常常比笑著累積怨氣更溫柔。"
           }
         ]
@@ -1508,7 +1508,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and whether you can stand your ground without turning the other person into an enemy.",
+            "en": "Yes. whether you can stand your ground without turning the other person into an enemy.",
             "zh": "對，而且還要看你能不能在穩住自己立場的同時，不把對方變成敵人。"
           },
           {
@@ -1625,7 +1625,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once you break a promise, even a small one, the next promise sounds weaker.",
+            "en": "Right. Once you break a promise, even a small one, the next promise sounds weaker.",
             "zh": "完全沒錯。一旦你食言過，就算是小承諾，下一次你再承諾時，聲音都會變得比較薄。"
           },
           {
@@ -1678,7 +1678,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Big speeches do less than a series of small kept promises.",
+            "en": "Yes. Big speeches do less than a series of small kept promises.",
             "zh": "就是這樣。再大的長篇大論，都比不上一串小小但有做到的承諾。"
           },
           {
@@ -1731,7 +1731,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Another helpful line is, 'I need to show up differently, especially in the situations where I let you down before.'",
+            "en": "That's the key. Another helpful line is, 'I need to show up differently, especially in the situations where I let you down before.'",
             "zh": "沒錯。另一句很好的是：「I need to show up differently, especially in the situations where I let you down before.」"
           },
           {
@@ -1849,7 +1849,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Hope with receipts is what trust looks like after a fight.",
+            "en": "I think so. Hope with receipts is what trust looks like after a fight.",
             "zh": "完全就是。帶著憑據的希望，就是吵過架之後信任會長成的樣子。"
           }
         ]
@@ -1942,7 +1942,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good conflict helps you get to the root of it instead of arguing forever about the latest trigger.",
+            "en": "Indeed. Good conflict helps you get to the root of it instead of arguing forever about the latest trigger.",
             "zh": "沒錯。好的衝突會幫你找到根本原因，而不是永遠只在最近一次的引爆點上打轉。"
           },
           {
@@ -1995,7 +1995,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Naming does not solve everything, but it creates options.",
+            "en": "That's true. Naming does not solve everything, but it creates options.",
             "zh": "沒錯。命名不會立刻解決一切，但它會創造新的選項。"
           },
           {
@@ -2048,7 +2048,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reflection is not romanticizing damage. It is refusing to waste it.",
+            "en": "That is the point. Reflection is not romanticizing damage. It is refusing to waste it.",
             "zh": "完全沒錯。反思不是把傷害浪漫化，而是不想白白浪費它。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The point is not to love conflict. The point is to use it well.",
+            "en": "Exactly right. The point is not to love conflict. The point is to use it well.",
             "zh": "完全沒錯。重點不是愛上衝突，而是把衝突用好。"
           },
           {

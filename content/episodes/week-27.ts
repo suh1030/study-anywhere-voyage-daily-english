@@ -33,7 +33,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An unfamiliar place wakes up parts of your attention that everyday life can quietly put to sleep.",
+            "en": "I think so. An unfamiliar place wakes up parts of your attention that everyday life can quietly put to sleep.",
             "zh": "完全沒錯。不熟悉的地方，會叫醒那些在平常生活裡慢慢睡著的注意力。"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good travel English usually sounds sensory, specific, and a little personal.",
+            "en": "That's true. Good travel English usually sounds sensory, specific, and a little personal.",
             "zh": "完全沒錯。好用的旅行英文，通常會有感官、有細節，也帶一點個人感。"
           }
         ]
@@ -269,7 +269,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good trips do not only take you somewhere else. They return you to yourself a little differently.",
+            "en": "That is the point. Good trips do not only take you somewhere else. They return you to yourself a little differently.",
             "zh": "完全沒錯。好的旅行不只是把你帶去別的地方，它也會把你以一種有點不同的方式帶回自己身上。"
           }
         ]
@@ -350,7 +350,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Travel interrupts the illusion that your own way is just reality itself.",
+            "en": "Exactly right. Travel interrupts the illusion that your own way is just reality itself.",
             "zh": "完全沒錯。旅行會打斷一種幻覺，就是你原本那套方式好像就是現實本身。"
           },
           {
@@ -480,7 +480,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good travel English should sound observed, not inflated.",
+            "en": "Yes. Good travel English should sound observed, not inflated.",
             "zh": "完全沒錯。好的旅行英文，應該聽起來像真的觀察到，不是像灌了太多形容詞。"
           }
         ]
@@ -509,7 +509,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you want the trip to keep working on you, you have to absorb the trip a little more intentionally.",
+            "en": "Right. If you want the trip to keep working on you, you have to absorb the trip a little more intentionally.",
             "zh": "完全沒錯。如果你想讓那趟旅行持續對你起作用，你得更有意識地把它吸收進來。"
           },
           {
@@ -521,7 +521,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is often where the deeper learning happens. Not in the sightseeing, but in the interpretation afterward.",
+            "en": "Yes. that is often where the deeper learning happens. Not in the sightseeing, but in the interpretation afterward.",
             "zh": "對，而那很多時候才是比較深的學習真正發生的地方。不是在觀光的當下，而是在之後你怎麼解讀。"
           },
           {
@@ -581,7 +581,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best perspective shifts often make you less certain and more awake at the same time.",
+            "en": "Right. The best perspective shifts often make you less certain and more awake at the same time.",
             "zh": "完全沒錯。最好的觀點轉變，很多時候會讓你同時變得沒那麼武斷，卻又更清醒。"
           }
         ]
@@ -686,7 +686,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good trip planning should create structure without removing air.",
+            "en": "Yes. Good trip planning should create structure without removing air.",
             "zh": "完全沒錯。好的旅行規劃，應該是創造結構，而不是把空氣拿掉。"
           }
         ]
@@ -715,7 +715,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A flexible plan is often stronger than either total control or total chaos.",
+            "en": "That's the key. A flexible plan is often stronger than either total control or total chaos.",
             "zh": "完全沒錯。彈性的計畫，很多時候比完全控制和完全混亂都更強。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good travel English should sound practical and personal, not like a tourism brochure.",
+            "en": "I think so. Good travel English should sound practical and personal, not like a tourism brochure.",
             "zh": "完全沒錯。好用的旅行英文，應該聽起來實際又個人，不像觀光文宣。"
           }
         ]
@@ -821,7 +821,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Memory needs room. If the day becomes only transit and checklists, the trip can end up strangely thin.",
+            "en": "True. Memory needs room. If the day becomes only transit and checklists, the trip can end up strangely thin.",
             "zh": "完全沒錯。記憶是需要空間的。如果整天只剩移動和勾清單，整趟旅行最後就會變得很薄。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best plan often leaves you enough room to be surprised by your own day.",
+            "en": "That's true. The best plan often leaves you enough room to be surprised by your own day.",
             "zh": "完全沒錯。最好的計畫，往往就是它還替你留了足夠空間，讓你能被自己的這一天驚喜到。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Budget travel is really about choosing where cost matters and where comfort matters more.",
+            "en": "That is the point. Budget travel is really about choosing where cost matters and where comfort matters more.",
             "zh": "完全沒錯。預算旅行真正的核心，是選出哪裡成本最重要、哪裡舒服反而更重要。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. I would rather stay somewhere affordable and central than save a little more and spend two hours a day commuting.",
+            "en": "Exactly right. I would rather stay somewhere affordable and central than save a little more and spend two hours a day commuting.",
             "zh": "完全沒錯。我寧可住在一個負擔得起、又夠中心的位置，也不要再多省一點，卻每天多花兩小時在移動。"
           },
           {
@@ -1109,7 +1109,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good budget English should sound strategic and alive.",
+            "en": "Yes. Good budget English should sound strategic and alive.",
             "zh": "完全沒錯。好用的預算英文，應該聽起來有策略，也有生活感。"
           }
         ]
@@ -1150,7 +1150,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Once you know the heart of the trip, it gets easier to cut costs around it instead of through it.",
+            "en": "Precisely. Once you know the heart of the trip, it gets easier to cut costs around it instead of through it.",
             "zh": "完全沒錯。一旦你知道這趟旅行的核心是什麼，就會比較容易在它周圍省，而不是直接把它切掉。"
           },
           {
@@ -1215,7 +1215,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good choices can make a modest budget feel surprisingly spacious.",
+            "en": "Right. Good choices can make a modest budget feel surprisingly spacious.",
             "zh": "完全沒錯。好的選擇，真的會讓一個不大的預算感覺很有空間。"
           }
         ]
@@ -1349,7 +1349,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Confidence can sometimes make travelers arrogant. Curiosity keeps them teachable.",
+            "en": "Yes. Confidence can sometimes make travelers arrogant. Curiosity keeps them teachable.",
             "zh": "完全沒錯。自信有時候會讓旅人變得很自以為是；好奇則會讓人保持可受教。"
           },
           {
@@ -1361,7 +1361,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Adapt quickly when you can, but do not confuse speed with understanding.",
+            "en": "That's the key. Adapt quickly when you can, but do not confuse speed with understanding.",
             "zh": "完全沒錯。能快點適應當然很好，但不要把速度誤認成理解。"
           },
           {
@@ -1632,7 +1632,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Travel is one of the fastest ways to reveal everyday habits under pressure.",
+            "en": "I think so. Travel is one of the fastest ways to reveal everyday habits under pressure.",
             "zh": "完全沒錯。旅行是最快讓日常習慣在壓力下現形的方式之一。"
           }
         ]
@@ -1649,7 +1649,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A travel companion is not only someone you like. It is someone whose pace, preferences, and communication style can survive the trip.",
+            "en": "Indeed. A travel companion is not only someone you like. It is someone whose pace, preferences, and communication style can survive the trip.",
             "zh": "完全沒錯。旅伴不只是你喜歡的人，也是那種他的節奏、偏好和溝通方式能撐得過整趟旅行的人。"
           },
           {
@@ -1738,7 +1738,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good travel English should release pressure before it hardens into resentment.",
+            "en": "That's true. Good travel English should release pressure before it hardens into resentment.",
             "zh": "完全沒錯。好用的旅行英文，應該幫你在壓力還沒硬化成怨氣前先把它放掉。"
           }
         ]
@@ -1767,7 +1767,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Group dynamics show up quickly on a trip because there is less room to hide them.",
+            "en": "That is the point. Group dynamics show up quickly on a trip because there is less room to hide them.",
             "zh": "完全沒錯。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。"
           },
           {
@@ -1820,7 +1820,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Harmony can be fake. Trust is what lets people stay honest without blowing the trip apart.",
+            "en": "Exactly right. Harmony can be fake. Trust is what lets people stay honest without blowing the trip apart.",
             "zh": "完全沒錯。和諧有時候可以是假裝的；信任才是讓大家能誠實，又不會把整趟旅行炸掉的東西。"
           },
           {
@@ -1844,7 +1844,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Trips just teach it faster.",
+            "en": "Yes. Trips just teach it faster.",
             "zh": "完全沒錯。只是旅行會教得比較快而已。"
           }
         ]
@@ -2055,7 +2055,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good language gives re-entry a little grace.",
+            "en": "Right. Good language gives re-entry a little grace.",
             "zh": "完全沒錯。好的語言，會替重新進入日常這件事留一點 grace。"
           }
         ]
@@ -2084,7 +2084,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you bring something back consciously, the trip keeps working on your life instead of becoming only memory.",
+            "en": "Yes. If you bring something back consciously, the trip keeps working on your life instead of becoming only memory.",
             "zh": "完全沒錯。如果你有意識地帶回一點什麼，那趟旅行就會繼續對你的生活起作用，而不只是變成記憶。"
           },
           {

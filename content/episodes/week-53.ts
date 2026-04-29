@@ -86,7 +86,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why ordinary decisions suddenly feel heavier than they should.",
+            "en": "Yes. that is why ordinary decisions suddenly feel heavier than they should.",
             "zh": "對，所以很多平常的小決定，突然會變得比它原本應該有的重量還重。"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and then you can add: \"I may not know everything yet, but I do know my next honest move.\" That keeps the focus small and real.",
+            "en": "Yes. then you can add: \"I may not know everything yet, but I do know my next honest move.\" That keeps the focus small and real.",
             "zh": "對，然後你還可以接著說：「I may not know everything yet, but I do know my next honest move.」這樣就會把焦點放回小而真實的一步。"
           }
         ]
@@ -350,7 +350,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. We do not only leave habits. We leave versions of ourselves that knew how to survive there.",
+            "en": "Right. We do not only leave habits. We leave versions of ourselves that knew how to survive there.",
             "zh": "沒錯。我們放下的不只是習慣，也是在那個地方曾經懂得怎麼活下來的自己。"
           },
           {
@@ -415,7 +415,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Unfinished endings leave emotional residue, and that residue can follow you into the next relationship, job, or routine.",
+            "en": "Yes. Unfinished endings leave emotional residue, and that residue can follow you into the next relationship, job, or routine.",
             "zh": "沒錯。沒有好好結束的結束，會留下情緒殘留，而那些殘留會一路跟著你走進下一段關係、下一份工作，或下一種日常。"
           },
           {
@@ -480,7 +480,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It gives people a cleaner emotional exit.",
+            "en": "That's the key. It gives people a cleaner emotional exit.",
             "zh": "沒錯。它會讓人的情緒出口乾淨很多。"
           }
         ]
@@ -533,7 +533,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The body believes what the hands keep doing.",
+            "en": "I think so. The body believes what the hands keep doing.",
             "zh": "沒錯。手一直在做什麼，身體最後就會相信什麼。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good setup saves energy for the real work instead of wasting it on daily negotiations.",
+            "en": "Right. Good setup saves energy for the real work instead of wasting it on daily negotiations.",
             "zh": "沒錯。好的事前安排會把力氣留給真正的工作，而不是每天都耗在內心談判。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you can live inside it calmly, it will usually carry you much farther.",
+            "en": "That's true. If you can live inside it calmly, it will usually carry you much farther.",
             "zh": "沒錯。如果你能平靜地活在它裡面，它通常反而能把你帶得更遠。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. What gets named and marked is easier to release.",
+            "en": "That is the point. What gets named and marked is easier to release.",
             "zh": "沒錯。被命名、被標記過的東西，比較容易被真正放下。"
           }
         ]
@@ -1033,7 +1033,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Gratitude gives weight to the truth without pretending the season should continue.",
-            "zh": "非常是。感謝會讓真相有重量，但又不會假裝這個階段應該繼續。"
+            "zh": "沒錯。感謝會讓真相有重量，但又不會假裝這個階段應該繼續。"
           },
           {
             "speaker": "b",
@@ -1198,7 +1198,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. One helps you release with clarity, and the other helps you continue with trust.",
+            "en": "Exactly right. One helps you release with clarity, and the other helps you continue with trust.",
             "zh": "沒錯。一個幫你帶著清楚放下，另一個幫你帶著信任繼續。"
           },
           {

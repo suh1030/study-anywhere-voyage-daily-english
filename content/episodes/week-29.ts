@@ -204,7 +204,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The constraint is not limiting. It makes the one thing you pick feel worth your full attention.",
+            "en": "That's true. The constraint is not limiting. It makes the one thing you pick feel worth your full attention.",
             "zh": "沒錯。這個限制不是在縮減你，而是讓你選到的那一件事值得你全神貫注。"
           },
           {
@@ -269,7 +269,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Attention is finite. Whatever you fill it with becomes part of how you think.",
+            "en": "That is the point. Attention is finite. Whatever you fill it with becomes part of how you think.",
             "zh": "正是。注意力是有限的。你用什麼來填充它，就會成為你思考方式的一部分。"
           }
         ]
@@ -403,7 +403,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. There is a difference between processing an emotion through music and escaping it with music.",
+            "en": "Exactly right. There is a difference between processing an emotion through music and escaping it with music.",
             "zh": "沒錯。用音樂來處理情緒，和用音樂來逃離情緒，是兩件不同的事。"
           },
           {
@@ -562,7 +562,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Music is almost a form of time travel for the emotional brain.",
+            "en": "Yes. Music is almost a form of time travel for the emotional brain.",
             "zh": "沒錯。對情感大腦來說，音樂幾乎是一種時間旅行。"
           },
           {
@@ -773,7 +773,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say \"it depends on my mood\" which is honest and immediately relatable to anyone.",
+            "en": "Right. You can also say \"it depends on my mood\" which is honest and immediately relatable to anyone.",
             "zh": "沒錯。你也可以說「這要看我的心情」，這很誠實，任何人都能馬上理解。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The effort of putting it into your own words is where the actual learning happens.",
+            "en": "Right. The effort of putting it into your own words is where the actual learning happens.",
             "zh": "正是。用你自己的話把它表達出來，才是真正的學習發生的地方。"
           }
         ]
@@ -1085,7 +1085,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Now they want to know what it was, and the conversation starts naturally.",
+            "en": "Yes. Now they want to know what it was, and the conversation starts naturally.",
             "zh": "沒錯。現在他們想知道是什麼，對話就自然地開始了。"
           },
           {
@@ -1162,7 +1162,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If the middle episode holds your attention without any introduction, the show is doing its job.",
+            "en": "That's the key. If the middle episode holds your attention without any introduction, the show is doing its job.",
             "zh": "沒錯。如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
           }
         ]
@@ -1349,7 +1349,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
+            "en": "I think so. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
             "zh": "沒錯。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The selection reveals something about both the sender and the receiver.",
+            "en": "True. The selection reveals something about both the sender and the receiver.",
             "zh": "沒錯。那些選曲揭示了一些關於送出者和接收者兩個人的東西。"
           },
           {
@@ -1690,7 +1690,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Background music should support the conversation, not compete with it or take it over.",
+            "en": "That's true. Background music should support the conversation, not compete with it or take it over.",
             "zh": "沒錯。背景音樂應該支撐對話，而不是跟它競爭或把它蓋過去。"
           }
         ]
@@ -1772,7 +1772,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
+            "en": "That is the point. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
             "zh": "沒錯。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
           },
           {

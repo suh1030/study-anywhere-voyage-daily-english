@@ -45,7 +45,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Even a small family meal can become a celebration if people treat it like one.",
+            "en": "Exactly right. Even a small family meal can become a celebration if people treat it like one.",
             "zh": "沒錯。就算只是家人一起吃飯，只要大家帶著那種心情去面對，它也能成為一種慶祝。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why people keep making room for them.",
+            "en": "Yes. That is why people keep making room for them.",
             "zh": "沒錯。這也就是為什麼人們會一直替慶祝留位置。"
           }
         ]
@@ -369,7 +369,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People often protect meaning by adjusting form.",
+            "en": "Right. People often protect meaning by adjusting form.",
             "zh": "沒錯。很多人其實是透過調整形式，來保護真正的意義。"
           }
         ]
@@ -398,7 +398,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Small repeated details often carry the deepest feeling.",
+            "en": "Yes. Small repeated details often carry the deepest feeling.",
             "zh": "沒錯。真正帶著最深感覺的，常常是那些一直重複的小細節。"
           },
           {
@@ -504,7 +504,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If nobody can fit it into present life, people slowly stop doing it.",
+            "en": "That's the key. If nobody can fit it into present life, people slowly stop doing it.",
             "zh": "沒錯。如果它完全塞不進現在的生活，人就會慢慢不做了。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A simple gift can feel very warm, while an expensive one can still feel awkward.",
+            "en": "I think so. A simple gift can feel very warm, while an expensive one can still feel awkward.",
             "zh": "沒錯。一個簡單的禮物可以讓人覺得很溫暖，而一個很貴的禮物也可能還是讓人尷尬。"
           },
           {
@@ -727,7 +727,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Care shows up in fit, not only in money.",
+            "en": "Right. Care shows up in fit, not only in money.",
             "zh": "沒錯。關心會表現在適不適合，而不只是花多少錢。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. What matters is whether the gift fits the relationship and the moment.",
+            "en": "That's true. What matters is whether the gift fits the relationship and the moment.",
             "zh": "沒錯。真正重要的是，那份禮物是不是適合這段關係，也適合那個時刻。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A family table may hold love, comfort, unfinished tension, and expectation all at once.",
+            "en": "That is the point. A family table may hold love, comfort, unfinished tension, and expectation all at once.",
             "zh": "沒錯。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It only means there is a lot going on at once.",
+            "en": "Exactly right. It only means there is a lot going on at once.",
             "zh": "沒錯。它只是表示，很多東西在同時發生。"
           }
         ]
@@ -1044,7 +1044,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Family closeness is often built from repeated small recognitions.",
+            "en": "Yes. Family closeness is often built from repeated small recognitions.",
             "zh": "沒錯。家庭裡的親近感，很多時候是靠那些一直重複的小小認出感建立起來的。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It creates atmosphere. The smell, the table, and the waiting all become part of the feeling.",
+            "en": "True. It creates atmosphere. The smell, the table, and the waiting all become part of the feeling.",
             "zh": "沒錯。它會創造氣氛。味道、餐桌，還有等待的過程，全部都會變成那個感受的一部分。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A dish can hold a person, a place, or a season of life.",
+            "en": "Right. A dish can hold a person, a place, or a season of life.",
             "zh": "沒錯。一道菜可以裝著一個人、一個地方，或人生中的某一段時期。"
           },
           {
@@ -1356,7 +1356,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why people work hard to keep certain dishes present at special gatherings.",
+            "en": "Yes. that is why people work hard to keep certain dishes present at special gatherings.",
             "zh": "對。這也就是為什麼很多人會很努力地把某些特定食物保留在重要聚會裡。"
           },
           {
@@ -1368,7 +1368,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The effort itself can be part of the meaning.",
+            "en": "Yes. The effort itself can be part of the meaning.",
             "zh": "沒錯。那個用心本身，也可能就是意義的一部分。"
           }
         ]
@@ -1608,7 +1608,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A song can make people feel playful, proud, tender, or ready to move.",
+            "en": "That's the key. A song can make people feel playful, proud, tender, or ready to move.",
             "zh": "沒錯。一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is part of why group dancing can feel so powerful.",
+            "en": "I think so. That is part of why group dancing can feel so powerful.",
             "zh": "沒錯。這也是為什麼一群人一起跳舞，會那麼有力量。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It can make a person feel linked to family, place, or childhood all at once.",
+            "en": "Precisely. It can make a person feel linked to family, place, or childhood all at once.",
             "zh": "沒錯。它可能會讓一個人同時覺得自己連回家人、地方，還有童年。"
           },
           {
@@ -1815,7 +1815,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why people choose it so carefully for important moments.",
+            "en": "Yes. that is why people choose it so carefully for important moments.",
             "zh": "對。這也就是為什麼人會在重要時刻這麼仔細地挑音樂。"
           },
           {
@@ -1932,7 +1932,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why a gentle return matters after a meaningful event.",
+            "en": "That's true. That is why a gentle return matters after a meaningful event.",
             "zh": "沒錯。這也是為什麼，在一場有意義的活動之後，溫柔地回到日常很重要。"
           },
           {
@@ -1985,7 +1985,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is to let the meaning stay in a smaller form.",
+            "en": "That is the point. It is to let the meaning stay in a smaller form.",
             "zh": "沒錯。真正的重點，是讓那個意義用比較小的形式留下來。"
           },
           {
@@ -2079,7 +2079,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes the follow-up is what turns a nice event into a lasting memory.",
+            "en": "Exactly right. Sometimes the follow-up is what turns a nice event into a lasting memory.",
             "zh": "沒錯。有時候，真正把一場好活動變成長久回憶的，反而是後續的那一下。"
           },
           {

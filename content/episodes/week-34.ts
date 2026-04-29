@@ -86,7 +86,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Gentle activation done often will usually help more than dramatic effort done rarely.",
+            "en": "Right. Gentle activation done often will usually help more than dramatic effort done rarely.",
             "zh": "完全沒錯。常常做一點溫和啟動，通常比偶爾做一次很戲劇化的大強度更有幫助。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Everyday fitness lasts because it is woven into ordinary behavior.",
+            "en": "True. Everyday fitness lasts because it is woven into ordinary behavior.",
             "zh": "完全沒錯。日常體能之所以活得久，就是因為它被織進了普通行為裡。"
           },
           {
@@ -345,7 +345,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The reason matters because it changes how sustainable the habit feels.",
+            "en": "Precisely. The reason matters because it changes how sustainable the habit feels.",
             "zh": "完全沒錯。動機很重要，因為它會直接改變一個習慣可不可以長久。"
           },
           {
@@ -504,7 +504,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A flexible motive is often healthier than a rigid one.",
+            "en": "Indeed. A flexible motive is often healthier than a rigid one.",
             "zh": "完全沒錯。可以調整的動機，通常比僵硬的動機健康很多。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you hate every minute of a routine, that matters.",
+            "en": "True. If you hate every minute of a routine, that matters.",
             "zh": "完全沒錯。如果你每一分鐘都很討厭一套運動，這本身就是重要資訊。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sustainable movement is a compatibility problem as much as a discipline problem.",
+            "en": "Precisely. Sustainable movement is a compatibility problem as much as a discipline problem.",
             "zh": "完全沒錯。可持續的活動，一半是自律問題，另一半其實是相容性問題。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Stress reveals what habits are underneath the image.",
+            "en": "Indeed. Stress reveals what habits are underneath the image.",
             "zh": "完全沒錯。壓力會把一個人形象下面真正的習慣翻出來。"
           },
           {
@@ -1044,7 +1044,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It trains people to hold intensity without letting it turn ugly.",
+            "en": "That is right. It trains people to hold intensity without letting it turn ugly.",
             "zh": "完全沒錯。它是在訓練人怎麼承受強烈感，但不讓它變醜。"
           },
           {
@@ -1203,7 +1203,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They build character only if people are willing to look at what competition reveals.",
+            "en": "Precisely. They build character only if people are willing to look at what competition reveals.",
             "zh": "完全沒錯。運動只有在你願意看見競爭把什麼照出來時，才真的會培養性格。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The body is especially vulnerable to comparison because it feels so personal.",
+            "en": "Indeed. The body is especially vulnerable to comparison because it feels so personal.",
             "zh": "完全沒錯。身體這件事特別容易被比較傷到，因為它本來就很私人。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The healthiest routines usually care about performance and function more than optics.",
+            "en": "That is right. The healthiest routines usually care about performance and function more than optics.",
             "zh": "完全沒錯。比較健康的訓練，通常在意的是功能和表現，不是外觀效果。"
           },
           {
@@ -1384,7 +1384,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "How would I say it if I wanted to talk about fitness in a less appearance-focused way?",
+            "en": "Is there a natural phrase in English if I want to talk about fitness in a less appearance-focused way?",
             "zh": "如果我想用比較不以外表為中心的方式談健身，可以用哪些英文？"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal shifts from proving durability to building it wisely.",
+            "en": "That is true. The goal shifts from proving durability to building it wisely.",
             "zh": "完全沒錯。目標會從『證明自己多硬』變成『比較聰明地把耐用度建起來』。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best athletes age by changing the plan, not by pretending nothing changed.",
+            "en": "Indeed. The best athletes age by changing the plan, not by pretending nothing changed.",
             "zh": "完全沒錯。最好的運動者會透過改變計畫來變老，不是透過假裝什麼都沒變。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The body often responds better to partnership than to war.",
+            "en": "That is right. The body often responds better to partnership than to war.",
             "zh": "完全沒錯。身體很多時候對合作的反應，會比對戰爭好得多。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Internal signals become information instead of insults.",
+            "en": "That is true. Internal signals become information instead of insults.",
             "zh": "完全沒錯。身體內部的訊號會重新變成資訊，不是辱罵。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A better relationship begins when the body stops needing to earn basic respect.",
+            "en": "Yes. A better relationship begins when the body stops needing to earn basic respect.",
             "zh": "完全沒錯。比較好的關係，往往是從身體不再需要『賺』到基本尊重開始。"
           },
           {

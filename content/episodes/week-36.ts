@@ -33,7 +33,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Frictionless help can still raise real questions about skill, effort, and agency.",
+            "en": "Right. Frictionless help can still raise real questions about skill, effort, and agency.",
             "zh": "完全沒錯。沒有摩擦的幫忙，還是會把技能、努力和主動性這些真問題一起帶進來。"
           },
           {
@@ -57,7 +57,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. AI often changes how a task feels before people fully understand how it changes the task itself.",
+            "en": "Yes. AI often changes how a task feels before people fully understand how it changes the task itself.",
             "zh": "完全沒錯。AI 很常是先改變一件事『做起來的感覺』，然後人之後才慢慢看懂它到底怎麼改變了工作本身。"
           }
         ]
@@ -86,7 +86,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
+            "en": "That's the key. Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
             "zh": "完全沒錯。把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Deliberate use matters more than enthusiastic overuse.",
+            "en": "I think so. Deliberate use matters more than enthusiastic overuse.",
             "zh": "完全沒錯。有意識地使用，比很興奮地過度使用重要得多。"
           },
           {
@@ -398,7 +398,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Narrow strengths become very useful when the human around them knows the limits.",
+            "en": "That's true. Narrow strengths become very useful when the human around them knows the limits.",
             "zh": "完全沒錯。只要旁邊的人知道限制，這些偏窄的強項就會變得非常有用。"
           },
           {
@@ -504,7 +504,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Repeatable work with clear checks is where AI often shines.",
+            "en": "That is the point. Repeatable work with clear checks is where AI often shines.",
             "zh": "完全沒錯。可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A tool can be powerful without being wise.",
+            "en": "Exactly right. A tool can be powerful without being wise.",
             "zh": "完全沒錯。工具可以很有力量，但不一定有智慧。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Work tools always shape workers.",
+            "en": "Yes. Work tools always shape workers.",
             "zh": "完全沒錯。工作工具永遠也在塑造工作的人。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The human role often shifts upward into direction, refinement, and accountability.",
+            "en": "Right. The human role often shifts upward into direction, refinement, and accountability.",
             "zh": "完全沒錯。人的角色很多時候會往上移，變成方向、修整和責任承擔。"
           },
           {
@@ -821,7 +821,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Tool dependence becomes risky when thinking becomes passive.",
+            "en": "Right. Tool dependence becomes risky when thinking becomes passive.",
             "zh": "完全沒錯。當思考變被動，對工具的依賴就會開始變危險。"
           },
           {
@@ -874,7 +874,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. AI may lower the cost of drafting, but it raises the value of discernment.",
+            "en": "Yes. AI may lower the cost of drafting, but it raises the value of discernment.",
             "zh": "完全沒錯。AI 可能會降低起草的成本，但它同時也提高了分辨力的價值。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Plausible language can create false trust very quickly.",
+            "en": "That's the key. Plausible language can create false trust very quickly.",
             "zh": "完全沒錯。那種看起來很像真的語言，會很快製造出假的信任感。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Human judgment is where accountability still lives.",
+            "en": "I think so. Human judgment is where accountability still lives.",
             "zh": "完全沒錯。人類判斷其實就是責任還留著的地方。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Fact risk rises when speed, trust, and poor verification all stack together.",
+            "en": "True. Fact risk rises when speed, trust, and poor verification all stack together.",
             "zh": "完全沒錯。當速度、信任和缺乏驗證堆在一起時，事實風險就會上升。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Creative work depends on voice, friction, and taste, not only on output.",
+            "en": "That's true. Creative work depends on voice, friction, and taste, not only on output.",
             "zh": "完全沒錯。創作很依賴聲音、摩擦和品味，不是只依賴產量。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Voice preservation becomes the human job more than ever.",
+            "en": "That is the point. Voice preservation becomes the human job more than ever.",
             "zh": "完全沒錯。保留聲音這件事，現在比以前更像人類該守住的工作。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Prompt residue often shows up as generic smoothness without lived tension.",
+            "en": "Exactly right. Prompt residue often shows up as generic smoothness without lived tension.",
             "zh": "完全沒錯。prompt 的殘留感，常常就是那種『很順但沒有生活張力』的平滑。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Training data carries values, exclusions, and power patterns whether people name them or not.",
+            "en": "Yes. Training data carries values, exclusions, and power patterns whether people name them or not.",
             "zh": "完全沒錯。訓練資料不管有沒有被說出來，都會帶著價值觀、排除方式和權力模式。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Accountability chains matter even more when processes become harder to see.",
+            "en": "Precisely. Accountability chains matter even more when processes become harder to see.",
             "zh": "完全沒錯。當流程變得更難看清時，責任鏈反而更重要。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good defaults protect people before they have to protect themselves.",
+            "en": "Right. Good defaults protect people before they have to protect themselves.",
             "zh": "完全沒錯。好的預設值，是在人還沒來得及保護自己之前，就先幫人擋一部分。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Tool literacy eventually becomes life literacy.",
+            "en": "Yes. Tool literacy eventually becomes life literacy.",
             "zh": "完全沒錯。工具素養到最後，會慢慢變成生活素養。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Human distinctiveness lives in relation, interpretation, responsibility, and care.",
+            "en": "That's the key. Human distinctiveness lives in relation, interpretation, responsibility, and care.",
             "zh": "完全沒錯。人的獨特性其實活在關係、詮釋、責任和照顧裡。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some forms of judgment need time in order to stay human.",
+            "en": "I think so. Some forms of judgment need time in order to stay human.",
             "zh": "完全沒錯。有些判斷如果要保持像人，本來就需要時間。"
           },
           {

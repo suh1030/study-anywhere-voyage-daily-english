@@ -57,7 +57,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of growth feels awkward simply because it is still fresh.",
+            "en": "Right. A lot of growth feels awkward simply because it is still fresh.",
             "zh": "完全沒錯。很多成長會讓人覺得彆扭，單純是因為它還很新。"
           }
         ]
@@ -86,7 +86,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why getting reps in matters. Repetition gives the nervous system proof that unfamiliar does not mean impossible.",
+            "en": "Yes. That is why getting reps in matters. Repetition gives the nervous system proof that unfamiliar does not mean impossible.",
             "zh": "完全沒錯。這也就是為什麼累積練習次數很重要。重複，會讓你的神經系統慢慢相信，不熟不代表不可能。"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Honest learning language should leave room for growth, not freeze you in place.",
+            "en": "That's the key. Honest learning language should leave room for growth, not freeze you in place.",
             "zh": "完全沒錯。誠實的學習語言，應該替成長留空間，而不是把你凍在原地。"
           }
         ]
@@ -192,7 +192,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good feedback loop is short enough that you can still remember what you tried when you review it.",
+            "en": "I think so. A good feedback loop is short enough that you can still remember what you tried when you review it.",
             "zh": "完全沒錯。好的回饋循環，會短到你回頭看時還記得自己到底做了什麼。"
           },
           {
@@ -475,7 +475,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Useful growth language helps you interpret the moment more accurately.",
+            "en": "That's true. Useful growth language helps you interpret the moment more accurately.",
             "zh": "完全沒錯。好用的成長語言，會幫你把眼前這一刻解讀得更準。"
           }
         ]
@@ -528,7 +528,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best growth is demanding, but not cruel.",
+            "en": "That is the point. The best growth is demanding, but not cruel.",
             "zh": "完全沒錯。最好的成長，會要求你，但不會虐待你。"
           }
         ]
@@ -569,7 +569,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Growth does not only make you better at a task. It can make you braver around becoming.",
+            "en": "Exactly right. Growth does not only make you better at a task. It can make you braver around becoming.",
             "zh": "完全沒錯。成長不只是讓你把某個任務做得更好，它也可能讓你在『成為』這件事上更勇敢。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Adults often need systems that respect interruption instead of pretending interruption will disappear.",
+            "en": "Yes. Adults often need systems that respect interruption instead of pretending interruption will disappear.",
             "zh": "完全沒錯。大人需要的，很多時候是能尊重中斷的系統，而不是假裝中斷會消失的系統。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good learning English should sound steady, not ashamed.",
+            "en": "Right. Good learning English should sound steady, not ashamed.",
             "zh": "完全沒錯。好用的學習英文，應該聽起來穩，而不是羞愧。"
           }
         ]
@@ -821,7 +821,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Learning often happens below the surface for a while before it announces itself.",
+            "en": "Right. Learning often happens below the surface for a while before it announces itself.",
             "zh": "完全沒錯。學習很多時候會先在表面底下進行一陣子，之後才突然自己冒出來。"
           },
           {
@@ -991,7 +991,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Practice that protects your ego too much often protects your weakness too.",
+            "en": "Yes. Practice that protects your ego too much often protects your weakness too.",
             "zh": "完全沒錯。太保護 ego 的練習，很多時候也會順便保護住你的弱點。"
           },
           {
@@ -1044,7 +1044,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Awareness is often what turns repetition into improvement.",
+            "en": "That's the key. Awareness is often what turns repetition into improvement.",
             "zh": "完全沒錯。覺察，很多時候才是把重複變成進步的關鍵。"
           },
           {
@@ -1109,7 +1109,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good practice language should help you see what the hour was actually for.",
+            "en": "I think so. Good practice language should help you see what the hour was actually for.",
             "zh": "完全沒錯。好的練習語言，應該幫你看見那一小時到底是用來幹嘛的。"
           }
         ]
@@ -1421,7 +1421,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good language helps you stay in the process long enough to see what it was doing.",
+            "en": "True. Good language helps you stay in the process long enough to see what it was doing.",
             "zh": "完全沒錯。好的語言，會幫你在過程裡待得夠久，久到你看見它原來在做什麼。"
           }
         ]
@@ -1462,7 +1462,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is an active way of staying in relationship with a process that has not paid you back yet.",
+            "en": "That's true. It is an active way of staying in relationship with a process that has not paid you back yet.",
             "zh": "完全沒錯。那是一種主動地跟一個還沒回報你的過程保持關係的方式。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Comparison steals attention away from the actual method.",
+            "en": "That is the point. Comparison steals attention away from the actual method.",
             "zh": "完全沒錯。比較，會把你的注意力從真正的方法上偷走。"
           },
           {
@@ -1632,7 +1632,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Learning begins again the moment you become concrete.",
+            "en": "Exactly right. Learning begins again the moment you become concrete.",
             "zh": "完全沒錯。你一旦重新變具體，學習就又開始了。"
           }
         ]
@@ -1726,7 +1726,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if they offer useful feedback, you can say, 'That helps. I think I can adapt that to my own style.'",
+            "en": "Yes. And if they offer useful feedback, you can say, 'That helps. I think I can adapt that to my own style.'",
             "zh": "完全沒錯。如果對方給了有用回饋，你也可以接：「That helps. I think I can adapt that to my own style.」"
           },
           {
@@ -1738,7 +1738,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is not cloning. The goal is translation.",
+            "en": "Precisely. The goal is not cloning. The goal is translation.",
             "zh": "完全沒錯。目標不是複製，而是翻譯成自己的版本。"
           }
         ]
@@ -1937,7 +1937,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Growth sounds very different when it is an invitation instead of a verdict.",
+            "en": "Right. Growth sounds very different when it is an invitation instead of a verdict.",
             "zh": "完全沒錯。當成長聽起來像邀請，而不是判決時，整件事的味道就完全不一樣了。"
           },
           {
@@ -1990,7 +1990,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why an evolving standard matters. Your life changes, so your definition of better has to keep changing too.",
+            "en": "Yes. That is why an evolving standard matters. Your life changes, so your definition of better has to keep changing too.",
             "zh": "完全沒錯。這也就是為什麼一個會更新的標準很重要。你的生活會變，所以你對『更好』的定義也得跟著變。"
           },
           {
@@ -2055,7 +2055,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good growth language should sound lived, not marketed.",
+            "en": "That's the key. Good growth language should sound lived, not marketed.",
             "zh": "完全沒錯。好的成長語言，應該聽起來像活過，不像被行銷過。"
           }
         ]

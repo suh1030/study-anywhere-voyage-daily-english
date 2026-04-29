@@ -57,7 +57,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and once isolation drops, people often become more generous, more stable, and more able to help others too.",
+            "en": "Yes. once isolation drops, people often become more generous, more stable, and more able to help others too.",
             "zh": "對。而當孤立感下降，人常常也會變得更慷慨、更穩，甚至更有能力去幫別人。"
           }
         ]
@@ -98,7 +98,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Burned-out helping is still burnout. Good communities protect the helpers as well as the people being helped.",
+            "en": "That's true. Burned-out helping is still burnout. Good communities protect the helpers as well as the people being helped.",
             "zh": "沒錯。燒乾自己的幫忙，終究還是 burnout。好的社群會同時保護幫忙的人和被幫助的人。"
           },
           {
@@ -204,7 +204,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Community care often looks ordinary from the outside, but from the inside it can feel life-saving.",
+            "en": "That is the point. Community care often looks ordinary from the outside, but from the inside it can feel life-saving.",
             "zh": "沒錯。從外面看，社群照顧常常很普通；但從裡面的人來看，它可能像救命一樣。"
           },
           {
@@ -374,7 +374,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Advice too early can feel like being replaced before you were understood.",
+            "en": "Exactly right. Advice too early can feel like being replaced before you were understood.",
             "zh": "沒錯。建議來得太早，會讓人覺得自己還沒被理解，就已經被跳過了。"
           }
         ]
@@ -403,7 +403,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that can be deeply relieving. Many people calm down once the inside of their head starts sounding less chaotic outside of it.",
+            "en": "Yes. that can be deeply relieving. Many people calm down once the inside of their head starts sounding less chaotic outside of it.",
             "zh": "對，而那會讓人非常鬆。很多人是等到自己腦中的混亂，終於在外面聽起來沒那麼亂，人才開始 calm down。"
           },
           {
@@ -480,7 +480,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good listening often sounds simple because it is focused on the other person, not on your own performance.",
+            "en": "Yes. Good listening often sounds simple because it is focused on the other person, not on your own performance.",
             "zh": "沒錯。好的傾聽聽起來往往很簡單，因為它的焦點在對方，不是在自己的表現。"
           }
         ]
@@ -569,7 +569,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why listening is not passive at all. It actively changes what becomes possible between people.",
+            "en": "Yes. that is why listening is not passive at all. It actively changes what becomes possible between people.",
             "zh": "對。也正因如此，傾聽一點都不被動。它會主動改變人和人之間有哪些東西變得可能。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Local change usually grows through repetition, trust, and patient effort, not one perfect moment.",
+            "en": "Right. Local change usually grows through repetition, trust, and patient effort, not one perfect moment.",
             "zh": "沒錯。在地改變通常是靠重複、信任和耐心的努力長出來的，不是靠某一個完美瞬間。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that quiet trust can move a neighborhood more than a loud campaign can.",
+            "en": "Yes. that quiet trust can move a neighborhood more than a loud campaign can.",
             "zh": "對，而那種安靜的信任，有時候比一場很大聲的宣傳更能推動一個地方。"
           }
         ]
@@ -715,7 +715,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A good changemaker often cares about systems, relationships, and habits, not only one visible event.",
+            "en": "Yes. A good changemaker often cares about systems, relationships, and habits, not only one visible event.",
             "zh": "沒錯。好的 changemaker 通常在乎的是系統、關係和習慣，不只是某個看得見的活動。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Local impact often grows through ordinary usefulness.",
+            "en": "That's the key. Local impact often grows through ordinary usefulness.",
             "zh": "沒錯。在地影響力，很多時候就是從普通但有用開始長大的。"
           }
         ]
@@ -821,7 +821,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. They carry local knowledge that is practical and relational at the same time.",
+            "en": "I think so. They carry local knowledge that is practical and relational at the same time.",
             "zh": "沒錯。他們身上帶著一種在地知識，既實際，也非常關係導向。"
           },
           {
@@ -874,7 +874,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ask what is missing, what is duplicated, and where one extra pair of hands could really matter.",
+            "en": "Right. Ask what is missing, what is duplicated, and where one extra pair of hands could really matter.",
             "zh": "沒錯。去問：現在缺的是什麼、重複的是什麼，以及多一雙手在哪裡真的會有差。"
           },
           {
@@ -1109,7 +1109,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Respectful disagreement needs language that keeps both truth and relationship in view.",
+            "en": "That's true. Respectful disagreement needs language that keeps both truth and relationship in view.",
             "zh": "沒錯。帶著尊重的不同意，需要一種同時把真相和關係都放在眼前的語言。"
           }
         ]
@@ -1138,7 +1138,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A helpful leader might say, \"It sounds like we all care about the neighborhood, but we are protecting different parts of it.\" That reframes the room.",
+            "en": "That is the point. A helpful leader might say, \"It sounds like we all care about the neighborhood, but we are protecting different parts of it.\" That reframes the room.",
             "zh": "沒錯。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
           },
           {
@@ -1291,7 +1291,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Social-good technology is not impressive because it is advanced. It is impressive because it becomes useful where people are already struggling.",
+            "en": "Exactly right. Social-good technology is not impressive because it is advanced. It is impressive because it becomes useful where people are already struggling.",
             "zh": "沒錯。為社會有益的科技，不是因為很先進才厲害，而是因為它在大家本來就很辛苦的地方變得有用。"
           },
           {
@@ -1368,7 +1368,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good social design respects friction instead of pretending friction is a user flaw.",
+            "en": "Yes. Good social design respects friction instead of pretending friction is a user flaw.",
             "zh": "沒錯。好的社會設計會尊重摩擦，而不是把摩擦全怪到使用者頭上。"
           }
         ]
@@ -1421,7 +1421,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Technology becomes wiser when it stops confusing possibility with reality.",
+            "en": "True. Technology becomes wiser when it stops confusing possibility with reality.",
             "zh": "沒錯。當科技不再把「做得到」和「現實裡用得起來」混為一談時，它就會更聰明。"
           }
         ]
@@ -1608,7 +1608,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A child may not remember the speech, but they remember who delivered meals, who checked on neighbors, and who made room at the table.",
+            "en": "Right. A child may not remember the speech, but they remember who delivered meals, who checked on neighbors, and who made room at the table.",
             "zh": "沒錯。小孩也許不記得那些大道理，但會記得誰送飯、誰去關心鄰居、誰在餐桌邊多留了一個位置。"
           },
           {
@@ -1632,7 +1632,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and when that happens, people start seeing care as normal rather than exceptional.",
+            "en": "Yes. when that happens, people start seeing care as normal rather than exceptional.",
             "zh": "對。而當那件事發生時，人就會把照顧別人看成正常，不是特別偉大才做的事。"
           }
         ]
@@ -1673,7 +1673,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Wisdom without energy can stall. Energy without wisdom can repeat old mistakes. Together, they can make something much stronger.",
+            "en": "Yes. Wisdom without energy can stall. Energy without wisdom can repeat old mistakes. Together, they can make something much stronger.",
             "zh": "沒錯。只有智慧沒有動能，事情會停住；只有動能沒有智慧，又很容易重犯舊錯。兩者放在一起，才會變得更強。"
           },
           {
@@ -1779,7 +1779,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Repeated acts become muscle memory for kindness.",
+            "en": "That's the key. Repeated acts become muscle memory for kindness.",
             "zh": "沒錯。重複的動作，最後會變成善意的肌肉記憶。"
           },
           {
@@ -1820,7 +1820,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and it helps to explain the meaning too. People inherit values more deeply when they know not only what to do, but why it matters.",
+            "en": "Yes. it helps to explain the meaning too. People inherit values more deeply when they know not only what to do, but why it matters.",
             "zh": "對，而且把意義說出來也有幫助。當人不只知道怎麼做，也知道為什麼重要時，價值會傳得更深。"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. We do not control everything the next generation keeps, but we can offer them patterns worth inheriting.",
+            "en": "I think so. We do not control everything the next generation keeps, but we can offer them patterns worth inheriting.",
             "zh": "沒錯。我們不能控制下一代會留下什麼，但我們可以提供一些值得被繼承的模式。"
           },
           {
@@ -1937,7 +1937,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good community often feels invisible because it quietly prevents collapse.",
+            "en": "Precisely. Good community often feels invisible because it quietly prevents collapse.",
             "zh": "沒錯。好的社群常常很隱形，因為它安靜地防止崩塌。"
           },
           {
@@ -2002,7 +2002,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best support says, \"You are still fully a person here, even while you need something.\"",
+            "en": "That's true. The best support says, \"You are still fully a person here, even while you need something.\"",
             "zh": "沒錯。最好的支持會傳遞一句話：「就算你現在需要幫忙，你在這裡仍然完整是一個人。」"
           }
         ]
@@ -2108,7 +2108,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reliable people are part of what makes any community feel safe.",
+            "en": "That is the point. Reliable people are part of what makes any community feel safe.",
             "zh": "沒錯。可靠的人，本來就是任何社群安全感的一部分。"
           },
           {
@@ -2144,7 +2144,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best topics in an English app should connect back to life, and this one very clearly does.",
+            "en": "Exactly right. The best topics in an English app should connect back to life, and this one very clearly does.",
             "zh": "沒錯。英語 app 最好的主題，本來就應該能接回生活，而這個主題就是非常清楚地能。"
           },
           {

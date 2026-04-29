@@ -45,7 +45,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A fresh start does not belong to one date on the calendar. It can happen whenever your mind is ready to begin again.",
+            "en": "Right. A fresh start does not belong to one date on the calendar. It can happen whenever your mind is ready to begin again.",
             "zh": "沒錯。重新開始不屬於日曆上的某一個固定日期。只要你的心準備好了，它就可以發生。"
           },
           {
@@ -245,7 +245,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The test is whether you can return to it on an ordinary Tuesday.",
+            "en": "Yes. The test is whether you can return to it on an ordinary Tuesday.",
             "zh": "沒錯。真正的測試，是在一個很普通的星期二，你還回不回得來。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A demand has no room for being human. The first slip feels like total failure, so people just stop.",
+            "en": "That's the key. A demand has no room for being human. The first slip feels like total failure, so people just stop.",
             "zh": "沒錯。要求沒有任何讓你喘息的空間。第一次沒做到就像是徹底失敗，所以大家就乾脆放棄了。"
           },
           {
@@ -415,7 +415,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. An intention works differently — it gives direction without punishing every stumble. If you miss a day, you still know where you are heading.",
+            "en": "I think so. An intention works differently — it gives direction without punishing every stumble. If you miss a day, you still know where you are heading.",
             "zh": "沒錯。意圖的運作方式不同——它給你方向，但不會在你每次絆倒時懲罰你。就算你有一天漏掉了，你還是知道自己往哪裡走。"
           },
           {
@@ -667,7 +667,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A new mood can open the door, but a routine is what keeps it open.",
+            "en": "That's true. A new mood can open the door, but a routine is what keeps it open.",
             "zh": "沒錯。新的心情可以把門打開，但真正讓門維持打開的是日常。"
           },
           {
@@ -691,7 +691,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and then the person thinks the problem is motivation when the real problem is design.",
+            "en": "Yes. then the person thinks the problem is motivation when the real problem is design.",
             "zh": "對，於是這個人會以為問題是自己沒動力，但真正的問題其實是設計不好。"
           }
         ]
@@ -838,7 +838,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When a beginning is gentle enough to survive real life, it becomes much more powerful than a dramatic one.",
+            "en": "That is the point. When a beginning is gentle enough to survive real life, it becomes much more powerful than a dramatic one.",
             "zh": "沒錯。當一個開始溫柔到足以活過真實生活，它往往會比很戲劇化的開始更有力量。"
           },
           {
@@ -931,7 +931,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes you are dropping a habit, but sometimes you are dropping a story.",
+            "en": "Exactly right. Sometimes you are dropping a habit, but sometimes you are dropping a story.",
             "zh": "沒錯。有時候你放下的是一個習慣，有時候你放下的是一個故事。"
           },
           {
@@ -996,7 +996,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Skill and fit are not always the same thing.",
+            "en": "Yes. Skill and fit are not always the same thing.",
             "zh": "沒錯。你做得好，不等於它還適合你。"
           },
           {
@@ -1090,7 +1090,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Repetition builds attachment, so changing one repeated action can loosen the old hold.",
+            "en": "Right. Repetition builds attachment, so changing one repeated action can loosen the old hold.",
             "zh": "沒錯。重複會建立依附，所以只要改掉一個一直重複的動作，就可能開始鬆開舊的抓力。"
           },
           {

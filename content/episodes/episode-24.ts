@@ -62,7 +62,7 @@ export const EPISODE_24: Episode = {
       title: 'Rest as a Strategy',
       lines: [
         { speaker: 'a', speakerName: 'Mira', en: 'The science on rest and performance is pretty clear. Rest makes you better at work, not worse.', zh: '關於休息和表現的科學非常清楚，休息讓你在工作上表現更好，而不是更差。' },
-        { speaker: 'b', speakerName: 'Jamie', en: 'The brain needs downtime to process information and make creative connections.', zh: '大腦需要停機時間來處理信息和建立創意連結。', vocab: [{ word: 'downtime', def: 'time when you are not working or actively doing something' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: 'The brain needs downtime to process information and make creative connections.', zh: '大腦需要停機時間來處理資訊和建立創意連結。', vocab: [{ word: 'downtime', def: 'time when you are not working or actively doing something' }] },
         { speaker: 'a', speakerName: 'Mira', en: 'Some of the best ideas come in the shower or on a walk — not at your desk.', zh: '一些最好的想法來自淋浴或散步時——而不是在你的辦公桌前。' },
         { speaker: 'b', speakerName: 'Jamie', en: 'That\'s the "default mode network" activating. Your brain problem-solves in the background.', zh: '那是「預設模式網絡」的激活，你的大腦在背景中解決問題。', vocab: [{ word: 'default mode network', def: 'the brain\'s activity during rest that helps with creativity and insight' }] },
         { speaker: 'a', speakerName: 'Mira', en: 'So taking a break isn\'t procrastinating. It\'s giving your brain the space it needs.', zh: '所以休息不是拖延，而是給你的大腦它需要的空間。', vocab: [{ word: 'procrastinating', def: 'delaying tasks by doing less important things' }] },

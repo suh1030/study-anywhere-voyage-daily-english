@@ -33,7 +33,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. I can see the park and a little bit of the river if I stand by the window.",
+            "en": "Exactly right. I can see the park and a little bit of the river if I stand by the window.",
             "zh": "就是。我站在窗邊可以看到公園，還有一小段河景。"
           },
           {
@@ -356,7 +356,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. And I'd be paying off a mortgage for thirty years. That's half my life.",
+            "en": "Yes. And I'd be paying off a mortgage for thirty years. That's half my life.",
             "zh": "就是。而且我要還三十年的房貸。那是我半輩子的時間。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It's the biggest financial decision most people make. You need to do it for the right reasons.",
+            "en": "Right. It's the biggest financial decision most people make. You need to do it for the right reasons.",
             "zh": "就是。這是多數人做的最大財務決策。你需要為了正確的理由去做這件事。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Some things don't \"spark joy\" in a happy way, but you still want to keep them.",
+            "en": "Yes. Some things don't \"spark joy\" in a happy way, but you still want to keep them.",
             "zh": "就是。有些東西不會帶來「喜悅」，但你還是想留著它們。"
           },
           {
@@ -845,7 +845,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Intentional living over radical minimalism. Keep what adds value, release the rest.",
+            "en": "That's the key. Intentional living over radical minimalism. Keep what adds value, release the rest.",
             "zh": "就是。刻意生活比激進極簡更重要。留下增加價值的東西，放開其他的。"
           }
         ]
@@ -1138,7 +1138,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotions can escalate confrontations. Having a record keeps things objective.",
+            "en": "I think so. Emotions can escalate confrontations. Having a record keeps things objective.",
             "zh": "就是。情緒可能讓對抗升級。有紀錄讓事情保持客觀。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And why casinos use reds and oranges — to keep people alert and spending.",
+            "en": "Right. And why casinos use reds and oranges — to keep people alert and spending.",
             "zh": "就是。而賭場用紅色和橘色——讓人保持警覺和消費。"
           },
           {
@@ -1791,7 +1791,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. There are so many ways to personalize a rental without putting holes in things.",
+            "en": "That's true. There are so many ways to personalize a rental without putting holes in things.",
             "zh": "就是。有很多方法可以個性化租屋，又不用在東西上打洞。"
           }
         ]
@@ -1925,7 +1925,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Or a city you keep returning to and it feels familiar in a deep way.",
+            "en": "That is the point. Or a city you keep returning to and it feels familiar in a deep way.",
             "zh": "就是。或者你一直回去的城市，有種深層的熟悉感。"
           },
           {

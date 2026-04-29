@@ -40,7 +40,7 @@ export const EPISODE_22: Episode = {
         { speaker: 'a', speakerName: 'Mira', en: 'I\'ve learned that the wall usually means you\'re about to make a breakthrough.', zh: '我學到了這道牆通常意味著你即將取得突破。', vocab: [{ word: 'breakthrough', def: 'a sudden and significant improvement or discovery' }] },
         { speaker: 'b', speakerName: 'Jamie', en: 'That\'s a helpful reframe. The struggle is where the real learning happens.', zh: '那是一個有幫助的重新框架。掙扎是真正學習發生的地方。' },
         { speaker: 'a', speakerName: 'Mira', en: 'Sometimes switching the approach helps. Try a different format, or take a short break.', zh: '有時候改變方法有幫助，嘗試不同的格式，或者短暫休息一下。' },
-        { speaker: 'b', speakerName: 'Jamie', en: 'Sleep is underrated for learning. Your brain consolidates information while you rest.', zh: '睡眠對學習的作用被低估了，你的大腦在你休息時鞏固信息。', vocab: [{ word: 'consolidates', def: 'combines and strengthens stored information in memory' }] },
+        { speaker: 'b', speakerName: 'Jamie', en: 'Sleep is underrated for learning. Your brain consolidates information while you rest.', zh: '睡眠對學習的作用被低估了，你的大腦在你休息時鞏固所學的資訊。', vocab: [{ word: 'consolidates', def: 'combines and strengthens stored information in memory' }] },
         { speaker: 'a', speakerName: 'Mira', en: 'I\'ve had the experience of waking up and suddenly understanding something that was confusing the night before.', zh: '我有過醒來突然理解前一天晚上令人困惑的事情的經歷。' },
         { speaker: 'b', speakerName: 'Jamie', en: 'Same here. The brain is doing invisible work even when you\'re not actively studying.', zh: '我也是。大腦即使在你不主動學習的時候也在做無形的工作。' },
       ]

@@ -151,7 +151,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you need support, say, 'I can own this, but I need help on the other piece if we want to avoid dropping the ball.'",
+            "en": "That's true. And if you need support, say, 'I can own this, but I need help on the other piece if we want to avoid dropping the ball.'",
             "zh": "沒錯。如果你真的需要支援，也可以說：「I can own this, but I need help on the other piece if we want to avoid dropping the ball.」"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Strong pressure language is clear about both commitment and limit.",
+            "en": "That is the point. Strong pressure language is clear about both commitment and limit.",
             "zh": "完全沒錯。好的扛壓語言，會同時把承諾和限制講清楚。"
           }
         ]
@@ -192,7 +192,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Pressure gets dangerous when everything is treated as sacred.",
+            "en": "Exactly right. Pressure gets dangerous when everything is treated as sacred.",
             "zh": "完全沒錯。當你把每一件事都當成不能碰的聖物時，壓力就會開始變危險。"
           },
           {
@@ -252,7 +252,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you never come back down, the next pressure wave starts from a damaged place.",
+            "en": "Yes. If you never come back down, the next pressure wave starts from a damaged place.",
             "zh": "完全沒錯。如果你從來沒有真的降下來，下一波壓力就會從一個已經受損的位置開始。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Under pressure, the mind often mistakes intensity for importance.",
+            "en": "Right. Under pressure, the mind often mistakes intensity for importance.",
             "zh": "完全沒錯。壓力之下，大腦很容易把強烈感誤以為重要性。"
           },
           {
@@ -463,7 +463,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you need space, say, 'I can think more clearly if I take five minutes and come back to this.'",
+            "en": "Right. And if you need space, say, 'I can think more clearly if I take five minutes and come back to this.'",
             "zh": "完全沒錯。如果你需要空間，也可以說：「I can think more clearly if I take five minutes and come back to this.」"
           },
           {
@@ -504,7 +504,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Pressure loves vagueness because vagueness lets fear make the decision.",
+            "en": "Yes. Pressure loves vagueness because vagueness lets fear make the decision.",
             "zh": "完全沒錯。壓力最喜歡模糊，因為模糊會讓恐懼來代替你做決定。"
           },
           {
@@ -569,7 +569,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Better thinking under pressure often begins with a less dramatic relationship to the pressure itself.",
+            "en": "That's the key. Better thinking under pressure often begins with a less dramatic relationship to the pressure itself.",
             "zh": "完全沒錯。壓力下想得更好，很多時候是從你先不要用那麼戲劇化的方式看待壓力開始。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why pressure often scrambles judgment before the work itself is even sorted.",
+            "en": "I think so. That is why pressure often scrambles judgment before the work itself is even sorted.",
             "zh": "完全沒錯。也就是因為這樣，工作還沒分清楚之前，壓力就已經先把判斷打亂了。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People under pressure need ordering more than motivation.",
+            "en": "True. People under pressure need ordering more than motivation.",
             "zh": "完全沒錯。人在壓力下，比起動力，通常更需要的是排序。"
           }
         ]
@@ -792,7 +792,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good prioritizing language gives the room a path instead of just revealing your stress.",
+            "en": "That's true. Good prioritizing language gives the room a path instead of just revealing your stress.",
             "zh": "完全沒錯。好的優先排序語言，會替現場給出一條路，而不只是把你的壓力曝光而已。"
           }
         ]
@@ -833,7 +833,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It also becomes easier to move the deadline on lower-value tasks before they become dramatic.",
+            "en": "That is the point. It also becomes easier to move the deadline on lower-value tasks before they become dramatic.",
             "zh": "完全沒錯。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And usually a worse one.",
+            "en": "Exactly right. And usually a worse one.",
             "zh": "完全沒錯，而且通常是比較差的那種。"
           },
           {
@@ -991,7 +991,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Delay turns a manageable support request into a much heavier conversation.",
+            "en": "Yes. Delay turns a manageable support request into a much heavier conversation.",
             "zh": "完全沒錯。拖延會把本來還能處理的支援請求，變成一場更沉重的對話。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Asking early protects the work, the timeline, and the trust around you.",
+            "en": "Precisely. Asking early protects the work, the timeline, and the trust around you.",
             "zh": "完全沒錯。早點求助，保護的是工作、時程，還有你周圍的信任感。"
           }
         ]
@@ -1097,7 +1097,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you need to be even more direct, say, 'If we want this done well, I need support on the next step.'",
+            "en": "Right. And if you need to be even more direct, say, 'If we want this done well, I need support on the next step.'",
             "zh": "完全沒錯。如果你需要更直接，也可以說：「If we want this done well, I need support on the next step.」"
           },
           {
@@ -1150,7 +1150,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And once it becomes information, it is much easier to build a backup plan before the week falls apart.",
+            "en": "Yes. And once it becomes information, it is much easier to build a backup plan before the week falls apart.",
             "zh": "完全沒錯。一旦它變成資訊，你就比較容易在整週散掉之前，先建立備案。"
           },
           {
@@ -1174,7 +1174,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It protects the team from surprise, the project from hidden risk, and you from silent collapse.",
+            "en": "That's the key. It protects the team from surprise, the project from hidden risk, and you from silent collapse.",
             "zh": "完全沒錯。它保護的是團隊不要被突然嚇到、專案不要藏著風險，還有你自己不要默默垮掉。"
           },
           {
@@ -1198,7 +1198,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Mature teams do not reward secret suffering; they reward visibility and good timing.",
+            "en": "I think so. Mature teams do not reward secret suffering; they reward visibility and good timing.",
             "zh": "完全沒錯。成熟的團隊不應該獎勵祕密受苦，而是應該獎勵看得見的狀況和好的時機感。"
           },
           {
@@ -1315,7 +1315,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Coming down is a transition, not a switch.",
+            "en": "Indeed. Coming down is a transition, not a switch.",
             "zh": "完全沒錯。降下來是一個轉換過程，不是一個開關。"
           }
         ]
@@ -1356,7 +1356,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A low battery makes ordinary life feel louder.",
+            "en": "That's true. A low battery makes ordinary life feel louder.",
             "zh": "完全沒錯。電量很低的時候，普通生活都會聽起來比較吵。"
           },
           {
@@ -1409,7 +1409,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you need boundaries, say, 'I am checking out for the rest of the day unless something truly urgent comes up.'",
+            "en": "That is the point. And if you need boundaries, say, 'I am checking out for the rest of the day unless something truly urgent comes up.'",
             "zh": "完全沒錯。如果你需要界線，也可以說：「I am checking out for the rest of the day unless something truly urgent comes up.」"
           },
           {
@@ -1421,7 +1421,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Half-resting is one of the slowest ways to bounce back.",
+            "en": "Exactly right. Half-resting is one of the slowest ways to bounce back.",
             "zh": "完全沒錯。半休息其實是最慢恢復的方法之一。"
           }
         ]
@@ -1462,7 +1462,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Time off is helpful, but your system also needs a signal that it can stop bracing.",
+            "en": "Yes. Time off is helpful, but your system also needs a signal that it can stop bracing.",
             "zh": "完全沒錯。放假當然有幫助，可是你的系統也需要一個訊號，知道自己可以停止備戰了。"
           },
           {
@@ -1503,7 +1503,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And borrowed energy always comes with interest.",
+            "en": "Right. And borrowed energy always comes with interest.",
             "zh": "完全沒錯。而且借來的能量，最後都一定會有利息。"
           },
           {
@@ -1527,7 +1527,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Recovery is not a luxury for fragile people. It is maintenance for useful people.",
+            "en": "Yes. Recovery is not a luxury for fragile people. It is maintenance for useful people.",
             "zh": "完全沒錯。恢復不是脆弱的人才需要的奢侈品，它是想長期有用的人該做的維護。"
           }
         ]
@@ -1596,7 +1596,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Leadership under pressure is often about seeing strain before it turns visible enough to scare everybody.",
+            "en": "That's the key. Leadership under pressure is often about seeing strain before it turns visible enough to scare everybody.",
             "zh": "完全沒錯。壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。"
           },
           {
@@ -1620,7 +1620,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The leader sets the tone by helping the room feel challenged but not abandoned.",
+            "en": "I think so. The leader sets the tone by helping the room feel challenged but not abandoned.",
             "zh": "完全沒錯。帶頭的人是透過設定氣氛來做事，讓整個房間感覺自己在面對挑戰，但沒有被丟下。"
           },
           {
@@ -1673,7 +1673,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sometimes your job is to absorb the panic and pass down only the useful signal.",
+            "en": "True. Sometimes your job is to absorb the panic and pass down only the useful signal.",
             "zh": "完全沒錯。有時你的工作就是先吸收那一層恐慌，然後只把有用的訊號往下傳。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if the timeline needs honesty, say, 'I want to be realistic here. This is still possible, but the timeline is tight and we need to adjust accordingly.'",
+            "en": "That's true. And if the timeline needs honesty, say, 'I want to be realistic here. This is still possible, but the timeline is tight and we need to adjust accordingly.'",
             "zh": "完全沒錯。如果時程需要誠實一點，也可以說：「I want to be realistic here. This is still possible, but the timeline is tight and we need to adjust accordingly.」"
           },
           {
@@ -1738,7 +1738,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Strong leadership language lowers panic by increasing orientation.",
+            "en": "That is the point. Strong leadership language lowers panic by increasing orientation.",
             "zh": "完全沒錯。好的領導語言，是靠提高方向感來降低恐慌。"
           }
         ]
@@ -1767,7 +1767,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Pressure eats retention. Repetition becomes kindness when a team is overloaded.",
+            "en": "Exactly right. Pressure eats retention. Repetition becomes kindness when a team is overloaded.",
             "zh": "完全沒錯。壓力會吃掉記憶力。團隊過載時，重複其實是一種溫柔。"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good leaders support the team by making reality clearer and panic smaller.",
+            "en": "Yes. Good leaders support the team by making reality clearer and panic smaller.",
             "zh": "完全沒錯。好的帶頭者，是透過讓現實更清楚、讓恐慌更小，來支持團隊。"
           },
           {
@@ -1937,7 +1937,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If pressure becomes your normal, rest starts to feel suspicious instead of restorative.",
+            "en": "Precisely. If pressure becomes your normal, rest starts to feel suspicious instead of restorative.",
             "zh": "完全沒錯。如果壓力變成你的常態，休息就會開始看起來很可疑，而不是很有修復力。"
           },
           {
@@ -1990,7 +1990,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Without that outlet, pressure starts to leak into everything and call itself professionalism.",
+            "en": "Right. Without that outlet, pressure starts to leak into everything and call itself professionalism.",
             "zh": "完全沒錯。沒有出口的話，壓力就會開始滲進所有地方，然後還替自己取名叫專業。"
           },
           {
@@ -2043,7 +2043,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you notice your mind going extreme, say, 'I think I am slipping into all-or-nothing thinking here.'",
+            "en": "Yes. And if you notice your mind going extreme, say, 'I think I am slipping into all-or-nothing thinking here.'",
             "zh": "完全沒錯。如果你發現自己腦袋開始極端化，也可以說：「I think I am slipping into all-or-nothing thinking here.」"
           },
           {
@@ -2055,7 +2055,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Naming the pattern weakens it.",
+            "en": "That's the key. Naming the pattern weakens it.",
             "zh": "完全沒錯。你一把那個模式說出來，它就會變弱一點。"
           }
         ]
@@ -2096,7 +2096,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Margin protects judgment, kindness, and the ability to carry pressure without becoming pressure.",
+            "en": "I think so. Margin protects judgment, kindness, and the ability to carry pressure without becoming pressure.",
             "zh": "完全沒錯。空白保護的是判斷力、溫柔，還有你扛壓時不會反過來自己變成壓力本身的能力。"
           },
           {
@@ -2137,7 +2137,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A hard week can be real without becoming your identity.",
+            "en": "Indeed. A hard week can be real without becoming your identity.",
             "zh": "完全沒錯。艱難的一週可以是真的，但它不需要變成你的身份。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is a healthier relationship: pressure has a place in your life, but not the throne.",
+            "en": "That's true. That is a healthier relationship: pressure has a place in your life, but not the throne.",
             "zh": "完全沒錯。那就是比較健康的關係：壓力在你的人生裡可以有位置，但不能坐上王位。"
           },
           {

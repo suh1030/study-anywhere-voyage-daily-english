@@ -110,7 +110,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of support is not about solving. It is about making the difficult moment less solitary.",
+            "en": "Exactly right. A lot of support is not about solving. It is about making the difficult moment less solitary.",
             "zh": "沒錯。很多支持不是在解決問題，而是在讓那個困難時刻不要那麼孤單。"
           }
         ]
@@ -151,7 +151,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good help language lowers the other person's decision-making burden.",
+            "en": "Yes. Good help language lowers the other person's decision-making burden.",
             "zh": "沒錯。好的幫助語言，會降低對方還要額外做決定的負擔。"
           },
           {
@@ -245,7 +245,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Lasting help often looks very plain from the outside.",
+            "en": "Right. Lasting help often looks very plain from the outside.",
             "zh": "沒錯。真正留得住的幫助，從外面看往往都很平凡。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. But there is also a sense of responsibility some people carry more strongly than others.",
+            "en": "Yes. But there is also a sense of responsibility some people carry more strongly than others.",
             "zh": "沒錯。不過也有些人心裡本來就帶著比較強的責任感。"
           },
           {
@@ -427,7 +427,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of helping starts with recognition more than principle.",
+            "en": "That's the key. A lot of helping starts with recognition more than principle.",
             "zh": "對。很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
           }
         ]
@@ -468,7 +468,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People help for human reasons. History, mood, memory, recognition, habit.",
+            "en": "I think so. People help for human reasons. History, mood, memory, recognition, habit.",
             "zh": "沒錯。人會幫忙，是因為很人性的原因。歷史、心情、記憶、認出對方、還有習慣。"
           },
           {
@@ -533,7 +533,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If the situation is safe, act before self-consciousness turns the moment into a debate.",
+            "en": "Right. If the situation is safe, act before self-consciousness turns the moment into a debate.",
             "zh": "沒錯。如果情況是安全的，就在自我意識把那個瞬間變成辯論之前先動起來。"
           }
         ]
@@ -691,7 +691,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Control can dress itself up as generosity very convincingly.",
+            "en": "That's true. Control can dress itself up as generosity very convincingly.",
             "zh": "沒錯。控制有時候會把自己包裝成善意，而且包裝得很像。"
           }
         ]
@@ -773,7 +773,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also ask permission directly: 'Would it help if I shared a suggestion?'",
+            "en": "That is the point. You can also ask permission directly: 'Would it help if I shared a suggestion?'",
             "zh": "沒錯。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Maybe they want you to help with logistics, but not with the decision. Maybe they want company, not strategy.",
+            "en": "Exactly right. Maybe they want you to help with logistics, but not with the decision. Maybe they want company, not strategy.",
             "zh": "沒錯。也許對方要的是你幫他處理瑣事，但不是替他做決定；也許他要的是陪伴，不是策略。"
           },
           {
@@ -874,7 +874,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The helper does not take the lead unless you invite them to.",
+            "en": "Yes. The helper does not take the lead unless you invite them to.",
             "zh": "沒錯。幫忙的人不會自動站到前面去帶路，除非是你邀請他這麼做。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Your time, your peace, your energy, your clarity. Those count too.",
+            "en": "True. Your time, your peace, your energy, your clarity. Those count too.",
             "zh": "沒錯。你的時間、你的平靜、你的能量、你的清楚感，這些也都算數。"
           }
         ]
@@ -1150,7 +1150,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. People often grow because someone can tolerate their struggle without immediately removing it.",
+            "en": "Right. People often grow because someone can tolerate their struggle without immediately removing it.",
             "zh": "沒錯。很多人成長，是因為有人能陪著他經過那個掙扎，而不是立刻把掙扎拿掉。"
           },
           {
@@ -1215,7 +1215,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A healthy bond can hold honesty, limits, and care in the same room.",
+            "en": "Yes. A healthy bond can hold honesty, limits, and care in the same room.",
             "zh": "沒錯。一段健康的關係，能同時容納誠實、限制，還有關心。"
           }
         ]
@@ -1414,7 +1414,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Specific requests make it easy to help, and that is a gift too.",
+            "en": "That's the key. Specific requests make it easy to help, and that is a gift too.",
             "zh": "沒錯。具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
           },
           {
@@ -1532,7 +1532,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Receiving gracefully says, 'I trust this bond enough to let it hold me for a minute.'",
+            "en": "I think so. Receiving gracefully says, 'I trust this bond enough to let it hold me for a minute.'",
             "zh": "沒錯。把幫助收得優雅，其實是在說：「我信任這段關係，信任到可以讓它短暫地撐住我一下。」"
           }
         ]
@@ -1666,7 +1666,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Neighbors reduce the distance between a problem and a response.",
+            "en": "Precisely. Neighbors reduce the distance between a problem and a response.",
             "zh": "沒錯。鄰居的存在，會縮短問題出現和有人回應之間的距離。"
           },
           {
@@ -1784,7 +1784,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Recognition lowers friction. It makes tiny interactions less awkward.",
+            "en": "That's true. Recognition lowers friction. It makes tiny interactions less awkward.",
             "zh": "沒錯。被認出來會降低摩擦，也會讓那些小小的互動沒那麼尷尬。"
           },
           {
@@ -1820,7 +1820,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That kind of familiar distance can still be very comforting.",
+            "en": "That is the point. That kind of familiar distance can still be very comforting.",
             "zh": "沒錯。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
           },
           {
@@ -1925,7 +1925,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Lasting help is less dramatic and much more scheduled.",
+            "en": "Exactly right. Lasting help is less dramatic and much more scheduled.",
             "zh": "沒錯。長久的幫助比較不戲劇化，而且往往更像被排進行事曆的事。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It asks you to keep noticing without the reward of urgency.",
+            "en": "Yes. It asks you to keep noticing without the reward of urgency.",
             "zh": "沒錯。它要你持續注意，但沒有那種因為事情很急而帶來的即時感。"
           },
           {
@@ -2108,7 +2108,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Help lasts longer when it does not destroy the person offering it.",
+            "en": "Indeed. Help lasts longer when it does not destroy the person offering it.",
             "zh": "沒錯。幫助能走得更久，前提是它沒有先把出手的人耗壞。"
           }
         ]

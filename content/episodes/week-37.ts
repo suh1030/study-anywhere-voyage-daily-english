@@ -98,7 +98,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Health decisions are rarely about information alone. They are also about depletion.",
+            "en": "Right. Health decisions are rarely about information alone. They are also about depletion.",
             "zh": "完全沒錯。健康選擇很少只是資訊問題，它同時也是耗竭問題。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A gentle reset can be a short walk, an earlier night, or one meal eaten without multitasking.",
+            "en": "True. A gentle reset can be a short walk, an earlier night, or one meal eaten without multitasking.",
             "zh": "完全沒錯。所謂溫和重整，可能只是短短散步、早一點睡，或好好吃一餐不多工。"
           },
           {
@@ -350,7 +350,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Your inner weather matters even when no one else can see it clearly.",
+            "en": "Precisely. Your inner weather matters even when no one else can see it clearly.",
             "zh": "完全沒錯。你的內在天氣就算別人看不太出來，也還是很重要。"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The overwhelm point usually arrives long after the early changes begin.",
+            "en": "Indeed. The overwhelm point usually arrives long after the early changes begin.",
             "zh": "完全沒錯。所謂過載點，通常都是在那些早期變化開始很久之後才真正出現。"
           },
           {
@@ -755,7 +755,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What sounds natural if I want to say my mind feels noisy all the time?",
+            "en": "When I want to say my mind feels noisy all the time, what phrase would feel most natural?",
             "zh": "如果我想用英文說我的腦袋一直都很吵，可以怎麼講？"
           },
           {
@@ -826,7 +826,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A regulation practice might be slower breathing, a quiet walk, or putting space between yourself and the screen.",
+            "en": "True. A regulation practice might be slower breathing, a quiet walk, or putting space between yourself and the screen.",
             "zh": "完全沒錯。所謂調節練習，可能只是呼吸放慢、安靜散步，或刻意把自己和螢幕隔開一點。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Morning light matters more than people think because it helps the body remember time.",
+            "en": "Precisely. Morning light matters more than people think because it helps the body remember time.",
             "zh": "完全沒錯。早晨光線比大家以為的重要，因為它會幫身體重新記得時間。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A digital boundary helps for that reason too, because attention needs edges if it is going to rest.",
+            "en": "Indeed. A digital boundary helps for that reason too, because attention needs edges if it is going to rest.",
             "zh": "完全沒錯。數位界線也是同樣道理，因為注意力如果要休息，就需要邊界。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A sleep window matters because the brain loves rhythm more than heroics.",
+            "en": "That is right. A sleep window matters because the brain loves rhythm more than heroics.",
             "zh": "完全沒錯。固定睡眠時段很重要，因為大腦愛的是節奏，不是英雄式衝刺。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotional honesty works best when it comes with steadiness, not spectacle.",
+            "en": "Precisely. Emotional honesty works best when it comes with steadiness, not spectacle.",
             "zh": "完全沒錯。情緒誠實最有力量的時候，通常是它帶著穩定感，不是帶著奇觀感。"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Rest guilt is one reason people keep acting strong long after strength has become expensive.",
+            "en": "Indeed. Rest guilt is one reason people keep acting strong long after strength has become expensive.",
             "zh": "完全沒錯。休息罪惡感就是其中一個原因，讓人明明已經很勉強了，還繼續硬撐。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Emotional unpacking becomes possible when there is enough safety around the feelings.",
+            "en": "That is right. Emotional unpacking becomes possible when there is enough safety around the feelings.",
             "zh": "完全沒錯。只有當情緒周圍夠安全時，把心裡的東西慢慢打開整理才有可能。"
           },
           {
@@ -1772,7 +1772,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Recovery plan is not only about tasks. It is also about permission.",
+            "en": "That is true. Recovery plan is not only about tasks. It is also about permission.",
             "zh": "完全沒錯。恢復計畫不只是在安排事情，它同時也是在安排允許。"
           },
           {
@@ -1983,7 +1983,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A sustainable rhythm includes recovery as part of the design, not just as emergency repair.",
+            "en": "Indeed. A sustainable rhythm includes recovery as part of the design, not just as emergency repair.",
             "zh": "完全沒錯。可持續的節奏，會把恢復放進設計裡，而不是等壞掉了才拿來急救。"
           },
           {
@@ -2089,7 +2089,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Inner alignment matters because even success becomes tiring when it keeps betraying your real needs.",
+            "en": "That is right. Inner alignment matters because even success becomes tiring when it keeps betraying your real needs.",
             "zh": "完全沒錯。內在對齊很重要，因為如果一種成功一直背叛你的真實需要，它最後也會變得很累。"
           },
           {

@@ -403,7 +403,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That moment of, is this it, is often when real self-reflection starts.",
+            "en": "That's true. That moment of, is this it, is often when real self-reflection starts.",
             "zh": "沒錯。那個「就這樣？」的時刻，往往就是真正的自我反思開始的時候。"
           },
           {
@@ -533,7 +533,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Ambiguity is the enemy of momentum.",
+            "en": "That is the point. Ambiguity is the enemy of momentum.",
             "zh": "沒錯。模糊是動力的敵人。"
           }
         ]
@@ -785,7 +785,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The best career English for difficult topics is calm and clear, not defensive or apologetic.",
+            "en": "Exactly right. The best career English for difficult topics is calm and clear, not defensive or apologetic.",
             "zh": "沒錯。在困難話題上最好的職涯英文是平靜且清楚的，不是防衛性的或道歉性的。"
           },
           {
@@ -850,7 +850,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Clarity requires courage, and most people avoid it until something forces the question.",
+            "en": "Yes. Clarity requires courage, and most people avoid it until something forces the question.",
             "zh": "沒錯。清晰需要勇氣，大多數人都會逃避它，直到某件事強迫這個問題出現。"
           },
           {
@@ -1032,7 +1032,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The people who are clearest about their next step get the most useful referrals and introductions.",
+            "en": "Right. The people who are clearest about their next step get the most useful referrals and introductions.",
             "zh": "沒錯。對自己下一步最清楚的人，得到最有用的引薦和介紹。"
           },
           {
@@ -1138,7 +1138,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And a trusted friend can give you feedback. They can tell you if it sounds like you or if it sounds like something you read on a career website.",
+            "en": "Right. And a trusted friend can give you feedback. They can tell you if it sounds like you or if it sounds like something you read on a career website.",
             "zh": "沒錯。而且信任的朋友可以給你反饋。他們可以告訴你，它聽起來像你，還是像你從職涯網站上讀到的東西。"
           },
           {
@@ -1191,7 +1191,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the more you articulate the direction, the less time you spend second-guessing your choices.",
+            "en": "Yes. And the more you articulate the direction, the less time you spend second-guessing your choices.",
             "zh": "沒錯。而且你越是表達方向，你花在對自己選擇猶豫的時間就越少。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Real security often comes from being adaptable, not from staying in one place.",
+            "en": "That's the key. Real security often comes from being adaptable, not from staying in one place.",
             "zh": "沒錯。真正的安全感通常來自適應能力，而不是留在一個地方。"
           },
           {
@@ -1426,7 +1426,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Context makes decisions sound deliberate. And deliberate sounds trustworthy.",
+            "en": "I think so. Context makes decisions sound deliberate. And deliberate sounds trustworthy.",
             "zh": "沒錯。背景讓決定聽起來是深思熟慮的。而深思熟慮聽起來值得信賴。"
           }
         ]
@@ -1467,7 +1467,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Regret of inaction tends to outlast regret of action in most people's experience.",
+            "en": "True. Regret of inaction tends to outlast regret of action in most people's experience.",
             "zh": "沒錯。不作為的遺憾在大多數人的經驗中往往比行動的遺憾持續更久。"
           },
           {
@@ -1714,7 +1714,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. You can also say, I have been deliberately shifting my focus toward a different area. That language suggests intention, not accident.",
+            "en": "That's true. You can also say, I have been deliberately shifting my focus toward a different area. That language suggests intention, not accident.",
             "zh": "沒錯。你也可以說「I have been deliberately shifting my focus toward a different area」。那種語言暗示的是意圖，而不是偶然。"
           },
           {
@@ -1779,7 +1779,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A skill that is not named tends to stay invisible, even to the person who has it.",
+            "en": "That is the point. A skill that is not named tends to stay invisible, even to the person who has it.",
             "zh": "沒錯。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A job that matches your skills but not your values will sustain you for a while and then quietly drain you.",
+            "en": "Exactly right. A job that matches your skills but not your values will sustain you for a while and then quietly drain you.",
             "zh": "沒錯。一份符合你技能但不符合你價值觀的工作會支撐你一段時間，然後悄悄地耗盡你。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And it does not have to be a large project. Proposing a small process improvement counts.",
+            "en": "Yes. And it does not have to be a large project. Proposing a small process improvement counts.",
             "zh": "沒錯。而且不必是一個大型專案。提出一個小的流程改進就算數了。"
           },
           {
@@ -2161,7 +2161,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. There is no wrong time to start asking better questions about your own direction.",
+            "en": "Precisely. There is no wrong time to start asking better questions about your own direction.",
             "zh": "沒錯。開始對自己的方向問更好的問題，沒有錯誤的時間。"
           }
         ]

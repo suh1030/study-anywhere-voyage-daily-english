@@ -57,7 +57,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Healthy balance often starts with ending on purpose, not only stopping from exhaustion.",
+            "en": "Right. Healthy balance often starts with ending on purpose, not only stopping from exhaustion.",
             "zh": "完全沒錯。健康的平衡，常常是從你有意識地收工開始，而不是等累到動不了才停。"
           }
         ]
@@ -86,7 +86,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and the brain starts treating that low-grade stress like background noise, even though it is still draining energy.",
+            "en": "Yes. the brain starts treating that low-grade stress like background noise, even though it is still draining energy.",
             "zh": "對，而且大腦會慢慢把那種低程度壓力當成背景噪音，即使它其實還是在耗能。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why rest sometimes feels fake when the nervous system never got the message that the workday is over.",
+            "en": "Yes. That is why rest sometimes feels fake when the nervous system never got the message that the workday is over.",
             "zh": "完全沒錯。所以當神經系統根本沒收到『今天工作結束了』這個訊息時，休息就會顯得很假。"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good boundary language makes recovery sound like part of doing good work.",
+            "en": "That's the key. Good boundary language makes recovery sound like part of doing good work.",
             "zh": "完全沒錯。好的界線語言，會讓恢復聽起來像把工作做好的一部分。"
           }
         ]
@@ -192,7 +192,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A shutdown ritual works because it gives your system a clear handoff instead of a blurry fade-out.",
+            "en": "I think so. A shutdown ritual works because it gives your system a clear handoff instead of a blurry fade-out.",
             "zh": "完全沒錯。收工儀式有用，是因為它給整個系統一個清楚交接，而不是很模糊地慢慢淡掉。"
           },
           {
@@ -357,7 +357,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A mental tab stays open when the brain cannot tell whether the situation is over yet.",
+            "en": "That's true. A mental tab stays open when the brain cannot tell whether the situation is over yet.",
             "zh": "完全沒錯。只要大腦還分不清那件事到底有沒有真的結束，那個心理分頁就會一直開著。"
           },
           {
@@ -475,7 +475,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good language gives the transition a little dignity.",
+            "en": "That is the point. Good language gives the transition a little dignity.",
             "zh": "完全沒錯。好的語言，會讓轉場這件事多一點被尊重的空間。"
           }
         ]
@@ -504,7 +504,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Not everything needs to be solved tonight for tonight to stop being work.",
+            "en": "Exactly right. Not everything needs to be solved tonight for tonight to stop being work.",
             "zh": "完全沒錯。不是每件事都要今晚解決，今晚才算不再是工作。"
           },
           {
@@ -581,7 +581,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is not only less work. It is more life inside the hours after work.",
+            "en": "Yes. The goal is not only less work. It is more life inside the hours after work.",
             "zh": "完全沒錯。目標不只是工作變少，而是下班後那些小時裡真的有更多生活。"
           }
         ]
@@ -686,7 +686,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Rest guilt often says more about the story you learned than about the afternoon itself.",
+            "en": "Right. Rest guilt often says more about the story you learned than about the afternoon itself.",
             "zh": "完全沒錯。休息的罪惡感，很多時候反映的是你從前學到的故事，不是那個下午本身有問題。"
           }
         ]
@@ -792,7 +792,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good rest language makes recovery sound like reality, not luxury.",
+            "en": "Right. Good rest language makes recovery sound like reality, not luxury.",
             "zh": "完全沒錯。好的休息語言，會讓恢復聽起來像現實需求，不像奢侈品。"
           }
         ]
@@ -833,7 +833,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why do-nothing time can matter. It gives the nervous system a chance to exist without proving anything.",
+            "en": "Yes. That is why do-nothing time can matter. It gives the nervous system a chance to exist without proving anything.",
             "zh": "完全沒錯。所以『什麼都不做的時間』才會那麼重要。它會給神經系統一個機會，單純存在，不用證明什麼。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good boundaries are often what let usefulness survive.",
+            "en": "That's the key. Good boundaries are often what let usefulness survive.",
             "zh": "完全沒錯。好的界線，很多時候正是讓有用這件事活得下來的條件。"
           }
         ]
@@ -1044,7 +1044,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Boundaries work better when they are clear and realistic, not dramatic and impossible to maintain.",
+            "en": "I think so. Boundaries work better when they are clear and realistic, not dramatic and impossible to maintain.",
             "zh": "完全沒錯。界線要有效，通常靠的是清楚又現實，不是很戲劇化卻根本維持不了。"
           },
           {
@@ -1150,7 +1150,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Healthy boundaries are often a culture issue long before they are a discipline issue.",
+            "en": "True. Healthy boundaries are often a culture issue long before they are a discipline issue.",
             "zh": "完全沒錯。健康的界線，很多時候在變成自律問題之前，其實就先是一個文化問題。"
           },
           {
@@ -1198,7 +1198,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The healthiest boundary is often just a clear yes and a clear not-now.",
+            "en": "That's true. The healthiest boundary is often just a clear yes and a clear not-now.",
             "zh": "完全沒錯。最健康的界線，很多時候只是很清楚的 yes，和很清楚的 not-now。"
           },
           {
@@ -1356,7 +1356,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and also a fuller identity. When work is hard, it helps to remember you are more than your inbox and your role.",
+            "en": "Yes. also a fuller identity. When work is hard, it helps to remember you are more than your inbox and your role.",
             "zh": "對，而且它也會把比較完整的身份感還給你。當工作很重的時候，記得自己不只是一個 inbox 和一個職位，真的很重要。"
           },
           {
@@ -1462,7 +1462,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If something feeds your life, it should not always have to beg for the scraps of your week.",
+            "en": "That is the point. If something feeds your life, it should not always have to beg for the scraps of your week.",
             "zh": "完全沒錯。如果某件事真的有在餵養你的生活，它就不該永遠只能撿你一週剩下的碎屑。"
           },
           {
@@ -1632,7 +1632,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Work can become emotionally addictive when the rest of life feels fuzzier.",
+            "en": "Exactly right. Work can become emotionally addictive when the rest of life feels fuzzier.",
             "zh": "完全沒錯。當生活其他部分顯得比較模糊時，工作很容易變成一種情緒上的上癮源。"
           }
         ]
@@ -1767,7 +1767,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A larger life usually comes back through ordinary things, not through one big revelation.",
+            "en": "Yes. A larger life usually comes back through ordinary things, not through one big revelation.",
             "zh": "完全沒錯。比較大的生活感，通常是從一些很普通的東西慢慢回來的，不是靠某個超大的頓悟。"
           },
           {
@@ -1949,7 +1949,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A humane schedule is often a more intelligent schedule too.",
+            "en": "Precisely. A humane schedule is often a more intelligent schedule too.",
             "zh": "完全沒錯。一個比較有人味的行程，通常也會是一個更聰明的行程。"
           }
         ]
@@ -2055,7 +2055,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Sustainable rhythm is usually something you build, not something you accidentally stumble into.",
+            "en": "Right. Sustainable rhythm is usually something you build, not something you accidentally stumble into.",
             "zh": "完全沒錯。可持續的節奏，通常是你刻意蓋出來的，不是剛好運氣好踩到的。"
           }
         ]
@@ -2096,7 +2096,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A livable pace is often less about optimization and more about repeatedly honoring the basics.",
+            "en": "Yes. A livable pace is often less about optimization and more about repeatedly honoring the basics.",
             "zh": "完全沒錯。住得下去的節奏，很多時候比較不是最佳化，而是一次又一次尊重那些最基本的事。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The goal is to build a life that does not keep asking you to endure what should have been redesigned.",
+            "en": "That's the key. The goal is to build a life that does not keep asking you to endure what should have been redesigned.",
             "zh": "完全沒錯。目標是把生活蓋成一種不會一直逼你去硬撐那些本來就應該重設的東西。"
           },
           {

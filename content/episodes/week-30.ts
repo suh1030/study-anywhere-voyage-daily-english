@@ -33,7 +33,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Books often represent attention before they represent progress.",
+            "en": "Exactly right. Books often represent attention before they represent progress.",
             "zh": "完全沒錯。書很多時候先代表的是注意力，之後才代表進度。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Deep reading gives the mind a longer runway.",
+            "en": "Yes. Deep reading gives the mind a longer runway.",
             "zh": "完全沒錯。深度閱讀會給大腦一條比較長的跑道。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good reading habits survive because they are hospitable, not intimidating.",
+            "en": "Right. Good reading habits survive because they are hospitable, not intimidating.",
             "zh": "完全沒錯。好的閱讀習慣之所以活得下來，是因為它對你有邀請感，不是讓人害怕。"
           },
           {
@@ -362,7 +362,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Slower input often creates deeper processing.",
+            "en": "Yes. Slower input often creates deeper processing.",
             "zh": "完全沒錯。比較慢的輸入，通常反而會帶來更深的消化。"
           },
           {
@@ -374,7 +374,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and that is why it can feel restorative even when the book itself is challenging.",
+            "en": "Yes. that is why it can feel restorative even when the book itself is challenging.",
             "zh": "對，所以就算那本書本身不輕鬆，閱讀還是可能有修復感。"
           }
         ]
@@ -403,7 +403,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reading invites contemplation instead of constant reaction.",
+            "en": "That's the key. Reading invites contemplation instead of constant reaction.",
             "zh": "完全沒錯。閱讀會邀請你進入沉思，而不是一直做反應。"
           },
           {
@@ -480,7 +480,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Slow can be vivid when your attention is finally intact.",
+            "en": "I think so. Slow can be vivid when your attention is finally intact.",
             "zh": "完全沒錯。當注意力終於完整時，慢其實會很鮮明。"
           }
         ]
@@ -509,7 +509,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. If you want a slower mind, you often need a slower doorway into it.",
+            "en": "Right. If you want a slower mind, you often need a slower doorway into it.",
             "zh": "完全沒錯。如果你想要比較慢的腦，很多時候你也需要一個比較慢的入口。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reading thrives when the setup is welcoming.",
+            "en": "That's true. Reading thrives when the setup is welcoming.",
             "zh": "完全沒錯。當整個設置有邀請感，閱讀就比較長得起來。"
           }
         ]
@@ -727,7 +727,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. When the promise is believable, your body stops bracing against it.",
+            "en": "That is the point. When the promise is believable, your body stops bracing against it.",
             "zh": "完全沒錯。當那個承諾是真的可信的，你的身體就不會一直對它防備。"
           },
           {
@@ -792,7 +792,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Habit language is strongest when it connects action to environment.",
+            "en": "Exactly right. Habit language is strongest when it connects action to environment.",
             "zh": "完全沒錯。談習慣的語言，當它把行動和環境連起來時會最有力量。"
           }
         ]
@@ -821,7 +821,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reading needs enough structure to lower friction, and a simple habit stack can help a lot.",
+            "en": "Yes. Reading needs enough structure to lower friction, and a simple habit stack can help a lot.",
             "zh": "完全沒錯。閱讀需要的是足夠的結構，好把摩擦降下來，而把閱讀接在固定動作後面，通常也很有幫助。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A notebook can be a thinking space, not just a storage space.",
+            "en": "True. A notebook can be a thinking space, not just a storage space.",
             "zh": "完全沒錯。筆記本可以是思考空間，不只是儲存空間。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The page often receives feelings before the voice can carry them.",
+            "en": "Right. The page often receives feelings before the voice can carry them.",
             "zh": "完全沒錯。很多感受是先被紙頁接住，聲音才慢慢學會怎麼把它們帶出去。"
           }
         ]
@@ -1032,7 +1032,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Notes create a second chance to think.",
+            "en": "Yes. Notes create a second chance to think.",
             "zh": "完全沒錯。筆記會替你創造第二次思考的機會。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Choice deepens memory.",
+            "en": "That's the key. Choice deepens memory.",
             "zh": "完全沒錯。選擇會把記憶變深。"
           }
         ]
@@ -1308,7 +1308,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Writing is slow exposure to your own mind.",
+            "en": "I think so. Writing is slow exposure to your own mind.",
             "zh": "完全沒錯。寫作很像是慢速地把自己的腦攤在面前。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A sentence can become a handle on something slippery.",
+            "en": "Precisely. A sentence can become a handle on something slippery.",
             "zh": "完全沒錯。一個句子可以變成一個把手，讓你抓住原本很滑的東西。"
           },
           {
@@ -1426,7 +1426,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good writing language gives people a kinder entry point into the work.",
+            "en": "That's true. Good writing language gives people a kinder entry point into the work.",
             "zh": "完全沒錯。好的寫作語言，會給人一個比較善良的入口。"
           }
         ]
@@ -1625,7 +1625,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is intimacy with language, thought, and another mind.",
+            "en": "That is the point. It is intimacy with language, thought, and another mind.",
             "zh": "完全沒錯。那是一種和語言、思想，還有另一個頭腦之間的親密。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reading can create felt connection even in physical aloneness.",
+            "en": "Exactly right. Reading can create felt connection even in physical aloneness.",
             "zh": "完全沒錯。就算身體上是一個人，閱讀也能創造一種有感的連結。"
           },
           {
@@ -1678,7 +1678,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and sometimes they are the friend who gives language to parts of you that no one nearby has named.",
+            "en": "Yes. sometimes they are the friend who gives language to parts of you that no one nearby has named.",
             "zh": "對，而且有時候他們更像是那種朋友：會替你身邊沒有人命名過的部分找到語言。"
           },
           {
@@ -1784,7 +1784,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A book can become a container for the kind of inwardness daily life keeps trying to interrupt.",
+            "en": "Yes. A book can become a container for the kind of inwardness daily life keeps trying to interrupt.",
             "zh": "完全沒錯。一本書可以變成一個容器，裝住那種日常生活一直想打斷的內向時間。"
           },
           {
@@ -1930,7 +1930,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Books become landmarks in a person's inner landscape.",
+            "en": "Indeed. Books become landmarks in a person's inner landscape.",
             "zh": "完全沒錯。書會慢慢變成一個人內在地景裡的地標。"
           },
           {
@@ -1983,7 +1983,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Reading expands the number of lives you can enter, and writing deepens the life you are already living.",
+            "en": "Right. Reading expands the number of lives you can enter, and writing deepens the life you are already living.",
             "zh": "完全沒錯。閱讀會擴大你能進入的生命數量，寫作則會加深你已經在過的那個生命。"
           },
           {
@@ -2089,7 +2089,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lifelong reading life is adaptable. It bends instead of breaking, and that is how a reading identity survives.",
+            "en": "Yes. A lifelong reading life is adaptable. It bends instead of breaking, and that is how a reading identity survives.",
             "zh": "完全沒錯。一個能維持一輩子的閱讀生活，是會調整的。它會彎，不會直接斷，而讀者這個身份感也就是這樣活下來的。"
           },
           {

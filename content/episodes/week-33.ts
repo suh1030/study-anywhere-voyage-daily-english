@@ -86,7 +86,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Light, distance, movement, and weather all tell the body that it is living in a real world, not only in a task list.",
+            "en": "Right. Light, distance, movement, and weather all tell the body that it is living in a real world, not only in a task list.",
             "zh": "完全沒錯。光線、距離、移動和天氣，都會提醒身體：自己活在一個真實世界裡，不只是活在待辦清單裡。"
           },
           {
@@ -192,7 +192,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A small outdoor ritual is often more realistic than a dramatic lifestyle change.",
+            "en": "True. A small outdoor ritual is often more realistic than a dramatic lifestyle change.",
             "zh": "完全沒錯。一個小小的戶外儀式，通常比很戲劇化的生活改造更實際。"
           },
           {
@@ -257,7 +257,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is not always the size of the place. It is the kind of relationship the place makes possible.",
+            "en": "Precisely. It is not always the size of the place. It is the kind of relationship the place makes possible.",
             "zh": "完全沒錯。重點不一定在那個地方有多大，而在於它讓你和世界建立了什麼樣的關係。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is part of why emotional regulation becomes easier outdoors.",
+            "en": "Indeed. That is part of why emotional regulation becomes easier outdoors.",
             "zh": "完全沒錯。這也是為什麼，人在戶外時情緒調節常常會比較容易。"
           },
           {
@@ -509,7 +509,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It often responds to contrast more than quantity.",
+            "en": "True. It often responds to contrast more than quantity.",
             "zh": "完全沒錯。它很多時候比較是在回應對比，不是在計算數量。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It gives the day one living point of contact before everything becomes abstract again.",
+            "en": "Precisely. It gives the day one living point of contact before everything becomes abstract again.",
             "zh": "完全沒錯。它會在一切又重新變得很抽象之前，先替這一天留下一個和活著的東西接觸的點。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The city still gives people openings if they learn where to look.",
+            "en": "Indeed. The city still gives people openings if they learn where to look.",
             "zh": "完全沒錯。城市還是會給人出口，只要你開始知道該往哪裡看。"
           }
         ]
@@ -727,7 +727,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Many good habits survive because they are humble.",
+            "en": "That is right. Many good habits survive because they are humble.",
             "zh": "完全沒錯。很多好的習慣之所以活得下來，就是因為它們夠謙卑。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Effort changes the texture of reward.",
+            "en": "Precisely. Effort changes the texture of reward.",
             "zh": "完全沒錯。努力會改變收穫本身的質地。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is harder to fake because it lives in the body.",
+            "en": "Indeed. It is harder to fake because it lives in the body.",
             "zh": "完全沒錯。它比較難假裝，因為它是活在身體裡的。"
           }
         ]
@@ -1138,7 +1138,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Respecting different paces is part of the ethics of the trail.",
+            "en": "That is right. Respecting different paces is part of the ethics of the trail.",
             "zh": "完全沒錯。尊重彼此不同的速度，本來就是山路上的一種倫理。"
           },
           {
@@ -1203,7 +1203,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That is why some climbs stay with people long after the soreness leaves.",
+            "en": "That is true. That is why some climbs stay with people long after the soreness leaves.",
             "zh": "完全沒錯。這也就是為什麼，有些山路在人酸痛退掉之後還會留很久。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Outdoor play teaches frustration tolerance and sensory richness at the same time.",
+            "en": "Indeed. Outdoor play teaches frustration tolerance and sensory richness at the same time.",
             "zh": "完全沒錯。戶外遊戲會同時教挫折容忍和感官豐富度。"
           },
           {
@@ -1384,7 +1384,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What sounds natural if I want to talk about this issue without sounding preachy?",
+            "en": "When I want to talk about this issue without sounding preachy, what phrase would feel most natural?",
             "zh": "如果我想用英文談這個議題，但又不想聽起來像在說教，可以怎麼講？"
           },
           {
@@ -1613,7 +1613,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Surface beauty can hide ecological stress.",
+            "en": "That is right. Surface beauty can hide ecological stress.",
             "zh": "完全沒錯。表面的漂亮，有時候會把生態壓力蓋住。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Respectful travel starts by decentering the visitor a little.",
+            "en": "That is true. Respectful travel starts by decentering the visitor a little.",
             "zh": "完全沒錯。尊重的旅行很多時候是先讓旅人自己退到旁邊一點。"
           },
           {
@@ -1772,7 +1772,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Protecting a place often means refusing to maximize your own experience at its expense.",
+            "en": "Yes. Protecting a place often means refusing to maximize your own experience at its expense.",
             "zh": "完全沒錯。保護一個地方，很多時候就是拒絕為了把自己玩到最滿，而讓它付出代價。"
           },
           {
@@ -2084,7 +2084,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A coexistence mindset is made of repeated small choices.",
+            "en": "That is right. A coexistence mindset is made of repeated small choices.",
             "zh": "完全沒錯。所謂共存思維，很多時候就是由一堆會重複的小選擇組成的。"
           },
           {
@@ -2149,7 +2149,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is not just healthier. It is more participatory.",
+            "en": "That is true. It is not just healthier. It is more participatory.",
             "zh": "完全沒錯。它不只是比較健康，也比較像是在參與世界。"
           },
           {
