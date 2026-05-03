@@ -21,7 +21,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is usually when a daily schedule stops being a neat plan and starts becoming a real problem to solve.",
+            "en": "Yes. That is usually when a daily schedule stops being a neat plan and starts becoming a real problem to solve.",
             "zh": "有，而且通常就是在那個時候，「每日行程」不再只是整齊的計畫，而變成真的需要處理的問題。"
           },
           {
@@ -33,7 +33,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often what task switching feels like. You stay busy, but your attention keeps getting broken into pieces.",
+            "en": "That's often what task switching feels like. You stay busy, but your attention keeps getting broken into pieces.",
             "zh": "那通常就是 task switching 的感覺。你看起來一直很忙，但注意力其實被切得很碎。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the most common scheduling mistakes. A packed plan usually assumes a machine, not a human being.",
+            "en": "That's one of the most common scheduling mistakes. A packed plan usually assumes a machine, not a human being.",
             "zh": "那是最常見的排程錯誤之一。排得很滿的計畫，通常預設的是機器，不是人。"
           },
           {
@@ -157,14 +157,14 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more useful than saying I am bad at time management.",
+            "en": "That seems much more useful than saying I am bad at time management.",
             "zh": "這真的比說自己不會時間管理有用太多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Useful schedule English usually describes the moment of pressure, not your personality.",
-            "zh": "沒錯。有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
+            "en": "One detail is easy to miss: Useful schedule English usually describes the moment of pressure, not your personality.",
+            "zh": "這裡有一個常被忽略的地方：有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
           }
         ]
       },
@@ -338,7 +338,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often true. A morning routine is usually less about discipline and more about what gets your attention first.",
+            "en": "That's often true. A morning routine is usually less about discipline and more about what gets your attention first.",
             "zh": "這通常是真的。morning routine 很多時候不是在比自律，而是在比你最先把注意力交給了什麼。"
           },
           {
@@ -350,8 +350,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The first hour of the day quietly sets the emotional speed for everything that follows.",
-            "zh": "沒錯。一天的 first hour，常常會默默決定後面所有事的情緒速度。"
+            "en": "Mostly, yes. The first hour of the day quietly sets the emotional speed for everything that follows.",
+            "zh": "大致上是。一天的 first hour，常常會默默決定後面所有事的情緒速度。"
           },
           {
             "speaker": "b",
@@ -362,7 +362,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because decision fatigue starts earlier than people think, especially when the morning already feels messy.",
+            "en": "That's because decision fatigue starts earlier than people think, especially when the morning already feels messy.",
             "zh": "那是因為 decision fatigue 比大家以為的更早出現，尤其是當早晨一開始就很亂的時候。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why your wake-up time has to match your real life, not your ideal self-image.",
+            "en": "That's why your wake-up time has to match your real life, not your ideal self-image.",
             "zh": "所以你的 wake-up time 必須符合你真正的生活，而不是符合你理想中的自我形象。"
           },
           {
@@ -415,8 +415,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Mornings often fail because too many tiny decisions are waiting there at once.",
-            "zh": "沒錯。早晨會失控，常常就是因為太多小決定同時擠在那裡等你。"
+            "en": "Yes, and mornings often fail because too many tiny decisions are waiting there at once.",
+            "zh": "對，而且早晨會失控，常常就是因為太多小決定同時擠在那裡等你。"
           },
           {
             "speaker": "b",
@@ -474,7 +474,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the tone I want.",
+            "en": "That's exactly the tone I want.",
             "zh": "這就是我想要的語氣。"
           },
           {
@@ -527,14 +527,14 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more manageable than trying to become a different person before breakfast.",
+            "en": "That sounds much more manageable than trying to become a different person before breakfast.",
             "zh": "這比起在早餐前就逼自己變成另一種人，真的容易執行太多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. A useful routine should feel repeatable on an ordinary day, not only admirable on a perfect one.",
-            "zh": "很好。真正有用的 routine，應該在普通的一天也能重複，而不是只在完美日子裡看起來值得佩服。"
+            "en": "Think of a real moment. A useful routine should feel repeatable on an ordinary day, not only admirable on a perfect one.",
+            "zh": "我們把它變得更實用一點。真正有用的 routine，應該在普通的一天也能重複，而不是只在完美日子裡看起來值得佩服。"
           },
           {
             "speaker": "b",
@@ -557,8 +557,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. A morning routine is support, not virtue. It exists to make the day easier to enter.",
-            "zh": "那很好。morning routine 本來就應該是支持，不是美德。它存在的目的，是讓你更容易走進一天。"
+            "en": "If you were saying this to someone, you might start here. A morning routine is support, not virtue. It exists to make the day easier to enter.",
+            "zh": "我們把它變得更實用一點。morning routine 本來就應該是支持，不是美德。它存在的目的，是讓你更容易走進一天。"
           },
           {
             "speaker": "b",
@@ -650,7 +650,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually the gap between visible activity and deep work.",
+            "en": "That's usually the gap between visible activity and deep work.",
             "zh": "那通常就是可見的忙碌，和 deep work 之間的落差。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where calendar creep begins. A few small additions spread until every gap disappears.",
+            "en": "That's where calendar creep begins. A few small additions spread until every gap disappears.",
             "zh": "那就是 calendar creep 開始的地方。幾個小加項一路蔓延，最後把所有空隙都吃掉。"
           },
           {
@@ -686,8 +686,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Work time gets distorted when every hour is visible but none of it is truly available.",
-            "zh": "沒錯。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
+            "en": "That is the point to remember. Work time gets distorted when every hour is visible but none of it is truly available.",
+            "zh": "這裡是我想特別畫線的地方。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
           }
         ]
       },
@@ -733,7 +733,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly how a meeting-heavy day turns into overtime later.",
+            "en": "That's exactly how a meeting-heavy day turns into overtime later.",
             "zh": "這也正是 meeting-heavy day 最後會一路拖成加班的原因。"
           },
           {
@@ -762,14 +762,14 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much stronger than apologizing for needing concentration.",
+            "en": "I can see that. It sounds much stronger than apologizing for needing concentration.",
             "zh": "這聽起來比為了自己需要專注而先道歉，強很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, \"My priority list is already full today.\" That frames the issue as capacity, not attitude.",
-            "zh": "你也可以說：「我的 priority list 今天已經滿了。」這樣講是在說容量，而不是在表達態度。"
+            "en": "In a real conversation, you might say, \"My priority list is already full today.\" That frames the issue as capacity, not attitude.",
+            "zh": "在真實對話裡，你可以這樣說：「我的 priority list 今天已經滿了。」這樣講是在說容量，而不是在表達態度。"
           },
           {
             "speaker": "b",
@@ -1044,7 +1044,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why a transition ritual matters. It gives the body a signal that one role is ending and another is beginning.",
+            "en": "That's why a transition ritual matters. It gives the body a signal that one role is ending and another is beginning.",
             "zh": "這就是 transition ritual 重要的地方。它會給身體一個訊號，讓它知道一個角色結束了，另一個要開始了。"
           },
           {
@@ -1056,7 +1056,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how doomscrolling steals an hour without ever feeling like a decision you made.",
+            "en": "That's how doomscrolling steals an hour without ever feeling like a decision you made.",
             "zh": "那就是 doomscrolling 怎麼在你沒真正做決定的情況下，悄悄偷走一個小時。"
           }
         ]
@@ -1085,7 +1085,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. Another natural line is, \"The evening got away from me.\" That is useful when nothing went horribly wrong, but the night still vanished.",
+            "en": "Right. Another natural line is, \"The evening got away from me.\" I would use it when nothing went horribly wrong, but the night still vanished.",
             "zh": "沒錯。另一句很自然的是：「我的晚上就這樣滑走了。」這很適合拿來說那種沒有出大事，卻還是整個晚上不見了的感覺。"
           },
           {
@@ -1103,7 +1103,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds painfully familiar.",
+            "en": "I can see that. It sounds painfully familiar.",
             "zh": "這句真的熟悉到有點痛。"
           },
           {
@@ -1156,8 +1156,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the ritual matters because it keeps work from stretching invisibly into the night.",
-            "zh": "所以儀式重要，是因為它能防止工作在你沒發現的情況下，一路拉進整個晚上。"
+            "en": "So the ritual matters because it keeps work from stretching invisibly into the night. I am not sure if that covers the messy middle.",
+            "zh": "所以儀式重要，是因為它能防止工作在你沒發現的情況下，一路拉進整個晚上。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1290,14 +1290,14 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more accurate than saying I was lazy all week.",
+            "en": "I can see that. It sounds much more accurate than saying I was lazy all week.",
             "zh": "這真的比說我整週都很散漫準確很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Running errands is still work, even if it does not look impressive on a calendar.",
-            "zh": "沒錯。run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。"
+            "en": "What often gets hidden is this: Running errands is still work, even if it does not look impressive on a calendar.",
+            "zh": "這裡有一個常被忽略的地方：run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。"
           },
           {
             "speaker": "b",
@@ -1308,7 +1308,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where your social battery matters. If you ignore it, even good plans start to feel expensive.",
+            "en": "That's where your social battery matters. If you ignore it, even good plans start to feel expensive.",
             "zh": "這時候 social battery 就很重要。如果你完全不管它，再好的邀約也會開始變得很貴。"
           },
           {
@@ -1320,8 +1320,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A weekend can be full of chosen things and still leave no room to recover.",
-            "zh": "沒錯。週末可以塞滿很多你自己選的事，卻還是完全沒有留下恢復的空間。"
+            "en": "Mostly, yes. A weekend can be full of chosen things and still leave no room to recover.",
+            "zh": "大致上是。週末可以塞滿很多你自己選的事，卻還是完全沒有留下恢復的空間。"
           }
         ]
       },
@@ -1420,7 +1420,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the phrase I have been missing.",
+            "en": "That's exactly the phrase I have been missing.",
             "zh": "這真的就是我一直缺的那個說法。"
           },
           {
@@ -1497,7 +1497,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much kinder definition than productivity with a prettier outfit.",
+            "en": "That's a much kinder definition than productivity with a prettier outfit.",
             "zh": "這個定義真的比那種換上比較好看外衣的生產力觀點溫柔太多。"
           },
           {
@@ -1527,8 +1527,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. That means you are finally asking the weekend for something human instead of something heroic.",
-            "zh": "很好。那代表你終於是在向週末要一種比較像人的東西，而不是要一種英雄任務。"
+            "en": "Here is the version I would actually use. That means you are finally asking the weekend for something human instead of something heroic.",
+            "zh": "我們把它變得更實用一點。那代表你終於是在向週末要一種比較像人的東西，而不是要一種英雄任務。"
           }
         ]
       }
@@ -1596,7 +1596,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is really common. A spacious day often feels uncomfortable before it feels good.",
+            "en": "That's really common. A spacious day often feels uncomfortable before it feels good.",
             "zh": "這很常見。spacious day 在真正開始舒服之前，往往都會先讓人不太自在。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because speed gets confused with seriousness so easily.",
+            "en": "That's because speed gets confused with seriousness so easily.",
             "zh": "那是因為速度太容易被誤認成認真。"
           },
           {
@@ -1655,7 +1655,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds harsher than I want it to, but I get it.",
+            "en": "I can see that. It sounds harsher than I want it to, but I get it.",
             "zh": "這句話比我想聽到的還重一點，但我懂。"
           },
           {
@@ -1685,8 +1685,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Support is just harder to show off than exhaustion.",
-            "zh": "沒錯。只是支撐這件事，比起筋疲力盡，看起來更不容易拿來炫耀。"
+            "en": "Right. That is what makes the sentence work. Support is just harder to show off than exhaustion.",
+            "zh": "這裡是我想特別畫線的地方。只是支撐這件事，比起筋疲力盡，看起來更不容易拿來炫耀。"
           }
         ]
       },
@@ -1738,8 +1738,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Pace becomes easier to change once you can hear what pattern you are actually repeating.",
-            "zh": "很好。當你終於聽得見自己到底在重複什麼模式時，節奏就比較有可能改變。"
+            "en": "A real-life example helps here. Pace becomes easier to change once you can hear what pattern you are actually repeating.",
+            "zh": "我們把它變得更實用一點。當你終於聽得見自己到底在重複什麼模式時，節奏就比較有可能改變。"
           }
         ]
       },
@@ -1873,7 +1873,7 @@ export const WEEK_10: Episode[] = [
       },
       {
         "en": "do less on purpose",
-        "zh": "刻意少做一些，讓節奏更可持續",
+        "zh": "刻意少做一些，讓節奏更能長期維持",
         "example": "Doing less on purpose made the month feel steadier instead of emptier."
       },
       {
@@ -2025,7 +2025,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds strong without sounding chaotic.",
+            "en": "I can see that. It sounds strong without sounding chaotic.",
             "zh": "這句聽起來很有力，但不會讓人覺得是在亂發脾氣。"
           },
           {

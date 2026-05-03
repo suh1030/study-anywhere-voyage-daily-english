@@ -33,8 +33,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The body gives feedback all day, but people often notice it only when they finally move.",
-            "zh": "完全沒錯。身體其實整天都在回饋，只是很多人是等到真的動起來時才注意到。"
+            "en": "Yes, and the body gives feedback all day, but people often notice it only when they finally move.",
+            "zh": "對，而且身體其實整天都在回饋，只是很多人是等到真的動起來時才注意到。"
           },
           {
             "speaker": "b",
@@ -92,7 +92,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much less intimidating.",
+            "en": "That makes regular movement feel much less intimidating.",
             "zh": "這樣聽起來真的沒那麼可怕。"
           },
           {
@@ -104,7 +104,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's more honest about how it actually works.",
+            "en": "That sounds closer to how it actually works.",
             "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
@@ -133,7 +133,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is very good.",
+            "en": "That's very good.",
             "zh": "這很不錯。"
           },
           {
@@ -145,7 +145,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very true.",
+            "en": "Even a short workout changing the whole day feels very true.",
             "zh": "這句聽起來很真。"
           },
           {
@@ -163,8 +163,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Exercise language should sound ordinary enough to belong to real life.",
-            "zh": "很好。談運動的語言，最好要普通到可以直接放進真實生活裡。"
+            "en": "On an ordinary day, the sentence gets simpler. Exercise language should sound ordinary enough to belong to real life.",
+            "zh": "我們把它變得更實用一點。談運動的語言，最好要普通到可以直接放進真實生活裡。"
           }
         ]
       },
@@ -210,14 +210,14 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is probably the most useful test of all.",
+            "en": "That's probably the most useful test of all.",
             "zh": "這大概就是最有用的測試了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so.",
-            "zh": "我也這麼覺得。"
+            "en": "Mostly, yes.",
+            "zh": "大致上是。"
           },
           {
             "speaker": "b",
@@ -258,7 +258,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a great place to start the week.",
+            "en": "I like that as a great place to start the week.",
             "zh": "這真的是很好的開週方式。"
           },
           {
@@ -333,7 +333,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That makes sense. People move for dozens of reasons: sleep, stress, strength, health, community, confidence, grief, joy.",
+            "en": "Right. People move for dozens of reasons: sleep, stress, strength, health, community, confidence, grief, joy.",
             "zh": "這很合理。人會動起來的理由其實很多，像是睡眠、壓力、力量、健康、社群、自信、悲傷，還有快樂。"
           },
           {
@@ -410,7 +410,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually wise.",
+            "en": "That's usually wise.",
             "zh": "這通常是明智的。"
           },
           {
@@ -422,7 +422,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly it.",
+            "en": "That's exactly it.",
             "zh": "完全就是這樣。"
           }
         ]
@@ -445,7 +445,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really useful.",
+            "en": "That's really useful.",
             "zh": "這句真的很實用。"
           },
           {
@@ -457,7 +457,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds mature and believable.",
+            "en": "That shift away from visible results sounds mature and believable.",
             "zh": "這句聽起來很成熟，也很可信。"
           },
           {
@@ -475,8 +475,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Reasons sound strongest when they are personal and concrete.",
-            "zh": "很好。動機要有力，通常就是因為它夠個人、夠具體。"
+            "en": "For listening practice, notice the shape of this sentence. Reasons sound strongest when they are personal and concrete.",
+            "zh": "我們把它變得更實用一點。動機要有力，通常就是因為它夠個人、夠具體。"
           }
         ]
       },
@@ -510,7 +510,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels freeing.",
+            "en": "That is freeing.",
             "zh": "這會讓人覺得很自由。"
           },
           {
@@ -551,7 +551,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really useful standard.",
+            "en": "That's a really useful standard.",
             "zh": "這真的是很有用的標準。"
           },
           {
@@ -569,13 +569,13 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Fitness culture gets healthier when it becomes more human and less uniform.",
-            "zh": "完全沒錯。當運動文化變得比較像人，而不是要求每個人都一樣時，它才會更健康。"
+            "en": "Yes, and fitness culture gets healthier when it becomes more human and less uniform.",
+            "zh": "對，而且當運動文化變得比較像人，而不是要求每個人都一樣時，它才會更健康。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a good note to carry into the week.",
+            "en": "I like that as a good note to carry into the week.",
             "zh": "這真的是很好的開週提醒。"
           },
           {
@@ -650,8 +650,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such an important lesson. Sustainability begins where dread ends.",
-            "zh": "這真的是很重要的課。可持續這件事，往往就是從不再那麼抗拒開始的。"
+            "en": "That's such an important lesson. Sustainability begins where dread ends.",
+            "zh": "這真的是很重要的課。能長期維持這件事，往往就是從不再那麼抗拒開始的。"
           },
           {
             "speaker": "b",
@@ -668,7 +668,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is so different from how exercise is usually marketed.",
+            "en": "That's so different from how exercise is usually marketed.",
             "zh": "這和一般運動宣傳的方式差好多。"
           },
           {
@@ -709,14 +709,14 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the workout has to fit the whole person, not just one goal.",
-            "zh": "所以運動必須適合整個人，不是只適合某一個目標。"
+            "en": "So the workout has to fit the whole person, not just one goal. I can imagine someone pushing back on that.",
+            "zh": "所以運動必須適合整個人，不是只適合某一個目標。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. Sustainable movement is a compatibility problem as much as a discipline problem.",
-            "zh": "完全沒錯。可持續的活動，一半是自律問題，另一半其實是相容性問題。"
+            "zh": "完全沒錯。能長期維持的活動，一半是自律問題，另一半其實是相容性問題。"
           },
           {
             "speaker": "b",
@@ -762,14 +762,14 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is very strong.",
+            "en": "That's very strong.",
             "zh": "這句很有力。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'The best form of exercise for me turned out to be the one I do consistently.'",
-            "zh": "另一句也很好用：「The best form of exercise for me turned out to be the one I do consistently.」"
+            "en": "You could keep it simple and say, 'The best form of exercise for me turned out to be the one I do consistently.'",
+            "zh": "也可以簡單說：「The best form of exercise for me turned out to be the one I do consistently.」"
           },
           {
             "speaker": "b",
@@ -839,7 +839,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence more people need.",
+            "en": "I like that as a sentence more people need.",
             "zh": "這句真的該讓更多人聽到。"
           },
           {
@@ -868,7 +868,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds less glamorous, but much more useful.",
+            "en": "Workable and repeatable sounds less glamorous, but much more useful.",
             "zh": "這聽起來沒那麼 glamorous，可是有用太多了。"
           },
           {
@@ -880,7 +880,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good standard.",
+            "en": "That's a really good standard.",
             "zh": "這真的很適合作為標準。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That makes sense. Competition has a way of revealing character fast.",
+            "en": "Yes. Competition has a way of revealing character fast.",
             "zh": "這很合理。競爭這件事很會快速把人的性格照出來。"
           },
           {
@@ -1044,19 +1044,19 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. It trains people to hold intensity without letting it turn ugly.",
-            "zh": "完全沒錯。它是在訓練人怎麼承受強烈感，但不讓它變醜。"
+            "en": "Right, and it trains people to hold intensity without letting it turn ugly.",
+            "zh": "對，而且它是在訓練人怎麼承受強烈感，但不讓它變醜。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds useful far beyond sports.",
+            "en": "Holding intensity without letting it turn ugly is useful far beyond sports.",
             "zh": "這真的很適用在運動以外的地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is part of why sports can teach character so effectively.",
+            "en": "That's part of why sports can teach character so effectively.",
             "zh": "這也正是為什麼，運動會這麼有效地教人性格。"
           }
         ]
@@ -1079,7 +1079,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is excellent.",
+            "en": "That's excellent.",
             "zh": "這真的很出色。"
           },
           {
@@ -1091,7 +1091,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially strong sentence.",
+            "en": "That is an especially strong sentence.",
             "zh": "這句很有力。"
           },
           {
@@ -1103,14 +1103,14 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is very easy to remember.",
+            "en": "That's very easy to remember.",
             "zh": "這句很好記。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Strong sports language is usually simple and honest.",
-            "zh": "很好。好的運動語言，通常就是簡單又誠實。"
+            "en": "Let's bring it down to one situation. Strong sports language is usually simple and honest.",
+            "zh": "我們把它變得更實用一點。好的運動語言，通常就是簡單又誠實。"
           }
         ]
       },
@@ -1138,8 +1138,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Team trust grows from repeated behavior under pressure.",
-            "zh": "完全沒錯。團隊信任很多時候就是由壓力下反覆出現的行為慢慢長出來的。"
+            "en": "Yes, and team trust grows from repeated behavior under pressure.",
+            "zh": "對，而且團隊信任很多時候就是由壓力下反覆出現的行為慢慢長出來的。"
           },
           {
             "speaker": "b",
@@ -1185,7 +1185,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a serious education.",
+            "en": "That's a serious education.",
             "zh": "這真的是很嚴肅的一種教育。"
           },
           {
@@ -1197,7 +1197,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more honest than just saying sports build character.",
+            "en": "That seems much more honest than just saying sports build character.",
             "zh": "這真的比直接說『運動會培養品格』誠實太多了。"
           },
           {
@@ -1209,7 +1209,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like the right place to end.",
+            "en": "I can see why you'd say that. It does feel like the right place to end.",
             "zh": "這聽起來就是很適合收尾的地方。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That distinction makes things clearer.",
+            "en": "That invisible-audience detail makes the pressure easier to recognize.",
             "zh": "這個區別讓事情清楚多了。"
           },
           {
@@ -1314,7 +1314,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That framing shifts the whole picture.",
+            "en": "Seeing bodies as ranked objects makes the whole scroll feel more sinister.",
             "zh": "這個框架改變了整個畫面。"
           },
           {
@@ -1349,8 +1349,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. The healthiest routines usually care about performance and function more than optics.",
-            "zh": "完全沒錯。比較健康的訓練，通常在意的是功能和表現，不是外觀效果。"
+            "en": "Right, and the healthiest routines usually care about performance and function more than optics.",
+            "zh": "對，而且比較健康的訓練，通常在意的是功能和表現，不是外觀效果。"
           },
           {
             "speaker": "b",
@@ -1396,14 +1396,14 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is solid.",
+            "en": "That's solid.",
             "zh": "這句很穩。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'I want my routine to support my life, not my insecurity.'",
-            "zh": "另一句也很好用：「I want my routine to support my life, not my insecurity.」"
+            "en": "You could keep it simple and say, 'I want my routine to support my life, not my insecurity.'",
+            "zh": "也可以簡單說：「I want my routine to support my life, not my insecurity.」"
           },
           {
             "speaker": "b",
@@ -1479,8 +1479,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Naming the problem often weakens it.",
-            "zh": "很好。把問題叫出名字，很多時候就已經是在削弱它。"
+            "en": "Here is a workday version. Naming the problem often weakens it.",
+            "zh": "我們把它變得更實用一點。把問題叫出名字，很多時候就已經是在削弱它。"
           },
           {
             "speaker": "b",
@@ -1497,19 +1497,19 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like something worth building toward.",
+            "en": "I can see why you'd say that. It does feel like something worth building toward.",
             "zh": "這聽起來真的很值得往那裡走。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The goal should be a stronger relationship with the body, not a more frightened one.",
-            "zh": "我也這麼覺得。目標應該是和身體建立更強的關係，不是更害怕的關係。"
+            "en": "Mostly, yes. The goal should be a stronger relationship with the body, not a more frightened one.",
+            "zh": "大致上是。目標應該是和身體建立更強的關係，不是更害怕的關係。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the sentence I needed.",
+            "en": "That's exactly the sentence I needed.",
             "zh": "這句真的就是我需要的。"
           },
           {
@@ -1521,7 +1521,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely good place to end.",
+            "en": "That's a genuinely good place to end.",
             "zh": "這真的是很適合收在這裡。"
           },
           {
@@ -1596,7 +1596,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is very real. Long-term exercise becomes as much about recovery wisdom as about effort.",
+            "en": "That's very real. Long-term exercise becomes as much about recovery wisdom as about effort.",
             "zh": "這真的很真。長期運動到後來，重點會和恢復智慧一樣多，不只剩下努力而已。"
           },
           {
@@ -1608,13 +1608,13 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. The goal shifts from proving durability to building it wisely.",
-            "zh": "完全沒錯。目標會從『證明自己多硬』變成『比較聰明地把耐用度建起來』。"
+            "en": "True. The goal shifts from proving durability to building it wisely.",
+            "zh": "是真的。目標會從『證明自己多硬』變成『比較聰明地把耐用度建起來』。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much calmer than the way younger fitness culture often sounds.",
+            "en": "That sounds much calmer than the way younger fitness culture often sounds.",
             "zh": "這真的比很多年輕健身文化的聲音平靜多了。"
           },
           {
@@ -1626,7 +1626,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right — and that's the version that holds up.",
+            "en": "Right — durable training is the version that can keep aging with you.",
             "zh": "對——而那個才是站得住腳的版本。"
           },
           {
@@ -1661,13 +1661,13 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Durability is built through smart volume, joint-friendly choices, and enough recovery to let adaptation happen.",
-            "zh": "完全沒錯。耐用度是靠聰明的訓練量、對關節友善的選擇，還有足夠讓適應發生的恢復時間長出來的。"
+            "en": "Yes, and durability is built through smart volume, joint-friendly choices, and enough recovery to let adaptation happen.",
+            "zh": "對，而且耐用度是靠聰明的訓練量、對關節友善的選擇，還有足夠讓適應發生的恢復時間長出來的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds less exciting, but much more adult.",
+            "en": "Smart volume and recovery sound less exciting, but much more adult.",
             "zh": "這聽起來沒那麼刺激，但成熟得多。"
           },
           {
@@ -1702,13 +1702,13 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, 'I am trying to train in a way that my future body will thank me for.'",
+            "en": "In a real conversation, you might say, 'I am trying to train in a way that my future body will thank me for.'",
             "zh": "你可以說：「I am trying to train in a way that my future body will thank me for.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really nice.",
+            "en": "That's really nice.",
             "zh": "這句真的很好。"
           },
           {
@@ -1720,7 +1720,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds mature without sounding old.",
+            "en": "Caring more about consistency and recovery sounds mature without sounding old.",
             "zh": "這句聽起來成熟，但不會有一種變老的無力感。"
           },
           {
@@ -1738,8 +1738,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Longevity language should feel calm, not panicked.",
-            "zh": "很好。長期健康的語言，最好要平靜，不要像在恐慌。"
+            "en": "This is the line I would practice. Longevity language should feel calm, not panicked.",
+            "zh": "我們把它變得更實用一點。長期健康的語言，最好要平靜，不要像在恐慌。"
           }
         ]
       },
@@ -1785,7 +1785,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is brutally true.",
+            "en": "That's brutally true.",
             "zh": "這句真的殘酷地真。"
           },
           {
@@ -1814,7 +1814,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a wonderful answer.",
+            "en": "That's a wonderful answer.",
             "zh": "這真的是很棒的答案。"
           },
           {
@@ -1832,13 +1832,13 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. That is what the long game should feel like.",
-            "zh": "很好。長期戰，本來就該有這種感覺。"
+            "en": "The spoken version can be direct. That is what the long game should feel like.",
+            "zh": "我們把它變得更實用一點。長期戰，本來就該有這種感覺。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a good place to end.",
+            "en": "That seems like a good place to end.",
             "zh": "這真的很適合拿來收尾。"
           },
           {
@@ -1925,8 +1925,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. The body often responds better to partnership than to war.",
-            "zh": "完全沒錯。身體很多時候對合作的反應，會比對戰爭好得多。"
+            "en": "Right, and the body often responds better to partnership than to war.",
+            "zh": "對，而且身體很多時候對合作的反應，會比對戰爭好得多。"
           },
           {
             "speaker": "b",
@@ -1978,8 +1978,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. Internal signals become information instead of insults.",
-            "zh": "完全沒錯。身體內部的訊號會重新變成資訊，不是辱罵。"
+            "en": "True. Internal signals become information instead of insults.",
+            "zh": "是真的。身體內部的訊號會重新變成資訊，不是辱罵。"
           },
           {
             "speaker": "b",
@@ -2019,13 +2019,13 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One natural option is, 'I am trying to work with my body instead of constantly trying to correct it.'",
+            "en": "One option I would keep ready is, 'I am trying to work with my body instead of constantly trying to correct it.'",
             "zh": "這裡很自然的說法是：「I am trying to work with my body instead of constantly trying to correct it.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is so good.",
+            "en": "That's so good.",
             "zh": "這句真的很好。"
           },
           {
@@ -2131,7 +2131,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a huge return.",
+            "en": "I can see why you'd say that. It does feel like a huge return.",
             "zh": "這真的像很大的回報。"
           },
           {
@@ -2143,7 +2143,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a lovely idea.",
+            "en": "I like that as a lovely idea.",
             "zh": "這個想法真的很好。"
           },
           {
@@ -2155,7 +2155,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the exact sentence I needed to hear.",
+            "en": "That's the exact sentence I needed to hear.",
             "zh": "這句真的就是我今天需要聽到的。"
           },
           {

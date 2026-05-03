@@ -164,7 +164,7 @@ export default function ConversationScreen() {
             <View style={styles.hintContent}>
               <Text style={styles.hintTitle}>Conversation</Text>
               <Text style={styles.hintDesc}>
-                用英文回答今日問題，不要翻譯——直接自然地表達你的想法。送出後可獲得 AI 針對文法與自然用語的回饋。每次消耗 1 credit，新使用者有 3 credits 免費體驗。
+                用英文回答今日問題，不要逐字翻譯，直接說出你的想法。送出後可獲得 AI 針對文法與自然用語的回饋。每次消耗 1 credit，新使用者有 3 credits 免費體驗。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
                 <Text style={styles.hintDismiss}>✕ Got it</Text>

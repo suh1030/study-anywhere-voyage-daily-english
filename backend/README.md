@@ -18,7 +18,7 @@ backend/
         ├── credits-webhook/             # RevenueCat IAP 回調（HMAC 驗證）
         ├── progress-sync/               # 學習進度雲端同步（需 JWT）
         ├── content-episode/             # 取得 Podcast 集數（公開）
-        └── content-article/             # Legacy article archive（公開，但 launch app 未使用）
+        └── content-article/             # 取得 Speak 朗讀文章（公開）
 ```
 
 ## API 端點
@@ -29,7 +29,7 @@ backend/
 | `credits-webhook` | POST | 否（HMAC） | RevenueCat 購買回調 |
 | `progress-sync` | POST | 是 | 上傳/下載學習進度 |
 | `content-episode` | GET | 否 | 取得 Podcast 集數 |
-| `content-article` | GET | 否 | Legacy article archive；目前 launch app 不取用 |
+| `content-article` | GET | 否 | 取得 Speak 朗讀文章 |
 
 > 信用點數查詢（`credits`）、字卡（`flashcards`）、題目（`questions`）直接使用 Supabase JS client 查詢，不需要額外 Edge Function。
 

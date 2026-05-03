@@ -21,7 +21,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds familiar. You were physically off but mentally still at your desk.",
+            "en": "I can see that. It sounds familiar. You were physically off but mentally still at your desk.",
             "zh": "聽起來很熟悉。你的身體放假了，但腦袋還在辦公桌前。"
           },
           {
@@ -33,7 +33,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the trap. Rest gets treated like a gap between productive moments, not something valuable on its own.",
+            "en": "That's the trap. Rest gets treated like a gap between productive moments, not something valuable on its own.",
             "zh": "那就是陷阱所在。休息被當成兩段生產力之間的空檔，而不是本身就有價值的事。"
           },
           {
@@ -92,7 +92,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a strange incentive. You get rewarded for the appearance of effort, not the outcome.",
+            "en": "That's a strange incentive. You get rewarded for the appearance of effort, not the outcome.",
             "zh": "這是個很奇怪的激勵機制。你因為表現出努力的樣子而獲得獎勵，而不是因為結果。"
           },
           {
@@ -151,7 +151,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the right instinct. You can also say, \"I have been running on empty and I need to slow down for a bit.\"",
+            "en": "That's the right instinct. You can also say, \"I have been running on empty and I need to slow down for a bit.\"",
             "zh": "你的直覺很對。你也可以說「I've been running on empty and I need to slow down for a bit（我已經在空油狀態跑很久了，我需要稍微放慢一下）」。"
           },
           {
@@ -186,7 +186,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds counterintuitive. Rest should be spontaneous, right?",
+            "en": "I can see that. It sounds counterintuitive. Rest should be spontaneous, right?",
             "zh": "這聽起來有點反直覺。休息不應該是自然發生的嗎？"
           },
           {
@@ -240,8 +240,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Most people do not realize how depleted they are until they actually stop and feel the difference.",
-            "zh": "沒錯。大多數人在真正停下來、感受到那個差別之前，都不知道自己有多耗盡了。"
+            "en": "Yes, and most people do not realize how depleted they are until they actually stop and feel the difference.",
+            "zh": "對，而且大多數人在真正停下來、感受到那個差別之前，都不知道自己有多耗盡了。"
           },
           {
             "speaker": "b",
@@ -252,7 +252,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a perfect analogy. And rest is not selfish either. When you are restored, you have more to give everyone around you.",
+            "en": "I like that as a perfect analogy. And rest is not selfish either. When you are restored, you have more to give everyone around you.",
             "zh": "這個比喻很貼切。而且休息也不自私。當你恢復了，你能給身邊每個人的也更多。"
           },
           {
@@ -265,7 +265,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the mindset shift that makes rest sustainable instead of something you have to talk yourself into every single time.",
-            "zh": "那就是讓休息變得可持續的心態轉變，而不是每次都要說服自己去做。"
+            "zh": "那就是讓休息變得能長期維持的心態轉變，而不是每次都要說服自己去做。"
           }
         ]
       }
@@ -498,7 +498,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like the beginning of meditation.",
+            "en": "I can see why you'd say that. It does feel like the beginning of meditation.",
             "zh": "那聽起來像冥想的入門。"
           },
           {
@@ -528,7 +528,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the point. We forget that absorption in something small and quiet is its own kind of rest.",
+            "en": "That's exactly the point. We forget that absorption in something small and quiet is its own kind of rest.",
             "zh": "這正是重點所在。我們忘記了沉浸在某件小而安靜的事物中，本身就是一種休息。"
           }
         ]
@@ -563,7 +563,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a little unsettling, honestly.",
+            "en": "That's a little unsettling, honestly.",
             "zh": "說實話，這有點讓人不安。"
           },
           {
@@ -703,7 +703,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the mental residue of unfinished work. Your brain is running background processes even when you are not actively working.",
+            "en": "That's the mental residue of unfinished work. Your brain is running background processes even when you are not actively working.",
             "zh": "那是未完成工作留下的心理殘留。你的大腦即使在你沒有主動工作的時候，也還在跑背景程式。"
           },
           {
@@ -727,7 +727,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly it. The brain hangs onto things it is afraid will slip away. A list releases it from that job.",
+            "en": "That's exactly it. The brain hangs onto things it is afraid will slip away. A list releases it from that job.",
             "zh": "就是這樣。大腦會抓住它害怕會溜走的東西。一份清單讓它從那個任務中解脫。"
           },
           {
@@ -768,8 +768,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Agency matters. You can also say, \"I am honoring my need for rest,\" which sounds a bit formal but communicates respect for yourself.",
-            "zh": "沒錯。主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。"
+            "en": "The tricky bit is this: Agency matters. You can also say, \"I am honoring my need for rest,\" which sounds a bit formal but communicates respect for yourself.",
+            "zh": "這裡有一個常被忽略的地方：主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。"
           },
           {
             "speaker": "b",
@@ -845,7 +845,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where a lot of restless evenings come from. Without a signal that work is done, the brain keeps a foot in both worlds.",
+            "en": "That's where a lot of restless evenings come from. Without a signal that work is done, the brain keeps a foot in both worlds.",
             "zh": "很多讓人坐立不安的夜晚就是從這裡來的。如果沒有一個訊號說工作結束了，大腦就一直踩在兩個世界裡。"
           }
         ]
@@ -868,7 +868,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a harder idea to sit with. I think I run myself down partly out of habit and partly because I do not think I have earned a break.",
+            "en": "That's a harder idea to sit with. I think I run myself down partly out of habit and partly because I do not think I have earned a break.",
             "zh": "這個想法比較難接受。我覺得我把自己搞累，一部分是習慣，一部分是因為我不認為自己賺到了休息的資格。"
           },
           {
@@ -886,8 +886,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. And when you treat rest as something you have to earn, you will always feel slightly behind. There will always be one more thing to finish first.",
-            "zh": "沒錯。而當你把休息當成需要賺取的東西時，你永遠都會覺得自己稍微落後了。永遠都會有一件事要先完成。"
+            "en": "Mostly, yes. And when you treat rest as something you have to earn, you will always feel slightly behind. There will always be one more thing to finish first.",
+            "zh": "大致上是。而當你把休息當成需要賺取的東西時，你永遠都會覺得自己稍微落後了。永遠都會有一件事要先完成。"
           },
           {
             "speaker": "b",
@@ -1132,7 +1132,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is more about observation than consumption.",
+            "en": "That's more about observation than consumption.",
             "zh": "那比較是關於觀察而不是消費。"
           },
           {
@@ -1150,7 +1150,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is common. Try giving yourself one commute or one meal with no distractions. Just the experience itself.",
+            "en": "That's common. Try giving yourself one commute or one meal with no distractions. Just the experience itself.",
             "zh": "這很常見。試著給自己一次通勤或一頓飯的時間，完全不分心。只是感受那個體驗本身。"
           },
           {
@@ -1297,7 +1297,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is both fascinating and slightly alarming.",
+            "en": "That's both fascinating and slightly alarming.",
             "zh": "這既令人著迷，又有點令人擔憂。"
           },
           {
@@ -1315,8 +1315,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Physical rest is not optional equipment. It is part of the basic system.",
-            "zh": "沒錯。身體上的休息不是選配設備。它是基本系統的一部分。"
+            "en": "That is the part worth practicing. Physical rest is not optional equipment. It is part of the basic system.",
+            "zh": "這裡是我想特別畫線的地方。身體上的休息不是選配設備。它是基本系統的一部分。"
           }
         ]
       },
@@ -1338,8 +1338,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the baseline shifts downward and you think that is just how you feel normally.",
-            "zh": "所以基準線往下移了，你就以為那就是你正常的感受。"
+            "en": "So the baseline shifts downward and you think that is just how you feel normally. But does that leave anything out?",
+            "zh": "所以基準線往下移了，你就以為那就是你正常的感受。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1391,7 +1391,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels less dramatic than saying \"I am exhausted\" every five minutes.",
+            "en": "That sounds less dramatic than saying \"I am exhausted\" every five minutes.",
             "zh": "這感覺比每五分鐘說一次「我精疲力竭」要不那麼誇張。"
           },
           {
@@ -1515,7 +1515,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a great way to put it. And catching things early almost always means the recovery is quicker too.",
+            "en": "I like that as a great way to put it. And catching things early almost always means the recovery is quicker too.",
             "zh": "那是個很好的說法。而且早期接收到幾乎永遠意味著恢復也更快。"
           },
           {
@@ -1596,7 +1596,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how ambient pace works. The environment moves fast and you match it without realizing you have made a choice.",
+            "en": "That's how ambient pace works. The environment moves fast and you match it without realizing you have made a choice.",
             "zh": "那就是環境節奏的運作方式。環境動得快，你就跟著它，卻沒有意識到自己做了一個選擇。"
           },
           {
@@ -1932,12 +1932,12 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I also realized that I had been treating my weekends as mini versions of the workweek. Always optimizing, always producing.",
-            "zh": "我也發現我一直把週末當成工作週的迷你版。永遠在優化，永遠在產出。"
+            "zh": "我也發現我一直把週末當成工作週的迷你版。永遠在最佳化，永遠在產出。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common pattern, especially for people who are ambitious. The same drive that helps at work does not know how to switch off at home.",
+            "en": "That's a very common pattern, especially for people who are ambitious. The same drive that helps at work does not know how to switch off at home.",
             "zh": "這是一個非常常見的模式，尤其是對有抱負的人來說。在工作中有幫助的那種動力，不知道怎麼在家裡關掉。"
           },
           {
@@ -1979,7 +1979,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The sustainable approach is staying somewhere between the extremes most of the time. Working steadily, resting regularly, not waiting until you are depleted to recover.",
-            "zh": "可持續的方法是大多數時間保持在兩個極端之間的某個地方。穩定地工作、定期地休息，而不是等到精力耗盡才去恢復。"
+            "zh": "能長期維持的方法是大多數時間保持在兩個極端之間的某個地方。穩定地工作、定期地休息，而不是等到精力耗盡才去恢復。"
           },
           {
             "speaker": "b",
@@ -2055,8 +2055,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Because most people settle for the passive kind and wonder why they still feel tired.",
-            "zh": "很好。因為大多數人接受了被動那種，然後搞不懂為什麼自己還是覺得累。"
+            "en": "In real life, it might sound like this. Because most people settle for the passive kind and wonder why they still feel tired.",
+            "zh": "我們把它變得更實用一點。因為大多數人接受了被動那種，然後搞不懂為什麼自己還是覺得累。"
           }
         ]
       },
@@ -2078,13 +2078,13 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "One part. That feels achievable without overhauling everything.",
+            "en": "One part. I get why that is achievable without overhauling everything.",
             "zh": "一個部分。這感覺是可以實現的，而不需要全面改革。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the right scale. One successful change builds confidence for the next one. You do not need a lifestyle overhaul.",
+            "en": "That's exactly the right scale. One successful change builds confidence for the next one. You do not need a lifestyle overhaul.",
             "zh": "那正是正確的規模。一個成功的改變為下一個建立信心。你不需要全面的生活方式改革。"
           },
           {
@@ -2096,7 +2096,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a beautiful way to measure it. Rest is successful when it brings you back to yourself.",
+            "en": "I like that as a beautiful way to measure it. Rest is successful when it brings you back to yourself.",
             "zh": "這是一個很美的衡量方式。休息成功的時候，就是它把你帶回自己。"
           },
           {
@@ -2108,7 +2108,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is it. When the noise is down, you are more likely to hear what you actually think and feel. That is worth protecting.",
+            "en": "That's it. When the noise is down, you are more likely to hear what you actually think and feel. That is worth protecting.",
             "zh": "就是這樣。當噪音降低，你更容易聽見自己真正的想法和感受。那值得守護。"
           },
           {
@@ -2150,7 +2150,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is kind and specific at the same time. Thank you.",
+            "en": "I like that; it is kind and specific at the same time. Thank you.",
             "zh": "這既溫柔又具體。謝謝你。"
           },
           {
@@ -2180,7 +2180,7 @@ export const WEEK_49: Episode[] = [
       },
       {
         "en": "sustainable",
-        "zh": "可持續的",
+        "zh": "能長期維持的",
         "example": "He wanted a sustainable pace, not one that felt good for a week and collapsed the next."
       },
       {

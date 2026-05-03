@@ -33,7 +33,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what being caught off guard does. It makes even a small problem feel very personal for a second.",
+            "en": "That's what being caught off guard does. It makes even a small problem feel very personal for a second.",
             "zh": "這就是措手不及的感覺。它會讓一個很小的問題，在那一秒鐘裡變得非常私人。"
           },
           {
@@ -80,7 +80,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly it. One minute later I probably would have been fine, but not at that exact second.",
+            "en": "That's exactly it. One minute later I probably would have been fine, but not at that exact second.",
             "zh": "就是這樣。再過一分鐘我大概就沒事了，但偏偏不是在那一秒鐘。"
           },
           {
@@ -204,8 +204,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And if you say you will check on someone, do it. Reliability is part of kindness.",
-            "zh": "沒錯。而且如果你說你會再關心某人一次，就真的去做。可靠本身就是善意的一部分。"
+            "en": "Yes, and if you say you will check on someone, do it. Reliability is part of kindness.",
+            "zh": "對，而且而且如果你說你會再關心某人一次，就真的去做。可靠本身就是善意的一部分。"
           },
           {
             "speaker": "b",
@@ -269,8 +269,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It should feel that way. Most of us will not save somebody's life this week, but we can absolutely make it easier for them to keep going.",
-            "zh": "很好，它本來就該有這種感覺。這週我們大多數人都不會去拯救誰的人生，但我們完全可以讓某人比較容易撐過去。"
+            "en": "The sentence should not feel like a poster. It should feel that way. Most of us will not save somebody's life this week, but we can absolutely make it easier for them to keep going.",
+            "zh": "我們把它變得更實用一點。這週我們大多數人都不會去拯救誰的人生，但我們完全可以讓某人比較容易撐過去。"
           }
         ]
       }
@@ -427,8 +427,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A lot of helping starts with recognition more than principle.",
-            "zh": "對。很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
+            "en": "A useful distinction is this: A lot of helping starts with recognition more than principle.",
+            "zh": "這裡有一個常被忽略的地方：很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
           }
         ]
       },
@@ -468,8 +468,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. People help for human reasons. History, mood, memory, recognition, habit.",
-            "zh": "沒錯。人會幫忙，是因為很人性的原因。歷史、心情、記憶、認出對方、還有習慣。"
+            "en": "Mostly, yes. People help for human reasons. History, mood, memory, recognition, habit.",
+            "zh": "大致上是。人會幫忙，是因為很人性的原因。歷史、心情、記憶、認出對方、還有習慣。"
           },
           {
             "speaker": "b",
@@ -527,8 +527,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the better habit is to act on the first workable impulse.",
-            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。"
+            "en": "So the better habit is to act on the first workable impulse. Am I skipping the messy part?",
+            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -655,7 +655,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such an easy trap. You start by trying to help and end up taking over.",
+            "en": "That's such an easy trap. You start by trying to help and end up taking over.",
             "zh": "那真的是一個很容易踩到的陷阱。你本來只是想幫忙，最後卻變成整個接管。"
           },
           {
@@ -738,7 +738,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is harder than giving advice immediately.",
+            "en": "That's harder than giving advice immediately.",
             "zh": "這真的比立刻給建議難多了。"
           },
           {
@@ -767,14 +767,14 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much better than launching into advice without warning.",
+            "en": "That is much better than launching into advice without warning.",
             "zh": "這比沒有預告就直接進入建議模式好多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. You can also ask permission directly: 'Would it help if I shared a suggestion?'",
-            "zh": "沒錯。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」"
+            "en": "Yes, and that is the key. You can also ask permission directly: 'Would it help if I shared a suggestion?'",
+            "zh": "這裡是我想特別畫線的地方。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」"
           },
           {
             "speaker": "b",
@@ -820,7 +820,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is good. It assumes they still own the process.",
+            "en": "I like that; it is good. It assumes they still own the process.",
             "zh": "這句很好，因為它預設對方還是擁有整個過程的人。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the moment where helping can quietly turn into rescuing.",
+            "en": "That's the moment where helping can quietly turn into rescuing.",
             "zh": "那就是幫忙會悄悄變成『救場』的時刻。"
           },
           {
@@ -997,7 +997,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is hard to hear because it means my kindness may be part of the problem.",
+            "en": "That's hard to hear because it means my kindness may be part of the problem.",
             "zh": "這很難聽進去，因為這表示我的好意本身可能也是問題的一部分。"
           },
           {
@@ -1079,7 +1079,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels clearer than making a soft excuse.",
+            "en": "That sounds clearer than making a soft excuse.",
             "zh": "這聽起來比找一個柔軟的藉口清楚多了。"
           },
           {
@@ -1156,7 +1156,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds harder for the helper than for the person in trouble.",
+            "en": "I can see that. It sounds harder for the helper than for the person in trouble.",
             "zh": "這聽起來對幫忙的人來說，可能比對那個正在出事的人還難。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one way to injure your back and your pride at the same time.",
+            "en": "That's one way to injure your back and your pride at the same time.",
             "zh": "那真的是同時傷到背和自尊的一種方法。"
           },
           {
@@ -1361,7 +1361,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it helps to remember that sometimes you simply need to lean on someone for a while. Not forever. Just for a while.",
+            "en": "That's why it helps to remember that sometimes you simply need to lean on someone for a while. Not forever. Just for a while.",
             "zh": "所以你要記得，有時候你只是需要暫時靠一下別人。不是永遠，只是一陣子。"
           },
           {
@@ -1396,7 +1396,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much better than automatically saying no out of politeness.",
+            "en": "That's much better than automatically saying no out of politeness.",
             "zh": "這真的比出於禮貌先自動說不用好多了。"
           },
           {
@@ -1414,8 +1414,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Specific requests make it easy to help, and that is a gift too.",
-            "zh": "沒錯。具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
+            "en": "One detail is easy to miss: Specific requests make it easy to help, and that is a gift too.",
+            "zh": "這裡有一個常被忽略的地方：具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
           },
           {
             "speaker": "b",
@@ -1515,7 +1515,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That changes the whole emotional math for me.",
-            "zh": "這完全改變了我對這件事的情感算法。"
+            "zh": "這完全改變了我對這件事的情感演算法。"
           },
           {
             "speaker": "a",
@@ -1532,8 +1532,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Receiving gracefully says, 'I trust this bond enough to let it hold me for a minute.'",
-            "zh": "沒錯。把幫助收得優雅，其實是在說：「我信任這段關係，信任到可以讓它短暫地撐住我一下。」"
+            "en": "Mostly, yes. Receiving gracefully says, 'I trust this bond enough to let it hold me for a minute.'",
+            "zh": "大致上是。把幫助收得優雅，其實是在說：「我信任這段關係，信任到可以讓它短暫地撐住我一下。」"
           }
         ]
       }
@@ -1601,7 +1601,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such a neighborly thing to do. Small, practical, and quietly considerate.",
+            "en": "That's such a neighborly thing to do. Small, practical, and quietly considerate.",
             "zh": "那真的是很有鄰里感的一件事。小小的、很實際，而且很安靜地替人著想。"
           },
           {
@@ -1625,7 +1625,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how a local community starts to exist. Not with a slogan. With repeated practical exchanges.",
+            "en": "That's how a local community starts to exist. Not with a slogan. With repeated practical exchanges.",
             "zh": "這就是在地社群開始長出來的方式。不是從口號開始，而是從一來一往的實際互助開始。"
           },
           {
@@ -1660,8 +1660,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the scale is small, but the effect can still be big.",
-            "zh": "所以這些事規模很小，但效果其實可以很大。"
+            "en": "So the scale is small, but the effect can still be big. I am not sure if that covers the messy middle.",
+            "zh": "所以這些事規模很小，但效果其實可以很大。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1678,7 +1678,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why something as simple as keeping an eye on the hallway matters more than it sounds like it should.",
+            "en": "That's why something as simple as keeping an eye on the hallway matters more than it sounds like it should.",
             "zh": "所以像是順手幫忙留意走廊這種小事，往往比聽起來還重要。"
           },
           {
@@ -1766,7 +1766,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is it?",
+            "en": "That's it?",
             "zh": "真的就這樣嗎？"
           },
           {
@@ -1820,8 +1820,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. That kind of familiar distance can still be very comforting.",
-            "zh": "沒錯。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
+            "en": "That is the point to remember. That kind of familiar distance can still be very comforting.",
+            "zh": "這裡是我想特別畫線的地方。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
           },
           {
             "speaker": "b",
@@ -1913,7 +1913,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the difference between crisis help and long-haul help. The long haul filters people very quickly.",
+            "en": "That's the difference between crisis help and long-haul help. The long haul filters people very quickly.",
             "zh": "那就是危機型幫助和長期型幫助的差別。所謂長期陪跑，很快就會把人篩出來。"
           },
           {
@@ -1937,7 +1937,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is reliable support. It does not sparkle, but it changes everything.",
+            "en": "That's reliable support. It does not sparkle, but it changes everything.",
             "zh": "那就是可靠的支持。它不閃亮，可是它會改變整件事的重量。"
           },
           {
@@ -1990,7 +1990,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why the best helpers check back instead of waiting to be invited again.",
+            "en": "That's why the best helpers check back instead of waiting to be invited again.",
             "zh": "這也就是為什麼，最好的幫忙者會主動再回來問，而不是一直等對方再邀請一次。"
           },
           {
@@ -2078,7 +2078,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost embarrassingly practical.",
+            "en": "I can see that. It sounds almost embarrassingly practical.",
             "zh": "這聽起來實用到有點讓人不好意思。"
           },
           {
@@ -2097,7 +2097,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. If the situation is ongoing, kindness has to become something sustainable.",
-            "zh": "絕對是。如果情況是持續的，那善意就必須變成可持續的做法。"
+            "zh": "絕對是。如果情況是持續的，那善意就必須變成能長期維持的做法。"
           },
           {
             "speaker": "b",
@@ -2131,7 +2131,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely strong difference.",
+            "en": "That's a genuinely strong difference.",
             "zh": "這個差別真的很強烈。"
           },
           {

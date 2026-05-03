@@ -1,12 +1,13 @@
-# Legacy Article Archive
+# Speak Articles
 
-The files in this directory are not part of the launch learner experience.
+The files in this directory are active `Speak` read-aloud content.
 
-They are retained only as historical source material from an earlier `Speak` implementation. The current app does not fetch article content, and `scripts/seed.ts` clears the public `articles` table instead of shipping these files as product content.
+`scripts/seed.ts` imports these files into the public `articles` table with `week_number` and `day_of_week`, and the app fetches the same-day article for the `Speak` tab.
 
 For launch content review, inspect:
 
 - `content/episodes/week-*.ts`
+- `content/articles/articles-w*.ts`
 - `content/questions/conversations-*.ts`
 - `content/flashcards/flashcards-*.ts`
 

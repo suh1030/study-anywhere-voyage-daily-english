@@ -21,7 +21,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such a picture-worthy moment. Nothing dramatic happened, but your attention clicked into place.",
+            "en": "That's such a picture-worthy moment. Nothing dramatic happened, but your attention clicked into place.",
             "zh": "這就是很典型的攝影時刻。明明沒發生什麼大事，可是你的注意力突然卡進正確的位置。"
           },
           {
@@ -33,7 +33,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why photography is partly about anticipation. You are learning to notice half a second earlier.",
+            "en": "That's why photography is partly about anticipation. You are learning to notice half a second earlier.",
             "zh": "這也就是為什麼攝影有一部分是在練預判。你其實是在學著比原本早半秒注意到東西。"
           },
           {
@@ -45,8 +45,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A camera rewards attention before it rewards technique.",
-            "zh": "完全沒錯。相機最先回報的，通常不是技巧，而是注意力。"
+            "en": "This is where real life gets messier: A camera rewards attention before it rewards technique.",
+            "zh": "這裡有一個常被忽略的地方：相機最先回報的，通常不是技巧，而是注意力。"
           },
           {
             "speaker": "b",
@@ -86,7 +86,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. later you discover it was the reflection, the distance, or the quiet space around the subject.",
+            "en": "Yes. Later you discover it was the reflection, the distance, or the quiet space around the subject.",
             "zh": "對，而且後來你才會發現，原來你喜歡的是反光、距離感，或主體周圍那個安靜的空間。"
           },
           {
@@ -98,13 +98,13 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Over time, your photo roll becomes a record of your attention, not just a record of events.",
-            "zh": "完全沒錯。久了之後，你的相簿會變成注意力的紀錄，不只是事件的紀錄。"
+            "en": "Mostly, yes. Over time, your photo roll becomes a record of your attention, not just a record of events.",
+            "zh": "大致上是。久了之後，你的相簿會變成注意力的紀錄，不只是事件的紀錄。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more personal than just saying I like taking pictures.",
+            "en": "That is much more personal than just saying I like taking pictures.",
             "zh": "這個講法比單純說我喜歡拍照，個人得多。"
           },
           {
@@ -157,13 +157,13 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more usable than memorizing a list of photography terms.",
+            "en": "I can see that. It sounds much more usable than memorizing a list of photography terms.",
             "zh": "這聽起來真的比背一串攝影術語實用很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the goal. Good English for art should help you see more clearly, not make you freeze.",
+            "en": "That's the goal. Good English for art should help you see more clearly, not make you freeze.",
             "zh": "這就是重點。好的藝術英文應該幫你看得更清楚，而不是讓你整個人卡住。"
           }
         ]
@@ -186,7 +186,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost too simple.",
+            "en": "I can see that. It sounds almost too simple.",
             "zh": "這聽起來簡單到有點讓人不敢相信。"
           },
           {
@@ -210,7 +210,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is probably why photographers say the work is not finished when the shutter clicks.",
+            "en": "That's probably why photographers say the work is not finished when the shutter clicks.",
             "zh": "這大概就是為什麼很多攝影師會說，按下快門的那一刻，作品其實還沒結束。"
           },
           {
@@ -234,7 +234,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost like a life lesson disguised as a hobby.",
+            "en": "I can see that. It sounds almost like a life lesson disguised as a hobby.",
             "zh": "這聽起來根本像是一堂偽裝成興趣的生活課。"
           },
           {
@@ -252,8 +252,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A lot of visual art begins with learning that ordinary does not mean empty.",
-            "zh": "完全沒錯。很多視覺藝術，其實是從理解『普通不等於空白』開始的。"
+            "en": "Yes, and a lot of visual art begins with learning that ordinary does not mean empty.",
+            "zh": "對，而且很多視覺藝術，其實是從理解『普通不等於空白』開始的。"
           },
           {
             "speaker": "b",
@@ -333,7 +333,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because she is not only making an image. She is trying to hold on to a feeling before it dissolves.",
+            "en": "That's because she is not only making an image. She is trying to hold on to a feeling before it dissolves.",
             "zh": "那是因為她不只是在做一張照片，她是在試著抓住一種還沒散掉的感覺。"
           },
           {
@@ -398,7 +398,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is the line each person has to learn. Are you recording the moment, or replacing it?",
+            "en": "Yes. That is the line each person has to learn. Are you recording the moment, or replacing it?",
             "zh": "對，而那條線每個人都要自己學。你是在記錄那個時刻，還是在用拍照取代它？"
           },
           {
@@ -422,8 +422,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Sometimes the best move is one photo and then your full attention back to the people there.",
-            "zh": "完全沒錯。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
+            "en": "That is the piece I want learners to notice. Sometimes the best move is one photo and then your full attention back to the people there.",
+            "zh": "這裡是我想特別畫線的地方。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
           }
         ]
       },
@@ -445,7 +445,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is great. It sounds gentle and specific.",
+            "en": "I like that; it is great. It sounds gentle and specific.",
             "zh": "這句很好，聽起來很溫柔，也很具體。"
           },
           {
@@ -469,7 +469,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the kind of photo I care about most.",
+            "en": "That's exactly the kind of photo I care about most.",
             "zh": "這真的就是我最在意的那一種照片。"
           },
           {
@@ -516,8 +516,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Those details are sometimes the proof that a real life was happening in front of you.",
-            "zh": "很好。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
+            "en": "On an ordinary day, the sentence gets simpler. Those details are sometimes the proof that a real life was happening in front of you.",
+            "zh": "我們把它變得更實用一點。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
           },
           {
             "speaker": "b",
@@ -551,7 +551,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful sentence.",
+            "en": "I like that as a beautiful sentence.",
             "zh": "這句話真的很美。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is composition teaching you in real time. The camera reveals what the eye ignored until you had to frame it.",
+            "en": "That's composition teaching you in real time. The camera reveals what the eye ignored until you had to frame it.",
             "zh": "這就是構圖在即時教你。相機會把眼睛原本略過的東西逼到你面前，因為你必須替畫面取景。"
           },
           {
@@ -703,7 +703,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because light creates mood before anything else. It tells the image whether to feel harsh, tender, quiet, or exposed.",
+            "en": "That's because light creates mood before anything else. It tells the image whether to feel harsh, tender, quiet, or exposed.",
             "zh": "那是因為光會比其他東西更早決定情緒。它會先告訴畫面要感覺刺、溫柔、安靜，還是完全暴露。"
           },
           {
@@ -762,7 +762,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds strong without sounding pretentious.",
+            "en": "I can see that. It sounds strong without sounding pretentious.",
             "zh": "這句很有力，可是又不會裝。"
           },
           {
@@ -786,7 +786,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful way to explain why some photos feel more poetic.",
+            "en": "I like that as a beautiful way to explain why some photos feel more poetic.",
             "zh": "這真的很適合拿來解釋，為什麼有些照片會比較有詩意。"
           },
           {
@@ -815,7 +815,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds a little boring, but also kind of brilliant.",
+            "en": "I can see that. It sounds a little boring, but also kind of brilliant.",
             "zh": "這聽起來有一點無聊，可是又很高明。"
           },
           {
@@ -833,20 +833,20 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. it also shows you that seeing is not a personality trait. It is a practice.",
+            "en": "Yes. It also shows you that seeing is not a personality trait. It is a practice.",
             "zh": "對，而且它也會讓你明白，看見不是人格特質，而是一種練習。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is weirdly encouraging.",
+            "en": "That's weirdly encouraging.",
             "zh": "這句意外地很鼓舞人。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Anything trainable is less intimidating than people imagine.",
-            "zh": "很好。只要是能練的東西，通常就沒有大家想像得那麼可怕。"
+            "en": "For listening practice, notice the shape of this sentence. Anything trainable is less intimidating than people imagine.",
+            "zh": "我們把它變得更實用一點。只要是能練的東西，通常就沒有大家想像得那麼可怕。"
           }
         ]
       },
@@ -868,7 +868,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like an upgrade to daily life, not just to art.",
+            "en": "I can see why you'd say that. It does feel like an upgrade to daily life, not just to art.",
             "zh": "這聽起來是對日常生活的升級，不只是對藝術而已。"
           },
           {
@@ -898,8 +898,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. The best art questions usually do.",
-            "zh": "很好。最好的藝術問題，本來就都很會留下來。"
+            "en": "Let's bring it down to one situation. The best art questions usually do.",
+            "zh": "我們把它變得更實用一點。最好的藝術問題，本來就都很會留下來。"
           }
         ]
       }
@@ -967,7 +967,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because editing is not cleanup. Even a quick contact sheet review is already the start of meaning-making.",
+            "en": "That's because editing is not cleanup. Even a quick contact sheet review is already the start of meaning-making.",
             "zh": "那是因為編選不是清理而已。就連很快地看一遍縮圖表，也已經是在開始做意義了。"
           },
           {
@@ -1026,7 +1026,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true in editing, and honestly kind of true in life too.",
+            "en": "That's true in editing, and honestly kind of true in life too.",
             "zh": "這件事在編輯裡是真的，老實說在生活裡也有點是真的。"
           },
           {
@@ -1044,13 +1044,13 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. also trusting the viewer. You do not need to explain every detail if the feeling is already there.",
+            "en": "Yes. Also trusting the viewer. You do not need to explain every detail if the feeling is already there.",
             "zh": "對，而且還要信任觀者。如果感覺已經到了，你不需要把每個細節都解釋完。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is hard for people who are afraid of being misunderstood.",
+            "en": "That's hard for people who are afraid of being misunderstood.",
             "zh": "對很怕被誤解的人來說，這真的很難。"
           },
           {
@@ -1079,7 +1079,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is nice because it focuses on feeling, not just sharpness or quality.",
+            "en": "That's nice because it focuses on feeling, not just sharpness or quality.",
             "zh": "這句很好，因為它在講感覺，不只是銳利度或畫質。"
           },
           {
@@ -1091,7 +1091,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds exactly like what I am trying to learn to do.",
+            "en": "I can see that. It sounds exactly like what I am trying to learn to do.",
             "zh": "這句聽起來就是我想學會的事情。"
           },
           {
@@ -1103,7 +1103,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is useful because sometimes one photo is average alone but strong in a set.",
+            "en": "I like that; it is useful because sometimes one photo is average alone but strong in a set.",
             "zh": "這句很有用，因為有時候一張照片單看普通，可是放進一組裡就會變強。"
           },
           {
@@ -1162,7 +1162,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often a good place to start.",
+            "en": "That's often a good place to start.",
             "zh": "那通常就是一個很好的起點。"
           },
           {
@@ -1180,14 +1180,14 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds true in work, relationships, and almost everything else.",
+            "en": "I can see that. It sounds true in work, relationships, and almost everything else.",
             "zh": "這句放在工作、關係，還有幾乎所有事情上都說得通。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Taste is partly the courage to say, this belongs, and this does not.",
-            "zh": "完全沒錯。品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
+            "en": "The part I keep noticing is this: Taste is partly the courage to say, this belongs, and this does not.",
+            "zh": "這裡有一個常被忽略的地方：品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
           },
           {
             "speaker": "b",
@@ -1291,7 +1291,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly why it helps. Visual journaling is not performance. It is contact.",
+            "en": "That's exactly why it helps. Visual journaling is not performance. It is contact.",
             "zh": "這也正是它有幫助的原因。視覺日記不是表演，它比較像是接觸。"
           },
           {
@@ -1338,14 +1338,14 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true. Sometimes words come with pressure, but a line on paper does not.",
-            "zh": "這真的。文字有時候會帶著壓力，可是一條線不會。"
+            "en": "True. Sometimes words come with pressure, but a line on paper does not.",
+            "zh": "是真的。文字有時候會帶著壓力，可是一條線不會。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A mark can hold emotion without needing to summarize it.",
-            "zh": "完全沒錯。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。"
+            "en": "Mostly, yes. A mark can hold emotion without needing to summarize it.",
+            "zh": "大致上是。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。"
           },
           {
             "speaker": "b",
@@ -1385,13 +1385,13 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One natural option is, 'It gives my mind somewhere gentle to land.'",
+            "en": "One option I would keep ready is, 'It gives my mind somewhere gentle to land.'",
             "zh": "這裡很自然的說法是：「It gives my mind somewhere gentle to land.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is lovely. It sounds emotional, but not overblown.",
+            "en": "I like that; it is lovely. It sounds emotional, but not overblown.",
             "zh": "這句很美，情緒有到，可是又不會太滿。"
           },
           {
@@ -1403,7 +1403,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the difference I have been trying to describe.",
+            "en": "That's exactly the difference I have been trying to describe.",
             "zh": "這真的就是我一直想描述的差別。"
           },
           {
@@ -1415,14 +1415,14 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence I will actually use.",
+            "en": "I like that as a sentence I will actually use.",
             "zh": "這句我真的會拿去用。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Language is most helpful when it matches the experience instead of sounding borrowed.",
-            "zh": "很好。語言最好用的時候，就是它真的貼著經驗，不像借來的。"
+            "en": "In ordinary life, the line gets smaller. Language is most helpful when it matches the experience instead of sounding borrowed.",
+            "zh": "我們把它變得更實用一點。語言最好用的時候，就是它真的貼著經驗，不像借來的。"
           }
         ]
       },
@@ -1456,7 +1456,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds so freeing.",
+            "en": "I can see that. It sounds so freeing.",
             "zh": "這聽起來真的很自由。"
           },
           {
@@ -1497,14 +1497,14 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more valuable than I used to understand.",
+            "en": "I can see that. It sounds more valuable than I used to understand.",
             "zh": "這比我以前理解的價值大太多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many adults lose contact with themselves because every part of life gets optimized. Art interrupts that.",
-            "zh": "很多成年人會和自己失聯，是因為生活每一塊都被拿去優化了。藝術會打斷這件事。"
+            "zh": "很多成年人會和自己失聯，是因為生活每一塊都被拿去最佳化了。藝術會打斷這件事。"
           },
           {
             "speaker": "b",
@@ -1661,8 +1661,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Numbers can tell you what got quick attention, but not what had depth, staying power, or real artistic risk.",
-            "zh": "完全沒錯。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。"
+            "en": "Yes, and that is the key. Numbers can tell you what got quick attention, but not what had depth, staying power, or real artistic risk.",
+            "zh": "這裡是我想特別畫線的地方。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。"
           },
           {
             "speaker": "b",
@@ -1685,7 +1685,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that drift can happen quietly, which is why people need places where they can make things unmeasured.",
+            "en": "Yes. That drift can happen quietly, which is why people need places where they can make things unmeasured.",
             "zh": "對，而且那種漂移常常發生得很安靜，所以人才需要一些不被量化的地方來做東西。"
           }
         ]
@@ -1708,7 +1708,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really good. It sounds protective, not embarrassed.",
+            "en": "That's really good. It sounds protective, not embarrassed.",
             "zh": "這句真的很好，聽起來是在保護，不是在不好意思。"
           },
           {
@@ -1738,8 +1738,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Clear boundary language protects both your process and your confidence.",
-            "zh": "很好。清楚的界線語言，可以同時保護你的創作流程和自信。"
+            "en": "Here is one natural option. Clear boundary language protects both your process and your confidence.",
+            "zh": "我們把它變得更實用一點。清楚的界線語言，可以同時保護你的創作流程和自信。"
           }
         ]
       },
@@ -1779,14 +1779,14 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Frustration often gets lighter once you name the system creating it.",
-            "zh": "很好。很多挫折，只要你把造成它的系統叫出來，它就會輕一點。"
+            "en": "In plain English, I would say it this way. Frustration often gets lighter once you name the system creating it.",
+            "zh": "我們把它變得更實用一點。很多挫折，只要你把造成它的系統叫出來，它就會輕一點。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the answer is not disappearing forever. It is designing a healthier relationship to visibility.",
-            "zh": "所以答案不是永遠消失，而是設計一個和曝光比較健康的關係。"
+            "en": "So the answer is not disappearing forever. It is designing a healthier relationship to visibility. Is the simple version too simple?",
+            "zh": "所以答案不是永遠消失，而是設計一個和曝光比較健康的關係。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1832,8 +1832,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Artists need images like that too. They help people remember there is still a self outside the platform.",
-            "zh": "很好。創作者也需要這種畫面，它會提醒人：平台之外，還是有一個自己。"
+            "en": "On an ordinary day, the sentence gets simpler. Artists need images like that too. They help people remember there is still a self outside the platform.",
+            "zh": "我們把它變得更實用一點。創作者也需要這種畫面，它會提醒人：平台之外，還是有一個自己。"
           },
           {
             "speaker": "b",
@@ -1913,7 +1913,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the best side effects of art. It enlarges perception before it changes output.",
+            "en": "That's one of the best side effects of art. It enlarges perception before it changes output.",
             "zh": "這其實是藝術最好的副作用之一。它通常是在改變你的作品之前，先把你的感知放大。"
           },
           {
@@ -2025,7 +2025,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is so simple and good.",
+            "en": "That's so simple and good.",
             "zh": "這句真的又簡單又好。"
           },
           {
@@ -2055,8 +2055,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. The right sentence can help you keep a big lesson close.",
-            "zh": "很好。對的句子，會幫你把一個大的體會放在手邊。"
+            "en": "For listening practice, notice the shape of this sentence. The right sentence can help you keep a big lesson close.",
+            "zh": "我們把它變得更實用一點。對的句子，會幫你把一個大的體會放在手邊。"
           }
         ]
       },
@@ -2078,13 +2078,13 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels true. Some days the city looks rich, and some days it just feels like too much information.",
+            "en": "That seems true. Some days the city looks rich, and some days it just feels like too much information.",
             "zh": "這很真。有些日子城市看起來很豐富，有些日子就只是資訊爆量。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why artists need rhythm, not only openness. You have to know when to take in and when to step back.",
+            "en": "That's why artists need rhythm, not only openness. You have to know when to take in and when to step back.",
             "zh": "這也就是為什麼創作者需要節奏，不只是敞開。你要知道什麼時候吸收，什麼時候退後。"
           },
           {
@@ -2096,8 +2096,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A good artistic life is not endless exposure. It is exposure with recovery.",
-            "zh": "完全沒錯。好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
+            "en": "This matters more than it first seems: A good artistic life is not endless exposure. It is exposure with recovery.",
+            "zh": "這裡有一個常被忽略的地方：好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
           },
           {
             "speaker": "b",
@@ -2149,8 +2149,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A richer way of seeing usually becomes a richer way of living.",
-            "zh": "完全沒錯。更豐富的看見方式，通常也會慢慢變成更豐富的生活方式。"
+            "en": "Mostly, yes. A richer way of seeing usually becomes a richer way of living.",
+            "zh": "大致上是。更豐富的看見方式，通常也會慢慢變成更豐富的生活方式。"
           },
           {
             "speaker": "b",

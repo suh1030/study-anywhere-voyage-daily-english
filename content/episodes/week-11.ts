@@ -21,7 +21,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what a close friend feels like. The gap disappears because the trust is already there. You do not need to rebuild it every time.",
+            "en": "That's what a close friend feels like. The gap disappears because the trust is already there. You do not need to rebuild it every time.",
             "zh": "那就是親近的朋友的感覺。距離消失是因為信任早就在那裡了，你不需要每次都重新建立。"
           },
           {
@@ -57,7 +57,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the simplest test. After you spend time with them, do you feel better or more drained? The answer tells you a lot.",
+            "en": "That's the simplest test. After you spend time with them, do you feel better or more drained? The answer tells you a lot.",
             "zh": "那是最簡單的測試。跟他們相處之後，你感覺好一點還是更累？答案能說明很多事情。"
           }
         ]
@@ -139,8 +139,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. That second sentence creates a picture. The listener can see the friendship, not just label it.",
-            "zh": "沒錯。第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
+            "en": "What often gets hidden is this: That second sentence creates a picture. The listener can see the friendship, not just label it.",
+            "zh": "這裡有一個常被忽略的地方：第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
           },
           {
             "speaker": "b",
@@ -210,8 +210,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the habit is being just a little more honest a little more often.",
-            "zh": "所以這個習慣就是更常一點點、更誠實一點點。"
+            "en": "So the habit is being just a little more honest a little more often. Would you say it works like that in real life?",
+            "zh": "所以這個習慣就是更常一點點、更誠實一點點。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -251,7 +251,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a quiet kind of imbalance. And it probably builds up over time.",
+            "en": "That's a quiet kind of imbalance. And it probably builds up over time.",
             "zh": "那是一種安靜的失衡。而且大概會隨著時間累積。"
           },
           {
@@ -269,8 +269,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. And that takes time. You cannot rush the kind of trust that makes that possible.",
-            "zh": "沒錯。而那需要時間。讓那成為可能的那種信任，是急不來的。"
+            "en": "Mostly, yes. And that takes time. You cannot rush the kind of trust that makes that possible.",
+            "zh": "大致上是。而那需要時間。讓那成為可能的那種信任，是急不來的。"
           }
         ]
       }
@@ -350,8 +350,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Friendship needs repeated contact and a low-stakes setting. Work can help, but work also has performance pressure.",
-            "zh": "沒錯。友誼需要重複接觸和低壓力的環境。工作可以幫忙，但工作也有表現壓力。"
+            "en": "Yes, and friendship needs repeated contact and a low-stakes setting. Work can help, but work also has performance pressure.",
+            "zh": "對，而且友誼需要重複接觸和低壓力的環境。工作可以幫忙，但工作也有表現壓力。"
           },
           {
             "speaker": "b",
@@ -362,7 +362,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the hardest part. The awkward phase is not a sign you are incompatible. It is just what the beginning of any connection feels like.",
+            "en": "That's the hardest part. The awkward phase is not a sign you are incompatible. It is just what the beginning of any connection feels like.",
             "zh": "那是最難的部分。尷尬的階段不是你們不合的訊號，那只是任何連結開始時的感覺。"
           },
           {
@@ -403,7 +403,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very common trap. One flat conversation does not determine anything. Friendships are built across many ordinary moments.",
+            "en": "That's a very common trap. One flat conversation does not determine anything. Friendships are built across many ordinary moments.",
             "zh": "那是非常常見的陷阱。一次沒什麼火花的對話不決定任何事。友誼是在很多普通時刻中建立起來的。"
           },
           {
@@ -521,14 +521,14 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
-            "zh": "沒錯。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
+            "en": "Right. That is what makes the sentence work. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
+            "zh": "這裡是我想特別畫線的地方。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the secret is to make the first step small enough that the fear does not win.",
-            "zh": "所以秘訣是讓第一步小到恐懼贏不了。"
+            "en": "So the secret is to make the first step small enough that the fear does not win. Is that how you would explain it?",
+            "zh": "所以秘訣是讓第一步小到恐懼贏不了。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -714,8 +714,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the explanation I think they need is really something I am demanding of myself.",
-            "zh": "所以我以為他們需要的解釋，其實是我對自己的要求。"
+            "en": "So the explanation I think they need is really something I am demanding of myself. I can imagine someone pushing back on that.",
+            "zh": "所以我以為他們需要的解釋，其實是我對自己的要求。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -844,13 +844,13 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the friendship does not depend on covering the gap. It just depends on reconnecting in this moment.",
-            "zh": "所以友誼不在於填補那段空白，而在於在這個當下重新連結。"
+            "en": "So the friendship does not depend on covering the gap. It just depends on reconnecting in this moment. Tell me if I am smoothing over the hard part.",
+            "zh": "所以友誼不在於填補那段空白，而在於在這個當下重新連結。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is it. Distance does not erase shared history. It just means you have to choose to continue writing it.",
+            "en": "That's it. Distance does not erase shared history. It just means you have to choose to continue writing it.",
             "zh": "就是這樣。距離不會抹去共同的過去，只是意味著你必須選擇繼續書寫它。"
           }
         ]
@@ -931,7 +931,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the trap. Reaching out first is not about who was right. It is about whether you value the friendship enough to take the risk.",
+            "en": "That's the trap. Reaching out first is not about who was right. It is about whether you value the friendship enough to take the risk.",
             "zh": "那就是陷阱所在。先主動聯絡不是關於誰對誰錯。它是關於你是否夠珍視這段友誼，願意承擔那個風險。"
           },
           {
@@ -1003,7 +1003,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So conflict is not just a problem. It can be a test that the friendship passes.",
-            "zh": "所以衝突不只是問題，它可以是這段友誼通過的一個測試。"
+            "zh": "所以衝突不只是問題，它可以是這段友誼會經歷的一場考驗。"
           },
           {
             "speaker": "a",
@@ -1061,7 +1061,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is their right. An apology is an offer, not a demand for forgiveness. Sometimes people need time to process before they can respond.",
+            "en": "That's their right. An apology is an offer, not a demand for forgiveness. Sometimes people need time to process before they can respond.",
             "zh": "那是他們的權利。道歉是一個提議，而不是要求原諒。有時候人們在能夠回應之前需要時間消化。"
           }
         ]
@@ -1096,7 +1096,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is gentle. It says a lot without being overwhelming.",
+            "en": "That's gentle. It says a lot without being overwhelming.",
             "zh": "那很溫和。它說了很多，但又不讓人不知所措。"
           },
           {
@@ -1149,7 +1149,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is different from just defending myself. I am actually trying to understand their side.",
+            "en": "That's different from just defending myself. I am actually trying to understand their side.",
             "zh": "那和只是為自己辯護不同。我是真的在嘗試理解他們的那一面。"
           },
           {
@@ -1237,7 +1237,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Social media is optimized for visibility, not connection. You can be seen by many people and still not feel truly known by anyone.",
-            "zh": "社群媒體是為了曝光而優化，不是為了連結。你可以被很多人看見，但還是不覺得被任何人真正了解。"
+            "zh": "社群媒體是為了曝光而最佳化，不是為了連結。你可以被很多人看見，但還是不覺得被任何人真正了解。"
           },
           {
             "speaker": "b",
@@ -1260,7 +1260,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is comparison. People post their highlights, and you compare their best moments to your ordinary Tuesday. It is not a fair comparison.",
+            "en": "That's comparison. People post their highlights, and you compare their best moments to your ordinary Tuesday. It is not a fair comparison.",
             "zh": "那是比較。人們貼出他們的精彩時刻，而你把他們最好的時刻和你平凡的週二相比。那不是公平的比較。"
           },
           {
@@ -1295,14 +1295,14 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the habit of passive engagement can make us feel like we are maintaining friendships when we are actually just watching them from a distance.",
-            "zh": "所以被動互動的習慣會讓我們覺得在維持友誼，實際上我們只是在遠距離觀看。"
+            "en": "So the habit of passive engagement can make us feel like we are maintaining friendships when we are actually just watching them from a distance. Does that match what you mean?",
+            "zh": "所以被動互動的習慣會讓我們覺得在維持友誼，實際上我們只是在遠距離觀看。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
-            "zh": "沒錯。而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
+            "en": "This is where real life gets messier: And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
+            "zh": "這裡有一個常被忽略的地方：而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
           },
           {
             "speaker": "b",
@@ -1407,8 +1407,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The difference between \"I liked your photo\" and \"I saw your photo and thought about you all day\" is enormous.",
-            "zh": "沒錯。「我按了你的照片讚」和「我看到你的照片想了你一整天」之間的差距是巨大的。"
+            "en": "Mostly, yes. The difference between \"I liked your photo\" and \"I saw your photo and thought about you all day\" is enormous.",
+            "zh": "大致上是。「我按了你的照片讚」和「我看到你的照片想了你一整天」之間的差距是巨大的。"
           },
           {
             "speaker": "b",
@@ -1425,14 +1425,14 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the tool is not the problem. The habit around it is.",
-            "zh": "所以工具不是問題，圍繞它的習慣才是。"
+            "en": "So the tool is not the problem. The habit around it is. Or is there a real-life exception here?",
+            "zh": "所以工具不是問題，圍繞它的習慣才是。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The same app can either deepen a friendship or hollow it out. Depends entirely on how you use it.",
-            "zh": "對。同一個應用程式可以深化一段友誼，也可以掏空它。完全取決於你怎麼用。"
+            "zh": "對。同一個app可以深化一段友誼，也可以掏空它。完全取決於你怎麼用。"
           },
           {
             "speaker": "b",
@@ -1473,7 +1473,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a way of thinking about it I had not considered before. Digital discipline as a friendship skill.",
+            "en": "That's a way of thinking about it I had not considered before. Digital discipline as a friendship skill.",
             "zh": "那是我以前沒有想過的思考方式。數位自律作為一種友誼技能。"
           },
           {
@@ -1691,7 +1691,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Show the feeling through the behavior. That is how you make a description land.",
-            "zh": "對。通過行為展示感覺。那是讓描述有分量的方式。"
+            "zh": "對。透過行為展示感覺。那是讓描述有分量的方式。"
           }
         ]
       },
@@ -1737,7 +1737,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is something I had not thought about. Being excited for them matters as much as being there for them.",
+            "en": "That's something I had not thought about. Being excited for them matters as much as being there for them.",
             "zh": "那是我沒有想到的事。為他們感到興奮和在他們身邊一樣重要。"
           },
           {
@@ -1924,8 +1924,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the friendship survives as long as both people stay curious about each other.",
-            "zh": "所以只要兩個人都保持對彼此的好奇心，友誼就能存活。"
+            "en": "So the friendship survives as long as both people stay curious about each other. Would you say it works like that in real life?",
+            "zh": "所以只要兩個人都保持對彼此的好奇心，友誼就能存活。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1995,8 +1995,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
-            "zh": "沒錯。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
+            "en": "That is the part worth practicing. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
+            "zh": "這裡是我想特別畫線的地方。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
           },
           {
             "speaker": "b",
@@ -2007,7 +2007,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is wise. Sometimes you park the topic and return to the friendship. Not everything needs to be settled to move forward.",
+            "en": "That's wise. Sometimes you park the topic and return to the friendship. Not everything needs to be settled to move forward.",
             "zh": "那很明智。有時候你把話題擱置，回到友誼本身。並不是所有事情都需要解決才能繼續前進。"
           }
         ]
@@ -2042,7 +2042,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds uncomfortable in a valuable way.",
+            "en": "I can see that. It sounds uncomfortable in a valuable way.",
             "zh": "那聽起來是一種有價值的不舒服。"
           },
           {
@@ -2060,7 +2060,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a benefit you rarely see coming. Cross-difference friendships expand your thinking without you even trying.",
+            "en": "That's a benefit you rarely see coming. Cross-difference friendships expand your thinking without you even trying.",
             "zh": "那是你很少預料到的好處。跨越差異的友誼在你不刻意的情況下拓展了你的思維。"
           }
         ]

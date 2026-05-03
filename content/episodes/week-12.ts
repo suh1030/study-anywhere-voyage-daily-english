@@ -98,7 +98,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the sibling bond too. You grow up sharing space, competing, and somehow still looking out for each other.",
+            "en": "That's the sibling bond too. You grow up sharing space, competing, and somehow still looking out for each other.",
             "zh": "手足情也是這樣。你們在同一個空間長大，競爭，但又莫名地相互照顧。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually a very common sibling pattern. The person who irritates you most is often the one who knows you best.",
+            "en": "That's actually a very common sibling pattern. The person who irritates you most is often the one who knows you best.",
             "zh": "這其實是很常見的手足模式。最讓你抓狂的那個人，往往也是最了解你的人。"
           }
         ]
@@ -133,7 +133,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is so accurate it hurts.",
+            "en": "That's so accurate it hurts.",
             "zh": "這準確到讓我有點心痛。"
           },
           {
@@ -151,8 +151,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. English is most convincing when it is specific. Listeners do not need the full picture — they just need one true detail.",
-            "zh": "對。英文最有說服力的時候，就是它很具體的時候。聽的人不需要完整全貌，只需要一個真實的細節。"
+            "en": "Here is the version I would actually use. English is most convincing when it is specific. Listeners do not need the full picture — they just need one true detail.",
+            "zh": "我們把它變得更實用一點。英文最有說服力的時候，就是它很具體的時候。聽的人不需要完整全貌，只需要一個真實的細節。"
           },
           {
             "speaker": "b",
@@ -163,8 +163,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A summary explains. A description puts the listener in the room with you.",
-            "zh": "沒錯。總結是在解釋，描述是在把對方帶進那個房間裡。"
+            "en": "Yes, and a summary explains. A description puts the listener in the room with you.",
+            "zh": "對，而且總結是在解釋，描述是在把對方帶進那個房間裡。"
           }
         ]
       },
@@ -198,7 +198,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels a lot less overwhelming to answer than a big open question.",
+            "en": "I get why that is a lot less overwhelming to answer than a big open question.",
             "zh": "這種問題比大哉問好回答多了。"
           },
           {
@@ -233,7 +233,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is not a coincidence. A lot of your habits, fears, and expectations came from that household. They just never had names before.",
+            "en": "That's not a coincidence. A lot of your habits, fears, and expectations came from that household. They just never had names before.",
             "zh": "這不是巧合。你很多習慣、恐懼和期待，都是從那個家來的，只是以前從來沒有被命名過。"
           },
           {
@@ -415,7 +415,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often fear dressed up as control. She was scared of something and could not always say what it was.",
+            "en": "That's often fear dressed up as control. She was scared of something and could not always say what it was.",
             "zh": "那通常是恐懼包裝成控制的樣子。她在害怕某些事情，但不是每次都說得出口是什麼。"
           },
           {
@@ -450,7 +450,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a more honest way to tell it too.",
+            "en": "That's a more honest way to tell it too.",
             "zh": "這樣說其實也更誠實。"
           },
           {
@@ -527,7 +527,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is kind of comforting and kind of sad at the same time.",
+            "en": "I like that; it is kind of comforting and kind of sad at the same time.",
             "zh": "這讓我覺得有點安慰，又有點難過。"
           },
           {
@@ -569,7 +569,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a genuine shift. It does not mean everything was perfect — it means you stopped waiting for a different version of the past.",
+            "en": "That's a genuine shift. It does not mean everything was perfect — it means you stopped waiting for a different version of the past.",
             "zh": "那是真正的轉變。不代表一切都很完美，而是你不再等待一個不同版本的過去。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is birth order in action. The oldest one protects their position, the younger one tries to earn theirs.",
+            "en": "That's birth order in action. The oldest one protects their position, the younger one tries to earn theirs.",
             "zh": "這就是出生順序的作用。老大保護自己的位置，老么則努力爭取自己的。"
           },
           {
@@ -715,7 +715,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the things siblings teach you that nobody else really can. How to deal with someone who irritates you and still shares your space.",
+            "en": "That's one of the things siblings teach you that nobody else really can. How to deal with someone who irritates you and still shares your space.",
             "zh": "這是手足教你的其中一件事，其他人很難教你。如何跟一個讓你抓狂的人相處，而且你們還要住在同一個空間。"
           },
           {
@@ -739,7 +739,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually a very useful social skill. Not every repair needs a formal process.",
+            "en": "That's actually a very useful social skill. Not every repair needs a formal process.",
             "zh": "這其實是很實用的社交技能。不是每次的修復都需要走一個正式的流程。"
           }
         ]
@@ -762,13 +762,13 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true and confusing at the same time.",
+            "en": "That's true and confusing at the same time.",
             "zh": "這是真的，但同時又很讓人困惑。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what siblings usually sound like. You can also say, \"We grew apart for a few years and then life pulled us back.\"",
+            "en": "That's what siblings usually sound like. You can also say, \"We grew apart for a few years and then life pulled us back.\"",
             "zh": "這就是手足關係聽起來的樣子。你也可以說：「我們有幾年漸行漸遠，然後生活又把我們拉回來了。」"
           },
           {
@@ -809,7 +809,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a common point where siblings grow apart. Life stages stop matching.",
+            "en": "That's a common point where siblings grow apart. Life stages stop matching.",
             "zh": "這是手足之間很常開始漸行漸遠的時間點。人生階段不再同步了。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what the sibling bond offers that other relationships cannot easily replicate. Pure, unedited history.",
+            "en": "That's what the sibling bond offers that other relationships cannot easily replicate. Pure, unedited history.",
             "zh": "這就是手足情能給你的，其他關係很難複製的東西。純粹、未經剪輯的歷史。"
           },
           {
@@ -1079,7 +1079,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels accurate for most of them.",
+            "en": "That is accurate for most of them.",
             "zh": "這對大多數家族聚會來說都很準確。"
           },
           {
@@ -1150,8 +1150,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Plus, the people in the kitchen usually have better conversations.",
-            "zh": "沒錯。而且在廚房的人通常聊天聊得比較好。"
+            "en": "This is where real life gets messier: Plus, the people in the kitchen usually have better conversations.",
+            "zh": "這裡有一個常被忽略的地方：而且在廚房的人通常聊天聊得比較好。"
           },
           {
             "speaker": "b",
@@ -1209,7 +1209,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much more manageable goal.",
+            "en": "That's a much more manageable goal.",
             "zh": "這是一個容易多了的目標。"
           },
           {
@@ -1296,7 +1296,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what family communication often feels like. The stakes feel high, but you cannot quite find the right register.",
+            "en": "That's what family communication often feels like. The stakes feel high, but you cannot quite find the right register.",
             "zh": "家庭溝通常常就是這種感覺。感覺賭注很高，但你就是找不到對的語氣。"
           },
           {
@@ -1349,7 +1349,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what happens when people bottle up emotions. The pressure builds and it usually comes out sideways — an argument about dishes instead of the real thing.",
+            "en": "That's what happens when people bottle up emotions. The pressure builds and it usually comes out sideways — an argument about dishes instead of the real thing.",
             "zh": "這就是當人們壓抑情緒時發生的事。壓力會累積，然後通常從旁邊洩出來——為碗盤爭吵，而不是真正的問題。"
           },
           {
@@ -1402,8 +1402,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
-            "zh": "沒錯。你也可以試試說：「我想談一件事——我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
+            "en": "Mostly, yes. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
+            "zh": "大致上是。你也可以試試說：「我想談一件事——我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
           },
           {
             "speaker": "b",
@@ -1520,7 +1520,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what good family communication eventually becomes. Not perfect — but genuine. Everyone can say what they feel and know they will be heard.",
+            "en": "That's what good family communication eventually becomes. Not perfect — but genuine. Everyone can say what they feel and know they will be heard.",
             "zh": "這就是好的家庭溝通最終的樣子。不是完美的，而是真實的。每個人都能說出自己的感受，也知道會被聽見。"
           },
           {
@@ -1654,7 +1654,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is very common. The conversation feels like an admission — like having it means something bad is already happening.",
+            "en": "That's very common. The conversation feels like an admission — like having it means something bad is already happening.",
             "zh": "這很常見。那場對話感覺像是一種承認——好像開口談這件事，就代表壞事已經在發生了。"
           },
           {
@@ -1684,7 +1684,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much better entry point than \"We need to talk about what happens if you get sick.\"",
+            "en": "That's a much better entry point than \"We need to talk about what happens if you get sick.\"",
             "zh": "這比「我們需要談一下你們生病了怎麼辦」好多了。"
           },
           {
@@ -1820,14 +1820,14 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why you keep going. Not because every visit is meaningful in an obvious way. But because sometimes one Saturday changes the texture of the whole relationship.",
-            "zh": "這就是為什麼你要繼續去。不是因為每次探訪都以顯而易見的方式有意義，而是因為有時候一個週六就改變了整段關係的質地。"
+            "en": "That's why you keep going. Not because every visit is meaningful in an obvious way. But because sometimes one Saturday changes the texture of the whole relationship.",
+            "zh": "也就是為什麼你要繼續去。不是因為每次探訪都以顯而易見的方式有意義，而是因為有時候一個週六就改變了整段關係的質地。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The support system for aging parents is not just practical. It is emotional.",
-            "zh": "對年邁父母的支持系統不只是實際層面的。它也是情感層面的。"
+            "zh": "對年邁父母的支援系統不只是實際層面的。它也是情感層面的。"
           },
           {
             "speaker": "a",
@@ -1883,7 +1883,7 @@ export const WEEK_12: Episode[] = [
       },
       {
         "en": "support system",
-        "zh": "支持系統",
+        "zh": "支援系統",
         "example": "A strong support system for aging parents usually involves more than one person sharing the responsibility."
       },
       {
@@ -1913,7 +1913,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is your chosen family. The people you selected, and who selected you back.",
+            "en": "That's your chosen family. The people you selected, and who selected you back.",
             "zh": "那就是你自己選的家人。你選了他們，他們也選了你。"
           },
           {
@@ -2031,8 +2031,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. You do not need a label. You just need to communicate closeness and shared history.",
-            "zh": "沒錯。你不需要標籤，你只需要傳遞親密和共同歷史。"
+            "en": "That is the part worth practicing. You do not need a label. You just need to communicate closeness and shared history.",
+            "zh": "這裡是我想特別畫線的地方。你不需要標籤，你只需要傳遞親密和共同歷史。"
           },
           {
             "speaker": "b",
@@ -2072,7 +2072,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the challenge of chosen family. It does not have the automatic gravity that blood relationships have.",
+            "en": "That's the challenge of chosen family. It does not have the automatic gravity that blood relationships have.",
             "zh": "這就是自己選的家人的挑戰。它沒有血親關係那種自動的引力。"
           },
           {
@@ -2096,14 +2096,14 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly right. Consistency matters more than intensity. A brief, regular signal says: I am still thinking about you.",
+            "en": "That's exactly right. Consistency matters more than intensity. A brief, regular signal says: I am still thinking about you.",
             "zh": "這就對了。持續性比強度更重要。一個簡短、規律的信號在說：我還在想你。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the investment is mostly time and attention, not dramatic gestures.",
-            "zh": "所以這個投資主要是時間和注意力，不是戲劇性的舉動。"
+            "en": "So the investment is mostly time and attention, not dramatic gestures. Is that too tidy a way to put it?",
+            "zh": "所以這個投資主要是時間和注意力，不是戲劇性的舉動。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -2137,7 +2137,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good definition. Broad enough to include chosen family and specific enough to exclude anyone who is just physically present.",
+            "en": "I like that as a good definition. Broad enough to include chosen family and specific enough to exclude anyone who is just physically present.",
             "zh": "這是個好定義。夠寬廣，可以包含自己選的家人；也夠具體，可以排除那些只是人在場的人。"
           },
           {
@@ -2149,8 +2149,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a real support system. Not enormous, but solid.",
-            "zh": "那就是一個真實的支持系統。不用很龐大，但很扎實。"
+            "en": "That's a real support system. Not enormous, but solid.",
+            "zh": "那就是一個真實的支援系統。不用很龐大，但很扎實。"
           },
           {
             "speaker": "b",

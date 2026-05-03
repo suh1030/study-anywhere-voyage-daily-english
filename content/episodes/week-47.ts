@@ -110,8 +110,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good cross-cultural understanding is built from questions strong enough to outlast your first impression.",
-            "zh": "沒錯。好的跨文化理解，來自那些強到足以撐過第一印象的問題。"
+            "en": "Yes, and good cross-cultural understanding is built from questions strong enough to outlast your first impression.",
+            "zh": "對，而且好的跨文化理解，來自那些強到足以撐過第一印象的問題。"
           }
         ]
       },
@@ -133,7 +133,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels usable right away.",
+            "en": "That seems usable right away.",
             "zh": "這句感覺我現在就能拿來用。"
           },
           {
@@ -163,8 +163,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. The best language for this topic usually sounds observant rather than superior.",
-            "zh": "很好。這個主題最好用的語言，通常是觀察式的，不是高高在上的。"
+            "en": "Here is the version I would actually use. The best language for this topic usually sounds observant rather than superior.",
+            "zh": "我們把它變得更實用一點。這個主題最好用的語言，通常是觀察式的，不是高高在上的。"
           }
         ]
       },
@@ -204,8 +204,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Cross-cultural skill often means pausing long enough to ask, \"What meaning might this behavior carry for them?\"",
-            "zh": "這就是重點。跨文化能力，很多時候就是多停一下，去問：「這個行為對他來說，可能帶著什麼意思？」"
+            "en": "Yes, and that is the key. Cross-cultural skill often means pausing long enough to ask, \"What meaning might this behavior carry for them?\"",
+            "zh": "這裡是我想特別畫線的地方。跨文化能力，很多時候就是多停一下，去問：「這個行為對他來說，可能帶著什麼意思？」"
           },
           {
             "speaker": "b",
@@ -234,7 +234,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds simple, but not easy.",
+            "en": "I can see that. It sounds simple, but not easy.",
             "zh": "這聽起來很簡單，但一點都不容易。"
           },
           {
@@ -345,8 +345,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
-            "zh": "沒錯。直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
+            "en": "This matters more than it first seems: Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
+            "zh": "這裡有一個常被忽略的地方：直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
           },
           {
             "speaker": "b",
@@ -357,7 +357,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. the risk is that people judge character when they are really encountering a different operating system.",
+            "en": "Yes. The risk is that people judge character when they are really encountering a different operating system.",
             "zh": "對。而最大的風險，是人以為自己在判斷人格，其實只是在撞到不同的作業系統。"
           },
           {
@@ -398,8 +398,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
-            "zh": "沒錯。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。"
+            "en": "Mostly, yes. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
+            "zh": "大致上是。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。"
           },
           {
             "speaker": "b",
@@ -522,7 +522,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels more like a very good distinction.",
+            "en": "That is a good distinction.",
             "zh": "這個區別很好。"
           },
           {
@@ -563,7 +563,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more realistic.",
+            "en": "That sounds much more realistic.",
             "zh": "這樣聽起來現實得多。"
           },
           {
@@ -581,8 +581,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Once people see that, they usually stop chasing perfection and start building trust.",
-            "zh": "很好。當人看見這一點時，他們通常就會停止追求完美，開始建立信任。"
+            "en": "A real-life example helps here. Once people see that, they usually stop chasing perfection and start building trust.",
+            "zh": "我們把它變得更實用一點。當人看見這一點時，他們通常就會停止追求完美，開始建立信任。"
           }
         ]
       }
@@ -595,7 +595,7 @@ export const WEEK_47: Episode[] = [
       },
       {
         "en": "workplace directness",
-        "zh": "在職場裡講話要多直接才算恰當的文化感",
+        "zh": "職場中「多直接才算恰當」的文化差異",
         "example": "Workplace directness varies more than people think."
       },
       {
@@ -709,14 +709,14 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much richer than asking what people like to eat.",
+            "en": "That's much richer than asking what people like to eat.",
             "zh": "這比單純問別人喜歡吃什麼，豐富太多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
-            "zh": "沒錯。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
+            "en": "That is the point to remember. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
+            "zh": "這裡是我想特別畫線的地方。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
           },
           {
             "speaker": "b",
@@ -739,7 +739,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that order matters when you are trying to understand someone kindly.",
+            "en": "Yes. That order matters when you are trying to understand someone kindly.",
             "zh": "對。而如果你想帶著善意去理解一個人，這個順序很重要。"
           }
         ]
@@ -762,7 +762,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful line.",
+            "en": "I like that as a beautiful line.",
             "zh": "這句很美。"
           },
           {
@@ -774,7 +774,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds thoughtful and not too academic.",
+            "en": "I can see that. It sounds thoughtful and not too academic.",
             "zh": "這句聽起來有思考，但不會太學術。"
           },
           {
@@ -827,7 +827,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much easier than asking for a cultural essay.",
+            "en": "I can see that. It sounds much easier than asking for a cultural essay.",
             "zh": "這比直接叫人交一篇文化論文容易太多。"
           },
           {
@@ -845,7 +845,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. from that doorway, bigger conversations often become possible.",
+            "en": "Yes. From that doorway, bigger conversations often become possible.",
             "zh": "對。而從那扇門走進去之後，更大的對話也常常就變得可能了。"
           },
           {
@@ -962,8 +962,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. Curiosity changes travel from consumption into relationship. You stop asking only what a place can give you and start asking what it is trying to tell you.",
-            "zh": "這是真的。好奇心會把旅行從消費，慢慢轉成關係。你不再只問一個地方能給你什麼，而開始問：這個地方正在對你說什麼。"
+            "en": "True. Curiosity changes travel from consumption into relationship. You stop asking only what a place can give you and start asking what it is trying to tell you.",
+            "zh": "是真的。好奇心會把旅行從消費，慢慢轉成關係。你不再只問一個地方能給你什麼，而開始問：這個地方正在對你說什麼。"
           },
           {
             "speaker": "b",
@@ -992,7 +992,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds useful for more than travel.",
+            "en": "I can see that. It sounds useful for more than travel.",
             "zh": "這個說法不只對旅行有用。"
           },
           {
@@ -1074,13 +1074,13 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much richer than just saying you liked it.",
+            "en": "That's much richer than just saying you liked it.",
             "zh": "這比單純說喜不喜歡豐富太多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"The more I noticed, the less confident I became in my first assumptions.\" That works when travel made you more humble.",
+            "en": "You could keep it simple and say, \"The more I noticed, the less confident I became in my first assumptions.\" That works when travel made you more humble.",
             "zh": "另一句也很好：「The more I noticed, the less confident I became in my first assumptions.」這很適合描述旅行讓你變得更謙卑。"
           },
           {
@@ -1151,8 +1151,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why travel can change people.",
-            "zh": "這就是為什麼旅行真的會改變人。"
+            "en": "That's why travel can change people.",
+            "zh": "也就是為什麼旅行真的會改變人。"
           },
           {
             "speaker": "a",
@@ -1186,13 +1186,13 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
-            "zh": "沒錯。它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
+            "en": "A useful distinction is this: It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
+            "zh": "這裡有一個常被忽略的地方：它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful way to travel.",
+            "en": "I like that as a beautiful way to travel.",
             "zh": "這是一種很美的旅行方式。"
           },
           {
@@ -1204,7 +1204,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a kind of wisdom.",
+            "en": "I can see why you'd say that. It does feel like a kind of wisdom.",
             "zh": "這聽起來很像一種智慧。"
           },
           {
@@ -1291,8 +1291,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
-            "zh": "沒錯。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。"
+            "en": "Mostly, yes. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
+            "zh": "大致上是。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。"
           },
           {
             "speaker": "b",
@@ -1315,7 +1315,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. generosity is often what makes cross-cultural understanding possible in the first place.",
+            "en": "Yes. Generosity is often what makes cross-cultural understanding possible in the first place.",
             "zh": "對，而這種寬度，常常就是跨文化理解一開始得以發生的條件。"
           }
         ]
@@ -1332,7 +1332,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. it helps to admit that honestly. Not every difference can be solved by better interpretation alone.",
+            "en": "Yes. It helps to admit that honestly. Not every difference can be solved by better interpretation alone.",
             "zh": "對，而且誠實承認這一點很重要。不是每一個差異，都能靠更好的理解就直接解決。"
           },
           {
@@ -1350,7 +1350,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more mature than saying all difference is beautiful.",
+            "en": "I can see that. It sounds much more mature than saying all difference is beautiful.",
             "zh": "這比說「所有差異都很美」成熟多了。"
           },
           {
@@ -1397,7 +1397,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"What does respect look like in this context for you?\" That is a powerful question because it invites specificity.",
+            "en": "You could keep it simple and say, \"What does respect look like in this context for you?\" That is a powerful question because it invites specificity.",
             "zh": "另一句也很有力：「What does respect look like in this context for you?」這個問題很強，因為它會把事情拉回具體。"
           },
           {
@@ -1492,7 +1492,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually balanced way to see it.",
+            "en": "That's an unusually balanced way to see it.",
             "zh": "這是一種很平衡的看法。"
           },
           {
@@ -1591,7 +1591,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the smallest part of it. Translation is really about carrying meaning, tone, context, and intention across worlds that do not line up perfectly.",
+            "en": "That's the smallest part of it. Translation is really about carrying meaning, tone, context, and intention across worlds that do not line up perfectly.",
             "zh": "那其實是最小的一部分。翻譯真正做的是：把意思、語氣、情境和意圖，搬過兩個根本不會完全對齊的世界。"
           },
           {
@@ -1603,8 +1603,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A sentence can be technically correct and still culturally wrong, emotionally off, or too flat for what it needs to do.",
-            "zh": "沒錯。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。"
+            "en": "Right. That is what makes the sentence work. A sentence can be technically correct and still culturally wrong, emotionally off, or too flat for what it needs to do.",
+            "zh": "這裡是我想特別畫線的地方。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。"
           },
           {
             "speaker": "b",
@@ -1697,13 +1697,13 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, \"The literal meaning came through, but the feeling did not.\" That is short and very clear.",
+            "en": "In a real conversation, you might say, \"The literal meaning came through, but the feeling did not.\" That is short and very clear.",
             "zh": "你可以說：「The literal meaning came through, but the feeling did not.」這句很短，也很清楚。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially practical sentence.",
+            "en": "That is an especially practical sentence.",
             "zh": "這句真的很實用。"
           },
           {
@@ -1786,7 +1786,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. the best translators make those trade-offs with care rather than ego.",
+            "en": "Yes. The best translators make those trade-offs with care rather than ego.",
             "zh": "對，而好的譯者會帶著 care 做那些取捨，不是帶著 ego。"
           }
         ]
@@ -1809,7 +1809,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a lot of responsibility for one act.",
+            "en": "That's a lot of responsibility for one act.",
             "zh": "這個行動背的責任真的很大。"
           },
           {
@@ -1821,7 +1821,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost like diplomacy.",
+            "en": "I can see that. It sounds almost like diplomacy.",
             "zh": "這聽起來幾乎像外交。"
           },
           {
@@ -1848,7 +1848,7 @@ export const WEEK_47: Episode[] = [
     "keyPhrases": [
       {
         "en": "carry meaning",
-        "zh": "不是搬字，而是把真正意思帶過去",
+        "zh": "不是逐字搬過去，而是把真正意思傳過去",
         "example": "A good translator knows how to carry meaning, not only words."
       },
       {
@@ -1979,7 +1979,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like emotional labor and cultural labor together.",
+            "en": "I can see why you'd say that. It does feel like emotional labor and cultural labor together.",
             "zh": "這聽起來像情緒勞動和文化勞動一起在發生。"
           },
           {
@@ -2020,7 +2020,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much safer than picking a side immediately.",
+            "en": "That seems much safer than picking a side immediately.",
             "zh": "這比立刻選邊站安全太多了。"
           },
           {
@@ -2097,7 +2097,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is such meaningful work.",
+            "en": "That's such meaningful work.",
             "zh": "這真的很有意義。"
           },
           {
@@ -2138,7 +2138,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a particularly strong definition.",
+            "en": "That sounds like a particularly strong definition.",
             "zh": "這個定義很強。"
           },
           {
@@ -2156,8 +2156,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It should, because the skill is only becoming more necessary from here.",
-            "zh": "很好。它本來就該留下來，因為從現在往後，這個能力只會越來越必要。"
+            "en": "The useful version should fit in your mouth. It should, because the skill is only becoming more necessary from here.",
+            "zh": "我們把它變得更實用一點。它本來就該留下來，因為從現在往後，這個能力只會越來越必要。"
           }
         ]
       }

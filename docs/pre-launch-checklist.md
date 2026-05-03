@@ -2,14 +2,13 @@
 > 建立日期：2026-03-27
 > 每項必須親自測試確認，打勾才算完成
 
-> 2026-04-23 current scope notice:
-> This checklist contains historical article-era items. For the current launch
+> 2026-04-29 current scope notice:
+> For the current launch
 > content scope and sign-off criteria, use
 > [product-content-scope.md](./product-content-scope.md) and
 > [launch-content-quality-signoff.md](./launch-content-quality-signoff.md).
-> Current launch content is episodes, questions, and flashcards. Articles are
-> legacy archive content and are not seeded, fetched, or counted as launch
-> product content.
+> Current launch content is episodes, articles, questions, and flashcards.
+> Speak articles are seeded, fetched, and counted as launch product content.
 
 > 2026-04-21 補充：
 > 本文件負責一般上線流程與產品檢查。

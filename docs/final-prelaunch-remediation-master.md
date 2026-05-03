@@ -5,12 +5,12 @@
 > 讀者：產品負責人、工程、內容編輯、後續 AI 審查者
 > 配套文件：[final-prelaunch-execution-guide.md](./final-prelaunch-execution-guide.md)、[pre-launch-checklist.md](./pre-launch-checklist.md)
 
-> 2026-04-23 update:
+> 2026-04-29 update:
 > This document records the previous article-era remediation plan. Current launch
 > content scope and sign-off criteria are now defined by
 > [product-content-scope.md](./product-content-scope.md) and
 > [launch-content-quality-signoff.md](./launch-content-quality-signoff.md).
-> Articles are legacy archive content; episode inline vocab has been retired.
+> Articles are active Speak content again; episode inline vocab remains retired.
 
 ---
 
@@ -386,13 +386,14 @@ source 層重新掃描結果顯示：
 以下命令可作為接手者的第一輪 baseline，但不能取代第 4.1 節要求的正式 harness：
 
 - `node scripts/validate-episodes.js`
-- `node scripts/validate-supporting-content.js --exclude-articles`
+- `node scripts/validate-supporting-content.js`
+- `npx tsx scripts/prelaunch/check-articles-import.ts`
 - `SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npx tsx scripts/seed.ts`
 
 說明：
 
 - `validate-episodes.js` 目前可穩定抓到 W6 / W7 vocab deficit
-- `validate-supporting-content.js --exclude-articles` 可先檢查 questions / flashcards，不被 article loader 問題干擾
+- `validate-supporting-content.js` 需檢查 questions / flashcards / articles
 - `scripts/seed.ts` 是唯一需要對照真實資料流的 seed 路徑
 
 禁止做法：

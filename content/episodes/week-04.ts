@@ -39,7 +39,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds lovely. How did you find it — through an agent?",
+            "en": "I can see that. It sounds lovely. How did you find it — through an agent?",
             "zh": "聽起來很棒。你怎麼找到的？透過房仲嗎？"
           },
           {
@@ -374,8 +374,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Owning ties you down. For some people that's stability, for others it's a cage.",
-            "zh": "就是。買房讓你被綁住。對某些人來說那是穩定，對其他人來說那是牢籠。"
+            "en": "Yes, and owning ties you down. For some people that's stability, for others it's a cage.",
+            "zh": "對，而且買房讓你被綁住。對某些人來說那是穩定，對其他人來說那是牢籠。"
           }
         ]
       },
@@ -409,7 +409,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "My friend bought an apartment and sold it five years later for a huge profit. But that feels like gambling almost.",
+            "en": "My friend bought an apartment and sold it five years later for a huge profit. But that almost feels like gambling.",
             "zh": "我朋友買了公寓，五年後高價賣出大賺一筆。但那感覺幾乎像在賭博。"
           },
           {
@@ -481,7 +481,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It's one of the strongest arguments for owning — security of tenure. Nobody can evict you from your own home.",
-            "zh": "這是支持買房最強的論點之一——居住保障。沒有人能把你從自己的家裡趕走。"
+            "zh": "這是贊成買房最有力的論點之一——居住保障。沒有人能把你從自己的家裡趕走。"
           }
         ]
       },
@@ -675,7 +675,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There's research behind that actually. Too much visual clutter raises cortisol levels.",
-            "zh": "這背後其實有研究支撐。太多視覺雜亂會提高皮質醇水平。"
+            "zh": "這背後其實有研究支撐。太多視覺雜亂會提高皮質醇濃度。"
           },
           {
             "speaker": "b",
@@ -740,7 +740,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's more sustainable honestly. Grand projects fall apart. Small habits stick.",
-            "zh": "說實話那樣更持續得了。宏大的計劃會失敗。小習慣才留得住。"
+            "zh": "說實話那樣更持續得了。宏大的計畫會失敗。小習慣才留得住。"
           }
         ]
       },
@@ -845,8 +845,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Intentional living over radical minimalism. Keep what adds value, release the rest.",
-            "zh": "就是。刻意生活比激進極簡更重要。留下增加價值的東西，放開其他的。"
+            "en": "This is where real life gets messier: Intentional living over radical minimalism. Keep what adds value, release the rest.",
+            "zh": "這裡有一個常被忽略的地方：刻意生活比激進極簡更重要。留下增加價值的東西，放開其他的。"
           }
         ]
       },
@@ -1138,8 +1138,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Emotions can escalate confrontations. Having a record keeps things objective.",
-            "zh": "就是。情緒可能讓對抗升級。有紀錄讓事情保持客觀。"
+            "en": "Mostly, yes. Emotions can escalate confrontations. Having a record keeps things objective.",
+            "zh": "大致上是。情緒可能讓對抗升級。有紀錄讓事情保持客觀。"
           },
           {
             "speaker": "b",
@@ -1438,7 +1438,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do you meal plan? Or do you just cook whatever you feel like?",
-            "zh": "你有做飲食計劃嗎？還是想煮什麼就煮什麼？"
+            "zh": "你有做飲食計畫嗎？還是想煮什麼就煮什麼？"
           },
           {
             "speaker": "a",
@@ -1462,13 +1462,13 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's the problem — I buy ingredients without a plan and then improvise badly.",
-            "zh": "問題就在這——我在沒有計劃的情況下買食材，然後即興發揮得很差。"
+            "zh": "問題就在這——我在沒有計畫的情況下買食材，然後即興發揮得很差。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try planning just three dinners for the week. Not seven, just three. It's achievable and reduces waste.",
-            "zh": "試著只計劃一週三頓晚餐。不是七頓，只是三頓。那是可達成的，也減少浪費。"
+            "zh": "試著只計畫一週三頓晚餐。不是七頓，只是三頓。那是可達成的，也減少浪費。"
           },
           {
             "speaker": "b",
@@ -1561,7 +1561,7 @@ export const WEEK_04: Episode[] = [
       },
       {
         "en": "meal plan",
-        "zh": "飲食計劃",
+        "zh": "飲食計畫",
         "example": "Meal planning saves money and reduces food waste."
       },
       {
@@ -1673,7 +1673,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In commercial spaces yes. But at home you have full control. You can design for your own wellbeing.",
+            "en": "In commercial spaces, yes. But at home you have full control. You can design for your own wellbeing.",
             "zh": "在商業空間裡是的。但在家裡你完全掌控。你可以為自己的身心健康而設計。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Lay the frames out on the floor first and arrange them until it looks right. Then transfer to the wall.",
+            "en": "Lay the frames out on the floor first and arrange them until it looks right. Then transfer the arrangement to the wall.",
             "zh": "先把框架放在地板上排列，直到看起來對了。然後再轉移到牆上。"
           },
           {
@@ -1925,8 +1925,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Or a city you keep returning to and it feels familiar in a deep way.",
-            "zh": "就是。或者你一直回去的城市，有種深層的熟悉感。"
+            "en": "Yes. That is the line I would hold on to. Or a city you keep returning to and it feels familiar in a deep way.",
+            "zh": "這裡是我想特別畫線的地方。或者你一直回去的城市，有種深層的熟悉感。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like therapy in a way.",
+            "en": "I can see why you'd say that. It does feel like therapy in a way.",
             "zh": "那在某種程度上聽起來像治療。"
           },
           {

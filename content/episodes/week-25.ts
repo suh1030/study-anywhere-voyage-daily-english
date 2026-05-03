@@ -33,7 +33,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the hedonic treadmill. The target moves the moment you reach it.",
+            "en": "That's the hedonic treadmill. The target moves the moment you reach it.",
             "zh": "那就是享樂跑步機效應。目標在你到達的瞬間就移動了。"
           },
           {
@@ -87,7 +87,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And was that fair feedback?",
-            "zh": "那個反饋公平嗎？"
+            "zh": "那個回饋公平嗎？"
           },
           {
             "speaker": "a",
@@ -110,8 +110,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the failure had a clearer lesson than most of your wins.",
-            "zh": "所以那次失敗給的教訓比你大多數的勝利都更清晰。"
+            "en": "So the failure had a clearer lesson than most of your wins. But does that leave anything out?",
+            "zh": "所以那次失敗給的教訓比你大多數的勝利都更清晰。 還是我把它說得太整齊了？"
           }
         ]
       },
@@ -180,7 +180,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is honest. The comparison instinct kicks in hard when the timelines are that close.",
+            "en": "That's honest. The comparison instinct kicks in hard when the timelines are that close.",
             "zh": "這很誠實。當時間線這麼接近時，比較的本能就會強烈地觸發。"
           },
           {
@@ -239,8 +239,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. I never gave the wins the same treatment. They got filed away and the failures stayed front of mind.",
-            "zh": "就是這樣。我從來沒有給勝利同樣的待遇。勝利被歸檔了，失敗卻一直留在腦前。"
+            "en": "Mostly, yes. I never gave the wins the same treatment. They got filed away and the failures stayed front of mind.",
+            "zh": "大致上是。我從來沒有給勝利同樣的待遇。勝利被歸檔了，失敗卻一直留在腦前。"
           },
           {
             "speaker": "b",
@@ -415,7 +415,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds simple but it took you a decade to get there.",
+            "en": "I can see that. It sounds simple but it took you a decade to get there.",
             "zh": "聽起來很簡單，但你花了十年才到達那裡。"
           },
           {
@@ -434,7 +434,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And optimizing for one without thinking about the other is how people end up accomplished but empty.",
-            "zh": "為其中一個優化而不考慮另一個，就是人們最終成就很高但內心空洞的原因。"
+            "zh": "為其中一個最佳化而不考慮另一個，就是人們最終成就很高但內心空洞的原因。"
           }
         ]
       },
@@ -450,7 +450,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the danger of fusing your identity too completely with a role or achievement.",
+            "en": "That's the danger of fusing your identity too completely with a role or achievement.",
             "zh": "這就是把你的身份認同與一個角色或成就融合得太完全的危險。"
           },
           {
@@ -527,7 +527,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a different kind of confidence than the performative kind. It is earned rather than claimed.",
+            "en": "That's a different kind of confidence than the performative kind. It is earned rather than claimed.",
             "zh": "那是和表演型自信不同的一種自信。它是贏得的，而不是宣稱的。"
           },
           {
@@ -656,7 +656,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the worst kind of discovery. When someone outside sees it before you do.",
+            "en": "That's the worst kind of discovery. When someone outside sees it before you do.",
             "zh": "那是最糟糕的一種發現。當外部的人在你之前看到的時候。"
           },
           {
@@ -815,7 +815,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a serious loss. How did she process it?",
+            "en": "That's a serious loss. How did she process it?",
             "zh": "那是個嚴重的損失。她怎麼消化這件事的？"
           },
           {
@@ -827,7 +827,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds like a deliberate recovery period rather than giving up.",
+            "en": "I can see why you'd say that. It does feel like a deliberate recovery period rather than giving up.",
             "zh": "那聽起來像是刻意的恢復期，而不是放棄。"
           },
           {
@@ -898,8 +898,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Growth mindset is partly just refusing to let a single event write the whole story.",
-            "zh": "就是這樣。成長型思維部分就是拒絕讓單一事件寫下整個故事。"
+            "en": "Yes, and growth mindset is partly just refusing to let a single event write the whole story.",
+            "zh": "對，而且成長型思維部分就是拒絕讓單一事件寫下整個故事。"
           },
           {
             "speaker": "b",
@@ -1097,7 +1097,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful reframe. The anxiety is information about my own desires, not a verdict on my progress.",
+            "en": "I like that as a useful reframe. The anxiety is information about my own desires, not a verdict on my progress.",
             "zh": "這是個有用的重新框架。那個焦慮是關於我自己渴望的資訊，不是對我進展的裁決。"
           },
           {
@@ -1162,7 +1162,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a lonely kind of work environment. All success has to be performed and all struggle has to be hidden.",
+            "en": "That's a lonely kind of work environment. All success has to be performed and all struggle has to be hidden.",
             "zh": "那是一種孤獨的工作環境。所有的成功都必須被表演，所有的掙扎都必須被隱藏。"
           },
           {
@@ -1209,7 +1209,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That internal locus makes the ups and downs much more manageable. You are not waiting for a verdict from outside.",
+            "en": "That internal locus makes the ups and downs much more manageable. You are not waiting for a verdict from the outside.",
             "zh": "那種內部控制點讓起伏變得更易於應對。你不是在等待外部的裁決。"
           },
           {
@@ -1326,8 +1326,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. And those values help you recognize a good unexpected opportunity when it shows up.",
-            "zh": "就是這樣。而那些價值觀幫助你在意外機會出現時認出它。"
+            "en": "That is the practical takeaway. And those values help you recognize a good unexpected opportunity when it shows up.",
+            "zh": "這裡是我想特別畫線的地方。而那些價值觀幫助你在意外機會出現時認出它。"
           }
         ]
       },
@@ -1379,8 +1379,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the lesson was patience, not that changing direction is always wrong.",
-            "zh": "所以教訓是耐心，不是說改變方向永遠是錯的。"
+            "en": "So the lesson was patience, not that changing direction is always wrong. Is the simple version too simple?",
+            "zh": "所以教訓是耐心，不是說改變方向永遠是錯的。 還是我把它說得太整齊了？"
           }
         ]
       },
@@ -1449,7 +1449,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is unsettling in a way. Your whole trajectory could have gone differently based on one small decision.",
+            "en": "That's unsettling in a way. Your whole trajectory could have gone differently based on one small decision.",
             "zh": "這在某種程度上令人不安。你整個軌跡可能因為一個小小的決定而完全不同。"
           },
           {
@@ -1485,7 +1485,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is harder to feel when you are deep inside a disappointment.",
+            "en": "That's harder to feel when you are deep inside a disappointment.",
             "zh": "當你深陷在失望中時，這更難感受到。"
           }
         ]
@@ -1607,7 +1607,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is high-value invisible work. The measure is not applause — it is that something quietly stopped going wrong.",
+            "en": "That's high-value invisible work. The measure is not applause — it is that something quietly stopped going wrong.",
             "zh": "那是高價值的隱形工作。衡量標準不是掌聲——而是某件事悄悄地停止出錯了。"
           },
           {
@@ -1696,7 +1696,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a reminder to say it while it still counts. Invisible work is already lonely enough without the recognition also being invisible.",
+            "en": "I like that as a reminder to say it while it still counts. Invisible work is already lonely enough without the recognition also being invisible.",
             "zh": "這提醒我在它還有意義的時候說出來。隱形工作已經足夠孤獨了，不需要連認可也是隱形的。"
           }
         ]
@@ -2003,7 +2003,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A doctor telling me my cortisol levels were too high and I needed to make structural changes. Not motivational — medical.",
-            "zh": "一個醫生告訴我我的皮質醇水平太高，需要做結構性改變。不是動力性的——是醫療性的。"
+            "zh": "一個醫生告訴我我的皮質醇濃度太高，需要做結構性改變。不是動力性的——是醫療性的。"
           },
           {
             "speaker": "b",
@@ -2038,7 +2038,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the short-term feedback is misleading. Working through the weekend feels efficient. The crash four weeks later does not connect.",
-            "zh": "因為短期的反饋具有誤導性。週末持續工作感覺有效率。四週後的崩潰感覺上沒有連結。"
+            "zh": "因為短期的回饋具有誤導性。週末持續工作感覺有效率。四週後的崩潰感覺上沒有連結。"
           },
           {
             "speaker": "b",
@@ -2091,7 +2091,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because skills consolidate during sleep and through repetition close together. Spacing it out resets the consolidation.",
-            "zh": "因為技能在睡眠中和通過緊密的重複來鞏固。間隔太遠會重置鞏固。"
+            "zh": "因為技能在睡眠中和透過緊密的重複來鞏固。間隔太遠會重置鞏固。"
           },
           {
             "speaker": "b",

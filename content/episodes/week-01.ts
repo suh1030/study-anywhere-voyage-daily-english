@@ -80,8 +80,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the goal is not to impress yourself on day one.",
-            "zh": "所以重點不是在第一天就把自己感動到。"
+            "en": "So the goal is not to impress yourself on day one. Is that too tidy a way to put it?",
+            "zh": "所以重點不是在第一天就把自己感動到。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -110,8 +110,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it works. A beginning should lower fear, not increase it.",
-            "zh": "這也正是它有效的原因。好的開始應該降低恐懼，而不是增加恐懼。"
+            "en": "That's why it works. A beginning should lower fear, not increase it.",
+            "zh": "也就是為什麼好的開始應該降低恐懼，而不是增加恐懼。"
           }
         ]
       },
@@ -127,8 +127,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A good simple line is: \"I needed a reset.\" It sounds natural and clear.",
-            "zh": "一個很好用、很簡單的說法是：「I needed a reset.」聽起來自然又清楚。"
+            "en": "For everyday English, I would start with: \"I needed a reset.\" It sounds natural and clear.",
+            "zh": "日常英文裡，我會先用這句：「I needed a reset.」簡單到可以馬上拿來用。"
           },
           {
             "speaker": "b",
@@ -139,8 +139,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"I am trying again, but in a smarter way.\" That sounds honest and calm.",
-            "zh": "另一句也很好用：「I am trying again, but in a smarter way.」這句很誠實，也很穩。"
+            "en": "You could keep it simple and say, \"I am trying again, but in a smarter way.\" That sounds honest and calm.",
+            "zh": "也可以簡單說：「I am trying again, but in a smarter way.」它很誠實，但不會太戲劇化。"
           },
           {
             "speaker": "b",
@@ -151,8 +151,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One natural option is, \"This time I want a pace I can keep.\" That is especially helpful when you do not want another intense start that disappears within weeks.",
-            "zh": "另一個很自然的說法是：「This time I want a pace I can keep.」如果你不想再來一次很猛、卻很快就消失的開始，這句特別好用。"
+            "en": "One option I would keep ready is, \"This time I want a pace I can keep.\" That is especially helpful when you do not want another intense start that disappears within weeks.",
+            "zh": "我會先準備好的另一個說法是：「This time I want a pace I can keep.」如果你不想再來一次很猛、卻很快就消失的開始，這句特別好用。"
           },
           {
             "speaker": "b",
@@ -210,14 +210,14 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels kinder and more believable.",
+            "en": "That sounds kinder and more believable.",
             "zh": "這樣聽起來更溫柔，也更可信。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A fresh start needs honesty, but it also needs enough kindness to survive.",
-            "zh": "這就是重點。重新開始需要誠實，但也需要足夠的溫柔，才活得下來。"
+            "en": "Exactly. That is the useful point. A fresh start needs honesty, but it also needs enough kindness to survive.",
+            "zh": "這裡是我想特別畫線的地方。重新開始需要誠實，但也需要足夠的溫柔，才活得下來。"
           }
         ]
       },
@@ -350,8 +350,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A demand has no room for being human. The first slip feels like total failure, so people just stop.",
-            "zh": "沒錯。要求沒有任何讓你喘息的空間。第一次沒做到就像是徹底失敗，所以大家就乾脆放棄了。"
+            "en": "One detail is easy to miss: A demand has no room for being human. The first slip feels like total failure, so people just stop.",
+            "zh": "這裡有一個常被忽略的地方：要求沒有任何讓你喘息的空間。第一次沒做到就像是徹底失敗，所以大家就乾脆放棄了。"
           },
           {
             "speaker": "b",
@@ -374,7 +374,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where they help most, yes.",
+            "en": "That's where they help most, yes.",
             "zh": "對，這正是它們最有幫助的地方。"
           }
         ]
@@ -415,8 +415,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. An intention works differently — it gives direction without punishing every stumble. If you miss a day, you still know where you are heading.",
-            "zh": "沒錯。意圖的運作方式不同——它給你方向，但不會在你每次絆倒時懲罰你。就算你有一天漏掉了，你還是知道自己往哪裡走。"
+            "en": "Mostly, yes. An intention works differently — it gives direction without punishing every stumble. If you miss a day, you still know where you are heading.",
+            "zh": "大致上是。意圖的運作方式不同——它給你方向，但不會在你每次絆倒時懲罰你。就算你有一天漏掉了，你還是知道自己往哪裡走。"
           },
           {
             "speaker": "b",
@@ -509,8 +509,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. So your intention might be: \"I want to build confidence in how I express myself at work.\" Now that intention can include this podcast, reading emails aloud, or practicing one phrase per day.",
-            "zh": "很好。那你的意圖可以是：「我想建立在工作中表達自己的自信。」這個意圖就可以包含這個播客、大聲讀電子郵件，或每天練習一句話。"
+            "en": "Imagine a normal day. So your intention might be: \"I want to build confidence in how I express myself at work.\" Now that intention can include this podcast, reading emails aloud, or practicing one phrase per day.",
+            "zh": "我們把它變得更實用一點。那你的意圖可以是：「我想建立在工作中表達自己的自信。」這個意圖就可以包含這個播客、大聲讀email，或每天練習一句話。"
           },
           {
             "speaker": "b",
@@ -521,8 +521,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A good intention should stretch you a little, but not make you dread waking up.",
-            "zh": "這就是重點。好的意圖應該把你往前拉一點，但不該讓你害怕早上起床。"
+            "en": "I would keep that sentence close. A good intention should stretch you a little, but not make you dread waking up.",
+            "zh": "這裡是我想特別畫線的地方。好的意圖應該把你往前拉一點，但不該讓你害怕早上起床。"
           },
           {
             "speaker": "b",
@@ -614,8 +614,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It gives people a cleaner story about what comes next.",
-            "zh": "沒錯。它會讓人對下一步有一個比較乾淨的敘事。"
+            "en": "Yes, and it gives people a cleaner story about what comes next.",
+            "zh": "對，而且它會讓人對下一步有一個比較乾淨的敘事。"
           },
           {
             "speaker": "b",
@@ -638,8 +638,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. New beginnings feel stronger when the body can see them too.",
-            "zh": "沒錯。當身體也看得到那個開始時，新的開始通常會更有力量。"
+            "en": "Right, and new beginnings feel stronger when the body can see them too.",
+            "zh": "對，而且當身體也看得到那個開始時，新的開始通常會更有力量。"
           }
         ]
       },
@@ -673,7 +673,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a helpful distinction.",
+            "en": "I like that as a helpful distinction.",
             "zh": "這個區別很有幫助。"
           },
           {
@@ -691,7 +691,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. then the person thinks the problem is motivation when the real problem is design.",
+            "en": "Yes. Then the person thinks the problem is motivation when the real problem is design.",
             "zh": "對，於是這個人會以為問題是自己沒動力，但真正的問題其實是設計不好。"
           }
         ]
@@ -708,20 +708,20 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, \"I needed a better way to begin.\" That is simple and useful.",
-            "zh": "你可以說：「I needed a better way to begin.」這句很簡單，也很好用。"
+            "en": "In a real conversation, you might say, \"I needed a better way to begin.\" It is simple enough to use right away.",
+            "zh": "你可以說：「I needed a better way to begin.」簡單到可以馬上拿來用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds good if the first attempt did not go well.",
+            "en": "I can see that. It sounds good if the first attempt did not go well.",
             "zh": "如果第一次做得不太好，這句真的很適合。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"This time I want something I can return to.\" That is helpful when you are choosing sustainability over drama.",
-            "zh": "另一句也很好用：「This time I want something I can return to.」如果你想選擇可持續，而不是戲劇化，這句很適合。"
+            "en": "You could keep it simple and say, \"This time I want something I can return to.\" I would reach for it when you are choosing sustainability over drama.",
+            "zh": "也可以簡單說：「This time I want something I can return to.」如果你想選擇能長期維持，而不是戲劇化，這句很適合。"
           },
           {
             "speaker": "b",
@@ -744,7 +744,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it lands. Honest language often works best in change conversations.",
+            "en": "That's why it lands. Honest language often works best in change conversations.",
             "zh": "也正因如此，它會有力量。在談改變的時候，誠實的語言往往最好用。"
           }
         ]
@@ -791,7 +791,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a kinder question.",
+            "en": "I like that as a kinder question.",
             "zh": "這是一個更溫柔的問題。"
           },
           {
@@ -838,8 +838,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. When a beginning is gentle enough to survive real life, it becomes much more powerful than a dramatic one.",
-            "zh": "沒錯。當一個開始溫柔到足以活過真實生活，它往往會比很戲劇化的開始更有力量。"
+            "en": "That is the practical takeaway. When a beginning is gentle enough to survive real life, it becomes much more powerful than a dramatic one.",
+            "zh": "這裡是我想特別畫線的地方。當一個開始溫柔到足以活過真實生活，它往往會比很戲劇化的開始更有力量。"
           },
           {
             "speaker": "b",
@@ -937,7 +937,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds harder than cleaning a desk or deleting old files.",
+            "en": "I can see that. It sounds harder than cleaning a desk or deleting old files.",
             "zh": "這聽起來比整理桌子或刪掉舊檔案難多了。"
           },
           {
@@ -1002,7 +1002,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a sentence I want to remember.",
+            "en": "I like that as a sentence I want to remember.",
             "zh": "這句話我想記住。"
           },
           {
@@ -1025,8 +1025,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural sentence is: \"I am trying to move on without pretending it was easy.\" That sounds honest and human.",
-            "zh": "一個很自然的句子是：「I am trying to move on without pretending it was easy.」這句很誠實，也很有人味。"
+            "en": "In a real conversation, one clean sentence is: \"I am trying to move on without pretending it was easy.\" That sounds honest and human.",
+            "zh": "在真實對話裡，可以用這句很乾淨的說法：「I am trying to move on without pretending it was easy.」這句很誠實，也很有人味。"
           },
           {
             "speaker": "b",
@@ -1037,13 +1037,13 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can also try, \"I want to keep the lesson, but not the weight.\" That is good when you learned something but do not want to keep carrying the pain in the same way.",
+            "en": "You can also try, \"I want to keep the lesson, but not the weight.\" It works well when you learned something but do not want to keep carrying the pain in the same way.",
             "zh": "另一句也很好用，就是「我想把學到的留下來，但不要再背著同樣的重量。」如果你有學到東西，但不想再用同樣方式一直背著那個痛，這句很適合。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful line.",
+            "en": "I like that as a beautiful line.",
             "zh": "這句很美。"
           },
           {
@@ -1167,8 +1167,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. A real beginning should feel close enough to touch.",
-            "zh": "很好。真正的開始，本來就應該近到碰得到。"
+            "en": "The copyable sentence is this. A real beginning should feel close enough to touch.",
+            "zh": "我們把它變得更實用一點。真正的開始，本來就應該近到碰得到。"
           },
           {
             "speaker": "b",

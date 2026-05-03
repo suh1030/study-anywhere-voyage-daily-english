@@ -325,7 +325,7 @@ export default function ListenScreen() {
             <View style={styles.hintContent}>
               <Text style={styles.hintTitle}>Listen</Text>
               <Text style={styles.hintDesc}>
-                按下播放收聽 Podcast。點擊任一行台詞可跳轉到該段。開啟「中文」可顯示翻譯，可調整速度（0.75× / 1.0× / 1.25×）。
+                按下播放收聽 Podcast。點選任一行台詞可跳到那一段。開啟「中文」可顯示翻譯，可調整速度（0.75× / 1.0× / 1.25×）。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
                 <Text style={styles.hintDismiss}>✕ Got it</Text>

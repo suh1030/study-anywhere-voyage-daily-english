@@ -134,7 +134,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It's not just in the imagination. There are physiological mechanisms behind it.",
-            "zh": "這不只是想象。背後有生理機制。"
+            "zh": "這不只是想像。背後有生理機制。"
           },
           {
             "speaker": "a",
@@ -517,7 +517,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Unpredictable is the key problem. Farmers can plan for rain. They can't plan for randomness.",
-            "zh": "不可預測是關鍵問題。農民可以為降雨做計劃。他們無法為隨機性做計劃。"
+            "zh": "不可預測是關鍵問題。農民可以為降雨做計畫。他們無法為隨機性做計畫。"
           },
           {
             "speaker": "b",
@@ -663,13 +663,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's part of it. In cold climates, failure to prepare for winter could be fatal. That may have selected for more planning-oriented cultures.",
-            "zh": "那是其中一部分。在寒冷氣候中，不為冬天做準備可能是致命的。這可能篩選出了更注重計劃的文化。"
+            "zh": "那是其中一部分。在寒冷氣候中，不為冬天做準備可能是致命的。這可能篩選出了更注重計畫的文化。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And tropical abundance meaning food was available year-round, so less need for long-term planning?",
-            "zh": "而熱帶的豐富意味著食物全年都有，所以對長期計劃的需求更少？"
+            "zh": "而熱帶的豐富意味著食物全年都有，所以對長期計畫的需求更少？"
           },
           {
             "speaker": "a",
@@ -740,7 +740,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Technology can override nature for a while. But traditional knowledge about climate was earned through centuries of trial and error.",
-            "zh": "技術可以暫時壓過自然。但關於氣候的傳統知識是通過幾個世紀的試錯獲得的。"
+            "zh": "技術可以暫時壓過自然。但關於氣候的傳統知識是經過幾個世紀的試錯獲得的。"
           }
         ]
       },
@@ -887,7 +887,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like exposure therapy for weather aversion. But I get it — actually experiencing it instead of just enduring it.",
+            "en": "I can see why you'd say that. It does feel like exposure therapy for weather aversion. But I get it — actually experiencing it instead of just enduring it.",
             "zh": "那聽起來像是對天氣厭惡的暴露療法。但我明白——真正體驗它而不只是忍受它。"
           },
           {
@@ -1152,7 +1152,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "My younger colleagues think about sustainability in everything. It's just part of how they see the world.",
-            "zh": "我較年輕的同事在所有事情中都想到可持續性。那只是他們看世界的方式的一部分。"
+            "zh": "我較年輕的同事在所有事情中都想到能否長期維持。那只是他們看世界的方式的一部分。"
           },
           {
             "speaker": "a",
@@ -1210,8 +1210,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Love is a better motivator than fear. Protect what you love, not just resist what you fear.",
-            "zh": "就是。愛是比恐懼更好的動力。保護你愛的東西，不只是抵抗你害怕的東西。"
+            "en": "That is where the language becomes useful. Love is a better motivator than fear. Protect what you love, not just resist what you fear.",
+            "zh": "這裡是我想特別畫線的地方。愛是比恐懼更好的動力。保護你愛的東西，不只是抵抗你害怕的東西。"
           }
         ]
       }
@@ -1244,7 +1244,7 @@ export const WEEK_07: Episode[] = [
       },
       {
         "en": "sustainability",
-        "zh": "可持續性",
+        "zh": "能否長期維持",
         "example": "Younger generations consider sustainability in daily purchasing decisions."
       },
       {
@@ -1345,12 +1345,12 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Completely outside with a bicycle, no rain jacket, no backup plan. The wind picked up so fast I could barely steer.",
-            "zh": "完全在外面，騎著腳踏車，沒有雨衣，沒有備用計劃。風起來得很快，我幾乎無法操控方向。"
+            "zh": "完全在外面，騎著腳踏車，沒有雨衣，沒有備用計畫。風起來得很快，我幾乎無法操控方向。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds terrifying. What did you do?",
+            "en": "I can see that. It sounds terrifying. What did you do?",
             "zh": "那聽起來很可怕。你怎麼做的？"
           },
           {
@@ -1403,8 +1403,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "What would happen if adults allowed themselves to get caught in the rain sometimes without caring?",
-            "zh": "如果成年人有時允許自己被淋濕而不在乎，會發生什麼？"
+            "en": "What would happen if adults allowed themselves to get caught in the rain sometimes without caring? Maybe something small, not a perfect-life example.",
+            "zh": "如果成年人有時允許自己被淋濕而不在乎，會發生什麼？ 最好是小一點的例子，不要那種完美人生版。"
           },
           {
             "speaker": "a",
@@ -1709,7 +1709,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Unplanned is the key. Those accidental shared moments hit different than planned ones.",
-            "zh": "不在計劃中是關鍵。那些意外的共同時刻比計劃中的感覺不同。"
+            "zh": "不在計畫中是關鍵。那些意外的共同時刻比計畫中的感覺不同。"
           },
           {
             "speaker": "a",
@@ -1727,7 +1727,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And it requires no planning, no budget. Weather gave us an intimacy that money can't buy.",
-            "zh": "就是。而且它不需要任何計劃，不需要預算。天氣給了我們金錢買不到的親密感。"
+            "zh": "就是。而且它不需要任何計畫，不需要預算。天氣給了我們金錢買不到的親密感。"
           },
           {
             "speaker": "b",
@@ -1791,8 +1791,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Growth doesn't always look like permanence. Sometimes it's knowing when a season is over.",
-            "zh": "就是。成長並不總是看起來像永恆。有時候是知道一個季節何時結束了。"
+            "en": "Yes, and growth doesn't always look like permanence. Sometimes it's knowing when a season is over.",
+            "zh": "對，而且成長並不總是看起來像永恆。有時候是知道一個季節何時結束了。"
           }
         ]
       },
@@ -1926,7 +1926,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The cherry blossom season moves northward across Japan over about six weeks. You can actually chase it if you plan well.",
-            "zh": "櫻花季節在大約六週內從南向北穿越日本。如果你計劃得好，你實際上可以追著它走。"
+            "zh": "櫻花季節在大約六週內從南向北穿越日本。如果你計畫得好，你實際上可以追著它走。"
           },
           {
             "speaker": "b",
@@ -2014,7 +2014,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Tell me about a time when weather completely changed your travel plans. Good or bad outcome?",
-            "zh": "告訴我一次天氣完全改變了你的旅行計劃。好的還是壞的結果？"
+            "zh": "告訴我一次天氣完全改變了你的旅行計畫。好的還是壞的結果？"
           },
           {
             "speaker": "a",
@@ -2032,7 +2032,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One of my best travel memories. I had dinner at a local place, walked along a river, slept well. Totally unplanned and perfect.",
-            "zh": "我最好的旅行記憶之一。我在一個當地地方吃了晚飯，沿著河邊散步，睡得很好。完全計劃外且完美。"
+            "zh": "我最好的旅行記憶之一。我在一個當地地方吃了晚飯，沿著河邊散步，睡得很好。完全計畫外且完美。"
           },
           {
             "speaker": "b",
@@ -2109,7 +2109,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perspective through weather. That's actually therapeutic. Hard to dwell on minor stresses when something that powerful is right in front of you.",
-            "zh": "通過天氣獲得視角。那實際上是有療效的。當那麼強大的東西就在你面前時，很難糾結於小壓力。"
+            "zh": "從天氣中獲得視角。那實際上是有療效的。當那麼強大的東西就在你面前時，很難糾結於小壓力。"
           },
           {
             "speaker": "b",
@@ -2126,7 +2126,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds incredibly atmospheric. Cold and moody and ancient.",
+            "en": "I can see that. It sounds incredibly atmospheric. Cold and moody and ancient.",
             "zh": "那聽起來極其有氣氛。寒冷、憂鬱、古老。"
           },
           {

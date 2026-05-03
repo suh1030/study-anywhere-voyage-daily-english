@@ -21,8 +21,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often how sustainability becomes real. It stops being a slogan and starts becoming visible in ordinary material form.",
-            "zh": "可持續這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。"
+            "en": "That's often how sustainability becomes real. It stops being a slogan and starts becoming visible in ordinary material form.",
+            "zh": "能長期維持這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。"
           },
           {
             "speaker": "b",
@@ -33,8 +33,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Resource use is often easiest to understand when waste becomes impossible to ignore.",
-            "zh": "完全沒錯。資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
+            "en": "There is one quiet detail here: Resource use is often easiest to understand when waste becomes impossible to ignore.",
+            "zh": "這裡有一個常被忽略的地方：資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
           },
           {
             "speaker": "b",
@@ -80,19 +80,19 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the brain keeps favoring what feels easy now.",
-            "zh": "所以人的腦袋就會一直偏向當下比較輕鬆的那一邊。"
+            "en": "So the brain keeps favoring what feels easy now. Or is there a real-life exception here?",
+            "zh": "所以人的腦袋就會一直偏向當下比較輕鬆的那一邊。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
-            "zh": "完全沒錯。長期思考是在要求人去在乎那些當下感受不到的後果。"
+            "en": "Mostly, yes. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
+            "zh": "大致上是。長期思考是在要求人去在乎那些當下感受不到的後果。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is emotionally demanding in a very quiet way.",
+            "en": "That's emotionally demanding in a very quiet way.",
             "zh": "那其實是一種很安靜、但很耗心力的要求。"
           },
           {
@@ -122,7 +122,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would be a natural English way to talk about trying to live more sustainably?",
-            "zh": "如果我想用英文談自己正在努力活得更可持續，可以怎麼說？"
+            "zh": "如果我想用英文談自己正在努力活得更能長期維持，可以怎麼說？"
           },
           {
             "speaker": "a",
@@ -133,7 +133,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds practical instead of preachy.",
+            "en": "I can see that. It sounds practical instead of preachy.",
             "zh": "這句聽起來很實際，不會像在說教。"
           },
           {
@@ -164,7 +164,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It lands because sustainability is moral language when it is spoken clearly.",
-            "zh": "它有力，是因為可持續這件事講清楚之後，本來就帶著道德重量。"
+            "zh": "它有力，是因為能長期維持這件事講清楚之後，本來就帶著道德重量。"
           }
         ]
       },
@@ -175,7 +175,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is one sustainable habit that actually holds up in real life?",
-            "zh": "有沒有哪一個可持續習慣，是真的在現實生活裡也撐得住的？"
+            "zh": "有沒有哪一個能長期維持習慣，是真的在現實生活裡也撐得住的？"
           },
           {
             "speaker": "a",
@@ -192,8 +192,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A low-waste habit works because it becomes ordinary enough to repeat.",
-            "zh": "完全沒錯。低廢棄習慣之所以有用，就是因為它最後變得普通到可以一直重複。"
+            "en": "Yes, and a low-waste habit works because it becomes ordinary enough to repeat.",
+            "zh": "對，而且低廢棄習慣之所以有用，就是因為它最後變得普通到可以一直重複。"
           },
           {
             "speaker": "b",
@@ -228,7 +228,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does sustainability ask from people in the end?",
-            "zh": "所以說到底，可持續這件事最後是在要求人做到什麼？"
+            "zh": "所以說到底，能長期維持這件事最後是在要求人做到什麼？"
           },
           {
             "speaker": "a",
@@ -239,7 +239,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a bigger question than recycling.",
+            "en": "That's a bigger question than recycling.",
             "zh": "這真的比回收大太多了。"
           },
           {
@@ -251,19 +251,19 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels fairer and truer.",
+            "en": "That seems fairer and truer.",
             "zh": "這樣真的比較公平，也比較真。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it is worth holding onto.",
+            "en": "That's why it is worth holding onto.",
             "zh": "也因此，它才值得被我們抓住不放。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a good ending for the first day.",
+            "en": "That seems like a good ending for the first day.",
             "zh": "這感覺很適合當第一天的結尾。"
           },
           {
@@ -403,8 +403,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Distant consequence is part of that too, because much of the damage arrives somewhere else or later in time.",
-            "zh": "完全沒錯。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。"
+            "en": "Yes, and that is the key. Distant consequence is part of that too, because much of the damage arrives somewhere else or later in time.",
+            "zh": "這裡是我想特別畫線的地方。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。"
           },
           {
             "speaker": "b",
@@ -450,14 +450,14 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds precise and not embarrassed.",
+            "en": "I can see that. It sounds precise and not embarrassed.",
             "zh": "這句很準，也不會有那種不好意思承認自己撐不住的感覺。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'I care about this, but I also notice how quickly news fatigue shuts me down.'",
-            "zh": "另一句也很好用：「I care about this, but I also notice how quickly news fatigue shuts me down.」"
+            "en": "You could keep it simple and say, 'I care about this, but I also notice how quickly news fatigue shuts me down.'",
+            "zh": "也可以簡單說：「I care about this, but I also notice how quickly news fatigue shuts me down.」"
           },
           {
             "speaker": "b",
@@ -551,7 +551,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels wiser than trying to feel the whole planet at once.",
+            "en": "That is wiser than trying to feel the whole planet at once.",
             "zh": "這真的比逼自己一次感受整個地球有智慧太多。"
           },
           {
@@ -563,7 +563,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a line I really needed.",
+            "en": "I like that as a line I really needed.",
             "zh": "這句真的就是我需要的。"
           },
           {
@@ -575,7 +575,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right place to stop.",
+            "en": "I would call that the right place to stop.",
             "zh": "這感覺就是很適合停下來的位置。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true because daily choices rarely look dramatic, even when their accumulated effect is huge.",
+            "en": "That's true because daily choices rarely look dramatic, even when their accumulated effect is huge.",
             "zh": "這是真的，因為日常選擇看起來很少戲劇化，即使它們累積起來的效果其實很大。"
           },
           {
@@ -727,13 +727,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. food miles matter for that reason too. They remind people that distance is part of the story.",
+            "en": "Yes. Food miles matter for that reason too. They remind people that distance is part of the story.",
             "zh": "對，而 food miles 也正是同樣的道理。它會提醒人，距離本身也是故事的一部分。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is one of those things people know vaguely but rarely picture clearly.",
+            "en": "That's one of those things people know vaguely but rarely picture clearly.",
             "zh": "這真的是很多人模糊知道、卻很少真正想清楚的事。"
           },
           {
@@ -762,7 +762,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds balanced and realistic.",
+            "en": "I can see that. It sounds balanced and realistic.",
             "zh": "這句聽起來很平衡，也很務實。"
           },
           {
@@ -793,7 +793,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That matters. Sustainable language should sound possible enough to live with.",
-            "zh": "這很重要。可持續的語言，應該聽起來是人住得進去的。"
+            "zh": "這很重要。能長期維持的語言，應該聽起來是人住得進去的。"
           }
         ]
       },
@@ -827,7 +827,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more hopeful than trying to be morally perfect.",
+            "en": "I can see that. It sounds more hopeful than trying to be morally perfect.",
             "zh": "這真的比逼自己道德完美還有希望。"
           },
           {
@@ -869,7 +869,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes sustainability feel almost like character.",
-            "zh": "這樣一講，可持續這件事幾乎有點像品格。"
+            "zh": "這樣一講，能長期維持這件事幾乎有點像品格。"
           },
           {
             "speaker": "a",
@@ -880,7 +880,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a thoughtful way to describe it.",
+            "en": "I like that as a thoughtful way to describe it.",
             "zh": "這真的是很有想法的說法。"
           },
           {
@@ -892,7 +892,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right takeaway.",
+            "en": "I would call that the right takeaway.",
             "zh": "這感覺就是很對的 takeaway。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is why convenience can feel clean while secretly producing hidden waste all around it.",
+            "en": "Yes. That is why convenience can feel clean while secretly producing hidden waste all around it.",
             "zh": "對，也因此，便利表面上看起來很乾淨，背後卻常常一路都在製造隱性浪費。"
           },
           {
@@ -979,8 +979,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Single-use packaging is one of the clearest examples because the lifespan of the object is so short.",
-            "zh": "完全沒錯。一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。"
+            "en": "The easy mistake is to forget this: Single-use packaging is one of the clearest examples because the lifespan of the object is so short.",
+            "zh": "這裡有一個常被忽略的地方：一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。"
           },
           {
             "speaker": "b",
@@ -1032,8 +1032,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Delivery culture grows because it turns planning, travel, and waiting into one tap.",
-            "zh": "完全沒錯。外送文化之所以長這麼快，就是因為它把規劃、移動和等待全都縮成一個按鈕。"
+            "en": "Mostly, yes. Delivery culture grows because it turns planning, travel, and waiting into one tap.",
+            "zh": "大致上是。外送文化之所以長這麼快，就是因為它把規劃、移動和等待全都縮成一個按鈕。"
           },
           {
             "speaker": "b",
@@ -1079,14 +1079,14 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds thoughtful and clear.",
+            "en": "I can see that. It sounds thoughtful and clear.",
             "zh": "這句聽起來很清楚，也很有想法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'I am trying to see the disposal chain, not just the moment of purchase.'",
-            "zh": "另一句也很好用：「I am trying to see the disposal chain, not just the moment of purchase.」"
+            "en": "You could keep it simple and say, 'I am trying to see the disposal chain, not just the moment of purchase.'",
+            "zh": "也可以簡單說：「I am trying to see the disposal chain, not just the moment of purchase.」"
           },
           {
             "speaker": "b",
@@ -1109,8 +1109,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Memorable language can sometimes interrupt automatic behavior.",
-            "zh": "很好。讓人記得住的語言，有時候真的能打斷自動化行為。"
+            "en": "For listening practice, notice the shape of this sentence. Memorable language can sometimes interrupt automatic behavior.",
+            "zh": "我們把它變得更實用一點。讓人記得住的語言，有時候真的能打斷自動化行為。"
           }
         ]
       },
@@ -1185,7 +1185,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's more honest about how it actually works.",
+            "en": "That sounds closer to how it actually works.",
             "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
@@ -1197,19 +1197,19 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a good principle to keep.",
+            "en": "That sounds like a good principle to keep.",
             "zh": "這感覺就是很值得留下來的原則。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is probably where I would land too.",
+            "en": "That's probably where I would land too.",
             "zh": "我會同意這個說法。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a natural place to end.",
+            "en": "I can see why you'd say that. It does feel like a natural place to end.",
             "zh": "這聽起來就是很自然的結尾。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. climate guilt grows fast when people care deeply but cannot control the larger system.",
+            "en": "Yes. Climate guilt grows fast when people care deeply but cannot control the larger system.",
             "zh": "對，而當一個人很在乎、卻又控制不了更大的系統時，氣候罪惡感就很容易長得很快。"
           },
           {
@@ -1302,7 +1302,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds unexpectedly comforting.",
+            "en": "I can see that. It sounds unexpectedly comforting.",
             "zh": "這樣說反而讓人有點被安撫到。"
           },
           {
@@ -1349,13 +1349,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Active hope works because it treats action as part of the emotion, not a separate thing.",
-            "zh": "完全沒錯。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
+            "en": "That is the point to remember. Active hope works because it treats action as part of the emotion, not a separate thing.",
+            "zh": "這裡是我想特別畫線的地方。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much sturdier than inspiration.",
+            "en": "I can see that. It sounds much sturdier than inspiration.",
             "zh": "這聽起來真的比靈感穩很多。"
           },
           {
@@ -1367,7 +1367,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly what many people need.",
+            "en": "That's exactly what many people need.",
             "zh": "這真的就是很多人需要的東西。"
           },
           {
@@ -1390,13 +1390,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, 'I care about this issue enough that it affects me emotionally, not just intellectually.'",
+            "en": "In a real conversation, you might say, 'I care about this issue enough that it affects me emotionally, not just intellectually.'",
             "zh": "你可以說：「I care about this issue enough that it affects me emotionally, not just intellectually.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds clear and not overly dramatic.",
+            "en": "I can see that. It sounds clear and not overly dramatic.",
             "zh": "這句很清楚，也不會太戲劇化。"
           },
           {
@@ -1408,7 +1408,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a smart sentence.",
+            "en": "That seems like a smart sentence.",
             "zh": "這句真的很聰明。"
           },
           {
@@ -1497,13 +1497,13 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds strong in a quiet way.",
+            "en": "I can see that. It sounds strong in a quiet way.",
             "zh": "這聽起來是一種很安靜、但很強的力量。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the kind that lasts. Emotional wisdom matters here because raw intensity alone cannot sustain care.",
+            "en": "That's the kind that lasts. Emotional wisdom matters here because raw intensity alone cannot sustain care.",
             "zh": "而那也正是能撐久的那種。情緒智慧在這裡很重要，因為光靠原始強度是撐不起長久在乎的。"
           },
           {
@@ -1515,7 +1515,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good note to end on.",
+            "en": "I like that as a good note to end on.",
             "zh": "這是一個很好的收尾點。"
           },
           {
@@ -1596,7 +1596,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is very true. A livable city is often legible through comfort before it is legible through theory.",
+            "en": "That's very true. A livable city is often legible through comfort before it is legible through theory.",
             "zh": "這真的很對。所謂宜居城市，很多時候是先透過舒適被讀懂，之後才是透過理論。"
           },
           {
@@ -1644,7 +1644,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What makes a city more sustainable in daily life?",
-            "zh": "在日常層面上，什麼會讓一座城市變得更可持續？"
+            "zh": "在日常層面上，什麼會讓一座城市變得更能長期維持？"
           },
           {
             "speaker": "a",
@@ -1656,7 +1656,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So sustainability is partly about whether the better option is physically possible.",
-            "zh": "所以可持續有一部分是在看，比較好的選項在身體上到底做不做得到。"
+            "zh": "所以能長期維持有一部分是在看，比較好的選項在身體上到底做不做得到。"
           },
           {
             "speaker": "a",
@@ -1667,7 +1667,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more structural than telling people to simply drive less.",
+            "en": "I can see that. It sounds more structural than telling people to simply drive less.",
             "zh": "這真的比叫大家『少開車一點』更有結構得多。"
           },
           {
@@ -1679,7 +1679,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much more generous way to think about transport.",
+            "en": "That's a much more generous way to think about transport.",
             "zh": "這真的比一般想法寬厚得多。"
           },
           {
@@ -1697,7 +1697,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How could I phrase it if I wanted to describe a city that feels more sustainable?",
-            "zh": "如果我想用英文描述一座感覺更可持續的城市，可以怎麼講？"
+            "zh": "如果我想用英文描述一座感覺更能長期維持的城市，可以怎麼講？"
           },
           {
             "speaker": "a",
@@ -1738,7 +1738,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it works.",
+            "en": "That's why it works.",
             "zh": "而那就是它好用的地方。"
           }
         ]
@@ -1773,19 +1773,19 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds especially important as cities get hotter.",
+            "en": "I can see that. It sounds especially important as cities get hotter.",
             "zh": "在城市越來越熱的情況下，這真的聽起來特別重要。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and community garden spaces matter too because they turn abstract sustainability into shared local practice.",
-            "zh": "對，而且社區花園空間也很重要，因為它會把抽象的可持續，變成共享的在地練習。"
+            "zh": "對，而且社區花園空間也很重要，因為它會把抽象的能長期維持，變成共享的在地練習。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is honestly a hopeful image.",
+            "en": "That's honestly a hopeful image.",
             "zh": "那真的是很有希望的畫面。"
           },
           {
@@ -1803,7 +1803,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does sustainable design ultimately offer people?",
-            "zh": "所以可持續設計到最後，真正給人的會是什麼？"
+            "zh": "所以能長期維持設計到最後，真正給人的會是什麼？"
           },
           {
             "speaker": "a",
@@ -1814,7 +1814,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more like quality of life than policy language.",
+            "en": "I can see that. It sounds more like quality of life than policy language.",
             "zh": "這聽起來就比較像生活品質，不是政策文案。"
           },
           {
@@ -1913,7 +1913,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that matters. If people cannot picture a livable future, sacrifice starts to feel meaningless.",
+            "en": "Yes. That matters. If people cannot picture a livable future, sacrifice starts to feel meaningless.",
             "zh": "對，而那很重要。如果人想像不出一個住得下去的未來，任何犧牲都會開始顯得沒意義。"
           },
           {
@@ -1931,7 +1931,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more active than optimism.",
+            "en": "I can see that. It sounds more active than optimism.",
             "zh": "這真的比樂觀更主動。"
           },
           {
@@ -1961,7 +1961,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What should a sustainable future offer beyond just 'less damage'?",
-            "zh": "一個可持續的未來，除了『少一點傷害』之外，還應該給人什麼？"
+            "zh": "一個能長期維持的未來，除了『少一點傷害』之外，還應該給人什麼？"
           },
           {
             "speaker": "a",
@@ -1973,13 +1973,13 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So sustainability should feel like improvement, not punishment.",
-            "zh": "所以可持續應該讓人感覺是改善，不是處罰。"
+            "zh": "所以能長期維持應該讓人感覺是改善，不是處罰。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Circular economy thinking matters because it asks what can keep circulating instead of becoming waste.",
-            "zh": "完全沒錯。循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。"
+            "en": "The real pressure point is this: Circular economy thinking matters because it asks what can keep circulating instead of becoming waste.",
+            "zh": "這裡有一個常被忽略的地方：循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。"
           },
           {
             "speaker": "b",
@@ -1996,7 +1996,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially important reminder.",
+            "en": "That is an especially important reminder.",
             "zh": "這真的是很重要的提醒。"
           },
           {
@@ -2014,18 +2014,18 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would be a natural English way to describe a future that feels sustainable and desirable?",
-            "zh": "如果我想用英文描述一個既可持續又讓人想住進去的未來，可以怎麼講？"
+            "zh": "如果我想用英文描述一個既能長期維持又讓人想住進去的未來，可以怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One natural option is, 'A sustainable future should feel healthier, fairer, and more livable in ordinary ways.'",
+            "en": "One option I would keep ready is, 'A sustainable future should feel healthier, fairer, and more livable in ordinary ways.'",
             "zh": "這裡很自然的說法是：「A sustainable future should feel healthier, fairer, and more livable in ordinary ways.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds realistic and attractive.",
+            "en": "I can see that. It sounds realistic and attractive.",
             "zh": "這句聽起來既現實，又有吸引力。"
           },
           {
@@ -2084,8 +2084,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Repairable design matters because it teaches care instead of constant replacement.",
-            "zh": "完全沒錯。可修復設計很重要，因為它教的是照顧，而不是一直替換。"
+            "en": "Mostly, yes. Repairable design matters because it teaches care instead of constant replacement.",
+            "zh": "大致上是。可修復設計很重要，因為它教的是照顧，而不是一直替換。"
           },
           {
             "speaker": "b",
@@ -2120,7 +2120,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what is the most important thing people should keep in mind about a sustainable future?",
-            "zh": "所以關於可持續未來，人最該記得的一件事是什麼？"
+            "zh": "所以關於能長期維持未來，人最該記得的一件事是什麼？"
           },
           {
             "speaker": "a",
@@ -2131,7 +2131,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much richer vision than most policy language gives people.",
+            "en": "That's a much richer vision than most policy language gives people.",
             "zh": "這真的比大多數政策語言給人的畫面豐富太多。"
           },
           {
@@ -2143,7 +2143,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like exactly the right final note.",
+            "en": "That works as exactly the right final note.",
             "zh": "這真的就是最適合的最後一個重點。"
           },
           {

@@ -33,7 +33,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what building rapport does. It adds context. Suddenly a colleague is a person, and a person is easier to work with.",
+            "en": "That's what building rapport does. It adds context. Suddenly a colleague is a person, and a person is easier to work with.",
             "zh": "這就是建立關係的作用。它增加了背景脈絡。突然間，同事變成了一個人，而一個人更容易相處。"
           },
           {
@@ -52,13 +52,13 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I never thought a lunch could do more than a week of emails.",
-            "zh": "我從沒想過一頓午飯的效果可以超過一週的電子郵件。"
+            "zh": "我從沒想過一頓午飯的效果可以超過一週的email。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes it can. Emails are efficient for information. They are not great for trust.",
-            "zh": "有時候可以。電子郵件傳遞資訊很有效，但不太能建立信任。"
+            "zh": "有時候可以。email傳遞資訊很有效，但不太能建立信任。"
           }
         ]
       },
@@ -104,7 +104,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful move. Engaged without exposed.",
+            "en": "I like that as a useful move. Engaged without exposed.",
             "zh": "這是個很實用的做法。投入，但不暴露。"
           },
           {
@@ -133,7 +133,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much more real than saying \"we communicate well.\"",
+            "en": "That's much more real than saying \"we communicate well.\"",
             "zh": "這比「我們溝通良好」真實多了。"
           },
           {
@@ -151,7 +151,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the goal. Good workplace English talks about what helps the work, not what is wrong with the person.",
+            "en": "That's the goal. Good workplace English talks about what helps the work, not what is wrong with the person.",
             "zh": "這就是目標。好的職場英文談的是什麼有助於工作，而不是某個人哪裡有問題。"
           },
           {
@@ -186,7 +186,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds obvious, but I notice when people do not do it.",
+            "en": "I can see that. It sounds obvious, but I notice when people do not do it.",
             "zh": "這聽起來很明顯，但我真的會注意到人們沒做到的時候。"
           },
           {
@@ -240,7 +240,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a real relationship. It might look different from a friendship outside work, but it has its own value.",
+            "en": "That's a real relationship. It might look different from a friendship outside work, but it has its own value.",
             "zh": "這是一段真實的關係。它可能看起來和工作以外的友情不一樣，但它有自己的價值。"
           },
           {
@@ -369,7 +369,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the whole point of useful feedback — to move the work forward, not just to name the problem.",
+            "en": "That's the whole point of useful feedback — to move the work forward, not just to name the problem.",
             "zh": "這就是有用回饋的重點——讓工作往前推進，不只是指出問題。"
           }
         ]
@@ -445,7 +445,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like collaboration, not judgment.",
+            "en": "I can see why you'd say that. It does feel like collaboration, not judgment.",
             "zh": "這聽起來像協作，不像評判。"
           },
           {
@@ -545,7 +545,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the goal. When feedback is normal, it stops carrying emotional weight every time.",
+            "en": "That's the goal. When feedback is normal, it stops carrying emotional weight every time.",
             "zh": "這就是目標。當回饋變成正常，它每次就不再帶那麼多情緒重量。"
           },
           {
@@ -563,7 +563,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a shift from protecting your ego to protecting the work.",
+            "en": "That's a shift from protecting your ego to protecting the work.",
             "zh": "這是從保護自我轉向保護作品的一種轉變。"
           },
           {
@@ -645,12 +645,12 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There is someone on my team who CC's our manager on every email. Every single one. Even the ones about lunch.",
-            "zh": "我們團隊有一個人，每封電子郵件都會副本給我們主管。每一封，就連討論午飯的那種也是。"
+            "zh": "我們團隊有一個人，每封email都會副本給我們主管。每一封，就連討論午飯的那種也是。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a classic move. It looks like documentation but it feels like surveillance.",
+            "en": "That's a classic move. It looks like documentation but it feels like surveillance.",
             "zh": "這是個經典操作。看起來像在備份記錄，感覺起來像是在監視。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the practical problem. Understanding why someone does something does not automatically make it easier to deal with.",
+            "en": "That's the practical problem. Understanding why someone does something does not automatically make it easier to deal with.",
             "zh": "這就是實際問題。理解某人為什麼這樣做，不會自動讓它變得更好處理。"
           },
           {
@@ -703,13 +703,13 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is passive-aggressive behavior. The sting is usually deniable — they can always say \"I did not mean it that way.\"",
+            "en": "That's passive-aggressive behavior. The sting is usually deniable — they can always say \"I did not mean it that way.\"",
             "zh": "這是被動攻擊行為。那個刺通常是可以被否認的——他們總是可以說「我不是那個意思」。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is what makes it so hard. You feel it but you cannot prove it.",
+            "en": "That's what makes it so hard. You feel it but you cannot prove it.",
             "zh": "這就是為什麼那麼難處理。你感受到了，但你說不出來。"
           },
           {
@@ -762,7 +762,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a good one because it is hard to argue with someone who is trying to understand you.",
+            "en": "I like that as a good one because it is hard to argue with someone who is trying to understand you.",
             "zh": "這句很好，因為你很難跟一個試著理解你的人爭辯。"
           },
           {
@@ -775,7 +775,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about email? How do I respond to a loaded message without matching their energy?",
-            "zh": "那電子郵件呢？如果收到一封充滿情緒的郵件，我要怎麼回覆而不跟著他們的情緒走？"
+            "zh": "那email呢？如果收到一封充滿情緒的郵件，我要怎麼回覆而不跟著他們的情緒走？"
           },
           {
             "speaker": "a",
@@ -845,8 +845,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Having a plan makes the problem feel smaller, even before you solve it.",
-            "zh": "很好。有了計畫，問題在解決之前就已經感覺小了一點。"
+            "en": "For listening practice, notice the shape of this sentence. Having a plan makes the problem feel smaller, even before you solve it.",
+            "zh": "我們把它變得更實用一點。有了計畫，問題在解決之前就已經感覺小了一點。"
           }
         ]
       },
@@ -862,7 +862,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exhausting. And it is a sign you might be working on the wrong thing.",
+            "en": "That's exhausting. And it is a sign you might be working on the wrong thing.",
             "zh": "這很累人。這也是個信號，你可能在努力改變不對的事情。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what micromanagement does over time. It does not just slow the work down — it erodes the person's confidence.",
+            "en": "That's what micromanagement does over time. It does not just slow the work down — it erodes the person's confidence.",
             "zh": "這就是微觀管理長期下來的作用。它不只是讓工作慢下來，它也磨損了那個人的自信心。"
           },
           {
@@ -979,7 +979,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's more honest about how it actually works.",
+            "en": "That sounds closer to how it actually works.",
             "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
@@ -1020,7 +1020,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the opposite problem. Too little structure can be just as damaging as too much.",
+            "en": "That's the opposite problem. Too little structure can be just as damaging as too much.",
             "zh": "那是相反的問題。結構太少和太多一樣有害。"
           },
           {
@@ -1044,7 +1044,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good way to put it. Clear on the what. Flexible on the how.",
+            "en": "I like that as a good way to put it. Clear on the what. Flexible on the how.",
             "zh": "這是個很好的說法。在「做什麼」上清楚，在「怎麼做」上靈活。"
           },
           {
@@ -1279,7 +1279,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the most common remote work communication problem. Text strips out tone and leaves the reader to fill it in.",
+            "en": "That's the most common remote work communication problem. Text strips out tone and leaves the reader to fill it in.",
             "zh": "這是遠端工作溝通中最常見的問題。文字去掉了語氣，讓讀者自己填進去。"
           },
           {
@@ -1315,8 +1315,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A small addition like \"let me know what you think\" or \"happy to talk through it\" changes the whole reading of the message.",
-            "zh": "沒錯。加上一個小小的句子，像是「讓我知道你的想法」或「很樂意把它討論一下」，就能改變整條訊息的讀法。"
+            "en": "Yes, and a small addition like \"let me know what you think\" or \"happy to talk through it\" changes the whole reading of the message.",
+            "zh": "對，而且加上一個小小的句子，像是「讓我知道你的想法」或「很樂意把它討論一下」，就能改變整條訊息的讀法。"
           }
         ]
       },
@@ -1332,7 +1332,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is screen fatigue plus boundary blurring. When work and home are the same place, the signals that normally tell your brain \"work is over\" disappear.",
+            "en": "That's screen fatigue plus boundary blurring. When work and home are the same place, the signals that normally tell your brain \"work is over\" disappear.",
             "zh": "這是螢幕疲勞加上界限模糊。當工作和家是同一個地方，那些通常告訴你大腦「工作結束了」的信號就消失了。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the habit, not the necessity. Building a clear end-of-day routine helps your brain learn when remote work is actually finished.",
+            "en": "That's the habit, not the necessity. Building a clear end-of-day routine helps your brain learn when remote work is actually finished.",
             "zh": "那是習慣，不是必要。建立一個清楚的下班日常，幫助你的大腦學習什麼時候遠端工作真的結束了。"
           },
           {
@@ -1462,7 +1462,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the assumption that causes most of the confusion. Remote work requires more explicit agreement than in-person work.",
+            "en": "That's the assumption that causes most of the confusion. Remote work requires more explicit agreement than in-person work.",
             "zh": "這就是造成大多數混亂的假設。遠端工作比面對面工作需要更多的明確協議。"
           },
           {
@@ -1474,8 +1474,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. That conversation itself will already improve the team culture — just by acknowledging that communication takes intentional design.",
-            "zh": "很好。那場對話本身就已經會改善團隊文化了——只要承認溝通需要刻意設計。"
+            "en": "Let's bring it down to one situation. That conversation itself will already improve the team culture — just by acknowledging that communication takes intentional design.",
+            "zh": "我們把它變得更實用一點。那場對話本身就已經會改善團隊文化了——只要承認溝通需要刻意設計。"
           }
         ]
       },
@@ -1497,7 +1497,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is more work, but it is also clearer. When things are written, there is a record.",
+            "en": "That's more work, but it is also clearer. When things are written, there is a record.",
             "zh": "這樣工作量更多，但也更清楚。當事情被寫下來，就有記錄了。"
           },
           {
@@ -1515,7 +1515,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a real advantage. Deep work becomes easier when you control your environment.",
+            "en": "That's a real advantage. Deep work becomes easier when you control your environment.",
             "zh": "這是真正的優勢。當你控制自己的環境，深度工作就更容易。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is meeting fatigue in action. When meetings become the default for everything, the whole day becomes reactive instead of productive.",
+            "en": "That's meeting fatigue in action. When meetings become the default for everything, the whole day becomes reactive instead of productive.",
             "zh": "這就是會議疲勞的樣子。當會議成為所有事情的預設解法，整天就變成反應性的而不是有生產力的。"
           },
           {
@@ -1732,7 +1732,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is useful because it does not pick a side — it just moves things forward.",
+            "en": "I like that; it is useful because it does not pick a side — it just moves things forward.",
             "zh": "這個很有用，因為它不是在選邊站，只是在推動事情往前。"
           },
           {
@@ -1791,8 +1791,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Being selective is not being difficult. It is being honest about what the work actually requires.",
-            "zh": "沒錯。有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
+            "en": "I would pay attention to this: Being selective is not being difficult. It is being honest about what the work actually requires.",
+            "zh": "這裡有一個常被忽略的地方：有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
           }
         ]
       },
@@ -1832,7 +1832,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is an easy trap. Busyness is visible. Productivity is measurable. They are very different things.",
+            "en": "That's an easy trap. Busyness is visible. Productivity is measurable. They are very different things.",
             "zh": "這是個容易掉進去的陷阱。忙碌是可見的，生產力是可量測的。它們是非常不同的事情。"
           },
           {
@@ -1978,7 +1978,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a common trap. Comfort is not the same as contentment. You can be comfortable and still feel like something important is missing.",
+            "en": "That's a common trap. Comfort is not the same as contentment. You can be comfortable and still feel like something important is missing.",
             "zh": "這是個常見的陷阱。舒適不等於滿足。你可以很舒適，同時感覺到有什麼重要的東西缺失了。"
           },
           {
@@ -1997,13 +1997,13 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Mine definitely did not look planned at the time.",
-            "zh": "我的在當時肯定看不出是有計劃的。"
+            "zh": "我的在當時肯定看不出是有計畫的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most interesting careers are partly planned and partly accumulated. The accumulated part is often the more interesting half.",
-            "zh": "大多數有趣的職涯都是一部分計劃、一部分積累的。積累的那部分往往是更有趣的一半。"
+            "zh": "大多數有趣的職涯都是一部分計畫、一部分積累的。積累的那部分往往是更有趣的一半。"
           }
         ]
       },
@@ -2078,7 +2078,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is useful for performance reviews and also for your own sense of progress.",
+            "en": "I like that; it is useful for performance reviews and also for your own sense of progress.",
             "zh": "這對績效評估有用，對你自己的進步感也有幫助。"
           },
           {
@@ -2131,14 +2131,14 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful distinction. Their highlight reel versus my behind-the-scenes.",
+            "en": "I like that as a useful distinction. Their highlight reel versus my behind-the-scenes.",
             "zh": "這是個有用的區分。他們的精彩片段對比我的幕後花絮。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Most career growth also happens in ways that are invisible from the outside for a long time before they become visible.",
-            "zh": "沒錯。大多數職涯成長在從外部可見之前，往往有很長一段時間以肉眼看不見的方式在發生。"
+            "en": "Mostly, yes. Most career growth also happens in ways that are invisible from the outside for a long time before they become visible.",
+            "zh": "大致上是。大多數職涯成長在從外部可見之前，往往有很長一段時間以肉眼看不見的方式在發生。"
           },
           {
             "speaker": "b",

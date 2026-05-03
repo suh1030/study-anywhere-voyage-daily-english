@@ -110,7 +110,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a healthier way to think about it than treating personality as fixed and unchangeable.",
+            "en": "That's a healthier way to think about it than treating personality as fixed and unchangeable.",
             "zh": "這比把性格看作固定不變的東西要更健康。"
           }
         ]
@@ -127,7 +127,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is fair. There is a difference between understanding your needs and using a label to avoid things.",
+            "en": "That's fair. There is a difference between understanding your needs and using a label to avoid things.",
             "zh": "說得有道理。了解自己的需求，和用標籤來逃避事情，是不同的事。"
           },
           {
@@ -151,8 +151,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why behavior is more revealing than labels. Watch what someone does under pressure.",
-            "zh": "這就是為什麼行為比標籤更能揭示一個人。看看一個人在壓力下怎麼做。"
+            "en": "That's why behavior is more revealing than labels. Watch what someone does under pressure.",
+            "zh": "也就是為什麼行為比標籤更能揭示一個人。看看一個人在壓力下怎麼做。"
           },
           {
             "speaker": "b",
@@ -187,7 +187,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She sent a detailed follow-up email that showed she had thought carefully about every question I asked.",
-            "zh": "她後來發了一封非常詳細的後續電郵，顯示她仔細思考過我問的每一個問題。"
+            "zh": "她後來發了一封非常詳細的後續email，顯示她仔細思考過我問的每一個問題。"
           },
           {
             "speaker": "b",
@@ -210,8 +210,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why I try to suspend judgment for a bit longer now. Give someone three interactions before forming a firm opinion.",
-            "zh": "這就是為什麼我現在試著多保留一些判斷的空間。在形成確切看法前，先給對方三次互動的機會。"
+            "en": "That's why I try to suspend judgment for a bit longer now. Give someone three interactions before forming a firm opinion.",
+            "zh": "也就是為什麼我現在試著多保留一些判斷的空間。在形成確切看法前，先給對方三次互動的機會。"
           },
           {
             "speaker": "b",
@@ -239,7 +239,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like an honest distinction. Easygoing versus conflict-avoidant.",
+            "en": "That seems like an honest distinction. Easygoing versus conflict-avoidant.",
             "zh": "這是個很誠實的區分。隨和，對比逃避衝突。"
           },
           {
@@ -332,7 +332,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I read that people form a first impression within seven seconds of meeting someone. That feels terrifyingly fast.",
+            "en": "I read that people form a first impression within seven seconds of meeting someone. That lands as terrifyingly fast.",
             "zh": "我讀到人們在與某人見面後七秒內就形成第一印象。感覺快得令人恐懼。"
           },
           {
@@ -368,7 +368,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is unfair but true. A lot of personality signals are body language rather than words.",
+            "en": "That's unfair but true. A lot of personality signals are body language rather than words.",
             "zh": "這不太公平，但確實如此。很多性格訊號來自肢體語言，而不是言語。"
           },
           {
@@ -409,8 +409,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. I had to consciously remind myself not to read into her hallway face.",
-            "zh": "就是這樣。我必須刻意提醒自己，不要過度解讀她走廊上的表情。"
+            "en": "The part I keep noticing is this: I had to consciously remind myself not to read into her hallway face.",
+            "zh": "這裡有一個常被忽略的地方：我必須刻意提醒自己，不要過度解讀她走廊上的表情。"
           },
           {
             "speaker": "b",
@@ -468,8 +468,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The habit was sending a completely different message from what I actually felt.",
-            "zh": "就是這樣。那個習慣傳遞的訊息和我實際的感受完全不同。"
+            "en": "Mostly, yes. The habit was sending a completely different message from what I actually felt.",
+            "zh": "大致上是。那個習慣傳遞的訊息和我實際的感受完全不同。"
           },
           {
             "speaker": "b",
@@ -481,7 +481,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why feedback from people who know you well is actually valuable. They can see your blind spots.",
-            "zh": "這就是為什麼來自了解你的人的反饋其實很有價值。他們能看到你的盲點。"
+            "zh": "這就是為什麼來自了解你的人的回饋其實很有價值。他們能看到你的盲點。"
           }
         ]
       },
@@ -650,7 +650,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is classic introvert exhaustion. Your social battery ran out.",
+            "en": "That's classic introvert exhaustion. Your social battery ran out.",
             "zh": "那是典型的內向者疲勞。你的社交電池耗盡了。"
           },
           {
@@ -727,8 +727,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly. I do my best thinking when it is quiet. My written work shows that.",
-            "zh": "就是這樣。我在安靜的時候思考最好。我的書面作品就能說明這一點。"
+            "en": "Yes, and i do my best thinking when it is quiet. My written work shows that.",
+            "zh": "對，而且我在安靜的時候思考最好。我的書面作品就能說明這一點。"
           },
           {
             "speaker": "a",
@@ -756,7 +756,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is called ambiversion. Most people are actually somewhere in the middle of the spectrum.",
+            "en": "That's called ambiversion. Most people are actually somewhere in the middle of the spectrum.",
             "zh": "那叫做中向性格。大多數人其實都處於這個光譜的中間某處。"
           },
           {
@@ -816,7 +816,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She sent me a very long and thoughtful email when I was struggling with a project. Out of nowhere.",
-            "zh": "有一次我在專案上陷入困境，她突然寄給我一封非常長且有深度的電子郵件。完全出乎意料。"
+            "zh": "有一次我在專案上陷入困境，她突然寄給我一封非常長且有深度的email。完全出乎意料。"
           },
           {
             "speaker": "b",
@@ -827,8 +827,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Introverts often process and respond later. They are not absent, just slower to surface.",
-            "zh": "就是這樣。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。"
+            "en": "That is where the language becomes useful. Introverts often process and respond later. They are not absent, just slower to surface.",
+            "zh": "這裡是我想特別畫線的地方。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。"
           },
           {
             "speaker": "b",
@@ -845,7 +845,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a real structural bias in most workplaces. Worth naming out loud.",
+            "en": "That's a real structural bias in most workplaces. Worth naming out loud.",
             "zh": "這是大多數職場中真實存在的結構性偏見。值得直接說出來。"
           }
         ]
@@ -880,7 +880,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a small habit with a big return.",
+            "en": "I can see why you'd say that. It does feel like a small habit with a big return.",
             "zh": "聽起來是個小習慣，但回報很大。"
           },
           {
@@ -973,7 +973,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is hard to define. But you know it when you see it.",
+            "en": "That's hard to define. But you know it when you see it.",
             "zh": "很難定義。但你看到就知道。"
           },
           {
@@ -985,7 +985,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is it. She always remembers what you told her last week. Small details.",
+            "en": "That's it. She always remembers what you told her last week. Small details.",
             "zh": "就是這樣。她總是記得你上週說的事。小細節。"
           },
           {
@@ -1003,8 +1003,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why real listening is rare and why it stands out so much when you experience it.",
-            "zh": "這就是為什麼真正的傾聽很罕見，也是為什麼當你真正體驗到它時，它會如此突出。"
+            "en": "That's why real listening is rare and why it stands out so much when you experience it.",
+            "zh": "也就是為什麼真正的傾聽很罕見，也是為什麼當你真正體驗到它時，它會如此突出。"
           }
         ]
       },
@@ -1097,7 +1097,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the core of resilience — directing energy toward what responds to effort.",
+            "en": "That's the core of resilience — directing energy toward what responds to effort.",
             "zh": "這就是韌性的核心——把能量導向那些能被努力影響的事情。"
           },
           {
@@ -1157,7 +1157,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Honest feedback without relationship context just feels like criticism.",
-            "zh": "說得對。沒有關係基礎的誠實反饋，只會讓人感覺像批評。"
+            "zh": "說得對。沒有關係基礎的誠實回饋，只會讓人感覺像批評。"
           },
           {
             "speaker": "b",
@@ -1197,7 +1197,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is slightly terrifying. It means the only way forward is through uncomfortable situations.",
+            "en": "That's slightly terrifying. It means the only way forward is through uncomfortable situations.",
             "zh": "這有點令人恐懼。意思是向前走的唯一方法就是穿越不舒適的情境。"
           },
           {
@@ -1415,7 +1415,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Unsolicited feedback is uncomfortable. But it is often more accurate than what people say when you ask directly.",
-            "zh": "不請自來的反饋很不舒服。但它往往比你直接詢問時人們說的更準確。"
+            "zh": "不請自來的回饋很不舒服。但它往往比你直接詢問時人們說的更準確。"
           },
           {
             "speaker": "b",
@@ -1467,7 +1467,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the kind of blind spot a journal surfaces. Your head had moved on; your feelings had not.",
+            "en": "That's exactly the kind of blind spot a journal surfaces. Your head had moved on; your feelings had not.",
             "zh": "這正是日記會浮現出的盲點。你的思緒已經繼續走了；你的情緒沒有。"
           },
           {
@@ -1491,7 +1491,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds exhausting. How did you shift out of that?",
+            "en": "I can see that. It sounds exhausting. How did you shift out of that?",
             "zh": "聽起來很累人。你是怎麼走出那種狀態的？"
           },
           {
@@ -1515,7 +1515,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the growth mindset idea. Effort and behavior are malleable; you are not a finished product.",
+            "en": "That's the growth mindset idea. Effort and behavior are malleable; you are not a finished product.",
             "zh": "這就是成長型思維的概念。努力和行為是可塑的；你不是一個已完成的產品。"
           },
           {
@@ -1614,7 +1614,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful way to think about it. I never framed it as expansive before.",
+            "en": "I like that as a useful way to think about it. I never framed it as expansive before.",
             "zh": "這是個有用的思考方式。我以前從來沒有把它框架成「廣闊」。"
           },
           {
@@ -1727,13 +1727,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Adjusting to your audience is a skill. It takes practice and paying attention to feedback signals.",
-            "zh": "調整以符合你的聽眾是一種技能。需要練習，也需要關注反饋信號。"
+            "zh": "調整以符合你的聽眾是一種技能。需要練習，也需要關注回饋信號。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What feedback signals do you look for?",
-            "zh": "你尋找什麼反饋信號？"
+            "zh": "你尋找什麼回饋信號？"
           },
           {
             "speaker": "a",
@@ -1755,7 +1755,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is stonewalling. It is one of the most frustrating things for a more verbal partner.",
+            "en": "That's stonewalling. It is one of the most frustrating things for a more verbal partner.",
             "zh": "那叫冷戰。對一個較多言語表達的伴侶來說，這是最令人沮喪的事情之一。"
           },
           {
@@ -1820,7 +1820,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a gentler way to think about friendships that faded. Not a failure — just a different season.",
+            "en": "That's a gentler way to think about friendships that faded. Not a failure — just a different season.",
             "zh": "這是一種更溫和的方式來看待逐漸淡去的友誼。不是失敗——只是不同的季節。"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is hopeful. It means a difficult patch does not have to be the end of the story.",
+            "en": "That's hopeful. It means a difficult patch does not have to be the end of the story.",
             "zh": "這讓人感到希望。這意味著一段艱難時期不一定是故事的終點。"
           },
           {
@@ -1978,14 +1978,14 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is interesting. Because thoughts can be rationalizations.",
+            "en": "I like that; it is interesting. Because thoughts can be rationalizations.",
             "zh": "這很有意思。因為思想可能是合理化的藉口。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. You can talk yourself into and out of anything. But your body usually knows.",
-            "zh": "就是這樣。你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
+            "en": "This matters more than it first seems: You can talk yourself into and out of anything. But your body usually knows.",
+            "zh": "這裡有一個常被忽略的地方：你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
           },
           {
             "speaker": "b",
@@ -2019,8 +2019,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Authenticity is about acting from your real values, not about having zero filter.",
-            "zh": "完全正確。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
+            "en": "Mostly, yes. Authenticity is about acting from your real values, not about having zero filter.",
+            "zh": "大致上是。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much more sophisticated definition than \"just be real.\"",
+            "en": "That's a much more sophisticated definition than \"just be real.\"",
             "zh": "這比「就做真實的自己」複雜得多。"
           },
           {
@@ -2126,7 +2126,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The self-improvement industry runs on that feeling. There is always another course, habit, or optimization.",
-            "zh": "自我提升產業就靠這種感覺運作。永遠有下一門課、下一個習慣、下一個優化。"
+            "zh": "自我提升產業就靠這種感覺運作。永遠有下一門課、下一個習慣、下一個最佳化。"
           },
           {
             "speaker": "b",
@@ -2155,7 +2155,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually different starting position. From broken, versus from curious.",
+            "en": "That's an unusually different starting position. From broken, versus from curious.",
             "zh": "這是非常不同的出發點。從破損出發，對比從好奇心出發。"
           },
           {

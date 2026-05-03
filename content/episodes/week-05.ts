@@ -57,7 +57,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a beautiful way to put it.",
+            "en": "I like that as a beautiful way to put it.",
             "zh": "這個說法很美。"
           }
         ]
@@ -139,7 +139,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another good one is: \"The celebration brought everyone together.\" That is useful when the event was more about people than activities.",
+            "en": "Another option people actually use is: \"The celebration brought everyone together.\" I would use it when the event was more about people than activities.",
             "zh": "另一句很好用的是：「The celebration brought everyone together.」如果那場慶祝重點比較在人和關係上，這句很適合。"
           },
           {
@@ -157,7 +157,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like useful speaking English.",
+            "en": "I can see why you'd say that. It does feel like useful speaking English.",
             "zh": "這聽起來就是很好用的口說英文。"
           },
           {
@@ -192,8 +192,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Or having cake after someone passes an exam, or lighting a candle for a quiet dinner at home.",
-            "zh": "沒錯。或者某人考試過了就一起吃蛋糕，或者在家裡安靜地吃晚餐時點一根蠟燭。"
+            "en": "Yes, or having cake after someone passes an exam, or lighting a candle for a quiet dinner at home.",
+            "zh": "對，而且或者某人考試過了就一起吃蛋糕，或者在家裡安靜地吃晚餐時點一根蠟燭。"
           },
           {
             "speaker": "b",
@@ -216,7 +216,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually a good instinct.",
+            "en": "That's usually a good instinct.",
             "zh": "那通常會是一個很好的直覺。"
           },
           {
@@ -246,7 +246,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is probably why even tired people still want gatherings sometimes.",
+            "en": "That's probably why even tired people still want gatherings sometimes.",
             "zh": "這大概也是為什麼，連很累的人有時候還是會想聚一聚。"
           },
           {
@@ -410,7 +410,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a perfect example. One taste can hold years of family memory.",
+            "en": "I like that as a perfect example. One taste can hold years of family memory.",
             "zh": "那就是很好的例子。一個味道，就可以裝下很多年的家庭記憶。"
           },
           {
@@ -445,13 +445,13 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels easy to remember.",
+            "en": "That is easy to remember.",
             "zh": "這句很好記。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A steadier way to put it is, \"The tradition has changed a little, but the feeling is still the same.\" That is good when the form has changed over time.",
+            "en": "A steadier way to put it is, \"The tradition has changed a little, but the feeling is still the same.\" It works well when the form has changed over time.",
             "zh": "另一句也很好用：「The tradition has changed a little, but the feeling is still the same.」如果形式有變，但核心沒變，這句很好用。"
           },
           {
@@ -475,8 +475,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It helps people talk about change without sounding disrespectful.",
-            "zh": "很好。它會幫人談改變，但又不會聽起來像是不尊重傳統。"
+            "en": "Here is a cleaner way to say it. It helps people talk about change without sounding disrespectful.",
+            "zh": "我們把它變得更實用一點。它會幫人談改變，但又不會聽起來像是不尊重傳統。"
           }
         ]
       },
@@ -504,8 +504,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. If nobody can fit it into present life, people slowly stop doing it.",
-            "zh": "沒錯。如果它完全塞不進現在的生活，人就會慢慢不做了。"
+            "en": "I would pay attention to this: If nobody can fit it into present life, people slowly stop doing it.",
+            "zh": "這裡有一個常被忽略的地方：如果它完全塞不進現在的生活，人就會慢慢不做了。"
           },
           {
             "speaker": "b",
@@ -551,7 +551,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is deeper than passing on a recipe.",
+            "en": "That's deeper than passing on a recipe.",
             "zh": "這比單純傳一道食譜更深很多。"
           },
           {
@@ -569,8 +569,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. It tells people, \"You belong here, and this is one of the ways we remember that.\"",
-            "zh": "我覺得是。它像是在對人說：「你屬於這裡，而這就是我們記住這件事的一種方式。」"
+            "en": "Mostly, yes. It tells people, \"You belong here, and this is one of the ways we remember that.\"",
+            "zh": "大致上是。它像是在對人說：「你屬於這裡，而這就是我們記住這件事的一種方式。」"
           },
           {
             "speaker": "b",
@@ -662,14 +662,14 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A simple gift can feel very warm, while an expensive one can still feel awkward.",
-            "zh": "沒錯。一個簡單的禮物可以讓人覺得很溫暖，而一個很貴的禮物也可能還是讓人尷尬。"
+            "en": "Mostly, yes. A simple gift can feel very warm, while an expensive one can still feel awkward.",
+            "zh": "大致上是。一個簡單的禮物可以讓人覺得很溫暖，而一個很貴的禮物也可能還是讓人尷尬。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true. Meaning and price do not always match.",
-            "zh": "這倒是真的。意義和價格，真的不一定會對得上。"
+            "en": "True. Meaning and price do not always match.",
+            "zh": "是真的。意義和價格，真的不一定會對得上。"
           },
           {
             "speaker": "a",
@@ -686,7 +686,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly what it is.",
+            "en": "That's exactly what it is.",
             "zh": "對，它本來就是。"
           }
         ]
@@ -709,8 +709,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the gift feels personal.",
-            "zh": "所以禮物會讓人感覺很貼近自己。"
+            "en": "So the gift feels personal. Does that match what you mean?",
+            "zh": "所以禮物會讓人感覺很貼近自己。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -762,7 +762,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is easy to use.",
+            "en": "That's easy to use.",
             "zh": "這句很好用。"
           },
           {
@@ -868,7 +868,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is bigger than shopping.",
+            "en": "That's bigger than shopping.",
             "zh": "這比買東西大很多。"
           },
           {
@@ -898,8 +898,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Giving should feel human, not like a performance test.",
-            "zh": "很好。送禮本來就該很有人味，不該像一場表現考試。"
+            "en": "For everyday English, try this shape. Giving should feel human, not like a performance test.",
+            "zh": "我們把它變得更實用一點。送禮本來就該很有人味，不該像一場表現考試。"
           }
         ]
       }
@@ -979,13 +979,13 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A family table may hold love, comfort, unfinished tension, and expectation all at once.",
-            "zh": "沒錯。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。"
+            "en": "That is the part worth practicing. A family table may hold love, comfort, unfinished tension, and expectation all at once.",
+            "zh": "這裡是我想特別畫線的地方。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why the mood can shift so quickly.",
+            "en": "That's why the mood can shift so quickly.",
             "zh": "這也就是為什麼氣氛會變得那麼快。"
           },
           {
@@ -1026,7 +1026,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very comforting.",
+            "en": "I can see that. It sounds very comforting.",
             "zh": "這聽起來很安慰。"
           },
           {
@@ -1050,7 +1050,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a lovely way to say it.",
+            "en": "I like that as a lovely way to say it.",
             "zh": "這個說法很美。"
           },
           {
@@ -1085,7 +1085,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another useful line is: \"The gathering was a little chaotic, but it felt warm.\" That is good when the event was messy in a human way.",
+            "en": "Another useful line is: \"The gathering was a little chaotic, but it felt warm.\" It works well when the event was messy in a human way.",
             "zh": "另一句也很好用：「The gathering was a little chaotic, but it felt warm.」如果那場聚會有點亂，但亂得很有人味，這句很好用。"
           },
           {
@@ -1144,7 +1144,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful reminder.",
+            "en": "I like that as a useful reminder.",
             "zh": "這是個很有用的提醒。"
           },
           {
@@ -1198,8 +1198,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Small moments are often where the real meaning lives.",
-            "zh": "很好。真正的意義，很多時候就住在那些小時刻裡。"
+            "en": "On an ordinary day, the sentence gets simpler. Small moments are often where the real meaning lives.",
+            "zh": "我們把它變得更實用一點。真正的意義，很多時候就住在那些小時刻裡。"
           },
           {
             "speaker": "b",
@@ -1297,8 +1297,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true. People often remember the table before they remember the conversation.",
-            "zh": "這倒是真的。很多人會先記得那張桌子，再去記得聊天內容。"
+            "en": "True. People often remember the table before they remember the conversation.",
+            "zh": "是真的。很多人會先記得那張桌子，再去記得聊天內容。"
           },
           {
             "speaker": "a",
@@ -1356,7 +1356,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is why people work hard to keep certain dishes present at special gatherings.",
+            "en": "Yes. That is why people work hard to keep certain dishes present at special gatherings.",
             "zh": "對。這也就是為什麼很多人會很努力地把某些特定食物保留在重要聚會裡。"
           },
           {
@@ -1397,8 +1397,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"The meal felt like home.\" That works when you want to describe emotional comfort.",
-            "zh": "另一句也很好用：「The meal felt like home.」如果你想形容那種情感上的安慰感，這句很適合。"
+            "en": "You could keep it simple and say, \"The meal felt like home.\" That works when you want to describe emotional comfort.",
+            "zh": "也可以簡單說：「The meal felt like home.」如果你想形容那種情感上的安慰感，這句很適合。"
           },
           {
             "speaker": "b",
@@ -1415,7 +1415,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very usable for speaking.",
+            "en": "I can see that. It sounds very usable for speaking.",
             "zh": "這句很適合拿來口說。"
           },
           {
@@ -1438,8 +1438,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. Celebrations often look effortless from the outside, but someone usually carried a lot of invisible labor.",
-            "zh": "這是真的。很多慶祝從外面看起來很輕鬆，但通常都有人默默扛了很多看不見的勞動。"
+            "en": "True. Celebrations often look effortless from the outside, but someone usually carried a lot of invisible labor.",
+            "zh": "是真的。很多慶祝從外面看起來很輕鬆，但通常都有人默默扛了很多看不見的勞動。"
           },
           {
             "speaker": "b",
@@ -1497,7 +1497,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much more than nutrition.",
+            "en": "That's much more than nutrition.",
             "zh": "這真的遠遠不只是營養。"
           },
           {
@@ -1521,7 +1521,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a lovely way to end this topic.",
+            "en": "I like that as a lovely way to end this topic.",
             "zh": "這很適合當這個主題的結尾。"
           },
           {
@@ -1608,13 +1608,13 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A song can make people feel playful, proud, tender, or ready to move.",
-            "zh": "沒錯。一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
+            "en": "There is one quiet detail here: A song can make people feel playful, proud, tender, or ready to move.",
+            "zh": "這裡有一個常被忽略的地方：一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why silence at a celebration can feel strange.",
+            "en": "That's why silence at a celebration can feel strange.",
             "zh": "這也就是為什麼，沒有音樂的慶祝有時候會讓人覺得怪怪的。"
           },
           {
@@ -1661,8 +1661,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. That is part of why group dancing can feel so powerful.",
-            "zh": "沒錯。這也是為什麼一群人一起跳舞，會那麼有力量。"
+            "en": "Mostly, yes. That is part of why group dancing can feel so powerful.",
+            "zh": "大致上是。這也是為什麼一群人一起跳舞，會那麼有力量。"
           },
           {
             "speaker": "b",
@@ -1726,7 +1726,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can also go with \"Everyone joined in.\" That is useful when the celebration became communal.",
+            "en": "You can also go with \"Everyone joined in.\" I would use it when the celebration became communal.",
             "zh": "你也可以說：「Everyone joined in.」如果整個慶祝變得很有共同參與感，這句很好用。"
           },
           {
@@ -1785,7 +1785,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a lovely thought.",
+            "en": "I like that as a lovely thought.",
             "zh": "這個想法很美。"
           },
           {
@@ -1815,7 +1815,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is why people choose it so carefully for important moments.",
+            "en": "Yes. That is why people choose it so carefully for important moments.",
             "zh": "對。這也就是為什麼人會在重要時刻這麼仔細地挑音樂。"
           },
           {
@@ -1833,7 +1833,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right note to end on.",
+            "en": "That sounds like the right note to end on.",
             "zh": "這句拿來收尾剛剛好。"
           },
           {
@@ -1985,13 +1985,13 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. It is to let the meaning stay in a smaller form.",
-            "zh": "沒錯。真正的重點，是讓那個意義用比較小的形式留下來。"
+            "en": "That is where the language becomes useful. It is to let the meaning stay in a smaller form.",
+            "zh": "這裡是我想特別畫線的地方。真正的重點，是讓那個意義用比較小的形式留下來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more realistic.",
+            "en": "That is much more realistic.",
             "zh": "這樣真的現實很多。"
           },
           {
@@ -2020,14 +2020,14 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really nice.",
+            "en": "That's really nice.",
             "zh": "這句真的很好。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another natural option is, \"I do not want the meaning to disappear just because the event is over.\" That is good after a meaningful gathering.",
-            "zh": "另一句也很好用：「I do not want the meaning to disappear just because the event is over.」如果是一場很有意義的聚會之後，這句很適合。"
+            "en": "Another option that still sounds natural is, \"I do not want the meaning to disappear just because the event is over.\" That is good after a meaningful gathering.",
+            "zh": "另一個仍然自然的說法是：「I do not want the meaning to disappear just because the event is over.」如果是一場很有意義的聚會之後，這句很適合。"
           },
           {
             "speaker": "b",
@@ -2132,7 +2132,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a lovely way to put it.",
+            "en": "I like that as a lovely way to put it.",
             "zh": "你這樣說真的很美。"
           },
           {

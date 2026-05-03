@@ -4,11 +4,11 @@
 > 用途：提供實作者直接照做的最後修復流程、任務拆解、輸出物格式與驗收關卡
 > 搭配文件：[final-prelaunch-remediation-master.md](./final-prelaunch-remediation-master.md)、[pre-launch-checklist.md](./pre-launch-checklist.md)
 
-> 2026-04-23 update:
+> 2026-04-29 update:
 > Current launch content scope and sign-off criteria are now defined by
 > [product-content-scope.md](./product-content-scope.md) and
 > [launch-content-quality-signoff.md](./launch-content-quality-signoff.md).
-> Articles are legacy archive content; episode inline vocab has been retired.
+> Articles are active Speak content again; episode inline vocab remains retired.
 
 ---
 
@@ -300,7 +300,8 @@ reports/prelaunch/YYYY-MM-DD/
 
 ```bash
 node scripts/validate-episodes.js
-node scripts/validate-supporting-content.js --exclude-articles
+node scripts/validate-supporting-content.js
+npx tsx scripts/prelaunch/check-articles-import.ts
 SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npx tsx scripts/seed.ts
 ```
 

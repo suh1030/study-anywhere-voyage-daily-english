@@ -57,7 +57,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. once isolation drops, people often become more generous, more stable, and more able to help others too.",
+            "en": "Yes. Once isolation drops, people often become more generous, more stable, and more able to help others too.",
             "zh": "對。而當孤立感下降，人常常也會變得更慷慨、更穩，甚至更有能力去幫別人。"
           }
         ]
@@ -93,7 +93,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So sustainability is part of care too.",
-            "zh": "所以可持續性，本來就是照顧的一部分。"
+            "zh": "所以能否長期維持，本來就是照顧的一部分。"
           },
           {
             "speaker": "a",
@@ -104,7 +104,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels wiser than the idea of endless sacrifice.",
+            "en": "That is wiser than the idea of endless sacrifice.",
             "zh": "這比無止盡犧牲的想像，聰明太多了。"
           },
           {
@@ -198,14 +198,14 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the kind of help that changes the day itself.",
+            "en": "That's the kind of help that changes the day itself.",
             "zh": "那種幫忙是真的會直接改變一天的樣子。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Community care often looks ordinary from the outside, but from the inside it can feel life-saving.",
-            "zh": "沒錯。從外面看，社群照顧常常很普通；但從裡面的人來看，它可能像救命一樣。"
+            "en": "Yes. That is the important shift. Community care often looks ordinary from the outside, but from the inside it can feel life-saving.",
+            "zh": "這裡是我想特別畫線的地方。從外面看，社群照顧常常很普通；但從裡面的人來看，它可能像救命一樣。"
           },
           {
             "speaker": "b",
@@ -263,7 +263,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful place to begin from.",
+            "en": "I like that as a beautiful place to begin from.",
             "zh": "那是一個很美的起點。"
           },
           {
@@ -397,19 +397,19 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the listener is not solving the problem, but helping the problem become speakable.",
-            "zh": "所以聽的人不是直接解決問題，而是在幫問題變得可以說得出來。"
+            "en": "So the listener is not solving the problem, but helping the problem become speakable. Maybe I am making it sound cleaner than it feels.",
+            "zh": "所以聽的人不是直接解決問題，而是在幫問題變得可以說得出來。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that can be deeply relieving. Many people calm down once the inside of their head starts sounding less chaotic outside of it.",
+            "en": "Yes. That can be deeply relieving. Many people calm down once the inside of their head starts sounding less chaotic outside of it.",
             "zh": "對，而那會讓人非常鬆。很多人是等到自己腦中的混亂，終於在外面聽起來沒那麼亂，人才開始 calm down。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really compassionate way to describe it.",
+            "en": "That's a really compassionate way to describe it.",
             "zh": "這個描述很有同理。"
           },
           {
@@ -450,13 +450,13 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much better than jumping straight to a solution.",
+            "en": "I can see that. It sounds much better than jumping straight to a solution.",
             "zh": "這句真的比直接跳去解法好多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You might also say, \"Say more about that part.\" It invites detail without taking over the conversation.",
+            "en": "You might put it this way: \"Say more about that part.\" It invites detail without taking over the conversation.",
             "zh": "另一句也很自然：「Say more about that part.」它會邀請細節，但不會搶走對話。"
           },
           {
@@ -503,7 +503,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels common and a little embarrassing.",
+            "en": "That sounds common and a little embarrassing.",
             "zh": "這真的很常見，而且有點尷尬。"
           },
           {
@@ -533,8 +533,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Listening well means hearing not only what happened, but what it cost the person inside it.",
-            "zh": "沒錯。聽得好，代表你不只聽見發生了什麼，也聽見那件事讓那個人付出了什麼。"
+            "en": "Yes, and listening well means hearing not only what happened, but what it cost the person inside it.",
+            "zh": "對，而且聽得好，代表你不只聽見發生了什麼，也聽見那件事讓那個人付出了什麼。"
           },
           {
             "speaker": "b",
@@ -551,7 +551,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful way to put it.",
+            "en": "I like that as a beautiful way to put it.",
             "zh": "這個說法很美。"
           },
           {
@@ -569,7 +569,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is why listening is not passive at all. It actively changes what becomes possible between people.",
+            "en": "Yes. That is why listening is not passive at all. It actively changes what becomes possible between people.",
             "zh": "對。也正因如此，傾聽一點都不被動。它會主動改變人和人之間有哪些東西變得可能。"
           },
           {
@@ -668,7 +668,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds less cinematic and more real.",
+            "en": "I can see that. It sounds less cinematic and more real.",
             "zh": "這樣聽起來比較不電影，但更真。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that quiet trust can move a neighborhood more than a loud campaign can.",
+            "en": "Yes. That quiet trust can move a neighborhood more than a loud campaign can.",
             "zh": "對，而那種安靜的信任，有時候比一場很大聲的宣傳更能推動一個地方。"
           }
         ]
@@ -733,7 +733,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels more like a strong phrase.",
+            "en": "That is more like a strong phrase.",
             "zh": "這個說法很有力。"
           },
           {
@@ -768,13 +768,13 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"He turned concern into organized action.\" That works well when someone moved from caring to doing.",
+            "en": "You could keep it simple and say, \"He turned concern into organized action.\" That works well when someone moved from caring to doing.",
             "zh": "另一句也很好：「He turned concern into organized action.」這句很適合描述一個人把在乎變成行動。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds strong without sounding exaggerated.",
+            "en": "I can see that. It sounds strong without sounding exaggerated.",
             "zh": "這句很有力，但不會太誇張。"
           },
           {
@@ -792,8 +792,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Local impact often grows through ordinary usefulness.",
-            "zh": "沒錯。在地影響力，很多時候就是從普通但有用開始長大的。"
+            "en": "The part I keep noticing is this: Local impact often grows through ordinary usefulness.",
+            "zh": "這裡有一個常被忽略的地方：在地影響力，很多時候就是從普通但有用開始長大的。"
           }
         ]
       },
@@ -821,8 +821,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. They carry local knowledge that is practical and relational at the same time.",
-            "zh": "沒錯。他們身上帶著一種在地知識，既實際，也非常關係導向。"
+            "en": "Mostly, yes. They carry local knowledge that is practical and relational at the same time.",
+            "zh": "大致上是。他們身上帶著一種在地知識，既實際，也非常關係導向。"
           },
           {
             "speaker": "b",
@@ -886,13 +886,13 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually the right tone. Real changemakers are often less interested in being impressive than in being useful.",
+            "en": "That's usually the right tone. Real changemakers are often less interested in being impressive than in being useful.",
             "zh": "那通常就是對的 tone。真正的 changemaker，常常對「讓自己很厲害」沒那麼有興趣，反而更在意自己是不是有用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a value system I really respect.",
+            "en": "That's a value system I really respect.",
             "zh": "這是一套我很尊敬的價值系統。"
           },
           {
@@ -985,7 +985,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds hard in real life.",
+            "en": "I can see that. It sounds hard in real life.",
             "zh": "這在現實裡聽起來很難。"
           },
           {
@@ -1050,7 +1050,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is painfully true on the internet too.",
+            "en": "That's painfully true on the internet too.",
             "zh": "這在網路上也真的準到痛。"
           },
           {
@@ -1079,7 +1079,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds respectful and still honest.",
+            "en": "I can see that. It sounds respectful and still honest.",
             "zh": "這句聽起來很尊重，但也很誠實。"
           },
           {
@@ -1138,8 +1138,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A helpful leader might say, \"It sounds like we all care about the neighborhood, but we are protecting different parts of it.\" That reframes the room.",
-            "zh": "沒錯。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
+            "en": "Exactly. That is the useful point. A helpful leader might say, \"It sounds like we all care about the neighborhood, but we are protecting different parts of it.\" That reframes the room.",
+            "zh": "這裡是我想特別畫線的地方。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
           },
           {
             "speaker": "b",
@@ -1192,7 +1192,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a deeper definition of community.",
+            "en": "I can see why you'd say that. It does feel like a deeper definition of community.",
             "zh": "這聽起來像一個更深的 community 定義。"
           },
           {
@@ -1204,14 +1204,14 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a version of community I can really believe in.",
+            "en": "That's a version of community I can really believe in.",
             "zh": "這才是我真的相信得下去的社群版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It is also the version that lasts longer than idealism alone.",
-            "zh": "很好。而且這個版本，也比單靠理想主義更撐得久。"
+            "en": "For everyday English, try this shape. It is also the version that lasts longer than idealism alone.",
+            "zh": "我們把它變得更實用一點。而且這個版本，也比單靠理想主義更撐得久。"
           }
         ]
       }
@@ -1297,7 +1297,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more grounded than innovation language.",
+            "en": "I can see that. It sounds much more grounded than innovation language.",
             "zh": "這樣聽起來比那種 innovation 語言落地多了。"
           },
           {
@@ -1350,7 +1350,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds slower but healthier.",
+            "en": "I can see that. It sounds slower but healthier.",
             "zh": "這聽起來比較慢，但也比較健康。"
           },
           {
@@ -1444,7 +1444,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a normal problem.",
+            "en": "That sounds like a normal problem.",
             "zh": "這真的很像一個超正常的問題。"
           },
           {
@@ -1468,7 +1468,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more respectful to the community.",
+            "en": "I can see that. It sounds much more respectful to the community.",
             "zh": "這樣真的對社群尊重多了。"
           },
           {
@@ -1509,7 +1509,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a better definition of progress.",
+            "en": "That seems like a better definition of progress.",
             "zh": "這感覺像一個更好的 progress 定義。"
           },
           {
@@ -1521,7 +1521,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the kind of technology I want more of.",
+            "en": "That's the kind of technology I want more of.",
             "zh": "這就是我想看到更多的那種科技。"
           },
           {
@@ -1632,7 +1632,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. when that happens, people start seeing care as normal rather than exceptional.",
+            "en": "Yes. When that happens, people start seeing care as normal rather than exceptional.",
             "zh": "對。而當那件事發生時，人就會把照顧別人看成正常，不是特別偉大才做的事。"
           }
         ]
@@ -1708,7 +1708,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels warmer than just saying \"They taught me.\"",
+            "en": "That sounds warmer than just saying \"They taught me.\"",
             "zh": "這句比單純說「They taught me」更有溫度。"
           },
           {
@@ -1761,7 +1761,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is honestly a simple but powerful image.",
+            "en": "That's honestly a simple but powerful image.",
             "zh": "這個畫面很簡單，但很有力量。"
           },
           {
@@ -1779,8 +1779,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Repeated acts become muscle memory for kindness.",
-            "zh": "沒錯。重複的動作，最後會變成善意的肌肉記憶。"
+            "en": "This matters more than it first seems: Repeated acts become muscle memory for kindness.",
+            "zh": "這裡有一個常被忽略的地方：重複的動作，最後會變成善意的肌肉記憶。"
           },
           {
             "speaker": "b",
@@ -1820,7 +1820,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. it helps to explain the meaning too. People inherit values more deeply when they know not only what to do, but why it matters.",
+            "en": "Yes. It helps to explain the meaning too. People inherit values more deeply when they know not only what to do, but why it matters.",
             "zh": "對，而且把意義說出來也有幫助。當人不只知道怎麼做，也知道為什麼重要時，價值會傳得更深。"
           },
           {
@@ -1832,13 +1832,13 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. We do not control everything the next generation keeps, but we can offer them patterns worth inheriting.",
-            "zh": "沒錯。我們不能控制下一代會留下什麼，但我們可以提供一些值得被繼承的模式。"
+            "en": "Mostly, yes. We do not control everything the next generation keeps, but we can offer them patterns worth inheriting.",
+            "zh": "大致上是。我們不能控制下一代會留下什麼，但我們可以提供一些值得被繼承的模式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a hopeful responsibility.",
+            "en": "That's a hopeful responsibility.",
             "zh": "那是一種很有希望的責任。"
           },
           {
@@ -1919,7 +1919,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds bigger than friendship.",
+            "en": "I can see that. It sounds bigger than friendship.",
             "zh": "這聽起來比 friendship 還更大。"
           },
           {
@@ -1984,7 +1984,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels more like an important skill for communities.",
+            "en": "That sounds more like an important skill for communities.",
             "zh": "這聽起來像社群很重要的一項能力。"
           },
           {
@@ -2096,20 +2096,20 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. People are more likely to help when helping feels sustainable and real.",
-            "zh": "很好。當幫忙聽起來能長期維持、也很真實時，人反而更可能真的出手。"
+            "en": "On an ordinary day, the sentence gets simpler. People are more likely to help when helping feels sustainable and real.",
+            "zh": "我們把它變得更實用一點。當幫忙聽起來能長期維持、也很真實時，人反而更可能真的出手。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the goal is not to be impressive. It is to be reliable.",
-            "zh": "所以重點不是讓自己很厲害，而是讓自己很可靠。"
+            "en": "So the goal is not to be impressive. It is to be reliable. But does that leave anything out?",
+            "zh": "所以重點不是讓自己很厲害，而是讓自己很可靠。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Reliable people are part of what makes any community feel safe.",
-            "zh": "沒錯。可靠的人，本來就是任何社群安全感的一部分。"
+            "en": "I would keep that sentence close. Reliable people are part of what makes any community feel safe.",
+            "zh": "這裡是我想特別畫線的地方。可靠的人，本來就是任何社群安全感的一部分。"
           },
           {
             "speaker": "b",
@@ -2126,7 +2126,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds both practical and hopeful.",
+            "en": "I can see that. It sounds both practical and hopeful.",
             "zh": "這聽起來既實際，又有希望。"
           },
           {
@@ -2138,7 +2138,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a way of living, not just a topic.",
+            "en": "I would call that a way of living, not just a topic.",
             "zh": "這聽起來像一種生活方式，不只是課題。"
           },
           {
@@ -2156,8 +2156,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. That means the language is no longer floating above life. It is starting to live inside it.",
-            "zh": "很好。那代表語言不再飄在生活上面，而是開始住進生活裡了。"
+            "en": "For listening practice, notice the shape of this sentence. That means the language is no longer floating above life. It is starting to live inside it.",
+            "zh": "我們把它變得更實用一點。那代表語言不再飄在生活上面，而是開始住進生活裡了。"
           }
         ]
       }

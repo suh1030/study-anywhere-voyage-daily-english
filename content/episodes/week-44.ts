@@ -39,7 +39,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds uncomfortably true.",
+            "en": "I can see that. It sounds uncomfortably true.",
             "zh": "這真的準到有點不舒服。"
           },
           {
@@ -104,7 +104,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds difficult but necessary.",
+            "en": "I can see that. It sounds difficult but necessary.",
             "zh": "這真的聽起來又難又必要。"
           },
           {
@@ -133,7 +133,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds honest and not too dramatic.",
+            "en": "I can see that. It sounds honest and not too dramatic.",
             "zh": "這句聽起來很誠實，也不會太戲劇化。"
           },
           {
@@ -192,13 +192,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Draft courage matters because voice usually appears in imperfect work before it appears in finished work.",
-            "zh": "完全沒錯。草稿勇氣很重要，因為聲音通常是先出現在不完美作品裡，之後才會出現在完成品裡。"
+            "en": "Yes, and draft courage matters because voice usually appears in imperfect work before it appears in finished work.",
+            "zh": "對，而且草稿勇氣很重要，因為聲音通常是先出現在不完美作品裡，之後才會出現在完成品裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a useful reminder.",
+            "en": "I can see why you'd say that. It does feel like a useful reminder.",
             "zh": "這真的是很有用的提醒。"
           },
           {
@@ -210,7 +210,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very right.",
+            "en": "I can see that. It sounds very right.",
             "zh": "這真的很對。"
           },
           {
@@ -239,7 +239,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful description.",
+            "en": "I like that as a beautiful description.",
             "zh": "這真的很美。"
           },
           {
@@ -338,7 +338,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the clearest examples of everyday art I have heard. It did not cost much. It changed the emotional texture of hours.",
+            "en": "That's one of the clearest examples of everyday art I have heard. It did not cost much. It changed the emotional texture of hours.",
             "zh": "這是我聽過的日常藝術裡最清楚的例子之一。它花不了多少錢，卻改變了好幾個小時的情緒質地。"
           },
           {
@@ -397,7 +397,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a significant change from one small adjustment.",
+            "en": "That's a significant change from one small adjustment.",
             "zh": "一個小改動能帶出這麼大的變化，真的很不一樣。"
           },
           {
@@ -480,7 +480,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly what she was doing.",
+            "en": "That's exactly what she was doing.",
             "zh": "她做的就是那個。"
           }
         ]
@@ -521,7 +521,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what makes it useful. It names something people already believe but have not given themselves permission to act on.",
+            "en": "That's what makes it useful. It names something people already believe but have not given themselves permission to act on.",
             "zh": "那正是它有用的地方。它說出了一個人們早就相信、但還沒給自己許可去實踐的東西。"
           },
           {
@@ -602,7 +602,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because story instinct is deeply human. We use narrative to turn events into something we can live with.",
+            "en": "That's because story instinct is deeply human. We use narrative to turn events into something we can live with.",
             "zh": "那是因為故事本能本來就很人。人會用敘事把事件變成自己比較活得下去的東西。"
           },
           {
@@ -614,8 +614,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Narrative order helps when life feels messy, because sequence can create relief.",
-            "zh": "完全沒錯。當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
+            "en": "What often gets hidden is this: Narrative order helps when life feels messy, because sequence can create relief.",
+            "zh": "這裡有一個常被忽略的地方：當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -638,7 +638,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is part of its power.",
+            "en": "Yes. That is part of its power.",
             "zh": "對，而那正是它的力量之一。"
           }
         ]
@@ -667,8 +667,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
-            "zh": "完全沒錯。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。"
+            "en": "Mostly, yes. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
+            "zh": "大致上是。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。"
           },
           {
             "speaker": "b",
@@ -685,7 +685,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds bigger than entertainment.",
+            "en": "I can see that. It sounds bigger than entertainment.",
             "zh": "這真的比娛樂大多了。"
           },
           {
@@ -714,14 +714,14 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds clear and useful.",
+            "en": "I can see that. It sounds clear and useful.",
             "zh": "這句聽起來很清楚，也很實用。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"A good story can make you feel less alone in your own experience.\"",
-            "zh": "另一句也很好用：「A good story can make you feel less alone in your own experience.」"
+            "en": "You could keep it simple and say, \"A good story can make you feel less alone in your own experience.\"",
+            "zh": "也可以簡單說：「A good story can make you feel less alone in your own experience.」"
           },
           {
             "speaker": "b",
@@ -738,7 +738,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds easy to carry into daily speech.",
+            "en": "I can see that. It sounds easy to carry into daily speech.",
             "zh": "這句真的很好用。"
           },
           {
@@ -779,7 +779,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually helpful reminder for anyone making things.",
+            "en": "That's an unusually helpful reminder for anyone making things.",
             "zh": "這真的是對所有創作者都很有幫助的提醒。"
           },
           {
@@ -791,7 +791,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels important.",
+            "en": "That seems important.",
             "zh": "這真的很重要。"
           },
           {
@@ -820,7 +820,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful answer.",
+            "en": "I like that as a beautiful answer.",
             "zh": "這真的是很美的答案。"
           },
           {
@@ -973,24 +973,24 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because people often optimize for logic instead of lived reality. A workable solution has to fit actual human habits.",
-            "zh": "因為很多人優化的是邏輯，不是活生生的現實。真正可行的解法，得長得進人類真的會怎麼做。"
+            "zh": "因為很多人最佳化的是邏輯，不是活生生的現實。真正可行的解法，得長得進人類真的會怎麼做。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the smartest system can still fail if nobody can actually live inside it.",
-            "zh": "所以就算系統看起來很聰明，只要沒有人真的住得進去，它還是會失敗。"
+            "en": "So the smartest system can still fail if nobody can actually live inside it. Or is there a real-life exception here?",
+            "zh": "所以就算系統看起來很聰明，只要沒有人真的住得進去，它還是會失敗。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A small prototype helps because testing early is kinder than forcing a perfect plan on daily life.",
-            "zh": "完全沒錯。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。"
+            "en": "That is the part worth practicing. A small prototype helps because testing early is kinder than forcing a perfect plan on daily life.",
+            "zh": "這裡是我想特別畫線的地方。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds useful even outside design work.",
+            "en": "I can see that. It sounds useful even outside design work.",
             "zh": "這真的就算放在設計之外也很有用。"
           },
           {
@@ -1008,8 +1008,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. That is where design starts becoming practical.",
-            "zh": "很好。設計真正變實用，就是從那裡開始。"
+            "en": "Let's bring it down to one situation. That is where design starts becoming practical.",
+            "zh": "我們把它變得更實用一點。設計真正變實用，就是從那裡開始。"
           }
         ]
       },
@@ -1031,7 +1031,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very usable at work.",
+            "en": "I can see that. It sounds very usable at work.",
             "zh": "這句真的很適合用在工作裡。"
           },
           {
@@ -1061,7 +1061,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why people keep using it.",
+            "en": "That's why people keep using it.",
             "zh": "而那也正是它一直很好用的原因。"
           }
         ]
@@ -1114,7 +1114,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one reason people actually do it.",
+            "en": "That's one reason people actually do it.",
             "zh": "而那也是人比較真的做得下去的原因。"
           }
         ]
@@ -1254,7 +1254,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is so true it is almost scary.",
+            "en": "That's so true it is almost scary.",
             "zh": "這真的真到有點可怕。"
           },
           {
@@ -1354,8 +1354,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"That song takes me straight back to a very specific feeling.\"",
-            "zh": "另一句也很好用：「That song takes me straight back to a very specific feeling.」"
+            "en": "You could keep it simple and say, \"That song takes me straight back to a very specific feeling.\"",
+            "zh": "也可以簡單說：「That song takes me straight back to a very specific feeling.」"
           },
           {
             "speaker": "b",
@@ -1413,7 +1413,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost therapeutic.",
+            "en": "I can see that. It sounds almost therapeutic.",
             "zh": "這真的有點像治療。"
           },
           {
@@ -1425,7 +1425,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like an important distinction.",
+            "en": "That seems like an important distinction.",
             "zh": "這真的是很重要的區分。"
           },
           {
@@ -1449,7 +1449,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good answer.",
+            "en": "That's a really good answer.",
             "zh": "這真的就是很好的答案。"
           },
           {
@@ -1548,7 +1548,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because writer attention is very concentrated. A sentence can ask for more feeling than people realize.",
+            "en": "That's because writer attention is very concentrated. A sentence can ask for more feeling than people realize.",
             "zh": "那是因為作者注意力其實非常集中。一個句子有時候會向你要求比別人以為的更多感受。"
           },
           {
@@ -1607,8 +1607,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the writing exposes the mind that made it.",
-            "zh": "所以作品其實會把寫出它的那顆腦袋一起曝光。"
+            "en": "So the writing exposes the mind that made it. Would you say it works like that in real life?",
+            "zh": "所以作品其實會把寫出它的那顆腦袋一起曝光。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1660,7 +1660,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very real.",
+            "en": "I can see that. It sounds very real.",
             "zh": "這句真的很真。"
           },
           {
@@ -1719,13 +1719,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Language precision grows better in steady practice than in emotional intensity alone.",
-            "zh": "完全沒錯。語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
+            "en": "This is where real life gets messier: Language precision grows better in steady practice than in emotional intensity alone.",
+            "zh": "這裡有一個常被忽略的地方：語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a helpful reminder for every creative field.",
+            "en": "I like that as a helpful reminder for every creative field.",
             "zh": "這真的對所有創作領域都很有提醒。"
           },
           {
@@ -1737,7 +1737,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels very liberating.",
+            "en": "That reads as very liberating.",
             "zh": "這真的很解放。"
           },
           {
@@ -1865,7 +1865,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is very true. A creative habit matters more than occasional inspiration.",
+            "en": "That's very true. A creative habit matters more than occasional inspiration.",
             "zh": "這真的很真。創意習慣很多時候比偶爾的靈感還重要。"
           },
           {
@@ -1877,8 +1877,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A making rhythm helps because people create more honestly when the work is part of life instead of a rare performance.",
-            "zh": "完全沒錯。創作節奏很有幫助，因為當創作是生活的一部分，而不是偶爾上台表演時，人通常會創作得更誠實。"
+            "en": "Mostly, yes. A making rhythm helps because people create more honestly when the work is part of life instead of a rare performance.",
+            "zh": "大致上是。創作節奏很有幫助，因為當創作是生活的一部分，而不是偶爾上台表演時，人通常會創作得更誠實。"
           },
           {
             "speaker": "b",
@@ -1895,7 +1895,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially sharp distinction.",
+            "en": "That is an especially sharp distinction.",
             "zh": "這真的很銳利。"
           },
           {
@@ -1948,7 +1948,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is painfully true.",
+            "en": "That's painfully true.",
             "zh": "這真的痛而且真。"
           },
           {
@@ -1977,7 +1977,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels very clean on the ear.",
+            "en": "That is very clean on the ear.",
             "zh": "這句聽起來很清楚。"
           },
           {
@@ -2007,7 +2007,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it works.",
+            "en": "That's why it works.",
             "zh": "而那也就是它好用的原因。"
           }
         ]
@@ -2042,19 +2042,19 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much more generous than hustle culture.",
+            "en": "That is much more generous than hustle culture.",
             "zh": "這真的比 hustle culture 寬厚太多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more generous, and usually more sustainable too.",
-            "zh": "它比較寬厚，而且通常也更可持續。"
+            "zh": "它比較寬厚，而且通常也更能長期維持。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a life I would rather live.",
+            "en": "I can see why you'd say that. It does feel like a life I would rather live.",
             "zh": "這真的比較像我想過的人生。"
           },
           {
@@ -2078,7 +2078,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a particularly complete answer.",
+            "en": "That sounds like a particularly complete answer.",
             "zh": "這真的很完整。"
           },
           {

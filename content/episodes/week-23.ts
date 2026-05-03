@@ -33,7 +33,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is actually a sign of more experience, not less direction. You have seen enough to know the simpler answers were incomplete.",
+            "en": "That's actually a sign of more experience, not less direction. You have seen enough to know the simpler answers were incomplete.",
             "zh": "那其實是更多歷練的跡象，不是迷失方向。你見識夠多，才知道以前那些簡單的答案其實是不完整的。"
           },
           {
@@ -86,7 +86,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a cultural issue, not a personal failure. Wanting depth over speed is a legitimate ambition.",
+            "en": "That's a cultural issue, not a personal failure. Wanting depth over speed is a legitimate ambition.",
             "zh": "那是文化問題，不是個人失敗。追求深度而非速度，也是一種合理的抱負。"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the goal. The best career English sounds like honest thinking, not corporate language.",
+            "en": "That's exactly the goal. The best career English sounds like honest thinking, not corporate language.",
             "zh": "這就是重點。最好的職涯英文聽起來像誠實的思考，不像企業用語。"
           }
         ]
@@ -216,8 +216,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Clarity usually comes from looking backward before you can plan forward.",
-            "zh": "這就是重點。清晰通常需要先回頭看，才能往前規劃。"
+            "en": "Yes. That is the important shift. Clarity usually comes from looking backward before you can plan forward.",
+            "zh": "這裡是我想特別畫線的地方。清晰通常需要先回頭看，才能往前規劃。"
           }
         ]
       },
@@ -245,8 +245,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. And the goal can change as you change. That is not inconsistency, that is growth.",
-            "zh": "沒錯。而且目標可以隨著你改變而改變。那不是前後矛盾，那是成長。"
+            "en": "Yes, and the goal can change as you change. That is not inconsistency, that is growth.",
+            "zh": "對，而且而且目標可以隨著你改變而改變。那不是前後矛盾，那是成長。"
           },
           {
             "speaker": "b",
@@ -269,8 +269,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It should feel like navigation, not surrender.",
-            "zh": "很好。它應該感覺像是導航，不是投降。"
+            "en": "A real-life example helps here. It should feel like navigation, not surrender.",
+            "zh": "我們把它變得更實用一點。它應該感覺像是導航，不是投降。"
           }
         ]
       }
@@ -338,7 +338,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a question most people have never seriously sat with. We spend more time chasing success than defining it.",
+            "en": "That's a question most people have never seriously sat with. We spend more time chasing success than defining it.",
             "zh": "那是一個大多數人從未認真思考過的問題。我們花更多時間追求成功，而不是定義它。"
           },
           {
@@ -391,7 +391,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is very common. And it often only becomes visible after you have achieved something and still feel empty.",
+            "en": "That's very common. And it often only becomes visible after you have achieved something and still feel empty.",
             "zh": "這非常普遍。而且通常是在你達成了某件事但仍然感到空虛之後，才會看清楚。"
           },
           {
@@ -450,7 +450,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds genuine. It puts learning in the center instead of results.",
+            "en": "I can see that. It sounds genuine. It puts learning in the center instead of results.",
             "zh": "這聽起來很真誠。它把學習放在中心而不是結果。"
           },
           {
@@ -521,7 +521,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the test. A good success definition should be something you can observe, not just feel.",
+            "en": "That's the test. A good success definition should be something you can observe, not just feel.",
             "zh": "這就是測試標準。好的成功定義應該是你可以觀察到的，不只是感覺到的。"
           },
           {
@@ -533,8 +533,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Ambiguity is the enemy of momentum.",
-            "zh": "沒錯。模糊是動力的敵人。"
+            "en": "Exactly. That is the useful point. Ambiguity is the enemy of momentum.",
+            "zh": "這裡是我想特別畫線的地方。模糊是動力的敵人。"
           }
         ]
       },
@@ -655,7 +655,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the most real descriptions of ambition I have heard. It is not just wanting more, it is wanting more while knowing there is a cost.",
+            "en": "That's one of the most real descriptions of ambition I have heard. It is not just wanting more, it is wanting more while knowing there is a cost.",
             "zh": "那是我聽過的對抱負最真實的描述之一。它不只是想要更多，而是在知道有代價的情況下想要更多。"
           },
           {
@@ -738,7 +738,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is freeing but also a bit scary. There is safety in following the expected path.",
+            "en": "That's freeing but also a bit scary. There is safety in following the expected path.",
             "zh": "那很解放，但也有點嚇人。走大家預期的路是有安全感的。"
           },
           {
@@ -1139,12 +1139,12 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And a trusted friend can give you feedback. They can tell you if it sounds like you or if it sounds like something you read on a career website.",
-            "zh": "沒錯。而且信任的朋友可以給你反饋。他們可以告訴你，它聽起來像你，還是像你從職涯網站上讀到的東西。"
+            "zh": "沒錯。而且信任的朋友可以給你回饋。他們可以告訴你，它聽起來像你，還是像你從職涯網站上讀到的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a useful quality filter.",
+            "en": "I like that as a useful quality filter.",
             "zh": "那是一個有用的品質過濾器。"
           },
           {
@@ -1197,7 +1197,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like it frees up a lot of mental energy.",
+            "en": "I can see why you'd say that. It does feel like it frees up a lot of mental energy.",
             "zh": "那聽起來好像可以釋放很多心理能量。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a classic stability versus growth decision. Two weeks is a long time to sit with it. What is actually holding you back?",
+            "en": "That's a classic stability versus growth decision. Two weeks is a long time to sit with it. What is actually holding you back?",
             "zh": "那是一個典型的穩定vs成長的決定。兩週是坐在那裡想很長的時間了。什麼讓你猶豫不決？"
           },
           {
@@ -1349,8 +1349,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Real security often comes from being adaptable, not from staying in one place.",
-            "zh": "沒錯。真正的安全感通常來自適應能力，而不是留在一個地方。"
+            "en": "There is one quiet detail here: Real security often comes from being adaptable, not from staying in one place.",
+            "zh": "這裡有一個常被忽略的地方：真正的安全感通常來自適應能力，而不是留在一個地方。"
           },
           {
             "speaker": "b",
@@ -1426,8 +1426,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Context makes decisions sound deliberate. And deliberate sounds trustworthy.",
-            "zh": "沒錯。背景讓決定聽起來是深思熟慮的。而深思熟慮聽起來值得信賴。"
+            "en": "Mostly, yes. Context makes decisions sound deliberate. And deliberate sounds trustworthy.",
+            "zh": "大致上是。背景讓決定聽起來是深思熟慮的。而深思熟慮聽起來值得信賴。"
           }
         ]
       },
@@ -1614,7 +1614,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a generous reframe.",
+            "en": "That's a generous reframe.",
             "zh": "那是一個很慷慨的重新框架。"
           },
           {
@@ -1662,7 +1662,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That social dimension makes it harder. But most people in your life are not tracking your goals as closely as you think.",
-            "zh": "那個社交維度讓它更難。但你生活中的大多數人並不像你想象的那樣密切追蹤你的目標。"
+            "zh": "那個社交維度讓它更難。但你生活中的大多數人並不像你想像的那樣密切追蹤你的目標。"
           },
           {
             "speaker": "b",
@@ -1679,14 +1679,14 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is both humbling and freeing.",
+            "en": "That's both humbling and freeing.",
             "zh": "那既讓人謙遜又讓人解放。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It removes the imaginary audience from the decision, which is exactly where it should be removed.",
-            "zh": "它把想象中的觀眾從決定中移除，這正是它應該被移除的地方。"
+            "zh": "它把想像中的觀眾從決定中移除，這正是它應該被移除的地方。"
           }
         ]
       },
@@ -1779,14 +1779,14 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A skill that is not named tends to stay invisible, even to the person who has it.",
-            "zh": "沒錯。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
+            "en": "I would keep that sentence close. A skill that is not named tends to stay invisible, even to the person who has it.",
+            "zh": "這裡是我想特別畫線的地方。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the revision process is partly about inventory.",
-            "zh": "所以修改過程部分是關於清點存貨。"
+            "en": "So the revision process is partly about inventory. Is that how you would explain it?",
+            "zh": "所以修改過程部分是關於清點存貨。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1832,8 +1832,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The people who never revise are often either very lucky or very stuck.",
-            "zh": "我這樣認為。從不修改的人往往要麼非常幸運，要麼非常卡住。"
+            "en": "Mostly, yes. The people who never revise are often either very lucky or very stuck.",
+            "zh": "大致上是。從不修改的人往往要麼非常幸運，要麼非常卡住。"
           },
           {
             "speaker": "b",
@@ -2031,7 +2031,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a strong line. Who I am becoming implies ongoing development rather than a fixed identity. That is accurate.",
+            "en": "I like that as a strong line. Who I am becoming implies ongoing development rather than a fixed identity. That is accurate.",
             "zh": "那是一句強有力的話。「who I am becoming」暗示了持續的發展而不是固定的身份。這是準確的。"
           },
           {
@@ -2049,7 +2049,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is specific enough that a hiring manager would know exactly what kind of environment you need.",
+            "en": "That's specific enough that a hiring manager would know exactly what kind of environment you need.",
             "zh": "這足夠具體，讓招聘主管確切知道你需要什麼樣的環境。"
           },
           {
@@ -2155,7 +2155,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like work you can do at any stage.",
+            "en": "I can see why you'd say that. It does feel like work you can do at any stage.",
             "zh": "那聽起來像是任何階段都可以做的工作。"
           },
           {

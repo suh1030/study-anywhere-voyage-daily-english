@@ -33,8 +33,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Their signals can be subtle, but they are rarely ironic.",
-            "zh": "完全沒錯。牠們的訊號可能很細，可是通常不會拐彎抹角。"
+            "en": "A useful distinction is this: Their signals can be subtle, but they are rarely ironic.",
+            "zh": "這裡有一個常被忽略的地方：牠們的訊號可能很細，可是通常不會拐彎抹角。"
           },
           {
             "speaker": "b",
@@ -45,7 +45,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that honesty can be incredibly regulating for people who spend all day reading complicated social cues.",
+            "en": "Yes. That honesty can be incredibly regulating for people who spend all day reading complicated social cues.",
             "zh": "對，而那種誠實，對那些整天都在讀複雜社交訊號的人來說，會非常有安定作用。"
           },
           {
@@ -57,8 +57,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Sometimes the body trusts simple kindness faster than the mind does.",
-            "zh": "完全沒錯。有時候身體會比腦更快相信那種簡單的善意。"
+            "en": "Mostly, yes. Sometimes the body trusts simple kindness faster than the mind does.",
+            "zh": "大致上是。有時候身體會比腦更快相信那種簡單的善意。"
           }
         ]
       },
@@ -86,8 +86,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Routine can become relationship.",
-            "zh": "完全沒錯。日常本身就可以長成關係。"
+            "en": "Yes, and routine can become relationship.",
+            "zh": "對，而且日常本身就可以長成關係。"
           },
           {
             "speaker": "b",
@@ -104,7 +104,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful definition of care.",
+            "en": "I like that as a beautiful definition of care.",
             "zh": "這真的是很美的照顧定義。"
           },
           {
@@ -133,7 +133,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really good because it is specific without being overdramatic.",
+            "en": "That's really good because it is specific without being overdramatic.",
             "zh": "這句真的很好，因為它很具體，又不會太誇張。"
           },
           {
@@ -163,8 +163,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Pet language works best when it stays close to daily life and real feeling.",
-            "zh": "很好。談寵物的語言，最好就是貼著日常和真的感受走。"
+            "en": "A real-life example helps here. Pet language works best when it stays close to daily life and real feeling.",
+            "zh": "我們把它變得更實用一點。談寵物的語言，最好就是貼著日常和真的感受走。"
           }
         ]
       },
@@ -198,7 +198,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds true for a lot of relationships, honestly.",
+            "en": "I can see that. It sounds true for a lot of relationships, honestly.",
             "zh": "老實說，這句放在很多關係裡也都是真的。"
           },
           {
@@ -216,8 +216,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. It gives daily life a moral shape.",
-            "zh": "我也這麼覺得。它會替日常生活長出一個道德形狀。"
+            "en": "Mostly, yes. It gives daily life a moral shape.",
+            "zh": "大致上是。它會替日常生活長出一個道德形狀。"
           },
           {
             "speaker": "b",
@@ -234,7 +234,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely good list.",
+            "en": "That's a genuinely good list.",
             "zh": "這個清單真的很好。"
           },
           {
@@ -333,7 +333,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because animals often reveal attachment without embarrassment. People respond to that kind of emotional clarity.",
+            "en": "That's because animals often reveal attachment without embarrassment. People respond to that kind of emotional clarity.",
             "zh": "那是因為動物常常會毫不害羞地把依戀表現出來，而人會對那種情感清楚度有反應。"
           },
           {
@@ -345,8 +345,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Animals can bypass cynicism.",
-            "zh": "完全沒錯。動物常常會直接繞過人的那層防備和嘲諷。"
+            "en": "Right. That is what makes the sentence work. Animals can bypass cynicism.",
+            "zh": "這裡是我想特別畫線的地方。動物常常會直接繞過人的那層防備和嘲諷。"
           },
           {
             "speaker": "b",
@@ -469,14 +469,14 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a great line.",
+            "en": "I like that as a great line.",
             "zh": "這句真的很棒。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Animal language often works best when it respects both feeling and biology.",
-            "zh": "很好。談動物的語言，當它同時尊重感情和生物事實時，通常最好用。"
+            "en": "Make it sound like something you could say on a Tuesday. Animal language often works best when it respects both feeling and biology.",
+            "zh": "我們把它變得更實用一點。談動物的語言，當它同時尊重感情和生物事實時，通常最好用。"
           }
         ]
       },
@@ -510,7 +510,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds less romantic, but much more respectful.",
+            "en": "I can see that. It sounds less romantic, but much more respectful.",
             "zh": "這樣聽起來比較不浪漫，可是尊重得多。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true, and it is one of the hidden gifts of pet care. Another life needs you in concrete ways.",
+            "en": "That's true, and it is one of the hidden gifts of pet care. Another life needs you in concrete ways.",
             "zh": "這是真的，而且是照顧寵物的一個隱藏禮物。另一個生命會在很具體的層次上需要你。"
           },
           {
@@ -715,8 +715,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Good care depends on reading behavior, not just having affection.",
-            "zh": "完全沒錯。好的照顧，仰賴的是會讀行為，不只是很有愛。"
+            "en": "One detail is easy to miss: Good care depends on reading behavior, not just having affection.",
+            "zh": "這裡有一個常被忽略的地方：好的照顧，仰賴的是會讀行為，不只是很有愛。"
           },
           {
             "speaker": "b",
@@ -733,13 +733,13 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is probably healthy for a lot of adults.",
+            "en": "That's probably healthy for a lot of adults.",
             "zh": "這對很多大人來說，應該都滿健康的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That feels true for me too.",
+            "en": "That sounds true for me too.",
             "zh": "我也覺得這很真。"
           }
         ]
@@ -762,7 +762,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is nice because it does not sound too grand.",
+            "en": "That's nice because it does not sound too grand.",
             "zh": "這句很好，因為它不會太誇大。"
           },
           {
@@ -821,8 +821,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Daily repetition builds trust on both sides.",
-            "zh": "完全沒錯。每天的重複，會在雙方身上慢慢建立信任。"
+            "en": "Mostly, yes. Daily repetition builds trust on both sides.",
+            "zh": "大致上是。每天的重複，會在雙方身上慢慢建立信任。"
           },
           {
             "speaker": "b",
@@ -868,7 +868,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a pretty meaningful education.",
+            "en": "I can see why you'd say that. It does feel like a pretty meaningful education.",
             "zh": "這聽起來真的是很有意義的教育。"
           },
           {
@@ -886,13 +886,13 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Being needed in this way can make people more human, not less free.",
-            "zh": "我也這麼覺得。以這種方式被需要，常常會讓人更像人，不是比較不自由。"
+            "en": "Mostly, yes. Being needed in this way can make people more human, not less free.",
+            "zh": "大致上是。以這種方式被需要，常常會讓人更像人，不是比較不自由。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful way to end the conversation.",
+            "en": "I like that as a beautiful way to end the conversation.",
             "zh": "這真的是一個很好的收尾。"
           },
           {
@@ -973,7 +973,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly what it felt like. My to-do list shrank for a minute.",
+            "en": "That's exactly what it felt like. My to-do list shrank for a minute.",
             "zh": "真的就是那種感覺。我的待辦清單有一分鐘突然縮小了。"
           },
           {
@@ -1026,8 +1026,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the respect comes partly from distance.",
-            "zh": "所以那種尊重，有一部分其實來自距離。"
+            "en": "So the respect comes partly from distance. Am I skipping the messy part?",
+            "zh": "所以那種尊重，有一部分其實來自距離。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1109,8 +1109,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Conservation language should help people feel the stakes without turning everything into panic.",
-            "zh": "很好。保育的語言，最好是讓人感覺到重要性，而不是把一切都變成恐慌。"
+            "en": "In real life, it might sound like this. Conservation language should help people feel the stakes without turning everything into panic.",
+            "zh": "我們把它變得更實用一點。保育的語言，最好是讓人感覺到重要性，而不是把一切都變成恐慌。"
           }
         ]
       },
@@ -1180,7 +1180,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much deeper answer than I expected.",
+            "en": "That's a much deeper answer than I expected.",
             "zh": "這個答案比我原本預期的深很多。"
           },
           {
@@ -1198,7 +1198,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good place to start.",
+            "en": "I like that as a good place to start.",
             "zh": "那就是一個很好的開始。"
           },
           {
@@ -1279,7 +1279,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the right question. Welfare begins when people ask how the experience feels from the animal's side.",
+            "en": "That's exactly the right question. Welfare begins when people ask how the experience feels from the animal's side.",
             "zh": "這就是對的問題。動物福祉就是從人開始問：如果站在動物那邊，這個經驗到底感覺起來怎麼樣？"
           },
           {
@@ -1291,8 +1291,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Human delight and animal wellbeing are not automatically the same thing.",
-            "zh": "完全沒錯。人類覺得開心，和動物真的過得好，不會自動變成同一件事。"
+            "en": "That is the part worth practicing. Human delight and animal wellbeing are not automatically the same thing.",
+            "zh": "這裡是我想特別畫線的地方。人類覺得開心，和動物真的過得好，不會自動變成同一件事。"
           },
           {
             "speaker": "b",
@@ -1309,7 +1309,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is harder than liking animals in a vague way.",
+            "en": "That's harder than liking animals in a vague way.",
             "zh": "這比模模糊糊地喜歡動物難多了。"
           },
           {
@@ -1362,7 +1362,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much less glamorous than animal content online.",
+            "en": "I can see that. It sounds much less glamorous than animal content online.",
             "zh": "這聽起來真的比網路上的動物內容不 glamorous 很多。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds clear and fair.",
+            "en": "I can see that. It sounds clear and fair.",
             "zh": "這句聽起來很清楚，也很公平。"
           },
           {
@@ -1415,14 +1415,14 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really useful frame.",
+            "en": "That's a really useful frame.",
             "zh": "這真的很是一個很好用的框架。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It keeps the power difference visible.",
-            "zh": "很好。它會讓那個權力差一直留在畫面裡。"
+            "en": "Think of a real moment. It keeps the power difference visible.",
+            "zh": "我們把它變得更實用一點。它會讓那個權力差一直留在畫面裡。"
           }
         ]
       },
@@ -1462,7 +1462,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often how ethical maturity feels.",
+            "en": "That's often how ethical maturity feels.",
             "zh": "倫理成熟很多時候本來就是那種感覺。"
           },
           {
@@ -1497,7 +1497,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a huge lesson from a topic people often reduce to cuteness.",
+            "en": "That's a huge lesson from a topic people often reduce to cuteness.",
             "zh": "這真的是一個很大的課，而大家常常只是把這個主題縮成『可不可愛』而已。"
           },
           {
@@ -1626,13 +1626,13 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds both helpful and slightly confronting.",
+            "en": "I can see that. It sounds both helpful and slightly confronting.",
             "zh": "這聽起來既有幫助，也有一點被正面對上的感覺。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually how real insight feels.",
+            "en": "That's usually how real insight feels.",
             "zh": "真的 insight 很多時候本來就是那個感覺。"
           }
         ]
@@ -1655,8 +1655,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true. Loving an animal means knowing from the start that the time is limited.",
-            "zh": "這真的。愛一隻動物，其實從一開始就知道時間是有限的。"
+            "en": "True. Loving an animal means knowing from the start that the time is limited.",
+            "zh": "是真的。愛一隻動物，其實從一開始就知道時間是有限的。"
           },
           {
             "speaker": "a",
@@ -1667,7 +1667,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is heartbreaking, but also very honest.",
+            "en": "That's heartbreaking, but also very honest.",
             "zh": "這真的很心碎，可是也很誠實。"
           },
           {
@@ -1732,13 +1732,13 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is probably true for a lot of people.",
+            "en": "That's probably true for a lot of people.",
             "zh": "這句應該對很多人都是真的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how it looks to me too.",
+            "en": "That's how it looks to me too.",
             "zh": "我看起來也差不多是這樣。"
           }
         ]
@@ -1814,7 +1814,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a serious education from something with fur and a tail.",
+            "en": "I can see why you'd say that. It does feel like a serious education from something with fur and a tail.",
             "zh": "從一個有毛又有尾巴的生命身上學到這些，真的很不得了。"
           },
           {
@@ -1832,13 +1832,13 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Animals offer a lot of ordinary wisdom if people are willing to stay close enough to learn it.",
-            "zh": "很好。只要人願意待得夠近，動物真的會提供很多日常但深刻的智慧。"
+            "en": "If you were saying this to someone, you might start here. Animals offer a lot of ordinary wisdom if people are willing to stay close enough to learn it.",
+            "zh": "我們把它變得更實用一點。只要人願意待得夠近，動物真的會提供很多日常但深刻的智慧。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a lesson worth keeping.",
+            "en": "I can see why you'd say that. It does feel like a lesson worth keeping.",
             "zh": "這聽起來就是一個很值得留著的體會。"
           },
           {
@@ -1913,7 +1913,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what shared-world awareness looks like in practice. Another life enters your map of the neighborhood.",
+            "en": "That's what shared-world awareness looks like in practice. Another life enters your map of the neighborhood.",
             "zh": "這就是所謂『共享世界意識』在日常裡的樣子。另一個生命開始被放進你對這個社區的地圖裡。"
           },
           {
@@ -1937,8 +1937,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Gentleness often begins as slowed attention.",
-            "zh": "完全沒錯。溫柔很多時候就是從注意力慢下來開始的。"
+            "en": "What often gets hidden is this: Gentleness often begins as slowed attention.",
+            "zh": "這裡有一個常被忽略的地方：溫柔很多時候就是從注意力慢下來開始的。"
           },
           {
             "speaker": "b",
@@ -1978,13 +1978,13 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A gentle life pays attention to unseen consequences.",
-            "zh": "完全沒錯。比較溫柔的生活，會去注意那些平常看不見的後果。"
+            "en": "Mostly, yes. A gentle life pays attention to unseen consequences.",
+            "zh": "大致上是。比較溫柔的生活，會去注意那些平常看不見的後果。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds both moral and practical.",
+            "en": "I can see that. It sounds both moral and practical.",
             "zh": "這聽起來既道德，也很實際。"
           },
           {
@@ -2025,7 +2025,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is beautiful.",
+            "en": "I like that; it is beautiful.",
             "zh": "這句很美。"
           },
           {
@@ -2055,8 +2055,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The language is simple because the principle travels widely.",
-            "zh": "完全沒錯。這種語言之所以簡單，就是因為它真的可以走很遠。"
+            "en": "Yes, and the language is simple because the principle travels widely.",
+            "zh": "對，而且這種語言之所以簡單，就是因為它真的可以走很遠。"
           }
         ]
       },
@@ -2090,14 +2090,14 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more approachable than trying to become a perfect person overnight.",
+            "en": "I can see that. It sounds much more approachable than trying to become a perfect person overnight.",
             "zh": "這比一夜之間變成完美的人，真的親近多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Better ethics usually grows through repeatable acts, not dramatic self-images.",
-            "zh": "這就是重點。比較好的倫理，通常是靠可重複的小行動長出來的，不是靠很戲劇化的自我形象。"
+            "en": "That is where the language becomes useful. Better ethics usually grows through repeatable acts, not dramatic self-images.",
+            "zh": "這裡是我想特別畫線的地方。比較好的倫理，通常是靠可重複的小行動長出來的，不是靠很戲劇化的自我形象。"
           },
           {
             "speaker": "b",
@@ -2108,8 +2108,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Possibility matters.",
-            "zh": "很好。做得到的感覺真的很重要。"
+            "en": "Here is the version I would actually use. Possibility matters.",
+            "zh": "我們把它變得更實用一點。做得到的感覺真的很重要。"
           }
         ]
       },
@@ -2131,19 +2131,19 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a powerful shift.",
+            "en": "That's a powerful shift.",
             "zh": "這真的是一個很有力量的轉變。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A shared-world ethic teaches humility in ordinary motion.",
-            "zh": "我也這麼覺得。共享世界的倫理，會在很普通的移動和選擇裡慢慢教會人謙卑。"
+            "en": "Mostly, yes. A shared-world ethic teaches humility in ordinary motion.",
+            "zh": "大致上是。共享世界的倫理，會在很普通的移動和選擇裡慢慢教會人謙卑。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a good way to end this week.",
+            "en": "That seems like a good way to end this week.",
             "zh": "這真的很適合拿來當這一週的結尾。"
           },
           {

@@ -21,19 +21,19 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such a classic problem-solving moment, because the first sentence is usually only the surface symptom.",
+            "en": "That's such a classic problem-solving moment, because the first sentence is usually only the surface symptom.",
             "zh": "那真的很典型，因為問題剛冒出來時，第一句通常都只是表面症狀。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the point. People were already throwing solutions around before anyone knew what was actually failing.",
-            "zh": "真的。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
+            "en": "Yes. That is the line I would hold on to. People were already throwing solutions around before anyone knew what was actually failing.",
+            "zh": "這裡是我想特別畫線的地方。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why the first real move is to define the problem before the room falls in love with the wrong answer.",
+            "en": "That's why the first real move is to define the problem before the room falls in love with the wrong answer.",
             "zh": "所以真正的第一步，是先把問題定義清楚，不要讓現場先愛上錯的答案。"
           },
           {
@@ -92,7 +92,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is hard when everyone wants to sound confident.",
+            "en": "That's hard when everyone wants to sound confident.",
             "zh": "可是在每個人都想表現得很有把握的時候，這其實很難。"
           },
           {
@@ -133,7 +133,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds clean and calm.",
+            "en": "I can see that. It sounds clean and calm.",
             "zh": "這句很乾淨，也很穩。"
           },
           {
@@ -163,8 +163,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good problem-solving English keeps the room practical.",
-            "zh": "沒錯。好的解題英文，會讓現場維持在可執行的層次。"
+            "en": "Yes, and good problem-solving English keeps the room practical.",
+            "zh": "對，而且好的解題英文，會讓現場維持在可執行的層次。"
           }
         ]
       },
@@ -239,7 +239,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much less glamorous, but much more repeatable.",
+            "en": "I can see that. It sounds much less glamorous, but much more repeatable.",
             "zh": "這樣聽起來沒那麼戲劇化，可是可重複多了。"
           },
           {
@@ -374,8 +374,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Not every pause is avoidance. Sometimes it is how your thinking catches up with reality.",
-            "zh": "很好。不是每一個停頓都是逃避，有時候那是你的思考在追上現實。"
+            "en": "A real-life example helps here. Not every pause is avoidance. Sometimes it is how your thinking catches up with reality.",
+            "zh": "我們把它變得更實用一點。不是每一個停頓都是逃避，有時候那是你的思考在追上現實。"
           }
         ]
       },
@@ -403,7 +403,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is not wrong. Some people understand by moving, and some understand by structuring first.",
+            "en": "That's not wrong. Some people understand by moving, and some understand by structuring first.",
             "zh": "那也不是錯。有些人是靠動起來才理解，有些人則是先靠結構化才理解。"
           },
           {
@@ -415,8 +415,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Once you break it down, the problem often stops acting like one giant wall.",
-            "zh": "完全沒錯。一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
+            "en": "A small thing matters here: Once you break it down, the problem often stops acting like one giant wall.",
+            "zh": "這裡有一個常被忽略的地方：一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
           },
           {
             "speaker": "b",
@@ -450,7 +450,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much better than, 'I have no idea.'",
+            "en": "I can see that. It sounds much better than, 'I have no idea.'",
             "zh": "這句真的比直接說「我完全沒頭緒」好很多。"
           },
           {
@@ -474,14 +474,14 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds collaborative instead of helpless.",
+            "en": "I can see that. It sounds collaborative instead of helpless.",
             "zh": "這樣聽起來比較像一起解，不像無助求救。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Good English for problem solving keeps your thinking visible.",
-            "zh": "完全沒錯。解題時好用的英文，會讓你的思考是看得見的。"
+            "en": "Mostly, yes. Good English for problem solving keeps your thinking visible.",
+            "zh": "大致上是。解題時好用的英文，會讓你的思考是看得見的。"
           }
         ]
       },
@@ -527,7 +527,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is one of those sentences I need on my desk.",
+            "en": "That's one of those sentences I need on my desk.",
             "zh": "這種句子就是我需要貼在桌上的那種。"
           },
           {
@@ -557,7 +557,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how I see it. Better problem solving is often just better self-management inside a hard moment.",
+            "en": "That's how I see it. Better problem solving is often just better self-management inside a hard moment.",
             "zh": "我也是這樣看。更會解題，很多時候只是更會在困難時刻裡管理自己。"
           },
           {
@@ -569,8 +569,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Start by noticing your first move, then ask whether that move actually helps this particular problem.",
-            "zh": "很好。先注意自己第一個動作是什麼，再問那個動作對眼前這種問題是不是真的有幫助。"
+            "en": "A plain version often travels farther. Start by noticing your first move, then ask whether that move actually helps this particular problem.",
+            "zh": "我們把它變得更實用一點。先注意自己第一個動作是什麼，再問那個動作對眼前這種問題是不是真的有幫助。"
           },
           {
             "speaker": "b",
@@ -581,8 +581,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Skill grows faster when the feedback is specific.",
-            "zh": "完全沒錯。回饋越具體，能力就長得越快。"
+            "en": "Good. That is the real lesson here. Skill grows faster when the feedback is specific.",
+            "zh": "這裡是我想特別畫線的地方。回饋越具體，能力就長得越快。"
           }
         ]
       }
@@ -650,7 +650,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is usually the moment you need a fresh angle more than another louder opinion.",
+            "en": "Yes. That is usually the moment you need a fresh angle more than another louder opinion.",
             "zh": "有，而且通常到了那個時候，你需要的比較不是另一個更大聲的意見，而是一個新的角度。"
           },
           {
@@ -662,7 +662,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such a good example. The room was probably solving the wrong question very enthusiastically.",
+            "en": "That's such a good example. The room was probably solving the wrong question very enthusiastically.",
             "zh": "這就是很好的例子。那個房間大概是在非常熱情地解錯題。"
           },
           {
@@ -674,7 +674,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why creativity often starts with reframing, not producing.",
+            "en": "That's why creativity often starts with reframing, not producing.",
             "zh": "這也就是為什麼，創意很多時候是從重問問題開始，不是從立刻產出開始。"
           },
           {
@@ -703,14 +703,14 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is normal, but a lot of teams never loosen up enough to reach the useful ideas hiding behind the obvious ones.",
+            "en": "That's normal, but a lot of teams never loosen up enough to reach the useful ideas hiding behind the obvious ones.",
             "zh": "這很正常，但很多團隊就是因為不夠放開，所以永遠到不了那些藏在 obvious idea 後面的有用點子。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the messy part is not a failure. It is part of the route.",
-            "zh": "所以前面那段混亂，不是失敗，而是路的一部分。"
+            "en": "So the messy part is not a failure. It is part of the route. Maybe I am making it sound cleaner than it feels.",
+            "zh": "所以前面那段混亂，不是失敗，而是路的一部分。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -756,7 +756,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because a good constraint can actually create a spark. It gives the mind something to push against.",
+            "en": "That's because a good constraint can actually create a spark. It gives the mind something to push against.",
             "zh": "那是因為好的限制其實會製造火花。它會讓腦有一個可以頂住、反作用的面。"
           },
           {
@@ -792,8 +792,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Boundaries are often what turn imagination into something usable.",
-            "zh": "很好。很多時候，邊界就是把想像力變成可用東西的條件。"
+            "en": "In real life, it might sound like this. Boundaries are often what turn imagination into something usable.",
+            "zh": "我們把它變得更實用一點。很多時候，邊界就是把想像力變成可用東西的條件。"
           }
         ]
       },
@@ -845,8 +845,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Useful creativity is rarely a straight line.",
-            "zh": "很好。真正有用的創意，很少是一條直線。"
+            "en": "Think of a real moment. Useful creativity is rarely a straight line.",
+            "zh": "我們把它變得更實用一點。真正有用的創意，很少是一條直線。"
           }
         ]
       },
@@ -892,14 +892,14 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially encouraging version of creativity.",
+            "en": "That is an especially encouraging version of creativity.",
             "zh": "這真的是一個很鼓勵人的創意版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Creativity should feel usable, not intimidating.",
-            "zh": "很好。創意應該讓人覺得可以拿來用，不是讓人害怕。"
+            "en": "If you were saying this to someone, you might start here. Creativity should feel usable, not intimidating.",
+            "zh": "我們把它變得更實用一點。創意應該讓人覺得可以拿來用，不是讓人害怕。"
           }
         ]
       }
@@ -967,14 +967,14 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is such a strong sign that there is a hidden issue underneath the complaint.",
+            "en": "That's such a strong sign that there is a hidden issue underneath the complaint.",
             "zh": "這其實就是很強的訊號，表示抱怨底下還藏著另一個問題。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the key. Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
-            "zh": "真的。後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
+            "en": "I would pay attention to this: Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
+            "zh": "這裡有一個常被忽略的地方：後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
           },
           {
             "speaker": "a",
@@ -1032,8 +1032,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. And often that pattern points to a bottleneck nobody wants to name directly.",
-            "zh": "完全沒錯。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。"
+            "en": "Mostly, yes. And often that pattern points to a bottleneck nobody wants to name directly.",
+            "zh": "大致上是。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。"
           },
           {
             "speaker": "b",
@@ -1073,13 +1073,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One natural option is, 'I think this may be a symptom, not the whole problem.'",
+            "en": "One option I would keep ready is, 'I think this may be a symptom, not the whole problem.'",
             "zh": "這裡很自然的說法是：「I think this may be a symptom, not the whole problem.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds direct without sounding dramatic.",
+            "en": "I can see that. It sounds direct without sounding dramatic.",
             "zh": "這句很直接，但又不會太戲劇化。"
           },
           {
@@ -1138,13 +1138,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A misleading fix gives relief without resolution.",
-            "zh": "完全沒錯。誤導性的修法，會給你舒緩感，但不會給你真正解決。"
+            "en": "Yes. That is the important shift. A misleading fix gives relief without resolution.",
+            "zh": "這裡是我想特別畫線的地方。誤導性的修法，會給你舒緩感，但不會給你真正解決。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a painful sentence, but it explains a lot.",
+            "en": "That's a painful sentence, but it explains a lot.",
             "zh": "這句很痛，但真的解釋了很多事。"
           },
           {
@@ -1185,7 +1185,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds so relieving.",
+            "en": "I can see that. It sounds so relieving.",
             "zh": "那聽起來真的很讓人鬆一口氣。"
           },
           {
@@ -1215,8 +1215,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Loud symptoms often point to quiet causes.",
-            "zh": "很好。很吵的症狀，常常指向很安靜的原因。"
+            "en": "Here is the version I would actually use. Loud symptoms often point to quiet causes.",
+            "zh": "我們把它變得更實用一點。很吵的症狀，常常指向很安靜的原因。"
           }
         ]
       }
@@ -1284,7 +1284,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is when decision-making under incomplete information becomes a real skill instead of an abstract idea.",
+            "en": "Yes. That is when decision-making under incomplete information becomes a real skill instead of an abstract idea.",
             "zh": "知道，而且那就是在資訊不完整下做決定這件事，從抽象概念變成真本事的時候。"
           },
           {
@@ -1296,13 +1296,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is human. But waiting does not always reduce risk. Sometimes it only delays the moment you have to make the call.",
+            "en": "That's human. But waiting does not always reduce risk. Sometimes it only delays the moment you have to make the call.",
             "zh": "那很人性。但等待不一定會降低風險，有時候它只是把你終究要下判斷的時刻往後拖。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the part I resist. I want decisions to feel obvious before I make them.",
+            "en": "That's the part I resist. I want decisions to feel obvious before I make them.",
             "zh": "我最抗拒的就是這一點。我會希望決定在做之前就先變得很明顯。"
           },
           {
@@ -1408,7 +1408,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds mature. It does not pretend the risk disappeared.",
+            "en": "I can see that. It sounds mature. It does not pretend the risk disappeared.",
             "zh": "這句聽起來很成熟，因為它沒有假裝風險突然不見。"
           },
           {
@@ -1479,8 +1479,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. The goal is not to erase uncertainty. It is to move through it intelligently.",
-            "zh": "很好。目標不是把不確定消掉，而是有智慧地穿過它。"
+            "en": "A real-life example helps here. The goal is not to erase uncertainty. It is to move through it intelligently.",
+            "zh": "我們把它變得更實用一點。目標不是把不確定消掉，而是有智慧地穿過它。"
           }
         ]
       },
@@ -1502,7 +1502,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is oddly comforting.",
+            "en": "That's oddly comforting.",
             "zh": "這聽起來反而有點安慰人。"
           },
           {
@@ -1520,8 +1520,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Ordinary courage is often what good decisions are made of.",
-            "zh": "完全沒錯。很多好決定，就是由那種日常版的勇氣做成的。"
+            "en": "There is one quiet detail here: Ordinary courage is often what good decisions are made of.",
+            "zh": "這裡有一個常被忽略的地方：很多好決定，就是由那種日常版的勇氣做成的。"
           },
           {
             "speaker": "b",
@@ -1532,8 +1532,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Sometimes the honest move is simply to choose, then keep learning.",
-            "zh": "很好。有時候誠實的做法，就是先選，然後繼續學。"
+            "en": "This needs to sound ordinary. Sometimes the honest move is simply to choose, then keep learning.",
+            "zh": "我們把它變得更實用一點。有時候誠實的做法，就是先選，然後繼續學。"
           }
         ]
       }
@@ -1601,7 +1601,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is usually a sign the team never aligned on the goal before they started producing answers.",
+            "en": "Yes. That is usually a sign the team never aligned on the goal before they started producing answers.",
             "zh": "有，而且那通常表示團隊在開始丟答案前，根本沒有先對齊目標。"
           },
           {
@@ -1613,8 +1613,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Teams can generate a lot of motion without creating shared direction.",
-            "zh": "完全沒錯。團隊可以產生很多動作，卻沒有創造出共同方向。"
+            "en": "Mostly, yes. Teams can generate a lot of motion without creating shared direction.",
+            "zh": "大致上是。團隊可以產生很多動作，卻沒有創造出共同方向。"
           },
           {
             "speaker": "b",
@@ -1666,13 +1666,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Good teams help each other see blind spots without turning that into humiliation.",
-            "zh": "完全沒錯。好的團隊，會幫彼此看見盲點，但不會把那件事做成羞辱。"
+            "en": "Yes, and good teams help each other see blind spots without turning that into humiliation.",
+            "zh": "對，而且好的團隊，會幫彼此看見盲點，但不會把那件事做成羞辱。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds ideal. In real life, people can get pretty attached to being the smart one.",
+            "en": "I can see that. It sounds ideal. In real life, people can get pretty attached to being the smart one.",
             "zh": "這聽起來很理想。可是現實裡，大家有時候會很執著於自己看起來最聰明。"
           },
           {
@@ -1684,7 +1684,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a particularly different kind of room.",
+            "en": "That seems like a particularly different kind of room.",
             "zh": "那真的是完全不同的一種房間。"
           },
           {
@@ -1725,7 +1725,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds brave without sounding combative.",
+            "en": "I can see that. It sounds brave without sounding combative.",
             "zh": "這句聽起來有勇氣，但不會很對抗。"
           },
           {
@@ -1737,7 +1737,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really useful sentence for mixed teams.",
+            "en": "That's a really useful sentence for mixed teams.",
             "zh": "這句對跨部門團隊真的超有用。"
           },
           {
@@ -1772,8 +1772,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Shared input and clear ownership are not opposites. They actually protect each other.",
-            "zh": "完全沒錯。共同輸入跟清楚責任，不是對立面，反而是互相保護。"
+            "en": "Exactly. That is the useful point. Shared input and clear ownership are not opposites. They actually protect each other.",
+            "zh": "這裡是我想特別畫線的地方。共同輸入跟清楚責任，不是對立面，反而是互相保護。"
           },
           {
             "speaker": "b",
@@ -1819,7 +1819,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds quieter than most people imagine.",
+            "en": "I can see that. It sounds quieter than most people imagine.",
             "zh": "這聽起來比很多人想像的都還安靜。"
           },
           {
@@ -1936,7 +1936,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds emotional as much as intellectual.",
+            "en": "I can see that. It sounds emotional as much as intellectual.",
             "zh": "這聽起來不只是智力上的事，也很情緒。"
           },
           {
@@ -1954,8 +1954,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It makes the skill feel human instead of intimidating.",
-            "zh": "很好。這會讓這個能力聽起來更像人可以學的，而不是嚇人的東西。"
+            "en": "In real life, it might sound like this. It makes the skill feel human instead of intimidating.",
+            "zh": "我們把它變得更實用一點。這會讓這個能力聽起來更像人可以學的，而不是嚇人的東西。"
           }
         ]
       },
@@ -2054,14 +2054,14 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the tone I want much more of.",
+            "en": "That's the tone I want much more of.",
             "zh": "這就是我很想多練的那種語氣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Tone matters because it shapes how the mind experiences the task.",
-            "zh": "很好。語氣真的很重要，因為它會影響大腦怎麼感受眼前這個任務。"
+            "en": "Think of a real moment. Tone matters because it shapes how the mind experiences the task.",
+            "zh": "我們把它變得更實用一點。語氣真的很重要，因為它會影響大腦怎麼感受眼前這個任務。"
           }
         ]
       },
@@ -2077,7 +2077,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is common, but a small win matters because it changes what you can see next.",
+            "en": "That's common, but a small win matters because it changes what you can see next.",
             "zh": "這很常見，但小小的進展很重要，因為它會改變你下一步看得見什麼。"
           },
           {
@@ -2089,13 +2089,13 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Small wins help you move forward because they reduce guesswork.",
-            "zh": "完全沒錯。小進展之所以能推你往前，是因為它減少了亂猜。"
+            "en": "The easy mistake is to forget this: Small wins help you move forward because they reduce guesswork.",
+            "zh": "這裡有一個常被忽略的地方：小進展之所以能推你往前，是因為它減少了亂猜。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a useful way to think about momentum.",
+            "en": "I would call that a useful way to think about momentum.",
             "zh": "這真的是一個很好用的 momentum 想法。"
           },
           {
@@ -2113,8 +2113,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Mystery is overrated when what you need is traction.",
-            "zh": "很好。你需要的是抓地力時，神祕感其實沒那麼重要。"
+            "en": "If you were saying this to someone, you might start here. Mystery is overrated when what you need is traction.",
+            "zh": "我們把它變得更實用一點。你需要的是抓地力時，神祕感其實沒那麼重要。"
           },
           {
             "speaker": "b",
@@ -2131,7 +2131,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost peaceful.",
+            "en": "I can see that. It sounds almost peaceful.",
             "zh": "這聽起來幾乎有點平靜。"
           },
           {
@@ -2149,20 +2149,20 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Better problem solvers move forward with less fear because they trust their process more.",
-            "zh": "完全沒錯。更會解題的人之所以能更少害怕地往前，是因為他們比較信任自己的過程。"
+            "en": "Mostly, yes. Better problem solvers move forward with less fear because they trust their process more.",
+            "zh": "大致上是。更會解題的人之所以能更少害怕地往前，是因為他們比較信任自己的過程。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a version of confidence I actually want.",
+            "en": "That's a version of confidence I actually want.",
             "zh": "這是一種我真的會想要的自信版本。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. The best confidence is not 'I always know.' It is 'I can work with what shows up.'",
-            "zh": "很好。最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」"
+            "en": "Here is the version I would actually use. The best confidence is not 'I always know.' It is 'I can work with what shows up.'",
+            "zh": "我們把它變得更實用一點。最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」"
           }
         ]
       }

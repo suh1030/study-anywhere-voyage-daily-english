@@ -21,7 +21,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is what a spending habit looks like in real life. It usually appears as a string of tiny yeses, not one dramatic mistake.",
+            "en": "That's what a spending habit looks like in real life. It usually appears as a string of tiny yeses, not one dramatic mistake.",
             "zh": "這就是消費習慣在真實生活裡的樣子。它通常不是一個戲劇性的錯誤，而是一連串很小的「好吧」。"
           },
           {
@@ -98,7 +98,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how people justify a purchase. They stop asking, \"Do I need it?\" and start asking, \"Am I missing out if I do not buy it?\"",
+            "en": "That's how people justify a purchase. They stop asking, \"Do I need it?\" and start asking, \"Am I missing out if I do not buy it?\"",
             "zh": "這就是人如何替一筆消費找理由。問題不再是「我需要它嗎？」，而變成「我如果不買，是不是就吃虧了？」"
           },
           {
@@ -110,8 +110,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A lot of spending problems begin when the wrong question takes over.",
-            "zh": "沒錯。很多消費問題，都是從錯的問題開始主導整個決定的。"
+            "en": "This matters more than it first seems: A lot of spending problems begin when the wrong question takes over.",
+            "zh": "這裡有一個常被忽略的地方：很多消費問題，都是從錯的問題開始主導整個決定的。"
           }
         ]
       },
@@ -186,7 +186,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost too easy.",
+            "en": "I can see that. It sounds almost too easy.",
             "zh": "這聽起來幾乎簡單到讓人懷疑有沒有用。"
           },
           {
@@ -216,8 +216,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Time is one of the best filters for fake urgency.",
-            "zh": "沒錯。時間是過濾假性急迫感最好的工具之一。"
+            "en": "Mostly, yes. Time is one of the best filters for fake urgency.",
+            "zh": "大致上是。時間是過濾假性急迫感最好的工具之一。"
           }
         ]
       },
@@ -344,7 +344,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is uncomfortably accurate.",
+            "en": "That's uncomfortably accurate.",
             "zh": "這個形容準到有點不舒服。"
           },
           {
@@ -362,13 +362,13 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Fixed expenses are quiet, but they are not optional.",
-            "zh": "沒錯。固定支出平常很安靜，但它們從來都不是可選的。"
+            "en": "Yes, and fixed expenses are quiet, but they are not optional.",
+            "zh": "對，而且固定支出平常很安靜，但它們從來都不是可選的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why the money seems to disappear overnight.",
+            "en": "That's why the money seems to disappear overnight.",
             "zh": "所以錢才會讓人覺得像是一夜之間消失了。"
           },
           {
@@ -533,8 +533,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A good system should make reality feel less chaotic, not more.",
-            "zh": "這就是重點。好的系統，應該讓現實看起來比較不混亂，而不是更混亂。"
+            "en": "Yes. That is the important shift. A good system should make reality feel less chaotic, not more.",
+            "zh": "這裡是我想特別畫線的地方。好的系統，應該讓現實看起來比較不混亂，而不是更混亂。"
           },
           {
             "speaker": "b",
@@ -551,7 +551,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a little harsh, but also fair.",
+            "en": "That's a little harsh, but also fair.",
             "zh": "這話有點狠，但也很公平。"
           },
           {
@@ -563,7 +563,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much kinder way to frame it.",
+            "en": "That's a much kinder way to frame it.",
             "zh": "這真的是一個溫和很多的理解方式。"
           },
           {
@@ -703,7 +703,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because the psychology is subtle. The anchor price is one example.",
+            "en": "That's because the psychology is subtle. The anchor price is one example.",
             "zh": "那是因為那套心理設計很細。像錨定價格就是一個很典型的例子。"
           },
           {
@@ -715,8 +715,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Then limited-time pressure joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
-            "zh": "沒錯。接著限時壓力就會跟著進來，例如「只剩三件」或「今晚截止」。"
+            "en": "Exactly. That is the useful point. Then limited-time pressure joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
+            "zh": "這裡是我想特別畫線的地方。接著限時壓力就會跟著進來，例如「只剩三件」或「今晚截止」。"
           },
           {
             "speaker": "b",
@@ -839,7 +839,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an annoyingly good question.",
+            "en": "That's an annoyingly good question.",
             "zh": "這真的是一個讓人有點討厭、但又很好用的問題。"
           },
           {
@@ -880,14 +880,14 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels more respectful than calling myself weak.",
+            "en": "That is more respectful than calling myself weak.",
             "zh": "這種看法比起直接罵自己太軟弱，好像也更尊重人一點。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Shame usually hides the pattern. Curiosity exposes it.",
-            "zh": "很好。羞愧通常會把模式藏起來，好奇心才會把它照出來。"
+            "en": "If you were saying this to someone, you might start here. Shame usually hides the pattern. Curiosity exposes it.",
+            "zh": "我們把它變得更實用一點。羞愧通常會把模式藏起來，好奇心才會把它照出來。"
           },
           {
             "speaker": "b",
@@ -967,7 +967,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is normal. Negotiation sounds like conflict in your head, even when it is really just information exchange.",
+            "en": "That's normal. Negotiation sounds like conflict in your head, even when it is really just information exchange.",
             "zh": "這很正常。談價在腦中很容易被聽成衝突，但它其實常常只是交換資訊而已。"
           },
           {
@@ -1073,7 +1073,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, \"Would you be open to a lower price?\" That sounds softer than, \"This is too expensive.\"",
+            "en": "In a real conversation, you might say, \"Would you be open to a lower price?\" That sounds softer than, \"This is too expensive.\"",
             "zh": "你可以試試看「你願意接受再低一點的價格嗎？」這會比直接說「這太貴了」柔和很多。"
           },
           {
@@ -1126,7 +1126,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where walking away becomes important. Not as punishment, just as information.",
+            "en": "That's where walking away becomes important. Not as punishment, just as information.",
             "zh": "那時候，「離開」這件事就很重要。不是為了懲罰對方，而是為了讓資訊變得清楚。"
           },
           {
@@ -1185,7 +1185,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more mature than simply winning the conversation.",
+            "en": "I can see that. It sounds more mature than simply winning the conversation.",
             "zh": "這種想法比起只是想在對話裡贏過對方，成熟多了。"
           },
           {
@@ -1215,8 +1215,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Start with one honest question and one clear limit. That is already enough.",
-            "zh": "很好。就先從一個誠實的問題，加上一條清楚的界線開始。這樣其實就很夠了。"
+            "en": "Here is the version I would actually use. Start with one honest question and one clear limit. That is already enough.",
+            "zh": "我們把它變得更實用一點。就先從一個誠實的問題，加上一條清楚的界線開始。這樣其實就很夠了。"
           }
         ]
       }
@@ -1284,7 +1284,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because a financial goal has to become visible before it becomes useful.",
+            "en": "That's because a financial goal has to become visible before it becomes useful.",
             "zh": "那是因為，一個財務目標必須先變得看得見，之後才會變得有用。"
           },
           {
@@ -1343,7 +1343,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels strict, but helpful.",
+            "en": "That sounds strict, but helpful.",
             "zh": "這樣聽起來有點嚴格，但也真的有幫助。"
           },
           {
@@ -1361,8 +1361,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. A realistic timeline protects the goal from your own fantasy version of yourself.",
-            "zh": "沒錯。現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
+            "en": "A useful distinction is this: A realistic timeline protects the goal from your own fantasy version of yourself.",
+            "zh": "這裡有一個常被忽略的地方：現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
           },
           {
             "speaker": "b",
@@ -1449,13 +1449,13 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is true. Next month's me feels real. Sixty-year-old me feels theoretical.",
-            "zh": "真的。下個月的我很真實，但六十歲的我就很像一個理論。"
+            "en": "True. Next month's me feels real. Sixty-year-old me feels theoretical.",
+            "zh": "是真的。下個月的我很真實，但六十歲的我就很像一個理論。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why small recurring choices matter. They build trust across time.",
+            "en": "That's why small recurring choices matter. They build trust across time.",
             "zh": "這也就是為什麼那些小而持續的選擇很重要。它們是在替不同時間點的自己建立信任。"
           },
           {
@@ -1467,13 +1467,13 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Compound interest is what happens when patience finally gets visible.",
-            "zh": "沒錯。複利，某種程度上就是耐心終於變得看得見的樣子。"
+            "en": "Mostly, yes. Compound interest is what happens when patience finally gets visible.",
+            "zh": "大致上是。複利，某種程度上就是耐心終於變得看得見的樣子。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much prettier way to explain it than any bank ad.",
+            "en": "That's a much prettier way to explain it than any bank ad.",
             "zh": "這種解釋真的比任何銀行廣告都更能打動人。"
           },
           {
@@ -1527,8 +1527,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Financial adulthood is mostly a series of quiet decisions that future you will one day thank you for.",
-            "zh": "很好。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
+            "en": "A real-life example helps here. Financial adulthood is mostly a series of quiet decisions that future you will one day thank you for.",
+            "zh": "我們把它變得更實用一點。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
           }
         ]
       }
@@ -1738,8 +1738,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. The point is to reduce awkwardness, not to perform certainty.",
-            "zh": "沒錯。重點是降低尷尬，不是表演自己很懂規矩。"
+            "en": "I would keep that sentence close. The point is to reduce awkwardness, not to perform certainty.",
+            "zh": "這裡是我想特別畫線的地方。重點是降低尷尬，不是表演自己很懂規矩。"
           }
         ]
       },
@@ -1791,7 +1791,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a perfect way to put it.",
+            "en": "I like that as a perfect way to put it.",
             "zh": "這個說法非常準。"
           },
           {
@@ -1833,7 +1833,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like an adult skill.",
+            "en": "That seems like an adult skill.",
             "zh": "這聽起來像是一種很成熟的大人能力。"
           },
           {
@@ -1908,7 +1908,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the biggest changes in a cashless system. Friction disappears, and awareness often disappears with it.",
+            "en": "That's one of the biggest changes in a cashless system. Friction disappears, and awareness often disappears with it.",
             "zh": "這就是無現金系統裡最大的變化之一。摩擦感消失了，而覺察感往往也跟著一起消失。"
           },
           {
@@ -1926,7 +1926,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why tiny purchases stack up so fast now.",
+            "en": "That's why tiny purchases stack up so fast now.",
             "zh": "這也就是為什麼現在那些很小的消費，累積得特別快。"
           },
           {
@@ -1944,7 +1944,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the right frame.",
+            "en": "That's exactly the right frame.",
             "zh": "這個框架抓得很準。"
           }
         ]
@@ -1985,7 +1985,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the subscription trap. The first decision feels small, but the long tail is expensive.",
+            "en": "That's the subscription trap. The first decision feels small, but the long tail is expensive.",
             "zh": "那就是訂閱陷阱。第一個決定看起來很小，但後面的長尾成本很可觀。"
           },
           {
@@ -2026,7 +2026,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why they matter. The future of money often sounds ordinary before it sounds technical.",
+            "en": "That's why they matter. The future of money often sounds ordinary before it sounds technical.",
             "zh": "這也就是為什麼它們很重要。金錢的未來，很多時候在聽起來很技術之前，先聽起來很日常。"
           },
           {
@@ -2073,7 +2073,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds boring, which probably means it works.",
+            "en": "I can see that. It sounds boring, which probably means it works.",
             "zh": "這聽起來有點無聊，而這大概也代表它真的有效。"
           },
           {
@@ -2103,8 +2103,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Anything that keeps charging you after your attention has left deserves a regular review.",
-            "zh": "很好。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
+            "en": "The useful version should fit in your mouth. Anything that keeps charging you after your attention has left deserves a regular review.",
+            "zh": "我們把它變得更實用一點。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
           }
         ]
       },
@@ -2190,7 +2190,7 @@ export const WEEK_08: Episode[] = [
       },
       {
         "en": "budgeting app",
-        "zh": "預算管理應用程式",
+        "zh": "預算管理app",
         "example": "A good budgeting app showed her patterns she had been too busy to notice on her own."
       },
       {

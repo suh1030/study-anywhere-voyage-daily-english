@@ -33,8 +33,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Real gratitude does not erase pain. It changes what else is visible alongside the pain.",
-            "zh": "沒錯。真正的感謝不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。"
+            "en": "What often gets hidden is this: Real gratitude does not erase pain. It changes what else is visible alongside the pain.",
+            "zh": "這裡有一個常被忽略的地方：真正的感謝不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。"
           },
           {
             "speaker": "b",
@@ -86,13 +86,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
-            "zh": "沒錯。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。"
+            "en": "Mostly, yes. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
+            "zh": "大致上是。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels psychologically important.",
+            "en": "That lands as psychologically important.",
             "zh": "這感覺在心理上很重要。"
           },
           {
@@ -110,7 +110,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. small climate shifts can change a lot over time.",
+            "en": "Yes. Small climate shifts can change a lot over time.",
             "zh": "對，而小小的氣候改變，時間一久其實會改很多。"
           }
         ]
@@ -133,7 +133,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much better than forcing yourself to be cheerful.",
+            "en": "I can see that. It sounds much better than forcing yourself to be cheerful.",
             "zh": "這句真的比逼自己開朗好多了。"
           },
           {
@@ -192,8 +192,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Gratitude often grows through small signs that you are being held in somebody else's attention.",
-            "zh": "沒錯。感謝很常是從那些小小的訊號長出來的，而那些訊號在說：有人把你放在他的注意力裡。"
+            "en": "Yes, and gratitude often grows through small signs that you are being held in somebody else's attention.",
+            "zh": "對，而且感謝很常是從那些小小的訊號長出來的，而那些訊號在說：有人把你放在他的注意力裡。"
           },
           {
             "speaker": "b",
@@ -251,7 +251,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a kinder version of practice.",
+            "en": "I can see why you'd say that. It does feel like a kinder version of practice.",
             "zh": "這聽起來像一種比較溫柔的練習。"
           },
           {
@@ -350,8 +350,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Appreciation becomes powerful when it gets specific enough that the other person can actually receive it.",
-            "zh": "沒錯。當感謝夠具體，具體到對方真的收得到時，它才會變得有力量。"
+            "en": "Good. That is the real lesson here. Appreciation becomes powerful when it gets specific enough that the other person can actually receive it.",
+            "zh": "這裡是我想特別畫線的地方。當感謝夠具體，具體到對方真的收得到時，它才會變得有力量。"
           },
           {
             "speaker": "b",
@@ -421,7 +421,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds painfully true.",
+            "en": "I can see that. It sounds painfully true.",
             "zh": "這句真的很真。"
           },
           {
@@ -474,7 +474,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is really useful for speaking practice too.",
+            "en": "That's really useful for speaking practice too.",
             "zh": "這對英語口說練習也真的很有用。"
           },
           {
@@ -533,7 +533,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. that is why it matters so much in close relationships.",
+            "en": "Yes. That is why it matters so much in close relationships.",
             "zh": "對，而這也是它在親近關係裡那麼重要的原因。"
           },
           {
@@ -563,7 +563,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds sad, but also clarifying.",
+            "en": "I can see that. It sounds sad, but also clarifying.",
             "zh": "這聽起來有點難過，但也很清楚。"
           },
           {
@@ -575,7 +575,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a strong reminder.",
+            "en": "I like that as a strong reminder.",
             "zh": "這個提醒很強。"
           },
           {
@@ -715,13 +715,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. It can soften the pace of the mind for a moment and create a little more room to feel alive.",
-            "zh": "沒錯。它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
+            "en": "This is where real life gets messier: It can soften the pace of the mind for a moment and create a little more room to feel alive.",
+            "zh": "這裡有一個常被忽略的地方：它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds especially important in stressful seasons.",
+            "en": "I can see that. It sounds especially important in stressful seasons.",
             "zh": "這在壓力大的時候，聽起來尤其重要。"
           },
           {
@@ -768,13 +768,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"I almost missed it because it looked too ordinary at first.\" That works when beauty arrives without spectacle.",
+            "en": "You could keep it simple and say, \"I almost missed it because it looked too ordinary at first.\" That works when beauty arrives without spectacle.",
             "zh": "另一句也很好：「I almost missed it because it looked too ordinary at first.」很適合那種沒有 spectacle 的美。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels very true to adult life.",
+            "en": "That sounds very true to adult life.",
             "zh": "這句很貼近成人生活。"
           },
           {
@@ -786,7 +786,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is honestly a lovely sentence.",
+            "en": "That's honestly a lovely sentence.",
             "zh": "這句很美。"
           },
           {
@@ -868,7 +868,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a different relationship to life.",
+            "en": "I can see why you'd say that. It does feel like a different relationship to life.",
             "zh": "這聽起來像是和生活建立另一種關係。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the problem. Healthy perspective is not denial. It is a wider frame that lets difficulty stay real without letting difficulty become the only reality.",
+            "en": "That's the problem. Healthy perspective is not denial. It is a wider frame that lets difficulty stay real without letting difficulty become the only reality.",
             "zh": "這就是問題。健康的視角不是否認，而是給出一個更寬的框，讓困難保持真實，同時又不讓困難變成唯一真相。"
           },
           {
@@ -979,13 +979,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Gratitude often helps by widening the frame. It reminds people of support, context, and what still remains workable.",
-            "zh": "沒錯。感謝很常就是透過把框變大來幫忙。它會提醒人：支持還在、脈絡還在，以及還有哪些部分仍然可用。"
+            "en": "Mostly, yes. Gratitude often helps by widening the frame. It reminds people of support, context, and what still remains workable.",
+            "zh": "大致上是。感謝很常就是透過把框變大來幫忙。它會提醒人：支持還在、脈絡還在，以及還有哪些部分仍然可用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much healthier than forced optimism.",
+            "en": "I can see that. It sounds much healthier than forced optimism.",
             "zh": "這比 forced optimism 健康太多了。"
           },
           {
@@ -1038,7 +1038,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very useful when emotions are high.",
+            "en": "I can see that. It sounds very useful when emotions are high.",
             "zh": "這在情緒高的時候真的很有用。"
           },
           {
@@ -1079,13 +1079,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's more honest about how it actually works.",
+            "en": "That is closer to how it actually works.",
             "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"Perspective did not remove the pain, but it changed the size of the pain in my mind.\" That works when you want nuance.",
+            "en": "You could keep it simple and say, \"Perspective did not remove the pain, but it changed the size of the pain in my mind.\" That works when you want nuance.",
             "zh": "另一句也很好：「Perspective did not remove the pain, but it changed the size of the pain in my mind.」如果你想講得有層次，這句很適合。"
           },
           {
@@ -1144,7 +1144,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the kind of emotional move people need all the time.",
+            "en": "That's the kind of emotional move people need all the time.",
             "zh": "這真的就是大家很常需要的情緒移動。"
           },
           {
@@ -1209,7 +1209,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely good ending for this topic.",
+            "en": "That's a genuinely good ending for this topic.",
             "zh": "這是個很好的結尾。"
           },
           {
@@ -1284,7 +1284,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true, but it matters there precisely because work can become transactional so quickly. Gratitude reminds people there are humans inside the system.",
+            "en": "That's true, but it matters there precisely because work can become transactional so quickly. Gratitude reminds people there are humans inside the system.",
             "zh": "這是真的，但它正因如此才更重要，因為工作很容易一下子變得只剩交易感。感謝會提醒大家：系統裡面還有人。"
           },
           {
@@ -1296,13 +1296,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
-            "zh": "沒錯。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
+            "en": "Yes. That is the important shift. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
+            "zh": "這裡是我想特別畫線的地方。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially important in busy teams.",
+            "en": "That is especially important in busy teams.",
             "zh": "這在忙的團隊裡感覺尤其重要。"
           },
           {
@@ -1355,7 +1355,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why generic praise often feels empty.",
+            "en": "That's why generic praise often feels empty.",
             "zh": "這也就是為什麼 generic praise 常常很空。"
           },
           {
@@ -1396,7 +1396,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds so much better than a generic good job.",
+            "en": "I can see that. It sounds so much better than a generic good job.",
             "zh": "這句真的比 generic good job 好太多。"
           },
           {
@@ -1473,7 +1473,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a huge relief in any workplace.",
+            "en": "That's a huge relief in any workplace.",
             "zh": "在任何 workplace 裡，這都是很大的 relief。"
           },
           {
@@ -1492,7 +1492,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would say it is soft only if you misunderstand strength. Gratitude is one way professionals build trust, memory, and sustainable effort.",
-            "zh": "我會說，那只是你誤解了 strength。感謝是專業人士建立信任、建立共同記憶、也建立可持續努力的一種方式。"
+            "zh": "我會說，那只是你誤解了 strength。感謝是專業人士建立信任、建立共同記憶、也建立能長期維持努力的一種方式。"
           },
           {
             "speaker": "b",
@@ -1509,14 +1509,14 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a convincing answer.",
+            "en": "That sounds like a convincing answer.",
             "zh": "這個回答很有說服力。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Gratitude at work is not about making everyone sentimental. It is about making value harder to overlook.",
-            "zh": "很好。工作裡的感謝不是要讓大家變得多愁善感，而是讓真正的價值比較不容易被漏掉。"
+            "en": "Here is one natural option. Gratitude at work is not about making everyone sentimental. It is about making value harder to overlook.",
+            "zh": "我們把它變得更實用一點。工作裡的感謝不是要讓大家變得多愁善感，而是讓真正的價值比較不容易被漏掉。"
           },
           {
             "speaker": "b",
@@ -1708,7 +1708,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much better than calling someone ungrateful too fast.",
+            "en": "I can see that. It sounds much better than calling someone ungrateful too fast.",
             "zh": "這比太快說別人 ungrateful 好太多了。"
           },
           {
@@ -1767,8 +1767,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. One may think, \"Why do you never say it?\" The other may think, \"How can you not see everything I am already doing?\"",
-            "zh": "沒錯。一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」"
+            "en": "The part I keep noticing is this: One may think, \"Why do you never say it?\" The other may think, \"How can you not see everything I am already doing?\"",
+            "zh": "這裡有一個常被忽略的地方：一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」"
           },
           {
             "speaker": "b",
@@ -1814,7 +1814,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a beautiful kind of maturity.",
+            "en": "I can see why you'd say that. It does feel like a beautiful kind of maturity.",
             "zh": "這聽起來像一種很美的成熟。"
           },
           {
@@ -1832,13 +1832,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The goal is to become more literate in how appreciation moves through human life.",
-            "zh": "沒錯。目標是讓自己更有讀寫能力，去看懂感謝怎麼在人類生活裡流動。"
+            "en": "Mostly, yes. The goal is to become more literate in how appreciation moves through human life.",
+            "zh": "大致上是。目標是讓自己更有讀寫能力，去看懂感謝怎麼在人類生活裡流動。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a great way to end this episode.",
+            "en": "I like that as a great way to end this episode.",
             "zh": "這是個很棒的收尾。"
           },
           {
@@ -2025,13 +2025,13 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds clean and thoughtful.",
+            "en": "I can see that. It sounds clean and thoughtful.",
             "zh": "這句很乾淨，也很有思考。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"I am learning that appreciation becomes real when it gets specific.\" That is great for speaking or journaling.",
+            "en": "You could keep it simple and say, \"I am learning that appreciation becomes real when it gets specific.\" That is great for speaking or journaling.",
             "zh": "另一句也很好：「I am learning that appreciation becomes real when it gets specific.」這句不管拿來 speaking 還是 journaling 都很好。"
           },
           {
@@ -2049,7 +2049,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right tone for ending the week.",
+            "en": "That seems like the right tone for ending the week.",
             "zh": "這個 tone 很適合用來結束這一週。"
           },
           {
@@ -2102,8 +2102,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the best practice still sounds like life, not like a performance challenge.",
-            "zh": "所以最好的練習聽起來還是像生活，不像表演任務。"
+            "en": "So the best practice still sounds like life, not like a performance challenge. I can imagine someone pushing back on that.",
+            "zh": "所以最好的練習聽起來還是像生活，不像表演任務。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -2126,14 +2126,14 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much bigger than a mood.",
+            "en": "That's much bigger than a mood.",
             "zh": "這比一種 mood 大很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Gratitude is not only a feeling you happen to have. It can become a way of being in the world.",
-            "zh": "沒錯。感謝不只是一種你剛好有沒有的感受，它也可能變成你活在世界裡的一種方式。"
+            "en": "Exactly. That is the useful point. Gratitude is not only a feeling you happen to have. It can become a way of being in the world.",
+            "zh": "這裡是我想特別畫線的地方。感謝不只是一種你剛好有沒有的感受，它也可能變成你活在世界裡的一種方式。"
           },
           {
             "speaker": "b",
@@ -2150,7 +2150,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful ending.",
+            "en": "I like that as a beautiful ending.",
             "zh": "這是個很美的結尾。"
           },
           {

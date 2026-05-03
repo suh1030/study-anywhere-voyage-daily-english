@@ -21,7 +21,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because most people are living out a money story long before they have consciously examined it.",
+            "en": "That's because most people are living out a money story long before they have consciously examined it.",
             "zh": "那是因為很多人在真正檢查自己之前，就早已經活在某種金錢故事裡了。"
           },
           {
@@ -33,8 +33,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Cash flow looks mechanical on paper, but in real life it often carries fear, desire, and habit.",
-            "zh": "完全沒錯。現金流寫在紙上看起來很機械，可是真實生活裡它常常背著恐懼、慾望和習慣。"
+            "en": "Yes, and cash flow looks mechanical on paper, but in real life it often carries fear, desire, and habit.",
+            "zh": "對，而且現金流寫在紙上看起來很機械，可是真實生活裡它常常背著恐懼、慾望和習慣。"
           },
           {
             "speaker": "b",
@@ -92,7 +92,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds more motivating than just 'spend less.'",
+            "en": "I can see that. It sounds more motivating than just 'spend less.'",
             "zh": "這真的比『少花一點』有動力得多。"
           },
           {
@@ -133,13 +133,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds thoughtful without sounding stiff.",
+            "en": "I can see that. It sounds thoughtful without sounding stiff.",
             "zh": "這句聽起來很有想法，但不會太生硬。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'I want my spending to reflect my values, not just my impulses.'",
+            "en": "You could keep it simple and say, 'I want my spending to reflect my values, not just my impulses.'",
             "zh": "還有一句也很好用，就是「我希望自己的花費反映的是我的價值，而不只是衝動。」"
           },
           {
@@ -198,7 +198,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds painfully true.",
+            "en": "I can see that. It sounds painfully true.",
             "zh": "這真的準到有點痛。"
           },
           {
@@ -234,19 +234,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much calmer than how money is usually presented.",
+            "en": "I can see that. It sounds much calmer than how money is usually presented.",
             "zh": "這真的比大家平常談錢時的樣子平靜太多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it works. A healthy money relationship gives you room to plan without becoming frightened by your own life.",
+            "en": "That's why it works. A healthy money relationship gives you room to plan without becoming frightened by your own life.",
             "zh": "也因此它才有用。健康的金錢關係會讓你有空間去規劃，而不是被自己的人生嚇到。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the kind of goal I want now.",
+            "en": "That's exactly the kind of goal I want now.",
             "zh": "這真的就是我現在想要的那種目標。"
           },
           {
@@ -258,7 +258,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending for today.",
+            "en": "That is the right ending for today.",
             "zh": "這感覺就是今天最適合的結尾。"
           },
           {
@@ -333,7 +333,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because money often represents safety, fairness, status, control, and memory all at once.",
+            "en": "That's because money often represents safety, fairness, status, control, and memory all at once.",
             "zh": "那是因為金錢很多時候同時代表安全感、公平感、地位、控制感和記憶。"
           },
           {
@@ -392,8 +392,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the emotional price is sometimes paid long before the actual bill.",
-            "zh": "所以很多時候，情緒上的代價比帳單本身更早出現。"
+            "en": "So the emotional price is sometimes paid long before the actual bill. I am not sure if that covers the messy middle.",
+            "zh": "所以很多時候，情緒上的代價比帳單本身更早出現。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -416,7 +416,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds uncomfortably familiar.",
+            "en": "I can see that. It sounds uncomfortably familiar.",
             "zh": "這真的熟悉到有點不舒服。"
           },
           {
@@ -445,7 +445,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds honest without sounding overly heavy.",
+            "en": "I can see that. It sounds honest without sounding overly heavy.",
             "zh": "這句很誠實，可是又不會太沉重。"
           },
           {
@@ -504,8 +504,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Safety feeling matters because many people keep chasing visible wealth when what they really want is calm.",
-            "zh": "完全沒錯。安全感受很重要，因為很多人一直在追逐看得見的財富，其實心裡真正想要的是平靜。"
+            "en": "Yes, and safety feeling matters because many people keep chasing visible wealth when what they really want is calm.",
+            "zh": "對，而且安全感受很重要，因為很多人一直在追逐看得見的財富，其實心裡真正想要的是平靜。"
           },
           {
             "speaker": "b",
@@ -528,8 +528,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It is worth remembering.",
-            "zh": "很好。這句值得被記住。"
+            "en": "A real-life example helps here. It is worth remembering.",
+            "zh": "我們把它變得更實用一點。這句值得被記住。"
           }
         ]
       },
@@ -551,19 +551,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a fuller answer than most financial advice gives.",
+            "en": "That's a fuller answer than most financial advice gives.",
             "zh": "這真的比大多數財務建議給出的答案完整得多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why emotional price matters. If you ignore the meaning, the numbers alone rarely change the pattern.",
+            "en": "That's why emotional price matters. If you ignore the meaning, the numbers alone rarely change the pattern.",
             "zh": "也因此，情緒代價很重要。如果你忽略那些意義，光改數字通常很難真正改變模式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like the real lesson.",
+            "en": "I can see why you'd say that. It does feel like the real lesson.",
             "zh": "這真的聽起來就是核心教訓。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why a budget trade-off can feel surprisingly personal. It always points back to what matters most right now.",
+            "en": "That's why a budget trade-off can feel surprisingly personal. It always points back to what matters most right now.",
             "zh": "也因此，預算取捨常常會讓人覺得異常個人。因為它最後一定會指回你現在最在意的是什麼。"
           },
           {
@@ -674,8 +674,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. People make better choices when the conversation sounds clearer, not harsher.",
-            "zh": "那很好。當對話聽起來比較清楚、而不是比較苛刻時，人通常會做出更好的選擇。"
+            "en": "The version people can actually use is simpler. People make better choices when the conversation sounds clearer, not harsher.",
+            "zh": "我們把它變得更實用一點。當對話聽起來比較清楚、而不是比較苛刻時，人通常會做出更好的選擇。"
           },
           {
             "speaker": "b",
@@ -686,7 +686,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why people need gentler and more honest language around money.",
+            "en": "That's why people need gentler and more honest language around money.",
             "zh": "也因此，人真的需要更溫和、更誠實的金錢語言。"
           }
         ]
@@ -762,19 +762,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is very clear.",
+            "en": "That's very clear.",
             "zh": "這句很清楚。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another natural option is, 'I am trying to make my spending line up with my actual priorities.'",
-            "zh": "另一句也很好用：「I am trying to make my spending line up with my actual priorities.」"
+            "en": "Another option that still sounds natural is, 'I am trying to make my spending line up with my actual priorities.'",
+            "zh": "另一個仍然自然的說法是：「I am trying to make my spending line up with my actual priorities.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds mature but still conversational.",
+            "en": "I can see that. It sounds mature but still conversational.",
             "zh": "這句聽起來成熟，但還是很口語。"
           },
           {
@@ -792,8 +792,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Useful language helps people stay honest longer.",
-            "zh": "很好。有用的語言會幫人把誠實維持得更久。"
+            "en": "In real life, it might sound like this. Useful language helps people stay honest longer.",
+            "zh": "我們把它變得更實用一點。有用的語言會幫人把誠實維持得更久。"
           }
         ]
       },
@@ -804,7 +804,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What makes saving feel sustainable instead of punishing?",
-            "zh": "什麼會讓存錢比較像可持續，而不是像在處罰自己？"
+            "zh": "什麼會讓存錢比較像能長期維持，而不是像在處罰自己？"
           },
           {
             "speaker": "a",
@@ -827,7 +827,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much warmer than most finance advice.",
+            "en": "I can see that. It sounds much warmer than most finance advice.",
             "zh": "這真的比大多數理財建議溫暖很多。"
           },
           {
@@ -868,19 +868,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much more intimate view of money.",
+            "en": "That's a much more intimate view of money.",
             "zh": "這真的讓金錢變成一個很親密的主題。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why saving rhythm matters. A repeatable pattern says more about your future than occasional intensity does.",
+            "en": "That's why saving rhythm matters. A repeatable pattern says more about your future than occasional intensity does.",
             "zh": "也因此，存錢節奏很重要。能重複的模式，對未來的影響通常比偶爾很用力更大。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a true ending.",
+            "en": "That seems like a true ending.",
             "zh": "這真的很像一個很真的結尾。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because money talk often activates history, power, fear, and fairness all at the same time.",
+            "en": "That's because money talk often activates history, power, fear, and fairness all at the same time.",
             "zh": "那是因為金錢對話常常會同時啟動歷史、權力、恐懼和公平感。"
           },
           {
@@ -979,8 +979,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. An awkward conversation gets worse when people feel exposed before they feel understood.",
-            "zh": "完全沒錯。如果人在覺得被理解之前，就先覺得自己被暴露了，那種尷尬對話只會更糟。"
+            "en": "Right, and an awkward conversation gets worse when people feel exposed before they feel understood.",
+            "zh": "對，而且如果人在覺得被理解之前，就先覺得自己被暴露了，那種尷尬對話只會更糟。"
           },
           {
             "speaker": "b",
@@ -1003,8 +1003,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Difficult does not have to mean doomed.",
-            "zh": "那很好。困難不代表注定失敗。"
+            "en": "Think of a real moment. Difficult does not have to mean doomed.",
+            "zh": "我們把它變得更實用一點。困難不代表注定失敗。"
           }
         ]
       },
@@ -1032,8 +1032,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Income gap matters because silence can make ordinary differences feel like moral failures.",
-            "zh": "完全沒錯。收入落差很重要，因為沉默很容易把原本普通的差異，扭成道德失敗。"
+            "en": "Yes, and income gap matters because silence can make ordinary differences feel like moral failures.",
+            "zh": "對，而且收入落差很重要，因為沉默很容易把原本普通的差異，扭成道德失敗。"
           },
           {
             "speaker": "b",
@@ -1079,7 +1079,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds calm and respectful.",
+            "en": "I can see that. It sounds calm and respectful.",
             "zh": "這句很冷靜，也很尊重人。"
           },
           {
@@ -1150,7 +1150,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually a wise move. Clarity early is cheaper than repair late.",
+            "en": "That's usually a wise move. Clarity early is cheaper than repair late.",
             "zh": "那通常是很有智慧的做法。早點清楚，往往比後來修補便宜得多。"
           },
           {
@@ -1186,13 +1186,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because it is relational. Money talk matters because silence shapes relationships too.",
+            "en": "That's because it is relational. Money talk matters because silence shapes relationships too.",
             "zh": "那是因為它本來就是關係問題。談錢重要，是因為沉默其實也一樣會塑造關係。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the clearest ending possible.",
+            "en": "That sounds like the clearest ending possible.",
             "zh": "這感覺就是最清楚的結尾。"
           },
           {
@@ -1338,19 +1338,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the progress trap is that nothing ever gets to count.",
-            "zh": "所以所謂進度陷阱，就是你做的事永遠都來不及算數。"
+            "en": "So the progress trap is that nothing ever gets to count. Maybe I am making it sound cleaner than it feels.",
+            "zh": "所以所謂進度陷阱，就是你做的事永遠都來不及算數。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. A self-worth link makes every setback feel larger than the actual money involved.",
-            "zh": "完全沒錯。當自我價值和目標綁在一起時，每一次小挫折都會比實際涉及的金錢看起來更大。"
+            "en": "Right, and a self-worth link makes every setback feel larger than the actual money involved.",
+            "zh": "對，而且當自我價值和目標綁在一起時，每一次小挫折都會比實際涉及的金錢看起來更大。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds exhausting.",
+            "en": "I can see that. It sounds exhausting.",
             "zh": "這真的聽起來很耗人。"
           },
           {
@@ -1368,7 +1368,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds right to me too.",
+            "en": "I can see that. It sounds right to me too.",
             "zh": "我也覺得這很對。"
           }
         ]
@@ -1391,7 +1391,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds balanced, not dramatic.",
+            "en": "I can see that. It sounds balanced, not dramatic.",
             "zh": "這句聽起來很平衡，不會太戲劇化。"
           },
           {
@@ -1450,20 +1450,20 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. Financial recovery often depends on steady progress, not emotional whiplash.",
-            "zh": "完全沒錯。財務修復很多時候靠的是穩定進步，不是情緒甩來甩去。"
+            "en": "True. Financial recovery often depends on steady progress, not emotional whiplash.",
+            "zh": "是真的。財務修復很多時候靠的是穩定進步，不是情緒甩來甩去。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is much more sustainable.",
-            "zh": "那真的可持續多了。"
+            "en": "That's much more sustainable.",
+            "zh": "那真的能長期維持多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sustainable progress usually looks quieter than ambition, but it lasts longer.",
-            "zh": "可持續的進展通常看起來比雄心安靜，可是它撐得更久。"
+            "zh": "能長期維持的進展通常看起來比雄心安靜，可是它撐得更久。"
           },
           {
             "speaker": "b",
@@ -1497,19 +1497,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like the cleanest answer possible.",
+            "en": "I can see why you'd say that. It does feel like the cleanest answer possible.",
             "zh": "這聽起來真的是最乾淨的答案。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why realistic targets matter. A good goal should make a person more grounded, not more ashamed.",
+            "en": "That's why realistic targets matter. A good goal should make a person more grounded, not more ashamed.",
             "zh": "也因此，現實目標很重要。好的目標應該讓一個人更踏實，不是更羞愧。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a line I want to remember.",
+            "en": "I like that as a line I want to remember.",
             "zh": "這句我真的想記住。"
           },
           {
@@ -1608,8 +1608,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. A status purchase often promises confidence more than utility.",
-            "zh": "完全沒錯。地位型購買很多時候賣的不是實用，而是自信的感覺。"
+            "en": "Yes, and a status purchase often promises confidence more than utility.",
+            "zh": "對，而且地位型購買很多時候賣的不是實用，而是自信的感覺。"
           },
           {
             "speaker": "b",
@@ -1673,8 +1673,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. Hidden debt often grows in the space between what a life looks like and what it can truly support.",
-            "zh": "完全沒錯。隱性債務很多時候就是長在生活看起來像什麼，和它實際撐得住什麼之間。"
+            "en": "Right, and hidden debt often grows in the space between what a life looks like and what it can truly support.",
+            "zh": "對，而且隱性債務很多時候就是長在生活看起來像什麼，和它實際撐得住什麼之間。"
           },
           {
             "speaker": "b",
@@ -1708,14 +1708,14 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very honest.",
+            "en": "I can see that. It sounds very honest.",
             "zh": "這句真的很誠實。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You might also say, 'I do not want social comparison to quietly design my spending.'",
-            "zh": "另一句也很好用：「I do not want social comparison to quietly design my spending.」"
+            "en": "You might put it this way: 'I do not want social comparison to quietly design my spending.'",
+            "zh": "你也可以換成這樣說：「I do not want social comparison to quietly design my spending.」"
           },
           {
             "speaker": "b",
@@ -1767,8 +1767,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is true. Public success often looks attractive from the outside, but quiet stability is what helps people sleep.",
-            "zh": "完全沒錯。公開可見的成功從外面看很吸引人，可是真正讓人睡得著的，常常是安靜穩定。"
+            "en": "True. Public success often looks attractive from the outside, but quiet stability is what helps people sleep.",
+            "zh": "是真的。公開可見的成功從外面看很吸引人，可是真正讓人睡得著的，常常是安靜穩定。"
           },
           {
             "speaker": "b",
@@ -1779,13 +1779,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. A lot of people are more tired of performance than they realize.",
-            "zh": "很好。很多人其實比自己以為的更厭倦表演。"
+            "en": "If you were saying this to someone, you might start here. A lot of people are more tired of performance than they realize.",
+            "zh": "我們把它變得更實用一點。很多人其實比自己以為的更厭倦表演。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very true.",
+            "en": "I can see that. It sounds very true.",
             "zh": "這真的很真。"
           },
           {
@@ -1814,13 +1814,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a bigger cost than most people admit.",
+            "en": "That's a bigger cost than most people admit.",
             "zh": "這真的比很多人願意承認的代價還大。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why image management needs limits. Looking successful is expensive if it keeps stealing from what actually makes life secure.",
+            "en": "That's why image management needs limits. Looking successful is expensive if it keeps stealing from what actually makes life secure.",
             "zh": "也因此，形象管理需要被限制。如果它一直從真正讓生活穩下來的東西裡偷錢，那看起來成功就會變得很昂貴。"
           },
           {
@@ -1937,13 +1937,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because most people have been taught urgency more than steadiness.",
+            "en": "That's because most people have been taught urgency more than steadiness.",
             "zh": "那是因為很多人從小被教會的是急迫，不是穩定。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels very true.",
+            "en": "That reads as very true.",
             "zh": "這真的很真。"
           },
           {
@@ -1978,8 +1978,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Conscious spending matters because it lets choice replace autopilot.",
-            "zh": "完全沒錯。有意識花費很重要，因為它會讓選擇取代自動駕駛。"
+            "en": "Yes, and conscious spending matters because it lets choice replace autopilot.",
+            "zh": "對，而且有意識花費很重要，因為它會讓選擇取代自動駕駛。"
           },
           {
             "speaker": "b",
@@ -1996,7 +1996,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a good definition of maturity.",
+            "en": "I can see why you'd say that. It does feel like a good definition of maturity.",
             "zh": "這真的很像對成熟的一個好定義。"
           },
           {
@@ -2025,19 +2025,19 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is first-rate.",
+            "en": "That's first-rate.",
             "zh": "這是一流的。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'I am trying to build enough structure that money no longer surprises me all the time.'",
-            "zh": "另一句也很好用：「I am trying to build enough structure that money no longer surprises me all the time.」"
+            "en": "You could keep it simple and say, 'I am trying to build enough structure that money no longer surprises me all the time.'",
+            "zh": "也可以簡單說：「I am trying to build enough structure that money no longer surprises me all the time.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds strong without being rigid.",
+            "en": "I can see that. It sounds strong without being rigid.",
             "zh": "這句很有力量，但不會很僵硬。"
           },
           {
@@ -2055,8 +2055,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Good money language should reduce noise, not add to it.",
-            "zh": "很好。好的金錢語言應該減少雜音，不是增加雜音。"
+            "en": "Here is the version I would actually use. Good money language should reduce noise, not add to it.",
+            "zh": "我們把它變得更實用一點。好的金錢語言應該減少雜音，不是增加雜音。"
           }
         ]
       },
@@ -2084,13 +2084,13 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is right. Honest limit setting matters because freedom without limits can turn into chaos very quickly.",
-            "zh": "完全沒錯。誠實界線很重要，因為沒有界線的自由很快就會變成混亂。"
+            "en": "Right, and honest limit setting matters because freedom without limits can turn into chaos very quickly.",
+            "zh": "對，而且誠實界線很重要，因為沒有界線的自由很快就會變成混亂。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds simple but very wise.",
+            "en": "I can see that. It sounds simple but very wise.",
             "zh": "這聽起來很簡單，可是非常有智慧。"
           },
           {
@@ -2143,7 +2143,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right ending for the week.",
+            "en": "That seems like the right ending for the week.",
             "zh": "這感覺真的很適合當這一週的結尾。"
           },
           {

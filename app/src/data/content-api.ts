@@ -22,6 +22,25 @@ export interface QuestionRow {
   structure_hint?: string
 }
 
+export interface ArticleVocabulary {
+  word: string
+  definition: string
+  example?: string
+}
+
+export interface ArticleRow {
+  id: string
+  date_key: string
+  week_number: number
+  day_of_week: number
+  topic: string
+  title: string
+  word_count: number
+  text_en: string
+  text_zh: string
+  vocabulary: ArticleVocabulary[]
+}
+
 export interface EpisodeLine {
   speaker: 'a' | 'b'
   speakerName: string
@@ -76,6 +95,26 @@ export async function fetchEpisode(
     .single()
   if (error || !data) return null
   const row = normalizeEpisodeRow(data)
+  await setCache(cacheKey, row)
+  return row
+}
+
+export async function fetchArticle(
+  weekNumber: number,
+  dayOfWeek: number
+): Promise<ArticleRow | null> {
+  const cacheKey = `article:${weekNumber}:${dayOfWeek}`
+  const cached = await getCache<ArticleRow>(cacheKey)
+  if (cached) return cached
+
+  const { data, error } = await supabase
+    .from('articles')
+    .select('*')
+    .eq('week_number', weekNumber)
+    .eq('day_of_week', dayOfWeek)
+    .single()
+  if (error || !data) return null
+  const row = data as ArticleRow
   await setCache(cacheKey, row)
   return row
 }

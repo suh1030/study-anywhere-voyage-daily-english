@@ -46,19 +46,19 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why meal planning helps. You make the decision on Sunday so you don't have to make it on Wednesday.",
-            "zh": "這就是為什麼飲食計劃有幫助。你在週日做決定，這樣週三就不用再想了。"
+            "zh": "這就是為什麼飲食計畫有幫助。你在週日做決定，這樣週三就不用再想了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Have you always been a planning type? Or did you develop that habit?",
-            "zh": "你一直都是計劃型的人嗎？還是後來養成了這個習慣？"
+            "zh": "你一直都是計畫型的人嗎？還是後來養成了這個習慣？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Developed it. When I lived alone for the first time I wasted a lot of food and money. Necessity taught me to plan.",
-            "zh": "後來養成的。我第一次獨自生活時浪費了很多食物和錢。必要性教會了我計劃。"
+            "zh": "後來養成的。我第一次獨自生活時浪費了很多食物和錢。必要性教會了我計畫。"
           }
         ]
       },
@@ -240,7 +240,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's harder than it sounds. Especially at the desk. I eat while reading email constantly.",
-            "zh": "那比聽起來難。尤其是在桌子旁。我一直一邊讀電子郵件一邊吃飯。"
+            "zh": "那比聽起來難。尤其是在桌子旁。我一直一邊讀email一邊吃飯。"
           },
           {
             "speaker": "a",
@@ -427,8 +427,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Rudeness to service staff is a red flag that's hard to unsee. It reveals something about character under pressure.",
-            "zh": "就是。對服務人員無禮是一個很難忽視的警訊。它揭示了一個人在壓力下的性格。"
+            "en": "Yes, and rudeness to service staff is a red flag that's hard to unsee. It reveals something about character under pressure.",
+            "zh": "對，而且對服務人員無禮是一個很難忽視的警訊。它揭示了一個人在壓力下的性格。"
           }
         ]
       },
@@ -457,7 +457,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you're choosing where to eat, word of mouth still beats any app. Ask colleagues who eat out a lot — they usually know the real spots.",
-            "zh": "選擇去哪裡吃的時候，口耳相傳還是勝過任何應用程式。問常外食的同事——他們通常知道真正的好地方。"
+            "zh": "選擇去哪裡吃的時候，口耳相傳還是勝過任何app。問常外食的同事——他們通常知道真正的好地方。"
           },
           {
             "speaker": "b",
@@ -668,7 +668,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's local knowledge — the kind you only get by living somewhere or knowing locals. Apps can't give you that.",
-            "zh": "那是在地知識——只有住在那裡或認識當地人才能得到的那種知識。應用程式給不了你這個。"
+            "zh": "那是在地知識——只有住在那裡或認識當地人才能得到的那種知識。app給不了你這個。"
           },
           {
             "speaker": "b",
@@ -821,7 +821,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It's experiential knowledge. You understand the pace of life through the street food.",
-            "zh": "那是體驗式知識。你通過街頭食物理解當地的生活節奏。"
+            "zh": "那是體驗式知識。你透過街頭食物理解當地的生活節奏。"
           },
           {
             "speaker": "a",
@@ -985,7 +985,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Your body gives you feedback constantly. The problem is we're not trained to listen to it.",
-            "zh": "就是。你的身體一直在給你反饋。問題是我們沒有被訓練去傾聽它。"
+            "zh": "就是。你的身體一直在給你回饋。問題是我們沒有被訓練去傾聽它。"
           },
           {
             "speaker": "b",
@@ -1038,7 +1038,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That seems like the most sustainable approach for most people. Perfect can be the enemy of good.",
-            "zh": "這對大多數人來說似乎是最可持續的方法。完美可以是好的敵人。"
+            "zh": "這對大多數人來說似乎是最能長期維持的方法。完美可以是好的敵人。"
           },
           {
             "speaker": "b",
@@ -1455,14 +1455,14 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Or the rushed breakfast before a journey. Or the takeout eaten on the floor because there were no chairs yet.",
-            "zh": "就是。或者旅行前匆忙的早餐。或者因為還沒有椅子而坐在地板上吃的外賣。"
+            "en": "There is one quiet detail here: Or the rushed breakfast before a journey. Or the takeout eaten on the floor because there were no chairs yet.",
+            "zh": "這裡有一個常被忽略的地方：或者旅行前匆忙的早餐。或者因為還沒有椅子而坐在地板上吃的外送。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Those imperfect, unplanned meals are sometimes the ones that stick the most.",
-            "zh": "那些不完美、計劃外的飯局有時是留下最深印記的。"
+            "zh": "那些不完美、計畫外的飯局有時是留下最深印記的。"
           },
           {
             "speaker": "a",
@@ -1613,8 +1613,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. A chef who combines Taiwanese and Japanese flavors successfully probably knows both cuisines inside out.",
-            "zh": "就是。一個成功結合台灣和日本風味的廚師可能對兩種料理都瞭若指掌。"
+            "en": "Mostly, yes. A chef who combines Taiwanese and Japanese flavors successfully probably knows both cuisines inside out.",
+            "zh": "大致上是。一個成功結合台灣和日本風味的廚師可能對兩種料理都瞭若指掌。"
           },
           {
             "speaker": "b",
@@ -1767,14 +1767,14 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. You can't easily hate a people whose food you love. It humanizes the abstract.",
+            "en": "Right. You can't easily hate a group of people whose food you love. It humanizes the abstract.",
             "zh": "就是。你很難輕易仇恨一個你愛他們食物的民族。它使抽象的事物人性化。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is that why exchange programs always involve food? Let someone cook for you and you see them differently.",
-            "zh": "這就是為什麼交流計劃總是涉及食物嗎？讓別人為你做飯，你就會以不同的眼光看他們。"
+            "zh": "這就是為什麼交流計畫總是涉及食物嗎？讓別人為你做飯，你就會以不同的眼光看他們。"
           },
           {
             "speaker": "a",
@@ -1786,7 +1786,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the path to world peace runs through the kitchen? I'm only half joking.",
-            "zh": "所以通往世界和平的道路是通過廚房？我只是半開玩笑。"
+            "zh": "所以通往世界和平的路是從廚房開始？我只是半開玩笑。"
           },
           {
             "speaker": "a",
@@ -1908,7 +1908,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "AI recipe generation is becoming a thing. You tell it what you have in the fridge and it creates a recipe.",
-            "zh": "AI 食譜生成正在成為一件事。你告訴它你冰箱裡有什麼，它就創建一個食譜。"
+            "zh": "AI 產生食譜正在成為一件事。你告訴它你冰箱裡有什麼，它就產生一個食譜。"
           },
           {
             "speaker": "a",
@@ -1979,7 +1979,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And yet we have to be careful about moralizing food. People in lower income brackets often don't have the luxury of sustainable choices.",
-            "zh": "但我們必須小心不要對食物道德化。收入較低的人往往沒有可持續選擇的奢侈。"
+            "zh": "但我們必須小心不要對食物道德化。收入較低的人往往沒有能長期維持選擇的奢侈。"
           },
           {
             "speaker": "b",

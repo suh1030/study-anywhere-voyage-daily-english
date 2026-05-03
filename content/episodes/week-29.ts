@@ -21,7 +21,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is very common now. Audio has become the background layer of modern life.",
+            "en": "That's very common now. Audio has become the background layer of modern life.",
             "zh": "這現在很普遍。聲音內容已經變成現代生活的背景層。"
           },
           {
@@ -45,7 +45,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where music and podcasts start to feel like different things. One can just run, the other asks for a bit more attention.",
+            "en": "That's where music and podcasts start to feel like different things. One can just run, the other asks for a bit more attention.",
             "zh": "這就是音樂和 podcast 開始有差異的地方。音樂可以自己跑，podcast 需要多一點注意力。"
           },
           {
@@ -80,7 +80,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why I put on upbeat music when I have a deadline. It is basically self-manipulation.",
+            "en": "That's why I put on upbeat music when I have a deadline. It is basically self-manipulation.",
             "zh": "所以我在有截止期限的時候才會放節奏快的音樂。這基本上是在操控自己。"
           },
           {
@@ -139,8 +139,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. That second version makes the listener want to know more. The label alone rarely does.",
-            "zh": "沒錯。第二種說法會讓聽的人想多了解。光是貼標籤通常沒什麼效果。"
+            "en": "Yes, and that second version makes the listener want to know more. The label alone rarely does.",
+            "zh": "對，而且第二種說法會讓聽的人想多了解。光是貼標籤通常沒什麼效果。"
           },
           {
             "speaker": "b",
@@ -186,7 +186,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels scary. What if I miss something important?",
+            "en": "That is scary. What if I miss something important?",
             "zh": "這感覺很可怕。如果我錯過什麼重要的東西怎麼辦？"
           },
           {
@@ -269,8 +269,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Attention is finite. Whatever you fill it with becomes part of how you think.",
-            "zh": "正是。注意力是有限的。你用什麼來填充它，就會成為你思考方式的一部分。"
+            "en": "Yes, and that is the key. Attention is finite. Whatever you fill it with becomes part of how you think.",
+            "zh": "這裡是我想特別畫線的地方。注意力是有限的。你用什麼來填充它，就會成為你思考方式的一部分。"
           }
         ]
       }
@@ -368,7 +368,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a nicer way to think about it than \"I was using music like medication.\"",
+            "en": "That's a nicer way to think about it than \"I was using music like medication.\"",
             "zh": "這比「我在把音樂當藥用」這種說法好聽多了。"
           },
           {
@@ -421,7 +421,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is actually a useful check. I will try paying attention to how I feel after the song ends, not just during.",
+            "en": "That's actually a useful check. I will try paying attention to how I feel after the song ends, not just during.",
             "zh": "這是個很有用的檢視方式。我會試著注意歌結束之後的感覺，而不只是聽歌的時候。"
           },
           {
@@ -568,7 +568,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why certain songs feel too heavy to play casually. There is too much attached to them.",
+            "en": "That's why certain songs feel too heavy to play casually. There is too much attached to them.",
             "zh": "所以某些歌感覺不能隨便放。它們承載的東西太多了。"
           },
           {
@@ -580,7 +580,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is one of the more beautiful things you have said about something I thought was just noise I put on.",
+            "en": "That's one of the more beautiful things you have said about something I thought was just noise I put on.",
             "zh": "這是你說過的關於一件我以為只是隨便放的背景噪音的事情中，最美的一句。"
           },
           {
@@ -726,7 +726,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is uncomfortably accurate. I think I want exclusivity, not just quality.",
+            "en": "That's uncomfortably accurate. I think I want exclusivity, not just quality.",
             "zh": "這準到讓人不舒服。我想我要的是獨佔性，不只是品質。"
           },
           {
@@ -767,7 +767,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much more real than listing genres like a resume.",
+            "en": "I can see that. It sounds much more real than listing genres like a resume.",
             "zh": "這比像履歷一樣列出曲風聽起來真實多了。"
           },
           {
@@ -886,7 +886,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a sharp observation. The artists you used to love but cannot listen to anymore often mark something you have outgrown.",
+            "en": "That's a sharp observation. The artists you used to love but cannot listen to anymore often mark something you have outgrown.",
             "zh": "這是個很銳利的觀察。你曾經喜歡卻再也聽不下去的藝人，往往標誌著你已經超越的某樣東西。"
           },
           {
@@ -1038,7 +1038,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Like pause and summarize out loud? That feels strange to do alone.",
+            "en": "Like pause and summarize out loud? That sounds strange to do alone.",
             "zh": "像是暫停然後大聲複述重點？一個人這樣做感覺很奇怪。"
           },
           {
@@ -1050,7 +1050,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds manageable. Even on a commute, I could type one sentence into my notes app.",
+            "en": "I can see that. It sounds manageable. Even on a commute, I could type one sentence into my notes app.",
             "zh": "這聽起來是可以做到的。就算是通勤時，我也可以把一句話打進備忘錄。"
           },
           {
@@ -1132,7 +1132,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I usually just look at the episode count and assume more episodes means better. That is probably wrong.",
+            "en": "I usually just look at the episode count and assume more episodes means better. That is probably not the best shortcut.",
             "zh": "我通常只看集數，然後假設集數越多越好。這大概是錯的。"
           },
           {
@@ -1156,14 +1156,14 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the whole approach changes once you see it that way.",
-            "zh": "一旦這樣看，整個做法都跟著變了。"
+            "en": "So the whole approach changes once you see it that way. Tell me if I am smoothing over the hard part.",
+            "zh": "一旦這樣看，整個做法都跟著變了。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. If the middle episode holds your attention without any introduction, the show is doing its job.",
-            "zh": "沒錯。如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
+            "en": "There is one quiet detail here: If the middle episode holds your attention without any introduction, the show is doing its job.",
+            "zh": "這裡有一個常被忽略的地方：如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
           }
         ]
       },
@@ -1179,7 +1179,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a real effect. Sustained exposure to articulate speech actually improves how you form thoughts. It is not imaginary.",
+            "en": "That's a real effect. Sustained exposure to articulate speech actually improves how you form thoughts. It is not imaginary.",
             "zh": "這是真實的效果。持續接觸說話清晰的表達，確實會改善你組織想法的方式。這不是想像。"
           },
           {
@@ -1197,7 +1197,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That means choosing what I listen to is also choosing how I think. That feels like a significant responsibility.",
+            "en": "That means choosing what I listen to is also choosing how I think. That seems like a significant responsibility.",
             "zh": "這意味著選擇我聽什麼，也是在選擇我怎麼思考。這感覺是很大的責任。"
           },
           {
@@ -1349,8 +1349,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
-            "zh": "沒錯。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。"
+            "en": "Mostly, yes. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
+            "zh": "大致上是。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。"
           },
           {
             "speaker": "b",
@@ -1362,7 +1362,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a skill. And like most skills, you can rebuild it gradually with small doses of intentional quiet time.",
-            "zh": "它確實是一種技能。而且和大多數技能一樣，你可以通過小劑量的、有意圖的安靜時間，逐漸把它重建起來。"
+            "zh": "它確實是一種技能。而且和大多數技能一樣，你可以透過小劑量的、有意圖的安靜時間，逐漸把它重建起來。"
           },
           {
             "speaker": "b",
@@ -1426,7 +1426,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a very human use of audio — creating the social feeling of a space without the actual people.",
+            "en": "That's a very human use of audio — creating the social feeling of a space without the actual people.",
             "zh": "這是非常人性的聲音使用方式——創造出一個空間的社交感，卻不需要真正的人在場。"
           }
         ]
@@ -1444,7 +1444,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start by auditing one week. Write down what you actually listened to versus what you planned to listen to.",
-            "zh": "從審計一週開始。把你實際上聽了什麼，和你計劃要聽什麼，都寫下來。"
+            "zh": "從審計一週開始。把你實際上聽了什麼，和你計畫要聽什麼，都寫下來。"
           },
           {
             "speaker": "b",
@@ -1625,7 +1625,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is music as a memory of friendship. It is also a low-key way of saying, \"I have been paying attention.\"",
+            "en": "That's music as a memory of friendship. It is also a low-key way of saying, \"I have been paying attention.\"",
             "zh": "那是音樂作為友誼記憶的方式。這也是一種低調的方式說「我一直有在注意你」。"
           },
           {
@@ -1755,12 +1755,12 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I feel like I discover most of my favorite music through other people, not algorithms.",
-            "zh": "我覺得我發現大多數自己最喜歡的音樂，是通過其他人，不是透過演算法。"
+            "zh": "我覺得我發現大多數自己最喜歡的音樂，是透過其他人，不是透過演算法。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is still how most meaningful discovery happens. A personal recommendation carries context that an algorithm cannot replicate.",
+            "en": "That's still how most meaningful discovery happens. A personal recommendation carries context that an algorithm cannot replicate.",
             "zh": "大多數有意義的發現仍然是這樣發生的。個人推薦帶有演算法無法複製的脈絡。"
           },
           {
@@ -1772,8 +1772,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
-            "zh": "沒錯。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
+            "en": "That is the point to remember. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
+            "zh": "這裡是我想特別畫線的地方。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
           },
           {
             "speaker": "b",
@@ -1838,8 +1838,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why I cry at concerts sometimes and I am not quite sure what I am crying about.",
-            "zh": "這就是為什麼我有時候在演唱會上哭，卻不太確定自己在哭什麼。"
+            "en": "That's why I cry at concerts sometimes and I am not quite sure what I am crying about.",
+            "zh": "也就是為什麼我有時候在演唱會上哭，卻不太確定自己在哭什麼。"
           },
           {
             "speaker": "a",
@@ -1913,7 +1913,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is hearing, not listening. The album became ambient. You were present in the room but not in the music.",
+            "en": "That's hearing, not listening. The album became ambient. You were present in the room but not in the music.",
             "zh": "那是在聽見，不是在聆聽。那張專輯變成了環境音。你在房間裡，但你不在音樂裡。"
           },
           {
@@ -1966,7 +1966,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is partly a habit and partly the result of years of multitasking. The brain learned that audio is background, not foreground.",
+            "en": "That's partly a habit and partly the result of years of multitasking. The brain learned that audio is background, not foreground.",
             "zh": "這一部分是習慣，一部分是多年多工處理的結果。大腦學會了聲音是背景，不是前景。"
           },
           {
@@ -2078,7 +2078,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost radical given how fragmented my current listening is.",
+            "en": "I can see that. It sounds almost radical given how fragmented my current listening is.",
             "zh": "考慮到我目前聆聽方式有多碎片化，這聽起來幾乎是激進的。"
           },
           {
@@ -2102,13 +2102,13 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the practice could just be taking a walk and listening to a whole album instead of a playlist.",
-            "zh": "所以這個練習可以只是去散步，然後聽完整一張專輯，而不是播放清單。"
+            "en": "So the practice could just be taking a walk and listening to a whole album instead of a playlist. Does that match what you mean?",
+            "zh": "所以這個練習可以只是去散步，然後聽完整一張專輯，而不是播放清單。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is it. No app, no technique, no journal required. Just the walk and the music.",
+            "en": "That's it. No app, no technique, no journal required. Just the walk and the music.",
             "zh": "就這樣。不需要任何 App、技巧，或日記。只要散步和音樂。"
           }
         ]
@@ -2138,7 +2138,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They are connected through attention. Anything that trains you to stay present in one area makes you better at staying present in others.",
-            "zh": "它們通過注意力連結。任何訓練你在一個領域保持當下的事情，都會讓你在其他領域也更好地保持當下。"
+            "zh": "它們透過注意力連結。任何訓練你在一個領域保持當下的事情，都會讓你在其他領域也更好地保持當下。"
           },
           {
             "speaker": "b",

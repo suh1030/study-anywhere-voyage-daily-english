@@ -21,7 +21,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is usually the first sign. You are not using the device anymore. The device is using your habit.",
+            "en": "That's usually the first sign. You are not using the device anymore. The device is using your habit.",
             "zh": "那通常是第一個訊號。你不再是在使用裝置，而是裝置在使用你的習慣。"
           },
           {
@@ -74,7 +74,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because every convenience comes with a cost that is easy to miss. The cost is usually your attention, your time, or your sense of quiet.",
+            "en": "That's because every convenience comes with a cost that is easy to miss. The cost is usually your attention, your time, or your sense of quiet.",
             "zh": "因為每一種方便都附帶一個很容易被忽略的代價，而那個代價通常是你的注意力、你的時間，或者你的安靜感。"
           },
           {
@@ -133,7 +133,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is simple. I expected something more complicated.",
+            "en": "That's simple. I expected something more complicated.",
             "zh": "這很簡單，我以為會更複雜。"
           },
           {
@@ -163,7 +163,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the tone that works best for topics like this. Direct and calm tends to land better than frustrated or apologetic.",
+            "en": "That's the tone that works best for topics like this. Direct and calm tends to land better than frustrated or apologetic.",
             "zh": "那是這類主題最有效果的語氣。直接而冷靜，通常比憤怒或道歉的語氣更能讓人聽進去。"
           }
         ]
@@ -186,7 +186,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost too small.",
+            "en": "I can see that. It sounds almost too small.",
             "zh": "這聽起來幾乎小到不像是個辦法。"
           },
           {
@@ -216,8 +216,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. Willpower runs out. Experience of something better is what actually changes a pattern.",
-            "zh": "沒錯。意志力會耗盡，體驗到更好的感覺，才是真正改變模式的東西。"
+            "en": "Yes, and willpower runs out. Experience of something better is what actually changes a pattern.",
+            "zh": "對，而且意志力會耗盡，體驗到更好的感覺，才是真正改變模式的東西。"
           }
         ]
       },
@@ -251,7 +251,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much cleaner test than trying to set a time limit and stick to it.",
+            "en": "That's a much cleaner test than trying to set a time limit and stick to it.",
             "zh": "這比試圖設定時間限制然後堅守它，是更清楚的一個測驗。"
           },
           {
@@ -338,13 +338,13 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is called phantom vibration. It is a real thing and it usually means your nervous system has been trained to expect interruptions.",
+            "en": "That's called phantom vibration. It is a real thing and it usually means your nervous system has been trained to expect interruptions.",
             "zh": "那叫做幻震，是真實存在的，通常代表你的神經系統已經被訓練成預期隨時會有打擾。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is kind of disturbing to think about.",
+            "en": "I like that; it is kind of disturbing to think about.",
             "zh": "這樣想的話有點令人不安。"
           },
           {
@@ -415,7 +415,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly how a lot of office workers describe their days. Busy but not particularly productive.",
+            "en": "That's exactly how a lot of office workers describe their days. Busy but not particularly productive.",
             "zh": "這正是很多上班族描述他們的一天的方式，很忙，但沒什麼特別的成效。"
           },
           {
@@ -462,7 +462,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very natural. What about asking someone to hold off on sending messages?",
+            "en": "I can see that. It sounds very natural. What about asking someone to hold off on sending messages?",
             "zh": "這聽起來非常自然。如果要請人暫時不要傳訊息怎麼說？"
           },
           {
@@ -545,8 +545,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a useful frame. Attention is finite and it gets spent whether you plan it or not.",
-            "zh": "那是個很有用的框架。注意力是有限的，而且無論你有沒有計劃，它都在被消耗。"
+            "en": "I like that as a useful frame. Attention is finite and it gets spent whether you plan it or not.",
+            "zh": "那是個很有用的框架。注意力是有限的，而且無論你有沒有計畫，它都在被消耗。"
           },
           {
             "speaker": "b",
@@ -569,7 +569,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly it. And once you notice where the attention is leaking, the choices become much more obvious.",
+            "en": "That's exactly it. And once you notice where the attention is leaking, the choices become much more obvious.",
             "zh": "就是這樣。而一旦你注意到注意力從哪裡流失，選擇就會變得清楚很多。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the thing about convenience. Each decision feels isolated, so you never really add them up until the credit card bill arrives.",
+            "en": "That's the thing about convenience. Each decision feels isolated, so you never really add them up until the credit card bill arrives.",
             "zh": "這就是方便的問題所在。每個決定感覺都是獨立的，所以你從來沒有真正把它們加總，直到信用卡帳單到了。"
           },
           {
@@ -686,7 +686,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the right question. Convenience tools are not the problem. Using them on autopilot is.",
+            "en": "That's the right question. Convenience tools are not the problem. Using them on autopilot is.",
             "zh": "這是對的問題。方便工具本身不是問題，用自動駕駛模式使用它們才是。"
           }
         ]
@@ -727,7 +727,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a trade you made without realizing it. GPS meant you never had to remember addresses. Speed dial meant you never had to remember numbers.",
+            "en": "That's a trade you made without realizing it. GPS meant you never had to remember addresses. Speed dial meant you never had to remember numbers.",
             "zh": "那是你在沒有意識到的情況下做的交換。GPS 讓你不需要記地址，快速撥號讓你不需要記號碼。"
           },
           {
@@ -792,8 +792,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
-            "zh": "沒錯。當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
+            "en": "A small thing matters here: When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
+            "zh": "這裡有一個常被忽略的地方：當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
           }
         ]
       },
@@ -886,8 +886,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.",
-            "zh": "沒錯。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。"
+            "en": "Mostly, yes. When a tool fits your values, you feel in control. When it does not, you feel vaguely drained even if you cannot name why.",
+            "zh": "大致上是。當一個工具符合你的價值觀時，你感覺在掌控中。當它不符合時，即使你說不清楚原因，你也會隱隱約約感到被消耗。"
           },
           {
             "speaker": "b",
@@ -967,8 +967,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is impressive technology. But I am always curious about what happens when the system goes down. Or what happens when you realize the house is optimized for the average version of your day, not the actual one.",
-            "zh": "那是令人印象深刻的科技。但我總是好奇當系統當機時會發生什麼，或者當你意識到那個家是為你平均的一天優化的，而不是你實際的那一天。"
+            "en": "That's impressive technology. But I am always curious about what happens when the system goes down. Or what happens when you realize the house is optimized for the average version of your day, not the actual one.",
+            "zh": "那是令人印象深刻的科技。但我總是好奇當系統當機時會發生什麼，或者當你意識到那個家是為你平均的一天最佳化的，而不是你實際的那一天。"
           },
           {
             "speaker": "b",
@@ -1224,7 +1224,7 @@ export const WEEK_35: Episode[] = [
     "keyPhrases": [
       {
         "en": "optimized",
-        "zh": "優化的",
+        "zh": "最佳化的",
         "example": "The smart home was optimized for her average schedule, but it struggled to adapt on unusual days."
       },
       {
@@ -1302,7 +1302,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is actually a bit reassuring.",
+            "en": "That's actually a bit reassuring.",
             "zh": "這其實有點讓人放心。"
           },
           {
@@ -1414,7 +1414,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the tone to aim for. \"I prefer\" or \"I am trying to\" sounds like a decision you made, not a complaint about others.",
+            "en": "That's the tone to aim for. \"I prefer\" or \"I am trying to\" sounds like a decision you made, not a complaint about others.",
             "zh": "那是你要瞄準的語氣，「我偏好」或「我正在試著」聽起來像是你做的決定，而不是對別人的抱怨。"
           },
           {
@@ -1461,7 +1461,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much cleaner test than just asking if I like something.",
+            "en": "That's a much cleaner test than just asking if I like something.",
             "zh": "這比只問我是否喜歡某樣東西清楚多了。"
           },
           {
@@ -1666,7 +1666,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is often the case. New technology is sometimes solving a problem the previous generation of tools already solved, just in a more polished way.",
+            "en": "That's often the case. New technology is sometimes solving a problem the previous generation of tools already solved, just in a more polished way.",
             "zh": "這通常是這樣。新科技有時候是在解決上一代工具已經解決的問題，只是以更精緻的方式。"
           },
           {
@@ -1725,13 +1725,13 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds thoughtful, not defensive.",
+            "en": "I can see that. It sounds thoughtful, not defensive.",
             "zh": "這聽起來很有考慮，不是在防衛。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the goal. You want to sound like someone who made a deliberate decision, not someone who is resisting change.",
+            "en": "That's the goal. You want to sound like someone who made a deliberate decision, not someone who is resisting change.",
             "zh": "那就是目標，你想聽起來像是做了一個深思熟慮的決定的人，而不是在抗拒改變的人。"
           },
           {
@@ -1743,8 +1743,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
-            "zh": "沒錯，它顯示你不是在否定那個工具，你只是在說它不適合你目前的情況。"
+            "en": "Yes. That is the important shift. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
+            "zh": "這裡是我想特別畫線的地方。"
           }
         ]
       },
@@ -1784,14 +1784,14 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how tool stacks get bloated. Each one seemed reasonable at the time. Together they create a system that is harder than the problems it was supposed to solve.",
+            "en": "That's how tool stacks get bloated. Each one seemed reasonable at the time. Together they create a system that is harder than the problems it was supposed to solve.",
             "zh": "這就是工具組合如何變得臃腫的，每一個在當時看起來都合理，加在一起創造了一個比它應該解決的問題更複雜的系統。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the best technology stack is probably the smallest one that actually gets the job done.",
-            "zh": "所以最好的工具組合大概是能真正完成工作的最小一個。"
+            "en": "So the best technology stack is probably the smallest one that actually gets the job done. Is the simple version too simple?",
+            "zh": "所以最好的工具組合大概是能真正完成工作的最小一個。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1808,7 +1808,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is an interesting read. Say more.",
+            "en": "I like that as an interesting read. Say more.",
             "zh": "這是個有趣的解讀，再說說看。"
           },
           {
@@ -1990,7 +1990,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a good way to put it. Technology without edges does not feel like a tool anymore. It feels like the whole room.",
+            "en": "I like that as a good way to put it. Technology without edges does not feel like a tool anymore. It feels like the whole room.",
             "zh": "這是個很好的說法，沒有邊界的科技感覺不再像工具了，它感覺像整個房間。"
           },
           {
@@ -2031,8 +2031,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it works. People trust someone who is still in the middle of figuring something out more than someone who claims to have all the answers.",
-            "zh": "這就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。"
+            "en": "That's why it works. People trust someone who is still in the middle of figuring something out more than someone who claims to have all the answers.",
+            "zh": "也就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a specific enough detail to be interesting without oversharing.",
+            "en": "That's a specific enough detail to be interesting without oversharing.",
             "zh": "這個細節夠具體有趣，但沒有過度分享。"
           },
           {
@@ -2108,7 +2108,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly how it works. You are not fighting the habit. You are teaching yourself a different feeling is possible.",
+            "en": "That's exactly how it works. You are not fighting the habit. You are teaching yourself a different feeling is possible.",
             "zh": "這正是它的運作方式，你不是在對抗習慣，而是在教自己不同的感覺是可能的。"
           }
         ]
@@ -2149,7 +2149,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is it. Not optimal. Not maximally productive. Just genuinely yours, with technology as the tool, not the landlord.",
+            "en": "That's it. Not optimal. Not maximally productive. Just genuinely yours, with technology as the tool, not the landlord.",
             "zh": "就是這樣，不是最優的，不是最有生產力的，只是真正是你的，科技是工具，而不是房東。"
           },
           {

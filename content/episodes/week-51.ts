@@ -80,8 +80,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the body often knows before the narrative catches up.",
-            "zh": "所以身體常常比故事先知道。"
+            "en": "So the body often knows before the narrative catches up. Is the simple version too simple?",
+            "zh": "所以身體常常比故事先知道。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -92,7 +92,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is sharp in the painful way.",
+            "en": "That's sharp in the painful way.",
             "zh": "這種準法是會痛的。"
           },
           {
@@ -192,8 +192,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. The deeper want may not be the title. It may be agency, respect, or work that feels less fragmented.",
-            "zh": "沒錯。更深的想要，也許不是那個 title，而是更有自主感、更被尊重，或做比較不那麼碎裂的工作。"
+            "en": "Yes, and the deeper want may not be the title. It may be agency, respect, or work that feels less fragmented.",
+            "zh": "對，而且更深的想要，也許不是那個 title，而是更有自主感、更被尊重，或做比較不那麼碎裂的工作。"
           },
           {
             "speaker": "b",
@@ -216,7 +216,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly the move many people need.",
+            "en": "That's exactly the move many people need.",
             "zh": "很多人最需要的，真的就是這個轉向。"
           },
           {
@@ -241,7 +241,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is important because real goals need sustainability, not only intensity. If a goal only works under perfect motivation, it is too fragile.",
-            "zh": "它很重要，因為真的 goal 需要的是可持續，不是只有 intensity。如果一個目標只在你狀態完美時才成立，它就太脆了。"
+            "zh": "它很重要，因為真的 goal 需要的是能長期維持，不是只有 intensity。如果一個目標只在你狀態完美時才成立，它就太脆了。"
           },
           {
             "speaker": "b",
@@ -398,13 +398,13 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
-            "zh": "沒錯。另一個問題是：每一次 setback 都會變得像 identity collapse，因為那個 goal 扛了太多整個人生故事。"
+            "en": "I would pay attention to this: Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
+            "zh": "這裡有一個常被忽略的地方：另一個問題是：每一次 setback 都會變得像 identity collapse，因為那個 goal 扛了太多整個人生故事。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds emotionally dangerous.",
+            "en": "I can see that. It sounds emotionally dangerous.",
             "zh": "這在情緒上聽起來很危險。"
           },
           {
@@ -439,7 +439,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another natural option is, \"The goal matters, but the life behind the goal matters more.\" It is simple and clear.",
+            "en": "Another option that still sounds natural is, \"The goal matters, but the life behind the goal matters more.\" It is simple and clear.",
             "zh": "一句很好用的是：「The goal matters, but the life behind the goal matters more.」這句很簡單，也很清楚。"
           },
           {
@@ -504,8 +504,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
-            "zh": "沒錯。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。"
+            "en": "Mostly, yes. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
+            "zh": "大致上是。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。"
           },
           {
             "speaker": "b",
@@ -575,7 +575,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a wise ending.",
+            "en": "That seems like a wise ending.",
             "zh": "這是一個很有智慧的 ending。"
           },
           {
@@ -709,8 +709,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the best habit is not the most ambitious one.",
-            "zh": "所以最好的 habit 不是最 ambitious 的那個。"
+            "en": "So the best habit is not the most ambitious one. Is that too tidy a way to put it?",
+            "zh": "所以最好的 habit 不是最 ambitious 的那個。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -739,8 +739,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Each repetition tells the self what kind of person it is becoming.",
-            "zh": "沒錯。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
+            "en": "That is the piece I want learners to notice. Each repetition tells the self what kind of person it is becoming.",
+            "zh": "這裡是我想特別畫線的地方。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
           }
         ]
       },
@@ -768,7 +768,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You might also say, \"The habit only became real once it became part of the rhythm of my day.\" That works very well for daily practice.",
+            "en": "You might put it this way: \"The habit only became real once it became part of the rhythm of my day.\" That works very well for daily practice.",
             "zh": "另一句也很好，就是「那個習慣真正成形，是在它變成我每天節奏的一部分之後。」這句很適合拿來談每天穩定累積的練習。"
           },
           {
@@ -875,7 +875,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a great way to say it.",
+            "en": "I like that as a great way to say it.",
             "zh": "這個說法很好。"
           },
           {
@@ -887,7 +887,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a strong ending for this episode.",
+            "en": "I like that as a strong ending for this episode.",
             "zh": "這是這集很強的 ending。"
           },
           {
@@ -1068,13 +1068,13 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"I am still figuring out what kind of work feels both honest and sustainable for me.\" That sounds mature and realistic.",
+            "en": "You could keep it simple and say, \"I am still figuring out what kind of work feels both honest and sustainable for me.\" That sounds mature and realistic.",
             "zh": "一句很好用的是：「I am still figuring out what kind of work feels both honest and sustainable for me.」這句很成熟，也很現實。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much better than pretending certainty.",
+            "en": "That sounds much better than pretending certainty.",
             "zh": "這句比假裝自己很確定好多了。"
           },
           {
@@ -1104,8 +1104,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It helps people talk about ambition without losing honesty.",
-            "zh": "很好。它會幫人談 ambition，同時又不失去誠實。"
+            "en": "Think of a real moment. It helps people talk about ambition without losing honesty.",
+            "zh": "我們把它變得更實用一點。它會幫人談 ambition，同時又不失去誠實。"
           }
         ]
       },
@@ -1139,7 +1139,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually sharp idea.",
+            "en": "That's an unusually sharp idea.",
             "zh": "這個想法很 sharp。"
           },
           {
@@ -1186,13 +1186,13 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
-            "zh": "沒錯。如果一個 calling 把整個 self 都吞掉，它就不再像意義，而比較像囚禁。"
+            "en": "There is one quiet detail here: If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
+            "zh": "這裡有一個常被忽略的地方：如果一個 calling 把整個 self 都吞掉，它就不再像意義，而比較像囚禁。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is honestly an important warning.",
+            "en": "That's honestly an important warning.",
             "zh": "這真的是很重要的 warning。"
           },
           {
@@ -1279,7 +1279,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is one of the most damaging misunderstandings. Real resilience is not constant strength. It is the ability to recover, reorganize, and keep returning after disruption.",
+            "en": "That's one of the most damaging misunderstandings. Real resilience is not constant strength. It is the ability to recover, reorganize, and keep returning after disruption.",
             "zh": "那是最傷人的誤解之一。真正的 resilience 不是一直很強，而是你能在被打亂後恢復、重整，然後繼續回來。"
           },
           {
@@ -1291,8 +1291,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
-            "zh": "沒錯。事情真的發生了，而 resilience 是一邊尊重那個 impact，一邊仍然找回往前走的路。"
+            "en": "Mostly, yes. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
+            "zh": "大致上是。事情真的發生了，而 resilience 是一邊尊重那個 impact，一邊仍然找回往前走的路。"
           },
           {
             "speaker": "b",
@@ -1338,8 +1338,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the way back is often built from small re-entry points.",
-            "zh": "所以回來的路，很多時候是靠很小的 re-entry point 搭出來的。"
+            "en": "So the way back is often built from small re-entry points. Am I skipping the messy part?",
+            "zh": "所以回來的路，很多時候是靠很小的 re-entry point 搭出來的。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1350,7 +1350,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels so much more realistic.",
+            "en": "That seems so much more realistic.",
             "zh": "這樣真的現實多了。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds honest and strong at the same time.",
+            "en": "I can see that. It sounds honest and strong at the same time.",
             "zh": "這句同時很誠實，也很有力。"
           },
           {
@@ -1415,7 +1415,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is so useful.",
+            "en": "That's so useful.",
             "zh": "這句很有用。"
           },
           {
@@ -1468,7 +1468,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really good definition.",
+            "en": "That's a really good definition.",
             "zh": "這個定義很好。"
           },
           {
@@ -1509,7 +1509,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels deeply humane.",
+            "en": "That is deeply humane.",
             "zh": "這感覺很有人味。"
           },
           {
@@ -1521,7 +1521,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the right ending for this topic.",
+            "en": "That's the right ending for this topic.",
             "zh": "這個 ending 很適合這個 topic。"
           },
           {
@@ -1608,8 +1608,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. A healthy future orientation leaves room for direction without demanding total certainty.",
-            "zh": "沒錯。健康地看未來，是有方向，但不要求完全確定。"
+            "en": "Yes, and that is the key. A healthy future orientation leaves room for direction without demanding total certainty.",
+            "zh": "這裡是我想特別畫線的地方。健康地看未來，是有方向，但不要求完全確定。"
           },
           {
             "speaker": "b",
@@ -1708,7 +1708,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very adult.",
+            "en": "I can see that. It sounds very adult.",
             "zh": "這句很成熟。"
           },
           {
@@ -1821,7 +1821,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really humane way to see planning.",
+            "en": "That's a really humane way to see planning.",
             "zh": "這是一個很有人味的 planning 觀點。"
           },
           {
@@ -1833,7 +1833,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the right ending for this episode.",
+            "en": "That's the right ending for this episode.",
             "zh": "這很適合當這集的 ending。"
           },
           {
@@ -1926,7 +1926,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds less exciting, but probably more true.",
+            "en": "I can see that. It sounds less exciting, but probably more true.",
             "zh": "這聽起來比較不 exciting，但大概更真。"
           },
           {
@@ -1967,8 +1967,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the quality of a year is not only measured by achievements.",
-            "zh": "所以一個 year 的品質，不是只靠 achievements 來量。"
+            "en": "So the quality of a year is not only measured by achievements. I am not sure if that covers the messy middle.",
+            "zh": "所以一個 year 的品質，不是只靠 achievements 來量。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1997,8 +1997,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It should.",
-            "zh": "很好。它本來就該被重新定義。"
+            "en": "If you were saying this to someone, you might start here. It should.",
+            "zh": "我們把它變得更實用一點。它本來就該被重新定義。"
           }
         ]
       },
@@ -2014,13 +2014,13 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, \"I am trying to create conditions that will help the better version of me show up more often.\" That sounds thoughtful and realistic.",
+            "en": "You could keep it simple and say, \"I am trying to create conditions that will help the better version of me show up more often.\" That sounds thoughtful and realistic.",
             "zh": "一句很好用的是：「I am trying to create conditions that will help the better version of me show up more often.」這句很有思考，也很現實。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much wiser than \"I am going to become perfect overnight.\"",
+            "en": "I can see that. It sounds much wiser than \"I am going to become perfect overnight.\"",
             "zh": "這句比「我現在就要一夜之間變完美」聰明多了。"
           },
           {
@@ -2085,7 +2085,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like a concrete picture.",
+            "en": "That works as a concrete picture.",
             "zh": "這個畫面很具體。"
           },
           {
@@ -2132,25 +2132,25 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Good setup is one of the most compassionate things a person can build for themselves.",
-            "zh": "沒錯。好的準備，其實是人能替自己建造的最有同情心的東西之一。"
+            "en": "The easy mistake is to forget this: Good setup is one of the most compassionate things a person can build for themselves.",
+            "zh": "這裡有一個常被忽略的地方：好的準備，其實是人能替自己建造的最有同情心的東西之一。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a beautiful way to end this week.",
+            "en": "I like that as a beautiful way to end this week.",
             "zh": "這是個很美的結尾。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. It says hope does not only live in vision. It also lives in preparation.",
-            "zh": "我也這樣覺得。它像是在說：希望不只活在想像裡，也活在準備裡。"
+            "en": "Mostly, yes. It says hope does not only live in vision. It also lives in preparation.",
+            "zh": "大致上是。它像是在說：希望不只活在想像裡，也活在準備裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the kind of ending I wanted.",
+            "en": "That's exactly the kind of ending I wanted.",
             "zh": "這就是我想要的那種收尾。"
           },
           {
@@ -2186,7 +2186,7 @@ export const WEEK_51: Episode[] = [
       {
         "en": "inside growth year",
         "zh": "外面不一定很壯觀，但內在長很多的一年",
-        "example": "It looked quiet from outside, but it was an inside growth year."
+        "example": "It looked quiet from the outside, but it was an inside growth year."
       },
       {
         "en": "a rhythm that can carry it",

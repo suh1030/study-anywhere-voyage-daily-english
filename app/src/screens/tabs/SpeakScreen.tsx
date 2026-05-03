@@ -15,8 +15,7 @@ import * as Speech from 'expo-speech'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
 import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
-import { fetchEpisode, fetchQuestion, type EpisodeRow, type QuestionRow } from '../../data/content-api'
-import { buildSpeakPractice } from '../../data/speak-practice'
+import { fetchArticle, fetchQuestion, type ArticleRow, type QuestionRow } from '../../data/content-api'
 import { useCurriculumStore } from '../../stores/curriculumStore'
 
 function IconSpeak({ color }: { color: string }) {
@@ -38,10 +37,30 @@ function IconSpeak({ color }: { color: string }) {
   )
 }
 
+function htmlToParagraphs(value: string): string[] {
+  const matches = String(value ?? '').match(/<p>.*?<\/p>/gs)
+  const source = matches && matches.length > 0 ? matches : [String(value ?? '')]
+
+  return source
+    .map((paragraph) =>
+      paragraph
+        .replace(/<\/p>\s*<p>/g, '\n')
+        .replace(/<[^>]+>/g, '')
+        .replace(/&mdash;/g, '—')
+        .replace(/&ndash;/g, '–')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&amp;/g, '&')
+        .replace(/\s+/g, ' ')
+        .trim(),
+    )
+    .filter(Boolean)
+}
+
 export default function SpeakScreen() {
   const { navigate } = useNav()
   const { schedule, loading: scheduleLoading } = useCurriculumStore()
-  const [episode, setEpisode] = useState<EpisodeRow | null>(null)
+  const [article, setArticle] = useState<ArticleRow | null>(null)
   const [question, setQuestion] = useState<QuestionRow | null>(null)
   const [loading, setLoading] = useState(true)
   const [showChinese, setShowChinese] = useState(false)
@@ -55,7 +74,14 @@ export default function SpeakScreen() {
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
   const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
 
-  const practice = episode ? buildSpeakPractice(episode, question) : null
+  const articleParagraphs = React.useMemo(
+    () => (article ? htmlToParagraphs(article.text_en) : []),
+    [article],
+  )
+  const articleParagraphsZh = React.useMemo(
+    () => (article ? htmlToParagraphs(article.text_zh) : []),
+    [article],
+  )
   const isSpeaking = activeSegment >= 0
 
   useEffect(() => {
@@ -63,7 +89,7 @@ export default function SpeakScreen() {
 
     const entry = getScheduleEntry(schedule, getTodayKey())
     if (!entry) {
-      setEpisode(null)
+      setArticle(null)
       setQuestion(null)
       setLoading(false)
       return
@@ -71,10 +97,10 @@ export default function SpeakScreen() {
 
     setLoading(true)
     Promise.all([
-      fetchEpisode(entry.week, entry.dayOfWeek),
+      fetchArticle(entry.week, entry.dayOfWeek),
       fetchQuestion(entry.week, entry.dayOfWeek),
-    ]).then(([episodeData, questionData]) => {
-      setEpisode(episodeData)
+    ]).then(([articleData, questionData]) => {
+      setArticle(articleData)
       setQuestion(questionData)
       setLoading(false)
     })
@@ -85,17 +111,17 @@ export default function SpeakScreen() {
 
   // Speak the active segment whenever activeSegment changes
   useEffect(() => {
-    if (activeSegment < 0 || !practice) {
+    if (activeSegment < 0 || !articleParagraphs.length) {
       Speech.stop()
       return
     }
-    if (activeSegment >= practice.segments.length) return
+    if (activeSegment >= articleParagraphs.length) return
 
-    const segment = practice.segments[activeSegment]
+    const paragraph = articleParagraphs[activeSegment]
     Speech.stop()
-    Speech.speak(segment.en, {
+    Speech.speak(paragraph, {
       language: 'en-US',
-      rate: 0.9,
+      rate: 0.86,
       onDone: () => {
         if (manuallyStopped.current) {
           manuallyStopped.current = false
@@ -103,11 +129,11 @@ export default function SpeakScreen() {
         }
         setActiveSegment((p) => {
           const next = p + 1
-          return next < practice.segments.length ? next : -1
+          return next < articleParagraphs.length ? next : -1
         })
       },
     })
-  }, [activeSegment, practice])
+  }, [activeSegment, articleParagraphs])
 
   // Detect playback finishing
   useEffect(() => {
@@ -184,11 +210,11 @@ export default function SpeakScreen() {
     )
   }
 
-  if (!practice) {
+  if (!article) {
     return (
       <SafeAreaView style={styles.container} edges={[]}>
         <View style={styles.centered}>
-          <Text style={styles.emptyTitle}>No speaking practice today</Text>
+          <Text style={styles.emptyTitle}>No article today</Text>
           <Text style={styles.emptyHint}>Check the Schedule tab to see this week's content.</Text>
           <TouchableOpacity style={styles.emptyBtn} onPress={() => navigate('Schedule')}>
             <Text style={styles.emptyBtnText}>GO TO SCHEDULE</Text>
@@ -203,10 +229,10 @@ export default function SpeakScreen() {
       {/* Header */}
       <View style={styles.header}>
         <View style={styles.headerTop}>
-          <Text style={styles.topicLabel}>{practice.theme.toUpperCase()}</Text>
-          <Text style={styles.wordCount}>{practice.segments.length} practice lines</Text>
+          <Text style={styles.topicLabel}>{article.topic.toUpperCase()}</Text>
+          <Text style={styles.wordCount}>{article.word_count} words</Text>
         </View>
-        <Text style={styles.title}>{practice.title}</Text>
+        <Text style={styles.title}>{article.title}</Text>
       </View>
 
       {/* Controls */}
@@ -257,7 +283,7 @@ export default function SpeakScreen() {
             <View style={styles.hintContent}>
               <Text style={styles.hintTitle}>Speak</Text>
               <Text style={styles.hintDesc}>
-                先跟讀今天最自然、最值得模仿的句子，再用自己的話回答同一題。建議先播放一次，再錄下自己的版本比較節奏與發音。
+                朗讀今天的完整文章，留意段落節奏、重音和停頓；錄下自己的版本後，再用自己的話回應讀後提示。
               </Text>
               <TouchableOpacity onPress={() => setShowOnboardingHint(false)}>
                 <Text style={styles.hintDismiss}>✕ Got it</Text>
@@ -267,17 +293,17 @@ export default function SpeakScreen() {
         )}
 
         <View style={styles.goalBox}>
-          <Text style={styles.goalLabel}>TODAY'S OUTPUT GOAL</Text>
-          <Text style={styles.goalText}>{practice.goal}</Text>
-          {practice.hintZh && <Text style={styles.goalHintZh}>{practice.hintZh}</Text>}
-          {practice.structureHint && <Text style={styles.goalHintEn}>{practice.structureHint}</Text>}
+          <Text style={styles.goalLabel}>AFTER READING</Text>
+          <Text style={styles.goalText}>{question?.question ?? `Summarize the main idea of "${article.title}" in your own words.`}</Text>
+          {question?.hint_zh && <Text style={styles.goalHintZh}>{question.hint_zh}</Text>}
+          {question?.structure_hint && <Text style={styles.goalHintEn}>{question.structure_hint}</Text>}
         </View>
 
-        {/* Practice Script */}
+        {/* Read Aloud Article */}
         <View style={styles.article}>
-          {practice.segments.map((segment, i) => (
-            <View key={segment.id}>
-              <Text style={styles.segmentLabel}>{segment.speakerName.toUpperCase()}</Text>
+          {articleParagraphs.map((paragraph, i) => (
+            <View key={i}>
+              <Text style={styles.segmentLabel}>PARAGRAPH {i + 1}</Text>
               <TouchableOpacity
                 onPress={() => setActiveSegment(activeSegment === i ? -1 : i)}
                 activeOpacity={0.7}
@@ -288,22 +314,22 @@ export default function SpeakScreen() {
                     activeSegment === i && styles.paraEnActive,
                   ]}
                 >
-                  {segment.en}
+                  {paragraph}
                 </Text>
               </TouchableOpacity>
-              {showChinese && segment.zh && (
-                <Text style={styles.paraZh}>{segment.zh}</Text>
+              {showChinese && articleParagraphsZh[i] && (
+                <Text style={styles.paraZh}>{articleParagraphsZh[i]}</Text>
               )}
             </View>
           ))}
         </View>
 
         {/* Vocabulary */}
-        {practice.vocabulary.length > 0 && (
+        {article.vocabulary.length > 0 && (
           <View style={styles.vocabBox}>
             <Text style={styles.vocabTitle}>KEY LANGUAGE</Text>
             <View style={styles.vocabList}>
-              {practice.vocabulary.map((v, i) => (
+              {article.vocabulary.map((v, i) => (
                 <View key={i} style={styles.vocabTag}>
                   <Text style={styles.vocabWord}>{v.word}</Text>
                   <Text style={styles.vocabDef}>{v.definition}</Text>
@@ -319,7 +345,7 @@ export default function SpeakScreen() {
             <View style={styles.recordingDot} />
             <View style={styles.recordingContent}>
               <Text style={styles.recordingLabel}>RECORDING</Text>
-              <Text style={styles.recordingHint}>Shadow the lines aloud, then answer today's goal in your own words. Tap STOP REC when done.</Text>
+              <Text style={styles.recordingHint}>Read the article aloud, then answer today's prompt in your own words. Tap STOP REC when done.</Text>
             </View>
           </View>
         )}

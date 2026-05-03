@@ -7,17 +7,17 @@ Current as of 2026-04-24.
 The launch learner experience is:
 
 - `Listen`: episode dialogue from `content/episodes/week-*.ts`
-- `Speak`: same-day episode shadowing plus same-day conversation goal
+- `Speak`: same-day long-form article read-aloud plus same-day conversation goal
 - `Conversation`: prompts from `content/questions/conversations-*.ts`
 - `Review`: same-week retrieval prompts from `content/questions/conversations-*.ts` plus flashcards from `content/flashcards/flashcards-*.ts`
 
-`content/articles/articles-w*.ts` is legacy archive content. It is not fetched by the app runtime, not seeded as launch product content, and not part of launch sign-off.
+`content/articles/articles-w*.ts` is active Speak launch content. It is fetched by the app runtime, seeded as product content, and included in launch checks.
 
 ## Blocking Fixes Completed
 
 - Retired all episode line-level `vocab` / `vocabulary` annotations from source content.
 - Removed Listen UI rendering of line-level vocab, so users no longer see unreliable inline definitions.
-- Changed Speak vocabulary source to episode `keyPhrases`, not line-level vocab.
+- Restored Speak to use same-day long-form articles as the primary read-aloud material.
 - Updated episode validation so any future inline `vocab` / `vocabulary` field fails.
 - Fixed confirmed bad key phrase grammar: `the plan still support` -> `the plan still supports`.
 - Fixed flashcard headword demonstration failures for `come back to yourself`, `a different side of yourself`, `the story you tell yourself`, and `your body knew before you did`.
@@ -31,7 +31,8 @@ The launch learner experience is:
 
 - `scripts/prelaunch/run-final-verification.ts` must pass.
 - `scripts/validate-episodes.js` must pass and fails if inline episode vocab reappears.
-- `scripts/validate-supporting-content.js --exclude-articles` must pass.
+- `scripts/validate-supporting-content.js` must pass.
+- `scripts/prelaunch/check-articles-import.ts` must pass.
 - `scripts/prelaunch/check-content-language-quality.ts` blocks known low-transfer phrases, pronoun mismatches, known grammar errors, retired inline vocab, and early academic terms that should not be taught as launch vocabulary.
 - The same language-quality check also blocks known non-localized Chinese terms such as `信息`, `數據`, `視頻`, `網絡`, `質量`, `默認`, `智能手機`, `程序`, `項目`, and `用戶` in active launch content.
 - `npx tsc --noEmit -p app/tsconfig.json` must pass.
@@ -43,7 +44,8 @@ These commands were run after the fixes:
 ```sh
 npx tsx scripts/prelaunch/run-final-verification.ts
 node scripts/validate-episodes.js
-node scripts/validate-supporting-content.js --exclude-articles
+node scripts/validate-supporting-content.js
+npx tsx scripts/prelaunch/check-articles-import.ts
 npx tsx scripts/prelaunch/check-content-language-quality.ts
 npx tsc --noEmit -p app/tsconfig.json
 ```
@@ -81,4 +83,4 @@ Pass. Qualified for launch within the current launch scope.
 
 ## Review Instruction For Future AI
 
-Review launch content only against the current product scope above. Do not treat legacy articles as product content unless the product decision changes and articles are explicitly reconnected to seed/API/UI.
+Review launch content against the current product scope above, including Speak articles.

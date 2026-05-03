@@ -305,7 +305,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     'Deadlines & Pressure',
     'Sunday',
     'What would a healthier relationship with pressure look like for you?',
-    '這題不是要沒有壓力，而是講什麼樣的狀態比較可持續。',
+    '這題不是要沒有壓力，而是講什麼樣的狀態比較能長期維持。',
     'Describe the new relationship through habits, reactions, or limits you would keep.',
   ),
 

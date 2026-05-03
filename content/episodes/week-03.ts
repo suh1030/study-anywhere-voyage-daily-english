@@ -57,7 +57,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly it. I arrive at work already shifted into a different gear. And the same thing happens on the way home — by the time I walk through my door, I have mostly let go of the workday.",
+            "en": "That's exactly it. I arrive at work already shifted into a different gear. And the same thing happens on the way home — by the time I walk through my door, I have mostly let go of the workday.",
             "zh": "正是這樣。我到達工作時已經換了一個檔。同樣的事情在回家途中也發生了——當我走進家門的時候，我已經大部分放下了這個工作日。"
           }
         ]
@@ -139,8 +139,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. It is habit stacking — attaching a new behavior to an existing routine. The commute was already happening; I just changed what happened inside it.",
-            "zh": "正是如此。這是習慣堆疊——把新的行為附加到現有的習慣上。通勤已經在發生了；我只是改變了其中發生的事情。"
+            "en": "Yes, and it is habit stacking — attaching a new behavior to an existing routine. The commute was already happening; I just changed what happened inside it.",
+            "zh": "對，而且這是習慣堆疊——把新的行為附加到現有的習慣上。通勤已經在發生了；我只是改變了其中發生的事情。"
           },
           {
             "speaker": "b",
@@ -152,7 +152,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For them, the best use of commute time might actually be nothing. Staring out the window, letting the mind rest. Not every commute needs to be optimized.",
-            "zh": "對他們來說，最好的通勤時間利用方式實際上可能是什麼都不做。凝視窗外，讓大腦休息。不是每次通勤都需要被優化。"
+            "zh": "對他們來說，最好的通勤時間利用方式實際上可能是什麼都不做。凝視窗外，讓大腦休息。不是每次通勤都需要被最佳化。"
           },
           {
             "speaker": "b",
@@ -193,7 +193,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I messaged my colleague immediately — told her what was happening and that I would join by phone if needed. Then I just accepted I could not control it and stopped trying to. The anxiety was not making the train move faster.",
-            "zh": "我立刻給同事發訊息——告訴她發生了什麼，以及如果需要我會通過電話參加。然後我接受了我無法控制這件事，停止了嘗試。焦慮並不能讓地鐵跑得更快。"
+            "zh": "我立刻給同事發訊息——告訴她發生了什麼，以及如果需要我會用電話參加。然後我接受了我無法控制這件事，停止了嘗試。焦慮並不能讓地鐵跑得更快。"
           },
           {
             "speaker": "b",
@@ -417,13 +417,13 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The infrastructure often does not support it.",
-            "zh": "基礎設施往往不支持這樣做。"
+            "zh": "基礎設施往往不支援這樣做。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. The cycling commute is partly a personal choice and partly a question of what your workplace and city make possible. It should not all fall on the individual.",
-            "zh": "正是如此。騎自行車通勤部分是個人選擇，部分是你的工作場所和城市使什麼成為可能的問題。這不應該全部落在個人身上。"
+            "en": "That is the practical takeaway. The cycling commute is partly a personal choice and partly a question of what your workplace and city make possible. It should not all fall on the individual.",
+            "zh": "這裡是我想特別畫線的地方。騎自行車通勤部分是個人選擇，部分是你的工作場所和城市使什麼成為可能的問題。這不應該全部落在個人身上。"
           }
         ]
       },
@@ -476,7 +476,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is more sustainable for most people. The gym is optional. The commute happens every day.",
-            "zh": "對大多數人來說這更可持續。健身房是可選的。通勤每天都發生。"
+            "zh": "對大多數人來說這更能長期維持。健身房是可選的。通勤每天都發生。"
           }
         ]
       },
@@ -528,7 +528,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where city design and individual habit are deeply connected. The city makes the walk possible; the individual still has to choose it.",
+            "en": "That's where city design and individual habit are deeply connected. The city makes the walk possible; the individual still has to choose it.",
             "zh": "這就是城市設計和個人習慣深度連結的地方。城市讓步行成為可能；個人仍然必須選擇它。"
           }
         ]
@@ -769,7 +769,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very hard. And a lot of organizational culture gets transmitted through those casual interactions — how things really work here, what is actually valued, who to ask about what. New employees miss this the most when working remotely.",
-            "zh": "非常難。很多組織文化通過那些隨意的互動傳遞——事情在這裡真正如何運作、什麼實際上是被重視的、誰是問什麼的最佳人選。新員工在遠端工作時最想念這些。"
+            "zh": "非常難。很多組織文化透過那些隨意的互動傳遞——事情在這裡真正如何運作、什麼實際上是被重視的、誰是問什麼的最佳人選。新員工在遠端工作時最想念這些。"
           },
           {
             "speaker": "b",
@@ -839,7 +839,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a genuinely useful hack.",
+            "en": "That's a genuinely useful hack.",
             "zh": "這是一個真正有用的技巧。"
           },
           {
@@ -881,7 +881,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the standard. And companies that design their in-office time around that standard — rather than just requiring presence — will probably retain people better and get more from the time together.",
+            "en": "That's the standard. And companies that design their in-office time around that standard — rather than just requiring presence — will probably retain people better and get more from the time together.",
             "zh": "這是標準。圍繞這個標準設計辦公室時間的公司——而不是只要求在場——可能會更好地留住員工，並從共同時間中獲得更多。"
           },
           {
@@ -1105,7 +1105,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And imagining how the person next to you is experiencing you. That perspective shift is the foundation of most transit etiquette.",
-            "zh": "還有想象你旁邊的人如何體驗到你。那種視角轉換是大多數交通禮儀的基礎。"
+            "zh": "還有想像你旁邊的人如何體驗到你。那種視角轉換是大多數交通禮儀的基礎。"
           }
         ]
       },
@@ -1187,7 +1187,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In an age when everything can be algorithmically filtered, the train is genuinely one of the few spaces you encounter the full range of people in your city. That is worth something.",
-            "zh": "在一個一切都可以被算法過濾的時代，地鐵真的是少數幾個你遇到城市中各類人的空間之一。這是有價值的。"
+            "zh": "在一個一切都可以被演算法過濾的時代，地鐵真的是少數幾個你遇到城市中各類人的空間之一。這是有價值的。"
           },
           {
             "speaker": "b",
@@ -1315,8 +1315,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
-            "zh": "正是如此。這就是為什麼我認為開車通勤在認知上比看起來更消耗——特別是在交通不可預測的情況下。"
+            "en": "A small thing matters here: Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
+            "zh": "這裡有一個常被忽略的地方：這就是為什麼我認為開車通勤在認知上比看起來更消耗——特別是在交通不可預測的情況下。"
           }
         ]
       },
@@ -1409,7 +1409,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is a genuinely pleasant driving experience. The city still quiet, good music, no rush. If you can time it, it is completely different from the crawl at eight-thirty.",
+            "en": "That's a genuinely pleasant driving experience. The city still quiet, good music, no rush. If you can time it, it is completely different from the crawl at eight-thirty.",
             "zh": "這是一個真正愉快的駕駛體驗。城市仍然安靜，好音樂，不慌不忙。如果你能把時機掌握好，它和八點半的緩慢爬行是完全不同的。"
           },
           {
@@ -1487,7 +1487,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Fifteen minutes, door to door. Walking distance in good weather, a short transit ride otherwise. Long enough to decompress and shift gears, short enough not to steal an hour from my day.",
-            "zh": "十五分鐘，從門口到門口。天氣好時步行距離，否則坐短暫的交通工具。足夠長以解壓和換擋，足夠短以不從我的一天中偷走一個小時。"
+            "zh": "十五分鐘，從出門到抵達。天氣好時可以走路，否則就搭一小段車。長到足夠讓我放鬆、切換狀態，又短到不會從一天裡偷走一整個小時。"
           },
           {
             "speaker": "b",
@@ -1680,8 +1680,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
-            "zh": "正是如此。決定性的因素不是通勤的長度——而是你是否對如何使用它做出了刻意的選擇。"
+            "en": "Mostly, yes. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
+            "zh": "大致上是。決定性的因素不是通勤的長度——而是你是否對如何使用它做出了刻意的選擇。"
           }
         ]
       },
@@ -1745,7 +1745,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "When does a long commute cross the line from sustainable sacrifice to something that needs to change?",
-            "zh": "長途通勤什麼時候從可持續的犧牲越過了界限，變成了需要改變的事情？"
+            "zh": "長途通勤什麼時候從能長期維持的犧牲越過了界限，變成了需要改變的事情？"
           },
           {
             "speaker": "a",
@@ -1798,7 +1798,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "If someone cannot change their long commute right now, what is the most useful thing they can do to make it more sustainable?",
-            "zh": "如果某人現在無法改變他們的長途通勤，他們能做的讓它更可持續的最有用的事情是什麼？"
+            "zh": "如果某人現在無法改變他們的長途通勤，他們能做的讓它更能長期維持的最有用的事情是什麼？"
           },
           {
             "speaker": "a",
@@ -1944,7 +1944,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is exactly what the research says. And it is one of the most counterintuitive ideas I have come across — that deliberately doing nothing on the commute might be more valuable than filling it with content.",
+            "en": "That's exactly what the research says. And it is one of the most counterintuitive ideas I have come across — that deliberately doing nothing on the commute might be more valuable than filling it with content.",
             "zh": "這正是研究所說的。這是我遇到的最違反直覺的想法之一——在通勤時刻意什麼都不做，可能比用內容填滿它更有價值。"
           }
         ]
@@ -1997,8 +1997,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. The person who chooses to drive instead of taking transit because the train is too slow is a different problem from the person who has no car and depends on an unreliable bus.",
-            "zh": "正是如此。因為地鐵太慢而選擇開車而不是坐交通工具的人，和沒有汽車卻依靠不可靠的公車的人，是不同的問題。"
+            "en": "Yes. That is the line I would hold on to. The person who chooses to drive instead of taking transit because the train is too slow is a different problem from the person who has no car and depends on an unreliable bus.",
+            "zh": "這裡是我想特別畫線的地方。因為地鐵太慢而選擇開車而不是坐交通工具的人，和沒有汽車卻依靠不可靠的公車的人，是不同的問題。"
           }
         ]
       },
@@ -2039,7 +2039,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One of the most interesting urban design concepts right now. The idea that all essential services — work, schools, shopping, healthcare — should be within fifteen minutes on foot or by bike from your home. Eliminate the commute by changing where things are.",
-            "zh": "目前最有趣的城市設計概念之一。所有基本服務——工作、學校、購物、醫療保健——應該在你家步行或騎車十五分鐘以內。通過改變事物所在的地方來消除通勤。"
+            "zh": "目前最有趣的城市設計概念之一。所有基本服務——工作、學校、購物、醫療保健——應該在你家步行或騎車十五分鐘以內。透過改變事物所在的地方來消除通勤。"
           },
           {
             "speaker": "b",

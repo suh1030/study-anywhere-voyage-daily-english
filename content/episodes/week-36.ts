@@ -39,7 +39,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is what makes AI feel so different from older tools.",
+            "en": "That's what makes AI feel so different from older tools.",
             "zh": "這也就是讓 AI 和以前工具感覺很不一樣的地方。"
           },
           {
@@ -80,14 +80,14 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the tool is giving something while quietly weakening something else.",
-            "zh": "所以工具是一邊在給人東西，一邊也在安安靜靜削弱別的東西。"
+            "en": "So the tool is giving something while quietly weakening something else. Tell me if I am smoothing over the hard part.",
+            "zh": "所以工具是一邊在給人東西，一邊也在安安靜靜削弱別的東西。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
-            "zh": "完全沒錯。把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
+            "en": "This is where real life gets messier: Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
+            "zh": "這裡有一個常被忽略的地方：把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
           },
           {
             "speaker": "b",
@@ -133,7 +133,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very balanced.",
+            "en": "That balance is useful because it names both the help and the hesitation.",
             "zh": "這句聽起來很平衡。"
           },
           {
@@ -163,8 +163,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. AI language is strongest when it stays close to actual use, not just theory.",
-            "zh": "很好。談 AI 的語言，最有力的時候就是它貼著真實使用情境，而不是只停在理論。"
+            "en": "In ordinary life, the line gets smaller. AI language is strongest when it stays close to actual use, not just theory.",
+            "zh": "我們把它變得更實用一點。談 AI 的語言，最有力的時候就是它貼著真實使用情境，而不是只停在理論。"
           }
         ]
       },
@@ -192,13 +192,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Deliberate use matters more than enthusiastic overuse.",
-            "zh": "完全沒錯。有意識地使用，比很興奮地過度使用重要得多。"
+            "en": "Mostly, yes. Deliberate use matters more than enthusiastic overuse.",
+            "zh": "大致上是。有意識地使用，比很興奮地過度使用重要得多。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds much healthier than just chasing efficiency.",
+            "en": "Smarter placement sounds much healthier than just chasing efficiency.",
             "zh": "這聽起來比一直追效率健康很多。"
           },
           {
@@ -210,7 +210,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really helpful standard.",
+            "en": "That's a really helpful standard.",
             "zh": "這真的很有用，可以拿來當標準。"
           },
           {
@@ -234,7 +234,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a good answer.",
+            "en": "I like that as a good answer.",
             "zh": "這是很好的答案。"
           },
           {
@@ -252,7 +252,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good technology thinking should do that.",
+            "en": "Good thinking about technology should do that.",
             "zh": "好的科技思考，本來就應該做到這件事。"
           },
           {
@@ -273,7 +273,7 @@ export const WEEK_36: Episode[] = [
     "keyPhrases": [
       {
         "en": "AI assistant",
-        "zh": "能幫人整理、生成或回應內容的人工智慧工具",
+        "zh": "能幫人整理、產生或回應內容的人工智慧工具",
         "example": "The AI assistant drafted the reply in seconds."
       },
       {
@@ -333,7 +333,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is because fluency is not the same as understanding.",
+            "en": "That's because fluency is not the same as understanding.",
             "zh": "那是因為流暢不等於理解。"
           },
           {
@@ -345,8 +345,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly. AI is often strong at pattern tasks and weak at real accountability.",
-            "zh": "完全沒錯。AI 常常很擅長模式型任務，但不擅長真正的責任承擔。"
+            "en": "Yes, and aI is often strong at pattern tasks and weak at real accountability.",
+            "zh": "對，而且AI 常常很擅長模式型任務，但不擅長真正的責任承擔。"
           },
           {
             "speaker": "b",
@@ -363,7 +363,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is exactly the kind of mistake many people make first.",
+            "en": "That's exactly the kind of mistake many people make first.",
             "zh": "這真的就是很多人最先會犯的那種錯。"
           },
           {
@@ -445,14 +445,14 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is clean and useful.",
+            "en": "That's clean and useful.",
             "zh": "這句很乾淨，也很有用。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You could also say, 'It is good at sounding capable, which is not the same as being reliable.'",
-            "zh": "另一句也很好用：「It is good at sounding capable, which is not the same as being reliable.」"
+            "en": "You could keep it simple and say, 'It is good at sounding capable, which is not the same as being reliable.'",
+            "zh": "也可以簡單說：「It is good at sounding capable, which is not the same as being reliable.」"
           },
           {
             "speaker": "b",
@@ -504,8 +504,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Repeatable work with clear checks is where AI often shines.",
-            "zh": "完全沒錯。可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
+            "en": "That is the piece I want learners to notice. Repeatable work with clear checks is where AI often shines.",
+            "zh": "這裡是我想特別畫線的地方。可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
           },
           {
             "speaker": "b",
@@ -522,7 +522,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds almost boring, which is probably why it is correct.",
+            "en": "That human-review filter sounds almost boring, which is probably why it is correct.",
             "zh": "這聽起來有點無聊，而那大概也是它正確的原因。"
           },
           {
@@ -551,7 +551,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a much better description than simply calling it smart.",
+            "en": "That's a much better description than simply calling it smart.",
             "zh": "這真的比直接叫它『很聰明』好多了。"
           },
           {
@@ -569,13 +569,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Clarity matters more than hype here.",
-            "zh": "很好。在這件事上，清楚比 hype 重要多了。"
+            "en": "Here is one natural option. Clarity matters more than hype here.",
+            "zh": "我們把它變得更實用一點。在這件事上，清楚比 hype 重要多了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a good place to stop.",
+            "en": "I like that as a good place to stop.",
             "zh": "這真的是很好的停點。"
           },
           {
@@ -650,7 +650,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's more honest about how it actually works.",
+            "en": "That sounds closer to how it actually works.",
             "zh": "這樣更老實地說出了它實際的運作方式。"
           },
           {
@@ -721,7 +721,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds useful, but also tiring in a new way.",
+            "en": "That steering role sounds useful, but also tiring in a new way.",
             "zh": "這聽起來很有用，但也會帶來一種新的累法。"
           },
           {
@@ -762,7 +762,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is very strong.",
+            "en": "That's very strong.",
             "zh": "這真的很強。"
           },
           {
@@ -774,7 +774,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds very realistic.",
+            "en": "Faster but not always lighter feels very realistic.",
             "zh": "這句聽起來很寫實。"
           },
           {
@@ -792,8 +792,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. The truth of work change usually sits in those mixed sentences.",
-            "zh": "很好。工作變化的真相，很多時候就藏在這種混合的句子裡。"
+            "en": "In plain English, I would say it this way. The truth of work change usually sits in those mixed sentences.",
+            "zh": "我們把它變得更實用一點。工作變化的真相，很多時候就藏在這種混合的句子裡。"
           }
         ]
       },
@@ -827,7 +827,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is an unusually clear warning.",
+            "en": "That's an unusually clear warning.",
             "zh": "這真的很清楚，是個警訊。"
           },
           {
@@ -845,8 +845,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. It should feel that way.",
-            "zh": "很好。它本來就應該沒那麼宿命。"
+            "en": "On an ordinary day, the sentence gets simpler. It should feel that way.",
+            "zh": "我們把它變得更實用一點。它本來就應該沒那麼宿命。"
           }
         ]
       },
@@ -868,7 +868,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is interesting because it makes some human skills more important, not less.",
+            "en": "I like that; it is interesting because it makes some human skills more important, not less.",
             "zh": "這很有意思，因為它會讓某些人類能力變得更重要，不是更不重要。"
           },
           {
@@ -880,7 +880,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a hopeful ending.",
+            "en": "I can see why you'd say that. It does feel like a hopeful ending.",
             "zh": "這聽起來像一個有希望的收尾。"
           },
           {
@@ -967,7 +967,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the trust problem in one sentence.",
+            "en": "That's the trust problem in one sentence.",
             "zh": "這句根本就是 AI 信任問題的核心。"
           },
           {
@@ -979,13 +979,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Plausible language can create false trust very quickly.",
-            "zh": "完全沒錯。那種看起來很像真的語言，會很快製造出假的信任感。"
+            "en": "The part I keep noticing is this: Plausible language can create false trust very quickly.",
+            "zh": "這裡有一個常被忽略的地方：那種看起來很像真的語言，會很快製造出假的信任感。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is what makes it more dangerous than an obviously broken tool.",
+            "en": "That's what makes it more dangerous than an obviously broken tool.",
             "zh": "這也就是讓它比一個明顯壞掉的工具更危險的地方。"
           },
           {
@@ -997,7 +997,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a really important phrase.",
+            "en": "That's a really important phrase.",
             "zh": "這個詞真的很重要。"
           },
           {
@@ -1026,14 +1026,14 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the machine may provide options, but the person has to provide consequences.",
-            "zh": "所以機器可能會提供選項，但後果還是得由人來承擔。"
+            "en": "So the machine may provide options, but the person has to provide consequences. Does that match what you mean?",
+            "zh": "所以機器可能會提供選項，但後果還是得由人來承擔。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Human judgment is where accountability still lives.",
-            "zh": "完全沒錯。人類判斷其實就是責任還留著的地方。"
+            "en": "Mostly, yes. Human judgment is where accountability still lives.",
+            "zh": "大致上是。人類判斷其實就是責任還留著的地方。"
           },
           {
             "speaker": "b",
@@ -1050,7 +1050,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is the distinction many teams need right now.",
+            "en": "That's the distinction many teams need right now.",
             "zh": "這真的就是很多團隊現在最需要的區分。"
           },
           {
@@ -1085,8 +1085,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Another natural option is, 'The answer may sound convincing, but I still need to check whether it is accurate for this case.'",
-            "zh": "另一句也很好用：「The answer may sound convincing, but I still need to check whether it is accurate for this case.」"
+            "en": "Another option that still sounds natural is, 'The answer may sound convincing, but I still need to check whether it is accurate for this case.'",
+            "zh": "另一個仍然自然的說法是：「The answer may sound convincing, but I still need to check whether it is accurate for this case.」"
           },
           {
             "speaker": "b",
@@ -1109,8 +1109,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Accuracy language should sound disciplined, not dramatic.",
-            "zh": "很好。談準確度的語言，最好聽起來像有紀律，不是像在演恐慌。"
+            "en": "For listening practice, notice the shape of this sentence. Accuracy language should sound disciplined, not dramatic.",
+            "zh": "我們把它變得更實用一點。談準確度的語言，最好聽起來像有紀律，不是像在演恐慌。"
           }
         ]
       },
@@ -1156,7 +1156,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is not glamorous, but it is probably right.",
+            "en": "That's not glamorous, but it is probably right.",
             "zh": "這聽起來不太光鮮，可是大概真的對。"
           },
           {
@@ -1180,7 +1180,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is honestly a compact answer.",
+            "en": "That's honestly a compact answer.",
             "zh": "這個答案真的很精煉。"
           },
           {
@@ -1198,13 +1198,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Better judgment usually begins with better calibration.",
-            "zh": "我也這麼覺得。比較好的判斷，常常是從比較好的校準開始。"
+            "en": "Mostly, yes. Better judgment usually begins with better calibration.",
+            "zh": "大致上是。比較好的判斷，常常是從比較好的校準開始。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is something I want to return to and think about more carefully.",
+            "en": "That's something I want to return to and think about more carefully.",
             "zh": "這感覺就是很對的收尾。"
           },
           {
@@ -1297,7 +1297,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is why AI can feel both helpful and uncanny in the same minute.",
+            "en": "That's why AI can feel both helpful and uncanny in the same minute.",
             "zh": "這也就是為什麼，AI 在創作上常常會在同一分鐘裡，同時讓人覺得有幫助又很詭異。"
           },
           {
@@ -1333,24 +1333,24 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can help with ideation, structure options, naming patterns, generating rough alternatives, and reducing blank-page fear.",
-            "zh": "像是靈感發散、結構選項、幫你命名模式、生成粗略替代方案，還有減少空白頁焦慮。"
+            "zh": "像是靈感發散、結構選項、幫你命名模式、生出粗略替代方案，還有減少空白頁焦慮。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the tool is strongest when it supports thinking rather than replacing taste.",
-            "zh": "所以工具最強的地方，是它支援思考，而不是直接取代品味。"
+            "en": "So the tool is strongest when it supports thinking rather than replacing taste. Or is there a real-life exception here?",
+            "zh": "所以工具最強的地方，是它支援思考，而不是直接取代品味。 還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point. Voice preservation becomes the human job more than ever.",
-            "zh": "完全沒錯。保留聲音這件事，現在比以前更像人類該守住的工作。"
+            "en": "Yes, and that is the key. Voice preservation becomes the human job more than ever.",
+            "zh": "這裡是我想特別畫線的地方。保留聲音這件事，現在比以前更像人類該守住的工作。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds reassuring in a practical way.",
+            "en": "Keeping authorship intact is reassuring in a practical way.",
             "zh": "這聽起來在實際上很讓人安心。"
           },
           {
@@ -1362,7 +1362,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is probably the real skill now.",
+            "en": "That's probably the real skill now.",
             "zh": "這大概就是現在真正的技能了。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is beautifully done.",
+            "en": "I like that; it is beautifully done.",
             "zh": "這做得很漂亮。"
           },
           {
@@ -1403,7 +1403,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds thoughtful, not defensive.",
+            "en": "That keeps the focus on voice, so it sounds thoughtful instead of defensive.",
             "zh": "這句聽起來有思考，不像在防衛。"
           },
           {
@@ -1456,7 +1456,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a phrase people in creative fields need badly.",
+            "en": "That's a phrase people in creative fields need badly.",
             "zh": "這個詞真的很適合創作圈現在的需要。"
           },
           {
@@ -1468,13 +1468,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a healthy discipline.",
+            "en": "I can see why you'd say that. It does feel like a healthy discipline.",
             "zh": "這聽起來真的是很健康的紀律。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how it looks to me too.",
+            "en": "That's how it looks to me too.",
             "zh": "我看起來也差不多是這樣。"
           }
         ]
@@ -1503,13 +1503,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. Technology changes the surface, but human distinctiveness still lives in selection and meaning.",
-            "zh": "很好。科技會改變表面，但人的獨特性還是活在選擇和意義裡。"
+            "en": "Let's bring it down to one situation. Technology changes the surface, but human distinctiveness still lives in selection and meaning.",
+            "zh": "我們把它變得更實用一點。科技會改變表面，但人的獨特性還是活在選擇和意義裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels especially hopeful way to end.",
+            "en": "That is an especially hopeful way to end.",
             "zh": "這真的是很有希望的收尾方式。"
           },
           {
@@ -1521,7 +1521,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels spot on.",
+            "en": "That sounds spot on.",
             "zh": "這感覺非常準。"
           },
           {
@@ -1541,7 +1541,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "generative draft",
-        "zh": "由 AI 先生成出來、供人修改和判斷的創作草稿",
+        "zh": "由 AI 先產生出來、供人修改和判斷的創作草稿",
         "example": "She used a generative draft but rewrote most of it."
       },
       {
@@ -1566,7 +1566,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "prompt residue",
-        "zh": "AI 生成內容裡殘留的那種過度順滑、模板化或不夠像人的感覺",
+        "zh": "AI 產生的內容裡殘留的那種過度順滑、模板化或不夠像人的感覺",
         "example": "He could feel prompt residue in the second paragraph."
       },
       {
@@ -1702,13 +1702,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A natural way to say it is, 'AI systems reflect the data and priorities they are built on, so they are never neutral by default.'",
+            "en": "In a real conversation, you might say, 'AI systems reflect the data and priorities they are built on, so they are never neutral by default.'",
             "zh": "你可以說：「AI systems reflect the data and priorities they are built on, so they are never neutral by default.」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds strong and precise.",
+            "en": "That line is strong because it puts responsibility next to capability.",
             "zh": "這句很有力，也很準。"
           },
           {
@@ -1738,7 +1738,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is why it helps.",
+            "en": "That's why it helps.",
             "zh": "這也是它有幫助的原因。"
           }
         ]
@@ -1773,7 +1773,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like the kind of design people will appreciate only after something goes wrong.",
+            "en": "I can see why you'd say that. It does feel like the kind of design people will appreciate only after something goes wrong.",
             "zh": "這感覺很像那種只有在出事後，大家才會真正感謝的設計。"
           },
           {
@@ -1814,7 +1814,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That is a serious standard.",
+            "en": "That's a serious standard.",
             "zh": "這真的是很嚴肅的標準。"
           },
           {
@@ -1913,7 +1913,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is how technological eras usually become real. Not through spectacle, but through ordinary repetition.",
+            "en": "That's how technological eras usually become real. Not through spectacle, but through ordinary repetition.",
             "zh": "科技時代真正變真，很多時候本來就不是透過什麼壯觀場面，而是透過普通事情一再重複。"
           },
           {
@@ -1943,7 +1943,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds bigger than just software adoption.",
+            "en": "Once AI shapes rhythm and attention, it is bigger than just software adoption.",
             "zh": "這聽起來真的比『採用某個軟體』大很多。"
           },
           {
@@ -1978,13 +1978,13 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the key. Human distinctiveness lives in relation, interpretation, responsibility, and care.",
-            "zh": "完全沒錯。人的獨特性其實活在關係、詮釋、責任和照顧裡。"
+            "en": "This matters more than it first seems: Human distinctiveness lives in relation, interpretation, responsibility, and care.",
+            "zh": "這裡有一個常被忽略的地方：人的獨特性其實活在關係、詮釋、責任和照顧裡。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels much richer than the usual panic about replacement.",
+            "en": "That seems much richer than the usual panic about replacement.",
             "zh": "這真的比一般那種對取代的恐慌豐富很多。"
           },
           {
@@ -2002,8 +2002,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so.",
-            "zh": "我也這麼覺得。"
+            "en": "Mostly, yes.",
+            "zh": "大致上是。"
           }
         ]
       },
@@ -2031,8 +2031,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You might also say, 'I am trying to become more fluent with the tools without becoming less present in my own thinking.'",
-            "zh": "另一句也很好用：「I am trying to become more fluent with the tools without becoming less present in my own thinking.」"
+            "en": "You might put it this way: 'I am trying to become more fluent with the tools without becoming less present in my own thinking.'",
+            "zh": "你也可以換成這樣說：「I am trying to become more fluent with the tools without becoming less present in my own thinking.」"
           },
           {
             "speaker": "b",
@@ -2084,8 +2084,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. Some forms of judgment need time in order to stay human.",
-            "zh": "完全沒錯。有些判斷如果要保持像人，本來就需要時間。"
+            "en": "Mostly, yes. Some forms of judgment need time in order to stay human.",
+            "zh": "大致上是。有些判斷如果要保持像人，本來就需要時間。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That distinction makes things clearer.",
+            "en": "That warning lands because passive convenience can look harmless while it drains judgment.",
             "zh": "這個區別讓事情清楚多了。"
           },
           {
@@ -2131,7 +2131,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That framing shifts the whole picture.",
+            "en": "That puts the responsibility back on the human side of the relationship.",
             "zh": "這個框架改變了整個畫面。"
           },
           {
@@ -2143,19 +2143,19 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That sounds like a future worth working toward.",
+            "en": "I can see why you'd say that. It does feel like a future worth working toward.",
             "zh": "這聽起來真的是值得往那裡走的未來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think so. The best outcome is not machine worship or machine fear. It is wiser coexistence.",
-            "zh": "我也這麼覺得。最好的結果不是機器崇拜，也不是機器恐懼，而是比較有智慧的共存。"
+            "en": "Mostly, yes. The best outcome is not machine worship or machine fear. It is wiser coexistence.",
+            "zh": "大致上是。最好的結果不是機器崇拜，也不是機器恐懼，而是比較有智慧的共存。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That feels like the right last line for the week.",
+            "en": "That sounds like the right last line for the week.",
             "zh": "這真的很適合拿來當這一週最後一句。"
           },
           {
