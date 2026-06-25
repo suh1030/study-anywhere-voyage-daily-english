@@ -16,6 +16,7 @@
 | Agent 型態 | 多輪對話聊天室 |
 | 擺放位置 | 右下角浮動按鈕（FAB）+ 全螢幕 Modal，覆蓋全 app |
 | 計費 | 適用期免費不扣點 + 每人每日訊息上限（預設 30 則，UTC+8 重置） |
+| 對話紀錄 | 純記憶體（不寫入任何儲存）；App 重啟即清空，且跨日（UTC+8）自動清空 |
 | 模型供應商 | OpenRouter（OpenAI 相容 API） |
 | 模型 | `openai/gpt-oss-120b:free`（免費模型中 benchmark 第一梯隊、知名供應商、Apache 2.0、可調推理深度故聊天延遲低）。以環境變數設定，可一行替換。 |
 
@@ -97,6 +98,7 @@ type TutorMessage = { id: string; role: 'user' | 'assistant'; content: string }
 interface TutorState {
   isOpen: boolean
   messages: TutorMessage[]
+  sessionDay: string | null  // 本段對話所屬的日期 (UTC+8, 'YYYY-MM-DD')
   loading: boolean
   remaining: number | null   // 當日剩餘額度；null = 未知
   error: string | null
@@ -107,7 +109,13 @@ interface TutorState {
 }
 ```
 
+**對話紀錄策略（純記憶體 + 跨日清空）**：
+- `messages` 只存在 Zustand store 的記憶體中，**不寫入 AsyncStorage、不寫入 DB**。App process 被殺/重啟 → 自動清空。
+- 跨日清空：每次 `open()` 與 `sendMessage()` 開頭，計算今天日期（UTC+8）。若 `sessionDay` 不等於今天 → 先 `messages = []`、`error = null`，再把 `sessionDay` 設為今天。如此即使 app 長期開著，跨過午夜也會自動重置，對齊每日免費額度的重置。
+- 提供 helper `todayUTC8(): string` 回傳 `'YYYY-MM-DD'`（與後端每日計數同一時區基準）。
+
 `sendMessage` 流程：
+0. 跨日檢查（見上）：若 `sessionDay !== todayUTC8()` → 清空 `messages` 並更新 `sessionDay`。
 1. 將 user 訊息 push 進 `messages`，設 `loading=true`、`error=null`。
 2. 取 `supabase.auth.getSession()`；無 session → 設 `error='unauthorized'`，停止。
 3. `fetch .../functions/v1/tutor-chat`，body 帶最近 N 則 `messages`（map 成 `{role, content}`）。
@@ -125,6 +133,8 @@ interface TutorState {
 **`app/src/components/TutorChatModal.tsx`**
 - `react-native` `Modal`（`animationType="slide"`, `presentationStyle` 全螢幕）。
 - 頂部標題列「AI 英文老師」+ 關閉鈕 + 當日剩餘額度小標。
+- **隱私提醒列**（固定顯示，標題列下方）：一行小字 + 鎖頭 icon，文案
+  `🔒 對話不會被儲存，關閉 App 後即清除`，用 `colors.muted` / `fonts.mono`、`typography.caption` 尺寸，低調但常駐可見。空狀態的開場白也再次說明一次。
 - 中間 `ScrollView` 訊息泡泡（user 靠右、`colors.surface3`；assistant 靠左、`colors.surface`）；老師訊息可長按聽 TTS（用既有 `expo-speech`，作為加分項、非必要）。
 - 底部 `TextInput` + 送出鈕；`loading` 顯示 typing indicator。
 - 空狀態：老師開場白 + 幾個建議起手句（chips）。
@@ -171,7 +181,7 @@ repo 目前無測試框架（package.json 無 jest）。採務實驗證：
 
 ## 不做（YAGNI）
 
-- 不做對話歷史持久化（重開 app 清空，適用期足夠）。
+- 不做對話歷史持久化：純記憶體、不寫入任何本機或伺服器儲存，App 重啟即清空，跨日（UTC+8）自動清空。聊天視窗常駐顯示「對話不會被儲存」提醒。
 - 不做語音輸入（之後再說）。
 - 不做多個老師人設切換。
 - 不做串流（streaming）回覆，先一次性回傳即可。
