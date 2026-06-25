@@ -28,6 +28,10 @@ function genId(): string {
   return `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`
 }
 
+// Bypass 模式：Supabase 暫停期間用本機 proxy（scripts/tutor-local-proxy.mjs）。
+// 設了 EXPO_PUBLIC_TUTOR_PROXY_URL 就走 proxy、跳過登入；未設則照常打正式 Edge Function。
+const PROXY_URL = process.env.EXPO_PUBLIC_TUTOR_PROXY_URL
+
 export const useTutorStore = create<TutorState>((set, get) => ({
   isOpen: false,
   messages: [],
@@ -63,27 +67,36 @@ export const useTutorStore = create<TutorState>((set, get) => ({
     set((state) => ({ messages: [...state.messages, userMessage], loading: true, error: null }))
 
     try {
-      const { data: { session } } = await supabase.auth.getSession()
-      if (!session) {
-        set({ error: 'unauthorized', loading: false })
-        return
-      }
-
       // 帶最近 20 則訊息（含剛 push 的 user 訊息）
       const history = get().messages.slice(-20).map((m) => ({ role: m.role, content: m.content }))
 
-      const res = await fetch(
-        `${process.env.EXPO_PUBLIC_SUPABASE_URL}/functions/v1/tutor-chat`,
-        {
+      let res: Response
+      if (PROXY_URL) {
+        // Bypass：本機 proxy，不需 Supabase session
+        res = await fetch(`${PROXY_URL}/tutor-chat`, {
           method: 'POST',
-          headers: {
-            Authorization: `Bearer ${session.access_token}`,
-            'Content-Type': 'application/json',
-            apikey: process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY!,
-          },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ messages: history }),
+        })
+      } else {
+        const { data: { session } } = await supabase.auth.getSession()
+        if (!session) {
+          set({ error: 'unauthorized', loading: false })
+          return
         }
-      )
+        res = await fetch(
+          `${process.env.EXPO_PUBLIC_SUPABASE_URL}/functions/v1/tutor-chat`,
+          {
+            method: 'POST',
+            headers: {
+              Authorization: `Bearer ${session.access_token}`,
+              'Content-Type': 'application/json',
+              apikey: process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY!,
+            },
+            body: JSON.stringify({ messages: history }),
+          }
+        )
+      }
 
       const result = await res.json()
       if (!res.ok) {

@@ -112,11 +112,14 @@ export default function TutorChatModal() {
       <SafeAreaView style={styles.root} edges={['top', 'left', 'right', 'bottom']}>
         {/* Header */}
         <View style={styles.header}>
-          <Text style={styles.headerTitle}>AI 英文老師</Text>
+          <View>
+            <Text style={styles.headerTitle}>Polaris</Text>
+            <Text style={styles.headerSubtitle}>你的英文引路人</Text>
+          </View>
           <View style={styles.headerRight}>
             {remaining != null && (
               <View style={styles.remainingBadge}>
-                <Text style={styles.remainingText}>剩餘 {remaining}</Text>
+                <Text style={styles.remainingText}>今日免費 {remaining} 則</Text>
               </View>
             )}
             <TouchableOpacity style={styles.closeBtn} onPress={close} activeOpacity={0.7}>
@@ -144,8 +147,8 @@ export default function TutorChatModal() {
             {isEmpty ? (
               <View style={styles.empty}>
                 <Text style={styles.emptyEn}>
-                  Hi! I'm your English tutor. Tell me anything in English — I'll gently fix mistakes and keep the
-                  conversation going.
+                  Hi! I'm Polaris, your English tutor. Tell me anything in English — I'll gently fix mistakes and keep
+                  the conversation going.
                 </Text>
                 <Text style={styles.emptyZh}>
                   用英文跟我聊聊吧，我會溫和地幫你修正並鼓勵你多說。也可以直接用中文發問。
@@ -242,10 +245,17 @@ const styles = StyleSheet.create({
     backgroundColor: colors.surface,
   },
   headerTitle: {
-    fontFamily: fonts.outfitMedium,
-    fontSize: 15,
-    color: colors.text,
-    letterSpacing: 0.3,
+    fontFamily: fonts.cinzel,
+    fontSize: 16,
+    color: colors.gold,
+    letterSpacing: 0.5,
+  },
+  headerSubtitle: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    color: colors.muted,
+    letterSpacing: 1,
+    marginTop: 1,
   },
   headerRight: {
     flexDirection: 'row',
