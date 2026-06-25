@@ -13,6 +13,8 @@ import SpeakScreen from '../screens/tabs/SpeakScreen'
 import ConversationScreen from '../screens/tabs/ConversationScreen'
 import ReviewScreen from '../screens/tabs/ReviewScreen'
 import AccountScreen from '../screens/tabs/AccountScreen'
+import TutorFab from '../components/TutorFab'
+import TutorChatModal from '../components/TutorChatModal'
 
 type TabName = 'Listen' | 'Conversation' | 'Review' | 'Speak' | 'Schedule' | 'Account'
 
@@ -158,6 +160,10 @@ function TabNavigatorInner() {
       <View style={styles.content}>
         <ActiveScreen />
       </View>
+
+      {/* Floating AI tutor — available on every tab */}
+      <TutorFab />
+      <TutorChatModal />
     </SafeAreaView>
   )
 }

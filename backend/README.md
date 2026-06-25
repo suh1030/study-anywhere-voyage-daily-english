@@ -15,6 +15,7 @@ backend/
         │   ├── cors.ts                  # CORS headers 工具
         │   └── supabase-client.ts       # User / Admin client 工廠
         ├── feedback/                    # AI 批改 + 原子扣點（需 JWT）
+        ├── tutor-chat/                  # AI 英文老師多輪對話（需 JWT，OpenRouter）
         ├── credits-webhook/             # RevenueCat IAP 回調（HMAC 驗證）
         ├── progress-sync/               # 學習進度雲端同步（需 JWT）
         ├── content-episode/             # 取得 Podcast 集數（公開）
@@ -26,6 +27,7 @@ backend/
 | 函式 | 方法 | 需要 JWT | 說明 |
 |------|------|----------|------|
 | `feedback` | POST | 是 | AI 批改，扣 1 點 |
+| `tutor-chat` | POST | 是 | AI 英文老師多輪對話，每日 30 則上限（不扣點） |
 | `credits-webhook` | POST | 否（HMAC） | RevenueCat 購買回調 |
 | `progress-sync` | POST | 是 | 上傳/下載學習進度 |
 | `content-episode` | GET | 否 | 取得 Podcast 集數 |
@@ -45,6 +47,8 @@ backend/
 | 變數名 | 取得方式 |
 |--------|----------|
 | `ANTHROPIC_API_KEY` | console.anthropic.com → API Keys |
+| `OPENROUTER_API_KEY` | openrouter.ai → Keys（供 `tutor-chat` 呼叫 OpenRouter） |
+| `OPENROUTER_MODEL` | 選填，預設 `openai/gpt-oss-120b:free`，可一行替換模型 |
 | `REVENUECAT_WEBHOOK_SECRET` | RevenueCat Dashboard → Webhooks → Shared Secret |
 
 ### 3. 設定 RevenueCat Webhook URL
@@ -85,6 +89,8 @@ supabase functions serve feedback --env-file .env.local
 `.env.example`：
 ```
 ANTHROPIC_API_KEY=sk-ant-...
+OPENROUTER_API_KEY=sk-or-...
+OPENROUTER_MODEL=openai/gpt-oss-120b:free
 REVENUECAT_WEBHOOK_SECRET=your-webhook-secret
 ```
 
@@ -102,6 +108,8 @@ supabase functions deploy
 
 # 4. 設定 Secrets（或在 Dashboard 手動設定）
 supabase secrets set ANTHROPIC_API_KEY=sk-ant-...
+supabase secrets set OPENROUTER_API_KEY=sk-or-...
+supabase secrets set OPENROUTER_MODEL=openai/gpt-oss-120b:free   # 選填
 supabase secrets set REVENUECAT_WEBHOOK_SECRET=your-secret
 ```
 
