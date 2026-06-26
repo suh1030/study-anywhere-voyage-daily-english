@@ -1,7 +1,7 @@
 # Polaris 看得到 app 學習狀態（App-Awareness）設計
 
 日期：2026-06-25
-狀態：**設計完成，待實作**（使用者決定：先設計、之後再做）
+狀態：**已實作**（2026-06-26 完成；context 注入，proxy + Edge Function + 前端皆已串接，bypass 實測通過）
 
 ## 目標
 

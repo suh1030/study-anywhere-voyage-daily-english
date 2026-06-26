@@ -1,5 +1,6 @@
 import { create } from 'zustand'
 import { supabase } from '../lib/supabase'
+import { buildLearningContext } from '../data/learning-context'
 
 export type TutorMessage = { id: string; role: 'user' | 'assistant'; content: string }
 
@@ -67,8 +68,9 @@ export const useTutorStore = create<TutorState>((set, get) => ({
     set((state) => ({ messages: [...state.messages, userMessage], loading: true, error: null }))
 
     try {
-      // 帶最近 20 則訊息（含剛 push 的 user 訊息）
+      // 帶最近 20 則訊息（含剛 push 的 user 訊息）+ 學習狀態快照
       const history = get().messages.slice(-20).map((m) => ({ role: m.role, content: m.content }))
+      const context = buildLearningContext()
 
       let res: Response
       if (PROXY_URL) {
@@ -76,7 +78,7 @@ export const useTutorStore = create<TutorState>((set, get) => ({
         res = await fetch(`${PROXY_URL}/tutor-chat`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ messages: history }),
+          body: JSON.stringify({ messages: history, context }),
         })
       } else {
         const { data: { session } } = await supabase.auth.getSession()
@@ -93,7 +95,7 @@ export const useTutorStore = create<TutorState>((set, get) => ({
               'Content-Type': 'application/json',
               apikey: process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY!,
             },
-            body: JSON.stringify({ messages: history }),
+            body: JSON.stringify({ messages: history, context }),
           }
         )
       }

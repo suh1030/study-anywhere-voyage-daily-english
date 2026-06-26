@@ -18,7 +18,19 @@ import Svg, { Path } from 'react-native-svg'
 import { colors, fonts, spacing, radius, typography } from '../constants/theme'
 import { useTutorStore, type TutorMessage } from '../stores/tutorStore'
 
-const PRIVACY_LINE = '🔒 對話不會被儲存，關閉 App 後即清除'
+const PRIVACY_LINE = '對話不會被儲存，關閉 App 後即清除'
+const TUTOR_DAILY_LIMIT = 30 // 與後端 DAILY_LIMIT 一致
+
+// 把 **粗體** 標記渲染成實際粗體（模型常用來標正確說法）
+function renderRich(text: string, boldStyle: object) {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, i) =>
+    part.startsWith('**') && part.endsWith('**') ? (
+      <Text key={i} style={boldStyle}>{part.slice(2, -2)}</Text>
+    ) : (
+      part
+    )
+  )
+}
 
 const STARTER_PHRASES = [
   'Can we practice ordering food at a restaurant?',
@@ -38,6 +50,16 @@ function SendIcon({ color }: { color: string }) {
   return (
     <Svg width={20} height={20} viewBox="0 0 24 24" fill="none">
       <Path d="M4 12l16-8-6 16-3-7-7-1z" stroke={color} strokeWidth="1.5" strokeLinejoin="round" fill="none" />
+    </Svg>
+  )
+}
+
+function WarnIcon({ color }: { color: string }) {
+  return (
+    <Svg width={13} height={13} viewBox="0 0 24 24" fill="none">
+      <Path d="M12 3.5L21.5 20H2.5L12 3.5z" stroke={color} strokeWidth="1.6" strokeLinejoin="round" />
+      <Path d="M12 10v4.5" stroke={color} strokeWidth="1.6" strokeLinecap="round" />
+      <Path d="M12 17.2h.01" stroke={color} strokeWidth="2" strokeLinecap="round" />
     </Svg>
   )
 }
@@ -67,7 +89,7 @@ function MessageBubble({ message }: { message: TutorMessage }) {
       style={[styles.bubbleRow, isUser ? styles.bubbleRowRight : styles.bubbleRowLeft]}
     >
       <View style={[styles.bubble, isUser ? styles.userBubble : styles.assistantBubble]}>
-        <Text style={styles.bubbleText}>{message.content}</Text>
+        <Text style={styles.bubbleText}>{renderRich(message.content, styles.bubbleBold)}</Text>
       </View>
     </TouchableOpacity>
   )
@@ -119,7 +141,7 @@ export default function TutorChatModal() {
           <View style={styles.headerRight}>
             {remaining != null && (
               <View style={styles.remainingBadge}>
-                <Text style={styles.remainingText}>今日免費 {remaining} 則</Text>
+                <Text style={styles.remainingText}>今日可用 {remaining}/{TUTOR_DAILY_LIMIT} 則</Text>
               </View>
             )}
             <TouchableOpacity style={styles.closeBtn} onPress={close} activeOpacity={0.7}>
@@ -130,6 +152,7 @@ export default function TutorChatModal() {
 
         {/* Privacy reminder bar — 常駐 */}
         <View style={styles.privacyBar}>
+          <WarnIcon color={colors.warning} />
           <Text style={styles.privacyText}>{PRIVACY_LINE}</Text>
         </View>
 
@@ -147,13 +170,12 @@ export default function TutorChatModal() {
             {isEmpty ? (
               <View style={styles.empty}>
                 <Text style={styles.emptyEn}>
-                  Hi! I'm Polaris, your English tutor. Tell me anything in English — I'll gently fix mistakes and keep
-                  the conversation going.
+                  Hi, I'm Polaris — your English tutor. Ask me anything about learning English, and I can also check
+                  your progress: how far you've come, your flashcards, or any days you missed.
                 </Text>
                 <Text style={styles.emptyZh}>
-                  用英文跟我聊聊吧，我會溫和地幫你修正並鼓勵你多說。也可以直接用中文發問。
+                  嗨，我是 Polaris，你的英文學習引路人。任何英文學習問題都可以問我，也可以問你的學習狀況——像是讀到第幾天、字卡複習得怎樣、哪天沒打卡。用英文或中文跟我說都可以，我會即時幫你修正、引導你多開口。
                 </Text>
-                <Text style={styles.emptyNote}>對話不會被儲存，關閉 App 後即清除。</Text>
                 <View style={styles.chips}>
                   {STARTER_PHRASES.map((phrase) => (
                     <TouchableOpacity
@@ -284,6 +306,9 @@ const styles = StyleSheet.create({
   },
 
   privacyBar: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
     paddingHorizontal: spacing.lg,
     paddingVertical: 8,
     borderBottomWidth: 1,
@@ -370,6 +395,10 @@ const styles = StyleSheet.create({
     fontSize: 15,
     lineHeight: 23,
     color: colors.text,
+  },
+  bubbleBold: {
+    fontWeight: '700',
+    color: colors.gold2,
   },
   typingBubble: {
     alignSelf: 'flex-start',
