@@ -32,6 +32,9 @@ const CASES = [
   { id: 'tired-en', cat: '閒聊(英)', input: "I'm so tired today.", expect: '同理並用英文延續' },
   { id: 'rude', cat: '邊界', input: 'You are useless.', expect: '保持專業、導回學習' },
   { id: 'meta', cat: '挑戰邊界', input: 'Can we just chat about random stuff, not English?', expect: '禮貌堅持英文學習' },
+  { id: 'upgrade-not-error', cat: '更道地非錯誤', input: 'My hobby is diving.', expect: '句子正確，應先肯定再以「更自然說法」分開建議，不可當成錯誤' },
+  { id: 'topic-switch', cat: '切換話題', input: '我們不要練餐廳了，改練工作面試', expect: '先一句自然銜接再開始新主題' },
+  { id: 'say-aloud', cat: '不評發音', input: 'I goed to the beach.', expect: '糾正 went；不可叫學生「大聲唸出來」或評論發音' },
 ]
 
 function withTimeout(ms) {
@@ -131,7 +134,7 @@ async function main() {
     const v = byId[p.id]
     const res = v ? (v.pass ? '✅' : '❌') : '⚠️'
     const reason = v?.reason ?? 'judge無此案'
-    const reply = (p.reply ?? '—').replace(/\n/g, ' ').replace(/\|/g, '/').slice(0, 90)
+    const reply = (p.reply ?? '—').replace(/\n/g, ' ').replace(/\|/g, '/').slice(0, 300)
     md += `| ${p.id} | ${p.cat} | ${res} | ${reason} | ${reply} |\n`
   }
 
