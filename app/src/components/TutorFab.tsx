@@ -1,18 +1,16 @@
 import React from 'react'
-import { TouchableOpacity, StyleSheet, Platform } from 'react-native'
+import { TouchableOpacity, Text, StyleSheet, Platform } from 'react-native'
 import Svg, { Path } from 'react-native-svg'
-import { colors, radius } from '../constants/theme'
+import { colors, radius, fonts } from '../constants/theme'
 import { useTutorStore } from '../stores/tutorStore'
 
-function ChatIcon({ color }: { color: string }) {
+// 引路星（Polaris = 北極星，icon B 單顆星），象徵 AI 引路老師
+function StarIcon() {
   return (
-    <Svg width={24} height={24} viewBox="0 0 24 24" fill="none">
+    <Svg width={22} height={22} viewBox="0 0 24 24" fill="none">
       <Path
-        d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
-        stroke={color}
-        strokeWidth="1.6"
-        fill="none"
-        strokeLinejoin="round"
+        d="M12 2 L14.2 9.8 L22 12 L14.2 14.2 L12 22 L9.8 14.2 L2 12 L9.8 9.8 Z"
+        fill={colors.gold}
       />
     </Svg>
   )
@@ -26,7 +24,9 @@ export default function TutorFab() {
 
   return (
     <TouchableOpacity style={styles.fab} onPress={open} activeOpacity={0.85}>
-      <ChatIcon color={colors.gold} />
+      <StarIcon />
+      <Text style={styles.name}>Polaris</Text>
+      <Text style={styles.role}>AI老師</Text>
     </TouchableOpacity>
   )
 }
@@ -36,25 +36,39 @@ const styles = StyleSheet.create({
     position: 'absolute',
     bottom: 24,
     right: 20,
-    width: 56,
-    height: 56,
+    height: 46,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 7,
+    paddingLeft: 14,
+    paddingRight: 18,
     borderRadius: radius.full,
     backgroundColor: colors.surface2,
     borderWidth: 1,
     borderColor: colors.gold + '50',
-    alignItems: 'center',
-    justifyContent: 'center',
     ...Platform.select({
       ios: {
         shadowColor: '#000',
         shadowOffset: { width: 0, height: 3 },
-        shadowOpacity: 0.35,
-        shadowRadius: 6,
+        shadowOpacity: 0.4,
+        shadowRadius: 8,
       },
       android: {
         elevation: 6,
       },
       default: {},
     }),
+  },
+  name: {
+    fontFamily: fonts.cinzel,
+    fontSize: 14,
+    color: colors.gold,
+    letterSpacing: 0.5,
+  },
+  role: {
+    fontFamily: fonts.mono,
+    fontSize: 11,
+    color: colors.uiDim,
+    letterSpacing: 0.5,
   },
 })
