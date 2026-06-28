@@ -169,12 +169,11 @@ export default function TutorChatModal() {
           >
             {isEmpty ? (
               <View style={styles.empty}>
-                <Text style={styles.emptyEn}>
-                  Hi, I'm Polaris — your English tutor. Ask me anything about learning English, and I can also check
-                  your progress: how far you've come, your flashcards, or any days you missed.
+                <Text style={styles.emptyLead}>
+                  嗨，我是 Polaris，你的英文學習引路人。任何英文學習問題都可以問我，也能查你的進度、字卡，或哪天沒打卡。
                 </Text>
-                <Text style={styles.emptyZh}>
-                  嗨，我是 Polaris，你的英文學習引路人。任何英文學習問題都可以問我，也可以問你的學習狀況——像是讀到第幾天、字卡複習得怎樣、哪天沒打卡。用英文或中文跟我說都可以，我會即時幫你修正、引導你多開口。
+                <Text style={styles.emptySub}>
+                  Let's get started — tell me anything in English, and I'll help you make it sound natural.
                 </Text>
                 <View style={styles.chips}>
                   {STARTER_PHRASES.map((phrase) => (
@@ -331,17 +330,17 @@ const styles = StyleSheet.create({
   empty: {
     paddingTop: spacing.xl,
   },
-  emptyEn: {
-    fontFamily: fonts.outfit,
+  emptyLead: {
     fontSize: 15,
-    lineHeight: 24,
+    lineHeight: 25,
     color: colors.text,
     marginBottom: spacing.sm,
   },
-  emptyZh: {
-    fontSize: 13,
+  emptySub: {
+    fontFamily: fonts.outfit,
+    fontSize: 14,
     lineHeight: 21,
-    color: colors.muted,
+    color: colors.uiDim,
     marginBottom: spacing.md,
   },
   emptyNote: {
