@@ -19,11 +19,11 @@ const DAILY_LIMIT = 30
 
 // 主模型 + 免費備援模型（免費模型在 OpenRouter 會間歇性 429；多供應商降低同時掛掉機率）
 const MODELS = [
-  process.env.OPENROUTER_MODEL ?? 'openai/gpt-oss-120b:free',
+  process.env.OPENROUTER_MODEL ?? 'google/gemma-4-31b-it:free', // 快(~1.5s) + 多語(中英)，當主力
   'meta-llama/llama-3.3-70b-instruct:free',
   'qwen/qwen3-next-80b-a3b-instruct:free',
-  'google/gemma-4-31b-it:free',
-  'openai/gpt-oss-20b:free',
+  'openai/gpt-oss-120b:free',
+  'openai/gpt-oss-20b:free', // 較慢，墊底備援
 ]
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
@@ -98,42 +98,33 @@ const server = createServer((req, res) => {
       }
       const payloadMessages = [...sysMsgs, ...history]
 
-      // 逐個模型嘗試；每個模型遇 429 先重試一次（短退避），再換下一個備援模型
+      // 逐個模型嘗試，遇 429/錯誤「立刻」換下一個（不乾等），讓成功或失敗都快
       let reply
       for (const model of MODELS) {
-        let done = false
-        for (let attempt = 0; attempt < 2 && !done; attempt++) {
-          try {
-            const orRes = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-              method: 'POST',
-              headers: {
-                Authorization: `Bearer ${API_KEY}`,
-                'Content-Type': 'application/json',
-                'HTTP-Referer': 'https://studyanywhere.app',
-                'X-Title': 'Study Anywhere Voyage',
-              },
-              body: JSON.stringify({ model, messages: payloadMessages, max_tokens: 600, temperature: 0.7 }),
-              signal: AbortSignal.timeout(25000),
-            })
-            if (orRes.status === 429) {
-              console.error(`[proxy] ${model} 429 (attempt ${attempt + 1})，退避重試/換模型`)
-              await sleep(1200)
-              continue
-            }
-            if (!orRes.ok) {
-              const detail = await orRes.text()
-              console.error(`[proxy] ${model} ${orRes.status}: ${detail.slice(0, 200)}`)
-              break // 換下一個模型
-            }
-            const data = await orRes.json()
-            reply = data.choices?.[0]?.message?.content ?? ''
-            done = true
-          } catch (e) {
-            console.error(`[proxy] ${model} fetch error`, e)
-            break
+        try {
+          const orRes = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+            method: 'POST',
+            headers: {
+              Authorization: `Bearer ${API_KEY}`,
+              'Content-Type': 'application/json',
+              'HTTP-Referer': 'https://studyanywhere.app',
+              'X-Title': 'Study Anywhere Voyage',
+            },
+            body: JSON.stringify({ model, messages: payloadMessages, max_tokens: 350, temperature: 0.7 }),
+            signal: AbortSignal.timeout(20000),
+          })
+          if (!orRes.ok) {
+            if (orRes.status === 429) console.error(`[proxy] ${model} 429，換下一個`)
+            else console.error(`[proxy] ${model} ${orRes.status}: ${(await orRes.text()).slice(0, 160)}`)
+            continue
           }
+          const data = await orRes.json()
+          reply = data.choices?.[0]?.message?.content ?? ''
+          break
+        } catch (e) {
+          console.error(`[proxy] ${model} 例外 ${e.name}，換下一個`)
+          continue
         }
-        if (reply != null) break
       }
 
       if (reply == null) {
