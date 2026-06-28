@@ -33,9 +33,9 @@ function renderRich(text: string, boldStyle: object) {
 }
 
 const STARTER_PHRASES = [
-  'Can we practice ordering food at a restaurant?',
-  'How do I sound more natural in meetings?',
   '我想練習用英文自我介紹',
+  '我最近的學習進度如何？',
+  'Can we practice ordering food at a restaurant?',
 ]
 
 function CloseIcon({ color }: { color: string }) {
