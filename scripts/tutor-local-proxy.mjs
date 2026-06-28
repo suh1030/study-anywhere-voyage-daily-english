@@ -17,11 +17,13 @@ const PORT = Number(process.env.PORT ?? 8787)
 const API_KEY = process.env.OPENROUTER_API_KEY
 const DAILY_LIMIT = 30
 
-// 主模型 + 免費備援模型（免費模型在 OpenRouter 會間歇性 429 上游限流）
+// 主模型 + 免費備援模型（免費模型在 OpenRouter 會間歇性 429；多供應商降低同時掛掉機率）
 const MODELS = [
   process.env.OPENROUTER_MODEL ?? 'openai/gpt-oss-120b:free',
   'meta-llama/llama-3.3-70b-instruct:free',
-  'google/gemini-2.0-flash-exp:free',
+  'qwen/qwen3-next-80b-a3b-instruct:free',
+  'google/gemma-4-31b-it:free',
+  'openai/gpt-oss-20b:free',
 ]
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 

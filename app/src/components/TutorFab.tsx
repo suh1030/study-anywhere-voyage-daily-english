@@ -1,5 +1,5 @@
 import React from 'react'
-import { TouchableOpacity, Text, StyleSheet, Platform } from 'react-native'
+import { View, TouchableOpacity, Text, StyleSheet, Platform } from 'react-native'
 import Svg, { Path } from 'react-native-svg'
 import { colors, fonts } from '../constants/theme'
 import { useTutorStore } from '../stores/tutorStore'
@@ -23,20 +23,22 @@ export default function TutorFab() {
   if (isOpen) return null
 
   return (
-    <TouchableOpacity style={styles.fab} onPress={open} activeOpacity={0.85}>
+    <TouchableOpacity style={styles.bubble} onPress={open} activeOpacity={0.85}>
       <StarIcon />
-      <Text style={styles.label}>AI老師</Text>
+      <Text style={styles.label}>AI Tutor</Text>
+      {/* 對話框尾巴：旋轉方塊，右下兩邊描邊形成指向下的尖角 */}
+      <View style={styles.tail} />
     </TouchableOpacity>
   )
 }
 
 const styles = StyleSheet.create({
-  fab: {
+  bubble: {
     position: 'absolute',
-    bottom: 26,
+    bottom: 28,
     right: 20,
-    width: 60,
-    height: 56,
+    paddingHorizontal: 14,
+    paddingVertical: 9,
     borderRadius: 18,
     backgroundColor: colors.surface2,
     borderWidth: 1,
@@ -57,10 +59,23 @@ const styles = StyleSheet.create({
       default: {},
     }),
   },
+  tail: {
+    position: 'absolute',
+    bottom: -5,
+    left: 16,
+    width: 11,
+    height: 11,
+    backgroundColor: colors.surface2,
+    borderRightWidth: 1,
+    borderBottomWidth: 1,
+    borderColor: colors.gold + '55',
+    transform: [{ rotate: '45deg' }],
+  },
   label: {
     fontFamily: fonts.mono,
     fontSize: 10,
-    color: colors.uiDim,
+    color: colors.ui,
     letterSpacing: 0.5,
+    marginTop: 1,
   },
 })
