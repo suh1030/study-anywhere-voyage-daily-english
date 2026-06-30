@@ -1,4 +1,5 @@
 name: Deploy Legal Pages
+run-name: deploy-prod ${{ inputs.correlation_id }}
 
 on:
   push:
@@ -7,6 +8,11 @@ on:
       - 'docs/legal/**'
 
   workflow_dispatch:
+    inputs:
+      correlation_id:
+        required: false
+      release_id:
+        required: false
 
 permissions:
   contents: read
