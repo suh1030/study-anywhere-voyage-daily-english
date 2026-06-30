@@ -4,7 +4,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 1,
-    "date": "2026-03-23",
     "theme": "Colleagues & Teamwork",
     "title": "Working Together: Office Relationships",
     "phase": "p2",
@@ -316,7 +315,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 2,
-    "date": "2026-03-24",
     "theme": "Colleagues & Teamwork",
     "title": "Giving and Receiving Feedback at Work",
     "phase": "p2",
@@ -633,7 +631,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 3,
-    "date": "2026-03-25",
     "theme": "Colleagues & Teamwork",
     "title": "Difficult Colleagues",
     "phase": "p2",
@@ -950,7 +947,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 4,
-    "date": "2026-03-26",
     "theme": "Colleagues & Teamwork",
     "title": "Leading and Being Led",
     "phase": "p2",
@@ -1262,7 +1258,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 5,
-    "date": "2026-03-27",
     "theme": "Colleagues & Teamwork",
     "title": "Remote Work and Team Connection",
     "phase": "p2",
@@ -1579,7 +1574,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 6,
-    "date": "2026-03-28",
     "theme": "Colleagues & Teamwork",
     "title": "Meetings and Productivity",
     "phase": "p2",
@@ -1896,7 +1890,6 @@ export const WEEK_13: Episode[] = [
   {
     "weekNumber": 13,
     "dayOfWeek": 7,
-    "date": "2026-03-29",
     "theme": "Colleagues & Teamwork",
     "title": "Professional Growth and Career Development",
     "phase": "p2",

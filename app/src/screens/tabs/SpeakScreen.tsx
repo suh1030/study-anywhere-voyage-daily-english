@@ -14,7 +14,7 @@ import { useAudioRecorder, useAudioPlayer, AudioModule, RecordingPresets } from 
 import * as Speech from 'expo-speech'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
+import { getCurrentScheduleEntry } from '../../data/curriculum'
 import { fetchArticle, fetchQuestion, type ArticleRow, type QuestionRow } from '../../data/content-api'
 import { useCurriculumStore } from '../../stores/curriculumStore'
 
@@ -87,7 +87,7 @@ export default function SpeakScreen() {
   useEffect(() => {
     if (scheduleLoading) return
 
-    const entry = getScheduleEntry(schedule, getTodayKey())
+    const entry = getCurrentScheduleEntry(schedule)
     if (!entry) {
       setArticle(null)
       setQuestion(null)

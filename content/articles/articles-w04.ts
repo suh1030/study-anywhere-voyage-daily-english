@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W4_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-01-19',
     topic: 'Home & Living Space',
     title: 'Where I Live: Describing Your Home',
     wordCount: 512,
@@ -17,7 +16,6 @@ export const W4_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-20',
     topic: 'Home & Living Space',
     title: 'Renting vs. Buying',
     wordCount: 486,
@@ -32,7 +30,6 @@ export const W4_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-21',
     topic: 'Home & Living Space',
     title: 'Decluttering and Minimalism',
     wordCount: 488,
@@ -47,7 +44,6 @@ export const W4_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-22',
     topic: 'Home & Living Space',
     title: 'Neighbors and Community',
     wordCount: 470,
@@ -62,7 +58,6 @@ export const W4_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-23',
     topic: 'Home & Living Space',
     title: 'Home Cooking and the Kitchen',
     wordCount: 497,
@@ -77,7 +72,6 @@ export const W4_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-24',
     topic: 'Home & Living Space',
     title: 'Interior Design and Personal Style',
     wordCount: 502,
@@ -92,11 +86,10 @@ export const W4_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-25',
     topic: 'Home & Living Space',
     title: 'Home, Rest, and Reflection',
     wordCount: 544,
-    text: `<p>There is a particular quality to coming home at the end of a difficult day — crossing the threshold from the public world into the private one — that is hard to replicate elsewhere. The home, even an imperfect one, offers something that no other place quite does: a context in which you are known, in which the rules are yours, and in which the texture of the space has been shaped by your presence over time. That quality is not automatic, and it is not guaranteed by ownership or size. It has to be cultivated, and the ways people cultivate it are worth thinking about.</p><p>Rest at home is different from rest elsewhere. A holiday is often restorative but it is also effortful in its own way — new environments, unfamiliar logistics, the social demands of being away with other people. Rest at home is quieter and more ordinary, which makes it easier to undervalue. Doing nothing in a familiar environment, being released from the pressure to be interesting or productive or anywhere in particular, is something that a home uniquely enables. The challenge in modern life is that the same devices and habits that connect you to work and to an endless stream of input follow you home and compete for the space that rest requires.</p><p>The home as a space for reflection is related to but different from the home as a space for rest. Reflection requires some stillness but it is an active process — turning experience over, looking at it from different angles, drawing provisional conclusions and revising them. It is something that happens naturally in some environments and is almost impossible in others. Many people report that they do their best thinking in the shower, on walks, or in the transitional moments between sleeping and waking, because those are the few remaining times when the input is switched off and the mind can work on its own material.</p><p>The design of domestic space can support or undermine both rest and reflection. A home that is too noisy, too bright, too connected to the outside world at all times, makes genuine quiet difficult to achieve. One that has spaces for different kinds of activity — a place to cook, a place to sit without screens, a place for work that can be separated from the place for rest — gives the rhythms of daily life somewhere to land. Not everyone has the luxury of designing a home with this kind of intentionality. But even small choices — where the phone is charged, which lights are used in the evening, whether there is a chair near a window — can alter the character of a space in meaningful ways.</p><p>What a home ultimately gives you is not comfort in the shallow sense — physical warmth, entertainment, convenience — but something more like context. A place that holds your history, accommodates your routines, and reflects something real about who you are. That context does not make life easier in the way that money or luck does, but it provides a base from which difficulties are more navigable and good things are more receivable. The quality of that base matters, even when — especially when — it is hard to articulate why.</p>`,
+    text: `<p>There is a particular quality to coming home at the end of a difficult day — crossing the threshold from the public world into the private one — that is hard to replicate elsewhere. The home, even an imperfect one, offers something that no other place quite does: a context in which you are known, in which the rules are yours, and in which the texture of the space has been shaped by your presence over time. That quality is not automatic, and it is not guaranteed by ownership or size. It has to be cultivated, and the ways people cultivate it are worth thinking about.</p><p>Rest at home is different from rest elsewhere. A vacation is often restorative but it is also effortful in its own way — new environments, unfamiliar logistics, the social demands of being away with other people. Rest at home is quieter and more ordinary, which makes it easier to undervalue. Doing nothing in a familiar environment, being released from the pressure to be interesting or productive or anywhere in particular, is something that a home uniquely enables. The challenge in modern life is that the same devices and habits that connect you to work and to an endless stream of input follow you home and compete for the space that rest requires.</p><p>The home as a space for reflection is related to but different from the home as a space for rest. Reflection requires some stillness but it is an active process — turning experience over, looking at it from different angles, drawing provisional conclusions and revising them. It is something that happens naturally in some environments and is almost impossible in others. Many people report that they do their best thinking in the shower, on walks, or in the transitional moments between sleeping and waking, because those are the few remaining times when the input is switched off and the mind can work on its own material.</p><p>The design of domestic space can support or undermine both rest and reflection. A home that is too noisy, too bright, too connected to the outside world at all times, makes genuine quiet difficult to achieve. One that has spaces for different kinds of activity — a place to cook, a place to sit without screens, a place for work that can be separated from the place for rest — gives the rhythms of daily life somewhere to land. Not everyone has the luxury of designing a home with this kind of intentionality. But even small choices — where the phone is charged, which lights are used in the evening, whether there is a chair near a window — can alter the character of a space in meaningful ways.</p><p>What a home ultimately gives you is not comfort in the shallow sense — physical warmth, entertainment, convenience — but something more like context. A place that holds your history, accommodates your routines, and reflects something real about who you are. That context does not make life easier in the way that money or luck does, but it provides a base from which difficulties are more navigable and good things are more receivable. The quality of that base matters, even when — especially when — it is hard to articulate why.</p>`,
     textZh: `<p>在困難的一天結束後回到家——跨過門檻，從公共世界進入私人世界——有一種在其他任何地方都難以複製的特殊品質。家，即使是不完美的那種，提供了其他地方無法給予的東西：一個你被認識、規則是你自己訂的、空間的質地被你長時間的存在所塑造的環境。這種品質不是自動的，也不由所有權或坪數來保證。它需要被培養，而人們培養它的方式值得好好思考。</p><p>在家休息和在其他地方休息不同。假期往往有恢復性，但也有它自己的費力之處——新環境、不熟悉的後勤、與他人一起出遊的社交需求。在家休息更安靜、更平常，這讓它反而更容易被低估。在熟悉的環境裡什麼都不做、從必須有趣、有生產力或去任何特定地方的壓力中解放出來——這種狀態是家所獨有的許可。現代生活的挑戰是，把你與工作和無盡資訊流連結起來的那些設備和習慣，跟著你回家，與休息所需的空間彼此競爭。</p><p>作為反思空間的家，與作為休息空間的家相關但不同。反思需要某種靜止，但它是一個主動的過程——翻轉體驗、從不同角度審視它、得出初步結論再修正它們。這件事在某些環境中自然發生，在另一些環境中卻幾乎不可能。許多人說，他們在淋浴時、散步時、或在睡眠與醒來之間的過渡時刻，思考得最好——因為那是剩下的少數幾個外部輸入被關掉、讓心智能處理自己素材的時刻。</p><p>家居空間的設計可以支持或破壞休息和反思。一個太嘈雜、太明亮、始終過度連結外部世界的家，讓真正的安靜難以實現。一個有不同活動空間的家——一個煮飯的地方、一個可以不看螢幕坐著的地方、一個可以和休息空間分開的工作角落——給了日常生活的節奏一個著陸的地方。不是每個人都有條件帶著這種意圖設計自己的家。但即使是小小的選擇——手機在哪裡充電、晚上用哪些燈、是否有一把靠近窗戶的椅子——都可以以有意義的方式改變空間的性格。</p><p>家最終給你的，不是表面意義上的舒適——物理上的溫暖、娛樂、便利——而是更像「脈絡」的東西。一個承載你歷史、容納你日常習慣、反映某些關於你真實樣子的地方。這個脈絡不像金錢或運氣那樣讓生活更容易，但它提供了一個基礎，讓困難更容易應對、讓美好的事物更容易被接收。那個基礎的品質很重要，即使——尤其是當——很難說清楚為什麼。</p>`,
     vocabulary: [
       { word: 'threshold', definition: '門檻；進入新狀態的臨界點', example: 'Crossing the threshold of her apartment each evening felt like a genuine shift in mode, from public to private.' },

@@ -4,7 +4,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 1,
-    "date": "2026-04-27",
     "theme": "Conflict & Resolution",
     "title": "Working It Out: How We Handle Disagreements",
     "phase": "p2",
@@ -321,7 +320,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 2,
-    "date": "2026-04-28",
     "theme": "Conflict & Resolution",
     "title": "Where Arguments Usually Begin",
     "phase": "p2",
@@ -633,7 +631,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 3,
-    "date": "2026-04-29",
     "theme": "Conflict & Resolution",
     "title": "How to Disagree Without Hurting the Relationship",
     "phase": "p2",
@@ -950,7 +947,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 4,
-    "date": "2026-04-30",
     "theme": "Conflict & Resolution",
     "title": "When an Apology Works and When It Does Not",
     "phase": "p2",
@@ -1267,7 +1263,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 5,
-    "date": "2026-05-01",
     "theme": "Conflict & Resolution",
     "title": "Boundaries, Honesty, and Respect",
     "phase": "p2",
@@ -1584,7 +1579,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 6,
-    "date": "2026-05-02",
     "theme": "Conflict & Resolution",
     "title": "Repairing Trust After a Fight",
     "phase": "p2",
@@ -1901,7 +1895,6 @@ export const WEEK_18: Episode[] = [
   {
     "weekNumber": 18,
     "dayOfWeek": 7,
-    "date": "2026-05-03",
     "theme": "Conflict & Resolution",
     "title": "What Conflict Can Teach a Relationship",
     "phase": "p2",

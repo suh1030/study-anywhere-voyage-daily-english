@@ -4,7 +4,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 1,
-    "date": "2026-02-02",
     "theme": "Food & Eating Habits",
     "title": "Let's Eat: Food Preferences and Habits",
     "phase": "p1",
@@ -321,7 +320,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 2,
-    "date": "2026-02-03",
     "theme": "Food & Eating Habits",
     "title": "Eating Out and Restaurant Culture",
     "phase": "p1",
@@ -585,7 +583,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 3,
-    "date": "2026-02-04",
     "theme": "Food & Eating Habits",
     "title": "Street Food and Local Eats",
     "phase": "p1",
@@ -632,7 +629,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Some of the world's most celebrated street food vendors have been doing the same dish for thirty years.",
+            "en": "Some of the world's most markd street food vendors have been doing the same dish for thirty years.",
             "zh": "世界上一些最知名的街頭食物攤販做同一道菜已經做了三十年了。"
           },
           {
@@ -902,7 +899,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 4,
-    "date": "2026-02-05",
     "theme": "Food & Eating Habits",
     "title": "Healthy Eating and Diets",
     "phase": "p1",
@@ -1214,7 +1210,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 5,
-    "date": "2026-02-06",
     "theme": "Food & Eating Habits",
     "title": "Food Memories and Family Recipes",
     "phase": "p1",
@@ -1531,7 +1526,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 6,
-    "date": "2026-02-07",
     "theme": "Food & Eating Habits",
     "title": "International Cuisine and Fusion",
     "phase": "p1",
@@ -1619,8 +1613,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "And culturally — is fusion ever appropriation? Or is it always celebration?",
-            "zh": "在文化上——融合有時候是文化挪用嗎？還是永遠是一種慶祝？"
+            "en": "And culturally — is fusion ever appropriation? Or is it always gathering?",
+            "zh": "在文化上——融合有時候是文化挪用嗎？還是永遠是一種標記？"
           },
           {
             "speaker": "a",
@@ -1843,7 +1837,6 @@ export const WEEK_06: Episode[] = [
   {
     "weekNumber": 6,
     "dayOfWeek": 7,
-    "date": "2026-02-08",
     "theme": "Food & Eating Habits",
     "title": "Food Trends and the Future of Eating",
     "phase": "p1",

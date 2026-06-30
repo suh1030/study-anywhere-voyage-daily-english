@@ -4,7 +4,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 1,
-    "date": "2026-12-21",
     "theme": "Year in Review",
     "title": "Looking Back to Move Forward",
     "phase": "p6",
@@ -321,7 +320,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 2,
-    "date": "2026-12-22",
     "theme": "Year in Review",
     "title": "Relationships and Connections",
     "phase": "p6",
@@ -585,7 +583,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 3,
-    "date": "2026-12-23",
     "theme": "Year in Review",
     "title": "Health and Energy in Review",
     "phase": "p6",
@@ -902,7 +899,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 4,
-    "date": "2026-12-24",
     "theme": "Year in Review",
     "title": "Work and Purpose Review",
     "phase": "p6",
@@ -1214,7 +1210,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 5,
-    "date": "2026-12-25",
     "theme": "Year in Review",
     "title": "Growth and Learning This Year",
     "phase": "p6",
@@ -1531,7 +1526,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 6,
-    "date": "2026-12-26",
     "theme": "Year in Review",
     "title": "Creativity and Joy in Review",
     "phase": "p6",
@@ -1848,7 +1842,6 @@ export const WEEK_52: Episode[] = [
   {
     "weekNumber": 52,
     "dayOfWeek": 7,
-    "date": "2026-12-27",
     "theme": "Year in Review",
     "title": "A Letter to Your Future Self",
     "phase": "p6",

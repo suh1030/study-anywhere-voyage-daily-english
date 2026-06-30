@@ -4,7 +4,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 1,
-    "date": "2026-09-28",
     "theme": "Change & Transitions",
     "title": "Life in Motion: Navigating Change and New Chapters",
     "phase": "p5",
@@ -321,7 +320,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 2,
-    "date": "2026-09-29",
     "theme": "Change & Transitions",
     "title": "Why Change Feels Unsettling",
     "phase": "p5",
@@ -638,7 +636,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 3,
-    "date": "2026-09-30",
     "theme": "Change & Transitions",
     "title": "Life Transitions and Identity Shifts",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 4,
-    "date": "2026-10-01",
     "theme": "Change & Transitions",
     "title": "Starting Over in Midstream",
     "phase": "p5",
@@ -1267,7 +1263,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 5,
-    "date": "2026-10-02",
     "theme": "Change & Transitions",
     "title": "How to Adapt Without Losing Yourself",
     "phase": "p5",
@@ -1584,7 +1579,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 6,
-    "date": "2026-10-03",
     "theme": "Change & Transitions",
     "title": "Letting Go of What No Longer Fits",
     "phase": "p5",
@@ -1896,7 +1890,6 @@ export const WEEK_40: Episode[] = [
   {
     "weekNumber": 40,
     "dayOfWeek": 7,
-    "date": "2026-10-04",
     "theme": "Change & Transitions",
     "title": "Trusting Yourself Through Uncertainty",
     "phase": "p5",

@@ -4,7 +4,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 1,
-    "date": "2026-05-04",
     "theme": "Your Job & Role",
     "title": "What I Do: Explaining Your Job to Anyone",
     "phase": "p3",
@@ -321,7 +320,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 2,
-    "date": "2026-05-05",
     "theme": "Your Job & Role",
     "title": "How to Introduce Your Role Clearly",
     "phase": "p3",
@@ -633,7 +631,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 3,
-    "date": "2026-05-06",
     "theme": "Your Job & Role",
     "title": "Purpose, Meaning, and Work",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 4,
-    "date": "2026-05-07",
     "theme": "Your Job & Role",
     "title": "Talking About Responsibility and Ownership",
     "phase": "p3",
@@ -1267,7 +1263,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 5,
-    "date": "2026-05-08",
     "theme": "Your Job & Role",
     "title": "Career Changes and How to Explain Them",
     "phase": "p3",
@@ -1579,7 +1574,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 6,
-    "date": "2026-05-09",
     "theme": "Your Job & Role",
     "title": "The Difference Between a Role and an Identity",
     "phase": "p3",
@@ -1896,7 +1890,6 @@ export const WEEK_19: Episode[] = [
   {
     "weekNumber": 19,
     "dayOfWeek": 7,
-    "date": "2026-05-10",
     "theme": "Your Job & Role",
     "title": "How to Talk About Your Work With Confidence",
     "phase": "p3",

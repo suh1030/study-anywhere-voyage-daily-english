@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W22_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-05-25',
     topic: 'Problem Solving',
     title: 'Figuring It Out: How We Tackle Problems',
     wordCount: 420,
@@ -17,7 +16,6 @@ export const W22_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-26',
     topic: 'Problem Solving',
     title: 'How You Approach a Difficult Problem',
     wordCount: 424,
@@ -32,7 +30,6 @@ export const W22_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-27',
     topic: 'Problem Solving',
     title: 'Creative Solutions and Fresh Thinking',
     wordCount: 432,
@@ -47,7 +44,6 @@ export const W22_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-28',
     topic: 'Problem Solving',
     title: 'When the Real Problem Is Hidden',
     wordCount: 455,
@@ -62,7 +58,6 @@ export const W22_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-29',
     topic: 'Problem Solving',
     title: 'Making Better Decisions When the Answer Is Unclear',
     wordCount: 451,
@@ -77,7 +72,6 @@ export const W22_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-30',
     topic: 'Problem Solving',
     title: 'Solving Problems Better as a Team',
     wordCount: 424,
@@ -92,7 +86,6 @@ export const W22_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-31',
     topic: 'Problem Solving',
     title: 'What Better Problem Solving Feels Like',
     wordCount: 432,

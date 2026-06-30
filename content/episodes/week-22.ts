@@ -4,7 +4,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 1,
-    "date": "2026-05-25",
     "theme": "Problem Solving",
     "title": "Figuring It Out: How We Tackle Problems",
     "phase": "p3",
@@ -321,7 +320,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 2,
-    "date": "2026-05-26",
     "theme": "Problem Solving",
     "title": "How You Approach a Difficult Problem",
     "phase": "p3",
@@ -633,7 +631,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 3,
-    "date": "2026-05-27",
     "theme": "Problem Solving",
     "title": "Creative Solutions and Fresh Thinking",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 4,
-    "date": "2026-05-28",
     "theme": "Problem Solving",
     "title": "When the Real Problem Is Hidden",
     "phase": "p3",
@@ -1267,7 +1263,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 5,
-    "date": "2026-05-29",
     "theme": "Problem Solving",
     "title": "Making Better Decisions When the Answer Is Unclear",
     "phase": "p3",
@@ -1584,7 +1579,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 6,
-    "date": "2026-05-30",
     "theme": "Problem Solving",
     "title": "Solving Problems Better as a Team",
     "phase": "p3",
@@ -1901,7 +1895,6 @@ export const WEEK_22: Episode[] = [
   {
     "weekNumber": 22,
     "dayOfWeek": 7,
-    "date": "2026-05-31",
     "theme": "Problem Solving",
     "title": "What Better Problem Solving Feels Like",
     "phase": "p3",

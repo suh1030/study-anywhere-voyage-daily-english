@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W9_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-02-23',
     topic: 'Health & Body',
     title: 'Taking Care of Yourself',
     wordCount: 421,
@@ -17,7 +16,6 @@ export const W9_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-24',
     topic: 'Health & Body',
     title: 'Sleep and Recovery',
     wordCount: 447,
@@ -32,7 +30,6 @@ export const W9_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-25',
     topic: 'Health & Body',
     title: 'Mental Health at Work',
     wordCount: 446,
@@ -47,11 +44,10 @@ export const W9_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-26',
     topic: 'Health & Body',
     title: 'Eating Well Without Obsessing',
     wordCount: 437,
-    text: `<p>Nutrition advice exists in such abundance and contradicts itself so frequently that following it can feel more stressful than simply eating whatever is convenient. Every few years, a food category gets rehabilitated or demonized — eggs go from dangerous to healthy, fat goes from villain to virtue, carbohydrates cycle through waves of demonization and redemption. Reasonable people, following reasonable guidance, have been whiplashed through multiple nutritional paradigms in a single generation. The result is widespread confusion and, paradoxically, worse eating habits.</p><p>The most consistent findings in nutrition science are the least exciting: eat a variety of minimally processed foods, include plenty of vegetables, do not eat so much that you consistently gain weight beyond what is healthy for your body, and avoid patterns of eating that make you feel terrible. This advice is not glamorous enough to sell a book or a supplement, but it is what the research most reliably supports across decades and across populations with very different dietary traditions.</p><p>Diet culture — the collection of beliefs that equate thinness with virtue and food restriction with self-discipline — has generated significant harm alongside its market success. Research consistently shows that restrictive dieting is not effective as a long-term weight management strategy for most people. The restriction-and-rebound cycle is so common it has been documented in medical literature for decades. What is less commonly acknowledged is that the same restrictive mentality, applied to nutrition, can create a disordered relationship with food that causes psychological damage independent of any physical health outcome.</p><p>Intuitive eating is an approach that attempts to move away from external food rules toward attention to internal hunger and fullness signals. It does not mean eating whatever you want without consideration, but rather developing a more attentive relationship with how different foods make your body feel — energized or sluggish, satisfied or unsettled, focused or foggy. This kind of embodied knowledge takes time to develop, particularly for people who have spent years overriding hunger and fullness cues in the service of external dietary rules.</p><p>The social dimension of eating matters for health in ways that nutrition labels cannot capture. Eating with others, sitting down for meals rather than eating while standing or working, taking genuine pleasure in food rather than treating it purely as fuel — these behaviors are consistently associated with better health outcomes across cultures. The Mediterranean diet, for instance, is celebrated not only for its nutritional profile but for the culture of leisurely, sociable eating that accompanies it. A nutrient-perfect meal eaten alone in a hurry is not the same thing as a less-optimized meal eaten slowly with people you enjoy.</p>`,
+    text: `<p>Nutrition advice exists in such abundance and contradicts itself so frequently that following it can feel more stressful than simply eating whatever is convenient. Every few years, a food category gets rehabilitated or demonized — eggs go from dangerous to healthy, fat goes from villain to virtue, carbohydrates cycle through waves of demonization and redemption. Reasonable people, following reasonable guidance, have been whiplashed through multiple nutritional paradigms in a single generation. The result is widespread confusion and, paradoxically, worse eating habits.</p><p>The most consistent findings in nutrition science are the least exciting: eat a variety of minimally processed foods, include plenty of vegetables, do not eat so much that you consistently gain weight beyond what is healthy for your body, and avoid patterns of eating that make you feel terrible. This advice is not glamorous enough to sell a book or a supplement, but it is what the research most reliably supports across decades and across populations with very different dietary traditions.</p><p>Diet culture — the collection of beliefs that equate thinness with virtue and food restriction with self-discipline — has generated significant harm alongside its market success. Research consistently shows that restrictive dieting is not effective as a long-term weight management strategy for most people. The restriction-and-rebound cycle is so common it has been documented in medical literature for decades. What is less commonly acknowledged is that the same restrictive mentality, applied to nutrition, can create a disordered relationship with food that causes psychological damage independent of any physical health outcome.</p><p>Intuitive eating is an approach that attempts to move away from external food rules toward attention to internal hunger and fullness signals. It does not mean eating whatever you want without consideration, but rather developing a more attentive relationship with how different foods make your body feel — energized or sluggish, satisfied or unsettled, focused or foggy. This kind of embodied knowledge takes time to develop, particularly for people who have spent years overriding hunger and fullness cues in the service of external dietary rules.</p><p>The social dimension of eating matters for health in ways that nutrition labels cannot capture. Eating with others, sitting down for meals rather than eating while standing or working, taking genuine pleasure in food rather than treating it purely as fuel — these behaviors are consistently associated with better health outcomes across cultures. The Mediterranean diet, for instance, is marked not only for its nutritional profile but for the culture of leisurely, sociable eating that accompanies it. A nutrient-perfect meal eaten alone in a hurry is not the same thing as a less-optimized meal eaten slowly with people you enjoy.</p>`,
     textZh: `<p>關於營養的建議滿坑滿谷，又頻繁地自相矛盾，遵循起來有時比隨便吃什麼還要有壓力。每隔幾年，某個食物類別就會被平反或妖魔化——雞蛋從危險變成健康，脂肪從反派變成美德，碳水化合物在一波又一波的撻伐與平反中循環。普通人跟著還算合理的建議走，卻在一個世代內被不同的營養典範折騰得暈頭轉向。最終的結果，弔詭地，是更糟的飲食習慣。</p><p>營養科學中最一致的發現，偏偏也是最無聊的：吃多樣、少加工的食物，多吃蔬菜，別吃到讓體重持續超出健康範圍，避免讓你身體感覺很糟的飲食模式。這個建議不夠光鮮，賣不了書，也撐不起一個保健品品牌，但它是幾十年來、跨越各種飲食傳統迥異的族群，研究最穩定支持的結論。</p><p>節食文化——那套把纖細等同於美德、把飲食限制等同於自律的信念體系——在市場上大獲成功，同時也造成了顯著的傷害。研究一再顯示，對多數人而言，限制性節食並不是有效的長期體重管理策略。限制與反彈的循環如此普遍，醫學文獻數十年前就已記錄在案。較少被提及的是，同樣的限制性思維，一旦套用在飲食上，可能讓人與食物發展出一種失調的關係——造成的心理損害，和身體健康結果無關，卻一樣真實。</p><p>直覺性飲食是一種試圖從外部飲食規則，轉向聆聽內在飢餓與飽足訊號的方法。這不是說想吃什麼就吃什麼，不加任何考量，而是培養一種更有意識的關係——留意不同食物讓身體感覺如何：充滿活力或昏昏欲睡、舒服或不對勁、清醒或腦袋糊成一片。這種從身體出發的認識需要時間建立，對那些多年來一直壓制飢飽訊號、靠著外部規則決定吃什麼的人來說尤其如此。</p><p>飲食的社交面向，對健康的影響是任何營養標籤都無法捕捉的。與人共餐、坐下來吃飯而不是站著或一邊工作一邊吃、從食物中獲得真正的享受而非把它純粹當作燃料——這些行為在不同文化中都與更好的健康結果穩定相關。地中海飲食之所以備受推崇，不只因為它的營養成分，也因為伴隨它的那種悠閒、看重共食的飲食文化。一頓營養完美卻匆促地獨自吃完的飯，和一頓與喜歡的人慢慢共享的、不那麼「最佳化」的飯，本就不是同一件事。</p>`,
     vocabulary: [
       { word: 'paradigm', definition: '典範；思維框架', example: 'Nutrition paradigms have shifted dramatically over the past fifty years.' },
@@ -62,7 +58,6 @@ export const W9_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-27',
     topic: 'Health & Body',
     title: 'When You Get Sick',
     wordCount: 424,
@@ -77,7 +72,6 @@ export const W9_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-28',
     topic: 'Health & Body',
     title: 'Exercise and Finding What Works',
     wordCount: 452,
@@ -92,7 +86,6 @@ export const W9_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-03-01',
     topic: 'Health & Body',
     title: 'Building Lasting Health Habits',
     wordCount: 453,

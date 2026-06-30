@@ -153,7 +153,7 @@ const EXAMPLE_UPDATES = {
   'w4-listen-06': 'The room lacked cohesion because every piece felt chosen for a different apartment and a different mood.',
   'w5-listen-01': 'Graduation photos help families mark time by showing how much everyone changed between one year and the next.',
   'w5-listen-02': 'The tradition still feels alive because children, grandparents, and shop owners all join in instead of just watching.',
-  'w5-listen-05': 'In their home, the kitchen sits at the center of every holiday because that is where stories and apologies happen.',
+  'w5-listen-05': 'In their home, the kitchen sits at the center of every family gathering because that is where stories and apologies happen.',
   'w5-listen-06': 'Singing the first chorus together created a shared mood that made even shy guests lean in.',
   'w5-speak-01': 'He always feels flat after a big family event, especially once the noise is gone and the apartment turns quiet again.',
   'w6-listen-04': 'The claim that eating late automatically causes weight gain has been debunked by studies that look at the whole diet.',

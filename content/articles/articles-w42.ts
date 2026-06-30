@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W42_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-10-12',
     topic: 'The Future',
     title: 'Looking Ahead: Hopes, Fears, and the Future',
     wordCount: 438,
@@ -17,7 +16,6 @@ export const W42_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-13',
     topic: 'The Future',
     title: 'Imagining the Future We Might Live In',
     wordCount: 438,
@@ -32,7 +30,6 @@ export const W42_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-14',
     topic: 'The Future',
     title: 'Hope, Fear, and What Comes Next',
     wordCount: 441,
@@ -47,7 +44,6 @@ export const W42_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-15',
     topic: 'The Future',
     title: 'Technology, Work, and the Near Future',
     wordCount: 437,
@@ -62,7 +58,6 @@ export const W42_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-16',
     topic: 'The Future',
     title: 'The Kind of Future People Want',
     wordCount: 437,
@@ -77,7 +72,6 @@ export const W42_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-17',
     topic: 'The Future',
     title: 'Planning for a Future You Cannot Fully Predict',
     wordCount: 439,
@@ -92,7 +86,6 @@ export const W42_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-18',
     topic: 'The Future',
     title: 'How Today Shapes Tomorrow',
     wordCount: 435,

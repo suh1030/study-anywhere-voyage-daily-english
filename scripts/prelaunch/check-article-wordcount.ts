@@ -11,7 +11,7 @@ async function main() {
     } else {
       await writeReport(
         outputPath,
-        `${toCsv(result.rows, ['weekNumber', 'dayOfWeek', 'dateKey', 'title', 'declared', 'actual', 'diff'])}\n`,
+        `${toCsv(result.rows, ['weekNumber', 'dayOfWeek', 'title', 'declared', 'actual', 'diff'])}\n`,
       )
     }
   }
@@ -45,4 +45,3 @@ main().catch((error) => {
   console.error(error)
   process.exit(1)
 })
-

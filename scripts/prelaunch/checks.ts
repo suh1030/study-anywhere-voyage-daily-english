@@ -37,7 +37,6 @@ export interface ArticlesImportCheckResult {
 export interface ArticleWordCountRow {
   weekNumber: number
   dayOfWeek: number
-  dateKey: string
   title: string
   declared: number
   actual: number
@@ -294,7 +293,6 @@ export async function checkArticleWordCount(): Promise<ArticleWordCountCheckResu
       rows.push({
         weekNumber: week.weekNumber,
         dayOfWeek: index + 1,
-        dateKey: String(article?.dateKey ?? ''),
         title: String(article?.title ?? ''),
         declared,
         actual,

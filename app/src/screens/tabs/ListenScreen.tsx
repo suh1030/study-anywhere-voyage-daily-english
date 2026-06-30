@@ -12,7 +12,7 @@ import Svg, { Polygon, Path, Circle } from 'react-native-svg'
 import * as Speech from 'expo-speech'
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
+import { getCurrentScheduleEntry } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
 import { useNav } from '../../navigation/NavContext'
 import { useCurriculumStore } from '../../stores/curriculumStore'
@@ -89,7 +89,7 @@ export default function ListenScreen() {
   useEffect(() => {
     if (scheduleLoading) return
 
-    const entry = getScheduleEntry(schedule, getTodayKey())
+    const entry = getCurrentScheduleEntry(schedule)
     if (!entry) {
       setEpisode(null)
       setLoading(false)

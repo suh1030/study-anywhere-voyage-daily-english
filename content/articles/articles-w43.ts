@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W43_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-10-19',
     topic: 'Looking Back & Moving Forward',
     title: 'Full Circle: Reflections on the Journey',
     wordCount: 435,
@@ -17,7 +16,6 @@ export const W43_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-20',
     topic: 'Looking Back & Moving Forward',
     title: 'Looking Back on How Much You\'ve Changed',
     wordCount: 434,
@@ -32,7 +30,6 @@ export const W43_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-21',
     topic: 'Looking Back & Moving Forward',
     title: 'What the Hard Years Taught You',
     wordCount: 438,
@@ -47,7 +44,6 @@ export const W43_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-22',
     topic: 'Looking Back & Moving Forward',
     title: 'The People and Moments That Shaped You',
     wordCount: 441,
@@ -62,7 +58,6 @@ export const W43_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-23',
     topic: 'Looking Back & Moving Forward',
     title: 'Regret, Gratitude, and Perspective',
     wordCount: 435,
@@ -77,7 +72,6 @@ export const W43_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-24',
     topic: 'Looking Back & Moving Forward',
     title: 'What You Want to Leave Behind',
     wordCount: 432,
@@ -92,7 +86,6 @@ export const W43_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-25',
     topic: 'Looking Back & Moving Forward',
     title: 'Moving Forward with More Intention',
     wordCount: 430,

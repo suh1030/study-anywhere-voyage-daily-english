@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W50_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-12-07',
     topic: 'Gratitude & Appreciation',
     title: 'The Science of Gratitude',
     wordCount: 476,
@@ -17,7 +16,6 @@ export const W50_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-08',
     topic: 'Gratitude & Appreciation',
     title: 'Appreciating People in Your Life',
     wordCount: 474,
@@ -32,7 +30,6 @@ export const W50_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-09',
     topic: 'Gratitude & Appreciation',
     title: 'Finding Beauty in Ordinary Life',
     wordCount: 481,
@@ -47,7 +44,6 @@ export const W50_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-10',
     topic: 'Gratitude & Appreciation',
     title: 'Gratitude and Perspective',
     wordCount: 472,
@@ -62,7 +58,6 @@ export const W50_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-11',
     topic: 'Gratitude & Appreciation',
     title: 'Gratitude at Work',
     wordCount: 473,
@@ -77,7 +72,6 @@ export const W50_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-12',
     topic: 'Gratitude & Appreciation',
     title: 'Gratitude Across Cultures',
     wordCount: 475,
@@ -92,7 +86,6 @@ export const W50_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-13',
     topic: 'Gratitude & Appreciation',
     title: 'A Week of Thankfulness',
     wordCount: 469,

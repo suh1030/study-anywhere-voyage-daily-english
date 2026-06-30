@@ -4,7 +4,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 1,
-    "date": "2026-09-07",
     "theme": "Health & Mental Wellbeing",
     "title": "Mind and Body: Taking Care of Your Health",
     "phase": "p5",
@@ -321,7 +320,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 2,
-    "date": "2026-09-08",
     "theme": "Health & Mental Wellbeing",
     "title": "What Mental Wellbeing Really Means",
     "phase": "p5",
@@ -638,7 +636,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 3,
-    "date": "2026-09-09",
     "theme": "Health & Mental Wellbeing",
     "title": "Stress, Anxiety, and Modern Life",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 4,
-    "date": "2026-09-10",
     "theme": "Health & Mental Wellbeing",
     "title": "Small Habits That Protect Your Mind",
     "phase": "p5",
@@ -1267,7 +1263,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 5,
-    "date": "2026-09-11",
     "theme": "Health & Mental Wellbeing",
     "title": "Talking More Honestly About Struggle",
     "phase": "p5",
@@ -1584,7 +1579,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 6,
-    "date": "2026-09-12",
     "theme": "Health & Mental Wellbeing",
     "title": "Rest, Therapy, and Support Systems",
     "phase": "p5",
@@ -1901,7 +1895,6 @@ export const WEEK_37: Episode[] = [
   {
     "weekNumber": 37,
     "dayOfWeek": 7,
-    "date": "2026-09-13",
     "theme": "Health & Mental Wellbeing",
     "title": "Building a More Sustainable Inner Life",
     "phase": "p5",

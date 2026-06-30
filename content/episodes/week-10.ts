@@ -4,7 +4,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 1,
-    "date": "2026-03-02",
     "theme": "Daily Schedules",
     "title": "My Week: Talking About Time and Schedules",
     "phase": "p1",
@@ -321,7 +320,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 2,
-    "date": "2026-03-03",
     "theme": "Daily Schedules",
     "title": "The Power of Morning Routines",
     "phase": "p1",
@@ -633,7 +631,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 3,
-    "date": "2026-03-04",
     "theme": "Daily Schedules",
     "title": "Managing Time at Work",
     "phase": "p1",
@@ -950,7 +947,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 4,
-    "date": "2026-03-05",
     "theme": "Daily Schedules",
     "title": "After Work: How We Spend Our Evenings",
     "phase": "p1",
@@ -1267,7 +1263,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 5,
-    "date": "2026-03-06",
     "theme": "Daily Schedules",
     "title": "Weekends: Rest, Play, and Meaning",
     "phase": "p1",
@@ -1579,7 +1574,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 6,
-    "date": "2026-03-07",
     "theme": "Daily Schedules",
     "title": "Slow Living and Doing Less",
     "phase": "p1",
@@ -1896,7 +1890,6 @@ export const WEEK_10: Episode[] = [
   {
     "weekNumber": 10,
     "dayOfWeek": 7,
-    "date": "2026-03-08",
     "theme": "Daily Schedules",
     "title": "Women's Time: Invisible Labor and Reclaiming Your Hours",
     "phase": "p1",
@@ -1937,8 +1930,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. She keeps track of birthdays, groceries, appointments, forms, school events, and everyone else's preferences.",
-            "zh": "對。她會 keep track of 生日、採買、預約、表單、學校活動，還有每個人的偏好。"
+            "en": "Right. She keeps track of family milestones, groceries, appointments, forms, school events, and everyone else's preferences.",
+            "zh": "對。她會 keep track of 家庭里程碑、採買、預約、表單、學校活動，還有每個人的偏好。"
           },
           {
             "speaker": "b",

@@ -4,7 +4,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 1,
-    "date": "2026-06-29",
     "theme": "Travel",
     "title": "Going Somewhere: The Joy and Challenge of Travel",
     "phase": "p4",
@@ -321,7 +320,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 2,
-    "date": "2026-06-30",
     "theme": "Travel",
     "title": "Why Travel Changes Your Perspective",
     "phase": "p4",
@@ -633,7 +631,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 3,
-    "date": "2026-07-01",
     "theme": "Travel",
     "title": "Planning vs. Spontaneity on a Trip",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 4,
-    "date": "2026-07-02",
     "theme": "Travel",
     "title": "Traveling on a Budget Without Losing the Experience",
     "phase": "p4",
@@ -1267,7 +1263,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 5,
-    "date": "2026-07-03",
     "theme": "Travel",
     "title": "Culture Shock and How to Handle It",
     "phase": "p4",
@@ -1579,7 +1574,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 6,
-    "date": "2026-07-04",
     "theme": "Travel",
     "title": "Traveling With Other People",
     "phase": "p4",
@@ -1896,7 +1890,6 @@ export const WEEK_27: Episode[] = [
   {
     "weekNumber": 27,
     "dayOfWeek": 7,
-    "date": "2026-07-05",
     "theme": "Travel",
     "title": "Coming Home After a Trip",
     "phase": "p4",

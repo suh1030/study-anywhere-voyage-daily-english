@@ -166,7 +166,7 @@
 
 source 層重新掃描結果顯示：
 
-- `dateKey` 欄位出現：`365`
+- `dateKey` 已從文章 source 移除；文章正式識別以 `week_number + day_of_week` 為準
 - `wordCount` 欄位出現：`365`
 - `textZh` 欄位出現：`365`
 - `vocabulary` 欄位出現：`365`

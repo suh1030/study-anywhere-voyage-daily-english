@@ -9,10 +9,13 @@ import {
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useNav } from '../../navigation/NavContext'
-import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { CURRICULUM, PHASE_LABELS, getScheduleEntry, getTodayKey, getWeekDays } from '../../data/curriculum'
+import { colors, fonts, spacing, radius } from '../../constants/theme'
+import { CURRICULUM, PHASE_LABELS, getCurrentScheduleEntry, formatLocalDate, getWeekDays } from '../../data/curriculum'
 import { useCurriculumStore } from '../../stores/curriculumStore'
 import { useProgressStore } from '../../stores/progressStore'
+import { TallyStick } from '../../components/schedule/TallyStick'
+import { DayMark, DayMarkState } from '../../components/schedule/DayMark'
+import { TallyRecord } from '../../components/schedule/TallyRecord'
 
 const ROW_COLORS = {
   listen: colors.listen,
@@ -42,8 +45,8 @@ export default function ScheduleScreen() {
   const resetTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const listRef = useRef<SectionList>(null)
 
-  const todayKey = getTodayKey()
-  const currentEntry = getScheduleEntry(schedule, todayKey)
+  const today = formatLocalDate()
+  const currentEntry = getCurrentScheduleEntry(schedule)
   const currentWeek = currentEntry?.week ?? schedule[schedule.length - 1]?.week ?? 1
 
   useEffect(() => {
@@ -60,8 +63,8 @@ export default function ScheduleScreen() {
     })
   }, [])
 
-  const handleToggleDay = useCallback((key: string) => {
-    toggleDay(key)
+  const handleToggleDay = useCallback((dayId: string) => {
+    toggleDay(dayId)
   }, [toggleDay])
 
   const handleDayPress = useCallback((type: string) => {
@@ -103,13 +106,20 @@ export default function ScheduleScreen() {
     // Calculate streak
     let streak = 0
     for (let i = schedule.length - 1; i >= 0; i--) {
-      if (schedule[i].key > todayKey) continue
-      if (completedDays[schedule[i].key]) streak++
+      if (schedule[i].calendarDate > today) continue
+      if (completedDays[schedule[i].id]) streak++
       else break
     }
 
     return { completed, total, pct, streak }
-  }, [completedDays, schedule, todayKey])
+  }, [completedDays, schedule, today])
+
+  const currentPhaseLabel = useMemo(() => {
+    const phase = CURRICULUM.find((w) => w.wn === currentWeek)?.phase
+    const full = phase ? PHASE_LABELS[phase] ?? '' : ''
+    // Header chip wants the short form ("Phase 1"), not the full themed label.
+    return full.split('—')[0].trim()
+  }, [currentWeek])
 
   // Auto-scroll to current week on mount
   const handleListReady = useCallback(() => {
@@ -132,7 +142,7 @@ export default function ScheduleScreen() {
     ({ item: week }: { item: (typeof CURRICULUM)[0] }) => {
       const isExpanded = expandedWeeks.has(week.wn)
       const weekDays = getWeekDays(schedule, week.wn)
-      const weekCompleted = weekDays.filter((d) => completedDays[d.key]).length
+      const weekCompleted = weekDays.filter((d) => completedDays[d.id]).length
       const isCurrent = week.wn === currentWeek
       const isFullyDone = weekCompleted === weekDays.length
 
@@ -158,21 +168,28 @@ export default function ScheduleScreen() {
 
           {isExpanded && (
             <View style={styles.daysList}>
-              {weekDays.map((day) => {
-                const isDone = !!completedDays[day.key]
-                const isToday = day.key === todayKey
+              {/* One low-contrast wooden ledger rail spanning the expanded week. */}
+              <View style={styles.stick} pointerEvents="none">
+                <TallyStick />
+              </View>
+              {weekDays.map((day, dayIndex) => {
+                const isDone = !!completedDays[day.id]
+                const isToday = day.calendarDate === today
+                const markState: DayMarkState = isDone ? 'done' : isToday ? 'today' : 'idle'
                 return (
                   <View
-                    key={day.key}
+                    key={day.id}
                     style={[styles.dayRow, isToday && styles.dayRowToday]}
                   >
-                    <TouchableOpacity
-                      style={[styles.checkbox, isDone && styles.checkboxDone]}
-                      onPress={() => handleToggleDay(day.key)}
-                      hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
-                    >
-                      {isDone && <Text style={styles.checkmark}>✓</Text>}
-                    </TouchableOpacity>
+                    {isToday && <View style={styles.todayBand} pointerEvents="none" />}
+                    <View style={styles.markSlot}>
+                      <DayMark
+                        state={markState}
+                        variation={dayIndex}
+                        onToggle={() => handleToggleDay(day.id)}
+                        accessibilityLabel={`${day.label} ${day.wd} — ${isDone ? '已完成，點擊取消刻記' : '未完成，點擊刻記完成'}`}
+                      />
+                    </View>
                     <View style={styles.dayInfo}>
                       <Text style={styles.dayDate}>{day.label} {day.wd}</Text>
                       {day.type === 'Review' ? (
@@ -222,7 +239,7 @@ export default function ScheduleScreen() {
       )
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [expandedWeeks, completedDays, todayKey, currentWeek, toggleWeek, handleToggleDay, handleDayPress, schedule]
+    [expandedWeeks, completedDays, today, currentWeek, toggleWeek, handleToggleDay, handleDayPress, schedule]
   )
 
   if (scheduleLoading) {
@@ -237,32 +254,16 @@ export default function ScheduleScreen() {
 
   return (
     <SafeAreaView style={styles.container} edges={[]}>
-      {/* Stats Header */}
+      {/* The Record header */}
       <View style={styles.header}>
-        <View style={styles.statsRow}>
-          <View style={styles.statItem}>
-            <Text style={styles.statValue}>{stats.completed}</Text>
-            <Text style={styles.statLabel}>COMPLETED</Text>
-          </View>
-          <View style={styles.statItem}>
-            <Text style={styles.statValue}>{stats.streak}</Text>
-            <Text style={styles.statLabel}>STREAK</Text>
-          </View>
-          <View style={styles.statItem}>
-            <Text style={styles.statValue}>{stats.pct}%</Text>
-            <Text style={styles.statLabel}>PROGRESS</Text>
-          </View>
-        </View>
-        <View style={styles.progressBarRow}>
-          <View style={styles.progressBar}>
-            <View style={[styles.progressFill, { width: `${stats.pct}%` }]} />
-          </View>
-          <TouchableOpacity onPress={handleReset}>
-            <Text style={[styles.resetBtn, resetConfirm && styles.resetBtnConfirm]}>
-              {resetConfirm ? 'CONFIRM?' : 'RESET'}
-            </Text>
-          </TouchableOpacity>
-        </View>
+        <TallyRecord
+          completed={stats.completed}
+          streak={stats.streak}
+          pct={stats.pct}
+          phaseLabel={currentPhaseLabel}
+          onReset={handleReset}
+          resetConfirm={resetConfirm}
+        />
       </View>
 
       <SectionList
@@ -336,50 +337,6 @@ const styles = StyleSheet.create({
     letterSpacing: 1.5,
     color: colors.ui,
   },
-  progressBarRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.md,
-  },
-  resetBtn: {
-    fontFamily: fonts.mono,
-    fontSize: 9,
-    letterSpacing: 1,
-    color: colors.muted2,
-  },
-  resetBtnConfirm: {
-    color: colors.error,
-  },
-  statsRow: {
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    marginBottom: spacing.md,
-  },
-  statItem: {
-    alignItems: 'center',
-  },
-  statValue: {
-    ...typography.h2,
-    color: colors.ui,
-  },
-  statLabel: {
-    fontFamily: fonts.mono,
-    fontSize: 9,
-    letterSpacing: 1.5,
-    color: colors.muted,
-    marginTop: 2,
-  },
-  progressBar: {
-    flex: 1,
-    height: 2,
-    backgroundColor: colors.border2,
-    borderRadius: 1,
-  },
-  progressFill: {
-    height: 2,
-    backgroundColor: colors.ui,
-    borderRadius: 1,
-  },
   listContent: {
     paddingBottom: 100,
   },
@@ -451,43 +408,62 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   daysList: {
+    position: 'relative',
+    overflow: 'hidden',
     backgroundColor: colors.surface,
     borderBottomWidth: 1,
     borderBottomColor: colors.border,
+  },
+  // The stick stays behind the per-row mark layer, while each day's content band
+  // starts to its right. That keeps the wood continuous without hiding the cuts.
+  stick: {
+    position: 'absolute',
+    left: 31,
+    top: 0,
+    bottom: 0,
+    width: 12,
+    zIndex: 0,
   },
   dayRow: {
     flexDirection: 'row',
     alignItems: 'flex-start',
     paddingVertical: 10,
     paddingHorizontal: spacing.lg,
-    paddingLeft: spacing.lg + 36 + spacing.sm,
+    // Clear the stick gutter so date + content stay fully readable to its right.
+    paddingLeft: 60,
+    minHeight: 62,
     gap: spacing.sm,
+    zIndex: 1,
   },
   dayRowToday: {
-    backgroundColor: colors.surface2,
+    backgroundColor: 'transparent',
   },
-  checkbox: {
-    width: 18,
-    height: 18,
-    borderRadius: radius.sm,
-    borderWidth: 1,
-    borderColor: colors.border2,
-    justifyContent: 'center',
+  todayBand: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    top: 0,
+    bottom: 0,
+    backgroundColor: 'rgba(255,255,255,0.025)',
+    borderLeftWidth: 2,
+    borderLeftColor: 'rgba(201,168,76,0.22)',
+    zIndex: 0,
+  },
+  // Per-day mark slot, centered on the stick at this row's height. Above the stick.
+  markSlot: {
+    position: 'absolute',
+    left: 15,
+    top: 0,
+    width: 44,
+    height: 44,
+    zIndex: 6,
     alignItems: 'center',
-    marginTop: 2,
-  },
-  checkboxDone: {
-    backgroundColor: colors.ui + '30',
-    borderColor: colors.ui,
-  },
-  checkmark: {
-    fontSize: 11,
-    color: colors.ui,
-    fontWeight: '600',
+    justifyContent: 'center',
   },
   dayInfo: {
     flex: 1,
     gap: 4,
+    zIndex: 1,
   },
   dayDate: {
     fontFamily: fonts.mono,
@@ -516,7 +492,7 @@ const styles = StyleSheet.create({
     color: colors.text,
   },
   dayTopicDone: {
-    color: colors.muted,
-    textDecorationLine: 'line-through',
+    color: colors.uiDim,
+    opacity: 0.78,
   },
 })

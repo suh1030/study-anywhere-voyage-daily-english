@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W41_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-10-05',
     topic: 'Values & Beliefs',
     title: 'What We Stand For: Values, Principles, and Beliefs',
     wordCount: 438,
@@ -17,7 +16,6 @@ export const W41_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-06',
     topic: 'Values & Beliefs',
     title: 'Where Our Values Come From',
     wordCount: 435,
@@ -32,7 +30,6 @@ export const W41_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-07',
     topic: 'Values & Beliefs',
     title: 'When Beliefs Start to Change',
     wordCount: 436,
@@ -47,7 +44,6 @@ export const W41_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-08',
     topic: 'Values & Beliefs',
     title: 'Living According to What You Believe',
     wordCount: 441,
@@ -62,7 +58,6 @@ export const W41_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-09',
     topic: 'Values & Beliefs',
     title: 'Disagreeing with People You Respect',
     wordCount: 432,
@@ -77,7 +72,6 @@ export const W41_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-10',
     topic: 'Values & Beliefs',
     title: 'What You Refuse to Compromise On',
     wordCount: 436,
@@ -92,7 +86,6 @@ export const W41_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-10-11',
     topic: 'Values & Beliefs',
     title: 'Becoming More Thoughtful About What Matters',
     wordCount: 441,

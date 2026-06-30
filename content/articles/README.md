@@ -2,7 +2,7 @@
 
 The files in this directory are active `Speak` read-aloud content.
 
-`scripts/seed.ts` imports these files into the public `articles` table with `week_number` and `day_of_week`, and the app fetches the same-day article for the `Speak` tab.
+`scripts/seed.ts` imports these files into the public `articles` table with `week_number` and `day_of_week`, and the app fetches the article for the learner's current rolling curriculum day in the `Speak` tab. Articles are not selected by a fixed calendar date, launch date, or fixed-date mapping.
 
 For launch content review, inspect:
 

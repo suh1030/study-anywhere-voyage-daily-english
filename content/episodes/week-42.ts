@@ -4,7 +4,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 1,
-    "date": "2026-10-12",
     "theme": "The Future",
     "title": "Looking Ahead: Hopes, Fears, and the Future",
     "phase": "p5",
@@ -316,7 +315,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 2,
-    "date": "2026-10-13",
     "theme": "The Future",
     "title": "Imagining the Future We Might Live In",
     "phase": "p5",
@@ -633,7 +631,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 3,
-    "date": "2026-10-14",
     "theme": "The Future",
     "title": "Hope, Fear, and What Comes Next",
     "phase": "p5",
@@ -956,7 +953,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 4,
-    "date": "2026-10-15",
     "theme": "The Future",
     "title": "Technology, Work, and the Near Future",
     "phase": "p5",
@@ -1268,7 +1264,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 5,
-    "date": "2026-10-16",
     "theme": "The Future",
     "title": "The Kind of Future People Want",
     "phase": "p5",
@@ -1585,7 +1580,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 6,
-    "date": "2026-10-17",
     "theme": "The Future",
     "title": "Planning for a Future You Cannot Fully Predict",
     "phase": "p5",
@@ -1902,7 +1896,6 @@ export const WEEK_42: Episode[] = [
   {
     "weekNumber": 42,
     "dayOfWeek": 7,
-    "date": "2026-10-18",
     "theme": "The Future",
     "title": "How Today's Choices Shape Tomorrow",
     "phase": "p5",

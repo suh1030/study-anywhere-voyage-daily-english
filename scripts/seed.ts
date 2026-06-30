@@ -74,7 +74,6 @@ async function seedEpisodes() {
       rows.push({
         week_number: ep.weekNumber,
         day_of_week: ep.dayOfWeek,
-        date:        ep.date,
         theme:       ep.theme,
         title:       ep.title,
         phase:       ep.phase,
@@ -106,7 +105,6 @@ async function seedArticles() {
 
     articles.forEach((article, index) => {
       rows.push({
-        date_key: article.dateKey,
         week_number: w,
         day_of_week: index + 1,
         topic: article.topic,

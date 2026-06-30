@@ -177,7 +177,7 @@ console.log('Checking articles (deep)...');
     const articles = loadTs(path.join(dir, file));
     for (const art of articles) {
       stats.articles.total++;
-      const id = art.dateKey || art.title || '?';
+      const id = art.title || '?';
       const weekMatch = file.match(/articles-w(\d+)/);
       if (weekMatch) weeksCovered.add(parseInt(weekMatch[1]));
 

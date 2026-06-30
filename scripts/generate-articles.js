@@ -183,7 +183,6 @@ function serializeArticle(art) {
   ).join(',\n')
 
   return `  {
-    dateKey: '${art.dateKey}',
     topic: '${escapeSingleQuotes(art.topic)}',
     title: '${escapeSingleQuotes(art.title)}',
     wordCount: ${art.wordCount},
@@ -200,7 +199,6 @@ function serializeWeekFile(weekNum, articles) {
   const isFirstWeek = weekNum === 1
   const header = isFirstWeek
     ? `export interface SpeakArticle {
-  dateKey: string
   topic: string
   title: string
   wordCount: number
@@ -240,7 +238,6 @@ async function main() {
         const vocabulary = await generateVocabExamples(episode, englishHtml)
 
         articles.push({
-          dateKey: episode.date,
           topic: episode.theme,
           title: episode.title,
           wordCount: countWords(englishHtml),
@@ -256,7 +253,7 @@ async function main() {
         await new Promise(r => setTimeout(r, 300))
       } catch (err) {
         process.stdout.write('!')
-        console.error(`\n  Error on ${episode.date} "${episode.title}": ${err.message}`)
+        console.error(`\n  Error on W${episode.weekNumber}D${episode.dayOfWeek} "${episode.title}": ${err.message}`)
       }
     }
 

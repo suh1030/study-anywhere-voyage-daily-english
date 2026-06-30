@@ -4,7 +4,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 1,
-    "date": "2026-05-11",
     "theme": "Meetings & Discussions",
     "title": "Let's Meet: Navigating Work Meetings",
     "phase": "p3",
@@ -321,7 +320,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 2,
-    "date": "2026-05-12",
     "theme": "Meetings & Discussions",
     "title": "Preparing for Meetings That Matter",
     "phase": "p3",
@@ -638,7 +636,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 3,
-    "date": "2026-05-13",
     "theme": "Meetings & Discussions",
     "title": "Speaking Up Without Sounding Aggressive",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 4,
-    "date": "2026-05-14",
     "theme": "Meetings & Discussions",
     "title": "How to Disagree Productively in Discussions",
     "phase": "p3",
@@ -1267,7 +1263,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 5,
-    "date": "2026-05-15",
     "theme": "Meetings & Discussions",
     "title": "Keeping a Meeting on Track",
     "phase": "p3",
@@ -1584,7 +1579,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 6,
-    "date": "2026-05-16",
     "theme": "Meetings & Discussions",
     "title": "Better Participation in Virtual Meetings",
     "phase": "p3",
@@ -1896,7 +1890,6 @@ export const WEEK_20: Episode[] = [
   {
     "weekNumber": 20,
     "dayOfWeek": 7,
-    "date": "2026-05-17",
     "theme": "Meetings & Discussions",
     "title": "What Makes a Discussion Actually Useful",
     "phase": "p3",

@@ -13,13 +13,13 @@ const GENERIC_TERM_BANK = [
 ]
 
 const THEME_TERM_BANKS = {
-  'New Year & Fresh Starts': [
+  'Fresh Starts & New Beginnings': [
     { en: 'fresh start', zh: '重新開始' },
     { en: 'new routine', zh: '新的日常節奏' },
     { en: 'set an intention', zh: '設定一個意圖' },
     { en: 'turn the page', zh: '翻開新的一頁' },
     { en: 'small beginning', zh: '小小的開始' },
-    { en: 'let go of last year', zh: '放下去年的包袱' },
+    { en: 'let go of old patterns', zh: '放下舊有模式' },
     { en: 'build momentum', zh: '慢慢累積動能' },
     { en: 'start again', zh: '重新出發' },
   ],
@@ -53,13 +53,13 @@ const THEME_TERM_BANKS = {
     { en: 'personal style', zh: '個人風格' },
     { en: 'make room', zh: '騰出空間' },
   ],
-  'Celebrations & Festivals': [
-    { en: 'family celebration', zh: '家庭慶祝活動' },
-    { en: 'festival tradition', zh: '節慶傳統' },
+  'Traditions & Gatherings': [
+    { en: 'family gathering', zh: '家庭聚會' },
+    { en: 'family ritual', zh: '家庭儀式' },
     { en: 'special occasion', zh: '特別的場合' },
     { en: 'exchange gifts', zh: '交換禮物' },
     { en: 'gather together', zh: '聚在一起' },
-    { en: 'holiday mood', zh: '節日氣氛' },
+    { en: 'gathering mood', zh: '聚會氣氛' },
     { en: 'mark the moment', zh: '紀念這個時刻' },
     { en: 'shared memory', zh: '共同回憶' },
   ],
@@ -638,7 +638,7 @@ function pickEpisodeTerms(episode) {
 function parseEpisodeMetadata(rootDir) {
   const episodesDir = path.join(rootDir, 'content', 'episodes')
   const files = fs.readdirSync(episodesDir).filter((name) => /^week-\d{2}\.ts$/.test(name)).sort()
-  const pattern = /\{\s*weekNumber:\s*(\d+),\s*dayOfWeek:\s*(\d+),\s*date:\s*'((?:\\'|[^'])*)',\s*theme:\s*'((?:\\'|[^'])*)',\s*title:\s*'((?:\\'|[^'])*)',\s*phase:\s*'((?:\\'|[^'])*)'/g
+  const pattern = /\{\s*weekNumber:\s*(\d+),\s*dayOfWeek:\s*(\d+),\s*theme:\s*'((?:\\'|[^'])*)',\s*title:\s*'((?:\\'|[^'])*)',\s*phase:\s*'((?:\\'|[^'])*)'/g
   const episodes = []
 
   for (const fileName of files) {
@@ -648,10 +648,9 @@ function parseEpisodeMetadata(rootDir) {
       episodes.push({
         weekNumber: Number(match[1]),
         dayOfWeek: Number(match[2]),
-        date: unescapeSingle(match[3]),
-        theme: unescapeSingle(match[4]),
-        title: unescapeSingle(match[5]),
-        phase: unescapeSingle(match[6]),
+        theme: unescapeSingle(match[3]),
+        title: unescapeSingle(match[4]),
+        phase: unescapeSingle(match[5]),
       })
     }
   }

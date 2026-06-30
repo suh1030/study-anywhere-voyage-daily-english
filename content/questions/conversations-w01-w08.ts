@@ -26,7 +26,7 @@ const q = (
 export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   q(
     1,
-    'New Year & Fresh Starts',
+    'Fresh Starts & New Beginnings',
     'Monday',
     'Introduce yourself in English: tell me your name, where you live, and what you do for work or study.',
     '把三個基本資訊都說到：你的名字、你住哪個城市或地區、你的工作或學生身份。',
@@ -34,7 +34,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   ),
   q(
     1,
-    'New Year & Fresh Starts',
+    'Fresh Starts & New Beginnings',
     'Tuesday',
     'What is one small, realistic habit you want to build this month? It does not have to be big.',
     '選一件真的可以每天做的小事，說清楚是什麼、你打算什麼時候做。',
@@ -42,7 +42,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   ),
   q(
     1,
-    'New Year & Fresh Starts',
+    'Fresh Starts & New Beginnings',
     'Wednesday',
     'Describe what a normal weekday looks like for you, from when you wake up to when you go to sleep.',
     '按照時間順序說最順：起床時間、白天的主要事情、下班或下課後做什麼、大概幾點睡。',
@@ -50,7 +50,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   ),
   q(
     1,
-    'New Year & Fresh Starts',
+    'Fresh Starts & New Beginnings',
     'Thursday',
     'Tell me about where you live. What city or area is it, and what do you like most about it?',
     '先說地點，再選一個你覺得最不錯的地方，可以是食物、交通、環境或附近的方便性。',
@@ -229,23 +229,23 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
 
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Monday',
-    'Think of a celebration you actually enjoyed. What made it feel meaningful instead of tiring?',
-    '不要只說很好玩，重點是說出那場慶祝為什麼有重量、有人味或有記憶點。',
+    'Think of a gathering you actually enjoyed. What made it feel meaningful instead of tiring?',
+    '不要只說很好玩，重點是說出那場標記為什麼有重量、有人味或有記憶點。',
     'Describe the event briefly, then explain which detail gave it emotional meaning.',
   ),
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Tuesday',
-    'At the beginning of a new year or season, do you usually feel energized, pressured, or mostly unchanged?',
+    'At the beginning of a new chapter or season, do you usually feel energized, pressured, or mostly unchanged?',
     '先選一個最接近你的反應，再說是什麼讓你有這種感覺。',
     'Pick one emotional direction and support it with one recent example.',
   ),
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Wednesday',
     'What is one gift you still remember clearly, and why did it stay with you?',
     '可以是很貴的，也可以很小；真正重要的是它代表了什麼。',
@@ -253,7 +253,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   ),
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Thursday',
     'At family reunions, what role do you usually play: organizer, listener, peacemaker, entertainer, or something else?',
     '先選角色，再說你是怎麼慢慢變成那個角色的。',
@@ -261,15 +261,15 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   ),
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Friday',
-    'What kind of festival food feels emotionally important to you, not just tasty?',
-    '這題可以講味道背後的家庭、地方、節日記憶，不需要講很多菜名。',
+    'What kind of gathering food feels emotionally important to you, not just tasty?',
+    '這題可以講味道背後的家庭、地方、特別場合記憶，不需要講很多菜名。',
     'Connect the food to a memory, a person, or a season so it feels alive.',
   ),
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Saturday',
     'Have you ever wanted to keep a tradition, but change the way it is done?',
     '這題很適合談長輩版本和你這一代版本之間的差別。',
@@ -277,9 +277,9 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
   ),
   q(
     5,
-    'Celebrations & Festivals',
+    'Traditions & Gatherings',
     'Sunday',
-    'After a holiday ends, how do you like to carry a little of that feeling back into normal life?',
+    'After a big gathering ends, how do you like to carry a little of that feeling back into normal life?',
     '可以是某個習慣、某種心情、和家人聯絡的方式，或一個你想留下的小儀式。',
     'Keep the answer grounded by naming one feeling and one action that helps it last.',
   ),

@@ -467,7 +467,7 @@ const TITLE_SCENE_HINTS = [
   { pattern: /(friends|friendship|best friend|new friends|long-distance)/i, scene: pair('when you are deciding whether to reach out, stay quiet, or trust that the connection can hold one more ordinary silence', '當你正在想是要主動聯絡、先沉默，還是相信這段關係能撐過又一次平凡的沉默時') },
   { pattern: /(social media)/i, scene: pair('when a friendship starts being measured through updates and reactions instead of actual contact', '當一段友誼開始透過更新和反應被衡量，而不是透過真正的往來時') },
   { pattern: /(family|parents|siblings|aging parents|chosen family)/i, scene: pair('when old family patterns appear so quickly that you feel yourself becoming an earlier version of you', '當舊的家庭模式出現得太快，快到你覺得自己又變回了更早以前的那個自己時') },
-  { pattern: /(gatherings|celebrations)/i, scene: pair('when everyone is in the same room and the history in that room is bigger than the conversation itself', '當每個人都在同一個房間裡，而這個房間裡的歷史其實比眼前的對話還要大得多的時候') },
+  { pattern: /(gatherings|gatherings)/i, scene: pair('when everyone is in the same room and the history in that room is bigger than the conversation itself', '當每個人都在同一個房間裡，而這個房間裡的歷史其實比眼前的對話還要大得多的時候') },
   { pattern: /(colleagues|teamwork|working together|team connection)/i, scene: pair('when the quality of the work depends less on talent and more on whether people can coordinate cleanly', '當工作品質真正取決的，與其說是能力，不如說是大家能不能乾淨地協作的時候') },
   { pattern: /(feedback)/i, scene: pair('when someone is trying to help you improve and your first instinct is still to protect your ego', '當有人其實是在幫你進步，但你的第一個本能仍然是先保護自尊的時候') },
   { pattern: /(difficult colleague)/i, scene: pair('when one person changes the emotional temperature of the room before they say very much at all', '當一個人在還沒說多少話之前，就已經改變了整個房間情緒溫度的時候') },
@@ -1023,7 +1023,6 @@ function buildEpisode(episode) {
   return {
     weekNumber: episode.weekNumber,
     dayOfWeek: episode.dayOfWeek,
-    date: episode.date,
     theme: episode.theme,
     title: episode.title,
     phase: profile.config.phase,
@@ -1054,7 +1053,7 @@ function serializeKeyPhrase(item) {
 }
 
 function serializeEpisode(episode) {
-  return `  {\n    weekNumber: ${episode.weekNumber},\n    dayOfWeek: ${episode.dayOfWeek},\n    date: '${escapeSingle(episode.date)}',\n    theme: '${escapeSingle(episode.theme)}',\n    title: '${escapeSingle(episode.title)}',\n    phase: '${episode.phase}',\n    parts: [\n${episode.parts.map(serializePart).join(',\n')}\n    ],\n    keyPhrases: [\n${episode.keyPhrases.map(serializeKeyPhrase).join(',\n')}\n    ],\n  }`
+  return `  {\n    weekNumber: ${episode.weekNumber},\n    dayOfWeek: ${episode.dayOfWeek},\n    theme: '${escapeSingle(episode.theme)}',\n    title: '${escapeSingle(episode.title)}',\n    phase: '${episode.phase}',\n    parts: [\n${episode.parts.map(serializePart).join(',\n')}\n    ],\n    keyPhrases: [\n${episode.keyPhrases.map(serializeKeyPhrase).join(',\n')}\n    ],\n  }`
 }
 
 function main() {

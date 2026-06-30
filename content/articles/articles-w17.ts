@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W17_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-04-20',
     topic: 'Helping Others',
     title: 'What Kindness Actually Looks Like',
     wordCount: 491,
@@ -17,7 +16,6 @@ export const W17_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-04-21',
     topic: 'Helping Others',
     title: 'How to Help Someone Who Is Struggling',
     wordCount: 463,
@@ -32,7 +30,6 @@ export const W17_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-04-22',
     topic: 'Helping Others',
     title: 'Volunteering and Giving Back',
     wordCount: 471,
@@ -47,7 +44,6 @@ export const W17_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-04-23',
     topic: 'Helping Others',
     title: 'Gratitude and the Practice of Appreciation',
     wordCount: 485,
@@ -62,7 +58,6 @@ export const W17_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-04-24',
     topic: 'Helping Others',
     title: 'Setting Limits While Still Caring',
     wordCount: 495,
@@ -77,7 +72,6 @@ export const W17_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-04-25',
     topic: 'Helping Others',
     title: 'Being a Good Friend in Difficult Times',
     wordCount: 499,
@@ -92,7 +86,6 @@ export const W17_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-04-26',
     topic: 'Helping Others',
     title: 'The Ripple Effect of Small Acts',
     wordCount: 531,

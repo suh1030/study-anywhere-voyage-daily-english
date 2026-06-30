@@ -410,7 +410,6 @@ function buildPartLines(day, partIndex) {
 }
 
 function buildDayObject(weekNumber, baseDate, dayIndex, theme, phase, day) {
-  const date = addDays(baseDate, dayIndex - 1)
   const parts = partBlueprints.map((part, partIndex) => {
     const lines = buildPartLines(day, partIndex)
     return `    {\n      title: '${escapeSingle(part.title)}',\n      lines: [\n${lines}\n      ],\n    }`
@@ -420,7 +419,7 @@ function buildDayObject(weekNumber, baseDate, dayIndex, theme, phase, day) {
     return `    { en: '${escapeSingle(term)}', zh: '${escapeSingle('重點表達')}', example: '${escapeSingle(`${capitalizePhrase(term)} is one of the key ideas in this conversation.`)}' }`
   }).join(',\n')
 
-  return `  {\n  weekNumber: ${weekNumber},\n  dayOfWeek: ${dayIndex},\n  date: '${date}',\n  theme: '${escapeSingle(theme)}',\n  title: '${escapeSingle(day.title)}',\n  phase: '${escapeSingle(phase)}',\n  parts: [\n${parts}\n  ],\n  keyPhrases: [\n${keyPhrases}\n  ],\n  }`
+  return `  {\n  weekNumber: ${weekNumber},\n  dayOfWeek: ${dayIndex},\n  theme: '${escapeSingle(theme)}',\n  title: '${escapeSingle(day.title)}',\n  phase: '${escapeSingle(phase)}',\n  parts: [\n${parts}\n  ],\n  keyPhrases: [\n${keyPhrases}\n  ],\n  }`
 }
 
 function replacePlaceholder(filePath, weekNumber) {

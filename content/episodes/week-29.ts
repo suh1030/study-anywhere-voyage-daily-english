@@ -4,7 +4,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 1,
-    "date": "2026-07-13",
     "theme": "Music & Podcasts",
     "title": "What We Listen To: Music, Podcasts, and Audio",
     "phase": "p4",
@@ -321,7 +320,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 2,
-    "date": "2026-07-14",
     "theme": "Music & Podcasts",
     "title": "How Music Shapes Mood",
     "phase": "p4",
@@ -638,7 +636,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 3,
-    "date": "2026-07-15",
     "theme": "Music & Podcasts",
     "title": "Musical Taste and Personal Identity",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 4,
-    "date": "2026-07-16",
     "theme": "Music & Podcasts",
     "title": "Podcasts, Learning, and the New Intimacy of Audio",
     "phase": "p4",
@@ -1267,7 +1263,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 5,
-    "date": "2026-07-17",
     "theme": "Music & Podcasts",
     "title": "How Audio Fills Our Empty Time",
     "phase": "p4",
@@ -1584,7 +1579,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 6,
-    "date": "2026-07-18",
     "theme": "Music & Podcasts",
     "title": "Shared Listening and Social Connection",
     "phase": "p4",
@@ -1684,8 +1678,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So not death metal, but also not the song that was playing at someone's wedding.",
-            "zh": "所以不是死亡金屬，但也不是出現在某人婚禮上的那首歌。"
+            "en": "So not death metal, but also not the song that was playing at someone's community gathering.",
+            "zh": "所以不是死亡金屬，但也不是出現在某人聚會上的那首歌。"
           },
           {
             "speaker": "a",
@@ -1896,7 +1890,6 @@ export const WEEK_29: Episode[] = [
   {
     "weekNumber": 29,
     "dayOfWeek": 7,
-    "date": "2026-07-19",
     "theme": "Music & Podcasts",
     "title": "Listening With More Intention",
     "phase": "p4",

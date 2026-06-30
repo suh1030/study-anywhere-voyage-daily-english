@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W8_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-02-16',
     topic: 'Shopping & Money',
     title: 'Spending Habits and What They Reveal',
     wordCount: 370,
@@ -17,7 +16,6 @@ export const W8_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-17',
     topic: 'Shopping & Money',
     title: 'Budgeting and the Art of Saving',
     wordCount: 431,
@@ -32,7 +30,6 @@ export const W8_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-18',
     topic: 'Shopping & Money',
     title: 'The Psychology of Spending',
     wordCount: 404,
@@ -47,12 +44,11 @@ export const W8_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-19',
     topic: 'Shopping & Money',
     title: 'Negotiating and Getting a Good Deal',
     wordCount: 406,
-    text: `<p>Negotiation is a skill that most people use more rarely than they should. In many Asian markets and in cultures with strong bargaining traditions, negotiating price is routine and expected. In others — particularly in countries where fixed prices are the norm — the idea of asking for a discount can feel rude or socially awkward. The truth is that negotiation is almost always available, and the cost of asking is almost always lower than people expect.</p><p>The psychology of negotiation favors those who go first. Research consistently shows that the first number mentioned in a negotiation — the anchor — has a disproportionate influence on where the final number lands. If a seller opens with a high price, buyers tend to negotiate down from that number rather than toward what the product is actually worth. Knowing this, experienced negotiators prefer to anchor first and anchor high, or low depending on which side they are on, rather than waiting to respond.</p><p>Silence is an underappreciated tool in negotiation. After making an offer, many people immediately add justifications, qualifications, or concessions — filling the space with words that weaken their position. Experienced negotiators make an offer and then say nothing. The discomfort of silence tends to fall harder on the other side, often prompting a counteroffer or a concession without further argument. Resisting the urge to fill silence takes practice, but it reliably shifts leverage.</p><p>Getting a good deal extends beyond price negotiation. Timing matters: the end of a sales period, the last hour of a market day, or the moment when a vendor has a surplus all favor the buyer. Loyalty matters: regular customers at independent businesses often receive better terms informally without negotiating at all, simply because the relationship has built goodwill. Bundling matters too — asking for a discount on a single item is often less effective than agreeing to buy more in exchange for better pricing on each unit.</p><p>The single most important thing to know about negotiation is that most people will not collapse or become hostile when you ask for a lower price. The worst likely outcome is a polite no, after which the original terms remain available. Many people have paid full price for years on things they could have gotten cheaper simply by asking. The barrier is almost entirely psychological — a reluctance to risk a small, momentary discomfort in exchange for a benefit that could last significantly longer.</p>`,
-    textZh: `<p>談判是一種大多數人使用頻率遠低於應有水準的技能。在許多亞洲市場和有著強烈議價傳統的文化中，討價還價是日常且理所當然的事。在其他地方——尤其是固定價格為常態的國家——開口要求折扣可能感覺無禮或尷尬。事實是，談判幾乎在任何情況下都是可行的，而開口詢問的代價，幾乎總比人們預期的更低。</p><p>談判的心理學偏向先出牌的人。研究一再顯示，談判中第一個被提出的數字——錨點——對最終落點有著不成比例的影響力。如果賣家先開高價，買家往往從那個數字往下談，而不是朝產品真正的價值靠近。有經驗的談判者了解這一點，因此偏好先出牌，根據自己是買方還是賣方，開高或開低，而不是等著對方先說。</p><p>沉默是談判中被低估的工具。開出條件之後，許多人立刻加上理由、限定詞或讓步——用話語填滿空白，卻削弱了自己的立場。有經驗的談判者開出條件後什麼也不說。沉默帶來的不舒適感，往往對另一方影響更大，常常讓對方自動提出反還價或讓步，不需要任何進一步的論述。抵制填滿沉默的衝動需要練習，但它確實能可靠地移轉談判優勢。</p><p>獲得好交易不只限於價格談判。時機很重要：銷售期末、市集的最後一個小時、或賣家庫存過剩的時候，都對買家有利。忠誠度很重要：常去的獨立商家老客戶，往往不需要談判就能非正式地獲得更好的條件，只因為那段關係建立了商譽。捆綁購買也很重要——要求單一商品折扣，往往不如承諾購買更多、換取每件更低的單價來得有效。</p><p>關於談判，最重要的一件事是：當你開口要求更低的價格，大多數人不會崩潰或變得充滿敵意。最壞的情況不過是一個有禮貌的「不行」，然後原本的條件仍然有效。許多人多年來一直付全額，而那些東西只要開口就能買得更便宜。障礙幾乎完全是心理上的——不願意冒著一點短暫的不舒適，去換取一個可能持續更久的好處。</p>`,
+    text: `<p>Negotiation is a skill that most people use less often than they should. In many Asian markets and in cultures with strong bargaining traditions, negotiating price is routine and expected. In others — particularly in countries where fixed prices are the norm — the idea of asking for a discount can feel rude or socially awkward. The truth is that negotiation is often possible, and the cost of asking is almost always lower than people expect.</p><p>The psychology of negotiation favors those who go first. Research consistently shows that the first number mentioned in a negotiation — the anchor — has a disproportionate influence on where the final number lands. If a seller opens with a high price, buyers tend to negotiate down from that number rather than toward what the product is actually worth. Knowing this, experienced negotiators prefer to anchor first — high or low, depending on which side they are on — rather than waiting to respond.</p><p>Silence is an underappreciated tool in negotiation. After making an offer, many people immediately add justifications, qualifications, or concessions — filling the space with words that weaken their position. Experienced negotiators make an offer and then say nothing. The discomfort of silence tends to fall more heavily on the other side, often prompting a counteroffer or a concession without further argument. Resisting the urge to fill silence takes practice, but it reliably shifts leverage.</p><p>Getting a good deal extends beyond price negotiation. Timing matters: the end of a sales period, the last hour of a market day, or the moment when a vendor has a surplus all favor the buyer. Loyalty matters: regular customers at independent businesses often receive better terms informally without negotiating at all, simply because the relationship has built goodwill. Bundling matters too — asking for a discount on a single item is often less effective than agreeing to buy more in exchange for better pricing on each unit.</p><p>The single most important thing to know about negotiation is that most people will not react negatively when you ask for a lower price. The worst likely outcome is a polite no, after which the original terms remain available. Many people have paid full price for years on things they could have gotten cheaper simply by asking. The barrier is almost entirely psychological — a reluctance to risk a small, momentary discomfort in exchange for a benefit that could last significantly longer.</p>`,
+    textZh: `<p>談判是一項多數人使用頻率遠低於應有水準的技能。在許多亞洲市場和有著強烈議價文化的地方，討價還價是日常且被期待的行為；但在其他地區——特別是以固定價格為主的國家——開口要求折扣，常讓人覺得無禮或尷尬。事實上，多數情況下談判都是可行的，而且開口詢問的代價，通常比人們想像的低得多。</p><p>談判的心理學偏向先開價的人。研究一再顯示，談判中第一個被提出的數字——也就是「錨點」——會對最終價格產生不成比例的影響。如果賣方先報高價，買方往往會從這個數字往下談，而不是從商品的實際價值出發。有經驗的談判者因此傾向先出價——依照自身立場選擇偏高或偏低——而不是被動回應對方。</p><p>沉默是談判中被低估的工具。開出條件之後，許多人會立刻補充理由、限制或讓步——用話填滿空白，反而削弱自己的立場。有經驗的談判者則會開價後保持沉默。這種沉默帶來的不適，通常會讓對方更快提出還價或讓步，而不需要額外說服。忍住填補沉默的衝動需要練習，但它確實能有效改變談判的主導權。</p><p>拿到好價格不只靠議價本身。時機很關鍵：促銷期尾聲、市集收攤前的最後時段，或賣家庫存過多時，通常對買方更有利。忠誠度也很重要：固定光顧的小店顧客，常常在沒有正式談判的情況下，就能獲得更好的條件，因為關係本身已累積信任。組合購買也同樣有效——與其只要求單件折扣，不如承諾多買一些，換取整體更優惠的單價。</p><p>關於談判，最重要的一點是：當你開口要求更低價格時，大多數人並不會因此不悅或敵對。最糟的情況通常只是被禮貌拒絕，而原本的條件依然存在。許多人長期以來支付全額，其實只要開口就有機會用更低價格取得。真正的障礙幾乎完全來自心理——不願承受一點短暫的不自在，去換取可能帶來長期好處的機會。</p>`,
     vocabulary: [
       { word: 'anchor', definition: '錨點；初始參考數字', example: 'The seller set a high anchor price to influence the final negotiated amount.' },
       { word: 'concession', definition: '讓步；妥協', example: 'She made a small concession on delivery time to close the deal.' },
@@ -62,7 +58,6 @@ export const W8_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-20',
     topic: 'Shopping & Money',
     title: 'Financial Goals and Building a Future',
     wordCount: 414,
@@ -77,7 +72,6 @@ export const W8_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-21',
     topic: 'Shopping & Money',
     title: 'Tipping, Gifting, and Money Etiquette',
     wordCount: 428,
@@ -92,7 +86,6 @@ export const W8_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-02-22',
     topic: 'Shopping & Money',
     title: 'The Future of Money',
     wordCount: 430,

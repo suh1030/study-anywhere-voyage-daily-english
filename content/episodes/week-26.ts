@@ -4,7 +4,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 1,
-    "date": "2026-06-22",
     "theme": "Work-Life Balance",
     "title": "On and Off: Finding Balance Between Work and Rest",
     "phase": "p3",
@@ -316,7 +315,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 2,
-    "date": "2026-06-23",
     "theme": "Work-Life Balance",
     "title": "How Work Follows You Home",
     "phase": "p3",
@@ -633,7 +631,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 3,
-    "date": "2026-06-24",
     "theme": "Work-Life Balance",
     "title": "Rest Without Guilt",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 4,
-    "date": "2026-06-25",
     "theme": "Work-Life Balance",
     "title": "Boundaries at Work, Not Just After Work",
     "phase": "p3",
@@ -1262,7 +1258,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 5,
-    "date": "2026-06-26",
     "theme": "Work-Life Balance",
     "title": "What Hobbies Give Back to Working Adults",
     "phase": "p3",
@@ -1579,7 +1574,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 6,
-    "date": "2026-06-27",
     "theme": "Work-Life Balance",
     "title": "When Work Becomes Too Much of Who You Are",
     "phase": "p3",
@@ -1896,7 +1890,6 @@ export const WEEK_26: Episode[] = [
   {
     "weekNumber": 26,
     "dayOfWeek": 7,
-    "date": "2026-06-28",
     "theme": "Work-Life Balance",
     "title": "A More Sustainable Way to Work and Live",
     "phase": "p3",

@@ -4,7 +4,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 1,
-    "date": "2026-04-20",
     "theme": "Helping Others",
     "title": "Lending a Hand: Acts of Kindness and Support",
     "phase": "p2",
@@ -321,7 +320,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 2,
-    "date": "2026-04-21",
     "theme": "Helping Others",
     "title": "Why People Decide to Help",
     "phase": "p2",
@@ -638,7 +636,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 3,
-    "date": "2026-04-22",
     "theme": "Helping Others",
     "title": "Helping Without Taking Control",
     "phase": "p2",
@@ -950,7 +947,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 4,
-    "date": "2026-04-23",
     "theme": "Helping Others",
     "title": "Knowing When Not to Help",
     "phase": "p2",
@@ -1267,7 +1263,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 5,
-    "date": "2026-04-24",
     "theme": "Helping Others",
     "title": "Receiving Help Gracefully",
     "phase": "p2",
@@ -1320,7 +1315,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Receiving help well is also an adult skill. It is just a quieter one, so people do not celebrate it as much.",
+            "en": "Receiving help well is also an adult skill. It is just a quieter one, so people do not mark it as much.",
             "zh": "把幫助收得好，本身也是一種成熟的大人技能。只是它比較安靜，所以大家不太會稱讚它。"
           }
         ]
@@ -1584,7 +1579,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 6,
-    "date": "2026-04-25",
     "theme": "Helping Others",
     "title": "Community, Neighbors, and Everyday Care",
     "phase": "p2",
@@ -1896,7 +1890,6 @@ export const WEEK_17: Episode[] = [
   {
     "weekNumber": 17,
     "dayOfWeek": 7,
-    "date": "2026-04-26",
     "theme": "Helping Others",
     "title": "What Lasting Help Really Looks Like",
     "phase": "p2",

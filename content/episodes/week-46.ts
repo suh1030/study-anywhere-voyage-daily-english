@@ -4,7 +4,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 1,
-    "date": "2026-11-09",
     "theme": "Community & Giving Back",
     "title": "The Power of Community",
     "phase": "p6",
@@ -321,7 +320,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 2,
-    "date": "2026-11-10",
     "theme": "Community & Giving Back",
     "title": "The Art of Listening",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 3,
-    "date": "2026-11-11",
     "theme": "Community & Giving Back",
     "title": "Local Heroes and Changemakers",
     "phase": "p6",
@@ -950,7 +947,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 4,
-    "date": "2026-11-12",
     "theme": "Community & Giving Back",
     "title": "Navigating Differences in Community",
     "phase": "p6",
@@ -1262,7 +1258,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 5,
-    "date": "2026-11-13",
     "theme": "Community & Giving Back",
     "title": "Technology for Social Good",
     "phase": "p6",
@@ -1579,7 +1574,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 6,
-    "date": "2026-11-14",
     "theme": "Community & Giving Back",
     "title": "Generations of Service",
     "phase": "p6",
@@ -1896,7 +1890,6 @@ export const WEEK_46: Episode[] = [
   {
     "weekNumber": 46,
     "dayOfWeek": 7,
-    "date": "2026-11-15",
     "theme": "Community & Giving Back",
     "title": "This Week's Reflections",
     "phase": "p6",

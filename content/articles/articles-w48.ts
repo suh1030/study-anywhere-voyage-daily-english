@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W48_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-11-23',
     topic: 'Language & Identity',
     title: 'Who Are You When You Speak?',
     wordCount: 451,
@@ -17,7 +16,6 @@ export const W48_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-24',
     topic: 'Language & Identity',
     title: 'Slang, Jargon, and Belonging',
     wordCount: 449,
@@ -32,7 +30,6 @@ export const W48_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-25',
     topic: 'Language & Identity',
     title: 'Bilingual Lives',
     wordCount: 444,
@@ -47,7 +44,6 @@ export const W48_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-26',
     topic: 'Language & Identity',
     title: 'Storytelling and Narrative Identity',
     wordCount: 451,
@@ -62,7 +58,6 @@ export const W48_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-27',
     topic: 'Language & Identity',
     title: 'Words That Shape Thinking',
     wordCount: 431,
@@ -77,7 +72,6 @@ export const W48_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-28',
     topic: 'Language & Identity',
     title: 'Writing and Self-Expression',
     wordCount: 442,
@@ -92,12 +86,11 @@ export const W48_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-29',
     topic: 'Language & Identity',
     title: 'The Gift of Expression',
     wordCount: 438,
-    text: `<p>Expression is a gift because it lets inner life become shareable. A feeling that stays unnamed can become heavy or lonely. A need that never finds words may turn into anger. An idea that cannot be explained may remain unused. When people gain language, they gain more than communication skills. They gain ways to be known, to ask for care, to set limits, and to offer something true to others.</p><p>For adults, this gift can arrive late and still matter deeply. Many people grew up in families, schools, or workplaces where certain feelings were not welcomed. They learned to be useful, polite, quiet, or strong, but not always expressive. English learning can unexpectedly reopen that space. A new language may feel less attached to old rules, allowing someone to say, "I was disappointed," "I need support," or "This matters to me."</p><p>Expression is not the same as saying everything without care. The gift becomes stronger when it includes timing, listening, and responsibility. Honest words can still be gentle. Strong opinions can still make room for others. A person who expresses well does not flood the room with every emotion. They choose words that respect both the truth and the relationship. That is a high-level adult skill.</p><p>There is also generosity in expression. When you describe your experience clearly, you may help someone else feel less alone. When you name a problem kindly, you may make it easier for a team or family to change. When you tell a story from your culture, you give others a doorway into your world. Expression is personal, but it often becomes communal.</p><p>As this week ends, notice one thing you can now say better than before. Maybe it is a boundary, a memory, a preference, or a question. Celebrate that sentence. It may look small, but it represents practice, courage, and identity becoming more available. The gift of expression is not perfect speech. It is the growing ability to let your real self meet the world.</p><p>The gift also includes receiving expression from others. When someone struggles to speak, we can listen for meaning instead of judging speed or accent. That kind of listening is part of the same practice. We become people who use language to make room, not only to take space. In a multilingual world, this generosity may be one of the most beautiful forms of fluency.</p><p>Carry one useful sentence from this week into your next real conversation. A gift becomes alive when it is used.</p><p>That is why every new phrase matters. It may become the phrase that helps you stay honest when silence would be easier.</p>`,
-    textZh: `<p>表達之所以是一份禮物，是因為它讓內在生活可以被分享。沒有被命名的感受可能變得沉重或孤單；一直找不到語言的需求可能變成憤怒；無法說明的想法可能永遠用不上。當人取得語言，他得到的不只是溝通技巧，也得到被理解、請求照顧、設立界線，以及把真實的東西交給別人的方式。</p><p>對成人來說，這份禮物即使來得晚，仍然很重要。很多人成長於某些感受不被歡迎的家庭、學校或職場。他們學會有用、禮貌、安靜或堅強，卻不一定學會表達。英文學習有時會意外重新打開那個空間。新的語言可能比較不黏著舊規則，讓人能說：「我很失望。」「我需要支持。」「這件事對我很重要。」</p><p>表達不等於毫無顧忌地把所有事說出來。當它包含時機、聆聽和責任，這份禮物會更有力量。誠實的話仍然可以溫柔；強烈的意見仍然可以為別人留空間。會表達的人不會把每一種情緒都倒滿整個房間，而是選擇同時尊重真相和關係的詞。這是很高階的成人能力。</p><p>表達裡也有慷慨。當你清楚描述自己的經驗，可能讓別人感到不那麼孤單。當你溫和地說出問題，可能讓團隊或家庭更容易改變。當你說出來自自己文化的故事，你也給別人一道進入你世界的門。表達是個人的，但它常常會變成共同的。</p><p>這一週結束時，留意一件你現在比以前更能說出口的事。也許是一條界線、一段記憶、一個偏好，或一個問題。慶祝那個句子。它看起來可能很小，卻代表練習、勇氣，以及身分變得更可被看見。表達的禮物不是完美說話，而是越來越能讓真實的自己和世界相遇。</p><p>這份禮物也包含接住別人的表達。當有人努力說話時，我們可以聽意思，而不是評斷速度或口音。這種聆聽也是同一個練習的一部分。我們成為用語言創造空間的人，而不只是佔據空間的人。在多語世界裡，這份慷慨也許是最美的流利之一。</p><p>把這週一句有用的話帶進下一次真實對話。禮物被使用時，才真正活起來。</p><p>這就是為什麼每個新片語都重要。它可能會成為那句在沉默比較容易時，幫助你保持誠實的話。</p>`,
+    text: `<p>Expression is a gift because it lets inner life become shareable. A feeling that stays unnamed can become heavy or lonely. A need that never finds words may turn into anger. An idea that cannot be explained may remain unused. When people gain language, they gain more than communication skills. They gain ways to be known, to ask for care, to set limits, and to offer something true to others.</p><p>For adults, this gift can arrive late and still matter deeply. Many people grew up in families, schools, or workplaces where certain feelings were not welcomed. They learned to be useful, polite, quiet, or strong, but not always expressive. English learning can unexpectedly reopen that space. A new language may feel less attached to old rules, allowing someone to say, "I was disappointed," "I need support," or "This matters to me."</p><p>Expression is not the same as saying everything without care. The gift becomes stronger when it includes timing, listening, and responsibility. Honest words can still be gentle. Strong opinions can still make room for others. A person who expresses well does not flood the room with every emotion. They choose words that respect both the truth and the relationship. That is a high-level adult skill.</p><p>There is also generosity in expression. When you describe your experience clearly, you may help someone else feel less alone. When you name a problem kindly, you may make it easier for a team or family to change. When you tell a story from your culture, you give others a doorway into your world. Expression is personal, but it often becomes communal.</p><p>As this week ends, notice one thing you can now say better than before. Maybe it is a boundary, a memory, a preference, or a question. Mark that sentence. It may look small, but it represents practice, courage, and identity becoming more available. The gift of expression is not perfect speech. It is the growing ability to let your real self meet the world.</p><p>The gift also includes receiving expression from others. When someone struggles to speak, we can listen for meaning instead of judging speed or accent. That kind of listening is part of the same practice. We become people who use language to make room, not only to take space. In a multilingual world, this generosity may be one of the most beautiful forms of fluency.</p><p>Carry one useful sentence from this week into your next real conversation. A gift becomes alive when it is used.</p><p>That is why every new phrase matters. It may become the phrase that helps you stay honest when silence would be easier.</p>`,
+    textZh: `<p>表達之所以是一份禮物，是因為它讓內在生活可以被分享。沒有被命名的感受可能變得沉重或孤單；一直找不到語言的需求可能變成憤怒；無法說明的想法可能永遠用不上。當人取得語言，他得到的不只是溝通技巧，也得到被理解、請求照顧、設立界線，以及把真實的東西交給別人的方式。</p><p>對成人來說，這份禮物即使來得晚，仍然很重要。很多人成長於某些感受不被歡迎的家庭、學校或職場。他們學會有用、禮貌、安靜或堅強，卻不一定學會表達。英文學習有時會意外重新打開那個空間。新的語言可能比較不黏著舊規則，讓人能說：「我很失望。」「我需要支持。」「這件事對我很重要。」</p><p>表達不等於毫無顧忌地把所有事說出來。當它包含時機、聆聽和責任，這份禮物會更有力量。誠實的話仍然可以溫柔；強烈的意見仍然可以為別人留空間。會表達的人不會把每一種情緒都倒滿整個房間，而是選擇同時尊重真相和關係的詞。這是很高階的成人能力。</p><p>表達裡也有慷慨。當你清楚描述自己的經驗，可能讓別人感到不那麼孤單。當你溫和地說出問題，可能讓團隊或家庭更容易改變。當你說出來自自己文化的故事，你也給別人一道進入你世界的門。表達是個人的，但它常常會變成共同的。</p><p>這一週結束時，留意一件你現在比以前更能說出口的事。也許是一條界線、一段記憶、一個偏好，或一個問題。標記那個句子。它看起來可能很小，卻代表練習、勇氣，以及身分變得更可被看見。表達的禮物不是完美說話，而是越來越能讓真實的自己和世界相遇。</p><p>這份禮物也包含接住別人的表達。當有人努力說話時，我們可以聽意思，而不是評斷速度或口音。這種聆聽也是同一個練習的一部分。我們成為用語言創造空間的人，而不只是佔據空間的人。在多語世界裡，這份慷慨也許是最美的流利之一。</p><p>把這週一句有用的話帶進下一次真實對話。禮物被使用時，才真正活起來。</p><p>這就是為什麼每個新片語都重要。它可能會成為那句在沉默比較容易時，幫助你保持誠實的話。</p>`,
     vocabulary: [
       { word: 'shareable', definition: '能被說出來並讓他人理解或一起承接的。', example: 'Writing made the private feeling more shareable.' },
       { word: 'communal', definition: '不只屬於個人，也和群體、關係或共同經驗有關。', example: 'Her story turned a private memory into a communal moment.' },

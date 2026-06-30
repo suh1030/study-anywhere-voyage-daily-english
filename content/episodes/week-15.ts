@@ -4,7 +4,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 1,
-    "date": "2026-04-06",
     "theme": "Personality & Character",
     "title": "Who Are You: Talking About Personality Types",
     "phase": "p2",
@@ -321,7 +320,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 2,
-    "date": "2026-04-07",
     "theme": "Personality & Character",
     "title": "First Impressions and Personality Signals",
     "phase": "p2",
@@ -633,7 +631,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 3,
-    "date": "2026-04-08",
     "theme": "Personality & Character",
     "title": "Introversion, Extroversion, and Social Energy",
     "phase": "p2",
@@ -950,7 +947,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 4,
-    "date": "2026-04-09",
     "theme": "Personality & Character",
     "title": "Traits We Admire",
     "phase": "p2",
@@ -1267,7 +1263,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 5,
-    "date": "2026-04-10",
     "theme": "Personality & Character",
     "title": "Flaws, Habits, and Personal Growth",
     "phase": "p2",
@@ -1579,7 +1574,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 6,
-    "date": "2026-04-11",
     "theme": "Personality & Character",
     "title": "How Personality Shapes Relationships",
     "phase": "p2",
@@ -1896,7 +1890,6 @@ export const WEEK_15: Episode[] = [
   {
     "weekNumber": 15,
     "dayOfWeek": 7,
-    "date": "2026-04-12",
     "theme": "Personality & Character",
     "title": "Becoming More Fully Yourself",
     "phase": "p2",

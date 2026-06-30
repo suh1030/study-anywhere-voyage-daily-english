@@ -4,7 +4,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 1,
-    "date": "2026-06-15",
     "theme": "Success & Failure",
     "title": "Wins and Losses: What We Learn From Both",
     "phase": "p3",
@@ -45,8 +44,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I think pausing to actually mark the win helps. Not celebrate for days — just acknowledge it properly before moving on.",
-            "zh": "我覺得真正停下來標記這個勝利有幫助。不是慶祝好幾天——只是在繼續之前好好承認它。"
+            "en": "I think pausing to actually mark the win helps. Not mark for days — just acknowledge it properly before moving on.",
+            "zh": "我覺得真正停下來標記這個勝利有幫助。不是標記好幾天——只是在繼續之前好好承認它。"
           },
           {
             "speaker": "b",
@@ -321,7 +320,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 2,
-    "date": "2026-06-16",
     "theme": "Success & Failure",
     "title": "What Success Costs and What It Gives",
     "phase": "p3",
@@ -639,7 +637,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 3,
-    "date": "2026-06-17",
     "theme": "Success & Failure",
     "title": "Failure, Shame, and Starting Again",
     "phase": "p3",
@@ -956,7 +953,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 4,
-    "date": "2026-06-18",
     "theme": "Success & Failure",
     "title": "The Pressure to Succeed in Public",
     "phase": "p3",
@@ -1273,7 +1269,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 5,
-    "date": "2026-06-19",
     "theme": "Success & Failure",
     "title": "When Plans Fail but Life Does Not",
     "phase": "p3",
@@ -1590,7 +1585,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 6,
-    "date": "2026-06-20",
     "theme": "Success & Failure",
     "title": "The Success That No One Sees",
     "phase": "p3",
@@ -1637,14 +1631,14 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "There is no moment of celebration with invisible work. You just quietly move on.",
-            "zh": "隱形工作沒有慶祝的時刻。你只是悄悄地繼續前進。"
+            "en": "There is no moment of gathering with invisible work. You just quietly move on.",
+            "zh": "隱形工作沒有標記的時刻。你只是悄悄地繼續前進。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Which is why you have to celebrate it yourself. No one else will, so you have to make the acknowledgment internal.",
-            "zh": "這就是為什麼你必須自己慶祝它。沒有其他人會，所以你必須讓那種認可是內在的。"
+            "en": "Which is why you have to mark it yourself. No one else will, so you have to make the acknowledgment internal.",
+            "zh": "這就是為什麼你必須自己標記它。沒有其他人會，所以你必須讓那種認可是內在的。"
           }
         ]
       },
@@ -1875,7 +1869,7 @@ export const WEEK_25: Episode[] = [
       {
         "en": "composure",
         "zh": "冷靜；沉著",
-        "example": "Maintaining composure in a heated meeting is a skill that rarely gets celebrated but always gets noticed."
+        "example": "Maintaining composure in a heated meeting is a skill that rarely gets markd but always gets noticed."
       },
       {
         "en": "specificity",
@@ -1902,7 +1896,6 @@ export const WEEK_25: Episode[] = [
   {
     "weekNumber": 25,
     "dayOfWeek": 7,
-    "date": "2026-06-21",
     "theme": "Success & Failure",
     "title": "A Healthier Way to Keep Going",
     "phase": "p3",

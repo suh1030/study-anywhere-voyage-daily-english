@@ -4,7 +4,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 1,
-    "date": "2026-12-14",
     "theme": "Goals & Intentions",
     "title": "Goals That Fit Real Life",
     "phase": "p6",
@@ -316,7 +315,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 2,
-    "date": "2026-12-15",
     "theme": "Goals & Intentions",
     "title": "The Vision Behind the Goal",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 3,
-    "date": "2026-12-16",
     "theme": "Goals & Intentions",
     "title": "Habits, Systems, and Daily Practice",
     "phase": "p6",
@@ -945,7 +942,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 4,
-    "date": "2026-12-17",
     "theme": "Goals & Intentions",
     "title": "Work, Purpose, and Calling",
     "phase": "p6",
@@ -1052,7 +1048,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is why people need honest language around work, not just celebratory language.",
-            "zh": "對。也正因如此，人需要一套誠實談 work 的語言，不只是慶祝用的語言。"
+            "zh": "對。也正因如此，人需要一套誠實談 work 的語言，不只是標記用的語言。"
           }
         ]
       },
@@ -1262,7 +1258,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 5,
-    "date": "2026-12-18",
     "theme": "Goals & Intentions",
     "title": "Resilience and Bouncing Back",
     "phase": "p6",
@@ -1579,7 +1574,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 6,
-    "date": "2026-12-19",
     "theme": "Goals & Intentions",
     "title": "The Year Ahead",
     "phase": "p6",
@@ -1891,7 +1885,6 @@ export const WEEK_51: Episode[] = [
   {
     "weekNumber": 51,
     "dayOfWeek": 7,
-    "date": "2026-12-20",
     "theme": "Goals & Intentions",
     "title": "Setting Yourself Up for a Great Year",
     "phase": "p6",

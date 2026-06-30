@@ -4,7 +4,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 1,
-    "date": "2026-08-24",
     "theme": "Technology & Everyday Life",
     "title": "Always On: Technology in Our Daily Lives",
     "phase": "p5",
@@ -321,7 +320,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 2,
-    "date": "2026-08-25",
     "theme": "Technology & Everyday Life",
     "title": "Notifications, Attention, and Daily Focus",
     "phase": "p5",
@@ -633,7 +631,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 3,
-    "date": "2026-08-26",
     "theme": "Technology & Everyday Life",
     "title": "Convenience and the Hidden Costs of Tech",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 4,
-    "date": "2026-08-27",
     "theme": "Technology & Everyday Life",
     "title": "Smart Homes and Digital Habits",
     "phase": "p5",
@@ -1267,7 +1263,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 5,
-    "date": "2026-08-28",
     "theme": "Technology & Everyday Life",
     "title": "When Technology Feels Overwhelming",
     "phase": "p5",
@@ -1584,7 +1579,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 6,
-    "date": "2026-08-29",
     "theme": "Technology & Everyday Life",
     "title": "Choosing What Technology Is Worth Keeping",
     "phase": "p5",
@@ -1896,7 +1890,6 @@ export const WEEK_35: Episode[] = [
   {
     "weekNumber": 35,
     "dayOfWeek": 7,
-    "date": "2026-08-30",
     "theme": "Technology & Everyday Life",
     "title": "Building a Healthier Relationship with Devices",
     "phase": "p5",

@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W24_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-06-08',
     topic: 'Learning & Growth',
     title: 'Always Learning: How We Grow and Improve',
     wordCount: 462,
@@ -17,12 +16,11 @@ export const W24_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-09',
     topic: 'Learning & Growth',
     title: 'Why Growth Requires Discomfort',
     wordCount: 456,
     text: `<p>The relationship between discomfort and growth is one of the more counterintuitive facts about human development. People reliably seek comfort, and comfort reliably produces stasis. The brain learns most efficiently in a state of "desirable difficulty" — situations where performance is challenged enough to require genuine effort but not so overwhelmed as to produce panic. This narrow band is where capability expands. Outside it, in either direction, development slows.</p><p>This matters for anyone serious about growing, because it means that the subjective experience of learning is not pleasure but effort, friction, and occasional frustration. The person who picks up a new skill and finds it immediately easy is not in a learning zone — they are performing something they already know. The person who finds it difficult, who makes mistakes, who has to re-do and reconsider, is actually learning. The discomfort is the signal that something real is happening.</p><p>One of the most useful concepts from cognitive science is the distinction between the "learning zone" and the "comfort zone." The learning zone is just beyond the edge of current competence — difficult enough to require stretch, close enough to existing skill that the effort can be productive. Beyond that is the "panic zone" — where challenge so far exceeds current ability that confusion and avoidance replace productive struggle. Good learning design, whether by a teacher or by a self-directed learner, keeps the learner in the learning zone as much as possible.</p><p>The emotional challenge is that discomfort naturally triggers avoidance. People rationalize their retreat from difficulty: they are too busy, the timing is not right, they will return when they are more prepared. But "more prepared" rarely arrives by itself. Preparation is usually produced by the same uncomfortable practice that is being avoided. The habit of tolerating productive discomfort — of staying with the difficulty long enough for it to teach something — is as much a psychological skill as a cognitive one.</p><p>The key is to distinguish productive discomfort from needless suffering. Productive discomfort has direction: a clear skill, a reachable next step, and feedback that helps effort improve. Needless suffering is vague, endless, and unsupported. Telling the difference matters because some people use the language of growth to justify unhealthy pressure. Discomfort can be a teacher, but only when the conditions allow learning rather than mere endurance.</p><p>There is also a social dimension. Many adults avoid learning situations that would visibly mark them as beginners because they have built identities around being competent. The willingness to be openly bad at something new — to ask the question that reveals ignorance, to attempt the skill that reveals current limits — requires a kind of confidence that is separate from, and sometimes in tension with, the confidence that comes from established expertise.</p>`,
-    textZh: `<p>成長和不舒服之間的關係，是人類發展裡一個很反直覺的事實。人總是自然地想往舒服的地方去，可真正長期待在舒服裡，往往帶來的不是成長，而是停住。大腦最有效率的學習狀態，其實是所謂「剛剛好的困難」：難到你真的得出力，但又沒有難到整個人直接進入恐慌。能力真正被撐開的，通常就是這條窄窄的帶狀區間；超出太多，或根本沒碰到，成長都會慢下來。</p><p>這對任何認真想進步的人都很重要，因為它代表一件事：學習的主觀感受，很多時候不是開心，而是費力、卡住、摩擦感，偶爾還會很挫折。當一個人開始學新東西，卻覺得一切都太容易時，往往表示他其實沒有進到真正的學習區；他只是還在做自己本來就會的事。反而是那個一直犯錯、得重來、得重新理解的人，才真的在學。不舒服不一定是壞事，很多時候，它就是事情正在發生的訊號。</p><p>認知科學裡有一個很好用的概念，就是把「舒適區」、「學習區」和「恐慌區」分開看。學習區就在你當前能力邊緣的外側：難得剛好，會逼你伸展，但又還在你可以努力處理的範圍裡。再往外，就是恐慌區——挑戰大到超過你現有能力，於是混亂和逃避取代了有效掙扎。無論是老師還是自學者，如果真的想讓學習發生，最重要的事之一，就是盡量讓自己待在學習區，而不是不是太輕鬆，就是太崩潰。</p><p>難的是，不舒服本來就會自然觸發逃避。人很擅長替自己的退縮找合理說法：最近太忙、現在時機不對、等我準備好一點再來。但問題是，那個所謂「準備好」很少會自己出現。多數時候，準備本身就是靠那些你正在逃避的、很不舒服的練習長出來的。能不能忍住那種有建設性的不舒服，待久一點，待到它真的開始教你東西，這既是一種認知能力，也是一種心理能力。</p><p>關鍵在於分辨有建設性的不舒服，和不必要的受苦。有建設性的不舒服通常有方向：有清楚的技能、有夠得著的下一步，也有能讓努力變好的回饋。不必要的受苦則常常模糊、無止境、也缺乏支持。這個差別很重要，因為有些人會用成長的語言合理化不健康的壓力。不舒服可以是老師，但前提是環境真的允許學習，而不只是要求你忍耐。</p><p>還有一個社會層面的困難。很多成年人會避開那些會讓自己看起來很像新手的學習情境，因為他們已經把自我認同建在「我是有能力的人」這件事上。可是一旦要學新的東西，你就得願意當眾笨一點：問出那個會暴露自己不懂的問題，做出那個一看就還不成熟的第一次嘗試。這需要另一種自信——它不完全等於你原本在熟悉領域裡那種專家式的自信，有時甚至還會和它互相拉扯。</p>`,
+    textZh: `<p>成長和不舒服之間的關係，是人類發展裡一個很反直覺的事實。人總是自然地想往舒服的地方去，可真正長期待在舒服裡，往往帶來的不是成長，而是停住。大腦最有效率的學習狀態，其實是所謂「剛剛好的困難」：難到你真的得出力，但又沒有難到整個人直接進入恐慌。能力真正被撐開的，通常就是這條窄窄的帶狀區間；超出太多，或根本沒碰到，成長都會慢下來。</p><p>這對任何認真想進步的人都很重要，因為它代表一件事：學習的主觀感受，很多時候不是開心，而是費力、卡住、摩擦感，偶爾還會很挫折。當一個人開始學新東西，卻覺得一切都太容易時，往往表示他其實沒有進到真正的學習區；他只是還在做自己本來就會的事。反而是那個一直犯錯、得重來、得重新理解的人，才真的在學。不舒服不一定是壞事，很多時候，它就是事情正在發生的訊號。</p><p>認知科學裡有一個很好用的概念，就是把「舒適區」、「學習區」和「恐慌區」分開看。學習區就在你當前能力邊緣的外側：難得剛好，會逼你伸展，但又還在你可以努力處理的範圍裡。再往外，就是恐慌區——挑戰大到超過你現有能力，於是混亂和逃避取代了有效掙扎。無論是老師還是自學者，如果真的想讓學習發生，最重要的事之一，就是盡量讓自己待在學習區，而不是太輕鬆，就是太崩潰。</p><p>難的是，不舒服本來就會自然觸發逃避。人很擅長替自己的退縮找合理說法：最近太忙、現在時機不對、等我準備好一點再來。但問題是，那個所謂「準備好」很少會自己出現。多數時候，準備本身就是靠那些你正在逃避的、很不舒服的練習長出來的。能不能忍住那種有建設性的不舒服，待久一點，待到它真的開始教你東西，這既是一種認知能力，也是一種心理能力。</p><p>關鍵在於分辨有建設性的不舒服，和不必要的受苦。有建設性的不舒服通常有方向：有清楚的技能、有夠得著的下一步，也有能讓努力變好的回饋。不必要的受苦則常常模糊、無止境、也缺乏支持。這個差別很重要，因為有些人會用成長的語言合理化不健康的壓力。不舒服可以是老師，但前提是環境真的允許學習，而不只是要求你忍耐。</p><p>還有一個社會層面的困難。很多成年人會避開那些會讓自己看起來很像新手的學習情境，因為他們已經把自我認同建在「我是有能力的人」這件事上。可是一旦要學新的東西，你就得願意當眾笨一點：問出那個會暴露自己不懂的問題，做出那個一看就還不成熟的第一次嘗試。這需要另一種自信——它不完全等於你原本在熟悉領域裡那種專家式的自信，有時甚至還會和它互相拉扯。</p>`,
     vocabulary: [
       { word: 'desirable difficulty', definition: '可取的困難（適度的挑戰能促進更深入的學習）', example: 'Spacing out study sessions creates desirable difficulty that strengthens long-term memory.' },
       { word: 'stasis', definition: '靜止、不動（缺乏改變或發展的狀態）', example: 'Years in a comfortable role led to stasis in her professional skills.' },
@@ -32,7 +30,6 @@ export const W24_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-10',
     topic: 'Learning & Growth',
     title: 'Learning New Skills as an Adult',
     wordCount: 469,
@@ -47,7 +44,6 @@ export const W24_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-11',
     topic: 'Learning & Growth',
     title: 'What Good Practice Actually Looks Like',
     wordCount: 405,
@@ -62,7 +58,6 @@ export const W24_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-12',
     topic: 'Learning & Growth',
     title: 'When Progress Feels Slow',
     wordCount: 401,
@@ -77,7 +72,6 @@ export const W24_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-13',
     topic: 'Learning & Growth',
     title: 'Learning From Other People Without Comparing Yourself',
     wordCount: 414,
@@ -92,7 +86,6 @@ export const W24_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-14',
     topic: 'Learning & Growth',
     title: 'What It Means to Keep Growing',
     wordCount: 414,

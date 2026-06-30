@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W20_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-05-11',
     topic: 'Meetings & Discussions',
     title: 'Why So Many Meetings Fail',
     wordCount: 436,
@@ -17,7 +16,6 @@ export const W20_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-12',
     topic: 'Meetings & Discussions',
     title: 'Running a Good Meeting',
     wordCount: 451,
@@ -32,7 +30,6 @@ export const W20_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-13',
     topic: 'Meetings & Discussions',
     title: 'Collaboration and the Art of Working Together',
     wordCount: 466,
@@ -47,7 +44,6 @@ export const W20_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-14',
     topic: 'Meetings & Discussions',
     title: 'Creative Work in Groups',
     wordCount: 460,
@@ -62,7 +58,6 @@ export const W20_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-15',
     topic: 'Meetings & Discussions',
     title: 'Disagreement and Decision-Making',
     wordCount: 484,
@@ -77,7 +72,6 @@ export const W20_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-16',
     topic: 'Meetings & Discussions',
     title: 'Communicating Up and Across',
     wordCount: 439,
@@ -92,7 +86,6 @@ export const W20_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-17',
     topic: 'Meetings & Discussions',
     title: 'Building a Culture of Feedback',
     wordCount: 442,

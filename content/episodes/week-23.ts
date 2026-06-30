@@ -4,7 +4,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 1,
-    "date": "2026-06-01",
     "theme": "Career Goals",
     "title": "Where I'm Headed: Talking About Career Ambitions",
     "phase": "p3",
@@ -321,7 +320,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 2,
-    "date": "2026-06-02",
     "theme": "Career Goals",
     "title": "What Success Looks Like to You",
     "phase": "p3",
@@ -638,7 +636,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 3,
-    "date": "2026-06-03",
     "theme": "Career Goals",
     "title": "Ambition and Its Tradeoffs",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 4,
-    "date": "2026-06-04",
     "theme": "Career Goals",
     "title": "How to Talk About Your Next Step",
     "phase": "p3",
@@ -1267,7 +1263,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 5,
-    "date": "2026-06-05",
     "theme": "Career Goals",
     "title": "Choosing Between Stability and Growth",
     "phase": "p3",
@@ -1579,7 +1574,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 6,
-    "date": "2026-06-06",
     "theme": "Career Goals",
     "title": "Revising Your Goals Without Feeling Lost",
     "phase": "p3",
@@ -1896,7 +1890,6 @@ export const WEEK_23: Episode[] = [
   {
     "weekNumber": 23,
     "dayOfWeek": 7,
-    "date": "2026-06-07",
     "theme": "Career Goals",
     "title": "Building a Career That Still Feels Like Yours",
     "phase": "p3",

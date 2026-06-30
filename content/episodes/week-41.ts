@@ -4,7 +4,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 1,
-    "date": "2026-10-05",
     "theme": "Values & Beliefs",
     "title": "What We Stand For: Values, Principles, and Beliefs",
     "phase": "p5",
@@ -321,7 +320,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 2,
-    "date": "2026-10-06",
     "theme": "Values & Beliefs",
     "title": "Where Our Values Come From",
     "phase": "p5",
@@ -633,7 +631,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 3,
-    "date": "2026-10-07",
     "theme": "Values & Beliefs",
     "title": "When Beliefs Start to Change",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 4,
-    "date": "2026-10-08",
     "theme": "Values & Beliefs",
     "title": "Living According to What You Believe",
     "phase": "p5",
@@ -1267,7 +1263,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 5,
-    "date": "2026-10-09",
     "theme": "Values & Beliefs",
     "title": "Disagreeing with People You Respect",
     "phase": "p5",
@@ -1579,7 +1574,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 6,
-    "date": "2026-10-10",
     "theme": "Values & Beliefs",
     "title": "What You Refuse to Compromise On",
     "phase": "p5",
@@ -1896,7 +1890,6 @@ export const WEEK_41: Episode[] = [
   {
     "weekNumber": 41,
     "dayOfWeek": 7,
-    "date": "2026-10-11",
     "theme": "Values & Beliefs",
     "title": "Becoming More Thoughtful About What Matters",
     "phase": "p5",

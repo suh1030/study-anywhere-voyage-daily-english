@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W3_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-01-12',
     topic: 'Commuting',
     title: 'Getting Around: Commute Stories',
     wordCount: 436,
@@ -17,12 +16,11 @@ export const W3_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-13',
     topic: 'Commuting',
     title: 'Walking and Cycling to Work',
     wordCount: 491,
-    text: `<p>There is a particular kind of person who arrives at work having already spent thirty minutes outside, moving through the morning air. They tend to seem less frantic. They know what the weather is actually doing, not what an app predicted. They have seen the neighborhood waking up — the bakery unlocking its door, the dog walkers crossing the park, the brief window when the city is still mostly quiet. These people are not necessarily more disciplined. They have just arranged their lives so that the journey itself is part of what makes the day worth starting.</p><p>Walking and cycling to work are often framed as choices about health or the environment. Both are true, but neither is usually the reason people stick with them. The reason people stick with active commuting is simpler and less virtuous: it feels good. There is a direct physical satisfaction in arriving somewhere under your own power, in feeling the effort in your legs and the fresh air in your lungs. That physical memory tends to linger pleasantly into the first hour of work in a way that a subway ride does not.</p><p>The practical objections are real. Distance is the obvious one — few people can walk or cycle an hour each way without it consuming a significant portion of the day. Weather is another: a cycling commute in sunshine is a pleasure; in heavy rain it can become an ordeal. There is also the question of what you arrive looking like, which matters more in some workplaces than others. These are not small obstacles. But many people who have tried active commuting report that they work around them more easily than they expected — a folding bike plus a short train ride, a change of clothes kept at the office, a raincoat good enough to actually work.</p><p>Something else happens when you walk or cycle regularly that is harder to quantify. You develop a relationship with the city at a human scale. The route becomes familiar in a granular way — you notice which garden has started to bloom, which street has repaved its surface, where a new shop has appeared. This kind of attention is not always comfortable; you also notice the things that are going wrong, the broken pavement, the empty shopfront. But it connects you to place in a way that moving underground or encased in metal does not.</p><p>The choice to walk or cycle to work is ultimately a choice about how you want to begin and end the day. Not as an act of virtue, not as optimization, but as a preference for arriving into your life through the door of your own body. That preference is worth taking seriously even if, in the end, the distances or the terrain or the weather make it impossible most days. Knowing what you would prefer, if you could, is not nothing. It tells you something about what you actually value.</p>`,
-    textZh: `<p>有一種人，上班前已在晨間戶外空氣中移動了三十分鐘。他們通常看起來不那麼慌亂。他們知道天氣實際上是什麼狀態，而不只是看 app 的預報。他們看到了社區在甦醒——麵包店開鎖、遛狗的人穿越公園、城市還大致安靜的那扇短暫窗口。這些人不一定更有紀律，只是把生活安排成讓旅程本身就成為讓這一天值得開始的一部分。</p><p>步行和騎車上班，通常被人拿來談健康或環保。兩點都沒錯，但這通常不是讓人堅持下去的理由。讓人堅持主動通勤的理由更簡單、也不那麼崇高：感覺很好。靠自己的力量抵達某個地方，有一種直接的身體滿足感——感受腿部的用力、新鮮空氣進入肺裡。那種身體的記憶，往往愉快地延伸進工作的最初一小時，是搭地鐵沒辦法給你的。</p><p>實際上的阻礙是真實的。距離最明顯——很少有人能每天步行或騎車一小時往返，而不消耗掉大量時間。天氣是另一個：晴天騎車通勤是享受，大雨天可以變成煎熬。還有抵達時的儀容問題，在某些職場比其他地方更在意。這些都不是小障礙。但許多嘗試過主動通勤的人說，繞過這些限制比預期中容易——折疊車加短程搭車、在辦公室備一套換洗衣物、買一件真的有用的雨衣。</p><p>定期步行或騎車，還會發生另一件更難量化的事：你開始在人的尺度上和這座城市建立關係。那條路線以細膩的方式變得熟悉——你注意到哪個庭院開始開花、哪條街重新鋪了路面、哪裡冒出了一家新店。這種注意並不總是舒適，你也會看到出了問題的地方：破損的人行道、空著的店面。但它以在地底或被金屬包覆移動時沒辦法給你的方式，讓你與這個地方連結。</p><p>選擇步行或騎車上班，說到底是一個關於如何開始和結束一天的決定。不是為了美德，不是為了效率，而是對「從自己身體出發、走進自己生活」的一種偏好。這個偏好值得認真對待，即使最終距離、地形或天氣讓它在大多數天都難以實現。知道如果可以，你會想要什麼——這本身就有意義，它告訴你一些關於你真正重視什麼的事。</p>`,
+    text: `<p>There is a particular kind of person who arrives at work having already spent thirty minutes outside, moving through the morning air. They tend to seem less frantic. They know what the weather is actually doing, not just what an app predicted. They have seen the neighborhood waking up — the bakery unlocking its door, dog walkers crossing the park, the brief window when the city is still mostly quiet. These people are not necessarily more disciplined. They have simply arranged their lives so that the journey itself becomes part of what makes the day worth starting.</p><p>Walking and cycling to work are often framed as choices about health or the environment. Both are valid, but neither is usually the reason people stick with them. The reason is simpler and less idealized: it feels good. There is a direct physical satisfaction in arriving somewhere under your own power, in feeling the effort in your legs and the fresh air in your lungs. That physical experience tends to carry pleasantly into the first hour of work in a way that a subway ride does not.</p><p>The practical constraints are real. Distance is the most obvious — few people can walk or cycle an hour each way without it taking up a significant portion of the day. Weather is another: a cycling commute in sunshine is enjoyable; in heavy rain it can become an ordeal. There is also the question of how you arrive, which matters more in some workplaces than others. These are not minor challenges. But many people who try active commuting find they can adapt more easily than expected — combining a folding bike with a short train ride, keeping a change of clothes at the office, or investing in rain gear that actually works.</p><p>Something else happens when you walk or cycle regularly that is harder to measure. You begin to develop a relationship with the city at a human scale. Your route becomes familiar in a detailed way — you notice which garden has started to bloom, which street has been repaved, where a new shop has opened. This kind of attention is not always comfortable; you also notice what is not working — broken pavement, empty storefronts. But it connects you to a place in a way that traveling underground or enclosed in a vehicle does not.</p><p>The decision to walk or cycle to work is ultimately a choice about how you want to begin and end your day. Not as a moral stance, not as optimization, but as a preference for arriving into your life through the experience of your own body. That preference is worth taking seriously, even if distance, terrain, or weather make it impractical most days. Knowing what you would choose, if you could, still matters. It reveals something about what you truly value.</p>`,
+    textZh: `<p>有一種人，上班前已經在清晨的空氣中活動了三十分鐘。他們通常看起來不那麼慌亂。他們知道實際的天氣狀況，而不只是看 app 的預測。他們看見了社區甦醒的過程——麵包店打開門、遛狗的人穿過公園，以及城市仍然安靜的那段短暫時光。這些人不一定更有紀律，只是把生活安排成讓「通勤本身」成為讓一天值得開始的一部分。</p><p>步行或騎車上班，常被視為關於健康或環保的選擇。這兩點都成立，但通常不是讓人長期維持的原因。真正的原因更簡單，也不那麼理想化：因為感覺很好。靠自己的力量抵達目的地，身體會有一種直接的滿足感——你能感覺到腿部的用力，以及新鮮空氣進入肺部。這種身體經驗，往往會自然延續到工作開始的前一段時間，而這是搭地鐵很難帶來的。</p><p>現實的限制確實存在。最明顯的是距離——很少有人能每天來回步行或騎車一小時，而不佔據大量時間。天氣也是因素：晴天騎車通勤是享受，大雨時則可能變成折磨。還有到達時的外在狀態，在某些職場會特別被在意。這些都不是小問題。但許多嘗試過主動通勤的人發現，實際上比想像中更容易調整——例如折疊腳踏車搭配短程通勤、在辦公室準備替換衣物，或使用真正有效的雨具。</p><p>當你長期以步行或騎車通勤，還會發生一件難以量化的變化：你會在「人的尺度」上與城市建立連結。通勤路線會以細節的方式變得熟悉——你會注意到哪個花園開始開花、哪條街重新鋪路、哪裡新開了一家店。這種注意力並不總是愉快，你也會看到不理想的地方——破損的人行道、空著的店面。但這種經驗，讓你以不同於地下移動或被交通工具包覆的方式，與城市產生連結。</p><p>選擇步行或騎車上班，本質上是對「如何開始與結束一天」的一種選擇。不是為了道德，也不是為了效率，而是偏好透過自己的身體經驗，進入自己的生活。這種偏好值得被認真看待，即使在多數日子裡，距離、地形或天氣讓它難以實現。即使無法實踐，知道自己真正偏好的方式，仍然很重要，因為它反映了你真正重視的事。</p>`,
     vocabulary: [
       { word: 'active commuting', definition: '主動通勤（步行或騎車等需要體力的方式）', example: 'After switching to active commuting, she found she needed less coffee in the mornings and slept better at night.' },
       { word: 'ordeal', definition: '折磨；艱難的考驗', example: 'The rainy season turned his cycling commute into a daily ordeal, and he finally bought a proper waterproof jacket.' },
@@ -32,7 +30,6 @@ export const W3_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-14',
     topic: 'Commuting',
     title: 'Remote Work Days',
     wordCount: 495,
@@ -47,7 +44,6 @@ export const W3_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-15',
     topic: 'Commuting',
     title: 'Commuting Etiquette',
     wordCount: 488,
@@ -62,7 +58,6 @@ export const W3_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-16',
     topic: 'Commuting',
     title: 'Driving to Work',
     wordCount: 454,
@@ -77,7 +72,6 @@ export const W3_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-17',
     topic: 'Commuting',
     title: 'Long-Distance Commuters',
     wordCount: 474,
@@ -92,7 +86,6 @@ export const W3_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-01-18',
     topic: 'Commuting',
     title: 'The Future of Getting to Work',
     wordCount: 468,

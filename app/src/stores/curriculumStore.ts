@@ -1,9 +1,9 @@
 import { create } from 'zustand'
 import { supabase } from '../lib/supabase'
 import {
+  formatLocalDate,
   generateSchedule,
-  getTodayKey,
-  isDateKey,
+  isLocalDate,
   type ScheduleDay,
 } from '../data/curriculum'
 
@@ -40,7 +40,7 @@ export const useCurriculumStore = create<CurriculumState>((set) => ({
   initialize: async () => {
     set({ loading: true })
 
-    const fallbackStartDateKey = getTodayKey()
+    const fallbackStartDateKey = formatLocalDate()
     let resolvedStartDateKey = fallbackStartDateKey
 
     try {
@@ -63,7 +63,7 @@ export const useCurriculumStore = create<CurriculumState>((set) => ({
         .maybeSingle()
 
       const existingStartDateKey = profile?.settings?.[CURRICULUM_START_KEY]
-      if (typeof existingStartDateKey === 'string' && isDateKey(existingStartDateKey)) {
+      if (typeof existingStartDateKey === 'string' && isLocalDate(existingStartDateKey)) {
         resolvedStartDateKey = existingStartDateKey
       } else {
         const nextSettings = buildSettingsWithStartDate(profile?.settings, fallbackStartDateKey)
