@@ -165,7 +165,6 @@ function regenerateEpisode(episode: Episode): Episode {
   return {
     weekNumber: episode.weekNumber,
     dayOfWeek: episode.dayOfWeek,
-    date: episode.date,
     theme: episode.theme,
     title: episode.title,
     phase: config.phase,
@@ -178,7 +177,6 @@ function serializeEpisode(episode: Episode): string {
   return `  {
     weekNumber: ${episode.weekNumber},
     dayOfWeek: ${episode.dayOfWeek},
-    date: '${escapeSingle(episode.date)}',
     theme: '${escapeSingle(episode.theme)}',
     title: '${escapeSingle(episode.title)}',
     phase: '${episode.phase}',

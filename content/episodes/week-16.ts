@@ -4,7 +4,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 1,
-    "date": "2026-04-13",
     "theme": "Communication Styles",
     "title": "How We Talk: Different Ways of Communicating",
     "phase": "p2",
@@ -316,7 +315,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 2,
-    "date": "2026-04-14",
     "theme": "Communication Styles",
     "title": "Direct and Indirect Communication",
     "phase": "p2",
@@ -633,7 +631,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 3,
-    "date": "2026-04-15",
     "theme": "Communication Styles",
     "title": "Listening Beyond the Words",
     "phase": "p2",
@@ -950,7 +947,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 4,
-    "date": "2026-04-16",
     "theme": "Communication Styles",
     "title": "Expressing Disagreement Respectfully",
     "phase": "p2",
@@ -1262,7 +1258,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 5,
-    "date": "2026-04-17",
     "theme": "Communication Styles",
     "title": "Texting, Voice Notes, and Miscommunication",
     "phase": "p2",
@@ -1579,7 +1574,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 6,
-    "date": "2026-04-18",
     "theme": "Communication Styles",
     "title": "Asking Better Questions",
     "phase": "p2",
@@ -1896,7 +1890,6 @@ export const WEEK_16: Episode[] = [
   {
     "weekNumber": 16,
     "dayOfWeek": 7,
-    "date": "2026-04-19",
     "theme": "Communication Styles",
     "title": "Speaking Clearly Under Pressure",
     "phase": "p2",

@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W19_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-05-04',
     topic: 'Your Job & Role',
     title: 'What Do You Do? Identity and Work',
     wordCount: 459,
@@ -17,7 +16,6 @@ export const W19_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-05',
     topic: 'Your Job & Role',
     title: 'Choosing a Career Path',
     wordCount: 460,
@@ -32,12 +30,11 @@ export const W19_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-06',
     topic: 'Your Job & Role',
     title: 'The First Job and What It Teaches',
     wordCount: 481,
     text: `<p>No amount of education fully prepares a person for their first job. This is not a failure of education — it is a recognition that work involves a dimension of learning that only becomes available through doing. The first job teaches things that could not have been taught beforehand: how organizations actually function versus how they are supposed to function, how to manage the texture of real working days, how to relate to colleagues and authority figures in professional contexts, and how your particular combination of strengths and weaknesses plays out under real conditions rather than controlled assessment environments.</p><p>Expectations matter enormously in how people experience their first jobs, and they are commonly either too high or too low. People who arrive expecting their role to be immediately meaningful, well-compensated, and filled with work that uses their full abilities are frequently disappointed. Entry-level work is usually routine, undercompensated, and involves tasks that could be done by people with much less training. The person who can accept this phase without resentment, while using it to build genuine competence and relationships, is in a significantly better position six months in than the person who is still comparing the reality to their original expectations.</p><p>First jobs teach failure in ways that academic settings typically do not. Making a real mistake — sending the wrong version of a document to a client, missing a deadline that creates problems for others, misunderstanding an instruction in a way that has actual consequences — provides a quality of learning that simulated failures cannot. The difference between academic failure, which has no real-world consequence, and professional failure, which does, produces a different relationship with risk, care, and attention to detail. Most people remember their early professional mistakes vividly and can trace specific competencies back to specific errors.</p><p>The relationships formed in a first job, however temporary that job turns out to be, often persist for decades. Early colleagues become references, collaborators, employers, and genuine friends. The professional network that eventually matters most to a person's career is usually seeded in the first few years of working life, not in graduate school or in professional organizations joined later. This is a practical argument for investing in colleague relationships even in jobs that seem too junior or too temporary to warrant that investment.</p><p>Leaving the first job well — gracefully, with appropriate notice and genuine effort during the transition — sets a professional tone that has long-term consequences. The professional world's reputation systems are informal but persistent. People who leave well tend to have positive references and open doors to return; people who leave badly tend to find that the world is smaller than it appeared. How you exit your first job is the first real test of the professional character you are building, and the standards you set in those early departures tend to persist through the ones that follow.</p>`,
-    textZh: `<p>再完整的教育，也無法讓一個人百分之百準備好面對第一份工作。這不是教育做得不夠，而是因為工作裡有一種只能靠親身去做，才學得到的東西。第一份工作會教你的，往往是事前根本無法真正教會的事：組織實際上怎麼運作，和它口頭上說自己應該怎麼運作，兩者差多少；一整個真實工作日的節奏和紋理到底是什麼；該怎麼和同事、主管、權威相處；以及你自己那組獨特的優點與弱點，在真實環境裡究竟會怎麼發揮。</p><p>人們怎麼經歷第一份工作，很大程度取決於他一開始帶著什麼期待，而那些期待常常不是太高就是太低。若一開始就以為這份工作會立刻很有意義、薪水不錯，而且每天都能充分發揮自己的全部能力，那失望通常來得很快。多數入門職位都偏例行、薪資有限，做的事情甚至常常不需要那麼多訓練也能上手。能接受這只是人生一個階段，不帶著怨氣去做，並趁這段時間累積能力和人脈的人，半年後通常會比還在抱怨現實不如想像的人站得更穩。</p><p>第一份工作也會用學校很難提供的方式，教你面對失敗。寄錯版本給客戶、漏掉會害別人跟著出問題的期限、因為誤會指示而造成實際後果——這種真實犯錯帶來的學習強度，是模擬情境給不了的。學校裡的失敗和工作裡的失敗，最大的差別就在於後果。正因為代價真的存在，人對風險、細節和謹慎的態度才會被重新塑形。多數人都記得自己職涯初期那些出糗或出包的時刻，而且往往能清楚指出：自己後來哪個能力，就是從那次錯誤裡長出來的。</p><p>第一份工作裡建立的關係，就算那份工作本身很短，也常常會留很久。早期同事可能成為未來的推薦人、合作夥伴、主管，甚至變成真正的朋友。很多人職涯裡最重要的專業人脈，其實是在工作的頭幾年慢慢種下的，而不是後來念研究所或加入專業協會時才突然出現。這也是一個很實際的理由：就算眼前這份工作看起來太初階、太過渡，也值得把和同事之間的關係好好經營起來。</p><p>至於離開第一份工作，離開得好不好，影響也比想像中長遠。帶著分寸離開、給足合理預告、在交接期間依然認真做完該做的事，會替你往後的職業形象定下一種基調。專業世界的聲譽系統雖然不成文，卻意外持久。離職離得漂亮的人，通常會留下好的推薦，也替未來保留再次合作的可能；離得難看的人，往往會很快發現，這個圈子其實沒有想像中那麼大。你怎麼離開第一份工作，常常就是你職業品格第一次真正被看見的時刻。</p>`,
+    textZh: `<p>再完整的教育，也無法讓一個人百分之百準備好面對第一份工作。這不是教育的失敗，而是因為工作包含一種只能透過親身經歷才能學會的學習。第一份工作會教你的，往往是事前無法真正教會的事：組織實際上如何運作，以及它理論上應該如何運作之間的差距；如何適應真實工作日的節奏；如何在專業環境中與同事和主管互動；以及你獨特的優勢與弱點組合，在真實情境而非考試或評量環境下，究竟會如何展現。</p><p>一個人如何看待自己的第一份工作，很大程度取決於他帶著什麼樣的期待，而這些期待往往不是過高，就是過低。那些期待工作一開始就充滿意義、薪資優渥，並且能充分發揮全部能力的人，通常很容易感到失望。多數入門職位都帶有不少例行性工作，薪資也未必理想，甚至包含一些不需要太多專業訓練就能完成的任務。能夠接受這個階段、不帶著怨懟面對現實，同時利用這段時間培養能力與建立人際關係的人，半年後往往會比那些仍在拿現實和理想比較的人站得更穩。</p><p>第一份工作也會用學校較少提供的方式，教會人什麼是失敗。一次真正的失誤——例如寄錯版本給客戶、錯過影響他人的截止期限，或誤解指示而造成實際後果——所帶來的學習深度，是任何模擬情境都無法完全取代的。學術環境中的失敗，通常不會帶來真實世界的後果；而職場中的失敗則會。正是這種差異，改變了一個人面對風險、謹慎程度以及細節的態度。大多數人都清楚記得自己職涯初期犯過的重要錯誤，而許多後來具備的能力，也都能追溯到那些經驗。</p><p>第一份工作裡建立的人際關係，不論那份工作最後持續多久，往往都可能延續很多年。早期的同事可能成為未來的推薦人、合作夥伴、雇主，甚至是真正的朋友。一個人職涯中最有價值的人脈網絡，通常是在工作生涯的前幾年開始建立的，而不是在研究所階段或後來加入專業組織時才形成。從這個角度來看，即使是一份看起來太初階或過於短暫的工作，也值得認真經營與同事之間的關係。</p><p>至於如何離開第一份工作，其重要性往往比想像中更深遠。以成熟得體的方式離開、給予合理的預告時間，並在交接期間持續盡責完成工作，會為你的職業形象奠定長期基調。職場中的聲譽系統雖然不成文，卻往往持續存在。懂得好好離開的人，通常能留下良好的推薦與未來再次合作的機會；而離開方式不佳的人，則很快會發現職場圈子其實比想像中更小。你如何離開第一份工作，往往是你職業品格第一次真正受到檢驗的時刻，而你在這些早期離職經驗中建立的標準，也常常會延續到未來每一次離開之中。</p>`,
     vocabulary: [
       { word: 'entry-level', definition: '入門級的；初階的', example: 'During her entry-level year, Mina learned client habits that later made her an excellent manager.' },
       { word: 'simulated', definition: '模擬的；仿製的', example: 'After the product bug, simulated failures from class suddenly felt too gentle.' },
@@ -47,7 +44,6 @@ export const W19_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-07',
     topic: 'Your Job & Role',
     title: 'Changing Directions Mid-Career',
     wordCount: 489,
@@ -62,12 +58,11 @@ export const W19_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-08',
     topic: 'Your Job & Role',
     title: 'Passion, Purpose, and Meaning at Work',
     wordCount: 487,
     text: `<p>The pursuit of meaningful work has become one of the defining aspirations of professional life in the twenty-first century. Survey after survey finds that people, particularly younger people, rank meaningful work above high pay as a career priority. This represents a significant shift from earlier generations, when work was understood more plainly as a means of survival and economic stability, and the expectation that it should also provide personal meaning was limited to a fortunate few. Whether the shift reflects changing values or changing economic conditions — or the peculiar combination of both — the demand for meaning at work is real and growing.</p><p>Meaning at work comes from several distinct sources that do not always arrive together. Task meaning is the satisfaction derived from the work itself — the sense that what you are doing is interesting, challenging, or skillfully executed. Relational meaning comes from the people around you — colleagues you respect, clients or customers whose lives are genuinely improved by what you do, a team that functions well and feels worth belonging to. Purpose meaning is the largest category and the hardest to sustain: the sense that the work connects to something that matters beyond the immediate transaction.</p><p>The relationship between values and work satisfaction is often misunderstood. People frequently describe wanting work that aligns with their values, but when they get it, they sometimes discover that values alignment alone does not produce day-to-day satisfaction. A person who cares deeply about environmental protection may find that working for an environmental organization involves enough administrative routine, organizational dysfunction, and interpersonal friction that the value alignment carries less weight than expected. Meaning in practice is built from the specific texture of the days, not only from the mission statement.</p><p>Craftsmanship — the orientation toward doing excellent work for its own sake, regardless of whether the specific task is inherently meaningful — is one of the more reliable paths to work satisfaction across many different kinds of jobs. Research on experienced craftspeople, surgeons, programmers, and teachers finds a common thread: the deep satisfaction that comes from genuine mastery, from the felt sense of executing something well, is a form of meaning that attaches to the work rather than requiring the work to be attached to something larger.</p><p>Waiting for work to be meaningful before investing fully in it is a strategy that often produces the opposite of its intended outcome. Meaning at work tends to develop in response to investment — as skills deepen, as relationships develop, as understanding of the field increases, and as the sense of genuine competence grows. The person who holds back from full engagement because the work is not yet meaningful may be preventing the very conditions that would make it meaningful. This is not a case for blind enthusiasm in jobs that are genuinely poor fits — it is a case for giving engagement a chance to do what disengagement cannot.</p>`,
-    textZh: `<p>在二十一世紀的職涯想像裡，「做一份有意義的工作」幾乎已經成了標準願望。一次又一次的調查都顯示，尤其是年輕世代，往往把工作的意義感放在高薪之前，視為重要的職涯條件。這和更早的世代很不一樣。過去，人們通常更直接地把工作視為養活自己、維持經濟穩定的手段；期待它同時承載個人意義，往往只是少數幸運者的選項。這種轉變究竟是價值觀改了，還是經濟條件變了，或者兩者糾結在一起，很難一刀切開；但可以確定的是，人們對工作意義的需求確實正在上升。</p><p>工作裡的意義，其實來自幾個不一樣的來源，而且它們未必會一起出現。所謂任務意義，是你從工作本身得到的滿足感——覺得它有趣、有挑戰、做起來有技術含量。關係意義，則來自周遭的人——值得尊敬的同事、確實因你的工作而變得比較好的客戶，或一個運作良好、讓人願意歸屬的團隊。至於目的意義，則是最大也最難維持的一塊：你感覺自己的工作，不只是眼前這筆交易，而是和某個更重要的東西連在一起。</p><p>價值觀和工作滿意度之間的關係，也常常被想得太簡單。很多人會說自己想找一份和價值觀一致的工作，但真的找到之後，有時才發現，光是價值觀一致，不足以撐起每天的滿足感。一個非常在乎環境保護的人，進了環保組織之後，仍可能被行政瑣事、組織失靈與人際摩擦消耗到懷疑人生。到頭來才發現，使命雖然重要，但每天的工作質地更重要。工作有沒有意義，不只寫在使命宣言裡，也寫在你一天天是怎麼度過的。</p><p>還有一條更穩定的路徑，是工藝精神——不管任務本身看起來有沒有偉大意義，都願意把它做好，並從把事情做好的過程中獲得滿足。研究有經驗的工匠、外科醫師、程式設計師與教師時，常會看見一條共同脈絡：真正精通某件事、把它做到位時，那種深層而紮實的滿足感，本身就是一種意義。它附著在工作的品質上，而不必先替這份工作綁上一個宏大的外部使命。</p><p>很多人以為，要等工作先變得有意義，自己才值得全力投入；但這樣的策略，往往反而會得到相反的結果。工作裡的意義，常常是在投入之後才慢慢長出來：技能更深了、關係建立了、對領域的理解更完整了，自我效能感也更清楚了。如果你因為現在還感受不到意義，就始終保留、不肯真正投入，可能反而擋掉了那些本來會讓工作變得有意義的條件。這不是要人對明明不適合的工作盲目熱血，而是要承認：投入有時能做到的事，旁觀永遠做不到。</p>`,
+    textZh: `<p>在二十一世紀的職涯觀裡，「做一份有意義的工作」幾乎已成為最重要的追求之一。一份又一份的調查顯示，人們，尤其是年輕世代，往往把工作的意義感排在高薪之前，視為重要的職涯考量。這和過去的世代形成明顯對比。以前，人們更直接地把工作視為維持生計與經濟穩定的手段，而期待工作同時帶來個人意義，往往只是少數幸運者才能擁有的條件。這種轉變究竟來自價值觀的改變、經濟環境的變化，還是兩者交互作用的結果，或許難以分辨；但可以確定的是，人們對工作意義的需求正在持續增加。</p><p>工作的意義感來自幾個不同的來源，而它們未必總是同時存在。任務意義，來自工作本身帶來的滿足感——你覺得手上的事情有趣、有挑戰性，或能被完成得很好。關係意義，來自你身邊的人——你尊敬的同事、因你的工作而真正受益的客戶，或是一個運作良好且讓人有歸屬感的團隊。至於目的意義，則是範圍最大、也最難維持的一種：你感覺自己的工作連結著某個超越眼前交易或報酬、更重要的事物。</p><p>價值觀與工作滿意度之間的關係，經常被誤解。很多人認為自己想要一份符合價值觀的工作，但真正得到之後，卻可能發現光靠價值觀一致，並不足以支撐每天的滿足感。一個非常重視環境保護的人，進入環保組織工作後，仍可能因為大量行政流程、組織運作失靈，或人際摩擦而感到疲憊，導致價值觀一致所帶來的力量，沒有原本想像得那麼大。實際上的意義感，是由每天具體的工作經驗累積而成，而不只是來自組織的使命宣言。</p><p>工藝精神（craftsmanship）——無論工作本身是否具有崇高意義，都願意把事情做到最好——是許多不同職業中相對可靠的工作滿足來源。針對資深工匠、外科醫師、程式設計師與教師的研究，都發現了一個共同點：真正精通一項技能，並且感受到自己把事情做好時所帶來的深層滿足，本身就是一種意義。這種意義附著在工作本身，而不一定需要依賴某個更宏大的使命來支撐。</p><p>如果一個人堅持等到工作變得有意義之後，才願意全心投入，往往會得到與期待相反的結果。工作的意義感通常是在投入之後才逐漸形成——隨著技能加深、人際關係建立、對領域理解增加，以及真正勝任感的提升而慢慢出現。那些因為覺得工作還沒有意義，而始終保留投入程度的人，反而可能阻礙了意義感形成所需的條件。這並不是鼓勵人對明顯不適合自己的工作盲目投入，而是提醒人們：投入有機會創造出冷眼旁觀永遠無法創造的結果。</p>`,
     vocabulary: [
       { word: 'craftsmanship', definition: '工藝精神；精湛技藝', example: 'During routine repairs, craftsmanship made Eli polish details no client would notice.' },
       { word: 'inherently', definition: '本質上；本身', example: 'Not every meaningful job involves work that is inherently interesting.' },
@@ -77,7 +72,6 @@ export const W19_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-09',
     topic: 'Your Job & Role',
     title: 'Promotions, Recognition, and Getting Ahead',
     wordCount: 487,
@@ -92,7 +86,6 @@ export const W19_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-10',
     topic: 'Your Job & Role',
     title: 'When Work Stops Fitting',
     wordCount: 502,

@@ -118,10 +118,10 @@ const P5_EN_TEMPLATES = [
 function parseArticles(fileContent) {
   const articles = [];
   // Extract each article block by finding vocabulary sections to determine article boundaries
-  const regex = /\{\s*dateKey:\s*'([^']+)',\s*topic:\s*'([^']+)',\s*title:\s*'([^']+)',[\s\S]*?vocabulary:\s*\[([\s\S]*?)\]\s*,?\s*\}/g;
+  const regex = /\{\s*topic:\s*'([^']+)',\s*title:\s*'([^']+)',[\s\S]*?vocabulary:\s*\[([\s\S]*?)\]\s*,?\s*\}/g;
   let match;
   while ((match = regex.exec(fileContent)) !== null) {
-    const [fullMatch, dateKey, topic, title, vocabSection] = match;
+    const [fullMatch, topic, title, vocabSection] = match;
 
     // Extract vocab words
     const vocabWords = [];
@@ -141,7 +141,6 @@ function parseArticles(fileContent) {
     const zhParas = [...textZhMatch[1].matchAll(/<p>([^<]*)<\/p>/g)].map(m => m[1]);
 
     articles.push({
-      dateKey,
       topic,
       title,
       vocabWords,

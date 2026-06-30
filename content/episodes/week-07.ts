@@ -4,7 +4,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 1,
-    "date": "2026-02-09",
     "theme": "Weather & Seasons",
     "title": "The Weather Today: Talking About Climate",
     "phase": "p1",
@@ -316,7 +315,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 2,
-    "date": "2026-02-10",
     "theme": "Weather & Seasons",
     "title": "Surviving the Rainy Season",
     "phase": "p1",
@@ -633,7 +631,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 3,
-    "date": "2026-02-11",
     "theme": "Weather & Seasons",
     "title": "How Weather Shapes Culture",
     "phase": "p1",
@@ -745,13 +742,13 @@ export const WEEK_07: Episode[] = [
         ]
       },
       {
-        "title": "Part 3 — Seasonal Festivals and Weather",
+        "title": "Part 3 — Seasonal Traditions and Weather",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Almost every traditional festival ties to a season or weather event. Midsummer, harvest moon, winter solstice.",
-            "zh": "幾乎每一個傳統節日都和一個季節或天氣事件相關聯。仲夏節、中秋月、冬至。"
+            "en": "Almost every traditional community event ties to a season or weather event. long summer days, harvest season, cold-season turning point.",
+            "zh": "幾乎每一個傳統特別場合都和一個季節或天氣事件相關聯。夏季傳統、收穫季、寒冷季節的傳統。"
           },
           {
             "speaker": "a",
@@ -762,20 +759,20 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "The mid-autumn festival at the harvest moon made sense literally — you're celebrating the harvest being in before winter.",
-            "zh": "中秋節在豐收月確實有字面意義——你在慶祝冬天前豐收完成。"
+            "en": "The harvest-season community event at the harvest season made sense literally — you're marking the harvest being in before winter.",
+            "zh": "收穫時節的聚會在豐收月確實有字面意義——你在在冬天前標記豐收完成。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "And winter solstice, the longest night — celebrations helped people cope psychologically with the darkness ahead.",
-            "zh": "而冬至，最長的夜晚——慶典幫助人們在心理上應對前方的黑暗。"
+            "en": "And cold-season turning point, the longest night — gatherings helped people cope psychologically with the darkness ahead.",
+            "zh": "而寒冷季節的傳統，最長的夜晚——聚會活動幫助人們在心理上應對前方的黑暗。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Festivals as collective courage against the difficult season. \"We will make it through winter together.\"",
-            "zh": "節日作為面對艱難季節的集體勇氣。「我們將一起度過冬天。」"
+            "en": "Gatherings as collective courage against the difficult season. \"We will make it through winter together.\"",
+            "zh": "特別場合作為面對艱難季節的集體勇氣。「我們將一起度過冬天。」"
           },
           {
             "speaker": "a",
@@ -933,7 +930,7 @@ export const WEEK_07: Episode[] = [
       {
         "en": "collective courage",
         "zh": "集體勇氣",
-        "example": "Winter festivals provided collective courage against the dark season."
+        "example": "Winter community events provided collective courage against the dark season."
       },
       {
         "en": "gratitude",
@@ -945,7 +942,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 4,
-    "date": "2026-02-12",
     "theme": "Weather & Seasons",
     "title": "Climate Anxiety and Everyday Action",
     "phase": "p1",
@@ -1262,7 +1258,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 5,
-    "date": "2026-02-13",
     "theme": "Weather & Seasons",
     "title": "Storm Stories and Weather Memories",
     "phase": "p1",
@@ -1579,7 +1574,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 6,
-    "date": "2026-02-14",
     "theme": "Weather & Seasons",
     "title": "Weather and Romance",
     "phase": "p1",
@@ -1655,8 +1649,8 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Rain during a funeral, sunshine at a wedding. Our brains expect weather to match the emotional moment.",
-            "zh": "葬禮時下雨，婚禮時有陽光。我們的大腦期望天氣和情感時刻相匹配。"
+            "en": "Rain during a funeral, sunshine at a community gathering. Our brains expect weather to match the emotional moment.",
+            "zh": "葬禮時下雨，聚會時有陽光。我們的大腦期望天氣和情感時刻相匹配。"
           },
           {
             "speaker": "a",
@@ -1802,7 +1796,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Any advice for celebrating together when the weather is terrible?",
+            "en": "Any advice for marking together when the weather is terrible?",
             "zh": "在天氣很糟的時候想好好一起相處，有什麼建議嗎？"
           },
           {
@@ -1896,7 +1890,6 @@ export const WEEK_07: Episode[] = [
   {
     "weekNumber": 7,
     "dayOfWeek": 7,
-    "date": "2026-02-15",
     "theme": "Weather & Seasons",
     "title": "Dream Destinations by Season",
     "phase": "p1",

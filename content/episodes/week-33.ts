@@ -4,7 +4,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 1,
-    "date": "2026-08-10",
     "theme": "Nature & Outdoors",
     "title": "Into the Open: Nature, Fresh Air, and the Outdoors",
     "phase": "p4",
@@ -321,7 +320,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 2,
-    "date": "2026-08-11",
     "theme": "Nature & Outdoors",
     "title": "Why Nature Changes the Way We Feel",
     "phase": "p4",
@@ -633,7 +631,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 3,
-    "date": "2026-08-12",
     "theme": "Nature & Outdoors",
     "title": "Urban Nature and Small Outdoor Rituals",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 4,
-    "date": "2026-08-13",
     "theme": "Nature & Outdoors",
     "title": "Hiking, Difficulty, and the Value of Effort",
     "phase": "p4",
@@ -1267,7 +1263,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 5,
-    "date": "2026-08-14",
     "theme": "Nature & Outdoors",
     "title": "Children, Screens, and Nature Deprivation",
     "phase": "p4",
@@ -1584,7 +1579,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 6,
-    "date": "2026-08-15",
     "theme": "Nature & Outdoors",
     "title": "Travel, Tourism, and Protecting Fragile Places",
     "phase": "p4",
@@ -1896,7 +1890,6 @@ export const WEEK_33: Episode[] = [
   {
     "weekNumber": 33,
     "dayOfWeek": 7,
-    "date": "2026-08-16",
     "theme": "Nature & Outdoors",
     "title": "Living Closer to the Living World",
     "phase": "p4",

@@ -81,7 +81,6 @@ function saveArticleFile(filePath, exportName, articles) {
 
   articles.forEach((article, articleIndex) => {
     lines.push('  {');
-    lines.push(`    dateKey: '${escapeString(article.dateKey)}',`);
     lines.push(`    topic: '${escapeString(article.topic)}',`);
     lines.push(`    title: '${escapeString(article.title)}',`);
     lines.push(`    wordCount: ${article.wordCount},`);

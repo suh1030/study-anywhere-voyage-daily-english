@@ -6,7 +6,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import { NavProvider, useNav } from './NavContext'
 import Svg, { Polygon, Path, Rect, Line, Circle } from 'react-native-svg'
 import { colors, fonts, spacing } from '../constants/theme'
-import { getScheduleEntry, getTodayKey } from '../data/curriculum'
+import { getCurrentScheduleEntry } from '../data/curriculum'
 import ScheduleScreen from '../screens/tabs/ScheduleScreen'
 import ListenScreen from '../screens/tabs/ListenScreen'
 import SpeakScreen from '../screens/tabs/SpeakScreen'
@@ -104,7 +104,7 @@ function TabNavigatorInner() {
   const { schedule } = useCurriculumStore()
 
   const dayLabel = useMemo(() => {
-    const entry = getScheduleEntry(schedule, getTodayKey())
+    const entry = getCurrentScheduleEntry(schedule)
     if (!entry) return null
     return `W${String(entry.week).padStart(2, '0')} · Day ${entry.dayOfWeek} · ${entry.label}`
   }, [schedule])

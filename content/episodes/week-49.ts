@@ -4,7 +4,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 1,
-    "date": "2026-11-30",
     "theme": "Rest & Renewal",
     "title": "Why Rest Is Productive",
     "phase": "p6",
@@ -316,7 +315,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 2,
-    "date": "2026-12-01",
     "theme": "Rest & Renewal",
     "title": "The Art of Doing Nothing",
     "phase": "p6",
@@ -591,7 +589,7 @@ export const WEEK_49: Episode[] = [
       {
         "en": "downtime",
         "zh": "空閒時間",
-        "example": "I finally had some downtime over the holiday and I did not know what to do with myself at first."
+        "example": "I finally had some downtime during a quiet break and I did not know what to do with myself at first."
       },
       {
         "en": "restorative",
@@ -633,7 +631,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 3,
-    "date": "2026-12-02",
     "theme": "Rest & Renewal",
     "title": "Sabbath and Sacred Rest",
     "phase": "p6",
@@ -950,7 +947,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 4,
-    "date": "2026-12-03",
     "theme": "Rest & Renewal",
     "title": "Creative Renewal",
     "phase": "p6",
@@ -1262,7 +1258,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 5,
-    "date": "2026-12-04",
     "theme": "Rest & Renewal",
     "title": "Physical Renewal and Body Wisdom",
     "phase": "p6",
@@ -1579,7 +1574,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 6,
-    "date": "2026-12-05",
     "theme": "Rest & Renewal",
     "title": "Slow Living in a Fast World",
     "phase": "p6",
@@ -1896,7 +1890,6 @@ export const WEEK_49: Episode[] = [
   {
     "weekNumber": 49,
     "dayOfWeek": 7,
-    "date": "2026-12-06",
     "theme": "Rest & Renewal",
     "title": "A Week of Rest Reflections",
     "phase": "p6",

@@ -4,7 +4,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 1,
-    "date": "2026-08-03",
     "theme": "Hobbies & Collections",
     "title": "Things We Love: Hobbies, Collections, and Passions",
     "phase": "p4",
@@ -321,7 +320,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 2,
-    "date": "2026-08-04",
     "theme": "Hobbies & Collections",
     "title": "Why People Collect Things",
     "phase": "p4",
@@ -638,7 +636,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 3,
-    "date": "2026-08-05",
     "theme": "Hobbies & Collections",
     "title": "Hobbies as Relief From Hustle Culture",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 4,
-    "date": "2026-08-06",
     "theme": "Hobbies & Collections",
     "title": "Learning Through Hobbies and Slow Skill-Building",
     "phase": "p4",
@@ -1267,7 +1263,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 5,
-    "date": "2026-08-07",
     "theme": "Hobbies & Collections",
     "title": "Niche Interests and Finding Your People",
     "phase": "p4",
@@ -1579,7 +1574,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 6,
-    "date": "2026-08-08",
     "theme": "Hobbies & Collections",
     "title": "The Beauty of Doing Something Just for Yourself",
     "phase": "p4",
@@ -1896,7 +1890,6 @@ export const WEEK_32: Episode[] = [
   {
     "weekNumber": 32,
     "dayOfWeek": 7,
-    "date": "2026-08-09",
     "theme": "Hobbies & Collections",
     "title": "What Passion Adds to an Adult Life",
     "phase": "p4",

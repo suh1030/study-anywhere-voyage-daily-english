@@ -4,7 +4,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 1,
-    "date": "2026-07-27",
     "theme": "Pets & Animals",
     "title": "Animal Companions: Pets, Wildlife, and Our Bond With Animals",
     "phase": "p4",
@@ -316,7 +315,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 2,
-    "date": "2026-07-28",
     "theme": "Pets & Animals",
     "title": "Why People Love Animals So Much",
     "phase": "p4",
@@ -633,7 +631,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 3,
-    "date": "2026-07-29",
     "theme": "Pets & Animals",
     "title": "What Caring for a Pet Teaches You",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 4,
-    "date": "2026-07-30",
     "theme": "Pets & Animals",
     "title": "Wild Animals, Awe, and Conservation",
     "phase": "p4",
@@ -1262,7 +1258,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 5,
-    "date": "2026-07-31",
     "theme": "Pets & Animals",
     "title": "Animal Welfare and the Ethics of Care",
     "phase": "p4",
@@ -1579,7 +1574,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 6,
-    "date": "2026-08-01",
     "theme": "Pets & Animals",
     "title": "What Animals Teach Us About Ourselves",
     "phase": "p4",
@@ -1896,7 +1890,6 @@ export const WEEK_31: Episode[] = [
   {
     "weekNumber": 31,
     "dayOfWeek": 7,
-    "date": "2026-08-02",
     "theme": "Pets & Animals",
     "title": "Living More Gently in a Shared World",
     "phase": "p4",

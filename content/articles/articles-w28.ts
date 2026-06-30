@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W28_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-07-06',
     topic: 'Photography & Visual Art',
     title: 'Seeing and Capturing: Photography and Visual Creativity',
     wordCount: 420,
@@ -17,7 +16,6 @@ export const W28_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-07',
     topic: 'Photography & Visual Art',
     title: 'Why People Take Photos',
     wordCount: 435,
@@ -32,7 +30,6 @@ export const W28_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-08',
     topic: 'Photography & Visual Art',
     title: 'Composition, Light, and Learning to See',
     wordCount: 417,
@@ -47,7 +44,6 @@ export const W28_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-09',
     topic: 'Photography & Visual Art',
     title: 'Editing, Selection, and What to Leave Out',
     wordCount: 448,
@@ -62,7 +58,6 @@ export const W28_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-10',
     topic: 'Photography & Visual Art',
     title: 'Drawing, Visual Journaling, and Creative Healing',
     wordCount: 443,
@@ -77,7 +72,6 @@ export const W28_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-11',
     topic: 'Photography & Visual Art',
     title: 'Creating in the Age of Social Media',
     wordCount: 408,
@@ -92,7 +86,6 @@ export const W28_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-12',
     topic: 'Photography & Visual Art',
     title: 'What Visual Art Teaches About Life',
     wordCount: 444,

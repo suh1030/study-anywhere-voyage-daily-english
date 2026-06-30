@@ -97,10 +97,10 @@ function generateClosingLine(episode, line) {
 
   // Theme-based closing remarks for Jamie (speaker B)
   const closingsByTheme = {
-    'New Year': [
+    'New Beginning': [
       "I'll carry that into the year.",
       "That reframes the whole day for me.",
-      "So simple, and yet it changes everything about how I will approach January.",
+      "So simple, and yet it changes everything about how I will approach a fresh start.",
     ],
     'Morning': [
       "That completely changes how I want to structure my mornings.",

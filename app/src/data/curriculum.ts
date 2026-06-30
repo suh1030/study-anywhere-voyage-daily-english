@@ -7,9 +7,11 @@ export interface CurriculumWeek {
 }
 
 export interface ScheduleDay {
-  key: string
+  id: string
   label: string
   wd: string
+  programDay: number
+  calendarDate: string
   week: number
   dayOfWeek: number
   theme: string
@@ -18,7 +20,7 @@ export interface ScheduleDay {
 }
 
 export const CURRICULUM: CurriculumWeek[] = [
-  { wn: 1, theme: 'New Year & Fresh Starts', podcast: 'Fresh Starts: Beginning Again Without the Pressure', phase: 'p1',
+  { wn: 1, theme: 'Fresh Starts & New Beginnings', podcast: 'Fresh Starts: Beginning Again Without the Pressure', phase: 'p1',
     days: ['What does a fresh start mean to you?', 'What habit would you like to reset right now?', 'Why do new beginnings feel powerful?', 'How do you keep momentum after the excitement fades?', 'What would a gentler version of self-improvement look like?'] },
   { wn: 2, theme: 'Morning Routines', podcast: 'A Day in the Life: Morning Habits', phase: 'p1',
     days: ['Describe your morning routine step by step.', 'What is the first thing you do after waking up?', 'Do you prefer a slow morning or a fast one? Why?', 'What do you usually eat or drink in the morning?', 'What would your ideal morning look like?'] },
@@ -26,8 +28,8 @@ export const CURRICULUM: CurriculumWeek[] = [
     days: ['How do you get to work or school?', 'What do you do during your commute?', 'Describe a memorable commuting experience.', 'How does commuting affect your mood?', 'What is the best and worst part of commuting?'] },
   { wn: 4, theme: 'Home & Living Space', podcast: 'Where I Live: Describing Your Home', phase: 'p1',
     days: ['Describe where you live.', 'What does your room or apartment look like?', 'What do you like most about your home?', 'If you could change one thing about your home, what would it be?', 'Describe your ideal living space.'] },
-  { wn: 5, theme: 'Celebrations & Festivals', podcast: 'Traditions We Keep: Celebrations, Rituals, and Meaning', phase: 'p1',
-    days: ['What celebrations matter most in your family?', 'Describe a tradition you enjoy every year.', 'How do holidays change the mood of daily life?', 'What makes a celebration feel meaningful instead of stressful?', 'Which customs would you like to keep or pass on?'] },
+  { wn: 5, theme: 'Traditions & Gatherings', podcast: 'Traditions We Keep: Gatherings, Rituals, and Meaning', phase: 'p1',
+    days: ['What gatherings matter most in your family?', 'Describe a tradition you enjoy every year.', 'How do special occasions change the mood of daily life?', 'What makes a gathering feel meaningful instead of stressful?', 'Which customs would you like to keep or pass on?'] },
   { wn: 6, theme: 'Food & Eating Habits', podcast: 'Let\'s Eat: Food Preferences and Habits', phase: 'p1',
     days: ['What did you eat today? Describe your meals.', 'What is your favorite food and why?', 'Do you cook? Describe a dish you can make.', 'What foods do you dislike? Why?', 'Describe a memorable meal you have had.'] },
   { wn: 7, theme: 'Weather & Seasons', podcast: 'The Weather Today: Talking About Climate', phase: 'p1',
@@ -129,30 +131,30 @@ export const CURRICULUM: CurriculumWeek[] = [
 export const TOTAL_PROGRAM_DAYS = 365
 
 const WEEKDAY_NAMES = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-const DATE_KEY_PATTERN = /^\d{4}-\d{2}-\d{2}$/
+const LOCAL_DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/
 
 export function getWeekLength(weekNumber: number): number {
   return weekNumber === 1 || weekNumber === 53 ? 4 : 7
 }
 
-export function getTodayKey(date = new Date()): string {
+export function formatLocalDate(date = new Date()): string {
   const year = date.getFullYear()
   const month = String(date.getMonth() + 1).padStart(2, '0')
   const day = String(date.getDate()).padStart(2, '0')
   return `${year}-${month}-${day}`
 }
 
-export function isDateKey(value: string): boolean {
-  return DATE_KEY_PATTERN.test(value)
+export function isLocalDate(value: string): boolean {
+  return LOCAL_DATE_PATTERN.test(value)
 }
 
-export function parseDateKey(dateKey: string): Date {
-  const [year, month, day] = dateKey.split('-').map(Number)
+export function parseLocalDate(localDate: string): Date {
+  const [year, month, day] = localDate.split('-').map(Number)
   return new Date(year, month - 1, day)
 }
 
 export function generateSchedule(startDateInput: string | Date): ScheduleDay[] {
-  const startDate = typeof startDateInput === 'string' ? parseDateKey(startDateInput) : startDateInput
+  const startDate = typeof startDateInput === 'string' ? parseLocalDate(startDateInput) : startDateInput
   const days: ScheduleDay[] = []
   let dayOffset = 0
 
@@ -162,7 +164,8 @@ export function generateSchedule(startDateInput: string | Date): ScheduleDay[] {
     for (let d = 0; d < weekLength; d++) {
       const date = new Date(startDate.getTime() + dayOffset * 86400000)
       const dayOfWeek = d + 1
-      const key = getTodayKey(date)
+      const programDay = dayOffset + 1
+      const calendarDate = formatLocalDate(date)
 
       let type: 'Speak' | 'Listen' | 'Review'
       if (d === weekLength - 1) type = 'Review'
@@ -175,9 +178,11 @@ export function generateSchedule(startDateInput: string | Date): ScheduleDay[] {
         : (week.days[d] ?? week.theme)
 
       days.push({
-        key,
-        label: `${key.slice(5, 7)}/${key.slice(8, 10)}`,
+        id: `day-${String(programDay).padStart(3, '0')}`,
+        label: `${calendarDate.slice(5, 7)}/${calendarDate.slice(8, 10)}`,
         wd: WEEKDAY_NAMES[date.getDay()],
+        programDay,
+        calendarDate,
         week: week.wn,
         dayOfWeek,
         theme: week.theme,
@@ -196,8 +201,9 @@ export function getWeekDays(schedule: ScheduleDay[], weekNumber: number): Schedu
   return schedule.filter((day) => day.week === weekNumber)
 }
 
-export function getScheduleEntry(schedule: ScheduleDay[], dateKey: string): ScheduleDay | null {
-  return schedule.find((day) => day.key === dateKey) ?? null
+export function getCurrentScheduleEntry(schedule: ScheduleDay[], date = new Date()): ScheduleDay | null {
+  const today = formatLocalDate(date)
+  return schedule.find((day) => day.calendarDate === today) ?? null
 }
 
 export const PHASE_LABELS: Record<string, string> = {

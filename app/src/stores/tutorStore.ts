@@ -105,8 +105,16 @@ export const useTutorStore = create<TutorState>((set, get) => ({
         set({ error: result.error ?? 'request_failed', loading: false })
         return
       }
+      if (typeof result.reply !== 'string' || !result.reply.trim()) {
+        set({ error: 'ai_unavailable', loading: false })
+        return
+      }
 
-      const assistantMessage: TutorMessage = { id: genId(), role: 'assistant', content: result.reply }
+      const assistantMessage: TutorMessage = {
+        id: genId(),
+        role: 'assistant',
+        content: result.reply.trim(),
+      }
       set((state) => ({
         messages: [...state.messages, assistantMessage],
         remaining: result.remaining ?? null,

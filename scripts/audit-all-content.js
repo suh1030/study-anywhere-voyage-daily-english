@@ -215,7 +215,7 @@ function checkArticles() {
 
     for (const art of articles) {
       stats.articles.total++
-      const id = art.dateKey || art.title || '?'
+      const id = art.title || '?'
       const text = (art.text || '').replace(/<[^>]+>/g, '').trim()
       const textZh = (art.textZh || '').replace(/<[^>]+>/g, '').trim()
 

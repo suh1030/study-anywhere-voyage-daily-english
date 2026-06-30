@@ -53,8 +53,8 @@ BETTER_CHINESE = {
     'money': '金錢',
     'budgeting': '預算管理',
     'home': '家；住所',
-    'celebrations': '慶典；慶祝活動',
-    'festivals': '節日；節慶',
+    'gatherings': '聚會活動；聚會活動',
+    'community events': '特別場合；聚會傳統',
 }
 
 def is_template_sentence(sentence):

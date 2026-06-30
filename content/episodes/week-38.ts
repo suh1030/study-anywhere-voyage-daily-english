@@ -4,7 +4,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 1,
-    "date": "2026-09-14",
     "theme": "Environment & Sustainability",
     "title": "Our Planet: Living Sustainably and Thinking Long-Term",
     "phase": "p5",
@@ -321,7 +320,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 2,
-    "date": "2026-09-15",
     "theme": "Environment & Sustainability",
     "title": "Why Environmental Issues Feel So Big",
     "phase": "p5",
@@ -633,7 +631,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 3,
-    "date": "2026-09-16",
     "theme": "Environment & Sustainability",
     "title": "Daily Choices and Their Real Impact",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 4,
-    "date": "2026-09-17",
     "theme": "Environment & Sustainability",
     "title": "Convenience, Consumption, and Waste",
     "phase": "p5",
@@ -1267,7 +1263,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 5,
-    "date": "2026-09-18",
     "theme": "Environment & Sustainability",
     "title": "Hope, Guilt, and Climate Emotions",
     "phase": "p5",
@@ -1579,7 +1574,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 6,
-    "date": "2026-09-19",
     "theme": "Environment & Sustainability",
     "title": "Cities, Nature, and Sustainable Design",
     "phase": "p5",
@@ -1896,7 +1890,6 @@ export const WEEK_38: Episode[] = [
   {
     "weekNumber": 38,
     "dayOfWeek": 7,
-    "date": "2026-09-20",
     "theme": "Environment & Sustainability",
     "title": "What a Sustainable Future Could Look Like",
     "phase": "p5",

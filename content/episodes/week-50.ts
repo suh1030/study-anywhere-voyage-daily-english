@@ -4,7 +4,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 1,
-    "date": "2026-12-07",
     "theme": "Gratitude & Appreciation",
     "title": "Showing Thanks in Real Life",
     "phase": "p6",
@@ -321,7 +320,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 2,
-    "date": "2026-12-08",
     "theme": "Gratitude & Appreciation",
     "title": "Appreciating People in Your Life",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 3,
-    "date": "2026-12-09",
     "theme": "Gratitude & Appreciation",
     "title": "Finding Beauty in Ordinary Life",
     "phase": "p6",
@@ -950,7 +947,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 4,
-    "date": "2026-12-10",
     "theme": "Gratitude & Appreciation",
     "title": "Gratitude and Perspective",
     "phase": "p6",
@@ -1267,7 +1263,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 5,
-    "date": "2026-12-11",
     "theme": "Gratitude & Appreciation",
     "title": "Gratitude at Work",
     "phase": "p6",
@@ -1579,7 +1574,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 6,
-    "date": "2026-12-12",
     "theme": "Gratitude & Appreciation",
     "title": "Gratitude Across Cultures",
     "phase": "p6",
@@ -1896,7 +1890,6 @@ export const WEEK_50: Episode[] = [
   {
     "weekNumber": 50,
     "dayOfWeek": 7,
-    "date": "2026-12-13",
     "theme": "Gratitude & Appreciation",
     "title": "A Week of Thankfulness",
     "phase": "p6",

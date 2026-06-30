@@ -363,7 +363,7 @@ SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npx tsx scripts/seed.ts
 
 - 儘量讓長文字串的封裝方式更穩定
 - 若某些檔案大量依賴脆弱字串跳脫，優先改成更不易出錯的字串策略
-- 不要改變文章語義、段落順序、dateKey、topic、title 對應
+- 不要改變文章語義、段落順序、week_number/day_of_week、topic、title 對應；文章內容不得重新加入 `dateKey` 或固定日曆 lookup
 - 不要因修 parseability 順手洗掉原本 vocabulary 或中文內容
 
 #### 若要使用輔助腳本

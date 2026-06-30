@@ -4,7 +4,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 1,
-    "date": "2026-07-06",
     "theme": "Photography & Visual Art",
     "title": "Seeing and Capturing: Photography and Visual Creativity",
     "phase": "p4",
@@ -316,7 +315,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 2,
-    "date": "2026-07-07",
     "theme": "Photography & Visual Art",
     "title": "Why People Take Photos",
     "phase": "p4",
@@ -633,7 +631,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 3,
-    "date": "2026-07-08",
     "theme": "Photography & Visual Art",
     "title": "Composition, Light, and Learning to See",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 4,
-    "date": "2026-07-09",
     "theme": "Photography & Visual Art",
     "title": "Editing, Selection, and What to Leave Out",
     "phase": "p4",
@@ -1262,7 +1258,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 5,
-    "date": "2026-07-10",
     "theme": "Photography & Visual Art",
     "title": "Drawing, Visual Journaling, and Creative Healing",
     "phase": "p4",
@@ -1579,7 +1574,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 6,
-    "date": "2026-07-11",
     "theme": "Photography & Visual Art",
     "title": "Creating in the Age of Social Media",
     "phase": "p4",
@@ -1896,7 +1890,6 @@ export const WEEK_28: Episode[] = [
   {
     "weekNumber": 28,
     "dayOfWeek": 7,
-    "date": "2026-07-12",
     "theme": "Photography & Visual Art",
     "title": "What Visual Art Teaches About Life",
     "phase": "p4",

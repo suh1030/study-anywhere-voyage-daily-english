@@ -4,7 +4,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 1,
-    "date": "2026-09-21",
     "theme": "Money & Financial Goals",
     "title": "Talking About Money: Goals, Habits, and Mindset",
     "phase": "p5",
@@ -316,7 +315,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 2,
-    "date": "2026-09-22",
     "theme": "Money & Financial Goals",
     "title": "What Money Means Beyond Numbers",
     "phase": "p5",
@@ -633,7 +631,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 3,
-    "date": "2026-09-23",
     "theme": "Money & Financial Goals",
     "title": "Saving, Spending, and Personal Priorities",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 4,
-    "date": "2026-09-24",
     "theme": "Money & Financial Goals",
     "title": "Talking About Money with Other People",
     "phase": "p5",
@@ -1262,7 +1258,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 5,
-    "date": "2026-09-25",
     "theme": "Money & Financial Goals",
     "title": "Financial Goals and Emotional Pressure",
     "phase": "p5",
@@ -1579,7 +1574,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 6,
-    "date": "2026-09-26",
     "theme": "Money & Financial Goals",
     "title": "Lifestyle, Status, and the Cost of Image",
     "phase": "p5",
@@ -1896,7 +1890,6 @@ export const WEEK_39: Episode[] = [
   {
     "weekNumber": 39,
     "dayOfWeek": 7,
-    "date": "2026-09-27",
     "theme": "Money & Financial Goals",
     "title": "A Healthier Relationship with Money",
     "phase": "p5",

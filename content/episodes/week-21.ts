@@ -4,7 +4,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 1,
-    "date": "2026-05-18",
     "theme": "Deadlines & Pressure",
     "title": "Under Pressure: Managing Stress at Work",
     "phase": "p3",
@@ -316,7 +315,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 2,
-    "date": "2026-05-19",
     "theme": "Deadlines & Pressure",
     "title": "What Pressure Does to Your Thinking",
     "phase": "p3",
@@ -633,7 +631,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 3,
-    "date": "2026-05-20",
     "theme": "Deadlines & Pressure",
     "title": "Prioritizing When Everything Feels Urgent",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 4,
-    "date": "2026-05-21",
     "theme": "Deadlines & Pressure",
     "title": "How to Ask for Help Before It Is Too Late",
     "phase": "p3",
@@ -1262,7 +1258,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 5,
-    "date": "2026-05-22",
     "theme": "Deadlines & Pressure",
     "title": "Recovering After a High-Pressure Week",
     "phase": "p3",
@@ -1579,7 +1574,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 6,
-    "date": "2026-05-23",
     "theme": "Deadlines & Pressure",
     "title": "Leading Others Through Pressure",
     "phase": "p3",
@@ -1896,7 +1890,6 @@ export const WEEK_21: Episode[] = [
   {
     "weekNumber": 21,
     "dayOfWeek": 7,
-    "date": "2026-05-24",
     "theme": "Deadlines & Pressure",
     "title": "A Healthier Relationship With Pressure",
     "phase": "p3",

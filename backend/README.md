@@ -15,7 +15,7 @@ backend/
         │   ├── cors.ts                  # CORS headers 工具
         │   └── supabase-client.ts       # User / Admin client 工廠
         ├── feedback/                    # AI 批改 + 原子扣點（需 JWT）
-        ├── tutor-chat/                  # AI 英文老師多輪對話（需 JWT，OpenRouter）
+        ├── tutor-chat/                  # AI 英文老師多輪對話（需 JWT，Groq/OpenRouter）
         ├── credits-webhook/             # RevenueCat IAP 回調（HMAC 驗證）
         ├── progress-sync/               # 學習進度雲端同步（需 JWT）
         ├── content-episode/             # 取得 Podcast 集數（公開）
@@ -47,8 +47,10 @@ backend/
 | 變數名 | 取得方式 |
 |--------|----------|
 | `ANTHROPIC_API_KEY` | console.anthropic.com → API Keys |
-| `OPENROUTER_API_KEY` | openrouter.ai → Keys（供 `tutor-chat` 呼叫 OpenRouter） |
-| `OPENROUTER_MODEL` | 選填，預設 `openai/gpt-oss-120b:free`，可一行替換模型 |
+| `GROQ_API_KEY` | console.groq.com → API Keys（`tutor-chat` 優先使用） |
+| `GROQ_MODEL` | 選填，預設 `llama-3.3-70b-versatile` |
+| `OPENROUTER_API_KEY` | openrouter.ai → Keys（`tutor-chat` 最後備援） |
+| `OPENROUTER_FALLBACK_MODEL` | 選填，預設 `openrouter/free` |
 | `REVENUECAT_WEBHOOK_SECRET` | RevenueCat Dashboard → Webhooks → Shared Secret |
 
 ### 3. 設定 RevenueCat Webhook URL
@@ -89,8 +91,10 @@ supabase functions serve feedback --env-file .env.local
 `.env.example`：
 ```
 ANTHROPIC_API_KEY=sk-ant-...
+GROQ_API_KEY=gsk_...
+GROQ_MODEL=llama-3.3-70b-versatile
 OPENROUTER_API_KEY=sk-or-...
-OPENROUTER_MODEL=openai/gpt-oss-120b:free
+OPENROUTER_FALLBACK_MODEL=openrouter/free
 REVENUECAT_WEBHOOK_SECRET=your-webhook-secret
 ```
 

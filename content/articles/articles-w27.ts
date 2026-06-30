@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W27_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-06-29',
     topic: 'Travel',
     title: 'Going Somewhere: The Joy and Challenge of Travel',
     wordCount: 358,
@@ -17,7 +16,6 @@ export const W27_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-06-30',
     topic: 'Travel',
     title: 'Why Travel Changes Your Perspective',
     wordCount: 360,
@@ -32,7 +30,6 @@ export const W27_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-01',
     topic: 'Travel',
     title: 'Planning vs. Spontaneity on a Trip',
     wordCount: 359,
@@ -47,7 +44,6 @@ export const W27_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-02',
     topic: 'Travel',
     title: 'Traveling on a Budget Without Losing the Experience',
     wordCount: 389,
@@ -62,7 +58,6 @@ export const W27_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-03',
     topic: 'Travel',
     title: 'Culture Shock and How to Handle It',
     wordCount: 390,
@@ -77,7 +72,6 @@ export const W27_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-04',
     topic: 'Travel',
     title: 'Traveling With Other People',
     wordCount: 384,
@@ -92,7 +86,6 @@ export const W27_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-07-05',
     topic: 'Travel',
     title: 'Coming Home After a Trip',
     wordCount: 404,

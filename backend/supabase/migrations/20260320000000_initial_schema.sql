@@ -17,8 +17,8 @@ CREATE TABLE public.episodes (
 
 CREATE TABLE public.articles (
   id          UUID DEFAULT gen_random_uuid() PRIMARY KEY,
-  date_key    TEXT NOT NULL UNIQUE,          -- "2026-03-19"
-  week_number INTEGER,
+  week_number INTEGER NOT NULL,
+  day_of_week INTEGER NOT NULL CHECK (day_of_week BETWEEN 1 AND 7),
   topic       TEXT NOT NULL,
   title       TEXT NOT NULL,
   word_count  INTEGER,
@@ -74,7 +74,7 @@ CREATE TABLE public.credit_transactions (
 
 CREATE TABLE public.user_progress (
   user_id        UUID REFERENCES auth.users(id) ON DELETE CASCADE PRIMARY KEY,
-  completed_days JSONB       NOT NULL DEFAULT '{}',   -- {"2026-03-19": true}
+  completed_days JSONB       NOT NULL DEFAULT '{}',   -- {"day-001": true}
   mastered_cards JSONB       NOT NULL DEFAULT '[]',   -- ["card-id-1", ...]
   updated_at     TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
@@ -82,6 +82,7 @@ CREATE TABLE public.user_progress (
 CREATE INDEX idx_credit_transactions_user ON public.credit_transactions(user_id, created_at DESC);
 CREATE INDEX idx_flashcards_week ON public.flashcards(week_number);
 CREATE INDEX idx_questions_week ON public.questions(week_number, day_of_week);
+CREATE UNIQUE INDEX articles_week_day_key ON public.articles(week_number, day_of_week);
 
 -- ── Trigger：新用戶自動建立 profile / credits / progress ──────
 

@@ -4,7 +4,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 1,
-    "date": "2026-07-20",
     "theme": "Reading & Writing",
     "title": "Words and Pages: Our Love of Reading and Writing",
     "phase": "p4",
@@ -321,7 +320,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 2,
-    "date": "2026-07-21",
     "theme": "Reading & Writing",
     "title": "Why Reading Slows the Mind Down",
     "phase": "p4",
@@ -633,7 +631,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 3,
-    "date": "2026-07-22",
     "theme": "Reading & Writing",
     "title": "Building a Reading Habit That Lasts",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 4,
-    "date": "2026-07-23",
     "theme": "Reading & Writing",
     "title": "Journaling, Notes, and Writing for Yourself",
     "phase": "p4",
@@ -1267,7 +1263,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 5,
-    "date": "2026-07-24",
     "theme": "Reading & Writing",
     "title": "Why Writing Is Hard and Why It Matters",
     "phase": "p4",
@@ -1584,7 +1579,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 6,
-    "date": "2026-07-25",
     "theme": "Reading & Writing",
     "title": "Books, Solitude, and the Inner Life",
     "phase": "p4",
@@ -1901,7 +1895,6 @@ export const WEEK_30: Episode[] = [
   {
     "weekNumber": 30,
     "dayOfWeek": 7,
-    "date": "2026-07-26",
     "theme": "Reading & Writing",
     "title": "What a Life With Books and Words Can Give You",
     "phase": "p4",

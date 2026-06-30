@@ -4,7 +4,6 @@ export const WEEK_08: Episode[] = [
   {
     "weekNumber": 8,
     "dayOfWeek": 1,
-    "date": "2026-02-16",
     "theme": "Shopping & Money",
     "title": "Spending Habits: How We Buy Things",
     "phase": "p1",
@@ -321,7 +320,6 @@ export const WEEK_08: Episode[] = [
   {
     "weekNumber": 8,
     "dayOfWeek": 2,
-    "date": "2026-02-17",
     "theme": "Shopping & Money",
     "title": "Budgeting and Saving Money",
     "phase": "p1",
@@ -515,8 +513,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Like insurance, birthdays, or travel plans.",
-            "zh": "像保險、生日禮物，或旅行計畫那種。"
+            "en": "Like insurance, family milestones, or travel plans.",
+            "zh": "像保險、人情禮物，或旅行計畫那種。"
           },
           {
             "speaker": "a",
@@ -626,14 +624,13 @@ export const WEEK_08: Episode[] = [
       {
         "en": "sinking fund",
         "zh": "預先分月累積的專用基金",
-        "example": "A sinking fund for birthdays meant gift season no longer destroyed his budget."
+        "example": "A sinking fund for family milestones meant gift season no longer destroyed his budget."
       }
     ]
   },
   {
     "weekNumber": 8,
     "dayOfWeek": 3,
-    "date": "2026-02-18",
     "theme": "Shopping & Money",
     "title": "The Psychology of Spending",
     "phase": "p1",
@@ -950,7 +947,6 @@ export const WEEK_08: Episode[] = [
   {
     "weekNumber": 8,
     "dayOfWeek": 4,
-    "date": "2026-02-19",
     "theme": "Shopping & Money",
     "title": "Negotiating and Getting a Good Deal",
     "phase": "p1",
@@ -1267,7 +1263,6 @@ export const WEEK_08: Episode[] = [
   {
     "weekNumber": 8,
     "dayOfWeek": 5,
-    "date": "2026-02-20",
     "theme": "Shopping & Money",
     "title": "Financial Goals and the Future",
     "phase": "p1",
@@ -1579,7 +1574,6 @@ export const WEEK_08: Episode[] = [
   {
     "weekNumber": 8,
     "dayOfWeek": 6,
-    "date": "2026-02-21",
     "theme": "Shopping & Money",
     "title": "Gifting, Tipping, and Money Etiquette",
     "phase": "p1",
@@ -1661,8 +1655,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. To treat someone can mean affection, gratitude, celebration, or seniority, depending on the context.",
-            "zh": "對。請客可能代表的是疼愛、感謝、慶祝，或在某些情境裡也可能是資歷上的位置。"
+            "en": "Yes. To treat someone can mean affection, gratitude, gathering, or seniority, depending on the context.",
+            "zh": "對。請客可能代表的是疼愛、感謝、標記，或在某些情境裡也可能是資歷上的位置。"
           },
           {
             "speaker": "b",
@@ -1864,7 +1858,7 @@ export const WEEK_08: Episode[] = [
       {
         "en": "treat someone",
         "zh": "請客；替對方付錢",
-        "example": "She wanted to treat her friend because it was his birthday, not because she wanted to show off."
+        "example": "She wanted to treat her friend because it was his family milestone, not because she wanted to show off."
       },
       {
         "en": "chip in",
@@ -1884,14 +1878,13 @@ export const WEEK_08: Episode[] = [
       {
         "en": "cash gift",
         "zh": "現金禮；包現金的禮物",
-        "example": "For a wedding, a cash gift was more useful than another decorative object."
+        "example": "For a community gathering, a cash gift was more useful than another decorative object."
       }
     ]
   },
   {
     "weekNumber": 8,
     "dayOfWeek": 7,
-    "date": "2026-02-22",
     "theme": "Shopping & Money",
     "title": "The Future of Money",
     "phase": "p1",

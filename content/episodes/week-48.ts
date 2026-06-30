@@ -4,7 +4,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 1,
-    "date": "2026-11-23",
     "theme": "Language & Identity",
     "title": "Who Are You When You Speak?",
     "phase": "p6",
@@ -321,7 +320,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 2,
-    "date": "2026-11-24",
     "theme": "Language & Identity",
     "title": "Slang, Jargon, and Belonging",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 3,
-    "date": "2026-11-25",
     "theme": "Language & Identity",
     "title": "Bilingual Lives",
     "phase": "p6",
@@ -950,7 +947,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 4,
-    "date": "2026-11-26",
     "theme": "Language & Identity",
     "title": "Storytelling and Narrative Identity",
     "phase": "p6",
@@ -1262,7 +1258,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 5,
-    "date": "2026-11-27",
     "theme": "Language & Identity",
     "title": "Words That Shape Thinking",
     "phase": "p6",
@@ -1579,7 +1574,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 6,
-    "date": "2026-11-28",
     "theme": "Language & Identity",
     "title": "Writing and Self-Expression",
     "phase": "p6",
@@ -1891,7 +1885,6 @@ export const WEEK_48: Episode[] = [
   {
     "weekNumber": 48,
     "dayOfWeek": 7,
-    "date": "2026-11-29",
     "theme": "Language & Identity",
     "title": "The Gift of Expression",
     "phase": "p6",

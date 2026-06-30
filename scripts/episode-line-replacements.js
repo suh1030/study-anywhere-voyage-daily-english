@@ -51,7 +51,7 @@ module.exports = {
   "Editing, Selection, and What to Leave Out": "It becomes clear when I look at something I created and realize the hardest work was deciding what not to include.",
   "Ethics, Bias, and Responsibility": "It becomes visible when a system I rely on makes a decision I would not have made myself, and I have to decide what to do about it.",
   "Expressing Disagreement Respectfully": "It becomes visible when I disagree with someone and I notice whether my first instinct is to persuade them or to understand them.",
-  "Family Gatherings and Celebrations": "It becomes visible at a family gathering when I notice whether I am actually present or managing a performance of being present.",
+  "Family Gatherings and Traditions": "It becomes visible at a family gathering when I notice whether I am actually present or managing a performance of being present.",
   "Family Life: Talking About the People We Grew Up With": "It becomes visible when I talk about my family and hear myself describe patterns I never noticed until I started putting them into words.",
   "Financial Goals and Emotional Pressure": "It becomes clear when a financial decision feels urgent and I realize the urgency is emotional, not practical.",
   "Finding Your Creative Voice": "It becomes visible when I make something purely because I want to, with no expectation of how it will be received.",

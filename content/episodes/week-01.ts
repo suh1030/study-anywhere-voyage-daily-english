@@ -4,8 +4,7 @@ export const WEEK_01: Episode[] = [
   {
     "weekNumber": 1,
     "dayOfWeek": 1,
-    "date": "2026-01-01",
-    "theme": "New Year & Fresh Starts",
+    "theme": "Fresh Starts & New Beginnings",
     "title": "A Fresh Start Can Happen Anytime",
     "phase": "p1",
     "parts": [
@@ -321,19 +320,18 @@ export const WEEK_01: Episode[] = [
   {
     "weekNumber": 1,
     "dayOfWeek": 2,
-    "date": "2026-01-02",
-    "theme": "New Year & Fresh Starts",
+    "theme": "Fresh Starts & New Beginnings",
     "title": "Intentions, Not Pressure",
     "phase": "p1",
     "parts": [
       {
-        "title": "Part 1 — When the New Year Goal Feels Like a Demand",
+        "title": "Part 1 — When a Fresh Goal Feels Like a Demand",
         "lines": [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Every January I write a list of goals, feel excited for about a week, and then it all falls apart. What am I doing wrong?",
-            "zh": "每年一月我都會寫一份目標清單，興奮大概一週，然後一切都崩了。我哪裡出了問題？"
+            "en": "At the beginning of a new chapter I write a list of goals, feel excited for about a week, and then it all falls apart. What am I doing wrong?",
+            "zh": "每當一個新篇章開始時我都會寫一份目標清單，興奮大概一週，然後一切都崩了。我哪裡出了問題？"
           },
           {
             "speaker": "a",
@@ -533,8 +531,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And the second one has a much better chance of making it to February.",
-            "zh": "完全正確。而第二種活到二月的機會大得多。"
+            "en": "Exactly right. And the second one has a much better chance of lasting more than a few weeks.",
+            "zh": "完全正確。而第二種撐過幾週的機會大得多。"
           }
         ]
       }
@@ -585,8 +583,7 @@ export const WEEK_01: Episode[] = [
   {
     "weekNumber": 1,
     "dayOfWeek": 3,
-    "date": "2026-01-03",
-    "theme": "New Year & Fresh Starts",
+    "theme": "Fresh Starts & New Beginnings",
     "title": "Why Starting Again Works",
     "phase": "p1",
     "parts": [
@@ -902,8 +899,7 @@ export const WEEK_01: Episode[] = [
   {
     "weekNumber": 1,
     "dayOfWeek": 4,
-    "date": "2026-01-04",
-    "theme": "New Year & Fresh Starts",
+    "theme": "Fresh Starts & New Beginnings",
     "title": "Letting Go to Begin Again",
     "phase": "p1",
     "parts": [

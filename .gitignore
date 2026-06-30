@@ -14,3 +14,4 @@ tmp/
 
 # Generated audit reports
 scripts/*-output.txt
+.gstack/

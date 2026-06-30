@@ -4,7 +4,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 1,
-    "date": "2026-10-26",
     "theme": "Creativity & Self-Expression",
     "title": "Finding Your Creative Voice",
     "phase": "p6",
@@ -321,7 +320,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 2,
-    "date": "2026-10-27",
     "theme": "Creativity & Self-Expression",
     "title": "Art in Everyday Life",
     "phase": "p6",
@@ -585,7 +583,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 3,
-    "date": "2026-10-28",
     "theme": "Creativity & Self-Expression",
     "title": "Storytelling as a Human Need",
     "phase": "p6",
@@ -902,7 +899,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 4,
-    "date": "2026-10-29",
     "theme": "Creativity & Self-Expression",
     "title": "Design Thinking in Daily Life",
     "phase": "p6",
@@ -1219,7 +1215,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 5,
-    "date": "2026-10-30",
     "theme": "Creativity & Self-Expression",
     "title": "Music and Emotional Expression",
     "phase": "p6",
@@ -1531,7 +1526,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 6,
-    "date": "2026-10-31",
     "theme": "Creativity & Self-Expression",
     "title": "The Writer's Mind",
     "phase": "p6",
@@ -1848,7 +1842,6 @@ export const WEEK_44: Episode[] = [
   {
     "weekNumber": 44,
     "dayOfWeek": 7,
-    "date": "2026-11-01",
     "theme": "Creativity & Self-Expression",
     "title": "Living a Creative Life",
     "phase": "p6",

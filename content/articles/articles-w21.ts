@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W21_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-05-18',
     topic: 'Deadlines & Pressure',
     title: 'Under Pressure: Managing Stress at Work',
     wordCount: 420,
@@ -17,7 +16,6 @@ export const W21_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-19',
     topic: 'Deadlines & Pressure',
     title: 'What Pressure Does to Your Thinking',
     wordCount: 420,
@@ -32,7 +30,6 @@ export const W21_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-20',
     topic: 'Deadlines & Pressure',
     title: 'Prioritizing When Everything Feels Urgent',
     wordCount: 422,
@@ -47,7 +44,6 @@ export const W21_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-21',
     topic: 'Deadlines & Pressure',
     title: 'How to Ask for Help Before It Is Too Late',
     wordCount: 420,
@@ -62,7 +58,6 @@ export const W21_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-22',
     topic: 'Deadlines & Pressure',
     title: 'Recovering After a High-Pressure Week',
     wordCount: 420,
@@ -77,7 +72,6 @@ export const W21_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-23',
     topic: 'Deadlines & Pressure',
     title: 'Leading Others Through Pressure',
     wordCount: 421,
@@ -92,7 +86,6 @@ export const W21_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-05-24',
     topic: 'Deadlines & Pressure',
     title: 'A Healthier Relationship With Pressure',
     wordCount: 441,

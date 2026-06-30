@@ -75,7 +75,7 @@ english-app.html              # 單一自包含檔案（約 160KB）
     ├── Speak 模組（朗讀 + 錄音）
     ├── 資料：SCHEDULE[]（365 天）
     ├── 資料：CURRICULUM[]（53 週）
-    ├── 資料：READ_ARTICLES{}（prototype 以日期為鍵值；正式版改 week/day lookup）
+    ├── 資料：READ_ARTICLES{}（正式版以 weekNumber + dayOfWeek lookup；不以固定日期或固定日曆事件 lookup）
     └── 輔助函式
 ```
 
@@ -264,7 +264,7 @@ interface Episode {
   id: string;
   weekNumber: number;          // 1–53
   dayOfWeek: number;           // 1–7（1=週一）；W1/W53 為 1–4
-  date: string;                // 'YYYY-MM-DD'，對應 2026 年實際日曆
+  date?: string;               // legacy/reference only；不對應固定上線年日曆，也不得作為內容 lookup key
   theme: string;               // 當週主題（同週 7 集共用）
   title: string;               // 當集專屬標題
   phase: 'p1' | 'p2' | 'p3' | 'p4' | 'p5' | 'p6';
@@ -290,8 +290,8 @@ interface EpisodeLine {
 ```typescript
 // content/episodes/week-02.ts
 export const WEEK_02: Episode[] = [
-  { weekNumber: 2, dayOfWeek: 1, date: '2026-01-05', theme: 'Morning Routines', ... },
-  { weekNumber: 2, dayOfWeek: 2, date: '2026-01-06', theme: 'Morning Routines', ... },
+  { weekNumber: 2, dayOfWeek: 1, theme: 'Morning Routines', ... },
+  { weekNumber: 2, dayOfWeek: 2, theme: 'Morning Routines', ... },
   // ...共 7 集
 ]
 
@@ -304,7 +304,7 @@ export function getWeekEpisodes(weekNumber: number): Episode[]
 
 ```typescript
 interface ReadArticle {
-  dateKey: string;             // legacy content key
+  weekNumber: number;          // rolling curriculum lookup key
   dayOfWeek: number;           // rolling curriculum lookup key
   topic: string;               // 七類之一
   title: string;               // 文章標題
@@ -332,7 +332,9 @@ interface FlashCard {
 
 ```typescript
 interface ScheduleDay {
-  dateKey: string;             // 'YYYY-MM-DD'
+  id: string;                  // rolling curriculum day id，例如 day-001
+  programDay: number;          // 使用者開始後第幾天，1–365
+  calendarDate: string;        // 依使用者 curriculumStartDate 動態生成的本地日期
   weekday: string;             // 'Monday' ~ 'Sunday'
   weekNumber: number;          // 1–53
   dayOfWeek: number;           // 1–7
@@ -345,9 +347,9 @@ interface ScheduleDay {
 
 **課程工具函式（app 層）：**
 ```typescript
-function getTodayKey(date?: Date): string
+function formatLocalDate(date?: Date): string
 function generateSchedule(startDateInput: string | Date): ScheduleDay[]
-function getScheduleEntry(schedule: ScheduleDay[], dateKey: string): ScheduleDay | null
+function getCurrentScheduleEntry(schedule: ScheduleDay[], date?: Date): ScheduleDay | null
 ```
 
 ---
@@ -499,11 +501,11 @@ function schResetConfirm(){
 **連續天數計算：**
 ```javascript
 function calculateStreak(){
-  const today = getTodayKey();
+  const today = formatLocalDate();
   let streak = 0;
   for(let i = SCHEDULE.length - 1; i >= 0; i--){
-    if(SCHEDULE[i].key > today) continue;
-    if(completedDays[SCHEDULE[i].key]) streak++;
+    if(SCHEDULE[i].calendarDate > today) continue;
+    if(completedDays[SCHEDULE[i].id]) streak++;
     else break;
   }
   return streak;

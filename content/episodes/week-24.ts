@@ -4,7 +4,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 1,
-    "date": "2026-06-08",
     "theme": "Learning & Growth",
     "title": "Always Learning: How We Grow and Improve",
     "phase": "p3",
@@ -316,7 +315,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 2,
-    "date": "2026-06-09",
     "theme": "Learning & Growth",
     "title": "Why Growth Requires Discomfort",
     "phase": "p3",
@@ -633,7 +631,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 3,
-    "date": "2026-06-10",
     "theme": "Learning & Growth",
     "title": "Learning New Skills as an Adult",
     "phase": "p3",
@@ -950,7 +947,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 4,
-    "date": "2026-06-11",
     "theme": "Learning & Growth",
     "title": "What Good Practice Actually Looks Like",
     "phase": "p3",
@@ -1262,7 +1258,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 5,
-    "date": "2026-06-12",
     "theme": "Learning & Growth",
     "title": "When Progress Feels Slow",
     "phase": "p3",
@@ -1579,7 +1574,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 6,
-    "date": "2026-06-13",
     "theme": "Learning & Growth",
     "title": "Learning From Other People Without Comparing Yourself",
     "phase": "p3",
@@ -1896,7 +1890,6 @@ export const WEEK_24: Episode[] = [
   {
     "weekNumber": 24,
     "dayOfWeek": 7,
-    "date": "2026-06-14",
     "theme": "Learning & Growth",
     "title": "What It Means to Keep Growing",
     "phase": "p3",

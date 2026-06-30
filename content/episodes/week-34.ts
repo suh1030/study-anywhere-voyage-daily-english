@@ -4,7 +4,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 1,
-    "date": "2026-08-17",
     "theme": "Sports & Fitness",
     "title": "Moving Your Body: Sports, Exercise, and Staying Active",
     "phase": "p4",
@@ -316,7 +315,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 2,
-    "date": "2026-08-18",
     "theme": "Sports & Fitness",
     "title": "Why People Exercise for Different Reasons",
     "phase": "p4",
@@ -633,7 +631,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 3,
-    "date": "2026-08-19",
     "theme": "Sports & Fitness",
     "title": "Finding Exercise You Will Actually Keep Doing",
     "phase": "p4",
@@ -950,7 +947,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 4,
-    "date": "2026-08-20",
     "theme": "Sports & Fitness",
     "title": "Sportsmanship, Competition, and Character",
     "phase": "p4",
@@ -1267,7 +1263,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 5,
-    "date": "2026-08-21",
     "theme": "Sports & Fitness",
     "title": "Social Media, Body Image, and Fitness Pressure",
     "phase": "p4",
@@ -1579,7 +1574,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 6,
-    "date": "2026-08-22",
     "theme": "Sports & Fitness",
     "title": "Aging, Recovery, and Exercising for the Long Term",
     "phase": "p4",
@@ -1896,7 +1890,6 @@ export const WEEK_34: Episode[] = [
   {
     "weekNumber": 34,
     "dayOfWeek": 7,
-    "date": "2026-08-23",
     "theme": "Sports & Fitness",
     "title": "A Better Relationship With Your Body",
     "phase": "p4",

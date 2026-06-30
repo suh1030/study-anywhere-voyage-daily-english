@@ -4,7 +4,6 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 1,
-    "date": "2026-03-16",
     "theme": "Family",
     "title": "Family Life: Talking About the People We Grew Up With",
     "phase": "p2",
@@ -299,7 +298,7 @@ export const WEEK_12: Episode[] = [
       {
         "en": "extended family",
         "zh": "大家族；大家庭",
-        "example": "Her extended family still gathered in the same house for every major family holiday."
+        "example": "Her extended family still gathered in the same house for every major family gathering."
       },
       {
         "en": "sibling bond",
@@ -321,7 +320,6 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 2,
-    "date": "2026-03-17",
     "theme": "Family",
     "title": "Parents and Growing Up",
     "phase": "p2",
@@ -633,7 +631,6 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 3,
-    "date": "2026-03-18",
     "theme": "Family",
     "title": "Siblings and Sibling Dynamics",
     "phase": "p2",
@@ -938,7 +935,7 @@ export const WEEK_12: Episode[] = [
       {
         "en": "sibling dynamic",
         "zh": "手足之間的相處模式",
-        "example": "Understanding their sibling dynamic helped her stop reacting on autopilot every family holiday."
+        "example": "Understanding their sibling dynamic helped her stop reacting on autopilot every family gathering."
       },
       {
         "en": "only child",
@@ -950,9 +947,8 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 4,
-    "date": "2026-03-19",
     "theme": "Family",
-    "title": "Family Gatherings and Celebrations",
+    "title": "Family Gatherings and Traditions",
     "phase": "p2",
     "parts": [
       {
@@ -961,8 +957,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Every big family holiday, the same relatives ask me the same questions. When are you getting married? How much do you make? Have you lost weight?",
-            "zh": "每次大型家庭聚會，同樣的親戚都會問我同樣的問題。你什麼時候要結婚？你薪水多少？你瘦了嗎？"
+            "en": "Every big family gathering, the same relatives ask me the same questions. When are you getting married? How much do you make? Have you lost weight?",
+            "zh": "每次大型家庭聚會，同樣的親戚都會問我同樣的問題。你什麼時候要建立家庭？你薪水多少？你瘦了嗎？"
           },
           {
             "speaker": "a",
@@ -1255,7 +1251,7 @@ export const WEEK_12: Episode[] = [
       {
         "en": "host",
         "zh": "主辦；招待",
-        "example": "His parents hosted every major family holiday, and after a run of gatherings they were always exhausted."
+        "example": "His parents hosted every major family gathering, and after a run of gatherings they were always exhausted."
       },
       {
         "en": "break the ice",
@@ -1267,7 +1263,6 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 5,
-    "date": "2026-03-20",
     "theme": "Family",
     "title": "Communication in Families",
     "phase": "p2",
@@ -1584,7 +1579,6 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 6,
-    "date": "2026-03-21",
     "theme": "Family",
     "title": "Caring for Aging Parents",
     "phase": "p2",
@@ -1896,7 +1890,6 @@ export const WEEK_12: Episode[] = [
   {
     "weekNumber": 12,
     "dayOfWeek": 7,
-    "date": "2026-03-22",
     "theme": "Family",
     "title": "Chosen Family and What Family Really Means",
     "phase": "p2",

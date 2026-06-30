@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W49_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-11-30',
     topic: 'Rest & Renewal',
     title: 'Why Rest Is Productive',
     wordCount: 439,
@@ -17,7 +16,6 @@ export const W49_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-01',
     topic: 'Rest & Renewal',
     title: 'The Art of Doing Nothing',
     wordCount: 439,
@@ -32,12 +30,11 @@ export const W49_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-02',
     topic: 'Rest & Renewal',
     title: 'Sabbath and Sacred Rest',
     wordCount: 432,
-    text: `<p>Sabbath is often connected with religious tradition, but the deeper idea speaks to many people: life should not be made only of production. Sacred rest sets apart time that is protected from buying, proving, achieving, and rushing. It says that humans are more than workers, consumers, caretakers, or problem solvers. Even for people who do not practice a formal Sabbath, the idea can challenge the modern belief that every hour must justify itself.</p><p>Sacred rest is different from collapsing after exhaustion. Collapse happens when the body finally refuses to continue. Sacred rest is chosen before collapse. It may include worship, family meals, silence, walking, reading, or refusing certain kinds of work. The important point is not that everyone rests in the same way. The point is that the time is treated as worthy, not as leftover space after more important things.</p><p>Many cultures have rhythms of communal rest: holidays, market closures, prayer times, seasonal pauses, or family meals that slow ordinary life. These rhythms remind individuals that rest is not only a private wellness strategy. It can be a shared value. When a whole community pauses, people who are tired do not have to defend their need so fiercely. The structure carries part of the permission.</p><p>For adult learners, this topic offers language for boundaries. You can say, "I keep that time free for family and renewal," or "I am not available then, but I can respond tomorrow." Such sentences may feel difficult if you were taught to be constantly helpful. Yet sacred rest asks a serious question: if nothing is protected, what kind of life are we building?</p><p>Of course, rest is not equally accessible to everyone. Some people work multiple jobs, care for children or elders, or live with financial pressure. Talking about sacred rest should not become judgment. Instead, it can become imagination. What small protected space is possible? Ten quiet minutes? One phone-free meal? A weekly walk? Sacred does not always mean grand. It means treated with care.</p><p>A week that includes sacred rest may not look less busy, but it can feel more centered. It reminds us that renewal is not only physical. It is moral and emotional too. We rest to remember what we serve, what we love, and what should not be sacrificed to endless demand.</p><p>You might create a simple ritual to mark the beginning of protected time: lighting a candle, turning off work apps, changing clothes, or saying one sentence aloud. Ritual helps the mind cross from ordinary time into intentional rest. It tells your attention, "For now, we are allowed to stop."</p>`,
-    textZh: `<p>安息日常和宗教傳統相連，但更深的概念能對許多人說話：人生不應該只由生產組成。神聖的休息把一段時間分別出來，保護它不被購買、證明、達成和匆忙佔滿。它說，人不只是工作者、消費者、照顧者或問題解決者。即使不實行正式安息日的人，也能透過這個概念挑戰現代社會「每個小時都必須證明自己有用」的信念。</p><p>神聖的休息不同於耗盡後倒下。倒下是身體終於拒絕繼續；神聖的休息是在倒下前被選擇。它可能包含敬拜、家庭餐、沉默、散步、閱讀，或拒絕某些工作。重點不是每個人都用同一種方式休息，而是這段時間被視為有價值，不是更重要事情做完後剩下的空間。</p><p>許多文化都有共同休息的節奏：節日、市集休市、祈禱時間、季節性停頓，或讓日常慢下來的家庭餐。這些節奏提醒個人，休息不只是私人的健康策略，也可以是一種共同價值。當整個群體一起暫停，疲累的人就不必那麼辛苦地為自己的需要辯護，結構本身會提供一部分允許。</p><p>對成人學習者來說，這個主題提供了界線的語言。你可以說：「那段時間我留給家庭和更新。」或「我那時不方便，但明天可以回覆。」如果你從小被教導要一直幫忙，這些句子可能很難。但神聖的休息提出一個嚴肅問題：如果沒有任何東西被保護，我們正在建造什麼樣的生活？</p><p>當然，休息不是每個人都同樣容易取得。有些人做多份工作、照顧孩子或長輩，或承受經濟壓力。談神聖的休息不應變成評斷，而可以變成想像：什麼小小的受保護空間是可能的？十分鐘安靜？一餐不用手機？每週一次散步？神聖不一定宏大，它的意思是被細心對待。</p><p>一週裡若有神聖的休息，看起來不一定比較不忙，但可能更有中心。它提醒我們，更新不只是身體的，也是道德和情感的。我們休息，是為了記得自己服事什麼、愛什麼，以及什麼不該被無止境的需求犧牲。</p><p>你可以創造一個簡單儀式，標記受保護時間的開始：點一盞燈、關掉工作app、換衣服，或大聲說一句話。儀式幫助心智從普通時間跨入有意識的休息，告訴注意力：「現在，我們被允許停下來。」</p>`,
+    text: `<p>Sabbath is often connected with religious tradition, but the deeper idea speaks to many people: life should not be made only of production. Sacred rest sets apart time that is protected from buying, proving, achieving, and rushing. It says that humans are more than workers, consumers, caretakers, or problem solvers. Even for people who do not practice a formal Sabbath, the idea can challenge the modern belief that every hour must justify itself.</p><p>Sacred rest is different from collapsing after exhaustion. Collapse happens when the body finally refuses to continue. Sacred rest is chosen before collapse. It may include worship, family meals, silence, walking, reading, or refusing certain kinds of work. The important point is not that everyone rests in the same way. The point is that the time is treated as worthy, not as leftover space after more important things.</p><p>Many cultures have rhythms of communal rest: community pauses, market closures, prayer times, seasonal pauses, or family meals that slow ordinary life. These rhythms remind individuals that rest is not only a private wellness strategy. It can be a shared value. When a whole community pauses, people who are tired do not have to defend their need so fiercely. The structure carries part of the permission.</p><p>For adult learners, this topic offers language for boundaries. You can say, "I keep that time free for family and renewal," or "I am not available then, but I can respond tomorrow." Such sentences may feel difficult if you were taught to be constantly helpful. Yet sacred rest asks a serious question: if nothing is protected, what kind of life are we building?</p><p>Of course, rest is not equally accessible to everyone. Some people work multiple jobs, care for children or elders, or live with financial pressure. Talking about sacred rest should not become judgment. Instead, it can become imagination. What small protected space is possible? Ten quiet minutes? One phone-free meal? A weekly walk? Sacred does not always mean grand. It means treated with care.</p><p>A week that includes sacred rest may not look less busy, but it can feel more centered. It reminds us that renewal is not only physical. It is moral and emotional too. We rest to remember what we serve, what we love, and what should not be sacrificed to endless demand.</p><p>You might create a simple ritual to mark the beginning of protected time: lighting a candle, turning off work apps, changing clothes, or saying one sentence aloud. Ritual helps the mind cross from ordinary time into intentional rest. It tells your attention, "For now, we are allowed to stop."</p>`,
+    textZh: `<p>安息日常和宗教傳統相連，但更深的概念能對許多人說話：人生不應該只由生產組成。神聖的休息把一段時間分別出來，保護它不被購買、證明、達成和匆忙佔滿。它說，人不只是工作者、消費者、照顧者或問題解決者。即使不實行正式安息日的人，也能透過這個概念挑戰現代社會「每個小時都必須證明自己有用」的信念。</p><p>神聖的休息不同於耗盡後倒下。倒下是身體終於拒絕繼續；神聖的休息是在倒下前被選擇。它可能包含敬拜、家庭餐、沉默、散步、閱讀，或拒絕某些工作。重點不是每個人都用同一種方式休息，而是這段時間被視為有價值，不是更重要事情做完後剩下的空間。</p><p>許多文化都有共同休息的節奏：特別場合、市集休市、祈禱時間、季節性停頓，或讓日常慢下來的家庭餐。這些節奏提醒個人，休息不只是私人的健康策略，也可以是一種共同價值。當整個群體一起暫停，疲累的人就不必那麼辛苦地為自己的需要辯護，結構本身會提供一部分允許。</p><p>對成人學習者來說，這個主題提供了界線的語言。你可以說：「那段時間我留給家庭和更新。」或「我那時不方便，但明天可以回覆。」如果你從小被教導要一直幫忙，這些句子可能很難。但神聖的休息提出一個嚴肅問題：如果沒有任何東西被保護，我們正在建造什麼樣的生活？</p><p>當然，休息不是每個人都同樣容易取得。有些人做多份工作、照顧孩子或長輩，或承受經濟壓力。談神聖的休息不應變成評斷，而可以變成想像：什麼小小的受保護空間是可能的？十分鐘安靜？一餐不用手機？每週一次散步？神聖不一定宏大，它的意思是被細心對待。</p><p>一週裡若有神聖的休息，看起來不一定比較不忙，但可能更有中心。它提醒我們，更新不只是身體的，也是道德和情感的。我們休息，是為了記得自己服事什麼、愛什麼，以及什麼不該被無止境的需求犧牲。</p><p>你可以創造一個簡單儀式，標記受保護時間的開始：點一盞燈、關掉工作app、換衣服，或大聲說一句話。儀式幫助心智從普通時間跨入有意識的休息，告訴注意力：「現在，我們被允許停下來。」</p>`,
     vocabulary: [
       { word: 'sacred', definition: '被特別珍惜和保護，不隨便被其他需求佔用的。', example: 'That evening walk became sacred time for her.' },
       { word: 'collapse', definition: '因為過度消耗而撐不住，不是主動選擇的休息。', example: 'Rest before collapse is kinder to the body.' },
@@ -47,7 +44,6 @@ export const W49_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-03',
     topic: 'Rest & Renewal',
     title: 'Creative Renewal',
     wordCount: 444,
@@ -62,7 +58,6 @@ export const W49_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-04',
     topic: 'Rest & Renewal',
     title: 'Physical Renewal and Body Wisdom',
     wordCount: 439,
@@ -77,7 +72,6 @@ export const W49_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-05',
     topic: 'Rest & Renewal',
     title: 'Slow Living in a Fast World',
     wordCount: 433,
@@ -92,7 +86,6 @@ export const W49_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-12-06',
     topic: 'Rest & Renewal',
     title: 'A Week of Rest Reflections',
     wordCount: 432,

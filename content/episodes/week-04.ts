@@ -4,7 +4,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 1,
-    "date": "2026-01-19",
     "theme": "Home & Living Space",
     "title": "Where I Live: Describing Your Home",
     "phase": "p1",
@@ -321,7 +320,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 2,
-    "date": "2026-01-20",
     "theme": "Home & Living Space",
     "title": "Renting vs. Buying",
     "phase": "p1",
@@ -633,7 +631,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 3,
-    "date": "2026-01-21",
     "theme": "Home & Living Space",
     "title": "Decluttering and Minimalism",
     "phase": "p1",
@@ -650,8 +647,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "What triggered that? A new year energy?",
-            "zh": "是什麼觸發了這個？新年的活力？"
+            "en": "What triggered that? A fresh-start energy?",
+            "zh": "是什麼觸發了這個？重新開始的能量？"
           },
           {
             "speaker": "b",
@@ -950,7 +947,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 4,
-    "date": "2026-01-22",
     "theme": "Home & Living Space",
     "title": "Neighbors and Community",
     "phase": "p1",
@@ -1267,7 +1263,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 5,
-    "date": "2026-01-23",
     "theme": "Home & Living Space",
     "title": "Home Cooking and the Kitchen",
     "phase": "p1",
@@ -1579,7 +1574,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 6,
-    "date": "2026-01-24",
     "theme": "Home & Living Space",
     "title": "Interior Design and Personal Style",
     "phase": "p1",
@@ -1896,7 +1890,6 @@ export const WEEK_04: Episode[] = [
   {
     "weekNumber": 4,
     "dayOfWeek": 7,
-    "date": "2026-01-25",
     "theme": "Home & Living Space",
     "title": "Home, Rest, and Reflection",
     "phase": "p1",

@@ -11,7 +11,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context'
 import Svg, { Path, Rect } from 'react-native-svg'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { CURRICULUM, getScheduleEntry, getTodayKey, getWeekLength } from '../../data/curriculum'
+import { CURRICULUM, getCurrentScheduleEntry, getWeekLength } from '../../data/curriculum'
 import { buildReviewPractice } from '../../data/review-practice'
 import { fetchFlashcards, fetchQuestion, type FlashcardRow, type QuestionRow } from '../../data/content-api'
 import { useCurriculumStore } from '../../stores/curriculumStore'
@@ -100,7 +100,7 @@ export default function ReviewScreen() {
 
   const todayEntry = useMemo(() => {
     if (scheduleLoading) return null
-    return getScheduleEntry(schedule, getTodayKey())
+    return getCurrentScheduleEntry(schedule)
   }, [schedule, scheduleLoading])
 
   const curriculumWeek = useMemo(() => {

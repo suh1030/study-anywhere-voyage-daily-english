@@ -30,7 +30,6 @@ export interface ArticleVocabulary {
 
 export interface ArticleRow {
   id: string
-  date_key: string
   week_number: number
   day_of_week: number
   topic: string
@@ -57,7 +56,6 @@ export interface EpisodeRow {
   id: string
   week_number: number
   day_of_week: number
-  date: string
   theme: string
   title: string
   phase: string

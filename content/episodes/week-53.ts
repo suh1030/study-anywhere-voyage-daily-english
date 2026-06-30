@@ -4,7 +4,6 @@ export const WEEK_53: Episode[] = [
   {
     "weekNumber": 53,
     "dayOfWeek": 1,
-    "date": "2026-12-28",
     "theme": "New Beginnings",
     "title": "Starting a New Chapter",
     "phase": "p6",
@@ -321,7 +320,6 @@ export const WEEK_53: Episode[] = [
   {
     "weekNumber": 53,
     "dayOfWeek": 2,
-    "date": "2026-12-29",
     "theme": "New Beginnings",
     "title": "Letting Go to Move Forward",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_53: Episode[] = [
   {
     "weekNumber": 53,
     "dayOfWeek": 3,
-    "date": "2026-12-30",
     "theme": "New Beginnings",
     "title": "Designing the Year Ahead",
     "phase": "p6",
@@ -950,7 +947,6 @@ export const WEEK_53: Episode[] = [
   {
     "weekNumber": 53,
     "dayOfWeek": 4,
-    "date": "2026-12-31",
     "theme": "New Beginnings",
     "title": "The Last Day and the First Step",
     "phase": "p6",

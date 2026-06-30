@@ -2,7 +2,6 @@ import { SpeakArticle } from './articles-w01'
 
 export const W45_ARTICLES: SpeakArticle[] = [
   {
-    dateKey: '2026-11-02',
     topic: 'Leadership & Influence',
     title: 'What Makes a Real Leader',
     wordCount: 454,
@@ -17,7 +16,6 @@ export const W45_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-03',
     topic: 'Leadership & Influence',
     title: 'Influence Without Authority',
     wordCount: 469,
@@ -32,7 +30,6 @@ export const W45_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-04',
     topic: 'Leadership & Influence',
     title: 'Emotional Intelligence in Leadership',
     wordCount: 464,
@@ -47,7 +44,6 @@ export const W45_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-05',
     topic: 'Leadership & Influence',
     title: 'Building and Leading Teams',
     wordCount: 453,
@@ -62,7 +58,6 @@ export const W45_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-06',
     topic: 'Leadership & Influence',
     title: 'Decision-Making Under Pressure',
     wordCount: 447,
@@ -77,7 +72,6 @@ export const W45_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-07',
     topic: 'Leadership & Influence',
     title: 'Leading Yourself First',
     wordCount: 437,
@@ -92,7 +86,6 @@ export const W45_ARTICLES: SpeakArticle[] = [
     ],
   },
   {
-    dateKey: '2026-11-08',
     topic: 'Leadership & Influence',
     title: 'Leadership in Everyday Life',
     wordCount: 433,

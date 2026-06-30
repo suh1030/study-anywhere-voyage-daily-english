@@ -307,7 +307,7 @@ function buildContext(episode) {
   const terms = getEpisodeTerms(episode)
   const focus = buildFocusPhrase(episode.title) || episode.title
   const seed = episode.weekNumber * 41 + episode.dayOfWeek * 17
-  const titleHash = hashString(`${episode.title}|${focus}|${episode.date}`)
+  const titleHash = hashString(`${episode.title}|${focus}|W${episode.weekNumber}D${episode.dayOfWeek}`)
   const context = {
     seed,
     titleHash,
@@ -464,7 +464,6 @@ function buildArticle(episode, usedChineseTexts = new Set()) {
   })
 
   return {
-    dateKey: episode.date,
     topic: episode.theme,
     title: episode.title,
     wordCount: countWords(articleText),
@@ -478,7 +477,7 @@ function buildQuestionContext(episode) {
   const terms = getQuestionTerms(episode)
   const focus = buildFocusPhrase(episode.title) || episode.title
   const seed = episode.weekNumber * 41 + episode.dayOfWeek * 17
-  const titleHash = hashString(`${episode.title}|${focus}|${episode.date}`)
+  const titleHash = hashString(`${episode.title}|${focus}|W${episode.weekNumber}D${episode.dayOfWeek}`)
   const [term1, term2, term3, term4] = selectQuestionTerms(terms, 4)
 
   return {
@@ -628,12 +627,12 @@ function serializeArticle(article) {
     .map((item) => `      { word: '${escapeSingle(item.word)}', definition: '${escapeSingle(item.definition)}', example: '${escapeSingle(item.example)}' }`)
     .join(',\n')
 
-  return `  {\n    dateKey: '${escapeSingle(article.dateKey)}',\n    topic: '${escapeSingle(article.topic)}',\n    title: '${escapeSingle(article.title)}',\n    wordCount: ${article.wordCount},\n    text: '${escapeSingle(article.text)}',\n    textZh: '${escapeSingle(article.textZh)}',\n    vocabulary: [\n${vocabulary}\n    ],\n  }`
+  return `  {\n    topic: '${escapeSingle(article.topic)}',\n    title: '${escapeSingle(article.title)}',\n    wordCount: ${article.wordCount},\n    text: '${escapeSingle(article.text)}',\n    textZh: '${escapeSingle(article.textZh)}',\n    vocabulary: [\n${vocabulary}\n    ],\n  }`
 }
 
 function serializeArticleFile(weekNumber, items, includeInterface) {
   const header = includeInterface
-    ? `export interface SpeakArticle {\n  dateKey: string\n  topic: string\n  title: string\n  wordCount: number\n  text: string\n  textZh: string\n  vocabulary: { word: string; definition: string; example: string }[]\n}\n\n`
+    ? `export interface SpeakArticle {\n  topic: string\n  title: string\n  wordCount: number\n  text: string\n  textZh: string\n  vocabulary: { word: string; definition: string; example: string }[]\n}\n\n`
     : `import { SpeakArticle } from './articles-w01'\n\n`
 
   return `${header}export const W${weekNumber}_ARTICLES: SpeakArticle[] = [\n${items.map(serializeArticle).join(',\n')}\n]\n`

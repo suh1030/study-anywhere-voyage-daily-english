@@ -14,7 +14,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
 import { useNav } from '../../navigation/NavContext'
 import { colors, fonts, spacing, radius, typography } from '../../constants/theme'
-import { getScheduleEntry, getTodayKey } from '../../data/curriculum'
+import { getCurrentScheduleEntry } from '../../data/curriculum'
 import { fetchQuestion, type QuestionRow } from '../../data/content-api'
 import { useCreditsStore } from '../../stores/creditsStore'
 import { useCurriculumStore } from '../../stores/curriculumStore'
@@ -48,7 +48,7 @@ export default function ConversationScreen() {
   useEffect(() => {
     if (scheduleLoading) return
 
-    const entry = getScheduleEntry(schedule, getTodayKey())
+    const entry = getCurrentScheduleEntry(schedule)
     if (!entry) {
       setQuestions([])
       setLoading(false)

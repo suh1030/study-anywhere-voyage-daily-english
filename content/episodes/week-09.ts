@@ -4,7 +4,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 1,
-    "date": "2026-02-23",
     "theme": "Health & Body",
     "title": "Taking Care of Yourself: Health Routines",
     "phase": "p1",
@@ -316,7 +315,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 2,
-    "date": "2026-02-24",
     "theme": "Health & Body",
     "title": "Sleep and Recovery",
     "phase": "p1",
@@ -633,7 +631,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 3,
-    "date": "2026-02-25",
     "theme": "Health & Body",
     "title": "Mental Health at Work",
     "phase": "p1",
@@ -950,7 +947,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 4,
-    "date": "2026-02-26",
     "theme": "Health & Body",
     "title": "Eating Well Without Obsessing",
     "phase": "p1",
@@ -1262,7 +1258,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 5,
-    "date": "2026-02-27",
     "theme": "Health & Body",
     "title": "When You Get Sick",
     "phase": "p1",
@@ -1579,7 +1574,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 6,
-    "date": "2026-02-28",
     "theme": "Health & Body",
     "title": "Exercise and Finding What Works",
     "phase": "p1",
@@ -1896,7 +1890,6 @@ export const WEEK_09: Episode[] = [
   {
     "weekNumber": 9,
     "dayOfWeek": 7,
-    "date": "2026-03-01",
     "theme": "Health & Body",
     "title": "Building Lasting Health Habits",
     "phase": "p1",

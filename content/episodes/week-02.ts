@@ -4,7 +4,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 1,
-    "date": "2026-01-05",
     "theme": "Morning Routines",
     "title": "The Perfect Morning",
     "phase": "p1",
@@ -321,7 +320,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 2,
-    "date": "2026-01-06",
     "theme": "Morning Routines",
     "title": "The Early Bird Advantage",
     "phase": "p1",
@@ -633,7 +631,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 3,
-    "date": "2026-01-07",
     "theme": "Morning Routines",
     "title": "Breakfast Conversations",
     "phase": "p1",
@@ -950,7 +947,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 4,
-    "date": "2026-01-08",
     "theme": "Morning Routines",
     "title": "Moving Your Body at Dawn",
     "phase": "p1",
@@ -1240,7 +1236,7 @@ export const WEEK_02: Episode[] = [
       {
         "en": "small wins",
         "zh": "小勝利；小成就",
-        "example": "She celebrated small wins in the morning to build confidence for the bigger challenges of the afternoon."
+        "example": "She markd small wins in the morning to build confidence for the bigger challenges of the afternoon."
       },
       {
         "en": "audit your time",
@@ -1262,7 +1258,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 5,
-    "date": "2026-01-09",
     "theme": "Morning Routines",
     "title": "Mindful Mornings",
     "phase": "p1",
@@ -1579,7 +1574,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 6,
-    "date": "2026-01-10",
     "theme": "Morning Routines",
     "title": "The Art of the Slow Morning",
     "phase": "p1",
@@ -1891,7 +1885,6 @@ export const WEEK_02: Episode[] = [
   {
     "weekNumber": 2,
     "dayOfWeek": 7,
-    "date": "2026-01-11",
     "theme": "Morning Routines",
     "title": "When Routines Go Wrong",
     "phase": "p1",

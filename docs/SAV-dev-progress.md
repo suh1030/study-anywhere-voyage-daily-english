@@ -91,7 +91,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] `scripts/regenerate-episodes.js` 與 `scripts/validate-episodes.js` 已更新為長篇規格
 - [x] 新版 episodes 本地驗證通過：365 集、17,520 行、角色 phase / 禁用詞 / vocab 對位皆通過
 - [x] Supabase 內容資料已重新同步：episodes 365、articles 365、questions 365、flashcards 583
-- [x] 補上 `episodes.date` migration：`backend/supabase/migrations/20260329000000_add_date_to_episodes.sql`
+- [x] 廢止 `episodes.date` 固定日曆欄位；episodes 改以 `week_number + day_of_week` 對應 rolling curriculum
 - [x] 舊短版 podcast 音檔已自 Storage 清除，避免新舊內容混播
 - [x] 新版長篇 podcast 音檔重新生成並上傳至 Supabase Storage（`episode-audio/tts/`）：17,520 個 mp3，missingCount: 0，已驗證（2026-04-03）
 
@@ -135,22 +135,22 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 > 目標：完成全年每日三模組內容，支援每位使用者從 Day 1 開始的完整 365 天課程
 
 #### Episode 架構遷移
-- [x] 更新 `Episode` TypeScript interface（新增 `dayOfWeek: number`、`date: string`，phase 加入 `'p6'`）
+- [x] 更新 `Episode` TypeScript interface（新增 `dayOfWeek: number`；`date` 僅作 legacy/reference；phase 加入 `'p6'`）
 - [x] 建立 `content/episodes/index.ts`（`getEpisode`、`getWeekEpisodes`、`getWeekLength` 工具函式，W01–W53 全部 import）
 - [x] 將舊 `episode-02.ts`~`episode-41.ts` 合併重組為週模組格式 `week-XX.ts`（各集作為 Day 1）→ `week-03.ts`~`week-43.ts`
-- [x] 補建 `week-01.ts`（W1：1/1–1/4，4 集，主題：New Year & Fresh Starts）
-- [x] 補建 `week-02.ts`（W2：1/5–1/11，7 集，主題：Morning Routines）
-- [x] 補建 `week-05.ts`（W5：1/26–2/1，7 集，主題：Celebrations & Festivals，春節週）
-- [x] 補建 `week-44.ts`（Creativity & Self-Expression，10/26–11/1，7 集）
-- [x] 補建 `week-45.ts`（Leadership & Influence，11/2–11/8，7 集）
-- [x] 補建 `week-46.ts`（Community & Giving Back，11/9–11/15，7 集）
-- [x] 補建 `week-47.ts`（Cross-Cultural Understanding，11/16–11/22，7 集）
-- [x] 補建 `week-48.ts`（Language & Identity，11/23–11/29，7 集）
-- [x] 補建 `week-49.ts`（Rest & Renewal，11/30–12/6，7 集）
-- [x] 補建 `week-50.ts`（Gratitude & Appreciation，12/7–12/13，7 集）
-- [x] 補建 `week-51.ts`（Goals & Intentions，12/14–12/20，7 集）
-- [x] 補建 `week-52.ts`（Year in Review，12/21–12/27，7 集）
-- [x] 補建 `week-53.ts`（New Beginnings，12/28–12/31，4 集）
+- [x] 補建 `week-01.ts`（Fresh Starts，4 集；rolling curriculum W1，不代表任何固定日曆日期限定內容）
+- [x] 補建 `week-02.ts`（Morning Routines，7 集；rolling curriculum W2）
+- [x] 補建 `week-05.ts`（Traditions & Gatherings，7 集；rolling curriculum W5，一般聚會與傳統主題，不綁定任何固定日曆事件日期）
+- [x] 補建 `week-44.ts`（Creativity & Self-Expression，7 集；rolling curriculum W44）
+- [x] 補建 `week-45.ts`（Leadership & Influence，7 集；rolling curriculum W45）
+- [x] 補建 `week-46.ts`（Community & Giving Back，7 集；rolling curriculum W46）
+- [x] 補建 `week-47.ts`（Cross-Cultural Understanding，7 集；rolling curriculum W47）
+- [x] 補建 `week-48.ts`（Language & Identity，7 集；rolling curriculum W48）
+- [x] 補建 `week-49.ts`（Rest & Renewal，7 集；rolling curriculum W49）
+- [x] 補建 `week-50.ts`（Gratitude & Appreciation，7 集；rolling curriculum W50）
+- [x] 補建 `week-51.ts`（Goals & Intentions，7 集；rolling curriculum W51）
+- [x] 補建 `week-52.ts`（Year in Review，7 集；rolling curriculum W52）
+- [x] 補建 `week-53.ts`（New Beginnings，4 集；rolling curriculum W53）
 - [x] W3–W43 各週 Day 1–7 全部完成（Codex 已生成，每週 7 集）
 
 #### 其他內容補建
@@ -167,7 +167,7 @@ SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Appl
 - [x] 用 OpenAI TTS（`tts-1`）批次生成所有 Episode 音訊 mp3（每行一個檔，本地已完成）
 - [ ] 建立 Cloudflare R2 bucket + 上傳音訊檔 ← 需 Cloudflare 帳號
 - [x] DB seeding 腳本：`scripts/seed.ts`（`npm run seed`，需 SUPABASE_SERVICE_ROLE_KEY）
-  - articles 改以 `week_number + day_of_week` 對應 rolling curriculum，`date_key` 僅保留相容用途
+  - articles 改以 `week_number + day_of_week` 對應 rolling curriculum，並移除文章內容與正式 lookup 的 `date_key/dateKey`
   - 新增 migration `20260323000000_fix_questions_schema.sql`（day_of_week 1-7 + unique constraint）
 - [x] App 模組從 sample data 切換為從 Supabase API 讀取真實資料（content-api.ts）
 - [ ] 將本地已驗證的全年內容與音檔同步至 Supabase / Storage，並做產品端最終驗收
@@ -282,10 +282,10 @@ study-anywhere-voyage-daily-english/
 └── content/                       # 課程內容檔
     ├── episodes/
     │   ├── index.ts               # getEpisode, getWeekEpisodes
-    │   ├── week-01.ts             # W1: 1/1–1/4（4 集）New Year & Fresh Starts
-    │   ├── week-02.ts             # W2: 1/5–1/11（7 集）Morning Routines
+    │   ├── week-01.ts             # W1（4 集）Fresh Starts
+    │   ├── week-02.ts             # W2（7 集）Morning Routines
     │   ├── ...
-    │   └── week-53.ts             # W53: 12/28–12/31（4 集）New Beginnings
+    │   └── week-53.ts             # W53（4 集）New Beginnings
     ├── articles/
     │   ├── articles-w01.ts ~ articles-w53.ts
     ├── flashcards/

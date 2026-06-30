@@ -4,7 +4,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 1,
-    "date": "2026-01-12",
     "theme": "Commuting",
     "title": "Getting Around: Commute Stories",
     "phase": "p1",
@@ -316,7 +315,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 2,
-    "date": "2026-01-13",
     "theme": "Commuting",
     "title": "Walking and Cycling to Work",
     "phase": "p1",
@@ -633,7 +631,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 3,
-    "date": "2026-01-14",
     "theme": "Commuting",
     "title": "Remote Work Days",
     "phase": "p1",
@@ -945,7 +942,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 4,
-    "date": "2026-01-15",
     "theme": "Commuting",
     "title": "Commuting Etiquette",
     "phase": "p1",
@@ -1262,7 +1258,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 5,
-    "date": "2026-01-16",
     "theme": "Commuting",
     "title": "Driving to Work",
     "phase": "p1",
@@ -1574,7 +1569,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 6,
-    "date": "2026-01-17",
     "theme": "Commuting",
     "title": "Long-Distance Commuters",
     "phase": "p1",
@@ -1762,8 +1756,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "True. A friend I know stopped when she missed her nephew's birthday due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
-            "zh": "正是如此。我認識的一個朋友在因為火車取消而錯過姪子的生日時停止了。不是因為那是發生過的最糟糕的事情——而是因為那是累積的成本變得無法忽視的時刻。"
+            "en": "True. A friend I know stopped when she missed her nephew's family milestone due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
+            "zh": "正是如此。我認識的一個朋友在因為火車取消而錯過姪子的家庭里程碑時停止了。不是因為那是發生過的最糟糕的事情——而是因為那是累積的成本變得無法忽視的時刻。"
           },
           {
             "speaker": "b",
@@ -1774,8 +1768,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is usually the moment a small thing crystallizes everything that has been quietly building. The birthday was small. But it made visible what had been invisible: the slow accumulation of missed moments.",
-            "zh": "通常是某件小事讓一切一直在悄悄積累的東西結晶化的時刻。生日是小事。但它讓不可見的事情變得可見：錯過時刻的緩慢積累。"
+            "en": "It is usually the moment a small thing crystallizes everything that has been quietly building. The family milestone was small. But it made visible what had been invisible: the slow accumulation of missed moments.",
+            "zh": "通常是某件小事讓一切一直在悄悄積累的東西結晶化的時刻。家庭里程碑是小事。但它讓不可見的事情變得可見：錯過時刻的緩慢積累。"
           },
           {
             "speaker": "b",
@@ -1859,7 +1853,7 @@ export const WEEK_03: Episode[] = [
       {
         "en": "crystallize",
         "zh": "使清晰化；結晶（比喻）",
-        "example": "Missing the birthday crystallized everything she had been feeling but not saying about her commute."
+        "example": "Missing the family milestone crystallized everything she had been feeling but not saying about her commute."
       },
       {
         "en": "elephant in the room",
@@ -1891,7 +1885,6 @@ export const WEEK_03: Episode[] = [
   {
     "weekNumber": 3,
     "dayOfWeek": 7,
-    "date": "2026-01-18",
     "theme": "Commuting",
     "title": "The Future of Getting to Work",
     "phase": "p1",

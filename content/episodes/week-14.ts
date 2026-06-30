@@ -4,7 +4,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 1,
-    "date": "2026-03-30",
     "theme": "Social Situations",
     "title": "Being Social",
     "phase": "p2",
@@ -321,7 +320,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 2,
-    "date": "2026-03-31",
     "theme": "Social Situations",
     "title": "Networking Without Feeling Fake",
     "phase": "p2",
@@ -638,7 +636,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 3,
-    "date": "2026-04-01",
     "theme": "Social Situations",
     "title": "Hosting Without Losing Your Mind",
     "phase": "p2",
@@ -950,7 +947,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 4,
-    "date": "2026-04-02",
     "theme": "Social Situations",
     "title": "Reading the Room and Adapting",
     "phase": "p2",
@@ -1267,7 +1263,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 5,
-    "date": "2026-04-03",
     "theme": "Social Situations",
     "title": "Awkward Moments and How to Recover",
     "phase": "p2",
@@ -1584,7 +1579,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 6,
-    "date": "2026-04-04",
     "theme": "Social Situations",
     "title": "Friend Groups, Invitations, and Exclusion",
     "phase": "p2",
@@ -1901,7 +1895,6 @@ export const WEEK_14: Episode[] = [
   {
     "weekNumber": 14,
     "dayOfWeek": 7,
-    "date": "2026-04-05",
     "theme": "Social Situations",
     "title": "Boundaries, Capacity, and Saying No Gracefully",
     "phase": "p2",

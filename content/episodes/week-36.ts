@@ -4,7 +4,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 1,
-    "date": "2026-08-31",
     "theme": "Artificial Intelligence",
     "title": "Intelligent Machines: Living With AI",
     "phase": "p5",
@@ -316,7 +315,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 2,
-    "date": "2026-09-01",
     "theme": "Artificial Intelligence",
     "title": "What AI Is Good At and What It Is Not",
     "phase": "p5",
@@ -633,7 +631,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 3,
-    "date": "2026-09-02",
     "theme": "Artificial Intelligence",
     "title": "How AI Changes Everyday Work",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 4,
-    "date": "2026-09-03",
     "theme": "Artificial Intelligence",
     "title": "Trust, Accuracy, and Human Judgment",
     "phase": "p5",
@@ -1262,7 +1258,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 5,
-    "date": "2026-09-04",
     "theme": "Artificial Intelligence",
     "title": "Creative Work in the Age of AI",
     "phase": "p5",
@@ -1579,7 +1574,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 6,
-    "date": "2026-09-05",
     "theme": "Artificial Intelligence",
     "title": "Ethics, Bias, and Responsibility",
     "phase": "p5",
@@ -1896,7 +1890,6 @@ export const WEEK_36: Episode[] = [
   {
     "weekNumber": 36,
     "dayOfWeek": 7,
-    "date": "2026-09-06",
     "theme": "Artificial Intelligence",
     "title": "Living Alongside Smarter Machines",
     "phase": "p5",

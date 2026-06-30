@@ -10,7 +10,7 @@ WITH ranked_articles AS (
     id,
     ROW_NUMBER() OVER (
       PARTITION BY week_number
-      ORDER BY date_key, created_at, id
+      ORDER BY created_at, id
     ) AS rn
   FROM public.articles
 )

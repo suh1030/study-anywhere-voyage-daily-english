@@ -4,7 +4,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 1,
-    "date": "2026-10-19",
     "theme": "Looking Back & Moving Forward",
     "title": "Full Circle: Reflections on the Journey",
     "phase": "p5",
@@ -321,7 +320,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 2,
-    "date": "2026-10-20",
     "theme": "Looking Back & Moving Forward",
     "title": "Looking Back on How Much You’ve Changed",
     "phase": "p5",
@@ -638,7 +636,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 3,
-    "date": "2026-10-21",
     "theme": "Looking Back & Moving Forward",
     "title": "What the Hard Years Taught You",
     "phase": "p5",
@@ -950,7 +947,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 4,
-    "date": "2026-10-22",
     "theme": "Looking Back & Moving Forward",
     "title": "The People and Moments That Shaped You",
     "phase": "p5",
@@ -1267,7 +1263,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 5,
-    "date": "2026-10-23",
     "theme": "Looking Back & Moving Forward",
     "title": "Regret, Gratitude, and Perspective",
     "phase": "p5",
@@ -1584,7 +1579,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 6,
-    "date": "2026-10-24",
     "theme": "Looking Back & Moving Forward",
     "title": "What You Want to Leave Behind",
     "phase": "p5",
@@ -1901,7 +1895,6 @@ export const WEEK_43: Episode[] = [
   {
     "weekNumber": 43,
     "dayOfWeek": 7,
-    "date": "2026-10-25",
     "theme": "Looking Back & Moving Forward",
     "title": "Moving Forward with More Intention",
     "phase": "p5",

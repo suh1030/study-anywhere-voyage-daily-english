@@ -4,7 +4,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 1,
-    "date": "2026-03-09",
     "theme": "Friendship",
     "title": "Good Friends: What Makes a Great Friendship",
     "phase": "p2",
@@ -321,7 +320,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 2,
-    "date": "2026-03-10",
     "theme": "Friendship",
     "title": "Making New Friends as an Adult",
     "phase": "p2",
@@ -638,7 +636,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 3,
-    "date": "2026-03-11",
     "theme": "Friendship",
     "title": "Long-Distance Friendships",
     "phase": "p2",
@@ -902,7 +899,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 4,
-    "date": "2026-03-12",
     "theme": "Friendship",
     "title": "Conflict and Repair in Friendship",
     "phase": "p2",
@@ -1219,7 +1215,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 5,
-    "date": "2026-03-13",
     "theme": "Friendship",
     "title": "Friendship and Social Media",
     "phase": "p2",
@@ -1531,7 +1526,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 6,
-    "date": "2026-03-14",
     "theme": "Friendship",
     "title": "What Makes a Best Friend",
     "phase": "p2",
@@ -1731,8 +1725,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Celebrate their wins, even the small ones. Many friendships are good at showing up for hard times but forget to show up for the good ones.",
-            "zh": "慶祝他們的成功，即使是小的。很多友誼很擅長在困難時出現，但忘記在好的時候也要出現。"
+            "en": "Notice their wins, even the small ones. Many friendships are good at showing up for hard times but forget to show up for the good ones.",
+            "zh": "標記他們的成功，即使是小的。很多友誼很擅長在困難時出現，但忘記在好的時候也要出現。"
           },
           {
             "speaker": "b",
@@ -1848,7 +1842,6 @@ export const WEEK_11: Episode[] = [
   {
     "weekNumber": 11,
     "dayOfWeek": 7,
-    "date": "2026-03-15",
     "theme": "Friendship",
     "title": "Friendship Across Differences",
     "phase": "p2",

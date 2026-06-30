@@ -4,7 +4,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 1,
-    "date": "2026-11-02",
     "theme": "Leadership & Influence",
     "title": "What Makes a Real Leader",
     "phase": "p6",
@@ -316,7 +315,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 2,
-    "date": "2026-11-03",
     "theme": "Leadership & Influence",
     "title": "Influence Without Authority",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 3,
-    "date": "2026-11-04",
     "theme": "Leadership & Influence",
     "title": "Emotional Intelligence in Leadership",
     "phase": "p6",
@@ -945,7 +942,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 4,
-    "date": "2026-11-05",
     "theme": "Leadership & Influence",
     "title": "Building and Leading Teams",
     "phase": "p6",
@@ -1262,7 +1258,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 5,
-    "date": "2026-11-06",
     "theme": "Leadership & Influence",
     "title": "Decision-Making Under Pressure",
     "phase": "p6",
@@ -1579,7 +1574,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 6,
-    "date": "2026-11-07",
     "theme": "Leadership & Influence",
     "title": "Leading Yourself First",
     "phase": "p6",
@@ -1891,7 +1885,6 @@ export const WEEK_45: Episode[] = [
   {
     "weekNumber": 45,
     "dayOfWeek": 7,
-    "date": "2026-11-08",
     "theme": "Leadership & Influence",
     "title": "Leadership in Everyday Life",
     "phase": "p6",

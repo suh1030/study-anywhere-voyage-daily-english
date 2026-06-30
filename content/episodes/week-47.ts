@@ -4,7 +4,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 1,
-    "date": "2026-11-16",
     "theme": "Cross-Cultural Understanding",
     "title": "What Is Culture, Anyway?",
     "phase": "p6",
@@ -316,7 +315,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 2,
-    "date": "2026-11-17",
     "theme": "Cross-Cultural Understanding",
     "title": "Navigating Cultural Differences at Work",
     "phase": "p6",
@@ -633,7 +631,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 3,
-    "date": "2026-11-18",
     "theme": "Cross-Cultural Understanding",
     "title": "Food as a Cultural Gateway",
     "phase": "p6",
@@ -662,8 +659,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's true. Food often carries migration, class, celebration, care, religion, and identity without announcing all of that directly.",
-            "zh": "沒錯。食物常常默默背著移動史、階級、慶祝、照顧、宗教和身份認同，但它不會直接把這些全部講出來。"
+            "en": "That's true. Food often carries migration, class, gathering, care, religion, and identity without announcing all of that directly.",
+            "zh": "沒錯。食物常常默默背著移動史、階級、標記、照顧、宗教和身份認同，但它不會直接把這些全部講出來。"
           },
           {
             "speaker": "b",
@@ -945,7 +942,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 4,
-    "date": "2026-11-19",
     "theme": "Cross-Cultural Understanding",
     "title": "Traveling with Curiosity",
     "phase": "p6",
@@ -1262,7 +1258,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 5,
-    "date": "2026-11-20",
     "theme": "Cross-Cultural Understanding",
     "title": "Values Across Cultures",
     "phase": "p6",
@@ -1574,7 +1569,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 6,
-    "date": "2026-11-21",
     "theme": "Cross-Cultural Understanding",
     "title": "Language, Translation, and Meaning",
     "phase": "p6",
@@ -1891,7 +1885,6 @@ export const WEEK_47: Episode[] = [
   {
     "weekNumber": 47,
     "dayOfWeek": 7,
-    "date": "2026-11-22",
     "theme": "Cross-Cultural Understanding",
     "title": "Building Cultural Bridges",
     "phase": "p6",
