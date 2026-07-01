@@ -1,4 +1,4 @@
-# SAV Daily English — Privacy Nutrition Labels
+# Notch Up! — Privacy Nutrition Labels
 
 > Apple App Store Connect → App Privacy 填寫參考
 > Google Play Data Safety 填寫參考

@@ -76,14 +76,7 @@ export default function AuthScreen() {
     return (
       <View style={styles.container}>
         <View style={styles.inner}>
-          <Text style={styles.brand}>
-            <Text style={styles.brandAccent}>S</Text>
-            <Text style={styles.brandRest}>tudy </Text>
-            <Text style={styles.brandAccent}>A</Text>
-            <Text style={styles.brandRest}>nywhere </Text>
-            <Text style={styles.brandAccent}>V</Text>
-            <Text style={styles.brandRest}>oyage</Text>
-          </Text>
+          <Text style={styles.brand}>Notch Up!</Text>
           <Text style={styles.subtitle}>DAILY ENGLISH</Text>
           <View style={styles.successBox}>
             <Text style={styles.successTitle}>CHECK YOUR EMAIL</Text>
@@ -95,6 +88,7 @@ export default function AuthScreen() {
           <TouchableOpacity onPress={() => { setSignUpSuccess(false); setIsSignUp(false) }}>
             <Text style={styles.switchText}>Back to Sign In</Text>
           </TouchableOpacity>
+          <Text style={styles.endorsement}>A STUDY ANYWHERE VOYAGE PRODUCT</Text>
         </View>
       </View>
     )
@@ -106,14 +100,7 @@ export default function AuthScreen() {
       behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
     >
       <View style={styles.inner}>
-        <Text style={styles.brand}>
-          <Text style={styles.brandAccent}>S</Text>
-          <Text style={styles.brandRest}>tudy </Text>
-          <Text style={styles.brandAccent}>A</Text>
-          <Text style={styles.brandRest}>nywhere </Text>
-          <Text style={styles.brandAccent}>V</Text>
-          <Text style={styles.brandRest}>oyage</Text>
-        </Text>
+        <Text style={styles.brand}>Notch Up!</Text>
         <Text style={styles.subtitle}>DAILY ENGLISH</Text>
 
         <View style={styles.form}>
@@ -196,6 +183,7 @@ export default function AuthScreen() {
             </TouchableOpacity>
           )}
         </View>
+        <Text style={styles.endorsement}>A STUDY ANYWHERE VOYAGE PRODUCT</Text>
       </View>
     </KeyboardAvoidingView>
   )
@@ -213,22 +201,11 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.lg,
   },
   brand: {
-    fontSize: 22,
-    fontWeight: '300',
-    letterSpacing: 1,
-    color: colors.text,
-    marginBottom: 2,
-  },
-  brandAccent: {
-    fontSize: 28,
-    fontWeight: '600',
+    fontFamily: fonts.cinzel,
+    fontSize: 30,
+    letterSpacing: 1.5,
     color: colors.ui,
-    letterSpacing: 0,
-  },
-  brandRest: {
-    fontSize: 22,
-    fontWeight: '300',
-    color: colors.text,
+    marginBottom: 2,
   },
   subtitle: {
     fontFamily: fonts.mono,
@@ -242,6 +219,14 @@ const styles = StyleSheet.create({
     width: '100%',
     maxWidth: 340,
     gap: spacing.md,
+  },
+  endorsement: {
+    position: 'absolute',
+    bottom: spacing.lg,
+    fontFamily: fonts.mono,
+    fontSize: 8,
+    letterSpacing: 1.6,
+    color: colors.muted2,
   },
   input: {
     borderWidth: 1,

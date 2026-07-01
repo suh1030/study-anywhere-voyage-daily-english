@@ -1,4 +1,4 @@
-# SAV Daily English — TestFlight 測試清單
+# Notch Up! — TestFlight 測試清單
 
 > 在提交 App Store 審核之前，請用 TestFlight 完整跑過以下測試項目。
 > 測試裝置建議：iPhone（真機），iOS 16+

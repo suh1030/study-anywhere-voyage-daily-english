@@ -1,4 +1,6 @@
-# Study Anywhere Voyage — 產品需求規格書
+# Notch Up! — 產品需求規格書
+
+> **命名更新：** 本文件部分段落保留早期的「Study Anywhere Voyage／SAV」產品稱呼作為歷史脈絡。現行定義為：**Notch Up!** 是本產品，**Daily English** 是產品描述，**Study Anywhere Voyage** 是母品牌；不得再把 Study Anywhere Voyage 當作 App 名稱。最新規則以 docs/brand/product-naming-notch-up.md 為準。
 
 **版本：** 2.0  
 **日期：** 2026 年 3 月  
@@ -25,7 +27,7 @@
 
 ## 1. 產品概述
 
-**Study Anywhere Voyage（SAV）** 是一款為台灣上班族設計的每日英文學習應用程式，透過以真實生活場景為基礎的結構化每日練習，幫助使用者提升英文對話能力，尤其是聽力與口說。
+**Notch Up!** 是 Study Anywhere Voyage（SAV）母品牌旗下、為台灣上班族設計的每日英文學習應用程式，透過以真實生活場景為基礎的結構化每日練習，幫助使用者提升英文對話能力，尤其是聽力與口說。
 
 產品名稱的首字母（S.A.V.）同時也是創辦人的名字縮寫（Savelyn）。品牌核心精神：
 
@@ -385,7 +387,7 @@ SAV App
 
 ### 導航行為
 
-- **Logo** — `Study Anywhere Voyage`，Cinzel 字體，在 nav 最左側，SAV 首字母用米白色，其餘白色
+- **產品 Logo** — `Notch Up!` 為主要識別；需要品牌歸屬時，以低對比小字顯示 `A Study Anywhere Voyage product`
 - **Nav（sticky）** — 固定在視窗頂端，捲動時半透明毛玻璃效果（`backdrop-filter: blur`）
 - **切換分頁** — 捲回頂端、清除透明狀態、隱藏迷你播放器
 - **Schedule 自動展開** — 每次開啟自動展開當週並捲動至位置

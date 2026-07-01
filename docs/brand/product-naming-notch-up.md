@@ -4,10 +4,19 @@
 
 **產品名稱**：Notch Up!
 
-**App Store 名稱**：Notch Up: Daily English
-- **App Store 主名稱**：Notch Up
-- **App Store 副標題**：Daily English
-- **說明**：App Store 名稱加上「Daily English」副標題，是為了讓用戶一眼識別產品內容、提高搜尋可見度。產品本身的品牌名稱是 **Notch Up!**。
+**App Store / Google Play 名稱**：Notch Up: Daily English
+- **商店 Name 欄位**：Notch Up: Daily English
+- **建議 Subtitle 欄位**：Listen, Speak & Review
+- **說明**：商店名稱中的「Daily English」是描述詞，用來提高內容辨識與搜尋可見度；它不是 App Store Connect 的 Subtitle 欄位。產品本身的品牌名稱是 **Notch Up!**。
+
+## 顯示規則
+
+- App icon、啟動畫面、登入、通知與 App 內品牌名稱：**Notch Up!**
+- 商店 listing、SEO 與需要同時說明品類的場景：**Notch Up: Daily English**
+- 母品牌背書：**A Study Anywhere Voyage product**
+- **Daily English** 是產品描述，不可單獨當成產品名稱
+- **SAV Daily English** 是已停用的舊稱
+- bundle ID、URL scheme、EAS slug 等不可見技術識別可保留既有名稱
 
 ---
 

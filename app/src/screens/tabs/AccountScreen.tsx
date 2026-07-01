@@ -90,7 +90,8 @@ export default function AccountScreen() {
           </TouchableOpacity>
         </View>
 
-        <Text style={styles.version}>v1.0.0</Text>
+        <Text style={styles.version}>Notch Up! · v1.0.0</Text>
+        <Text style={styles.endorsement}>A Study Anywhere Voyage product</Text>
 
       </ScrollView>
     </SafeAreaView>
@@ -194,6 +195,15 @@ const styles = StyleSheet.create({
     letterSpacing: 1.5,
     color: colors.muted2,
     textAlign: 'center',
-    paddingVertical: spacing.lg,
+    paddingTop: spacing.lg,
+    paddingBottom: spacing.xs,
+  },
+  endorsement: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    letterSpacing: 1,
+    color: colors.muted2,
+    textAlign: 'center',
+    paddingBottom: spacing.lg,
   },
 })

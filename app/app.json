@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "Study Anywhere Voyage",
+    "name": "Notch Up!",
     "slug": "study-anywhere-voyage",
+    "description": "Daily English listening, speaking, conversation, and review practice.",
     "version": "1.0.0",
     "runtimeVersion": {
       "policy": "appVersion"
@@ -19,7 +20,7 @@
       "bundleIdentifier": "com.savelyn.studyanywherevoyage",
       "buildNumber": "1",
       "infoPlist": {
-        "NSMicrophoneUsageDescription": "SAV needs microphone access to record your speaking practice.",
+        "NSMicrophoneUsageDescription": "Notch Up! needs microphone access to record your speaking practice.",
         "UIRequiresFullScreen": true,
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -38,7 +39,9 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name": "Notch Up!",
+      "shortName": "Notch Up!"
     },
     "scheme": "com.savelyn.studyanywherevoyage",
     "newArchEnabled": false,

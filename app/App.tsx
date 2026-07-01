@@ -95,7 +95,7 @@ export default function App() {
 
   return (
     <SafeAreaProvider>
-      <NavigationContainer>
+      <NavigationContainer documentTitle={{ formatter: () => 'Notch Up!' }}>
         <StatusBar style="light" />
         {activeSession ? <TabNavigator /> : <AuthScreen />}
       </NavigationContainer>

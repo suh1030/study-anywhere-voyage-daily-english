@@ -1,4 +1,6 @@
-# Study Anywhere Voyage — 系統設計文件
+# Notch Up! — 系統設計文件
+
+> **命名更新：** 本文件部分段落保留早期的「Study Anywhere Voyage／SAV」產品稱呼作為歷史脈絡。現行定義為：**Notch Up!** 是本產品，**Daily English** 是產品描述，**Study Anywhere Voyage** 是母品牌；不得再把 Study Anywhere Voyage 當作 App 名稱。最新規則以 docs/brand/product-naming-notch-up.md 為準。
 
 **版本：** 2.0  
 **日期：** 2026 年 3 月  
@@ -25,7 +27,7 @@
 
 ## 1. 系統概述
 
-Study Anywhere Voyage 是一款每日英文學習應用程式。目前交付成果為一份單一 HTML 檔案的 prototype（約 160KB），完整展示所有產品功能、UI 設計、內容結構與使用者互動行為。
+Notch Up! 是 Study Anywhere Voyage 母品牌旗下的每日英文學習應用程式。目前交付成果包含完整 App 與早期單一 HTML prototype，展示產品功能、UI 設計、內容結構與使用者互動行為。
 
 ### Prototype 與正式版對照
 

@@ -1,4 +1,6 @@
-# SAV Daily English — Development Progress
+# Notch Up! — Development Progress
+
+> 現行產品名稱：**Notch Up!**；商店名稱：**Notch Up: Daily English**；母品牌：**Study Anywhere Voyage**。本文中的 SAV Daily English 僅屬舊紀錄。
 
 > Last updated: 2026-04-06（UI 重構：Account tab、統一日期列、導覽列間距修正、登入改善）
 > Purpose: 讓新 session 的 AI 快速了解已完成的工作和待辦事項
@@ -7,7 +9,7 @@
 
 ## Project Overview
 
-SAV Daily English 是一款付費英語學習 App（NT$60），目標上架 Apple App Store + Google Play。
+Notch Up! 是一款付費英語學習 App（商店名稱：Notch Up: Daily English），目標上架 Apple App Store + Google Play。
 包含五大模組：Schedule / Listen / Speak / Conversation / Review。
 技術棧：Expo (React Native) + Supabase (Auth + PostgreSQL + Edge Functions) + Cloudflare R2 (音訊 CDN) + RevenueCat (IAP)。
 

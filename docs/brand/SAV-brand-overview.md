@@ -53,4 +53,5 @@ Study Anywhere Voyage（品牌）
 產品名稱應該：
 - 能獨立存在，不強制加 SAV 前綴
 - 簡單直覺，用戶一眼知道在學什麼
-- 在需要強調品牌歸屬時，可以用「SAV Daily English」這樣的組合形式
+- 在需要強調品牌歸屬時，使用「Notch Up! — A Study Anywhere Voyage product」這類低調背書
+- 「SAV Daily English」是已停用的舊稱，不得作為對外產品名稱
