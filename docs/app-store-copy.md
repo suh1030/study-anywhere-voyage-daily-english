@@ -9,7 +9,7 @@
 **Notch Up: Daily English**
 
 > 命名對應：商店 listing 用冒號版 `Notch Up: Daily English`；app 內／法律文件用 `Notch Up!`（驚嘆號）。兩者並存無衝突，命名規則 SSOT 見 brand/product-naming-notch-up.md。
-> ⚠️ TODO(待確認)：商業模式措辭 — 本文寫「one-time purchase」，但另有消耗型 credits IAP（AI 批改用）。需與 financials.md、legal/terms-of-service.html 統一「付費下載 vs 免費下載 + credits」的正確描述。
+> 商業模式（已確認）：**NT$60 付費下載**（一次性，含全年 365 天課程）+ **消耗型 credits**（AI 對話批改用，免費起始額度用完後另購）。此描述與 legal/terms-of-service.html §購買條款一致。
 
 ---
 

@@ -246,7 +246,7 @@ Notch Up! 是一款付費英語學習 App（商店名稱：Notch Up: Daily Engli
 | 後端 | Supabase Pro（$25/月）+ Edge Functions (Deno) | 上線採 Pro（Free 7 天無活動會 pause）；音檔改由 Cloudflare R2 服務。詳見 backend-hosting-decision.md |
 | 狀態管理 | Zustand | 輕量、不需 Provider wrapper |
 | 監控 | Supabase Dashboard + Cloudflare Analytics | 到達上限會自動通知 |
-| 定價 | ⚠️ TODO(待確認)：文件間不一致 — spec/財務需統一「免費下載 + 消耗型 credits IAP」還是「NT$60 買斷」；credit 包規格（10 點=NT$60 vs 100/300/600 點）也需對齊 | — |
+| 定價（已確認 2026-07-05） | **NT$60 付費下載**（一次性，含全年課程）+ **消耗型 credits**（AI 批改用，另購）；Apple 抽成走**小開發者 15%**（已核准） | 付費下載 NT$60 實收 NT$51；credits 為額外消耗型 IAP |
 | 內容策略 | 全年 365 天，W1–W53（53 週），每天 Listen+Conversation+Speak | 每位使用者從自己的 Day 1 開始完成完整課程 |
 | Episode 檔案格式 | Weekly Module（`week-01.ts`~`week-53.ts`），每檔含 4 或 7 集陣列 | 53 檔 vs 365 檔，業界最佳實踐，維護成本低，支援週主題聚合查詢 |
 

@@ -61,7 +61,11 @@
 > Claude Haiku 每次批改費用明細：
 > Input ~300 tokens × $0.80/MTok + Output ~300 tokens × $4.00/MTok ≈ $0.00144 USD ≈ NT$0.046
 >
-> ⚠️ 抽成假設：本表用 Apple 30%。**Apple 小開發者方案 15% 已申請、待審核**（見 SAV-dev-progress.md Owner TODO）。一旦核准，實收升至 NT$51、每包毛利約 NT$49.56，下方損益數字會更好。為與 backend-hosting-decision.md 對齊，本文暫以保守的 30%（毛利 NT$40.56）為基準。
+> ✅ **商業模式（已確認 2026-07-05）**：**NT$60 付費下載**（一次性，含全年 365 天課程）+ **消耗型 credits**（AI 批改用，另購）。Apple 抽成走**小開發者 15%（已核准）**。
+> - 付費下載：售價 NT$60 − Apple 15%（NT$9）= **實收 NT$51/次下載**。
+> - credits：獨立消耗型 IAP，邊際成本僅 Claude Haiku NT$0.046/次批改；**單位定價待最終確認**。
+>
+> ⚠️ 下方 §4–§6 的「每包 10 Credits」單位經濟是**舊的 credits-only 模型**，與已確認的「付費下載 + 另計 credits」雙收入模型不符，需在 credit 包定價與購買率確定後**重建**。目前數字僅供舊模型參考。
 
 ---
 
