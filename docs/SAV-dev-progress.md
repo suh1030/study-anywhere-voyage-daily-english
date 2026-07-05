@@ -2,8 +2,11 @@
 
 > 現行產品名稱：**Notch Up!**；商店名稱：**Notch Up: Daily English**；母品牌：**Study Anywhere Voyage**。本文中的 SAV Daily English 僅屬舊紀錄。
 
-> Last updated: 2026-04-06（UI 重構：Account tab、統一日期列、導覽列間距修正、登入改善）
+> Last updated: 2026-07-05（文件整併：併入 owner-todo 剩餘待辦；修正 File Structure；反映 Polaris AI 老師、Schedule/Tally 重設計、Notch Up 品牌重塑已完成）
 > Purpose: 讓新 session 的 AI 快速了解已完成的工作和待辦事項
+>
+> ⚠️ 2026-06 之後的重大 feature（Polaris 浮動 AI 英文老師、Schedule/Tally-stick 重設計、品牌重塑）已實作，設計文件見 `docs/superpowers/specs/` 與 `docs/superpowers/ssd/`。細節仍以 git log 為準。
+> 後端 hosting/成本決策見 [backend-hosting-decision.md](./backend-hosting-decision.md)（Supabase Pro + Cloudflare R2）。
 
 ---
 
@@ -185,9 +188,7 @@ Notch Up! 是一款付費英語學習 App（商店名稱：Notch Up: Daily Engli
   - SpeakScreen：點擊段落 / PLAY 按鈕 → TTS 朗讀，錄音前自動 stop speech
   - 清理：unmount 時 Speech.stop()；録音開始前 Speech.stop()
   - 套件：`expo-speech ~13.0.1`（裝置原生 TTS，免費、離線）
-- [x] **ProfileModal**（`src/components/ProfileModal.tsx`）：
-  - 顯示登入 email、credits 餘額、Sign Out 按鈕
-  - 從 ScheduleScreen header 右上角觸發（credits 有餘額時顯示 "X CR"，否則顯示 "PROFILE"）
+- [x] **帳號管理**：ProfileModal 已於 2026-04-06 移除，改為獨立 **Account tab**（credits 餘額、購買、登出、LEGAL 連結、版本號）
   - 登入後自動 fetchBalance()
 - [x] 進度同步觸發時機（App 啟動 / 登入後 load）
 - [x] Credits balance 初始化（登入後 fetchBalance）
@@ -213,17 +214,23 @@ Notch Up! 是一款付費英語學習 App（商店名稱：Notch Up: Daily Engli
 - [ ] Apple 審核測試帳號設定（含測試點數）
 
 
-### Owner TODO（使用者需自行處理）
+### Owner TODO（使用者需自行處理，唯一真相；原 SAV-owner-todo.md 已併入此處並歸檔）
+
+**仍未完成（上架前）：**
+- [ ] **設計 App Icon**（1024×1024，無圓角）— 目前仍是預設 Expo icon，上架前必換；放入 `app/assets/` 並更新 `app.json` 的 `icon`，需重新 build
+- [ ] **準備 App Store 截圖**（iPhone 6.7" 必要，至少 5 張：Schedule/Listen/Speak/Conversation/Review）
+- [ ] **申請 Google Play Console**（$25 USD 一次）+ Google Play 銀行/稅務資料 — 送 Android 版前必須
+- [ ] **完成 Cloudflare R2 音檔遷移**（音檔已 3.0GB/17,520 MP3；決策見 backend-hosting-decision.md）
+- [ ] **升級 Supabase Pro**（上線用，避開 Free 7 天 pause）
+
+**已完成（存查）：**
 - [x] Apple Developer Program 已購買（savelyn.siao@gmail.com，2026-03-20）
-- [x] EAS CLI 已安裝（`eas-cli` global）
-- [ ] 申請 Google Play Console（$25 USD 一次）— 送審前必須
-- [ ] 上架前申請 Apple Small Business Program（15% 抽成，免費申請）
-- [ ] 上架前申請 Google Play 小開發者方案（15% 抽成）
-- [ ] 建立 Cloudflare 帳號（R2 音訊 CDN，免費方案）
-- [ ] 建立 OpenAI 帳號（TTS 生成，一次性費用約 $3-5 USD）
-- [ ] 建立 RevenueCat 帳號（IAP 管理，免費方案）
-- [ ] 建立 Anthropic 帳號（AI 批改 API）
-- [ ] 在 Supabase Dashboard 設定環境變數：ANTHROPIC_API_KEY、REVENUECAT_WEBHOOK_SECRET
+- [x] Apple Small Business Program（15% 抽成）已申請、等審核（2026-04-03）
+- [x] Apple Store Connect 銀行/稅務（國泰世華 + W-8BEN，2026-03-26）
+- [x] RevenueCat 帳號 + IAP 產品 `sav_credits_10`（Consumable, NT$60）+ Webhook（2026-04-03）
+- [x] Anthropic 帳號 + 儲值 $5、Supabase Secrets（ANTHROPIC_API_KEY、REVENUECAT_WEBHOOK_SECRET）已設
+- [x] OpenAI TTS 音檔已生成（tts-1，17,520 MP3）
+- [x] EAS login/init（projectId `70bf336b-2ec8-4170-bbb3-68d7c81b9879`）、憑證、production build #5 已提交
 
 ---
 
@@ -236,9 +243,10 @@ Notch Up! 是一款付費英語學習 App（商店名稱：Notch Up: Daily Engli
 | TTS | OpenAI `tts-1` 預生成 → Storage/CDN | W1D1 實測後決定採低成本方案；新版長篇內容約 2,563,318 chars，一次性成本約 $38.45 USD；新版 17,520 行音檔已生成並上傳完成 |
 | 登入方式 | Email + Apple Sign In + Google Sign In | Apple 強制要求 Sign in with Apple |
 | IAP 整合 | RevenueCat | 免費版支援 < NT$75,000 月收，抽象化 Apple/Google 雙平台 |
-| 後端 | Supabase Edge Functions (Deno) | 免費 tier 足夠 v1，冷啟動 < 200ms |
+| 後端 | Supabase Pro（$25/月）+ Edge Functions (Deno) | 上線採 Pro（Free 7 天無活動會 pause）；音檔改由 Cloudflare R2 服務。詳見 backend-hosting-decision.md |
 | 狀態管理 | Zustand | 輕量、不需 Provider wrapper |
-| 監控 | Supabase Dashboard + Cloudflare Analytics | 免費，到達上限會自動通知 |
+| 監控 | Supabase Dashboard + Cloudflare Analytics | 到達上限會自動通知 |
+| 定價 | ⚠️ TODO(待確認)：文件間不一致 — spec/財務需統一「免費下載 + 消耗型 credits IAP」還是「NT$60 買斷」；credit 包規格（10 點=NT$60 vs 100/300/600 點）也需對齊 | — |
 | 內容策略 | 全年 365 天，W1–W53（53 週），每天 Listen+Conversation+Speak | 每位使用者從自己的 Day 1 開始完成完整課程 |
 | Episode 檔案格式 | Weekly Module（`week-01.ts`~`week-53.ts`），每檔含 4 或 7 集陣列 | 53 檔 vs 365 檔，業界最佳實踐，維護成本低，支援週主題聚合查詢 |
 
@@ -250,8 +258,7 @@ Notch Up! 是一款付費英語學習 App（商店名稱：Notch Up: Daily Engli
 study-anywhere-voyage-daily-english/
 ├── SAV-spec-zh.md                 # 產品規格書
 ├── SAV-ssd-zh.md                  # 系統設計文件
-├── SAV-dev-progress.md            # ← 本檔案
-├── SAV-owner-todo.md              # 使用者待辦事項
+├── SAV-dev-progress.md            # ← 本檔案（含 Owner TODO，唯一真相）
 ├── daily-english-app-prototype.html  # HTML prototype（設計參考）
 ├── backend/
 │   ├── README.md
@@ -261,11 +268,9 @@ study-anywhere-voyage-daily-english/
 │       │   └── 20260320000000_initial_schema.sql
 │       └── functions/
 │           ├── _shared/cors.ts, supabase-client.ts
-│           ├── feedback/index.ts
-│           ├── credits-webhook/index.ts
-│           ├── progress-sync/index.ts
-│           ├── content-episode/index.ts
-│           └── content-article/index.ts
+│           ├── feedback/index.ts, tutor-chat/index.ts
+│           ├── credits-webhook/index.ts, progress-sync/index.ts
+│           └── content-episode / content-article / content-questions / content-flashcards
 ├── app/
 │   ├── App.tsx                    # 入口：Auth guard → Tab Navigator
 │   ├── .env                       # Supabase credentials
@@ -273,14 +278,16 @@ study-anywhere-voyage-daily-english/
 │       ├── constants/theme.ts     # Design System
 │       ├── lib/supabase.ts        # Supabase client
 │       ├── lib/cache.ts           # AsyncStorage cache-first helpers (offline support)
-│       ├── stores/                # Zustand stores (auth, credits, progress)
-│       ├── data/                  # Sample data (curriculum, episode, flashcards)
-│       ├── navigation/TabNavigator.tsx
+│       ├── stores/                # Zustand stores (auth, credits, progress, tutor, curriculum)
+│       ├── data/                  # content-api + curriculum + sample fallbacks
+│       ├── navigation/TabNavigator.tsx, NavContext.tsx
 │       ├── components/
-│       │   └── ProfileModal.tsx        # 用戶資料 + 登出 Modal（從 ScheduleScreen 觸發）
+│       │   ├── TutorFab.tsx             # Polaris 浮動 AI 英文老師入口
+│       │   ├── TutorChatModal.tsx       # Polaris 多輪對話 UI
+│       │   └── schedule/                # DayMark.tsx, TallyStick.tsx, TallyRecord.tsx
 │       └── screens/
 │           ├── auth/AuthScreen.tsx
-│           └── tabs/ (Schedule, Listen, Speak, Conversation, Review)
+│           └── tabs/ (Schedule, Listen, Speak, Conversation, Review, Account)
 └── content/                       # 課程內容檔
     ├── episodes/
     │   ├── index.ts               # getEpisode, getWeekEpisodes

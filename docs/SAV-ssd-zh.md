@@ -3,9 +3,17 @@
 > **命名更新：** 本文件部分段落保留早期的「Study Anywhere Voyage／SAV」產品稱呼作為歷史脈絡。現行定義為：**Notch Up!** 是本產品，**Daily English** 是產品描述，**Study Anywhere Voyage** 是母品牌；不得再把 Study Anywhere Voyage 當作 App 名稱。最新規則以 docs/brand/product-naming-notch-up.md 為準。
 
 **版本：** 2.0  
-**日期：** 2026 年 3 月  
-**狀態：** Prototype 完成，正式開發架構參考  
+**日期：** 2026 年 3 月（末次校訂 2026-07-05）  
+**狀態：** 正式開發中；§1–§7 架構仍有效，**§8/§10/§11 為 Prototype 時期歷史快照**（見下方校訂）  
 **閱讀對象：** 工程師、技術主管、行動應用開發者
+
+> ⚠️ **2026-07-05 校訂 —— 以下為現況，覆蓋文中舊值：**
+> - **內容規模**：實際為 **365 集 / 365 篇 / 365 題 / 583 字卡 / 53 週**（§8「現況(Prototype)」的 1 集/3 篇/8 題/30 張/41 週、§11 內容缺口表均為舊值，已全數完成）。
+> - **內容來源**：正式資料在 `content/*/`（TypeScript）。§10 從 HTML prototype 提取內容的遷移腳本已完成，屬歷史參考。
+> - **TTS**：已採 **OpenAI tts-1**，17,520 個 MP3 存 **Cloudflare R2**（文中 §5.1「建議 ElevenLabs」已不適用）。
+> - **後端**：上線採 **Supabase Pro（$25/月）+ R2**，非 Free 方案（Free 7 天無活動會 pause）。詳見 [backend-hosting-decision.md](./backend-hosting-decision.md)。
+> - **資料型別**：`settings` 應含 `curriculumStartDate`；`EpisodeLine.speakerName` 涵蓋六階段全部角色，非僅 Mira/Jamie。
+> - **新技術債**：`add_credits`（SECURITY DEFINER）應加入 `p_user_id = auth.uid()` 呼叫者驗證（見資安評估）。
 
 ---
 

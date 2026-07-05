@@ -8,6 +8,9 @@
 
 **Notch Up: Daily English**
 
+> 命名對應：商店 listing 用冒號版 `Notch Up: Daily English`；app 內／法律文件用 `Notch Up!`（驚嘆號）。兩者並存無衝突，命名規則 SSOT 見 brand/product-naming-notch-up.md。
+> ⚠️ TODO(待確認)：商業模式措辭 — 本文寫「one-time purchase」，但另有消耗型 credits IAP（AI 批改用）。需與 financials.md、legal/terms-of-service.html 統一「付費下載 vs 免費下載 + credits」的正確描述。
+
 ---
 
 ## Subtitle（副標題，iOS 限 30 字）
@@ -50,7 +53,7 @@ Review is more than flipping cards. Start with retrieval prompts, recap the week
 Unlike subscription apps, Notch Up is a one-time purchase with no recurring fees. The full 53-week, 365-day curriculum is included. Start any day: your first day becomes Day 1, and the program rolls forward from there for 365 days.
 
 **DESIGNED FOR BUSY LEARNERS**
-Each day's three modules take 10–20 minutes total. There are no streaks to maintain, no daily limits, and no pressure. Just consistent, high-quality practice at your own pace.
+Each day's core practice (Listen, Speak, and Conversation) takes 10–20 minutes total, with Review as a weekly recap. There are no streaks to maintain, no daily limits, and no pressure. Just consistent, high-quality practice at your own pace.
 
 **TOPICS COVERED EACH WEEK**
 Technology · Science · Business & Career · Travel · AI & the Future · Innovation · Society & Culture · Workplace Communication · Cross-Cultural Understanding · Environment · and more

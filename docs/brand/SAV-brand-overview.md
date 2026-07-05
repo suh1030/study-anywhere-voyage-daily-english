@@ -30,7 +30,7 @@ Study Anywhere Voyage（品牌）
 - **定位**：每日英文聽力與口說練習
 - **形式**：Podcast 風格的短集數，搭配跟讀、字卡、AI 口說批改
 - **目標用戶**：想維持英文能力、但沒有大量時間投入的成人學習者
-- **平台**：iOS App
+- **平台**：iOS + Android（App Store / Google Play）
 
 ---
 
@@ -50,8 +50,10 @@ Study Anywhere Voyage（品牌）
 
 ## 命名原則
 
+> 完整命名規則、商店格式、顯示場景、歷史舊稱的 SSOT 見 [product-naming-notch-up.md](./product-naming-notch-up.md)。本節僅摘要精神。
+
 產品名稱應該：
 - 能獨立存在，不強制加 SAV 前綴
 - 簡單直覺，用戶一眼知道在學什麼
-- 在需要強調品牌歸屬時，使用「Notch Up! — A Study Anywhere Voyage product」這類低調背書
+- 需要強調品牌歸屬時，低調背書為母品牌旗下產品（正式格式以 product-naming 為準）
 - 「SAV Daily English」是已停用的舊稱，不得作為對外產品名稱

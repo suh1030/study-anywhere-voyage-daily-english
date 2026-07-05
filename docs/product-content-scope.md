@@ -2,6 +2,8 @@
 
 This document defines which content is part of the launchable learner experience.
 
+> **SSOT note:** 本文件記錄的內容架構決策（例如 line-level vocab 退役、Review 改為三段式）**覆蓋 [SAV-spec-zh.md](./SAV-spec-zh.md) 對應章節，以本文件為準**。
+
 ## Launch Content
 
 The app's launch learning experience is built from:

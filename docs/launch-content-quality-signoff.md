@@ -1,6 +1,8 @@
 # Launch Content Quality Sign-Off
 
-Current as of 2026-04-24.
+Content PASS 狀態截至 2026-04-24；後續內容結構未再異動。
+
+> **相關文件**：App Store 上架操作與上線前待辦見 [pre-launch-checklist.md](./pre-launch-checklist.md)；功能 QA 逐項測試見 [testflight-checklist.md](./testflight-checklist.md)；歷史內容修復計畫見 [_archive/](./_archive/)。
 
 ## Product Scope
 

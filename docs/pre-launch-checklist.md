@@ -10,12 +10,10 @@
 > Current launch content is episodes, articles, questions, and flashcards.
 > Speak articles are seeded, fetched, and counted as launch product content.
 
-> 2026-04-21 補充：
-> 本文件負責一般上線流程與產品檢查。
-> 若是「最後一輪內容修復」的優先序、驗證方式、交付證據與完成標準，
-> 一律以 [final-prelaunch-remediation-master.md](./final-prelaunch-remediation-master.md) 與
-> [final-prelaunch-execution-guide.md](./final-prelaunch-execution-guide.md) 為準。
-> 本文件中較早的內容完成紀錄，不得覆蓋那兩份文件的最新判定。
+> 本文件是「App Store 上架操作 + 上線前檢查」的 SSOT。
+> 內容品質最終狀態見 [launch-content-quality-signoff.md](./launch-content-quality-signoff.md)。
+> 功能 QA 逐項測試見 [testflight-checklist.md](./testflight-checklist.md)。
+> 歷史內容修復計畫（remediation-master / execution-guide）已歸檔於 [_archive/](./_archive/)。
 
 ---
 
@@ -24,11 +22,15 @@
 ### 資料庫
 - [x] 執行 `npm run seed`，將本地已驗證的全年內容同步到 Supabase（已同步 365 episodes / 365 articles / 365 questions / 583 flashcards）
 - [ ] 打開 app，確認 Listen / Speak / Conversation / Review 四個 Tab 都能顯示內容（不是空白或 loading）
+- [ ] **確認 questions 表 hint_zh 欄位無殘留英文**（Conversation 的「中文提示」按鈕內容，來自 DB questions.hint_zh，需逐筆確認）〔原 bug-fixes #16〕
+- [ ] **確認 episodes 的 key_phrases 內容正確**（Listen 最下方 KEY PHRASES 區塊）〔原 bug-fixes #13〕
 
 ### 帳號與登入
 - [ ] Email 登入：註冊 → 收信 → 確認 → 登入，完整流程可用
 - [ ] Apple Sign In：iOS 裝置實測可登入（Supabase provider 需先設定完成）
 - [ ] Google Sign In：iOS 裝置實測可登入
+  - Google Cloud Project：Notch Up（notch-up）；Client ID 已填入 Supabase（2026-04-03）
+  - 若尚未設定 Client Secret：Google Cloud Console → 憑證 → Web OAuth 用戶端，Redirect URI `https://<project-ref>.supabase.co/auth/v1/callback`，填入 Supabase → Auth → Providers → Google〔原 bug-fixes〕
 - [ ] 登出後再登入，資料（點數、進度）正確恢復
 
 ### IAP 與點數流程
@@ -96,11 +98,12 @@
 ### 商業
 - [ ] 建立一個基本的用戶回饋管道（email 或表單）
 - [ ] Google Play 版本評估（$25 USD 一次性費用）
-- [ ] 確認 Supabase 用量，若接近 1 GB 評估遷移音檔至 Cloudflare R2
+- [ ] **完成 Cloudflare R2 音檔遷移**（音檔已達 3.0GB / 17,520 個 MP3，已超過 Supabase Free 1GB；上線採 Supabase Pro + R2，決策見 [backend-hosting-decision.md](./backend-hosting-decision.md)）
 
 ### 監控
 - [ ] 確認 Supabase 有開 Edge Function 錯誤通知
 - [ ] 確認 RevenueCat Dashboard 能看到購買紀錄
+- [ ] **Anthropic 餘額監控**：初期儲值 $5 USD（約 3,472 次 AI feedback），餘額歸零 API 即停、無自動扣款；有用戶後定期補值（建議 $20–50）〔原 bug-fixes〕
 
 ---
 

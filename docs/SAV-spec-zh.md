@@ -3,9 +3,16 @@
 > **命名更新：** 本文件部分段落保留早期的「Study Anywhere Voyage／SAV」產品稱呼作為歷史脈絡。現行定義為：**Notch Up!** 是本產品，**Daily English** 是產品描述，**Study Anywhere Voyage** 是母品牌；不得再把 Study Anywhere Voyage 當作 App 名稱。最新規則以 docs/brand/product-naming-notch-up.md 為準。
 
 **版本：** 2.0  
-**日期：** 2026 年 3 月  
-**狀態：** Prototype 完成，待正式開發  
+**日期：** 2026 年 3 月（末次校訂 2026-07-05）  
+**狀態：** 正式開發中（RN/Expo；365 集/篇/題、583 字卡已完成）  
 **作者：** Savelyn（產品負責人）
+
+> ⚠️ **SSOT / 覆蓋關係（2026-07-05 校訂）**
+> - **內容架構**以 [product-content-scope.md](./product-content-scope.md) 為準：**line-level vocab 已退役**（本文提到「詞彙卡片／vocab 欄位／每集 8–10 詞彙」處已不適用，唯一詞彙來源為每集 keyPhrases）；**Review 已改為三段式**（同週回想 + 每週 recap + 字卡），非單純字卡方格。
+> - **定價／抽成**以 [financials.md](./financials.md) 為準（本文 §9 的比例若與之衝突，以 financials 為準）。
+> - **後端方案／成本**以 [backend-hosting-decision.md](./backend-hosting-decision.md) 為準（Supabase Pro + Cloudflare R2）。
+> - **命名**以 [brand/product-naming-notch-up.md](./brand/product-naming-notch-up.md) 為準。
+> - §11 未來藍圖中「完成 W1–W8 內容」等高優先項**均已完成**。
 
 ---
 
