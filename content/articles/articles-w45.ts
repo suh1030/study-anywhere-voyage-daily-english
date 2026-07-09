@@ -9,8 +9,8 @@ export const W45_ARTICLES: SpeakArticle[] = [
     textZh: `<p>真正的領導者，不一定是職位最高的人。職稱可以賦予一個人做決定的權力，卻不會自動換來信任。當一個人能幫助身邊的人看得更清楚、說得更誠實，也變得更有能力時，領導力才真正展現出來。這種情況可能發生在公司、教室、家庭、社區會議，或一群朋友共同解決問題的時候。</p><p>真正的領導力，其中一個特徵，就是願意承擔責任，卻不刻意表演。有些人會提高音量、使用充滿自信的語氣，或把懷疑視為軟弱，藉此讓自己看起來像個領導者。更好的領導者做的事通常沒有那麼戲劇化，而是把現實說清楚。他們會說明目前知道什麼、還有哪些不確定、困難究竟在哪裡，以及下一步應該先處理什麼。這種清楚能讓一群人安定下來，因為大家不必再猜測，有哪些事情沒有被說出口。</p><p>另一個重要特徵，是能替他人創造成功的條件。領導者不需要在每個場面裡都扮演英雄。好的領導者會留意誰掌握重要資訊、誰需要支持、誰的聲音被忽略，以及誰已經準備好承擔更多責任。他們不會把控制一切誤認為維持品質。有時候，最有力量的領導決定，反而是退後一步，把真正的權限交給適合的人，並替對方守住能夠好好發揮的空間。</p><p>真正的領導者也會謹慎使用權力，因為權力會改變人們說話的方式。團隊成員可能太快表示同意、對風險保持沉默，或只說出他們認為領導者想聽的話。成熟的領導者明白這一點，因此會主動邀請不同意見。他們會問：「我們是不是漏掉了什麼？」或「有沒有人從不同角度看這件事？」他們重視的是做決定以前的誠實，而不只是做完決定之後的服從。</p><p>歷史與組織研究都顯示，人們往往會記得領導者在不確定的情況下如何行動。專業能力當然重要，但當資訊不完整、情緒也十分緊繃時，一個人的品格會變得格外明顯。能夠說出「是我判斷錯了」，或「我們需要聽見那個還沒有被說出口的疑慮」的領導者，會讓團隊明白，真相比形象更重要。這個影響，可能比任何一次決策都維持得更久。</p><p>真正的領導者也會替接班做好準備。他們會記錄重要決策、教別人如何評估取捨，也不會讓自己成為唯一能提供答案的人。如果所有事情都只能依賴一位能力出眾的人，代表這個團隊仍然十分脆弱。當知識、判斷力與責任能被更多人共同承擔時，領導才會真正變得穩固。</p><p>練習口說時，試著描述一位你尊敬的領導者，但不要只用「很棒」或「很強」這類籠統的稱讚。說得更具體一點：他是否能在混亂中保持冷靜？是否願意承認錯誤？是否幫助其他人成長？你可以說：「她讓大家覺得這個問題沒有那麼難面對。」或是：「他運用權力建立信任，而不是製造恐懼。」真正的領導力不是某一種人格特質，而是一種持續承擔責任的方式，能幫助他人看得更清楚，也更有勇氣採取行動。</p>`, 
     vocabulary: [
       { word: 'authority', definition: '權威；權限', example: 'She used her authority to protect the team from unnecessary pressure.' },
-      { word: 'presence', definition: '存在感；在場的影響力', example: 'His calm presence helped the group think clearly during the emergency.' },
-      { word: 'theater', definition: '表演性姿態；做給人看的樣子', example: 'The speech had plenty of theater but very little practical direction.' },
+      { word: 'character', definition: '品格；人格特質', example: 'Character becomes especially visible when information is incomplete.' },
+      { word: 'performance', definition: '表演；做樣子', example: 'Real leaders take responsibility without putting on a performance.' },
       { word: 'conditions', definition: '條件；環境', example: 'Good managers create conditions in which careful work is possible.' },
       { word: 'mature', definition: '成熟的', example: 'A mature leader can hear criticism without punishing the person who raised it.' },
     ],
@@ -26,7 +26,7 @@ export const W45_ARTICLES: SpeakArticle[] = [
       { word: 'manipulation', definition: '操控；操縱', example: 'Influence becomes manipulation when it hides important information.' },
       { word: 'credibility', definition: '可信度', example: 'Her credibility grew because she always checked the facts before speaking.' },
       { word: 'reliability', definition: '可靠性', example: 'Reliability can make a quiet person extremely influential over time.' },
-      { word: 'coalition', definition: '聯盟；合作陣線', example: 'They built a coalition of teachers, parents, and students to improve the library.' },
+      { word: 'hesitation', definition: '猶豫', example: 'Hesitation does not always mean opposition; people may just need a safer first step.' },
     ],
   },
   {
@@ -68,7 +68,7 @@ export const W45_ARTICLES: SpeakArticle[] = [
       { word: 'panic', definition: '恐慌', example: 'A clear process helped the team avoid panic during the outage.' },
       { word: 'assumption', definition: '假設', example: 'Their main assumption was wrong, so the first solution failed.' },
       { word: 'sacrifice', definition: '犧牲', example: 'They refused to sacrifice safety just to meet the deadline.' },
-      { word: 'breakdown', definition: '故障；中斷；崩潰', example: 'The review showed a breakdown in communication between two teams.' },
+      { word: 'reversible', definition: '可逆的；可回頭的', example: 'Under pressure, look for a reversible step before a permanent one.' },
     ],
   },
   {
@@ -95,7 +95,7 @@ export const W45_ARTICLES: SpeakArticle[] = [
       { word: 'initiative', definition: '主動性；主動行動', example: 'Her initiative helped the group organize support before anyone asked.' },
       { word: 'humility', definition: '謙遜', example: 'Humility allowed him to admit that another person had a better idea.' },
       { word: 'informal', definition: '非正式的', example: 'Informal leadership often keeps a community functioning during stress.' },
-      { word: 'translate', definition: '轉譯；解釋不同觀點', example: 'She could translate technical problems into language the whole team understood.' },
+      { word: 'underestimate', definition: '低估', example: 'Small acts of leadership are easy to underestimate.' },
       { word: 'purpose', definition: '目的；宗旨', example: 'The group worked better once everyone remembered the shared purpose.' },
     ],
   },

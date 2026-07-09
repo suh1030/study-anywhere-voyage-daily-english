@@ -68,7 +68,7 @@ export const W28_ARTICLES: SpeakArticle[] = [
       { word: 'visual journaling', definition: '視覺日記（結合文字和圖像進行的創意和情感記錄）', example: 'Visual journaling combined sketches and text to create a richer record of her inner life.' },
       { word: 'meditative', definition: '冥想性的（帶來平靜和深度專注的）', example: 'The meditative quality of drawing slowed her thoughts when writing felt too rushed.' },
       { word: 'collage', definition: '拼貼（將不同材料組合成視覺作品的藝術形式）', example: 'She used collage to combine photographs, handwriting, and fabric into pages she called emotional maps.' },
-      { word: 'representational', definition: '表現性的（試圖如實描繪所見事物的）', example: 'Once she stopped trying to be representational, drawing became enjoyable rather than discouraging.' },
+      { word: 'representational', definition: '具象的；寫實的（如實描繪所見事物的）', example: 'Once she stopped trying to be representational, drawing became enjoyable rather than discouraging.' },
     ],
   },
   {

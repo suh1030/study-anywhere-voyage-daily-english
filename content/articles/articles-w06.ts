@@ -11,7 +11,7 @@ export const W6_ARTICLES: SpeakArticle[] = [
       { word: 'commensality', definition: '共食；一起進食的行為和社會意義', example: 'Research on commensality consistently finds that people who share regular meals report higher wellbeing than those who eat alone.' },
       { word: 'fermented', definition: '發酵的；經過自然分解過程的', example: 'At breakfast, fermented cabbage reminded Hana of home and made the hostel feel warmer.' },
       { word: 'persistent', definition: '持久的；長時間維持不變的', example: 'Early food preferences are surprisingly persistent — the flavors we associate with comfort in childhood often remain meaningful for life.' },
-      { word: 'sustainable', definition: '能長期維持的；能長期維持的', example: 'After quitting strict diets, she built a sustainable lunch routine and stopped skipping meals.' },
+      { word: 'sustainable', definition: '能長期維持的；永續的', example: 'After quitting strict diets, she built a sustainable lunch routine and stopped skipping meals.' },
     ],
   },
   {

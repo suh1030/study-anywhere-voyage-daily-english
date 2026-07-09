@@ -10,7 +10,7 @@ export const W18_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'escalate', definition: '升級；使情況惡化', example: 'Instead of escalating the argument, she took a breath and asked what was really bothering him.' },
       { word: 'defense mode', definition: '防衛模式', example: 'Once he went into defense mode, nothing she said could actually reach him.' },
-      { word: 'bring something up', definition: '提起某件事；把問題提出來', example: 'She waited for a quiet evening to bring up the issue rather than mentioning it during a stressful workday.' },
+      { word: 'bring something up', definition: '提起某件事；把問題提出來', example: 'If you need to bring something up, choose a quiet evening rather than a stressful workday.' },
       { word: 'shared understanding', definition: '共同的理解', example: 'Reaching a shared understanding took longer than either of them expected, but it held.' },
       { word: 'stay curious', definition: '保持好奇心；繼續探問', example: 'He tried to stay curious about her perspective instead of immediately dismissing it.' },
     ],
@@ -39,7 +39,7 @@ export const W18_ARTICLES: SpeakArticle[] = [
       { word: 'separate the issue from the person', definition: '把問題和人分開；對事不對人', example: 'She was careful to separate the issue from the person and focus on the decision, not his character.' },
       { word: 'contempt', definition: '輕蔑；鄙視', example: 'Even when he was right, delivering the feedback with contempt made it impossible to hear.' },
       { word: 'rebuttal', definition: '反駁；反論', example: 'She had a rebuttal ready before he even finished speaking, which meant she had not really listened.' },
-      { word: 'corner someone', definition: '把某人逼到角落；讓人無路可退', example: 'Asking that question in front of everyone cornered him and made the conversation much harder.' },
+      { word: 'corner someone', definition: '把某人逼到角落；讓人無路可退', example: 'If you corner someone in front of everyone, the conversation only becomes harder.' },
       { word: 'earn understanding', definition: '贏得理解；讓對方真正明白你', example: 'His goal was not to win the argument but to earn understanding, which required a very different approach.' },
     ],
   },

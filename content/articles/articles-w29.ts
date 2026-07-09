@@ -53,7 +53,7 @@ export const W29_ARTICLES: SpeakArticle[] = [
       { word: 'parasocial relationship', definition: '準社交關係（與媒體人物的單向情感連結）', example: 'The parasocial relationship with podcast hosts creates a sense of companionship that listeners find sustaining.' },
       { word: 'transient', definition: '短暫的、轉瞬即逝的', example: 'Audio is transient in a way that text is not — you cannot easily return to what you heard.' },
       { word: 'qualification', definition: '限定語（說明條件或例外的補充說明）', example: 'Good scientific communication requires qualifications that conversational podcasts often skip.' },
-      { word: 'democratization', definition: '民主化（使更多人能夠獲得某種資源或機會）', example: 'Podcasts have democratized access to intellectual conversations that once required institutional membership.' },
+      { word: 'democratization', definition: '民主化（使更多人能夠獲得某種資源或機會）', example: 'The democratization of podcasting opened intellectual conversations that once required institutional membership.' },
       { word: 'institutional distance', definition: '機構距離（機構媒體與受眾之間的正式隔閡）', example: 'Broadcast media\'s institutional distance creates authority but limits the intimacy that podcasts provide.' },
     ],
   },
