@@ -54,7 +54,7 @@ export const W23_ARTICLES: SpeakArticle[] = [
       { word: 'alignment', definition: '協調一致（目標或期望的相互配合）', example: 'She sought alignment with her manager before requesting resources for the new project.' },
       { word: 'framing', definition: '框架、呈現方式（表達想法的角度和方式）', example: 'Before asking for budget, the framing helped Tara present the hire as risk reduction.' },
       { word: 'think aloud', definition: '大聲思考（邊說邊思考，展示推理過程）', example: 'The best interviews feel like thinking aloud rather than reciting rehearsed answers.' },
-      { word: 'aspiration', definition: '抱負、渴望（對未來的高遠期望）', example: 'Not every aspiration needs to be shared with colleagues before it is fully formed.' },
+      { word: 'transparent', definition: '透明的；全盤托出的', example: 'Being transparent by default is not always the professional choice.' },
     ],
   },
   {

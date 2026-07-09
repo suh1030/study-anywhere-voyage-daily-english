@@ -25,7 +25,7 @@ export const W35_ARTICLES: SpeakArticle[] = [
       { word: 'attention residue', definition: '注意力殘留；切換任務後，部分注意力仍滯留在前一項工作上的心理現象', example: 'Even after closing the email app, attention residue kept pulling his mind back to the unanswered message.' },
       { word: 'notification fatigue', definition: '通知疲勞；因過多提示與警示而產生麻木或焦慮感的狀態', example: 'Notification fatigue set in after her phone buzzed forty times before noon.' },
       { word: 'deep work', definition: '深度工作；在無干擾的專注狀態下完成有認知難度任務的能力', example: 'She reserved her mornings for deep work, keeping her phone in another room until midday.' },
-      { word: 'context-switching', definition: '任務切換；在不同任務或思維模式之間頻繁轉換，導致整體效能下降', example: 'Constant context-switching between projects left him feeling busy but unproductive at the end of the day.' },
+      { word: 'finite', definition: '有限的', example: 'Attention is finite, so deciding how to allocate it is a form of self-governance.' },
       { word: 'cognitive load', definition: '認知負荷；大腦在同時處理多項資訊時所承受的心智負擔', example: 'Reading five articles simultaneously increases cognitive load without improving understanding of any single one.' },
     ],
   },
@@ -40,7 +40,7 @@ export const W35_ARTICLES: SpeakArticle[] = [
       { word: 'convenience paradox', definition: '便利弔詭；最大化便利不一定帶來最大滿足感的現象', example: 'The convenience paradox explains why homemade gifts often feel more meaningful than expensive purchased ones.' },
       { word: 'subscription creep', definition: '訂閱蔓延；不知不覺累積多個小額月費訂閱，導致總支出超乎預期', example: 'A quick audit of her accounts revealed subscription creep — she was paying for four streaming services she rarely used.' },
       { word: 'data trail', definition: '數位足跡；使用者在網路和app上留下的可追蹤行為記錄', example: 'Every app you install adds to the data trail that advertisers use to build a profile of your habits.' },
-      { word: 'algorithmic curation', definition: '演算法策展；由程式自動篩選並推送符合用戶喜好之內容的機制', example: 'Algorithmic curation made his news feed feel personalized but gradually narrowed the range of topics he encountered.' },
+      { word: 'effortful', definition: '費力的；需要花力氣的', example: 'People who make effortful choices often report higher satisfaction afterward.' },
     ],
   },
   {
@@ -54,7 +54,7 @@ export const W35_ARTICLES: SpeakArticle[] = [
       { word: 'automation bias', definition: '自動化偏差；因系統做出建議而過度信任並接受，不加質疑的傾向', example: 'Her automation bias meant she never questioned the navigation app, even when the suggested route was clearly inefficient.' },
       { word: 'smart ecosystem', definition: '智慧生態系統；多個相互連結的智慧裝置共同運作所形成的整合環境', example: 'Once you invest heavily in one brand\'s smart ecosystem, switching to a competitor becomes increasingly inconvenient.' },
       { word: 'behavioral nudge', definition: '行為推力；透過環境設計或預設選項，引導人們做出特定行為的機制', example: 'The app used a behavioral nudge — a daily streak counter — to encourage use without offering explicit rewards.' },
-      { word: 'voice interface', definition: '語音介面；讓使用者以自然語言口語指令操作裝置或系統的技術', example: 'She found the voice interface saved time when cooking but felt uncomfortable leaving a microphone active in her bedroom.' },
+      { word: 'configure', definition: '設定；配置', example: 'A smart home you configure deliberately can genuinely support your habits.' },
     ],
   },
   {
@@ -96,7 +96,7 @@ export const W35_ARTICLES: SpeakArticle[] = [
       { word: 'device hygiene', definition: '裝置衛生習慣；一系列小型的刻意選擇，用來減少被裝置無意識地占用注意力', example: 'Good device hygiene includes charging your phone outside the bedroom so it is not the last thing you see at night.' },
       { word: 'digital boundaries', definition: '數位界限；為使用科技所設定的明確個人規範，保護注意力與人際時間不被侵佔', example: 'Setting digital boundaries at dinner helped the whole family be genuinely present for the first time in months.' },
       { word: 'screen-free zone', definition: '無螢幕區域；刻意規定不使用任何螢幕裝置的特定地點或時段', example: 'Making the bedroom a screen-free zone was the single change that most improved her sleep quality.' },
-      { word: 'parasocial drain', definition: '準社交關係耗損；持續追蹤不認識的網路人物所產生的情緒消耗，卻未能獲得真實人際關係的回報', example: 'He noticed that parasocial drain from following too many influencers left him feeling oddly lonely despite being constantly online.' },
+      { word: 'exploit', definition: '利用（弱點）；剝削', example: 'Apps exploit the dopamine response with unpredictable rewards.' },
     ],
   },
 ]

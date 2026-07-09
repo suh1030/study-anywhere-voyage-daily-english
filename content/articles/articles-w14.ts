@@ -9,10 +9,10 @@ export const W14_ARTICLES: SpeakArticle[] = [
     textZh: `<p>成年後交朋友，確實比小時候困難得多，而這份困難並不代表你哪裡做錯了。孩子在學校裡，長年與同一群同學反覆接觸，幾乎每天見面。這正好符合社會科學認為最有利於建立友誼的條件：彼此距離近、互動頻繁，而且身處一個低壓、自然互動的環境。成年之後，這些條件往往同時消失了，但社會卻很少告訴我們該如何重新建立它們。</p><p>成年人的交友障礙來自許多面向。時間變少了，而且被工作、家庭和各種責任切割得更加零碎。社交風險也變高了，因為成年人往往覺得自己有更多東西可能受影響，包括名聲、職場關係，以及情感投入。此外，成年人的社交文化通常較為正式，也較少出現那種沒有目的、只是單純一起消磨時間的相處方式，而偏偏這種相處最容易讓關係變深。再加上都市生活和網路世界讓人能接觸到大量新朋友，反而形成一種弔詭現象：選擇越多，每一段潛在關係似乎都顯得沒那麼重要。</p><p>研究顯示，成年後建立友誼最可靠的因素，依然是距離上的接近，以及反覆發生的非刻意互動。這代表生活結構往往比個人的努力更重要。那些經常遇到同一群鄰居、與同事實體共事，或固定參與運動社團、宗教團體、興趣課程的人，建立新友誼的機率明顯高於那些社交活動主要依賴事先約好的單獨聚會的人。有時候，創造合適的環境，比單純更努力交朋友來得有效。</p><p>而深厚友誼所需要的脆弱感，恰恰是許多成年人最擅長避免的東西。孩子往往願意自然地分享自己，因此友誼能快速形成與深化。成年人則累積了更多受傷的經驗、更成熟的防衛機制，以及更多想保護的事物。於是，許多成年人的友誼長期停留在舒服卻不夠深入的狀態——比普通熟人親近，卻又不到真正親密的程度。原因往往不是缺乏好感，而是雙方都不願意率先跨出更靠近的一步。</p><p>成年後主動建立友誼，需要一種特別的勇氣：主動約下一次見面、主動傳訊息，或直接告訴對方你很享受和他相處，希望未來能有更多交流。這些舉動在成年人的世界裡，往往比想像中更令人不安，因為過度熱情有時會讓人擔心被誤解。然而，那些在三十歲、四十歲甚至更晚的人生階段仍能建立深厚友誼的人，往往都有一個共同點：他們願意承擔這份風險，而不是等待友誼自己發生。</p>`,
     vocabulary: [
       { word: 'proximity', definition: '接近；鄰近', example: 'Because of apartment proximity, the neighbors kept meeting downstairs and eventually shared dinners.' },
-      { word: 'permissive', definition: '許可的；寬容的', example: 'Adult culture is less permissive of the purposeless hanging around that deepens bonds.' },
-      { word: 'reciprocity', definition: '互惠；相互回應', example: 'Disclosure that is not met with reciprocity discourages future vulnerability.' },
-      { word: 'presumptuous', definition: '擅自行事的；過於自以為是的', example: 'Adults fear being seen as presumptuous when they initiate friendship too eagerly.' },
-      { word: 'conducive', definition: '有助於的；有利於的', example: 'Repeated unplanned contact is highly conducive to friendship formation.' },
+      { word: 'abundance', definition: '充足；過剩', example: 'An abundance of possible connections can make each one feel less necessary.' },
+      { word: 'predictor', definition: '預測指標', example: 'Repeated unplanned interaction is one of the strongest predictors of close friendship.' },
+      { word: 'aimless', definition: '漫無目的的', example: 'Adult life leaves little room for the aimless time together that deepens friendship.' },
+      { word: 'favorable', definition: '有利的', example: 'School gives children the conditions most favorable for making friends.' },
     ],
   },
   {
@@ -24,9 +24,9 @@ export const W14_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'deplete', definition: '耗盡；消耗', example: 'Large social gatherings can deplete an introvert\'s energy quickly.' },
       { word: 'solitude', definition: '獨處；孤獨', example: 'Introverts need periods of solitude to restore their social energy.' },
-      { word: 'code-switching', definition: '語碼轉換；在不同語言、文化或說話風格間切換', example: 'Social events that require code-switching across cultural registers can be exhausting.' },
+      { word: 'irritable', definition: '易怒的；煩躁的', example: 'Social fatigue can make even patient people irritable.' },
       { word: 'hyper-vigilant', definition: '過度警覺的', example: 'Some socially anxious people become hyper-vigilant, which adds to their fatigue.' },
-      { word: 'overextended', definition: '負荷過重的；承擔太多的', example: 'People who are chronically overextended are rarely as present as they could be.' },
+      { word: 'overcommitted', definition: '承諾過多的；行程排滿的', example: 'Chronically overcommitted people are rarely fully present anywhere.' },
     ],
   },
   {
@@ -37,10 +37,10 @@ export const W14_ARTICLES: SpeakArticle[] = [
     textZh: `<p>閒聊在重視深度、內容與真誠交流的人眼中，往往名聲不太好。這種想法不難理解：談論天氣、週末過得如何，或最近在忙什麼，和討論想法、情感或人生經驗相比，確實容易顯得表面而空泛。但如果因此完全否定閒聊，就誤解了它真正的作用。閒聊並不是失敗的深度對話，而是一種功能不同的交流形式：建立安全感、傳達善意，並為未來更深入的對話鋪路。</p><p>演化人類學家認為，閒聊的社會功能類似於靈長類動物之間的理毛行為。它能建立彼此的認可感、降低威脅感，並培養合作所需的基本信任。從這個角度來看，抱怨塞車或詢問對方週末過得如何，並非毫無意義，而是在傳達：「我是友善的、沒有威脅性的，也願意和你互動。」在更深入的交流發生之前，這樣的基礎往往不可或缺。</p><p>閒聊的技巧不在於逃避它，而在於自然地穿越它。你需要參與其中，完成它的社交功能，同時保持好奇心，留意那些可能通往更真實交流的線索。大多數閒聊裡都藏著至少一個值得延伸的話題：某個興趣的提及、一段生活經歷的小細節，或一句看似隨意卻透露真實想法的工作抱怨。把閒聊當成必須忍耐過去的人，往往會錯過這些機會；願意保持好奇的人，則經常能找到更深入的連結。</p><p>跨文化情境下的閒聊尤其有趣，因為不同文化對於「適合作為開場的話題」有很大的差異。在台灣，剛認識時詢問年齡、婚姻狀況或家庭背景，通常不會被認為特別失禮；但在許多西方國家，這類問題可能被視為過度私人。在某些文化裡，輕微抱怨或自嘲是建立親近感的常見方式；在另一些文化裡，展現熱情與正向態度則更加普遍。理解這些差異，有助於避免誤解，也能讓人在跨文化交流時更自然地調整自己的溝通方式。</p><p>對大多數人來說，提升閒聊能力都是值得的。多數人其實遠比他們的開場白有趣，多數對話也比一開始看起來更有發展空間。能夠帶著輕鬆、溫暖和真誠好奇心度過對話開場的人，往往能讓他人更自在地展現真實的自己。而這種能力，經常能讓原本只是一次禮貌性的寒暄，發展成一段真正有意義的關係。</p>`,
     vocabulary: [
       { word: 'anthropologist', definition: '人類學家', example: 'At the market, the anthropologist recorded small talk and noticed how strangers built trust.' },
-      { word: 'analogous', definition: '類似的；相似的', example: 'Small talk serves a function analogous to physical grooming in other primates.' },
-      { word: 'formulaic', definition: '套路式的；公式化的', example: 'Moving past formulaic exchanges requires genuine curiosity about the other person.' },
+      { word: 'approachable', definition: '平易近人的', example: 'Small talk signals that you are approachable and willing to engage.' },
+      { word: 'rapport', definition: '融洽關係', example: 'In some cultures, light complaints are a normal way to build rapport.' },
       { word: 'self-deprecation', definition: '自嘲；貶低自己', example: 'During tea, self-deprecation helped Oliver soften his mistake and keep the room relaxed.' },
-      { word: 'normative', definition: '規範性的；社會標準的', example: 'Positive framing is more normative in some cultures than in others.' },
+      { word: 'offhand', definition: '隨口的；不經意的', example: 'An offhand remark about work often hints at a deeper story.' },
     ],
   },
   {
@@ -67,7 +67,7 @@ export const W14_ARTICLES: SpeakArticle[] = [
       { word: 'parasocial', definition: '擬社會的（單向的、非互惠的關係）', example: 'After the livestream ended, parasocial attachment left Mia lonely despite hours of interaction.' },
       { word: 'curated', definition: '經過篩選、刻意呈現的', example: 'Social media profiles are curated highlights, not realistic pictures of someone\'s life.' },
       { word: 'asymmetric', definition: '不對稱的', example: 'Following an influencer is asymmetric — they do not know you exist.' },
-      { word: 'displace', definition: '取代；排擠', example: 'Digital socializing should supplement real connection, not displace it.' },
+      { word: 'benchmark', definition: '比較基準', example: 'Curated highlights create an unrealistic benchmark for ordinary life.' },
       { word: 'reciprocal', definition: '相互的；互惠的', example: 'Deep social connection requires reciprocal, emotionally present engagement.' },
     ],
   },
@@ -80,7 +80,7 @@ export const W14_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'self-perpetuating', definition: '會自我延續、越陷越深的', example: 'Loneliness is self-perpetuating because the stigma prevents people from seeking help.' },
       { word: 'cortisol', definition: '皮質醇（壓力荷爾蒙）', example: 'Chronic loneliness elevates cortisol levels, which affects overall health.' },
-      { word: 'hypervigilance', definition: '過度警覺', example: 'Lonely people often develop hypervigilance for signs of social rejection.' },
+      { word: 'remedy', definition: '解方；對策', example: 'The most effective remedy for loneliness is connection, yet stigma blocks it.' },
       { word: 'mortality', definition: '死亡率；死亡', example: 'Loneliness is associated with higher mortality rates, comparable to smoking.' },
       { word: 'subjective', definition: '主觀的', example: 'Loneliness is a subjective experience — you can feel alone in a crowd.' },
     ],
@@ -92,9 +92,9 @@ export const W14_ARTICLES: SpeakArticle[] = [
     text: `<p>Community is not something that happens automatically because people live near one another. Two people can spend years in the same building, on the same street, or in the same neighborhood and remain strangers in all the ways that matter. Meanwhile, someone who moved in six months ago, introduced themselves, volunteered with the neighborhood association, and learned people's names may be far more connected to the community than residents who have lived there for decades. Community is something people build together; proximity alone is not enough.</p><p>The decline of neighborhood community in urban and suburban areas has been documented across many countries. Several factors contribute to this trend: longer commutes that leave less time for local relationships, housing designs that reduce casual interaction between neighbors, cultural emphasis on private family life over shared public spaces, and digital platforms that allow people to meet some of their social needs without geographic connection. What is often lost is the unique value of knowing the people around you — the neighbor who can accept a package on your behalf, the person who notices when something seems wrong, or the informal support network that exists without ever being formally organized.</p><p>Building community intentionally often begins with small actions. Introducing yourself to a neighbor you have passed for months. Attending a local meeting about an issue affecting the area. Organizing a simple shared activity — a building barbecue, a street cleanup, or a community noticeboard. These efforts may seem minor, and the initial results are often modest as well. Community-building requires investing before any obvious return appears, and being willing to move through the awkward stage where relationships are forming but have not yet developed into meaningful connections.</p><p>Third places — public or semi-public spaces that are neither home nor work — play an important role in community formation. Coffee shops where regular customers are greeted by name, parks where the same dog owners meet each morning, libraries, community centers, and local markets all provide opportunities for the repeated, natural interactions that help communities grow. Neighborhoods that invest in these spaces tend to develop stronger social cohesion, which is why urban planners increasingly pay attention to how public-space design influences community life.</p><p>The benefits of building community where you live are not always immediately visible, but they accumulate over time in meaningful ways. Knowing your neighbors can increase both your sense of safety and your feeling of belonging. Having a local support network provides practical help during difficult periods. Living in a place that feels like a community rather than just an address makes daily life more enjoyable. And working together to improve shared spaces — even something as simple as a cleaner hallway or a better-maintained communal garden — creates a sense of collective ownership and agency that private life alone cannot provide.</p>`,
     textZh: `<p>社群不是因為人們住得近就會自動形成的。即使住在同一棟大樓、同一條街道或同一個社區多年，彼此也可能在所有真正重要的層面上仍是陌生人。相反地，一個六個月前才搬進來、主動自我介紹、參與社區事務、記住鄰居名字的人，往往比住了幾十年的居民更真正融入社群。社群是人們共同建立出來的，而不是單靠地理距離自然形成的。</p><p>在許多國家，都市與郊區的鄰里社群逐漸弱化已是被廣泛觀察到的社會現象。造成這個趨勢的原因包括：通勤時間變長，使人們較少投入在地人際關係；住宅設計減少了鄰居之間的偶遇與交流；文化上更重視核心家庭與私人生活，而非共享公共空間；以及數位平台讓許多人不必依靠地理位置，就能滿足部分社交需求。隨之流失的，是認識鄰居所帶來的獨特價值：有人能代收包裹、有人會察覺異常情況，以及那種雖未正式組織卻真實存在的互助網絡。</p><p>刻意建立社群，往往是從很小的行動開始。向一位已經擦肩而過許多次的鄰居打聲招呼、參加一場與社區議題有關的會議，或籌辦一個簡單的共同活動——例如大樓烤肉、街區清掃或社區公告板。這些事情看似微不足道，初期成果通常也不明顯。然而，建立社群需要在人際回報尚未出現之前就願意投入，也需要願意度過那段關係正在形成、卻尚未建立深厚連結的尷尬時期。</p><p>所謂的「第三場所」（Third Place）——既不是家，也不是工作的公共或半公共空間——是社群形成的重要基礎。熟客彼此認識的咖啡館、每天早晨固定碰面的遛狗公園、圖書館、社區中心以及在地市場，都提供了建立社群所需的重複且自然的互動機會。投入這些空間建設的社區，通常擁有更強的社會凝聚力，因此近年來城市規劃也越來越重視公共空間設計對社群發展的影響。</p><p>在居住地建立社群的回報，未必能立即看見，但往往會隨時間累積出深遠影響。認識鄰居能提升安全感與歸屬感；擁有在地的人際網絡，能在困難時提供實際協助；居住在一個有社群感而非只是地址的地方，會讓日常生活變得更加愉快。而共同維護與改善生活環境——即使只是讓公共走廊更整潔，或讓社區花園被照顧得更好——都能帶來一種私人生活難以提供的集體參與感與共同成就感。</p>`,
     vocabulary: [
-      { word: 'embedded', definition: '融入其中的；扎根的', example: 'After a year of showing up to local events, she felt truly embedded in the neighborhood.' },
+      { word: 'third place', definition: '第三場所（家與工作以外的社交空間）', example: 'Coffee shops and parks are third places where community quietly forms.' },
       { word: 'cohesion', definition: '凝聚力；結合力', example: 'Third places contribute to the social cohesion of a neighborhood.' },
-      { word: 'accidental', definition: '意外的；偶然的', example: 'Building design affects how much accidental social contact occurs between neighbors.' },
+      { word: 'ownership', definition: '所有權；當責感', example: 'Improving shared spaces together creates a sense of collective ownership.' },
       { word: 'collective agency', definition: '集體主動性；共同行動力', example: 'Building something together produces a sense of collective agency.' },
       { word: 'noticeboard', definition: '布告欄；公告板', example: 'A community noticeboard is a simple but effective tool for neighborhood connection.' },
     ],

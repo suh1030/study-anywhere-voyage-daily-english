@@ -52,7 +52,7 @@ export const W38_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'circular economy', definition: '循環經濟（旨在消除廢物、使材料持續循環使用的經濟模式）', example: 'A circular economy designs products for disassembly and reuse, replacing the linear take-make-dispose model.' },
       { word: 'externalize', definition: '外部化（將成本或影響轉移給社會或環境，而非由生產者或消費者承擔）', example: 'Cheap single-use packaging works because environmental disposal costs are externalized rather than built into the price.' },
-      { word: 'obsolescence', definition: '淘汰、過時（使產品在技術或設計上不再有用或有競爭力）', example: 'Planned obsolescence in electronics — designing products to fail or become incompatible — accelerates the waste problem.' },
+      { word: 'obsolete', definition: '過時的；被淘汰的', example: 'Many devices are engineered to become obsolete within a few years.' },
       { word: 'disassembly', definition: '拆解（將產品分解為可回收或可重用的組件）', example: 'Products designed for disassembly allow materials to be separated and recovered rather than dumped as mixed waste.' },
       { word: 'palladium', definition: '鈀（一種稀有貴金屬，廣泛用於電子設備，可從電子廢物中回收）', example: 'Old smartphones contain recoverable palladium and gold — materials more valuable than what most people assume.' },
     ],

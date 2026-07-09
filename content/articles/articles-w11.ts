@@ -23,9 +23,9 @@ export const W11_ARTICLES: SpeakArticle[] = [
     textZh: `<p>孩子交朋友的速度快得驚人。一個下午在遊樂場玩耍、一起上一堂課、搭一趟公車——突然之間，友誼就出現了。成年人看著這一切，隱約記得自己以前好像也曾經這麼容易，在某件事改變之前。改變的是那種結構。孩子們被放在與同一群人長時間、反覆接觸的環境裡，而友誼往往會在那些相處的空隙之間，自然而然地長出來。離開學校之後，大多數人失去了這種結構。少了它，認識新朋友就變成一件需要刻意經營的事，而且對許多人來說，還帶著一點尷尬和難為情。</p><p>成年人交朋友之所以困難，其中一個原因是感覺風險變高了。小時候，被拒絕固然難受，但很快就能恢復。長大之後，當你向某個人表達「想再多相處一點」、「希望從認識的人變成朋友」時，需要展現一種違背大多數成年人習慣的社交脆弱。那樣的邀請很容易讓人覺得太積極、太需要對方，或是容易被誤解。因此，許多原本有機會發展的友誼，最後都停在有好感卻沒有跨出那一步的地方。</p><p>關於成年人友誼的研究指出，有三個條件幾乎不可或缺：接近性、重複且非刻意安排的互動，以及一個能讓人放下戒心的環境。接近性帶來機會，重複互動累積熟悉感，而安全感則讓誠實交流與自我揭露得以發生，進一步把友誼和普通同事關係或泛泛之交區分開來。這三件事都不需要多麼戲劇化的努力，但都需要持續出現在同樣的地方，讓那些偶然的互動慢慢累積。</p><p>這也是為什麼「去參加點什麼活動吧」其實是個不錯的建議，雖然聽起來很老套。一門課、一個跑團、一個志工活動、一個讀書會——任何讓同一群人反覆聚在一起做同一件事的地方都可以。共同活動提供了自然的話題，而熟悉感則在底下慢慢形成。你不需要帶著「我要交朋友」的目標去參加，你只需要願意好好待在那裡，真誠投入，並且不要在活動一結束就立刻離開。很多友誼，往往都是在正式活動結束後的那幾分鐘開始的。</p><p>從認識的人變成朋友，還需要最後一件比較難刻意安排的事：在某個時刻，願意比場合要求的再真實一點點。可能是一個小小的自我揭露、一個真誠的問題，或是一句坦白承認自己最近過得不太好的話。它不需要多麼戲劇化，只要比平常的客套和閒聊稍微深入一點就夠了。大多數人其實都在等待有人先跨出這一步，所以當有人願意這麼做時，回應通常也來得很快。成年後交朋友確實比以前困難，但本質上仍然和從前一樣：兩個人一點一點地決定，讓彼此走進自己的生活裡。</p>`,
     vocabulary: [
       { word: 'proximity', definition: '接近性；物理上的靠近', example: 'Because of their proximity at the coffee shop, they learned each other\'s names by March.' },
-      { word: 'unguarded', definition: '沒有設防的；放下防備的', example: 'It was one of the few friendships where she felt truly unguarded — she never worried about being judged.' },
+      { word: 'venture', definition: '冒險嘗試；大膽跨出', example: 'People feel relieved when someone else ventures beyond small talk first.' },
       { word: 'disclosure', definition: '自我揭露；分享私人的想法或感受', example: 'A small disclosure — admitting she had been struggling — was the moment their friendship shifted from polite to real.' },
-      { word: 'reciprocation', definition: '回應；對等地給予', example: 'She was nervous to share something personal, but the reciprocation was immediate and warm.' },
+      { word: 'misinterpret', definition: '誤解；曲解', example: 'An invitation to spend time together can feel too easy to misinterpret.' },
       { word: 'in increments', definition: '以漸進的方式；一點一點地', example: 'Trust builds in increments — through small moments of honesty, not through a single dramatic conversation.' },
     ],
   },

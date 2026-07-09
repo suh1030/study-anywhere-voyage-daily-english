@@ -11,7 +11,7 @@ export const W7_ARTICLES: SpeakArticle[] = [
       { word: 'downpour', definition: '傾盆大雨', example: 'We got caught in a sudden downpour on the way home.' },
       { word: 'formation', definition: '形態；隊形', example: 'The cloud formations suggested a storm was approaching.' },
       { word: 'meteorologist', definition: '氣象學家', example: 'On Thursday night, the meteorologist warned residents, so Mrs. Chen taped the balcony doors.' },
-      { word: 'humidity', definition: '濕度；潮濕', example: 'The high humidity made the summer heat feel unbearable.' },
+      { word: 'forecast', definition: '預報；預測', example: 'A forecast that promises clear skies can still deliver a cloudy afternoon.' },
       { word: 'relatable', definition: '引起共鳴的；令人感同身受的', example: 'Her story about missing the bus was instantly relatable.' },
     ],
   },

@@ -23,7 +23,7 @@ export const W8_ARTICLES: SpeakArticle[] = [
     textZh: `<p>預算管理的名聲不太好。對許多人來說，它聽起來像是剝奪——一套嚴格限制享樂、需要不斷監控每一筆小支出的規則。這種誤解，正是大多數嘗試做預算的人在幾週內就放棄的主要原因。一個像懲罰一樣的預算不會長久；一個作為計畫運作的預算——清楚知道自己真正想要什麼並為此預留空間——則成功的機率大得多。</p><p>最廣泛推薦的預算框架是 50/30/20 法則：稅後收入大約五成用於「需要」，三成用於「想要」，兩成用於儲蓄和還債。確切的比例不如結構重要——重點是在錢被臨時花掉之前，就有意識地分配到不同類別。許多人發現，單純地為錢去哪裡命名，就能減少眼看銀行餘額逐漸下降時的那種匱乏感。</p><p>存錢在心理層面的困難，超出了單純的意志力問題。行為經濟學家把偏好即時獎勵、不願等待未來回報的傾向，稱為「現在偏誤」。未來是抽象的，今天的購買是具體的。了解這一點不能消除誘惑，但指向一個有用的策略：讓儲蓄自動化。薪水一進帳就自動轉到儲蓄帳戶的錢，就不會有機會被花在別的地方。眼不見，手不伸。</p><p>緊急備用金是最一致被建議的財務基礎之一，也是最一致被跳過的。標準建議是在一個可快速動用的帳戶裡，維持三到六個月的生活費。沒有這個緩衝，一次大額的汽車維修或醫療費用，就可能引發一連串需要數年才能清償的債務。大多數人知道這一點，卻仍然沒有緊急備用金，通常是因為要建立它，就必須不花那些感覺現在就能用的錢。</p><p>最能長久維持的預算，是建立在價值觀而非規則上的。如果旅行對某人真的很重要，那麼慷慨地為旅行預留空間、在其他方面嚴格控制的預算，會比試圖平均限制所有類別的預算更容易維持。目標不是抽象地把支出降到最低，而是讓支出帶來最高的生活滿意度。這種思維轉換，把預算管理從限制變成了設計：設計一個能夠支持你真正在乎之事的財務生活。</p>`,
     vocabulary: [
       { word: 'deprivation', definition: '剝奪；匱乏', example: 'Good budgeting is not about deprivation but about intentional spending.' },
-      { word: 'allocation', definition: '分配；撥款', example: 'After reviewing receipts, their allocation shifted toward rent savings and away from delivery meals.' },
+      { word: 'allocate', definition: '分配', example: 'A sustainable budget allocates generously to what you truly value.' },
       { word: 'present bias', definition: '現在偏誤（偏好即時獎勵）', example: 'At the checkout page, present bias won and Marcus postponed his retirement transfer again.' },
       { word: 'liquid', definition: '流動的；可快速變現的', example: 'Keep your emergency fund in a liquid account so you can access it quickly.' },
       { word: 'cascade', definition: '連鎖反應；瀑布式影響', example: 'One unexpected expense triggered a cascade of financial problems.' },

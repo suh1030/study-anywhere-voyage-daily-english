@@ -24,7 +24,7 @@ export const W3_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'active commuting', definition: '主動通勤（步行或騎車等需要體力的方式）', example: 'After switching to active commuting, she found she needed less coffee in the mornings and slept better at night.' },
       { word: 'ordeal', definition: '折磨；艱難的考驗', example: 'The rainy season turned his cycling commute into a daily ordeal, and he finally bought a proper waterproof jacket.' },
-      { word: 'granular', definition: '細粒度的；細緻入微的', example: 'Walking the same route every day gave her a granular knowledge of the neighborhood that no map could provide.' },
+      { word: 'frantic', definition: '慌亂的；手忙腳亂的', example: 'People who walk to work tend to arrive less frantic.' },
       { word: 'optimization', definition: '最佳化；追求效率最大化', example: 'He applied optimization to every part of his morning, but the twenty-minute walk stayed off-schedule and he was glad of it.' },
       { word: 'under your own power', definition: '靠自己的力量（不借助任何交通工具）', example: 'Getting to the summit under your own power feels entirely different from taking the cable car.' },
     ],

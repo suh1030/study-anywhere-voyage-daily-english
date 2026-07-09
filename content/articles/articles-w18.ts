@@ -67,7 +67,7 @@ export const W18_ARTICLES: SpeakArticle[] = [
       { word: 'set a boundary', definition: '設立界限；劃清底線', example: 'It took her a long time to learn how to set a boundary without apologizing for it immediately afterward.' },
       { word: 'conflate', definition: '混淆；把兩件事當成一件', example: 'He often conflated honesty with bluntness, which made his feedback harder to receive than it needed to be.' },
       { word: 'caveat', definition: '附帶條件；但書', example: 'Every time she asked for something, she added so many caveats that the request disappeared into them.' },
-      { word: 'withhold', definition: '扣留；不說出；隱瞞', example: 'He chose to withhold his real opinion, and it slowly built into a resentment he could not explain.' },
+      { word: 'negotiable', definition: '可協商的；有商量餘地的', example: 'Long justifications signal that the boundary is negotiable.' },
       { word: 'structural', definition: '結構性的；內建於基礎中的', example: 'The trust between them was structural — built over years of small honest moments.' },
     ],
   },

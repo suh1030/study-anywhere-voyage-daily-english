@@ -53,7 +53,7 @@ export const W19_ARTICLES: SpeakArticle[] = [
       { word: 'sunk cost', definition: '沉沒成本', example: 'After ten unhappy years, the sunk cost fallacy kept Victor from applying elsewhere.' },
       { word: 'credibility', definition: '可信度；信譽', example: 'Professional credibility built over years transfers usefully to many new directions.' },
       { word: 'front-loaded', definition: '前置的；集中於初期的', example: 'The difficulty of career transitions is usually front-loaded in the early phase.' },
-      { word: 'pivot', definition: '轉向；轉型', example: 'A well-planned career pivot requires honest financial and relational preparation.' },
+      { word: 'fallacy', definition: '謬誤', example: 'The sunk cost fallacy keeps people on paths that no longer fit them.' },
       { word: 'accumulated', definition: '積累的', example: 'When she moved into design, accumulated research skills helped her interview users confidently.' },
     ],
   },

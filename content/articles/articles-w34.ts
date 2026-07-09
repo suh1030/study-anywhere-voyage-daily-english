@@ -94,7 +94,7 @@ export const W34_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'estrangement', definition: '疏離感；與某人或某事物之間的情感距離', example: 'Years of dieting created a deep estrangement from her body that took a long time to heal.' },
       { word: 'curiosity', definition: '好奇心；對探索和理解事物的開放態度', example: 'Approaching his chronic pain with curiosity rather than frustration helped him understand what his body actually needed.' },
-      { word: 'override', definition: '壓制；忽視某個訊號以繼續做某件事', example: 'She had spent so many years learning to override hunger that she could no longer tell when she was full.' },
+      { word: 'adversary', definition: '對手；敵對者', example: 'Many people live in their bodies while treating them as an adversary.' },
       { word: 'optimization', definition: '最佳化；致力於讓某個系統盡可能高效運作', example: 'His approach to health shifted from optimization to care when he realized the former was making him miserable.' },
       { word: 'orientation', definition: '取向；對某件事情的基本態度或方向', example: 'Changing her orientation from correction to curiosity was the most useful shift she made in her relationship with her body.' },
     ],
