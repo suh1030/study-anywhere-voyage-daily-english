@@ -16,6 +16,7 @@ import { buildReviewPractice } from '../../data/review-practice'
 import { fetchFlashcards, fetchQuestion, type FlashcardRow, type QuestionRow } from '../../data/content-api'
 import { useCurriculumStore } from '../../stores/curriculumStore'
 import { useProgressStore } from '../../stores/progressStore'
+import { useTutorStore } from '../../stores/tutorStore'
 
 const { width } = Dimensions.get('window')
 const CARD_MARGIN = 8
@@ -92,6 +93,7 @@ function FlashcardItem({
 export default function ReviewScreen() {
   const { schedule, loading: scheduleLoading } = useCurriculumStore()
   const { masteredCards, toggleCard } = useProgressStore()
+  const openTutorWithContext = useTutorStore((state) => state.openWithContext)
   const [cards, setCards] = useState<FlashcardRow[]>([])
   const [questions, setQuestions] = useState<QuestionRow[]>([])
   const [loading, setLoading] = useState(true)
@@ -187,6 +189,24 @@ export default function ReviewScreen() {
     { key: 'mastered', label: 'MASTERED' },
   ]
 
+  const handleAskPolaris = () => {
+    const practiceCards = reviewPractice.challengeCards.length > 0
+      ? reviewPractice.challengeCards
+      : filteredCards.slice(0, 6)
+    openTutorWithContext({
+      screen: 'Review',
+      title: 'Weekly Review',
+      topic: todayEntry?.theme,
+      item: practiceCards.map((card) => `${card.english}: ${card.chinese}`).join('；'),
+      question: recapPrompt?.question ?? reviewPractice.recallPrompts[0]?.question,
+      support: [
+        recapPrompt?.hintZh ?? '',
+        recapPrompt?.structureHint ?? '',
+        reviewPractice.recallPrompts.slice(0, 3).map((prompt) => prompt.question).join('｜'),
+      ].filter(Boolean),
+    })
+  }
+
   const renderCard = useCallback(
     ({ item }: { item: FlashcardRow }) => (
       <FlashcardItem
@@ -220,6 +240,9 @@ export default function ReviewScreen() {
         <Text style={styles.headerStat}>
           {stats.mastered}/{stats.total} mastered ({stats.pct}%)
         </Text>
+        <TouchableOpacity style={styles.headerPolarisBtn} onPress={handleAskPolaris}>
+          <Text style={styles.headerPolarisText}>ASK POLARIS ABOUT THIS REVIEW</Text>
+        </TouchableOpacity>
       </View>
 
       <View style={styles.filterBar}>
@@ -382,6 +405,22 @@ const styles = StyleSheet.create({
     fontSize: 11,
     color: colors.muted,
     marginTop: 4,
+  },
+  headerPolarisBtn: {
+    alignSelf: 'flex-start',
+    marginTop: spacing.sm,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    borderRadius: radius.sm,
+    borderWidth: 1,
+    borderColor: colors.uiDim,
+    backgroundColor: colors.uiDim + '18',
+  },
+  headerPolarisText: {
+    fontFamily: fonts.mono,
+    fontSize: 9,
+    letterSpacing: 1,
+    color: colors.uiDim,
   },
   filterBar: {
     flexDirection: 'row',

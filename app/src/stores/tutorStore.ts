@@ -1,17 +1,19 @@
 import { create } from 'zustand'
 import { supabase } from '../lib/supabase'
-import { buildLearningContext } from '../data/learning-context'
+import { buildLearningContext, type ActiveLearningContext } from '../data/learning-context'
 
 export type TutorMessage = { id: string; role: 'user' | 'assistant'; content: string }
 
 interface TutorState {
   isOpen: boolean
   messages: TutorMessage[]
+  activeLearningContext: ActiveLearningContext | null
   sessionDay: string | null // 本段對話所屬日期 (UTC+8, 'YYYY-MM-DD')
   loading: boolean
   remaining: number | null // 當日剩餘額度；null = 未知
   error: string | null
   open: () => void
+  openWithContext: (context: ActiveLearningContext) => void
   close: () => void
   reset: () => void
   sendMessage: (text: string) => Promise<void>
@@ -36,6 +38,7 @@ const PROXY_URL = process.env.EXPO_PUBLIC_TUTOR_PROXY_URL
 export const useTutorStore = create<TutorState>((set, get) => ({
   isOpen: false,
   messages: [],
+  activeLearningContext: null,
   sessionDay: null,
   loading: false,
   remaining: null,
@@ -47,12 +50,20 @@ export const useTutorStore = create<TutorState>((set, get) => ({
     if (get().sessionDay !== today) {
       set({ messages: [], error: null, sessionDay: today })
     }
-    set({ isOpen: true })
+    set({ isOpen: true, activeLearningContext: null })
+  },
+
+  openWithContext: (context) => {
+    const today = todayUTC8()
+    if (get().sessionDay !== today) {
+      set({ messages: [], error: null, sessionDay: today })
+    }
+    set({ isOpen: true, activeLearningContext: context })
   },
 
   close: () => set({ isOpen: false }),
 
-  reset: () => set({ messages: [], error: null, remaining: null, sessionDay: null }),
+  reset: () => set({ messages: [], activeLearningContext: null, error: null, remaining: null, sessionDay: null }),
 
   sendMessage: async (text) => {
     const trimmed = text.trim()
@@ -70,7 +81,7 @@ export const useTutorStore = create<TutorState>((set, get) => ({
     try {
       // 帶最近 20 則訊息（含剛 push 的 user 訊息）+ 學習狀態快照
       const history = get().messages.slice(-20).map((m) => ({ role: m.role, content: m.content }))
-      const context = buildLearningContext()
+      const context = buildLearningContext(get().activeLearningContext)
 
       let res: Response
       if (PROXY_URL) {

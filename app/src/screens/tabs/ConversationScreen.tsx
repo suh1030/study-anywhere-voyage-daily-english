@@ -18,6 +18,7 @@ import { getCurrentScheduleEntry } from '../../data/curriculum'
 import { fetchQuestion, type QuestionRow } from '../../data/content-api'
 import { useCreditsStore } from '../../stores/creditsStore'
 import { useCurriculumStore } from '../../stores/curriculumStore'
+import { useTutorStore } from '../../stores/tutorStore'
 
 function IconConversation({ color }: { color: string }) {
   return (
@@ -44,6 +45,7 @@ export default function ConversationScreen() {
   const [showZh, setShowZh] = useState(false)
   const [showOnboardingHint, setShowOnboardingHint] = useState(true)
   const { balance, loading: creditsLoading, purchasing, requestFeedback, purchaseCredits } = useCreditsStore()
+  const openTutorWithContext = useTutorStore((state) => state.openWithContext)
 
   useEffect(() => {
     if (scheduleLoading) return
@@ -127,6 +129,22 @@ export default function ConversationScreen() {
     setShowZh(false)
   }
 
+  const handleAskPolaris = () => {
+    if (!question) return
+    openTutorWithContext({
+      screen: 'Conversation',
+      title: 'Daily conversation question',
+      item: question.question,
+      question: question.question,
+      userDraft: answer,
+      support: [
+        question.hint_zh ? `中文提示：${question.hint_zh}` : '',
+        question.structure_hint ? `句型提示：${question.structure_hint}` : '',
+        feedback ? `既有 AI feedback：${feedback}` : '',
+      ].filter(Boolean),
+    })
+  }
+
   if (loading) {
     return (
       <SafeAreaView style={styles.container} edges={[]}>
@@ -199,6 +217,14 @@ export default function ConversationScreen() {
                 </Text>
               </TouchableOpacity>
             )}
+            <TouchableOpacity
+              style={[styles.questionBtn, styles.questionBtnPolaris]}
+              onPress={handleAskPolaris}
+            >
+              <Text style={[styles.questionBtnText, styles.questionBtnPolarisText]}>
+                ASK POLARIS
+              </Text>
+            </TouchableOpacity>
           </View>
 
           {showZh && question.hint_zh && (
@@ -357,9 +383,11 @@ const styles = StyleSheet.create({
   },
   questionBtnActive: { borderColor: colors.conversation, backgroundColor: colors.conversation + '18' },
   questionBtnHintActive: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
+  questionBtnPolaris: { borderColor: colors.uiDim, backgroundColor: colors.uiDim + '18' },
   questionBtnText: { fontFamily: fonts.mono, fontSize: 9, letterSpacing: 1, color: colors.muted },
   questionBtnTextActive: { color: colors.conversation },
   questionBtnHintTextActive: { color: colors.gold },
+  questionBtnPolarisText: { color: colors.uiDim },
   questionZh: { fontSize: 14, color: colors.muted, lineHeight: 22, marginBottom: spacing.sm },
   hintText: {
     fontSize: 13,

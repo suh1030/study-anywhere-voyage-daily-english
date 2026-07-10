@@ -38,6 +38,12 @@ const STARTER_PHRASES = [
   'Can we practice ordering food at a restaurant?',
 ]
 
+const CONTEXT_STARTER_PHRASES = [
+  '解釋目前這段內容',
+  '幫我用這個造句',
+  '這裡最容易錯哪裡？',
+]
+
 function CloseIcon({ color }: { color: string }) {
   return (
     <Svg width={18} height={18} viewBox="0 0 24 24" fill="none">
@@ -96,7 +102,7 @@ function MessageBubble({ message }: { message: TutorMessage }) {
 }
 
 export default function TutorChatModal() {
-  const { isOpen, messages, loading, remaining, error, close, sendMessage } = useTutorStore()
+  const { isOpen, messages, activeLearningContext, loading, remaining, error, close, sendMessage } = useTutorStore()
   const [input, setInput] = useState('')
   const scrollRef = useRef<ScrollView>(null)
 
@@ -173,10 +179,12 @@ export default function TutorChatModal() {
                   嗨，我是 Polaris，你的英文學習引路人。任何英文學習問題都可以問我，也能查你的進度、字卡，或哪天沒打卡。
                 </Text>
                 <Text style={styles.emptySub}>
-                  Let's get started — tell me anything in English, and I'll help you make it sound natural.
+                  {activeLearningContext
+                    ? `我看得到你目前在 ${activeLearningContext.screen} 的學習內容，可以直接問我這段怎麼用。`
+                    : "Let's get started — tell me anything in English, and I'll help you make it sound natural."}
                 </Text>
                 <View style={styles.chips}>
-                  {STARTER_PHRASES.map((phrase) => (
+                  {(activeLearningContext ? CONTEXT_STARTER_PHRASES : STARTER_PHRASES).map((phrase) => (
                     <TouchableOpacity
                       key={phrase}
                       style={styles.chip}

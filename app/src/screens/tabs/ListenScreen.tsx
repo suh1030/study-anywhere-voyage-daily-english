@@ -16,6 +16,7 @@ import { getCurrentScheduleEntry } from '../../data/curriculum'
 import { fetchEpisode, type EpisodeRow, type EpisodeLine } from '../../data/content-api'
 import { useNav } from '../../navigation/NavContext'
 import { useCurriculumStore } from '../../stores/curriculumStore'
+import { useTutorStore } from '../../stores/tutorStore'
 
 const SUPABASE_URL = process.env.EXPO_PUBLIC_SUPABASE_URL ?? ''
 
@@ -85,6 +86,7 @@ export default function ListenScreen() {
   const pausedLineRef = React.useRef(-1)
   const scrollPositionRef = React.useRef(0)
   const playerStatus = useAudioPlayerStatus(player)
+  const openTutorWithContext = useTutorStore((state) => state.openWithContext)
 
   useEffect(() => {
     if (scheduleLoading) return
@@ -206,6 +208,21 @@ export default function ListenScreen() {
   const handlePrev = () => setCurrentLine((c) => Math.max(0, c - 1))
   const handleNext = () => setCurrentLine((c) => Math.min(allLines.length - 1, c + 1))
 
+  const handleAskPolaris = () => {
+    if (!episode) return
+    const focusedLine = currentLine >= 0 ? allLines[currentLine] : allLines[0]
+    openTutorWithContext({
+      screen: 'Listen',
+      title: episode.title,
+      topic: episode.theme,
+      item: focusedLine ? `${focusedLine.speakerName}: ${focusedLine.en}` : undefined,
+      support: [
+        focusedLine?.zh ? `中文翻譯：${focusedLine.zh}` : '',
+        episode.key_phrases.slice(0, 5).map((phrase) => `${phrase.en}：${phrase.zh}；${phrase.example}`).join('｜'),
+      ].filter(Boolean),
+    })
+  }
+
   if (loading) {
     return (
       <SafeAreaView style={styles.container} edges={[]}>
@@ -304,6 +321,13 @@ export default function ListenScreen() {
           }}
         >
           <Text style={[styles.zhToggleText, showChinese && styles.zhToggleTextOn]}>中文</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity
+          style={styles.polarisBtn}
+          onPress={handleAskPolaris}
+        >
+          <Text style={styles.polarisBtnText}>ASK</Text>
         </TouchableOpacity>
       </View>
 
@@ -484,6 +508,15 @@ const styles = StyleSheet.create({
   zhToggleOn: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
   zhToggleText: { fontFamily: fonts.mono, fontSize: 9, color: colors.muted },
   zhToggleTextOn: { color: colors.gold },
+  polarisBtn: {
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    borderWidth: 1,
+    borderColor: colors.uiDim,
+    backgroundColor: colors.uiDim + '18',
+    borderRadius: radius.sm,
+  },
+  polarisBtnText: { fontFamily: fonts.mono, fontSize: 9, color: colors.uiDim },
   speedRow: { flexDirection: 'row', gap: 4, flex: 1, justifyContent: 'flex-end' },
   speedBtn: {
     paddingHorizontal: 8,

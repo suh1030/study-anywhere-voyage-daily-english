@@ -17,6 +17,7 @@ import { colors, fonts, spacing, radius, typography } from '../../constants/them
 import { getCurrentScheduleEntry } from '../../data/curriculum'
 import { fetchArticle, fetchQuestion, type ArticleRow, type QuestionRow } from '../../data/content-api'
 import { useCurriculumStore } from '../../stores/curriculumStore'
+import { useTutorStore } from '../../stores/tutorStore'
 
 function IconSpeak({ color }: { color: string }) {
   return (
@@ -73,6 +74,7 @@ export default function SpeakScreen() {
   const pausedAtSegment = React.useRef(-1)
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY)
   const player = useAudioPlayer(recordingUri ? { uri: recordingUri } : null)
+  const openTutorWithContext = useTutorStore((state) => state.openWithContext)
 
   const articleParagraphs = React.useMemo(
     () => (article ? htmlToParagraphs(article.text_en) : []),
@@ -200,6 +202,23 @@ export default function SpeakScreen() {
     }
   }
 
+  const handleAskPolaris = () => {
+    if (!article) return
+    const currentParagraph = activeSegment >= 0 ? articleParagraphs[activeSegment] : articleParagraphs[0]
+    openTutorWithContext({
+      screen: 'Speak',
+      title: article.title,
+      topic: article.topic,
+      item: currentParagraph,
+      question: question?.question ?? `Summarize the main idea of "${article.title}" in your own words.`,
+      support: [
+        question?.hint_zh ? `中文提示：${question.hint_zh}` : '',
+        question?.structure_hint ? `句型提示：${question.structure_hint}` : '',
+        article.vocabulary.slice(0, 6).map((v) => `${v.word}: ${v.definition}`).join('；'),
+      ].filter(Boolean),
+    })
+  }
+
   if (loading) {
     return (
       <SafeAreaView style={styles.container} edges={[]}>
@@ -271,6 +290,13 @@ export default function SpeakScreen() {
             </Text>
           </TouchableOpacity>
         )}
+
+        <TouchableOpacity
+          style={[styles.ctrlBtn, styles.ctrlBtnPolaris]}
+          onPress={handleAskPolaris}
+        >
+          <Text style={[styles.ctrlBtnText, styles.ctrlBtnPolarisText]}>ASK POLARIS</Text>
+        </TouchableOpacity>
       </View>
 
       <ScrollView contentContainerStyle={styles.scrollContent}>
@@ -410,6 +436,8 @@ const styles = StyleSheet.create({
   ctrlBtnStopText: { fontFamily: fonts.mono, fontSize: 10, letterSpacing: 1, color: colors.bg, fontWeight: '500' },
   ctrlBtnActive: { borderColor: colors.gold, backgroundColor: colors.gold + '18' },
   ctrlBtnActiveText: { color: colors.gold },
+  ctrlBtnPolaris: { borderColor: colors.uiDim, backgroundColor: colors.uiDim + '18' },
+  ctrlBtnPolarisText: { color: colors.uiDim },
   recordingBtn: { borderColor: colors.error, backgroundColor: colors.error + '18' },
   recordingText: { color: colors.error },
 
