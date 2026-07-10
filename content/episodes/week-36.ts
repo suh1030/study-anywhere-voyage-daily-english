@@ -80,7 +80,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the tool is giving something while quietly weakening something else. Tell me if I am smoothing over the hard part.",
-            "zh": "所以工具是一邊在給人東西，一邊也在安安靜靜削弱別的東西。 還是我把它說得太整齊了？"
+            "zh": "所以工具是一邊在給人東西，一邊也在安安靜靜削弱別的東西。你要告訴我，我是不是把難的部分講得太輕鬆了。"
           },
           {
             "speaker": "a",
@@ -1023,7 +1023,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the machine may provide options, but the person has to provide consequences. Does that match what you mean?",
-            "zh": "所以機器可能會提供選項，但後果還是得由人來承擔。 還是我把它說得太整齊了？"
+            "zh": "所以機器可能會提供選項，但後果還是得由人來承擔。這樣講有對上你的意思嗎？"
           },
           {
             "speaker": "a",
@@ -1334,7 +1334,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the tool is strongest when it supports thinking rather than replacing taste. Or is there a real-life exception here?",
-            "zh": "所以工具最強的地方，是它支援思考，而不是直接取代品味。 還是我把它說得太整齊了？"
+            "zh": "所以工具最強的地方，是它支援思考，而不是直接取代品味。還是說，真實生活裡其實有例外？"
           },
           {
             "speaker": "a",
@@ -1346,7 +1346,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Keeping authorship intact is reassuring in a practical way.",
-            "zh": "這聽起來在實際上很讓人安心。"
+            "zh": "這聽起來實際上滿讓人安心的。"
           },
           {
             "speaker": "a",
@@ -1744,7 +1744,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What should good AI ethics look like in practice, not just in statements?",
-            "zh": "如果不是停在口號上，好的 AI 倫理在實際上應該長什麼樣？"
+            "zh": "如果不是停在口號上，好的 AI 倫理實際上該長什麼樣子？"
           },
           {
             "speaker": "a",

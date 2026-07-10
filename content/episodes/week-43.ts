@@ -1516,7 +1516,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That sounds like the most natural place to leave it.",
-            "zh": "停在這裡最乾淨。"
+            "zh": "停在這裡感覺最自然。"
           },
           {
             "speaker": "b",

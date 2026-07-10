@@ -150,8 +150,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Start with the kind of sentence people actually say. Short explanations work best when they sound like something you would actually say on a Tuesday night.",
-            "zh": "我們把它變得更實用一點。短說明最好用的時候，就是它聽起來像你星期二晚上真的會說出口的話。"
+            "en": "Short explanations work best when they sound like something you would actually say on a Tuesday night.",
+            "zh": "短說明最好用的時候，就是它聽起來像你星期二晚上真的會說出口的話。"
           },
           {
             "speaker": "b",
@@ -215,8 +215,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a cleaner way to say it. Clarity gets stronger when you stop trying to sound impressive and start trying to sound true.",
-            "zh": "我們把它變得更實用一點。當你不再努力聽起來厲害，而開始努力聽起來真實，清楚度就會變強。"
+            "en": "Clarity gets stronger when you stop trying to sound impressive and start trying to sound true.",
+            "zh": "當你不再努力聽起來厲害，而開始努力聽起來真實，清楚度就會變強。"
           }
         ]
       },
@@ -256,8 +256,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The spoken version can be direct. The point is not to sell yourself harder. It is to describe your work honestly enough that people can see its shape.",
-            "zh": "我們把它變得更實用一點。重點不是更用力賣自己，而是誠實到一個程度，讓別人真的看得到你工作的形狀。"
+            "en": "The point is not to sell yourself harder. It is to describe your work honestly enough that people can see its shape.",
+            "zh": "重點不是更用力賣自己，而是誠實到一個程度，讓別人真的看得到你工作的形狀。"
           },
           {
             "speaker": "b",
@@ -683,8 +683,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Guilt often confuses career reflection instead of helping it.",
-            "zh": "我們把它變得更實用一點。罪惡感很多時候只會把職涯反思攪亂，不會真的幫上忙。"
+            "en": "Guilt often confuses career reflection instead of helping it.",
+            "zh": "罪惡感很多時候只會把職涯反思攪亂，不會真的幫上忙。"
           }
         ]
       },
@@ -871,8 +871,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Reachable matters. If your idea of meaning is too theatrical, you will miss the evidence already in front of you.",
-            "zh": "我們把它變得更實用一點。可達成很重要。如果你對意義的想像太戲劇化，你反而會錯過眼前已經存在的證據。"
+            "en": "Reachable matters. If your idea of meaning is too theatrical, you will miss the evidence already in front of you.",
+            "zh": "可達成很重要。如果你對意義的想像太戲劇化，你反而會錯過眼前已經存在的證據。"
           },
           {
             "speaker": "b",
@@ -1175,8 +1175,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Real responsibility is usually steadier than dramatic.",
-            "zh": "我們把它變得更實用一點。真正的責任感通常是穩的，不是戲劇化的。"
+            "en": "Real responsibility is usually steadier than dramatic.",
+            "zh": "真正的責任感通常是穩的，不是戲劇化的。"
           },
           {
             "speaker": "b",
@@ -1315,8 +1315,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Imagine a normal day. Simpler is better when you are helping somebody see the shape of the move.",
-            "zh": "我們把它變得更實用一點。當你在幫別人看懂這個轉向的形狀時，簡單反而更好。"
+            "en": "Simpler is better when you are helping somebody see the shape of the move.",
+            "zh": "當你在幫別人看懂這個轉向的形狀時，簡單反而更好。"
           }
         ]
       },
@@ -1462,8 +1462,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For practice, try this version. Your job is not to prove the path was perfect. It is to explain why it makes sense.",
-            "zh": "我們把它變得更實用一點。你的任務不是證明這條路完美，而是說明為什麼它講得通。"
+            "en": "Your job is not to prove the path was perfect. It is to explain why it makes sense.",
+            "zh": "你的任務不是證明這條路完美，而是說明為什麼它講得通。"
           },
           {
             "speaker": "b",
@@ -1498,8 +1498,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can make it usable with one clear line. Because what people want to hear is this: What stayed true while the role changed?",
-            "zh": "我們把它變得更實用一點。因為別人真正想聽的是這件事：在角色一直變的同時，哪一個東西其實一直沒變？"
+            "en": "Right. What people really want to hear is this: what stayed true while the role changed?",
+            "zh": "對。別人真正想聽的是這件事：在角色一直變的同時，哪一個東西其實一直沒變？"
           },
           {
             "speaker": "b",
@@ -1785,8 +1785,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. People need more than one mirror if they want a stable sense of self.",
-            "zh": "我們把它變得更實用一點。人如果想要有比較穩的自我感，就需要不只一面鏡子。"
+            "en": "People need more than one mirror if they want a stable sense of self.",
+            "zh": "人如果想要有比較穩的自我感，就需要不只一面鏡子。"
           }
         ]
       },
@@ -1838,8 +1838,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. The stronger your life outside work becomes, the freer your relationship to work becomes too.",
-            "zh": "我們把它變得更實用一點。你工作外的人生越穩，你和工作的關係也會越自由。"
+            "en": "The stronger your life outside work becomes, the freer your relationship to work becomes too.",
+            "zh": "你工作外的人生越穩，你和工作的關係也會越自由。"
           }
         ]
       }
@@ -1942,8 +1942,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Once you feel that difference, speaking with confidence becomes much less scary.",
-            "zh": "我們把它變得更實用一點。一旦你感覺到那個差別，用有自信的方式說話就會沒那麼可怕了。"
+            "en": "Once you feel that difference, speaking with confidence becomes much less scary.",
+            "zh": "一旦你感覺到那個差別，用有自信的方式說話就會沒那麼可怕了。"
           }
         ]
       },
@@ -2048,8 +2048,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Put this in a real situation. Strong professional English rarely needs extra drama. It mostly needs structure and calm.",
-            "zh": "我們把它變得更實用一點。強的職場英文很少需要額外戲劇效果，它大多只需要結構和冷靜。"
+            "en": "Strong professional English rarely needs extra drama. It mostly needs structure and calm.",
+            "zh": "強的職場英文很少需要額外戲劇效果，它大多只需要結構和冷靜。"
           }
         ]
       },
@@ -2142,8 +2142,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is the line I would practice. When you know what you did, what changed, and who helped, confidence gets much simpler.",
-            "zh": "我們把它變得更實用一點。當你知道自己做了什麼、造成了什麼改變、還有誰一起完成，自信就會變得簡單很多。"
+            "en": "When you know what you did, what changed, and who helped, confidence gets much simpler.",
+            "zh": "當你知道自己做了什麼、造成了什麼改變、還有誰一起完成，自信就會變得簡單很多。"
           },
           {
             "speaker": "b",

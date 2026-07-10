@@ -269,7 +269,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. Good trips do not only take you somewhere else. They return you to yourself a little differently.",
-            "zh": "這裡是我想特別畫線的地方。好的旅行不只是把你帶去別的地方，它也會把你以一種有點不同的方式帶回自己身上。"
+            "zh": "這一段特別值得練起來：好的旅行不只是把你帶去別的地方，它也會把你以一種有點不同的方式帶回自己身上。"
           }
         ]
       }
@@ -568,7 +568,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. A changed perspective is not always loud. Sometimes it simply shows up as a better question when you get home.",
-            "zh": "我們把它變得更實用一點。被改變的看法，不一定很大聲。有時候它只是表現在：你回家之後，開始會問出更好的問題。"
+            "zh": "我們把它收到一個情境裡：被改變的看法，不一定很大聲。有時候它只是表現在：你回家之後，開始會問出更好的問題。"
           },
           {
             "speaker": "b",
@@ -976,7 +976,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where the language becomes useful. Budget travel is really about choosing where cost matters and where comfort matters more.",
-            "zh": "這裡是我想特別畫線的地方。預算旅行真正的核心，是選出哪裡成本最重要、哪裡舒服反而更重要。"
+            "zh": "這正是語言派上用場的地方：預算旅行真正的核心，是選出哪裡成本最重要、哪裡舒服反而更重要。"
           },
           {
             "speaker": "b",
@@ -1200,7 +1200,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On a regular weekday, it might look like this. Budget travel at its best is not deprivation. It is a sharper way of choosing.",
-            "zh": "我們把它變得更實用一點。預算旅行在最好的情況下，不是剝奪，而是一種更銳利的選擇方式。"
+            "zh": "放到平常的日子裡，大概會像這樣：預算旅行在最好的情況下，不是剝奪，而是一種更銳利的選擇方式。"
           },
           {
             "speaker": "b",
@@ -1369,7 +1369,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is the line I would practice. The point is not to perform competence. It is to build real contact with the place.",
-            "zh": "我們把它變得更實用一點。重點不是表演自己很會，而是真的和那個地方建立接觸。"
+            "zh": "這句我會拿來練：重點不是表演自己很會，而是真的和那個地方建立接觸。"
           }
         ]
       },

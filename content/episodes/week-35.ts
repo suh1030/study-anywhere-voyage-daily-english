@@ -239,7 +239,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does that look like practically?",
-            "zh": "實際上那是什麼樣子？"
+            "zh": "具體來說會是什麼樣子？"
           },
           {
             "speaker": "a",
@@ -390,7 +390,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The research on this is pretty clear. What people call multitasking is usually fast switching between tasks, and every switch has a cost.",
-            "zh": "這方面的研究很明確。人們說的多工，通常是在不同任務之間快速切換，而每次切換都有代價。"
+            "zh": "這方面的研究很明確：大家口中的多工，其實是在任務之間快速切換，而每一次切換都有代價。"
           },
           {
             "speaker": "b",
@@ -502,13 +502,13 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Will people not get annoyed waiting for replies?",
-            "zh": "人們等回覆會不會不高興？"
+            "zh": "讓別人等回覆，對方不會不高興嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most things people think are urgent are not actually urgent. If something is truly urgent, people will call.",
-            "zh": "大多數人以為很急的事情其實並不急，如果真的很急，人們會打電話。"
+            "zh": "大多數看起來很急的事其實不急。真的十萬火急，對方會直接打電話。"
           },
           {
             "speaker": "b",
@@ -1011,7 +1011,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Are there digital habits people build without realizing that end up being a problem later?",
-            "zh": "人們有沒有在不知不覺中養成的數位習慣，後來變成問題？"
+            "zh": "有沒有那種不知不覺養成、後來卻變成麻煩的數位習慣？"
           },
           {
             "speaker": "a",
@@ -1135,13 +1135,13 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can feel that way. But responding before you have had time to think often means reacting rather than deciding.",
-            "zh": "可能感覺是這樣，但在你有時間思考之前就回應，通常意味著是在反應而不是在決定。"
+            "zh": "感覺上是這樣沒錯，但還來不及思考就回覆，通常代表你是在「反應」，不是在「決定」。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the early morning phone check can actually make you more reactive for the rest of the day.",
-            "zh": "所以早晨查看手機實際上可能讓你整天更容易反應式地處理事情。"
+            "zh": "所以一早就滑手機，可能害你一整天都用「見招拆招」模式在過。"
           },
           {
             "speaker": "a",
@@ -1170,7 +1170,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does a healthy relationship with home technology actually look like in practice?",
-            "zh": "與家庭科技的健康關係在實踐中實際上是什麼樣子？"
+            "zh": "家庭跟科技之間健康的關係，實際過起來是什麼樣子？"
           },
           {
             "speaker": "a",
@@ -1280,7 +1280,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is more common than people realize. It usually hits when the volume of input finally exceeds your capacity to process it.",
-            "zh": "那種感覺比人們意識到的更普遍，通常是在輸入量終於超過你的處理能力時才發作的。"
+            "zh": "這種感覺比大家以為的普遍，通常是資訊輸入量終於壓過你的消化能力時，才一次爆發。"
           },
           {
             "speaker": "b",
@@ -1463,7 +1463,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because liking something and using something are different. You might like an app in theory but never actually open it.",
-            "zh": "因為喜歡某樣東西和使用某樣東西是不同的，你可能理論上喜歡一個 app，但實際上從來不打開它。"
+            "zh": "因為「喜歡」和「會用」是兩回事。你可能理論上很喜歡某個 App，實際上卻從來沒打開過。"
           },
           {
             "speaker": "b",
@@ -1504,13 +1504,13 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is worth paying attention to. It might mean the work genuinely is not done. Or it might mean the boundary between work and not-work has blurred.",
-            "zh": "那種感覺值得注意，它可能意味著工作真的還沒完成，或者可能意味著工作和非工作之間的界限已經模糊了。"
+            "zh": "那種感覺值得留意：可能是工作真的沒做完，也可能是工作和下班之間的界線已經糊掉了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And technology does not help with that blurring. It actually makes it worse.",
-            "zh": "而科技對那種模糊沒有幫助，它實際上讓它更嚴重。"
+            "zh": "而科技不但沒幫忙劃清界線，反而讓它糊得更厲害。"
           },
           {
             "speaker": "a",
@@ -1608,7 +1608,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not even close. Downloading is just intent. Adoption means the tool has actually changed how you do something.",
-            "zh": "差遠了。下載只是意圖，採用意味著那個工具實際上改變了你做某件事的方式。"
+            "zh": "差遠了。下載只代表「有心」，真正的採用是那個工具確實改變了你做事的方式。"
           },
           {
             "speaker": "b",
@@ -1785,7 +1785,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the best technology stack is probably the smallest one that actually gets the job done. Is the simple version too simple?",
-            "zh": "所以最好的工具組合大概是能真正完成工作的最小一個。 還是我把它說得太整齊了？"
+            "zh": "所以最好的工具組合，大概就是能真正把事情做完的最小那一組。這個簡化版本會不會太簡化了？"
           },
           {
             "speaker": "a",
@@ -1907,7 +1907,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The honest first step is admitting where you actually are, not where you think you should be. Most people underestimate how much time they really spend on screens.",
-            "zh": "誠實的第一步是承認你實際上在哪裡，而不是你認為你應該在哪裡。大多數人低估了他們真正花在螢幕上的時間。"
+            "zh": "誠實的第一步，是承認自己實際的狀態，而不是「應該」的狀態。大多數人都低估了自己真正花在螢幕上的時間。"
           },
           {
             "speaker": "b",
@@ -1931,7 +1931,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is valuable. It means the data landed. The key is using it as a starting point rather than a reason to feel bad about yourself.",
-            "zh": "那種不舒服是有價值的，它意味著資料變得具體了。關鍵是把它當成起點，而不是讓自己感覺糟糕的理由。"
+            "zh": "那種不舒服有它的價值——代表數據變具體了。重點是把它當起點，而不是拿來打擊自己。"
           },
           {
             "speaker": "b",
@@ -1954,7 +1954,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "When you say healthy relationship with devices, what does that actually look like? Not in theory, but in a real week.",
-            "zh": "當你說和裝置的健康關係，那實際上是什麼樣子？不是在理論上，而是在真實的一週中。"
+            "zh": "你說的「跟裝置保持健康的關係」，實際上長什麼樣？不要理論，用真實的一週來說。"
           },
           {
             "speaker": "a",
@@ -2025,7 +2025,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why it works. People trust someone who is still in the middle of figuring something out more than someone who claims to have all the answers.",
-            "zh": "也就是為什麼它有效。人們比起聲稱有所有答案的人，更信任一個仍然在弄清楚某件事的人。"
+            "zh": "這正是它有效的原因。比起號稱什麼都懂的人，大家更信任一個還在摸索、但很誠實的人。"
           },
           {
             "speaker": "b",
@@ -2113,7 +2113,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Looking back at this whole week of conversations about technology, what is the one thing you want people to take away?",
-            "zh": "回顧這整週關於科技的對話，你希望人們帶走的一件事是什麼？"
+            "zh": "回顧這一整週聊科技的內容，你最希望大家帶走哪一件事？"
           },
           {
             "speaker": "a",

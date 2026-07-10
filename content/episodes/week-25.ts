@@ -45,7 +45,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think pausing to actually mark the win helps. Not mark for days — just acknowledge it properly before moving on.",
-            "zh": "我覺得真正停下來標記這個勝利有幫助。不是標記好幾天——只是在繼續之前好好承認它。"
+            "zh": "我覺得真的停下來慶祝一下是有幫助的。不用連歡好幾天——只要在往前走之前，好好承認這個成果。"
           },
           {
             "speaker": "b",
@@ -57,7 +57,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You skipped the moment entirely. Wins teach you something too — if you give them a few days.",
-            "zh": "你完全跳過了那個時刻。勝利也能教你一些東西——如果你給它幾天的話。"
+            "zh": "你把那個時刻整個跳過去了。勝利也有東西可以教你——前提是你給它幾天的時間。"
           }
         ]
       },
@@ -139,7 +139,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Asking what actually worked — not just that it worked. Was it skill, timing, luck, the team? All of the above?",
-            "zh": "問實際上是什麼起作用了——不只是它有效。是技能、時機、運氣、團隊？還是以上皆是？"
+            "zh": "去問到底是什麼奏效了——不只是「有效」而已。是實力、時機、運氣、還是團隊？或是全部都有？"
           },
           {
             "speaker": "b",
@@ -163,7 +163,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Intellectual honesty after a win is harder than people admit but it keeps you better calibrated.",
-            "zh": "對。勝利後的知識誠實比人們承認的更難，但它能讓你保持更好的校準。"
+            "zh": "對。贏了之後還能誠實面對「為什麼贏」，比大家肯承認的難，但它會讓你的判斷一直保持準確。"
           }
         ]
       },
@@ -432,7 +432,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And optimizing for one without thinking about the other is how people end up accomplished but empty.",
-            "zh": "為其中一個最佳化而不考慮另一個，就是人們最終成就很高但內心空洞的原因。"
+            "zh": "只顧其中一邊、不管另一邊，就是很多人最後成就很高、內心卻空掉的原因。"
           }
         ]
       },
@@ -824,8 +824,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I can see why you'd say that. It does feel like a deliberate recovery period rather than giving up.",
-            "zh": "那聽起來像是刻意的恢復期，而不是放棄。"
+            "en": "I can see why she did that. It does feel like a deliberate recovery period rather than giving up.",
+            "zh": "我懂她為什麼那樣做。那確實比較像是刻意的恢復期，而不是放棄。"
           },
           {
             "speaker": "b",
@@ -1029,7 +1029,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. And the audience was mostly made up of people who were not actually paying attention to me.",
-            "zh": "就是這樣。而那個觀眾大多是由那些實際上根本沒在注意我的人組成的。"
+            "zh": "就是這樣。而那群「觀眾」，其實大多數根本沒在看我。"
           },
           {
             "speaker": "b",
@@ -1322,7 +1322,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the practical takeaway. And those values help you recognize a good unexpected opportunity when it shows up.",
-            "zh": "這裡是我想特別畫線的地方。而那些價值觀幫助你在意外機會出現時認出它。"
+            "zh": "這就是實際能帶走的重點。而那些價值觀能幫你在意外機會出現時認出它。"
           }
         ]
       },
@@ -1631,8 +1631,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "There is no moment of gathering with invisible work. You just quietly move on.",
-            "zh": "隱形工作沒有標記的時刻。你只是悄悄地繼續前進。"
+            "en": "There is no moment to mark it with invisible work. You just quietly move on.",
+            "zh": "隱形的工作沒有那種可以慶祝的時刻。你只是默默地繼續往前走。"
           },
           {
             "speaker": "a",
@@ -1655,7 +1655,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That kind of leadership is almost never the thing people notice or credit.",
-            "zh": "那種領導幾乎從來不是人們注意到或稱讚的事。"
+            "zh": "這種領導方式，幾乎從來不會被看見或被稱讚。"
           },
           {
             "speaker": "a",
@@ -1869,7 +1869,7 @@ export const WEEK_25: Episode[] = [
       {
         "en": "composure",
         "zh": "冷靜；沉著",
-        "example": "Maintaining composure in a heated meeting is a skill that rarely gets markd but always gets noticed."
+        "example": "Maintaining composure in a heated meeting is a skill that rarely gets praised but always gets noticed."
       },
       {
         "en": "specificity",
@@ -1949,7 +1949,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Low motivation is normal. Missing it means you are human. Having a system means you still show up.",
-            "zh": "對。動力低落是正常的。沒有它意味著你是人類。有系統意味著你仍然出現。"
+            "zh": "對。動力低落很正常，有低潮代表你是人。而有系統，代表你低潮時照樣出席。"
           }
         ]
       },
@@ -1978,13 +1978,13 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the sprint style is not actually more productive — it just feels more dramatic.",
-            "zh": "所以衝刺風格實際上沒有更有生產力——只是感覺更戲劇化。"
+            "zh": "所以衝刺式工作其實沒有比較高產——只是比較有戲劇效果而已。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And drama can feel like progress when it is not. High urgency does not equal high value.",
-            "zh": "戲劇感可以感覺像進展，但實際上不是。高緊迫性不等於高價值。"
+            "zh": "戲劇感會讓人誤以為那是進度，其實不是。緊迫感高，不等於價值高。"
           },
           {
             "speaker": "b",

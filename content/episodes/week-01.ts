@@ -21,7 +21,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think they are real. A reset moment can change your energy, even if nothing outside changes overnight.",
-            "zh": "我覺得它是真實的。一個重置時刻確實會改變你的能量感，即使外在的一切沒有一夜之間改變。"
+            "zh": "我覺得是真的。重新開始的那個瞬間，真的會改變你的狀態，就算外在的一切沒有一夜之間變好。"
           },
           {
             "speaker": "b",
@@ -33,7 +33,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. When people feel a clean break, they often become more willing to try again.",
-            "zh": "對。當人感覺到一個乾淨的分界點時，他通常會更願意再試一次。"
+            "zh": "對。當人感覺到跟過去清楚切開了，往往就會更願意再試一次。"
           },
           {
             "speaker": "b",
@@ -57,7 +57,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more useful, because real life almost never gives perfect timing.",
-            "zh": "它確實更有用，因為真實生活幾乎從來不會給你完美時機。"
+            "zh": "真的比較有用，因為現實生活幾乎不會給你完美的時機。"
           }
         ]
       },
@@ -74,13 +74,13 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because small starts feel possible. They ask for action, not performance.",
-            "zh": "因為小的開始感覺比較做得到。它要求的是行動，不是表演。"
+            "zh": "因為小的開始感覺比較做得到。它要的是行動，不是表演給誰看。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to impress yourself on day one. Is that too tidy a way to put it?",
-            "zh": "所以重點不是在第一天就把自己感動到。 還是我把它說得太整齊了？"
+            "zh": "所以重點不是在第一天就讓自己驚艷。這樣講會不會太漂亮、太理想化了？"
           },
           {
             "speaker": "a",
@@ -110,7 +110,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why it works. A beginning should lower fear, not increase it.",
-            "zh": "也就是為什麼好的開始應該降低恐懼，而不是增加恐懼。"
+            "zh": "這就是它有效的原因。好的開始應該讓你比較不怕，而不是更怕。"
           }
         ]
       },
@@ -204,7 +204,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Something more accurate, like: \"I have struggled before, but I can learn from that.\" Accurate language gives you room to move.",
-            "zh": "可以改成比較準確的說法，例如：「我以前確實有卡住過，但我可以從那裡學。」準確的語言會替你留出移動空間。"
+            "zh": "可以改成比較準確的說法，例如：「我以前確實卡住過，但我可以從裡面學到東西。」準確的說法會給你往前走的空間。"
           },
           {
             "speaker": "b",
@@ -216,7 +216,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. A fresh start needs honesty, but it also needs enough kindness to survive.",
-            "zh": "這裡是我想特別畫線的地方。重新開始需要誠實，但也需要足夠的溫柔，才活得下來。"
+            "zh": "沒錯，這點值得記下來。重新開始需要誠實，但也需要足夠的溫柔，才撐得下去。"
           }
         ]
       },
@@ -508,7 +508,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine a normal day. So your intention might be: \"I want to build confidence in how I express myself at work.\" Now that intention can include this podcast, reading emails aloud, or practicing one phrase per day.",
-            "zh": "我們把它變得更實用一點。那你的意圖可以是：「我想建立在工作中表達自己的自信。」這個意圖就可以包含這個播客、大聲讀email，或每天練習一句話。"
+            "zh": "想像一個平常的日子。那你的意圖可以是：「我想建立在工作中表達自己的自信。」這個意圖就可以包含聽這個 Podcast、把 email 大聲唸出來，或每天練一句話。"
           },
           {
             "speaker": "b",
@@ -520,7 +520,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. A good intention should stretch you a little, but not make you dread waking up.",
-            "zh": "這裡是我想特別畫線的地方。好的意圖應該把你往前拉一點，但不該讓你害怕早上起床。"
+            "zh": "這句話我會一直放在心上。好的意圖應該把你往前拉一點，但不該讓你早上害怕起床。"
           },
           {
             "speaker": "b",
@@ -1005,7 +1005,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is worth remembering, especially when you are deciding what belongs in the next chapter.",
-            "zh": "值得記住，尤其當你在決定下一段人生要帶什麼東西走時。"
+            "zh": "值得記住，尤其是在你決定下一段人生要帶著什麼往前走的時候。"
           }
         ]
       },
@@ -1034,7 +1034,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"I want to keep the lesson, but not the weight.\" It works well when you learned something but do not want to keep carrying the pain in the same way.",
-            "zh": "另一句也很好用，就是「我想把學到的留下來，但不要再背著同樣的重量。」如果你有學到東西，但不想再用同樣方式一直背著那個痛，這句很適合。"
+            "zh": "另一句也很好用：「I want to keep the lesson, but not the weight.」如果你有學到東西，但不想再用同樣的方式一直背著那個痛，這句很適合。"
           },
           {
             "speaker": "b",
@@ -1164,7 +1164,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The copyable sentence is this. A real beginning should feel close enough to touch.",
-            "zh": "我們把它變得更實用一點。真正的開始，本來就應該近到碰得到。"
+            "zh": "這句話你可以直接記起來：真正的開始，應該近到伸手就碰得到。"
           },
           {
             "speaker": "b",

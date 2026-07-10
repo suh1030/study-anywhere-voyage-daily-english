@@ -98,7 +98,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That parasocial element is huge. People feel genuine affection for podcast hosts they have never met.",
-            "zh": "那種單向關係的成分很大。人們會對從未見過面的 podcast 主持人產生真實的親切感。"
+            "zh": "那有很大的成分是單向的情感連結。聽眾真的會對從沒見過面的 Podcast 主持人產生親近感。"
           },
           {
             "speaker": "b",
@@ -163,7 +163,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People connect with the situation, not the genre name.",
-            "zh": "對。人們連結的是那個場景，而不是曲風的名稱。"
+            "zh": "對。大家記住的是那個場景，而不是曲風叫什麼名字。"
           }
         ]
       },
@@ -653,7 +653,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Musical taste feels personal in a way that most other preferences do not. People attach identity to it.",
-            "zh": "音樂品味讓人感覺是非常個人的東西，和大多數其他偏好不一樣。人們會把身份認同依附在上面。"
+            "zh": "音樂品味給人的感覺特別私密，跟其他喜好都不一樣。大家會把自我認同掛在上面。"
           },
           {
             "speaker": "b",
@@ -665,7 +665,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That reaction is very human. Music is one of the few art forms people carry with them constantly.",
-            "zh": "這種反應非常人性。音樂是少數幾種人們隨身攜帶的藝術形式之一。"
+            "zh": "這種反應很符合人性。音樂是少數可以隨身帶著走的藝術形式。"
           },
           {
             "speaker": "b",
@@ -848,7 +848,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens. You were not in the right place for it yet. Music and timing are more connected than people realize.",
-            "zh": "這種事會發生。你當時還沒有準備好接受它。音樂和時機的關係比人們意識到的更緊密。"
+            "zh": "這種事真的會發生——你當時就是還沒準備好接住它。音樂跟時機的關係，比大家以為的緊密得多。"
           },
           {
             "speaker": "b",
@@ -1194,7 +1194,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That means choosing what I listen to is also choosing how I think. That seems like a significant responsibility.",
-            "zh": "這意味著選擇我聽什麼，也是在選擇我怎麼思考。這感覺是很大的責任。"
+            "zh": "這代表選擇聽什麼，同時也在選擇怎麼思考。想起來責任還滿重大的。"
           },
           {
             "speaker": "a",
@@ -1439,7 +1439,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start by auditing one week. Write down what you actually listened to versus what you planned to listen to.",
-            "zh": "從審計一週開始。把你實際上聽了什麼，和你計畫要聽什麼，都寫下來。"
+            "zh": "先從盤點一週開始：把你實際聽了什麼、原本打算聽什麼，通通記下來。"
           },
           {
             "speaker": "b",
@@ -1779,7 +1779,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The mechanics changed, but the impulse did not. People still screenshot their playlists and send each other songs constantly.",
-            "zh": "機制改變了，但衝動沒有。人們仍然截圖他們的播放清單，還是一直互相傳歌。"
+            "zh": "工具變了，但那股衝動沒變。大家還是在截圖歌單、還是一直互傳歌。"
           },
           {
             "speaker": "b",
@@ -1797,7 +1797,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is there something specific that happens to people who listen to music together in real time?",
-            "zh": "人們在同一時間真實地聆聽音樂，有什麼特別的事情會發生嗎？"
+            "zh": "一群人在同一時間一起聽音樂，會發生什麼特別的事嗎？"
           },
           {
             "speaker": "a",
@@ -2037,7 +2037,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Just say \"that song always gets me\" or \"I cannot hear that without getting emotional.\" People respect that kind of honesty.",
-            "zh": "完全不會。只要說「that song always gets me」，或「I cannot hear that without getting emotional」。人們尊重這種誠實。"
+            "zh": "完全不會。就說「that song always gets me」，或「I cannot hear that without getting emotional」。這種誠實大家都會尊重。"
           },
           {
             "speaker": "b",

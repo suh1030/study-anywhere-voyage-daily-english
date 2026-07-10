@@ -1322,7 +1322,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does ethical care actually require from people?",
-            "zh": "那所謂倫理上的照顧，實際上會要求人做到什麼？"
+            "zh": "那所謂合乎倫理的照顧，實際上要求人做到什麼？"
           },
           {
             "speaker": "a",

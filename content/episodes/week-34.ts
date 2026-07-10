@@ -707,7 +707,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the workout has to fit the whole person, not just one goal. I can imagine someone pushing back on that.",
-            "zh": "所以運動必須適合整個人，不是只適合某一個目標。 還是我把它說得太整齊了？"
+            "zh": "所以運動必須適合整個人，不是只適合某一個目標。我可以想像有人會不同意這個說法。"
           },
           {
             "speaker": "a",
@@ -772,7 +772,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That line feels both obvious and liberating.",
-            "zh": "這句同時很 obvious，但又很解放。"
+            "zh": "這句聽起來理所當然，但又很讓人鬆一口氣。"
           },
           {
             "speaker": "a",
@@ -866,7 +866,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Workable and repeatable sounds less glamorous, but much more useful.",
-            "zh": "這聽起來沒那麼 glamorous，可是有用太多了。"
+            "zh": "可行又可重複，聽起來沒那麼吸引人，可是有用太多了。"
           },
           {
             "speaker": "a",
@@ -1280,7 +1280,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That invisible-audience detail makes the pressure easier to recognize.",
-            "zh": "這個區別讓事情清楚多了。"
+            "zh": "你講的那種看不見的觀眾，讓那種壓力變得比較容易被認出來。"
           },
           {
             "speaker": "b",
@@ -1310,7 +1310,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Seeing bodies as ranked objects makes the whole scroll feel more sinister.",
-            "zh": "這個框架改變了整個畫面。"
+            "zh": "把身體看成可以被排名的物件，會讓整個滑手機的過程感覺更陰暗。"
           },
           {
             "speaker": "a",
@@ -1786,7 +1786,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes the truest training advice is not very glamorous.",
-            "zh": "有時候最真的訓練建議，本來就不太 glamorous。"
+            "zh": "有時候最真的訓練建議，本來就不太光鮮亮麗。"
           }
         ]
       },

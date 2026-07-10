@@ -109,8 +109,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Improvement is often happening quietly before it looks impressive.",
-            "zh": "我們把它變得更實用一點。進步很多時候都在安靜地發生，還沒長成看起來很厲害的樣子。"
+            "en": "Improvement is often happening quietly before it looks impressive.",
+            "zh": "進步很多時候都在安靜地發生，還沒長成看起來很厲害的樣子。"
           }
         ]
       },
@@ -251,8 +251,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Put this in a real situation. Real growth usually feels less like a spotlight and more like relief.",
-            "zh": "我們把它變得更實用一點。真正的成長，常常比較不像鎂光燈，而比較像鬆一口氣。"
+            "en": "Real growth usually feels less like a spotlight and more like relief.",
+            "zh": "真正的成長，常常比較不像鎂光燈，而比較像鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -367,8 +367,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is the line I would practice. You still do not have to enjoy it, but it helps to recognize its role.",
-            "zh": "我們把它變得更實用一點。你還是不一定要喜歡它，但先認出它扮演的角色會有幫助。"
+            "en": "You still do not have to enjoy it, but it helps to recognize its role.",
+            "zh": "你還是不一定要喜歡它，但先認出它扮演的角色會有幫助。"
           }
         ]
       },
@@ -514,8 +514,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the sentence-level move. Healthy growth does not ask you to suffer forever. It asks you to stay honest long enough to adapt.",
-            "zh": "我們把它變得更實用一點。健康的成長，不是叫你永遠受苦，而是叫你誠實地待在這裡，待到足夠調整為止。"
+            "en": "Healthy growth does not ask you to suffer forever. It asks you to stay honest long enough to adapt.",
+            "zh": "健康的成長，不是叫你永遠受苦，而是叫你誠實地待在這裡，待到足夠調整為止。"
           },
           {
             "speaker": "b",
@@ -579,8 +579,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. A lot of freedom begins on the other side of feeling awkward.",
-            "zh": "我們把它變得更實用一點。很多自由，真的都在那個尷尬感的另一邊。"
+            "en": "A lot of freedom begins on the other side of feeling awkward.",
+            "zh": "很多自由，真的都在那個尷尬感的另一邊。"
           }
         ]
       }
@@ -683,8 +683,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Self-respect makes learning easier to sustain.",
-            "zh": "我們把它變得更實用一點。自我尊重，會讓學習比較撐得久。"
+            "en": "Self-respect makes learning easier to sustain.",
+            "zh": "自我尊重，會讓學習比較撐得久。"
           }
         ]
       },
@@ -736,8 +736,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Most adult learning problems are design problems, not character problems.",
-            "zh": "我們把它變得更實用一點。很多成年學習的問題，都是設計問題，不是人格問題。"
+            "en": "Most adult learning problems are design problems, not character problems.",
+            "zh": "很多成年學習的問題，都是設計問題，不是人格問題。"
           }
         ]
       },
@@ -842,8 +842,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On a regular weekday, it might look like this. Patience is often the hidden skill inside adult learning.",
-            "zh": "我們把它變得更實用一點。耐心，常常就是藏在成年學習裡的隱性技能。"
+            "en": "Patience is often the hidden skill inside adult learning.",
+            "zh": "耐心，常常就是藏在成年學習裡的隱性技能。"
           }
         ]
       },
@@ -895,8 +895,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A learner-friendly version is this. Adult learning is not a weaker version of student life. It is its own discipline.",
-            "zh": "我們把它變得更實用一點。成年學習不是學生時代的弱化版，它本身就是一種自己的修煉。"
+            "en": "Adult learning is not a weaker version of student life. It is its own discipline.",
+            "zh": "成年學習不是學生時代的弱化版，它本身就是一種自己的修煉。"
           }
         ]
       }
@@ -1194,8 +1194,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In plain English, I would say it this way. If your practice always feels comfortable, admired, or smooth, it may not be doing enough work.",
-            "zh": "我們把它變得更實用一點。如果你的練習總是很舒服、很值得被欣賞，或很順，那它可能沒有真的在做夠多工作。"
+            "en": "If your practice always feels comfortable, admired, or smooth, it may not be doing enough work.",
+            "zh": "如果你的練習總是很舒服、很值得被欣賞，或很順，那它可能沒有真的在做夠多工作。"
           },
           {
             "speaker": "b",
@@ -1310,8 +1310,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Slow progress can still be real progress.",
-            "zh": "我們把它變得更實用一點。慢的進步，還是可以是很真的進步。"
+            "en": "Slow progress can still be real progress.",
+            "zh": "慢的進步，還是可以是很真的進步。"
           }
         ]
       },
@@ -1469,8 +1469,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Slow seasons need language that helps you stay alive inside them.",
-            "zh": "我們把它變得更實用一點。慢的時期，真的需要一種能讓你在裡面還活著的語言。"
+            "en": "Slow seasons need language that helps you stay alive inside them.",
+            "zh": "慢的時期，真的需要一種能讓你在裡面還活著的語言。"
           }
         ]
       },
@@ -1679,8 +1679,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Learning needs enough safety to stay curious.",
-            "zh": "我們把它變得更實用一點。學習需要足夠安全感，才撐得住好奇心。"
+            "en": "Learning needs enough safety to stay curious.",
+            "zh": "學習需要足夠安全感，才撐得住好奇心。"
           }
         ]
       },
@@ -1826,8 +1826,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a workday version. Other people's strengths are supposed to expand your imagination, not shrink your worth.",
-            "zh": "我們把它變得更實用一點。別人的強，本來就應該拓展你的想像，不是壓縮你的價值感。"
+            "en": "Other people's strengths are supposed to expand your imagination, not shrink your worth.",
+            "zh": "別人的強，本來就應該拓展你的想像，不是壓縮你的價值感。"
           },
           {
             "speaker": "b",
@@ -1942,8 +1942,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The sentence can stay quite simple. Pressure drops when becoming stops sounding like a courtroom.",
-            "zh": "我們把它變得更實用一點。當『成為』不再像法庭，壓力就會下降。"
+            "en": "Pressure drops when becoming stops sounding like a courtroom.",
+            "zh": "當『成為』不再像法庭，壓力就會下降。"
           }
         ]
       },

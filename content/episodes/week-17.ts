@@ -268,8 +268,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The sentence should not feel like a poster. It should feel that way. Most of us will not save somebody's life this week, but we can absolutely make it easier for them to keep going.",
-            "zh": "我們把它變得更實用一點。這週我們大多數人都不會去拯救誰的人生，但我們完全可以讓某人比較容易撐過去。"
+            "en": "It should feel that way. Most of us will not save somebody's life this week, but we can absolutely make it easier for them to keep going.",
+            "zh": "本來就該是這樣。這週我們大多數人都不會去拯救誰的人生，但我們完全可以讓某人比較容易撐過去。"
           }
         ]
       }
@@ -526,7 +526,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the better habit is to act on the first workable impulse. Am I skipping the messy part?",
-            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。 還是我把它說得太整齊了？"
+            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。還是我把中間比較難的部分跳過了？"
           },
           {
             "speaker": "a",
@@ -1632,7 +1632,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most of the time it does not. Most of the time it looks like people remembering that they are not living beside strangers forever.",
-            "zh": "大多數時候不是。大多數時候，它看起來比較像是人們沒有忘記，自己不是永遠住在陌生人旁邊。"
+            "zh": "多半不是。多半的時候，它比較像是大家還記得：住在隔壁的，終究不該永遠是陌生人。"
           }
         ]
       },
@@ -1655,7 +1655,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the scale is small, but the effect can still be big. I am not sure if that covers the messy middle.",
-            "zh": "所以這些事規模很小，但效果其實可以很大。 還是我把它說得太整齊了？"
+            "zh": "所以這些事規模很小，但效果其實可以很大。還是我這樣講漏掉了中間那些比較難分的部分？"
           },
           {
             "speaker": "a",

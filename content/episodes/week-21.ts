@@ -109,8 +109,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful version would be this. Shame makes pressure harder to manage because it steals the little bit of clarity you still had.",
-            "zh": "我們把它變得更實用一點。羞愧只會讓壓力更難處理，因為它會把你原本剩下的那一點清楚也偷走。"
+            "en": "Shame makes pressure harder to manage because it steals the little bit of clarity you still had.",
+            "zh": "羞愧只會讓壓力更難處理，因為它會把你原本剩下的那一點清楚也偷走。"
           }
         ]
       },
@@ -215,8 +215,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where a concrete sentence helps. Pressure feels less heroic and more manageable once you stop treating support like failure.",
-            "zh": "我們把它變得更實用一點。當你不再把求援當成失敗，壓力就會變得比較不像英雄劇，而比較像一件可處理的事。"
+            "en": "Pressure feels less heroic and more manageable once you stop treating support like failure.",
+            "zh": "當你不再把求援當成失敗，壓力就會變得比較不像英雄劇，而比較像一件可處理的事。"
           },
           {
             "speaker": "b",
@@ -263,8 +263,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Mature pressure management is not impressive from the outside. It is stable from the inside.",
-            "zh": "我們把它變得更實用一點。成熟的壓力管理，從外面看不一定很厲害，可是從裡面看會很穩。"
+            "en": "Mature pressure management is not impressive from the outside. It is stable from the inside.",
+            "zh": "成熟的壓力管理，從外面看不一定很厲害，可是從裡面看會很穩。"
           }
         ]
       }
@@ -367,8 +367,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Once you can see the pattern, you stop turning every pressure mistake into a character judgment.",
-            "zh": "我們把它變得更實用一點。當你看見那個模式之後，你就比較不會把每一次壓力下的失誤都解讀成自己人格有問題。"
+            "en": "Once you can see the pattern, you stop turning every pressure mistake into a character judgment.",
+            "zh": "當你看見那個模式之後，你就比較不會把每一次壓力下的失誤都解讀成自己人格有問題。"
           }
         ]
       },
@@ -579,8 +579,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. If you can name what pressure is doing to your mind, it becomes much harder for it to quietly run your day.",
-            "zh": "我們把它變得更實用一點。當你能夠說出壓力正在對你的腦做什麼，它就比較難默默把你整天開走。"
+            "en": "If you can name what pressure is doing to your mind, it becomes much harder for it to quietly run your day.",
+            "zh": "當你能夠說出壓力正在對你的腦做什麼，它就比較難默默把你整天開走。"
           }
         ]
       }
@@ -736,8 +736,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Picture the moment. Guilt is a terrible project manager.",
-            "zh": "我們把它變得更實用一點。罪惡感是個很爛的專案經理。"
+            "en": "Guilt is a terrible project manager.",
+            "zh": "罪惡感是個很爛的專案經理。"
           }
         ]
       },
@@ -895,8 +895,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The copyable sentence is this. The people who handle pressure best are often just the people who can choose clearly before the room chooses for them.",
-            "zh": "我們把它變得更實用一點。最會處理壓力的人，很多時候其實只是那些能在房間替他做選擇之前，就先自己選清楚的人。"
+            "en": "The people who handle pressure best are often just the people who can choose clearly before the room chooses for them.",
+            "zh": "最會處理壓力的人，很多時候其實只是那些能在房間替他做選擇之前，就先自己選清楚的人。"
           }
         ]
       }
@@ -1052,8 +1052,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The spoken version can be direct. Once you see that, asking early stops looking weak and starts looking responsible.",
-            "zh": "我們把它變得更實用一點。當你看見這件事之後，早點開口就不再像軟弱，反而更像負責。"
+            "en": "Once you see that, asking early stops looking weak and starts looking responsible.",
+            "zh": "當你看見這件事之後，早點開口就不再像軟弱，反而更像負責。"
           }
         ]
       },
@@ -1105,8 +1105,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Asking for help should sound like coordination, not confession.",
-            "zh": "我們把它變得更實用一點。求助應該聽起來像協調，不是像自白。"
+            "en": "Asking for help should sound like coordination, not confession.",
+            "zh": "求助應該聽起來像協調，不是像自白。"
           }
         ]
       },
@@ -1182,8 +1182,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. If you wait until it is too late, the help is still possible, but the cost is higher for everyone.",
-            "zh": "我們把它變得更實用一點。如果你拖到太晚，支援也不是不可能，只是成本會變成每個人一起扛。"
+            "en": "If you wait until it is too late, the help is still possible, but the cost is higher for everyone.",
+            "zh": "如果你拖到太晚，支援也不是不可能，只是成本會變成每個人一起扛。"
           },
           {
             "speaker": "b",
@@ -1206,8 +1206,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. A well-timed ask is one of the most professional things a pressured person can do.",
-            "zh": "我們把它變得更實用一點。對一個正扛壓的人來說，一個時機對的求助，本來就是最專業的事之一。"
+            "en": "A well-timed ask is one of the most professional things a pressured person can do.",
+            "zh": "對一個正扛壓的人來說，一個時機對的求助，本來就是最專業的事之一。"
           }
         ]
       }
@@ -1363,8 +1363,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In ordinary life, the line gets smaller. Recovery begins when you stop judging the low battery and start responding to it.",
-            "zh": "我們把它變得更實用一點。恢復是從你不再批評那個低電量，而開始回應它開始的。"
+            "en": "Recovery begins when you stop judging the low battery and start responding to it.",
+            "zh": "恢復是從你不再批評那個低電量，而開始回應它開始的。"
           }
         ]
       },
@@ -1510,8 +1510,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a cleaner way to say it. A healthier pressure life includes the way you come down, not just the way you push through.",
-            "zh": "我們把它變得更實用一點。一個比較健康的扛壓人生，包含的不只是你怎麼撐過去，也包含你怎麼降下來。"
+            "en": "A healthier pressure life includes the way you come down, not just the way you push through.",
+            "zh": "一個比較健康的扛壓人生，包含的不只是你怎麼撐過去，也包含你怎麼降下來。"
           },
           {
             "speaker": "b",
@@ -1773,8 +1773,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "You can make it usable with one clear line. A leader also has to call the play when the room gets scattered.",
-            "zh": "我們把它變得更實用一點。而且當整個房間開始散掉時，帶頭的人也得把要打的 play 說出來。"
+            "en": "A leader also has to call the play when the room gets scattered.",
+            "zh": "而且當整個房間開始散掉時，帶頭的人也得把要打的 play 說出來。"
           },
           {
             "speaker": "b",
@@ -1785,8 +1785,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. People are less afraid when they know the next move, even if the situation is still hard.",
-            "zh": "我們把它變得更實用一點。就算情況還是難，當人知道下一步是什麼時，就會比較沒那麼怕。"
+            "en": "People are less afraid when they know the next move, even if the situation is still hard.",
+            "zh": "就算情況還是難，當人知道下一步是什麼時，就會比較沒那麼怕。"
           }
         ]
       },
@@ -1838,8 +1838,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Build that kind of room, and pressure stops feeling like pure damage and starts becoming something the team can survive together.",
-            "zh": "我們把它變得更實用一點。去打造那種房間，壓力就會慢慢不再像純粹的傷害，而比較像是團隊可以一起撐過的事。"
+            "en": "Build that kind of room, and pressure stops feeling like pure damage and starts becoming something the team can survive together.",
+            "zh": "去打造那種房間，壓力就會慢慢不再像純粹的傷害，而比較像是團隊可以一起撐過的事。"
           }
         ]
       }
@@ -1942,8 +1942,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. A healthier relationship with pressure starts with telling the truth about how much of it is self-generated.",
-            "zh": "我們把它變得更實用一點。跟壓力建立比較健康的關係，第一步就是老實看清楚：有多少其實是你自己製造出來的。"
+            "en": "A healthier relationship with pressure starts with telling the truth about how much of it is self-generated.",
+            "zh": "跟壓力建立比較健康的關係，第一步就是老實看清楚：有多少其實是你自己製造出來的。"
           }
         ]
       },
@@ -1995,8 +1995,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Start with the kind of sentence people actually say. Useful truth often does that first.",
-            "zh": "我們把它變得更實用一點。有用的真話，很多時候一開始就是會讓人不舒服。"
+            "en": "Useful truth often does that first.",
+            "zh": "有用的真話，很多時候一開始就是會讓人不舒服。"
           }
         ]
       },
@@ -2154,8 +2154,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For practice, try this version. The people who last are not always the people who push hardest. They are often the people who learned how to stay human while the work got hard.",
-            "zh": "我們把它變得更實用一點。真正走得長的人，不一定是那些推得最猛的人，很多時候反而是那些在工作變難時，還學會保持像人的人。"
+            "en": "The people who last are not always the people who push hardest. They are often the people who learned how to stay human while the work got hard.",
+            "zh": "真正走得長的人，不一定是那些推得最猛的人，很多時候反而是那些在工作變難時，還學會保持像人的人。"
           }
         ]
       }

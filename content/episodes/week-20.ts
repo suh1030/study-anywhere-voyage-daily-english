@@ -372,8 +372,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The copyable sentence is this. Important meetings deserve thinking before performance.",
-            "zh": "我們把它變得更實用一點。重要會議值得你先思考，再上場表現。"
+            "en": "Important meetings deserve thinking before performance.",
+            "zh": "重要會議值得你先思考，再上場表現。"
           }
         ]
       },
@@ -531,8 +531,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For everyday English, try this shape. Preparation is not perfectionism. It is respect for the moment and the people in it.",
-            "zh": "我們把它變得更實用一點。準備不是完美主義，它其實是對那個時刻，還有裡面那些人的尊重。"
+            "en": "Preparation is not perfectionism. It is respect for the moment and the people in it.",
+            "zh": "準備不是完美主義，它其實是對那個時刻，還有裡面那些人的尊重。"
           }
         ]
       },
@@ -584,8 +584,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Walk in ready, and half the nerves will already have less to feed on.",
-            "zh": "我們把它變得更實用一點。當你帶著準備走進去時，有一半的緊張就已經沒有那麼多東西可以吃了。"
+            "en": "Walk in ready, and half the nerves will already have less to feed on.",
+            "zh": "當你帶著準備走進去時，有一半的緊張就已經沒有那麼多東西可以吃了。"
           }
         ]
       }
@@ -794,8 +794,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. The best meeting language is often simple enough to survive nervousness.",
-            "zh": "我們把它變得更實用一點。最好用的會議語言，很多時候就是要簡單到你緊張時也講得出來。"
+            "en": "The best meeting language is often simple enough to survive nervousness.",
+            "zh": "最好用的會議語言，很多時候就是要簡單到你緊張時也講得出來。"
           }
         ]
       },
@@ -871,8 +871,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Calm directness is one of the most valuable professional voices you can build.",
-            "zh": "我們把它變得更實用一點。平靜的直接，其實是你在職場裡最值得培養的聲音之一。"
+            "en": "Calm directness is one of the most valuable professional voices you can build.",
+            "zh": "平靜的直接，其實是你在職場裡最值得培養的聲音之一。"
           },
           {
             "speaker": "b",
@@ -895,8 +895,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Start with the kind of sentence people actually say. Use it before you need it, and it will feel much more natural when the room gets tense.",
-            "zh": "我們把它變得更實用一點。在你真的很需要之前就先用它，等房間開始緊起來時，它就會自然很多。"
+            "en": "Use it before you need it, and it will feel much more natural when the room gets tense.",
+            "zh": "在你真的很需要之前就先用它，等房間開始緊起來時，它就會自然很多。"
           }
         ]
       }
@@ -1158,8 +1158,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a cleaner way to say it. The more a team can recognize that, the less likely it is to confuse heat with depth.",
-            "zh": "我們把它變得更實用一點。一個團隊越能認出這件事，就越不會把火氣誤以為深度。"
+            "en": "The more a team can recognize that, the less likely it is to confuse heat with depth.",
+            "zh": "一個團隊越能認出這件事，就越不會把火氣誤以為深度。"
           }
         ]
       },
@@ -1211,8 +1211,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where a concrete sentence helps. Keep that, and disagreement will stop feeling like damage and start feeling like work.",
-            "zh": "我們把它變得更實用一點。把這個版本記住，不同意就會慢慢不像傷害，而比較像真正的工作。"
+            "en": "Keep that, and disagreement will stop feeling like damage and start feeling like work.",
+            "zh": "把這個版本記住，不同意就會慢慢不像傷害，而比較像真正的工作。"
           }
         ]
       }
@@ -1527,8 +1527,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Invisible skills are still real skills, especially when they save ten people from losing an hour together.",
-            "zh": "我們把它變得更實用一點。看不見的技能，還是技能，尤其當它能一次幫十個人少浪費一小時的時候。"
+            "en": "Invisible skills are still real skills, especially when they save ten people from losing an hour together.",
+            "zh": "看不見的技能，還是技能，尤其當它能一次幫十個人少浪費一小時的時候。"
           }
         ]
       }
@@ -1826,8 +1826,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. The best virtual meetings feel intentional, humane, and just a little slower in the right places.",
-            "zh": "我們把它變得更實用一點。最好的線上會議，會讓人感覺它是有意識設計過的、有人味的，而且在該慢的地方願意慢一點。"
+            "en": "The best virtual meetings feel intentional, humane, and just a little slower in the right places.",
+            "zh": "最好的線上會議，會讓人感覺它是有意識設計過的、有人味的，而且在該慢的地方願意慢一點。"
           },
           {
             "speaker": "b",
@@ -2101,8 +2101,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Clean ideas often make messy rooms much kinder to live inside.",
-            "zh": "我們把它變得更實用一點。乾淨的概念，常常會讓亂掉的房間變得比較可住。"
+            "en": "Clean ideas often make messy rooms much kinder to live inside.",
+            "zh": "乾淨的概念，常常會讓亂掉的房間變得比較可住。"
           }
         ]
       },
@@ -2154,8 +2154,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Imagine a normal day. Build rooms where people can think out loud and still leave knowing what matters next.",
-            "zh": "我們把它變得更實用一點。去打造那種大家可以大聲思考，最後又能帶著下一步離開的房間。"
+            "en": "Build rooms where people can think out loud and still leave knowing what matters next.",
+            "zh": "去打造那種大家可以大聲思考，最後又能帶著下一步離開的房間。"
           }
         ]
       }

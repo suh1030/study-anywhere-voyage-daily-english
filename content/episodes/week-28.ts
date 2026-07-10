@@ -2066,7 +2066,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes, yes. More perception can mean more beauty, but it can also mean more overwhelm.",
-            "zh": "有時候會。感知變多，確實可能意味著更多美，但也可能意味著更多過載。"
+            "zh": "有時候會。感受變敏銳，可能代表看見更多美，也可能代表更多超載。"
           },
           {
             "speaker": "b",

@@ -421,7 +421,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. Evenings are not just leftover time. They are part of the system too.",
-            "zh": "我們把它變得更實用一點。晚上不是白天剩下來的時間，它本身也是整個系統的一部分。"
+            "zh": "講白話一點就是：晚上不是白天剩下來的時間，它本身也是整個系統的一部分。"
           }
         ]
       },
@@ -474,7 +474,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. Good language gives the transition a little dignity.",
-            "zh": "這裡是我想特別畫線的地方。好的語言，會讓轉場這件事多一點被尊重的空間。"
+            "zh": "對，這正是這句話有效的原因。好的語言，會讓轉場這件事多一點被尊重的空間。"
           }
         ]
       },
@@ -515,7 +515,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. People often think peace comes from finishing everything, but often it comes from holding things more gently.",
-            "zh": "我們把它變得更實用一點。很多人以為平靜是把所有事都做完才來，可是很多時候，它其實是從更溫柔地拿著那些事開始。"
+            "zh": "想一個真實的場景。很多人以為平靜是把所有事都做完才來，可是很多時候，它其實是從更溫柔地拿著那些事開始。"
           },
           {
             "speaker": "b",
@@ -1159,7 +1159,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. Better diagnosis leads to better solutions.",
-            "zh": "我們把它變得更實用一點。診斷得更準，解法通常也會更好。"
+            "zh": "如果要跟別人講，可以從這裡開始：診斷得更準，解法通常也會更好。"
           },
           {
             "speaker": "b",
@@ -1311,7 +1311,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Some hobbies are not extra. They are repair.",
-            "zh": "我們把它變得更實用一點。有些興趣不是額外加分，它本身就是修復。"
+            "zh": "我自己會這樣講：有些興趣不是額外加分，它本身就是修復。"
           }
         ]
       },
@@ -1417,7 +1417,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Hobbies deserve language that reflects their real value.",
-            "zh": "我們把它變得更實用一點。興趣值得被用一種真的有反映它價值的語言來講。"
+            "zh": "舉個真實的例子會更清楚：興趣值得用一種真正反映它價值的方式來講。"
           }
         ]
       },
@@ -1458,7 +1458,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. If something feeds your life, it should not always have to beg for the scraps of your week.",
-            "zh": "這裡是我想特別畫線的地方。如果某件事真的有在餵養你的生活，它就不該永遠只能撿你一週剩下的碎屑。"
+            "zh": "這一段特別值得練起來：如果某件事真的有在滋養你的生活，它就不該永遠只能撿你一週剩下的碎屑。"
           },
           {
             "speaker": "b",
@@ -1523,7 +1523,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The version people can actually use is simpler. A life with room for work and room for play is usually a life that can last.",
-            "zh": "我們把它變得更實用一點。一個既有工作空間、也有玩心空間的生活，通常也比較活得久。"
+            "zh": "真正能用的版本其實更簡單：一個既留給工作、也留給玩心的生活，通常比較撐得久。"
           }
         ]
       }
@@ -1786,7 +1786,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. People do not disappear all at once. They often just get undernourished in certain areas.",
-            "zh": "我們把它變得更實用一點。人不是一下子就消失，而是某些部分慢慢被餓到了。"
+            "zh": "講白話一點就是：人不是一下子就消失，而是某些部分慢慢被餓到了。"
           }
         ]
       },
@@ -1839,7 +1839,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. The best identity work usually begins in very ordinary hours.",
-            "zh": "我們把它變得更實用一點。最好的身份整理，通常都是從很普通的小時裡開始的。"
+            "zh": "想一個真實的時刻：最好的自我重整，通常都是從很平凡的時光裡開始的。"
           }
         ]
       }
@@ -2155,7 +2155,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. Real sustainability is not small ambition. It is intelligent ambition that plans to last.",
-            "zh": "我們把它變得更實用一點。真正的能長期維持，不是小野心，而是一種有打算活久一點的聰明野心。"
+            "zh": "如果要跟別人講，可以從這裡開始：真正能長久，靠的不是把野心變小，而是一種打算走遠的聰明野心。"
           }
         ]
       }

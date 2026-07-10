@@ -198,7 +198,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And what does writing it down actually change?",
-            "zh": "那把它寫下來，實際上改變了什麼？"
+            "zh": "那把它寫下來，具體改變了什麼？"
           },
           {
             "speaker": "a",
@@ -258,7 +258,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to build that muscle. Where does it actually start?",
-            "zh": "我想建立這種能力。它實際上從哪裡開始？"
+            "zh": "我想練出這種能力。具體要從哪裡開始？"
           },
           {
             "speaker": "a",
@@ -368,7 +368,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I get why that is closer to how it actually works.",
-            "zh": "這樣更老實地說出了它實際的運作方式。"
+            "zh": "我懂為什麼這樣講更貼近它實際運作的樣子。"
           }
         ]
       },
@@ -385,7 +385,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the future is where people park their identity. What someone believes about the future often reflects what they value right now.",
-            "zh": "因為未來是人們停放身份認同的地方。一個人對未來的信念，往往反映的是他們現在重視什麼。"
+            "zh": "因為未來是大家安放自我認同的地方。一個人對未來的信念，反映的往往是他現在最在乎什麼。"
           },
           {
             "speaker": "b",
@@ -660,7 +660,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because good news often means higher stakes. More visibility, more responsibility, more to lose if things go wrong.",
-            "zh": "因為好消息往往意味著更高的風險。更多的曝光、更多的責任、如果出錯就有更多可以失去的東西。"
+            "zh": "因為好消息常常伴隨更高的風險：更多曝光、更多責任、一旦出錯要賠上的也更多。"
           },
           {
             "speaker": "b",
@@ -790,7 +790,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Complete meaning both the hard parts and the hopeful parts.",
-            "zh": "完整意味著既包含困難的部分，也包含有希望的部分。"
+            "zh": "所謂完整，就是困難的部分和有希望的部分都要包含在內。"
           },
           {
             "speaker": "a",
@@ -837,7 +837,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. A plan B does not mean you are giving up. It means you have covered the ground, so your brain can relax.",
-            "zh": "沒錯。有備案不意味著你放棄了，它意味著你已經把情況考慮進去了，所以你的大腦可以放鬆。"
+            "zh": "沒錯。有備案不代表你放棄了，而是代表狀況已經被你想過一輪，大腦才能真正放鬆。"
           },
           {
             "speaker": "b",
@@ -866,7 +866,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Honestly, it is not optimism in the abstract. It is watching people solve specific problems in front of me. That keeps me grounded.",
-            "zh": "說實話，不是抽象的樂觀，而是看著人們在我面前解決具體的問題。這讓我保持踏實。"
+            "zh": "老實說，撐住我的不是抽象的樂觀，而是親眼看著身邊的人解決一個個具體的問題。這讓我很踏實。"
           },
           {
             "speaker": "b",
@@ -896,7 +896,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is an especially active form of hope. You are curating what you let in.",
-            "zh": "這是一種非常主動的希望形式。你在策展你允許進來的東西。"
+            "zh": "這是一種很主動的希望。你在挑選自己要讓什麼進到心裡。"
           },
           {
             "speaker": "a",
@@ -1023,7 +1023,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Historically, most technology has changed jobs more than it has eliminated them. But that does not mean every individual job is safe.",
-            "zh": "從歷史上看，大多數技術改變的是工作，而不是消除工作。但這不意味著每個個人的工作都是安全的。"
+            "zh": "從歷史上看，多數科技是改變工作的樣貌，而不是讓工作消失。但這不代表每個人的飯碗都安全。"
           },
           {
             "speaker": "b",
@@ -1201,7 +1201,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Deliberate attention. Leaders who keep asking how people are experiencing the change, not just whether the metrics are moving.",
-            "zh": "刻意的關注。領導者要持續詢問人們如何體驗這些變化，而不只是資料指標是否在移動。"
+            "zh": "刻意的關注。領導者要一直去問大家「這些改變過起來是什麼感覺」，而不是只盯著數據有沒有動。"
           },
           {
             "speaker": "b",
@@ -1275,7 +1275,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I hear people talk about wanting a better future all the time, but when I ask what that means specifically, the answers are very different.",
-            "zh": "我常常聽到人們說想要一個更好的未來，但當我問那具體是什麼意思時，答案差異很大。"
+            "zh": "我常聽到大家說想要更好的未來，但一問「具體是指什麼」，答案就五花八門了。"
           },
           {
             "speaker": "a",
@@ -1311,13 +1311,13 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the first step is actually listening, not proposing.",
-            "zh": "所以第一步實際上是聆聽，而不是提議。"
+            "zh": "所以第一步其實是傾聽，不是提案。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Always. The future people will commit to is usually one they felt heard in shaping.",
-            "zh": "永遠是這樣。人們會投入的未來，通常是那個他們感覺到自己的聲音在其中被聽見的未來。"
+            "zh": "永遠如此。大家願意投入的未來，通常是那個能聽見自己聲音的未來。"
           }
         ]
       },
@@ -1328,7 +1328,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I notice there is often a gap between the future people say they want and the choices they actually make day to day. Why?",
-            "zh": "我注意到人們說想要的未來和他們每天實際做的選擇之間，常常存在很大的差距。為什麼？"
+            "zh": "我發現大家「嘴上想要的未來」跟「每天實際的選擇」常常差很遠。為什麼？"
           },
           {
             "speaker": "a",
@@ -1346,7 +1346,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Behavioral economists call it present bias. The near-term always feels more important than it actually is.",
-            "zh": "沒錯。行為經濟學家稱之為當下偏誤，近期總是感覺比它實際上更重要。"
+            "zh": "沒錯。行為經濟學家叫它「當下偏誤」：眼前的事，永遠感覺比它實際的份量重。"
           },
           {
             "speaker": "b",
@@ -1423,7 +1423,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That combination is actually more convincing than false certainty. People trust honest uncertainty paired with clear intention.",
-            "zh": "這種組合實際上比虛假的確定性更有說服力。人們信任誠實的不確定性加上清晰的意圖。"
+            "zh": "這種組合其實比裝出來的篤定更有說服力。誠實的不確定，加上清晰的意圖，大家反而更信任。"
           }
         ]
       },
@@ -1476,7 +1476,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often it does. And that early identity shift is actually what gives people the persistence to keep going when things get difficult.",
-            "zh": "通常是這樣。而那個早期的身份認同轉變，實際上是給人們在事情變得困難時繼續堅持下去的持久力的東西。"
+            "zh": "通常是這樣。而那個早期的自我認同轉變，正是讓人在事情變難時還能撐下去的續航力來源。"
           }
         ]
       },
@@ -1487,7 +1487,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to ask a bigger question. Looking at the world right now, what do you think the future actually needs from people like us?",
-            "zh": "我想問一個更大的問題。看看現在的世界，你認為未來實際上需要我們這樣的人做什麼？"
+            "zh": "我想問個更大的問題。看看現在的世界，你覺得未來真正需要我們這種人做什麼？"
           },
           {
             "speaker": "a",
@@ -1523,7 +1523,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's actually not that abstract. Those are things you can practice today.",
-            "zh": "這實際上並不那麼抽象。那些都是你今天就可以練習的事情。"
+            "zh": "這其實沒那麼抽象，全都是今天就能開始練的事。"
           },
           {
             "speaker": "a",
@@ -1662,7 +1662,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly, yes. Committing to the destination while staying flexible about the route is actually the most effective kind of planning.",
-            "zh": "大致上是。對目的地做出承諾，同時對路線保持靈活，實際上是最有效的規劃方式。"
+            "zh": "差不多。對目的地堅定、對路線保持彈性，其實就是最有效的規劃方式。"
           },
           {
             "speaker": "b",
@@ -1768,7 +1768,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. An uncertain future does not mean no preparation is possible. It means preparing broadly rather than narrowly.",
-            "zh": "沒錯。不確定的未來並不意味著不可能做準備，它意味著廣泛地而不是狹隘地做準備。"
+            "zh": "沒錯。未來不確定，不代表無法準備，而是要準備得廣一點，而不是押寶在單一路線上。"
           },
           {
             "speaker": "b",
@@ -1803,7 +1803,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to get better at actually being okay with not knowing. Not just intellectually, but actually feeling okay.",
-            "zh": "我想更好地真正接受不知道的狀態，不只是理智上接受，而是實際上感覺沒問題。"
+            "zh": "我想更能接受「不知道」這件事——不只是道理上接受，而是真的感覺沒關係。"
           },
           {
             "speaker": "a",
@@ -1815,7 +1815,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Meaning the more you have navigated uncertainty before, the less threatening it feels.",
-            "zh": "也就是說，你之前越多次在不確定性中導航，它感覺就越不那麼有威脅性。"
+            "zh": "也就是說，你以前越常走過不確定的時期，它感覺就越沒有威脅性。"
           },
           {
             "speaker": "a",
@@ -1827,7 +1827,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the tolerance for uncertainty is built through retrospection, not just intention.",
-            "zh": "所以對不確定性的容忍度是透過回顧建立的，而不只是透過意圖。"
+            "zh": "所以對不確定性的耐受，是靠回顧累積出來的，不只是靠決心。"
           },
           {
             "speaker": "a",
@@ -1839,7 +1839,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a reframe I did not expect. Looking back is actually part of building forward.",
-            "zh": "這是一個我沒有預料到的重新定義。回顧實際上是向前建設的一部分。"
+            "zh": "這個重新定義我沒料到：原來回顧本身，就是往前蓋的一部分。"
           },
           {
             "speaker": "a",
@@ -2078,7 +2078,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So most of the urgent-feeling stuff is actually just noise.",
-            "zh": "所以大多數感覺緊迫的事情實際上只是雜音。"
+            "zh": "所以大部分感覺十萬火急的事，其實只是雜訊。"
           },
           {
             "speaker": "a",

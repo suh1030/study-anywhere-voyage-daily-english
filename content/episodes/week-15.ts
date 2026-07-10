@@ -331,7 +331,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I read that people form a first impression within seven seconds of meeting someone. That lands as terrifyingly fast.",
-            "zh": "我讀到人們在與某人見面後七秒內就形成第一印象。感覺快得令人恐懼。"
+            "zh": "我看過一個說法：第一印象在見面七秒內就定型了。快得有點嚇人。"
           },
           {
             "speaker": "a",
@@ -355,7 +355,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Eye contact is huge. People notice immediately whether you are actually looking at them or looking past them.",
-            "zh": "眼神接觸非常重要。人們立刻就能感覺到你是真的在看他們，還是視線飄過他們。"
+            "zh": "眼神接觸超重要。對方馬上就能感覺到你是真的在看他，還是眼神只是飄過去。"
           },
           {
             "speaker": "a",
@@ -490,7 +490,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do you think people present themselves the same way online as they do in person?",
-            "zh": "你覺得人們在網路上和現實中呈現自己的方式一樣嗎？"
+            "zh": "你覺得大家在網路上和現實中呈現自己的樣子，是同一個人嗎？"
           },
           {
             "speaker": "a",
@@ -1035,7 +1035,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And people notice. His credibility with the team is much higher because of it.",
-            "zh": "而且人們都有感覺到。正因如此，他在團隊中的可信度要高得多。"
+            "zh": "而且大家都感覺得到。正因為這樣，他在團隊裡的可信度高出一大截。"
           },
           {
             "speaker": "b",
@@ -1410,13 +1410,13 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Unsolicited feedback is uncomfortable. But it is often more accurate than what people say when you ask directly.",
-            "zh": "不請自來的回饋很不舒服。但它往往比你直接詢問時人們說的更準確。"
+            "zh": "沒被邀請的回饋聽起來刺耳，但往往比你主動去問時聽到的更接近真話。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Because when you ask, people tend to soften it.",
-            "zh": "因為當你主動詢問時，人們往往會說得溫和一些。"
+            "zh": "因為當你開口問的時候，大家通常會講得客氣一點。"
           },
           {
             "speaker": "a",
@@ -1821,7 +1821,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And sometimes people grow back toward each other after a gap. I have experienced that too.",
-            "zh": "對。有時候人們在分開一段時間後會重新靠近。我也有過這樣的經歷。"
+            "zh": "對。有些朋友分開一陣子之後又會重新靠近，我自己就遇過。"
           },
           {
             "speaker": "b",
@@ -1839,7 +1839,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a much more optimistic view than treating relationships as either working or not working.",
-            "zh": "這比把關係看作要麼有效要麼無效，樂觀得多。"
+            "zh": "這比把關係看成「不是有效就是無效」的二分法，樂觀得多。"
           }
         ]
       }
@@ -1960,7 +1960,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do you do that practically?",
-            "zh": "你實際上怎麼做到這一點？"
+            "zh": "具體來說要怎麼做？"
           },
           {
             "speaker": "a",
@@ -2143,7 +2143,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Becoming more fully yourself is not about fixing what is broken. It is about understanding what is actually there.",
-            "zh": "就是這樣。更完整地成為自己，不是關於修復破損的東西。而是關於理解那裡實際上有什麼。"
+            "zh": "就是這樣。更完整地成為自己，不是在修理壞掉的東西，而是看清楚自己身上原本就有什麼。"
           },
           {
             "speaker": "b",

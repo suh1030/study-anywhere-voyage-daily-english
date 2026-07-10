@@ -555,13 +555,13 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So performing safety actually leads to loneliness.",
-            "zh": "所以表演安全感實際上導致了孤獨。"
+            "zh": "所以「假裝一切都好」的表演，反而造成了孤獨。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often yes. Real friendship needs real information. And real information means sometimes people will not connect with you, and that is actually fine.",
-            "zh": "常常是的。真正的友誼需要真實的資訊。而真實的資訊意味著有時候人們不會跟你產生連結，那其實沒關係。"
+            "zh": "常常是這樣。真正的友誼需要真實的自己。而攤開真實的自己，代表有些人不會跟你合拍——那其實沒關係。"
           },
           {
             "speaker": "b",
@@ -585,7 +585,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the whole thing. And it takes longer than it did at school. But when it happens, it is worth every awkward coffee you sat through.",
-            "zh": "就是那樣。而且它花的時間比在學校時更長。但當它發生的時候，那值得你坐過的每一次尷尬咖啡。"
+            "zh": "就是這樣。而且它花的時間比學生時代更長。但真的發生的時候，你會覺得那些尷尬的約喝咖啡全都值得了。"
           }
         ]
       }
@@ -848,7 +848,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's it. Distance does not erase shared history. It just means you have to choose to continue writing it.",
-            "zh": "就是這樣。距離不會抹去共同的過去，只是意味著你必須選擇繼續書寫它。"
+            "zh": "就是這樣。距離不會抹掉共同的過去，只是代表你得主動選擇，繼續把它寫下去。"
           }
         ]
       }
@@ -963,7 +963,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Even when I want to patch things up, I do not know how to start. What stops people from repairing a friendship?",
-            "zh": "即使我想修好這段友誼，我也不知道怎麼開始。是什麼讓人們無法修復一段友誼？"
+            "zh": "就算我想修補這段友誼，也不知道從哪開始。到底是什麼卡住了大家，讓友誼修不回來？"
           },
           {
             "speaker": "a",
@@ -1016,7 +1016,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does a good apology actually look like in English? I always worry mine sound defensive.",
-            "zh": "一個好的道歉在英文裡實際上是什麼樣子？我總是擔心我的道歉聽起來很防禦性。"
+            "zh": "用英文道歉，一個好的道歉到底長什麼樣子？我老是怕自己的道歉聽起來像在辯解。"
           },
           {
             "speaker": "a",
@@ -1058,7 +1058,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's their right. An apology is an offer, not a demand for forgiveness. Sometimes people need time to process before they can respond.",
-            "zh": "那是他們的權利。道歉是一個提議，而不是要求原諒。有時候人們在能夠回應之前需要時間消化。"
+            "zh": "那是對方的權利。道歉是一份提出來的心意，不是強迫對方原諒。有些人需要先消化，才有辦法回應。"
           }
         ]
       },
@@ -1081,7 +1081,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would that actually look like?",
-            "zh": "那實際上看起來是什麼樣子？"
+            "zh": "那具體來說會是什麼樣子？"
           },
           {
             "speaker": "a",
@@ -1152,7 +1152,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And when people feel understood, they tend to soften. The defensiveness goes down and repair becomes possible.",
-            "zh": "沒錯。而當人們感到被理解時，他們往往會軟化。防禦性降低，修復就變得可能。"
+            "zh": "沒錯。人一旦覺得被理解，通常就會軟下來。防備一鬆，修復才有可能。"
           },
           {
             "speaker": "b",
@@ -1256,7 +1256,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's comparison. People post their highlights, and you compare their best moments to your ordinary Tuesday. It is not a fair comparison.",
-            "zh": "那是比較。人們貼出他們的精彩時刻，而你把他們最好的時刻和你平凡的週二相比。那不是公平的比較。"
+            "zh": "那就是比較心態。大家貼的都是自己的高光時刻，而你拿人家最精彩的一刻，來比你平凡的星期二。這場比較從頭就不公平。"
           },
           {
             "speaker": "b",
@@ -1291,7 +1291,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the habit of passive engagement can make us feel like we are maintaining friendships when we are actually just watching them from a distance. Does that match what you mean?",
-            "zh": "所以被動互動的習慣會讓我們覺得在維持友誼，實際上我們只是在遠距離觀看。 還是我把它說得太整齊了？"
+            "zh": "所以按讚滑動態這種被動互動，會讓我們以為自己在維繫友誼，其實只是在遠遠地觀看。還是我講得太武斷了？"
           },
           {
             "speaker": "a",
@@ -1463,7 +1463,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. So protecting your attention is actually protecting your ability to have real friendships.",
-            "zh": "對。所以保護你的注意力實際上是保護你建立真實友誼的能力。"
+            "zh": "對。所以守住你的注意力，其實就是守住你建立真實友誼的能力。"
           },
           {
             "speaker": "b",
@@ -1590,7 +1590,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do people only ever have one or two real best friends? Is it just about time?",
-            "zh": "為什麼人們只會有一到兩個真正的最好朋友？只是因為時間嗎？"
+            "zh": "為什麼大多數人真正的摯友都只有一兩個？純粹是時間不夠嗎？"
           },
           {
             "speaker": "a",
@@ -1696,7 +1696,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do people do wrong that slowly damages even a very strong friendship?",
-            "zh": "人們做了什麼錯事，會慢慢損害甚至是很強的友誼？"
+            "zh": "大家最常犯什麼錯，會慢慢磨掉一段原本很堅固的友誼？"
           },
           {
             "speaker": "a",
@@ -1714,7 +1714,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can. People stop making effort because they assume the other person knows they care. But actions speak louder than assumptions.",
-            "zh": "它可以。人們停止努力，因為他們假設對方知道他們在乎。但行動比假設更有說服力。"
+            "zh": "會的。很多人不再用心，是因為認定「對方知道我在乎」。但行動永遠比假設有說服力。"
           },
           {
             "speaker": "b",
@@ -1726,7 +1726,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Notice their wins, even the small ones. Many friendships are good at showing up for hard times but forget to show up for the good ones.",
-            "zh": "標記他們的成功，即使是小的。很多友誼很擅長在困難時出現，但忘記在好的時候也要出現。"
+            "zh": "看見他們的好消息，就算是小小的成就也一樣。很多友誼很擅長在困難時出現，卻忘了在對方順利的時候也要在場。"
           },
           {
             "speaker": "b",
@@ -1738,7 +1738,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People remember who cheered loudest for them. Not just who came when things were hard.",
-            "zh": "對。人們記得誰為他們歡呼最大聲，而不只是誰在事情困難時來了。"
+            "zh": "對。大家記得的，是誰替自己歡呼得最大聲，而不只是誰在低潮時出現過。"
           }
         ]
       },
@@ -1755,7 +1755,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the most common thing people say when they describe a best friendship. That feeling of being enough is exactly what makes it irreplaceable.",
-            "zh": "那是人們描述最好的友誼時最常說的事。那種足夠的感覺正是讓它無可取代的東西。"
+            "zh": "描述最好的友誼時，大家最常講的就是這個。那種「有他就夠了」的感覺，正是它無可取代的原因。"
           },
           {
             "speaker": "b",
@@ -1871,7 +1871,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly. But more importantly, attention to listening. You cannot assume your experience translates. You have to ask more and assume less.",
-            "zh": "部分是。但更重要的是，注意聆聽。你不能假設你的經歷可以直接翻譯。你必須多問少假設。"
+            "zh": "有一部分是。但更重要的是，要留意聆聽。你不能假設你的經驗可以直接套用到對方身上。你得多問一點、少假設一點。"
           },
           {
             "speaker": "b",
@@ -1889,7 +1889,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "But those friendships also seem more interesting when they work.",
-            "zh": "但那些友誼在有效的時候也似乎更有趣。"
+            "zh": "但那種友誼一旦行得通，好像也更有趣。"
           },
           {
             "speaker": "a",
@@ -1971,7 +1971,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That question changes the whole tone. You are asking to learn, not to counter.",
-            "zh": "那個問題改變了整個語氣。你是在問著學習，不是在反駁。"
+            "zh": "那個問句會改變整個語氣。你是為了理解而問，不是為了反駁而問。"
           },
           {
             "speaker": "a",
@@ -2012,7 +2012,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What has having friends from very different backgrounds actually taught you?",
-            "zh": "有來自非常不同背景的朋友，實際上教會了你什麼？"
+            "zh": "有背景跟你差很多的朋友，實際帶給你什麼？"
           },
           {
             "speaker": "a",
@@ -2077,13 +2077,13 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "But it also requires people to be willing to be in the same room first.",
-            "zh": "但它也需要人們願意首先在同一個房間裡。"
+            "zh": "但它也需要大家願意先待在同一個空間裡。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. And that is increasingly rare. People tend to organize their lives around people who already share their views.",
-            "zh": "真的。而那越來越稀少了。人們傾向於圍繞著已經分享他們觀點的人來組織自己的生活。"
+            "zh": "真的，而且這越來越稀有了。大家的生活圈，越來越只剩下跟自己想法一樣的人。"
           },
           {
             "speaker": "b",

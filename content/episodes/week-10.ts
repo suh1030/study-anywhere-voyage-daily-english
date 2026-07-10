@@ -532,7 +532,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. A useful routine should feel repeatable on an ordinary day, not only admirable on a perfect one.",
-            "zh": "我們把它變得更實用一點。真正有用的 routine，應該在普通的一天也能重複，而不是只在完美日子裡看起來值得佩服。"
+            "zh": "想一個真實的當下。真正有用的 routine，應該在普通的一天也重複得下去，而不是只在完美日子裡看起來值得佩服。"
           },
           {
             "speaker": "b",
@@ -556,7 +556,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. A morning routine is support, not virtue. It exists to make the day easier to enter.",
-            "zh": "我們把它變得更實用一點。morning routine 本來就應該是支持，不是美德。它存在的目的，是讓你更容易走進一天。"
+            "zh": "如果你要跟別人講這件事，可以從這裡開始。morning routine 本來就是支持，不是美德。它存在的目的，是讓你更容易走進一天。"
           },
           {
             "speaker": "b",
@@ -1523,7 +1523,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. That means you are finally asking the weekend for something human instead of something heroic.",
-            "zh": "我們把它變得更實用一點。那代表你終於是在向週末要一種比較像人的東西，而不是要一種英雄任務。"
+            "zh": "如果是我，我會這樣說。那代表你終於是在向週末要一種比較像人的東西，而不是要一種英雄任務。"
           }
         ]
       }
@@ -1733,7 +1733,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Pace becomes easier to change once you can hear what pattern you are actually repeating.",
-            "zh": "我們把它變得更實用一點。當你終於聽得見自己到底在重複什麼模式時，節奏就比較有可能改變。"
+            "zh": "舉個真實一點的例子會更清楚。當你終於聽得見自己到底在重複什麼模式時，節奏就比較有可能改變。"
           }
         ]
       },

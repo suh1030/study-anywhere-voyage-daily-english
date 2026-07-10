@@ -14,20 +14,20 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Why do people mark so much in every culture?",
-            "zh": "為什麼幾乎每一種文化裡，人都會花很多力氣去標記？"
+            "en": "Why do people in every culture put so much effort into marking special moments?",
+            "zh": "為什麼幾乎每一種文化裡，人們都願意花這麼多心力去紀念特別的時刻？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because gatherings do more than create fun. They help people mark time, remember meaning, and feel part of something larger.",
-            "zh": "因為標記不只是好玩而已。它會幫人標記時間、記住意義，也讓人感覺自己屬於更大的群體。"
+            "zh": "因為聚在一起不只是好玩而已。它幫人在時間上做記號、記住重要的意義，也讓人感覺自己屬於一個更大的群體。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a gathering is almost like a social pause button.",
-            "zh": "所以標記很像是一種社會版的暫停鍵。"
+            "zh": "所以聚會很像是一種社會版的暫停鍵。"
           },
           {
             "speaker": "a",
@@ -39,19 +39,19 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That explains family meals, reunions, and community milestones.",
-            "zh": "這就能解釋家庭里程碑、聚會和社群里程碑這些事。"
+            "zh": "這就能解釋家庭聚餐、家族團聚，還有社區的重要日子這些事了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly right. Even a small family meal can become a gathering if people treat it like one.",
-            "zh": "沒錯。就算只是家人一起吃飯，只要大家帶著那種心情去面對，它也能成為一種標記。"
+            "zh": "沒錯。就算只是家人一起吃頓飯，只要大家用那種心情去對待，它也能變成一場真正的聚會。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So gathering depends on attention, not only scale.",
-            "zh": "所以標記這件事，靠的不只是規模，也靠注意力。"
+            "en": "So a gathering depends on attention, not only scale.",
+            "zh": "所以聚會的重點不在規模，而在大家有沒有用心。"
           },
           {
             "speaker": "a",
@@ -68,7 +68,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do gatherings give people emotionally?",
-            "zh": "那在情緒上，標記會帶給人什麼？"
+            "zh": "那在情緒上，聚會能帶給人什麼？"
           },
           {
             "speaker": "a",
@@ -80,7 +80,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So not every gathering is cheerful all the way through.",
-            "zh": "所以不是每一種標記都會從頭到尾很歡樂。"
+            "zh": "所以不是每一場聚會都從頭到尾很歡樂。"
           },
           {
             "speaker": "a",
@@ -92,13 +92,13 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes gatherings sound deeper than I usually think of them.",
-            "zh": "這樣聽起來，標記好像比我平常想得更深。"
+            "zh": "這樣聽起來，聚會的意義比我平常想的深多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They are deeper. A gathering can become a memory anchor for years.",
-            "zh": "它們本來就比較深。一場標記可能會變成你很多年後還記得的記憶錨點。"
+            "zh": "它們本來就比較深。一場聚會可能會變成你很多年後還記得的記憶錨點。"
           },
           {
             "speaker": "b",
@@ -110,7 +110,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is why people keep making room for them.",
-            "zh": "沒錯。這也就是為什麼人們會一直替標記留位置。"
+            "zh": "沒錯。這也就是為什麼人們會一直替聚會留位置。"
           }
         ]
       },
@@ -121,7 +121,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is useful for talking about gatherings?",
-            "zh": "如果要談標記，有哪些英文說法會很好用？"
+            "zh": "如果要談聚會，有哪些英文說法會很好用？"
           },
           {
             "speaker": "a",
@@ -139,7 +139,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another option people actually use is: \"The gathering brought everyone together.\" I would use it when the event was more about people than activities.",
-            "zh": "另一句很好用的是：「The gathering brought everyone together.」如果那場標記重點比較在人和關係上，這句很適合。"
+            "zh": "另一句很好用的是：「The gathering brought everyone together.」如果那場聚會重點比較在人和關係上，這句很適合。"
           },
           {
             "speaker": "b",
@@ -163,7 +163,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Gathering language is often simple, but emotionally rich.",
-            "zh": "沒錯。標記相關的語言通常不難，但情感很豐富。"
+            "zh": "沒錯。聚會相關的英文通常不難，但情感很豐富。"
           }
         ]
       },
@@ -174,13 +174,13 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do small gatherings matter as much as big ones?",
-            "zh": "那小小的標記，真的和大型標記一樣有價值嗎？"
+            "zh": "那小型的聚會，真的和盛大的聚會一樣有價值嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In some ways, yes. Small gatherings happen more often, so they may shape daily life even more.",
-            "zh": "某些方面是這樣。小標記發生得更頻繁，所以它對日常生活的影響，有時候反而更大。"
+            "zh": "某些方面是這樣。小聚會發生得更頻繁，所以對日常生活的影響，有時候反而更大。"
           },
           {
             "speaker": "b",
@@ -197,20 +197,20 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So gathering can be built into normal life too.",
-            "zh": "所以標記也可以被放進很普通的生活裡。"
+            "en": "So gatherings can be built into normal life too.",
+            "zh": "所以慶祝也可以放進很普通的日常裡。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. When people wait only for major events, they miss many chances to feel gratitude and connection.",
-            "zh": "真的會。當人只等重大事件才標記時，他會錯過很多感恩和連結的機會。"
+            "zh": "真的會。如果只有大事才慶祝，就會錯過很多感恩和連結的機會。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes me want to mark more ordinary things.",
-            "zh": "這讓我想多標記一些很普通的事。"
+            "zh": "這讓我想多為一些很平凡的事慶祝一下。"
           },
           {
             "speaker": "a",
@@ -222,7 +222,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do gatherings protect in the end?",
-            "zh": "說到底，標記到底在保護什麼？"
+            "zh": "說到底，這些聚會儀式到底在守護什麼？"
           },
           {
             "speaker": "a",
@@ -234,7 +234,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a gathering helps life keep its shape.",
-            "zh": "所以標記會幫生活保留它的形狀。"
+            "zh": "所以聚會能幫生活保住它的形狀。"
           },
           {
             "speaker": "a",
@@ -302,7 +302,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "small gathering",
-        "zh": "不大張旗鼓，但仍然值得標記的小時刻",
+        "zh": "不大張旗鼓，但仍然值得紀念的小時刻",
         "example": "They turned the promotion into a small gathering at home."
       },
       {
@@ -1269,7 +1269,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why is food so central to gatherings?",
-            "zh": "為什麼食物在標記裡，總是這麼核心？"
+            "zh": "為什麼食物在聚會裡，總是這麼核心？"
           },
           {
             "speaker": "a",
@@ -1434,7 +1434,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Gatherings often look effortless from the outside, but someone usually carried a lot of invisible labor.",
-            "zh": "是真的。很多標記從外面看起來很輕鬆，但通常都有人默默扛了很多看不見的勞動。"
+            "zh": "是真的。很多聚會從外面看起來很輕鬆，但通常都有人默默扛了很多看不見的勞動。"
           },
           {
             "speaker": "b",
@@ -1585,7 +1585,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why does music show up at almost every gathering?",
-            "zh": "為什麼幾乎每一種標記裡，都會有音樂？"
+            "zh": "為什麼幾乎每一種聚會裡，都會有音樂？"
           },
           {
             "speaker": "a",
@@ -1609,7 +1609,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's why silence at a gathering can feel strange.",
-            "zh": "這也就是為什麼，沒有音樂的標記有時候會讓人覺得怪怪的。"
+            "zh": "這也就是為什麼，沒有音樂的聚會有時候會讓人覺得怪怪的。"
           },
           {
             "speaker": "a",
@@ -1650,7 +1650,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gathering becomes physical, not only emotional.",
-            "zh": "所以標記會變成身體上的，不只是情緒上的。"
+            "zh": "所以聚會的體驗會進到身體裡，不只是停留在情緒上。"
           },
           {
             "speaker": "a",
@@ -1668,19 +1668,19 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes especially then. Simplicity makes participation easier, and participation is often the real heart of gathering.",
-            "zh": "有時候反而正因為簡單。因為簡單會讓人更容易參與，而參與本身常常才是標記真正的核心。"
+            "zh": "有時候反而正因為簡單。因為簡單會讓人更容易參與，而參與本身常常才是聚會真正的核心。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the gathering itself grows when the barrier to join it goes down.",
-            "zh": "所以當加入的門檻降低，標記本身也會跟著變得更豐富。"
+            "zh": "所以當加入的門檻降低，聚會本身也會跟著變得更豐富。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A gathering becomes stronger when more people can join it.",
-            "zh": "當更多人能加入，標記本身就會更有力量。"
+            "zh": "當更多人能加入，聚會本身就會更有力量。"
           }
         ]
       },
@@ -1691,7 +1691,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is useful when talking about music and gathering?",
-            "zh": "如果要談音樂和標記，有哪些英文會很好用？"
+            "zh": "如果要談音樂和聚會，有哪些英文會很好用？"
           },
           {
             "speaker": "a",
@@ -1721,7 +1721,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also go with \"Everyone joined in.\" I would use it when the gathering became communal.",
-            "zh": "你也可以說：「Everyone joined in.」如果整個標記變得很有共同參與感，這句很好用。"
+            "zh": "你也可以說：「Everyone joined in.」如果整場聚會變得很有共同參與感，這句很好用。"
           },
           {
             "speaker": "b",
@@ -1750,7 +1750,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because old songs carry memory. They connect the present gathering to earlier ones.",
-            "zh": "因為老歌會承載記憶。它會把現在這場標記，連到以前那些時刻。"
+            "zh": "因為老歌會承載記憶。它會把現在這場聚會，連回以前那些時刻。"
           },
           {
             "speaker": "b",
@@ -1786,13 +1786,13 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means people are allowed to create their own gathering language too.",
-            "zh": "這也表示，人本來就可以創造屬於自己的標記語言。"
+            "zh": "這也表示，人本來就可以創造屬於自己的聚會儀式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does music leave behind after the gathering ends?",
-            "zh": "一場標記結束後，音樂最後會留下什麼？"
+            "zh": "一場聚會結束後，音樂最後會留下什麼？"
           },
           {
             "speaker": "a",
@@ -1896,7 +1896,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do people sometimes feel flat after a big gathering?",
-            "zh": "為什麼一場盛大的標記結束之後，人有時候反而會覺得空空的？"
+            "zh": "為什麼一場盛大的聚會結束之後，人有時候反而會覺得空空的？"
           },
           {
             "speaker": "a",
@@ -1908,7 +1908,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the problem is not that the gathering was bad.",
-            "zh": "所以問題不是那場標記不好。"
+            "zh": "所以問題不是那場聚會不好。"
           },
           {
             "speaker": "a",
@@ -1949,7 +1949,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do you carry the good part of a gathering forward?",
-            "zh": "那要怎麼把一場標記裡好的部分帶到後面？"
+            "zh": "那要怎麼把一場聚會裡好的部分帶到後面？"
           },
           {
             "speaker": "a",
@@ -2002,7 +2002,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is useful when talking about this kind of after-feeling?",
-            "zh": "如果想談這種標記後的感覺，有哪些英文會好用？"
+            "zh": "如果想談這種聚會結束後的感覺，有哪些英文會好用？"
           },
           {
             "speaker": "a",
@@ -2055,7 +2055,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What little things can help extend the warmth of a gathering?",
-            "zh": "有哪些小小的做法，可以延長一場標記帶來的溫暖？"
+            "zh": "有哪些小小的做法，可以延長一場聚會帶來的溫暖？"
           },
           {
             "speaker": "a",
@@ -2079,13 +2079,13 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the gathering does not end when the event does.",
-            "zh": "所以標記並不是在活動結束的那一刻就停了。"
+            "zh": "所以聚會並不是在活動結束的那一刻就停了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Gatherings do not have to end all at once. They can fade out slowly in good ways.",
-            "zh": "標記不一定要一下子就完全結束。它也可以用很好的方式慢慢退場。"
+            "zh": "聚會不一定要一下子就完全結束，它也可以用很好的方式慢慢退場。"
           },
           {
             "speaker": "b",
@@ -2108,7 +2108,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what is the healthiest relationship to gathering?",
-            "zh": "所以和標記最健康的關係，會是什麼樣子？"
+            "zh": "所以人跟聚會最健康的關係，會是什麼樣子？"
           },
           {
             "speaker": "a",
@@ -2120,7 +2120,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gathering is not separate from life. It teaches life how to feel.",
-            "zh": "所以標記不是和生活分開的，它其實也在教生活該怎麼感覺。"
+            "zh": "所以聚會不是和生活分開的，它其實也在教我們怎麼感受生活。"
           },
           {
             "speaker": "a",
@@ -2132,13 +2132,13 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I guess that means the point is not only to mark well, but to live well after marking.",
-            "zh": "我想這表示，重點不只是要標記得好，也要在標記之後把日子過得更好。"
+            "zh": "我想這表示，重點不只是把聚會辦得好，也要在聚會之後把日子過得更好。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. A good gathering should leave behind more than photos. It should leave behind a little more warmth for the days after it.",
-            "zh": "正是。一場好的標記不只該留下照片，也該為之後的日子多留下一點溫暖。"
+            "zh": "正是。一場好的聚會不只該留下照片，也該為之後的日子多留下一點溫暖。"
           },
           {
             "speaker": "b",
@@ -2168,7 +2168,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "keep one small element",
-        "zh": "保留標記裡一個小小的部分，讓感覺能延續",
+        "zh": "保留聚會裡一個小小的部分，讓那份感覺延續下去",
         "example": "They kept one small element from the dinner in their weekend routine."
       },
       {
@@ -2188,7 +2188,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "extend the warmth",
-        "zh": "讓一場標記帶來的溫暖再多留一段時間",
+        "zh": "讓一場聚會帶來的溫暖再多留一段時間",
         "example": "A short message helped extend the warmth."
       },
       {

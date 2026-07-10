@@ -282,7 +282,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "baseline energy",
-        "zh": "一個人平常維持生活時最基本的精神和體力水平",
+        "zh": "一個人平常維持生活所需的基本精神與體力",
         "example": "Her baseline energy had dropped for days before she admitted it."
       },
       {
@@ -1971,7 +1971,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to never feel tired. It is to not live in permanent depletion. Am I skipping the messy part?",
-            "zh": "所以目標不是永遠不要累，而是不要一直活在耗盡裡。 還是我把它說得太整齊了？"
+            "zh": "所以目標不是永遠不要累，而是不要一直活在耗盡裡。我是不是跳過了那些比較混亂的部分？"
           },
           {
             "speaker": "a",

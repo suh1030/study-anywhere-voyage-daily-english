@@ -21,7 +21,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens more often than people admit. A lot of work problems are actually relationship problems in disguise.",
-            "zh": "這種事比人們願意承認的更常發生。很多工作問題，其實是人際關係問題偽裝的。"
+            "zh": "這種事比大家肯承認的常見多了。很多工作上的問題，其實是人際問題披著工作的外衣。"
           },
           {
             "speaker": "b",
@@ -186,7 +186,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I can see that. It sounds obvious, but I notice when people do not do it.",
-            "zh": "這聽起來很明顯，但我真的會注意到人們沒做到的時候。"
+            "zh": "聽起來理所當然，但誰沒做到，我真的都會注意到。"
           },
           {
             "speaker": "a",
@@ -216,7 +216,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People remember how you handled it, not just that it happened. Recovery matters as much as the original mistake.",
-            "zh": "對。人們記住的是你怎麼處理，不只是它發生了。恢復的方式和原來的失誤一樣重要。"
+            "zh": "對。大家記住的是你怎麼處理，而不只是出了事。收拾的方式跟犯錯本身一樣重要。"
           },
           {
             "speaker": "b",
@@ -252,7 +252,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Significantly. People rarely leave jobs because of the work. They leave because of the people or the culture.",
-            "zh": "影響非常大。人們很少因為工作本身而離職，他們是因為人或文化而離開的。"
+            "zh": "影響超大。很少人是因為工作內容離職的，多半是因為人或文化才走的。"
           },
           {
             "speaker": "b",
@@ -421,7 +421,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A good question teaches people how to give you feedback that is actually useful.",
-            "zh": "對。一個好問題能教會人們怎麼給你真正有用的回饋。"
+            "zh": "對。一個好問題，等於在教對方怎麼給你真正有用的回饋。"
           }
         ]
       },
@@ -678,7 +678,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what do you actually do?",
-            "zh": "那你實際上要怎麼做？"
+            "zh": "那實際上該怎麼做？"
           },
           {
             "speaker": "a",
@@ -1638,7 +1638,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "When I do run a meeting, I am never sure how to keep it focused. People get sidetracked very easily.",
-            "zh": "當我主持一場會議時，我不確定怎麼讓它保持專注。人們很容易偏題。"
+            "zh": "換我主持會議的時候，我都不知道怎麼讓大家不跑題。話題很容易越飄越遠。"
           },
           {
             "speaker": "a",
@@ -1756,13 +1756,13 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "But people still schedule over it.",
-            "zh": "但人們還是會在那個時間排會議。"
+            "zh": "但大家還是會把會議排在那個時段啊。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then you have to decline occasionally and explain why. \"I have a commitment during that time — would the afternoon work?\" That teaches people your time has structure.",
-            "zh": "那你就要偶爾拒絕並解釋原因。「那個時間我有安排——下午可以嗎？」這讓人們知道你的時間是有結構的。"
+            "zh": "那就偶爾拒絕，並說明原因：「那個時段我有安排，下午可以嗎？」讓大家知道你的時間是有規劃的。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People are much more interested in your destination than your departure.",
-            "zh": "對。人們對你的目的地的興趣，遠大於你的出發點。"
+            "zh": "對。大家在意的是你要去哪裡，遠勝過你從哪裡來。"
           }
         ]
       },

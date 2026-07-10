@@ -1339,7 +1339,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not distance for its own sake. I am not sure if that covers the messy middle.",
-            "zh": "所以目的不是為了拉開距離本身。 還是我把它說得太整齊了？"
+            "zh": "所以目的不是為了把距離拉開而已。還是我這樣講漏掉了中間那些比較難分的部分？"
           },
           {
             "speaker": "a",
@@ -1971,7 +1971,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the repetition is the lesson. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以那個重複本身，就是教材。 還是我把它說得太整齊了？"
+            "zh": "所以那個重複本身，就是教材。還是我把它講得比實際感覺更整齊了？"
           },
           {
             "speaker": "a",

@@ -21,7 +21,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It's a studio apartment on the eighth floor. Not huge, but the view is really nice.",
-            "zh": "是一房公寓，在八樓。不大，但視野很好。"
+            "zh": "是一間套房，在八樓。不大，但視野很好。"
           },
           {
             "speaker": "b",
@@ -92,7 +92,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I saw a video about people turning tiny apartments into really functional spaces. Folding furniture and everything.",
-            "zh": "我看過一個影片，講人們如何把小公寓改造成功能強大的空間，還有折疊傢俱之類的。"
+            "zh": "我看過一個影片，講人們如何把小公寓改造成功能強大的空間，還有折疊家具之類的。"
           },
           {
             "speaker": "a",
@@ -484,7 +484,7 @@ export const WEEK_04: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — The Social Pressure to Buy",
         "lines": [
           {
             "speaker": "b",
@@ -532,7 +532,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ha, very true. That conversation never ends, does it?",
-            "zh": "哈，非常真實。那個對話永遠不會結束，不是嗎？"
+            "zh": "哈，真的。這個話題永遠沒完，對吧？"
           },
           {
             "speaker": "b",
@@ -568,7 +568,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Run the actual numbers for your city. Don't rely on general rules. Every market is different.",
-            "zh": "計算你的城市的實際數字。不要依賴一般規則。每個市場都不同。"
+            "zh": "實際算一算你所在城市的數字，不要套用通則，每個市場都不一樣。"
           },
           {
             "speaker": "b",
@@ -784,7 +784,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Oh that's clever. It keeps the equilibrium.",
-            "zh": "那個很聰明。它維持了平衡。"
+            "zh": "這招很聰明，剛好維持住平衡。"
           },
           {
             "speaker": "a",
@@ -813,7 +813,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right, and books. I could never get rid of all my books. They feel like part of my identity.",
-            "zh": "對，還有書。我永遠沒辦法把書全扔掉。感覺它們是我身份的一部分。"
+            "zh": "對，還有書。我永遠沒辦法把書全丟掉，感覺它們是我身分的一部分。"
           },
           {
             "speaker": "a",
@@ -1029,7 +1029,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Once. It felt really awkward, but I did it politely and they were actually apologetic.",
-            "zh": "一次。感覺非常尷尬，但我禮貌地去了，他們真的很抱歉。"
+            "zh": "有過一次。超尷尬的，但我客客氣氣地講，對方反而很不好意思。"
           },
           {
             "speaker": "b",
@@ -1082,7 +1082,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There are initiatives now to change that. Community gardens, building events, shared spaces.",
-            "zh": "現在有一些倡議在改變這個。社區花園、大樓活動、共用空間。"
+            "zh": "現在有不少行動在改變這件事，像社區花園、大樓活動、共享空間。"
           },
           {
             "speaker": "b",
@@ -1597,7 +1597,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It wasn't like it was expensive furniture. But everything just worked together.",
-            "zh": "不是說傢俱多貴。只是所有東西搭在一起的效果很好。"
+            "zh": "不是說家具多貴。只是所有東西搭在一起的效果很好。"
           },
           {
             "speaker": "a",
@@ -1691,13 +1691,13 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What's more important — good furniture or smart layout? If you could only fix one.",
-            "zh": "哪個更重要——好傢俱還是聰明的擺設？如果你只能改變一件事。"
+            "zh": "哪個更重要——好家具還是聰明的擺設？如果你只能改變一件事。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Layout, definitely. You can put expensive furniture in a bad layout and it still feels wrong.",
-            "zh": "一定是擺設。你可以把昂貴的傢俱放在糟糕的佈局裡，感覺還是不對。"
+            "zh": "一定是擺設。你可以把昂貴的家具放在糟糕的佈局裡，感覺還是不對。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a little. Writing forces you to process things rather than just feel them.",
-            "zh": "有一點。寫作迫使你去處理事情，而不只是感受它們。"
+            "zh": "有一點。寫下來會逼你把事情消化掉，而不是只停在情緒裡。"
           },
           {
             "speaker": "b",

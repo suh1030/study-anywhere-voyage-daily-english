@@ -15,7 +15,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I left my apartment after being indoors all afternoon, and the first breath of outside air felt almost bigger than the street itself.",
-            "zh": "我整個下午都關在室內，後來一走出公寓，外面的第一口空氣竟然大得像比整條街還要大。"
+            "zh": "我整個下午都關在室內，後來一走出公寓，外面的第一口空氣竟然感覺比整條街還要大。"
           },
           {
             "speaker": "a",
@@ -210,7 +210,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is consistency, not purity. Would you say it works like that in real life?",
-            "zh": "所以目標是穩定，不是完美純粹。 還是我把它說得太整齊了？"
+            "zh": "所以目標是穩定，不是追求完美。你覺得在真實生活裡也是這樣運作嗎？"
           },
           {
             "speaker": "a",
@@ -396,7 +396,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the environment stops demanding so much from perception. Is that how you would explain it?",
-            "zh": "所以環境本身不會再一直對感知提那麼多要求。 還是我把它說得太整齊了？"
+            "zh": "所以環境本身不會再一直對感知提那麼多要求。你會這樣解釋嗎？"
           },
           {
             "speaker": "a",
@@ -707,7 +707,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the ritual can be very ordinary. I can imagine someone pushing back on that.",
-            "zh": "所以那個儀式可以非常普通。 還是我把它說得太整齊了？"
+            "zh": "所以那個儀式可以非常普通。我可以想像有人會不同意這個說法。"
           },
           {
             "speaker": "a",
@@ -790,7 +790,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The copyable sentence is this. That is what simple outdoor language should do.",
-            "zh": "我們把它變得更實用一點。簡單的戶外語言，本來就應該做到這件事。"
+            "zh": "可以直接拿去用的就是這一句。簡單的戶外語言，本來就應該做到這件事。"
           }
         ]
       },
@@ -2096,7 +2096,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the whole approach changes once you see it that way. Tell me if I am smoothing over the hard part.",
-            "zh": "一旦這樣看，整個做法都跟著變了。 還是我把它說得太整齊了？"
+            "zh": "一旦這樣看，整個做法都跟著變了。你要告訴我，我是不是把難的部分講得太輕鬆了。"
           },
           {
             "speaker": "a",

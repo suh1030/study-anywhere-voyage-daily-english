@@ -86,7 +86,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It can feel like you are operating with fewer colors, even if you can still complete the sentence.",
-            "zh": "對。那種感覺會像你手上還是有畫筆，但顏色變少了。"
+            "zh": "對。那種感覺會像你就算句子還是講得完，能用的顏色卻變少了。"
           },
           {
             "speaker": "b",
@@ -216,7 +216,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. People deserve that compassion, because language effort is often invisible from the outside.",
-            "zh": "我們把它變得更實用一點。大家值得這份同理，因為語言上的努力，從外面看常常是隱形的。"
+            "zh": "我們把它拉回一個具體情境。大家值得這份同理，因為語言上的努力，從外面看常常是隱形的。"
           }
         ]
       },
@@ -479,7 +479,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Picture the moment. It gives you a way to sound observant without sounding bitter.",
-            "zh": "我們把它變得更實用一點。這句能讓你聽起來很會觀察，但不會帶著怨氣。"
+            "zh": "想像一下那個當下。這句能讓你聽起來很會觀察，但不會帶著怨氣。"
           }
         ]
       },
@@ -532,7 +532,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The sentence can stay quite simple. Humor can connect, but it becomes healthier when people also know how to widen the doorway.",
-            "zh": "我們把它變得更實用一點。幽默當然可以連結，但當大家也知道怎麼把門口打寬一點時，它會更健康。"
+            "zh": "這句話可以講得很簡單。幽默當然可以連結，但當大家也知道怎麼把門口打寬一點時，它會更健康。"
           },
           {
             "speaker": "b",

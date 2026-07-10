@@ -348,8 +348,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right — and that's the version that holds up.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "en": "Right. And her face said something your grade never could.",
+            "zh": "對。而她那個表情，說出了分數永遠說不出的東西。"
           },
           {
             "speaker": "b",
@@ -975,8 +975,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "Arriving late is one way to shrink the questioning. It buys you time, but it does not really solve it.",
+            "zh": "遲到是一種縮短被盤問時間的方法。它幫你爭取一點時間，但沒有真的解決問題。"
           },
           {
             "speaker": "b",
@@ -1345,7 +1345,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's what happens when people bottle up emotions. The pressure builds and it usually comes out sideways — an argument about dishes instead of the real thing.",
-            "zh": "這就是當人們壓抑情緒時發生的事。壓力會累積，然後通常從旁邊洩出來——為碗盤爭吵，而不是真正的問題。"
+            "zh": "情緒被壓下去就會這樣。壓力越積越多，最後從旁邊的縫隙洩出來——吵的是碗盤，真正的問題卻沒人碰。"
           },
           {
             "speaker": "b",
@@ -1761,7 +1761,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do people balance that?",
-            "zh": "人們怎麼平衡這件事？"
+            "zh": "大家都怎麼平衡這件事？"
           },
           {
             "speaker": "a",
@@ -2060,7 +2060,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I worry about losing those relationships. Life changes. People move. They have kids and get busy.",
-            "zh": "我擔心失去那些關係。生活在變。人們搬家，有了孩子，然後變忙。"
+            "zh": "我很怕失去那些關係。生活一直在變，大家搬家、生小孩、越來越忙。"
           },
           {
             "speaker": "a",

@@ -361,7 +361,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. People often know within seconds whether your attention is truly with them.",
-            "zh": "真的很大。很多人幾秒內就能感覺到，你的注意力到底是不是真的在他身上。"
+            "zh": "確實如此。很多人幾秒內就能感覺到，你的注意力到底是不是真的在他身上。"
           },
           {
             "speaker": "b",
@@ -1458,7 +1458,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It asks what people can already reach, understand, and trust, then builds from there.",
-            "zh": "對。它會先問：人們目前碰得到、看得懂、信得過的是什麼，然後再從那裡開始蓋。"
+            "zh": "對。它會先問：大家現在碰得到、看得懂、信得過的是什麼，然後再從那裡開始蓋。"
           },
           {
             "speaker": "b",

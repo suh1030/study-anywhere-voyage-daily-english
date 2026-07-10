@@ -268,8 +268,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. It should feel like navigation, not surrender.",
-            "zh": "我們把它變得更實用一點。它應該感覺像是導航，不是投降。"
+            "en": "It should feel like navigation, not surrender.",
+            "zh": "它應該感覺像是導航，不是投降。"
           }
         ]
       }
@@ -437,7 +437,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English phrases do people use to talk about personal success, not just professional success?",
-            "zh": "人們用什麼英文說法來談個人意義上的成功，而不只是職業成功？"
+            "zh": "談「個人層面的成功」而不只是職涯成功，大家會用哪些英文說法？"
           },
           {
             "speaker": "a",
@@ -508,7 +508,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Like, I want to be the kind of colleague people actually want to work with. Or, I want to ship something I built from scratch before the end of the year.",
-            "zh": "像是「我想成為那種人們真的想共事的同事」。或者「我想在年底前完成一個從零開始建立的東西」。"
+            "zh": "像是「我想成為那種大家真心想共事的同事」，或「我想在年底前做完一個從零打造的東西」。"
           },
           {
             "speaker": "b",
@@ -647,7 +647,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "A friend of mine just turned down a director role because it meant relocating her whole family. She said she felt like she was choosing between two versions of herself.",
-            "zh": "我有個朋友剛拒絕了一個總監職位，因為那意味著要搬遷整個家庭。她說她感覺像是在兩個版本的自己之間做選擇。"
+            "zh": "我有個朋友剛推掉一個總監職位，因為接了就得舉家搬遷。她說那感覺像在兩個版本的自己之間二選一。"
           },
           {
             "speaker": "a",
@@ -1035,13 +1035,13 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Because the listener actually knows what kind of help to offer.",
-            "zh": "因為聽的人實際上知道要提供什麼樣的幫助。"
+            "zh": "因為聽的人就真的知道該幫什麼忙了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You are also making it easier for people to care about your situation when you give them something specific to grab onto.",
-            "zh": "對。當你給他們一些具體可以抓住的東西時，你也讓人們更容易關心你的情況。"
+            "zh": "對。你給出具體的施力點，別人也更容易真的關心你的狀況。"
           },
           {
             "speaker": "b",
@@ -1316,7 +1316,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Staying is not safe if it means you stop developing the skills the market will want three years from now.",
-            "zh": "對。留下來如果意味著你停止培養市場三年後需要的技能，那並不安全。"
+            "zh": "對。如果留下來的代價是不再累積三年後市場需要的技能，那其實一點都不安全。"
           }
         ]
       },
@@ -1668,7 +1668,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Almost nobody. People are too busy with their own direction anxiety to track yours.",
-            "zh": "幾乎沒有人。人們忙於自己的方向焦慮，沒有時間追蹤你的。"
+            "zh": "幾乎沒有人。大家光煩惱自己的方向就飽了，沒空盯著你的。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "With career topics it really does. Agency in language signals agency in life.",
-            "zh": "在職涯話題上確實如此。語言中的主動性意味著生活中的主動性。"
+            "zh": "在職涯這個話題上真的是這樣：說話有主導感的人，過日子通常也有主導感。"
           }
         ]
       },
@@ -1762,7 +1762,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And usually more transfers than people expect. They just have not named it yet.",
-            "zh": "對。通常比人們預期的轉移更多。他們只是還沒有命名它。"
+            "zh": "對。能帶著走的能力通常比想像中多，只是大家還沒把它們一一點名出來。"
           },
           {
             "speaker": "b",
@@ -1780,7 +1780,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the revision process is partly about inventory. Is that how you would explain it?",
-            "zh": "所以修改過程部分是關於清點存貨。 還是我把它說得太整齊了？"
+            "zh": "所以修改過程有一部分其實就是在清點手上有什麼。你會這樣解釋嗎？"
           },
           {
             "speaker": "a",
@@ -1821,13 +1821,13 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the willingness to revise is actually a kind of intelligence.",
-            "zh": "所以修改的意願實際上是一種智慧。"
+            "zh": "所以願意修正方向，其實是一種智慧。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly, yes. The people who never revise are often either very lucky or very stuck.",
-            "zh": "大致上是。從不修改的人往往要麼非常幸運，要麼非常卡住。"
+            "zh": "差不多。從不修正方向的人，不是運氣特別好，就是卡得特別深。"
           },
           {
             "speaker": "b",
@@ -1931,7 +1931,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Behind whom? Career timelines are not actually synchronized. They just look that way on social media.",
-            "zh": "落後於誰？職涯時間表實際上並不同步。它們只是在社交媒體上看起來那樣。"
+            "zh": "落後誰？每個人的職涯時間表本來就不同步，只是在社群媒體上看起來好像有個統一進度。"
           },
           {
             "speaker": "b",
@@ -1960,7 +1960,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Partly a feeling, but grounded in something specific. Usually it means your daily choices reflect your actual priorities, not someone else's expectations.",
-            "zh": "部分是一種感覺，但有具體的基礎。通常意味著你的日常選擇反映了你真實的優先考量，而不是別人的期望。"
+            "zh": "一部分是感覺，但有具體的根基。通常代表你每天的選擇，反映的是你真正在乎的事，而不是別人的期待。"
           },
           {
             "speaker": "b",
@@ -1990,7 +1990,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So how do people notice before it becomes a burnout?",
-            "zh": "那人們怎麼在它變成精疲力竭之前注意到？"
+            "zh": "那要怎麼在燒成 burnout 之前就先察覺？"
           },
           {
             "speaker": "a",
@@ -2049,7 +2049,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which also means it will filter out the wrong opportunities before you waste time on them.",
-            "zh": "這也意味著它會在你浪費時間在上面之前過濾掉錯誤的機會。"
+            "zh": "這也代表它會幫你提前濾掉不對的機會，省得浪費時間。"
           }
         ]
       },
@@ -2119,7 +2119,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For me it is always been curiosity about how people communicate and make decisions. The contexts changed but that thread stayed.",
-            "zh": "對我來說，一直是對人們如何溝通和做決定的好奇心。背景改變了，但那條線索保留下來了。"
+            "zh": "對我來說，一直不變的是對「人怎麼溝通、怎麼做決定」的好奇。場景一直換，但這條線從來沒斷過。"
           },
           {
             "speaker": "b",

@@ -45,7 +45,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should sound grounded, because gratitude works best when it stays close to reality.",
-            "zh": "它本來就該落地，因為 感謝最有用的時候，就是它貼著現實。"
+            "zh": "它本來就該落地，因為感謝最有用的時候，就是它貼著現實。"
           },
           {
             "speaker": "b",
@@ -80,7 +80,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude changes the search pattern of the mind.",
-            "zh": "所以 感謝其實是在改變心智的搜尋模式。"
+            "zh": "所以感謝其實是在改變心智的搜尋模式。"
           },
           {
             "speaker": "a",
@@ -104,7 +104,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude does not solve everything, but it changes the emotional climate.",
-            "zh": "所以 感謝不會解決一切，但會改變情緒氣候。"
+            "zh": "所以感謝不會解決一切，但會改變情緒氣候。"
           },
           {
             "speaker": "a",
@@ -198,7 +198,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude is relational before it becomes philosophical.",
-            "zh": "所以 感謝先是關係裡的，之後才是哲學性的。"
+            "zh": "所以感謝先是關係裡的，之後才是哲學性的。"
           },
           {
             "speaker": "a",
@@ -367,7 +367,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So appreciation is partly about helping people see themselves accurately.",
-            "zh": "所以 感謝他人也有一部分是在幫人更準確地看見自己。"
+            "zh": "所以感謝他人也有一部分是在幫人更準確地看見自己。"
           },
           {
             "speaker": "a",
@@ -526,7 +526,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So appreciation can be renewing, not only polite.",
-            "zh": "所以 感謝其實是有修復力的，不只是禮貌。"
+            "zh": "所以感謝其實是有修復力的，不只是禮貌。"
           },
           {
             "speaker": "a",
@@ -970,7 +970,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So perspective should enlarge reality, not erase it.",
-            "zh": "所以 視角應該是把現實擴大，不是把它擦掉。"
+            "zh": "所以視角應該是把現實擴大，不是把它擦掉。"
           },
           {
             "speaker": "a",
@@ -994,7 +994,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude and perspective work best together.",
-            "zh": "所以 感謝和視野最好是一起工作。"
+            "zh": "所以感謝和視野最好是一起工作。"
           },
           {
             "speaker": "a",
@@ -1117,7 +1117,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would a real example of perspective shift look like?",
-            "zh": "你可以給我一個 視角真的有轉變的例子嗎？"
+            "zh": "你可以給我一個視角真的有轉變的例子嗎？"
           },
           {
             "speaker": "a",
@@ -1159,7 +1159,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Gratitude often helps reconnect the hard thing to the larger life around it.",
-            "zh": "而 感謝很常會幫你把那件難事重新接回它周圍比較大的生命。"
+            "zh": "而感謝很常會幫你把那件難事重新接回它周圍比較大的生命。"
           }
         ]
       },
@@ -1194,7 +1194,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So perspective is really about capacity.",
-            "zh": "所以 視角某程度上其實是在談容量。"
+            "zh": "所以視角某程度上其實是在談容量。"
           },
           {
             "speaker": "a",
@@ -1286,7 +1286,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude protects humanity in structured environments.",
-            "zh": "所以 感謝其實是在制度裡保護人味。"
+            "zh": "所以感謝其實是在制度裡保護人味。"
           },
           {
             "speaker": "a",
@@ -1310,7 +1310,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude slows that down.",
-            "zh": "所以 感謝會把那件事稍微拉慢。"
+            "zh": "所以感謝會把那件事稍微拉慢。"
           },
           {
             "speaker": "a",
@@ -1445,7 +1445,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude has to live in the everyday, not only in ceremonies.",
-            "zh": "所以 感謝要活在日常，不是只活在儀式裡。"
+            "zh": "所以感謝要活在日常，不是只活在儀式裡。"
           },
           {
             "speaker": "a",
@@ -1621,7 +1621,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude is never just about one sentence.",
-            "zh": "所以 感謝從來不只是某一句話。"
+            "zh": "所以感謝從來不只是某一句話。"
           },
           {
             "speaker": "a",
@@ -1668,7 +1668,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Cross-cultural gratitude asks people to widen what counts as appreciation.",
-            "zh": "對。跨文化裡的 感謝，會要求人把「什麼算是感謝」的範圍放大。"
+            "zh": "對。跨文化裡的感謝，會要求人把「什麼算是感謝」的範圍放大。"
           },
           {
             "speaker": "b",
@@ -1913,7 +1913,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude needs contact with real life to matter.",
-            "zh": "所以 感謝要貼著真實生活，才會有力量。"
+            "zh": "所以感謝要貼著真實生活，才會有力量。"
           },
           {
             "speaker": "a",
@@ -1966,7 +1966,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude can include sadness.",
-            "zh": "所以 感謝可以和悲傷同時存在。"
+            "zh": "所以感謝可以和悲傷同時存在。"
           },
           {
             "speaker": "a",
@@ -2096,7 +2096,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the best practice still sounds like life, not like a performance challenge. I can imagine someone pushing back on that.",
-            "zh": "所以最好的練習聽起來還是像生活，不像表演任務。 還是我把它說得太整齊了？"
+            "zh": "所以最好的練習聽起來還是像生活，不像一項表演任務。不過我猜也會有人不同意。"
           },
           {
             "speaker": "a",

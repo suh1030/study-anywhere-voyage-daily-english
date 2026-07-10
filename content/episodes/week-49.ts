@@ -121,7 +121,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How do people talk about needing rest in natural English? I always feel like I sound like I am complaining.",
-            "zh": "人們用自然的英文怎麼談需要休息這件事？我總是覺得自己聽起來像在抱怨。"
+            "zh": "要用自然的英文說「我需要休息」，大家都怎麼講？我每次講都覺得自己像在抱怨。"
           },
           {
             "speaker": "a",
@@ -409,7 +409,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it satisfies the need for stimulation without actually resting the parts of your brain that are tired.",
-            "zh": "因為它滿足了你對刺激的需求，但實際上並沒有讓你大腦裡疲憊的部分休息。"
+            "zh": "因為它餵飽了你想要刺激的癮，卻沒有讓大腦裡真正累的那一塊休息到。"
           },
           {
             "speaker": "b",
@@ -538,7 +538,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is there anything that people discover about themselves when they actually slow down and sit with the quiet?",
-            "zh": "當人們真的放慢腳步、與安靜共處時，會發現自己什麼？"
+            "zh": "當一個人真的慢下來、跟安靜好好相處，會發現關於自己的什麼？"
           },
           {
             "speaker": "a",
@@ -666,7 +666,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Has it always been hard for people to rest, or is this more modern?",
-            "zh": "人們休息一直都很難嗎，還是這比較像是現代才有的問題？"
+            "zh": "休息這件事從古至今都這麼難嗎？還是現代人才有的毛病？"
           },
           {
             "speaker": "a",
@@ -678,7 +678,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the Sabbath idea was partly about enforcing a boundary that people would not keep naturally.",
-            "zh": "所以安息日的概念，部分是關於執行一個人們本來不會自然遵守的界線。"
+            "zh": "所以安息日的概念，有一部分就是在強制執行一條大家自己守不住的界線。"
           },
           {
             "speaker": "a",
@@ -1334,7 +1334,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the baseline shifts downward and you think that is just how you feel normally. But does that leave anything out?",
-            "zh": "所以基準線往下移了，你就以為那就是你正常的感受。 還是我把它說得太整齊了？"
+            "zh": "所以基準線往下移了，你就以為那就是你正常的感受。這樣講有沒有漏掉什麼？"
           },
           {
             "speaker": "a",
@@ -1346,7 +1346,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does sleep actually do? Beyond making you less tired.",
-            "zh": "睡眠實際上做了什麼？除了讓你不那麼累。"
+            "zh": "睡眠到底做了什麼？除了讓人比較不累以外。"
           },
           {
             "speaker": "a",
@@ -1364,7 +1364,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Everybody does. It is just that skipping sleep does not feel as obviously harmful as skipping meals. So people do it more easily.",
-            "zh": "每個人都需要。只是跳過睡眠感覺不像跳過吃飯那樣明顯有害。所以人們更容易這樣做。"
+            "zh": "每個人都需要。只是少睡不像不吃飯那樣立刻有感，所以大家更容易犧牲它。"
           }
         ]
       },
@@ -1458,13 +1458,13 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Regular walking counts enormously. Twenty minutes of walking has measurable effects on mood, cognitive function, and energy levels.",
-            "zh": "規律散步非常有用。二十分鐘的散步對情緒、認知功能和能量水平有可測量的效果。"
+            "zh": "規律散步非常有用。光是二十分鐘，就能對情緒、認知功能和體力產生測得出來的效果。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The bar is lower than people think.",
-            "zh": "門檻比人們想的要低。"
+            "zh": "門檻比想像中低多了。"
           },
           {
             "speaker": "a",
@@ -1487,7 +1487,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It means paying attention to the earlier, quieter signals. Tension in the shoulders. A slight headache. Food that does not sound appealing.",
-            "zh": "這意味著注意那些更早期、更安靜的訊號。肩膀的緊繃。輕微的頭痛。食物聽起來不吸引人。"
+            "zh": "意思是要注意那些更早、更安靜的訊號：肩膀開始緊、隱隱的頭痛、突然什麼都不想吃。"
           },
           {
             "speaker": "b",
@@ -1511,13 +1511,13 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I like that as a great way to put it. And catching things early almost always means the recovery is quicker too.",
-            "zh": "那是個很好的說法。而且早期接收到幾乎永遠意味著恢復也更快。"
+            "zh": "這說法很好。而且越早接收到訊號，幾乎永遠代表恢復得越快。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is not just kinder to yourself, it is actually more efficient.",
-            "zh": "所以這不只是對自己更好，而是實際上更有效率。"
+            "zh": "所以這不只是對自己好，根本是更有效率。"
           },
           {
             "speaker": "a",
@@ -1733,7 +1733,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Showing up means being engaged, not just present. And that takes energy you can only have if you are not already stretched too thin.",
-            "zh": "對。「出現」意味著投入其中，不只是在那裡。而那需要能量，只有當你沒有被拉得太薄時才能擁有。"
+            "zh": "對。「出席」指的是全心投入，不是人到就好。而那需要餘裕——你沒被榨乾的時候才給得出來。"
           }
         ]
       },
@@ -1797,7 +1797,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Beyond just feeling calmer, what do people actually gain from living at a slower pace?",
-            "zh": "除了感覺更平靜之外，以更慢的節奏生活，人們實際上能得到什麼？"
+            "zh": "除了心情比較平靜之外，把日子過慢一點，實際上還能得到什麼？"
           },
           {
             "speaker": "a",
@@ -1815,7 +1815,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Definitely. People feel the difference between someone who is half-present and someone who is genuinely there. Slow attention is one of the best gifts you can give someone.",
-            "zh": "肯定的。人們能感受到半心半意在場和真正在場之間的差別。緩慢而專注的關注是你能給一個人的最好的禮物之一。"
+            "zh": "絕對會。人是感覺得出「心不在焉的陪」和「全心全意的陪」的差別的。緩慢而專注的關注，是你能送人最好的禮物之一。"
           },
           {
             "speaker": "b",
@@ -1937,7 +1937,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the skill of resting is actually a separate skill from the skill of working hard.",
-            "zh": "所以休息的技能實際上是和努力工作的技能不同的技能。"
+            "zh": "所以「會休息」跟「會拼命」，根本是兩種不同的技能。"
           },
           {
             "speaker": "a",
@@ -1954,19 +1954,19 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "If you had to sum up the biggest mistake people make around rest, what would it be?",
-            "zh": "如果你要總結人們在休息這件事上最大的錯誤，那會是什麼？"
+            "zh": "如果要總結大家在休息這件事上最大的錯誤，會是什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Treating it as a binary. Either they are on full blast or they collapse. There is no middle mode.",
-            "zh": "把它當成二元的。要麼全力衝刺要麼崩潰。沒有中間的模式。"
+            "zh": "把它當成二選一：不是全力衝刺，就是整個報廢，中間沒有別的檔位。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I do that. It is either hundred percent or zero.",
-            "zh": "我就是這樣。要麼百分之百要麼零。"
+            "zh": "我就是這樣，不是百分之百就是零。"
           },
           {
             "speaker": "a",
@@ -1984,7 +1984,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Waiting for permission. People wait until things settle down, or until the busy season ends, or until they deserve it. The permission never comes on its own.",
-            "zh": "等待許可。人們等待事情穩定下來，或等待繁忙季節結束，或等到自己值得了。那個許可永遠不會自己來。"
+            "zh": "等別人批准。大家都在等事情穩定、等旺季結束、等自己「夠格」休息。但那張許可證永遠不會自己送上門。"
           },
           {
             "speaker": "b",
@@ -2048,8 +2048,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In real life, it might sound like this. Because most people settle for the passive kind and wonder why they still feel tired.",
-            "zh": "我們把它變得更實用一點。因為大多數人接受了被動那種，然後搞不懂為什麼自己還是覺得累。"
+            "en": "It is worth holding onto, because most people settle for the passive kind and wonder why they still feel tired.",
+            "zh": "這個區別值得記住，因為大多數人只接受被動那種休息，然後搞不懂自己為什麼還是覺得累。"
           }
         ]
       },
@@ -2060,7 +2060,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is one thing someone can actually do this week based on everything we have discussed?",
-            "zh": "根據我們討論的所有內容，這週某人實際上可以做一件什麼事？"
+            "zh": "根據這週聊的這些，聽眾這禮拜實際上可以先做哪一件事？"
           },
           {
             "speaker": "a",

@@ -44,8 +44,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That distinction makes things clearer.",
-            "zh": "這個區別讓事情清楚多了。"
+            "en": "There is actually a word for that pattern: quiet neglect. Nothing dramatic, just steady.",
+            "zh": "這種模式其實有個名字，叫「慢性忽視」。不激烈，但一直都在。"
           },
           {
             "speaker": "b",
@@ -580,7 +580,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Sleep advice should make people feel supported, not scolded.",
-            "zh": "我們把它變得更實用一點。睡眠建議本來就應該讓人感到被支持，而不是被罵。"
+            "zh": "舉個真實一點的例子會更清楚。睡眠建議本來就應該讓人覺得被支持，而不是被罵。"
           }
         ]
       }
@@ -1207,7 +1207,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Make it sound like something you could say on a Tuesday. It should feel like support, not surveillance.",
-            "zh": "我們把它變得更實用一點。它本來就應該像支持，而不是像監視。"
+            "zh": "把它講成一句你在平常某個週二就說得出口的話。它本來就應該像支持，而不是像監視。"
           }
         ]
       }
@@ -1463,7 +1463,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's a really better frame than \"push through it.\"",
+            "en": "That's a much better frame than \"push through it.\"",
             "zh": "這個框架真的比「硬撐過去」好多了。"
           },
           {
@@ -1523,7 +1523,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. Being sick is hard enough. The language around it should make room, not add pressure.",
-            "zh": "我們把它變得更實用一點。生病本來就已經夠難受了，圍繞著它的語言本來就應該留出空間，而不是再增加壓力。"
+            "zh": "在真實生活裡，大概會是這樣講。生病本來就已經夠難受了，圍繞著它的語言應該留一點空間，而不是再加壓力。"
           }
         ]
       }
@@ -1839,7 +1839,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. That is where lasting habits usually begin.",
-            "zh": "我們把它變得更實用一點。持久的習慣通常就是從那個地方開始的。"
+            "zh": "想一個真實的當下。持久的習慣，通常就是從那個地方開始的。"
           }
         ]
       }
@@ -2049,7 +2049,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. Habit language should help you see the system, not just judge the outcome.",
-            "zh": "我們把它變得更實用一點。談習慣的語言本來就應該幫你看見系統，不只是評價結果。"
+            "zh": "如果你要跟別人講這件事，可以從這裡開始。談習慣的語言，應該幫你看見背後的系統，不只是拿結果來評分。"
           }
         ]
       },
@@ -2138,7 +2138,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Because habit-building is not a performance of discipline. It is a relationship with repetition.",
-            "zh": "我們把它變得更實用一點。因為建立習慣從來不是一場自律表演，它其實是一段和重複相處的關係。"
+            "zh": "如果是我，我會這樣說。因為建立習慣從來不是一場自律表演，它其實是一段和重複相處的關係。"
           },
           {
             "speaker": "b",

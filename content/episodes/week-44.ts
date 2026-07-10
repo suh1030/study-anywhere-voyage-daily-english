@@ -257,7 +257,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I want to leave that thought hanging there for a moment.",
-            "zh": "停在這裡剛剛好。"
+            "zh": "我想讓這個念頭先停在那裡一下。"
           },
           {
             "speaker": "b",
@@ -520,7 +520,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's what makes it useful. It names something people already believe but have not given themselves permission to act on.",
-            "zh": "那正是它有用的地方。它說出了一個人們早就相信、但還沒給自己許可去實踐的東西。"
+            "zh": "這正是它有用的地方。它說出了大家心裡早就相信、只是還沒允許自己去做的事。"
           },
           {
             "speaker": "b",
@@ -2090,7 +2090,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would stop there while the point is still ringing.",
-            "zh": "停在這裡最乾淨。"
+            "zh": "趁這句話還在心裡迴響，我會停在這裡。"
           },
           {
             "speaker": "b",

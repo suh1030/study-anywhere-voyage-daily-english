@@ -245,7 +245,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people do. Social anxiety often decreases as people accumulate more evidence that social situations can go well.",
-            "zh": "大多數人都是這樣。社交焦慮通常會隨著人們積累更多「社交情況可以順利進行」的證據而減少。"
+            "zh": "大多數人都這樣。隨著「社交場合其實可以順利度過」的經驗越積越多，社交焦慮通常會慢慢下降。"
           },
           {
             "speaker": "b",
@@ -390,7 +390,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is accurate. Transactional networking is obvious and people resist it instinctively.",
-            "zh": "那種不自在是準確的。功利性的人脈建立很明顯，人們本能地會抵制它。"
+            "zh": "那種不舒服的直覺是對的。目的性太強的攀關係一眼就看得出來，大家本能上就會排斥。"
           },
           {
             "speaker": "b",
@@ -461,7 +461,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about following up after you meet someone? What do you actually say?",
-            "zh": "那在見到某人之後跟進呢？你實際上說什麼？"
+            "zh": "那見過面之後要怎麼跟進？實際上該說什麼？"
           },
           {
             "speaker": "a",
@@ -496,7 +496,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That pressure kills the conversation. When you are focused on outcome, people can feel it.",
-            "zh": "那種壓力會扼殺對話。當你專注於結果時，人們能感受到。"
+            "zh": "那種壓力會掐死對話。你滿腦子想著結果的時候，對方是感覺得到的。"
           },
           {
             "speaker": "b",
@@ -549,7 +549,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's how most valuable professional relationships form. The intentional networking event is actually the least efficient method.",
-            "zh": "大多數有價值的職業關係就是這樣形成的。刻意的人脈活動實際上是效率最低的方法。"
+            "zh": "大部分有價值的職場關係都是這樣長出來的。刻意跑人脈活動，反而是效率最差的方法。"
           },
           {
             "speaker": "b",
@@ -573,7 +573,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much less. The best thing you can do for your long-term network is be someone people want to work with. Reputation travels further than a business card.",
-            "zh": "少多了。你為長期人脈能做的最好的事，是成為一個人們想和他合作的人。名聲比名片傳得更遠。"
+            "zh": "少太多了。經營長期人脈最好的方法，是把自己變成別人想合作的人。名聲傳得比名片遠。"
           },
           {
             "speaker": "b",
@@ -700,7 +700,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do guests actually need when they come to someone's home?",
-            "zh": "客人來到某人家裡，他們實際上需要什麼？"
+            "zh": "客人到別人家作客，真正需要的是什麼？"
           },
           {
             "speaker": "a",
@@ -848,7 +848,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And people always appreciate being asked rather than assumed about.",
-            "zh": "對。而且人們總是欣賞被詢問，而不是被假設。"
+            "zh": "對。而且比起被擅自認定，大家永遠更喜歡被問過。"
           },
           {
             "speaker": "b",
@@ -872,19 +872,19 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Creating a space where people connect and enjoy themselves is genuinely meaningful. That is why people host even when it is hard.",
-            "zh": "對。創造一個人們能連結並享受的空間是真正有意義的。這就是為什麼人們即使在困難的情況下也還是主辦。"
+            "zh": "對。打造一個讓大家能交流、能盡興的空間，是真的有意義的事。所以就算再累，還是有人願意當主人。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I also get to know people differently when I host. It is a different kind of conversation.",
-            "zh": "我也覺得當我主辦時，我以不同的方式認識人們。那是一種不同的對話。"
+            "zh": "我也發現自己當主人的時候，認識人的方式不一樣，聊的東西也不一樣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's because your home is revealing. People see how you live, what you value, what makes you comfortable. It creates intimacy faster than most settings do.",
-            "zh": "那是因為你的家是有揭示性的。人們看到你怎麼生活、你重視什麼、什麼讓你感到舒適。它比大多數場合更快創造親密感。"
+            "zh": "因為家會替你說話。客人看得到你怎麼生活、重視什麼、什麼讓你自在。這比大多數場合都更快拉近距離。"
           },
           {
             "speaker": "b",
@@ -988,7 +988,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Listen more than you talk for the first few minutes. People reveal the group's energy through their tone, their topics, and how they react to each other.",
-            "zh": "前幾分鐘聽得比說得多。人們透過語氣、話題以及彼此之間的反應，揭示了群體的能量。"
+            "zh": "頭幾分鐘多聽少說。從語氣、話題、還有大家彼此的反應，就能讀出這個場子的氣氛。"
           },
           {
             "speaker": "b",
@@ -1017,7 +1017,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Energy levels in the room. Are people leaning in or pulling back? Are responses short or expansive? Is there laughter or polite silence?",
-            "zh": "房間裡的能量水平。人們是在向前傾還是在後退？回應是簡短的還是寬廣的？是有笑聲還是禮貌的沉默？"
+            "zh": "整個場子的熱度。大家是身體前傾還是往後靠？回話是簡短敷衍還是越聊越開？是有笑聲，還是只有禮貌性的安靜？"
           },
           {
             "speaker": "b",
@@ -1106,7 +1106,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People usually move on much faster when you acknowledge it than when you try to talk around it.",
-            "zh": "對。你承認它的時候，人們通常比你試著迴避時移動得更快。"
+            "zh": "對。你大方承認的時候，大家翻篇的速度反而比你硬要遮掩快得多。"
           }
         ]
       },
@@ -1117,7 +1117,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Can I actually improve at reading social situations, or is it something you either have or you do not?",
-            "zh": "我真的可以改善讀懂社交情境的能力嗎？還是這是你要麼有要麼沒有的東西？"
+            "zh": "讀空氣的能力真的能練嗎？還是天生有就有、沒有就沒有？"
           },
           {
             "speaker": "a",
@@ -1170,7 +1170,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is adapting to a room the same as being fake? Sometimes I worry it means I am not being myself.",
-            "zh": "適應一個房間和假裝是一樣的嗎？有時候我擔心這意味著我不是在做自己。"
+            "zh": "配合場子的氣氛，算是假裝嗎？我有時候會擔心，這樣是不是就不是在做自己了。"
           },
           {
             "speaker": "a",
@@ -1206,7 +1206,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's actually a skill I want to develop more deliberately.",
-            "zh": "這實際上是我想更刻意培養的一種技能。"
+            "zh": "這正是我想刻意練起來的能力。"
           },
           {
             "speaker": "a",
@@ -1345,7 +1345,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You believe people noticed and remembered your awkward moment far more than they actually did. Most of them forgot it before they left the room.",
-            "zh": "對。你相信人們注意到並記住了你尷尬時刻的程度，遠超過他們實際上做到的。大多數人在離開房間之前就忘了。"
+            "zh": "對。你以為大家有多注意、多記得你的糗事，遠遠超過實際狀況。大多數人還沒走出房間就忘了。"
           },
           {
             "speaker": "b",
@@ -1380,7 +1380,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What do you actually say to recover from an awkward moment in real time?",
-            "zh": "在當下要從一個尷尬時刻恢復，你實際上說什麼？"
+            "zh": "尷尬的當下要救場，實際上該說什麼？"
           },
           {
             "speaker": "a",
@@ -1463,7 +1463,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Rushing is the number one cause of social misfires. The confidence to pause is actually more impressive than the rush to fill silence.",
-            "zh": "急躁是社交失誤的頭號原因。停頓的自信實際上比急著填補沉默更令人印象深刻。"
+            "zh": "急，是社交出包的頭號原因。敢停頓的從容，比急著填滿沉默更讓人印象深刻。"
           },
           {
             "speaker": "b",
@@ -1643,7 +1643,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have multiple friend groups that do not really overlap. Is that unusual?",
-            "zh": "我有多個朋友群體，它們實際上不太重疊。這不尋常嗎？"
+            "zh": "我有好幾群朋友，彼此幾乎不重疊。這樣很奇怪嗎？"
           },
           {
             "speaker": "a",
@@ -2048,7 +2048,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The repeated calm no is harder in practice than it sounds.",
-            "zh": "重複冷靜地說不，在實際上比聽起來難。"
+            "zh": "冷靜地一次次說「不」，做起來比聽起來難多了。"
           },
           {
             "speaker": "a",

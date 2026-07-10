@@ -251,13 +251,13 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to sit with that and see what it reveals about my own choices.",
-            "zh": "這感覺就是很適合停下來的地方。"
+            "zh": "我想慢慢消化這句話，看看它會照出我自己哪些選擇。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think that is the neatest place to pause for now.",
-            "zh": "停在這裡最乾淨。"
+            "zh": "我覺得現在停在這裡剛剛好。"
           },
           {
             "speaker": "b",
@@ -737,7 +737,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Much more demanding. It asks people to stay honest while they feel unsteady.",
-            "zh": "真的辛苦得多。它要求人們在自己不穩的時候，還是盡量保持誠實。"
+            "zh": "真的辛苦得多。它要求你在自己都不穩的時候，還是盡量保持誠實。"
           }
         ]
       },

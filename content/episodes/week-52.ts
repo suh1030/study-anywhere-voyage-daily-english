@@ -80,7 +80,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the most important thing is not always the loudest thing. Am I skipping the messy part?",
-            "zh": "所以最重要的東西，不一定是最大聲的那個。 還是我把它說得太整齊了？"
+            "zh": "所以最重要的東西，不一定是最大聲的那個。還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -121,7 +121,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English works well for this kind of reflection?",
-            "zh": "如果要做這種 reflection，有哪些英文很好用？"
+            "zh": "如果要做這種反思，有哪些英文很好用？"
           },
           {
             "speaker": "a",
@@ -163,7 +163,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It lands because insight often arrives later than the experience itself.",
-            "zh": "它有感，是因為 insight 本來就常比 experience 晚到。"
+            "zh": "它有感，是因為洞見本來就常比 experience 晚到。"
           }
         ]
       },
@@ -174,19 +174,19 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Can a small review really change what happens next?",
-            "zh": "一個小小的 review，真的會改變下一步嗎？"
+            "zh": "一個小小的回顧，真的會改變下一步嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Imagine someone reviewing a stressful season and realizing that every hard week got harder once sleep collapsed. That one observation may change the whole next chapter.",
-            "zh": "當然會。想像一個人回顧一段很 stressful 的時期，突然發現：每一個 hard week 其實都是在睡眠先垮掉之後才變得更糟。光是這個 observation，就可能改變下一個 chapter。"
+            "zh": "當然會。想像一個人回顧一段很有壓力的時期，突然發現：每一個難 week 其實都是在睡眠先垮掉之後才變得更糟。光是這個 observation，就可能改變下一個 chapter。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the review finds leverage, not only meaning.",
-            "zh": "所以 review 找到的不只是 meaning，也找到 leverage。"
+            "zh": "所以回顧找到的不只是意義，也找到 leverage。"
           },
           {
             "speaker": "a",
@@ -210,7 +210,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So review earns its place by shaping action.",
-            "zh": "所以 review 會因為能塑造 action 而變得有價值。"
+            "zh": "所以回顧會因為能塑造 action 而變得有價值。"
           },
           {
             "speaker": "a",
@@ -227,31 +227,31 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What kind of emotional tone helps a review stay healthy?",
-            "zh": "一個 review 如果想保持健康，情緒 tone 最好是什麼？"
+            "zh": "一個回顧如果想保持健康，情緒語氣最好是什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mercy and precision together. Too much mercy and you avoid the truth. Too much harshness and you stop learning because shame takes over.",
-            "zh": "是 mercy 和 precision 一起存在。只有 mercy 很容易躲開真相；只有 harshness 則很容易讓 shame 接管，最後反而學不到東西。"
+            "zh": "是寬容和 precision 一起存在。只有寬容很容易躲開真相；只有 harshness 則很容易讓 shame 接管，最後反而學不到東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the right tone is both honest and humane.",
-            "zh": "所以最好的 tone 是又誠實、又有人味。"
+            "zh": "所以最好的語氣是又誠實、又有人味。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. A useful review says, \"This was real. This mattered. And I do not have to become cruel in order to understand it.\"",
-            "zh": "這裡是我想特別畫線的地方。好的 review 會像是在說：「這件事是真的、這件事很重要，而我不需要變得殘忍，才能把它理解清楚。」"
+            "zh": "這裡是我想特別畫線的地方。好的回顧會像是在說：「這件事是真的、這件事很重要，而我不需要變得殘忍，才能把它理解清楚。」"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's the kind of ending this topic deserves.",
-            "zh": "這真的是這個 topic 值得的 ending。"
+            "zh": "這真的是這個主題值得的結尾。"
           },
           {
             "speaker": "a",
@@ -263,7 +263,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Ending with mercy and truth together feels right for this topic.",
-            "zh": "用 mercy 和 truth 一起收尾，對這個 topic 來說感覺剛好。"
+            "zh": "用寬容和 真相一起收尾，對這個主題來說感覺剛好。"
           },
           {
             "speaker": "a",
@@ -402,13 +402,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly. We had both been maintaining the surface — occasional messages, a like here and there — but not the substance underneath. Contact had replaced connection.",
-            "zh": "大概是這樣。我們都一直在維持表面，偶爾傳個訊息、按個讚，但下面那個本質已經沒了。聯絡變成了代替 connection 的東西。"
+            "zh": "大概是這樣。我們都一直在維持表面，偶爾傳個訊息、按個讚，但下面那個本質已經沒了。聯絡變成了代替連結的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Contact replacing connection — that phrase lands with weight.",
-            "zh": "聯絡取代 connection，這個說法很有重量。"
+            "zh": "聯絡取代連結，這個說法很有重量。"
           },
           {
             "speaker": "a",
@@ -526,13 +526,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the word \"busy\" often does less work than people expect it to. I am not sure if that covers the messy middle.",
-            "zh": "所以「忙」這個字，常常沒有人們以為的那麼有用。 還是我把它說得太整齊了？"
+            "zh": "所以「忙」這個字，常常沒有大家以為的那麼有用。還是我講得太武斷了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. It explains an absence. It does not restore the connection.",
-            "zh": "沒錯。它解釋了缺席。但它沒有讓 connection 恢復。"
+            "zh": "沒錯。它解釋了缺席。但它沒有讓連結恢復。"
           }
         ]
       }
@@ -594,37 +594,37 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why is it useful to review a year through energy and health, not only achievements?",
-            "zh": "為什麼用 energy 和 health 去 review 一段時期，會很有用，而不只是看 achievements？"
+            "zh": "為什麼用能量和 健康去 回顧一段時期，會很有用，而不只是看成就？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because energy often tells the truth faster than ambition does. A person may keep performing for a long time before they admit what the body has known for months.",
-            "zh": "因為 energy 往往比 ambition 更早說真話。一個人可能會表現很久，才終於承認：身體其實幾個月前就知道了。"
+            "zh": "因為能量往往比野心更早說真話。一個人可能會表現很久，才終於承認：身體其實幾個月前就知道了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So health review is a way of listening to evidence you may have ignored.",
-            "zh": "所以 health review 某程度上是在聽那些你本來一直忽略的證據。"
+            "zh": "所以健康回顧某程度上是在聽那些你本來一直忽略的證據。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Sleep, tension, appetite, pain, mood, focus, and recovery all carry information about how a life is being lived.",
-            "zh": "沒錯。睡眠、緊繃、食慾、疼痛、情緒、專注和恢復，全部都在帶著資訊，說明這個 life 到底是怎麼被活著的。"
+            "zh": "沒錯。睡眠、緊繃、食慾、疼痛、情緒、專注和恢復，全部都在帶著資訊，說明這個生活到底是怎麼被活著的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes the body sound like a review tool.",
-            "zh": "這讓身體聽起來很像一個 review tool。"
+            "zh": "這讓身體聽起來很像一個回顧工具。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a powerful review tool. The body keeps a record even when the story keeps rushing ahead.",
-            "zh": "它本來就是一個很 powerful 的 review tool。就算故事一直往前趕，身體還是會記帳。"
+            "zh": "它本來就是一個很 powerful 的回顧工具。就算故事一直往前趕，身體還是會記帳。"
           },
           {
             "speaker": "b",
@@ -636,7 +636,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Many good changes begin there.",
-            "zh": "它本來就值得留下來。很多好的 change，就是從那裡開始的。"
+            "zh": "它本來就值得留下來。很多好的改變，就是從那裡開始的。"
           }
         ]
       },
@@ -647,7 +647,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does reviewing energy help people see?",
-            "zh": "review 自己的 energy，通常會幫人看見什麼？"
+            "zh": "回顧自己的能量，通常會幫人看見什麼？"
           },
           {
             "speaker": "a",
@@ -671,25 +671,25 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a review can separate stimulation from care.",
-            "zh": "所以回顧能幫人分出 stimulation 和 care 的差別。"
+            "zh": "所以回顧能幫人分出刺激和 照顧的差別。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It also helps people see where they were betraying their own limits in the name of being productive or responsible.",
-            "zh": "沒錯。它也會讓人看到：自己是在哪裡打著 productive 或 responsible 的名義，一直在背叛自己的 limits。"
+            "zh": "沒錯。它也會讓人看到：自己是在哪裡打著有生產力或 responsible 的名義，一直在背叛自己的極限。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That productive-and-responsible disguise is exactly what makes it hard to notice.",
-            "zh": "這真的 familiar 到有點痛。"
+            "zh": "這真的熟悉到有點痛。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is familiar to many people, and that is why review matters so much here.",
-            "zh": "很多人都很 familiar，也正因如此，這個面向的 review 特別重要。"
+            "zh": "很多人都很熟悉，也正因如此，這個面向的回顧特別重要。"
           }
         ]
       },
@@ -700,7 +700,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English helps when talking about this topic?",
-            "zh": "如果要談這個 topic，有哪些英文很好用？"
+            "zh": "如果要談這個主題，有哪些英文很好用？"
           },
           {
             "speaker": "a",
@@ -759,13 +759,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone looks back and realizes the weeks that felt most productive were also the weeks that made them emotionally unavailable to everyone they loved.",
-            "zh": "想像一個人回頭看時發現：自己覺得最 productive 的那些 weeks，其實也是自己對所愛的人最 emotionally unavailable 的那些 weeks。"
+            "zh": "想像一個人回頭看時發現：自己覺得最有生產力的那些幾週，其實也是自己對所愛的人最 emotionally unavailable 的那些幾週。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That lands as a very painful insight.",
-            "zh": "這真的是很痛的 insight。"
+            "zh": "這真的是很痛的洞見。"
           },
           {
             "speaker": "a",
@@ -777,13 +777,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So health review is also a values review.",
-            "zh": "所以 health review 某程度上也在 review 價值。"
+            "zh": "所以健康回顧某程度上也在回顧價值。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: The body often reveals the moral structure of a life more honestly than a calendar does.",
-            "zh": "這裡有一個常被忽略的地方：身體有時比日曆更誠實地揭露一個 life 的價值結構。"
+            "zh": "這裡有一個常被忽略的地方：身體有時比日曆更誠實地揭露一個生活的價值結構。"
           },
           {
             "speaker": "b",
@@ -866,7 +866,7 @@ export const WEEK_52: Episode[] = [
       },
       {
         "en": "body record",
-        "zh": "身體一直默默記著這段 life 對它做了什麼",
+        "zh": "身體一直默默記著這段生活對它做了什麼",
         "example": "The body record told a different story."
       },
       {
@@ -910,31 +910,31 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "When people review work, they often start with results. Is that enough?",
-            "zh": "大家回顧 work 時，常常先看 results。這樣夠嗎？"
+            "zh": "大家回顧工作時，常常先看結果。這樣夠嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not really. Results matter, but a work review also needs to ask what the work did to the person while it was being done.",
-            "zh": "不太夠。results 當然重要，但 work review 也得問：這份工作在被做的過程中，對這個人做了什麼。"
+            "zh": "不太夠。結果當然重要，但工作回顧也得問：這份工作在被做的過程中，對這個人做了什麼。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the review is not only outward. It is inward too.",
-            "zh": "所以 review 不能只往外看，也得往內看。"
+            "zh": "所以回顧不能只往外看，也得往內看。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. A year of strong output may still hide erosion, confusion, growth, confidence, burnout, or a clearer sense of purpose.",
-            "zh": "沒錯。一段 output 很強的時間，底下仍然可能藏著耗損、混亂、成長、自信、burnout，或更清楚的 purpose。"
+            "zh": "沒錯。一段產出很強的時間，底下仍然可能藏著耗損、混亂、成長、自信、burnout，或更清楚的目的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes work review sound much more human.",
-            "zh": "這讓 work review 聽起來有人味多了。"
+            "zh": "這讓工作回顧聽起來有人味多了。"
           },
           {
             "speaker": "a",
@@ -946,7 +946,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So work review is also self-review.",
-            "zh": "所以 work review 某程度上也是 self-review。"
+            "zh": "所以工作回顧某程度上也是 self-review。"
           },
           {
             "speaker": "a",
@@ -963,25 +963,25 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What can work review teach someone about themselves?",
-            "zh": "work review 會讓一個人學到自己什麼？"
+            "zh": "工作回顧會讓一個人學到自己什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can reveal where they came alive, where they became performative, what kinds of responsibility fit, and what kinds of strain kept repeating.",
-            "zh": "它會揭露一個人在哪裡比較有生命、在哪裡比較像在表演、哪種 responsibility 很 fit、又是哪種 strain 一直重複。"
+            "zh": "它會揭露一個人在哪裡比較有生命、在哪裡比較像在表演、哪種 responsibility 很契合、又是哪種耗損一直重複。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the review is not only about whether you succeeded. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以 review 不只是看你成不成功。 還是我把它說得太整齊了？"
+            "zh": "所以回顧不只是看你成不成功。還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. It also asks whether the path itself was making you more coherent or more fragmented.",
-            "zh": "沒錯。它也會問：那條路本身，究竟讓你變得更 coherent，還是更 fragmented。"
+            "zh": "沒錯。它也會問：那條路本身，究竟讓你變得更一致，還是更碎裂。"
           },
           {
             "speaker": "b",
@@ -1005,7 +1005,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is hard, but naming it can change a lot.",
-            "zh": "它很 hard，但把它說出來，本來就會改很多。"
+            "zh": "它很難，但把它說出來，本來就會改很多。"
           }
         ]
       },
@@ -1016,7 +1016,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English helps with this kind of reflection?",
-            "zh": "如果要做這種 reflection，有哪些英文很好用？"
+            "zh": "如果要做這種反思，有哪些英文很好用？"
           },
           {
             "speaker": "a",
@@ -1075,7 +1075,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone reviewed the last stretch of work and realized the projects they were proudest of were not the biggest ones, but the ones where they felt useful, trusted, and less split from themselves.",
-            "zh": "想像一個人回顧最近一段 work，發現自己最 proud 的 project，不是最大的，而是那些讓他覺得有用、被信任，而且沒那麼和自己分裂的 project。"
+            "zh": "想像一個人回顧最近一段工作，發現自己最 proud 的專案，不是最大的，而是那些讓他覺得有用、被信任，而且沒那麼和自己分裂的專案。"
           },
           {
             "speaker": "b",
@@ -1087,7 +1087,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Review can correct prestige bias by showing what actually nourished the worker, not only what impressed the audience.",
-            "zh": "這裡是我想特別畫線的地方。review 會修正 prestige bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
+            "zh": "這裡是我想特別畫線的地方。回顧會修正光環 bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
           },
           {
             "speaker": "b",
@@ -1105,7 +1105,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So work review can become a compass.",
-            "zh": "所以 work review 其實會變成 compass。"
+            "zh": "所以工作回顧其實會變成羅盤。"
           },
           {
             "speaker": "a",
@@ -1227,37 +1227,37 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because growth often feels like repetition, frustration, or slow adjustment before it ever feels like confidence.",
-            "zh": "因為成長在變成 confidence 之前，很多時候先長得像重複、挫折，或很慢的調整。"
+            "zh": "因為成長在變成自信之前，很多時候先長得像重複、挫折，或很慢的調整。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So people expect fireworks and miss the actual change.",
-            "zh": "所以人常常在等煙火，結果漏掉真正的 change。"
+            "zh": "所以人常常在等煙火，結果漏掉真正的改變。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Real learning often looks small from the inside because it arrives through habit, correction, and staying with the thing a little longer than before.",
-            "zh": "沒錯。真正的 learning 從裡面看起來常常很小，因為它是透過 habit、修正，還有比以前多留一下而到的。"
+            "zh": "沒錯。真正的學習從裡面看起來常常很小，因為它是透過習慣、修正，還有比以前多留一下而到的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes growth sound much less glamorous.",
-            "zh": "這讓 growth 聽起來比較不 glamorous。"
+            "zh": "這讓成長聽起來比較不光鮮。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is often less glamorous, but much more trustworthy. Quiet growth usually lasts longer than dramatic self-reinvention.",
-            "zh": "它很多時候本來就比較不 glamorous，但也更可信。安靜的 growth 往往比戲劇性的 self-reinvention 撐得更久。"
+            "zh": "它很多時候本來就比較不光鮮，但也更可信。安靜的成長往往比戲劇性的 self-reinvention 撐得更久。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a review helps people notice what the drama hid.",
-            "zh": "所以 review 會幫人看見那些被戲劇感蓋住的東西。"
+            "zh": "所以回顧會幫人看見那些被戲劇感蓋住的東西。"
           },
           {
             "speaker": "a",
@@ -1274,13 +1274,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What kinds of changes show that learning was real?",
-            "zh": "哪些 change 會讓人知道 learning 真的有發生？"
+            "zh": "哪些改變會讓人知道學習真的有發生？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often the change is in response time, self-trust, and what no longer knocks a person over the way it used to.",
-            "zh": "很多時候，change 會出現在反應速度、自我信任，還有某些事情不再像以前那樣把人整個擊倒。"
+            "zh": "很多時候，改變會出現在反應速度、自我信任，還有某些事情不再像以前那樣把人整個擊倒。"
           },
           {
             "speaker": "b",
@@ -1298,19 +1298,19 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That comes through as a mature kind of progress.",
-            "zh": "這聽起來是一種很成熟的 progress。"
+            "zh": "這聽起來是一種很成熟的進步。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is mature because it changes how life is lived, not only how progress is described.",
-            "zh": "它很成熟，因為它改變的是 life 怎麼被活，而不只是 progress 怎麼被描述。"
+            "zh": "它很成熟，因為它改變的是生活怎麼被活，而不只是進步怎麼被描述。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So growth review is really about function, not only feeling.",
-            "zh": "所以 growth review 真的是在看 function，不只是 feeling。"
+            "zh": "所以成長回顧真的是在看 function，不只是 feeling。"
           },
           {
             "speaker": "a",
@@ -1380,7 +1380,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would an easy-to-miss example of growth look like in real life?",
-            "zh": "你可以給我一個很容易被忽略的 growth 例子嗎？"
+            "zh": "你可以給我一個很容易被忽略的成長例子嗎？"
           },
           {
             "speaker": "a",
@@ -1416,13 +1416,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes review feel very necessary.",
-            "zh": "這讓 review 聽起來很必要。"
+            "zh": "這讓回顧聽起來很必要。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it is necessary if people want to recognize their own growth accurately.",
-            "zh": "如果一個人想準確地認出自己的 growth，我覺得它真的很必要。"
+            "zh": "如果一個人想準確地認出自己的成長，我覺得它真的很必要。"
           }
         ]
       },
@@ -1433,37 +1433,37 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is the healthiest way to hold your own growth?",
-            "zh": "那最健康的方式，是怎麼看待自己的 growth？"
+            "zh": "那最健康的方式，是怎麼看待自己的成長？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "With seriousness and without theater. Growth deserves to be noticed, but it does not need to be exaggerated into a performance.",
-            "zh": "是帶著 seriousness，但不要帶 theater。growth 值得被看見，但不需要被誇大成 performance。"
+            "zh": "是帶著認真，但不要帶 theater。成長值得被看見，但不需要被誇大成表演。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That seems like the right tone for maturity.",
-            "zh": "這聽起來很像成熟該有的 tone。"
+            "zh": "這聽起來很像成熟該有的語氣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the right tone because exaggeration often hides insecurity, while honest review builds trust in quieter ways.",
-            "zh": "它確實是對的 tone，因為 exaggeration 很常是在遮 insecurity，而 honest review 則會用比較安靜的方式慢慢建立 trust。"
+            "zh": "它確實是對的語氣，因為 exaggeration 很常是在遮 insecurity，而 honest 回顧則會用比較安靜的方式慢慢建立 trust。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a person can honor growth without turning it into branding.",
-            "zh": "所以一個人可以尊重 growth，但不用把它變成 branding。"
+            "zh": "所以一個人可以尊重成長，但不用把它變成 branding。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The point is not to impress yourself. The point is to understand yourself better and carry the learning forward.",
-            "zh": "沒錯。重點不是要 impress 自己，而是更理解自己，然後把 learning 帶去前面。"
+            "zh": "沒錯。重點不是要 impress 自己，而是更理解自己，然後把學習帶去前面。"
           },
           {
             "speaker": "b",
@@ -1537,25 +1537,25 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do people often forget to review joy and creativity, not only stress and achievement?",
-            "zh": "為什麼人很容易只 review 壓力和 achievement，卻忘了回顧 joy 和 creativity？"
+            "zh": "為什麼人很容易只回顧壓力和 achievement，卻忘了回顧快樂和 創造力？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because pressure feels urgent and measurable, while joy can seem soft and nonessential until you notice how much it keeps a life from becoming flat.",
-            "zh": "因為 pressure 聽起來比較 urgent、也比較 measurable，而 joy 看起來很 soft、很非必要，直到你發現：它其實一直在防止一個 life 整個變平。"
+            "zh": "因為 pressure 聽起來比較 urgent、也比較 measurable，而快樂看起來很 soft、很非必要，直到你發現：它其實一直在防止一個生活整個變平。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy is not extra. It is structural too.",
-            "zh": "所以 joy 不是 extra，它其實也很 structural。"
+            "zh": "所以快樂不是 extra，它其實也很 structural。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: Creativity and joy often keep people in contact with wonder, play, and the parts of themselves that are not only useful.",
-            "zh": "這裡有一個常被忽略的地方：creativity 和 joy 會讓人繼續碰到 wonder、play，以及自己那些不只為了有用而存在的部分。"
+            "zh": "這裡有一個常被忽略的地方：創造力和 快樂會讓人繼續碰到 wonder、玩心，以及自己那些不只為了有用而存在的部分。"
           },
           {
             "speaker": "b",
@@ -1573,7 +1573,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy review is not indulgent. It is diagnostic.",
-            "zh": "所以回顧 joy 不是 indulgent，而是在做診斷。"
+            "zh": "所以回顧快樂不是 indulgent，而是在做診斷。"
           },
           {
             "speaker": "a",
@@ -1590,25 +1590,25 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does reviewing creativity reveal?",
-            "zh": "review creativity 會揭露什麼？"
+            "zh": "回顧創造力會揭露什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Where a person still feels curiosity, where play survived, what forms of expression felt nourishing, and where life became too tight for imagination.",
-            "zh": "它會揭露：一個人在哪裡還有 curiosity、play 是在哪裡存活下來的、哪種 expression 有滋養感，以及 life 是在哪裡變得太緊，讓 imagination 沒空氣。"
+            "zh": "它會揭露：一個人在哪裡還有 curiosity、玩心是在哪裡存活下來的、哪種 expression 有滋養感，以及生活是在哪裡變得太緊，讓 imagination 沒空氣。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So creativity review is also an aliveness review.",
-            "zh": "所以 creativity review 某程度上也是 aliveness review。"
+            "zh": "所以創造力回顧某程度上也是 aliveness 回顧。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly, yes. It asks where life opened and where it narrowed.",
-            "zh": "大致上是。它在問：life 在哪裡打開、又在哪裡收窄。"
+            "zh": "大致上是。它在問：生活在哪裡打開、又在哪裡收窄。"
           },
           {
             "speaker": "b",
@@ -1620,19 +1620,19 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because people often think joy should appear automatically, when it actually depends on attention, space, and permission.",
-            "zh": "它很重要，因為很多人以為 joy 應該自動出現，但它其實很依賴注意力、空間和 permission。"
+            "zh": "它很重要，因為很多人以為快樂應該自動出現，但它其實很依賴注意力、空間和 permission。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy can disappear through neglect, not only through tragedy.",
-            "zh": "所以 joy 不只是因為 tragedy 才消失，也可能只是被 neglect 掉。"
+            "zh": "所以快樂不只是因為 tragedy 才消失，也可能只是被 neglect 掉。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Review can help call it back into visibility.",
-            "zh": "對。而 review 就能幫它重新回到可見。"
+            "zh": "對。而回顧就能幫它重新回到可見。"
           }
         ]
       },
@@ -1643,7 +1643,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is useful for this kind of reflection?",
-            "zh": "如果要做這種 reflection，有哪些英文很好用？"
+            "zh": "如果要做這種反思，有哪些英文很好用？"
           },
           {
             "speaker": "a",
@@ -1685,7 +1685,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It gives people language to talk about life beyond performance.",
-            "zh": "它會給人一套語言去談 performance 之外的自己。"
+            "zh": "它會給人一套語言去談表演之外的自己。"
           }
         ]
       },
@@ -1696,7 +1696,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would a very small example of joy that matters look like?",
-            "zh": "你可以給我一個很小，但很值得記住的 joy 例子嗎？"
+            "zh": "你可以給我一個很小，但很值得記住的快樂例子嗎？"
           },
           {
             "speaker": "a",
@@ -1708,13 +1708,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy often hides in very ordinary rituals.",
-            "zh": "所以 joy 很常躲在很 ordinary 的 ritual 裡。"
+            "zh": "所以快樂很常躲在很 ordinary 的儀式裡。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Indeed. That does not make it small in value. It may mean those rituals were carrying more of the person than they realized.",
-            "zh": "沒錯。但那不代表它的價值很小。它也可能表示：那些 ritual 承載了比那個人原本意識到的更多自我。"
+            "zh": "沒錯。但那不代表它的價值很小。它也可能表示：那些儀式承載了比那個人原本意識到的更多自我。"
           },
           {
             "speaker": "b",
@@ -1732,7 +1732,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So review can protect joy going forward.",
-            "zh": "所以 review 也能保護未來的 joy。"
+            "zh": "所以回顧也能保護未來的快樂。"
           },
           {
             "speaker": "a",
@@ -1755,25 +1755,25 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That joy deserves seriousness too. Not heavy seriousness, but real respect. What delights a person may also be what keeps them psychologically alive.",
-            "zh": "就是：joy 也值得被認真看待。不是很重的 seriousness，而是真正的 respect。讓一個人 delight 的東西，也可能正是讓他在心理上保持活著的東西。"
+            "zh": "就是：快樂也值得被認真看待。不是很重的認真，而是真正的重視。讓一個人 delight 的東西，也可能正是讓他在心理上保持活著的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy is not a reward after life. It is part of life.",
-            "zh": "所以 joy 不是 life 做完之後才發的獎勵，而是 life 本身的一部分。"
+            "zh": "所以快樂不是生活做完之後才發的獎勵，而是生活本身的一部分。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. The point of review is not only to identify what was hard or productive. It is also to remember what was beautiful enough to protect.",
-            "zh": "沒錯。review 的目的不只是看出什麼 hard、什麼 productive，也是在提醒自己：哪些東西美到值得保護。"
+            "zh": "沒錯。回顧的目的不只是看出什麼難、什麼有生產力，也是在提醒自己：哪些東西美到值得保護。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy deserves structure too, not only gratitude after the fact.",
-            "zh": "所以 joy 也值得有結構地被安排，而不只是事後感謝一下。"
+            "zh": "所以快樂也值得有結構地被安排，而不只是事後感謝一下。"
           },
           {
             "speaker": "a",
@@ -1785,7 +1785,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's the perfect ending for this episode.",
-            "zh": "這真的是這集最好的 ending。"
+            "zh": "這真的是這集最好的結尾。"
           },
           {
             "speaker": "a",
@@ -1819,7 +1819,7 @@ export const WEEK_52: Episode[] = [
       },
       {
         "en": "permission for joy",
-        "zh": "允許自己有 joy，而不立刻覺得那很浪費或不應該",
+        "zh": "允許自己有快樂，而不立刻覺得那很浪費或不應該",
         "example": "She realized she needed permission for joy."
       },
       {
@@ -1829,12 +1829,12 @@ export const WEEK_52: Episode[] = [
       },
       {
         "en": "joy-bearing ritual",
-        "zh": "看起來普通，卻一直承載 joy 的日常 ritual",
+        "zh": "看起來普通，卻一直承載快樂的日常儀式",
         "example": "The weekend walk had become a joy-bearing ritual."
       },
       {
         "en": "protect the joy source",
-        "zh": "辨認並保護真正讓自己有 joy 的來源",
+        "zh": "辨認並保護真正讓自己有快樂的來源",
         "example": "He decided to protect the joy source more carefully."
       }
     ]
@@ -1853,13 +1853,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why is writing to a future self such a meaningful exercise?",
-            "zh": "為什麼寫信給 future self 會是一個很有意義的 exercise？"
+            "zh": "為什麼寫信給未來自己會是一個很有意義的練習？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because it gathers reflection and intention into one voice. You are not only reviewing what happened. You are deciding what deserves to be carried forward.",
-            "zh": "因為它把 reflection 和 intention 收進同一個 voice 裡。你不只是在回顧發生了什麼，也是在決定：什麼值得被帶去前面。"
+            "zh": "因為它把反思和 意圖收進同一個 voice 裡。你不只是在回顧發生了什麼，也是在決定：什麼值得被帶去前面。"
           },
           {
             "speaker": "b",
@@ -1871,7 +1871,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. It lets a person speak across time with more care than daily life usually allows.",
-            "zh": "這裡是我想特別畫線的地方。它讓一個人能用比 daily life 平常更細緻的方式，跨時間對自己說話。"
+            "zh": "這裡是我想特別畫線的地方。它讓一個人能用比 daily 生活平常更細緻的方式，跨時間對自己說話。"
           },
           {
             "speaker": "b",
@@ -1889,13 +1889,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the form itself changes the tone.",
-            "zh": "所以光是這種形式，就會改變 tone。"
+            "zh": "所以光是這種形式，就會改變語氣。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. Form creates care in ways people do not always expect.",
-            "zh": "沒錯。形式本身就會創造出人意想不到的 care。"
+            "zh": "沒錯。形式本身就會創造出人意想不到的照顧。"
           }
         ]
       },
@@ -1906,19 +1906,19 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What makes a future-self letter actually useful?",
-            "zh": "什麼樣的 future-self letter 才真的有用？"
+            "zh": "什麼樣的 future-self 信才真的有用？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should include truth, not only hope. What you learned, what you do not want to forget, and what kind of kindness the future self may need.",
-            "zh": "它應該包含 truth，不只是 hope。要寫你學到了什麼、什麼不想忘，還有未來的自己可能需要哪種 kindness。"
+            "zh": "它應該包含真相，不只是希望。要寫你學到了什麼、什麼不想忘，還有未來的自己可能需要哪種善意。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the letter is not a motivational poster. But does that leave anything out?",
-            "zh": "所以這封信不是 motivational poster。 還是我把它說得太整齊了？"
+            "zh": "所以這封信不是 motivational poster。還是我把它說得太整齊了？"
           },
           {
             "speaker": "a",
@@ -1936,7 +1936,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because memory fades, but written language can return insight at the exact moment it is needed later.",
-            "zh": "它很重要，因為記憶會淡，可是寫下來的 language 可以在未來剛好需要的 moment 把 insight 帶回來。"
+            "zh": "它很重要，因為記憶會淡，可是寫下來的 language 可以在未來剛好需要的 moment 把洞見帶回來。"
           },
           {
             "speaker": "b",
@@ -1959,7 +1959,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English sounds good for this kind of letter?",
-            "zh": "如果要寫這種 letter，有哪些英文很好用？"
+            "zh": "如果要寫這種信，有哪些英文很好用？"
           },
           {
             "speaker": "a",
@@ -1989,7 +1989,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a gentler tone, try: \"Please be kind to the version of us that is still learning slowly.\" That line carries a lot of mercy.",
-            "zh": "如果你想溫柔一點，也可以說：「Please be kind to the version of us that is still learning slowly.」這句帶很多 mercy。"
+            "zh": "如果你想溫柔一點，也可以說：「Please be kind to the version of us that is still learning slowly.」這句帶很多寬容。"
           },
           {
             "speaker": "b",
@@ -2001,7 +2001,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It gives people language for hope that does not sound like pressure.",
-            "zh": "它會給人一套 hope 的語言，但聽起來不會像壓力。"
+            "zh": "它會給人一套希望的語言，但聽起來不會像壓力。"
           }
         ]
       },
@@ -2018,25 +2018,25 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone writing to remind their future self that the most peaceful parts of the year came from simpler rhythms, fewer promises, and more honest limits.",
-            "zh": "想像一個人寫信提醒未來的自己：這段時期最平靜的部分，其實來自比較簡單的 rhythm、比較少的 promises，以及比較誠實的 limits。"
+            "zh": "想像一個人寫信提醒未來的自己：這段時期最平靜的部分，其實來自比較簡單的 rhythm、比較少的 promises，以及比較誠實的極限。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the letter is protecting wisdom from being swallowed by speed.",
-            "zh": "所以這封信其實是在保護 wisdom，不要被速度吞掉。"
+            "zh": "所以這封信其實是在保護智慧，不要被速度吞掉。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Future-self letters often protect the truths that are easiest to abandon once life gets noisy again.",
-            "zh": "沒錯。future-self letter 常常是在保護那些一旦 life 又吵起來，就最容易被丟掉的 truth。"
+            "zh": "沒錯。future-self 信常常是在保護那些一旦生活又吵起來，就最容易被丟掉的真相。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes the exercise feel more necessary.",
-            "zh": "這讓整個 exercise 聽起來更有必要。"
+            "zh": "這讓整個練習聽起來更有必要。"
           },
           {
             "speaker": "a",
@@ -2054,19 +2054,19 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it is one of the kindest uses of reflection.",
-            "zh": "我覺得它是 reflection 最溫柔的用途之一。"
+            "zh": "我覺得它是反思最溫柔的用途之一。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what is the deepest point of writing to a future self?",
-            "zh": "那寫給 future self 最深的點到底是什麼？"
+            "zh": "那寫給未來自己最深的點到底是什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That a person can become a source of guidance for themselves without becoming harsh, inflated, or false. The letter proves that wisdom can sound intimate.",
-            "zh": "就是：一個人可以在不變 harsh、不變 inflated、也不變假的情況下，成為自己的一個 guidance source。這封信會證明：wisdom 也可以聽起來很親密。"
+            "zh": "就是：一個人可以在不變 harsh、不變 inflated、也不變假的情況下，成為自己的一個 guidance source。這封信會證明：智慧也可以聽起來很親密。"
           },
           {
             "speaker": "b",

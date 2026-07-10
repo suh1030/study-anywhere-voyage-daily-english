@@ -372,8 +372,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Not every pause is avoidance. Sometimes it is how your thinking catches up with reality.",
-            "zh": "我們把它變得更實用一點。不是每一個停頓都是逃避，有時候那是你的思考在追上現實。"
+            "en": "Not every pause is avoidance. Sometimes it is how your thinking catches up with reality.",
+            "zh": "不是每一個停頓都是逃避，有時候那是你的思考在追上現實。"
           }
         ]
       },
@@ -567,8 +567,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A plain version often travels farther. Start by noticing your first move, then ask whether that move actually helps this particular problem.",
-            "zh": "我們把它變得更實用一點。先注意自己第一個動作是什麼，再問那個動作對眼前這種問題是不是真的有幫助。"
+            "en": "Start by noticing your first move, then ask whether that move actually helps this particular problem.",
+            "zh": "先注意自己第一個動作是什麼，再問那個動作對眼前這種問題是不是真的有幫助。"
           },
           {
             "speaker": "b",
@@ -707,7 +707,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the messy part is not a failure. It is part of the route. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以前面那段混亂，不是失敗，而是路的一部分。 還是我把它說得太整齊了？"
+            "zh": "所以前面那段混亂不是失敗，而是路的一部分。還是我把它講得比實際感覺更整齊了？"
           },
           {
             "speaker": "a",
@@ -789,8 +789,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In real life, it might sound like this. Boundaries are often what turn imagination into something usable.",
-            "zh": "我們把它變得更實用一點。很多時候，邊界就是把想像力變成可用東西的條件。"
+            "en": "Boundaries are often what turn imagination into something usable.",
+            "zh": "很多時候，邊界就是把想像力變成可用東西的條件。"
           }
         ]
       },
@@ -842,8 +842,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. Useful creativity is rarely a straight line.",
-            "zh": "我們把它變得更實用一點。真正有用的創意，很少是一條直線。"
+            "en": "Useful creativity is rarely a straight line.",
+            "zh": "真正有用的創意，很少是一條直線。"
           }
         ]
       },
@@ -895,8 +895,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. Creativity should feel usable, not intimidating.",
-            "zh": "我們把它變得更實用一點。創意應該讓人覺得可以拿來用，不是讓人害怕。"
+            "en": "Creativity should feel usable, not intimidating.",
+            "zh": "創意應該讓人覺得可以拿來用，不是讓人害怕。"
           }
         ]
       }
@@ -1211,8 +1211,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Loud symptoms often point to quiet causes.",
-            "zh": "我們把它變得更實用一點。很吵的症狀，常常指向很安靜的原因。"
+            "en": "Loud symptoms often point to quiet causes.",
+            "zh": "很吵的症狀，常常指向很安靜的原因。"
           }
         ]
       }
@@ -1474,8 +1474,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. The goal is not to erase uncertainty. It is to move through it intelligently.",
-            "zh": "我們把它變得更實用一點。目標不是把不確定消掉，而是有智慧地穿過它。"
+            "en": "The goal is not to erase uncertainty. It is to move through it intelligently.",
+            "zh": "目標不是把不確定消掉，而是有智慧地穿過它。"
           }
         ]
       },
@@ -1527,8 +1527,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This needs to sound ordinary. Sometimes the honest move is simply to choose, then keep learning.",
-            "zh": "我們把它變得更實用一點。有時候誠實的做法，就是先選，然後繼續學。"
+            "en": "Sometimes the honest move is simply to choose, then keep learning.",
+            "zh": "有時候誠實的做法，就是先選，然後繼續學。"
           }
         ]
       }
@@ -1947,8 +1947,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In real life, it might sound like this. It makes the skill feel human instead of intimidating.",
-            "zh": "我們把它變得更實用一點。這會讓這個能力聽起來更像人可以學的，而不是嚇人的東西。"
+            "en": "It makes the skill feel human instead of intimidating.",
+            "zh": "這會讓這個能力聽起來更像人可以學的，而不是嚇人的東西。"
           }
         ]
       },
@@ -2053,8 +2053,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. Tone matters because it shapes how the mind experiences the task.",
-            "zh": "我們把它變得更實用一點。語氣真的很重要，因為它會影響大腦怎麼感受眼前這個任務。"
+            "en": "Tone matters because it shapes how the mind experiences the task.",
+            "zh": "語氣真的很重要，因為它會影響大腦怎麼感受眼前這個任務。"
           }
         ]
       },
@@ -2106,8 +2106,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. Mystery is overrated when what you need is traction.",
-            "zh": "我們把它變得更實用一點。你需要的是抓地力時，神祕感其實沒那麼重要。"
+            "en": "Mystery is overrated when what you need is traction.",
+            "zh": "你需要的是抓地力時，神祕感其實沒那麼重要。"
           },
           {
             "speaker": "b",
@@ -2154,8 +2154,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. The best confidence is not 'I always know.' It is 'I can work with what shows up.'",
-            "zh": "我們把它變得更實用一點。最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」"
+            "en": "The best confidence is not 'I always know.' It is 'I can work with what shows up.'",
+            "zh": "最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」"
           }
         ]
       }
