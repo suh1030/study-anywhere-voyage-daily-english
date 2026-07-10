@@ -204,7 +204,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and if you say you will check on someone, do it. Reliability is part of kindness.",
-            "zh": "對，而且而且如果你說你會再關心某人一次，就真的去做。可靠本身就是善意的一部分。"
+            "zh": "對，而且如果你說你會再關心某人一次，就真的去做。可靠本身就是善意的一部分。"
           },
           {
             "speaker": "b",

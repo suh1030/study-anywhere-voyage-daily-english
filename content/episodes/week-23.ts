@@ -245,7 +245,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and the goal can change as you change. That is not inconsistency, that is growth.",
-            "zh": "對，而且而且目標可以隨著你改變而改變。那不是前後矛盾，那是成長。"
+            "zh": "對，而且目標可以隨著你改變而改變。那不是前後矛盾，那是成長。"
           },
           {
             "speaker": "b",
@@ -1356,8 +1356,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "True. The contact has changed. Loyalty used to guarantee tenure. Now it does not work that way in most companies.",
-            "zh": "是的。合同已經改變了。忠誠曾經保證終身職位。現在大多數公司已經不是那樣運作的了。"
+            "en": "True. The contract has changed. Loyalty used to guarantee tenure. Now it does not work that way in most companies.",
+            "zh": "是的。合約已經改變了。忠誠曾經保證終身職位。現在大多數公司已經不是那樣運作的了。"
           },
           {
             "speaker": "b",
