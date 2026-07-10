@@ -228,9 +228,101 @@ if (!excludeArticles) {
   }
 }
 
+// ── 字卡溯源：headword 必須真實出現在對應週的來源內容 ──────────────────
+// listen → 該週集數（對話行 + keyPhrases）；speak → 該週文章（內文 + vocabulary）
+function loadEpisodeWeek(filePath) {
+  const source = fs.readFileSync(filePath, 'utf8')
+    .replace(/^import[^\n]*\n\n/, '')
+    .replace(/export const WEEK_\d{2}: Episode\[] = /, 'module.exports = ')
+  const ctx = { module: { exports: null } }
+  vm.runInNewContext(source, ctx, { filename: filePath })
+  return ctx.module.exports
+}
+
+function phraseStems(value) {
+  // something/someone 等槽位詞視同萬用（"outgrow something" 可對應 "outgrow it/a role"）
+  return normalizeEnglish(value)
+    .split(' ')
+    .filter(Boolean)
+    .map((t) => (SLOT_WORDS.has(t) ? '@pron' : simpleStem(t)))
+}
+
+// 連續視窗比對：headword 的 stems 必須連續出現於來源 stems（@pron 對任意 token）
+function corpusContainsPhrase(corpusStems, phrase) {
+  const needle = phraseStems(phrase)
+  if (!needle.length) return true
+  outer: for (let i = 0; i <= corpusStems.length - needle.length; i++) {
+    for (let j = 0; j < needle.length; j++) {
+      if (needle[j] === '@pron') continue
+      if (corpusStems[i + j] !== needle[j]) continue outer
+    }
+    return true
+  }
+  return false
+}
+
+if (!excludeArticles) {
+  const episodesByWeek = new Map()
+  const episodeFiles = fs.readdirSync('content/episodes').filter((f) => /^week-\d{2}\.ts$/.test(f)).sort()
+  for (const f of episodeFiles) {
+    for (const ep of loadEpisodeWeek(path.join('content/episodes', f))) {
+      if (!episodesByWeek.has(ep.weekNumber)) episodesByWeek.set(ep.weekNumber, [])
+      episodesByWeek.get(ep.weekNumber).push(ep)
+    }
+  }
+  const weekArticles = new Map()
+  articleFiles.forEach((f) => {
+    const week = Number((f.match(/articles-w(\d{2})/) || [])[1])
+    const list = Object.values(load(path.join('content/articles', f))).flatMap((v) => (Array.isArray(v) ? v : []))
+    weekArticles.set(week, list)
+  })
+
+  const listenCorpus = new Map()
+  const speakCorpus = new Map()
+  function corpusFor(card) {
+    if (card.source === 'listen') {
+      if (!listenCorpus.has(card.weekNumber)) {
+        let text = ''
+        for (const ep of episodesByWeek.get(card.weekNumber) || []) {
+          for (const part of ep.parts) for (const line of part.lines) text += ' ' + (line.en || line.english || '')
+          for (const k of ep.keyPhrases || []) text += ' ' + (k.en || k.phrase || '') + ' ' + (k.example || '')
+        }
+        listenCorpus.set(card.weekNumber, phraseStems(text))
+      }
+      return listenCorpus.get(card.weekNumber)
+    }
+    if (!speakCorpus.has(card.weekNumber)) {
+      let text = ''
+      for (const a of weekArticles.get(card.weekNumber) || []) {
+        text += ' ' + String(a.text || '').replace(/<[^>]*>/g, ' ')
+        for (const v of a.vocabulary || []) text += ' ' + (v.word || '') + ' ' + (v.example || '')
+      }
+      speakCorpus.set(card.weekNumber, phraseStems(text))
+    }
+    return speakCorpus.get(card.weekNumber)
+  }
+
+  for (const card of flashcards) {
+    if (!corpusContainsPhrase(corpusFor(card), card.english)) {
+      errors.push(`Flashcard ${card.id} headword "${card.english}" not found in week ${card.weekNumber} ${card.source} content`)
+    }
+  }
+}
+
+// ── 字卡 headword 全域唯一（不得跨週重複）──────────────────────────────
+const headwordSeen = new Map()
+for (const card of flashcards) {
+  const key = normalizeEnglish(card.english)
+  if (headwordSeen.has(key)) {
+    errors.push(`Flashcard duplicate headword "${card.english}": ${headwordSeen.get(key)} / ${card.id}`)
+  } else {
+    headwordSeen.set(key, card.id)
+  }
+}
+
 if (errors.length) {
   console.error(errors.join('\n'))
   process.exit(1)
 }
 
-console.log(`Validated ${questions.length} questions, ${flashcards.length} flashcards, ${articles.length} articles`)
+console.log(`Validated ${questions.length} questions, ${flashcards.length} flashcards, ${articles.length} articles (provenance + uniqueness OK)`)

@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SAV 內容人工審查</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --panel: #ffffff; --ink: #22211e; --muted: #8a867d;
+    --line: #e6e3dc; --accent: #4a6b5d; --pass: #2e7d4f; --fail: #b3402e;
+    --pass-bg: #e8f3ec; --fail-bg: #faeae6;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: "PingFang TC", "Noto Sans TC", system-ui, sans-serif; background: var(--bg); color: var(--ink); }
+
+  header {
+    position: sticky; top: 0; z-index: 10; background: var(--panel);
+    border-bottom: 1px solid var(--line); padding: 10px 20px;
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  }
+  header h1 { font-size: 15px; margin: 0; font-weight: 700; }
+  .tabs { display: flex; gap: 4px; }
+  .tabs button {
+    border: 1px solid var(--line); background: var(--bg); padding: 6px 14px;
+    border-radius: 999px; cursor: pointer; font-size: 13px; color: var(--ink);
+  }
+  .tabs button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .filters { display: flex; gap: 4px; margin-left: auto; }
+  .filters button {
+    border: 1px solid var(--line); background: var(--bg); padding: 5px 10px;
+    border-radius: 6px; cursor: pointer; font-size: 12px; color: var(--muted);
+  }
+  .filters button.active { border-color: var(--ink); color: var(--ink); font-weight: 600; }
+  #stats { font-size: 12px; color: var(--muted); }
+  #stats b.p { color: var(--pass); } #stats b.f { color: var(--fail); }
+
+  .layout { display: flex; min-height: calc(100vh - 53px); }
+  nav {
+    width: 170px; flex-shrink: 0; border-right: 1px solid var(--line);
+    padding: 12px 8px; background: var(--panel); overflow-y: auto;
+    position: sticky; top: 53px; height: calc(100vh - 53px);
+  }
+  nav button {
+    display: flex; justify-content: space-between; align-items: center;
+    width: 100%; border: 0; background: none; padding: 6px 10px;
+    border-radius: 6px; cursor: pointer; font-size: 13px; color: var(--ink); text-align: left;
+  }
+  nav button.active { background: var(--accent); color: #fff; }
+  nav .dot { font-size: 10px; letter-spacing: 1px; }
+  nav .dot .p { color: var(--pass); } nav .dot .f { color: var(--fail); } nav .dot .u { color: #c9c5bb; }
+  nav button.active .dot .u { color: rgba(255,255,255,.5); }
+
+  main { flex: 1; padding: 20px; max-width: 980px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    padding: 18px 20px; margin-bottom: 16px;
+  }
+  .card.pass { border-left: 4px solid var(--pass); }
+  .card.fail { border-left: 4px solid var(--fail); background: var(--fail-bg); }
+  .card h3 { margin: 0 0 2px; font-size: 16px; }
+  .card .meta { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+
+  .markbar { display: flex; gap: 8px; align-items: center; margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; }
+  .markbar button {
+    border: 1px solid var(--line); background: var(--bg); border-radius: 6px;
+    padding: 6px 16px; cursor: pointer; font-size: 13px;
+  }
+  .markbar button.on-pass { background: var(--pass); border-color: var(--pass); color: #fff; }
+  .markbar button.on-fail { background: var(--fail); border-color: var(--fail); color: #fff; }
+  .markbar input {
+    flex: 1; border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px;
+    font-size: 13px; font-family: inherit; background: #fff;
+  }
+  .markbar .saved { font-size: 11px; color: var(--muted); min-width: 44px; }
+
+  /* episodes */
+  .part-title { font-size: 13px; font-weight: 700; color: var(--accent); margin: 14px 0 6px; }
+  .line { display: grid; grid-template-columns: 52px 1fr; gap: 8px; padding: 5px 0; border-bottom: 1px solid #f0eee9; }
+  .line .who { font-size: 12px; color: var(--muted); padding-top: 2px; }
+  .line .en { font-size: 14px; line-height: 1.5; }
+  .line .zh { font-size: 13px; color: #6b675e; line-height: 1.5; margin-top: 2px; }
+  .kp { margin-top: 14px; }
+  .kp h4 { font-size: 13px; margin: 0 0 6px; color: var(--accent); }
+  .kp li { font-size: 13px; margin-bottom: 6px; line-height: 1.5; }
+  .kp li .zh { color: #6b675e; }
+  .kp li .ex { color: var(--muted); font-style: italic; }
+
+  /* articles */
+  .art-en p, .art-zh p { font-size: 14.5px; line-height: 1.75; }
+  .art-zh p { color: #55524a; font-size: 13.5px; }
+  .art-zh { border-top: 1px dashed var(--line); margin-top: 10px; padding-top: 4px; }
+  .vocab { margin-top: 12px; border-top: 1px dashed var(--line); padding-top: 10px; }
+  .vocab li { font-size: 13px; margin-bottom: 5px; line-height: 1.5; }
+  .vocab .ex { color: var(--muted); font-style: italic; }
+  .toggle-zh { font-size: 12px; color: var(--accent); cursor: pointer; background: none; border: 0; padding: 0; text-decoration: underline; }
+
+  /* questions & flashcards */
+  .q-en { font-size: 15px; font-weight: 600; line-height: 1.5; }
+  .q-hint, .q-tip { font-size: 13px; color: #6b675e; margin-top: 6px; line-height: 1.5; }
+  .q-hint b, .q-tip b { color: var(--muted); font-weight: 600; font-size: 12px; }
+  .fc-word { font-size: 16px; font-weight: 700; }
+  .fc-zh { font-size: 13.5px; color: #55524a; margin: 4px 0; }
+  .fc-ex { font-size: 13.5px; color: var(--muted); font-style: italic; line-height: 1.5; }
+
+  /* summary */
+  .sum-item { border-bottom: 1px solid var(--line); padding: 10px 0; font-size: 13px; }
+  .sum-item code { background: var(--bg); padding: 1px 6px; border-radius: 4px; font-size: 12px; }
+  .sum-item .note { color: var(--fail); margin-top: 3px; }
+  .empty { color: var(--muted); font-size: 14px; padding: 40px 0; text-align: center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>SAV 內容審查</h1>
+  <div class="tabs" id="tabs"></div>
+  <span id="stats"></span>
+  <div class="filters" id="filters"></div>
+</header>
+<div class="layout">
+  <nav id="weekNav"></nav>
+  <main id="main"></main>
+</div>
+
+<script>
+const TABS = [
+  { id: 'episodes',   label: '播客 Listen' },
+  { id: 'articles',   label: '文章 Speak' },
+  { id: 'questions',  label: '口說題' },
+  { id: 'flashcards', label: '字卡' },
+  { id: 'summary',    label: '❌ 不通過清單' },
+]
+const FILTERS = [
+  { id: 'all',   label: '全部' },
+  { id: 'todo',  label: '未審' },
+  { id: 'fail',  label: '不通過' },
+  { id: 'pass',  label: '通過' },
+]
+
+let content = null
+let marks = {}
+let state = { tab: 'episodes', week: 1, filter: 'all' }
+const saveTimers = {}
+
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))
+const pad = (n) => String(n).padStart(2, '0')
+
+// ── 每個 tab 的項目定義（id、週次、渲染）────────────────────────────
+function itemsFor(tab) {
+  if (tab === 'episodes') return content.episodes.map((e) => ({
+    id: `ep:W${pad(e.weekNumber)}D${e.dayOfWeek}`, week: e.weekNumber, data: e,
+  }))
+  if (tab === 'articles') return content.articles.map((a) => ({
+    id: `art:W${pad(a.weekNumber)}D${a.dayOfWeek}`, week: a.weekNumber, data: a,
+  }))
+  if (tab === 'questions') return content.questions.map((q) => ({
+    id: `q:W${pad(q.weekNumber)}:${q.day}`, week: q.weekNumber, data: q,
+  }))
+  if (tab === 'flashcards') return content.flashcards.map((f) => ({
+    id: `fc:${f.id}`, week: f.weekNumber, data: f,
+  }))
+  return []
+}
+
+function statusOf(id) { return marks[id]?.status ?? null }
+
+function matchFilter(id) {
+  const s = statusOf(id)
+  if (state.filter === 'all') return true
+  if (state.filter === 'todo') return s === null
+  return s === state.filter
+}
+
+// ── 渲染 ────────────────────────────────────────────────────────────
+function render() {
+  renderTabs(); renderFilters(); renderNav(); renderStats(); renderMain()
+}
+
+function renderTabs() {
+  document.getElementById('tabs').innerHTML = TABS.map((t) =>
+    `<button class="${state.tab === t.id ? 'active' : ''}" onclick="setTab('${t.id}')">${t.label}</button>`).join('')
+}
+
+function renderFilters() {
+  const el = document.getElementById('filters')
+  el.style.display = state.tab === 'summary' ? 'none' : 'flex'
+  el.innerHTML = FILTERS.map((f) =>
+    `<button class="${state.filter === f.id ? 'active' : ''}" onclick="setFilter('${f.id}')">${f.label}</button>`).join('')
+}
+
+function renderStats() {
+  const el = document.getElementById('stats')
+  if (state.tab === 'summary') { el.textContent = ''; return }
+  const items = itemsFor(state.tab)
+  let p = 0, f = 0
+  for (const it of items) { const s = statusOf(it.id); if (s === 'pass') p++; else if (s === 'fail') f++ }
+  el.innerHTML = `共 ${items.length}｜<b class="p">通過 ${p}</b>｜<b class="f">不通過 ${f}</b>｜未審 ${items.length - p - f}`
+}
+
+function renderNav() {
+  const nav = document.getElementById('weekNav')
+  if (state.tab === 'summary') { nav.innerHTML = ''; return }
+  const items = itemsFor(state.tab)
+  const byWeek = {}
+  for (const it of items) { (byWeek[it.week] ??= []).push(it) }
+  nav.innerHTML = Object.keys(byWeek).map((w) => {
+    const list = byWeek[w]
+    const dots = list.map((it) => {
+      const s = statusOf(it.id)
+      return `<span class="${s === 'pass' ? 'p' : s === 'fail' ? 'f' : 'u'}">●</span>`
+    }).join('')
+    return `<button class="${Number(w) === state.week ? 'active' : ''}" onclick="setWeek(${w})">
+      <span>W${pad(w)}</span><span class="dot">${dots}</span></button>`
+  }).join('')
+}
+
+function markbar(id) {
+  const m = marks[id]
+  const s = m?.status ?? null
+  return `<div class="markbar">
+    <button class="${s === 'pass' ? 'on-pass' : ''}" onclick="mark('${id}','pass')">✓ 通過</button>
+    <button class="${s === 'fail' ? 'on-fail' : ''}" onclick="mark('${id}','fail')">✗ 不通過</button>
+    <input placeholder="備註（哪一句／什麼問題）" value="${esc(m?.note ?? '')}"
+      oninput="noteInput('${id}', this.value)">
+    <span class="saved" id="saved-${cssId(id)}"></span>
+  </div>`
+}
+function cssId(id) { return id.replace(/[^a-zA-Z0-9_-]/g, '_') }
+
+function renderMain() {
+  const main = document.getElementById('main')
+  if (state.tab === 'summary') { main.innerHTML = renderSummary(); return }
+  const items = itemsFor(state.tab).filter((it) => it.week === state.week && matchFilter(it.id))
+  if (!items.length) { main.innerHTML = '<div class="empty">此週在此篩選條件下沒有項目</div>'; return }
+  const rows = items.map((it) => {
+    const s = statusOf(it.id)
+    const cls = s ? ` ${s}` : ''
+    let body = ''
+    if (state.tab === 'episodes') body = episodeCard(it.data)
+    if (state.tab === 'articles') body = articleCard(it.data, it.id)
+    if (state.tab === 'questions') body = questionCard(it.data)
+    if (state.tab === 'flashcards') body = flashcardCard(it.data)
+    return `<div class="card${cls}">${body}${markbar(it.id)}</div>`
+  })
+  main.innerHTML = rows.join('')
+}
+
+function episodeCard(e) {
+  const parts = e.parts.map((p) => `
+    <div class="part-title">${esc(p.title)}</div>
+    ${p.lines.map((l) => `<div class="line">
+      <div class="who">${esc(l.speakerName || l.speaker)}</div>
+      <div><div class="en">${esc(l.en || l.english)}</div><div class="zh">${esc(l.zh || l.chinese)}</div></div>
+    </div>`).join('')}`).join('')
+  const kps = (e.keyPhrases || []).map((k) => `<li><b>${esc(k.en || k.phrase)}</b> — <span class="zh">${esc(k.zh || k.meaning || k.def)}</span>
+    ${k.example ? `<br><span class="ex">${esc(k.example)}</span>` : ''}</li>`).join('')
+  return `<h3>${esc(e.title)}</h3>
+    <div class="meta">W${pad(e.weekNumber)}D${e.dayOfWeek}・${esc(e.theme)}・${e.phase}</div>
+    ${parts}
+    <div class="kp"><h4>Key Phrases（${(e.keyPhrases || []).length}）</h4><ul>${kps}</ul></div>`
+}
+
+function articleCard(a, id) {
+  const vocab = (a.vocabulary || []).map((v) =>
+    `<li><b>${esc(v.word)}</b> — ${esc(v.definition)}<br><span class="ex">${esc(v.example)}</span></li>`).join('')
+  const zhId = 'zh-' + cssId(id)
+  return `<h3>${esc(a.title)}</h3>
+    <div class="meta">W${pad(a.weekNumber)}D${a.dayOfWeek}・${esc(a.topic)}・${a.wordCount} words</div>
+    <div class="art-en">${a.text}</div>
+    <button class="toggle-zh" onclick="document.getElementById('${zhId}').style.display = document.getElementById('${zhId}').style.display === 'none' ? 'block' : 'none'">顯示／隱藏中文</button>
+    <div class="art-zh" id="${zhId}">${a.textZh}</div>
+    <div class="vocab"><ul>${vocab}</ul></div>`
+}
+
+function questionCard(q) {
+  return `<div class="meta">W${pad(q.weekNumber)}・${esc(q.theme)}・${esc(q.day)}</div>
+    <div class="q-en">${esc(q.question)}</div>
+    <div class="q-hint"><b>提示：</b>${esc(q.chineseHint)}</div>
+    <div class="q-tip"><b>句型：</b>${esc(q.structureTip)}</div>`
+}
+
+function flashcardCard(f) {
+  return `<div class="meta">W${pad(f.weekNumber)}・${esc(f.source)}・${esc(f.id)}</div>
+    <div class="fc-word">${esc(f.english)}</div>
+    <div class="fc-zh">${esc(f.chinese)}</div>
+    <div class="fc-ex">${esc(f.exampleSentence)}</div>`
+}
+
+function renderSummary() {
+  const fails = Object.entries(marks).filter(([, m]) => m.status === 'fail')
+  if (!fails.length) return '<div class="empty">目前沒有不通過的項目 🎉</div>'
+  const rows = fails.sort(([a], [b]) => a.localeCompare(b)).map(([id, m]) =>
+    `<div class="sum-item"><code>${esc(id)}</code>${m.note ? `<div class="note">${esc(m.note)}</div>` : ''}</div>`).join('')
+  return `<div class="card"><h3>不通過清單（${fails.length}）</h3>
+    <div class="meta">存檔位置：scripts/review/marks.json — 修改時直接把這個檔交給 AI 即可</div>${rows}</div>`
+}
+
+// ── 互動 ────────────────────────────────────────────────────────────
+window.setTab = (t) => { state.tab = t; render() }
+window.setWeek = (w) => { state.week = w; render(); document.getElementById('main').scrollIntoView() }
+window.setFilter = (f) => { state.filter = f; render() }
+
+window.mark = (id, status) => {
+  const cur = marks[id]?.status
+  const next = cur === status ? null : status // 再按一次取消
+  if (next) marks[id] = { ...(marks[id] ?? {}), status: next }
+  else delete marks[id]
+  push(id)
+  render()
+}
+
+window.noteInput = (id, value) => {
+  if (!marks[id]) marks[id] = { status: 'fail' } // 打備註視同不通過
+  marks[id].note = value
+  clearTimeout(saveTimers[id])
+  saveTimers[id] = setTimeout(() => { push(id); render() }, 600)
+}
+
+async function push(id) {
+  const m = marks[id]
+  await fetch('/api/marks', {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ id, status: m?.status ?? null, note: m?.note ?? '' }),
+  })
+  const el = document.getElementById('saved-' + cssId(id))
+  if (el) { el.textContent = '已存'; setTimeout(() => { if (el) el.textContent = '' }, 1200) }
+}
+
+// ── 啟動 ────────────────────────────────────────────────────────────
+async function init() {
+  document.getElementById('main').innerHTML = '<div class="empty">載入內容中…</div>'
+  const [c, m] = await Promise.all([
+    fetch('/api/content').then((r) => r.json()),
+    fetch('/api/marks').then((r) => r.json()),
+  ])
+  content = c; marks = m
+  render()
+}
+init()
+</script>
+</body>
+</html>
