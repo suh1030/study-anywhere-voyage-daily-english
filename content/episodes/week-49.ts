@@ -766,7 +766,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The tricky bit is this: Agency matters. You can also say, \"I am honoring my need for rest,\" which sounds a bit formal but communicates respect for yourself.",
-            "zh": "這裡有一個常被忽略的地方：主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。"
+            "zh": "這一點特別重要。主體性很重要。你也可以說「I'm honoring my need for rest（我在尊重自己對休息的需求）」，這聽起來有點正式，但表達了對自己的尊重。"
           },
           {
             "speaker": "b",
@@ -1311,7 +1311,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. Physical rest is not optional equipment. It is part of the basic system.",
-            "zh": "這裡是我想特別畫線的地方。身體上的休息不是選配設備。它是基本系統的一部分。"
+            "zh": "這部分最值得拿來練習。身體上的休息不是選配設備。它是基本系統的一部分。"
           }
         ]
       },

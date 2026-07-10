@@ -269,7 +269,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. Attention is finite. Whatever you fill it with becomes part of how you think.",
-            "zh": "這裡是我想特別畫線的地方。注意力是有限的。你用什麼來填充它，就會成為你思考方式的一部分。"
+            "zh": "這點很值得放在心上。注意力是有限的。你用什麼來填充它，就會成為你思考方式的一部分。"
           }
         ]
       }
@@ -1159,7 +1159,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: If the middle episode holds your attention without any introduction, the show is doing its job.",
-            "zh": "這裡有一個常被忽略的地方：如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
+            "zh": "這裡有個不起眼但重要的細節：如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
           }
         ]
       },
@@ -1767,7 +1767,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
-            "zh": "這裡是我想特別畫線的地方。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
+            "zh": "這一點值得記住。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
           },
           {
             "speaker": "b",

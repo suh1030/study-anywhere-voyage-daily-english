@@ -790,7 +790,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A small thing matters here: When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
-            "zh": "這裡有一個常被忽略的地方：當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
+            "zh": "有個小地方其實很關鍵：當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
           }
         ]
       },
@@ -1738,7 +1738,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
-            "zh": "這裡是我想特別畫線的地方。"
+            "zh": "重點就在這裡。"
           }
         ]
       },

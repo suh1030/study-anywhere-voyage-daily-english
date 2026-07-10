@@ -33,7 +33,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: Their signals can be subtle, but they are rarely ironic.",
-            "zh": "這裡有一個常被忽略的地方：牠們的訊號可能很細，可是通常不會拐彎抹角。"
+            "zh": "這裡可以做個很有用的區分：牠們的訊號可能很細，可是通常不會拐彎抹角。"
           },
           {
             "speaker": "b",
@@ -344,7 +344,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. Animals can bypass cynicism.",
-            "zh": "這裡是我想特別畫線的地方。動物常常會直接繞過人的那層防備和嘲諷。"
+            "zh": "這裡值得畫一條線。動物常常會直接繞過人的那層防備和嘲諷。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: Good care depends on reading behavior, not just having affection.",
-            "zh": "這裡有一個常被忽略的地方：好的照顧，仰賴的是會讀行為，不只是很有愛。"
+            "zh": "有個細節很容易被忽略：好的照顧，仰賴的是會讀行為，不只是很有愛。"
           },
           {
             "speaker": "b",
@@ -1287,7 +1287,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. Human delight and animal wellbeing are not automatically the same thing.",
-            "zh": "這裡是我想特別畫線的地方。人類覺得開心，和動物真的過得好，不會自動變成同一件事。"
+            "zh": "這部分最值得拿來練習。人類覺得開心，和動物真的過得好，不會自動變成同一件事。"
           },
           {
             "speaker": "b",
@@ -1931,7 +1931,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Gentleness often begins as slowed attention.",
-            "zh": "這裡有一個常被忽略的地方：溫柔很多時候就是從注意力慢下來開始的。"
+            "zh": "有件事常常藏在檯面下：溫柔很多時候就是從注意力慢下來開始的。"
           },
           {
             "speaker": "b",
@@ -2090,7 +2090,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where the language becomes useful. Better ethics usually grows through repeatable acts, not dramatic self-images.",
-            "zh": "這裡是我想特別畫線的地方。比較好的倫理，通常是靠可重複的小行動長出來的，不是靠很戲劇化的自我形象。"
+            "zh": "這正是語言派上用場的地方。比較好的倫理，通常是靠可重複的小行動長出來的，不是靠很戲劇化的自我形象。"
           },
           {
             "speaker": "b",

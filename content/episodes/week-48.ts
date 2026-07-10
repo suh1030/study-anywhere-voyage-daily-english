@@ -33,7 +33,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: A person may sound softer, funnier, more formal, or more careful depending on which parts of themselves the language makes easiest to access.",
-            "zh": "這裡有一個常被忽略的地方：人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。"
+            "zh": "這裡可以做個很有用的區分：人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。"
           },
           {
             "speaker": "b",
@@ -349,7 +349,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the practical takeaway. If you understand the language, you feel less outside. If you do not, the same room can suddenly feel a little farther away.",
-            "zh": "這裡是我想特別畫線的地方。聽得懂，你就比較不會在外面；聽不懂，同一個房間會忽然離你遠一點。"
+            "zh": "這就是可以實際帶走的重點。聽得懂，你就比較不會在外面；聽不懂，同一個房間會忽然離你遠一點。"
           },
           {
             "speaker": "b",
@@ -976,7 +976,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
-            "zh": "這裡有一個常被忽略的地方：事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
+            "zh": "有個細節很容易被忽略：事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
           },
           {
             "speaker": "b",
@@ -1340,7 +1340,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the line I would hold on to. One language may encourage blunt naming. Another may encourage more relational or indirect framing. Over time that changes mental habits.",
-            "zh": "這裡是我想特別畫線的地方。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的 framing。時間久了，心智習慣就會被改動。"
+            "zh": "重點就在這裡。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的 framing。時間久了，心智習慣就會被改動。"
           },
           {
             "speaker": "b",
@@ -1822,7 +1822,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: You meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
-            "zh": "這裡有一個常被忽略的地方：你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
+            "zh": "有件事常常藏在檯面下：你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
           },
           {
             "speaker": "b",
@@ -2138,7 +2138,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. The gift is not mastery first. The gift is movement: from hidden to visible, from stuck to speakable, from alone to accompanied.",
-            "zh": "這裡是我想特別畫線的地方。這個禮物首先不是 mastery，而是 movement：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
+            "zh": "這是我最想強調的一點。這個禮物首先不是 mastery，而是 movement：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
           },
           {
             "speaker": "b",

@@ -349,7 +349,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: A demand has no room for being human. The first slip feels like total failure, so people just stop.",
-            "zh": "這裡有一個常被忽略的地方：要求沒有任何讓你喘息的空間。第一次沒做到就像是徹底失敗，所以大家就乾脆放棄了。"
+            "zh": "有個細節很容易被忽略：要求沒有任何讓你喘息的空間。第一次沒做到就像是徹底失敗，所以大家就乾脆放棄了。"
           },
           {
             "speaker": "b",
@@ -836,7 +836,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the practical takeaway. When a beginning is gentle enough to survive real life, it becomes much more powerful than a dramatic one.",
-            "zh": "這裡是我想特別畫線的地方。當一個開始溫柔到足以活過真實生活，它往往會比很戲劇化的開始更有力量。"
+            "zh": "這就是可以實際帶走的重點。當一個開始溫柔到足以活過真實生活，它往往會比很戲劇化的開始更有力量。"
           },
           {
             "speaker": "b",

@@ -843,7 +843,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: Intentional living over radical minimalism. Keep what adds value, release the rest.",
-            "zh": "這裡有一個常被忽略的地方：刻意生活比激進極簡更重要。留下增加價值的東西，放開其他的。"
+            "zh": "現實通常比這再亂一點：刻意生活比激進極簡更重要。留下增加價值的東西，放開其他的。"
           }
         ]
       },
@@ -1919,7 +1919,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the line I would hold on to. Or a city you keep returning to and it feels familiar in a deep way.",
-            "zh": "這裡是我想特別畫線的地方。或者你一直回去的城市，有種深層的熟悉感。"
+            "zh": "這一點值得停下來想一下。或者你一直回去的城市，有種深層的熟悉感。"
           },
           {
             "speaker": "b",

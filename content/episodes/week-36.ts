@@ -86,7 +86,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
-            "zh": "這裡有一個常被忽略的地方：把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
+            "zh": "現實通常比這再亂一點：把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
           },
           {
             "speaker": "b",
@@ -503,7 +503,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the piece I want learners to notice. Repeatable work with clear checks is where AI often shines.",
-            "zh": "這裡是我想特別畫線的地方。可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
+            "zh": "這是我最希望學習的人注意到的地方。可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
           },
           {
             "speaker": "b",
@@ -976,7 +976,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The part I keep noticing is this: Plausible language can create false trust very quickly.",
-            "zh": "這裡有一個常被忽略的地方：那種看起來很像真的語言，會很快製造出假的信任感。"
+            "zh": "我一直注意到的是這一點：那種看起來很像真的語言，會很快製造出假的信任感。"
           },
           {
             "speaker": "b",
@@ -1340,7 +1340,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. Voice preservation becomes the human job more than ever.",
-            "zh": "這裡是我想特別畫線的地方。保留聲音這件事，現在比以前更像人類該守住的工作。"
+            "zh": "這是我最想強調的一點。保留聲音這件事，現在比以前更像人類該守住的工作。"
           },
           {
             "speaker": "b",
@@ -1972,7 +1972,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: Human distinctiveness lives in relation, interpretation, responsibility, and care.",
-            "zh": "這裡有一個常被忽略的地方：人的獨特性其實活在關係、詮釋、責任和照顧裡。"
+            "zh": "這件事比表面上看起來更重要：人的獨特性其實活在關係、詮釋、責任和照顧裡。"
           },
           {
             "speaker": "b",

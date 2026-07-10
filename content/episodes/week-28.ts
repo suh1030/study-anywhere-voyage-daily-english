@@ -45,7 +45,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: A camera rewards attention before it rewards technique.",
-            "zh": "這裡有一個常被忽略的地方：相機最先回報的，通常不是技巧，而是注意力。"
+            "zh": "現實通常比這再亂一點：相機最先回報的，通常不是技巧，而是注意力。"
           },
           {
             "speaker": "b",
@@ -421,7 +421,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the piece I want learners to notice. Sometimes the best move is one photo and then your full attention back to the people there.",
-            "zh": "這裡是我想特別畫線的地方。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
+            "zh": "這是我最希望學習的人注意到的地方。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
           }
         ]
       },
@@ -1183,7 +1183,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The part I keep noticing is this: Taste is partly the courage to say, this belongs, and this does not.",
-            "zh": "這裡有一個常被忽略的地方：品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
+            "zh": "我一直注意到的是這一點：品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
           },
           {
             "speaker": "b",
@@ -1656,7 +1656,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. Numbers can tell you what got quick attention, but not what had depth, staying power, or real artistic risk.",
-            "zh": "這裡是我想特別畫線的地方。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。"
+            "zh": "這個地方很關鍵。數字可以告訴你什麼很快抓到注意力，卻不能告訴你什麼有深度、會留下來，或真的有藝術上的風險。"
           },
           {
             "speaker": "b",
@@ -2090,7 +2090,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: A good artistic life is not endless exposure. It is exposure with recovery.",
-            "zh": "這裡有一個常被忽略的地方：好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
+            "zh": "這件事比表面上看起來更重要：好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
           },
           {
             "speaker": "b",

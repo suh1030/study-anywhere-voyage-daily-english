@@ -503,7 +503,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: Now you have something actionable in the near term. The five-year vision becomes a current task.",
-            "zh": "這裡有一個常被忽略的地方：這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。"
+            "zh": "有個細節很容易被忽略：這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。"
           },
           {
             "speaker": "b",
@@ -1047,7 +1047,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. The question to ask is not \"is my job safe?\" but \"which parts of what I do are hardest to replicate?\"",
-            "zh": "這裡是我想特別畫線的地方。要問的問題不是「我的工作安全嗎？」而是「我所做的事情中，哪些部分最難被複製？」"
+            "zh": "這裡值得特別記住。要問的問題不是「我的工作安全嗎？」而是「我所做的事情中，哪些部分最難被複製？」"
           },
           {
             "speaker": "b",
@@ -1621,7 +1621,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: A good plan helps you make faster decisions when things change, because you already know your priorities.",
-            "zh": "這裡有一個常被忽略的地方：好的計畫能幫助你在事情改變時做出更快的決定，因為你已經知道自己的優先順序了。"
+            "zh": "有件事常常藏在檯面下：好的計畫能幫助你在事情改變時做出更快的決定，因為你已經知道自己的優先順序了。"
           },
           {
             "speaker": "b",
@@ -1990,7 +1990,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. Today's choices vote for or against the person you are becoming. Over time, those votes accumulate.",
-            "zh": "這裡是我想特別畫線的地方。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。"
+            "zh": "這部分最值得拿來練習。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。"
           },
           {
             "speaker": "b",

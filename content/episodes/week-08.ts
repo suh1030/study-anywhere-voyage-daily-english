@@ -110,7 +110,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: A lot of spending problems begin when the wrong question takes over.",
-            "zh": "這裡有一個常被忽略的地方：很多消費問題，都是從錯的問題開始主導整個決定的。"
+            "zh": "這件事比表面上看起來更重要：很多消費問題，都是從錯的問題開始主導整個決定的。"
           }
         ]
       },
@@ -532,7 +532,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. A good system should make reality feel less chaotic, not more.",
-            "zh": "這裡是我想特別畫線的地方。好的系統，應該讓現實看起來比較不混亂，而不是更混亂。"
+            "zh": "這裡值得特別記住。好的系統，應該讓現實看起來比較不混亂，而不是更混亂。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. Then limited-time pressure joins the game: \"Only three left,\" or \"Sale ends tonight.\"",
-            "zh": "這裡是我想特別畫線的地方。接著限時壓力就會跟著進來，例如「只剩三件」或「今晚截止」。"
+            "zh": "這個地方很關鍵。接著限時壓力就會跟著進來，例如「只剩三件」或「今晚截止」。"
           },
           {
             "speaker": "b",
@@ -1357,7 +1357,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: A realistic timeline protects the goal from your own fantasy version of yourself.",
-            "zh": "這裡有一個常被忽略的地方：現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
+            "zh": "這裡可以做個很有用的區分：現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. The point is to reduce awkwardness, not to perform certainty.",
-            "zh": "這裡是我想特別畫線的地方。重點是降低尷尬，不是表演自己很懂規矩。"
+            "zh": "這句話我會隨身帶著。重點是降低尷尬，不是表演自己很懂規矩。"
           }
         ]
       },

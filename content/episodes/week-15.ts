@@ -408,7 +408,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The part I keep noticing is this: I had to consciously remind myself not to read into her hallway face.",
-            "zh": "這裡有一個常被忽略的地方：我必須刻意提醒自己，不要過度解讀她走廊上的表情。"
+            "zh": "我一直注意到的是這一點：我必須刻意提醒自己，不要過度解讀她走廊上的表情。"
           },
           {
             "speaker": "b",
@@ -825,7 +825,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where the language becomes useful. Introverts often process and respond later. They are not absent, just slower to surface.",
-            "zh": "這裡是我想特別畫線的地方。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。"
+            "zh": "這正是語言派上用場的地方。內向者往往先消化，之後再回應。他們並不是不在場，只是慢一點才浮現。"
           },
           {
             "speaker": "b",
@@ -1978,7 +1978,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: You can talk yourself into and out of anything. But your body usually knows.",
-            "zh": "這裡有一個常被忽略的地方：你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
+            "zh": "這件事比表面上看起來更重要：你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
           },
           {
             "speaker": "b",

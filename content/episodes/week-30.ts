@@ -402,7 +402,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: Reading invites contemplation instead of constant reaction.",
-            "zh": "這裡有一個常被忽略的地方：閱讀會邀請你進入沉思，而不是一直做反應。"
+            "zh": "這件事比表面上看起來更重要：閱讀會邀請你進入沉思，而不是一直做反應。"
           },
           {
             "speaker": "b",
@@ -725,7 +725,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. When the promise is believable, your body stops bracing against it.",
-            "zh": "這裡是我想特別畫線的地方。當那個承諾是真的可信的，你的身體就不會一直對它防備。"
+            "zh": "這一點值得記住。當那個承諾是真的可信的，你的身體就不會一直對它防備。"
           },
           {
             "speaker": "b",
@@ -1053,7 +1053,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: Choice deepens memory.",
-            "zh": "這裡有一個常被忽略的地方：選擇會把記憶變深。"
+            "zh": "這裡可以做個很有用的區分：選擇會把記憶變深。"
           }
         ]
       },
@@ -1620,7 +1620,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. It is intimacy with language, thought, and another mind.",
-            "zh": "這裡是我想特別畫線的地方。那是一種和語言、思想，還有另一個頭腦之間的親密。"
+            "zh": "這是整段的重點。那是一種和語言、思想，還有另一個頭腦之間的親密。"
           },
           {
             "speaker": "b",

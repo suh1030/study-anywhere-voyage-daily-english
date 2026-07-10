@@ -252,7 +252,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: That is why it lasts. Ordinary care is the kind you can actually keep doing.",
-            "zh": "這裡有一個常被忽略的地方：而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
+            "zh": "這裡可以做個很有用的區分：而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
           },
           {
             "speaker": "b",
@@ -660,7 +660,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. That is why so many people say they are fine right up until they are not.",
-            "zh": "這裡是我想特別畫線的地方。這也就是為什麼很多人會一路說自己沒事，直到真的撐不住。"
+            "zh": "這點很值得放在心上。這也就是為什麼很多人會一路說自己沒事，直到真的撐不住。"
           },
           {
             "speaker": "b",
@@ -1417,7 +1417,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: Sick-day English should help you communicate clearly, not sound impressive.",
-            "zh": "這裡有一個常被忽略的地方：生病時用的英文，本來就應該幫你清楚溝通，而不是讓你聽起來很厲害。"
+            "zh": "有個細節很容易被忽略：生病時用的英文，本來就應該幫你清楚溝通，而不是讓你聽起來很厲害。"
           }
         ]
       },
@@ -1680,7 +1680,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Repeatable beats impressive almost every time.",
-            "zh": "這裡是我想特別畫線的地方。可重複，幾乎每次都比看起來厲害更重要。"
+            "zh": "這一點值得記住。可重複，幾乎每次都比看起來厲害更重要。"
           }
         ]
       },

@@ -33,7 +33,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Real gratitude does not erase pain. It changes what else is visible alongside the pain.",
-            "zh": "這裡有一個常被忽略的地方：真正的感謝不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。"
+            "zh": "有件事常常藏在檯面下：真正的感謝不會擦掉痛，它只是改變了在痛旁邊還看得見什麼。"
           },
           {
             "speaker": "b",
@@ -349,7 +349,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. Appreciation becomes powerful when it gets specific enough that the other person can actually receive it.",
-            "zh": "這裡是我想特別畫線的地方。當感謝夠具體，具體到對方真的收得到時，它才會變得有力量。"
+            "zh": "這裡藏著關鍵。當感謝夠具體，具體到對方真的收得到時，它才會變得有力量。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: It can soften the pace of the mind for a moment and create a little more room to feel alive.",
-            "zh": "這裡有一個常被忽略的地方：它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
+            "zh": "現實通常比這再亂一點：它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
           },
           {
             "speaker": "b",
@@ -1292,7 +1292,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
-            "zh": "這裡是我想特別畫線的地方。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
+            "zh": "這一點值得停下來想一下。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
           },
           {
             "speaker": "b",
@@ -1762,7 +1762,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The part I keep noticing is this: One may think, \"Why do you never say it?\" The other may think, \"How can you not see everything I am already doing?\"",
-            "zh": "這裡有一個常被忽略的地方：一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」"
+            "zh": "我一直注意到的是這一點：一邊可能會想：「你怎麼都不講？」另一邊則可能會想：「我都做成這樣了，你還看不出來？」"
           },
           {
             "speaker": "b",
@@ -2126,7 +2126,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. Gratitude is not only a feeling you happen to have. It can become a way of being in the world.",
-            "zh": "這裡是我想特別畫線的地方。感謝不只是一種你剛好有沒有的感受，它也可能變成你活在世界裡的一種方式。"
+            "zh": "這個地方很關鍵。感謝不只是一種你剛好有沒有的感受，它也可能變成你活在世界裡的一種方式。"
           },
           {
             "speaker": "b",

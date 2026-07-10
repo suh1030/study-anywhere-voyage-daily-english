@@ -33,7 +33,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. People remember calm direction because it lowers uncertainty for everyone else.",
-            "zh": "這裡是我想特別畫線的地方。大家會記得那種冷靜的帶領，因為它替其他人降低了不確定感。"
+            "zh": "這個地方很關鍵。大家會記得那種冷靜的帶領，因為它替其他人降低了不確定感。"
           },
           {
             "speaker": "b",
@@ -971,7 +971,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
-            "zh": "這裡有一個常被忽略的地方：如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
+            "zh": "現實通常比這再亂一點：如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
           },
           {
             "speaker": "b",
@@ -1287,7 +1287,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. Under stress, urgency can disguise itself as importance.",
-            "zh": "這裡是我想特別畫線的地方。在壓力下，急迫感很容易偽裝成重要性。"
+            "zh": "這點很值得放在心上。在壓力下，急迫感很容易偽裝成重要性。"
           },
           {
             "speaker": "b",
@@ -1979,7 +1979,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The part I keep noticing is this: What looks ordinary is often what prevents the bigger mess.",
-            "zh": "這裡有一個常被忽略的地方：很多看起來普通的事，其實正是在避免更大的混亂。"
+            "zh": "我一直注意到的是這一點：很多看起來普通的事，其實正是在避免更大的混亂。"
           },
           {
             "speaker": "b",

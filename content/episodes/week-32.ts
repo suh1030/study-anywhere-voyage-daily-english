@@ -33,7 +33,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. A hobby often changes posture before it changes skill.",
-            "zh": "這裡是我想特別畫線的地方。一個興趣很多時候先改變的是姿態，然後才是技巧。"
+            "zh": "這一點很多人會略過。一個興趣很多時候先改變的是姿態，然後才是技巧。"
           },
           {
             "speaker": "b",
@@ -520,7 +520,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The tricky bit is this: Good collecting still leaves room for delight.",
-            "zh": "這裡有一個常被忽略的地方：好的收藏，到最後還是要留得下喜悅。"
+            "zh": "這句話值得記下來。好的收藏，到最後還是要留得下喜悅。"
           },
           {
             "speaker": "b",
@@ -1135,7 +1135,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. Most people quit not because they cannot learn, but because they misread the stage they are in.",
-            "zh": "這裡是我想特別畫線的地方。大多數人放棄，不是真的學不會，而是把自己所在的階段讀錯了。"
+            "zh": "這個地方很關鍵。大多數人放棄，不是真的學不會，而是把自己所在的階段讀錯了。"
           },
           {
             "speaker": "b",
@@ -1943,7 +1943,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A small thing matters here: It thickens time, memory, and selfhood.",
-            "zh": "這裡有一個常被忽略的地方：它會讓時間、記憶和自我都重新變厚。"
+            "zh": "有個小地方其實很關鍵：它會讓時間、記憶和自我都重新變厚。"
           }
         ]
       },

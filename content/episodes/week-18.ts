@@ -139,7 +139,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: And if you need a pause, say, 'I need ten minutes to cool off, but I do want to come back to this.'",
-            "zh": "這裡有一個常被忽略的地方：如果你需要停一下，也可以說：「I need ten minutes to cool off, but I do want to come back to this.」"
+            "zh": "有個細節很容易被忽略：如果你需要停一下，也可以說：「I need ten minutes to cool off, but I do want to come back to this.」"
           },
           {
             "speaker": "b",
@@ -426,7 +426,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. A lot of conflict starts in the nervous system before it appears in language.",
-            "zh": "這裡是我想特別畫線的地方。很多衝突其實先發生在神經系統裡，之後才進入語言。"
+            "zh": "這一點值得記住。很多衝突其實先發生在神經系統裡，之後才進入語言。"
           }
         ]
       },
@@ -884,7 +884,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Healthy disagreement lets both clarity and care stay in the room.",
-            "zh": "這裡有一個常被忽略的地方：健康的不同意，會讓清楚和在乎同時留在現場。"
+            "zh": "有件事常常藏在檯面下：健康的不同意，會讓清楚和在乎同時留在現場。"
           },
           {
             "speaker": "b",
@@ -1212,7 +1212,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. A good apology cannot erase the moment, but it can stop the damage from spreading.",
-            "zh": "這裡是我想特別畫線的地方。好的道歉不能把那個瞬間擦掉，但它可以阻止傷害繼續擴散。"
+            "zh": "這一點特別重要。好的道歉不能把那個瞬間擦掉，但它可以阻止傷害繼續擴散。"
           }
         ]
       }
@@ -1726,7 +1726,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: Another helpful line is, 'I need to show up differently, especially in the situations where I let you down before.'",
-            "zh": "這裡有一個常被忽略的地方：另一句很好的是：「I need to show up differently, especially in the situations where I let you down before.」"
+            "zh": "現實通常比這再亂一點：另一句很好的是：「I need to show up differently, especially in the situations where I let you down before.」"
           },
           {
             "speaker": "b",
@@ -2042,7 +2042,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. Reflection is not romanticizing damage. It is refusing to waste it.",
-            "zh": "這裡是我想特別畫線的地方。反思不是把傷害浪漫化，而是不想白白浪費它。"
+            "zh": "這部分最值得拿來練習。反思不是把傷害浪漫化，而是不想白白浪費它。"
           },
           {
             "speaker": "b",

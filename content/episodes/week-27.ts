@@ -713,7 +713,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: A flexible plan is often stronger than either total control or total chaos.",
-            "zh": "這裡有一個常被忽略的地方：彈性的計畫，很多時候比完全控制和完全混亂都更強。"
+            "zh": "有件事常常藏在檯面下：彈性的計畫，很多時候比完全控制和完全混亂都更強。"
           },
           {
             "speaker": "b",
@@ -1357,7 +1357,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: Adapt quickly when you can, but do not confuse speed with understanding.",
-            "zh": "這裡有一個常被忽略的地方：能快點適應當然很好，但不要把速度誤認成理解。"
+            "zh": "現實通常比這再亂一點：能快點適應當然很好，但不要把速度誤認成理解。"
           },
           {
             "speaker": "b",
@@ -1762,7 +1762,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the piece I want learners to notice. Group dynamics show up quickly on a trip because there is less room to hide them.",
-            "zh": "這裡是我想特別畫線的地方。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。"
+            "zh": "這是我最希望學習的人注意到的地方。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。"
           },
           {
             "speaker": "b",
@@ -2090,7 +2090,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. The best trips do not only interrupt life. They feed it afterward.",
-            "zh": "這裡是我想特別畫線的地方。最好的旅行不只是打斷生活，它們也會在之後餵養生活。"
+            "zh": "這裡值得特別記住。最好的旅行不只是打斷生活，它們也會在之後餵養生活。"
           },
           {
             "speaker": "b",

@@ -402,7 +402,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: A cultural norm can feel natural simply because you were surrounded by it before you had language for alternatives.",
-            "zh": "這裡有一個常被忽略的地方：一個文化常規之所以會看起來很自然，常常只是因為在你還沒有別種語言之前，它就已經把你包圍了。"
+            "zh": "這裡可以做個很有用的區分：一個文化常規之所以會看起來很自然，常常只是因為在你還沒有別種語言之前，它就已經把你包圍了。"
           },
           {
             "speaker": "b",
@@ -819,7 +819,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Honest doubt is healthier than fake certainty, especially when a person is still learning what they can truly stand behind.",
-            "zh": "這裡是我想特別畫線的地方。尤其當一個人還在學自己到底能真正站在哪裡時，誠實的懷疑比假的確定健康得多。"
+            "zh": "這一點值得記住。尤其當一個人還在學自己到底能真正站在哪裡時，誠實的懷疑比假的確定健康得多。"
           },
           {
             "speaker": "b",
@@ -1369,7 +1369,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: That skill protects both truth and dignity.",
-            "zh": "這裡有一個常被忽略的地方：那個能力同時保護了真相和尊嚴。"
+            "zh": "有個細節很容易被忽略：那個能力同時保護了真相和尊嚴。"
           }
         ]
       },
@@ -1972,7 +1972,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. A priority test helps because it forces you to ask whether something feels urgent, or whether it is truly worth your life energy.",
-            "zh": "這裡是我想特別畫線的地方。優先測試很有幫助，因為它會逼你問：這件事只是很急，還是真的值得你的人生能量。"
+            "zh": "這一點值得停下來想一下。優先測試很有幫助，因為它會逼你問：這件事只是很急，還是真的值得你的人生能量。"
           },
           {
             "speaker": "b",

@@ -245,7 +245,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. A useful review says, \"This was real. This mattered. And I do not have to become cruel in order to understand it.\"",
-            "zh": "這裡是我想特別畫線的地方。好的回顧會像是在說：「這件事是真的、這件事很重要，而我不需要變得殘忍，才能把它理解清楚。」"
+            "zh": "這點很值得放在心上。好的回顧會像是在說：「這件事是真的、這件事很重要，而我不需要變得殘忍，才能把它理解清楚。」"
           },
           {
             "speaker": "b",
@@ -783,7 +783,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: The body often reveals the moral structure of a life more honestly than a calendar does.",
-            "zh": "這裡有一個常被忽略的地方：身體有時比日曆更誠實地揭露一個生活的價值結構。"
+            "zh": "這件事比表面上看起來更重要：身體有時比日曆更誠實地揭露一個生活的價值結構。"
           },
           {
             "speaker": "b",
@@ -1087,7 +1087,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Review can correct prestige bias by showing what actually nourished the worker, not only what impressed the audience.",
-            "zh": "這裡是我想特別畫線的地方。回顧會修正光環 bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
+            "zh": "這一點值得記住。回顧會修正光環 bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
           },
           {
             "speaker": "b",
@@ -1555,7 +1555,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: Creativity and joy often keep people in contact with wonder, play, and the parts of themselves that are not only useful.",
-            "zh": "這裡有一個常被忽略的地方：創造力和 快樂會讓人繼續碰到 wonder、玩心，以及自己那些不只為了有用而存在的部分。"
+            "zh": "這裡可以做個很有用的區分：創造力和 快樂會讓人繼續碰到 wonder、玩心，以及自己那些不只為了有用而存在的部分。"
           },
           {
             "speaker": "b",
@@ -1871,7 +1871,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. It lets a person speak across time with more care than daily life usually allows.",
-            "zh": "這裡是我想特別畫線的地方。它讓一個人能用比 daily 生活平常更細緻的方式，跨時間對自己說話。"
+            "zh": "這是整段的重點。它讓一個人能用比 daily 生活平常更細緻的方式，跨時間對自己說話。"
           },
           {
             "speaker": "b",

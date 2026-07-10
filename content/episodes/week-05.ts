@@ -503,7 +503,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would pay attention to this: If nobody can fit it into present life, people slowly stop doing it.",
-            "zh": "這裡有一個常被忽略的地方：如果它完全塞不進現在的生活，人就會慢慢不做了。"
+            "zh": "這一點我會特別留意：如果它完全塞不進現在的生活，人就會慢慢不做了。"
           },
           {
             "speaker": "b",
@@ -976,7 +976,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. A family table may hold love, comfort, unfinished tension, and expectation all at once.",
-            "zh": "這裡是我想特別畫線的地方。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。"
+            "zh": "這部分最值得拿來練習。一張家庭餐桌可能同時承載愛、安慰、還沒處理完的緊張感，還有期待。"
           },
           {
             "speaker": "b",
@@ -1603,7 +1603,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: A song can make people feel playful, proud, tender, or ready to move.",
-            "zh": "這裡有一個常被忽略的地方：一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
+            "zh": "這裡有個不起眼但重要的細節：一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
           },
           {
             "speaker": "b",
@@ -1979,7 +1979,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is where the language becomes useful. It is to let the meaning stay in a smaller form.",
-            "zh": "這裡是我想特別畫線的地方。真正的重點，是讓那個意義用比較小的形式留下來。"
+            "zh": "這正是語言派上用場的地方。真正的重點，是讓那個意義用比較小的形式留下來。"
           },
           {
             "speaker": "b",

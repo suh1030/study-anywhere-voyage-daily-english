@@ -585,7 +585,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. Remove the word \"networking\" and most of the anxiety goes with it.",
-            "zh": "這裡是我想特別畫線的地方。把「建立人脈」這個詞拿掉，大部分的焦慮也跟著消失了。"
+            "zh": "這一點很多人會略過。把「建立人脈」這個詞拿掉，大部分的焦慮也跟著消失了。"
           }
         ]
       }

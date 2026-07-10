@@ -1786,7 +1786,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would pay attention to this: Being selective is not being difficult. It is being honest about what the work actually requires.",
-            "zh": "這裡有一個常被忽略的地方：有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
+            "zh": "這一點我會特別留意：有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
           }
         ]
       },

@@ -216,7 +216,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. Clarity usually comes from looking backward before you can plan forward.",
-            "zh": "這裡是我想特別畫線的地方。清晰通常需要先回頭看，才能往前規劃。"
+            "zh": "這句話值得記下來。清晰通常需要先回頭看，才能往前規劃。"
           }
         ]
       },
@@ -532,7 +532,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. Ambiguity is the enemy of momentum.",
-            "zh": "這裡是我想特別畫線的地方。模糊是動力的敵人。"
+            "zh": "重點就在這裡。模糊是動力的敵人。"
           }
         ]
       },
@@ -1345,7 +1345,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: Real security often comes from being adaptable, not from staying in one place.",
-            "zh": "這裡有一個常被忽略的地方：真正的安全感通常來自適應能力，而不是留在一個地方。"
+            "zh": "這裡有個不起眼但重要的細節：真正的安全感通常來自適應能力，而不是留在一個地方。"
           },
           {
             "speaker": "b",
@@ -1774,7 +1774,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. A skill that is not named tends to stay invisible, even to the person who has it.",
-            "zh": "這裡是我想特別畫線的地方。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
+            "zh": "這句話我會隨身帶著。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
           },
           {
             "speaker": "b",

@@ -27,7 +27,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Yes. That is the line I would hold on to. People were already throwing solutions around before anyone knew what was actually failing.",
-            "zh": "這裡是我想特別畫線的地方。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
+            "zh": "這裡值得畫一條線。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
           },
           {
             "speaker": "a",
@@ -414,7 +414,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A small thing matters here: Once you break it down, the problem often stops acting like one giant wall.",
-            "zh": "這裡有一個常被忽略的地方：一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
+            "zh": "有個小地方其實很關鍵：一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
           },
           {
             "speaker": "b",
@@ -580,7 +580,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. Skill grows faster when the feedback is specific.",
-            "zh": "這裡是我想特別畫線的地方。回饋越具體，能力就長得越快。"
+            "zh": "這一點很多人會略過。回饋越具體，能力就長得越快。"
           }
         ]
       }
@@ -970,7 +970,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I would pay attention to this: Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
-            "zh": "這裡有一個常被忽略的地方：後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
+            "zh": "這一點我會特別留意：後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
           },
           {
             "speaker": "a",
@@ -1135,7 +1135,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. A misleading fix gives relief without resolution.",
-            "zh": "這裡是我想特別畫線的地方。誤導性的修法，會給你舒緩感，但不會給你真正解決。"
+            "zh": "這個地方很關鍵。誤導性的修法，會給你舒緩感，但不會給你真正解決。"
           },
           {
             "speaker": "b",
@@ -1516,7 +1516,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: Ordinary courage is often what good decisions are made of.",
-            "zh": "這裡有一個常被忽略的地方：很多好決定，就是由那種日常版的勇氣做成的。"
+            "zh": "這裡有個不起眼但重要的細節：很多好決定，就是由那種日常版的勇氣做成的。"
           },
           {
             "speaker": "b",
@@ -1767,7 +1767,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. Shared input and clear ownership are not opposites. They actually protect each other.",
-            "zh": "這裡是我想特別畫線的地方。共同輸入跟清楚責任，不是對立面，反而是互相保護。"
+            "zh": "這點很值得放在心上。共同輸入跟清楚責任，不是對立面，反而是互相保護。"
           },
           {
             "speaker": "b",
@@ -2083,7 +2083,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The easy mistake is to forget this: Small wins help you move forward because they reduce guesswork.",
-            "zh": "這裡有一個常被忽略的地方：小進展之所以能推你往前，是因為它減少了亂猜。"
+            "zh": "這是整段的重點。小進展之所以能推你往前，是因為它減少了亂猜。"
           },
           {
             "speaker": "b",

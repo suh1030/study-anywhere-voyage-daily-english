@@ -33,7 +33,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: Resource use is often easiest to understand when waste becomes impossible to ignore.",
-            "zh": "這裡有一個常被忽略的地方：資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
+            "zh": "這裡有個不起眼但重要的細節：資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
           },
           {
             "speaker": "b",
@@ -402,7 +402,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. Distant consequence is part of that too, because much of the damage arrives somewhere else or later in time.",
-            "zh": "這裡是我想特別畫線的地方。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。"
+            "zh": "這一點特別重要。延遲後果也是原因之一，因為很多傷害不是現在就到，也不是落在眼前。"
           },
           {
             "speaker": "b",
@@ -976,7 +976,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The easy mistake is to forget this: Single-use packaging is one of the clearest examples because the lifespan of the object is so short.",
-            "zh": "這裡有一個常被忽略的地方：一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。"
+            "zh": "這裡藏著關鍵。一次性包裝就是最清楚的例子之一，因為它的存在壽命真的短得誇張。"
           },
           {
             "speaker": "b",
@@ -1345,7 +1345,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Active hope works because it treats action as part of the emotion, not a separate thing.",
-            "zh": "這裡是我想特別畫線的地方。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
+            "zh": "這一點值得記住。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
           },
           {
             "speaker": "b",
@@ -1972,7 +1972,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The real pressure point is this: Circular economy thinking matters because it asks what can keep circulating instead of becoming waste.",
-            "zh": "這裡有一個常被忽略的地方：循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。"
+            "zh": "這個地方很關鍵。循環經濟思維很重要，因為它會追問什麼東西能繼續流動，而不是立刻變成垃圾。"
           },
           {
             "speaker": "b",

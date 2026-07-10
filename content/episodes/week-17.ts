@@ -426,7 +426,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: A lot of helping starts with recognition more than principle.",
-            "zh": "這裡有一個常被忽略的地方：很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
+            "zh": "這裡可以做個很有用的區分：很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
           }
         ]
       },
@@ -771,7 +771,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. You can also ask permission directly: 'Would it help if I shared a suggestion?'",
-            "zh": "這裡是我想特別畫線的地方。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」"
+            "zh": "這是我最想強調的一點。你也可以直接先問可不可以：「如果我分享一個想法，會有幫助嗎？」"
           },
           {
             "speaker": "b",
@@ -1410,7 +1410,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: Specific requests make it easy to help, and that is a gift too.",
-            "zh": "這裡有一個常被忽略的地方：具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
+            "zh": "有個細節很容易被忽略：具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
           },
           {
             "speaker": "b",
@@ -1815,7 +1815,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. That kind of familiar distance can still be very comforting.",
-            "zh": "這裡是我想特別畫線的地方。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
+            "zh": "這一點值得記住。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
           },
           {
             "speaker": "b",

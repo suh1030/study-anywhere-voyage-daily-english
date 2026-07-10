@@ -139,7 +139,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: That second sentence creates a picture. The listener can see the friendship, not just label it.",
-            "zh": "這裡有一個常被忽略的地方：第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
+            "zh": "有件事常常藏在檯面下：第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
           },
           {
             "speaker": "b",
@@ -520,7 +520,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
-            "zh": "這裡是我想特別畫線的地方。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
+            "zh": "這裡值得畫一條線。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
           },
           {
             "speaker": "b",
@@ -1297,7 +1297,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
-            "zh": "這裡有一個常被忽略的地方：而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
+            "zh": "現實通常比這再亂一點：而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
           },
           {
             "speaker": "b",
@@ -1989,7 +1989,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
-            "zh": "這裡是我想特別畫線的地方。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
+            "zh": "這部分最值得拿來練習。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
           },
           {
             "speaker": "b",

@@ -163,7 +163,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. Strong pressure language is clear about both commitment and limit.",
-            "zh": "這裡是我想特別畫線的地方。好的扛壓語言，會同時把承諾和限制講清楚。"
+            "zh": "這句話我會隨身帶著。好的扛壓語言，會同時把承諾和限制講清楚。"
           }
         ]
       },
@@ -568,7 +568,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The real pressure point is this: Better thinking under pressure often begins with a less dramatic relationship to the pressure itself.",
-            "zh": "這裡有一個常被忽略的地方：壓力下想得更好，很多時候是從你先不要用那麼戲劇化的方式看待壓力開始。"
+            "zh": "這點很值得放在心上。壓力下想得更好，很多時候是從你先不要用那麼戲劇化的方式看待壓力開始。"
           },
           {
             "speaker": "b",
@@ -831,7 +831,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the practical takeaway. It also becomes easier to move the deadline on lower-value tasks before they become dramatic.",
-            "zh": "這裡是我想特別畫線的地方。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。"
+            "zh": "這就是可以實際帶走的重點。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。"
           },
           {
             "speaker": "b",
@@ -1171,7 +1171,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The tricky bit is this: It protects the team from surprise, the project from hidden risk, and you from silent collapse.",
-            "zh": "這裡有一個常被忽略的地方：它保護的是團隊不要被突然嚇到、專案不要藏著風險，還有你自己不要默默垮掉。"
+            "zh": "這是整段的重點。它保護的是團隊不要被突然嚇到、專案不要藏著風險，還有你自己不要默默垮掉。"
           },
           {
             "speaker": "b",
@@ -1405,7 +1405,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the line I would hold on to. And if you need boundaries, say, 'I am checking out for the rest of the day unless something truly urgent comes up.'",
-            "zh": "這裡是我想特別畫線的地方。如果你需要界線，也可以說：「I am checking out for the rest of the day unless something truly urgent comes up.」"
+            "zh": "這個地方很關鍵。如果你需要界線，也可以說：「I am checking out for the rest of the day unless something truly urgent comes up.」"
           },
           {
             "speaker": "b",
@@ -1591,7 +1591,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A small thing matters here: Leadership under pressure is often about seeing strain before it turns visible enough to scare everybody.",
-            "zh": "這裡有一個常被忽略的地方：壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。"
+            "zh": "有個小地方其實很關鍵：壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. Strong leadership language lowers panic by increasing orientation.",
-            "zh": "這裡是我想特別畫線的地方。好的領導語言，是靠提高方向感來降低恐慌。"
+            "zh": "這點很值得放在心上。好的領導語言，是靠提高方向感來降低恐慌。"
           }
         ]
       },
@@ -2049,7 +2049,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would pay attention to this: Naming the pattern weakens it.",
-            "zh": "這裡有一個常被忽略的地方：你一把那個模式說出來，它就會變弱一點。"
+            "zh": "這一點我會特別留意：你一把那個模式說出來，它就會變弱一點。"
           }
         ]
       },

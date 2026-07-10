@@ -110,7 +110,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the line I would hold on to. When you describe work clearly, you are not inflating it. You are translating it.",
-            "zh": "這裡是我想特別畫線的地方。你把工作講清楚，不是在灌水，而是在翻譯。"
+            "zh": "這裡藏著關鍵。你把工作講清楚，不是在灌水，而是在翻譯。"
           }
         ]
       },
@@ -402,7 +402,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A small thing matters here: You are introducing your current role, not reciting your whole life story.",
-            "zh": "這裡有一個常被忽略的地方：你是在介紹你現在的角色，不是在背自己的人生傳記。"
+            "zh": "有個小地方其實很關鍵：你是在介紹你現在的角色，不是在背自己的人生傳記。"
           },
           {
             "speaker": "b",
@@ -672,7 +672,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. Sometimes a job mainly pays the bills, and sometimes it also feeds your sense of purpose. Those are not always the same season.",
-            "zh": "這裡是我想特別畫線的地方。有時候一份工作主要是在付帳單，有時候它也會滋養你的目的感。那兩件事不一定總是在同一個時期重疊。"
+            "zh": "這一點值得停下來想一下。有時候一份工作主要是在付帳單，有時候它也會滋養你的目的感。那兩件事不一定總是在同一個時期重疊。"
           },
           {
             "speaker": "b",
@@ -1041,7 +1041,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would pay attention to this: Good teams also loop someone in before the problem becomes expensive.",
-            "zh": "這裡有一個常被忽略的地方：好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。"
+            "zh": "這一點我會特別留意：好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。"
           },
           {
             "speaker": "b",
@@ -1212,7 +1212,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. At work, responsibility often sounds like clarity spoken a little earlier than comfort would prefer.",
-            "zh": "這裡是我想特別畫線的地方。在工作裡，責任感很多時候聽起來像是：比舒服更早一點，把清楚說出來。"
+            "zh": "這個地方很關鍵。在工作裡，責任感很多時候聽起來像是：比舒服更早一點，把清楚說出來。"
           }
         ]
       }
@@ -1615,7 +1615,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: That is why job loss or role change can hit the sense of self, not just the schedule.",
-            "zh": "這裡有一個常被忽略的地方：這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。"
+            "zh": "這裡有個不起眼但重要的細節：這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。"
           },
           {
             "speaker": "b",
@@ -1803,7 +1803,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. The goal is to care about work in a way that still leaves room for a full life.",
-            "zh": "這裡是我想特別畫線的地方。重點是用一種仍然替完整人生留空間的方式去在乎工作。"
+            "zh": "這點很值得放在心上。重點是用一種仍然替完整人生留空間的方式去在乎工作。"
           },
           {
             "speaker": "b",

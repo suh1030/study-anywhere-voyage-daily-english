@@ -163,7 +163,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: Useful schedule English usually describes the moment of pressure, not your personality.",
-            "zh": "這裡有一個常被忽略的地方：有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
+            "zh": "有個細節很容易被忽略：有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
           }
         ]
       },
@@ -684,7 +684,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Work time gets distorted when every hour is visible but none of it is truly available.",
-            "zh": "這裡是我想特別畫線的地方。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
+            "zh": "這一點值得記住。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
           }
         ]
       },
@@ -1292,7 +1292,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Running errands is still work, even if it does not look impressive on a calendar.",
-            "zh": "這裡有一個常被忽略的地方：run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。"
+            "zh": "有件事常常藏在檯面下：run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。"
           },
           {
             "speaker": "b",
@@ -1680,7 +1680,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. Support is just harder to show off than exhaustion.",
-            "zh": "這裡是我想特別畫線的地方。只是支撐這件事，比起筋疲力盡，看起來更不容易拿來炫耀。"
+            "zh": "這是整段的重點。只是支撐這件事，比起筋疲力盡，看起來更不容易拿來炫耀。"
           }
         ]
       },

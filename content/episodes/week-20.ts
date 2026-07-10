@@ -27,7 +27,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The part I keep noticing is this: We kept updating each other, but nobody ever said what the actual decision was supposed to be.",
-            "zh": "這裡有一個常被忽略的地方：我們一直在彼此更新進度，可是沒有人真的把這場會到底要決定什麼說出來。"
+            "zh": "我一直注意到的是這一點：我們一直在彼此更新進度，可是沒有人真的把這場會到底要決定什麼說出來。"
           },
           {
             "speaker": "a",
@@ -245,7 +245,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. A good meeting gives alignment, direction, and fewer surprises later.",
-            "zh": "這裡是我想特別畫線的地方。好的會議會給你對齊感、方向感，還有之後比較少的意外。"
+            "zh": "這裡值得特別記住。好的會議會給你對齊感、方向感，還有之後比較少的意外。"
           },
           {
             "speaker": "b",
@@ -573,7 +573,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: Polished is optional. Stable is what the room can actually trust.",
-            "zh": "這裡有一個常被忽略的地方：漂亮是選配，穩定才是整個房間真的能信任的東西。"
+            "zh": "這件事比表面上看起來更重要：漂亮是選配，穩定才是整個房間真的能信任的東西。"
           },
           {
             "speaker": "b",
@@ -884,7 +884,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. Earlier clarity protects relationships much better than late frustration does.",
-            "zh": "這裡是我想特別畫線的地方。更早的清楚，通常比拖到後面的挫折感更能保護關係。"
+            "zh": "這個地方很關鍵。更早的清楚，通常比拖到後面的挫折感更能保護關係。"
           },
           {
             "speaker": "b",
@@ -1176,7 +1176,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: It is one where people can disagree respectfully enough that the room still gets smarter.",
-            "zh": "這裡有一個常被忽略的地方：好的討論，是大家可以有分寸地不同意，結果整個房間還是一起變聰明。"
+            "zh": "這裡可以做個很有用的區分：好的討論，是大家可以有分寸地不同意，結果整個房間還是一起變聰明。"
           },
           {
             "speaker": "b",
@@ -1451,7 +1451,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. Once people can see who is doing what by when, the meeting suddenly becomes real.",
-            "zh": "這裡是我想特別畫線的地方。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。"
+            "zh": "這句話我會隨身帶著。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。"
           },
           {
             "speaker": "b",
@@ -1726,7 +1726,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: And if the energy is fading, you can say, 'Let's take thirty seconds to look at the screen share quietly before we respond.'",
-            "zh": "這裡有一個常被忽略的地方：如果整個能量開始散掉，你也可以說：「Let's take thirty seconds to look at the screen share quietly before we respond.」"
+            "zh": "有個細節很容易被忽略：如果整個能量開始散掉，你也可以說：「Let's take thirty seconds to look at the screen share quietly before we respond.」"
           },
           {
             "speaker": "b",
@@ -1839,7 +1839,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the practical takeaway. Good remote participation is less about energy and more about signal.",
-            "zh": "這裡是我想特別畫線的地方。好的遠端參與，重點比較不是能量，而是訊號品質。"
+            "zh": "這就是可以實際帶走的重點。好的遠端參與，重點比較不是能量，而是訊號品質。"
           }
         ]
       }
@@ -2119,7 +2119,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Better informed matters, but a stronger team also knows what to do with what it just learned.",
-            "zh": "這裡有一個常被忽略的地方：知道更多當然重要，可是一個更強的團隊，還得知道要怎麼處理剛剛學到的東西。"
+            "zh": "有件事常常藏在檯面下：知道更多當然重要，可是一個更強的團隊，還得知道要怎麼處理剛剛學到的東西。"
           },
           {
             "speaker": "b",

@@ -397,7 +397,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would pay attention to this: Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
-            "zh": "這裡有一個常被忽略的地方：另一個問題是：每一次挫折都會變得像身份崩潰，因為那個目標扛了太多整個人生故事。"
+            "zh": "這一點我會特別留意：另一個問題是：每一次挫折都會變得像身份崩潰，因為那個目標扛了太多整個人生故事。"
           },
           {
             "speaker": "b",
@@ -737,7 +737,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the piece I want learners to notice. Each repetition tells the self what kind of person it is becoming.",
-            "zh": "這裡是我想特別畫線的地方。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
+            "zh": "這是我最希望學習的人注意到的地方。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
           }
         ]
       },
@@ -1183,7 +1183,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is one quiet detail here: If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
-            "zh": "這裡有一個常被忽略的地方：如果一個天命把整個自己都吞掉，它就不再像意義，而比較像囚禁。"
+            "zh": "這裡有個不起眼但重要的細節：如果一個天命把整個自己都吞掉，它就不再像意義，而比較像囚禁。"
           },
           {
             "speaker": "b",
@@ -1603,7 +1603,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. A healthy future orientation leaves room for direction without demanding total certainty.",
-            "zh": "這裡是我想特別畫線的地方。健康地看未來，是有方向，但不要求完全確定。"
+            "zh": "這裡值得特別記住。健康地看未來，是有方向，但不要求完全確定。"
           },
           {
             "speaker": "b",
@@ -2126,7 +2126,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The easy mistake is to forget this: Good setup is one of the most compassionate things a person can build for themselves.",
-            "zh": "這裡有一個常被忽略的地方：好的準備，其實是人能替自己建造的最有同情心的東西之一。"
+            "zh": "這個地方很關鍵。好的準備，其實是人能替自己建造的最有同情心的東西之一。"
           },
           {
             "speaker": "b",

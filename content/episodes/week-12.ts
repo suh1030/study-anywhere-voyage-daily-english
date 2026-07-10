@@ -1147,7 +1147,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: Plus, the people in the kitchen usually have better conversations.",
-            "zh": "這裡有一個常被忽略的地方：而且在廚房的人通常聊天聊得比較好。"
+            "zh": "現實通常比這再亂一點：而且在廚房的人通常聊天聊得比較好。"
           },
           {
             "speaker": "b",
@@ -2025,7 +2025,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. You do not need a label. You just need to communicate closeness and shared history.",
-            "zh": "這裡是我想特別畫線的地方。你不需要標籤，你只需要傳遞親密和共同歷史。"
+            "zh": "這部分最值得拿來練習。你不需要標籤，你只需要傳遞親密和共同歷史。"
           },
           {
             "speaker": "b",

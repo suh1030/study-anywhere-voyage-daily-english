@@ -204,7 +204,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. Cross-cultural skill often means pausing long enough to ask, \"What meaning might this behavior carry for them?\"",
-            "zh": "這裡是我想特別畫線的地方。跨文化能力，很多時候就是多停一下，去問：「這個行為對他來說，可能帶著什麼意思？」"
+            "zh": "這一點很多人會略過。跨文化能力，很多時候就是多停一下，去問：「這個行為對他來說，可能帶著什麼意思？」"
           },
           {
             "speaker": "b",
@@ -344,7 +344,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
-            "zh": "這裡有一個常被忽略的地方：直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
+            "zh": "這件事比表面上看起來更重要：直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
-            "zh": "這裡是我想特別畫線的地方。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
+            "zh": "這一點值得記住。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
           },
           {
             "speaker": "b",
@@ -1183,7 +1183,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
-            "zh": "這裡有一個常被忽略的地方：它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
+            "zh": "這裡可以做個很有用的區分：它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
           },
           {
             "speaker": "b",
@@ -1598,7 +1598,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. A sentence can be technically correct and still culturally wrong, emotionally off, or too flat for what it needs to do.",
-            "zh": "這裡是我想特別畫線的地方。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。"
+            "zh": "這句話值得記下來。一句話可能技術上正確，但在文化上不對、情緒上不對，或平到承受不起它該承受的重量。"
           },
           {
             "speaker": "b",

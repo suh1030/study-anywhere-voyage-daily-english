@@ -612,7 +612,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Narrative order helps when life feels messy, because sequence can create relief.",
-            "zh": "這裡有一個常被忽略的地方：當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
+            "zh": "有件事常常藏在檯面下：當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -981,7 +981,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. A small prototype helps because testing early is kinder than forcing a perfect plan on daily life.",
-            "zh": "這裡是我想特別畫線的地方。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。"
+            "zh": "這部分最值得拿來練習。小型原型很有幫助，因為提早測試，比把一個完美計畫硬壓到日常生活上來得溫柔。"
           },
           {
             "speaker": "b",
@@ -1714,7 +1714,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where real life gets messier: Language precision grows better in steady practice than in emotional intensity alone.",
-            "zh": "這裡有一個常被忽略的地方：語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
+            "zh": "現實通常比這再亂一點：語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
           },
           {
             "speaker": "b",

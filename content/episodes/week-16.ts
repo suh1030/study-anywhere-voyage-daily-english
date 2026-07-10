@@ -163,7 +163,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. A pattern gives you something you can notice and adjust.",
-            "zh": "這裡是我想特別畫線的地方。模式是你可以觀察、也可以調整的東西。"
+            "zh": "這句話值得記下來。模式是你可以觀察、也可以調整的東西。"
           }
         ]
       },
@@ -778,7 +778,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: That kind of line tells the other person you are with them, not cross-examining them.",
-            "zh": "這裡有一個常被忽略的地方：這種句子會讓對方知道，你是在跟他站在一起，不是在盤問他。"
+            "zh": "這件事比表面上看起來更重要：這種句子會讓對方知道，你是在跟他站在一起，不是在盤問他。"
           },
           {
             "speaker": "b",
@@ -1352,7 +1352,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. They ask for more attention, so you want to match the format to the relationship and the urgency.",
-            "zh": "這裡是我想特別畫線的地方。它要求更多注意力，所以你要讓格式跟關係、還有事情的緊急程度對得上。"
+            "zh": "重點就在這裡。它要求更多注意力，所以你要讓格式跟關係、還有事情的緊急程度對得上。"
           },
           {
             "speaker": "b",
@@ -1721,7 +1721,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: If you want to help someone get specific, offer a few real directions instead of one narrow guess.",
-            "zh": "這裡有一個常被忽略的地方：如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。"
+            "zh": "這裡可以做個很有用的區分：如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。"
           },
           {
             "speaker": "b",
@@ -2131,7 +2131,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. Keep it simple, keep it honest, and keep returning to the point.",
-            "zh": "這裡是我想特別畫線的地方。Keep it simple，保持誠實，然後一直回到那個點上。"
+            "zh": "這句話我會隨身帶著。Keep it simple，保持誠實，然後一直回到那個點上。"
           },
           {
             "speaker": "b",

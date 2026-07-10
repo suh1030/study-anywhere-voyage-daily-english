@@ -163,7 +163,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: Honest learning language should leave room for growth, not freeze you in place.",
-            "zh": "這裡有一個常被忽略的地方：誠實的學習語言，應該替成長留空間，而不是把你凍在原地。"
+            "zh": "這件事比表面上看起來更重要：誠實的學習語言，應該替成長留空間，而不是把你凍在原地。"
           }
         ]
       },
@@ -527,7 +527,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and that is the key. The best growth is demanding, but not cruel.",
-            "zh": "這裡是我想特別畫線的地方。最好的成長，會要求你，但不會虐待你。"
+            "zh": "這是我最想強調的一點。最好的成長，會要求你，但不會虐待你。"
           }
         ]
       },
@@ -1041,7 +1041,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: Awareness is often what turns repetition into improvement.",
-            "zh": "這裡有一個常被忽略的地方：覺察，很多時候才是把重複變成進步的關鍵。"
+            "zh": "這裡可以做個很有用的區分：覺察，很多時候才是把重複變成進步的關鍵。"
           },
           {
             "speaker": "b",
@@ -1603,7 +1603,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the point to remember. Comparison steals attention away from the actual method.",
-            "zh": "這裡是我想特別畫線的地方。比較，會把你的注意力從真正的方法上偷走。"
+            "zh": "這一點值得記住。比較，會把你的注意力從真正的方法上偷走。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One detail is easy to miss: Good growth language should sound lived, not marketed.",
-            "zh": "這裡有一個常被忽略的地方：好的成長語言，應該聽起來像活過，不像被行銷過。"
+            "zh": "有個細節很容易被忽略：好的成長語言，應該聽起來像活過，不像被行銷過。"
           }
         ]
       },
@@ -2143,7 +2143,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. The best growth is not the loudest. It is the kind you can live inside.",
-            "zh": "這裡是我想特別畫線的地方。最好的成長，不是最大聲的那種，而是那種你真的住得進去的成長。"
+            "zh": "這一點特別重要。最好的成長，不是最大聲的那種，而是那種你真的住得進去的成長。"
           },
           {
             "speaker": "b",

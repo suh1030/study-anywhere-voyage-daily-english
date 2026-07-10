@@ -204,7 +204,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. Community care often looks ordinary from the outside, but from the inside it can feel life-saving.",
-            "zh": "這裡是我想特別畫線的地方。從外面看，社群照顧常常很普通；但從裡面的人來看，它可能像救命一樣。"
+            "zh": "這是整段的重點。從外面看，社群照顧常常很普通；但從裡面的人來看，它可能像救命一樣。"
           },
           {
             "speaker": "b",
@@ -790,7 +790,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The part I keep noticing is this: Local impact often grows through ordinary usefulness.",
-            "zh": "這裡有一個常被忽略的地方：在地影響力，很多時候就是從普通但有用開始長大的。"
+            "zh": "我一直注意到的是這一點：在地影響力，很多時候就是從普通但有用開始長大的。"
           }
         ]
       },
@@ -1135,7 +1135,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. A helpful leader might say, \"It sounds like we all care about the neighborhood, but we are protecting different parts of it.\" That reframes the room.",
-            "zh": "這裡是我想特別畫線的地方。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
+            "zh": "這裡值得畫一條線。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
           },
           {
             "speaker": "b",
@@ -1774,7 +1774,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This matters more than it first seems: Repeated acts become muscle memory for kindness.",
-            "zh": "這裡有一個常被忽略的地方：重複的動作，最後會變成善意的肌肉記憶。"
+            "zh": "這件事比表面上看起來更重要：重複的動作，最後會變成善意的肌肉記憶。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would keep that sentence close. Reliable people are part of what makes any community feel safe.",
-            "zh": "這裡是我想特別畫線的地方。可靠的人，本來就是任何社群安全感的一部分。"
+            "zh": "這句話我會隨身帶著。可靠的人，本來就是任何社群安全感的一部分。"
           },
           {
             "speaker": "b",

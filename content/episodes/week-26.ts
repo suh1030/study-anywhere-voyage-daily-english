@@ -163,7 +163,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The real pressure point is this: Good boundary language makes recovery sound like part of doing good work.",
-            "zh": "這裡有一個常被忽略的地方：好的界線語言，會讓恢復聽起來像把工作做好的一部分。"
+            "zh": "這裡藏著關鍵。好的界線語言，會讓恢復聽起來像把工作做好的一部分。"
           }
         ]
       },
@@ -1000,7 +1000,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The tricky bit is this: Good boundaries are often what let usefulness survive.",
-            "zh": "這裡有一個常被忽略的地方：好的界線，很多時候正是讓有用這件事活得下來的條件。"
+            "zh": "這一點值得停下來想一下。好的界線，很多時候正是讓有用這件事活得下來的條件。"
           }
         ]
       },
@@ -2143,7 +2143,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A small thing matters here: The goal is to build a life that does not keep asking you to endure what should have been redesigned.",
-            "zh": "這裡有一個常被忽略的地方：目標是把生活蓋成一種不會一直逼你去硬撐那些本來就應該重設的東西。"
+            "zh": "有個小地方其實很關鍵：目標是把生活蓋成一種不會一直逼你去硬撐那些本來就應該重設的東西。"
           },
           {
             "speaker": "b",

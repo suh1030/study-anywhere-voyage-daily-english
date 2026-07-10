@@ -479,7 +479,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A useful distinction is this: It gives people a cleaner emotional exit.",
-            "zh": "這裡有一個常被忽略的地方：它會讓人的情緒出口乾淨很多。"
+            "zh": "這裡可以做個很有用的區分：它會讓人的情緒出口乾淨很多。"
           }
         ]
       },
@@ -1000,7 +1000,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the practical takeaway. What gets named and marked is easier to release.",
-            "zh": "這裡是我想特別畫線的地方。被命名、被標記過的東西，比較容易被真正放下。"
+            "zh": "這就是可以實際帶走的重點。被命名、被標記過的東西，比較容易被真正放下。"
           }
         ]
       },
