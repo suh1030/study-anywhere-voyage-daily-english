@@ -6,11 +6,23 @@ const CREDIT_PACKAGES: Record<string, number> = {
   sav_credits_10: 10,
 }
 
+// 常數時間比較，避免時序側信道（安全複審 M-3）
+function timingSafeEqual(a: string, b: string): boolean {
+  const enc = new TextEncoder()
+  const ab = enc.encode(a)
+  const bb = enc.encode(b)
+  if (ab.length !== bb.length) return false
+  let diff = 0
+  for (let i = 0; i < ab.length; i++) diff |= ab[i] ^ bb[i]
+  return diff === 0
+}
+
 function verifyRevenueCatAuth(req: Request): boolean {
   const secret = Deno.env.get('REVENUECAT_WEBHOOK_SECRET')
   if (!secret) return false
   const authHeader = req.headers.get('Authorization')
-  return authHeader === secret
+  if (!authHeader) return false
+  return timingSafeEqual(authHeader, secret)
 }
 
 Deno.serve(async (req) => {
@@ -37,9 +49,15 @@ Deno.serve(async (req) => {
 
     const productId: string = event.event?.product_id
     const appUserId: string = event.event?.app_user_id // 對應 Supabase user.id
+    // 冪等鍵：RevenueCat 事件唯一 id，退而求其次用交易 id。
+    // 兩者皆無則拒絕，避免無去重依據而重複入帳。
+    const eventId: string | undefined = event.event?.id ?? event.event?.transaction_id
 
     if (!productId || !appUserId) {
       return jsonResponse({ error: 'missing_fields' }, 400)
+    }
+    if (!eventId) {
+      return jsonResponse({ error: 'missing_event_id' }, 400)
     }
 
     const creditsToAdd = CREDIT_PACKAGES[productId]
@@ -47,20 +65,25 @@ Deno.serve(async (req) => {
       return jsonResponse({ error: 'unknown_product', productId }, 400)
     }
 
-    // ── 3. 原子增加點數 ──────────────────────────────────────
+    // ── 3. 冪等增加點數（同一事件只入帳一次）──────────────────
     const supabaseAdmin = createAdminClient()
-    const { data: newBalance, error } = await supabaseAdmin.rpc('add_credits', {
+    const { data: result, error } = await supabaseAdmin.rpc('add_credits_idempotent', {
       p_user_id: appUserId,
       p_amount: creditsToAdd,
       p_description: `購買 ${creditsToAdd} 點（${productId}）`,
+      p_event_id: String(eventId),
     })
 
     if (error) {
-      console.error('add_credits failed:', error)
+      console.error('add_credits_idempotent failed:', error)
       return jsonResponse({ error: 'db_error' }, 500)
     }
 
-    return jsonResponse({ received: true, creditsAdded: creditsToAdd, newBalance })
+    return jsonResponse({
+      received: true,
+      credited: result?.credited ?? false,
+      newBalance: result?.balance,
+    })
   } catch (_error) {
     return jsonResponse({ error: 'internal_error' }, 500)
   }

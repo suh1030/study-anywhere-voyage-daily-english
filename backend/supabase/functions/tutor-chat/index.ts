@@ -508,16 +508,8 @@ Deno.serve(async (req) => {
     todayUTC8.setUTCHours(0, 0, 0, 0)
     const day = todayUTC8.toISOString().slice(0, 10) // 'YYYY-MM-DD'
 
-    const { data: usageRow } = await supabaseAdmin
-      .from('tutor_daily_usage')
-      .select('count')
-      .eq('user_id', user.id)
-      .eq('day', day)
-      .maybeSingle()
-
-    if ((usageRow?.count ?? 0) >= DAILY_LIMIT) {
-      return jsonResponse({ error: 'daily_limit_reached', limit: DAILY_LIMIT }, 429)
-    }
+    // 用量在呼叫任何 LLM 之前就先原子扣（安全複審 H-2）。移到下方 deterministic
+    // 判定之後執行——deterministic 安全回覆不觸發任何上游 LLM，不計費。
 
     // ── 4. 呼叫 AI provider（OpenAI 相容 API）───────────────
     // Groq 免費層優先；OpenRouter 免費 router 作最後單次備援。
@@ -571,6 +563,27 @@ Deno.serve(async (req) => {
     const lastUserText = history.at(-1)?.content ?? ''
     // 安全與高頻文法錯誤先由確定性規則處理；其餘請求交給結構化語意路由器。
     const deterministicReply = getDeterministicReply(lastUserText) ?? undefined
+
+    // ── 每日額度：在呼叫任何 LLM（含 routing）之前就原子扣（安全複審 H-2）──
+    // deterministic 安全回覆為純本機規則、不觸發任何上游呼叫，故不計費。
+    // 其餘任何觸發 LLM 的路徑（含最終被 provider 全失敗或被政策擋下者）都會消耗額度，
+    // 避免失敗請求無限放大 AI 成本。
+    let remaining = DAILY_LIMIT
+    if (!deterministicReply) {
+      const { data: usageCount, error: usageError } = await supabaseAdmin.rpc('increment_tutor_usage', {
+        p_user_id: user.id,
+        p_day: day,
+      })
+      if (usageError) {
+        console.error('increment_tutor_usage failed:', usageError)
+        return jsonResponse({ error: 'internal_error' }, 500)
+      }
+      if ((usageCount ?? DAILY_LIMIT + 1) > DAILY_LIMIT) {
+        return jsonResponse({ error: 'daily_limit_reached', limit: DAILY_LIMIT }, 429)
+      }
+      remaining = Math.max(0, DAILY_LIMIT - (usageCount ?? DAILY_LIMIT))
+    }
+
     const route = deterministicReply ? null : await routeTutorRequest(providers, history)
     const trustedIntentData = route ? await getTrustedRouteData(route, supabaseUser, day) : null
     const trustedNumbers = new Set(trustedIntentData?.match(/\d+(?:\.\d+)?/g) ?? [])
@@ -713,16 +726,9 @@ Deno.serve(async (req) => {
     }
 
     if (!reply) {
+      // 額度已於呼叫前扣除（H-2）：失敗請求仍計費，避免成本濫用。
       return jsonResponse({ error: 'ai_unavailable' }, 503)
     }
-
-    // ── 5. 累加用量 ──────────────────────────────────────────
-    const { data: newCount } = await supabaseAdmin.rpc('increment_tutor_usage', {
-      p_user_id: user.id,
-      p_day: day,
-    })
-
-    const remaining = Math.max(0, DAILY_LIMIT - (newCount ?? DAILY_LIMIT))
 
     return jsonResponse({ reply, remaining })
   } catch (_error) {

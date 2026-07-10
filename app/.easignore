@@ -1,8 +1,7 @@
 node_modules/
-ios/Pods/
-ios/build/
-android/build/
-android/.gradle/
+# 排除整個原生資料夾，強制 EAS 由 app.json 跑 CNG prebuild（避免用到本機殘留的舊 prebuild）
+/ios
+/android
 .expo/
 # 本機 env 覆蓋與備份，絕不能進 EAS build（會把 production 指向 localhost）
 .env.local

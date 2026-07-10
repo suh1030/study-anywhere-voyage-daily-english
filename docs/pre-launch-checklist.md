@@ -65,14 +65,35 @@
       呼叫 `delete-account` Edge Function 刪除 auth 用戶（連帶 CASCADE 清除所有資料）
       〔工程審查 2026-07-10 新增，見 engineering-review-2026-07-10.md〕
 
-### 安全（2026-07-10 工程審查修復）
+### 安全（2026-07-10 工程審查 + 專家團隊複審修復）
 - [x] **鎖定 SECURITY DEFINER RPC 執行權限**：add_credits/deduct_credit/restore_credit/
       increment_tutor_usage 已 REVOKE FROM PUBLIC，僅 service_role 可執行
       （修復前任何登入用戶可繞過 IAP 無限加點；本機已實測封死）
       → 雲端需執行 `supabase db push` 套用 migration `20260710000000`
+- [x] **credits-webhook 冪等性（H-1）**：新增 `20260710010000` migration
+      （`provider_event_id UNIQUE` + `add_credits_idempotent`），webhook 以事件 id 去重，
+      同一購買只入帳一次；secret 改常數時間比對
+      → 雲端需 `supabase db push` 套用 `20260710010000` 並重部署 `credits-webhook`
+- [x] **tutor-chat 額度前置扣點（H-2）**：用量改在呼叫任何 LLM 前原子扣，
+      失敗/被擋下的請求仍計數，杜絕 AI 成本濫用 → 需重部署 `tutor-chat`
 - [x] 移除 App.tsx 的 PREVIEW_MODE 登入繞過除錯碼
 - [x] app/.env 預設改為雲端環境；eas.json build profile 補上固定 env；本機設定移至 .env.local
 - [ ] 部署 `delete-account` Edge Function 到雲端（`supabase functions deploy delete-account`）
+- [ ] 重新部署 `credits-webhook`（用 `--no-verify-jwt`）與 `tutor-chat`（含 H-1/H-2 修復）
+
+### Build 設定（2026-07-10 Mobile Build 專家複審修復）
+- [x] **移除殘留舊 prebuild**：`rm -rf app/ios app/android`（舊資料夾名 StudyAnywhereVoyage）
+      → `.easignore` 改排除整個 `/ios`、`/android`，強制 EAS 由 app.json 跑 CNG
+      （否則會用到舊 prebuild，改名/權限/安全修復全不進 build）
+- [x] 補上 `expo-asset`（expo-audio 必要 peer dep，否則正式 build 可能在音檔流程 crash）
+- [x] 移除 SDK 55 失效欄位 `newArchEnabled`；`expo install --fix` 對齊 13 個鎖定版
+- [ ] **真機重測 New Architecture 相容性**：RevenueCat / SVG / 畫面轉場（app 實際以新架構出 build）
+
+### 隱私標籤（2026-07-10 Privacy 專家複審，送審前必改）
+- [ ] **App Store Connect / Google Play 隱私標籤補報「User Content」**：對話批改答案與
+      家教聊天文字會送第三方 AI，現行標籤漏報且與隱私政策矛盾（Guideline 5.1.1 退件風險）。
+      更正文字見 `docs/launch-experts/privacy-compliance.md`
+- [ ] 隱私政策補「跨境傳輸」條文（台灣個資流向美國 AI 供應商；條文已備妥可貼）
 
 ---
 
