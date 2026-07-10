@@ -484,7 +484,7 @@ export const WEEK_08: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Building a Budget You Can Actually Keep",
         "lines": [
           {
             "speaker": "b",
@@ -883,8 +883,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. Shame usually hides the pattern. Curiosity exposes it.",
-            "zh": "如果你要跟別人講這件事，可以從這裡開始。羞愧通常會把模式藏起來，好奇心才會把它照出來。"
+            "en": "Shame usually hides the pattern. Curiosity is what exposes it.",
+            "zh": "羞愧通常會把模式藏起來，好奇心才會把它照出來。"
           },
           {
             "speaker": "b",
@@ -1211,8 +1211,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Start with one honest question and one clear limit. That is already enough.",
-            "zh": "如果是我，我會這樣說。就先從一個誠實的問題，加上一條清楚的界線開始。這樣其實就很夠了。"
+            "en": "Start with one honest question and one clear limit. That is already enough.",
+            "zh": "就先從一個誠實的問題，加上一條清楚的界線開始。這樣其實就很夠了。"
           }
         ]
       }
@@ -1356,8 +1356,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: A realistic timeline protects the goal from your own fantasy version of yourself.",
-            "zh": "這裡可以做個很有用的區分：現實的時間表，其實是在保護這個目標，不要被你心裡那個太理想化的自己拖垮。"
+            "en": "Exactly. A realistic timeline protects the goal from your own fantasy version of yourself.",
+            "zh": "沒錯。現實的時間表，其實是在保護這個目標，不被你心裡那個太理想化的自己拖垮。"
           },
           {
             "speaker": "b",
@@ -1517,13 +1517,13 @@ export const WEEK_08: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes financial decisions feel a lot more tied to identity than I expected.",
-            "zh": "這句話我會記很久。"
+            "zh": "這讓財務決定聽起來，比我原本想的更跟自我認同綁在一起。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Financial adulthood is mostly a series of quiet decisions that future you will one day thank you for.",
-            "zh": "舉個真實一點的例子會更清楚。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
+            "en": "Financial adulthood is mostly a series of quiet decisions that future you will one day thank you for.",
+            "zh": "所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
           }
         ]
       }

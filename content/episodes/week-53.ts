@@ -420,7 +420,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So closure is not erasing. It is clearing space.",
-            "zh": "所以所謂 closure 不是抹掉，而是清出空間。"
+            "zh": "所以所謂的了結不是抹掉，而是清出空間。"
           },
           {
             "speaker": "a",
@@ -473,7 +473,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I get that. It sounds perfect for burnout, breakups, or even a role change.",
-            "zh": "這句用在 burnout、分手，甚至角色轉換上都很適合。"
+            "zh": "這句用在倦怠、分手，甚至角色轉換上都很適合。"
           },
           {
             "speaker": "a",
@@ -1011,7 +1011,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What makes goodbye feel complete instead of rushed?",
-            "zh": "什麼樣的 goodbye 會比較完整，而不是匆匆忙忙？"
+            "zh": "什麼樣的道別會比較完整，而不是匆匆忙忙？"
           },
           {
             "speaker": "a",
@@ -1023,7 +1023,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude is part of closure.",
-            "zh": "所以感謝本身就是 closure 的一部分。"
+            "zh": "所以感謝本身就是了結的一部分。"
           },
           {
             "speaker": "a",
@@ -1076,7 +1076,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that as a beautiful line for saying goodbye.",
-            "zh": "這句拿來說 goodbye 真的很美。"
+            "zh": "這句拿來道別真的很美。"
           },
           {
             "speaker": "a",
@@ -1111,7 +1111,7 @@ export const WEEK_53: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Taking the First Small Step Forward",
         "lines": [
           {
             "speaker": "b",

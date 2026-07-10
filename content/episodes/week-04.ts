@@ -842,8 +842,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: Intentional living over radical minimalism. Keep what adds value, release the rest.",
-            "zh": "現實通常比這再亂一點：刻意生活比激進極簡更重要。留下增加價值的東西，放開其他的。"
+            "en": "For most people it lands somewhere in between: intentional living matters more than radical minimalism — keep what adds value, release the rest.",
+            "zh": "對大多數人來說，答案其實落在中間：刻意生活比激進極簡更重要——留下能增添價值的，其餘的放手。"
           }
         ]
       },

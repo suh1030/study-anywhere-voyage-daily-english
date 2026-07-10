@@ -1163,8 +1163,8 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The copyable sentence is this. A real beginning should feel close enough to touch.",
-            "zh": "這句話你可以直接記起來：真正的開始，應該近到伸手就碰得到。"
+            "en": "A real beginning should feel close enough to touch.",
+            "zh": "真正的開始，應該近到伸手就碰得到。"
           },
           {
             "speaker": "b",

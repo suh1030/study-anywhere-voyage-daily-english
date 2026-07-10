@@ -80,7 +80,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the brain keeps favoring what feels easy now. Or is there a real-life exception here?",
-            "zh": "所以人的腦袋就會一直偏向當下比較輕鬆的那一邊。 還是我把它說得太整齊了？"
+            "zh": "所以人的腦袋就會一直偏向當下比較輕鬆的那一邊。 還是說，現實裡其實有例外？"
           },
           {
             "speaker": "a",
@@ -890,7 +890,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I would call that the right takeaway.",
-            "zh": "這感覺就是很對的 takeaway。"
+            "zh": "我會說那正是最該記住的重點。"
           },
           {
             "speaker": "a",
@@ -1105,8 +1105,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Memorable language can sometimes interrupt automatic behavior.",
-            "zh": "練聽力的時候，特別注意這個句子的形狀。讓人記得住的語言，有時候真的能打斷自動化行為。"
+            "en": "That is exactly why it sticks. Memorable language can sometimes interrupt automatic behavior.",
+            "zh": "它就是因為這樣才讓人記得住。讓人印象深刻的說法，有時候真的能打斷自動化的行為。"
           }
         ]
       },
@@ -1344,8 +1344,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the takeaway here. Active hope works because it treats action as part of the emotion, not a separate thing.",
-            "zh": "這就是這裡的重點。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
+            "en": "That is really the heart of it. Active hope works because it treats action as part of the emotion, not a separate thing.",
+            "zh": "這其實就是核心所在。主動的希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
           },
           {
             "speaker": "b",
@@ -1505,7 +1505,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I have been managing emotions rather than actually understanding them.",
-            "zh": "這感覺就是很對的收尾。"
+            "zh": "我發現自己一直在管理情緒，而不是真正去理解它們。"
           },
           {
             "speaker": "a",

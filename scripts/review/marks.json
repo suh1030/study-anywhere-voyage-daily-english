@@ -1,1 +1,5 @@
-{}
+{
+  "art:W48D7": { "status": "fail", "note": "⚠[提醒][provenance] 字彙表列 communal，但文章本文未出現該字。建議把 communal 寫進文章某句，或改用文中出現的字。", "updatedAt": "2026-07-10" },
+  "art:W20D6": { "status": "fail", "note": "⚠[提醒][provenance] 字彙 synthesize / proactively 未在文章本文出現。建議寫進文章或替換。", "updatedAt": "2026-07-10" },
+  "art:W12D4": { "status": "fail", "note": "⚠[提醒][coherence] 文章主題「Parenting Styles」與當日 episode 主題（Family Gatherings）不對齊；W12 文章順序整體較 episode 錯開約一天。需重排或重訂 W12 文章主題（政策決定）。", "updatedAt": "2026-07-10" }
+}

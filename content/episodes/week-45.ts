@@ -174,7 +174,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would ordinary leadership look like in a real situation?",
-            "zh": "你可以給我一個普通但真實的領導例子嗎？不是英雄式的那種。"
+            "zh": "在真實情境裡，普通的領導會長什麼樣子？"
           },
           {
             "speaker": "a",
@@ -222,13 +222,13 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what is the cleanest way to explain the difference between a boss and a leader?",
-            "zh": "那如果要很簡潔地說明 boss 和 leader 的差別，你會怎麼講？"
+            "zh": "那如果要很簡潔地說明老闆和領導者的差別，你會怎麼講？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A boss can control output for a while. A leader changes what kind of effort people are willing to bring.",
-            "zh": "Boss 也許可以在一段時間內控制產出，但 leader 會改變大家願意帶進來的是什麼樣的投入。"
+            "zh": "老闆也許可以在一段時間內控制產出，但領導者會改變大家願意帶進來的是什麼樣的投入。"
           },
           {
             "speaker": "b",
@@ -515,13 +515,13 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and useful influence often looks like better framing before it looks like better authority.",
-            "zh": "對，而且有用的影響力，很多時候先長得像更好的 framing，之後才長得像更高的 authority。"
+            "zh": "對，而且有用的影響力，很多時候先長得像更好的鋪陳與說法，之後才長得像更高的權威。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the person everyone listens to is often the person who helps the group think. Would you say it works like that in real life?",
-            "zh": "所以那個大家會聽的人，常常就是那個幫全組人更好思考的人。 還是我把它說得太整齊了？"
+            "zh": "所以那個大家會聽的人，常常就是那個幫全組人更好思考的人。你會說現實裡真的是這樣嗎？"
           },
           {
             "speaker": "a",
@@ -550,25 +550,25 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes it sound much less ego-driven.",
-            "zh": "這樣聽起來就比較不是靠 ego 在推。"
+            "zh": "這樣聽起來就比較不是靠私心在推。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually is less ego-driven. Strong influence is often patient enough to let other people own the final sentence.",
-            "zh": "通常也確實比較不是靠 ego。真正強的影響力，很多時候有足夠耐心，讓最後那句話由別人來說。"
+            "zh": "通常也確實比較不是靠私心。真正強的影響力，很多時候有足夠耐心，讓最後那句話由別人來說。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So you care about the outcome more than the credit.",
-            "zh": "所以你在乎的是結果，而不是那個 credit。"
+            "zh": "所以你在乎的是結果，而不是那個功勞。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and people notice that. When you are not protecting your ego, your ideas start sounding safer to work with.",
-            "zh": "沒錯，而且別人會感覺得到。當你沒有在保護自己的 ego，你的想法就會開始變得更安全、更容易被拿來一起做事。"
+            "zh": "沒錯，而且別人會感覺得到。當你沒有在保護自己的自我，你的想法就會開始變得更安全、更容易被拿來一起做事。"
           },
           {
             "speaker": "b",
@@ -642,7 +642,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "People use \"emotional intelligence\" so loosely. What does it really mean in leadership?",
-            "zh": "大家很常隨口講 emotional intelligence。放在領導裡，它到底是什麼？"
+            "zh": "大家很常隨口講情緒智商。放在領導裡，它到底是什麼？"
           },
           {
             "speaker": "a",
@@ -672,7 +672,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is harder. Anyone can look calm when the stakes are low. Emotional intelligence shows up when feelings are real and time is limited.",
-            "zh": "它本來就更難。利害不高的時候，誰都可以看起來很冷靜。情緒 intelligence 真正出現，是在情緒很真、時間又有限的時候。"
+            "zh": "它本來就更難。利害不高的時候，誰都可以看起來很冷靜。情緒智商真正出現，是在情緒很真、時間又有限的時候。"
           },
           {
             "speaker": "b",
@@ -772,7 +772,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's fair. It does feel like a real leader sentence.",
-            "zh": "這句真的很有 leader 的味道。"
+            "zh": "這句真的很有領導者的味道。"
           },
           {
             "speaker": "a",
@@ -790,7 +790,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Emotional intelligence often lives in sentence design.",
-            "zh": "沒錯。很多時候，情緒 intelligence 就活在句子的設計裡。"
+            "zh": "沒錯。很多時候，情緒智商就活在句子的設計裡。"
           }
         ]
       },
@@ -813,7 +813,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's the kind of moment where people either blame or disappear.",
-            "zh": "那種時刻真的很容易不是開始 blame，就是開始消失。"
+            "zh": "那種時刻真的很容易不是開始指責，就是開始消失。"
           },
           {
             "speaker": "a",
@@ -861,13 +861,13 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So emotional memory becomes part of leadership reputation.",
-            "zh": "所以情緒記憶其實會變成領導 reputation 的一部分。"
+            "zh": "所以情緒記憶其實會變成領導聲譽的一部分。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. People may forget the exact wording of a meeting, but they rarely forget the emotional pattern they had to keep surviving.",
-            "zh": "非常會。大家也許會忘記一場會議的精確 wording，但很少會忘記自己一直在存活的是什麼樣的情緒模式。"
+            "zh": "非常會。大家也許會忘記一場會議的精確措辭，但很少會忘記自己一直在存活的是什麼樣的情緒模式。"
           },
           {
             "speaker": "b",
@@ -879,7 +879,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is relational. Leadership always moves through tasks, but it also moves through nervous systems.",
-            "zh": "它本來就很關係。領導當然穿過任務在運作，但它也穿過每個人的 nervous system 在運作。"
+            "zh": "它本來就很關係。領導當然穿過任務在運作，但它也穿過每個人的神經系統在運作。"
           },
           {
             "speaker": "b",
@@ -891,7 +891,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. If you understand that, you understand why emotional intelligence is not a soft extra. It is part of the work itself.",
-            "zh": "放到真實生活裡，聽起來可能是這樣。如果你真的懂這件事，你就會知道 emotional intelligence 不是柔軟加分題，而是工作本身的一部分。"
+            "zh": "放到真實生活裡，聽起來可能是這樣。如果你真的懂這件事，你就會知道情緒智商不是柔軟加分題，而是工作本身的一部分。"
           }
         ]
       }
@@ -959,7 +959,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not shared workload alone. A team forms when people begin trusting the same norms, not just the same deadline.",
-            "zh": "不是只有共享工作量而已。真正的團隊形成於大家開始信任同一套規則，而不只是同一個 deadline。"
+            "zh": "不是只有共享工作量而已。真正的團隊形成於大家開始信任同一套規則，而不只是同一個截止期限。"
           },
           {
             "speaker": "b",
@@ -970,8 +970,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Of course, daily life is rarely that tidy: If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
-            "zh": "當然，日常很少這麼整齊：如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
+            "en": "In real teams this gets messy fast. If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
+            "zh": "在真實團隊裡，這很快就會變亂。如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
           },
           {
             "speaker": "b",
@@ -1024,13 +1024,13 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For the most part, yes. Another one is inconsistent standards. If feedback changes with the leader's mood, people stop learning and start scanning for danger.",
-            "zh": "大部分情況是這樣。另一個常見問題是不一致的標準。如果 feedback 會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。"
+            "zh": "大部分情況是這樣。另一個常見問題是不一致的標準。如果回饋會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that. It sounds toxic even if nobody calls it that.",
-            "zh": "這聽起來就算沒人明講，也很 toxic。"
+            "zh": "這聽起來就算沒人明講，也很有毒。"
           },
           {
             "speaker": "a",
@@ -1071,7 +1071,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That would prevent so many messy follow-ups.",
-            "zh": "這句真的會少掉很多混亂的 follow-up。"
+            "zh": "這句真的會少掉很多混亂的後續追問。"
           },
           {
             "speaker": "a",
@@ -1095,7 +1095,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I can see the logic. It does feel like a leader who respects everyone's time.",
-            "zh": "這句聽起來像一個很尊重大家時間的 leader。"
+            "zh": "這句聽起來像一個很尊重大家時間的領導者。"
           },
           {
             "speaker": "a",
@@ -1124,7 +1124,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So debrief is emotional, not only operational.",
-            "zh": "所以 debrief 不只是 operational，它也很情緒。"
+            "zh": "所以事後檢討不只是流程上的事，它也很情緒。"
           },
           {
             "speaker": "a",
@@ -1154,7 +1154,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is different. Damage control protects the surface. Team repair protects the future way of working.",
-            "zh": "它本來就不一樣。damage control 保護的是表面；團隊修復保護的是未來的工作方式。"
+            "zh": "它本來就不一樣。損害控制保護的是表面；團隊修復保護的是未來的工作方式。"
           }
         ]
       },
@@ -1281,7 +1281,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real enemy is not only time. It is tunnel vision.",
-            "zh": "所以真正的敵人不只是時間，還有 tunnel vision。"
+            "zh": "所以真正的敵人不只是時間，還有視野窄化。"
           },
           {
             "speaker": "a",
@@ -1517,7 +1517,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is a humane way to define good judgment.",
-            "zh": "這真的是一個很有人味的 good judgment 定義。"
+            "zh": "這真的是一個很有人味的『好判斷』定義。"
           },
           {
             "speaker": "a",
@@ -1609,7 +1609,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes self-awareness sound operational, not just personal.",
-            "zh": "這樣一講，自我覺察就不是只有個人修養，它其實很 operational。"
+            "zh": "這樣一講，自我覺察就不是只有個人修養，它其實很實務、很能落地。"
           },
           {
             "speaker": "a",
@@ -1680,7 +1680,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Recovery. If you never reset, you start treating exhaustion as personality, and that changes how you lead.",
-            "zh": "恢復能力。如果你從不 reset，你就會開始把疲憊當成個性，然後那會改變你帶人的方式。"
+            "zh": "恢復能力。如果你從不歸零重整，你就會開始把疲憊當成個性，然後那會改變你帶人的方式。"
           }
         ]
       },
@@ -1691,7 +1691,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How would you talk about self-leadership in English naturally?",
-            "zh": "如果要很自然地用英文談 self-leadership，可以怎麼說？"
+            "zh": "如果要很自然地用英文談自我領導，可以怎麼說？"
           },
           {
             "speaker": "a",
@@ -1738,7 +1738,7 @@ export const WEEK_45: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Leading Yourself First",
         "lines": [
           {
             "speaker": "b",
@@ -1750,7 +1750,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sure. Imagine you promised feedback by Friday, but you know on Thursday evening that you will miss it.",
-            "zh": "可以。想像你答應星期五前給 feedback，但你星期四晚上就知道自己會來不及。"
+            "zh": "可以。想像你答應星期五前給回饋，但你星期四晚上就知道自己會來不及。"
           },
           {
             "speaker": "b",
@@ -1786,7 +1786,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because many people overvalue intensity and undervalue consistency.",
-            "zh": "因為很多人太高估 intensity，卻低估 consistency 的力量。"
+            "zh": "因為很多人太高估強度，卻低估一致性的力量。"
           },
           {
             "speaker": "b",
@@ -2097,7 +2097,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. Trust often grows from many low-ego moments people barely notice while they are happening.",
-            "zh": "沒錯。信任常常長在很多低 ego 的小時刻裡，當下大家甚至不一定會特別注意到。"
+            "zh": "沒錯。信任常常長在很多低自我的小時刻裡，當下大家甚至不一定會特別注意到。"
           }
         ]
       },

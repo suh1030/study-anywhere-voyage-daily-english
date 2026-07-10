@@ -15,7 +15,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Our team switched to a new analytics tool this month, and I was shocked by how fast I went from competent to clumsy.",
-            "zh": "我們團隊這個月換了一套新的 analytics tool，我很震驚自己竟然這麼快就從熟練變成笨手笨腳。"
+            "zh": "我們團隊這個月換了一套新的分析工具，我很震驚自己竟然這麼快就從熟練變成笨手笨腳。"
           },
           {
             "speaker": "a",
@@ -198,7 +198,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That probably matters more than the length of one perfect study session.",
-            "zh": "那大概比一次超完美、超長的 study session 更重要。"
+            "zh": "那大概比一次超完美、超長的讀書時段更重要。"
           },
           {
             "speaker": "a",
@@ -695,7 +695,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what actually works better for adults: long study blocks or shorter, repeatable ones?",
-            "zh": "所以對大人來說，真正比較有效的是長時間 study block，還是比較短、但能重複的那種？"
+            "zh": "所以對大人來說，真正比較有效的是長時間讀書時段，還是比較短、但能重複的那種？"
           },
           {
             "speaker": "a",
@@ -837,7 +837,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I need that reminder more than I need another productivity trick.",
-            "zh": "我需要這種提醒，勝過再多一個 productivity 技巧。"
+            "zh": "我需要這種提醒，勝過再多一個生產力技巧。"
           },
           {
             "speaker": "a",
@@ -866,7 +866,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sounds both obvious and strangely radical.",
-            "zh": "這聽起來一方面很 obvious，一方面又有點激進。"
+            "zh": "這聽起來一方面很理所當然，一方面又有點激進。"
           },
           {
             "speaker": "a",
@@ -1123,7 +1123,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not if the repetitions are sloppy. A few quality reps can teach more than a mountain of distracted ones.",
-            "zh": "如果那些重複都很鬆散，那就不一定。幾個高品質的 reps，常常比一整座分心重複更能教你東西。"
+            "zh": "如果那些重複都很鬆散，那就不一定。幾個高品質的反覆練習，常常比一整座分心重複更能教你東西。"
           },
           {
             "speaker": "b",
@@ -1153,7 +1153,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That lands as a very sharp sentence.",
-            "zh": "這句真的很 sharp。"
+            "zh": "這句真的很犀利。"
           },
           {
             "speaker": "a",
@@ -1177,7 +1177,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "True. It sounds surprisingly unglamorous.",
-            "zh": "這聽起來意外地不 glamorous。"
+            "zh": "這聽起來意外地不光鮮亮麗。"
           },
           {
             "speaker": "a",
@@ -1275,7 +1275,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All the time, and that is usually what a plateau feels like before you have language for it.",
-            "zh": "超常，而那很多時候就是所謂 plateau 的感覺，只是你還沒替它找到名字而已。"
+            "zh": "超常，而那很多時候就是所謂停滯期的感覺，只是你還沒替它找到名字而已。"
           },
           {
             "speaker": "b",
@@ -1499,7 +1499,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Slow progress often gives you a stronger nervous system, not just a better skill.",
-            "zh": "慢的進步，很多時候給你的不只是比較好的技能，而是一個更穩的 nervous system。"
+            "zh": "慢的進步，很多時候給你的不只是比較好的技能，而是一個更穩的神經系統。"
           },
           {
             "speaker": "b",
@@ -1656,13 +1656,13 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because a role model is useful when they widen your options, not when they narrow your self-worth.",
-            "zh": "這很重要，因為 role model 真正有用，是它替你打開選項，不是替你壓縮自我價值。"
+            "zh": "這很重要，因為榜樣真正有用，是它替你打開選項，不是替你壓縮自我價值。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I often turn role models into judges.",
-            "zh": "我覺得我很常不小心把 role model 變成法官。"
+            "zh": "我覺得我很常不小心把榜樣變成法官。"
           },
           {
             "speaker": "a",
@@ -2048,8 +2048,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the part most people overlook: Good growth language should sound lived, not marketed.",
-            "zh": "這是多數人會漏看的部分：好的成長語言，應該聽起來像活過，不像被行銷過。"
+            "en": "Exactly. Good growth language should sound lived, not marketed.",
+            "zh": "沒錯。好的成長語言，應該聽起來像真的活過，而不是被行銷出來的。"
           }
         ]
       },
@@ -2125,7 +2125,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That seems much deeper than the usual self-improvement language.",
-            "zh": "這真的比一般那種 self-improvement 語言深很多。"
+            "zh": "這真的比一般那種自我成長語言深很多。"
           },
           {
             "speaker": "a",

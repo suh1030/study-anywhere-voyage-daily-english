@@ -999,8 +999,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "Yes, and that intimacy is exactly what the medium does best.",
+            "zh": "對，而那種親近感，正是這個媒介最擅長的地方。"
           }
         ]
       },
@@ -1153,7 +1153,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the whole approach changes once you see it that way. Tell me if I am smoothing over the hard part.",
-            "zh": "一旦這樣看，整個做法都跟著變了。 還是我把它說得太整齊了？"
+            "zh": "一旦這樣看，整個做法都跟著變了。如果我把難的地方講得太順，你要跟我說。"
           },
           {
             "speaker": "a",
@@ -1350,8 +1350,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That matches the harder situations well.",
-            "zh": "這個說法很貼合比較難的情況。"
+            "en": "That actually explains why the quiet feels so uncomfortable.",
+            "zh": "這其實就解釋了，為什麼那種安靜會讓人這麼不舒服。"
           },
           {
             "speaker": "a",
@@ -2096,7 +2096,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the practice could just be taking a walk and listening to a whole album instead of a playlist. Does that match what you mean?",
-            "zh": "所以這個練習可以只是去散步，然後聽完整一張專輯，而不是播放清單。 還是我把它說得太整齊了？"
+            "zh": "所以這個練習可以只是去散步，然後聽完整一張專輯，而不是播放清單。這樣理解對嗎？"
           },
           {
             "speaker": "a",

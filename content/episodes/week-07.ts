@@ -68,7 +68,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I realize I don't have many weather words beyond \"hot,\" \"cold,\" and \"rainy.\" How do you describe weather more precisely?",
-            "zh": "我發現自己的天氣單字少得可憐，只會 hot、cold、rainy。要怎麼講得更精準？"
+            "zh": "我發現除了「熱」「冷」「下雨」，我會的天氣單字少得可憐。要怎麼講得更精準？"
           },
           {
             "speaker": "a",
@@ -80,7 +80,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Muggy — that is perfect for Taipei in the peak of summer. Hot and humid like breathing wet air.",
-            "zh": "muggy——這根本就是台北盛夏的寫照。又熱又濕，像在呼吸一口水。"
+            "zh": "「muggy」——這根本就是台北盛夏的寫照。又熱又濕，像在呼吸一口水。"
           },
           {
             "speaker": "a",
@@ -1464,7 +1464,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to experience a proper snowstorm at least once. Not just flurries — a real blizzard.",
-            "zh": "我這輩子想體驗一次真正的暴風雪。不是小雪花飄飄那種，是貨真價實的 blizzard。"
+            "zh": "我這輩子想體驗一次真正的暴風雪。不是小雪花飄飄那種，是來真的的大風雪。"
           },
           {
             "speaker": "a",

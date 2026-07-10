@@ -168,7 +168,7 @@ export const WEEK_21: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Choosing What to Protect When Pressure Peaks",
         "lines": [
           {
             "speaker": "b",
@@ -409,7 +409,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Blanking out usually means your mental bandwidth is overloaded, not that the thought was never there.",
-            "zh": "突然空白，通常代表你的 mental bandwidth 已經超載，不是那個想法本來就不存在。"
+            "zh": "突然空白，通常代表你的心力已經超載，不是那個想法本來就不存在。"
           },
           {
             "speaker": "b",
@@ -592,9 +592,9 @@ export const WEEK_21: Episode[] = [
         "example": "Pressure narrowed her attention so much that she could not see the obvious answer right in front of her."
       },
       {
-        "en": "tunnel vision",
-        "zh": "壓力下只看見眼前一小塊的狀態",
-        "example": "His tunnel vision made one urgent message feel more important than the larger issue it was distracting him from."
+        "en": "mistake intensity for importance",
+        "zh": "把當下的緊張強度誤當成事情的重要性",
+        "example": "Under pressure, the mind often mistakes intensity for importance, treating the loudest task as the most important one."
       },
       {
         "en": "rush a decision",
@@ -642,19 +642,19 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I opened my task list on Tuesday and nearly laughed because somehow everything was marked urgent.",
-            "zh": "我星期二一打開 task list 幾乎笑出來，因為不知道怎麼回事，所有東西都被標成 urgent。"
+            "zh": "我星期二一打開待辦清單幾乎笑出來，因為不知道怎麼回事，所有東西都被標成緊急。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the moment prioritizing stops being productivity advice and becomes survival.",
-            "zh": "那種時刻就是排優先順序不再只是 productivity 建議，而是生存問題。"
+            "zh": "那種時刻就是排優先順序不再只是生產力建議，而是生存問題。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I had a client request, an internal deck, a bug report, and two people saying theirs could not wait.",
-            "zh": "我那時手上有客戶要求、內部簡報、bug 回報，還有兩個人都說他們那件事不能等。"
+            "zh": "我那時手上有客戶要求、內部簡報、錯誤回報，還有兩個人都說他們那件事不能等。"
           },
           {
             "speaker": "a",
@@ -701,7 +701,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Look for the critical path. Ask what will block other people if it does not move today.",
-            "zh": "先看 critical path。問自己：如果今天不動，什麼會卡住別人？"
+            "zh": "先看關鍵路徑。問自己：如果今天不動，什麼會卡住別人？"
           },
           {
             "speaker": "b",
@@ -713,13 +713,13 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then ask what is truly a must-have and what is only a nice-to-have under ideal conditions.",
-            "zh": "接著再問：什麼是真正的 must-have，什麼只是理想狀態下的 nice-to-have。"
+            "zh": "接著再問：什麼是真正的必要項目，什麼只是理想狀態下的加分項目。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I often treat nice-to-haves like proof that I care.",
-            "zh": "我覺得我很常把那些 nice-to-haves 當成自己有沒有用心的證明。"
+            "zh": "我覺得我很常把那些加分項目當成自己有沒有用心的證明。"
           },
           {
             "speaker": "a",
@@ -1088,7 +1088,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What I like about it is that it still sounds like ownership.",
-            "zh": "我喜歡這句，因為它聽起來還是有 ownership。"
+            "zh": "我喜歡這句，因為它聽起來還是有當責。"
           },
           {
             "speaker": "a",
@@ -1340,7 +1340,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's sleep debt, and it changes mood, patience, and even how hopeful things feel.",
-            "zh": "那就是 sleep debt，它會直接改變你的情緒、耐性，甚至連事情看起來有沒有希望都會被影響。"
+            "zh": "那就是睡眠負債，它會直接改變你的情緒、耐性，甚至連事情看起來有沒有希望都會被影響。"
           },
           {
             "speaker": "b",
@@ -1774,7 +1774,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A leader also has to call the play when the room gets scattered.",
-            "zh": "而且當整個房間開始散掉時，帶頭的人也得把要打的 play 說出來。"
+            "zh": "而且當整個房間開始散掉時，帶頭的人也得把要打的戰術說出來。"
           },
           {
             "speaker": "b",

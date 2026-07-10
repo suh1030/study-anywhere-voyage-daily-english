@@ -73,8 +73,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right — and that's the version that holds up.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "en": "Same house, same parents, completely different people — that always makes me wonder how much is really nature versus how we were raised.",
+            "zh": "同一個家、同樣的父母，卻是完全不同的兩個人——這總讓我好奇，到底有多少是天生的，又有多少是後天養成的。"
           },
           {
             "speaker": "a",
@@ -677,8 +677,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That tracks — especially in practice.",
-            "zh": "這說得通——尤其在實際情況裡。"
+            "en": "That explains so much. I always assumed everyone found a quiet weekend restful the way I do.",
+            "zh": "這解釋了好多事。我一直以為每個人都跟我一樣，覺得安靜的週末才是休息。"
           },
           {
             "speaker": "a",
@@ -718,13 +718,13 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "So it's not really about your work — it's about socializing in a way that drains you.",
+            "zh": "所以這其實跟你的工作表現無關，而是要用一種會消耗你的方式去社交。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Yes, and i do my best thinking when it is quiet. My written work shows that.",
+            "en": "Yes, and I do my best thinking when it is quiet. My written work shows that.",
             "zh": "對，而且我在安靜的時候思考最好。我的書面作品就能說明這一點。"
           },
           {
@@ -1427,7 +1427,7 @@ export const WEEK_15: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — When Writing Shows You Yourself",
         "lines": [
           {
             "speaker": "b",
@@ -1650,7 +1650,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She needed frequent check-ins and reassurance. I am more independent and often go quiet when I am busy.",
-            "zh": "她需要頻繁的聯繫和reassurance。我比較獨立，忙的時候常常安靜下來。"
+            "zh": "她需要頻繁的聯繫，還有再三的安心確認。我比較獨立，忙的時候常常安靜下來。"
           },
           {
             "speaker": "b",

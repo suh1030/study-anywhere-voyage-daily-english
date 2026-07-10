@@ -539,14 +539,14 @@ export const WEEK_06: Episode[] = [
     ],
     "keyPhrases": [
       {
-        "en": "novelty",
-        "zh": "新鮮感；新奇",
-        "example": "Eating out offers the novelty of dishes you wouldn't make at home."
+        "en": "freeze at the menu",
+        "zh": "看著菜單一時愣住、不知道點什麼",
+        "example": "Freezing at the menu is common when someone is watching you decide."
       },
       {
-        "en": "etiquette",
-        "zh": "禮儀；禮節",
-        "example": "Good dining etiquette includes being kind to service staff."
+        "en": "put it back in their court",
+        "zh": "把決定權自然地丟回給對方",
+        "example": "Asking what they're in the mood for puts it back in their court."
       },
       {
         "en": "word of mouth",
@@ -554,29 +554,29 @@ export const WEEK_06: Episode[] = [
         "example": "The restaurant became popular through word of mouth alone."
       },
       {
-        "en": "intimacy",
-        "zh": "親密感",
-        "example": "Sharing a meal creates intimacy that speeds up relationship-building."
+        "en": "read the actual text",
+        "zh": "看評論時跳過星等、實際去讀文字內容",
+        "example": "Skip the star rating and read the actual text of the reviews."
       },
       {
-        "en": "feel watched",
-        "zh": "覺得自己被別人注意或評價",
-        "example": "She felt watched at the restaurant, but everyone else was busy with their own meal."
+        "en": "how you treat servers",
+        "zh": "你怎麼對待服務人員",
+        "example": "How you treat servers on a work dinner signals a lot about you."
       },
       {
-        "en": "restorative",
-        "zh": "有恢復效果的",
-        "example": "A quiet solo lunch can be surprisingly restorative."
+        "en": "do your research",
+        "zh": "去之前先做功課、事先查好",
+        "example": "Do your research before the dinner so you know what to order."
       },
       {
-        "en": "cultural humility",
-        "zh": "文化謙遜",
-        "example": "Cultural humility means respecting local customs even if they differ from your own."
+        "en": "conversation, not performance",
+        "zh": "把它當成一段對話，而不是一場表演",
+        "example": "Treat the meal as a conversation, not a performance."
       },
       {
-        "en": "vulnerable",
-        "zh": "脆弱的；無防備的",
-        "example": "Sharing a meal puts people in a slightly vulnerable position — it builds trust."
+        "en": "on-the-spot pressure",
+        "zh": "臨場、當下要立刻決定的壓力",
+        "example": "Knowing what you want removes almost all of the on-the-spot pressure."
       }
     ]
   },
@@ -1226,8 +1226,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sudden food memory is powerful. A taste or smell can unlock a very specific moment in your past.",
-            "zh": "那種突然出現的食物記憶很有力量。一種味道或氣味，可能會把你帶回過去某個很具體的時刻。"
+            "en": "That sudden food memory is powerful. People sometimes call it a Proustian memory — a taste or smell can unlock a very specific moment in your past.",
+            "zh": "那種突然出現的食物記憶很有力量。有人把它叫做「普魯斯特記憶」——一種味道或氣味，可能會把你帶回過去某個很具體的時刻。"
           },
           {
             "speaker": "b",
@@ -1450,8 +1450,8 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: Or the rushed breakfast before a journey. Or the takeout eaten on the floor because there were no chairs yet.",
-            "zh": "還有一種常被忽略的：出發旅行前趕著吃的早餐，或剛搬家還沒椅子、坐在地板上吃的外送。"
+            "en": "Exactly. Or the rushed breakfast before a journey. Or the takeout eaten on the floor because there were no chairs yet.",
+            "zh": "沒錯。像是出發旅行前趕著吃的早餐，或剛搬家還沒椅子、坐在地板上吃的外送。"
           },
           {
             "speaker": "b",

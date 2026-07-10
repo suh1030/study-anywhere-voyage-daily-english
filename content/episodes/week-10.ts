@@ -33,7 +33,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's often what task switching feels like. You stay busy, but your attention keeps getting broken into pieces.",
-            "zh": "那通常就是 task switching 的感覺。你看起來一直很忙，但注意力其實被切得很碎。"
+            "zh": "那通常就是任務切換的感覺。你看起來一直很忙，但注意力其實被切得很碎。"
           },
           {
             "speaker": "b",
@@ -86,13 +86,13 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A time block can look solid on paper and still collapse the second three other needs land in the same hour.",
-            "zh": "一個 time block 在紙上可以看起來很穩，但只要同一小時又落進三件別的事，它還是會立刻塌掉。"
+            "zh": "一個時間區塊在紙上可以看起來很穩，但只要同一小時又落進三件別的事，它還是會立刻塌掉。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I almost never leave buffer time, so one delay keeps spilling into everything else.",
-            "zh": "我幾乎從來不留 buffer time，所以只要一件事延遲，後面全部都會跟著被淹到。"
+            "zh": "我幾乎從來不留緩衝時間，所以只要一件事延遲，後面全部都會跟著被淹到。"
           },
           {
             "speaker": "a",
@@ -104,7 +104,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So being overbooked is not always obvious. Sometimes it is just a little too much everywhere.",
-            "zh": "所以 overbooked 不一定是很明顯的大爆炸，有時候只是每個地方都多了一點點。"
+            "zh": "所以行程排太滿不一定是很明顯的大爆炸，有時候只是每個地方都多了一點點。"
           },
           {
             "speaker": "a",
@@ -162,8 +162,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the part most people overlook: Useful schedule English usually describes the moment of pressure, not your personality.",
-            "zh": "這是多數人會漏看的部分：有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
+            "en": "Useful schedule English usually describes the moment of pressure, not your personality.",
+            "zh": "有用的時間英文，通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
           }
         ]
       },
@@ -192,7 +192,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people do. That is why leaving breathing room on purpose matters more than a clever app.",
-            "zh": "很多人都會。也正因為如此，刻意留下 breathing room，往往比下載一個聰明 app 更重要。"
+            "zh": "很多人都會。也正因為如此，刻意留下喘息空間，往往比下載一個聰明的 app 更重要。"
           },
           {
             "speaker": "b",
@@ -239,7 +239,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Legible is such a good word for this.",
-            "zh": "legible 這個字真的很適合形容這件事。"
+            "zh": "「legible」這個字真的很適合形容這件事。"
           },
           {
             "speaker": "a",
@@ -337,7 +337,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's often true. A morning routine is usually less about discipline and more about what gets your attention first.",
-            "zh": "這通常是真的。morning routine 很多時候不是在比自律，而是在比你最先把注意力交給了什麼。"
+            "zh": "這通常是真的。晨間習慣很多時候不是在比自律，而是在比你最先把注意力交給了什麼。"
           },
           {
             "speaker": "b",
@@ -349,7 +349,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "More often than not, yes. The first hour of the day quietly sets the emotional speed for everything that follows.",
-            "zh": "通常是這樣沒錯。一天的 first hour，常常會默默決定後面所有事的情緒速度。"
+            "zh": "通常是這樣沒錯。一天的第一個小時，常常會默默決定後面所有事的情緒速度。"
           },
           {
             "speaker": "b",
@@ -361,7 +361,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's because decision fatigue starts earlier than people think, especially when the morning already feels messy.",
-            "zh": "那是因為 decision fatigue 比大家以為的更早出現，尤其是當早晨一開始就很亂的時候。"
+            "zh": "那是因為決策疲勞比大家以為的更早出現，尤其是當早晨一開始就很亂的時候。"
           },
           {
             "speaker": "b",
@@ -390,7 +390,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because many routines are built for a fantasy version of life, not for the sleepy version that actually shows up.",
-            "zh": "因為很多 routine 都是替幻想中的人生設計的，不是替真正在早上出現的那個昏沉版本。"
+            "zh": "因為很多慣例都是替幻想中的人生設計的，不是替真正在早上出現的那個昏沉版本。"
           },
           {
             "speaker": "b",
@@ -402,13 +402,13 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why your wake-up time has to match your real life, not your ideal self-image.",
-            "zh": "所以你的 wake-up time 必須符合你真正的生活，而不是符合你理想中的自我形象。"
+            "zh": "所以你的起床時間必須符合你真正的生活，而不是符合你理想中的自我形象。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I also lose more time than I admit just trying to get out the door.",
-            "zh": "而且我光是 trying to get out the door，就會比自己承認的多耗掉很多時間。"
+            "zh": "而且我光是準備出門這件事，就會比自己承認的多耗掉很多時間。"
           },
           {
             "speaker": "a",
@@ -420,7 +420,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So prep the night before is really a morning strategy, not just an organized-person habit.",
-            "zh": "所以 prep the night before 其實是早晨策略，不只是什麼有條理的人才做的習慣。"
+            "zh": "所以前一晚先準備好其實是早晨策略，不只是什麼有條理的人才做的習慣。"
           },
           {
             "speaker": "a",
@@ -508,7 +508,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. Most mornings do not fail because people are lazy. They fail because the setup is too heavy for the energy available.",
-            "zh": "正是。大多數早晨不是因為人懶才失敗，而是因為那個 setup 對當下的能量來說太重了。"
+            "zh": "正是。大多數早晨不是因為人懶才失敗，而是因為那套安排對當下的能量來說太重了。"
           },
           {
             "speaker": "b",
@@ -532,7 +532,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. A useful routine should feel repeatable on an ordinary day, not only admirable on a perfect one.",
-            "zh": "想一個真實的當下。真正有用的 routine，應該在普通的一天也重複得下去，而不是只在完美日子裡看起來值得佩服。"
+            "zh": "想一個真實的當下。真正有用的慣例，應該在普通的一天也重複得下去，而不是只在完美日子裡看起來值得佩服。"
           },
           {
             "speaker": "b",
@@ -544,7 +544,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because mornings are visible. People treat them like proof of character instead of proof of setup.",
-            "zh": "因為早晨很顯眼。大家常常把它當成品格證明，而不是把它看成 setup 的結果。"
+            "zh": "因為早晨很顯眼。大家常常把它當成品格證明，而不是把它看成一套安排的結果。"
           },
           {
             "speaker": "b",
@@ -555,8 +555,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. A morning routine is support, not virtue. It exists to make the day easier to enter.",
-            "zh": "如果你要跟別人講這件事，可以從這裡開始。morning routine 本來就是支持，不是美德。它存在的目的，是讓你更容易走進一天。"
+            "en": "A morning routine is support, not virtue. It exists to make the day easier to enter.",
+            "zh": "晨間習慣本來就是支持，不是美德。它存在的目的，是讓你更容易走進一天。"
           },
           {
             "speaker": "b",
@@ -648,7 +648,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's usually the gap between visible activity and deep work.",
-            "zh": "那通常就是可見的忙碌，和 deep work 之間的落差。"
+            "zh": "那通常就是可見的忙碌，和深度工作之間的落差。"
           },
           {
             "speaker": "b",
@@ -672,7 +672,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's where calendar creep begins. A few small additions spread until every gap disappears.",
-            "zh": "那就是 calendar creep 開始的地方。幾個小加項一路蔓延，最後把所有空隙都吃掉。"
+            "zh": "那就是行事曆悄悄膨脹開始的地方。幾個小加項一路蔓延，最後把所有空隙都吃掉。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A response window helps with that. It gives chat and email a place instead of letting them invade everything.",
-            "zh": "一個 response window 對這件事很有幫助。它會替訊息和信件安排位置，而不是讓它們入侵所有時間。"
+            "zh": "設一個固定的回覆時段對這件事很有幫助。它會替訊息和信件安排位置，而不是讓它們入侵所有時間。"
           },
           {
             "speaker": "b",
@@ -731,7 +731,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's exactly how a meeting-heavy day turns into overtime later.",
-            "zh": "這也正是 meeting-heavy day 最後會一路拖成加班的原因。"
+            "zh": "這也正是會議滿檔的一天最後會一路拖成加班的原因。"
           },
           {
             "speaker": "a",
@@ -964,7 +964,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All the time. That is usually the moment when I realize I need to decompress, not just collapse.",
-            "zh": "超常有。通常也是在那個時候，我才會意識到自己需要的是 decompress，不是直接倒下。"
+            "zh": "超常有。通常也是在那個時候，我才會意識到自己需要的是好好放鬆一下，不是直接倒下。"
           },
           {
             "speaker": "b",
@@ -982,7 +982,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And then there is the second shift of dinner, laundry, dishes, and random life admin.",
-            "zh": "而且後面還有晚餐、洗衣、洗碗，還有各種零碎生活雜務的 second shift。"
+            "zh": "而且後面還有晚餐、洗衣、洗碗，還有各種零碎生活雜務，等於是第二輪的班。"
           },
           {
             "speaker": "a",
@@ -1000,7 +1000,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Work leaves mental residue behind, and evenings have to deal with it whether you planned for it or not.",
-            "zh": "對。工作會留下 mental residue，而晚上不管你有沒有準備，都得去消化它。"
+            "zh": "對。工作會在腦子裡留下殘留，而晚上不管你有沒有準備，都得去消化它。"
           }
         ]
       },
@@ -1023,7 +1023,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Which is why low-effort dinner and my phone usually beat anything I imagined earlier.",
-            "zh": "這也就是為什麼 low-effort dinner 跟手機，通常都會打敗我白天幻想過的任何美好安排。"
+            "zh": "這也就是為什麼隨便弄的晚餐跟手機，通常都會打敗我白天幻想過的任何美好安排。"
           },
           {
             "speaker": "a",
@@ -1041,7 +1041,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why a transition ritual matters. It gives the body a signal that one role is ending and another is beginning.",
-            "zh": "這就是 transition ritual 重要的地方。它會給身體一個訊號，讓它知道一個角色結束了，另一個要開始了。"
+            "zh": "這就是轉換儀式重要的地方。它會給身體一個訊號，讓它知道一個角色結束了，另一個要開始了。"
           },
           {
             "speaker": "b",
@@ -1053,7 +1053,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's how doomscrolling steals an hour without ever feeling like a decision you made.",
-            "zh": "那就是 doomscrolling 怎麼在你沒真正做決定的情況下，悄悄偷走一個小時。"
+            "zh": "那就是無止盡地滑手機怎麼在你沒真正做決定的情況下，悄悄偷走一個小時。"
           }
         ]
       },
@@ -1141,7 +1141,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I need to reclaim the evening from whatever work energy is still clinging to me.",
-            "zh": "我覺得我需要把晚上從那些還黏在身上的工作能量裡 reclaim the evening 回來。"
+            "zh": "我覺得我需要把晚上，從那些還黏在身上的工作能量裡奪回來。"
           },
           {
             "speaker": "a",
@@ -1153,7 +1153,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the ritual matters because it keeps work from stretching invisibly into the night. I am not sure if that covers the messy middle.",
-            "zh": "所以儀式重要，是因為它能防止工作在你沒發現的情況下，一路拉進整個晚上。 還是我把它說得太整齊了？"
+            "zh": "所以儀式重要，是因為它能防止工作在你沒發現的情況下，一路拉進整個晚上。我不太確定這樣有沒有講到中間最難的那一段。"
           },
           {
             "speaker": "a",
@@ -1280,7 +1280,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because for a lot of adults, a weekend reset includes all the maintenance that weekday life postponed.",
-            "zh": "因為對很多大人來說，weekend reset 本來就包含了平日一直往後拖的那些維持生活工作。"
+            "zh": "因為對很多大人來說，週末重整本來就包含了平日一直往後拖的那些維持生活工作。"
           },
           {
             "speaker": "b",
@@ -1292,7 +1292,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What often gets hidden is this: Running errands is still work, even if it does not look impressive on a calendar.",
-            "zh": "有件事常常藏在檯面下：run errands 本來就是工作，就算它在行事曆上看起來一點也不厲害。"
+            "zh": "有件事常常藏在檯面下：跑腿辦雜事本來就是工作，就算它在行事曆上看起來一點也不厲害。"
           },
           {
             "speaker": "b",
@@ -1304,7 +1304,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's where your social battery matters. If you ignore it, even good plans start to feel expensive.",
-            "zh": "這時候 social battery 就很重要。如果你完全不管它，再好的邀約也會開始變得很貴。"
+            "zh": "這時候社交電量就很重要。如果你完全不管它，再好的邀約也會開始變得很貴。"
           },
           {
             "speaker": "b",
@@ -1345,13 +1345,13 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It gets worse when you overplan the part that was supposed to feel free.",
-            "zh": "而且如果你把原本該自由的那一塊 overplan，情況就會更糟。"
+            "zh": "而且如果你把原本該自由的那一塊也排得太滿，情況就會更糟。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I almost never leave one day open, and I think that is half the problem.",
-            "zh": "我幾乎從來不會 leave one day open，我覺得那就是一半的問題。"
+            "zh": "我幾乎從來不會留一天空著，我覺得那就是一半的問題。"
           },
           {
             "speaker": "a",
@@ -1439,7 +1439,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Choosing one anchor for each day. Not a full plan, just one thing that matters.",
-            "zh": "幫每天各選一個 anchor。不是排滿整天，而是先決定一件最重要的事。"
+            "zh": "幫每天各選一個定錨的重點。不是排滿整天，而是先決定一件最重要的事。"
           },
           {
             "speaker": "b",
@@ -1451,7 +1451,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Once the anchor is clear, everything else has to earn its way in.",
-            "zh": "對。當 anchor 清楚了，其他事情就得證明自己值得被加進來。"
+            "zh": "對。當那個重點清楚了，其他事情就得證明自己值得被加進來。"
           },
           {
             "speaker": "b",
@@ -1591,7 +1591,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's really common. A spacious day often feels uncomfortable before it feels good.",
-            "zh": "這很常見。spacious day 在真正開始舒服之前，往往都會先讓人不太自在。"
+            "zh": "這很常見。有餘裕的一天在真正開始舒服之前，往往都會先讓人不太自在。"
           },
           {
             "speaker": "b",
@@ -1609,7 +1609,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Even though I know my rushed mind usually makes simple things harder, not better.",
-            "zh": "即使我明明知道，rushed mind 通常只會把簡單的事弄得更難，不會更好。"
+            "zh": "即使我明明知道，一顆匆忙的腦袋通常只會把簡單的事弄得更難，不會更好。"
           },
           {
             "speaker": "a",
@@ -1656,7 +1656,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It helps to leave margin on purpose instead of waiting for life to accidentally hand it to you.",
-            "zh": "比較有幫助的做法，是刻意 leave margin，而不是等生活不小心把空隙施捨給你。"
+            "zh": "比較有幫助的做法，是刻意留下一點餘裕，而不是等生活不小心把空隙施捨給你。"
           },
           {
             "speaker": "b",
@@ -1732,8 +1732,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Pace becomes easier to change once you can hear what pattern you are actually repeating.",
-            "zh": "舉個真實一點的例子會更清楚。當你終於聽得見自己到底在重複什麼模式時，節奏就比較有可能改變。"
+            "en": "Pace becomes easier to change once you can hear what pattern you are actually repeating.",
+            "zh": "當你終於聽得見自己到底在重複什麼模式時，節奏就比較有可能改變。"
           }
         ]
       },
@@ -1768,13 +1768,13 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I also want permission to single-task without feeling old-fashioned or lazy.",
-            "zh": "我也很想被允許去 single-task，而不是每次都覺得自己是不是太落伍或太懶。"
+            "zh": "我也很想被允許一次只做一件事，而不是每次都覺得自己是不是太落伍或太懶。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Single-tasking is often the fastest route back to feeling less fractured.",
-            "zh": "single-tasking 常常是讓人從碎裂狀態回來最快的一條路。"
+            "zh": "一次只專心做一件事，常常是讓人從碎裂狀態回來最快的一條路。"
           },
           {
             "speaker": "b",
@@ -1907,7 +1907,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A big reason is invisible labor. It is the planning, remembering, and anticipating that keeps life moving without getting much credit.",
-            "zh": "很大的原因是 invisible labor。那是那些讓生活能繼續運作的規劃、記得、預先想到，但通常不太會被算進去。"
+            "zh": "很大的原因是隱形勞動。那是那些讓生活能繼續運作的規劃、記得、預先想到，但通常不太會被算進去。"
           },
           {
             "speaker": "b",
@@ -1919,19 +1919,19 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That mental load can be heavier than the task itself because it never fully clocks out.",
-            "zh": "沒錯。那種 mental load 有時比事情本身還重，因為它從來沒有真正下班。"
+            "zh": "沒錯。那種心理負荷有時比事情本身還重，因為它從來沒有真正下班。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I also notice that one woman often becomes the default planner in a family or group without ever officially choosing that job.",
-            "zh": "而且我也觀察到，一個家庭或群體裡，常常會有某一位女性默默變成 default planner，卻從來沒有正式接下那份工作。"
+            "zh": "而且我也觀察到，一個家庭或群體裡，常常會有某一位女性默默變成那個什麼都要規劃的人，卻從來沒有正式接下那份工作。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. She keeps track of birthdays, groceries, appointments, forms, school events, and everyone else's preferences.",
-            "zh": "對。她會 keep track of 生日、採買、預約、表單、學校活動，還有每個人的偏好。"
+            "zh": "對。她會一直記著生日、採買、預約、表單、學校活動，還有每個人的偏好。"
           },
           {
             "speaker": "b",
@@ -1960,7 +1960,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because unseen work blends into the background. People usually notice it only when it stops happening.",
-            "zh": "因為 unseen work 很容易融進背景裡。大多數人只有在它停下來的時候，才會突然發現它原本一直都在。"
+            "zh": "因為看不見的工作很容易融進背景裡。大多數人只有在它停下來的時候，才會突然發現它原本一直都在。"
           },
           {
             "speaker": "b",
@@ -1984,7 +1984,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does, especially when other people offer help with tasks but not shared responsibility.",
-            "zh": "會，尤其是當別人只願意幫忙做某些 task，卻不願意一起扛 shared responsibility 的時候。"
+            "zh": "會，尤其是當別人只願意幫忙做某些事，卻不願意一起扛起共同責任的時候。"
           },
           {
             "speaker": "b",
@@ -2054,7 +2054,7 @@ export const WEEK_10: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Reclaiming Time by Naming the Work",
         "lines": [
           {
             "speaker": "b",
@@ -2078,7 +2078,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The goal is to reclaim an hour by changing the system that keeps stealing it.",
-            "zh": "對。目標是透過改變那個一直偷時間的系統，慢慢 reclaim an hour 回來。"
+            "zh": "對。目標是透過改變那個一直偷時間的系統，慢慢把一小時拿回來。"
           },
           {
             "speaker": "b",
@@ -2096,7 +2096,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So asking directly is not rude. It is just naming reality before resentment has to do it for you.",
-            "zh": "所以 ask directly 不是沒禮貌，它只是比怨氣更早一步把現實講出來而已。"
+            "zh": "所以直接開口不是沒禮貌，它只是比怨氣更早一步把現實講出來而已。"
           },
           {
             "speaker": "a",

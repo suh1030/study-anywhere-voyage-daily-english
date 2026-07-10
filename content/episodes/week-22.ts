@@ -192,7 +192,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. A lot of wasted effort comes from trial and error with no memory.",
-            "zh": "完全沒錯。很多白花的力氣，其實都是沒有記憶的 trial and error。"
+            "zh": "完全沒錯。很多白花的力氣，其實都是沒有記憶的反覆試錯。"
           },
           {
             "speaker": "b",
@@ -654,7 +654,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "It happened in a campaign meeting last month. We kept asking how to make people click more, but nobody asked why they were leaving so quickly.",
-            "zh": "上個月一場 campaign meeting 就是這樣。我們一直在問怎麼讓人多點擊，可是沒人問為什麼他們那麼快就離開。"
+            "zh": "上個月一場行銷活動會議就是這樣。我們一直在問怎麼讓人多點擊，可是沒人問為什麼他們那麼快就離開。"
           },
           {
             "speaker": "a",
@@ -701,7 +701,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's normal, but a lot of teams never loosen up enough to reach the useful ideas hiding behind the obvious ones.",
-            "zh": "這很正常，但很多團隊就是因為不夠放開，所以永遠到不了那些藏在 obvious idea 後面的有用點子。"
+            "zh": "這很正常，但很多團隊就是因為不夠放開，所以永遠到不了那些藏在顯而易見的點子後面的有用點子。"
           },
           {
             "speaker": "b",
@@ -1041,7 +1041,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the deeper problem usually touches structure, ownership, or trust. Those are much harder to fix than a calendar invite.",
-            "zh": "因為更深的問題通常會碰到結構、責任歸屬或信任。那些東西，當然比調一個 calendar invite 難修得多。"
+            "zh": "因為更深的問題通常會碰到結構、責任歸屬或信任。那些東西，當然比調一個會議邀請難修得多。"
           },
           {
             "speaker": "b",
@@ -1064,7 +1064,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How could I express it in English when I suspect the obvious issue is not the real one?",
-            "zh": "如果我懷疑眼前這個 obvious issue 不是真正的核心，用英文可以怎麼說？"
+            "zh": "如果我懷疑眼前這個顯而易見的問題不是真正的核心，用英文可以怎麼說？"
           },
           {
             "speaker": "a",
@@ -1445,7 +1445,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the work is not over when the room says yes.",
-            "zh": "所以房間說 yes 的時候，工作還沒有結束。"
+            "zh": "所以房間點頭說好的時候，工作還沒有結束。"
           },
           {
             "speaker": "a",
@@ -1755,7 +1755,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By making one person the decision owner even while everybody contributes to the thinking.",
-            "zh": "做法就是，雖然大家都可以參與思考，但還是要有一個人是最後的 decision owner。"
+            "zh": "做法就是，雖然大家都可以參與思考，但還是要有一個人是最後的決策負責人。"
           },
           {
             "speaker": "b",
@@ -1785,7 +1785,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That line should honestly be on every agenda.",
-            "zh": "這句老實說應該寫在每個 agenda 上。"
+            "zh": "這句老實說應該寫在每份會議議程上。"
           },
           {
             "speaker": "a",
@@ -1838,13 +1838,13 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes teamwork sound much more alive than just dividing tasks.",
-            "zh": "這會讓 teamwork 聽起來比只是拆工作活很多。"
+            "zh": "這會讓團隊合作聽起來比只是拆工作活很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is much more alive. Real teamwork is shared thinking with visible responsibility.",
-            "zh": "它本來就活很多。真正的 teamwork，是共享思考加上看得見的責任。"
+            "zh": "它本來就活很多。真正的團隊合作，是共享思考加上看得見的責任。"
           }
         ]
       }
@@ -2089,13 +2089,13 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I would call that a useful way to think about momentum.",
-            "zh": "這真的是一個很好用的 momentum 想法。"
+            "zh": "這真的是一個很好用來思考動能的方式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Momentum is not only energy. It is often just better information arriving in sequence.",
-            "zh": "所謂 momentum 不只是能量，很多時候只是更好的資訊一段一段到來。"
+            "zh": "所謂動能不只是能量，很多時候只是更好的資訊一段一段到來。"
           },
           {
             "speaker": "b",

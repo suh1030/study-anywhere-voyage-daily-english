@@ -567,8 +567,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. A changed perspective is not always loud. Sometimes it simply shows up as a better question when you get home.",
-            "zh": "我們把它收到一個情境裡：被改變的看法，不一定很大聲。有時候它只是表現在：你回家之後，開始會問出更好的問題。"
+            "en": "And a changed perspective is not always loud. Sometimes it simply shows up as a better question when you get home.",
+            "zh": "而被改變的看法，不一定很大聲。有時候它只是表現在：你回家之後，開始會問出更好的問題。"
           },
           {
             "speaker": "b",
@@ -642,7 +642,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I once made such a detailed itinerary for a trip to Kyoto that by day two I felt like I was late to my own vacation.",
-            "zh": "我以前去京都時做過一份超細的 itinerary，結果才第二天，我就已經覺得自己像是在趕一場屬於自己的假期。"
+            "zh": "我以前去京都時做過一份超細的行程表，結果才第二天，我就已經覺得自己像是在趕一場屬於自己的假期。"
           },
           {
             "speaker": "a",
@@ -695,7 +695,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "People romanticize spontaneity, but if I plan nothing at all I can end up wasting half the day.",
-            "zh": "大家很愛浪漫化 spontaneity，可是如果我什麼都不排，我也可能半天就這樣空轉掉。"
+            "zh": "大家很愛把隨性浪漫化，可是如果我什麼都不排，我也可能半天就這樣空轉掉。"
           },
           {
             "speaker": "a",
@@ -878,7 +878,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So maybe the win is not a perfect itinerary. It is a trip that still feels alive.",
-            "zh": "所以真正贏的，不是排出一份完美 itinerary，而是一趟還有生命感的旅行。"
+            "zh": "所以真正贏的，不是排出一份完美的行程表，而是一趟還有生命感的旅行。"
           },
           {
             "speaker": "a",
@@ -1199,8 +1199,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On a regular weekday, it might look like this. Budget travel at its best is not deprivation. It is a sharper way of choosing.",
-            "zh": "放到平常的日子裡，大概會像這樣：預算旅行在最好的情況下，不是剝奪，而是一種更銳利的選擇方式。"
+            "en": "Budget travel at its best is not deprivation. It is a sharper way of choosing.",
+            "zh": "預算旅行在最好的情況下，不是剝奪，而是一種更銳利的選擇方式。"
           },
           {
             "speaker": "b",
@@ -1279,8 +1279,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "That not-knowing is such a common first-day feeling.",
+            "zh": "那種分不清楚的感覺，其實是很典型的第一天反應。"
           },
           {
             "speaker": "b",
@@ -1510,8 +1510,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The spoken version can be direct. Travel is not only about collecting beautiful places. It is also about becoming a little less certain that your own way is the only way.",
-            "zh": "口語版可以講得很直接。旅行不只是收集漂亮地方，它也關於：慢慢變得沒那麼確信自己的方式就是唯一的方式。"
+            "en": "Put simply, travel is not only about collecting beautiful places. It is also about becoming a little less certain that your own way is the only way.",
+            "zh": "說得白一點，旅行不只是收集漂亮地方，它也關於：慢慢變得沒那麼確信自己的方式就是唯一的方式。"
           },
           {
             "speaker": "b",
@@ -1602,8 +1602,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That distinction makes things clearer.",
-            "zh": "這個區別讓事情清楚多了。"
+            "en": "So the two of you were basically on two different trips at the same time.",
+            "zh": "所以你們兩個等於是在同一個時間，各自過著兩趟不一樣的旅行。"
           },
           {
             "speaker": "b",
@@ -1761,8 +1761,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the piece I want learners to notice. Group dynamics show up quickly on a trip because there is less room to hide them.",
-            "zh": "這是我最希望學習的人注意到的地方。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。"
+            "en": "That is the part most people miss. Group dynamics show up quickly on a trip because there is less room to hide them.",
+            "zh": "這是大部分人會忽略的地方。團體動力在旅行裡會很快顯現，因為它幾乎沒有地方可以藏。"
           },
           {
             "speaker": "b",
@@ -1919,7 +1919,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "All three can be true. Post-trip blues happen because the body returns home faster than the mind does.",
-            "zh": "三個都有可能是真的。所謂 post-trip blues 很多時候就是身體先回家了，可是心還沒。"
+            "zh": "三個都有可能是真的。所謂旅行後的失落感，很多時候就是身體先回家了，可是心還沒。"
           },
           {
             "speaker": "b",
@@ -1942,8 +1942,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. A lot of people think they are being ungrateful when they are really just transitioning.",
-            "zh": "在普通的一天裡，這句話可以說得更簡單。很多人以為自己這樣是太不知足了，但很多時候他們其實只是在轉換。"
+            "en": "And a lot of people think they are being ungrateful when they are really just transitioning.",
+            "zh": "而且很多人以為自己這樣是太不知足了，但很多時候他們其實只是在轉換。"
           }
         ]
       },
@@ -1983,8 +1983,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Coming home is not only about unpacking your bag. It is also about unpacking the shift in your attention.",
-            "zh": "做聽力練習時，可以留意這句話的句型。回家不只是把行李打開而已，它也包含慢慢把那個被改變的注意力打開。"
+            "en": "Coming home is not only about unpacking your bag. It is also about unpacking the shift in your attention.",
+            "zh": "回家不只是把行李打開而已，它也包含慢慢把那個被改變的注意力打開。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Good language gives re-entry a little grace.",
-            "zh": "完全沒錯。好的語言，會替重新進入日常這件事留一點 grace。"
+            "zh": "完全沒錯。好的語言，會替重新進入日常這件事留一點餘裕。"
           }
         ]
       },
@@ -2101,8 +2101,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Travel should make life larger, not only create something to escape back to in your head.",
-            "zh": "我們把它放進一個情境來看。旅行應該是讓生活變大，不是只在你腦中做出一個想逃回去的地方。"
+            "en": "And ideally, travel should make life larger, not only create something to escape back to in your head.",
+            "zh": "而理想上，旅行應該是讓生活變大，不是只在你腦中做出一個想逃回去的地方。"
           }
         ]
       },
@@ -2142,8 +2142,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a workday version. The trip may end at the airport, but the meaning of it does not have to.",
-            "zh": "放到上班日，版本會是這樣。旅行也許在機場就結束了，可是它的意義不一定要跟著一起結束。"
+            "en": "And even on a workday, the trip may end at the airport, but the meaning of it does not have to.",
+            "zh": "就算回到上班日，旅行也許在機場就結束了，可是它的意義不一定要跟著一起結束。"
           },
           {
             "speaker": "b",

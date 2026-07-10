@@ -1310,8 +1310,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
-            "zh": "這是很多人沒想到的：開車通勤對腦力的消耗，比表面上看起來大得多——路況越難預測，消耗越兇。"
+            "en": "Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
+            "zh": "所以我才會覺得，開車通勤對腦力的消耗，比表面上看起來大得多——路況越難預測，消耗越兇。"
           }
         ]
       },

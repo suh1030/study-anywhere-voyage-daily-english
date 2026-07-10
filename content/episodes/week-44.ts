@@ -759,7 +759,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Less posing, more noticing. The most moving stories are often the ones that stop trying to impress first.",
-            "zh": "少一點擺姿態，多一點觀察。最打動人的故事，很多時候是那些先停止想要 impress 的故事。"
+            "zh": "少一點擺姿態，多一點觀察。最打動人的故事，很多時候是那些先停止想著要讓人驚豔的故事。"
           },
           {
             "speaker": "b",
@@ -975,7 +975,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the smartest system can still fail if nobody can actually live inside it. Or is there a real-life exception here?",
-            "zh": "所以就算系統看起來很聰明，只要沒有人真的住得進去，它還是會失敗。 還是我把它說得太整齊了？"
+            "zh": "所以就算系統看起來很聰明，只要沒有人真的住得進去，它還是會失敗。還是說，現實裡其實有例外？"
           },
           {
             "speaker": "a",
@@ -1004,8 +1004,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. That is where design starts becoming practical.",
-            "zh": "我們把它收到一個情境裡：設計真正變實用，就是從那裡開始。"
+            "en": "Take a kitchen that looks beautiful but has nowhere to put the trash. That is where design starts becoming practical.",
+            "zh": "想像一個看起來很美、卻沒地方放垃圾桶的廚房。設計要變得實用，就是從這種地方開始。"
           }
         ]
       },
@@ -1602,7 +1602,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the writing exposes the mind that made it. Would you say it works like that in real life?",
-            "zh": "所以作品其實會把寫出它的那顆腦袋一起曝光。 還是我把它說得太整齊了？"
+            "zh": "所以作品其實會把寫出它的那顆腦袋一起曝光。你會說現實裡真的是這樣運作的嗎？"
           },
           {
             "speaker": "a",
@@ -2036,7 +2036,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That is much more generous than hustle culture.",
-            "zh": "這真的比 hustle culture 寬厚太多了。"
+            "zh": "這真的比那種拚命文化寬厚太多了。"
           },
           {
             "speaker": "a",

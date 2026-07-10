@@ -391,7 +391,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the emotional price is sometimes paid long before the actual bill. I am not sure if that covers the messy middle.",
-            "zh": "所以很多時候，情緒上的代價比帳單本身更早出現。 還是我把它說得太整齊了？"
+            "zh": "所以很多時候，情緒上的代價比帳單本身更早出現。 只是我不確定這樣有沒有把中間那段混亂也講進去。"
           },
           {
             "speaker": "a",
@@ -526,8 +526,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. It is worth remembering.",
-            "zh": "舉個真實一點的例子會更清楚。這句值得被記住。"
+            "en": "Yes, and it is the kind of line worth remembering.",
+            "zh": "對，而且這種話真的值得記住。"
           }
         ]
       },
@@ -574,7 +574,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to look at my habits around money with that lens.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "我想用這個角度重新看自己和金錢有關的習慣。"
           },
           {
             "speaker": "a",
@@ -1111,7 +1111,7 @@ export const WEEK_39: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Talking About Money Before It Hurts",
         "lines": [
           {
             "speaker": "b",
@@ -1334,7 +1334,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the progress trap is that nothing ever gets to count. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以所謂進度陷阱，就是你做的事永遠都來不及算數。 還是我把它說得太整齊了？"
+            "zh": "所以所謂進度陷阱，就是你做的事永遠都來不及算數。 也許我把它講得比實際感受更乾淨了。"
           },
           {
             "speaker": "a",
@@ -1517,7 +1517,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the numbers are almost the last part of the story, not the first.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "所以數字幾乎是這個故事的最後一部分，而不是開頭。"
           },
           {
             "speaker": "a",
@@ -1821,7 +1821,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes financial decisions feel a lot more tied to identity than I expected.",
-            "zh": "這感覺就是很對的收尾。"
+            "zh": "這讓財務決定變得比我原本想像的更和自我認同綁在一起。"
           },
           {
             "speaker": "a",

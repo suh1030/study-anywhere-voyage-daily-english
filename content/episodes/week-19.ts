@@ -331,7 +331,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I went to a networking event last month, and every time someone asked what I do, I gave them a different answer.",
-            "zh": "我上個月去了一場 networking 活動，結果每次有人問我做什麼，我都講出不同版本的答案。"
+            "zh": "我上個月去了一場交流活動，結果每次有人問我做什麼，我都講出不同版本的答案。"
           },
           {
             "speaker": "a",
@@ -401,8 +401,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: You are introducing your current role, not reciting your whole life story.",
-            "zh": "有個小地方其實很關鍵：你是在介紹你現在的角色，不是在背自己的人生傳記。"
+            "en": "And keep it in the present tense. You are introducing your current role, not reciting your whole life story.",
+            "zh": "而且盡量用現在式就好。你是在介紹你現在的角色，不是在把整個人生從頭背一遍。"
           },
           {
             "speaker": "b",
@@ -420,7 +420,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That helps a lot because people always assume I either code all day or talk to customers all day.",
-            "zh": "這真的有幫助，因為大家不是以為我整天都在寫 code，就是以為我整天都在跟客戶講話。"
+            "zh": "這真的有幫助，因為大家不是以為我整天都在寫程式，就是以為我整天都在跟客戶講話。"
           },
           {
             "speaker": "a",
@@ -994,7 +994,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So ownership is not about sounding guilty. It is about being useful.",
-            "zh": "所以 ownership 其實不是要聽起來很有罪惡感，而是要真的有用。"
+            "zh": "所以當責其實不是要聽起來很有罪惡感，而是要真的有用。"
           },
           {
             "speaker": "a",
@@ -1011,7 +1011,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "People throw around the word ownership a lot at work, but it feels blurry to me.",
-            "zh": "職場上大家很愛講 ownership，可是我一直覺得它很模糊。"
+            "zh": "職場上大家很愛講當責，可是我一直覺得它很模糊。"
           },
           {
             "speaker": "a",
@@ -1047,13 +1047,13 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So ownership is not heroic. It is preventative.",
-            "zh": "所以 ownership 其實不是什麼英雄行為，而是預防工作。"
+            "zh": "所以當責其實不是什麼英雄行為，而是預防工作。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very often, yes. The strongest ownership usually looks boring from the outside.",
-            "zh": "很多時候就是。最強的 ownership 從外面看，通常都很無聊。"
+            "zh": "很多時候就是。最強的當責從外面看，通常都很無聊。"
           }
         ]
       },
@@ -1117,7 +1117,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What habit improves ownership across a whole team?",
-            "zh": "如果要改善整個團隊的 ownership，什麼習慣最有用？"
+            "zh": "如果要改善整個團隊的當責，什麼習慣最有用？"
           },
           {
             "speaker": "a",
@@ -1153,7 +1153,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So ownership is contagious when people can see it.",
-            "zh": "所以 ownership 其實是會傳染的，只要大家看得到它。"
+            "zh": "所以當責其實是會傳染的，只要大家看得到它。"
           },
           {
             "speaker": "a",
@@ -1188,7 +1188,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. Ownership makes the path visible, especially when people are stressed.",
-            "zh": "完全沒錯。當大家都在緊張時，ownership 其實就是在把路照出來。"
+            "zh": "完全沒錯。當大家都在緊張時，當責其實就是在把路照出來。"
           },
           {
             "speaker": "b",
@@ -1200,7 +1200,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. Clear ownership reduces the panic that makes people defensive with each other.",
-            "zh": "真的會。清楚的 ownership 會減少那種讓大家彼此防衛的恐慌。"
+            "zh": "真的會。清楚的當責會減少那種讓大家彼此防衛的恐慌。"
           },
           {
             "speaker": "b",
@@ -1351,13 +1351,13 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "In my case, teaching trained me to explain things clearly, and project work taught me to coordinate under pressure.",
-            "zh": "以我自己來說，教學訓練我把事情講清楚，而做 project 則訓練我在壓力下協調事情。"
+            "zh": "以我自己來說，教學訓練我把事情講清楚，而做專案則訓練我在壓力下協調事情。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfect. That is the bridge. Customer success then becomes a continuation, not a random detour.",
-            "zh": "很好。那就是橋。這樣 customer success 聽起來就不是亂繞路，而是延續。"
+            "zh": "很好。那就是橋。這樣客戶成功聽起來就不是亂繞路，而是延續。"
           },
           {
             "speaker": "b",
@@ -1427,7 +1427,7 @@ export const WEEK_19: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — The Shift From Apology to Pattern",
         "lines": [
           {
             "speaker": "b",
@@ -1493,7 +1493,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Pattern energy is such a good phrase.",
-            "zh": "Pattern energy 這個說法真的很好。"
+            "zh": "「模式的能量」這個說法真的很好。"
           },
           {
             "speaker": "a",
@@ -1650,7 +1650,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That tracks. It sounds obvious when you say it, but it is not how most people live.",
-            "zh": "你這樣講好像很 obvious，可是大部分人根本不是這樣活的。"
+            "zh": "你這樣講好像很理所當然，可是大部分人根本不是這樣活的。"
           },
           {
             "speaker": "a",
@@ -1960,7 +1960,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Specific actions, real results, and honest credit. Those three things go a long way.",
-            "zh": "具體行動、真實結果，還有誠實給 credit。這三個東西就已經很夠用了。"
+            "zh": "具體行動、真實結果，還有誠實地把功勞歸給對的人。這三個東西就已經很夠用了。"
           },
           {
             "speaker": "b",
@@ -1978,7 +1978,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And what about teamwork? I do not want to sound like I did everything alone.",
-            "zh": "那 teamwork 呢？我也不想聽起來像是全部都我一個人做的。"
+            "zh": "那團隊合作呢？我也不想聽起來像是全部都我一個人做的。"
           },
           {
             "speaker": "a",

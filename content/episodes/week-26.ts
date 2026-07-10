@@ -647,8 +647,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "That guilt on an open afternoon is so common.",
+            "zh": "空出來的下午卻被那種罪惡感佔滿，真的非常常見。"
           },
           {
             "speaker": "b",
@@ -837,7 +837,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That idea feels radical in the best way.",
-            "zh": "這個想法在最好的那種意義上真的很 radical。"
+            "zh": "這個想法在最好的那種意義上，真的很激進。"
           },
           {
             "speaker": "a",
@@ -1135,7 +1135,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Office hours can help, or agreed response times, or a shared understanding of what actually counts as urgent.",
-            "zh": "像 office hours、約定好的回應時間，或一套大家共識的『什麼才真的算急』，這些都會很有幫助。"
+            "zh": "像固定的開放時段、約定好的回應時間，或一套大家共識的『什麼才真的算急』，這些都會很有幫助。"
           },
           {
             "speaker": "b",
@@ -1158,8 +1158,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. Better diagnosis leads to better solutions.",
-            "zh": "如果要跟別人講，可以從這裡開始：診斷得更準，解法通常也會更好。"
+            "en": "It should. Better diagnosis leads to better solutions.",
+            "zh": "本來就該這樣。診斷得更準，解法通常也會更好。"
           },
           {
             "speaker": "b",
@@ -1195,7 +1195,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. The healthiest boundary is often just a clear yes and a clear not-now.",
-            "zh": "完全沒錯。最健康的界線，很多時候只是很清楚的 yes，和很清楚的 not-now。"
+            "zh": "完全沒錯。最健康的界線，很多時候只是一個清楚的『好』，和一個清楚的『現在還不行』。"
           },
           {
             "speaker": "b",
@@ -1269,7 +1269,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I almost cancelled my pottery class last week because I felt too busy, and then it ended up being the best two hours of my whole week.",
-            "zh": "我上週差點把 pottery class 取消，因為覺得自己太忙了，結果那反而變成我整週最好過的兩個小時。"
+            "zh": "我上週差點把陶藝課取消，因為覺得自己太忙了，結果那反而變成我整週最好過的兩個小時。"
           },
           {
             "speaker": "a",
@@ -1352,13 +1352,13 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Also a fuller identity. When work is hard, it helps to remember you are more than your inbox and your role.",
-            "zh": "對，而且它也會把比較完整的身份感還給你。當工作很重的時候，記得自己不只是一個 inbox 和一個職位，真的很重要。"
+            "zh": "對，而且它也會把比較完整的身份感還給你。當工作很重的時候，記得自己不只是一個收件匣和一個職位，真的很重要。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sounds bigger than I expected from something as simple as pottery or guitar.",
-            "zh": "這聽起來比我原本想像的還大，明明它表面上只是 pottery 或 guitar 這種小事。"
+            "zh": "這聽起來比我原本想像的還大，明明它表面上只是陶藝或吉他這種小事。"
           },
           {
             "speaker": "a",
@@ -1416,8 +1416,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Hobbies deserve language that reflects their real value.",
-            "zh": "舉個真實的例子會更清楚：興趣值得用一種真正反映它價值的方式來講。"
+            "en": "Any of those work. Hobbies deserve language that reflects their real value.",
+            "zh": "這幾句都很好用。興趣值得用一種真正反映它價值的方式來講。"
           }
         ]
       },
@@ -1487,7 +1487,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually perspective, energy, and a softer nervous system. You come back less cramped inside.",
-            "zh": "通常是視角、能量，還有一個比較鬆的 nervous system。你回來時，裡面不會那麼擠。"
+            "zh": "通常是視角、能量，還有一個比較鬆的神經系統。你回來時，裡面不會那麼擠。"
           },
           {
             "speaker": "b",
@@ -1809,7 +1809,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I can see why you'd say that. It does feel like a much healthier nervous system.",
-            "zh": "這聽起來像是一個健康很多的 nervous system。"
+            "zh": "這聽起來像是一個健康很多的神經系統。"
           },
           {
             "speaker": "a",
@@ -2066,13 +2066,13 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sleep, meals that are not eaten while multitasking, a few realistic work priorities, and one or two things outside work that remind you who you are.",
-            "zh": "像睡眠、不一邊 multitask 一邊吞的飯、幾個現實的工作重點，還有一兩件工作外會提醒你自己是誰的事。"
+            "zh": "像睡眠、不一邊分心處理事情一邊吞的飯、幾個現實的工作重點，還有一兩件工作外會提醒你自己是誰的事。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That list feels humble compared to all the glamorous advice online.",
-            "zh": "跟網路上那些很華麗的建議比起來，這份清單真的很 humble。"
+            "zh": "跟網路上那些很華麗的建議比起來，這份清單真的很樸實。"
           },
           {
             "speaker": "a",
@@ -2142,8 +2142,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: The goal is to build a life that does not keep asking you to endure what should have been redesigned.",
-            "zh": "有個小地方其實很關鍵：目標是把生活蓋成一種不會一直逼你去硬撐那些本來就應該重設的東西。"
+            "en": "Right. The goal is to build a life that does not keep asking you to endure what should have been redesigned.",
+            "zh": "對。目標是把生活蓋成一種不會一直逼你去硬撐那些本來就應該重新設計的東西。"
           },
           {
             "speaker": "b",
@@ -2154,8 +2154,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. Real sustainability is not small ambition. It is intelligent ambition that plans to last.",
-            "zh": "如果要跟別人講，可以從這裡開始：真正能長久，靠的不是把野心變小，而是一種打算走遠的聰明野心。"
+            "en": "Exactly. Real sustainability is not small ambition. It is intelligent ambition that plans to last.",
+            "zh": "沒錯。真正能長久，靠的不是把野心變小，而是一種打算走遠的聰明野心。"
           }
         ]
       }

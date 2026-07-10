@@ -110,7 +110,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the failure had a clearer lesson than most of your wins. But does that leave anything out?",
-            "zh": "所以那次失敗給的教訓比你大多數的勝利都更清晰。 還是我把它說得太整齊了？"
+            "zh": "所以那次失敗給的教訓，比你大多數的勝利都更清晰。不過，這樣講會不會漏掉了什麼？"
           }
         ]
       },
@@ -490,7 +490,7 @@ export const WEEK_25: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — The Gains, and One Step Back",
         "lines": [
           {
             "speaker": "b",
@@ -1375,7 +1375,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the lesson was patience, not that changing direction is always wrong. Is the simple version too simple?",
-            "zh": "所以教訓是耐心，不是說改變方向永遠是錯的。 還是我把它說得太整齊了？"
+            "zh": "所以教訓是耐心，而不是說改變方向永遠是錯的。這樣講會不會太簡化了？"
           }
         ]
       },

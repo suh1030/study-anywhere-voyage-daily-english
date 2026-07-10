@@ -9,7 +9,7 @@ export const WEEK_23: Episode[] = [
     "phase": "p3",
     "parts": [
       {
-        "title": "Part 1 — The Basket Gets Personal",
+        "title": "Part 1 — The Five-Year Question That Froze Me",
         "lines": [
           {
             "speaker": "b",
@@ -904,7 +904,7 @@ export const WEEK_23: Episode[] = [
     "keyPhrases": [
       {
         "en": "tradeoff",
-        "zh": "取捨；兩全其美的代價",
+        "zh": "取捨；為了得到一邊而必須放棄另一邊的代價",
         "example": "She knew the tradeoff going in, so when the harder days arrived she did not feel blindsided."
       },
       {
@@ -1274,7 +1274,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have been sitting on an offer for two weeks now. It is more money but less security. The role ends in eighteen months.",
-            "zh": "我已經考慮一個 offer 兩週了。錢更多但安全感更少。這個職位十八個月後就結束了。"
+            "zh": "我已經考慮一個工作邀約兩週了。錢更多但安全感更少。這個職位十八個月後就結束了。"
           },
           {
             "speaker": "a",
@@ -1344,8 +1344,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: Real security often comes from being adaptable, not from staying in one place.",
-            "zh": "這裡有個不起眼但重要的細節：真正的安全感通常來自適應能力，而不是留在一個地方。"
+            "en": "Exactly. Real security usually comes from being adaptable, not from staying in one place.",
+            "zh": "沒錯。真正的安全感通常來自適應能力，而不是留在同一個地方。"
           },
           {
             "speaker": "b",
@@ -1427,7 +1427,7 @@ export const WEEK_23: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Three Questions for a Risky Decision",
         "lines": [
           {
             "speaker": "b",

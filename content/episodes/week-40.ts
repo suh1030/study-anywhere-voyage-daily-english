@@ -396,7 +396,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the body is reacting to unanswered questions. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以身體其實是在對那些還沒答案的問題做反應。 還是我把它說得太整齊了？"
+            "zh": "所以身體其實是在對那些還沒答案的問題做反應。 也許我把它講得比實際感受更乾淨了。"
           },
           {
             "speaker": "a",
@@ -579,7 +579,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "This feels like the right ending.",
-            "zh": "這感覺就是很對的結尾。"
+            "zh": "感覺停在這裡剛剛好。"
           },
           {
             "speaker": "a",
@@ -712,7 +712,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the confusion is not random. It is structural. But does that leave anything out?",
-            "zh": "所以那種混亂不是隨機的，而是有結構的。 還是我把它說得太整齊了？"
+            "zh": "所以那種混亂不是隨機的，而是有結構的。 不過這樣講會不會漏掉了什麼？"
           },
           {
             "speaker": "a",
@@ -1790,8 +1790,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. It is worth keeping.",
-            "zh": "舉個真實的例子會更清楚：這句值得留下來。"
+            "en": "Exactly, and that is the kind of insight worth keeping.",
+            "zh": "沒錯，而這種體會正是值得留著的。"
           },
           {
             "speaker": "b",

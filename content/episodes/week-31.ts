@@ -32,8 +32,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One line worth drawing is this: Their signals can be subtle, but they are rarely ironic.",
-            "zh": "這裡值得畫一條分界線：牠們的訊號可能很細，可是通常不會拐彎抹角。"
+            "en": "Their signals can be subtle, but they are rarely ironic.",
+            "zh": "牠們的訊號可能很細，但通常不會拐彎抹角。"
           },
           {
             "speaker": "b",
@@ -162,8 +162,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Pet language works best when it stays close to daily life and real feeling.",
-            "zh": "舉個真實的例子會更清楚：談寵物的語言，最好就是貼著日常和真的感受走。"
+            "en": "Pet language works best when it stays close to daily life and real feeling.",
+            "zh": "談寵物的語言，最好就是貼著日常和真實的感受走。"
           }
         ]
       },
@@ -784,7 +784,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sentence is going to stay with me.",
-            "zh": "這句我應該會記很久。"
+            "zh": "這句話會一直留在我心裡。"
           },
           {
             "speaker": "a",
@@ -963,8 +963,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I needed that distinction.",
-            "zh": "我正需要這個區分。"
+            "en": "That kind of moment can quietly reset the whole day.",
+            "zh": "那種瞬間，常常能悄悄把一整天重新歸零。"
           },
           {
             "speaker": "b",
@@ -1023,7 +1023,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the respect comes partly from distance. Am I skipping the messy part?",
-            "zh": "所以那種尊重，有一部分其實來自距離。 還是我把它說得太整齊了？"
+            "zh": "所以那種尊重，有一部分其實是來自距離。我是不是跳過了那些比較混亂的部分？"
           },
           {
             "speaker": "a",
@@ -1358,7 +1358,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "True. It sounds much less glamorous than animal content online.",
-            "zh": "這聽起來真的比網路上的動物內容不 glamorous 很多。"
+            "zh": "這聽起來真的沒有網路上那些動物內容那麼光鮮亮麗。"
           },
           {
             "speaker": "a",
@@ -1627,7 +1627,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's usually how real insight feels.",
-            "zh": "真的 insight 很多時候本來就是那個感覺。"
+            "zh": "真正的洞察，很多時候本來就是那種感覺。"
           }
         ]
       },
@@ -1930,8 +1930,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The quiet part is this: Gentleness often begins as slowed attention.",
-            "zh": "沒被說出口的部分是這個：溫柔很多時候就是從注意力慢下來開始的。"
+            "en": "Gentleness often begins as slowed attention.",
+            "zh": "溫柔很多時候，就是從把注意力放慢開始的。"
           },
           {
             "speaker": "b",

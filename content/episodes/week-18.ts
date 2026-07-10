@@ -138,8 +138,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: And if you need a pause, say, 'I need ten minutes to cool off, but I do want to come back to this.'",
-            "zh": "有個細節很容易被忽略：如果你需要停一下，也可以說：「I need ten minutes to cool off, but I do want to come back to this.」"
+            "en": "And if you need a pause, there's a good line for that too: 'I need ten minutes to cool off, but I do want to come back to this.'",
+            "zh": "如果你需要停一下，也有一句很好用的說法：「I need ten minutes to cool off, but I do want to come back to this.」"
           },
           {
             "speaker": "b",
@@ -425,8 +425,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the takeaway here. A lot of conflict starts in the nervous system before it appears in language.",
-            "zh": "這就是這裡的重點。很多衝突其實先發生在神經系統裡，之後才進入語言。"
+            "en": "Exactly. A lot of conflict starts in the nervous system before it ever appears in language.",
+            "zh": "正是如此。很多衝突其實先發生在神經系統裡，之後才進入語言。"
           }
         ]
       },
@@ -883,8 +883,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The quiet part is this: Healthy disagreement lets both clarity and care stay in the room.",
-            "zh": "沒被說出口的部分是這個：健康的不同意，會讓清楚和在乎同時留在現場。"
+            "en": "Right. Healthy disagreement lets both clarity and care stay in the room at the same time.",
+            "zh": "對。健康的不同意，會讓清楚和在乎同時留在現場。"
           },
           {
             "speaker": "b",
@@ -1212,7 +1212,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. A good apology cannot erase the moment, but it can stop the damage from spreading.",
-            "zh": "這一點特別重要。好的道歉不能把那個瞬間擦掉，但它可以阻止傷害繼續擴散。"
+            "zh": "對，這正是讓那句道歉真正有效的原因。好的道歉不能把那個瞬間擦掉，但它可以阻止傷害繼續擴散。"
           }
         ]
       }
@@ -1338,8 +1338,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the goal is not distance for its own sake. I am not sure if that covers the messy middle.",
-            "zh": "所以目的不是為了把距離拉開而已。還是我這樣講漏掉了中間那些比較難分的部分？"
+            "en": "So the goal is not distance for its own sake. It is about protecting the closeness that is still there.",
+            "zh": "所以目的不是為了把距離拉開而已，而是在保護那份還存在的親近。"
           },
           {
             "speaker": "a",
@@ -1725,8 +1725,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: Another helpful line is, 'I need to show up differently, especially in the situations where I let you down before.'",
-            "zh": "現實通常比這再亂一點：另一句很好的是：「I need to show up differently, especially in the situations where I let you down before.」"
+            "en": "Another helpful line is, 'I need to show up differently, especially in the situations where I let you down before.'",
+            "zh": "另一句很好用的是：「I need to show up differently, especially in the situations where I let you down before.」"
           },
           {
             "speaker": "b",

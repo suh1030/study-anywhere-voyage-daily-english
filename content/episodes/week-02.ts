@@ -1720,8 +1720,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: And the irony is that the rushed morning, in trying to pack in more, often leads to less — because the quality of what follows is compromised.",
-            "zh": "這裡有個微妙的地方：諷刺的是，匆忙的早晨想塞進更多事，結果反而做得更少——因為後面所有事情的品質都被拖累了。"
+            "en": "And the irony is that the rushed morning, in trying to pack in more, often leads to less — because the quality of what follows is compromised.",
+            "zh": "諷刺的是，匆忙的早晨想塞進更多事，結果反而做得更少——因為後面所有事情的品質都被拖累了。"
           },
           {
             "speaker": "b",

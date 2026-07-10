@@ -98,7 +98,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. Burned-out helping is still burnout. Good communities protect the helpers as well as the people being helped.",
-            "zh": "沒錯。燒乾自己的幫忙，終究還是 burnout。好的社群會同時保護幫忙的人和被幫助的人。"
+            "zh": "沒錯。燒乾自己的幫忙，終究還是會心力耗竭。好的社群會同時保護幫忙的人和被幫助的人。"
           },
           {
             "speaker": "b",
@@ -121,7 +121,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How can I describe community in natural English?",
-            "zh": "如果我要用自然英文談 community，可以怎麼說？"
+            "zh": "如果我要用自然英文談社群，可以怎麼說？"
           },
           {
             "speaker": "a",
@@ -174,7 +174,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is an ordinary example of community in action?",
-            "zh": "有沒有一個很普通、但大家都認得出來的 community 例子？"
+            "zh": "有沒有一個很普通、但大家都認得出來的社群例子？"
           },
           {
             "speaker": "a",
@@ -227,7 +227,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why does giving back matter so much once someone has received help?",
-            "zh": "一個人一旦真的被幫過，為什麼 give back 會變得那麼重要？"
+            "zh": "一個人一旦真的被幫過，為什麼回饋別人會變得那麼重要？"
           },
           {
             "speaker": "a",
@@ -239,7 +239,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So gratitude becomes action.",
-            "zh": "所以 gratitude 最後會變成行動。"
+            "zh": "所以感恩最後會變成行動。"
           },
           {
             "speaker": "a",
@@ -367,7 +367,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So listening begins in presence, not in advice.",
-            "zh": "所以傾聽是從 presence 開始，不是從 advice 開始。"
+            "zh": "所以傾聽是從陪伴開始，不是從給建議開始。"
           },
           {
             "speaker": "a",
@@ -396,13 +396,13 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the listener is not solving the problem, but helping the problem become speakable. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以聽的人不是直接解決問題，而是在幫問題變得可以說得出來。 還是我把它說得太整齊了？"
+            "zh": "所以聽的人不是直接解決問題，而是在幫問題變得可以說得出來。也許我把它講得比實際感受起來更乾淨了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That can be deeply relieving. Many people calm down once the inside of their head starts sounding less chaotic outside of it.",
-            "zh": "對，而那會讓人非常鬆。很多人是等到自己腦中的混亂，終於在外面聽起來沒那麼亂，人才開始 calm down。"
+            "zh": "對，而那會讓人非常鬆。很多人是等到自己腦中的混亂，終於在外面聽起來沒那麼亂，人才開始平靜下來。"
           },
           {
             "speaker": "b",
@@ -514,7 +514,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So good listening waits longer than the ego wants to wait.",
-            "zh": "所以好的傾聽，會比 ego 想等的時間再多等一點。"
+            "zh": "所以好的傾聽，會比私心想等的時間再多等一點。"
           },
           {
             "speaker": "a",
@@ -556,7 +556,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because many people have learned to edit themselves before they speak. Good listening gives them permission to be less edited.",
-            "zh": "它很重要，因為很多人早就學會在開口前先刪改自己。好的傾聽會給他們一點 permission，讓他們不用那麼修。"
+            "zh": "它很重要，因為很多人早就學會在開口前先刪改自己。好的傾聽會給他們一點空間感，讓他們不用那麼修。"
           },
           {
             "speaker": "b",
@@ -642,7 +642,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "When people hear \"local hero,\" they often imagine someone dramatic.",
-            "zh": "大家一聽到 local hero，常常就會想到很戲劇化的人。"
+            "zh": "大家一聽到『在地英雄』，常常就會想到很戲劇化的人。"
           },
           {
             "speaker": "a",
@@ -695,13 +695,13 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What kind of change do changemakers usually aim for?",
-            "zh": "Changemaker 通常在追求的是哪一種改變？"
+            "zh": "帶來改變的人，通常在追求的是哪一種改變？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The lasting kind. Not only the change that gets noticed, but the change that keeps helping after the spotlight moves on.",
-            "zh": "是能留下來的那種。不是只有被看見的改變，而是 spotlight 移走之後，還繼續有幫助的改變。"
+            "zh": "是能留下來的那種。不是只有被看見的改變，而是聚光燈移走之後，還繼續有幫助的改變。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A good changemaker often cares about systems, relationships, and habits, not only one visible event.",
-            "zh": "沒錯。好的 changemaker 通常在乎的是系統、關係和習慣，不只是某個看得見的活動。"
+            "zh": "沒錯。真正帶來改變的人，通常在乎的是系統、關係和習慣，不只是某個看得見的活動。"
           },
           {
             "speaker": "b",
@@ -725,7 +725,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is harder, because system work is slower and often less glamorous. But it protects the future instead of decorating the present.",
-            "zh": "它真的比較難，因為系統層的工作更慢，也通常比較不 glamorous。但它保護的是未來，不是只裝飾現在。"
+            "zh": "它真的比較難，因為系統層的工作更慢，也通常比較不光鮮亮麗。但它保護的是未來，不是只裝飾現在。"
           },
           {
             "speaker": "b",
@@ -748,7 +748,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How would you describe a changemaker in English naturally?",
-            "zh": "如果要用自然英文形容 changemaker，可以怎麼說？"
+            "zh": "如果要用自然英文形容『帶來改變的人』，可以怎麼說？"
           },
           {
             "speaker": "a",
@@ -778,7 +778,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something more reflective, say, \"People trusted her because she kept doing small useful things.\" That points to credibility, not charisma.",
-            "zh": "如果你想講得更反思一點，可以說：「People trusted her because she kept doing small useful things.」這句抓的是可信度，不是 charisma。"
+            "zh": "如果你想講得更反思一點，可以說：「People trusted her because she kept doing small useful things.」這句抓的是可信度，不是個人魅力。"
           },
           {
             "speaker": "b",
@@ -801,7 +801,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Could you make that concrete with a concrete picture of a local hero?",
-            "zh": "你可以給我一個很具體的 local hero 畫面嗎？"
+            "zh": "你可以給我一個很具體的在地英雄畫面嗎？"
           },
           {
             "speaker": "a",
@@ -825,7 +825,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That kind of knowledge probably cannot be downloaded from a report.",
-            "zh": "那種知識大概不是看一份 report 就能下載的。"
+            "zh": "那種知識大概不是看一份報告就能下載的。"
           },
           {
             "speaker": "a",
@@ -837,13 +837,13 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So changemakers are often very good observers.",
-            "zh": "所以 changemaker 很多時候也都是很好的觀察者。"
+            "zh": "所以真正帶來改變的人，很多時候也都是很好的觀察者。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Good observation is one of the least glamorous and most important community skills.",
-            "zh": "對。觀察力是社群工作裡最不 glamorous、卻又最重要的能力之一。"
+            "zh": "對。觀察力是社群工作裡最不光鮮亮麗、卻又最重要的能力之一。"
           }
         ]
       },
@@ -884,7 +884,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's usually the right tone. Real changemakers are often less interested in being impressive than in being useful.",
-            "zh": "那通常就是對的 tone。真正的 changemaker，常常對「讓自己很厲害」沒那麼有興趣，反而更在意自己是不是有用。"
+            "zh": "那通常就是對的調性。真正帶來改變的人，常常對「讓自己很厲害」沒那麼有興趣，反而更在意自己是不是有用。"
           },
           {
             "speaker": "b",
@@ -1111,7 +1111,7 @@ export const WEEK_46: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Language That Reframes Community Conflict",
         "lines": [
           {
             "speaker": "b",
@@ -1189,7 +1189,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I can see why you'd say that. It does feel like a deeper definition of community.",
-            "zh": "這聽起來像一個更深的 community 定義。"
+            "zh": "這聽起來像一個更深的社群定義。"
           },
           {
             "speaker": "a",
@@ -1293,7 +1293,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that. It sounds much more grounded than innovation language.",
-            "zh": "這樣聽起來比那種 innovation 語言落地多了。"
+            "zh": "這樣聽起來比那種創新語言落地多了。"
           },
           {
             "speaker": "a",
@@ -1322,7 +1322,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What usually goes wrong when people build technology for social good?",
-            "zh": "大家在做 social good technology 時，最常出錯的是哪裡？"
+            "zh": "大家在做社會公益科技時，最常出錯的是哪裡？"
           },
           {
             "speaker": "a",
@@ -1393,7 +1393,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"We built this with the community, not only for the community.\" That signals partnership instead of savior thinking.",
-            "zh": "另一句也很好：「We built this with the community, not only for the community.」這句會傳達 partnership，而不是救世主心態。"
+            "zh": "另一句也很好：「We built this with the community, not only for the community.」這句會傳達夥伴關係，而不是救世主心態。"
           },
           {
             "speaker": "b",
@@ -1505,13 +1505,13 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That seems like a better definition of progress.",
-            "zh": "這感覺像一個更好的 progress 定義。"
+            "zh": "這感覺像一個更好的進步定義。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a better definition, because progress should not only make systems more efficient. It should make people feel more reachable inside those systems too.",
-            "zh": "它確實更好，因為 progress 不應該只讓系統變得更有效率；它也應該讓人覺得自己在系統裡比較碰得到路。"
+            "zh": "它確實更好，因為進步不應該只讓系統變得更有效率；它也應該讓人覺得自己在系統裡比較碰得到路。"
           },
           {
             "speaker": "b",
@@ -1780,7 +1780,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes service feel less like a program and more like a lineage.",
-            "zh": "這樣一來，服務就不像一個 program，比較像一條傳承。"
+            "zh": "這樣一來，服務就不像一個方案，比較像一條傳承。"
           },
           {
             "speaker": "a",
@@ -1913,13 +1913,13 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I can see that. It sounds bigger than friendship.",
-            "zh": "這聽起來比 friendship 還更大。"
+            "zh": "這聽起來比友誼還更大。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is bigger, because community includes systems, habits, memory, and practical care. It is built into ordinary life.",
-            "zh": "它確實更大，因為 community 包含系統、習慣、記憶，以及實際照顧。它是被蓋進普通生活裡的。"
+            "zh": "它確實更大，因為社群包含系統、習慣、記憶，以及實際照顧。它是被蓋進普通生活裡的。"
           },
           {
             "speaker": "b",
@@ -1943,7 +1943,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the image I trust most when I think about what giving back really means.",
-            "zh": "這也是我在想 give back 真正是什麼時，最相信的一個畫面。"
+            "zh": "這也是我在想『回饋』真正是什麼時，最相信的一個畫面。"
           }
         ]
       },
@@ -2013,7 +2013,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One sentence that works well is \"This week reminded me that support is often made of small practical acts, not grand gestures.\" It sounds thoughtful and clear.",
-            "zh": "你可以試試：「這一週提醒了我，支持往往是由一個個小而實際的舉動組成，而不是什麼盛大的姿態。」這句很清楚，也很有反思感。"
+            "zh": "你可以試試：「This week reminded me that support is often made of small practical acts, not grand gestures.」這句很清楚，也很有反思感。"
           },
           {
             "speaker": "b",
@@ -2060,7 +2060,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "After a week like this, what does giving back look like in a realistic way?",
-            "zh": "像這樣一週走下來，現實裡的 give back 可以長什麼樣？"
+            "zh": "像這樣一週走下來，現實裡的回饋可以長什麼樣？"
           },
           {
             "speaker": "a",
@@ -2072,7 +2072,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So contribution does not have to be dramatic to count.",
-            "zh": "所以 contribution 不必很戲劇化，才算數。"
+            "zh": "所以貢獻不必很戲劇化，才算數。"
           },
           {
             "speaker": "a",
@@ -2089,14 +2089,14 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. People are more likely to help when helping feels sustainable and real.",
-            "zh": "放到平常的日子裡，這句話會變得更簡單。當幫忙聽起來能長期維持、也很真實時，人反而更可能真的出手。"
+            "en": "In everyday life it comes down to something simple: people are more likely to help when helping feels sustainable and real.",
+            "zh": "回到日常，其實就歸結成一件很簡單的事：當幫忙這件事能長期維持、也很真實時，人反而更可能真的出手。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to be impressive. It is to be reliable. But does that leave anything out?",
-            "zh": "所以重點不是讓自己很厲害，而是讓自己很可靠。 還是我把它說得太整齊了？"
+            "zh": "所以重點不是讓自己很厲害，而是讓自己很可靠。但這樣會不會漏掉了什麼？"
           },
           {
             "speaker": "a",
@@ -2126,7 +2126,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is hopeful because community does not ask us to become perfect. It only asks us to become more available to one another.",
-            "zh": "它之所以有希望，是因為 community 不要求我們變得完美；它只是邀請我們對彼此更在場一點。"
+            "zh": "它之所以有希望，是因為社群不要求我們變得完美；它只是邀請我們對彼此更在場一點。"
           },
           {
             "speaker": "b",
@@ -2149,8 +2149,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. That means the language is no longer floating above life. It is starting to live inside it.",
-            "zh": "做聽力練習時，可以留意這句話的句型。那代表語言不再飄在生活上面，而是開始住進生活裡了。"
+            "en": "And notice what has happened here: the language is no longer floating above life. It is starting to live inside it.",
+            "zh": "而且你有沒有注意到這裡發生的事：語言不再飄在生活上面，而是開始住進生活裡了。"
           }
         ]
       }

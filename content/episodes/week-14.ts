@@ -584,8 +584,8 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good. That is the real lesson here. Remove the word \"networking\" and most of the anxiety goes with it.",
-            "zh": "這一點很多人會略過。把「建立人脈」這個詞拿掉，大部分的焦慮也跟著消失了。"
+            "en": "Exactly. That's the real lesson here. Remove the word \"networking\" and most of the anxiety goes with it.",
+            "zh": "正是如此。這才是這裡真正的重點。把「建立人脈」這個詞拿掉，大部分的焦慮也跟著消失了。"
           }
         ]
       }
@@ -1291,8 +1291,8 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That framing shifts the whole picture.",
-            "zh": "這個框架改變了整個畫面。"
+            "en": "Buying time with a warm greeting is a smart move. Did any clue actually turn up?",
+            "zh": "用一句熱情的招呼來爭取時間，這招很聰明。那後來有出現什麼線索嗎？"
           },
           {
             "speaker": "b",

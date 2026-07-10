@@ -80,7 +80,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the routine collapses the moment life looks normal again. Am I skipping the messy part?",
-            "zh": "所以生活一恢復正常忙碌，那個日常就立刻塌掉了。 還是我把它說得太整齊了？"
+            "zh": "所以生活一恢復正常忙碌，那個日常就立刻塌掉了。我是不是把混亂的部分跳過了？"
           },
           {
             "speaker": "a",
@@ -192,7 +192,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A filled water bottle, a simple lunch plan, or meal prep that removes one decision from tomorrow.",
-            "zh": "像是先裝好水瓶、先想好一頓簡單午餐，或做一點 meal prep，讓明天少一個要臨時決定的點。"
+            "zh": "像是先裝好水瓶、先想好一頓簡單午餐，或做一點備餐，讓明天少一個要臨時決定的點。"
           },
           {
             "speaker": "b",
@@ -251,8 +251,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a distinction that helps: That is why it lasts. Ordinary care is the kind you can actually keep doing.",
-            "zh": "有一個區分會很有幫助：而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
+            "en": "Exactly, and that is why it lasts. Ordinary care is the kind you can actually keep doing.",
+            "zh": "對，而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
           },
           {
             "speaker": "b",
@@ -521,7 +521,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not, \"How do I feel okay right now?\" but \"How do I stop digging the hole deeper?\" I am not sure if that covers the messy middle.",
-            "zh": "所以問題不是「我現在怎麼立刻舒服一點」，而是「我怎麼不要把洞挖得更深」。 還是我把它說得太整齊了？"
+            "zh": "所以問題不是「我現在怎麼立刻舒服一點」，而是「我怎麼不要把洞挖得更深」。我不太確定這樣有沒有講到中間最難的那一段。"
           },
           {
             "speaker": "a",
@@ -579,8 +579,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Sleep advice should make people feel supported, not scolded.",
-            "zh": "舉個真實一點的例子會更清楚。睡眠建議本來就應該讓人覺得被支持，而不是被罵。"
+            "en": "Sleep advice should make people feel supported, not scolded.",
+            "zh": "睡眠建議本來就應該讓人覺得被支持，而不是被罵。"
           }
         ]
       }
@@ -666,7 +666,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The phrase I keep using lately is \"mentally drained.\"",
-            "zh": "我最近最常說的一句話就是：我整個人 mentally drained。"
+            "zh": "我最近最常掛在嘴邊的就是「mentally drained」這句，整個人被榨乾。"
           },
           {
             "speaker": "a",
@@ -713,7 +713,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. And it often gets worse when someone is overcommitted but still keeps saying yes out of habit.",
-            "zh": "沒錯。而且如果一個人已經 overcommitted，卻還是因為習慣一直答應事情，通常會更嚴重。"
+            "zh": "沒錯。而且如果一個人已經把自己排得太滿，卻還是因為習慣一直答應事情，通常會更嚴重。"
           },
           {
             "speaker": "b",
@@ -825,13 +825,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Do you think people should use a sick day for mental health if they need it?",
-            "zh": "如果真的需要，你覺得人應該用 sick day 來處理心理狀態嗎？"
+            "zh": "如果真的需要，你覺得人應該請病假來處理心理狀態嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If the strain is real, yes. A sick day is still a sick day when the thing that is struggling is your mind.",
-            "zh": "如果那個狀態是真的，當然可以。就算出問題的是你的心，不是你的喉嚨，sick day 也還是 sick day。"
+            "zh": "如果那個狀態是真的，當然可以。就算出問題的是你的心，不是你的喉嚨，病假也還是病假。"
           },
           {
             "speaker": "b",
@@ -976,13 +976,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that swing is exhausting. A balanced plate should support you, not judge you.",
-            "zh": "而那種來回擺盪其實很耗人。一個 balanced plate 本來應該是支持你，不是審判你。"
+            "zh": "而那種來回擺盪其實很耗人。一份均衡的餐盤本來應該是支持你，不是審判你。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I also make portion size more emotional than it needs to be.",
-            "zh": "我覺得我也常常把 portion size 這件事弄得比它本來更情緒化。"
+            "zh": "我覺得我也常常把「份量」這件事弄得比它本來更情緒化。"
           },
           {
             "speaker": "a",
@@ -1029,13 +1029,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is when cravings start feeling dangerous instead of informative.",
-            "zh": "沒錯。也就是在那個時候，cravings 聽起來像危險訊號，而不是一個值得觀察的資訊。"
+            "zh": "沒錯。也就是在那個時候，嘴饞會聽起來像危險訊號，而不是一個值得觀察的資訊。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have never thought of cravings as informative.",
-            "zh": "我以前真的從來沒想過 cravings 也可以是資訊。"
+            "zh": "我以前真的從來沒想過，嘴饞也可以是一種資訊。"
           },
           {
             "speaker": "a",
@@ -1111,7 +1111,7 @@ export const WEEK_09: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Small Defaults That Keep Eating Simple",
         "lines": [
           {
             "speaker": "b",
@@ -1141,7 +1141,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So meal prep helps here too, as long as it does not become perfectionism.",
-            "zh": "所以 meal prep 在這裡也有幫助，只要它沒有變成另一種完美主義。"
+            "zh": "所以備餐在這裡也有幫助，只要它沒有變成另一種完美主義。"
           },
           {
             "speaker": "a",
@@ -1153,7 +1153,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's probably the healthiest sentence anyone has ever said about meal prep.",
-            "zh": "這大概是我聽過關於 meal prep 最健康的一句話。"
+            "zh": "這大概是我聽過關於備餐最健康的一句話。"
           },
           {
             "speaker": "a",
@@ -1287,7 +1287,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a very recognizable one. A lot of people know they are coming down with something before they can name exactly what it is.",
-            "zh": "那是很典型的訊號。很多人其實在還說不出病名之前，就已經知道自己 coming down with something 了。"
+            "zh": "那是很典型的訊號。很多人其實在還說不出到底是什麼病之前，就已經知道自己快生病了。"
           },
           {
             "speaker": "b",
@@ -1340,7 +1340,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, even when the wiser move would be to call in sick and go back to bed.",
-            "zh": "沒錯，哪怕更有智慧的做法其實是 call in sick，然後回床上休息。"
+            "zh": "沒錯，哪怕更有智慧的做法其實是請個病假，然後回床上休息。"
           },
           {
             "speaker": "b",
@@ -1416,8 +1416,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A detail people often skip: Sick-day English should help you communicate clearly, not sound impressive.",
-            "zh": "有個大家常跳過的細節：生病時用的英文，本來就應該幫你清楚溝通，而不是讓你聽起來很厲害。"
+            "en": "Sick-day English should help you communicate clearly, not sound impressive.",
+            "zh": "生病時用的英文，本來就該幫你把狀況講清楚，而不是讓你聽起來很厲害。"
           }
         ]
       },
@@ -1446,7 +1446,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Sometimes the right step is urgent care or a doctor visit, especially if you are getting worse instead of slowly stabilizing.",
-            "zh": "完全不是。有時候正確的一步就是去 urgent care 或安排 doctor visit，尤其是在你不是慢慢穩住，而是越來越糟的情況下。"
+            "zh": "完全不是。有時候正確的一步就是去掛急診，或安排一次看診，尤其是在你不是慢慢穩住，而是越來越糟的情況下。"
           },
           {
             "speaker": "b",
@@ -1522,8 +1522,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "In real life, it might sound like this. Being sick is hard enough. The language around it should make room, not add pressure.",
-            "zh": "在真實生活裡，大概會是這樣講。生病本來就已經夠難受了，圍繞著它的語言應該留一點空間，而不是再加壓力。"
+            "en": "Being sick is hard enough. The language around it should make room, not add pressure.",
+            "zh": "生病本來就已經夠難受了，圍繞著它的語言應該多留一點空間，而不是再加壓力。"
           }
         ]
       }
@@ -1615,7 +1615,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. The best workout is often the one you do often enough to build a relationship with.",
-            "zh": "沒錯。最好的 workout，很多時候就是那個你做得夠常，常到能和它建立關係的運動。"
+            "zh": "沒錯。最好的運動，很多時候就是那個你做得夠常，常到能和它建立關係的運動。"
           },
           {
             "speaker": "b",
@@ -1656,7 +1656,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. And people also choose movement they think they should respect, instead of movement they might actually stick with.",
-            "zh": "沒錯。而且很多人選的運動，是自己覺得「應該要尊敬」的那種，不是自己真的可能 stick with 的那種。"
+            "zh": "沒錯。而且很多人選的運動，是自己覺得「應該要尊敬」的那種，不是自己真的可能持續下去的那種。"
           },
           {
             "speaker": "b",
@@ -1668,7 +1668,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is also why low-impact exercise gets underestimated. People hear \"gentle\" and assume it means \"not effective.\"",
-            "zh": "這也就是為什麼 low-impact 運動常常被低估。大家一聽到「溫和」就以為它等於「沒有效」。"
+            "zh": "這也就是為什麼低衝擊運動常常被低估。大家一聽到「溫和」就以為它等於「沒有效」。"
           },
           {
             "speaker": "b",
@@ -1709,7 +1709,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Use simple categories like \"strength training,\" \"cardio,\" or \"something low-impact.\" That is more than enough for everyday conversation.",
-            "zh": "你可以用很簡單的分類，像是 strength training、cardio，或是 something low-impact。日常對話這樣就完全夠了。"
+            "zh": "你可以用很簡單的分類，像是「strength training」（重訓）、「cardio」（有氧），或「something low-impact」（做點低衝擊的）。日常對話這樣就完全夠了。"
           },
           {
             "speaker": "b",
@@ -1756,13 +1756,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "True. It sounds obvious, but it is surprisingly easy to forget.",
-            "zh": "這聽起來好像很 obvious，但真的非常容易忘記。"
+            "zh": "這聽起來好像很理所當然，但真的非常容易忘記。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And an exercise buddy can help too, not because you need supervision, but because shared structure lowers friction.",
-            "zh": "另外有一個 exercise buddy 也很有幫助，不是因為你需要被監督，而是因為有人一起，整個結構的阻力會更低。"
+            "zh": "另外有一個一起運動的夥伴也很有幫助，不是因為你需要被監督，而是因為有人一起，整個結構的阻力會更低。"
           },
           {
             "speaker": "b",
@@ -1960,7 +1960,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A visible cue, low friction, and a minimum version that still counts on a bad day.",
-            "zh": "一個看得見的 cue、低摩擦，還有一個在爛日子裡做也仍然算數的最低版本。"
+            "zh": "一個看得見的提示、低摩擦，還有一個在爛日子裡做也仍然算數的最低版本。"
           },
           {
             "speaker": "b",
@@ -2126,7 +2126,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. All-or-nothing thinking destroys more habits than laziness ever does.",
-            "zh": "沒錯。all-or-nothing thinking 毀掉的習慣，比懶惰本身還多。"
+            "zh": "沒錯。非黑即白的思維，毀掉的習慣比懶惰本身還多。"
           },
           {
             "speaker": "b",
@@ -2144,7 +2144,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes consistency sound almost gentle.",
-            "zh": "這讓 consistency 聽起來都變得有點溫柔了。"
+            "zh": "這讓「持之以恆」聽起來都變得有點溫柔了。"
           },
           {
             "speaker": "a",

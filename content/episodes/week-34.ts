@@ -20,8 +20,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Good — that gives me somewhere to start.",
-            "zh": "很好，這給了我一個起點。"
+            "en": "That window feeling is real — the body often shifts before the mind does.",
+            "zh": "那種開窗的感覺是真的，身體常常比腦更早開始轉變。"
           },
           {
             "speaker": "b",
@@ -162,8 +162,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Exercise language should sound ordinary enough to belong to real life.",
-            "zh": "放到平常的日子裡，這句話會變得更簡單。談運動的語言，最好要普通到可以直接放進真實生活裡。"
+            "en": "Exercise language should sound ordinary enough to belong to real life.",
+            "zh": "談運動的語言，最好要普通到可以直接放進真實生活裡。"
           }
         ]
       },
@@ -473,8 +473,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Reasons sound strongest when they are personal and concrete.",
-            "zh": "練聽力的時候，特別注意這個句子的形狀。動機要有力，通常就是因為它夠個人、夠具體。"
+            "en": "Reasons sound strongest when they are personal and concrete.",
+            "zh": "動機要有力，通常就是因為它夠個人、夠具體。"
           }
         ]
       },
@@ -1105,8 +1105,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Strong sports language is usually simple and honest.",
-            "zh": "我們把它拉回一個具體情境。好的運動語言，通常就是簡單又誠實。"
+            "en": "Strong sports language is usually simple and honest.",
+            "zh": "好的運動語言，通常就是簡單又誠實。"
           }
         ]
       },
@@ -1427,7 +1427,7 @@ export const WEEK_34: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Protecting Your Mind While Staying Fit",
         "lines": [
           {
             "speaker": "b",
@@ -1439,7 +1439,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Curate your feed, follow people who talk about function and recovery, unfollow comparison triggers, and measure progress in more than one way.",
-            "zh": "像是整理自己的 feed、追蹤談功能和恢復的人、退追那些會引發比較的帳號，還有不要只用一種方式衡量進步。"
+            "zh": "像是整理自己的動態消息、追蹤談功能和恢復的人、退追那些會引發比較的帳號，還有不要只用一種方式衡量進步。"
           },
           {
             "speaker": "b",
@@ -1457,7 +1457,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes me want to clean up my feed tonight.",
-            "zh": "這會讓我今晚就想先整理自己的 feed。"
+            "zh": "這會讓我今晚就想先整理自己的動態消息。"
           },
           {
             "speaker": "a",
@@ -1474,8 +1474,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a workday version. Naming the problem often weakens it.",
-            "zh": "這裡有一個上班日版本。把問題叫出名字，很多時候就已經是在削弱它。"
+            "en": "Naming the problem often weakens it.",
+            "zh": "把問題叫出名字，很多時候就已經是在削弱它。"
           },
           {
             "speaker": "b",
@@ -1803,7 +1803,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Freedom, mobility, self-trust, steadier mood, and a body that keeps saying yes to life longer.",
-            "zh": "它會回給人自由、活動能力、自我信任、比較穩的情緒，還有一個能更久對生活說 yes 的身體。"
+            "zh": "它會回給人自由、活動能力、自我信任、比較穩的情緒，還有一個能更久對生活說『好』的身體。"
           },
           {
             "speaker": "b",

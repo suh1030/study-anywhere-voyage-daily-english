@@ -80,7 +80,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the problem is not lack of intelligence. It is lack of space. Is that too tidy a way to put it?",
-            "zh": "所以問題不是不夠聰明，而是不夠有空間。 還是我把它說得太整齊了？"
+            "zh": "所以問題不是不夠聰明，而是不夠有空間。這樣講會不會太工整了？"
           },
           {
             "speaker": "a",
@@ -239,7 +239,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Fair enough. It sounds gentler than the word closure usually does.",
-            "zh": "這真的比大家平常講的 closure 溫柔很多。"
+            "zh": "這真的比大家平常講的「了結」溫柔很多。"
           },
           {
             "speaker": "a",
@@ -531,8 +531,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. It is worth keeping close.",
-            "zh": "舉個真實一點的例子會更清楚。"
+            "en": "Here's a real one: someone who used to explode under pressure now takes a breath first. That's growth worth keeping close, even if no metric catches it.",
+            "zh": "舉個真實的例子：一個以前壓力一來就爆炸的人，現在會先深呼吸一下。那就是值得記住的成長，就算沒有任何指標抓得到它。"
           }
         ]
       },
@@ -712,7 +712,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the lesson gets stored deeper. Am I skipping the messy part?",
-            "zh": "所以那個教訓會被存得更深。 還是我把它說得太整齊了？"
+            "zh": "所以那個教訓會被存得更深。我是不是把混亂的過程跳過了？"
           },
           {
             "speaker": "a",
@@ -1339,7 +1339,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the pain is pointing at a value, not only a mistake. I am not sure if that covers the messy middle.",
-            "zh": "所以那個痛指向的，不只是錯誤，也是一個價值。 還是我把它說得太整齊了？"
+            "zh": "所以那個痛指向的，不只是錯誤，也是一個價值。我不太確定這樣有沒有涵蓋到中間那段混亂。"
           },
           {
             "speaker": "a",
@@ -2059,7 +2059,7 @@ export const WEEK_43: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Moving Forward With Intention",
         "lines": [
           {
             "speaker": "b",
@@ -2071,7 +2071,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A smaller pace, a clearer yes, and a clearer no. Intention gets stronger when the life around it gets simpler.",
-            "zh": "要有比較小的步速、更清楚的 yes，也要有更清楚的 no。當周圍生活變得比較簡單時，意圖就會變強。"
+            "zh": "要有比較小的步速、更清楚的「要」，也要有更清楚的「不要」。當周圍生活變得比較簡單時，意圖就會變強。"
           },
           {
             "speaker": "b",

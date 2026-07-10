@@ -215,8 +215,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. People deserve that compassion, because language effort is often invisible from the outside.",
-            "zh": "我們把它拉回一個具體情境。大家值得這份同理，因為語言上的努力，從外面看常常是隱形的。"
+            "en": "Think of someone smiling through a fast meeting in their second language, nodding while quietly translating every line. People deserve that compassion, because language effort is often invisible from the outside.",
+            "zh": "想像一個人用第二語言撐過一場快節奏的會議，一邊點頭、一邊在心裡默默翻譯每一句。大家值得這份同理，因為語言上的努力，從外面看常常是隱形的。"
           }
         ]
       },
@@ -331,7 +331,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do slang and jargon matter so much to belonging?",
-            "zh": "為什麼 slang 和 jargon 對歸屬感會那麼重要？"
+            "zh": "為什麼俚語和行話對歸屬感會那麼重要？"
           },
           {
             "speaker": "a",
@@ -367,7 +367,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So slang is not shallow social decoration.",
-            "zh": "所以 slang 不是很表面的社交裝飾。"
+            "zh": "所以俚語不是很表面的社交裝飾。"
           },
           {
             "speaker": "a",
@@ -384,7 +384,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is the downside of that kind of group language?",
-            "zh": "那種群體語言的 downside 是什麼？"
+            "zh": "那種群體語言的壞處是什麼？"
           },
           {
             "speaker": "a",
@@ -402,7 +402,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's right. Workplace jargon can do this a lot too. It makes insiders efficient, but it can make outsiders feel slow or invisible.",
-            "zh": "沒錯。職場 jargon 也很容易這樣。它會讓圈內人效率很高，但也會讓圈外人覺得自己很慢，甚至像透明人。"
+            "zh": "沒錯。職場行話也很容易這樣。它會讓圈內人效率很高，但也會讓圈外人覺得自己很慢，甚至像透明人。"
           },
           {
             "speaker": "b",
@@ -420,7 +420,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So inclusion can be as small as one extra sentence.",
-            "zh": "所以 inclusion 可能就小到只是一句補充說明。"
+            "zh": "所以包容可能就小到只是一句補充說明。"
           },
           {
             "speaker": "a",
@@ -437,7 +437,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English sounds good for talking about slang and belonging?",
-            "zh": "如果要談 slang 和歸屬感，有哪些英文會很好用？"
+            "zh": "如果要談俚語和歸屬感，有哪些英文會很好用？"
           },
           {
             "speaker": "a",
@@ -473,7 +473,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sentence is going in my speaking notes.",
-            "zh": "這句我要放進我的 speaking notes。"
+            "zh": "這句我要放進我的口說筆記。"
           },
           {
             "speaker": "a",
@@ -484,7 +484,7 @@ export const WEEK_48: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Slang, Jargon, and Belonging",
         "lines": [
           {
             "speaker": "b",
@@ -526,7 +526,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes me think differently about group humor too.",
-            "zh": "這也讓我重新想 group humor 這件事。"
+            "zh": "這也讓我重新想『群體幽默』這件事。"
           },
           {
             "speaker": "a",
@@ -648,7 +648,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That you are often living between worlds at the same time. You are not only switching codes; you are switching social expectations, emotional reflexes, and ways of belonging.",
-            "zh": "就是你常常同時活在世界和世界之間。你不只是換 code，而是在切換社會期待、情緒反射和歸屬方式。"
+            "zh": "就是你常常同時活在世界和世界之間。你不只是切換語碼，而是在切換社會期待、情緒反射和歸屬方式。"
           },
           {
             "speaker": "b",
@@ -701,13 +701,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The constant micro-adjustment. People may look fluent from the outside while still translating tone, filtering words, and calibrating how they sound.",
-            "zh": "是那種持續不斷的微調。從外面看，一個人也許很流利，但他腦中其實還在翻 tone、過濾字、調整自己聽起來怎麼樣。"
+            "zh": "是那種持續不斷的微調。從外面看，一個人也許很流利，但他腦中其實還在調語氣、過濾用字、調整自己聽起來怎麼樣。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So fluency can hide a lot of effort.",
-            "zh": "所以流利外表下，可能藏著很多 effort。"
+            "zh": "所以流利外表下，可能藏著很多力氣。"
           },
           {
             "speaker": "a",
@@ -831,7 +831,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. People who live between languages often become better at noticing nuance, translating context, and recognizing complexity.",
-            "zh": "沒錯。活在語言之間的人，常常會變得更會看細微差異、更會翻 context，也更能辨認複雜性。"
+            "zh": "沒錯。活在語言之間的人，常常會變得更會看細微差異、更會轉換脈絡，也更能辨認複雜性。"
           },
           {
             "speaker": "b",
@@ -854,7 +854,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is the gift at the center of bilingual life?",
-            "zh": "雙語生活最核心的 gift 是什麼？"
+            "zh": "雙語生活最核心的禮物是什麼？"
           },
           {
             "speaker": "a",
@@ -878,7 +878,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a really meaningful way to frame it.",
-            "zh": "這是一個很有意義的 framing。"
+            "zh": "這是一個很有意義的看待方式。"
           },
           {
             "speaker": "a",
@@ -958,7 +958,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why does storytelling matter so much to identity?",
-            "zh": "為什麼 storytelling 對身份這麼重要？"
+            "zh": "為什麼說故事對身份這麼重要？"
           },
           {
             "speaker": "a",
@@ -975,14 +975,14 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the part most people overlook: The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
-            "zh": "這是多數人會漏看的部分：事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
+            "en": "And here is what most people overlook: the facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
+            "zh": "而多數人會漏看的是：事實很重要，可是怎麼詮釋也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes storytelling feel much more powerful than I thought.",
-            "zh": "這讓 storytelling 聽起來比我原本想的更有力量。"
+            "zh": "這讓說故事聽起來比我原本想的更有力量。"
           },
           {
             "speaker": "a",
@@ -994,7 +994,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So narrative identity is shaped by interpretation.",
-            "zh": "所以 narrative identity 其實是被解讀塑造的。"
+            "zh": "所以敘事身份其實是被解讀塑造的。"
           },
           {
             "speaker": "a",
@@ -1094,13 +1094,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something simpler, say: \"The story changed when I changed what counted as the important part.\" That captures reframing well.",
-            "zh": "如果你想簡單一點，可以說：「The story changed when I changed what counted as the important part.」這句很能抓到 reframing。"
+            "zh": "如果你想簡單一點，可以說：「The story changed when I changed what counted as the important part.」這句很能抓到重新詮釋的精神。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That would help a lot in speaking practice too.",
-            "zh": "這句拿來練 speaking 也很好用。"
+            "zh": "這句拿來練口說也很好用。"
           },
           {
             "speaker": "a",
@@ -1135,13 +1135,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Narrative identity often changes not because memory changes, but because meaning does.",
-            "zh": "沒錯。narrative identity 很多時候不是記憶變了，而是意義變了。"
+            "zh": "沒錯。敘事身份很多時候不是記憶變了，而是意義變了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So retelling can be a form of healing.",
-            "zh": "所以重新講述，本身也可能是一種 healing。"
+            "zh": "所以重新講述，本身也可能是一種療癒。"
           },
           {
             "speaker": "a",
@@ -1153,7 +1153,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes storytelling feel almost therapeutic.",
-            "zh": "這讓 storytelling 聽起來幾乎很有療癒性。"
+            "zh": "這讓說故事聽起來幾乎很有療癒性。"
           },
           {
             "speaker": "a",
@@ -1189,7 +1189,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So narrative identity is not fixed at all.",
-            "zh": "所以 narrative identity 根本不是固定的。"
+            "zh": "所以敘事身份根本不是固定的。"
           },
           {
             "speaker": "a",
@@ -1334,13 +1334,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it may not change everything, but it changes patterns.",
-            "zh": "所以它不一定改變全部，但會改變 pattern。"
+            "zh": "所以它不一定改變全部，但會改變模式。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the line I would hold on to. One language may encourage blunt naming. Another may encourage more relational or indirect framing. Over time that changes mental habits.",
-            "zh": "重點就在這裡。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的 framing。時間久了，心智習慣就會被改動。"
+            "zh": "重點就在這裡。一種語言可能鼓勵直接命名，另一種則鼓勵比較關係導向、或比較間接的表達框架。時間久了，心智習慣就會被改動。"
           },
           {
             "speaker": "b",
@@ -1352,7 +1352,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that can be a real gift. It can make a person more flexible about interpretation and less trapped by one default frame.",
-            "zh": "沒錯，而這會是一種很真的 gift。它會讓人對解讀比較有彈性，不會被單一預設框架困住。"
+            "zh": "沒錯，而這會是一種很真的禮物。它會讓人對解讀比較有彈性，不會被單一預設框架困住。"
           },
           {
             "speaker": "b",
@@ -1399,7 +1399,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like how useful that would be in speaking practice.",
-            "zh": "我很喜歡它在 speaking 練習裡也很好用。"
+            "zh": "我很喜歡它在口說練習裡也很好用。"
           },
           {
             "speaker": "a",
@@ -1411,7 +1411,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That sounds like a sharp sentence.",
-            "zh": "這句真的很 sharp。"
+            "zh": "這句真的很犀利。"
           },
           {
             "speaker": "a",
@@ -1446,7 +1446,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. It gives the mind a stronger handle, and that can change how quickly a person recognizes a pattern.",
-            "zh": "沒錯。它像是替心智做了一個更好的把手，而那會改變一個人認出 pattern 的速度。"
+            "zh": "沒錯。它像是替心智做了一個更好的把手，而那會改變一個人認出模式的速度。"
           },
           {
             "speaker": "b",
@@ -1668,7 +1668,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very different. One asks for fast coherence in public. The other allows unfinished truth in private.",
-            "zh": "差很多。一個要求的是公開場合裡快速成形的 coherence；另一個則允許你在私下保留還沒完成的真相。"
+            "zh": "差很多。一個要求的是公開場合裡快速成形的連貫感；另一個則允許你在私下保留還沒完成的真相。"
           },
           {
             "speaker": "b",
@@ -1680,7 +1680,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many people need unfinished truth before they can ever speak finished truth.",
-            "zh": "很多人必須先寫出 unfinished truth，之後才說得出比較完整的 truth。"
+            "zh": "很多人必須先寫出還沒完成的真相，之後才說得出比較完整的真相。"
           }
         ]
       },
@@ -1727,7 +1727,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That one would be useful in essays too.",
-            "zh": "這句拿來寫 essay 也很好用。"
+            "zh": "這句拿來寫短文也很好用。"
           },
           {
             "speaker": "a",
@@ -1756,7 +1756,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the act of writing can reveal a new frame.",
-            "zh": "所以寫這件事本身，就會揭露新的 frame。"
+            "zh": "所以寫這件事本身，就會揭露新的框架。"
           },
           {
             "speaker": "a",
@@ -1821,8 +1821,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The quiet part is this: You meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
-            "zh": "沒被說出口的部分是這個：你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
+            "en": "And there is a quieter truth underneath: you meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
+            "zh": "而底下還有一個比較安靜的真相：你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
           },
           {
             "speaker": "b",
@@ -1896,7 +1896,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do you call expression a gift?",
-            "zh": "你為什麼會說，表達是一種 gift？"
+            "zh": "你為什麼會說，表達是一種禮物？"
           },
           {
             "speaker": "a",
@@ -1908,7 +1908,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So expression is not only communication. It is access.",
-            "zh": "所以表達不只是溝通，它也是一種 access。"
+            "zh": "所以表達不只是溝通，它也是一種通道。"
           },
           {
             "speaker": "a",
@@ -1955,7 +1955,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of inner life stays trapped in rough form. People may feel overwhelmed, misunderstood, or strangely absent from their own conversations.",
-            "zh": "很多內在生活會卡在很粗糙的形狀裡。人會覺得 overwhelmed、被誤解，或在自己的對話裡奇怪地缺席。"
+            "zh": "很多內在生活會卡在很粗糙的形狀裡。人會覺得被淹沒、被誤解，或在自己的對話裡奇怪地缺席。"
           },
           {
             "speaker": "b",
@@ -2138,7 +2138,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. The gift is not mastery first. The gift is movement: from hidden to visible, from stuck to speakable, from alone to accompanied.",
-            "zh": "這是我最想強調的一點。這個禮物首先不是 mastery，而是 movement：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
+            "zh": "這是我最想強調的一點。這個禮物首先不是精通，而是移動：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
           },
           {
             "speaker": "b",

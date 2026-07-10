@@ -484,7 +484,7 @@ export const WEEK_41: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Revising Values Without Rejecting the Past",
         "lines": [
           {
             "speaker": "b",
@@ -707,7 +707,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the reaction is defensive before it is rational. But does that leave anything out?",
-            "zh": "所以那個反應常常會先是防衛，而不是理性。 還是我把它說得太整齊了？"
+            "zh": "所以那個反應常常會先是防衛，而不是理性。 不過這樣講會不會漏掉了什麼？"
           },
           {
             "speaker": "a",
@@ -1105,8 +1105,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Honest language makes honest practice easier.",
-            "zh": "這裡舉個真實生活的例子會有幫助。誠實的語言，會讓誠實的練習更容易一點。"
+            "en": "Exactly, and honest language makes honest practice easier.",
+            "zh": "沒錯，而誠實的語言會讓誠實的練習更容易一些。"
           }
         ]
       },

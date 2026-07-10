@@ -15,7 +15,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "We had a forty-minute status meeting yesterday and somehow left without one clear decision.",
-            "zh": "我們昨天開了一場四十分鐘的 status meeting，結果居然連一個清楚的決定都沒有帶出來。"
+            "zh": "我們昨天開了一場四十分鐘的進度會議，結果居然連一個清楚的決定都沒有帶出來。"
           },
           {
             "speaker": "a",
@@ -396,7 +396,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right. It sounds obvious, but I usually prepare the slides instead of the thinking.",
-            "zh": "這聽起來很 obvious，可是我平常真的比較像是在準備投影片，不是在準備思路。"
+            "zh": "這聽起來很理所當然，可是我平常真的比較像是在準備投影片，不是在準備思路。"
           },
           {
             "speaker": "a",
@@ -414,7 +414,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is why it helps to write down your talking points without the slides first.",
-            "zh": "完全沒錯。這也是為什麼先不看投影片、直接把你要講的重點列成 talking points 會很有幫助。"
+            "zh": "完全沒錯。這也是為什麼先不看投影片、直接把你要講的談話重點列出來會很有幫助。"
           },
           {
             "speaker": "b",
@@ -579,7 +579,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's going to change how I walk into my next review.",
-            "zh": "這真的會改變我下一次走進 review 時的狀態。"
+            "zh": "這真的會改變我下一次走進檢討會議時的狀態。"
           },
           {
             "speaker": "a",
@@ -736,7 +736,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes sense to me. It sounds so obvious when you say it, but it is not how meetings feel in the moment.",
-            "zh": "你這樣講會覺得很 obvious，可是會議當下真的不是這麼好做到。"
+            "zh": "你這樣講會覺得很理所當然，可是會議當下真的不是這麼好做到。"
           },
           {
             "speaker": "a",
@@ -848,7 +848,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of strong meeting presence is really just steady timing and clear wording.",
-            "zh": "很多所謂強的會議存在感，其實只是穩的時機和清楚的 wording 而已。"
+            "zh": "很多所謂強的會議存在感，其實只是穩的時機和清楚的措辭而已。"
           },
           {
             "speaker": "b",
@@ -958,7 +958,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I watched a design review turn defensive in less than two minutes because one person said, 'That just will not work.'",
-            "zh": "我看過一場 design review 在兩分鐘內就全面進入防衛，起點只是有人說了一句：「That just will not work.」"
+            "zh": "我看過一場設計審查會議在兩分鐘內就全面進入防衛，起點只是有人說了一句：「That just will not work.」"
           },
           {
             "speaker": "a",
@@ -1274,7 +1274,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Our Monday update meeting somehow turned into a budget debate, a product brainstorm, and a side discussion about office seating.",
-            "zh": "我們週一的 update meeting 不知道怎麼搞的，最後變成預算辯論、產品 brainstorm，還外加一段辦公室座位安排的閒聊。"
+            "zh": "我們週一的進度會議不知道怎麼搞的，最後變成預算辯論、產品腦力激盪，還外加一段辦公室座位安排的閒聊。"
           },
           {
             "speaker": "a",
@@ -1345,7 +1345,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Indeed. A simple time check can save a meeting because it reminds the room that minutes are choices.",
-            "zh": "完全沒錯。一個簡單的 time check 就可以救一場會，因為它會提醒大家：時間本身就是選擇。"
+            "zh": "完全沒錯。一個簡單的時間確認就可以救一場會，因為它會提醒大家：時間本身就是選擇。"
           },
           {
             "speaker": "b",
@@ -1357,13 +1357,13 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And if a topic matters but not right now, put it in a parking lot instead of pretending it never came up.",
-            "zh": "如果一個話題有價值、但不是現在要談，就把它放進 parking lot，而不是假裝它沒被提過。"
+            "zh": "如果一個話題有價值、但不是現在要談，就把它放進待議清單，而不是假裝它沒被提過。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That tracks. It sounds much better than shutting people down.",
-            "zh": "這真的比直接把人 shut down 好太多了。"
+            "zh": "這真的比直接否定別人好太多了。"
           },
           {
             "speaker": "a",
@@ -1439,7 +1439,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Put the actual next steps on screen before the meeting ends.",
-            "zh": "在會議結束前，把真正的 next steps 直接放到大家看得到的地方。"
+            "zh": "在會議結束前，把真正的下一步直接放到大家看得到的地方。"
           },
           {
             "speaker": "b",
@@ -1522,7 +1522,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That actually makes facilitation sound more interesting, not less.",
-            "zh": "這反而讓 facilitation 聽起來更有意思，不是更無聊。"
+            "zh": "這反而讓會議引導聽起來更有意思，不是更無聊。"
           },
           {
             "speaker": "a",
@@ -1590,7 +1590,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Our Monday remote call was chaos. Two people talked at once, one person's audio lagged, and someone else kept answering in the chat instead of out loud.",
-            "zh": "我們週一的 remote call 真的很混亂。兩個人同時講話，有一個人的音訊一直 lag，還有另一個人一直只在 chat 裡回，不直接開口。"
+            "zh": "我們週一的遠端通話真的很混亂。兩個人同時講話，有一個人的音訊一直延遲，還有另一個人一直只在聊天室裡回，不直接開口。"
           },
           {
             "speaker": "a",
@@ -1649,7 +1649,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Clear turn-taking, visible cues, and extra patience for delay. Lag changes timing more than people realize.",
-            "zh": "清楚的輪流、看得見的提示，還有對延遲多一點耐心。lag 對時機的影響，比大家想像的大很多。"
+            "zh": "清楚的輪流、看得見的提示，還有對延遲多一點耐心。延遲對時機的影響，比大家想像的大很多。"
           },
           {
             "speaker": "b",
@@ -1661,19 +1661,19 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And some people contribute better in the chat, which can be helpful if the room actually watches it.",
-            "zh": "沒錯。有些人本來就比較能在 chat 裡貢獻，而如果房間有真的在看，那其實是有幫助的。"
+            "zh": "沒錯。有些人本來就比較能在聊天室裡貢獻，而如果房間有真的在看，那其實是有幫助的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the chat should be part of the meeting, not a side universe.",
-            "zh": "所以 chat 應該是會議的一部分，不是平行宇宙。"
+            "zh": "所以聊天室應該是會議的一部分，不是平行宇宙。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Same with screen share. If one person is driving the screen, they have to narrate what everybody else is looking at.",
-            "zh": "完全正確。screen share 也是一樣。如果是某一個人在操作畫面，他就要把大家正在看的東西講出來。"
+            "zh": "完全正確。分享畫面也是一樣。如果是某一個人在操作畫面，他就要把大家正在看的東西講出來。"
           },
           {
             "speaker": "b",
@@ -1720,7 +1720,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That works for me because it treats the chat as a real channel, not a backup channel.",
-            "zh": "我喜歡這句，因為它把 chat 當成真正的通道，不是備用通道。"
+            "zh": "我喜歡這句，因為它把聊天室當成真正的通道，不是備用通道。"
           },
           {
             "speaker": "a",
@@ -1767,7 +1767,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Say whether people should use the chat, whether cameras are expected, and how you want questions handled.",
-            "zh": "例如先說大家可不可以用 chat、鏡頭是否預設要開，還有問題要怎麼插進來。"
+            "zh": "例如先說大家可不可以用聊天室、鏡頭是否預設要開，還有問題要怎麼插進來。"
           },
           {
             "speaker": "b",
@@ -1833,7 +1833,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that a lot more than trying to perform energy into a broken call.",
-            "zh": "這比在一場壞掉的 call 裡硬撐出能量，實在太多了。"
+            "zh": "這比在一場壞掉的通話裡硬撐出能量，實在好太多了。"
           },
           {
             "speaker": "a",
@@ -1901,7 +1901,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "We had a ninety-minute strategy discussion last week that sounded thoughtful the whole time and still produced almost nothing usable.",
-            "zh": "我們上週有一場九十分鐘的 strategy discussion，整段聽起來都很有深度，可是最後幾乎沒有產出任何能用的東西。"
+            "zh": "我們上週有一場九十分鐘的策略討論，整段聽起來都很有深度，可是最後幾乎沒有產出任何能用的東西。"
           },
           {
             "speaker": "a",
@@ -2197,9 +2197,9 @@ export const WEEK_20: Episode[] = [
         "example": "A useful discussion does not just sound intelligent; it changes the next step in a visible way."
       },
       {
-        "en": "trade-off",
-        "zh": "不同選項之間的取捨成本",
-        "example": "The team started thinking better once it named the trade-off instead of pretending every good thing could happen at once."
+        "en": "deciding vs. exploring",
+        "zh": "分清楚現在是在做決定，還是只是在發想",
+        "example": "The discussion got sharper the moment someone asked what they were deciding versus what they were only exploring."
       }
     ]
   }

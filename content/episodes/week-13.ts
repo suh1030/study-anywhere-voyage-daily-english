@@ -85,8 +85,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "That's a healthy balance. Being private about your personal life doesn't make you unfriendly — it just keeps work as work.",
+            "zh": "這是很健康的平衡。在私生活上保持隱私並不代表你不友善，只是把工作歸工作而已。"
           },
           {
             "speaker": "b",
@@ -168,7 +168,7 @@ export const WEEK_13: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Small Reliability, Bigger Trust",
         "lines": [
           {
             "speaker": "b",
@@ -396,8 +396,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "That's a fair reaction. Vague feedback with high stakes leaves you guessing, and guessing under pressure almost always feels like a threat.",
+            "zh": "這反應很合理。回饋模糊、風險又高，你只能用猜的，而在壓力下用猜的，幾乎總會讓人覺得像是受到威脅。"
           },
           {
             "speaker": "b",
@@ -842,8 +842,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Having a plan makes the problem feel smaller, even before you solve it.",
-            "zh": "練聽力的時候，特別注意這個句子的形狀。有了計畫，問題在解決之前就已經感覺小了一點。"
+            "en": "That's the point. Having a plan makes the problem feel smaller, even before you solve it.",
+            "zh": "重點就在這裡。有了計畫，問題在你真正解決它之前，就已經感覺小了一點。"
           }
         ]
       },
@@ -975,8 +975,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That sounds closer to how it actually works.",
-            "zh": "這樣更老實地說出了它實際的運作方式。"
+            "en": "That's the cruel part. It was never about you not being good enough — constant checking makes almost anyone start to doubt themselves.",
+            "zh": "最殘忍的就是這裡。這從來不是因為你不夠好，而是被人不停盯著檢查，幾乎任何人都會開始懷疑自己。"
           },
           {
             "speaker": "b",
@@ -1469,8 +1469,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. That conversation itself will already improve the team culture — just by acknowledging that communication takes intentional design.",
-            "zh": "我們把它收到一個情境裡：那場對話本身就已經會改善團隊文化了——只要承認溝通需要刻意設計。"
+            "en": "That's a great move. That conversation itself will already improve the team culture — just by acknowledging that communication takes intentional design.",
+            "zh": "這一步很棒。那場對話本身就已經會改善團隊文化了——光是承認溝通需要刻意去設計，就有效果。"
           }
         ]
       },
@@ -1590,8 +1590,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "That's a rough morning. When meetings fill your best hours, the real work always gets pushed to whatever energy is left.",
+            "zh": "這種早上真的很累人。當會議塞滿你狀態最好的時段，真正的工作就只能被推到你剩下的那點精力去做。"
           },
           {
             "speaker": "b",
@@ -1655,20 +1655,20 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "Acknowledge it, then park it. Say, \"That's a great point — can we note it and come back to it after we've decided X?\" Write it somewhere visible so they know it won't be lost.",
+            "zh": "先認可它，再把它擱著。你可以說：「這個點很好——我們先記下來，等決定完X再回來討論好嗎？」把它寫在大家看得到的地方，讓對方知道它不會被漏掉。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That changes how I want to use it.",
-            "zh": "這改變了我想怎麼去用它。"
+            "en": "So I don't have to choose between shutting them down and losing control of the meeting.",
+            "zh": "所以我不用在打斷對方和讓會議失控之間二選一。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. It validates the person while protecting the meeting's purpose. Both matter.",
-            "zh": "對。它讓那個人感到被認可，同時保護了會議的目的。兩個都重要。"
+            "en": "Exactly. It validates the person while protecting the meeting's purpose. Both matter.",
+            "zh": "沒錯。它讓那個人感到被認可，同時保護了會議的目的。兩個都重要。"
           },
           {
             "speaker": "b",
@@ -1918,8 +1918,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "That's more concrete, at least. Now it's about specific actions — taking initiative and being visible across teams — instead of some vague quality you either have or don't.",
+            "zh": "至少這具體多了。現在它談的是具體行動——展現主動、在跨團隊之間有存在感——而不是某種你要嘛有、要嘛沒有的模糊特質。"
           },
           {
             "speaker": "b",

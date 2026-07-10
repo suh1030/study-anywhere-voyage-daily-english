@@ -361,7 +361,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A vague \"thank you\" is better than nothing, but a named thank you can change how someone sees their own effort.",
-            "zh": "模糊的 thank you 當然比沒有好，但被命名出來的感謝，真的會改變一個人怎麼看自己的付出。"
+            "zh": "含糊的一句謝謝當然比沒有好，但被具體說出來的感謝，真的會改變一個人怎麼看待自己的付出。"
           },
           {
             "speaker": "b",
@@ -490,7 +490,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Can one well-spoken thank you really matter that much?",
-            "zh": "一句說得好的 thank you，真的會差那麼多嗎？"
+            "zh": "一句說得好的謝謝，真的會差那麼多嗎？"
           },
           {
             "speaker": "a",
@@ -695,7 +695,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why does ordinary beauty matter psychologically?",
-            "zh": "那種 ordinary beauty，在心理上為什麼會重要？"
+            "zh": "那種日常之美，在心理上為什麼會重要？"
           },
           {
             "speaker": "a",
@@ -712,8 +712,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: It can soften the pace of the mind for a moment and create a little more room to feel alive.",
-            "zh": "現實通常比這再亂一點：它會讓心的速度稍微變柔，給人多一點「自己還活著」的空間。"
+            "en": "Exactly. It can soften the pace of the mind for a moment and create a little more room to feel alive.",
+            "zh": "沒錯。它能讓心的節奏暫時放慢，多空出一點空間，讓人覺得自己還活著。"
           },
           {
             "speaker": "b",
@@ -725,7 +725,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. When life gets intense, people often need ordinary beauty more, not less, because it helps the system remember gentleness.",
-            "zh": "確實如此。當生活很硬時，人通常更需要 ordinary beauty，而不是更不需要，因為它會幫身體記起溫柔。"
+            "zh": "確實如此。當生活很硬時，人通常更需要日常之美，而不是更不需要，因為它會幫身體記起溫柔。"
           },
           {
             "speaker": "b",
@@ -760,13 +760,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that it leaves room for subtlety.",
-            "zh": "我喜歡它有留下 subtlety 的空間。"
+            "zh": "我喜歡它有留下細膩的空間。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could keep it simple and say, \"I almost missed it because it looked too ordinary at first.\" That works when beauty arrives without spectacle.",
-            "zh": "另一句也很好：「I almost missed it because it looked too ordinary at first.」很適合那種沒有 spectacle 的美。"
+            "zh": "另一句也很好：「I almost missed it because it looked too ordinary at first.」很適合那種沒有張揚場面的美。"
           },
           {
             "speaker": "b",
@@ -801,7 +801,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Could you show me a really ordinary example?",
-            "zh": "你可以給我一個真的很 ordinary 的例子嗎？"
+            "zh": "你可以給我一個真的很平凡的例子嗎？"
           },
           {
             "speaker": "a",
@@ -831,13 +831,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think ordinary beauty often works like that. It does not ask to dominate your attention. It only asks to be noticed for a second.",
-            "zh": "我覺得 ordinary beauty 很常就是這樣。它不會要求霸佔你的注意力，只是請你看見它一秒鐘。"
+            "zh": "我覺得日常之美很常就是這樣。它不會要求霸佔你的注意力，只是請你看見它一秒鐘。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So beauty can be modest and still life-giving.",
-            "zh": "所以美可以很 modest，但仍然很能養人。"
+            "zh": "所以美可以很樸素，但仍然很能養人。"
           },
           {
             "speaker": "a",
@@ -854,7 +854,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How can someone become better at noticing ordinary beauty?",
-            "zh": "如果一個人想更會看見 ordinary beauty，可以怎麼做？"
+            "zh": "如果一個人想更會看見日常之美，可以怎麼做？"
           },
           {
             "speaker": "a",
@@ -884,7 +884,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is meaningful because beauty often becomes visible when control loosens a little and presence deepens.",
-            "zh": "它很有意義，因為很多時候，美是等到控制稍微放鬆、presence 稍微變深之後，才會出現。"
+            "zh": "它很有意義，因為很多時候，美是等到控制稍微放鬆、專注稍微變深之後，才會出現。"
           },
           {
             "speaker": "b",
@@ -982,7 +982,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I get that. It sounds much healthier than forced optimism.",
-            "zh": "這比 forced optimism 健康太多了。"
+            "zh": "這比強迫式的樂觀健康太多了。"
           },
           {
             "speaker": "a",
@@ -1123,13 +1123,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone gets critical feedback at work and spends the whole evening feeling like a failure. Then they remember the parts of the day that still showed competence, trust, and progress.",
-            "zh": "想像一個人在工作上收到一段批評，結果整個晚上都覺得自己是一個 failure。後來他開始想起那天其實還有展現能力、信任和進步的部分。"
+            "zh": "想像一個人在工作上收到一段批評，結果整個晚上都覺得自己是個失敗者。後來他開始想起那天其實還有展現能力、信任和進步的部分。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the feedback stays true, but it stops owning the entire story.",
-            "zh": "所以 feedback 還是真的，但它不再擁有整個故事。"
+            "zh": "所以那個回饋還是真的，但它不再擁有整個故事。"
           },
           {
             "speaker": "a",
@@ -1147,7 +1147,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because many hard moments become harder through isolation from the rest of reality.",
-            "zh": "對。很多難的 moment，會變得更難，就是因為它被從整個現實裡孤立出來了。"
+            "zh": "對。很多難熬的時刻，會變得更難，就是因為它被從整個現實裡孤立出來了。"
           },
           {
             "speaker": "b",
@@ -1292,7 +1292,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. It can reduce invisibility, restore morale, and acknowledge the effort that metrics alone cannot fully capture.",
-            "zh": "這一點值得停下來想一下。它會減少隱形感、修復士氣，也會承認那些光靠 metrics 根本抓不完的努力。"
+            "zh": "這一點值得停下來想一下。它會減少隱形感、修復士氣，也會承認那些光靠指標根本抓不完的努力。"
           },
           {
             "speaker": "b",
@@ -1316,7 +1316,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Even one sincere acknowledgment can shift the emotional texture of a workday.",
-            "zh": "對。哪怕只是一句真誠的 acknowledgment，也能改變一整個工作日的情緒質地。"
+            "zh": "對。哪怕只是一句真誠的肯定，也能改變一整個工作日的情緒質地。"
           }
         ]
       },
@@ -1351,7 +1351,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's why generic praise often feels empty.",
-            "zh": "這也就是為什麼 generic praise 常常很空。"
+            "zh": "這也就是為什麼籠統的稱讚常常很空。"
           },
           {
             "speaker": "a",
@@ -1392,7 +1392,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "True. It sounds so much better than a generic good job.",
-            "zh": "這句真的比 generic good job 好太多。"
+            "zh": "這句真的比籠統的一句「做得好」好太多。"
           },
           {
             "speaker": "a",
@@ -1451,7 +1451,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Imagine a team lead who regularly names thoughtful work, shared labor, and quiet reliability. People start relaxing into better effort, not only bigger effort.",
-            "zh": "沒錯。想像一個 team lead 會穩定地指出：誰做得很周到、誰分擔了勞務、誰的 quiet reliability 正在支撐大家。人會開始比較放鬆地做出更好的努力，而不是只做更大的努力。"
+            "zh": "沒錯。想像一個團隊主管會穩定地指出：誰做得很周到、誰分擔了勞務、誰那份安靜的可靠正在支撐大家。人會開始比較放鬆地做出更好的努力，而不是只做更大的努力。"
           },
           {
             "speaker": "b",
@@ -1469,7 +1469,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a huge relief in any workplace.",
-            "zh": "在任何 workplace 裡，這都是很大的 relief。"
+            "zh": "在任何職場裡，這都是很大的寬慰。"
           },
           {
             "speaker": "a",
@@ -1487,13 +1487,13 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I would say it is soft only if you misunderstand strength. Gratitude is one way professionals build trust, memory, and sustainable effort.",
-            "zh": "我會說，那只是你誤解了 strength。感謝是專業人士建立信任、建立共同記憶、也建立能長期維持努力的一種方式。"
+            "zh": "我會說，那只是你誤解了「堅強」。感謝是專業人士建立信任、建立共同記憶、也建立能長期維持努力的一種方式。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is not softness instead of strength. It is part of strength.",
-            "zh": "所以它不是和 strength 對立，它本來就是 strength 的一部分。"
+            "zh": "所以它不是和堅強對立，它本來就是堅強的一部分。"
           },
           {
             "speaker": "a",
@@ -1597,7 +1597,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So even a thank you can have cultural rules around it.",
-            "zh": "所以連一句 thank you 周圍，其實也有文化規則。"
+            "zh": "所以連一句謝謝周圍，其實也有文化規則。"
           },
           {
             "speaker": "a",
@@ -1703,7 +1703,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes sense to me. It sounds much better than calling someone ungrateful too fast.",
-            "zh": "這比太快說別人 ungrateful 好太多了。"
+            "zh": "這比太快說別人不知感恩好太多了。"
           },
           {
             "speaker": "a",
@@ -1768,7 +1768,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That really is a familiar relationship pattern.",
-            "zh": "這真的是很常見的關係 pattern。"
+            "zh": "這真的是很常見的關係模式。"
           },
           {
             "speaker": "a",
@@ -1780,7 +1780,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So naming the pattern can protect the relationship.",
-            "zh": "所以把 pattern 點出來，真的能保護關係。"
+            "zh": "所以把這個模式點出來，真的能保護關係。"
           },
           {
             "speaker": "a",
@@ -1797,7 +1797,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is the deepest skill here?",
-            "zh": "這裡最深的 skill 是什麼？"
+            "zh": "這裡最深的一項技巧是什麼？"
           },
           {
             "speaker": "a",
@@ -1821,7 +1821,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to prove one style is better.",
-            "zh": "所以目標不是證明哪一種 style 比較高級。"
+            "zh": "所以目標不是證明哪一種風格比較高級。"
           },
           {
             "speaker": "a",
@@ -1919,7 +1919,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Indeed. It matters in relationships, in work, in hard seasons, and in ordinary beauty because it keeps pointing back to what is already holding us.",
-            "zh": "沒錯。它在關係、工作、艱難時期，甚至在 ordinary beauty 裡都重要，因為它一直把人帶回那些其實已經在支撐著自己的東西。"
+            "zh": "沒錯。它在關係、工作、艱難時期，甚至在日常之美裡都重要，因為它一直把人帶回那些其實已經在支撐著自己的東西。"
           },
           {
             "speaker": "b",
@@ -2025,7 +2025,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could keep it simple and say, \"I am learning that appreciation becomes real when it gets specific.\" That is great for speaking or journaling.",
-            "zh": "另一句也很好：「I am learning that appreciation becomes real when it gets specific.」這句不管拿來 speaking 還是 journaling 都很好。"
+            "zh": "另一句也很好：「I am learning that appreciation becomes real when it gets specific.」這句不管拿來口說練習還是寫日記都很好。"
           },
           {
             "speaker": "b",
@@ -2043,7 +2043,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That seems like the right tone for ending the week.",
-            "zh": "這個 tone 很適合用來結束這一週。"
+            "zh": "這個語氣很適合用來結束這一週。"
           },
           {
             "speaker": "a",
@@ -2054,7 +2054,7 @@ export const WEEK_50: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — A Gratitude Practice Worth Keeping",
         "lines": [
           {
             "speaker": "b",
@@ -2072,19 +2072,19 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I respond to that because it does not sound performative.",
-            "zh": "我喜歡這個，因為它不會聽起來很 performative。"
+            "zh": "我喜歡這個，因為它不會聽起來很做作。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another good practice is thanking one person more precisely than usual. Say what they did, what it changed, and why it mattered.",
-            "zh": "另一個很好的 practice，是比平常更精準地謝謝一個人。去說他做了什麼、改變了什麼、又為什麼重要。"
+            "zh": "另一個很好的練習，是比平常更精準地謝謝一個人。去說他做了什麼、改變了什麼、又為什麼重要。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That would probably deepen relationships over time.",
-            "zh": "那個 practice 時間久了，大概真的會讓關係變深。"
+            "zh": "那個練習時間久了，大概真的會讓關係變深。"
           },
           {
             "speaker": "a",
@@ -2120,7 +2120,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's much bigger than a mood.",
-            "zh": "這比一種 mood 大很多。"
+            "zh": "這比一種心情大很多。"
           },
           {
             "speaker": "a",

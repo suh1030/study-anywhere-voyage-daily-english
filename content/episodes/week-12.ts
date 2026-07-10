@@ -958,7 +958,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Every big family gathering, the same relatives ask me the same questions. When are you getting married? How much do you make? Have you lost weight?",
-            "zh": "每次大型家庭聚會，同樣的親戚都會問我同樣的問題。你什麼時候要建立家庭？你薪水多少？你瘦了嗎？"
+            "zh": "每次大型家庭聚會，同樣的親戚都會問我同樣的問題。你什麼時候要結婚？你薪水多少？你瘦了嗎？"
           },
           {
             "speaker": "a",
@@ -1146,8 +1146,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Of course, daily life is rarely that tidy: Plus, the people in the kitchen usually have better conversations.",
-            "zh": "當然，日常很少這麼整齊：而且在廚房的人通常聊天聊得比較好。"
+            "en": "Exactly. And the people in the kitchen usually have better conversations.",
+            "zh": "真的。而且待在廚房的人，通常聊得比較好。"
           },
           {
             "speaker": "b",
@@ -2096,7 +2096,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the investment is mostly time and attention, not dramatic gestures. Is that too tidy a way to put it?",
-            "zh": "所以這個投資主要是時間和注意力，不是戲劇性的舉動。 還是我把它說得太整齊了？"
+            "zh": "所以這份投資主要是時間和注意力，不是戲劇性的舉動。我這樣歸納，會不會太整齊了一點？"
           },
           {
             "speaker": "a",

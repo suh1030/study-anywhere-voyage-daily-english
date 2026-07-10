@@ -162,8 +162,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Outdoor language works best when it stays specific and bodily.",
-            "zh": "我們把它放進一個情境來看。談戶外的語言，最好就是具體，而且有身體感。"
+            "en": "Outdoor language works best when it stays specific and bodily.",
+            "zh": "談戶外的語言，最好就是具體，而且有身體感。"
           }
         ]
       },
@@ -789,8 +789,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The copyable sentence is this. That is what simple outdoor language should do.",
-            "zh": "可以直接拿去用的就是這一句。簡單的戶外語言，本來就應該做到這件事。"
+            "en": "That is what simple outdoor language should do.",
+            "zh": "簡單的戶外語言，本來就應該做到這件事。"
           }
         ]
       },
@@ -1421,8 +1421,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. The language should sound grounded, not alarmist.",
-            "zh": "日常版本會更簡單。這種語言最好要接地，不要只剩警報感。"
+            "en": "The language should sound grounded, not alarmist.",
+            "zh": "這種語言最好要接地，不要只剩下警報感。"
           }
         ]
       },
@@ -1631,8 +1631,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. It is a helpful sentence for travelers.",
-            "zh": "練聽力時，注意一下這句話長什麼樣子。這對旅行者來說是很有用的一句話。"
+            "en": "That distinction is easy to miss until a trip forces you to feel it.",
+            "zh": "這個分別很容易被忽略，往往要等到一趟旅行逼你親身感受到，才會懂。"
           }
         ]
       },
@@ -1737,8 +1737,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. The language of responsibility should still sound human.",
-            "zh": "我們把它收到一個情境裡：責任感的語言，還是要聽起來像人在說話。"
+            "en": "The language of responsibility should still sound human.",
+            "zh": "責任感的語言，還是要聽起來像人在說話。"
           }
         ]
       },
@@ -1755,7 +1755,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Staying on trails, going at quieter times, supporting local guides, carrying your trash out, and resisting the urge to turn every hidden place into viral content.",
-            "zh": "像是待在步道上、挑比較不擁擠的時間、支持在地導覽、把垃圾帶走，還有忍住不要把每一個祕境都變成 viral 內容。"
+            "zh": "像是待在步道上、挑比較不擁擠的時間、支持在地導覽、把垃圾帶走，還有忍住不要把每一個祕境都變成爆紅內容。"
           },
           {
             "speaker": "b",

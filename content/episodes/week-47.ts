@@ -98,7 +98,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it matters because stereotypes often begin where curiosity stops too early.",
-            "zh": "而這件事很重要，因為 stereotype 往往就是在好奇心太早停下來的地方開始的。"
+            "zh": "而這件事很重要，因為刻板印象往往就是在好奇心太早停下來的地方開始的。"
           },
           {
             "speaker": "b",
@@ -222,7 +222,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is the healthiest mindset for learning across cultures?",
-            "zh": "如果要跨文化學習，最健康的 mindset 是什麼？"
+            "zh": "如果要跨文化學習，最健康的心態是什麼？"
           },
           {
             "speaker": "a",
@@ -338,7 +338,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So meetings can become cultural even when nobody says the word culture.",
-            "zh": "所以就算沒有人講出 culture，會議也可能早就在文化裡了。"
+            "zh": "所以就算沒有人把『文化』講出來，會議也可能早就在文化裡了。"
           },
           {
             "speaker": "a",
@@ -385,13 +385,13 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Feedback is a big one. In some places, direct critique shows respect for efficiency. In others, the same sentence may feel harsh or humiliating.",
-            "zh": "feedback 是很大的來源。在有些地方，直接批評代表尊重效率；但在另外一些地方，同一句話可能會顯得很刺，甚至讓人覺得被羞辱。"
+            "zh": "回饋是很大的來源。在有些地方，直接批評代表尊重效率；但在另外一些地方，同一句話可能會顯得很刺，甚至讓人覺得被羞辱。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So intent and impact can separate very quickly.",
-            "zh": "所以 intent 和 impact 很容易立刻分開。"
+            "zh": "所以意圖和實際造成的影響，很容易立刻分開。"
           },
           {
             "speaker": "a",
@@ -509,7 +509,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So inclusion sometimes means offering more than one path.",
-            "zh": "所以所謂 inclusion，有時候就是多開幾條路。"
+            "zh": "所以所謂包容，有時候就是多開幾條路。"
           },
           {
             "speaker": "a",
@@ -579,8 +579,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. Once people see that, they usually stop chasing perfection and start building trust.",
-            "zh": "舉個真實的例子會更清楚：當人看見這一點時，他們通常就會停止追求完美，開始建立信任。"
+            "en": "Picture two coworkers who misread each other for weeks, then finally name it out loud. Once people see that, they usually stop chasing perfection and start building trust.",
+            "zh": "想像兩個同事誤讀彼此好幾週，最後終於把它講開。當人看見這一點，他們通常就會停止追求完美，開始建立信任。"
           }
         ]
       }
@@ -678,13 +678,13 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So food is not trivial at all.",
-            "zh": "所以食物一點都不 trivial。"
+            "zh": "所以食物一點都不瑣碎。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. It is one of the most ordinary and meaningful ways culture stays visible.",
-            "zh": "完全不 trivial。它是文化最普通、也最有意義的可見方式之一。"
+            "zh": "完全不瑣碎。它是文化最普通、也最有意義的可見方式之一。"
           }
         ]
       },
@@ -971,7 +971,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is different, because curiosity slows the ego down. You notice more when you stop needing every place to match your own habits.",
-            "zh": "它真的不同，因為好奇心會讓 ego 慢下來。當你不再要求每個地方都配合你的習慣時，你就會看見更多。"
+            "zh": "它真的不同，因為好奇心會讓自我慢下來。當你不再要求每個地方都配合你的習慣時，你就會看見更多。"
           },
           {
             "speaker": "b",
@@ -1422,7 +1422,7 @@ export const WEEK_47: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Same Action, Different Meanings",
         "lines": [
           {
             "speaker": "b",
@@ -1446,7 +1446,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. If people miss that, they may think the other side is cold or controlling, when they are actually acting from care.",
-            "zh": "沒錯。如果看不到這一層，人就很容易覺得對方冷漠、或太控制；但對方其實可能是從 care 在出發。"
+            "zh": "沒錯。如果看不到這一層，人就很容易覺得對方冷漠、或太控制；但對方其實可能是從關心在出發。"
           },
           {
             "speaker": "b",
@@ -1645,7 +1645,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So subtext is fragile.",
-            "zh": "所以 subtext 其實很脆弱。"
+            "zh": "所以那份言外之意其實很脆弱。"
           },
           {
             "speaker": "a",
@@ -1663,7 +1663,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is both. Sometimes the translator must choose between preserving the wording and preserving the effect.",
-            "zh": "它本來就兩者都要。有時候譯者得在保留 wording 和保留效果之間做選擇。"
+            "zh": "它本來就兩者都要。有時候譯者得在保留字面用字和保留效果之間做選擇。"
           },
           {
             "speaker": "b",
@@ -1710,7 +1710,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that phrase a lot.",
-            "zh": "我很喜歡 social texture 這個說法。"
+            "zh": "我很喜歡『人際質地』這個說法。"
           },
           {
             "speaker": "a",
@@ -1751,7 +1751,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the information survives, but the relationship tone does not.",
-            "zh": "所以資訊活下來了，可是關係裡的 tone 沒活下來。"
+            "zh": "所以資訊活下來了，可是關係裡的語氣沒活下來。"
           },
           {
             "speaker": "a",
@@ -1775,13 +1775,13 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So translation is a constant series of trade-offs.",
-            "zh": "所以翻譯其實是一連串 trade-off。"
+            "zh": "所以翻譯其實是一連串取捨。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The best translators make those trade-offs with care rather than ego.",
-            "zh": "對，而好的譯者會帶著 care 做那些取捨，不是帶著 ego。"
+            "zh": "對，而好的譯者會帶著用心去做那些取捨，不是帶著私心。"
           }
         ]
       },
@@ -1896,7 +1896,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What does it really mean to build a cultural bridge?",
-            "zh": "真正所謂建立 cultural bridge，到底是什麼意思？"
+            "zh": "真正所謂建立文化橋樑，到底是什麼意思？"
           },
           {
             "speaker": "a",
@@ -1920,7 +1920,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That already feels more respectful than a lot of inclusion language.",
-            "zh": "這聽起來比很多 inclusion 語言更尊重。"
+            "zh": "這聽起來比很多包容語言更尊重。"
           },
           {
             "speaker": "a",
@@ -1955,7 +1955,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They explain context, soften needless friction, and notice where people are silently misreading each other.",
-            "zh": "他們會補 context、減少不必要的摩擦，也會注意哪裡有人在安靜地彼此誤讀。"
+            "zh": "他們會補上脈絡、減少不必要的摩擦，也會注意哪裡有人在安靜地彼此誤讀。"
           },
           {
             "speaker": "b",
@@ -2008,7 +2008,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very useful sentence is: \"I think there may be some context missing on both sides.\" It lowers blame and opens explanation.",
-            "zh": "一句非常好用的是：「I think there may be some context missing on both sides.」這句會降低 blame，也打開解釋空間。"
+            "zh": "一句非常好用的是：「I think there may be some context missing on both sides.」這句會降低指責，也打開解釋空間。"
           },
           {
             "speaker": "b",
@@ -2079,7 +2079,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So cultural bridges are often built in one sentence at a time.",
-            "zh": "所以 cultural bridge 很多時候就是一句一句話搭出來的。"
+            "zh": "所以文化橋樑很多時候就是一句一句話搭出來的。"
           },
           {
             "speaker": "a",
@@ -2108,7 +2108,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why do cultural bridges matter more and more now?",
-            "zh": "為什麼 cultural bridges 在現在變得越來越重要？"
+            "zh": "為什麼文化橋樑在現在變得越來越重要？"
           },
           {
             "speaker": "a",

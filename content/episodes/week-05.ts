@@ -473,8 +473,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is a cleaner way to say it. It helps people talk about change without sounding disrespectful.",
-            "zh": "有一個更乾淨俐落的說法。它會幫人談改變，但又不會聽起來像是不尊重傳統。"
+            "en": "Here is a cleaner way to say it: \"We are honoring the same thing, just in a way that fits our life now.\" It helps people talk about change without sounding disrespectful.",
+            "zh": "有一個更乾淨俐落的說法：「We are honoring the same thing, just in a way that fits our life now.」它會幫人談改變，但又不會聽起來像是不尊重傳統。"
           }
         ]
       },
@@ -707,7 +707,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the gift feels personal. Does that match what you mean?",
-            "zh": "所以禮物會讓人感覺很貼近自己。 還是我把它說得太整齊了？"
+            "zh": "所以禮物會讓人感覺很貼近自己。這樣講有貼到你的意思嗎？"
           },
           {
             "speaker": "a",
@@ -1111,7 +1111,7 @@ export const WEEK_05: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Boundaries and What Stays With Us",
         "lines": [
           {
             "speaker": "b",
@@ -1194,8 +1194,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Small moments are often where the real meaning lives.",
-            "zh": "放到平常的日子裡，這句話會變得更簡單。真正的意義，很多時候就住在那些小時刻裡。"
+            "en": "Small moments are often where the real meaning lives.",
+            "zh": "真正的意義，很多時候就住在那些小時刻裡。"
           },
           {
             "speaker": "b",
@@ -1602,8 +1602,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: A song can make people feel playful, proud, tender, or ready to move.",
-            "zh": "這裡有個不起眼但重要的細節：一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
+            "en": "A song can make people feel playful, proud, tender, or ready to move.",
+            "zh": "一首歌可以讓人覺得輕鬆、驕傲、溫柔，或者想動起來。"
           },
           {
             "speaker": "b",
@@ -1978,8 +1978,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is where the language becomes useful. It is to let the meaning stay in a smaller form.",
-            "zh": "這正是語言派上用場的地方。真正的重點，是讓那個意義用比較小的形式留下來。"
+            "en": "The point is to let the meaning stay in a smaller form.",
+            "zh": "真正的重點，是讓那個意義用比較小的形式留下來。"
           },
           {
             "speaker": "b",

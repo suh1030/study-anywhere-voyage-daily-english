@@ -396,7 +396,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the appeal is psychological, not only aesthetic. Or is there a real-life exception here?",
-            "zh": "所以吸引人的點，其實是心理上的，不只是好不好看。 還是我把它說得太整齊了？"
+            "zh": "所以吸引人的點，其實是心理上的，不只是好不好看。還是說，這裡其實有現實上的例外？"
           },
           {
             "speaker": "a",
@@ -706,7 +706,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because hustle culture teaches people to justify themselves through output. Rest and play begin to look suspicious.",
-            "zh": "因為 hustle culture 會教人用產出來替自己辯護。於是休息和玩心就開始看起來很可疑。"
+            "zh": "因為拚搏文化會教人用產出來替自己辯護。於是休息和玩心就開始看起來很可疑。"
           },
           {
             "speaker": "b",
@@ -800,7 +800,7 @@ export const WEEK_32: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — What a Hobby Protects",
         "lines": [
           {
             "speaker": "b",
@@ -854,7 +854,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does a hobby protect in a person living inside hustle culture?",
-            "zh": "所以對活在 hustle culture 裡的人來說，一個興趣最後保護的是什麼？"
+            "zh": "所以對活在拚搏文化裡的人來說，一個興趣最後保護的是什麼？"
           },
           {
             "speaker": "a",
@@ -1274,7 +1274,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I passed a cafe last weekend and saw eight adults comparing fountain pens with complete seriousness, and honestly they looked happier than most people at networking events.",
-            "zh": "我上週末經過一間咖啡廳，看到八個大人在很認真地比較鋼筆，老實說，他們看起來比很多去 networking 活動的人還快樂。"
+            "zh": "我上週末經過一間咖啡廳，看到八個大人在很認真地比較鋼筆，老實說，他們看起來比很多去社交場合的人還快樂。"
           },
           {
             "speaker": "a",
@@ -1292,7 +1292,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Specificity lowers performance sometimes. People stop trying to impress and start trying to connect.",
-            "zh": "完全沒錯。有時候越具體，表演感反而越低。人不再一直想 impress，而是開始真的想連上。"
+            "zh": "完全沒錯。有時候越具體，表演感反而越低。人不再一直想著要讓別人印象深刻，而是開始真的想連上。"
           },
           {
             "speaker": "b",
@@ -1339,7 +1339,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the object or activity carries some of the pressure. Would you say it works like that in real life?",
-            "zh": "所以那個物件或活動會替彼此分擔一部分壓力。 還是我把它說得太整齊了？"
+            "zh": "所以那個物件或活動會替彼此分擔一部分壓力。你覺得在真實生活裡也是這樣嗎？"
           },
           {
             "speaker": "a",
@@ -1510,8 +1510,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A real-life example helps here. They may be showing you where your people are.",
-            "zh": "這裡舉個真實生活的例子會有幫助。它們很可能正在告訴你，你的人會在哪裡。"
+            "en": "They may be showing you where your people are.",
+            "zh": "它們很可能正在告訴你，你的人會在哪裡。"
           },
           {
             "speaker": "b",

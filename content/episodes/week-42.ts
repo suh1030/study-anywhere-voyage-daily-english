@@ -521,7 +521,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the future is not something to stare at. It is something to work your way toward. I can imagine someone pushing back on that.",
-            "zh": "所以未來不是一個你要凝視的東西，而是一個你一步步走向的地方。 還是我把它說得太整齊了？"
+            "zh": "所以未來不是一個你要凝視的東西，而是一個你一步步走向的地方。 我可以想像有人會反駁這個說法。"
           },
           {
             "speaker": "a",
@@ -1029,7 +1029,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not whether my industry survives. It is whether my specific role survives. Tell me if I am smoothing over the hard part.",
-            "zh": "所以問題不是我的行業能不能生存，而是我具體的職位能不能生存。 還是我把它說得太整齊了？"
+            "zh": "所以問題不是我的行業能不能生存，而是我具體的職位能不能生存。 如果我把難的地方輕描淡寫了，要告訴我。"
           },
           {
             "speaker": "a",
@@ -1470,7 +1470,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the identity shift can come before the skill is fully developed. Does that match what you mean?",
-            "zh": "所以身份認同的轉變可以在技能完全發展之前就發生。 還是我把它說得太整齊了？"
+            "zh": "所以身份認同的轉變可以在技能完全發展之前就發生。 這樣理解符合你的意思嗎？"
           },
           {
             "speaker": "a",

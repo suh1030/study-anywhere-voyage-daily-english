@@ -44,8 +44,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Of course, daily life is rarely that tidy: A camera rewards attention before it rewards technique.",
-            "zh": "當然，日常很少這麼整齊：相機最先回報的，通常不是技巧，而是注意力。"
+            "en": "Exactly. A camera rewards attention before it rewards technique.",
+            "zh": "完全沒錯。相機最先回報的，通常不是技巧，而是注意力。"
           },
           {
             "speaker": "b",
@@ -168,7 +168,7 @@ export const WEEK_28: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — What Photography Teaches Beyond Itself",
         "lines": [
           {
             "speaker": "b",
@@ -420,8 +420,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the piece I want learners to notice. Sometimes the best move is one photo and then your full attention back to the people there.",
-            "zh": "這是我最希望學習的人注意到的地方。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
+            "en": "That is the part worth remembering. Sometimes the best move is one photo, and then your full attention back to the people there.",
+            "zh": "這才是值得記住的地方。有時候最好的做法就是拍一張，然後把你的完整注意力還給眼前的人。"
           }
         ]
       },
@@ -514,8 +514,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Those details are sometimes the proof that a real life was happening in front of you.",
-            "zh": "日常版本會更簡單。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
+            "en": "And those details are sometimes the proof that a real life was happening in front of you.",
+            "zh": "而那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
           },
           {
             "speaker": "b",
@@ -842,8 +842,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Anything trainable is less intimidating than people imagine.",
-            "zh": "練聽力時，注意一下這句話長什麼樣子。只要是能練的東西，通常就沒有大家想像得那麼可怕。"
+            "en": "And anything trainable is less intimidating than people imagine.",
+            "zh": "而且只要是能練的東西，通常就沒有大家想像得那麼可怕。"
           }
         ]
       },
@@ -895,8 +895,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. The best art questions usually do.",
-            "zh": "我們把它收到一個情境裡：最好的藝術問題，本來就都很會留下來。"
+            "en": "The best art questions usually do.",
+            "zh": "最好的藝術問題，本來就都很會留下來。"
           }
         ]
       }
@@ -1756,7 +1756,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That already feels healthier than creating with the caption half-written in my head.",
-            "zh": "這感覺就比我一邊做一邊在腦中預寫 caption 健康太多了。"
+            "zh": "這感覺就比我一邊做一邊在腦中預寫貼文文案健康太多了。"
           },
           {
             "speaker": "a",
@@ -1780,7 +1780,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the answer is not disappearing forever. It is designing a healthier relationship to visibility. Is the simple version too simple?",
-            "zh": "所以答案不是永遠消失，而是設計一個和曝光比較健康的關係。 還是我把它說得太整齊了？"
+            "zh": "所以答案不是永遠消失，而是去設計一個和曝光比較健康的關係。這樣講會不會太簡化了？"
           },
           {
             "speaker": "a",
@@ -1803,7 +1803,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Remembering what the work belongs to. Does it belong to your curiosity, your values, and your growth, or only to the feed?",
-            "zh": "記得那個作品到底屬於什麼。它是屬於你的好奇、價值觀和成長，還是只屬於那個 feed？"
+            "zh": "記得那個作品到底屬於什麼。它是屬於你的好奇、價值觀和成長，還是只屬於那個動態牆？"
           },
           {
             "speaker": "b",
@@ -1826,8 +1826,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Artists need images like that too. They help people remember there is still a self outside the platform.",
-            "zh": "放到平常的日子裡，這句話會變得更簡單。創作者也需要這種畫面，它會提醒人：平台之外，還是有一個自己。"
+            "en": "Artists need images like that too. They help people remember there is still a self outside the platform.",
+            "zh": "創作者也需要這種畫面，它會提醒人：平台之外，還是有一個自己。"
           },
           {
             "speaker": "b",
@@ -2048,8 +2048,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. The right sentence can help you keep a big lesson close.",
-            "zh": "練聽力的時候，特別注意這個句子的形狀。對的句子，會幫你把一個大的體會放在手邊。"
+            "en": "And the right sentence can help you keep a big lesson close.",
+            "zh": "對的句子，會幫你把一個大的體會放在手邊。"
           }
         ]
       },

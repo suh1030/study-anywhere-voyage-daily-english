@@ -80,7 +80,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the calm comes partly from not being interrupted all the time. Does that match what you mean?",
-            "zh": "所以那種平靜，有一部分其實是來自不再一直被打斷。 還是我把它說得太整齊了？"
+            "zh": "所以那種平靜，有一部分其實是來自不再一直被打斷。這樣理解對嗎？"
           },
           {
             "speaker": "a",
@@ -574,7 +574,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I had not connected those two things before, and now I cannot separate them.",
-            "zh": "這句我應該會記很久。"
+            "zh": "我以前從沒把這兩件事連在一起，現在再也拆不開了。"
           },
           {
             "speaker": "a",
@@ -987,8 +987,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. Private writing becomes useful when it stops trying to impress anyone, including you.",
-            "zh": "在普通的一天裡，這句話可以說得更簡單。寫給自己的東西，一旦不再想取悅任何人，連你自己都不用一直證明，它就會開始有用。"
+            "en": "And private writing becomes useful when it stops trying to impress anyone, including you.",
+            "zh": "而寫給自己的東西，一旦不再想取悅任何人，連你自己都不用討好，它就會開始有用。"
           },
           {
             "speaker": "b",
@@ -1146,8 +1146,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Even a rough page can hold a true thing more gently than a polished one.",
-            "zh": "做聽力練習時，可以留意這句話的句型。有時候一頁粗糙的東西，反而比一頁很 polished 的東西更能溫柔地承接真相。"
+            "en": "And even a rough page can hold a true thing more gently than a polished one.",
+            "zh": "而且有時候一頁粗糙的東西，反而比一頁很工整的東西更能溫柔地承接真相。"
           },
           {
             "speaker": "b",
@@ -1474,8 +1474,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. A lot of writing progress is emotional progress in disguise.",
-            "zh": "我們把它拉回一個具體情境。很多寫作進步，其實只是情緒進步換了一個樣子。"
+            "en": "And a lot of writing progress is emotional progress in disguise.",
+            "zh": "而很多寫作進步，其實只是情緒進步換了一個樣子。"
           }
         ]
       },
@@ -1737,8 +1737,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Put this in a real situation. It captures a kind of support many readers know well. Literary companionship can be remarkably steady.",
-            "zh": "把它放進一個真實情境看看。它真的抓到了很多讀者很熟悉的那種支持感。那種透過文學而來的陪伴，常常非常穩。"
+            "en": "It captures a kind of support many readers know well. Literary companionship can be remarkably steady.",
+            "zh": "它真的抓到了很多讀者很熟悉的那種支持感。那種透過文學而來的陪伴，常常非常穩。"
           }
         ]
       },
@@ -2059,7 +2059,7 @@ export const WEEK_30: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Staying Close to Books Over a Lifetime",
         "lines": [
           {
             "speaker": "b",

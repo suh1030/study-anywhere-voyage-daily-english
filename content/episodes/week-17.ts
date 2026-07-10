@@ -425,8 +425,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One line worth drawing is this: A lot of helping starts with recognition more than principle.",
-            "zh": "這裡值得畫一條分界線：很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
+            "en": "Right. A lot of helping starts with recognition more than principle — you help because you see the need, not because a rule tells you to.",
+            "zh": "對。很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則——你會幫，是因為你看見了那個需要，而不是因為有規則叫你去做。"
           }
         ]
       },
@@ -449,7 +449,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That already sounds much more real than talking about altruism in a textbook way.",
-            "zh": "這聽起來就比課本式地談 altruism 真實多了。"
+            "zh": "這聽起來就比課本式地談利他主義真實多了。"
           },
           {
             "speaker": "a",
@@ -525,8 +525,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the better habit is to act on the first workable impulse. Am I skipping the messy part?",
-            "zh": "所以更好的習慣是，對第一個可行的衝動採取行動。還是我把中間比較難的部分跳過了？"
+            "en": "So the better habit is to act on the first workable impulse, before I talk myself out of it.",
+            "zh": "所以更好的習慣是，趁自己還沒被說服放棄之前，就先對第一個可行的衝動採取行動。"
           },
           {
             "speaker": "a",
@@ -800,7 +800,7 @@ export const WEEK_17: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Giving the Right Kind of Help",
         "lines": [
           {
             "speaker": "b",
@@ -1654,8 +1654,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the scale is small, but the effect can still be big. I am not sure if that covers the messy middle.",
-            "zh": "所以這些事規模很小，但效果其實可以很大。還是我這樣講漏掉了中間那些比較難分的部分？"
+            "en": "So the scale is small, but the effect can still be big. It's mostly about being close enough to notice.",
+            "zh": "所以這些事規模很小，但效果其實可以很大。關鍵大概就在於，你夠近，近到能注意到。"
           },
           {
             "speaker": "a",

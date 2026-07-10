@@ -665,8 +665,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Emotionally committed to a bowl of noodles. That reframes about it.",
-            "zh": "在情感上承諾了一碗麵，這是個新的想法。"
+            "en": "Emotionally committed to a bowl of noodles. That's a whole new way to look at it.",
+            "zh": "在情感上為了一碗麵做了承諾。這完全是換個全新的角度在看它。"
           },
           {
             "speaker": "a",
@@ -1738,12 +1738,12 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. It shows you are not dismissing the tool. You are just saying it is not the right fit for your current situation.",
-            "zh": "重點就在這裡。"
+            "zh": "對，重點就在這裡。這代表你不是在否定這個工具，只是在說它不適合你目前的情況。"
           }
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Deciding If a Tool Is Worth It",
         "lines": [
           {
             "speaker": "b",

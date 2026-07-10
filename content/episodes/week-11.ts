@@ -138,8 +138,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is what usually stays invisible: That second sentence creates a picture. The listener can see the friendship, not just label it.",
-            "zh": "通常看不見的是這個：第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
+            "en": "Exactly. That kind of sentence creates a picture. The listener can see the friendship, not just label it.",
+            "zh": "對，就是這樣。這種句子會創造出一個畫面，讓聽的人真的看見那段友誼，而不只是貼上一個標籤。"
           },
           {
             "speaker": "b",
@@ -210,7 +210,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the habit is being just a little more honest a little more often. Would you say it works like that in real life?",
-            "zh": "所以這個習慣就是更常一點點、更誠實一點點。 還是我把它說得太整齊了？"
+            "zh": "所以這個習慣就是更常一點點、更誠實一點點。你會覺得現實裡真的是這樣運作的嗎？"
           },
           {
             "speaker": "a",
@@ -526,7 +526,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the secret is to make the first step small enough that the fear does not win. Is that how you would explain it?",
-            "zh": "所以秘訣是讓第一步小到恐懼贏不了。 還是我把它說得太整齊了？"
+            "zh": "所以秘訣是讓第一步小到恐懼贏不了。你會這樣解釋嗎？"
           },
           {
             "speaker": "a",
@@ -712,7 +712,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the explanation I think they need is really something I am demanding of myself. I can imagine someone pushing back on that.",
-            "zh": "所以我以為他們需要的解釋，其實是我對自己的要求。 還是我把它說得太整齊了？"
+            "zh": "所以我以為他們需要的解釋，其實是我對自己的要求。我可以想像有人會反駁這一點。"
           },
           {
             "speaker": "a",
@@ -842,7 +842,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the friendship does not depend on covering the gap. It just depends on reconnecting in this moment. Tell me if I am smoothing over the hard part.",
-            "zh": "所以友誼不在於填補那段空白，而在於在這個當下重新連結。 還是我把它說得太整齊了？"
+            "zh": "所以友誼不在於填補那段空白，而在於在這個當下重新連結。如果我把難的地方講得太輕鬆，你要告訴我。"
           },
           {
             "speaker": "a",
@@ -1291,13 +1291,13 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the habit of passive engagement can make us feel like we are maintaining friendships when we are actually just watching them from a distance. Does that match what you mean?",
-            "zh": "所以按讚滑動態這種被動互動，會讓我們以為自己在維繫友誼，其實只是在遠遠地觀看。還是我講得太武斷了？"
+            "zh": "所以按讚滑動態這種被動互動，會讓我們以為自己在維繫友誼，其實只是在遠遠地觀看。這樣有對到你的意思嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Real life complicates this a little: And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
-            "zh": "真實生活會把這件事弄得複雜一點：而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
+            "en": "And there is another layer. The friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
+            "zh": "而且還有另一層。另一邊的朋友可能根本沒注意到你一直在看。演算法製造出一種好像有在接觸的錯覺。"
           },
           {
             "speaker": "b",
@@ -1379,7 +1379,7 @@ export const WEEK_11: Episode[] = [
         ]
       },
       {
-        "title": "Part 4 — What It Revealed About Language",
+        "title": "Part 4 — Using Social Media as a Trigger, Not a Substitute",
         "lines": [
           {
             "speaker": "b",
@@ -1421,7 +1421,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the tool is not the problem. The habit around it is. Or is there a real-life exception here?",
-            "zh": "所以工具不是問題，圍繞它的習慣才是。 還是我把它說得太整齊了？"
+            "zh": "所以工具不是問題，圍繞它的習慣才是。還是說，現實裡其實有例外？"
           },
           {
             "speaker": "a",
@@ -1918,7 +1918,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the friendship survives as long as both people stay curious about each other. Would you say it works like that in real life?",
-            "zh": "所以只要兩個人都保持對彼此的好奇心，友誼就能存活。 還是我把它說得太整齊了？"
+            "zh": "所以只要兩個人都保持對彼此的好奇心，友誼就能存活。你會說，實際上真的是這樣嗎？"
           },
           {
             "speaker": "a",

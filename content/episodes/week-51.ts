@@ -80,7 +80,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the body often knows before the narrative catches up. Is the simple version too simple?",
-            "zh": "所以身體常常比故事先知道。還是我把它說得太整齊了？"
+            "zh": "所以身體常常在故事還沒跟上之前，就先知道了。還是說，這個簡單的版本太簡單了？"
           },
           {
             "speaker": "a",
@@ -192,7 +192,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and the deeper want may not be the title. It may be agency, respect, or work that feels less fragmented.",
-            "zh": "對，而且更深的想要，也許不是那個 title，而是更有自主感、更被尊重，或做比較不那麼碎裂的工作。"
+            "zh": "對，而且更深的想要，也許不是那個頭銜，而是更有自主感、更被尊重，或做比較不那麼碎裂的工作。"
           },
           {
             "speaker": "b",
@@ -204,7 +204,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It does. Once the deeper want becomes visible, people can design goals that fit the truth better.",
-            "zh": "真的會。一旦更深的 want 變得看得見，人就比較有可能設計出和真相更合的目標。"
+            "zh": "真的會。一旦更深的渴望變得看得見，人就比較有可能設計出和真相更合的目標。"
           },
           {
             "speaker": "b",
@@ -707,7 +707,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the best habit is not the most ambitious one. Is that too tidy a way to put it?",
-            "zh": "所以最好的習慣不是最有野心的那個。還是我把它說得太整齊了？"
+            "zh": "所以最好的習慣，不是最有野心的那個。還是說，我這樣講太乾淨俐落了？"
           },
           {
             "speaker": "a",
@@ -736,8 +736,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the piece I want learners to notice. Each repetition tells the self what kind of person it is becoming.",
-            "zh": "這是我最希望學習的人注意到的地方。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
+            "en": "Yes, and that is the part most people miss. Each repetition tells the self what kind of person it is becoming.",
+            "zh": "對，而這正是大多數人會漏掉的部分。每一次重複，都在對自己說明：你正在長成什麼樣的人。"
           }
         ]
       },
@@ -837,7 +837,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So realistic design is a form of self-respect.",
-            "zh": "所以現實的設計，其實是一種 self-respect。"
+            "zh": "所以現實的設計，其實是一種自重。"
           },
           {
             "speaker": "a",
@@ -1171,7 +1171,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Purpose is healthier when it can hold real life. It should create direction, not erase relationships, rest, body, or other forms of meaning.",
-            "zh": "目的比較健康的時候，是它能容得下 real 生活。它應該創造方向，而不是把關係、休息、身體，或其他形式的意義全部抹掉。"
+            "zh": "目的比較健康的時候，是它能容得下真實的生活。它應該創造方向，而不是把關係、休息、身體，或其他形式的意義全部抹掉。"
           },
           {
             "speaker": "b",
@@ -1182,14 +1182,14 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
-            "zh": "這裡有個不起眼但重要的細節：如果一個天命把整個自己都吞掉，它就不再像意義，而比較像囚禁。"
+            "en": "And here is the quiet part. If a calling devours the whole self, it stops sounding like meaning and starts sounding like captivity.",
+            "zh": "而這裡有個安靜卻關鍵的地方：如果一個天命把整個自己都吞掉，它就不再像意義，反而比較像囚禁。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's honestly an important warning.",
-            "zh": "這真的是很重要的 warning。"
+            "zh": "這真的是很重要的提醒。"
           },
           {
             "speaker": "a",
@@ -1201,7 +1201,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That changes how I want to approach the next project I pick up.",
-            "zh": "這感覺是很適合的結尾。"
+            "zh": "這改變了我想用什麼方式，去面對接下來接手的下一個專案。"
           },
           {
             "speaker": "a",
@@ -1281,13 +1281,13 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So bouncing back does not mean nothing happened.",
-            "zh": "所以 bouncing back 不是假裝什麼都沒發生。"
+            "zh": "所以重新振作不是假裝什麼都沒發生。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Largely, yes. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
-            "zh": "多半是。事情真的發生了，而韌性是一邊尊重那個 impact，一邊仍然找回往前走的路。"
+            "zh": "多半是。事情真的發生了，而韌性是一邊尊重那個衝擊，一邊仍然找回往前走的路。"
           },
           {
             "speaker": "b",
@@ -1299,7 +1299,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is kinder because it does not confuse recovery with invulnerability.",
-            "zh": "它比較溫柔，是因為它不會把 recovery 和刀槍不入混在一起。"
+            "zh": "它比較溫柔，是因為它不會把復原和刀槍不入混在一起。"
           },
           {
             "speaker": "b",
@@ -1322,19 +1322,19 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What really helps people bounce back after a hard setback?",
-            "zh": "一個人經歷挫折之後，真正幫他 bounce back 的是什麼？"
+            "zh": "一個人經歷挫折之後，真正幫他重新站起來的是什麼？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually not shame. More often it is support, perspective, and one next step small enough to be possible again.",
-            "zh": "通常不是羞愧。比較常有用的，是支持、perspective，還有一個小到再次變得可能的下一步。"
+            "zh": "通常不是羞愧。比較常有用的，是支持、新的視角，還有一個小到再次變得可能的下一步。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the way back is often built from small re-entry points. Am I skipping the messy part?",
-            "zh": "所以回來的路，很多時候是靠很小的重新進入 point 搭出來的。還是我把它說得太整齊了？"
+            "zh": "所以回來的路，很多時候是靠一個個很小的重新進入點慢慢搭出來的。還是說，我把那些亂糟糟的部分跳過了？"
           },
           {
             "speaker": "a",
@@ -1352,7 +1352,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is realistic because nervous systems need safety, not slogans. A person comes back faster when they stop treating struggle as proof of failure.",
-            "zh": "它比較現實，因為 nervous 系統需要的是安全，不是口號。當一個人不再把 struggle 當成失敗證明時，他通常會回來得更快。"
+            "zh": "它比較現實，因為神經系統需要的是安全，不是口號。當一個人不再把挫折當成失敗的證明時，他通常會回來得更快。"
           },
           {
             "speaker": "b",
@@ -1393,7 +1393,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can also try, \"Resilience looked less like toughness and more like staying in relationship with my own life.\" That works beautifully in reflective speaking.",
-            "zh": "另一句也很好：「Resilience looked less like toughness and more like staying in relationship with my own life.」在反思型 speaking 裡很有力。"
+            "zh": "另一句也很好：「Resilience looked less like toughness and more like staying in relationship with my own life.」在反思型的口說練習裡很有力。"
           },
           {
             "speaker": "b",
@@ -1434,13 +1434,13 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone stops exercising after a hard month and starts telling themselves they have ruined the whole habit. Then instead of restarting everything, they take one short walk after dinner three times that week.",
-            "zh": "想像一個人因為一個很難 的月而停了運動，然後開始對自己說整個習慣都毀了。後來他沒有把一切重開，而只是那週晚飯後散步三次。"
+            "zh": "想像一個人因為一個很難熬的月份而停了運動，然後開始對自己說整個習慣都毀了。後來他沒有把一切重來，而只是那週晚飯後散步三次。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the comeback is quiet, but very real.",
-            "zh": "所以那個回歸很 quiet，但很真。"
+            "zh": "所以那個回歸很安靜，但很真。"
           },
           {
             "speaker": "a",
@@ -1591,13 +1591,13 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because looking ahead can mean possibility or pressure depending on how tightly a person is trying to control the future.",
-            "zh": "因為 looking 往前對不同人來說，可能代表可能性，也可能代表壓力，取決於他想把未來抓多緊。"
+            "zh": "因為往前看這件事，對不同人來說，可能代表可能性，也可能代表壓力，取決於他想把未來抓多緊。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So planning can turn into anxiety very quickly.",
-            "zh": "所以規劃很容易一下子變成 anxiety。"
+            "zh": "所以規劃很容易一下子變成焦慮。"
           },
           {
             "speaker": "a",
@@ -1656,13 +1656,13 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Flexibility can be a sign that the person cares more about the deeper intention than the original script.",
-            "zh": "完全不是。彈性有時反而是這個人更在乎更深的意圖，而不是原本那份 script。"
+            "zh": "完全不是。彈性有時反而是這個人更在乎更深的意圖，而不是原本那份劇本。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes flexibility sound much more respectable.",
-            "zh": "這樣一講，flexibility 聽起來體面多了。"
+            "zh": "這樣一講，彈性聽起來體面多了。"
           },
           {
             "speaker": "a",
@@ -1674,7 +1674,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So adaptation can be evidence of commitment.",
-            "zh": "所以 adaptation 其實可以是 commitment 的證據。"
+            "zh": "所以調整其實可以是投入的證據。"
           },
           {
             "speaker": "a",
@@ -1691,7 +1691,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What English is good for talking about the future without sounding rigid?",
-            "zh": "如果要談未來，又不想聽起來太 rigid，可以用哪些英文？"
+            "zh": "如果要談未來，又不想聽起來太死板，可以用哪些英文？"
           },
           {
             "speaker": "a",
@@ -1709,7 +1709,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another sentence that works is \"My plan matters, but my ability to adapt matters too.\" That works in almost any future-planning conversation.",
-            "zh": "另一句也很好：「My plan matters, but my ability to adapt matters too.」這句幾乎哪種 future-planning 對話都能用。"
+            "zh": "另一句也很好：「My plan matters, but my ability to adapt matters too.」這句幾乎在哪種談未來規劃的對話裡都能用。"
           },
           {
             "speaker": "b",
@@ -1756,7 +1756,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real plan respects the actual life it has to fit into.",
-            "zh": "所以真正的計畫會尊重它得塞進去的 actual 生活。"
+            "zh": "所以真正的計畫會尊重它得塞進去的實際生活。"
           },
           {
             "speaker": "a",
@@ -1926,7 +1926,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is more true. Dramatic goals often get the attention, but hidden conditions usually decide the outcome.",
-            "zh": "它確實更真。很戲劇化的目標常常拿到 attention，但最後決定結果的，通常是那些隱藏條件。"
+            "zh": "它確實更真。很戲劇化的目標常常拿到關注，但最後決定結果的，通常是那些隱藏條件。"
           },
           {
             "speaker": "b",
@@ -1961,7 +1961,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the quality of a year is not only measured by achievements. I am not sure if that covers the messy middle.",
-            "zh": "所以一個一年的品質，不是只靠成就來量。還是我把它說得太整齊了？"
+            "zh": "所以一年的品質，不是只靠成就來衡量。不過我不太確定，這樣有沒有把中間那段亂糟糟的過程也算進去。"
           },
           {
             "speaker": "a",
@@ -2026,7 +2026,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like how grounded that sounds.",
-            "zh": "我喜歡它很 grounded。"
+            "zh": "我喜歡它很踏實。"
           },
           {
             "speaker": "a",
@@ -2061,13 +2061,13 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone wants to write regularly. Instead of promising an hour every dawn, they choose two evenings a week, tell their household, clear one surface, and lower the first target.",
-            "zh": "想像一個人想固定寫作。他沒有承諾每天清晨一小時，而是先選每週兩個晚上、先跟同住的人講好、清出一個桌面，再把第一個 target 降低。"
+            "zh": "想像一個人想固定寫作。他沒有承諾每天清晨一小時，而是先選每週兩個晚上、先跟同住的人講好、清出一個桌面，再把第一個目標降低。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So success begins in negotiation, not fantasy.",
-            "zh": "所以成功其實是從 negotiation 開始，不是從幻想開始。"
+            "zh": "所以成功其實是從協商開始，不是從幻想開始。"
           },
           {
             "speaker": "a",

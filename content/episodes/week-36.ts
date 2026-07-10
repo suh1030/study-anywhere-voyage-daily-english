@@ -85,8 +85,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
-            "zh": "現實通常比這再亂一點：把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
+            "en": "Cognitive offloading is useful, but it can create a judgment gap if people stop checking their own thinking.",
+            "zh": "把一部分腦力外包出去當然有用，但如果人連自己的思考也不再檢查，就會長出判斷落差。"
           },
           {
             "speaker": "b",
@@ -502,8 +502,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the piece I want learners to notice. Repeatable work with clear checks is where AI often shines.",
-            "zh": "這是我最希望學習的人注意到的地方。可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
+            "en": "Repeatable work with clear checks is where AI often shines.",
+            "zh": "可重複、而且有明確檢查點的工作，往往就是 AI 最能發揮的地方。"
           },
           {
             "speaker": "b",
@@ -567,8 +567,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is one natural option. Clarity matters more than hype here.",
-            "zh": "一個很自然的說法是：在這件事上，清楚比 hype 重要多了。"
+            "en": "Clarity matters more than hype here.",
+            "zh": "在這件事上，清楚比炒作重要多了。"
           },
           {
             "speaker": "b",
@@ -642,7 +642,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The biggest shift at work for me is that tasks that used to begin with a blank page now begin with a rough draft in ten seconds.",
-            "zh": "對我來說，工作上最大的改變就是：以前很多事都是從空白頁開始，現在常常變成十秒內就先有一個 rough draft。"
+            "zh": "對我來說，工作上最大的改變就是：以前很多事都是從空白頁開始，現在常常變成十秒內就先有一個草稿。"
           },
           {
             "speaker": "a",
@@ -842,8 +842,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "On an ordinary day, the sentence gets simpler. It should feel that way.",
-            "zh": "在普通的一天裡，這句話可以說得更簡單。它本來就應該沒那麼宿命。"
+            "en": "Right. You still get to choose how you work with these tools.",
+            "zh": "對啊。你還是可以選擇要怎麼跟這些工具一起工作。"
           }
         ]
       },
@@ -890,7 +890,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I had never separated effort from output so cleanly before.",
-            "zh": "這真的很適合拿來收尾。"
+            "zh": "我以前從來沒有把『努力』和『產出』分得這麼清楚過。"
           },
           {
             "speaker": "a",
@@ -1105,8 +1105,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For listening practice, notice the shape of this sentence. Accuracy language should sound disciplined, not dramatic.",
-            "zh": "做聽力練習時，可以留意這句話的句型。談準確度的語言，最好聽起來像有紀律，不是像在演恐慌。"
+            "en": "Accuracy language should sound disciplined, not dramatic.",
+            "zh": "談準確度的語言，最好聽起來像有紀律，不是像在演恐慌。"
           }
         ]
       },
@@ -1201,7 +1201,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's something I want to return to and think about more carefully.",
-            "zh": "這感覺就是很對的收尾。"
+            "zh": "這是我想再回頭、好好想清楚的一件事。"
           },
           {
             "speaker": "a",
@@ -1446,7 +1446,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Prompt residue often shows up as generic smoothness without lived tension.",
-            "zh": "完全沒錯。prompt 的殘留感，常常就是那種『很順但沒有生活張力』的平滑。"
+            "zh": "完全沒錯。提示詞的殘留感，常常就是那種『很順但沒有生活張力』的平滑。"
           },
           {
             "speaker": "b",
@@ -1498,8 +1498,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Let's bring it down to one situation. Technology changes the surface, but human distinctiveness still lives in selection and meaning.",
-            "zh": "我們把它放進一個情境來看。科技會改變表面，但人的獨特性還是活在選擇和意義裡。"
+            "en": "Technology changes the surface, but human distinctiveness still lives in selection and meaning.",
+            "zh": "科技會改變表面，但人的獨特性還是活在選擇和意義裡。"
           },
           {
             "speaker": "b",
@@ -1597,7 +1597,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So bias is not a side bug. It is often part of the material.",
-            "zh": "所以偏差不是旁邊的小 bug，它很多時候根本就是材料本身的一部分。"
+            "zh": "所以偏差不是旁邊的小毛病，它很多時候根本就是材料本身的一部分。"
           },
           {
             "speaker": "a",
@@ -1833,7 +1833,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I will notice this differently the next time it comes up.",
-            "zh": "這感覺很適合拿來當這場對話的結尾。"
+            "zh": "我想下次再遇到這個話題時，我看它的角度會不一樣了。"
           },
           {
             "speaker": "a",
@@ -2096,7 +2096,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That warning lands because passive convenience can look harmless while it drains judgment.",
-            "zh": "這個區別讓事情清楚多了。"
+            "zh": "這個提醒很有感，因為被動的方便看起來無害，卻會慢慢磨掉判斷力。"
           },
           {
             "speaker": "a",
@@ -2125,7 +2125,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That puts the responsibility back on the human side of the relationship.",
-            "zh": "這個框架改變了整個畫面。"
+            "zh": "這會把責任重新放回關係裡人的那一邊。"
           },
           {
             "speaker": "a",
