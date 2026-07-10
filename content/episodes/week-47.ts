@@ -163,7 +163,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. The best language for this topic usually sounds observant rather than superior.",
-            "zh": "我們把它變得更實用一點。這個主題最好用的語言，通常是觀察式的，不是高高在上的。"
+            "zh": "這是我真的會拿來用的版本。這個主題最好用的語言，通常是觀察式的，不是高高在上的。"
           }
         ]
       },
@@ -580,7 +580,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Once people see that, they usually stop chasing perfection and start building trust.",
-            "zh": "我們把它變得更實用一點。當人看見這一點時，他們通常就會停止追求完美，開始建立信任。"
+            "zh": "舉個真實的例子會更清楚：當人看見這一點時，他們通常就會停止追求完美，開始建立信任。"
           }
         ]
       }
@@ -2150,7 +2150,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The useful version should fit in your mouth. It should, because the skill is only becoming more necessary from here.",
-            "zh": "我們把它變得更實用一點。它本來就該留下來，因為從現在往後，這個能力只會越來越必要。"
+            "zh": "好用的版本應該讓你說得順口。它本來就該留下來，因為從現在往後，這個能力只會越來越必要。"
           }
         ]
       }

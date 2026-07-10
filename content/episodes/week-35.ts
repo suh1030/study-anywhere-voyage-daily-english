@@ -1931,7 +1931,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is valuable. It means the data landed. The key is using it as a starting point rather than a reason to feel bad about yourself.",
-            "zh": "那種不舒服有它的價值——代表數據變具體了。重點是把它當起點，而不是拿來打擊自己。"
+            "zh": "那種不舒服有它的價值——代表那些螢幕使用資料真的被你看進去了。重點是把它當起點，而不是拿來打擊自己。"
           },
           {
             "speaker": "b",

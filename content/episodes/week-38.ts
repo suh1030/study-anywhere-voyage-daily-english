@@ -1106,7 +1106,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Memorable language can sometimes interrupt automatic behavior.",
-            "zh": "我們把它變得更實用一點。讓人記得住的語言，有時候真的能打斷自動化行為。"
+            "zh": "練聽力的時候，特別注意這個句子的形狀。讓人記得住的語言，有時候真的能打斷自動化行為。"
           }
         ]
       },

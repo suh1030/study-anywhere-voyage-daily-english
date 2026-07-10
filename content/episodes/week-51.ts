@@ -1101,7 +1101,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. It helps people talk about ambition without losing honesty.",
-            "zh": "我們把它變得更實用一點。它會幫人談野心，同時又不失去誠實。"
+            "zh": "想一個真實的當下。它會幫人談野心，同時又不失去誠實。"
           }
         ]
       },
@@ -1991,7 +1991,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. It should.",
-            "zh": "我們把它變得更實用一點。它本來就該被重新定義。"
+            "zh": "如果你要跟別人講這件事，可以從這裡開始。它本來就該被重新定義。"
           }
         ]
       },

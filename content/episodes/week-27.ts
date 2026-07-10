@@ -1511,7 +1511,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The spoken version can be direct. Travel is not only about collecting beautiful places. It is also about becoming a little less certain that your own way is the only way.",
-            "zh": "我們把它變得更實用一點。旅行不只是收集漂亮地方，它也關於：慢慢變得沒那麼確信自己的方式就是唯一的方式。"
+            "zh": "口語版可以講得很直接。旅行不只是收集漂亮地方，它也關於：慢慢變得沒那麼確信自己的方式就是唯一的方式。"
           },
           {
             "speaker": "b",
@@ -1943,7 +1943,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. A lot of people think they are being ungrateful when they are really just transitioning.",
-            "zh": "我們把它變得更實用一點。很多人以為自己這樣是太不知足了，但很多時候他們其實只是在轉換。"
+            "zh": "在普通的一天裡，這句話可以說得更簡單。很多人以為自己這樣是太不知足了，但很多時候他們其實只是在轉換。"
           }
         ]
       },
@@ -1984,7 +1984,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Coming home is not only about unpacking your bag. It is also about unpacking the shift in your attention.",
-            "zh": "我們把它變得更實用一點。回家不只是把行李打開而已，它也包含慢慢把那個被改變的注意力打開。"
+            "zh": "做聽力練習時，可以留意這句話的句型。回家不只是把行李打開而已，它也包含慢慢把那個被改變的注意力打開。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. Travel should make life larger, not only create something to escape back to in your head.",
-            "zh": "我們把它變得更實用一點。旅行應該是讓生活變大，不是只在你腦中做出一個想逃回去的地方。"
+            "zh": "我們把它放進一個情境來看。旅行應該是讓生活變大，不是只在你腦中做出一個想逃回去的地方。"
           }
         ]
       },
@@ -2143,7 +2143,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is a workday version. The trip may end at the airport, but the meaning of it does not have to.",
-            "zh": "我們把它變得更實用一點。旅行也許在機場就結束了，可是它的意義不一定要跟著一起結束。"
+            "zh": "放到上班日，版本會是這樣。旅行也許在機場就結束了，可是它的意義不一定要跟著一起結束。"
           },
           {
             "speaker": "b",

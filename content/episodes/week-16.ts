@@ -1523,7 +1523,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. Communication often improves the moment you stop forcing convenience to do intimacy's job.",
-            "zh": "我們把它變得更實用一點。很多時候，溝通就是在你不再逼方便去做親密該做的工作那一刻，開始變好的。"
+            "zh": "我們把它拉回一個具體情境。很多時候，溝通就是在你不再逼方便去做親密該做的工作那一刻，開始變好的。"
           }
         ]
       }

@@ -13,6 +13,7 @@ import { createClient } from '@supabase/supabase-js'
 import * as path from 'path'
 import * as fs from 'fs'
 import { normalizeEpisodeParts, normalizeKeyPhrases } from '../app/src/data/episode-normalize'
+import { canonicalArticleWordCount } from './prelaunch/lib'
 
 // ── env ──────────────────────────────────────────────────────────────────────
 
@@ -109,7 +110,8 @@ async function seedArticles() {
         day_of_week: index + 1,
         topic: article.topic,
         title: article.title,
-        word_count: article.wordCount,
+        // 以內文實算字數，不信任手寫的 wordCount 元資料
+        word_count: canonicalArticleWordCount(String(article.text ?? '')),
         text_en: article.text,
         text_zh: article.textZh,
         vocabulary: article.vocabulary,

@@ -513,7 +513,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Like insurance, family milestones, or travel plans.",
+            "en": "Like insurance, gifts, or travel plans.",
             "zh": "像保險、人情禮物，或旅行計畫那種。"
           },
           {
@@ -624,7 +624,7 @@ export const WEEK_08: Episode[] = [
       {
         "en": "sinking fund",
         "zh": "預先分月累積的專用基金",
-        "example": "A sinking fund for family milestones meant gift season no longer destroyed his budget."
+        "example": "A sinking fund for birthdays and holidays meant the gift-giving months no longer destroyed his budget."
       }
     ]
   },
@@ -884,7 +884,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. Shame usually hides the pattern. Curiosity exposes it.",
-            "zh": "我們把它變得更實用一點。羞愧通常會把模式藏起來，好奇心才會把它照出來。"
+            "zh": "如果你要跟別人講這件事，可以從這裡開始。羞愧通常會把模式藏起來，好奇心才會把它照出來。"
           },
           {
             "speaker": "b",
@@ -1212,7 +1212,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Start with one honest question and one clear limit. That is already enough.",
-            "zh": "我們把它變得更實用一點。就先從一個誠實的問題，加上一條清楚的界線開始。這樣其實就很夠了。"
+            "zh": "如果是我，我會這樣說。就先從一個誠實的問題，加上一條清楚的界線開始。這樣其實就很夠了。"
           }
         ]
       }
@@ -1523,7 +1523,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Financial adulthood is mostly a series of quiet decisions that future you will one day thank you for.",
-            "zh": "我們把它變得更實用一點。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
+            "zh": "舉個真實一點的例子會更清楚。所謂財務上的成熟，很多時候就是一連串安靜的決定，而未來的你終有一天會為此感謝現在的你。"
           }
         ]
       }
@@ -1858,7 +1858,7 @@ export const WEEK_08: Episode[] = [
       {
         "en": "treat someone",
         "zh": "請客；替對方付錢",
-        "example": "She wanted to treat her friend because it was his family milestone, not because she wanted to show off."
+        "example": "She wanted to treat her friend because it was his birthday, not because she wanted to show off."
       },
       {
         "en": "chip in",
@@ -2097,7 +2097,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The useful version should fit in your mouth. Anything that keeps charging you after your attention has left deserves a regular review.",
-            "zh": "我們把它變得更實用一點。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
+            "zh": "真正好用的版本，要能順口說出來。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
           }
         ]
       },

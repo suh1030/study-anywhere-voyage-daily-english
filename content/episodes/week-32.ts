@@ -269,7 +269,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. They are probably taking care of you more than you think.",
-            "zh": "我們把它變得更實用一點。它們大概比你以為的更正在照顧你。"
+            "zh": "想一個真實的場景。它們大概比你以為的更正在照顧你。"
           }
         ]
       }
@@ -730,7 +730,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. People should be allowed to do things badly, slowly, and happily.",
-            "zh": "我們把它變得更實用一點。人本來就應該被允許做一些不必做得很好、可以慢慢來，而且還能很開心的事。"
+            "zh": "如果要說給別人聽，可以從這句開始。人本來就應該被允許做一些不必做得很好、可以慢慢來，而且還能很開心的事。"
           },
           {
             "speaker": "b",
@@ -1422,7 +1422,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Sometimes the simplest line is the truest one.",
-            "zh": "我們把它變得更實用一點。有時候最簡單的句子反而最真。"
+            "zh": "如果是我，我會這樣說。有時候最簡單的句子反而最真。"
           }
         ]
       },
@@ -1511,7 +1511,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. They may be showing you where your people are.",
-            "zh": "我們把它變得更實用一點。它們很可能正在告訴你，你的人會在哪裡。"
+            "zh": "這裡舉個真實生活的例子會有幫助。它們很可能正在告訴你，你的人會在哪裡。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The sentence should not feel like a poster. Private joy deserves gentle language too.",
-            "zh": "我們把它變得更實用一點。私人的快樂，也值得被用很溫柔的語言講出來。"
+            "zh": "這個句子不該聽起來像標語。私人的快樂，也值得被用很溫柔的語言講出來。"
           }
         ]
       },
@@ -2049,7 +2049,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. Adult passion deserves language that is simple and sincere.",
-            "zh": "我們把它變得更實用一點。成年人的熱愛，值得被用簡單而真誠的語言講出來。"
+            "zh": "放到真實生活裡，聽起來可能是這樣。成年人的熱愛，值得被用簡單而真誠的語言講出來。"
           }
         ]
       },
@@ -2143,7 +2143,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. The things you love may be helping you become someone deeper, not just someone busier.",
-            "zh": "我們把它變得更實用一點。你真正喜歡的那些事，也許正在幫你變成一個更深的人，不只是一個更忙的人。"
+            "zh": "想一個真實的時刻：你真正喜歡的那些事，也許正在幫你變成一個更深的人，不只是一個更忙的人。"
           },
           {
             "speaker": "b",

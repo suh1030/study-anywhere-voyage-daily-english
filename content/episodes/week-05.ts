@@ -474,7 +474,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is a cleaner way to say it. It helps people talk about change without sounding disrespectful.",
-            "zh": "我們把它變得更實用一點。它會幫人談改變，但又不會聽起來像是不尊重傳統。"
+            "zh": "有一個更乾淨俐落的說法。它會幫人談改變，但又不會聽起來像是不尊重傳統。"
           }
         ]
       },
@@ -896,7 +896,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For everyday English, try this shape. Giving should feel human, not like a performance test.",
-            "zh": "我們把它變得更實用一點。送禮本來就該很有人味，不該像一場表現考試。"
+            "zh": "日常英文可以試試這個句型。送禮本來就該很有人味，不該像一場表現考試。"
           }
         ]
       }
@@ -1195,7 +1195,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. Small moments are often where the real meaning lives.",
-            "zh": "我們把它變得更實用一點。真正的意義，很多時候就住在那些小時刻裡。"
+            "zh": "放到平常的日子裡，這句話會變得更簡單。真正的意義，很多時候就住在那些小時刻裡。"
           },
           {
             "speaker": "b",

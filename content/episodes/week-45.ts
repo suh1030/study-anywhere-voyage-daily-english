@@ -264,7 +264,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It works better when the sentence feels speakable. If you can picture the moment, you can usually talk about the idea well in English too.",
-            "zh": "我們把它變得更實用一點。當你能想像那個時刻時，你通常也就能把那個概念用英文講好。"
+            "zh": "當句子讓人講得出口，效果會更好。當你能想像那個時刻時，你通常也就能把那個概念用英文講好。"
           }
         ]
       }
@@ -891,7 +891,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. If you understand that, you understand why emotional intelligence is not a soft extra. It is part of the work itself.",
-            "zh": "我們把它變得更實用一點。如果你真的懂這件事，你就會知道 emotional intelligence 不是柔軟加分題，而是工作本身的一部分。"
+            "zh": "放到真實生活裡，聽起來可能是這樣。如果你真的懂這件事，你就會知道 emotional intelligence 不是柔軟加分題，而是工作本身的一部分。"
           }
         ]
       }
@@ -1627,7 +1627,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. Many mature shifts begin with that kind of discomfort.",
-            "zh": "我們把它變得更實用一點。很多成熟的轉變，就是從那種不太舒服的看見開始的。"
+            "zh": "想一個真實的時刻：很多成熟的轉變，就是從那種不太舒服的看見開始的。"
           }
         ]
       },
@@ -1834,7 +1834,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. Once leadership reaches that level, it stops being performance and starts becoming character.",
-            "zh": "我們把它變得更實用一點。當領導走到那個層次時，它就不再只是表演，而開始變成性格。"
+            "zh": "如果要說給別人聽，可以從這句開始。當領導走到那個層次時，它就不再只是表演，而開始變成性格。"
           }
         ]
       }
@@ -2138,7 +2138,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Leadership becomes more real when it returns to ordinary rooms and ordinary people.",
-            "zh": "我們把它變得更實用一點。當領導回到普通房間和普通人身上時，它就會變得比較真。"
+            "zh": "我自己會這樣講：當領導回到普通房間和普通人身上時，它就會變得比較真。"
           },
           {
             "speaker": "b",

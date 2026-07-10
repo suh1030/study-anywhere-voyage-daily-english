@@ -1201,7 +1201,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Deliberate attention. Leaders who keep asking how people are experiencing the change, not just whether the metrics are moving.",
-            "zh": "刻意的關注。領導者要一直去問大家「這些改變過起來是什麼感覺」，而不是只盯著數據有沒有動。"
+            "zh": "刻意的關注。領導者要一直去問大家「這些改變過起來是什麼感覺」，而不是只盯著指標有沒有動。"
           },
           {
             "speaker": "b",

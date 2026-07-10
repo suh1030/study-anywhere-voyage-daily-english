@@ -843,7 +843,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Having a plan makes the problem feel smaller, even before you solve it.",
-            "zh": "我們把它變得更實用一點。有了計畫，問題在解決之前就已經感覺小了一點。"
+            "zh": "練聽力的時候，特別注意這個句子的形狀。有了計畫，問題在解決之前就已經感覺小了一點。"
           }
         ]
       },
@@ -1470,7 +1470,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. That conversation itself will already improve the team culture — just by acknowledging that communication takes intentional design.",
-            "zh": "我們把它變得更實用一點。那場對話本身就已經會改善團隊文化了——只要承認溝通需要刻意設計。"
+            "zh": "我們把它收到一個情境裡：那場對話本身就已經會改善團隊文化了——只要承認溝通需要刻意設計。"
           }
         ]
       },

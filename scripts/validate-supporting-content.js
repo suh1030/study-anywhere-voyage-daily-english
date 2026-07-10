@@ -44,13 +44,53 @@ function normalizeEnglish(value) {
     .replace(/\s+/g, ' ')
 }
 
+// 頭詞裡的人稱代名詞是「槽位」：例句換成 her/his/themselves 等仍算正確示範
+const PRONOUNS = new Set([
+  'i', 'me', 'my', 'mine', 'myself',
+  'you', 'your', 'yours', 'yourself', 'yourselves',
+  'he', 'him', 'his', 'himself',
+  'she', 'her', 'hers', 'herself',
+  'they', 'them', 'their', 'theirs', 'themselves',
+  'we', 'us', 'our', 'ours', 'ourselves',
+  'it', 'its', 'itself',
+])
+
+// 頭詞裡的 something/someone 是可被任何受詞取代的槽位，比對時可跳過
+const SLOT_WORDS = new Set(['something', 'someone', 'somebody', 'anything', 'anyone', 'anybody'])
+
+const IRREGULAR_STEMS = {
+  am: 'be', is: 'be', are: 'be', was: 'be', were: 'be', been: 'be', being: 'be',
+  has: 'have', had: 'have', did: 'do', done: 'do', went: 'go', gone: 'go',
+  made: 'make', took: 'take', taken: 'take', gave: 'give', given: 'give',
+  got: 'get', gotten: 'get', came: 'come', told: 'tell', thought: 'think',
+  brought: 'bring', said: 'say', saw: 'see', seen: 'see', knew: 'know', known: 'know',
+  grew: 'grow', grown: 'grow', became: 'become', began: 'begin', begun: 'begin',
+  left: 'leave', met: 'meet', paid: 'pay', sat: 'sit', built: 'build',
+  meant: 'mean', spoke: 'speak', spoken: 'speak', wrote: 'write', written: 'write',
+  ran: 'run', ate: 'eat', eaten: 'eat', chose: 'choose', chosen: 'choose',
+  drew: 'draw', drawn: 'draw', fell: 'fall', fallen: 'fall', heard: 'hear',
+  led: 'lead', wore: 'wear', worn: 'wear', won: 'win', threw: 'throw', thrown: 'throw',
+  sold: 'sell', sent: 'send', taught: 'teach', caught: 'catch', bought: 'buy',
+  understood: 'understand', spent: 'spend', stood: 'stand', felt: 'feel',
+  lost: 'lose', held: 'hold', stuck: 'stick', kept: 'keep', found: 'find',
+}
+
 function simpleStem(token) {
-  return String(token || '')
+  let t = String(token || '')
+  if (PRONOUNS.has(t)) return '@pron'
+  if (IRREGULAR_STEMS[t]) t = IRREGULAR_STEMS[t]
+  t = t
     .replace(/ies$/, 'y')
+    .replace(/ied$/, 'y')
     .replace(/ing$/, '')
     .replace(/ed$/, '')
     .replace(/es$/, '')
     .replace(/s$/, '')
+  // stopped -> stopp -> stop
+  t = t.replace(/([b-df-hj-np-tv-z])\1$/, '$1')
+  // noticing -> notic, notice -> notic（兩側同樣處理，僅供比對用）
+  t = t.replace(/e$/, '')
+  return t
 }
 
 function exampleContainsTerm(example, term) {
@@ -61,15 +101,20 @@ function exampleContainsTerm(example, term) {
   if (normalizedExample.includes(normalizedTerm)) return true
 
   const exampleTokens = normalizedExample.split(' ').filter(Boolean).map(simpleStem)
-  const termTokens = normalizedTerm.split(' ').filter(Boolean).map(simpleStem)
+  const rawTermTokens = normalizedTerm.split(' ').filter(Boolean)
+  const termTokens = rawTermTokens.map(simpleStem)
+  const optional = rawTermTokens.map((t) => SLOT_WORDS.has(t))
 
   let index = 0
   for (const token of exampleTokens) {
-    if (token === termTokens[index]) index += 1
+    // 槽位詞（something/someone）不強制出現：對不上就先跳過
+    while (index < termTokens.length && optional[index] && token !== termTokens[index] && token !== '@pron') index += 1
+    if (index < termTokens.length && (token === termTokens[index] || (optional[index] && token === '@pron'))) index += 1
     if (index === termTokens.length) return true
   }
+  while (index < termTokens.length && optional[index]) index += 1
 
-  return false
+  return index === termTokens.length
 }
 
 const errors = []

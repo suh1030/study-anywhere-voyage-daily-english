@@ -1005,7 +1005,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. That is where design starts becoming practical.",
-            "zh": "我們把它變得更實用一點。設計真正變實用，就是從那裡開始。"
+            "zh": "我們把它收到一個情境裡：設計真正變實用，就是從那裡開始。"
           }
         ]
       },

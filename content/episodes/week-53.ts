@@ -1159,7 +1159,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. A first step should invite movement, not demand a performance.",
-            "zh": "我們把它變得更實用一點。第一步本來就應該邀請你移動，而不是要求你表演。"
+            "zh": "如果要跟別人講，可以從這裡開始：第一步本來就應該邀請你移動，而不是要求你表演。"
           },
           {
             "speaker": "b",

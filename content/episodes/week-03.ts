@@ -1756,8 +1756,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "True. A friend I know stopped when she missed her nephew's family milestone due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
-            "zh": "就是這樣。我認識一位朋友，是在因為列車停駛、錯過姪子的重要日子之後決定收手的。倒不是因為那是最嚴重的一次，而是在那一刻，累積已久的代價再也裝作看不見了。"
+            "en": "True. A friend I know stopped when she missed her nephew's birthday due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
+            "zh": "就是這樣。我認識一位朋友，是在因為列車停駛、錯過姪子的生日之後決定收手的。倒不是因為那是最嚴重的一次，而是在那一刻，累積已久的代價再也裝作看不見了。"
           },
           {
             "speaker": "b",
@@ -1768,8 +1768,8 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is usually the moment a small thing crystallizes everything that has been quietly building. The family milestone was small. But it made visible what had been invisible: the slow accumulation of missed moments.",
-            "zh": "通常是一件小事，讓所有悄悄堆積的東西一次現形。那個家庭聚會本身是小事，但它讓原本看不見的東西被看見了：那些一次次錯過的時刻，早就疊成一座山。"
+            "en": "It is usually the moment a small thing crystallizes everything that has been quietly building. The missed birthday was a small thing. But it made visible what had been invisible: the slow accumulation of missed moments.",
+            "zh": "通常是一件小事，讓所有悄悄堆積的東西一次現形。錯過那次生日本身是小事，但它讓原本看不見的東西被看見了：那些一次次錯過的時刻，早就疊成一座山。"
           },
           {
             "speaker": "b",
@@ -1853,7 +1853,7 @@ export const WEEK_03: Episode[] = [
       {
         "en": "crystallize",
         "zh": "使清晰化；結晶（比喻）",
-        "example": "Missing the family milestone crystallized everything she had been feeling but not saying about her commute."
+        "example": "Missing her nephew's birthday crystallized everything she had been feeling but not saying about her commute."
       },
       {
         "en": "elephant in the room",
@@ -2085,7 +2085,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Seating. More seated capacity on existing routes, not just more trains. A seated commute is genuinely less depleting than a standing one. Cities that have prioritized this — some lines in Tokyo, for example — have measurably lower commuter stress.",
-            "zh": "座位。在現有路線上增加座位數，而不只是加開班次。坐著通勤真的比站著省力很多。有把這件事當回事的城市——像東京的某些路線——通勤族的壓力數據就是明顯比較低。"
+            "zh": "座位。在現有路線上增加座位數，而不只是加開班次。坐著通勤真的比站著省力很多。有把這件事當回事的城市——像東京的某些路線——通勤族實測的壓力程度就是明顯比較低。"
           },
           {
             "speaker": "b",

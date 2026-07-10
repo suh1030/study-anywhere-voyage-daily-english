@@ -1,6 +1,15 @@
 # Launch Content Quality Sign-Off
 
-Content PASS 狀態截至 2026-04-24；後續內容結構未再異動。
+Content PASS 狀態截至 2026-07-10（對應 2026-07-10 內容審查 P0 修復；詳見 [content-audit-2026-07-10.md](./content-audit-2026-07-10.md)）。
+
+## 2026-07-10 P0 修復摘要
+
+- 修正 95 處中英脫鉤的集數對話行：舊中文口頭禪「我們把它變得更實用一點。」曾對應 27 種語意不同的英文開場句，已逐一改為忠實翻譯（輪替 2–3 種說法避免產生新口頭禪）。
+- 修正 13 處 "family milestone"（birthday 被腳本化取代產生的不自然英文），中英同步改回自然說法；同步修正 `scripts/fix-flashcard-templates.js` 遺留模板。
+- 修正 3 處「數據」中國用語回歸（W03/W35/W42）。
+- `scripts/seed.ts` 改為以 `canonicalArticleWordCount` 實算 `word_count`（不再信任手寫元資料），並將 365 篇文章來源檔的 `wordCount` 全數校正為實際值（原有 131 篇偏差 >10）。
+- 補上 W06「Let's Eat」缺少的第 5 個 vocabulary（embedded）。
+- 升級 `scripts/validate-supporting-content.js` 的頭詞比對邏輯（不規則動詞表、人稱代名詞槽位、something/someone 槽位），修復其在 main 上既有的 21 項誤判 FAIL；該 validator 先前雖列為 must-pass guardrail，實際上處於紅燈狀態。
 
 > **相關文件**：App Store 上架操作與上線前待辦見 [pre-launch-checklist.md](./pre-launch-checklist.md)；功能 QA 逐項測試見 [testflight-checklist.md](./testflight-checklist.md)；歷史內容修復計畫見 [_archive/](./_archive/)。
 
@@ -40,6 +49,19 @@ The launch learner experience is:
 - `npx tsc --noEmit -p app/tsconfig.json` must pass.
 
 ## Latest Verification
+
+2026-07-10 於 P0 修復後全數重跑，觀察結果：
+
+```text
+Final verification: PASS（episode vocab / closing dupes / flashcard examples / content language quality / theme alignment 全數 PASS）
+validate-episodes: Validated 365 episodes successfully
+validate-supporting-content: Validated 365 questions, 583 flashcards, 365 articles（exit 0）
+check-articles-import: 53/53 files importable
+check-article-wordcount: 365/365 counted, 0 outliers
+tsc --noEmit -p app/tsconfig.json: PASS
+```
+
+以下為 2026-04-24 的歷史紀錄：
 
 These commands were run after the fixes:
 

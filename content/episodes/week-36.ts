@@ -163,7 +163,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In ordinary life, the line gets smaller. AI language is strongest when it stays close to actual use, not just theory.",
-            "zh": "我們把它變得更實用一點。談 AI 的語言，最有力的時候就是它貼著真實使用情境，而不是只停在理論。"
+            "zh": "在日常生活裡，這句話會變得更短小。談 AI 的語言，最有力的時候就是它貼著真實使用情境，而不是只停在理論。"
           }
         ]
       },
@@ -568,7 +568,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is one natural option. Clarity matters more than hype here.",
-            "zh": "我們把它變得更實用一點。在這件事上，清楚比 hype 重要多了。"
+            "zh": "一個很自然的說法是：在這件事上，清楚比 hype 重要多了。"
           },
           {
             "speaker": "b",
@@ -790,7 +790,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In plain English, I would say it this way. The truth of work change usually sits in those mixed sentences.",
-            "zh": "我們把它變得更實用一點。工作變化的真相，很多時候就藏在這種混合的句子裡。"
+            "zh": "講白話一點，我會這樣說。工作變化的真相，很多時候就藏在這種混合的句子裡。"
           }
         ]
       },
@@ -843,7 +843,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. It should feel that way.",
-            "zh": "我們把它變得更實用一點。它本來就應該沒那麼宿命。"
+            "zh": "在普通的一天裡，這句話可以說得更簡單。它本來就應該沒那麼宿命。"
           }
         ]
       },
@@ -1106,7 +1106,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Accuracy language should sound disciplined, not dramatic.",
-            "zh": "我們把它變得更實用一點。談準確度的語言，最好聽起來像有紀律，不是像在演恐慌。"
+            "zh": "做聽力練習時，可以留意這句話的句型。談準確度的語言，最好聽起來像有紀律，不是像在演恐慌。"
           }
         ]
       },
@@ -1499,7 +1499,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. Technology changes the surface, but human distinctiveness still lives in selection and meaning.",
-            "zh": "我們把它變得更實用一點。科技會改變表面，但人的獨特性還是活在選擇和意義裡。"
+            "zh": "我們把它放進一個情境來看。科技會改變表面，但人的獨特性還是活在選擇和意義裡。"
           },
           {
             "speaker": "b",

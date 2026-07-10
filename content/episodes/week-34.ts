@@ -163,7 +163,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. Exercise language should sound ordinary enough to belong to real life.",
-            "zh": "我們把它變得更實用一點。談運動的語言，最好要普通到可以直接放進真實生活裡。"
+            "zh": "放到平常的日子裡，這句話會變得更簡單。談運動的語言，最好要普通到可以直接放進真實生活裡。"
           }
         ]
       },
@@ -474,7 +474,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Reasons sound strongest when they are personal and concrete.",
-            "zh": "我們把它變得更實用一點。動機要有力，通常就是因為它夠個人、夠具體。"
+            "zh": "練聽力的時候，特別注意這個句子的形狀。動機要有力，通常就是因為它夠個人、夠具體。"
           }
         ]
       },
@@ -1106,7 +1106,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. Strong sports language is usually simple and honest.",
-            "zh": "我們把它變得更實用一點。好的運動語言，通常就是簡單又誠實。"
+            "zh": "我們把它拉回一個具體情境。好的運動語言，通常就是簡單又誠實。"
           }
         ]
       },
@@ -1475,7 +1475,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is a workday version. Naming the problem often weakens it.",
-            "zh": "我們把它變得更實用一點。把問題叫出名字，很多時候就已經是在削弱它。"
+            "zh": "這裡有一個上班日版本。把問題叫出名字，很多時候就已經是在削弱它。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is the line I would practice. Longevity language should feel calm, not panicked.",
-            "zh": "我們把它變得更實用一點。長期健康的語言，最好要平靜，不要像在恐慌。"
+            "zh": "這句是我會拿來練的。長期健康的語言，最好要平靜，不要像在恐慌。"
           }
         ]
       },
@@ -1827,7 +1827,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The spoken version can be direct. That is what the long game should feel like.",
-            "zh": "我們把它變得更實用一點。長期戰，本來就該有這種感覺。"
+            "zh": "口語的版本可以很直接。長期戰，本來就該有這種感覺。"
           },
           {
             "speaker": "b",

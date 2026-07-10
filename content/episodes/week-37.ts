@@ -110,7 +110,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. Honest health thinking should create responsibility, but it should also create compassion.",
-            "zh": "我們把它變得更實用一點。誠實地看待健康，應該讓人更有責任感，也更有同理心。"
+            "zh": "日常版本會更簡單。誠實地看待健康，應該讓人更有責任感，也更有同理心。"
           }
         ]
       },
@@ -795,7 +795,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Stress language is strongest when it sounds observant, not theatrical.",
-            "zh": "我們把它變得更實用一點。談壓力的語言，最有力的時候就是它聽起來像觀察，不像演出。"
+            "zh": "練聽力時，注意一下這句話長什麼樣子。談壓力的語言，最有力的時候就是它聽起來像觀察，不像演出。"
           }
         ]
       },

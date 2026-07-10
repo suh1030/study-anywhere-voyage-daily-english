@@ -725,7 +725,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Intellectual humility grows faster when you understand the emotional cost of updating a belief.",
-            "zh": "我們把它變得更實用一點。當你理解更新信念的情緒代價時，智識上的謙卑反而會長得更快。"
+            "zh": "如果是我，我會這樣說。當你理解更新信念的情緒代價時，智識上的謙卑反而會長得更快。"
           },
           {
             "speaker": "b",
@@ -1106,7 +1106,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Honest language makes honest practice easier.",
-            "zh": "我們把它變得更實用一點。誠實的語言，會讓誠實的練習更容易一點。"
+            "zh": "這裡舉個真實生活的例子會有幫助。誠實的語言，會讓誠實的練習更容易一點。"
           }
         ]
       },

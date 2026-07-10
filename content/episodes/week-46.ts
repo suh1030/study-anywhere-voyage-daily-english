@@ -1207,7 +1207,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For everyday English, try this shape. It is also the version that lasts longer than idealism alone.",
-            "zh": "我們把它變得更實用一點。而且這個版本，也比單靠理想主義更撐得久。"
+            "zh": "日常英文裡，試試這個形狀的句子。而且這個版本，也比單靠理想主義更撐得久。"
           }
         ]
       }
@@ -2090,7 +2090,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. People are more likely to help when helping feels sustainable and real.",
-            "zh": "我們把它變得更實用一點。當幫忙聽起來能長期維持、也很真實時，人反而更可能真的出手。"
+            "zh": "放到平常的日子裡，這句話會變得更簡單。當幫忙聽起來能長期維持、也很真實時，人反而更可能真的出手。"
           },
           {
             "speaker": "b",
@@ -2150,7 +2150,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. That means the language is no longer floating above life. It is starting to live inside it.",
-            "zh": "我們把它變得更實用一點。那代表語言不再飄在生活上面，而是開始住進生活裡了。"
+            "zh": "做聽力練習時，可以留意這句話的句型。那代表語言不再飄在生活上面，而是開始住進生活裡了。"
           }
         ]
       }

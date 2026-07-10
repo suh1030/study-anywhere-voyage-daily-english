@@ -520,7 +520,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is a cleaner way to say it. Most attention problems are not character flaws. They are environmental patterns.",
-            "zh": "我們把它變得更實用一點。大部分注意力問題，不是人格缺陷，而是環境模式。"
+            "zh": "這裡有個更簡潔的講法。大部分注意力問題，不是人格缺陷，而是環境模式。"
           },
           {
             "speaker": "b",
@@ -580,7 +580,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is where a concrete sentence helps. Some truths deserve a slower container.",
-            "zh": "我們把它變得更實用一點。有些真相，本來就值得待在比較慢的容器裡。"
+            "zh": "這種時候，一個具體的句子會很有幫助。有些真相，本來就值得待在比較慢的容器裡。"
           }
         ]
       }
@@ -988,7 +988,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. Private writing becomes useful when it stops trying to impress anyone, including you.",
-            "zh": "我們把它變得更實用一點。寫給自己的東西，一旦不再想取悅任何人，連你自己都不用一直證明，它就會開始有用。"
+            "zh": "在普通的一天裡，這句話可以說得更簡單。寫給自己的東西，一旦不再想取悅任何人，連你自己都不用一直證明，它就會開始有用。"
           },
           {
             "speaker": "b",
@@ -1147,7 +1147,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Even a rough page can hold a true thing more gently than a polished one.",
-            "zh": "我們把它變得更實用一點。有時候一頁粗糙的東西，反而比一頁很 polished 的東西更能溫柔地承接真相。"
+            "zh": "做聽力練習時，可以留意這句話的句型。有時候一頁粗糙的東西，反而比一頁很 polished 的東西更能溫柔地承接真相。"
           },
           {
             "speaker": "b",
@@ -1475,7 +1475,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. A lot of writing progress is emotional progress in disguise.",
-            "zh": "我們把它變得更實用一點。很多寫作進步，其實只是情緒進步換了一個樣子。"
+            "zh": "我們把它拉回一個具體情境。很多寫作進步，其實只是情緒進步換了一個樣子。"
           }
         ]
       },
@@ -1738,7 +1738,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Put this in a real situation. It captures a kind of support many readers know well. Literary companionship can be remarkably steady.",
-            "zh": "我們把它變得更實用一點。它真的抓到了很多讀者很熟悉的那種支持感。那種透過文學而來的陪伴，常常非常穩。"
+            "zh": "把它放進一個真實情境看看。它真的抓到了很多讀者很熟悉的那種支持感。那種透過文學而來的陪伴，常常非常穩。"
           }
         ]
       },
@@ -2054,7 +2054,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For practice, try this version. The best language about books usually sounds like life, not like promotion.",
-            "zh": "我們把它變得更實用一點。關於書最好的語言，聽起來通常像生活，不像宣傳文。"
+            "zh": "練習的話，可以試試這個版本。關於書最好的語言，聽起來通常像生活，不像宣傳文。"
           }
         ]
       },

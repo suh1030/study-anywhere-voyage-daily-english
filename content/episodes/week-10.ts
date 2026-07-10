@@ -1930,8 +1930,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. She keeps track of family milestones, groceries, appointments, forms, school events, and everyone else's preferences.",
-            "zh": "對。她會 keep track of 家庭里程碑、採買、預約、表單、學校活動，還有每個人的偏好。"
+            "en": "Right. She keeps track of birthdays, groceries, appointments, forms, school events, and everyone else's preferences.",
+            "zh": "對。她會 keep track of 生日、採買、預約、表單、學校活動，還有每個人的偏好。"
           },
           {
             "speaker": "b",

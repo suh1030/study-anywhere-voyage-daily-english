@@ -527,7 +527,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. It is worth remembering.",
-            "zh": "我們把它變得更實用一點。這句值得被記住。"
+            "zh": "舉個真實一點的例子會更清楚。這句值得被記住。"
           }
         ]
       },
@@ -672,7 +672,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The version people can actually use is simpler. People make better choices when the conversation sounds clearer, not harsher.",
-            "zh": "我們把它變得更實用一點。當對話聽起來比較清楚、而不是比較苛刻時，人通常會做出更好的選擇。"
+            "zh": "人們真正用得上的版本其實更簡單。當對話聽起來比較清楚、而不是比較苛刻時，人通常會做出更好的選擇。"
           },
           {
             "speaker": "b",
@@ -790,7 +790,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. Useful language helps people stay honest longer.",
-            "zh": "我們把它變得更實用一點。有用的語言會幫人把誠實維持得更久。"
+            "zh": "在真實生活裡，大概會是這樣講。有用的語言會幫人把誠實維持得更久。"
           }
         ]
       },
@@ -1000,7 +1000,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. Difficult does not have to mean doomed.",
-            "zh": "我們把它變得更實用一點。困難不代表注定失敗。"
+            "zh": "想一個真實的當下。困難不代表注定失敗。"
           }
         ]
       },
@@ -1774,7 +1774,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. A lot of people are more tired of performance than they realize.",
-            "zh": "我們把它變得更實用一點。很多人其實比自己以為的更厭倦表演。"
+            "zh": "如果你要跟別人講這件事，可以從這裡開始。很多人其實比自己以為的更厭倦表演。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Good money language should reduce noise, not add to it.",
-            "zh": "我們把它變得更實用一點。好的金錢語言應該減少雜音，不是增加雜音。"
+            "zh": "我自己會這樣講：好的金錢語言應該減少雜音，不是增加雜音。"
           }
         ]
       },

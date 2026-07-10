@@ -532,7 +532,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. It is worth keeping close.",
-            "zh": "我們把它變得更實用一點。"
+            "zh": "舉個真實一點的例子會更清楚。"
           }
         ]
       },

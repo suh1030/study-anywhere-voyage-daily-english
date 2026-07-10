@@ -515,7 +515,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. Those details are sometimes the proof that a real life was happening in front of you.",
-            "zh": "我們把它變得更實用一點。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
+            "zh": "日常版本會更簡單。那些細節有時候反而正是在證明，鏡頭前真的有生活正在發生。"
           },
           {
             "speaker": "b",
@@ -843,7 +843,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. Anything trainable is less intimidating than people imagine.",
-            "zh": "我們把它變得更實用一點。只要是能練的東西，通常就沒有大家想像得那麼可怕。"
+            "zh": "練聽力時，注意一下這句話長什麼樣子。只要是能練的東西，通常就沒有大家想像得那麼可怕。"
           }
         ]
       },
@@ -896,7 +896,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. The best art questions usually do.",
-            "zh": "我們把它變得更實用一點。最好的藝術問題，本來就都很會留下來。"
+            "zh": "我們把它收到一個情境裡：最好的藝術問題，本來就都很會留下來。"
           }
         ]
       }
@@ -1417,7 +1417,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In ordinary life, the line gets smaller. Language is most helpful when it matches the experience instead of sounding borrowed.",
-            "zh": "我們把它變得更實用一點。語言最好用的時候，就是它真的貼著經驗，不像借來的。"
+            "zh": "放回日常生活裡，這句話會縮得更小、更好說。語言最好用的時候，就是它真的貼著經驗，不像借來的。"
           }
         ]
       },
@@ -1733,7 +1733,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is one natural option. Clear boundary language protects both your process and your confidence.",
-            "zh": "我們把它變得更實用一點。清楚的界線語言，可以同時保護你的創作流程和自信。"
+            "zh": "這裡有一個很自然的選項。清楚的界線語言，可以同時保護你的創作流程和自信。"
           }
         ]
       },
@@ -1774,7 +1774,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In plain English, I would say it this way. Frustration often gets lighter once you name the system creating it.",
-            "zh": "我們把它變得更實用一點。很多挫折，只要你把造成它的系統叫出來，它就會輕一點。"
+            "zh": "用最白話的英文，我會這樣說。很多挫折，只要你把造成它的系統叫出來，它就會輕一點。"
           },
           {
             "speaker": "b",
@@ -1827,7 +1827,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. Artists need images like that too. They help people remember there is still a self outside the platform.",
-            "zh": "我們把它變得更實用一點。創作者也需要這種畫面，它會提醒人：平台之外，還是有一個自己。"
+            "zh": "放到平常的日子裡，這句話會變得更簡單。創作者也需要這種畫面，它會提醒人：平台之外，還是有一個自己。"
           },
           {
             "speaker": "b",
@@ -2049,7 +2049,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. The right sentence can help you keep a big lesson close.",
-            "zh": "我們把它變得更實用一點。對的句子，會幫你把一個大的體會放在手邊。"
+            "zh": "練聽力的時候，特別注意這個句子的形狀。對的句子，會幫你把一個大的體會放在手邊。"
           }
         ]
       },

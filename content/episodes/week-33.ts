@@ -163,7 +163,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. Outdoor language works best when it stays specific and bodily.",
-            "zh": "我們把它變得更實用一點。談戶外的語言，最好就是具體，而且有身體感。"
+            "zh": "我們把它放進一個情境來看。談戶外的語言，最好就是具體，而且有身體感。"
           }
         ]
       },
@@ -479,7 +479,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with the kind of sentence people actually say. Nature language is strongest when it stays close to real sensation.",
-            "zh": "我們把它變得更實用一點。描述自然的語言，最有力的時候就是它貼著真實感受。"
+            "zh": "從人們真的會說的句子開始。描述自然的語言，最有力的時候就是它貼著真實感受。"
           }
         ]
       },
@@ -1106,7 +1106,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is how it might sound out loud. Hiking language gets stronger when it stays close to physical truth.",
-            "zh": "我們把它變得更實用一點。描述健行的語言，只要貼著身體的真實，就會變強。"
+            "zh": "實際說出口，大概會是這樣。描述健行的語言，只要貼著身體的真實，就會變強。"
           }
         ]
       },
@@ -1422,7 +1422,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "On an ordinary day, the sentence gets simpler. The language should sound grounded, not alarmist.",
-            "zh": "我們把它變得更實用一點。這種語言最好要接地，不要只剩警報感。"
+            "zh": "日常版本會更簡單。這種語言最好要接地，不要只剩警報感。"
           }
         ]
       },
@@ -1632,7 +1632,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For listening practice, notice the shape of this sentence. It is a helpful sentence for travelers.",
-            "zh": "我們把它變得更實用一點。這對旅行者來說是很有用的一句話。"
+            "zh": "練聽力時，注意一下這句話長什麼樣子。這對旅行者來說是很有用的一句話。"
           }
         ]
       },
@@ -1738,7 +1738,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let's bring it down to one situation. The language of responsibility should still sound human.",
-            "zh": "我們把它變得更實用一點。責任感的語言，還是要聽起來像人在說話。"
+            "zh": "我們把它收到一個情境裡：責任感的語言，還是要聽起來像人在說話。"
           }
         ]
       },
@@ -2049,7 +2049,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine a normal day. The point is not to sound grand. The point is to sound true.",
-            "zh": "我們把它變得更實用一點。重點不是要聽起來很偉大，重點是要聽起來真。"
+            "zh": "想像一個普通的日子。重點不是要聽起來很偉大，重點是要聽起來真。"
           }
         ]
       },

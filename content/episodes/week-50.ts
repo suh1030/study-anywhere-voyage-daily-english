@@ -1511,7 +1511,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is one natural option. Gratitude at work is not about making everyone sentimental. It is about making value harder to overlook.",
-            "zh": "我們把它變得更實用一點。工作裡的感謝不是要讓大家變得多愁善感，而是讓真正的價值比較不容易被漏掉。"
+            "zh": "這裡有一個很自然的選項。工作裡的感謝不是要讓大家變得多愁善感，而是讓真正的價值比較不容易被漏掉。"
           },
           {
             "speaker": "b",

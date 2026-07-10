@@ -151,7 +151,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. English is most convincing when it is specific. Listeners do not need the full picture — they just need one true detail.",
-            "zh": "我們把它變得更實用一點。英文最有說服力的時候，就是它很具體的時候。聽的人不需要完整全貌，只需要一個真實的細節。"
+            "zh": "我自己會這樣講：英文最有說服力的時候，就是它很具體的時候。聽的人不需要完整全貌，只需要一個真實的細節。"
           },
           {
             "speaker": "b",

@@ -163,7 +163,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A real-life example helps here. Pet language works best when it stays close to daily life and real feeling.",
-            "zh": "我們把它變得更實用一點。談寵物的語言，最好就是貼著日常和真的感受走。"
+            "zh": "舉個真實的例子會更清楚：談寵物的語言，最好就是貼著日常和真的感受走。"
           }
         ]
       },
@@ -474,7 +474,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Make it sound like something you could say on a Tuesday. Animal language often works best when it respects both feeling and biology.",
-            "zh": "我們把它變得更實用一點。談動物的語言，當它同時尊重感情和生物事實時，通常最好用。"
+            "zh": "讓它聽起來像你在一個普通星期二會說的話。談動物的語言，當它同時尊重感情和生物事實時，通常最好用。"
           }
         ]
       },
@@ -1106,7 +1106,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. Conservation language should help people feel the stakes without turning everything into panic.",
-            "zh": "我們把它變得更實用一點。保育的語言，最好是讓人感覺到重要性，而不是把一切都變成恐慌。"
+            "zh": "在真實生活裡，大概會是這樣講。保育的語言，最好是讓人感覺到重要性，而不是把一切都變成恐慌。"
           }
         ]
       },
@@ -1417,7 +1417,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Think of a real moment. It keeps the power difference visible.",
-            "zh": "我們把它變得更實用一點。它會讓那個權力差一直留在畫面裡。"
+            "zh": "想一個真實的當下。它會讓那個權力差一直留在畫面裡。"
           }
         ]
       },
@@ -1827,7 +1827,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you were saying this to someone, you might start here. Animals offer a lot of ordinary wisdom if people are willing to stay close enough to learn it.",
-            "zh": "我們把它變得更實用一點。只要人願意待得夠近，動物真的會提供很多日常但深刻的智慧。"
+            "zh": "如果要跟別人講，可以從這裡開始：只要人願意待得夠近，動物真的會提供很多日常但深刻的智慧。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is the version I would actually use. Possibility matters.",
-            "zh": "我們把它變得更實用一點。做得到的感覺真的很重要。"
+            "zh": "這是我真的會拿來用的版本。做得到的感覺真的很重要。"
           }
         ]
       },
