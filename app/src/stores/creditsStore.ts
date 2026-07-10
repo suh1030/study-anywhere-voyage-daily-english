@@ -12,7 +12,7 @@ interface CreditsState {
   purchasing: boolean
   fetchBalance: () => Promise<void>
   initRevenueCat: (userId: string) => Promise<void>
-  purchaseCredits: () => Promise<{ success: boolean; error?: string }>
+  purchaseCredits: () => Promise<{ success: boolean; pending?: boolean; error?: string }>
   requestFeedback: (question: string, answer: string) => Promise<{ feedback: string } | { error: string }>
 }
 
@@ -57,7 +57,8 @@ export const useCreditsStore = create<CreditsState>((set, get) => ({
         if (get().balance > prevBalance) break
       }
 
-      return { success: true }
+      // 付款成功但 webhook 尚未入帳：如實告知「稍後入帳」，不謊報已加點
+      return { success: true, pending: get().balance <= prevBalance }
     } catch (e: unknown) {
       const err = e as { userCancelled?: boolean; message?: string }
       if (err.userCancelled) return { success: false }
@@ -91,6 +92,9 @@ export const useCreditsStore = create<CreditsState>((set, get) => ({
 
       set({ balance: result.creditsRemaining })
       return { feedback: result.feedback }
+    } catch {
+      // 離線或伺服器回非 JSON：不讓 rejection 往上炸，回結構化錯誤
+      return { error: 'network_error' }
     } finally {
       set({ loading: false })
     }

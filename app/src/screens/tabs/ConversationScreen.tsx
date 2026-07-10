@@ -110,6 +110,7 @@ export default function ConversationScreen() {
         result.error === 'insufficient_credits' ? 'Not enough credits.' :
         result.error === 'daily_limit_reached' ? 'You\'ve reached the 5 feedback limit for today. Come back tomorrow!' :
         result.error === 'ai_unavailable' ? 'AI service is temporarily unavailable. Your credit was not deducted.' :
+        result.error === 'network_error' ? 'No connection. Please check your network and try again.' :
         'Failed to get feedback. Please try again.'
       Alert.alert('Error', msg)
     }

@@ -4,3 +4,6 @@ ios/build/
 android/build/
 android/.gradle/
 .expo/
+# 本機 env 覆蓋與備份，絕不能進 EAS build（會把 production 指向 localhost）
+.env.local
+.env.cloud.bak

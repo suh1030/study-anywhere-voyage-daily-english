@@ -9,6 +9,7 @@ import {
   ScrollView,
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
+import Constants from 'expo-constants'
 import { colors, fonts, spacing, radius } from '../../constants/theme'
 import { useAuthStore } from '../../stores/authStore'
 import { useCreditsStore } from '../../stores/creditsStore'
@@ -19,13 +20,18 @@ const BUY_CREDITS_AMOUNT = 10
 const BUY_CREDITS_PRICE = 'NT$60'
 
 export default function AccountScreen() {
-  const { user, signOut } = useAuthStore()
+  const { user, signOut, deleteAccount } = useAuthStore()
   const { balance, purchasing, purchaseCredits } = useCreditsStore()
+  const [deleting, setDeleting] = React.useState(false)
 
   const handleBuyCredits = async () => {
     const result = await purchaseCredits()
     if (result.success) {
-      Alert.alert('Success', `${BUY_CREDITS_AMOUNT} credits added to your account.`)
+      if (result.pending) {
+        Alert.alert('Purchase complete', 'Your credits are on the way and should appear within a minute.')
+      } else {
+        Alert.alert('Success', `${BUY_CREDITS_AMOUNT} credits added to your account.`)
+      }
     } else if (result.error) {
       Alert.alert('Purchase failed', result.error)
     }
@@ -36,6 +42,39 @@ export default function AccountScreen() {
       { text: 'Cancel', style: 'cancel' },
       { text: 'Sign Out', style: 'destructive', onPress: () => signOut() },
     ])
+  }
+
+  const handleDeleteAccount = () => {
+    Alert.alert(
+      'Delete Account',
+      'This permanently deletes your account, remaining credits, and all learning progress. This cannot be undone.',
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'Delete',
+          style: 'destructive',
+          onPress: () => {
+            Alert.alert(
+              'Are you absolutely sure?',
+              'Your account and all data will be permanently deleted.',
+              [
+                { text: 'Keep my account', style: 'cancel' },
+                {
+                  text: 'Delete permanently',
+                  style: 'destructive',
+                  onPress: async () => {
+                    setDeleting(true)
+                    const error = await deleteAccount()
+                    setDeleting(false)
+                    if (error) Alert.alert('Delete failed', error)
+                  },
+                },
+              ]
+            )
+          },
+        },
+      ]
+    )
   }
 
   return (
@@ -73,6 +112,14 @@ export default function AccountScreen() {
           <TouchableOpacity style={styles.signOutBtn} onPress={handleSignOut}>
             <Text style={styles.signOutText}>SIGN OUT</Text>
           </TouchableOpacity>
+
+          <TouchableOpacity
+            style={[styles.deleteBtn, deleting && styles.buyBtnDisabled]}
+            onPress={handleDeleteAccount}
+            disabled={deleting}
+          >
+            <Text style={styles.deleteText}>{deleting ? 'DELETING…' : 'DELETE ACCOUNT'}</Text>
+          </TouchableOpacity>
         </View>
 
         <View style={styles.divider} />
@@ -90,7 +137,7 @@ export default function AccountScreen() {
           </TouchableOpacity>
         </View>
 
-        <Text style={styles.version}>Notch Up! · v1.0.0</Text>
+        <Text style={styles.version}>Notch Up! · v{Constants.expoConfig?.version ?? '1.0.0'}</Text>
         <Text style={styles.endorsement}>A Study Anywhere Voyage product</Text>
 
       </ScrollView>
@@ -172,6 +219,18 @@ const styles = StyleSheet.create({
     fontSize: 11,
     letterSpacing: 2,
     color: colors.error,
+  },
+  deleteBtn: {
+    marginTop: spacing.md,
+    paddingVertical: 14,
+    alignItems: 'center',
+  },
+  deleteText: {
+    fontFamily: fonts.mono,
+    fontSize: 10,
+    letterSpacing: 2,
+    color: colors.muted,
+    textDecorationLine: 'underline',
   },
   legalRow: {
     flexDirection: 'row',

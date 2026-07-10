@@ -19,6 +19,7 @@ interface AuthState {
   signInWithApple: () => Promise<string | null>
   signInWithGoogle: () => Promise<string | null>
   signOut: () => Promise<void>
+  deleteAccount: () => Promise<string | null>
 }
 
 export const useAuthStore = create<AuthState>((set) => ({
@@ -119,5 +120,31 @@ export const useAuthStore = create<AuthState>((set) => ({
   signOut: async () => {
     await supabase.auth.signOut()
     set({ session: null, user: null })
+  },
+
+  deleteAccount: async () => {
+    try {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session) return 'Not signed in.'
+
+      const res = await fetch(
+        `${process.env.EXPO_PUBLIC_SUPABASE_URL}/functions/v1/delete-account`,
+        {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer ${session.access_token}`,
+            'Content-Type': 'application/json',
+            apikey: process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY!,
+          },
+        }
+      )
+      if (!res.ok) return 'Could not delete your account. Please try again.'
+
+      await supabase.auth.signOut()
+      set({ session: null, user: null })
+      return null
+    } catch {
+      return 'Network error. Please check your connection and try again.'
+    }
   },
 }))

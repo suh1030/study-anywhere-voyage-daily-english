@@ -38,12 +38,6 @@ export default function App() {
   const { initialize: initializeCurriculum, reset: resetCurriculum, loading: curriculumLoading } = useCurriculumStore()
   const appState = useRef(AppState.currentState)
 
-  // TEMP PREVIEW MODE: bypass login to screenshot main screens while backend is down.
-  // Set back to false (or delete this block) before shipping.
-  const PREVIEW_MODE = false
-  const previewSession = { user: { id: 'preview', email: 'preview@sav.app' } } as any
-  const activeSession = PREVIEW_MODE ? previewSession : session
-
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
       setSession(session)
@@ -59,10 +53,6 @@ export default function App() {
   }, [])
 
   useEffect(() => {
-    if (PREVIEW_MODE) {
-      initializeCurriculum()
-      return
-    }
     if (session) {
       loadProgress()
       fetchBalance()
@@ -85,7 +75,7 @@ export default function App() {
     return () => sub.remove()
   }, [session])
 
-  if ((!PREVIEW_MODE && loading) || (activeSession ? curriculumLoading : false) || !fontsLoaded) {
+  if (loading || (session ? curriculumLoading : false) || !fontsLoaded) {
     return (
       <View style={{ flex: 1, backgroundColor: colors.bg, justifyContent: 'center', alignItems: 'center' }}>
         <ActivityIndicator color={colors.ui} size="large" />
@@ -97,7 +87,7 @@ export default function App() {
     <SafeAreaProvider>
       <NavigationContainer documentTitle={{ formatter: () => 'Notch Up!' }}>
         <StatusBar style="light" />
-        {activeSession ? <TabNavigator /> : <AuthScreen />}
+        {session ? <TabNavigator /> : <AuthScreen />}
       </NavigationContainer>
     </SafeAreaProvider>
   )

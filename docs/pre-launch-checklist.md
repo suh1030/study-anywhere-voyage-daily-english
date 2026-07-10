@@ -61,6 +61,18 @@
   - ⚠️ **Simulator 無法測試**，必須用真實 iPhone 透過 TestFlight 測試，上線前必須確認
 - [x] 隱私政策連結可開啟（Account tab → LEGAL，開啟 `https://sav-daily-english.netlify.app/privacy-policy.html`）
 - [x] 條款連結可開啟（Account tab → LEGAL，開啟 `https://sav-daily-english.netlify.app/terms-of-service.html`）
+- [x] **帳號刪除功能（Guideline 5.1.1(v)）**：Account tab → DELETE ACCOUNT，二次確認後
+      呼叫 `delete-account` Edge Function 刪除 auth 用戶（連帶 CASCADE 清除所有資料）
+      〔工程審查 2026-07-10 新增，見 engineering-review-2026-07-10.md〕
+
+### 安全（2026-07-10 工程審查修復）
+- [x] **鎖定 SECURITY DEFINER RPC 執行權限**：add_credits/deduct_credit/restore_credit/
+      increment_tutor_usage 已 REVOKE FROM PUBLIC，僅 service_role 可執行
+      （修復前任何登入用戶可繞過 IAP 無限加點；本機已實測封死）
+      → 雲端需執行 `supabase db push` 套用 migration `20260710000000`
+- [x] 移除 App.tsx 的 PREVIEW_MODE 登入繞過除錯碼
+- [x] app/.env 預設改為雲端環境；eas.json build profile 補上固定 env；本機設定移至 .env.local
+- [ ] 部署 `delete-account` Edge Function 到雲端（`supabase functions deploy delete-account`）
 
 ---
 

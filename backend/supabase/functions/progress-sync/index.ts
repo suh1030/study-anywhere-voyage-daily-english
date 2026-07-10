@@ -16,10 +16,21 @@ Deno.serve(async (req) => {
     const { data: { user }, error: authError } = await supabaseUser.auth.getUser()
     if (authError || !user) return jsonResponse({ error: 'unauthorized' }, 401)
 
-    // ── 2. 解析進度資料 ──────────────────────────────────────
-    const body = await req.json()
+    // ── 2. 解析並驗證進度資料 ────────────────────────────────
+    const raw = await req.text()
+    if (raw.length > 262144) return jsonResponse({ error: 'payload_too_large' }, 413) // 256KB 上限
+    const body = JSON.parse(raw)
+
     const completed_days = body.completed_days ?? {}
     const mastered_cards = body.mastered_cards ?? []
+    if (
+      typeof completed_days !== 'object' || Array.isArray(completed_days) ||
+      !Array.isArray(mastered_cards) ||
+      mastered_cards.some((c: unknown) => typeof c !== 'string' || (c as string).length > 64) ||
+      mastered_cards.length > 2000
+    ) {
+      return jsonResponse({ error: 'invalid_payload' }, 400)
+    }
 
     // ── 3. Upsert 進度（last-write-wins，v1 可接受） ─────────
     const supabaseAdmin = createAdminClient()
