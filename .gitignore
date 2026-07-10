@@ -15,3 +15,6 @@ tmp/
 # Generated audit reports
 scripts/*-output.txt
 .gstack/
+
+# Supabase CLI local cache
+backend/supabase/.temp/
