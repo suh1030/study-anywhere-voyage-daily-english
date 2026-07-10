@@ -144,7 +144,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than pretending I can do everything immediately.",
+            "en": "I get that. It sounds much better than pretending I can do everything immediately.",
             "zh": "這真的比假裝自己所有事都可以立刻做到好多了。"
           },
           {
@@ -191,7 +191,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Pressure gets dangerous when everything is treated as sacred.",
+            "en": "Exactly. Pressure gets dangerous when everything is treated as sacred.",
             "zh": "完全沒錯。當你把每一件事都當成不能碰的聖物時，壓力就會開始變危險。"
           },
           {
@@ -443,7 +443,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much better than pretending I am fine.",
+            "en": "Right. It sounds so much better than pretending I am fine.",
             "zh": "這真的比硬裝自己沒事好多了。"
           },
           {
@@ -671,8 +671,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. That is why pressure often scrambles judgment before the work itself is even sorted.",
-            "zh": "大致上是。也就是因為這樣，工作還沒分清楚之前，壓力就已經先把判斷打亂了。"
+            "en": "Largely, yes. That is why pressure often scrambles judgment before the work itself is even sorted.",
+            "zh": "多半是。也就是因為這樣，工作還沒分清楚之前，壓力就已經先把判斷打亂了。"
           },
           {
             "speaker": "b",
@@ -812,7 +812,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost too simple.",
+            "en": "True. It sounds almost too simple.",
             "zh": "這聽起來簡單到有點不真實。"
           },
           {
@@ -830,8 +830,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the practical takeaway. It also becomes easier to move the deadline on lower-value tasks before they become dramatic.",
-            "zh": "這就是可以實際帶走的重點。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。"
+            "en": "That is the piece to take home. It also becomes easier to move the deadline on lower-value tasks before they become dramatic.",
+            "zh": "這就是可以帶回家的那一塊。而且你也會更容易趁事情還沒變戲劇化之前，就先把低價值任務的期限往後挪。"
           },
           {
             "speaker": "b",
@@ -883,7 +883,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And usually a worse one.",
+            "en": "That's right. And usually a worse one.",
             "zh": "完全沒錯，而且通常是比較差的那種。"
           },
           {
@@ -1075,7 +1075,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds calm and early.",
+            "en": "That makes sense to me. It sounds calm and early.",
             "zh": "這句聽起來就很平靜，也很早。"
           },
           {
@@ -1099,7 +1099,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much better than apologizing for existing.",
+            "en": "I hear you. It sounds so much better than apologizing for existing.",
             "zh": "這真的比先為了自己的存在道歉好多了。"
           },
           {
@@ -1128,7 +1128,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost embarrassingly simple.",
+            "en": "Good point. It sounds almost embarrassingly simple.",
             "zh": "這聽起來簡單到有點讓人害羞。"
           },
           {
@@ -1194,8 +1194,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Mature teams do not reward secret suffering; they reward visibility and good timing.",
-            "zh": "大致上是。成熟的團隊不應該獎勵祕密受苦，而是應該獎勵看得見的狀況和好的時機感。"
+            "en": "In most cases, yes. Mature teams do not reward secret suffering; they reward visibility and good timing.",
+            "zh": "多數情況下是。成熟的團隊不應該獎勵祕密受苦，而是應該獎勵看得見的狀況和好的時機感。"
           },
           {
             "speaker": "b",
@@ -1357,7 +1357,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a good phrase for it.",
+            "en": "That's fair. It does feel like a good phrase for it.",
             "zh": "這個形容真的超準。"
           },
           {
@@ -1386,7 +1386,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest without sounding dramatic.",
+            "en": "I like that. It sounds honest without sounding dramatic.",
             "zh": "這句很誠實，但又不會很戲劇化。"
           },
           {
@@ -1410,13 +1410,13 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much healthier than staying half-online all weekend.",
+            "en": "That tracks. It sounds much healthier than staying half-online all weekend.",
             "zh": "這真的比整個週末都半上線狀態健康多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Half-resting is one of the slowest ways to bounce back.",
+            "en": "Right. Half-resting is one of the slowest ways to bounce back.",
             "zh": "完全沒錯。半休息其實是最慢恢復的方法之一。"
           }
         ]
@@ -1590,8 +1590,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: Leadership under pressure is often about seeing strain before it turns visible enough to scare everybody.",
-            "zh": "有個小地方其實很關鍵：壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。"
+            "en": "One small piece does a lot of work here: Leadership under pressure is often about seeing strain before it turns visible enough to scare everybody.",
+            "zh": "有個小地方在這裡出了大力：壓力下的帶人，很多時候就是要在緊繃還沒大到足以嚇到所有人之前先看見它。"
           },
           {
             "speaker": "b",
@@ -1614,8 +1614,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The leader sets the tone by helping the room feel challenged but not abandoned.",
-            "zh": "大致上是。帶頭的人是透過設定氣氛來做事，讓整個房間感覺自己在面對挑戰，但沒有被丟下。"
+            "en": "That's mostly true. The leader sets the tone by helping the room feel challenged but not abandoned.",
+            "zh": "大致沒錯。帶頭的人是透過設定氣氛來做事，讓整個房間感覺自己在面對挑戰，但沒有被丟下。"
           },
           {
             "speaker": "b",
@@ -1673,7 +1673,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exhausting.",
+            "en": "Fair enough. It sounds exhausting.",
             "zh": "這聽起來真的很累。"
           },
           {
@@ -1714,7 +1714,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clearer than asking people to just try harder.",
+            "en": "I get that. It sounds clearer than asking people to just try harder.",
             "zh": "這真的比叫大家『再撐一下』清楚太多了。"
           },
           {
@@ -1761,7 +1761,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Pressure eats retention. Repetition becomes kindness when a team is overloaded.",
+            "en": "Precisely. Pressure eats retention. Repetition becomes kindness when a team is overloaded.",
             "zh": "完全沒錯。壓力會吃掉記憶力。團隊過載時，重複其實是一種溫柔。"
           },
           {
@@ -2018,7 +2018,7 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds strong in a quiet way.",
+            "en": "Right. It sounds strong in a quiet way.",
             "zh": "這句很安靜，可是很有力。"
           },
           {
@@ -2089,8 +2089,8 @@ export const WEEK_21: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Margin protects judgment, kindness, and the ability to carry pressure without becoming pressure.",
-            "zh": "大致上是。空白保護的是判斷力、溫柔，還有你扛壓時不會反過來自己變成壓力本身的能力。"
+            "en": "More often than not, yes. Margin protects judgment, kindness, and the ability to carry pressure without becoming pressure.",
+            "zh": "通常是這樣沒錯。空白保護的是判斷力、溫柔，還有你扛壓時不會反過來自己變成壓力本身的能力。"
           },
           {
             "speaker": "b",

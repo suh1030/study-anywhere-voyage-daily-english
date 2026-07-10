@@ -927,13 +927,13 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Sometimes you are dropping a habit, but sometimes you are dropping a story.",
+            "en": "Exactly. Sometimes you are dropping a habit, but sometimes you are dropping a story.",
             "zh": "沒錯。有時候你放下的是一個習慣，有時候你放下的是一個故事。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds harder than cleaning a desk or deleting old files.",
+            "en": "I get that. It sounds harder than cleaning a desk or deleting old files.",
             "zh": "這聽起來比整理桌子或刪掉舊檔案難多了。"
           },
           {

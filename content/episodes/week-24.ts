@@ -132,7 +132,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest without underselling myself.",
+            "en": "Good point. It sounds honest without underselling myself.",
             "zh": "這句很誠實，但又不會把自己講得太弱。"
           },
           {
@@ -191,8 +191,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A good feedback loop is short enough that you can still remember what you tried when you review it.",
-            "zh": "大致上是。好的回饋循環，會短到你回頭看時還記得自己到底做了什麼。"
+            "en": "More often than not, yes. A good feedback loop is short enough that you can still remember what you tried when you review it.",
+            "zh": "通常是這樣沒錯。好的回饋循環，會短到你回頭看時還記得自己到底做了什麼。"
           },
           {
             "speaker": "b",
@@ -233,7 +233,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds less glamorous than I expected.",
+            "en": "I like that. It sounds less glamorous than I expected.",
             "zh": "這聽起來比我想像的還不戲劇化。"
           },
           {
@@ -414,7 +414,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds brutally accurate.",
+            "en": "That tracks. It sounds brutally accurate.",
             "zh": "這聽起來準到有點殘酷。"
           },
           {
@@ -443,7 +443,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest without making the whole thing sound hopeless.",
+            "en": "Fair enough. It sounds honest without making the whole thing sound hopeless.",
             "zh": "這句很誠實，但又不會把整件事說得很沒希望。"
           },
           {
@@ -567,7 +567,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Growth does not only make you better at a task. It can make you braver around becoming.",
+            "en": "Exactly. Growth does not only make you better at a task. It can make you braver around becoming.",
             "zh": "完全沒錯。成長不只是讓你把某個任務做得更好，它也可能讓你在『成為』這件事上更勇敢。"
           },
           {
@@ -759,7 +759,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much stronger than just saying I am a beginner.",
+            "en": "I get that. It sounds much stronger than just saying I am a beginner.",
             "zh": "這句真的比單純說『我只是 beginner』有力量很多。"
           },
           {
@@ -1040,8 +1040,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: Awareness is often what turns repetition into improvement.",
-            "zh": "這裡可以做個很有用的區分：覺察，很多時候才是把重複變成進步的關鍵。"
+            "en": "Here is a distinction that helps: Awareness is often what turns repetition into improvement.",
+            "zh": "有一個區分會很有幫助：覺察，很多時候才是把重複變成進步的關鍵。"
           },
           {
             "speaker": "b",
@@ -1075,7 +1075,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more serious than just saying I am reviewing.",
+            "en": "Right. It sounds much more serious than just saying I am reviewing.",
             "zh": "這句比只是說我在複習，聽起來認真很多。"
           },
           {
@@ -1176,7 +1176,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds surprisingly unglamorous.",
+            "en": "True. It sounds surprisingly unglamorous.",
             "zh": "這聽起來意外地不 glamorous。"
           },
           {
@@ -1386,7 +1386,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds mature. It does not deny the slowness, but it does not panic about it either.",
+            "en": "That makes sense to me. It sounds mature. It does not deny the slowness, but it does not panic about it either.",
             "zh": "這句聽起來很成熟。它沒有否認慢，可是也沒有因為慢就慌。"
           },
           {
@@ -1410,7 +1410,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much steadier than the all-or-nothing way I usually talk to myself.",
+            "en": "I hear you. It sounds much steadier than the all-or-nothing way I usually talk to myself.",
             "zh": "這句真的比我平常那種非黑即白的內心講法穩很多。"
           },
           {
@@ -1626,7 +1626,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Learning begins again the moment you become concrete.",
+            "en": "That's right. Learning begins again the moment you become concrete.",
             "zh": "完全沒錯。你一旦重新變具體，學習就又開始了。"
           }
         ]
@@ -1702,7 +1702,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds respectful and specific.",
+            "en": "Good point. It sounds respectful and specific.",
             "zh": "這句聽起來很尊重，也很具體。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much healthier than trying to copy someone exactly.",
+            "en": "I like that. It sounds so much healthier than trying to copy someone exactly.",
             "zh": "這真的比想一模一樣複製一個人健康太多了。"
           },
           {
@@ -2048,8 +2048,8 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: Good growth language should sound lived, not marketed.",
-            "zh": "有個細節很容易被忽略：好的成長語言，應該聽起來像活過，不像被行銷過。"
+            "en": "Here is the part most people overlook: Good growth language should sound lived, not marketed.",
+            "zh": "這是多數人會漏看的部分：好的成長語言，應該聽起來像活過，不像被行銷過。"
           }
         ]
       },

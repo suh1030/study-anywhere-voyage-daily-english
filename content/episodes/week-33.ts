@@ -354,8 +354,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "Now I see what I was missing.",
+            "zh": "現在我知道自己漏掉什麼了。"
           },
           {
             "speaker": "a",
@@ -448,7 +448,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds natural.",
+            "en": "Good point. It sounds natural.",
             "zh": "這句很自然。"
           },
           {
@@ -549,7 +549,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost spiritual.",
+            "en": "I like that. It sounds almost spiritual.",
             "zh": "這聽起來幾乎有點靈性。"
           },
           {
@@ -665,8 +665,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "That makes the whole idea click.",
+            "zh": "這讓整個概念一下子通了。"
           },
           {
             "speaker": "a",
@@ -730,7 +730,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very city-compatible.",
+            "en": "That tracks. It sounds very city-compatible.",
             "zh": "這聽起來就非常適合城市生活。"
           },
           {
@@ -759,7 +759,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds good.",
+            "en": "Fair enough. It sounds good.",
             "zh": "這句很好。"
           },
           {
@@ -1046,8 +1046,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That changes how I want to use it.",
-            "zh": "這改變了我想怎麼去用它。"
+            "en": "I did not expect it to be that simple.",
+            "zh": "我沒想到可以這麼簡單。"
           },
           {
             "speaker": "a",
@@ -1152,7 +1152,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds both useful and slightly dangerous.",
+            "en": "I get that. It sounds both useful and slightly dangerous.",
             "zh": "這聽起來既有用，也有一點危險。"
           },
           {
@@ -1309,8 +1309,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "That feels honest and usable.",
+            "zh": "這聽起來誠實，而且用得上。"
           },
           {
             "speaker": "a",
@@ -1350,7 +1350,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very important in a world where so much is smooth, fast, and curated.",
+            "en": "Right. It sounds very important in a world where so much is smooth, fast, and curated.",
             "zh": "在一個很多東西都很滑順、很快、很被設計過的世界裡，這聽起來真的很重要。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds balanced.",
+            "en": "True. It sounds balanced.",
             "zh": "這句聽起來很平衡。"
           },
           {
@@ -1509,14 +1509,14 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds truer than the idea that comfort should be total.",
+            "en": "That makes sense to me. It sounds truer than the idea that comfort should be total.",
             "zh": "這真的比那種『一切都應該超舒服』的想法真實很多。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A rich childhood usually includes scraped knees, weather, and wonder.",
-            "zh": "大致上是。夠豐富的童年，通常會包含擦傷的膝蓋、天氣，還有驚奇。"
+            "en": "In most cases, yes. A rich childhood usually includes scraped knees, weather, and wonder.",
+            "zh": "多數情況下是。夠豐富的童年，通常會包含擦傷的膝蓋、天氣，還有驚奇。"
           },
           {
             "speaker": "b",
@@ -1625,8 +1625,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That distinction makes things clearer.",
-            "zh": "這個區別讓事情清楚多了。"
+            "en": "That would have saved me last month.",
+            "zh": "上個月要是知道這個就好了。"
           },
           {
             "speaker": "a",
@@ -1666,7 +1666,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but it changes a lot.",
+            "en": "I hear you. It sounds simple, but it changes a lot.",
             "zh": "這聽起來很簡單，但其實會改變很多。"
           },
           {
@@ -1678,13 +1678,13 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That framing shifts the whole picture.",
-            "zh": "這個框架改變了整個畫面。"
+            "en": "I can hear myself saying that.",
+            "zh": "我可以想像自己講這句話。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I can see that. It sounds right to me too.",
+            "en": "Good point. It sounds right to me too.",
             "zh": "我也覺得這很對。"
           }
         ]
@@ -1772,8 +1772,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right — and that's the version that holds up.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "en": "That takes the pressure off.",
+            "zh": "這讓壓力小多了。"
           },
           {
             "speaker": "a",
@@ -1826,8 +1826,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Better travel begins when admiration grows into responsibility.",
-            "zh": "大致上是。比較好的旅行，常常就是從欣賞慢慢長成責任。"
+            "en": "That's mostly true. Better travel begins when admiration grows into responsibility.",
+            "zh": "大致沒錯。比較好的旅行，常常就是從欣賞慢慢長成責任。"
           },
           {
             "speaker": "b",
@@ -1924,7 +1924,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds both philosophical and very practical.",
+            "en": "I like that. It sounds both philosophical and very practical.",
             "zh": "這聽起來既有點哲學，又非常實際。"
           },
           {
@@ -1936,8 +1936,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "It sounds obvious now that you say it.",
+            "zh": "你一說出來就覺得理所當然了。"
           },
           {
             "speaker": "a",
@@ -1977,7 +1977,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds mentally healthy, honestly.",
+            "en": "That tracks. It sounds mentally healthy, honestly.",
             "zh": "老實說，這聽起來在心理上也很健康。"
           },
           {
@@ -1989,8 +1989,8 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "That is a better handle on it.",
+            "zh": "這樣抓這件事順手多了。"
           },
           {
             "speaker": "a",
@@ -2018,7 +2018,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful and calm.",
+            "en": "Fair enough. It sounds thoughtful and calm.",
             "zh": "這句聽起來很有想法，也很平靜。"
           },
           {

@@ -185,7 +185,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost too easy.",
+            "en": "I like that. It sounds almost too easy.",
             "zh": "這聽起來幾乎簡單到讓人懷疑有沒有用。"
           },
           {
@@ -215,8 +215,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Time is one of the best filters for fake urgency.",
-            "zh": "大致上是。時間是過濾假性急迫感最好的工具之一。"
+            "en": "Pretty much. Time is one of the best filters for fake urgency.",
+            "zh": "差不多可以這樣說。時間是過濾假性急迫感最好的工具之一。"
           }
         ]
       },
@@ -789,7 +789,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. You do not need smart language. You need language that catches the moment honestly.",
+            "en": "Precisely. You do not need smart language. You need language that catches the moment honestly.",
             "zh": "沒錯。你不需要聰明的語言，你需要的是能誠實抓住那個瞬間的語言。"
           }
         ]
@@ -1181,7 +1181,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more mature than simply winning the conversation.",
+            "en": "That tracks. It sounds more mature than simply winning the conversation.",
             "zh": "這種想法比起只是想在對話裡贏過對方，成熟多了。"
           },
           {
@@ -1462,8 +1462,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Compound interest is what happens when patience finally gets visible.",
-            "zh": "大致上是。複利，某種程度上就是耐心終於變得看得見的樣子。"
+            "en": "Largely, yes. Compound interest is what happens when patience finally gets visible.",
+            "zh": "多半是。複利，某種程度上就是耐心終於變得看得見的樣子。"
           },
           {
             "speaker": "b",
@@ -2066,7 +2066,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds boring, which probably means it works.",
+            "en": "Fair enough. It sounds boring, which probably means it works.",
             "zh": "這聽起來有點無聊，而這大概也代表它真的有效。"
           },
           {

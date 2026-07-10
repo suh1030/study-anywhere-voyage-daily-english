@@ -85,7 +85,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. They add personal texture to a life that could otherwise become purely functional.",
+            "en": "That's right. They add personal texture to a life that could otherwise become purely functional.",
             "zh": "完全沒錯。它們會替一個原本可能只剩功能性的生活，加上一層很個人的質地。"
           },
           {
@@ -156,7 +156,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds easy to remember.",
+            "en": "That tracks. It sounds easy to remember.",
             "zh": "這句聽起來很好記。"
           },
           {
@@ -735,7 +735,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds healthier than chasing self-optimization forever.",
+            "en": "Fair enough. It sounds healthier than chasing self-optimization forever.",
             "zh": "這真的比一直追著自我最佳化跑健康太多了。"
           },
           {
@@ -829,8 +829,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "That answers something I could not name.",
+            "zh": "這回答了我一直說不上來的東西。"
           },
           {
             "speaker": "a",
@@ -841,7 +841,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like real freedom.",
+            "en": "I see why that rings true. It does feel like real freedom.",
             "zh": "這聽起來才像真的自由。"
           },
           {
@@ -1199,8 +1199,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Slow learning returns dignity to the process, not just the outcome.",
-            "zh": "大致上是。慢慢學會的價值，在於它把尊嚴還給了過程，不只還給結果。"
+            "en": "For the most part, yes. Slow learning returns dignity to the process, not just the outcome.",
+            "zh": "大部分情況是這樣。慢慢學會的價值，在於它把尊嚴還給了過程，不只還給結果。"
           },
           {
             "speaker": "b",
@@ -1291,7 +1291,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Specificity lowers performance sometimes. People stop trying to impress and start trying to connect.",
+            "en": "Right. Specificity lowers performance sometimes. People stop trying to impress and start trying to connect.",
             "zh": "完全沒錯。有時候越具體，表演感反而越低。人不再一直想 impress，而是開始真的想連上。"
           },
           {
@@ -1350,7 +1350,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much gentler than forcing connection.",
+            "en": "I get that. It sounds much gentler than forcing connection.",
             "zh": "這聽起來就比硬逼自己建立連結溫柔多了。"
           },
           {
@@ -1590,7 +1590,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I can see that. It sounds lovely. A private practice can be beautiful precisely because it does not need an audience.",
+            "en": "Right. It sounds lovely. A private practice can be beautiful precisely because it does not need an audience.",
             "zh": "這聽起來很可愛。那種私人的練習之所以美，很多時候就是因為它根本不需要觀眾。"
           },
           {
@@ -1620,7 +1620,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds deeply restful.",
+            "en": "True. It sounds deeply restful.",
             "zh": "這聽起來真的很讓人休息。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds really beautiful.",
+            "en": "That makes sense to me. It sounds really beautiful.",
             "zh": "這句真的很美。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds important for almost any creative practice now.",
+            "en": "I hear you. It sounds important for almost any creative practice now.",
             "zh": "這聽起來對現在幾乎所有創作練習都很重要。"
           },
           {
@@ -1826,8 +1826,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. We all need at least one corner of life that does not ask us to explain ourselves.",
-            "zh": "大致上是。我們都需要至少一個生活角落，不會一直逼我們替自己解釋。"
+            "en": "Pretty much. We all need at least one corner of life that does not ask us to explain ourselves.",
+            "zh": "差不多可以這樣說。我們都需要至少一個生活角落，不會一直逼我們替自己解釋。"
           },
           {
             "speaker": "b",
@@ -1942,8 +1942,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: It thickens time, memory, and selfhood.",
-            "zh": "有個小地方其實很關鍵：它會讓時間、記憶和自我都重新變厚。"
+            "en": "One small piece does a lot of work here: It thickens time, memory, and selfhood.",
+            "zh": "有個小地方在這裡出了大力：它會讓時間、記憶和自我都重新變厚。"
           }
         ]
       },
@@ -1971,8 +1971,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. It gives people continuity across changing jobs, ages, and circumstances.",
-            "zh": "大致上是。它會讓人即使換工作、變老、處境改變，也還有一條可以延續的線。"
+            "en": "Largely, yes. It gives people continuity across changing jobs, ages, and circumstances.",
+            "zh": "多半是。它會讓人即使換工作、變老、處境改變，也還有一條可以延續的線。"
           },
           {
             "speaker": "b",
@@ -2124,7 +2124,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a much richer definition of adulthood than the usual one.",
+            "en": "I get why it feels that way. It does feel like a much richer definition of adulthood than the usual one.",
             "zh": "這聽起來比一般想像中的成年狀態豐富太多了。"
           },
           {

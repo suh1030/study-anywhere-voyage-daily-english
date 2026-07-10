@@ -1146,8 +1146,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: Plus, the people in the kitchen usually have better conversations.",
-            "zh": "現實通常比這再亂一點：而且在廚房的人通常聊天聊得比較好。"
+            "en": "Of course, daily life is rarely that tidy: Plus, the people in the kitchen usually have better conversations.",
+            "zh": "當然，日常很少這麼整齊：而且在廚房的人通常聊天聊得比較好。"
           },
           {
             "speaker": "b",
@@ -1397,8 +1397,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
-            "zh": "大致上是。你也可以試試說：「我想談一件事——我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
+            "en": "In most cases, yes. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
+            "zh": "多數情況下是。你也可以試試說：「我想談一件事——我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
           },
           {
             "speaker": "b",
@@ -2024,8 +2024,8 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the part worth practicing. You do not need a label. You just need to communicate closeness and shared history.",
-            "zh": "這部分最值得拿來練習。你不需要標籤，你只需要傳遞親密和共同歷史。"
+            "en": "That is where practice pays off. You do not need a label. You just need to communicate closeness and shared history.",
+            "zh": "練習的報酬就在這裡。你不需要標籤，你只需要傳遞親密和共同歷史。"
           },
           {
             "speaker": "b",

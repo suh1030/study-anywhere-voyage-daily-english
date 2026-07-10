@@ -132,7 +132,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear and adult.",
+            "en": "Fair enough. It sounds clear and adult.",
             "zh": "這句聽起來很清楚，也很成熟。"
           },
           {
@@ -191,8 +191,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A shutdown ritual works because it gives your system a clear handoff instead of a blurry fade-out.",
-            "zh": "大致上是。收工儀式有用，是因為它給整個系統一個清楚交接，而不是很模糊地慢慢淡掉。"
+            "en": "Pretty much. A shutdown ritual works because it gives your system a clear handoff instead of a blurry fade-out.",
+            "zh": "差不多可以這樣說。收工儀式有用，是因為它給整個系統一個清楚交接，而不是很模糊地慢慢淡掉。"
           },
           {
             "speaker": "b",
@@ -467,7 +467,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much kinder than pretending I should switch instantly.",
+            "en": "I get that. It sounds much kinder than pretending I should switch instantly.",
             "zh": "這句比假裝自己應該能秒切換善良太多了。"
           },
           {
@@ -502,7 +502,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Not everything needs to be solved tonight for tonight to stop being work.",
+            "en": "Precisely. Not everything needs to be solved tonight for tonight to stop being work.",
             "zh": "完全沒錯。不是每件事都要今晚解決，今晚才算不再是工作。"
           },
           {
@@ -549,7 +549,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but also rare.",
+            "en": "Right. It sounds simple, but also rare.",
             "zh": "這聽起來很簡單，可是其實很稀有。"
           },
           {
@@ -783,7 +783,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds practical, not precious.",
+            "en": "True. It sounds practical, not precious.",
             "zh": "這句聽起來很實際，不會像在矯情。"
           },
           {
@@ -865,7 +865,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds bigger than taking a break.",
+            "en": "That makes sense to me. It sounds bigger than taking a break.",
             "zh": "這聽起來比『休一下』大很多。"
           },
           {
@@ -1040,8 +1040,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Boundaries work better when they are clear and realistic, not dramatic and impossible to maintain.",
-            "zh": "大致上是。界線要有效，通常靠的是清楚又現實，不是很戲劇化卻根本維持不了。"
+            "en": "Largely, yes. Boundaries work better when they are clear and realistic, not dramatic and impossible to maintain.",
+            "zh": "多半是。界線要有效，通常靠的是清楚又現實，不是很戲劇化卻根本維持不了。"
           },
           {
             "speaker": "b",
@@ -1075,7 +1075,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds direct but still cooperative.",
+            "en": "I hear you. It sounds direct but still cooperative.",
             "zh": "這句聽起來很直接，但還是很合作。"
           },
           {
@@ -1176,7 +1176,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds amazing, honestly.",
+            "en": "Good point. It sounds amazing, honestly.",
             "zh": "老實說，這聽起來超棒。"
           },
           {
@@ -1702,7 +1702,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear without being melodramatic.",
+            "en": "I like that. It sounds clear without being melodramatic.",
             "zh": "這句很清楚，但不會很灑狗血。"
           },
           {

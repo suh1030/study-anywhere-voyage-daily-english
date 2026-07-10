@@ -126,7 +126,7 @@ export const FLASHCARDS_W42_W53: Flashcard[] = [
   { id: 'w53-listen-02', source: 'listen', weekNumber: 53, english: 'outgrow something', chinese: '某件事曾經適合你，但現在已經不再適合', exampleSentence: 'You can outgrow something without hating it or denying that it helped you before.' },
   { id: 'w53-listen-03', source: 'listen', weekNumber: 53, english: 'plan around real life', chinese: '按照真實生活去安排，而不是照理想化版本安排', exampleSentence: 'The plan started working once she learned to plan around real life each day.' },
   { id: 'w53-listen-04', source: 'listen', weekNumber: 53, english: 'loosen your grip', chinese: '不只是心裡知道要放下，而是真的開始鬆手', exampleSentence: 'The first real sign of healing was when she began to loosen her grip.' },
-  { id: 'w53-listen-05', source: 'listen', weekNumber: 53, english: 'no longer fits', chinese: '表面還能運作，但內在已經不再適合', exampleSentence: 'She could do the job well, but the role no longer fits who she is now.' },
+  { id: 'w53-listen-05', source: 'listen', weekNumber: 53, english: 'no longer fits', chinese: '表面還能運作，但內在已經不再適合', exampleSentence: 'She can still do the job well, but the role no longer fits who she is now.' },
   { id: 'w53-listen-06', source: 'listen', weekNumber: 53, english: 'in-between season', chinese: '舊的已經鬆開，新的又還沒站穩的過渡時期', exampleSentence: 'The in-between season taught her how much uncertainty she could actually hold.' },
   { id: 'w53-speak-01', source: 'speak', weekNumber: 53, english: 'sustain', chinese: '維持；支撐', exampleSentence: 'A short routine you can sustain beats a long one you keep skipping.' },
   { id: 'w53-speak-02', source: 'speak', weekNumber: 53, english: 'attitude', chinese: '態度', exampleSentence: 'Decide which skill, habit, or attitude you want to carry into next year.' },

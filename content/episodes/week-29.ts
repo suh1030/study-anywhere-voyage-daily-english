@@ -401,7 +401,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. There is a difference between processing an emotion through music and escaping it with music.",
+            "en": "Exactly. There is a difference between processing an emotion through music and escaping it with music.",
             "zh": "沒錯。用音樂來處理情緒，和用音樂來逃離情緒，是兩件不同的事。"
           },
           {
@@ -764,7 +764,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more real than listing genres like a resume.",
+            "en": "That tracks. It sounds much more real than listing genres like a resume.",
             "zh": "這比像履歷一樣列出曲風聽起來真實多了。"
           },
           {
@@ -1022,8 +1022,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "I'll remember that one.",
+            "zh": "這句我會記住。"
           },
           {
             "speaker": "a",
@@ -1046,7 +1046,7 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds manageable. Even on a commute, I could type one sentence into my notes app.",
+            "en": "Fair enough. It sounds manageable. Even on a commute, I could type one sentence into my notes app.",
             "zh": "這聽起來是可以做到的。就算是通勤時，我也可以把一句話打進備忘錄。"
           },
           {
@@ -1158,8 +1158,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: If the middle episode holds your attention without any introduction, the show is doing its job.",
-            "zh": "這裡有個不起眼但重要的細節：如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
+            "en": "A low-key detail deserves attention: If the middle episode holds your attention without any introduction, the show is doing its job.",
+            "zh": "有個低調的細節值得注意：如果中間的集數不需要任何介紹就能抓住你的注意力，那個節目就是在發揮作用。"
           }
         ]
       },
@@ -1344,8 +1344,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
-            "zh": "大致上是。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。"
+            "en": "Largely, yes. The discomfort you feel is the gap between what your brain now expects and what it is getting.",
+            "zh": "多半是。你感受到的不適，是你的大腦現在預期的和它實際得到的之間的落差。"
           },
           {
             "speaker": "b",
@@ -1766,8 +1766,8 @@ export const WEEK_29: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
-            "zh": "這一點值得記住。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
+            "en": "Hold onto that point. \"Try this, it reminded me of what you said last Tuesday\" is completely different from an algorithm saying \"you might also like.\"",
+            "zh": "把這一點記牢。「試試這個，它讓我想起你上週二說的話」，和演算法說「你可能也喜歡」是完全不同的兩件事。"
           },
           {
             "speaker": "b",

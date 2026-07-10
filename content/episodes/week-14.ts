@@ -419,7 +419,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more like building a friendship than traditional networking.",
+            "en": "I get that. It sounds more like building a friendship than traditional networking.",
             "zh": "這聽起來更像是建立友情，而不是傳統的人脈建立。"
           },
           {
@@ -560,7 +560,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The people who will refer you, hire you, or collaborate with you in the future are almost always people who have seen you work.",
+            "en": "More often than not, yes. The people who will refer you, hire you, or collaborate with you in the future are almost always people who have seen you work.",
             "zh": "大部分是這樣。未來會推薦你、僱用你或與你合作的人，幾乎總是那些看過你工作的人。"
           },
           {
@@ -729,7 +729,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Prepare things in advance that you can finish quickly on the day. That way you are not cooking and hosting simultaneously.",
+            "en": "Right. Prepare things in advance that you can finish quickly on the day. That way you are not cooking and hosting simultaneously.",
             "zh": "沒錯。提前準備好可以在當天快速完成的東西。這樣你就不用同時在煮飯和招待了。"
           },
           {

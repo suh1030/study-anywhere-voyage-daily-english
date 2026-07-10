@@ -238,8 +238,8 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. I never gave the wins the same treatment. They got filed away and the failures stayed front of mind.",
-            "zh": "大致上是。我從來沒有給勝利同樣的待遇。勝利被歸檔了，失敗卻一直留在腦前。"
+            "en": "For the most part, yes. I never gave the wins the same treatment. They got filed away and the failures stayed front of mind.",
+            "zh": "大部分情況是這樣。我從來沒有給勝利同樣的待遇。勝利被歸檔了，失敗卻一直留在腦前。"
           },
           {
             "speaker": "b",
@@ -413,7 +413,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple but it took you a decade to get there.",
+            "en": "That tracks. It sounds simple but it took you a decade to get there.",
             "zh": "聽起來很簡單，但你花了十年才到達那裡。"
           },
           {
@@ -1421,7 +1421,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly right. And then we could actually talk about what to do next.",
+            "en": "Right. And then we could actually talk about what to do next.",
             "zh": "就是這樣。然後我們才真的能談接下來怎麼做。"
           },
           {

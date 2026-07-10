@@ -349,7 +349,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly right. Feedback without context is almost worse than no feedback.",
+            "en": "That's right. Feedback without context is almost worse than no feedback.",
             "zh": "沒錯。沒有背景的回饋幾乎比沒有回饋更糟。"
           },
           {
@@ -443,7 +443,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like collaboration, not judgment.",
+            "en": "That's fair. It does feel like collaboration, not judgment.",
             "zh": "這聽起來像協作，不像評判。"
           },
           {
@@ -1785,8 +1785,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would pay attention to this: Being selective is not being difficult. It is being honest about what the work actually requires.",
-            "zh": "這一點我會特別留意：有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
+            "en": "Keep an eye on this part: Being selective is not being difficult. It is being honest about what the work actually requires.",
+            "zh": "這部分要多留意：有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
           }
         ]
       },
@@ -2130,8 +2130,8 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Most career growth also happens in ways that are invisible from the outside for a long time before they become visible.",
-            "zh": "大致上是。大多數職涯成長在從外部可見之前，往往有很長一段時間以肉眼看不見的方式在發生。"
+            "en": "That's mostly true. Most career growth also happens in ways that are invisible from the outside for a long time before they become visible.",
+            "zh": "大致沒錯。大多數職涯成長在從外部可見之前，往往有很長一段時間以肉眼看不見的方式在發生。"
           },
           {
             "speaker": "b",

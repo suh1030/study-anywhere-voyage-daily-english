@@ -3,180 +3,96 @@ name: sav-content-creator
 description: Generates Study Anywhere Voyage (SAV) learning content following strict spec. Use when creating podcast episode scripts, speak articles, conversation questions, flashcards, or any SAV curriculum content. Triggers on phrases like "generate episode", "write speak article", "create conversation questions", "make flashcards", "SAV content", "幫我生成集數", "寫 Speak 文章", "建立字卡".
 metadata:
   author: SAV
-  version: 1.0.0
+  version: 2.0.0
   category: content-generation
 ---
 
 # SAV Content Creator
 
 Generates all SAV learning content following the product spec exactly.
+本文件描述的是 **現行實際規格**（2026-07 對齊），與 `content/` 現況一致。
 
 ## CRITICAL RULES (apply to ALL content)
 
-- Characters: **Mira** (main, office worker) and **Jamie** (curious friend) — FIXED names, never change
-- NEVER use real place names, brand names, or personally identifiable information
-- All content targets CEFR B1–B2 learners (Taiwan office workers)
-- Chinese must be in **繁體中文**
+- Characters: **Mira**（主角，上班族）and **Jamie**（好奇的朋友）— 名字固定，不可更改
+- 目標學習者：CEFR **B1–B2** 台灣成人上班族
+- 中文一律 **繁體中文、台灣用語**（禁：信息、數據、視頻、網絡、質量、默認、智能手機、程序、項目、用戶）
+- 難度紅線：不教學術詞、命名效應（named effects）、心理學/哲學術語；文章平均句長 ≤ 22 字
+- 地名/品牌政策：**允許**自然提及真實地名與常見品牌（Taiwan、Japan、Instagram、IKEA…），但不得出現負面脈絡、不得替特定品牌背書、不得使用個人真實姓名（學者著作引用除外）
+- **任何一側（en/zh）修改時，必須同步另一側**；改完必跑雙語一致性核對
+
+## 課程結構（現況）
+
+- **53 週 × 每日一集**，共 365 集（W01 有 4 集、W53 有 5 集，其餘每週 7 集）
+- Phase 對應：p1=W1–10（日常生活）、p2=W11–18（人際）、p3=W19–26（職場）、
+  p4=W27–34（休閒）、p5=W35–43（社會/抽象）、p6=W44–53（反思）
+- 每週一個 theme，四個模組共用該 theme
 
 ---
 
-## Step 1: Identify Content Type
+## TYPE 1: Listen — Podcast Episode（每日）
 
-Ask the user which type if not specified:
-1. **Listen** — Podcast episode script (週六播出)
-2. **Speak** — Read-aloud article (每日)
-3. **Conversation** — Speaking prompt questions (週一–週五)
-4. **Flashcards** — Vocabulary review cards (週日)
+**結構（`content/episodes/week-NN.ts`，export `WEEK_NN: Episode[]`）：**
+- 每集 4–6 parts、總計 32–42 行對話、英文總字數約 450–950
+- 行格式：`{ speaker: 'a'|'b', speakerName, en, zh }`（**不得**有行內 vocab —— 已退役，validator 會擋）
+- 每集**恰好 8 個 keyPhrases**：`{ en, zh, example }`，example ≥ 10 字
+- Part 3 慣例為教學段（"English for..."），提供可直接使用的口語句
+
+**對話品質紅線：**
+- 禁止重複口頭禪：同一句反應句全庫出現 >5 次即為缺陷（歷史教訓："Mostly, yes." 曾 ×116）
+- Jamie 的總結句（"So..."）與 Mira 的確認句（"Yes/Exactly"）是節目格式，但完整句子不得逐字重複
+- 對白必須是成人口語，不得寫成散文/哲學獨白（反例："Reading gives that interior motion somewhere to keep unfolding"）
+- keyPhrases 選詞須為**可遷移**的英文詞塊，不選本集自創搭配
+
+## TYPE 2: Speak — Read-Aloud Article（每日）
+
+**結構（`content/articles/articles-wNN.ts`，export `WN_ARTICLES: SpeakArticle[]`）：**
+- 每週篇數與該週集數相同；topic = 該週 theme（**不是**獨立輪替類別）
+- 300–550 字、**恰好 5 段** `<p>`；`textZh` 與英文段落 1:1 對應
+- `wordCount` 元資料**不再手寫** —— seed 時以 `canonicalArticleWordCount` 實算；來源檔的值僅供參考，改文後跑 `check-article-wordcount.ts` 校正
+- **恰好 5 個** vocabulary：`{ word, definition(繁中), example }`，validator 要求 ≥5
+- 難度：B2 上限；平均句長 ≤ 22 字、單句 ≤ 28 字；禁學術詞（cognitive framework、
+  metacognition、named effects…）；引用研究時用「Psychologists describe…」而非堆疊人名
+
+## TYPE 3: Conversation — Speaking Prompts（每日）
+
+**結構（`content/questions/conversations-*.ts`）：**
+- 每週題數與集數相同（非固定週一–週五 5 題）
+- `{ weekNumber, theme, day, question, chineseHint, structureTip }`
+- chineseHint 是**教練式指導**（怎麼回答、講哪些面向），不是題目翻譯
+- structureTip 給具體句型或組織方式
+
+## TYPE 4: Flashcards — Vocabulary Review Cards
+
+**結構（`content/flashcards/flashcards-*.ts`）：**
+- `{ id: 'wN-listen-NN'|'wN-speak-NN', source, weekNumber, english, chinese, exampleSentence }`
+- 每週約 6 張 listen + 5 張 speak
+- **溯源硬規則**：headword 必須真實出現在對應週的來源內容
+  - `listen` → 該週集數（對話行 + keyPhrases）
+  - `speak` → 該週文章（內文 + vocabulary）
+  - validator（`validate-supporting-content.js`）會逐張檢查，脫鉤即紅燈
+- **全域唯一**：headword 不得與任何其他字卡重複（跨週也不行），validator 會擋
+- exampleSentence ≥ 12 字、必須示範 headword 用法（允許自然時態變化與代名詞替換）
+- chinese 定義用描述語感的台灣中文，不含英文字（AI → 人工智慧）
 
 ---
 
-## Instructions by Type
+## 產出後必跑的驗證
 
-### TYPE 1: Listen — Podcast Episode Script
-
-**Structure:**
-- Week number (W1–W41) and theme
-- Title format: "A Day in the Life: [Theme]"
-- 5 parts, 35–45 dialogue lines total, ~1,200 words
-- 8–12 vocabulary items
-- 8–10 key phrases at the end
-
-**Dialogue line format (JSON):**
-```json
-{
-  "speaker": "Mira",
-  "english": "I usually wake up around six thirty.",
-  "chinese": "我通常六點半左右起床。",
-  "vocabulary": [
-    { "word": "usually", "definition": "通常" }
-  ]
-}
+```sh
+node scripts/validate-episodes.js
+node scripts/validate-supporting-content.js   # 含字卡溯源 + 全域唯一
+npx tsx scripts/prelaunch/run-final-verification.ts
+npx tsx scripts/prelaunch/check-article-wordcount.ts
 ```
 
-**Speaker colors (for reference):**
-- Mira → warm beige `#C4B49A`
-- Jamie → soft green-grey `#8AB4A0`
+全綠才算完成。**腳本綠燈 ≠ 內容合格**：另需人工抽讀（雙語對應、口語自然度、
+難度）。人工審查介面：`npx tsx scripts/review/server.ts` → http://localhost:4321。
 
-**Quality checklist before output:**
-- [ ] Exactly 5 parts with clear part titles
-- [ ] 35–45 lines total
-- [ ] 8–12 vocab items (B1–B2 level)
-- [ ] No real brands, places, or PII
-- [ ] Natural conversational English, not textbook
+## 歷史教訓（不可重蹈）
 
----
-
-### TYPE 2: Speak — Read-Aloud Article
-
-**Structure:**
-- Date key: `YYYY-MM-DD`
-- Topic (rotate 7 categories): Technology / Science / Business & Career / Travel / AI & Future / Innovation / Society & Culture
-- ~600 words, 5 paragraphs
-- Full Chinese translation (paragraph-by-paragraph)
-- 4–6 vocabulary items (CEFR B2 standard)
-
-**Output format:**
-```json
-{
-  "dateKey": "2026-03-22",
-  "topic": "Technology",
-  "title": "Article Title",
-  "wordCount": 615,
-  "text": "<p>English paragraph 1</p><p>English paragraph 2</p>...",
-  "textZh": "<p>中文段落 1</p><p>中文段落 2</p>...",
-  "vocabulary": [
-    { "word": "algorithm", "definition": "演算法", "example": "The algorithm sorts data quickly." }
-  ]
-}
-```
-
-**Quality checklist:**
-- [ ] Exactly 5 `<p>` tags in both `text` and `textZh`
-- [ ] Chinese paragraphs correspond 1:1 with English
-- [ ] 4–6 vocab items at B2 level (consult CEFR B2 ~4,000–5,000 word list)
-- [ ] No real brand names
-
----
-
-### TYPE 3: Conversation — Speaking Prompts
-
-**Structure:**
-- 5 questions per week (Mon–Fri)
-- Each question covers same weekly theme from a different angle
-- Include: English question, Chinese hint, sentence structure tip
-
-**Output format:**
-```json
-{
-  "weekNumber": 1,
-  "theme": "Morning Routines",
-  "questions": [
-    {
-      "day": "Monday",
-      "question": "Describe your morning routine step by step.",
-      "chineseHint": "描述你早晨的例行公事，步驟順序。",
-      "structureTip": "Use: First, I... / Then I... / Finally, I..."
-    }
-  ]
-}
-```
-
-**Quality checklist:**
-- [ ] 5 questions, each from a different angle on the same theme
-- [ ] Chinese hints are helpful, not direct translations
-- [ ] Structure tips show real sentence patterns
-
----
-
-### TYPE 4: Flashcards — Vocabulary Review Cards
-
-**Structure:**
-- Source tag: `listen` or `speak`
-- Week number
-- Front: English word
-- Back: Chinese definition + example sentence
-
-**Output format:**
-```json
-[
-  {
-    "id": "w1-listen-01",
-    "source": "listen",
-    "weekNumber": 1,
-    "english": "commute",
-    "chinese": "通勤",
-    "exampleSentence": "My commute takes about forty minutes each way."
-  }
-]
-```
-
-**Quality checklist:**
-- [ ] `source` is exactly `"listen"` or `"speak"`
-- [ ] Example sentences use natural, everyday language
-- [ ] Chinese definitions are concise (1–4 characters preferred)
-
----
-
-## Batch Generation
-
-When asked to generate multiple items (e.g., "W1–W5 conversation questions"):
-1. Confirm the range and themes with the user first
-2. Generate sequentially, one week at a time
-3. Output as a JSON array
-4. Pause and confirm after every 5 items to avoid errors
-
----
-
-## Common Issues
-
-**Error: Content feels like a textbook**
-Cause: Too formal or structured dialogue
-Solution: Add filler words ("well", "you know", "actually"), contractions, and natural pauses
-
-**Error: Chinese translation is unnatural**
-Cause: Literal translation
-Solution: Translate meaning, not words — use natural 繁體中文 phrasing
-
-**Error: Vocabulary too easy or too hard**
-Cause: Not checking B2 level
-Solution: Target words that a B1 learner would encounter but not know instantly (e.g., "resilient", "procrastinate", "skeptical")
+1. **en/zh 只改一側** → 曾造成 95 處中英脫鉤。改任一側必同步另一側。
+2. **批次取代不審字** → "birthday"→"family milestone" 曾產生 13 處破英文。
+3. **文章改寫刪句不查字卡** → 曾造成 284 張字卡溯源失敗。改文後必跑 validator。
+4. **消除口頭禪時只換不散** → 曾把一個口頭禪換成另一個（"Mostly, yes." ×116）。
+   替換需用多變體輪替，且變體本身不得成為新口頭禪。

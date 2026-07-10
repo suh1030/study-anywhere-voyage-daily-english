@@ -555,7 +555,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. If the first attempt is on a morning you are already stressed, and something goes wrong, you will associate walking to work with failure. If it is on a light day, the experience is probably pleasant, and that memory pulls you back.",
+            "en": "Right. If the first attempt is on a morning you are already stressed, and something goes wrong, you will associate walking to work with failure. If it is on a light day, the experience is probably pleasant, and that memory pulls you back.",
             "zh": "沒錯。如果第一次就挑在壓力大的早上，又剛好出狀況，你會從此把「走路上班」跟「失敗」綁在一起。挑輕鬆的日子，體驗八成是愉快的，而那份好記憶會讓你想再走一次。"
           },
           {
@@ -1674,7 +1674,7 @@ export const WEEK_03: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
+            "en": "Largely, yes. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
             "zh": "差不多是這樣。關鍵從來不是通勤有多長，而是你有沒有認真決定要怎麼用這段時間。"
           }
         ]

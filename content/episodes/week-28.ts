@@ -44,8 +44,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: A camera rewards attention before it rewards technique.",
-            "zh": "現實通常比這再亂一點：相機最先回報的，通常不是技巧，而是注意力。"
+            "en": "Of course, daily life is rarely that tidy: A camera rewards attention before it rewards technique.",
+            "zh": "當然，日常很少這麼整齊：相機最先回報的，通常不是技巧，而是注意力。"
           },
           {
             "speaker": "b",
@@ -156,7 +156,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more usable than memorizing a list of photography terms.",
+            "en": "Fair enough. It sounds much more usable than memorizing a list of photography terms.",
             "zh": "這聽起來真的比背一串攝影術語實用很多。"
           },
           {
@@ -233,7 +233,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost like a life lesson disguised as a hobby.",
+            "en": "I get that. It sounds almost like a life lesson disguised as a hobby.",
             "zh": "這聽起來根本像是一堂偽裝成興趣的生活課。"
           },
           {
@@ -502,7 +502,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. A living image often contains a small imperfection that makes the moment believable.",
+            "en": "Precisely. A living image often contains a small imperfection that makes the moment believable.",
             "zh": "完全沒錯。真正活著的畫面，常常會留著一點小小的不完美，讓那個瞬間更可信。"
           },
           {
@@ -724,8 +724,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That framing shifts the whole picture.",
-            "zh": "這個框架改變了整個畫面。"
+            "en": "That actually helps.",
+            "zh": "這真的有幫助。"
           },
           {
             "speaker": "b",
@@ -759,7 +759,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds strong without sounding pretentious.",
+            "en": "Right. It sounds strong without sounding pretentious.",
             "zh": "這句很有力，可是又不會裝。"
           },
           {
@@ -812,7 +812,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds a little boring, but also kind of brilliant.",
+            "en": "True. It sounds a little boring, but also kind of brilliant.",
             "zh": "這聽起來有一點無聊，可是又很高明。"
           },
           {
@@ -1087,7 +1087,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exactly like what I am trying to learn to do.",
+            "en": "That makes sense to me. It sounds exactly like what I am trying to learn to do.",
             "zh": "這句聽起來就是我想學會的事情。"
           },
           {
@@ -1176,14 +1176,14 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds true in work, relationships, and almost everything else.",
+            "en": "I hear you. It sounds true in work, relationships, and almost everything else.",
             "zh": "這句放在工作、關係，還有幾乎所有事情上都說得通。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The part I keep noticing is this: Taste is partly the courage to say, this belongs, and this does not.",
-            "zh": "我一直注意到的是這一點：品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
+            "en": "I keep coming back to one thing: Taste is partly the courage to say, this belongs, and this does not.",
+            "zh": "我一直繞回到同一件事：品味有一部分，其實是勇氣，是你敢說：這個留下來，那個不留下。"
           },
           {
             "speaker": "b",
@@ -1339,8 +1339,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A mark can hold emotion without needing to summarize it.",
-            "zh": "大致上是。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。"
+            "en": "For the most part, yes. A mark can hold emotion without needing to summarize it.",
+            "zh": "大部分情況是這樣。一個筆觸可以承接情緒，而不需要立刻把情緒總結出來。"
           },
           {
             "speaker": "b",
@@ -1451,7 +1451,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so freeing.",
+            "en": "Good point. It sounds so freeing.",
             "zh": "這聽起來真的很自由。"
           },
           {
@@ -1492,7 +1492,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more valuable than I used to understand.",
+            "en": "I like that. It sounds more valuable than I used to understand.",
             "zh": "這比我以前理解的價值大太多了。"
           },
           {
@@ -2089,8 +2089,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: A good artistic life is not endless exposure. It is exposure with recovery.",
-            "zh": "這件事比表面上看起來更重要：好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
+            "en": "This is bigger than it looks: A good artistic life is not endless exposure. It is exposure with recovery.",
+            "zh": "這件事比看起來更有份量：好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
           },
           {
             "speaker": "b",
@@ -2142,8 +2142,8 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A richer way of seeing usually becomes a richer way of living.",
-            "zh": "大致上是。更豐富的看見方式，通常也會慢慢變成更豐富的生活方式。"
+            "en": "Pretty much. A richer way of seeing usually becomes a richer way of living.",
+            "zh": "差不多可以這樣說。更豐富的看見方式，通常也會慢慢變成更豐富的生活方式。"
           },
           {
             "speaker": "b",

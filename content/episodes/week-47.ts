@@ -233,7 +233,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but not easy.",
+            "en": "Right. It sounds simple, but not easy.",
             "zh": "這聽起來很簡單，但一點都不容易。"
           },
           {
@@ -343,8 +343,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
-            "zh": "這件事比表面上看起來更重要：直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
+            "en": "This is bigger than it looks: Directness, silence, hierarchy, disagreement, and speed can all carry different meanings across cultures.",
+            "zh": "這件事比看起來更有份量：直接、沉默、階層、不同意、速度，這些在不同文化裡都可能帶著完全不同的意思。"
           },
           {
             "speaker": "b",
@@ -396,8 +396,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
-            "zh": "大致上是。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。"
+            "en": "That's mostly true. Another big area is hierarchy. Some people expect open challenge. Others expect challenge to be expressed more carefully and indirectly.",
+            "zh": "大致沒錯。另一個大區塊是階層感。有些人期待公開討論甚至挑戰；另外一些人則期待更小心、更間接地表達不同意。"
           },
           {
             "speaker": "b",
@@ -712,8 +712,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
-            "zh": "這一點值得記住。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
+            "en": "Hold onto that point. A better question is often, \"What food made you feel taken care of growing up?\" That opens something deeper.",
+            "zh": "把這一點記牢。更好的問題通常是：「What food made you feel taken care of growing up?」這會打開更深的東西。"
           },
           {
             "speaker": "b",
@@ -771,7 +771,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful and not too academic.",
+            "en": "True. It sounds thoughtful and not too academic.",
             "zh": "這句聽起來有思考，但不會太學術。"
           },
           {
@@ -824,7 +824,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much easier than asking for a cultural essay.",
+            "en": "That makes sense to me. It sounds much easier than asking for a cultural essay.",
             "zh": "這比直接叫人交一篇文化論文容易太多。"
           },
           {
@@ -988,7 +988,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds useful for more than travel.",
+            "en": "I hear you. It sounds useful for more than travel.",
             "zh": "這個說法不只對旅行有用。"
           },
           {
@@ -1017,8 +1017,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "That clears it up for me.",
+            "zh": "這下清楚多了。"
           },
           {
             "speaker": "a",
@@ -1182,8 +1182,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
-            "zh": "這裡可以做個很有用的區分：它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
+            "en": "Here is a distinction that helps: It says, \"I know there is more here than I can see immediately, and I am willing to stay open long enough to learn it.\"",
+            "zh": "有一個區分會很有幫助：它像是在說：「我知道這裡一定比我現在立刻看見的更多，而我願意開著自己，開得夠久去學。」"
           },
           {
             "speaker": "b",
@@ -1200,7 +1200,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a kind of wisdom.",
+            "en": "I see why that rings true. It does feel like a kind of wisdom.",
             "zh": "這聽起來很像一種智慧。"
           },
           {
@@ -1286,8 +1286,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
-            "zh": "大致上是。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。"
+            "en": "More often than not, yes. One culture may show care through direct honesty. Another may show care through restraint and sensitivity.",
+            "zh": "通常是這樣沒錯。一個文化可能透過直接誠實來表達在乎；另一個文化則可能透過克制和敏感度來表達在乎。"
           },
           {
             "speaker": "b",
@@ -1345,7 +1345,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more mature than saying all difference is beautiful.",
+            "en": "Good point. It sounds much more mature than saying all difference is beautiful.",
             "zh": "這比說「所有差異都很美」成熟多了。"
           },
           {
@@ -1756,7 +1756,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. That is why translation often needs cultural judgment, not only bilingual ability.",
+            "en": "Exactly. That is why translation often needs cultural judgment, not only bilingual ability.",
             "zh": "沒錯。也正因如此，翻譯很多時候需要的是文化判斷，不只是雙語能力。"
           },
           {
@@ -1815,7 +1815,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost like diplomacy.",
+            "en": "I like that. It sounds almost like diplomacy.",
             "zh": "這聽起來幾乎像外交。"
           },
           {
@@ -1972,7 +1972,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like emotional labor and cultural labor together.",
+            "en": "I get why it feels that way. It does feel like emotional labor and cultural labor together.",
             "zh": "這聽起來像情緒勞動和文化勞動一起在發生。"
           },
           {

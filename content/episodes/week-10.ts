@@ -162,8 +162,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: Useful schedule English usually describes the moment of pressure, not your personality.",
-            "zh": "有個細節很容易被忽略：有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
+            "en": "Here is the part most people overlook: Useful schedule English usually describes the moment of pressure, not your personality.",
+            "zh": "這是多數人會漏看的部分：有用的時間英文通常是在描述壓力發生的那個瞬間，不是在批評你的人格。"
           }
         ]
       },
@@ -348,8 +348,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The first hour of the day quietly sets the emotional speed for everything that follows.",
-            "zh": "大致上是。一天的 first hour，常常會默默決定後面所有事的情緒速度。"
+            "en": "More often than not, yes. The first hour of the day quietly sets the emotional speed for everything that follows.",
+            "zh": "通常是這樣沒錯。一天的 first hour，常常會默默決定後面所有事的情緒速度。"
           },
           {
             "speaker": "b",
@@ -683,8 +683,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. Work time gets distorted when every hour is visible but none of it is truly available.",
-            "zh": "這一點值得記住。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
+            "en": "Hold onto that point. Work time gets distorted when every hour is visible but none of it is truly available.",
+            "zh": "把這一點記牢。當每個小時都被看得見，卻沒有哪個小時真的可用時，工作時間就會開始變形。"
           }
         ]
       },
@@ -759,7 +759,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much stronger than apologizing for needing concentration.",
+            "en": "That makes sense to me. It sounds much stronger than apologizing for needing concentration.",
             "zh": "這聽起來比為了自己需要專注而先道歉，強很多。"
           },
           {
@@ -789,7 +789,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Time language at work is strongest when it helps people choose, not guess.",
+            "en": "Right. Time language at work is strongest when it helps people choose, not guess.",
             "zh": "沒錯。工作裡關於時間的語言，最有力的時候就是它能幫人做選擇，而不是瞎猜。"
           }
         ]
@@ -1099,7 +1099,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds painfully familiar.",
+            "en": "I hear you. It sounds painfully familiar.",
             "zh": "這句真的熟悉到有點痛。"
           },
           {
@@ -1285,7 +1285,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more accurate than saying I was lazy all week.",
+            "en": "Good point. It sounds much more accurate than saying I was lazy all week.",
             "zh": "這真的比說我整週都很散漫準確很多。"
           },
           {
@@ -1649,7 +1649,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds harsher than I want it to, but I get it.",
+            "en": "I like that. It sounds harsher than I want it to, but I get it.",
             "zh": "這句話比我想聽到的還重一點，但我懂。"
           },
           {
@@ -1761,7 +1761,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Slowness is often just coherence with less noise around it.",
+            "en": "Precisely. Slowness is often just coherence with less noise around it.",
             "zh": "沒錯。所謂慢，很多時候只是比較一致，周圍比較少噪音。"
           },
           {
@@ -2018,7 +2018,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds strong without sounding chaotic.",
+            "en": "That tracks. It sounds strong without sounding chaotic.",
             "zh": "這句聽起來很有力，但不會讓人覺得是在亂發脾氣。"
           },
           {

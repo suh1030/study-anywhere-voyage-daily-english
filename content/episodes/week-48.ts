@@ -32,8 +32,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: A person may sound softer, funnier, more formal, or more careful depending on which parts of themselves the language makes easiest to access.",
-            "zh": "這裡可以做個很有用的區分：人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。"
+            "en": "It helps to separate two things: A person may sound softer, funnier, more formal, or more careful depending on which parts of themselves the language makes easiest to access.",
+            "zh": "把兩件事分開來看會更清楚：人在不同語言裡，可能會比較柔和、比較好笑、比較正式，或更小心，因為不同語言讓不同部分的自己比較容易被拿到。"
           },
           {
             "speaker": "b",
@@ -238,7 +238,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds reassuring.",
+            "en": "That tracks. It sounds reassuring.",
             "zh": "這樣聽起來很讓人安心。"
           },
           {
@@ -401,7 +401,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Workplace jargon can do this a lot too. It makes insiders efficient, but it can make outsiders feel slow or invisible.",
+            "en": "That's right. Workplace jargon can do this a lot too. It makes insiders efficient, but it can make outsiders feel slow or invisible.",
             "zh": "沒錯。職場 jargon 也很容易這樣。它會讓圈內人效率很高，但也會讓圈外人覺得自己很慢，甚至像透明人。"
           },
           {
@@ -448,7 +448,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exactly right for many learners.",
+            "en": "Fair enough. It sounds exactly right for many learners.",
             "zh": "這句對很多學習者來說都很準。"
           },
           {
@@ -883,8 +883,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The best outcome is not choosing one self over another. It is learning to trust the bridge between them.",
-            "zh": "大致上是。最好的結果，不是選其中一個自己，而是學著信任它們之間那座橋。"
+            "en": "For the most part, yes. The best outcome is not choosing one self over another. It is learning to trust the bridge between them.",
+            "zh": "大部分情況是這樣。最好的結果，不是選其中一個自己，而是學著信任它們之間那座橋。"
           },
           {
             "speaker": "b",
@@ -975,8 +975,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
-            "zh": "有個細節很容易被忽略：事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
+            "en": "Here is the part most people overlook: The facts matter, but the frame matters too. What counts as the turning point, the lesson, the wound, or the beginning changes the whole self-story.",
+            "zh": "這是多數人會漏看的部分：事實很重要，可是框法也很重要。你把哪一段當轉折、當教訓、當傷口、或當開始，會改變整個自我故事。"
           },
           {
             "speaker": "b",
@@ -1028,13 +1028,13 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. And part of growing up is noticing which parts of your story are actually yours, and which parts were handed to you before you could choose.",
-            "zh": "大致上是。而長大的其中一部分，就是慢慢辨認：你故事裡哪些部分真的屬於你，哪些部分是在你還沒能選之前，就先被塞進來的。"
+            "en": "Pretty much. And part of growing up is noticing which parts of your story are actually yours, and which parts were handed to you before you could choose.",
+            "zh": "差不多可以這樣說。而長大的其中一部分，就是慢慢辨認：你故事裡哪些部分真的屬於你，哪些部分是在你還沒能選之前，就先被塞進來的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds both freeing and unsettling.",
+            "en": "I get that. It sounds both freeing and unsettling.",
             "zh": "這聽起來既自由，又讓人不安。"
           },
           {
@@ -1310,8 +1310,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "So the whole approach changes once you see it that way.",
-            "zh": "一旦這樣看，整個做法都跟著變了。"
+            "en": "I needed that distinction.",
+            "zh": "我正需要這個區分。"
           }
         ]
       },
@@ -1445,7 +1445,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. It gives the mind a stronger handle, and that can change how quickly a person recognizes a pattern.",
+            "en": "Right. It gives the mind a stronger handle, and that can change how quickly a person recognizes a pattern.",
             "zh": "沒錯。它像是替心智做了一個更好的把手，而那會改變一個人認出 pattern 的速度。"
           },
           {
@@ -1620,8 +1620,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "That's easier to hold onto.",
+            "zh": "這樣好記多了。"
           },
           {
             "speaker": "a",
@@ -1803,7 +1803,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more intimate than people realize.",
+            "en": "Right. It sounds more intimate than people realize.",
             "zh": "這比很多人意識到的還更親密。"
           },
           {
@@ -1821,8 +1821,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "What often gets hidden is this: You meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
-            "zh": "有件事常常藏在檯面下：你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
+            "en": "The quiet part is this: You meet yourself in the sentence, and sometimes that meeting changes the future sentence too.",
+            "zh": "沒被說出口的部分是這個：你會在句子裡遇見自己，而有時那次相遇，也會改變你未來要寫出的句子。"
           },
           {
             "speaker": "b",
@@ -1913,8 +1913,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Once something can be expressed, it becomes easier to share, reflect on, and respond to.",
-            "zh": "大致上是。一件事一旦能被表達，就更容易被分享、被反思，也更容易被回應。"
+            "en": "Largely, yes. Once something can be expressed, it becomes easier to share, reflect on, and respond to.",
+            "zh": "多半是。一件事一旦能被表達，就更容易被分享、被反思，也更容易被回應。"
           },
           {
             "speaker": "b",
@@ -1960,7 +1960,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds painful in a very ordinary way.",
+            "en": "True. It sounds painful in a very ordinary way.",
             "zh": "這是一種很日常、但很痛的狀態。"
           },
           {
@@ -2013,7 +2013,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds emotionally clear.",
+            "en": "That makes sense to me. It sounds emotionally clear.",
             "zh": "這句情感上很清楚。"
           },
           {
@@ -2043,8 +2043,8 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. It gives permission without lowering the value of growth.",
-            "zh": "大致上是。它給了允許，但沒有降低成長的重要性。"
+            "en": "In most cases, yes. It gives permission without lowering the value of growth.",
+            "zh": "多數情況下是。它給了允許，但沒有降低成長的重要性。"
           }
         ]
       },

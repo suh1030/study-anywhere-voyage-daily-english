@@ -26,8 +26,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "The part I keep noticing is this: We kept updating each other, but nobody ever said what the actual decision was supposed to be.",
-            "zh": "我一直注意到的是這一點：我們一直在彼此更新進度，可是沒有人真的把這場會到底要決定什麼說出來。"
+            "en": "What keeps standing out to me: We kept updating each other, but nobody ever said what the actual decision was supposed to be.",
+            "zh": "一直浮出來吸引我注意的是：我們一直在彼此更新進度，可是沒有人真的把這場會到底要決定什麼說出來。"
           },
           {
             "speaker": "a",
@@ -109,8 +109,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Good meetings save future confusion before it has a chance to spread.",
-            "zh": "大致上是。好的會議是在未來的混亂還沒擴散之前，就先把它省掉。"
+            "en": "That's mostly true. Good meetings save future confusion before it has a chance to spread.",
+            "zh": "大致沒錯。好的會議是在未來的混亂還沒擴散之前，就先把它省掉。"
           }
         ]
       },
@@ -132,7 +132,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds direct, but not rude.",
+            "en": "I get that. It sounds direct, but not rude.",
             "zh": "這句很直接，可是又不會很沒禮貌。"
           },
           {
@@ -360,7 +360,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Good prep means you did your homework before other people start asking you to defend your point.",
+            "en": "Exactly. Good prep means you did your homework before other people start asking you to defend your point.",
             "zh": "沒錯。好的準備，就是你已經先把功課做好了，不是等別人開始挑戰時才現場補。"
           },
           {
@@ -395,7 +395,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds obvious, but I usually prepare the slides instead of the thinking.",
+            "en": "Right. It sounds obvious, but I usually prepare the slides instead of the thinking.",
             "zh": "這聽起來很 obvious，可是我平常真的比較像是在準備投影片，不是在準備思路。"
           },
           {
@@ -425,7 +425,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Good prep starts in language, not design.",
+            "en": "That's right. Good prep starts in language, not design.",
             "zh": "完全正確。好的準備，是從語言開始的，不是從設計開始的。"
           }
         ]
@@ -472,7 +472,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much stronger than getting flustered and improvising.",
+            "en": "True. It sounds much stronger than getting flustered and improvising.",
             "zh": "這真的比一緊張就即興亂補強多了。"
           },
           {
@@ -572,8 +572,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: Polished is optional. Stable is what the room can actually trust.",
-            "zh": "這件事比表面上看起來更重要：漂亮是選配，穩定才是整個房間真的能信任的東西。"
+            "en": "This point carries more weight than people expect: Polished is optional. Stable is what the room can actually trust.",
+            "zh": "這一點的影響比大家預期的大：漂亮是選配，穩定才是整個房間真的能信任的東西。"
           },
           {
             "speaker": "b",
@@ -717,8 +717,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Then the pressure builds, and you make a point with more force than you actually wanted.",
-            "zh": "大致上是。然後壓力慢慢累積，你最後講出來的重點，就會比你原本想要的力道大很多。"
+            "en": "More often than not, yes. Then the pressure builds, and you make a point with more force than you actually wanted.",
+            "zh": "通常是這樣沒錯。然後壓力慢慢累積，你最後講出來的重點，就會比你原本想要的力道大很多。"
           },
           {
             "speaker": "b",
@@ -735,7 +735,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so obvious when you say it, but it is not how meetings feel in the moment.",
+            "en": "That makes sense to me. It sounds so obvious when you say it, but it is not how meetings feel in the moment.",
             "zh": "你這樣講會覺得很 obvious，可是會議當下真的不是這麼好做到。"
           },
           {
@@ -764,7 +764,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear, and it buys space without sounding hostile.",
+            "en": "I hear you. It sounds clear, and it buys space without sounding hostile.",
             "zh": "這句很清楚，而且它會幫你爭取空間，又不會有敵意。"
           },
           {
@@ -829,7 +829,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more manageable.",
+            "en": "Good point. It sounds much more manageable.",
             "zh": "這樣聽起來就可控很多。"
           },
           {
@@ -865,7 +865,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a sharp way to say it.",
+            "en": "I see why that rings true. It does feel like a sharp way to say it.",
             "zh": "這句講得真的很準。"
           },
           {
@@ -975,7 +975,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Productive disagreement starts by slowing the room down enough to keep it constructive.",
+            "en": "Right. Productive disagreement starts by slowing the room down enough to keep it constructive.",
             "zh": "完全沒錯。有效的不同意，第一步其實是先把房間的速度降到足以維持建設性。"
           },
           {
@@ -1075,7 +1075,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds respectful without being soft.",
+            "en": "I like that. It sounds respectful without being soft.",
             "zh": "這句很尊重，可是又沒有軟掉。"
           },
           {
@@ -1181,7 +1181,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a much better goal than fake harmony.",
+            "en": "I get why it feels that way. It does feel like a much better goal than fake harmony.",
             "zh": "這比那種假的和諧當目標，好太多了。"
           },
           {
@@ -1362,7 +1362,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than shutting people down.",
+            "en": "That tracks. It sounds much better than shutting people down.",
             "zh": "這真的比直接把人 shut down 好太多了。"
           },
           {
@@ -1403,7 +1403,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds firm, but still collaborative.",
+            "en": "Fair enough. It sounds firm, but still collaborative.",
             "zh": "這句很穩，可是還是有合作感。"
           },
           {
@@ -1450,8 +1450,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would keep that sentence close. Once people can see who is doing what by when, the meeting suddenly becomes real.",
-            "zh": "這句話我會隨身帶著。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。"
+            "en": "I would save that line for later. Once people can see who is doing what by when, the meeting suddenly becomes real.",
+            "zh": "這句我會先存起來備用。一旦大家看得到誰要做什麼、什麼時候做，會議就會突然變得很真實。"
           },
           {
             "speaker": "b",
@@ -1462,7 +1462,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Ambiguity survives in memory. It struggles when it gets written down in front of everyone.",
+            "en": "Precisely. Ambiguity survives in memory. It struggles when it gets written down in front of everyone.",
             "zh": "完全沒錯。模糊很會活在記憶裡，但當它被當場寫下來時，就比較難繼續混。"
           },
           {
@@ -1725,8 +1725,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: And if the energy is fading, you can say, 'Let's take thirty seconds to look at the screen share quietly before we respond.'",
-            "zh": "有個細節很容易被忽略：如果整個能量開始散掉，你也可以說：「Let's take thirty seconds to look at the screen share quietly before we respond.」"
+            "en": "A detail people often skip: And if the energy is fading, you can say, 'Let's take thirty seconds to look at the screen share quietly before we respond.'",
+            "zh": "有個大家常跳過的細節：如果整個能量開始散掉，你也可以說：「Let's take thirty seconds to look at the screen share quietly before we respond.」"
           },
           {
             "speaker": "b",
@@ -1737,8 +1737,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. In virtual meetings, small pauses often do more than louder facilitation.",
-            "zh": "大致上是。線上會議裡，小小的停頓常常比更大聲的帶會有用得多。"
+            "en": "For the most part, yes. In virtual meetings, small pauses often do more than louder facilitation.",
+            "zh": "大部分情況是這樣。線上會議裡，小小的停頓常常比更大聲的帶會有用得多。"
           }
         ]
       },
@@ -1838,8 +1838,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the practical takeaway. Good remote participation is less about energy and more about signal.",
-            "zh": "這就是可以實際帶走的重點。好的遠端參與，重點比較不是能量，而是訊號品質。"
+            "en": "That is what you can actually use. Good remote participation is less about energy and more about signal.",
+            "zh": "這就是你真正用得上的部分。好的遠端參與，重點比較不是能量，而是訊號品質。"
           }
         ]
       }
@@ -2142,8 +2142,8 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Length is not depth. A useful discussion usually has both honesty and landing.",
-            "zh": "大致上是。長度不等於深度。有用的討論，通常同時會有誠實，也會有落點。"
+            "en": "Pretty much. Length is not depth. A useful discussion usually has both honesty and landing.",
+            "zh": "差不多可以這樣說。長度不等於深度。有用的討論，通常同時會有誠實，也會有落點。"
           },
           {
             "speaker": "b",

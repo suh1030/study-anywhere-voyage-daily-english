@@ -877,7 +877,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a small habit with a big return.",
+            "en": "I can see the logic. It does feel like a small habit with a big return.",
             "zh": "聽起來是個小習慣，但回報很大。"
           },
           {
@@ -1140,7 +1140,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. A nice person says \"looks great!\" A kind person says \"I want this to work, so let me be honest with you.\"",
+            "en": "Precisely. A nice person says \"looks great!\" A kind person says \"I want this to work, so let me be honest with you.\"",
             "zh": "就是這樣。和善的人說「看起來很棒！」善良的人說「我希望這能成功，所以讓我對你誠實。」"
           },
           {
@@ -1486,7 +1486,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exhausting. How did you shift out of that?",
+            "en": "Right. It sounds exhausting. How did you shift out of that?",
             "zh": "聽起來很累人。你是怎麼走出那種狀態的？"
           },
           {
@@ -1977,8 +1977,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: You can talk yourself into and out of anything. But your body usually knows.",
-            "zh": "這件事比表面上看起來更重要：你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
+            "en": "This is bigger than it looks: You can talk yourself into and out of anything. But your body usually knows.",
+            "zh": "這件事比看起來更有份量：你可以說服自己接受或拒絕任何事。但你的身體通常知道真相。"
           },
           {
             "speaker": "b",
@@ -2012,8 +2012,8 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Authenticity is about acting from your real values, not about having zero filter.",
-            "zh": "大致上是。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
+            "en": "For the most part, yes. Authenticity is about acting from your real values, not about having zero filter.",
+            "zh": "大部分情況是這樣。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
           },
           {
             "speaker": "b",

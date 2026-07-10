@@ -103,7 +103,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds kinder than most advice about change.",
+            "en": "That makes sense to me. It sounds kinder than most advice about change.",
             "zh": "這真的比大多數關於改變的建議溫柔太多了。"
           },
           {
@@ -209,7 +209,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds true.",
+            "en": "I hear you. It sounds true.",
             "zh": "這真的很真。"
           },
           {
@@ -238,7 +238,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds less heroic and more livable.",
+            "en": "Good point. It sounds less heroic and more livable.",
             "zh": "這聽起來比較不英雄，卻比較住得下去。"
           },
           {
@@ -448,7 +448,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very accurate.",
+            "en": "I like that. It sounds very accurate.",
             "zh": "這句真的很準。"
           },
           {
@@ -670,7 +670,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exhausting in a way I had never named before.",
+            "en": "That tracks. It sounds exhausting in a way I had never named before.",
             "zh": "這真的累，而且是我以前沒有這樣命名過的那種累。"
           },
           {
@@ -735,8 +735,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That distinction makes things clearer.",
-            "zh": "這個區別讓事情清楚多了。"
+            "en": "That feels honest and usable.",
+            "zh": "這聽起來誠實，而且用得上。"
           },
           {
             "speaker": "a",
@@ -764,7 +764,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exactly right.",
+            "en": "Fair enough. It sounds exactly right.",
             "zh": "這句真的準到不行。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very strong.",
+            "en": "I get that. It sounds very strong.",
             "zh": "這句真的很有力量。"
           },
           {
@@ -1707,7 +1707,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear and sad in the right way.",
+            "en": "Right. It sounds clear and sad in the right way.",
             "zh": "這句很清楚，也有一種剛剛好的難過。"
           },
           {
@@ -1936,8 +1936,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That framing shifts the whole picture.",
-            "zh": "這個框架改變了整個畫面。"
+            "en": "That would have saved me last month.",
+            "zh": "上個月要是知道這個就好了。"
           },
           {
             "speaker": "a",
@@ -1977,7 +1977,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds steadier than trying to predict everything.",
+            "en": "True. It sounds steadier than trying to predict everything.",
             "zh": "這真的比什麼都想預測來得穩多了。"
           },
           {
@@ -2018,7 +2018,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds strong without sounding fake.",
+            "en": "That makes sense to me. It sounds strong without sounding fake.",
             "zh": "這句很有力量，可是又不假。"
           },
           {
@@ -2124,7 +2124,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like exactly the right ending.",
+            "en": "That's fair. It does feel like exactly the right ending.",
             "zh": "這真的就是最適合的結尾。"
           },
           {

@@ -32,8 +32,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. An unfamiliar place wakes up parts of your attention that everyday life can quietly put to sleep.",
-            "zh": "大致上是。不熟悉的地方，會叫醒那些在平常生活裡慢慢睡著的注意力。"
+            "en": "In most cases, yes. An unfamiliar place wakes up parts of your attention that everyday life can quietly put to sleep.",
+            "zh": "多數情況下是。不熟悉的地方，會叫醒那些在平常生活裡慢慢睡著的注意力。"
           },
           {
             "speaker": "b",
@@ -132,7 +132,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more natural than just saying I was excited.",
+            "en": "That tracks. It sounds much more natural than just saying I was excited.",
             "zh": "這句真的比只是說我很興奮自然多了。"
           },
           {
@@ -348,7 +348,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Travel interrupts the illusion that your own way is just reality itself.",
+            "en": "Exactly. Travel interrupts the illusion that your own way is just reality itself.",
             "zh": "完全沒錯。旅行會打斷一種幻覺，就是你原本那套方式好像就是現實本身。"
           },
           {
@@ -448,7 +448,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more real than saying it was life-changing.",
+            "en": "Fair enough. It sounds much more real than saying it was life-changing.",
             "zh": "這句真的比直接說『改變人生』真實很多。"
           },
           {
@@ -549,7 +549,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a healthier way to live in general.",
+            "en": "I see why that rings true. It does feel like a healthier way to live in general.",
             "zh": "這聽起來其實就是一種更健康的活法。"
           },
           {
@@ -712,8 +712,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "What often gets hidden is this: A flexible plan is often stronger than either total control or total chaos.",
-            "zh": "有件事常常藏在檯面下：彈性的計畫，很多時候比完全控制和完全混亂都更強。"
+            "en": "Here is what usually stays invisible: A flexible plan is often stronger than either total control or total chaos.",
+            "zh": "通常看不見的是這個：彈性的計畫，很多時候比完全控制和完全混亂都更強。"
           },
           {
             "speaker": "b",
@@ -783,14 +783,14 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more like something an actual traveler would say.",
+            "en": "I get that. It sounds much more like something an actual traveler would say.",
             "zh": "這真的很像一個真的在旅行的人會講的話。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Good travel English should sound practical and personal, not like a tourism brochure.",
-            "zh": "大致上是。好用的旅行英文，應該聽起來實際又個人，不像觀光文宣。"
+            "en": "That's mostly true. Good travel English should sound practical and personal, not like a tourism brochure.",
+            "zh": "大致沒錯。好用的旅行英文，應該聽起來實際又個人，不像觀光文宣。"
           }
         ]
       },
@@ -1028,7 +1028,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. I would rather stay somewhere affordable and central than save a little more and spend two hours a day commuting.",
+            "en": "That's right. I would rather stay somewhere affordable and central than save a little more and spend two hours a day commuting.",
             "zh": "完全沒錯。我寧可住在一個負擔得起、又夠中心的位置，也不要再多省一點，卻每天多花兩小時在移動。"
           },
           {
@@ -1075,7 +1075,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds smart, not stingy.",
+            "en": "Right. It sounds smart, not stingy.",
             "zh": "這句聽起來很聰明，不會很小氣。"
           },
           {
@@ -1128,7 +1128,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a painful kind of saving.",
+            "en": "I get why it feels that way. It does feel like a painful kind of saving.",
             "zh": "那真的是一種很痛的省法。"
           },
           {
@@ -1181,7 +1181,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a skill that travels home too.",
+            "en": "That's fair. It does feel like a skill that travels home too.",
             "zh": "這感覺也是一種會跟著你回家的能力。"
           },
           {
@@ -1356,8 +1356,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: Adapt quickly when you can, but do not confuse speed with understanding.",
-            "zh": "現實通常比這再亂一點：能快點適應當然很好，但不要把速度誤認成理解。"
+            "en": "Real life complicates this a little: Adapt quickly when you can, but do not confuse speed with understanding.",
+            "zh": "真實生活會把這件事弄得複雜一點：能快點適應當然很好，但不要把速度誤認成理解。"
           },
           {
             "speaker": "b",
@@ -1391,7 +1391,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest and not exaggerated.",
+            "en": "True. It sounds honest and not exaggerated.",
             "zh": "這句很誠實，也不會誇張。"
           },
           {
@@ -1492,7 +1492,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds worth the discomfort.",
+            "en": "That makes sense to me. It sounds worth the discomfort.",
             "zh": "這樣聽起來，那些不舒服真的值得。"
           },
           {
@@ -1626,8 +1626,8 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Travel is one of the fastest ways to reveal everyday habits under pressure.",
-            "zh": "大致上是。旅行是最快讓日常習慣在壓力下現形的方式之一。"
+            "en": "More often than not, yes. Travel is one of the fastest ways to reveal everyday habits under pressure.",
+            "zh": "通常是這樣沒錯。旅行是最快讓日常習慣在壓力下現形的方式之一。"
           }
         ]
       },
@@ -1702,7 +1702,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds gentle and realistic.",
+            "en": "I hear you. It sounds gentle and realistic.",
             "zh": "這句聽起來很溫和，也很現實。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much better than storing irritation until dinner.",
+            "en": "Good point. It sounds so much better than storing irritation until dinner.",
             "zh": "這真的比一路忍到晚餐時爆掉好多了。"
           },
           {
@@ -1808,13 +1808,13 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like trust more than harmony.",
+            "en": "I can see the logic. It does feel like trust more than harmony.",
             "zh": "這聽起來比較像信任，不只是表面和諧。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Harmony can be fake. Trust is what lets people stay honest without blowing the trip apart.",
+            "en": "Right. Harmony can be fake. Trust is what lets people stay honest without blowing the trip apart.",
             "zh": "完全沒錯。和諧有時候可以是假裝的；信任才是讓大家能誠實，又不會把整趟旅行炸掉的東西。"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a good goal for any relationship too.",
+            "en": "I understand why people feel that. It does feel like a good goal for any relationship too.",
             "zh": "這感覺也像是任何關係都很值得追求的目標。"
           },
           {
@@ -2042,7 +2042,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much kinder than forcing myself to snap back immediately.",
+            "en": "I like that. It sounds so much kinder than forcing myself to snap back immediately.",
             "zh": "這句真的比逼自己立刻切回來善良多了。"
           },
           {
@@ -2124,7 +2124,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds harder than the trip itself, honestly.",
+            "en": "That tracks. It sounds harder than the trip itself, honestly.",
             "zh": "老實說，這聽起來比旅行本身還難。"
           },
           {

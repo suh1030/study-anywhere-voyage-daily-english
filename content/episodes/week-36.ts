@@ -191,8 +191,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Deliberate use matters more than enthusiastic overuse.",
-            "zh": "大致上是。有意識地使用，比很興奮地過度使用重要得多。"
+            "en": "For the most part, yes. Deliberate use matters more than enthusiastic overuse.",
+            "zh": "大部分情況是這樣。有意識地使用，比很興奮地過度使用重要得多。"
           },
           {
             "speaker": "b",
@@ -659,8 +659,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "That clears it up for me.",
+            "zh": "這下清楚多了。"
           },
           {
             "speaker": "b",
@@ -730,8 +730,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "I needed that distinction.",
+            "zh": "我正需要這個區分。"
           },
           {
             "speaker": "a",
@@ -1028,8 +1028,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Human judgment is where accountability still lives.",
-            "zh": "大致上是。人類判斷其實就是責任還留著的地方。"
+            "en": "Pretty much. Human judgment is where accountability still lives.",
+            "zh": "差不多可以這樣說。人類判斷其實就是責任還留著的地方。"
           },
           {
             "speaker": "b",
@@ -1194,8 +1194,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Better judgment usually begins with better calibration.",
-            "zh": "大致上是。比較好的判斷，常常是從比較好的校準開始。"
+            "en": "Largely, yes. Better judgment usually begins with better calibration.",
+            "zh": "多半是。比較好的判斷，常常是從比較好的校準開始。"
           },
           {
             "speaker": "b",
@@ -1445,7 +1445,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Prompt residue often shows up as generic smoothness without lived tension.",
+            "en": "Exactly. Prompt residue often shows up as generic smoothness without lived tension.",
             "zh": "完全沒錯。prompt 的殘留感，常常就是那種『很順但沒有生活張力』的平滑。"
           },
           {
@@ -1463,7 +1463,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a healthy discipline.",
+            "en": "I see why that rings true. It does feel like a healthy discipline.",
             "zh": "這聽起來真的是很健康的紀律。"
           },
           {
@@ -1673,8 +1673,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That changes how I want to use it.",
-            "zh": "這改變了我想怎麼去用它。"
+            "en": "That's easier to hold onto.",
+            "zh": "這樣好記多了。"
           },
           {
             "speaker": "a",
@@ -1767,7 +1767,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like the kind of design people will appreciate only after something goes wrong.",
+            "en": "I get why it feels that way. It does feel like the kind of design people will appreciate only after something goes wrong.",
             "zh": "這感覺很像那種只有在出事後，大家才會真正感謝的設計。"
           },
           {
@@ -1971,8 +1971,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: Human distinctiveness lives in relation, interpretation, responsibility, and care.",
-            "zh": "這件事比表面上看起來更重要：人的獨特性其實活在關係、詮釋、責任和照顧裡。"
+            "en": "This point carries more weight than people expect: Human distinctiveness lives in relation, interpretation, responsibility, and care.",
+            "zh": "這一點的影響比大家預期的大：人的獨特性其實活在關係、詮釋、責任和照顧裡。"
           },
           {
             "speaker": "b",
@@ -2042,8 +2042,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "OK, that one lands.",
+            "zh": "嗯，這句有打中我。"
           },
           {
             "speaker": "a",
@@ -2077,8 +2077,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Some forms of judgment need time in order to stay human.",
-            "zh": "大致上是。有些判斷如果要保持像人，本來就需要時間。"
+            "en": "In most cases, yes. Some forms of judgment need time in order to stay human.",
+            "zh": "多數情況下是。有些判斷如果要保持像人，本來就需要時間。"
           },
           {
             "speaker": "b",
@@ -2136,14 +2136,14 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a future worth working toward.",
+            "en": "That's fair. It does feel like a future worth working toward.",
             "zh": "這聽起來真的是值得往那裡走的未來。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The best outcome is not machine worship or machine fear. It is wiser coexistence.",
-            "zh": "大致上是。最好的結果不是機器崇拜，也不是機器恐懼，而是比較有智慧的共存。"
+            "en": "That's mostly true. The best outcome is not machine worship or machine fear. It is wiser coexistence.",
+            "zh": "大致沒錯。最好的結果不是機器崇拜，也不是機器恐懼，而是比較有智慧的共存。"
           },
           {
             "speaker": "b",

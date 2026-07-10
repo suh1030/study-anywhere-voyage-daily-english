@@ -38,7 +38,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds different from being the loudest person in the room.",
+            "en": "True. It sounds different from being the loudest person in the room.",
             "zh": "這和當全場最大聲的人，完全是兩回事。"
           },
           {
@@ -156,7 +156,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful and modern.",
+            "en": "That makes sense to me. It sounds thoughtful and modern.",
             "zh": "這句聽起來很成熟，也很符合現在的工作語感。"
           },
           {
@@ -443,7 +443,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds firm without being pushy.",
+            "en": "I hear you. It sounds firm without being pushy.",
             "zh": "這句很堅定，但又不會咄咄逼人。"
           },
           {
@@ -665,7 +665,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds harder than most advice makes it seem.",
+            "en": "Good point. It sounds harder than most advice makes it seem.",
             "zh": "這聽起來比大多數建議說得還難。"
           },
           {
@@ -771,7 +771,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a real leader sentence.",
+            "en": "That's fair. It does feel like a real leader sentence.",
             "zh": "這句真的很有 leader 的味道。"
           },
           {
@@ -970,8 +970,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
-            "zh": "現實通常比這再亂一點：如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
+            "en": "Of course, daily life is rarely that tidy: If the norms are unclear, even talented people waste energy guessing what is safe, useful, or welcome.",
+            "zh": "當然，日常很少這麼整齊：如果規則不清楚，再有能力的人也會浪費力氣去猜：什麼是安全的、什麼是有用的、什麼是被歡迎的。"
           },
           {
             "speaker": "b",
@@ -1023,13 +1023,13 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Another one is inconsistent standards. If feedback changes with the leader's mood, people stop learning and start scanning for danger.",
-            "zh": "大致上是。另一個常見問題是不一致的標準。如果 feedback 會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。"
+            "en": "For the most part, yes. Another one is inconsistent standards. If feedback changes with the leader's mood, people stop learning and start scanning for danger.",
+            "zh": "大部分情況是這樣。另一個常見問題是不一致的標準。如果 feedback 會跟著領導者情緒亂變，大家就不再學習，而是開始掃描危險。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds toxic even if nobody calls it that.",
+            "en": "I like that. It sounds toxic even if nobody calls it that.",
             "zh": "這聽起來就算沒人明講，也很 toxic。"
           },
           {
@@ -1094,7 +1094,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a leader who respects everyone's time.",
+            "en": "I can see the logic. It does feel like a leader who respects everyone's time.",
             "zh": "這句聽起來像一個很尊重大家時間的 leader。"
           },
           {
@@ -1333,7 +1333,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more realistic than waiting until everything is clear.",
+            "en": "That tracks. It sounds more realistic than waiting until everything is clear.",
             "zh": "這比等到一切都清楚才做決定，實際多了。"
           },
           {
@@ -1351,7 +1351,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And under pressure, it helps to separate reversible decisions from high-cost irreversible ones.",
+            "en": "Exactly. And under pressure, it helps to separate reversible decisions from high-cost irreversible ones.",
             "zh": "沒錯。而且在壓力下，把「可回頭的決定」和「代價很高、很難回頭的決定」分開來看，會很有幫助。"
           },
           {
@@ -1386,7 +1386,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds calm without sounding careless.",
+            "en": "Fair enough. It sounds calm without sounding careless.",
             "zh": "這句聽起來很穩，但又不會顯得隨便。"
           },
           {
@@ -1726,7 +1726,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like someone growing up in a good way.",
+            "en": "I understand why people feel that. It does feel like someone growing up in a good way.",
             "zh": "這句聽起來像一個人在往好的方向成熟。"
           },
           {
@@ -1978,8 +1978,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The part I keep noticing is this: What looks ordinary is often what prevents the bigger mess.",
-            "zh": "我一直注意到的是這一點：很多看起來普通的事，其實正是在避免更大的混亂。"
+            "en": "What keeps standing out to me: What looks ordinary is often what prevents the bigger mess.",
+            "zh": "一直浮出來吸引我注意的是：很多看起來普通的事，其實正是在避免更大的混亂。"
           },
           {
             "speaker": "b",
@@ -1990,8 +1990,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That framing shifts the whole picture.",
-            "zh": "這個框架改變了整個畫面。"
+            "en": "I'll remember that one.",
+            "zh": "這句我會記住。"
           }
         ]
       },
@@ -2037,14 +2037,14 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds warm and respectful.",
+            "en": "I get that. It sounds warm and respectful.",
             "zh": "這句聽起來很溫暖，也很尊重。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Everyday leadership often deserves warmer language than corporate language gives it.",
-            "zh": "大致上是。日常裡的領導，很多時候值得比企業語言更溫暖的說法。"
+            "en": "Pretty much. Everyday leadership often deserves warmer language than corporate language gives it.",
+            "zh": "差不多可以這樣說。日常裡的領導，很多時候值得比企業語言更溫暖的說法。"
           }
         ]
       },

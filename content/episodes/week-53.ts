@@ -262,7 +262,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a much gentler way to begin again.",
+            "en": "I understand why people feel that. It does feel like a much gentler way to begin again.",
             "zh": "這聽起來像是一種比較溫柔的重新開始。"
           },
           {
@@ -472,7 +472,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds perfect for burnout, breakups, or even a role change.",
+            "en": "I get that. It sounds perfect for burnout, breakups, or even a role change.",
             "zh": "這句用在 burnout、分手，甚至角色轉換上都很適合。"
           },
           {
@@ -531,8 +531,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The body believes what the hands keep doing.",
-            "zh": "大致上是。手一直在做什麼，身體最後就會相信什麼。"
+            "en": "For the most part, yes. The body believes what the hands keep doing.",
+            "zh": "大部分情況是這樣。手一直在做什麼，身體最後就會相信什麼。"
           },
           {
             "speaker": "b",
@@ -999,8 +999,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the practical takeaway. What gets named and marked is easier to release.",
-            "zh": "這就是可以實際帶走的重點。被命名、被標記過的東西，比較容易被真正放下。"
+            "en": "That is what you can actually use. What gets named and marked is easier to release.",
+            "zh": "這就是你真正用得上的部分。被命名、被標記過的東西，比較容易被真正放下。"
           }
         ]
       },
@@ -1046,8 +1046,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "I did not expect it to be that simple.",
+            "zh": "我沒想到可以這麼簡單。"
           },
           {
             "speaker": "a",
@@ -1194,7 +1194,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. One helps you release with clarity, and the other helps you continue with trust.",
+            "en": "Precisely. One helps you release with clarity, and the other helps you continue with trust.",
             "zh": "沒錯。一個幫你帶著清楚放下，另一個幫你帶著信任繼續。"
           },
           {
@@ -1251,7 +1251,7 @@ export const WEEK_53: Episode[] = [
       {
         "en": "start where your feet are",
         "zh": "從眼前真實能做到的位置開始，而不是等完美時機",
-        "example": "When the future felt huge, she decided to start where her feet are."
+        "example": "When the future felt huge, she decided to start right where her feet were."
       }
     ]
   }

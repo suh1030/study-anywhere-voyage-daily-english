@@ -32,8 +32,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: Resource use is often easiest to understand when waste becomes impossible to ignore.",
-            "zh": "這裡有個不起眼但重要的細節：資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
+            "en": "One subtle piece matters here: Resource use is often easiest to understand when waste becomes impossible to ignore.",
+            "zh": "這裡有個微妙但重要的地方：資源使用這件事，通常是在浪費變得沒辦法忽視時，最容易被人理解。"
           },
           {
             "speaker": "b",
@@ -85,8 +85,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
-            "zh": "大致上是。長期思考是在要求人去在乎那些當下感受不到的後果。"
+            "en": "More often than not, yes. Long-term thinking asks people to care about outcomes they cannot immediately feel.",
+            "zh": "通常是這樣沒錯。長期思考是在要求人去在乎那些當下感受不到的後果。"
           },
           {
             "speaker": "b",
@@ -132,7 +132,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds practical instead of preachy.",
+            "en": "That makes sense to me. It sounds practical instead of preachy.",
             "zh": "這句聽起來很實際，不會像在說教。"
           },
           {
@@ -448,7 +448,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds precise and not embarrassed.",
+            "en": "I hear you. It sounds precise and not embarrassed.",
             "zh": "這句很準，也不會有那種不好意思承認自己撐不住的感覺。"
           },
           {
@@ -507,7 +507,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Emotional overload does not make people more useful. It usually makes them shut down or lash out.",
+            "en": "That's right. Emotional overload does not make people more useful. It usually makes them shut down or lash out.",
             "zh": "完全沒錯。情緒過載不會讓人更有用，反而通常只會讓人關機或失控。"
           },
           {
@@ -759,7 +759,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds balanced and realistic.",
+            "en": "Good point. It sounds balanced and realistic.",
             "zh": "這句聽起來很平衡，也很務實。"
           },
           {
@@ -824,7 +824,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more hopeful than trying to be morally perfect.",
+            "en": "I like that. It sounds more hopeful than trying to be morally perfect.",
             "zh": "這真的比逼自己道德完美還有希望。"
           },
           {
@@ -1075,7 +1075,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful and clear.",
+            "en": "That tracks. It sounds thoughtful and clear.",
             "zh": "這句聽起來很清楚，也很有想法。"
           },
           {
@@ -1152,8 +1152,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "I want to try that this week.",
+            "zh": "我這禮拜就想試試看。"
           },
           {
             "speaker": "a",
@@ -1205,7 +1205,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a natural place to end.",
+            "en": "I understand why people feel that. It does feel like a natural place to end.",
             "zh": "這聽起來就是很自然的結尾。"
           },
           {
@@ -1297,7 +1297,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds unexpectedly comforting.",
+            "en": "Fair enough. It sounds unexpectedly comforting.",
             "zh": "這樣說反而讓人有點被安撫到。"
           },
           {
@@ -1344,8 +1344,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. Active hope works because it treats action as part of the emotion, not a separate thing.",
-            "zh": "這一點值得記住。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
+            "en": "That is the takeaway here. Active hope works because it treats action as part of the emotion, not a separate thing.",
+            "zh": "這就是這裡的重點。主動希望之所以有用，是因為它把行動當成情緒的一部分，而不是另外切出去的東西。"
           },
           {
             "speaker": "b",
@@ -1391,7 +1391,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear and not overly dramatic.",
+            "en": "I get that. It sounds clear and not overly dramatic.",
             "zh": "這句很清楚，也不會太戲劇化。"
           },
           {
@@ -1450,7 +1450,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Shared effort matters because isolation intensifies fear more than people realize.",
+            "en": "Right. Shared effort matters because isolation intensifies fear more than people realize.",
             "zh": "完全沒錯。共同努力很重要，因為孤立感會比人想像中更快放大恐懼。"
           },
           {
@@ -1492,7 +1492,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds strong in a quiet way.",
+            "en": "Right. It sounds strong in a quiet way.",
             "zh": "這聽起來是一種很安靜、但很強的力量。"
           },
           {
@@ -1661,7 +1661,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more structural than telling people to simply drive less.",
+            "en": "True. It sounds more structural than telling people to simply drive less.",
             "zh": "這真的比叫大家『少開車一點』更有結構得多。"
           },
           {
@@ -1767,7 +1767,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds especially important as cities get hotter.",
+            "en": "That makes sense to me. It sounds especially important as cities get hotter.",
             "zh": "在城市越來越熱的情況下，這真的聽起來特別重要。"
           },
           {
@@ -1808,7 +1808,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more like quality of life than policy language.",
+            "en": "I hear you. It sounds more like quality of life than policy language.",
             "zh": "這聽起來就比較像生活品質，不是政策文案。"
           },
           {
@@ -1924,7 +1924,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more active than optimism.",
+            "en": "Good point. It sounds more active than optimism.",
             "zh": "這真的比樂觀更主動。"
           },
           {
@@ -2018,7 +2018,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds realistic and attractive.",
+            "en": "I like that. It sounds realistic and attractive.",
             "zh": "這句聽起來既現實，又有吸引力。"
           },
           {
@@ -2077,8 +2077,8 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Repairable design matters because it teaches care instead of constant replacement.",
-            "zh": "大致上是。可修復設計很重要，因為它教的是照顧，而不是一直替換。"
+            "en": "For the most part, yes. Repairable design matters because it teaches care instead of constant replacement.",
+            "zh": "大部分情況是這樣。可修復設計很重要，因為它教的是照顧，而不是一直替換。"
           },
           {
             "speaker": "b",

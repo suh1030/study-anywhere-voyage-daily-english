@@ -32,8 +32,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. It is about carrying the past forward in a more useful form.",
-            "zh": "大致上是。它其實是在把過去用比較有用的形式帶去前面。"
+            "en": "That's mostly true. It is about carrying the past forward in a more useful form.",
+            "zh": "大致沒錯。它其實是在把過去用比較有用的形式帶去前面。"
           },
           {
             "speaker": "b",
@@ -348,13 +348,13 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. We were both busy. The contact stayed, but the closeness had faded without either of us making a deliberate choice about it.",
+            "en": "Exactly. We were both busy. The contact stayed, but the closeness had faded without either of us making a deliberate choice about it.",
             "zh": "就是這樣。我們都很忙。聯絡還在，但親近感已經淡了，而我們誰都沒有真的做過什麼決定。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like what a lot of relationships do in adulthood.",
+            "en": "I see why that rings true. It does feel like what a lot of relationships do in adulthood.",
             "zh": "這聽起來好像是很多關係在成年期都會發生的事。"
           },
           {
@@ -782,8 +782,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: The body often reveals the moral structure of a life more honestly than a calendar does.",
-            "zh": "這件事比表面上看起來更重要：身體有時比日曆更誠實地揭露一個生活的價值結構。"
+            "en": "Do not let this one slide past: The body often reveals the moral structure of a life more honestly than a calendar does.",
+            "zh": "別讓這一點溜過去：身體有時比日曆更誠實地揭露一個生活的價值結構。"
           },
           {
             "speaker": "b",
@@ -823,8 +823,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Better energy is not only about output. It is about being able to feel, connect, think, and remain human in the middle of effort.",
-            "zh": "大致上是。更好的能量狀態不只是為了產出，而是讓人能在努力裡仍然感受、連結、思考，也保持人味。"
+            "en": "More often than not, yes. Better energy is not only about output. It is about being able to feel, connect, think, and remain human in the middle of effort.",
+            "zh": "通常是這樣沒錯。更好的能量狀態不只是為了產出，而是讓人能在努力裡仍然感受、連結、思考，也保持人味。"
           },
           {
             "speaker": "b",
@@ -1086,8 +1086,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. Review can correct prestige bias by showing what actually nourished the worker, not only what impressed the audience.",
-            "zh": "這一點值得記住。回顧會修正光環 bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
+            "en": "If you keep one thing, keep that. Review can correct prestige bias by showing what actually nourished the worker, not only what impressed the audience.",
+            "zh": "如果只記一件事，就記這個。回顧會修正光環 bias，因為它讓人看見真正滋養工作者的是什麼，而不只是什麼讓觀眾印象深刻。"
           },
           {
             "speaker": "b",
@@ -1134,7 +1134,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. The deeper point is to learn how to build a life where work supports the person, instead of slowly consuming them.",
+            "en": "That's right. The deeper point is to learn how to build a life where work supports the person, instead of slowly consuming them.",
             "zh": "沒錯。更深的一點是學會：怎麼建一種生活，讓工作在支撐這個人，而不是慢慢把他吃掉。"
           },
           {
@@ -1362,8 +1362,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "I want to try that this week.",
+            "zh": "我這禮拜就想試試看。"
           },
           {
             "speaker": "a",
@@ -1403,8 +1403,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "That answers something I could not name.",
+            "zh": "這回答了我一直說不上來的東西。"
           },
           {
             "speaker": "a",
@@ -1468,7 +1468,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like the right place to end.",
+            "en": "I get why it feels that way. It does feel like the right place to end.",
             "zh": "這感覺是很適合收尾的地方。"
           },
           {
@@ -1554,8 +1554,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: Creativity and joy often keep people in contact with wonder, play, and the parts of themselves that are not only useful.",
-            "zh": "這裡可以做個很有用的區分：創造力和 快樂會讓人繼續碰到 wonder、玩心，以及自己那些不只為了有用而存在的部分。"
+            "en": "One line worth drawing is this: Creativity and joy often keep people in contact with wonder, play, and the parts of themselves that are not only useful.",
+            "zh": "這裡值得畫一條分界線：創造力和 快樂會讓人繼續碰到 wonder、玩心，以及自己那些不只為了有用而存在的部分。"
           },
           {
             "speaker": "b",
@@ -1613,8 +1613,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the whole approach changes once you see it that way.",
-            "zh": "一旦這樣看，整個做法都跟著變了。"
+            "en": "Now I see what I was missing.",
+            "zh": "現在我知道自己漏掉什麼了。"
           },
           {
             "speaker": "a",
@@ -1678,7 +1678,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a good line.",
+            "en": "That's fair. It does feel like a good line.",
             "zh": "這真的是一句很好的話。"
           },
           {
@@ -1947,7 +1947,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. It keeps one version of the self from disappearing too quickly into the next one.",
+            "en": "Right. It keeps one version of the self from disappearing too quickly into the next one.",
             "zh": "沒錯。它會讓這個版本的自己，不會那麼快被下一個版本吞沒。"
           }
         ]
@@ -1982,8 +1982,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "That makes the whole idea click.",
+            "zh": "這讓整個概念一下子通了。"
           },
           {
             "speaker": "a",
@@ -2047,7 +2047,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a beautiful idea.",
+            "en": "I can see the logic. It does feel like a beautiful idea.",
             "zh": "這個想法很美。"
           },
           {

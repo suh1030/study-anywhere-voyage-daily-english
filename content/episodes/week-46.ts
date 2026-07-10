@@ -354,8 +354,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right — and that's the version that holds up.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "en": "That puts it into words for me.",
+            "zh": "這把我的感覺講成了具體的話。"
           },
           {
             "speaker": "a",
@@ -372,7 +372,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Advice too early can feel like being replaced before you were understood.",
+            "en": "That's right. Advice too early can feel like being replaced before you were understood.",
             "zh": "沒錯。建議來得太早，會讓人覺得自己還沒被理解，就已經被跳過了。"
           }
         ]
@@ -448,7 +448,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than jumping straight to a solution.",
+            "en": "Right. It sounds much better than jumping straight to a solution.",
             "zh": "這句真的比直接跳去解法好多了。"
           },
           {
@@ -665,7 +665,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds less cinematic and more real.",
+            "en": "True. It sounds less cinematic and more real.",
             "zh": "這樣聽起來比較不電影，但更真。"
           },
           {
@@ -771,7 +771,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds strong without sounding exaggerated.",
+            "en": "That makes sense to me. It sounds strong without sounding exaggerated.",
             "zh": "這句很有力，但不會太誇張。"
           },
           {
@@ -789,8 +789,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The part I keep noticing is this: Local impact often grows through ordinary usefulness.",
-            "zh": "我一直注意到的是這一點：在地影響力，很多時候就是從普通但有用開始長大的。"
+            "en": "I keep coming back to one thing: Local impact often grows through ordinary usefulness.",
+            "zh": "我一直繞回到同一件事：在地影響力，很多時候就是從普通但有用開始長大的。"
           }
         ]
       },
@@ -818,8 +818,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. They carry local knowledge that is practical and relational at the same time.",
-            "zh": "大致上是。他們身上帶著一種在地知識，既實際，也非常關係導向。"
+            "en": "Largely, yes. They carry local knowledge that is practical and relational at the same time.",
+            "zh": "多半是。他們身上帶著一種在地知識，既實際，也非常關係導向。"
           },
           {
             "speaker": "b",
@@ -981,7 +981,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds hard in real life.",
+            "en": "I hear you. It sounds hard in real life.",
             "zh": "這在現實裡聽起來很難。"
           },
           {
@@ -1075,7 +1075,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds respectful and still honest.",
+            "en": "Good point. It sounds respectful and still honest.",
             "zh": "這句聽起來很尊重，但也很誠實。"
           },
           {
@@ -1286,13 +1286,13 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Social-good technology is not impressive because it is advanced. It is impressive because it becomes useful where people are already struggling.",
+            "en": "Right. Social-good technology is not impressive because it is advanced. It is impressive because it becomes useful where people are already struggling.",
             "zh": "沒錯。為社會有益的科技，不是因為很先進才厲害，而是因為它在大家本來就很辛苦的地方變得有用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more grounded than innovation language.",
+            "en": "I like that. It sounds much more grounded than innovation language.",
             "zh": "這樣聽起來比那種 innovation 語言落地多了。"
           },
           {
@@ -1345,7 +1345,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds slower but healthier.",
+            "en": "That tracks. It sounds slower but healthier.",
             "zh": "這聽起來比較慢，但也比較健康。"
           },
           {
@@ -1463,7 +1463,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more respectful to the community.",
+            "en": "Fair enough. It sounds much more respectful to the community.",
             "zh": "這樣真的對社群尊重多了。"
           },
           {
@@ -1673,8 +1673,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "Now it feels doable.",
+            "zh": "現在感覺做得到了。"
           },
           {
             "speaker": "a",
@@ -1826,8 +1826,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. We do not control everything the next generation keeps, but we can offer them patterns worth inheriting.",
-            "zh": "大致上是。我們不能控制下一代會留下什麼，但我們可以提供一些值得被繼承的模式。"
+            "en": "In most cases, yes. We do not control everything the next generation keeps, but we can offer them patterns worth inheriting.",
+            "zh": "多數情況下是。我們不能控制下一代會留下什麼，但我們可以提供一些值得被繼承的模式。"
           },
           {
             "speaker": "b",
@@ -2101,8 +2101,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would keep that sentence close. Reliable people are part of what makes any community feel safe.",
-            "zh": "這句話我會隨身帶著。可靠的人，本來就是任何社群安全感的一部分。"
+            "en": "I would save that line for later. Reliable people are part of what makes any community feel safe.",
+            "zh": "這句我會先存起來備用。可靠的人，本來就是任何社群安全感的一部分。"
           },
           {
             "speaker": "b",
@@ -2119,7 +2119,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds both practical and hopeful.",
+            "en": "I get that. It sounds both practical and hopeful.",
             "zh": "這聽起來既實際，又有希望。"
           },
           {
@@ -2137,7 +2137,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. The best topics in an English app should connect back to life, and this one very clearly does.",
+            "en": "Precisely. The best topics in an English app should connect back to life, and this one very clearly does.",
             "zh": "沒錯。英語 app 最好的主題，本來就應該能接回生活，而這個主題就是非常清楚地能。"
           },
           {

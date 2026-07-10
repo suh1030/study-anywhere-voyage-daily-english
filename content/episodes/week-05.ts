@@ -156,7 +156,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like useful speaking English.",
+            "en": "I see why that rings true. It does feel like useful speaking English.",
             "zh": "這聽起來就是很好用的口說英文。"
           },
           {
@@ -567,8 +567,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. It tells people, \"You belong here, and this is one of the ways we remember that.\"",
-            "zh": "大致上是。它像是在對人說：「你屬於這裡，而這就是我們記住這件事的一種方式。」"
+            "en": "That's mostly true. It tells people, \"You belong here, and this is one of the ways we remember that.\"",
+            "zh": "大致沒錯。它像是在對人說：「你屬於這裡，而這就是我們記住這件事的一種方式。」"
           },
           {
             "speaker": "b",
@@ -659,8 +659,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A simple gift can feel very warm, while an expensive one can still feel awkward.",
-            "zh": "大致上是。一個簡單的禮物可以讓人覺得很溫暖，而一個很貴的禮物也可能還是讓人尷尬。"
+            "en": "More often than not, yes. A simple gift can feel very warm, while an expensive one can still feel awkward.",
+            "zh": "通常是這樣沒錯。一個簡單的禮物可以讓人覺得很溫暖，而一個很貴的禮物也可能還是讓人尷尬。"
           },
           {
             "speaker": "b",
@@ -999,7 +999,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. It only means there is a lot going on at once.",
+            "en": "Exactly. It only means there is a lot going on at once.",
             "zh": "沒錯。它只是表示，很多東西在同時發生。"
           }
         ]
@@ -1022,7 +1022,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very comforting.",
+            "en": "True. It sounds very comforting.",
             "zh": "這聽起來很安慰。"
           },
           {
@@ -1410,7 +1410,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very usable for speaking.",
+            "en": "That makes sense to me. It sounds very usable for speaking.",
             "zh": "這句很適合拿來口說。"
           },
           {
@@ -2072,7 +2072,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Sometimes the follow-up is what turns a nice event into a lasting memory.",
+            "en": "That's right. Sometimes the follow-up is what turns a nice event into a lasting memory.",
             "zh": "沒錯。有時候，真正把一場好活動變成長久回憶的，反而是後續的那一下。"
           },
           {

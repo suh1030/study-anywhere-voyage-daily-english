@@ -448,7 +448,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds genuine. It puts learning in the center instead of results.",
+            "en": "I hear you. It sounds genuine. It puts learning in the center instead of results.",
             "zh": "這聽起來很真誠。它把學習放在中心而不是結果。"
           },
           {
@@ -782,7 +782,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. The best career English for difficult topics is calm and clear, not defensive or apologetic.",
+            "en": "Precisely. The best career English for difficult topics is calm and clear, not defensive or apologetic.",
             "zh": "沒錯。在困難話題上最好的職涯英文是平靜且清楚的，不是防衛性的或道歉性的。"
           },
           {
@@ -1193,7 +1193,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like it frees up a lot of mental energy.",
+            "en": "I can see the logic. It does feel like it frees up a lot of mental energy.",
             "zh": "那聽起來好像可以釋放很多心理能量。"
           },
           {
@@ -1421,8 +1421,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Context makes decisions sound deliberate. And deliberate sounds trustworthy.",
-            "zh": "大致上是。背景讓決定聽起來是深思熟慮的。而深思熟慮聽起來值得信賴。"
+            "en": "In most cases, yes. Context makes decisions sound deliberate. And deliberate sounds trustworthy.",
+            "zh": "多數情況下是。背景讓決定聽起來是深思熟慮的。而深思熟慮聽起來值得信賴。"
           }
         ]
       },
@@ -1773,8 +1773,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would keep that sentence close. A skill that is not named tends to stay invisible, even to the person who has it.",
-            "zh": "這句話我會隨身帶著。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
+            "en": "That sentence is worth carrying around. A skill that is not named tends to stay invisible, even to the person who has it.",
+            "zh": "這句話值得帶在身上。一個沒有被命名的技能往往保持看不見，甚至對擁有它的人也是如此。"
           },
           {
             "speaker": "b",
@@ -1826,7 +1826,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The people who never revise are often either very lucky or very stuck.",
+            "en": "That's mostly true. The people who never revise are often either very lucky or very stuck.",
             "zh": "差不多。從不修正方向的人，不是運氣特別好，就是卡得特別深。"
           },
           {
@@ -2148,7 +2148,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like work you can do at any stage.",
+            "en": "I understand why people feel that. It does feel like work you can do at any stage.",
             "zh": "那聽起來像是任何階段都可以做的工作。"
           },
           {

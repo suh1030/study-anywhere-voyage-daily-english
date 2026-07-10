@@ -109,7 +109,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. A lot of support is not about solving. It is about making the difficult moment less solitary.",
+            "en": "That's right. A lot of support is not about solving. It is about making the difficult moment less solitary.",
             "zh": "沒錯。很多支持不是在解決問題，而是在讓那個困難時刻不要那麼孤單。"
           }
         ]
@@ -425,8 +425,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: A lot of helping starts with recognition more than principle.",
-            "zh": "這裡可以做個很有用的區分：很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
+            "en": "One line worth drawing is this: A lot of helping starts with recognition more than principle.",
+            "zh": "這裡值得畫一條分界線：很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則。"
           }
         ]
       },
@@ -466,8 +466,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. People help for human reasons. History, mood, memory, recognition, habit.",
-            "zh": "大致上是。人會幫忙，是因為很人性的原因。歷史、心情、記憶、認出對方、還有習慣。"
+            "en": "In most cases, yes. People help for human reasons. History, mood, memory, recognition, habit.",
+            "zh": "多數情況下是。人會幫忙，是因為很人性的原因。歷史、心情、記憶、認出對方、還有習慣。"
           },
           {
             "speaker": "b",
@@ -823,7 +823,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Maybe they want you to help with logistics, but not with the decision. Maybe they want company, not strategy.",
+            "en": "Right. Maybe they want you to help with logistics, but not with the decision. Maybe they want company, not strategy.",
             "zh": "沒錯。也許對方要的是你幫他處理瑣事，但不是替他做決定；也許他要的是陪伴，不是策略。"
           },
           {
@@ -1409,8 +1409,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: Specific requests make it easy to help, and that is a gift too.",
-            "zh": "有個細節很容易被忽略：具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
+            "en": "There is a quieter detail here: Specific requests make it easy to help, and that is a gift too.",
+            "zh": "這裡還有個比較安靜的細節：具體的請求會讓幫忙變得容易，而那本身也是一種體貼。"
           },
           {
             "speaker": "b",
@@ -1527,8 +1527,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Receiving gracefully says, 'I trust this bond enough to let it hold me for a minute.'",
-            "zh": "大致上是。把幫助收得優雅，其實是在說：「我信任這段關係，信任到可以讓它短暫地撐住我一下。」"
+            "en": "That's mostly true. Receiving gracefully says, 'I trust this bond enough to let it hold me for a minute.'",
+            "zh": "大致沒錯。把幫助收得優雅，其實是在說：「我信任這段關係，信任到可以讓它短暫地撐住我一下。」"
           }
         ]
       }
@@ -1814,8 +1814,8 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. That kind of familiar distance can still be very comforting.",
-            "zh": "這一點值得記住。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
+            "en": "If you keep one thing, keep that. That kind of familiar distance can still be very comforting.",
+            "zh": "如果只記一件事，就記這個。那種熟悉卻不過度靠近的距離，本身也可以讓人很安心。"
           },
           {
             "speaker": "b",
@@ -1918,7 +1918,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Lasting help is less dramatic and much more scheduled.",
+            "en": "Precisely. Lasting help is less dramatic and much more scheduled.",
             "zh": "沒錯。長久的幫助比較不戲劇化，而且往往更像被排進行事曆的事。"
           },
           {
@@ -2071,7 +2071,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost embarrassingly practical.",
+            "en": "I get that. It sounds almost embarrassingly practical.",
             "zh": "這聽起來實用到有點讓人不好意思。"
           },
           {

@@ -85,8 +85,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
-            "zh": "大致上是。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。"
+            "en": "More often than not, yes. That does not make problems disappear, but it can keep the mind from acting as if the problem is the entire truth.",
+            "zh": "通常是這樣沒錯。這不會讓問題消失，但會避免大腦把問題誤認成全部真相。"
           },
           {
             "speaker": "b",
@@ -132,7 +132,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than forcing yourself to be cheerful.",
+            "en": "I like that. It sounds much better than forcing yourself to be cheerful.",
             "zh": "這句真的比逼自己開朗好多了。"
           },
           {
@@ -250,7 +250,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a kinder version of practice.",
+            "en": "I can see the logic. It does feel like a kinder version of practice.",
             "zh": "這聽起來像一種比較溫柔的練習。"
           },
           {
@@ -401,7 +401,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. The friend who always checks in, the colleague who quietly fixes details, the parent who remembers logistics, the partner who carries mental load.",
+            "en": "Exactly. The friend who always checks in, the colleague who quietly fixes details, the parent who remembers logistics, the partner who carries mental load.",
             "zh": "沒錯。像是總會來關心的朋友、默默把細節補好的同事、記住一堆流程的父母，或一直扛著心理負擔的伴侶。"
           },
           {
@@ -419,7 +419,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds painfully true.",
+            "en": "That tracks. It sounds painfully true.",
             "zh": "這句真的很真。"
           },
           {
@@ -561,7 +561,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds sad, but also clarifying.",
+            "en": "Fair enough. It sounds sad, but also clarifying.",
             "zh": "這聽起來有點難過，但也很清楚。"
           },
           {
@@ -865,7 +865,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a different relationship to life.",
+            "en": "I understand why people feel that. It does feel like a different relationship to life.",
             "zh": "這聽起來像是和生活建立另一種關係。"
           },
           {
@@ -981,7 +981,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much healthier than forced optimism.",
+            "en": "I get that. It sounds much healthier than forced optimism.",
             "zh": "這比 forced optimism 健康太多了。"
           },
           {
@@ -1034,7 +1034,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very useful when emotions are high.",
+            "en": "Right. It sounds very useful when emotions are high.",
             "zh": "這在情緒高的時候真的很有用。"
           },
           {
@@ -1344,7 +1344,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. The person who prevents a mistake, calms a client, mentors a junior teammate, or keeps the meeting clear may have changed the day without obvious applause.",
+            "en": "That's right. The person who prevents a mistake, calms a client, mentors a junior teammate, or keeps the meeting clear may have changed the day without obvious applause.",
             "zh": "沒錯。那個防止錯誤發生的人、安撫客戶的人、帶新人上手的人，或讓會議維持清楚的人，都可能在沒有掌聲的情況下改變了那一天。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much better than a generic good job.",
+            "en": "True. It sounds so much better than a generic good job.",
             "zh": "這句真的比 generic good job 好太多。"
           },
           {
@@ -1702,7 +1702,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than calling someone ungrateful too fast.",
+            "en": "That makes sense to me. It sounds much better than calling someone ungrateful too fast.",
             "zh": "這比太快說別人 ungrateful 好太多了。"
           },
           {
@@ -1726,8 +1726,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "OK, that one lands.",
+            "zh": "嗯，這句有打中我。"
           },
           {
             "speaker": "a",
@@ -1826,8 +1826,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The goal is to become more literate in how appreciation moves through human life.",
-            "zh": "大致上是。目標是讓自己更有讀寫能力，去看懂感謝怎麼在人類生活裡流動。"
+            "en": "For the most part, yes. The goal is to become more literate in how appreciation moves through human life.",
+            "zh": "大部分情況是這樣。目標是讓自己更有讀寫能力，去看懂感謝怎麼在人類生活裡流動。"
           },
           {
             "speaker": "b",
@@ -1936,8 +1936,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "That saves me a lot of guessing.",
+            "zh": "這幫我省掉很多瞎猜。"
           },
           {
             "speaker": "a",
@@ -2018,7 +2018,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clean and thoughtful.",
+            "en": "I hear you. It sounds clean and thoughtful.",
             "zh": "這句很乾淨，也很有思考。"
           },
           {
@@ -2030,8 +2030,8 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That changes how I want to use it.",
-            "zh": "這改變了我想怎麼去用它。"
+            "en": "I can work with that.",
+            "zh": "這個我用得上。"
           },
           {
             "speaker": "a",

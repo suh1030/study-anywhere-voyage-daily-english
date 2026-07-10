@@ -251,8 +251,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: That is why it lasts. Ordinary care is the kind you can actually keep doing.",
-            "zh": "這裡可以做個很有用的區分：而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
+            "en": "Here is a distinction that helps: That is why it lasts. Ordinary care is the kind you can actually keep doing.",
+            "zh": "有一個區分會很有幫助：而這正是它能持續的原因。普通的照顧，才是你真的做得下去的照顧。"
           },
           {
             "speaker": "b",
@@ -355,8 +355,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. That is why sleep debt builds so quietly. One late night feels manageable until it becomes four.",
-            "zh": "大致上是。這也就是為什麼睡眠債會累得那麼安靜。一個晚睡的夜晚看起來還能撐，直到它變成第四個。"
+            "en": "In most cases, yes. That is why sleep debt builds so quietly. One late night feels manageable until it becomes four.",
+            "zh": "多數情況下是。這也就是為什麼睡眠債會累得那麼安靜。一個晚睡的夜晚看起來還能撐，直到它變成第四個。"
           },
           {
             "speaker": "b",
@@ -712,7 +712,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And it often gets worse when someone is overcommitted but still keeps saying yes out of habit.",
+            "en": "Exactly. And it often gets worse when someone is overcommitted but still keeps saying yes out of habit.",
             "zh": "沒錯。而且如果一個人已經 overcommitted，卻還是因為習慣一直答應事情，通常會更嚴重。"
           },
           {
@@ -812,7 +812,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost too small to matter.",
+            "en": "I get that. It sounds almost too small to matter.",
             "zh": "這些聽起來小到像是沒什麼差。"
           },
           {
@@ -1075,7 +1075,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much closer to how I actually talk about food.",
+            "en": "Right. It sounds much closer to how I actually talk about food.",
             "zh": "這真的比較接近我平常會怎麼講吃的。"
           },
           {
@@ -1416,8 +1416,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: Sick-day English should help you communicate clearly, not sound impressive.",
-            "zh": "有個細節很容易被忽略：生病時用的英文，本來就應該幫你清楚溝通，而不是讓你聽起來很厲害。"
+            "en": "A detail people often skip: Sick-day English should help you communicate clearly, not sound impressive.",
+            "zh": "有個大家常跳過的細節：生病時用的英文，本來就應該幫你清楚溝通，而不是讓你聽起來很厲害。"
           }
         ]
       },
@@ -1510,8 +1510,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Recovery gets easier when you stop negotiating and start cooperating with reality.",
-            "zh": "大致上是。當你停止討價還價，開始和現實合作時，恢復反而會變得比較容易。"
+            "en": "That's mostly true. Recovery gets easier when you stop negotiating and start cooperating with reality.",
+            "zh": "大致沒錯。當你停止討價還價，開始和現實合作時，恢復反而會變得比較容易。"
           },
           {
             "speaker": "b",
@@ -1755,7 +1755,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds obvious, but it is surprisingly easy to forget.",
+            "en": "True. It sounds obvious, but it is surprisingly easy to forget.",
             "zh": "這聽起來好像很 obvious，但真的非常容易忘記。"
           },
           {
@@ -1918,7 +1918,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And a lot of people confuse intensity with commitment.",
+            "en": "That's right. And a lot of people confuse intensity with commitment.",
             "zh": "沒錯。而且很多人會把強度誤認成承諾。"
           },
           {

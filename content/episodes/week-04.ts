@@ -32,13 +32,13 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. I can see the park and a little bit of the river if I stand by the window.",
+            "en": "Precisely. I can see the park and a little bit of the river if I stand by the window.",
             "zh": "就是。我站在窗邊可以看到公園，還有一小段河景。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds lovely. How did you find it — through an agent?",
+            "en": "Right. It sounds lovely. How did you find it — through an agent?",
             "zh": "聽起來很棒。你怎麼找到的？透過房仲嗎？"
           },
           {
@@ -1134,8 +1134,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Emotions can escalate confrontations. Having a record keeps things objective.",
-            "zh": "大致上是。情緒可能讓對抗升級。有紀錄讓事情保持客觀。"
+            "en": "In most cases, yes. Emotions can escalate confrontations. Having a record keeps things objective.",
+            "zh": "多數情況下是。情緒可能讓對抗升級。有紀錄讓事情保持客觀。"
           },
           {
             "speaker": "b",

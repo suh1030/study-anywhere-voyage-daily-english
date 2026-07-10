@@ -20,13 +20,13 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I can see that. It sounds familiar. You were physically off but mentally still at your desk.",
+            "en": "I hear you. It sounds familiar. You were physically off but mentally still at your desk.",
             "zh": "聽起來很熟悉。你的身體放假了，但腦袋還在辦公桌前。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Exactly right. I kept thinking I should be doing something useful with the time.",
+            "en": "Precisely. I kept thinking I should be doing something useful with the time.",
             "zh": "就是這樣。我一直覺得自己應該把這段時間用來做些有用的事。"
           },
           {
@@ -185,7 +185,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds counterintuitive. Rest should be spontaneous, right?",
+            "en": "Good point. It sounds counterintuitive. Rest should be spontaneous, right?",
             "zh": "這聽起來有點反直覺。休息不應該是自然發生的嗎？"
           },
           {
@@ -496,7 +496,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like the beginning of meditation.",
+            "en": "That's fair. It does feel like the beginning of meditation.",
             "zh": "那聽起來像冥想的入門。"
           },
           {
@@ -883,8 +883,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. And when you treat rest as something you have to earn, you will always feel slightly behind. There will always be one more thing to finish first.",
-            "zh": "大致上是。而當你把休息當成需要賺取的東西時，你永遠都會覺得自己稍微落後了。永遠都會有一件事要先完成。"
+            "en": "That's mostly true. And when you treat rest as something you have to earn, you will always feel slightly behind. There will always be one more thing to finish first.",
+            "zh": "大致沒錯。而當你把休息當成需要賺取的東西時，你永遠都會覺得自己稍微落後了。永遠都會有一件事要先完成。"
           },
           {
             "speaker": "b",
@@ -1310,8 +1310,8 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the part worth practicing. Physical rest is not optional equipment. It is part of the basic system.",
-            "zh": "這部分最值得拿來練習。身體上的休息不是選配設備。它是基本系統的一部分。"
+            "en": "That is the muscle to train. Physical rest is not optional equipment. It is part of the basic system.",
+            "zh": "要練的就是這塊肌肉。身體上的休息不是選配設備。它是基本系統的一部分。"
           }
         ]
       },

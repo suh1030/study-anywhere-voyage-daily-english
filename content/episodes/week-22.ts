@@ -132,7 +132,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clean and calm.",
+            "en": "True. It sounds clean and calm.",
             "zh": "這句很乾淨，也很穩。"
           },
           {
@@ -238,7 +238,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much less glamorous, but much more repeatable.",
+            "en": "That makes sense to me. It sounds much less glamorous, but much more repeatable.",
             "zh": "這樣聽起來沒那麼戲劇化，可是可重複多了。"
           },
           {
@@ -413,8 +413,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: Once you break it down, the problem often stops acting like one giant wall.",
-            "zh": "有個小地方其實很關鍵：一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
+            "en": "Do not skip the small detail: Once you break it down, the problem often stops acting like one giant wall.",
+            "zh": "別跳過這個小細節：一旦你把它拆開來，問題通常就不會再像一整面巨大的牆。"
           },
           {
             "speaker": "b",
@@ -448,7 +448,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than, 'I have no idea.'",
+            "en": "I hear you. It sounds much better than, 'I have no idea.'",
             "zh": "這句真的比直接說「我完全沒頭緒」好很多。"
           },
           {
@@ -472,7 +472,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds collaborative instead of helpless.",
+            "en": "Good point. It sounds collaborative instead of helpless.",
             "zh": "這樣聽起來比較像一起解，不像無助求救。"
           },
           {
@@ -683,7 +683,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Good creative thinking often begins with a better question.",
+            "en": "Exactly. Good creative thinking often begins with a better question.",
             "zh": "完全沒錯。好的創意思考，常常是從一個更好的問題開始。"
           }
         ]
@@ -969,8 +969,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I would pay attention to this: Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
-            "zh": "這一點我會特別留意：後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
+            "en": "Keep an eye on this part: Once I kept asking, it turned out people were frustrated because the meeting never led to decisions.",
+            "zh": "這部分要多留意：後來我繼續問下去，才發現大家挫折的點是，那個會議永遠不會導向決定。"
           },
           {
             "speaker": "a",
@@ -1028,8 +1028,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. And often that pattern points to a bottleneck nobody wants to name directly.",
-            "zh": "大致上是。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。"
+            "en": "For the most part, yes. And often that pattern points to a bottleneck nobody wants to name directly.",
+            "zh": "大部分情況是這樣。而且那個模式很常指向一個大家不太想直接講出口的瓶頸。"
           },
           {
             "speaker": "b",
@@ -1075,7 +1075,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds direct without sounding dramatic.",
+            "en": "I like that. It sounds direct without sounding dramatic.",
             "zh": "這句很直接，但又不會太戲劇化。"
           },
           {
@@ -1181,7 +1181,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so relieving.",
+            "en": "That tracks. It sounds so relieving.",
             "zh": "那聽起來真的很讓人鬆一口氣。"
           },
           {
@@ -1315,7 +1315,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Good judgment is often calm courage, not perfect certainty.",
+            "en": "That's right. Good judgment is often calm courage, not perfect certainty.",
             "zh": "完全沒錯。好的判斷，很多時候比較像冷靜的勇氣，不是完美的確定。"
           }
         ]
@@ -1403,7 +1403,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds mature. It does not pretend the risk disappeared.",
+            "en": "Fair enough. It sounds mature. It does not pretend the risk disappeared.",
             "zh": "這句聽起來很成熟，因為它沒有假裝風險突然不見。"
           },
           {
@@ -1515,8 +1515,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: Ordinary courage is often what good decisions are made of.",
-            "zh": "這裡有個不起眼但重要的細節：很多好決定，就是由那種日常版的勇氣做成的。"
+            "en": "One subtle piece matters here: Ordinary courage is often what good decisions are made of.",
+            "zh": "這裡有個微妙但重要的地方：很多好決定，就是由那種日常版的勇氣做成的。"
           },
           {
             "speaker": "b",
@@ -1607,8 +1607,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Teams can generate a lot of motion without creating shared direction.",
-            "zh": "大致上是。團隊可以產生很多動作，卻沒有創造出共同方向。"
+            "en": "Pretty much. Teams can generate a lot of motion without creating shared direction.",
+            "zh": "差不多可以這樣說。團隊可以產生很多動作，卻沒有創造出共同方向。"
           },
           {
             "speaker": "b",
@@ -1719,7 +1719,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds brave without sounding combative.",
+            "en": "I get that. It sounds brave without sounding combative.",
             "zh": "這句聽起來有勇氣，但不會很對抗。"
           },
           {
@@ -1778,7 +1778,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Good teams end with a visible next action, not a shared cloud of good intentions.",
+            "en": "Right. Good teams end with a visible next action, not a shared cloud of good intentions.",
             "zh": "完全沒錯。好的團隊會議，最後留下的是看得見的下一步，不是一團共同的好意。"
           },
           {
@@ -1813,7 +1813,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds quieter than most people imagine.",
+            "en": "Right. It sounds quieter than most people imagine.",
             "zh": "這聽起來比很多人想像的都還安靜。"
           },
           {
@@ -1929,7 +1929,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds emotional as much as intellectual.",
+            "en": "True. It sounds emotional as much as intellectual.",
             "zh": "這聽起來不只是智力上的事，也很情緒。"
           },
           {
@@ -2124,7 +2124,7 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost peaceful.",
+            "en": "That makes sense to me. It sounds almost peaceful.",
             "zh": "這聽起來幾乎有點平靜。"
           },
           {
@@ -2142,8 +2142,8 @@ export const WEEK_22: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Better problem solvers move forward with less fear because they trust their process more.",
-            "zh": "大致上是。更會解題的人之所以能更少害怕地往前，是因為他們比較信任自己的過程。"
+            "en": "Largely, yes. Better problem solvers move forward with less fear because they trust their process more.",
+            "zh": "多半是。更會解題的人之所以能更少害怕地往前，是因為他們比較信任自己的過程。"
           },
           {
             "speaker": "b",

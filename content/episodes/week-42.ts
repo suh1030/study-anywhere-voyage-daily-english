@@ -467,7 +467,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more credible than \"This will definitely happen.\"",
+            "en": "Good point. It sounds much more credible than \"This will definitely happen.\"",
             "zh": "這聽起來比「這一定會發生」可信多了。"
           },
           {
@@ -502,8 +502,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "One detail is easy to miss: Now you have something actionable in the near term. The five-year vision becomes a current task.",
-            "zh": "有個細節很容易被忽略：這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。"
+            "en": "A detail people often skip: Now you have something actionable in the near term. The five-year vision becomes a current task.",
+            "zh": "有個大家常跳過的細節：這樣你眼前就有了可以行動的事情。五年願景也就變成了當前的任務。"
           },
           {
             "speaker": "b",
@@ -771,8 +771,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Another useful phrase is \"My concern is...\" followed by \"What gives me hope is...\" That contrast works well.",
-            "zh": "大致上是。另一個有用的說法是「我擔心的是……」接著「讓我感到有希望的是……」這種對比很有效。"
+            "en": "In most cases, yes. Another useful phrase is \"My concern is...\" followed by \"What gives me hope is...\" That contrast works well.",
+            "zh": "多數情況下是。另一個有用的說法是「我擔心的是……」接著「讓我感到有希望的是……」這種對比很有效。"
           },
           {
             "speaker": "b",
@@ -1081,7 +1081,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds mature. You are not blocking, but you are not just nodding along either.",
+            "en": "I like that. It sounds mature. You are not blocking, but you are not just nodding along either.",
             "zh": "這聽起來很成熟。你沒有阻礙，但你也不只是點頭稱是。"
           },
           {
@@ -1140,7 +1140,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Trying to develop all skills simultaneously usually ends in burnout without real progress.",
+            "en": "That's right. Trying to develop all skills simultaneously usually ends in burnout without real progress.",
             "zh": "沒錯。同時嘗試發展所有技能通常會在沒有真正進步的情況下導致精疲力竭。"
           },
           {
@@ -1596,8 +1596,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "That reframing helps a lot.",
+            "zh": "這樣換個角度看，幫助很大。"
           },
           {
             "speaker": "b",
@@ -1661,7 +1661,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Committing to the destination while staying flexible about the route is actually the most effective kind of planning.",
+            "en": "That's mostly true. Committing to the destination while staying flexible about the route is actually the most effective kind of planning.",
             "zh": "差不多。對目的地堅定、對路線保持彈性，其實就是最有效的規劃方式。"
           },
           {
@@ -1965,8 +1965,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "I keep circling that same point.",
+            "zh": "我自己也一直繞回這一點。"
           },
           {
             "speaker": "b",
@@ -1989,14 +1989,14 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the part worth practicing. Today's choices vote for or against the person you are becoming. Over time, those votes accumulate.",
-            "zh": "這部分最值得拿來練習。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。"
+            "en": "That is where practice pays off. Today's choices vote for or against the person you are becoming. Over time, those votes accumulate.",
+            "zh": "練習的報酬就在這裡。今天的選擇是在投票贊成或反對你正在成為的人，隨著時間推移，這些票數會積累起來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That changes how I want to use it.",
-            "zh": "這改變了我想怎麼去用它。"
+            "en": "That line is worth stealing.",
+            "zh": "這句值得偷學起來。"
           },
           {
             "speaker": "a",

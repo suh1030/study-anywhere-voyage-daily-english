@@ -138,8 +138,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "What often gets hidden is this: That second sentence creates a picture. The listener can see the friendship, not just label it.",
-            "zh": "有件事常常藏在檯面下：第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
+            "en": "Here is what usually stays invisible: That second sentence creates a picture. The listener can see the friendship, not just label it.",
+            "zh": "通常看不見的是這個：第二句創造了一個畫面。聽的人可以看見那段友誼，而不只是貼上標籤。"
           },
           {
             "speaker": "b",
@@ -268,8 +268,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. And that takes time. You cannot rush the kind of trust that makes that possible.",
-            "zh": "大致上是。而那需要時間。讓那成為可能的那種信任，是急不來的。"
+            "en": "For the most part, yes. And that takes time. You cannot rush the kind of trust that makes that possible.",
+            "zh": "大部分情況是這樣。而那需要時間。讓那成為可能的那種信任，是急不來的。"
           }
         ]
       }
@@ -425,7 +425,7 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The people who ended up with close friends in a new city are almost always the ones who tolerated that discomfort long enough.",
+            "en": "Pretty much. The people who ended up with close friends in a new city are almost always the ones who tolerated that discomfort long enough.",
             "zh": "大多數時候是的。在新城市最後有了親近朋友的人，幾乎都是那些忍受了足夠長時間不舒服的人。"
           }
         ]
@@ -1296,8 +1296,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
-            "zh": "現實通常比這再亂一點：而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
+            "en": "Real life complicates this a little: And the friend on the other side might not even notice you have been watching. The algorithm creates an illusion of contact.",
+            "zh": "真實生活會把這件事弄得複雜一點：而另一邊的朋友可能甚至沒有注意到你一直在看。演算法製造了接觸的幻覺。"
           },
           {
             "speaker": "b",
@@ -1402,8 +1402,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The difference between \"I liked your photo\" and \"I saw your photo and thought about you all day\" is enormous.",
-            "zh": "大致上是。「我按了你的照片讚」和「我看到你的照片想了你一整天」之間的差距是巨大的。"
+            "en": "Largely, yes. The difference between \"I liked your photo\" and \"I saw your photo and thought about you all day\" is enormous.",
+            "zh": "多半是。「我按了你的照片讚」和「我看到你的照片想了你一整天」之間的差距是巨大的。"
           },
           {
             "speaker": "b",
@@ -1988,8 +1988,8 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the part worth practicing. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
-            "zh": "這部分最值得拿來練習。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
+            "en": "That is the muscle to train. You do not have to pretend the difference is not there. You just have to show you are willing to sit with it without turning it into a fight.",
+            "zh": "要練的就是這塊肌肉。你不必假裝差異不存在。你只需要表現出你願意和它共存，而不是把它變成戰鬥。"
           },
           {
             "speaker": "b",
@@ -2029,13 +2029,13 @@ export const WEEK_11: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And once you see that, your own assumptions become more visible and easier to question.",
+            "en": "Exactly. And once you see that, your own assumptions become more visible and easier to question.",
             "zh": "沒錯。而一旦你看到這個，你自己的假設變得更可見，也更容易被質疑。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds uncomfortable in a valuable way.",
+            "en": "Fair enough. It sounds uncomfortable in a valuable way.",
             "zh": "那聽起來是一種有價值的不舒服。"
           },
           {

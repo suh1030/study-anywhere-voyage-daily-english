@@ -507,8 +507,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Light exposure also matters — try to get bright light in the morning and dim the lights in the evening. That helps reset your circadian rhythm.",
-            "zh": "大致上是。光線也很關鍵——早上盡量照到明亮的光，晚上把燈調暗。這對重設生理時鐘很有幫助。"
+            "en": "For the most part, yes. Light exposure also matters — try to get bright light in the morning and dim the lights in the evening. That helps reset your circadian rhythm.",
+            "zh": "大部分情況是這樣。光線也很關鍵——早上盡量照到明亮的光，晚上把燈調暗。這對重設生理時鐘很有幫助。"
           },
           {
             "speaker": "b",
@@ -1310,7 +1310,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. And mornings tend to amplify that — because there is a whole day ahead that the brain wants to start solving before you have even had breakfast.",
+            "en": "That's right. And mornings tend to amplify that — because there is a whole day ahead that the brain wants to start solving before you have even had breakfast.",
             "zh": "就是這樣。而早晨會把這件事放大——因為一整天都還在前面等著，大腦恨不得在你吃早餐之前就把它全部解決掉。"
           }
         ]
@@ -1966,7 +1966,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The antidote is to look for a reset point — a moment in the day where you can start fresh. It does not have to be in the morning. A mindful lunch, a five-minute walk at two p.m. — these can reset the emotional tone.",
+            "en": "Pretty much. The antidote is to look for a reset point — a moment in the day where you can start fresh. It does not have to be in the morning. A mindful lunch, a five-minute walk at two p.m. — these can reset the emotional tone.",
             "zh": "差不多是這樣。解方是幫自己找一個重置點——這一天裡任何一個能重新開始的時刻。不一定要在早上。專心吃一頓午餐、下午兩點出去走五分鐘，都可以把情緒重新歸零。"
           },
           {

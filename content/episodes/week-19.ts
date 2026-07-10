@@ -132,7 +132,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear without sounding fake.",
+            "en": "I get that. It sounds clear without sounding fake.",
             "zh": "這句聽起來很清楚，可是又不會假假的。"
           },
           {
@@ -448,7 +448,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds natural and specific.",
+            "en": "Right. It sounds natural and specific.",
             "zh": "這句聽起來很自然，而且很具體。"
           },
           {
@@ -466,8 +466,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A good intro should give context before detail.",
-            "zh": "大致上是。好的自我介紹，應該先給脈絡，再補細節。"
+            "en": "Pretty much. A good intro should give context before detail.",
+            "zh": "差不多可以這樣說。好的自我介紹，應該先給脈絡，再補細節。"
           },
           {
             "speaker": "b",
@@ -712,7 +712,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Some people need impact. Some need stability. Some need to feel they are good at what they do.",
+            "en": "Right. Some people need impact. Some need stability. Some need to feel they are good at what they do.",
             "zh": "沒錯。有些人需要影響力，有些人需要穩定，有些人只是需要感覺自己真的擅長正在做的事。"
           },
           {
@@ -812,7 +812,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more answerable.",
+            "en": "True. It sounds much more answerable.",
             "zh": "這樣聽起來真的比較答得出來。"
           },
           {
@@ -1034,14 +1034,14 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more concrete than just saying, 'Please be more accountable.'",
+            "en": "That makes sense to me. It sounds much more concrete than just saying, 'Please be more accountable.'",
             "zh": "這真的比只說「大家要更有責任感」具體太多了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would pay attention to this: Good teams also loop someone in before the problem becomes expensive.",
-            "zh": "這一點我會特別留意：好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。"
+            "en": "This deserves a second look: Good teams also loop someone in before the problem becomes expensive.",
+            "zh": "這裡值得多看一眼：好的團隊也會在問題變得很昂貴之前，就先把該進來的人拉進來。"
           },
           {
             "speaker": "b",
@@ -1075,7 +1075,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds direct, but not dramatic.",
+            "en": "I hear you. It sounds direct, but not dramatic.",
             "zh": "這句很直接，可是又不會太戲劇化。"
           },
           {
@@ -1093,8 +1093,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. If you own the mistake clearly, people spend less time guessing whether they can trust you.",
-            "zh": "大致上是。當你把錯誤認得夠清楚，別人就不用花那麼多時間猜他還能不能信任你。"
+            "en": "Largely, yes. If you own the mistake clearly, people spend less time guessing whether they can trust you.",
+            "zh": "多半是。當你把錯誤認得夠清楚，別人就不用花那麼多時間猜他還能不能信任你。"
           },
           {
             "speaker": "b",
@@ -1140,7 +1140,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds basic, but it is exactly the part teams skip when they are rushing.",
+            "en": "Good point. It sounds basic, but it is exactly the part teams skip when they are rushing.",
             "zh": "這聽起來很基本，可是偏偏就是團隊一趕起來最容易跳過的部分。"
           },
           {
@@ -1303,7 +1303,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. A good explanation of a career pivot starts with the connecting skill, not the chronological list.",
+            "en": "Precisely. A good explanation of a career pivot starts with the connecting skill, not the chronological list.",
             "zh": "沒錯。好的轉職說明，應該先從串起這些工作的能力開始講，而不是先照時間順序背一遍。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much better than my old version.",
+            "en": "I like that. It sounds so much better than my old version.",
             "zh": "這真的比我以前的版本好太多了。"
           },
           {
@@ -1614,8 +1614,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "There is one quiet detail here: That is why job loss or role change can hit the sense of self, not just the schedule.",
-            "zh": "這裡有個不起眼但重要的細節：這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。"
+            "en": "A low-key detail deserves attention: That is why job loss or role change can hit the sense of self, not just the schedule.",
+            "zh": "有個低調的細節值得注意：這也是為什麼失去工作或角色改變，打到的不只是行程表，還會打到自我感。"
           },
           {
             "speaker": "b",
@@ -1649,7 +1649,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds obvious when you say it, but it is not how most people live.",
+            "en": "That tracks. It sounds obvious when you say it, but it is not how most people live.",
             "zh": "你這樣講好像很 obvious，可是大部分人根本不是這樣活的。"
           },
           {
@@ -1667,8 +1667,8 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. That is why it matters to build something outside of work that also holds you.",
-            "zh": "大致上是。這也是為什麼你需要在工作之外，也建立一些能接住你的東西。"
+            "en": "In most cases, yes. That is why it matters to build something outside of work that also holds you.",
+            "zh": "多數情況下是。這也是為什麼你需要在工作之外，也建立一些能接住你的東西。"
           },
           {
             "speaker": "b",
@@ -1702,7 +1702,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but strong.",
+            "en": "Fair enough. It sounds simple, but strong.",
             "zh": "這句很簡單，可是很有力量。"
           },
           {

@@ -245,7 +245,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more realistic than becoming perfect overnight.",
+            "en": "True. It sounds more realistic than becoming perfect overnight.",
             "zh": "這聽起來比一夜之間變完美現實多了。"
           },
           {
@@ -777,8 +777,8 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: That kind of line tells the other person you are with them, not cross-examining them.",
-            "zh": "這件事比表面上看起來更重要：這種句子會讓對方知道，你是在跟他站在一起，不是在盤問他。"
+            "en": "Do not let this one slide past: That kind of line tells the other person you are with them, not cross-examining them.",
+            "zh": "別讓這一點溜過去：這種句子會讓對方知道，你是在跟他站在一起，不是在盤問他。"
           },
           {
             "speaker": "b",
@@ -993,7 +993,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds wise and deeply annoying.",
+            "en": "That makes sense to me. It sounds wise and deeply annoying.",
             "zh": "這聽起來很有智慧，但也讓人很煩。"
           },
           {
@@ -1052,8 +1052,8 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. It keeps the conversation connected while you bring in tension.",
-            "zh": "大致上是。你是在把張力帶進來的同時，也把連結留住。"
+            "en": "Pretty much. It keeps the conversation connected while you bring in tension.",
+            "zh": "差不多可以這樣說。你是在把張力帶進來的同時，也把連結留住。"
           }
         ]
       },
@@ -1176,7 +1176,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like emotional maturity, not just language skill.",
+            "en": "I understand why people feel that. It does feel like emotional maturity, not just language skill.",
             "zh": "這聽起來比較像情緒成熟，不只是語言技巧。"
           },
           {
@@ -1386,7 +1386,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much healthier than silently spiraling for an hour.",
+            "en": "I hear you. It sounds much healthier than silently spiraling for an hour.",
             "zh": "這聽起來真的比默默腦補一個小時健康多了。"
           },
           {
@@ -1404,7 +1404,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Another useful line is, \"I think the tone got lost in text.\"",
+            "en": "Exactly. Another useful line is, \"I think the tone got lost in text.\"",
             "zh": "沒錯。另一句很好用的是：「我覺得語氣在文字裡跑掉了。」"
           },
           {
@@ -1516,7 +1516,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds calmer already.",
+            "en": "Good point. It sounds calmer already.",
             "zh": "光這樣想就已經平靜很多了。"
           },
           {
@@ -1720,8 +1720,8 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: If you want to help someone get specific, offer a few real directions instead of one narrow guess.",
-            "zh": "這裡可以做個很有用的區分：如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。"
+            "en": "It helps to separate two things: If you want to help someone get specific, offer a few real directions instead of one narrow guess.",
+            "zh": "把兩件事分開來看會更清楚：如果你想幫對方 get specific，就給幾個真實方向，而不是只丟一個很窄的猜測。"
           },
           {
             "speaker": "b",
@@ -1732,8 +1732,8 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. That kind of question makes reflection easier, not harder.",
-            "zh": "大致上是。這種問題會讓反思變得更容易，不是更難。"
+            "en": "Largely, yes. That kind of question makes reflection easier, not harder.",
+            "zh": "多半是。這種問題會讓反思變得更容易，不是更難。"
           }
         ]
       },
@@ -1989,7 +1989,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds steadier than trying to sound impressive.",
+            "en": "I like that. It sounds steadier than trying to sound impressive.",
             "zh": "這真的比硬要講得很厲害穩多了。"
           },
           {
@@ -2042,7 +2042,7 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more confident than apologizing for thirty seconds.",
+            "en": "That tracks. It sounds much more confident than apologizing for thirty seconds.",
             "zh": "這真的比先道歉三十秒有自信多了。"
           },
           {
@@ -2130,13 +2130,13 @@ export const WEEK_16: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would keep that sentence close. Keep it simple, keep it honest, and keep returning to the point.",
-            "zh": "這句話我會隨身帶著。Keep it simple，保持誠實，然後一直回到那個點上。"
+            "en": "That sentence is worth carrying around. Keep it simple, keep it honest, and keep returning to the point.",
+            "zh": "這句話值得帶在身上。Keep it simple，保持誠實，然後一直回到那個點上。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost possible.",
+            "en": "Fair enough. It sounds almost possible.",
             "zh": "這樣聽起來，這件事好像真的變得有可能了。"
           },
           {

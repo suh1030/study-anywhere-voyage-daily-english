@@ -132,7 +132,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds direct, but it still sounds human.",
+            "en": "Right. It sounds direct, but it still sounds human.",
             "zh": "這聽起來很直接，可是又還是很像人會說的話。"
           },
           {
@@ -191,8 +191,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. And I would name one behavior, not a whole personality.",
-            "zh": "大致上是。而且我會只指出一個行為，不會把對方整個人格一起判下去。"
+            "en": "More often than not, yes. And I would name one behavior, not a whole personality.",
+            "zh": "通常是這樣沒錯。而且我會只指出一個行為，不會把對方整個人格一起判下去。"
           },
           {
             "speaker": "b",
@@ -425,8 +425,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. A lot of conflict starts in the nervous system before it appears in language.",
-            "zh": "這一點值得記住。很多衝突其實先發生在神經系統裡，之後才進入語言。"
+            "en": "That is the takeaway here. A lot of conflict starts in the nervous system before it appears in language.",
+            "zh": "這就是這裡的重點。很多衝突其實先發生在神經系統裡，之後才進入語言。"
           }
         ]
       },
@@ -448,7 +448,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds so much better than, 'Why are you attacking me?'",
+            "en": "True. It sounds so much better than, 'Why are you attacking me?'",
             "zh": "這聽起來真的比「你幹嘛攻擊我？」好太多了。"
           },
           {
@@ -759,7 +759,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds firm, but not aggressive.",
+            "en": "That makes sense to me. It sounds firm, but not aggressive.",
             "zh": "這聽起來很堅定，可是不攻擊。"
           },
           {
@@ -883,8 +883,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "What often gets hidden is this: Healthy disagreement lets both clarity and care stay in the room.",
-            "zh": "有件事常常藏在檯面下：健康的不同意，會讓清楚和在乎同時留在現場。"
+            "en": "The quiet part is this: Healthy disagreement lets both clarity and care stay in the room.",
+            "zh": "沒被說出口的部分是這個：健康的不同意，會讓清楚和在乎同時留在現場。"
           },
           {
             "speaker": "b",
@@ -1356,7 +1356,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Respect needs information. People cannot honor limits they have never been told about.",
+            "en": "Exactly. Respect needs information. People cannot honor limits they have never been told about.",
             "zh": "完全正確。尊重需要資訊。你沒說過的限制，別人其實無法好好尊重。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much better than apologizing for having a limit.",
+            "en": "I hear you. It sounds much better than apologizing for having a limit.",
             "zh": "這真的比為了自己有界線而先道歉好多了。"
           },
           {
@@ -1456,7 +1456,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds less magical and more practical.",
+            "en": "Good point. It sounds less magical and more practical.",
             "zh": "這聽起來就比較不魔法，反而比較實際。"
           },
           {
@@ -1707,7 +1707,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds patient, which is rare when people feel guilty.",
+            "en": "I like that. It sounds patient, which is rare when people feel guilty.",
             "zh": "這句聽起來很有耐心，而人在愧疚的時候通常很少這樣。"
           },
           {
@@ -1772,7 +1772,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but not easy.",
+            "en": "That tracks. It sounds simple, but not easy.",
             "zh": "這聽起來很簡單，可是真的不容易。"
           },
           {
@@ -1825,7 +1825,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds more honest than trying to start over like the past never happened.",
+            "en": "Fair enough. It sounds more honest than trying to start over like the past never happened.",
             "zh": "這比假裝重新來過、好像過去根本沒發生過，誠實太多了。"
           },
           {
@@ -1843,8 +1843,8 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Hope with receipts is what trust looks like after a fight.",
-            "zh": "大致上是。帶著憑據的希望，就是吵過架之後信任會長成的樣子。"
+            "en": "For the most part, yes. Hope with receipts is what trust looks like after a fight.",
+            "zh": "大部分情況是這樣。帶著憑據的希望，就是吵過架之後信任會長成的樣子。"
           }
         ]
       }
@@ -2142,7 +2142,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. The point is not to love conflict. The point is to use it well.",
+            "en": "That's right. The point is not to love conflict. The point is to use it well.",
             "zh": "完全沒錯。重點不是愛上衝突，而是把衝突用好。"
           },
           {

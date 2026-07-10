@@ -32,13 +32,13 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Style drift happens when people copy what they admire before they trust what naturally comes out of them.",
+            "en": "Right. Style drift happens when people copy what they admire before they trust what naturally comes out of them.",
             "zh": "完全沒錯。風格漂移常常發生在：人先學著複製自己欣賞的東西，卻還沒開始信任自己自然長出的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds uncomfortably true.",
+            "en": "Right. It sounds uncomfortably true.",
             "zh": "這真的準到有點不舒服。"
           },
           {
@@ -103,7 +103,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds difficult but necessary.",
+            "en": "True. It sounds difficult but necessary.",
             "zh": "這真的聽起來又難又必要。"
           },
           {
@@ -132,7 +132,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest and not too dramatic.",
+            "en": "That makes sense to me. It sounds honest and not too dramatic.",
             "zh": "這句聽起來很誠實，也不會太戲劇化。"
           },
           {
@@ -197,7 +197,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a useful reminder.",
+            "en": "I see why that rings true. It does feel like a useful reminder.",
             "zh": "這真的是很有用的提醒。"
           },
           {
@@ -209,7 +209,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very right.",
+            "en": "I hear you. It sounds very right.",
             "zh": "這真的很對。"
           },
           {
@@ -611,8 +611,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "What often gets hidden is this: Narrative order helps when life feels messy, because sequence can create relief.",
-            "zh": "有件事常常藏在檯面下：當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
+            "en": "Here is what usually stays invisible: Narrative order helps when life feels messy, because sequence can create relief.",
+            "zh": "通常看不見的是這個：當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
           },
           {
             "speaker": "b",
@@ -664,8 +664,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
-            "zh": "大致上是。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。"
+            "en": "More often than not, yes. Human pattern matters because people want to know their pain, hope, and confusion are not meaningless accidents.",
+            "zh": "通常是這樣沒錯。人類模式很重要，因為人想知道自己的痛、希望和混亂，不只是毫無意義的意外。"
           },
           {
             "speaker": "b",
@@ -682,7 +682,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds bigger than entertainment.",
+            "en": "Good point. It sounds bigger than entertainment.",
             "zh": "這真的比娛樂大多了。"
           },
           {
@@ -711,7 +711,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear and useful.",
+            "en": "I like that. It sounds clear and useful.",
             "zh": "這句聽起來很清楚，也很實用。"
           },
           {
@@ -735,7 +735,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds easy to carry into daily speech.",
+            "en": "That tracks. It sounds easy to carry into daily speech.",
             "zh": "這句真的很好用。"
           },
           {
@@ -986,7 +986,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds useful even outside design work.",
+            "en": "Fair enough. It sounds useful even outside design work.",
             "zh": "這真的就算放在設計之外也很有用。"
           },
           {
@@ -1243,7 +1243,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Music memory is powerful because a melody can reopen a whole emotional world in seconds.",
+            "en": "Precisely. Music memory is powerful because a melody can reopen a whole emotional world in seconds.",
             "zh": "完全沒錯。音樂記憶很強，因為一段旋律幾秒內就能重新打開整個情緒世界。"
           },
           {
@@ -1408,7 +1408,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost therapeutic.",
+            "en": "I get that. It sounds almost therapeutic.",
             "zh": "這真的有點像治療。"
           },
           {
@@ -1654,7 +1654,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very real.",
+            "en": "Right. It sounds very real.",
             "zh": "這句真的很真。"
           },
           {
@@ -1713,8 +1713,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This is where real life gets messier: Language precision grows better in steady practice than in emotional intensity alone.",
-            "zh": "現實通常比這再亂一點：語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
+            "en": "Real life complicates this a little: Language precision grows better in steady practice than in emotional intensity alone.",
+            "zh": "真實生活會把這件事弄得複雜一點：語言精準度比較能在穩定練習裡長出來，不只是靠情緒強度。"
           },
           {
             "speaker": "b",
@@ -2047,7 +2047,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a life I would rather live.",
+            "en": "I get why it feels that way. It does feel like a life I would rather live.",
             "zh": "這真的比較像我想過的人生。"
           },
           {

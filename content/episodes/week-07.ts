@@ -884,7 +884,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like exposure therapy for weather aversion. But I get it — actually experiencing it instead of just enduring it.",
+            "en": "I get why it feels that way. It does feel like exposure therapy for weather aversion. But I get it — actually experiencing it instead of just enduring it.",
             "zh": "聽起來像在做「怕天氣」的減敏訓練。但我懂你的意思——是去體驗它，而不是咬牙忍它。"
           },
           {
@@ -1345,7 +1345,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds terrifying. What did you do?",
+            "en": "I hear you. It sounds terrifying. What did you do?",
             "zh": "光聽就覺得可怕。那你怎麼辦？"
           },
           {
@@ -1614,7 +1614,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. So cold weather date activities — ice skating, hot cocoa by the heater — work partly because of shared physical sensation.",
+            "en": "Right. So cold weather date activities — ice skating, hot cocoa by the heater — work partly because of shared physical sensation.",
             "zh": "沒錯。所以冬天的約會行程——溜冰、窩在暖爐邊喝熱可可——會有效，一部分就是因為那種共同的身體感受。"
           },
           {
@@ -2119,7 +2119,7 @@ export const WEEK_07: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds incredibly atmospheric. Cold and moody and ancient.",
+            "en": "Good point. It sounds incredibly atmospheric. Cold and moody and ancient.",
             "zh": "光用想的就超有氛圍。又冷冽、又憂鬱、又古老。"
           },
           {

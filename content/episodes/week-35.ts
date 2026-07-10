@@ -460,7 +460,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very natural. What about asking someone to hold off on sending messages?",
+            "en": "I get that. It sounds very natural. What about asking someone to hold off on sending messages?",
             "zh": "這聽起來非常自然。如果要請人暫時不要傳訊息怎麼說？"
           },
           {
@@ -789,8 +789,8 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A small thing matters here: When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
-            "zh": "有個小地方其實很關鍵：當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
+            "en": "Do not skip the small detail: When you talk about tech choices in English, the clearer your reasoning is, the more confident you sound.",
+            "zh": "別跳過這個小細節：當你用英文談科技選擇時，你的推理越清楚，你聽起來就越有自信。"
           }
         ]
       },
@@ -1719,7 +1719,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful, not defensive.",
+            "en": "Right. It sounds thoughtful, not defensive.",
             "zh": "這聽起來很有考慮，不是在防衛。"
           },
           {
@@ -1942,7 +1942,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
+            "en": "Precisely. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
             "zh": "沒錯，關於你行為的資料不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。"
           }
         ]

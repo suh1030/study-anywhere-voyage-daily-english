@@ -32,7 +32,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Desire gets layered over by fear, duty, ambition, comparison, and survival thinking.",
+            "en": "Right. Desire gets layered over by fear, duty, ambition, comparison, and survival thinking.",
             "zh": "沒錯。人的渴望很容易被恐懼、責任感、野心、比較和生存思維一層層蓋住。"
           },
           {
@@ -396,13 +396,13 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I would pay attention to this: Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
-            "zh": "這一點我會特別留意：另一個問題是：每一次挫折都會變得像身份崩潰，因為那個目標扛了太多整個人生故事。"
+            "en": "This deserves a second look: Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
+            "zh": "這裡值得多看一眼：另一個問題是：每一次挫折都會變得像身份崩潰，因為那個目標扛了太多整個人生故事。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds emotionally dangerous.",
+            "en": "Good point. It sounds emotionally dangerous.",
             "zh": "這在情緒上聽起來很危險。"
           },
           {
@@ -502,8 +502,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
-            "zh": "大致上是。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。"
+            "en": "Pretty much. Once the bigger picture becomes visible, the smaller daily practice stops feeling random.",
+            "zh": "差不多可以這樣說。一旦那個更大的圖像變得看得見，小小的日常練習就不再顯得那麼隨機。"
           },
           {
             "speaker": "b",
@@ -759,8 +759,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "That gives the whole thing a shape.",
+            "zh": "這讓整件事有了輪廓。"
           },
           {
             "speaker": "a",
@@ -818,7 +818,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Good systems do not pretend you are a different person. They work with the person you actually are.",
+            "en": "Precisely. Good systems do not pretend you are a different person. They work with the person you actually are.",
             "zh": "沒錯。好的系統不會假裝你是另一種人，它會和你真正是誰一起工作。"
           },
           {
@@ -1286,8 +1286,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
-            "zh": "大致上是。事情真的發生了，而韌性是一邊尊重那個 impact，一邊仍然找回往前走的路。"
+            "en": "Largely, yes. Something did happen, and resilience includes respecting the impact while still finding a path forward.",
+            "zh": "多半是。事情真的發生了，而韌性是一邊尊重那個 impact，一邊仍然找回往前走的路。"
           },
           {
             "speaker": "b",
@@ -1386,7 +1386,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest and strong at the same time.",
+            "en": "I like that. It sounds honest and strong at the same time.",
             "zh": "這句同時很誠實，也很有力。"
           },
           {
@@ -1608,8 +1608,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That maps well onto the actual experience.",
-            "zh": "這很貼合真實的感受。"
+            "en": "That fits the actual experience really well.",
+            "zh": "這跟實際的體驗很吻合。"
           },
           {
             "speaker": "a",
@@ -1702,7 +1702,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds very adult.",
+            "en": "That tracks. It sounds very adult.",
             "zh": "這句很成熟。"
           },
           {
@@ -1919,7 +1919,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds less exciting, but probably more true.",
+            "en": "Fair enough. It sounds less exciting, but probably more true.",
             "zh": "這聽起來比較不令人興奮，但大概更真。"
           },
           {
@@ -1972,8 +1972,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That distinction makes things clearer.",
-            "zh": "這個區別讓事情清楚多了。"
+            "en": "Suddenly it sounds manageable.",
+            "zh": "突然覺得沒那麼難了。"
           },
           {
             "speaker": "a",
@@ -2137,8 +2137,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. It says hope does not only live in vision. It also lives in preparation.",
-            "zh": "大致上是。它像是在說：希望不只活在想像裡，也活在準備裡。"
+            "en": "In most cases, yes. It says hope does not only live in vision. It also lives in preparation.",
+            "zh": "多數情況下是。它像是在說：希望不只活在想像裡，也活在準備裡。"
           },
           {
             "speaker": "b",

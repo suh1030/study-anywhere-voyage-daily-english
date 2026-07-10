@@ -1607,7 +1607,7 @@ export const WEEK_06: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A chef who combines Taiwanese and Japanese flavors successfully probably knows both cuisines inside out.",
+            "en": "For the most part, yes. A chef who combines Taiwanese and Japanese flavors successfully probably knows both cuisines inside out.",
             "zh": "差不多是這樣。能把台味和日式風味結合得漂亮的主廚，八成對兩種菜系都瞭若指掌。"
           },
           {

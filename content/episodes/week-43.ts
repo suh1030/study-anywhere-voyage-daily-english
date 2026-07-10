@@ -132,7 +132,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds easy to say aloud.",
+            "en": "That tracks. It sounds easy to say aloud.",
             "zh": "這句很適合直接說出口。"
           },
           {
@@ -238,7 +238,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds gentler than the word closure usually does.",
+            "en": "Fair enough. It sounds gentler than the word closure usually does.",
             "zh": "這真的比大家平常講的 closure 溫柔很多。"
           },
           {
@@ -513,7 +513,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds kinder and also more useful.",
+            "en": "I get that. It sounds kinder and also more useful.",
             "zh": "這真的比較溫柔，也更有用。"
           },
           {
@@ -723,7 +723,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds true in a way I can feel immediately.",
+            "en": "Right. It sounds true in a way I can feel immediately.",
             "zh": "這真的有一種我一聽就能感覺到的真。"
           },
           {
@@ -764,7 +764,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful and true.",
+            "en": "True. It sounds thoughtful and true.",
             "zh": "這句聽起來很有思考，也很真。"
           },
           {
@@ -993,8 +993,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "That sounds like something I could actually do.",
+            "zh": "這聽起來是我真的做得到的事。"
           },
           {
             "speaker": "a",
@@ -1075,7 +1075,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple and powerful.",
+            "en": "That makes sense to me. It sounds simple and powerful.",
             "zh": "這句很簡單，但很有力量。"
           },
           {
@@ -1181,7 +1181,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds generous in every direction.",
+            "en": "I hear you. It sounds generous in every direction.",
             "zh": "這真的對每一邊都很寬厚。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds balanced and very human.",
+            "en": "Good point. It sounds balanced and very human.",
             "zh": "這句聽起來很平衡，也很像人。"
           },
           {
@@ -1456,7 +1456,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much kinder than positive thinking.",
+            "en": "I like that. It sounds much kinder than positive thinking.",
             "zh": "這真的比正向思考溫柔太多了。"
           },
           {
@@ -1707,7 +1707,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds clear without being dramatic.",
+            "en": "That tracks. It sounds clear without being dramatic.",
             "zh": "這句很清楚，但不會很戲劇化。"
           },
           {
@@ -1941,8 +1941,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That distinction makes things clearer.",
-            "zh": "這個區別讓事情清楚多了。"
+            "en": "That actually helps.",
+            "zh": "這真的有幫助。"
           },
           {
             "speaker": "a",
@@ -1982,7 +1982,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more realistic than a dramatic reset.",
+            "en": "Fair enough. It sounds much more realistic than a dramatic reset.",
             "zh": "這真的比那種戲劇化重啟現實得多。"
           },
           {
@@ -2124,7 +2124,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds surprisingly peaceful.",
+            "en": "I get that. It sounds surprisingly peaceful.",
             "zh": "這真的意外地平靜。"
           },
           {

@@ -20,7 +20,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. A core value is easy to praise in public and much harder to protect when the choice becomes expensive.",
+            "en": "Precisely. A core value is easy to praise in public and much harder to protect when the choice becomes expensive.",
             "zh": "沒錯。核心價值在公開場合很好稱讚，但一旦選擇變得有代價，要保住它就難得多。"
           },
           {
@@ -132,7 +132,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds calm and real.",
+            "en": "I hear you. It sounds calm and real.",
             "zh": "這句聽起來很平靜，也很真實。"
           },
           {
@@ -197,7 +197,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds heavier than I expected.",
+            "en": "Good point. It sounds heavier than I expected.",
             "zh": "這真的比我原本想的還重。"
           },
           {
@@ -448,7 +448,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds reflective without sounding dramatic.",
+            "en": "I like that. It sounds reflective without sounding dramatic.",
             "zh": "這句聽起來有反思，但不會太戲劇化。"
           },
           {
@@ -507,8 +507,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. A chosen principle carries more strength when it is made consciously, not just copied automatically.",
-            "zh": "大致上是。當一條原則是有意識地選出來的，而不是自動複製下來的，它通常會更有力量。"
+            "en": "Pretty much. A chosen principle carries more strength when it is made consciously, not just copied automatically.",
+            "zh": "差不多可以這樣說。當一條原則是有意識地選出來的，而不是自動複製下來的，它通常會更有力量。"
           },
           {
             "speaker": "b",
@@ -759,7 +759,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful and not too dramatic.",
+            "en": "That tracks. It sounds thoughtful and not too dramatic.",
             "zh": "這句聽起來很有反思，也不會太戲劇化。"
           },
           {
@@ -836,7 +836,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a much kinder way to learn.",
+            "en": "I can see the logic. It does feel like a much kinder way to learn.",
             "zh": "這真的聽起來是更溫柔的學習方式。"
           },
           {
@@ -1040,8 +1040,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right — and that's the version that holds up.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "en": "I can hear myself saying that.",
+            "zh": "我可以想像自己講這句話。"
           },
           {
             "speaker": "b",
@@ -1075,7 +1075,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple and strong.",
+            "en": "Fair enough. It sounds simple and strong.",
             "zh": "這句聽起來很簡單，也很有力。"
           },
           {
@@ -1181,7 +1181,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds less glamorous than people expect, but more solid.",
+            "en": "I get that. It sounds less glamorous than people expect, but more solid.",
             "zh": "這真的比很多人想像的少了點光彩，卻更扎實。"
           },
           {
@@ -1391,7 +1391,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds firm without being cold.",
+            "en": "Right. It sounds firm without being cold.",
             "zh": "這句很堅定，但不會冷。"
           },
           {
@@ -1608,7 +1608,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds stronger than just saying, \"I do not like this.\"",
+            "en": "True. It sounds stronger than just saying, \"I do not like this.\"",
             "zh": "這真的比單純說「我不喜歡這樣」還強很多。"
           },
           {
@@ -1655,8 +1655,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Self-betrayal rarely feels dramatic in the moment. It feels like one more thing you will tolerate this time.",
-            "zh": "大致上是。自我背叛在當下很少是戲劇性的，它比較像「這次再忍一下好了」那種感覺。"
+            "en": "Largely, yes. Self-betrayal rarely feels dramatic in the moment. It feels like one more thing you will tolerate this time.",
+            "zh": "多半是。自我背叛在當下很少是戲劇性的，它比較像「這次再忍一下好了」那種感覺。"
           },
           {
             "speaker": "b",
@@ -1702,7 +1702,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds honest and serious.",
+            "en": "That makes sense to me. It sounds honest and serious.",
             "zh": "這句聽起來很誠實，也很認真。"
           },
           {
@@ -1808,7 +1808,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a trade worth making.",
+            "en": "I understand why people feel that. It does feel like a trade worth making.",
             "zh": "這真的聽起來像一個值得的交換。"
           },
           {
@@ -1924,8 +1924,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "That takes the pressure off.",
+            "zh": "這讓壓力小多了。"
           },
           {
             "speaker": "a",
@@ -1977,8 +1977,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "It sounds obvious now that you say it.",
+            "zh": "你一說出來就覺得理所當然了。"
           },
           {
             "speaker": "a",
@@ -2018,7 +2018,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds thoughtful right away.",
+            "en": "I hear you. It sounds thoughtful right away.",
             "zh": "這句一聽就很有思考感。"
           },
           {
@@ -2077,14 +2077,14 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. A thoughtful filter only works if a person is willing to disappoint some noise in order to stay loyal to what matters.",
+            "en": "Exactly. A thoughtful filter only works if a person is willing to disappoint some noise in order to stay loyal to what matters.",
             "zh": "完全沒錯。只有當一個人願意讓一些雜音失望，好對真正重要的東西保持忠誠時，那個內在過濾器才會真的有用。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the whole approach changes once you see it that way.",
-            "zh": "一旦這樣看，整個做法都跟著變了。"
+            "en": "That is a better handle on it.",
+            "zh": "這樣抓這件事順手多了。"
           },
           {
             "speaker": "a",
@@ -2124,8 +2124,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "Good — that gives me somewhere to start.",
+            "zh": "很好，這給了我一個起點。"
           },
           {
             "speaker": "a",

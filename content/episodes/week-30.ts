@@ -32,7 +32,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Books often represent attention before they represent progress.",
+            "en": "That's right. Books often represent attention before they represent progress.",
             "zh": "完全沒錯。書很多時候先代表的是注意力，之後才代表進度。"
           },
           {
@@ -132,7 +132,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but it really gets the point.",
+            "en": "I get that. It sounds simple, but it really gets the point.",
             "zh": "這句很簡單，可是真的有抓到重點。"
           },
           {
@@ -238,7 +238,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a lot more than a hobby.",
+            "en": "I see why that rings true. It does feel like a lot more than a hobby.",
             "zh": "這聽起來遠遠不只是嗜好。"
           },
           {
@@ -401,8 +401,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "This matters more than it first seems: Reading invites contemplation instead of constant reaction.",
-            "zh": "這件事比表面上看起來更重要：閱讀會邀請你進入沉思，而不是一直做反應。"
+            "en": "Do not let this one slide past: Reading invites contemplation instead of constant reaction.",
+            "zh": "別讓這一點溜過去：閱讀會邀請你進入沉思，而不是一直做反應。"
           },
           {
             "speaker": "b",
@@ -413,20 +413,20 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. The movement is often internal. Reading gives that interior motion somewhere to keep unfolding.",
-            "zh": "對。那個動通常是在裡面發生。閱讀會給內在的移動一個可以繼續展開的地方。"
+            "en": "Yes. The action is happening inside you. A book gives that inner shift time and room to keep going.",
+            "zh": "對。那個動是在你心裡發生的。書會給那個內在的變化足夠的時間和空間，讓它繼續走下去。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That maps well onto the actual experience.",
+            "en": "That matches how it actually feels.",
             "zh": "這很貼合真實的感受。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It is, which is why reading can feel almost rebellious now. Rebuilding reading stamina is part of that resistance.",
-            "zh": "真的差很多，所以現在閱讀有時候甚至會讓人覺得有點反叛。而把閱讀耐力慢慢養回來，也正是那種抵抗的一部分。"
+            "en": "It really does. That may be why reading feels almost rebellious now — and rebuilding your reading stamina is part of that quiet resistance.",
+            "zh": "真的很貼。這可能也是為什麼現在閱讀會讓人覺得有點反叛——而把閱讀耐力慢慢養回來，正是那種安靜抵抗的一部分。"
           }
         ]
       },
@@ -472,14 +472,14 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "That puts it into words for me.",
+            "zh": "這把我的感覺講成了具體的話。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Slow can be vivid when your attention is finally intact.",
-            "zh": "大致上是。當注意力終於完整時，慢其實會很鮮明。"
+            "en": "In most cases, yes. Slow can be vivid when your attention is finally intact.",
+            "zh": "多數情況下是。當注意力終於完整時，慢其實會很鮮明。"
           }
         ]
       },
@@ -549,7 +549,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds increasingly rare.",
+            "en": "Right. It sounds increasingly rare.",
             "zh": "這些能力聽起來越來越稀有了。"
           },
           {
@@ -724,8 +724,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That is the point to remember. When the promise is believable, your body stops bracing against it.",
-            "zh": "這一點值得記住。當那個承諾是真的可信的，你的身體就不會一直對它防備。"
+            "en": "If you keep one thing, keep that. When the promise is believable, your body stops bracing against it.",
+            "zh": "如果只記一件事，就記這個。當那個承諾是真的可信的，你的身體就不會一直對它防備。"
           },
           {
             "speaker": "b",
@@ -783,13 +783,13 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost physical, which makes it memorable.",
+            "en": "True. It sounds almost physical, which makes it memorable.",
             "zh": "這句聽起來很有身體感，所以很好記。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Habit language is strongest when it connects action to environment.",
+            "en": "Right. Habit language is strongest when it connects action to environment.",
             "zh": "完全沒錯。談習慣的語言，當它把行動和環境連起來時會最有力量。"
           }
         ]
@@ -842,7 +842,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I can see why you'd say that. It does feel like a smart beginning.",
+            "en": "I get why it feels that way. It does feel like a smart beginning.",
             "zh": "這聽起來就是一個很聰明的開始。"
           }
         ]
@@ -1034,8 +1034,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "Now it feels doable.",
+            "zh": "現在感覺做得到了。"
           },
           {
             "speaker": "a",
@@ -1052,8 +1052,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "A useful distinction is this: Choice deepens memory.",
-            "zh": "這裡可以做個很有用的區分：選擇會把記憶變深。"
+            "en": "It helps to separate two things: Choice deepens memory.",
+            "zh": "把兩件事分開來看會更清楚：選擇會把記憶變深。"
           }
         ]
       },
@@ -1181,7 +1181,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds bigger than emotional release.",
+            "en": "That makes sense to me. It sounds bigger than emotional release.",
             "zh": "這聽起來比情緒抒發還更大。"
           },
           {
@@ -1303,8 +1303,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. Writing is slow exposure to your own mind.",
-            "zh": "大致上是。寫作很像是慢速地把自己的腦攤在面前。"
+            "en": "That's mostly true. Writing is slow exposure to your own mind.",
+            "zh": "大致沒錯。寫作很像是慢速地把自己的腦攤在面前。"
           },
           {
             "speaker": "b",
@@ -1444,7 +1444,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exactly like my problem.",
+            "en": "I hear you. It sounds exactly like my problem.",
             "zh": "這真的就是我的問題。"
           },
           {
@@ -1497,7 +1497,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds almost physical.",
+            "en": "Good point. It sounds almost physical.",
             "zh": "這聽起來幾乎有身體感。"
           },
           {
@@ -1660,7 +1660,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Exactly right. Reading can create felt connection even in physical aloneness.",
+            "en": "Precisely. Reading can create felt connection even in physical aloneness.",
             "zh": "完全沒錯。就算身體上是一個人，閱讀也能創造一種有感的連結。"
           },
           {
@@ -1760,7 +1760,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds simple, but it feels radical now.",
+            "en": "I like that. It sounds simple, but it feels radical now.",
             "zh": "這聽起來很簡單，可是現在其實很激進。"
           },
           {
@@ -1843,8 +1843,8 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. They make being alone more livable and being human more legible.",
-            "zh": "大致上是。它會讓一個人獨處得比較住得下去，也讓做人這件事變得比較讀得懂。"
+            "en": "More often than not, yes. They make being alone more livable and being human more legible.",
+            "zh": "通常是這樣沒錯。它會讓一個人獨處得比較住得下去，也讓做人這件事變得比較讀得懂。"
           }
         ]
       }
@@ -1982,7 +1982,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a powerful combination.",
+            "en": "That's fair. It does feel like a powerful combination.",
             "zh": "這聽起來真的是一個很強的組合。"
           },
           {
@@ -2047,7 +2047,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds exactly right.",
+            "en": "That tracks. It sounds exactly right.",
             "zh": "這句真的很對。"
           },
           {
@@ -2088,7 +2088,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see that. It sounds much more realistic than the all-or-nothing version in my head.",
+            "en": "Fair enough. It sounds much more realistic than the all-or-nothing version in my head.",
             "zh": "這比我腦中的那種全有全無版本現實太多了。"
           },
           {

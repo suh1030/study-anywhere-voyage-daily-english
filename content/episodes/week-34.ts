@@ -20,8 +20,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "Good — that gives me somewhere to start.",
+            "zh": "很好，這給了我一個起點。"
           },
           {
             "speaker": "b",
@@ -361,8 +361,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "Right, and it's far more practical that way.",
-            "zh": "對，而且那樣實際很多。"
+            "en": "That reframing helps a lot.",
+            "zh": "這樣換個角度看，幫助很大。"
           },
           {
             "speaker": "a",
@@ -520,8 +520,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That maps well onto real conversations.",
-            "zh": "這個說法很貼合真實的對話。"
+            "en": "I keep circling that same point.",
+            "zh": "我自己也一直繞回這一點。"
           },
           {
             "speaker": "a",
@@ -718,8 +718,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That changes how I want to use it.",
-            "zh": "這改變了我想怎麼去用它。"
+            "en": "That line is worth stealing.",
+            "zh": "這句值得偷學起來。"
           },
           {
             "speaker": "a",
@@ -1152,8 +1152,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That reframes it in a helpful direction.",
-            "zh": "這把它換到了一個更有幫助的方向。"
+            "en": "That sounds like something I could actually do.",
+            "zh": "這聽起來是我真的做得到的事。"
           },
           {
             "speaker": "a",
@@ -1205,7 +1205,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like the right place to end.",
+            "en": "That's fair. It does feel like the right place to end.",
             "zh": "這聽起來就是很適合收尾的地方。"
           },
           {
@@ -1492,14 +1492,14 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like something worth building toward.",
+            "en": "I can see the logic. It does feel like something worth building toward.",
             "zh": "這聽起來真的很值得往那裡走。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Mostly, yes. The goal should be a stronger relationship with the body, not a more frightened one.",
-            "zh": "大致上是。目標應該是和身體建立更強的關係，不是更害怕的關係。"
+            "en": "More often than not, yes. The goal should be a stronger relationship with the body, not a more frightened one.",
+            "zh": "通常是這樣沒錯。目標應該是和身體建立更強的關係，不是更害怕的關係。"
           },
           {
             "speaker": "b",
@@ -1673,8 +1673,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That gives me a much clearer starting point.",
-            "zh": "這給了我一個更清楚的起點。"
+            "en": "That actually helps.",
+            "zh": "這真的有幫助。"
           },
           {
             "speaker": "a",
@@ -1767,8 +1767,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That's the kind of insight worth keeping.",
-            "zh": "這種洞察很值得留著。"
+            "en": "I'll remember that one.",
+            "zh": "這句我會記住。"
           },
           {
             "speaker": "a",
@@ -1906,8 +1906,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "So the whole approach changes once you see it that way.",
-            "zh": "一旦這樣看，整個做法都跟著變了。"
+            "en": "That puts it into words for me.",
+            "zh": "這把我的感覺講成了具體的話。"
           },
           {
             "speaker": "b",
@@ -2083,8 +2083,8 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the difference much easier to name.",
-            "zh": "這讓那個差異容易多了。"
+            "en": "Now it feels doable.",
+            "zh": "現在感覺做得到了。"
           },
           {
             "speaker": "a",
@@ -2124,7 +2124,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I can see why you'd say that. It does feel like a huge return.",
+            "en": "I understand why people feel that. It does feel like a huge return.",
             "zh": "這真的像很大的回報。"
           },
           {
