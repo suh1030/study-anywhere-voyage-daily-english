@@ -257,7 +257,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The best meetings do not feel productive because they are full. They feel productive because something real moved.",
-            "zh": "對。最好的會議不是因為排得很滿才顯得有效率，而是因為真的有東西往前動了。"
+            "zh": "對。最好的會議不是因為排得很滿才顯得有效率，是因為真的有東西往前動了。"
           },
           {
             "speaker": "b",
@@ -567,7 +567,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real gift of prep is not polish. It is stability.",
-            "zh": "所以準備真正帶來的禮物，不是漂亮，而是穩定。"
+            "zh": "所以準備真正帶來的禮物，不是漂亮，是穩定。"
           },
           {
             "speaker": "a",
@@ -878,7 +878,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the target is not to sound tougher. It is to sound clearer sooner.",
-            "zh": "所以目標不是讓自己聽起來更兇，而是更早、更清楚地講出來。"
+            "zh": "所以目標不是讓自己聽起來更兇，是更早、更清楚地講出來。"
           },
           {
             "speaker": "a",
@@ -982,7 +982,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the issue is not disagreement. It is how quickly it turns personal.",
-            "zh": "所以問題根本不是不同意，而是它有多快變成私人對抗。"
+            "zh": "所以問題根本不在不同意，而在它有多快變成私人對抗。"
           },
           {
             "speaker": "a",
@@ -1316,7 +1316,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly, yes. Meetings rarely fail at the exact moment they drift. The failure shows up when there is no time left for the real work.",
-            "zh": "大致上是。會議通常不是在偏掉的那一秒就宣告失敗，而是在最後真正重要的事情沒時間處理時才露出來。"
+            "zh": "大致上是。會議通常不是在偏掉的那一秒就宣告失敗，是在最後真正重要的事情沒時間處理時才露出來。"
           }
         ]
       },
@@ -1779,7 +1779,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Remote fatigue gets worse when people are not only thinking about content but also decoding the social rules.",
-            "zh": "完全沒錯。遠端疲勞會變得更嚴重，很多時候不是因為內容太多，而是因為大家還得一直解讀社交規則。"
+            "zh": "完全沒錯。遠端疲勞會變得更嚴重，很多時候不是因為內容太多，是因為大家還得一直解讀社交規則。"
           },
           {
             "speaker": "b",
@@ -1839,7 +1839,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is what you can actually use. Good remote participation is less about energy and more about signal.",
-            "zh": "這就是你真正用得上的部分。好的遠端參與，重點比較不是能量，而是訊號品質。"
+            "zh": "這就是你真正用得上的部分。好的遠端參與，重點比較不是能量，是訊號品質。"
           }
         ]
       }

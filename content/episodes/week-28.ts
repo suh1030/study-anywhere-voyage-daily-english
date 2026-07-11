@@ -491,7 +491,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually it is not perfection. It is whether the photo still carries a little movement, tension, or relationship inside it.",
-            "zh": "通常不是因為完美不完美，而是那張照片裡有沒有還帶著一點動勢、張力，或人與人之間的關係。"
+            "zh": "通常不是因為完美不完美，是那張照片裡有沒有還帶著一點動勢、張力，或人與人之間的關係。"
           },
           {
             "speaker": "b",
@@ -831,7 +831,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It also shows you that seeing is not a personality trait. It is a practice.",
-            "zh": "對，而且它也會讓你明白，看見不是人格特質，而是一種練習。"
+            "zh": "對，而且它也會讓你明白，看見不是人格特質，是一種練習。"
           },
           {
             "speaker": "b",
@@ -1780,7 +1780,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the answer is not disappearing forever. It is designing a healthier relationship to visibility. Is the simple version too simple?",
-            "zh": "所以答案不是永遠消失，而是去設計一個和曝光比較健康的關係。這樣講會不會太簡化了？"
+            "zh": "所以答案不是永遠消失，是去設計一個和曝光比較健康的關係。這樣講會不會太簡化了？"
           },
           {
             "speaker": "a",
@@ -1937,7 +1937,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — and that's the version that holds up.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "zh": "對，而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
@@ -2090,7 +2090,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is bigger than it looks: A good artistic life is not endless exposure. It is exposure with recovery.",
-            "zh": "這件事比看起來更有份量：好的藝術生活不是無止盡地暴露自己，而是有恢復能力的暴露。"
+            "zh": "這件事比看起來更有份量：好的藝術生活不是無止盡地暴露自己，是有恢復能力的暴露。"
           },
           {
             "speaker": "b",

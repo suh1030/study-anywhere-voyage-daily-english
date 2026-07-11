@@ -233,7 +233,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not instant confidence. Usually it asks for patience, honesty, and enough flexibility to stay in relationship with yourself.",
-            "zh": "它要求的通常不是立刻有自信，而是耐心、誠實，還有足夠的彈性，讓你不要和自己失去關係。"
+            "zh": "它要求的通常不是立刻有自信，是耐心、誠實，還有足夠的彈性，讓你不要和自己失去關係。"
           },
           {
             "speaker": "b",
@@ -712,7 +712,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the confusion is not random. It is structural. But does that leave anything out?",
-            "zh": "所以那種混亂不是隨機的，而是有結構的。 不過這樣講會不會漏掉了什麼？"
+            "zh": "所以那種混亂不是隨機的，是有結構的。 不過這樣講會不會漏掉了什麼？"
           },
           {
             "speaker": "a",
@@ -1135,7 +1135,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. A learning curve feels less humiliating when you remember you are not a child beginner. You are an experienced beginner.",
-            "zh": "完全沒錯。當你記得自己不是孩童式新手，而是有經驗的新手時，學習曲線就沒那麼羞辱人。"
+            "zh": "完全沒錯。當你記得自己不是孩童式新手，是有經驗的新手時，學習曲線就沒那麼羞辱人。"
           },
           {
             "speaker": "b",
@@ -1220,7 +1220,7 @@ export const WEEK_40: Episode[] = [
     "keyPhrases": [
       {
         "en": "midlife restart",
-        "zh": "不是從零歲開始，而是在已有很多經驗後重新開啟的新起點",
+        "zh": "不是從零歲開始，是在已有很多經驗後重新開啟的新起點",
         "example": "Her midlife restart felt terrifying and alive at the same time."
       },
       {
@@ -1235,7 +1235,7 @@ export const WEEK_40: Episode[] = [
       },
       {
         "en": "second beginning",
-        "zh": "不是第一人生，而是帶著前面經驗重新展開的另一個開始",
+        "zh": "不是第一人生，是帶著前面經驗重新展開的另一個開始",
         "example": "It felt like a second beginning, not a failure."
       },
       {
@@ -1250,7 +1250,7 @@ export const WEEK_40: Episode[] = [
       },
       {
         "en": "restarted path",
-        "zh": "不是原路返回，而是帶著舊經驗重新展開的新路徑",
+        "zh": "不是原路返回，是帶著舊經驗重新展開的新路徑",
         "example": "He trusted the restarted path more than the old one."
       },
       {
@@ -1566,7 +1566,7 @@ export const WEEK_40: Episode[] = [
       },
       {
         "en": "grounded choice",
-        "zh": "不是慌亂反應，而是基於核心原則做出的穩定選擇",
+        "zh": "不是慌亂反應，是基於核心原則做出的穩定選擇",
         "example": "She wanted to make a grounded choice, not a scared one."
       },
       {
@@ -1596,7 +1596,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Letting go is often less about drama and more about finally admitting that something expired emotionally a while ago.",
-            "zh": "是真的。放下很多時候不是大戲，而是終於承認某個東西在情緒上其實早就過期了。"
+            "zh": "是真的。放下很多時候不是大戲，是終於承認某個東西在情緒上其實早就過期了。"
           },
           {
             "speaker": "b",
@@ -1667,7 +1667,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "An honest ending hurting and still being the right thing — I want to sit with that tension for a while.",
-            "zh": "一個誠實的結束既讓人痛苦又是正確的事——我想在這個張力裡多停留一下。"
+            "zh": "一個誠實的結束既讓人痛苦又是正確的事：我想在這個張力裡多停留一下。"
           },
           {
             "speaker": "a",
@@ -1779,7 +1779,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It often is practical. Relief sometimes enters life through subtraction, not addition.",
-            "zh": "它很多時候本來就很實際。鬆一口氣有時候不是靠增加，而是靠減掉。"
+            "zh": "它很多時候本來就很實際。鬆一口氣有時候不是靠增加，是靠減掉。"
           },
           {
             "speaker": "b",
@@ -1901,7 +1901,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Uncertainty becomes hardest for me when I start doubting not only the future, but also my own ability to meet it.",
-            "zh": "對我來說，不確定最難的時候，通常不是未來本身，而是我開始懷疑自己到底有沒有能力去遇見那個未來。"
+            "zh": "對我來說，不確定最難的時候，通常不是未來本身，是我開始懷疑自己到底有沒有能力去遇見那個未來。"
           },
           {
             "speaker": "a",
@@ -1966,7 +1966,7 @@ export const WEEK_40: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So self-trust is not certainty. It is adaptability with integrity.",
-            "zh": "所以自我信任不是確定，而是帶著完整性的可調整性。"
+            "zh": "所以自我信任不是確定，是帶著完整性的可調整性。"
           },
           {
             "speaker": "a",
@@ -2188,7 +2188,7 @@ export const WEEK_40: Episode[] = [
       },
       {
         "en": "steady step",
-        "zh": "不是大跳，而是在不確定裡仍然穩穩往前的步伐",
+        "zh": "不是大跳，是在不確定裡仍然穩穩往前的步伐",
         "example": "He took one steady step instead of demanding certainty."
       },
       {

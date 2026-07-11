@@ -74,7 +74,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Same house, same parents, completely different people — that always makes me wonder how much is really nature versus how we were raised.",
-            "zh": "同一個家、同樣的父母，卻是完全不同的兩個人——這總讓我好奇，到底有多少是天生的，又有多少是後天養成的。"
+            "zh": "同一個家、同樣的父母，卻是完全不同的兩個人：這總讓我好奇，到底有多少是天生的，又有多少是後天養成的。"
           },
           {
             "speaker": "a",
@@ -349,7 +349,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She made eye contact, smiled without performing, and asked a genuine question. I thought — this person listens.",
-            "zh": "她與我眼神接觸，笑得很自然不做作，還問了一個真誠的問題。我想——這個人是會傾聽的人。"
+            "zh": "她與我眼神接觸，笑得很自然不做作，還問了一個真誠的問題。我想：這個人是會傾聽的人。"
           },
           {
             "speaker": "b",
@@ -508,7 +508,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let me guess — not the same person at all?",
-            "zh": "讓我猜猜——完全不是同一個人？"
+            "zh": "讓我猜猜：完全不是同一個人？"
           },
           {
             "speaker": "b",
@@ -660,7 +660,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Being an introvert does not mean you are bad at it. It means it costs you more energy than it does for extroverts.",
-            "zh": "內向不代表你不擅長社交。這意味著社交對你消耗的能量比外向者更多。"
+            "zh": "內向不代表你不擅長社交。也就是說，社交對你消耗的能量比外向者更多。"
           },
           {
             "speaker": "b",
@@ -731,7 +731,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Introvert strengths — depth, focus, listening — are just as valuable in a workplace. Often more so.",
-            "zh": "內向者的優勢——深度、專注、傾聽——在職場上同樣有價值，往往更有價值。"
+            "zh": "內向者的優勢（深度、專注、傾聽）在職場上同樣有價值，往往更有價值。"
           },
           {
             "speaker": "b",
@@ -1011,7 +1011,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The trait I respect most is integrity. Not grand gestures — small consistent choices when no one is watching.",
-            "zh": "我最尊重的特質是正直。不是宏大的姿態，而是沒人看的時候一致的小選擇。"
+            "zh": "我最尊重的特質是正直。不是宏大的姿態，是沒人看的時候一致的小選擇。"
           },
           {
             "speaker": "b",
@@ -1082,7 +1082,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That structure — feeling it fully, then choosing to move — is very different from just suppressing the emotion.",
-            "zh": "這種結構——完整地感受，然後選擇前進——和單純壓抑情緒非常不同。"
+            "zh": "這種結構（完整地感受，然後選擇前進）和單純壓抑情緒非常不同。"
           },
           {
             "speaker": "b",
@@ -1094,7 +1094,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the core of resilience — directing energy toward what responds to effort.",
-            "zh": "這就是韌性的核心——把能量導向那些能被努力影響的事情。"
+            "zh": "這就是韌性的核心：把能量導向那些能被努力影響的事情。"
           },
           {
             "speaker": "b",
@@ -1182,7 +1182,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So trying to shortcut it — skipping the hard part — does not really work.",
-            "zh": "所以試圖走捷徑——跳過艱難的部分——並不真的管用。"
+            "zh": "所以試圖走捷徑（跳過艱難的部分）並不真的管用。"
           },
           {
             "speaker": "a",
@@ -1345,7 +1345,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the flaw protects you from something worse — or at least from something you fear.",
-            "zh": "所以這個缺點保護你免於某件更糟的事——或至少是某件你害怕的事。"
+            "zh": "所以這個缺點保護你免於某件更糟的事：或至少是某件你害怕的事。"
           },
           {
             "speaker": "a",
@@ -1369,7 +1369,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That reframe changes everything. It is not \"stop procrastinating.\" It is \"what am I avoiding?\"",
-            "zh": "這個重新框架改變了一切。不是「停止拖延」，而是「我在逃避什麼？」"
+            "zh": "這個重新框架改變了一切。不是「停止拖延」，是「我在逃避什麼？」"
           }
         ]
       },
@@ -1499,7 +1499,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Meaning — \"I did something careless\" rather than \"I am a careless person\"?",
-            "zh": "意思是——「我做了一件粗心的事」而不是「我是一個粗心的人」？"
+            "zh": "意思是：「我做了一件粗心的事」而不是「我是一個粗心的人」？"
           },
           {
             "speaker": "a",
@@ -1517,7 +1517,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And self-compassion is not softness — it is the foundation for honest self-examination.",
-            "zh": "對。自我同理不是軟弱——它是誠實自我審視的基礎。"
+            "zh": "對。自我同理不是軟弱：它是誠實自我審視的基礎。"
           },
           {
             "speaker": "b",
@@ -1615,7 +1615,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "My best friendships are with people who challenge me. Not aggressively, but by simply being different.",
-            "zh": "我最好的友誼都是和挑戰我的人建立的。不是咄咄逼人，而是單純地不一樣。"
+            "zh": "我最好的友誼都是和挑戰我的人建立的。不是咄咄逼人，只是單純地不一樣。"
           },
           {
             "speaker": "b",
@@ -1662,7 +1662,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And I read her need for contact as pressure. Neither of us was wrong — we just needed different things.",
-            "zh": "是的。而我把她對聯繫的需求讀作壓力。我們兩個都沒有錯——我們只是需要不同的東西。"
+            "zh": "是的。而我把她對聯繫的需求讀作壓力。我們兩個都沒有錯：我們只是需要不同的東西。"
           },
           {
             "speaker": "b",
@@ -1709,7 +1709,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. It is adapting, not pretending. My values stay the same — I just adjust the delivery.",
-            "zh": "不。那是在適應，不是假裝。我的價值觀沒有變——我只是調整表達方式。"
+            "zh": "不。那是在適應，不是假裝。我的價值觀沒有變：我只是調整表達方式。"
           },
           {
             "speaker": "b",
@@ -1815,7 +1815,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a gentler way to think about friendships that faded. Not a failure — just a different season.",
-            "zh": "這是一種更溫和的方式來看待逐漸淡去的友誼。不是失敗——只是不同的季節。"
+            "zh": "這是一種更溫和的方式來看待逐漸淡去的友誼。不是失敗，只是不同的季節。"
           },
           {
             "speaker": "a",
@@ -1827,7 +1827,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's hopeful. It means a difficult patch does not have to be the end of the story.",
-            "zh": "這讓人感到希望。這意味著一段艱難時期不一定是故事的終點。"
+            "zh": "這讓人感到希望。也就是說，一段艱難時期不一定是故事的終點。"
           },
           {
             "speaker": "a",
@@ -1966,7 +1966,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pay attention to your body. Not your thoughts — your physical reactions. What makes you feel alive versus drained?",
-            "zh": "注意你的身體。不是你的思想——是你的身體反應。什麼讓你感到活著，什麼讓你感到耗盡？"
+            "zh": "注意你的身體。不是你的思想，是你的身體反應。什麼讓你感到活著，什麼讓你感到耗盡？"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Wrong about yourself in useful ways — that is an interesting way to put it.",
-            "zh": "「在有用的方面對自己判斷錯誤」——這是個有趣的說法。"
+            "zh": "「在有用的方面對自己判斷錯誤」：這是個有趣的說法。"
           }
         ]
       },
@@ -2143,7 +2143,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Becoming more fully yourself is not about fixing what is broken. It is about understanding what is actually there.",
-            "zh": "就是這樣。更完整地成為自己，不是在修理壞掉的東西，而是看清楚自己身上原本就有什麼。"
+            "zh": "就是這樣。更完整地成為自己，不是在修理壞掉的東西，是看清楚自己身上原本就有什麼。"
           },
           {
             "speaker": "b",

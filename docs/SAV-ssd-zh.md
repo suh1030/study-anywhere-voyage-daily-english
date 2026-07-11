@@ -319,7 +319,7 @@ interface ReadArticle {
   topic: string;               // 七類之一
   title: string;               // 文章標題
   wordCount: number;           // 約 600
-  text: string;                // 英文 HTML（5 段落）
+  text: string;                // 英文 HTML（3 段落）
   textZh: string;              // 中文 HTML（對應段落）
   vocabulary: VocabItem[];     // 4–6 個，CEFR B2 標準
 }
@@ -640,7 +640,7 @@ stores/
 - 每集約 500 字，3 段，16–20 行
 
 **Speak 文章：**
-- 約 600 字，5 段落
+- 約 300 字，3 段落（2026-07-11 由 600 字/5 段調整）
 - 附完整中文翻譯（段落對應）
 - 詞彙選取參照 CEFR B2 詞彙表
 - 七類主題每週輪換

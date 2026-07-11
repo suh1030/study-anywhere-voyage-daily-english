@@ -45,7 +45,7 @@ export const CONVERSATIONS_W09_W16: ConversationQuestion[] = [
     'Health & Body',
     'Wednesday',
     'In a busy work period, what helps you protect your mental health before things get too bad?',
-    '重點不是講大道理，而是講你會提早做的預防動作。',
+    '重點不是講大道理，是講你會提早做的預防動作。',
     'Talk about prevention, not recovery: what do you notice early, and what do you do next?',
   ),
   q(
@@ -281,7 +281,7 @@ export const CONVERSATIONS_W09_W16: ConversationQuestion[] = [
     'Colleagues & Teamwork',
     'Thursday',
     'When a team project goes well, what kind of shared responsibility usually exists behind it?',
-    '這題不是要稱讚團隊，而是講順利背後有哪些真的做對的事。',
+    '這題不是要稱讚團隊，是講順利背後有哪些真的做對的事。',
     'A strong answer names the hidden habits that make teamwork feel smooth.',
   ),
   q(
@@ -403,7 +403,7 @@ export const CONVERSATIONS_W09_W16: ConversationQuestion[] = [
     'Personality & Character',
     'Friday',
     'What habit or flaw are you trying to grow out of without becoming fake?',
-    '這題不是自我批判，而是談一個你想修正、但又不想失去真實感的地方。',
+    '這題不是自我批判，是談一個你想修正、但又不想失去真實感的地方。',
     'Describe the flaw honestly, then explain the better version you are aiming for.',
   ),
   q(
@@ -468,7 +468,7 @@ export const CONVERSATIONS_W09_W16: ConversationQuestion[] = [
     'Communication Styles',
     'Saturday',
     'What kind of question usually leads to a better conversation?',
-    '不是問句型而已，而是問什麼樣的提問真的能把人打開。',
+    '不是問句型而已，是問什麼樣的提問真的能把人打開。',
     'Give one example of a good question and explain what it invites the other person to do.',
   ),
   q(

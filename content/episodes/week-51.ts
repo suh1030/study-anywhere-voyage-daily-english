@@ -297,7 +297,7 @@ export const WEEK_51: Episode[] = [
       },
       {
         "en": "taught to want",
-        "zh": "不是自己長出的渴望，而是被教成應該要想要的東西",
+        "zh": "不是自己長出的渴望，是被教成應該要想要的東西",
         "example": "She was separating what she was taught to want."
       },
       {
@@ -831,7 +831,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because many people keep failing plans built for an imaginary self with imaginary energy.",
-            "zh": "它很重要，因為很多人一直失敗，不是因為不夠努力，而是因為計畫是替一個想像中的自己和想像中的能量設計的。"
+            "zh": "它很重要，因為很多人一直失敗，不是因為不夠努力，是因為計畫是替一個想像中的自己和想像中的能量設計的。"
           },
           {
             "speaker": "b",
@@ -929,7 +929,7 @@ export const WEEK_51: Episode[] = [
       },
       {
         "en": "work with reality",
-        "zh": "不是和理想化自我合作，而是和真實狀態合作",
+        "zh": "不是和理想化自我合作，是和真實狀態合作",
         "example": "The system finally worked because it worked with reality."
       },
       {
@@ -1124,7 +1124,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the meaning did not disappear. It just changed shape.",
-            "zh": "所以意義感不是消失了，而是換了一種形狀。"
+            "zh": "所以意義感不是消失了，是換了一種形狀。"
           },
           {
             "speaker": "a",
@@ -1142,7 +1142,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many people are not lost because they lack ambition. They are lost because the map they were given was built from someone else's hierarchy of value.",
-            "zh": "很多人不是因為沒有野心才迷路，而是因為他手上的地圖，本來就是從別人的價值階序畫出來的。"
+            "zh": "很多人不是因為沒有野心才迷路，是因為他手上的地圖，本來就是從別人的價值階序畫出來的。"
           },
           {
             "speaker": "b",
@@ -1225,7 +1225,7 @@ export const WEEK_51: Episode[] = [
       },
       {
         "en": "truthful work story",
-        "zh": "不是社會期待版，而是真實的工作敘事",
+        "zh": "不是社會期待版，是真實的工作敘事",
         "example": "She was trying to build a more truthful work story."
       },
       {
@@ -1250,7 +1250,7 @@ export const WEEK_51: Episode[] = [
       },
       {
         "en": "someone else's map",
-        "zh": "不是根據自己，而是根據別人的價值畫出來的人生地圖",
+        "zh": "不是根據自己，是根據別人的價值畫出來的人生地圖",
         "example": "She had been following someone else's map."
       }
     ]
@@ -1275,7 +1275,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's one of the most damaging misunderstandings. Real resilience is not constant strength. It is the ability to recover, reorganize, and keep returning after disruption.",
-            "zh": "那是最傷人的誤解之一。真正的韌性不是一直很強，而是你能在被打亂後恢復、重整，然後繼續回來。"
+            "zh": "那是最傷人的誤解之一。真正的韌性不是一直很強，是你能在被打亂後恢復、重整，然後繼續回來。"
           },
           {
             "speaker": "b",
@@ -1446,7 +1446,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. The person is not proving they are impressive. They are proving the relationship with the habit is still alive.",
-            "zh": "沒錯。這個人不是在證明自己多厲害，而是在證明：他和那個習慣的關係還活著。"
+            "zh": "沒錯。這個人不是在證明自己多厲害，是在證明：他和那個習慣的關係還活著。"
           },
           {
             "speaker": "b",
@@ -1487,7 +1487,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The kind that stays honest under pressure and stays reachable after failure. Not perfect, not invincible, but re-enterable.",
-            "zh": "是那種在壓力下仍然誠實、在失敗後仍然碰得到的韌性。不是完美，不是無敵，而是可以再進去。"
+            "zh": "是那種在壓力下仍然誠實、在失敗後仍然碰得到的韌性。不是完美，不是無敵，是可以再進去。"
           },
           {
             "speaker": "b",
@@ -1615,7 +1615,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is useful because the future is always partly unknown. The goal is not to eliminate uncertainty, but to relate to it more skillfully.",
-            "zh": "它很有用，因為未來本來就一定有部分未知。目標不是把不確定消滅，而是更有能力地和它相處。"
+            "zh": "它很有用，因為未來本來就一定有部分未知。目標不是把不確定消滅，是更有能力地和它相處。"
           },
           {
             "speaker": "b",
@@ -1774,7 +1774,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many plans fail because they were designed for a version of life that does not exist outside the notebook.",
-            "zh": "很多計畫會失敗，不是因為人不夠好，而是因為計畫根本是替一本筆記本裡的生活設計的。"
+            "zh": "很多計畫會失敗，不是因為人不夠好，是因為計畫根本是替一本筆記本裡的生活設計的。"
           },
           {
             "speaker": "b",
@@ -1852,7 +1852,7 @@ export const WEEK_51: Episode[] = [
       },
       {
         "en": "skillful uncertainty",
-        "zh": "不是消除未知，而是更有能力地和未知相處",
+        "zh": "不是消除未知，是更有能力地和未知相處",
         "example": "Planning requires more skillful uncertainty than people admit."
       },
       {
@@ -1902,7 +1902,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not with dramatic promises. Start with the conditions that make steadier choices more likely.",
-            "zh": "不是從很戲劇化的承諾開始，而是從那些會讓比較穩的選擇更容易發生的條件開始。"
+            "zh": "不是從很戲劇化的承諾開始，是從那些會讓比較穩的選擇更容易發生的條件開始。"
           },
           {
             "speaker": "b",
@@ -2085,7 +2085,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because many goals fail from crowding, not from lack of sincerity. They are simply packed into a life that cannot hold them yet.",
-            "zh": "這很重要，因為很多目標會失敗，不是因為不夠真誠，而是因為太擠了。它只是被塞進一個還裝不下它的生活。"
+            "zh": "這很重要，因為很多目標會失敗，不是因為不夠真誠，是因為太擠了。它只是被塞進一個還裝不下它的生活。"
           },
           {
             "speaker": "b",
@@ -2188,7 +2188,7 @@ export const WEEK_51: Episode[] = [
       },
       {
         "en": "make room for the goal",
-        "zh": "不是嘴上說要，而是真的替目標挪出空間",
+        "zh": "不是嘴上說要，是真的替目標挪出空間",
         "example": "She had to make room for the goal first."
       },
       {

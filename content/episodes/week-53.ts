@@ -257,7 +257,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. When a chapter is ending, your job is not to force certainty. It is to stay close to what already feels true.",
-            "zh": "對。當一個篇章在結束時，你的工作不是逼自己馬上確定，而是靠近那些已經開始變真的感覺。"
+            "zh": "對。當一個篇章在結束時，你的工作不是逼自己馬上確定，是靠近那些已經開始變真的感覺。"
           },
           {
             "speaker": "b",
@@ -287,7 +287,7 @@ export const WEEK_53: Episode[] = [
       },
       {
         "en": "small signs",
-        "zh": "不是大轉折，而是慢慢出現的小訊號",
+        "zh": "不是大轉折，是慢慢出現的小訊號",
         "example": "He paid attention to the small signs before making a bigger decision."
       },
       {
@@ -420,7 +420,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So closure is not erasing. It is clearing space.",
-            "zh": "所以所謂的了結不是抹掉，而是清出空間。"
+            "zh": "所以所謂的了結不是抹掉，是清出空間。"
           },
           {
             "speaker": "a",
@@ -860,7 +860,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Build fewer promises, but build them deeper. The point is not to impress yourself at the beginning. It is to recognize your own life later.",
-            "zh": "承諾少一點，但做深一點。重點不是一開始就把自己感動到，而是過了一段時間之後，你還認得出這是你自己的生活。"
+            "zh": "承諾少一點，但做深一點。重點不是一開始就把自己感動到，是過了一段時間之後，你還認得出這是你自己的生活。"
           },
           {
             "speaker": "b",
@@ -1235,12 +1235,12 @@ export const WEEK_53: Episode[] = [
       },
       {
         "en": "first concrete step",
-        "zh": "不是遠景，而是眼前可以真的去做的第一步",
+        "zh": "不是遠景，是眼前可以真的去做的第一步",
         "example": "His first concrete step was simply booking one difficult conversation."
       },
       {
         "en": "begin before you feel ready",
-        "zh": "不是等完全準備好才開始，而是先開始再慢慢長出準備",
+        "zh": "不是等完全準備好才開始，是先開始再慢慢長出準備",
         "example": "He had to begin before he felt ready to see any real momentum."
       },
       {

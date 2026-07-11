@@ -297,7 +297,7 @@ export const WEEK_31: Episode[] = [
       },
       {
         "en": "responsible care",
-        "zh": "不是只喜歡牠，而是真的把牠照顧好的方式",
+        "zh": "不是只喜歡牠，是真的把牠照顧好的方式",
         "example": "Responsible care matters more than cute photos or quick affection."
       },
       {
@@ -719,7 +719,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — and that's where the real difference shows up.",
-            "zh": "對——那也是真正的差異出現的地方。"
+            "zh": "對：那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
@@ -813,7 +813,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So repetition is not boring here. It is formative.",
-            "zh": "所以在這裡，重複不是無聊，而是在塑形。"
+            "zh": "所以在這裡，重複不是無聊，是在塑形。"
           },
           {
             "speaker": "a",
@@ -904,7 +904,7 @@ export const WEEK_31: Episode[] = [
     "keyPhrases": [
       {
         "en": "concrete responsibility",
-        "zh": "不是概念，而是今天真的得去做的責任",
+        "zh": "不是概念，是今天真的得去做的責任",
         "example": "Pet care turns responsibility into something concrete and daily."
       },
       {
@@ -1352,7 +1352,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And it applies broadly. Ethical care is usually less about feeling good and more about doing right repeatedly.",
-            "zh": "而且這句放很廣也都適用。倫理照顧很多時候比較不是『感覺很好』，而是『反覆做對的事』。"
+            "zh": "而且這句放很廣也都適用。倫理照顧很多時候比較不是『感覺很好』，是『反覆做對的事』。"
           },
           {
             "speaker": "b",
@@ -1566,7 +1566,7 @@ export const WEEK_31: Episode[] = [
       },
       {
         "en": "tender responsibility",
-        "zh": "不是只有心軟，而是會把溫柔真的落實成責任",
+        "zh": "不是只有心軟，是會把溫柔真的落實成責任",
         "example": "The best animal care comes from tender responsibility."
       }
     ]
@@ -1872,7 +1872,7 @@ export const WEEK_31: Episode[] = [
       },
       {
         "en": "ordinary wisdom",
-        "zh": "不是大道理，而是每天都用得到的深刻道理",
+        "zh": "不是大道理，是每天都用得到的深刻道理",
         "example": "Pets often give people ordinary wisdom in very repeatable ways."
       },
       {
@@ -2031,7 +2031,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That resonates — the pattern really is there.",
-            "zh": "這說到點上——那個規律確實存在。"
+            "zh": "這說到點上：那個規律確實存在。"
           },
           {
             "speaker": "a",

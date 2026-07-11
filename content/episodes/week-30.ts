@@ -426,7 +426,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It really does. That may be why reading feels almost rebellious now — and rebuilding your reading stamina is part of that quiet resistance.",
-            "zh": "真的很貼。這可能也是為什麼現在閱讀會讓人覺得有點反叛——而把閱讀耐力慢慢養回來，正是那種安靜抵抗的一部分。"
+            "zh": "真的很貼。這可能也是為什麼現在閱讀會讓人覺得有點反叛，而把閱讀耐力慢慢養回來，正是那種安靜抵抗的一部分。"
           }
         ]
       },
@@ -520,7 +520,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is a cleaner way to say it. Most attention problems are not character flaws. They are environmental patterns.",
-            "zh": "這裡有個更簡潔的講法。大部分注意力問題，不是人格缺陷，而是環境模式。"
+            "zh": "這裡有個更簡潔的講法。大部分注意力問題，不是人格缺陷，是環境模式。"
           },
           {
             "speaker": "b",
@@ -904,7 +904,7 @@ export const WEEK_30: Episode[] = [
     "keyPhrases": [
       {
         "en": "design problem",
-        "zh": "不是意志力不夠，而是環境和做法設計得不好",
+        "zh": "不是意志力不夠，是環境和做法設計得不好",
         "example": "The broken routine turned out to be a design problem, not a moral failure."
       },
       {
@@ -1679,7 +1679,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That tracks — especially in practice.",
-            "zh": "這說得通——尤其在實際情況裡。"
+            "zh": "這說得通：尤其在實際情況裡。"
           },
           {
             "speaker": "a",

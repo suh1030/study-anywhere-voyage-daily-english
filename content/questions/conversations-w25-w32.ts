@@ -37,7 +37,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     'Success & Failure',
     'Tuesday',
     'What kind of success feels quiet but deeply satisfying to you?',
-    '可以談成就感不是來自掌聲，而是來自心裡很穩的那種滿足。',
+    '可以談成就感不是來自掌聲，是來自心裡很穩的那種滿足。',
     'Name the kind of success first, then explain what makes it feel solid rather than flashy.',
   ),
   q(
@@ -167,7 +167,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     'Travel',
     'Thursday',
     'If your budget is limited, what part of a trip is still worth spending on?',
-    '重點不是省錢技巧，而是講你最不想犧牲哪一部分。',
+    '重點不是省錢技巧，是講你最不想犧牲哪一部分。',
     'Name the expense you would protect and explain what experience it buys.',
   ),
   q(
@@ -362,7 +362,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     'Reading & Writing',
     'Sunday',
     'What kind of life do you think a long-term reader or writer builds over time?',
-    '這題不一定要講職業，而是講長期閱讀書寫對一個人的影響。',
+    '這題不一定要講職業，可以談長期閱讀書寫對一個人的影響。',
     'Imagine the life pattern created by years of attention, language, and reflection.',
   ),
 
@@ -428,7 +428,7 @@ export const CONVERSATIONS_W25_W32: ConversationQuestion[] = [
     'Hobbies & Collections',
     'Monday',
     'What hobby or interest gives you energy even when you are tired from work?',
-    '重點不是講它多厲害，而是講它怎麼把你拉回來。',
+    '重點不是講它多厲害，是講它怎麼把你拉回來。',
     'Describe the hobby and the kind of energy it restores.',
   ),
   q(

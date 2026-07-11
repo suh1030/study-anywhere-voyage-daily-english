@@ -1603,7 +1603,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and a status purchase often promises confidence more than utility.",
-            "zh": "對，而且地位型購買很多時候賣的不是實用，而是自信的感覺。"
+            "zh": "對，而且地位型購買很多時候賣的不是實用，是自信的感覺。"
           },
           {
             "speaker": "b",
@@ -2183,7 +2183,7 @@ export const WEEK_39: Episode[] = [
       },
       {
         "en": "honest limit",
-        "zh": "不是理想中的上限，而是目前真實做得到的花費或財務界線",
+        "zh": "不是理想中的上限，是目前真實做得到的花費或財務界線",
         "example": "Her honest limit was lower than she wanted, but it was real."
       },
       {
@@ -2198,7 +2198,7 @@ export const WEEK_39: Episode[] = [
       },
       {
         "en": "sustainable wealth",
-        "zh": "不是只追求看起來多，而是能真正長久支撐生活的財務穩定",
+        "zh": "不是只追求看起來多，是能真正長久支撐生活的財務穩定",
         "example": "They were aiming for sustainable wealth, not fast status."
       }
     ]

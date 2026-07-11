@@ -257,7 +257,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it is a form of respect. Not because the body must perform, but because it carries everything.",
-            "zh": "我覺得那其實是一種尊重。不是因為身體必須表現，而是因為它承載了所有事。"
+            "zh": "我覺得那其實是一種尊重。不是因為身體必須表現，是因為它承載了所有事。"
           },
           {
             "speaker": "b",
@@ -292,7 +292,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "health priority",
-        "zh": "不是有空才顧，而是本來就該排進生活核心的健康位置",
+        "zh": "不是有空才顧，是本來就該排進生活核心的健康位置",
         "example": "He was trying to treat sleep like a health priority."
       },
       {
@@ -402,7 +402,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A steady mind is not a permanently happy mind. It is a mind that can recover, reflect, and reconnect.",
-            "zh": "對。所謂穩定的心，不是永遠開心的心，而是能恢復、能反思、也能再連回來的心。"
+            "zh": "對。所謂穩定的心，不是永遠開心的心，是能恢復、能反思、也能再連回來的心。"
           },
           {
             "speaker": "b",
@@ -420,7 +420,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So wellbeing is not perfection. It is recoverability.",
-            "zh": "所以 wellbeing 不是完美，而是可恢復性。"
+            "zh": "所以 wellbeing 不是完美，是可恢復性。"
           },
           {
             "speaker": "a",
@@ -608,7 +608,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "steady mind",
-        "zh": "不是沒有波動，而是遇到波動後仍能慢慢回穩的心理狀態",
+        "zh": "不是沒有波動，是遇到波動後仍能慢慢回穩的心理狀態",
         "example": "A steady mind does not mean a perfect week."
       },
       {
@@ -712,7 +712,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So people are not weak. They are overstimulated.",
-            "zh": "所以不是人太脆弱，而是刺激真的太多了。"
+            "zh": "所以不是人太脆弱，是刺激真的太多了。"
           },
           {
             "speaker": "a",
@@ -970,7 +970,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the point is not to transform yourself. It is to give your mind a place to land.",
-            "zh": "所以重點不是把自己整個翻新，而是替自己的心找一個可以落下來的地方。"
+            "zh": "所以重點不是把自己整個翻新，是替自己的心找一個可以落下來的地方。"
           },
           {
             "speaker": "a",
@@ -1235,7 +1235,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "consistent care",
-        "zh": "不是偶爾做很大，而是持續做得到的照顧方式",
+        "zh": "不是偶爾做很大，是持續做得到的照顧方式",
         "example": "Consistent care changed more than any short challenge."
       },
       {
@@ -1357,7 +1357,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The goal is not to collapse in front of someone. The goal is to let another person in a little.",
-            "zh": "對。重點不是在別人面前整個垮掉，而是讓另一個人有一點機會走進來。"
+            "zh": "對。重點不是在別人面前整個垮掉，是讓另一個人有一點機會走進來。"
           },
           {
             "speaker": "b",
@@ -1541,7 +1541,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "low patch",
-        "zh": "不是永久狀態，而是一段比較低落、比較不好撐的時間",
+        "zh": "不是永久狀態，是一段比較低落、比較不好撐的時間",
         "example": "She told her friend she was going through a low patch."
       },
       {
@@ -1808,7 +1808,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That needing help is not a detour from being capable. It is part of being human for a long time.",
-            "zh": "要記得，需要幫助不是偏離有能力的人生，而是長久當一個人本來就會經過的一部分。"
+            "zh": "要記得，需要幫助不是偏離有能力的人生，是長久當一個人本來就會經過的一部分。"
           },
           {
             "speaker": "b",
@@ -1872,7 +1872,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "practical support",
-        "zh": "不是抽象關心，而是能真的分擔事情或幫上忙的支持",
+        "zh": "不是抽象關心，是能真的分擔事情或幫上忙的支持",
         "example": "Practical support mattered more than general advice."
       },
       {
@@ -1971,7 +1971,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to never feel tired. It is to not live in permanent depletion. Am I skipping the messy part?",
-            "zh": "所以目標不是永遠不要累，而是不要一直活在耗盡裡。我是不是跳過了那些比較混亂的部分？"
+            "zh": "所以目標不是永遠不要累，是不要一直活在耗盡裡。我是不是跳過了那些比較混亂的部分？"
           },
           {
             "speaker": "a",
@@ -2131,7 +2131,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Long-range care matters because a sustainable inner life is not built through occasional rescue. It is built through repeated respect.",
-            "zh": "長程照顧很重要，因為能長期維持的內在生活不是靠偶爾自救蓋起來的，而是靠反覆的尊重。"
+            "zh": "長程照顧很重要，因為能長期維持的內在生活不是靠偶爾自救蓋起來的，是靠反覆的尊重。"
           },
           {
             "speaker": "b",
@@ -2193,7 +2193,7 @@ export const WEEK_37: Episode[] = [
       },
       {
         "en": "long-range care",
-        "zh": "不是撐到最後才補救，而是一路都在照顧自己的長程做法",
+        "zh": "不是撐到最後才補救，是一路都在照顧自己的長程做法",
         "example": "Long-range care changed how she planned her month."
       },
       {

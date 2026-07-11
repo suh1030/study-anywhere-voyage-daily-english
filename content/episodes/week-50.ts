@@ -654,7 +654,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the problem is not that beauty is absent. It is that attention gets dull.",
-            "zh": "所以問題不是美不存在，而是注意力變鈍了。"
+            "zh": "所以問題不是美不存在，是注意力變鈍了。"
           },
           {
             "speaker": "a",
@@ -825,7 +825,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So beauty is not an escape from the world. It is something that returns the world to you in a form you can actually receive.",
-            "zh": "所以美不是從世界逃跑，而是讓世界以一種你真正能接收的形式回到你身邊。"
+            "zh": "所以美不是從世界逃跑，是讓世界以一種你真正能接收的形式回到你身邊。"
           },
           {
             "speaker": "a",
@@ -860,7 +860,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By practicing a less extractive kind of attention. Not always asking, \"What can I get?\" but sometimes asking, \"What is quietly here?\"",
-            "zh": "去練一種不那麼掠奪式的注意力。不是一直問「我能得到什麼」，而是偶爾問：「這裡安靜地存在著什麼？」"
+            "zh": "去練一種不那麼掠奪式的注意力。不是一直問「我能得到什麼」，是偶爾問：「這裡安靜地存在著什麼？」"
           },
           {
             "speaker": "b",
@@ -909,7 +909,7 @@ export const WEEK_50: Episode[] = [
       },
       {
         "en": "tiny forms of beauty",
-        "zh": "不是很戲劇化，而是小小存在的美感時刻",
+        "zh": "不是很戲劇化，是小小存在的美感時刻",
         "example": "Tiny forms of beauty kept her grounded."
       },
       {
@@ -964,7 +964,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the problem. Healthy perspective is not denial. It is a wider frame that lets difficulty stay real without letting difficulty become the only reality.",
-            "zh": "這就是問題。健康的視角不是否認，而是給出一個更寬的框，讓困難保持真實，同時又不讓困難變成唯一真相。"
+            "zh": "這就是問題。健康的視角不是否認，是給出一個更寬的框，讓困難保持真實，同時又不讓困難變成唯一真相。"
           },
           {
             "speaker": "b",
@@ -1053,7 +1053,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good perspective often feels like that. Not sweeter, just fuller.",
-            "zh": "好的視角很常就是這樣。不是更甜，而是更完整。"
+            "zh": "好的視角很常就是這樣。不是更甜，是更完整。"
           }
         ]
       },
@@ -1457,7 +1457,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — and that's where the real difference shows up.",
-            "zh": "對——那也是真正的差異出現的地方。"
+            "zh": "對：那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
@@ -1511,7 +1511,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is one natural option. Gratitude at work is not about making everyone sentimental. It is about making value harder to overlook.",
-            "zh": "這裡有一個很自然的選項。工作裡的感謝不是要讓大家變得多愁善感，而是讓真正的價值比較不容易被漏掉。"
+            "zh": "這裡有一個很自然的選項。工作裡的感謝不是要讓大家變得多愁善感，是讓真正的價值比較不容易被漏掉。"
           },
           {
             "speaker": "b",
@@ -1561,7 +1561,7 @@ export const WEEK_50: Episode[] = [
       },
       {
         "en": "better effort",
-        "zh": "不是更大更累，而是更成熟、更有品質的投入",
+        "zh": "不是更大更累，是更成熟、更有品質的投入",
         "example": "The new culture produced better effort, not just more effort."
       },
       {
@@ -1774,7 +1774,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and it often softens once people realize they are not dealing with absence of care. They are dealing with difference in gratitude language.",
-            "zh": "確實很常見。而當人意識到自己面對的不是對方沒有心，而是感謝的表達方式不一樣時，事情就常常會軟下來。"
+            "zh": "確實很常見。而當人意識到自己面對的不是對方沒有心，是感謝的表達方式不一樣時，事情就常常會軟下來。"
           },
           {
             "speaker": "b",
@@ -1803,7 +1803,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Learning to read more than one gratitude language. Not abandoning your own, but expanding your ability to recognize care in unfamiliar forms.",
-            "zh": "是學著讀得懂不只一種感謝語言。不是丟掉自己的方式，而是擴大自己辨認關愛的能力，讓它也能看見不熟悉的形式。"
+            "zh": "是學著讀得懂不只一種感謝語言。不是丟掉自己的方式，是擴大自己辨認關愛的能力，讓它也能看見不熟悉的形式。"
           },
           {
             "speaker": "b",
@@ -1852,7 +1852,7 @@ export const WEEK_50: Episode[] = [
       },
       {
         "en": "gratitude through action",
-        "zh": "不是一直口頭表達，而是透過行動表達感謝",
+        "zh": "不是一直口頭表達，是透過行動表達感謝",
         "example": "He showed gratitude through action more than words."
       },
       {
@@ -1867,7 +1867,7 @@ export const WEEK_50: Episode[] = [
       },
       {
         "en": "quiet gratitude signal",
-        "zh": "不是大聲說出來，而是安靜地表達感謝的訊號",
+        "zh": "不是大聲說出來，是安靜地表達感謝的訊號",
         "example": "She had missed the quiet gratitude signal for years."
       },
       {
@@ -1978,7 +1978,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That resonates — the pattern really is there.",
-            "zh": "這說到點上——那個規律確實存在。"
+            "zh": "這說到點上：那個規律確實存在。"
           },
           {
             "speaker": "a",
@@ -2158,7 +2158,7 @@ export const WEEK_50: Episode[] = [
     "keyPhrases": [
       {
         "en": "lived gratitude",
-        "zh": "不是口號，而是和真實生活綁在一起的感謝",
+        "zh": "不是口號，是和真實生活綁在一起的感謝",
         "example": "Lived gratitude feels steadier than forced positivity."
       },
       {
@@ -2168,7 +2168,7 @@ export const WEEK_50: Episode[] = [
       },
       {
         "en": "gratitude structure",
-        "zh": "感謝不是單一感受，而是一種會改變生活結構的實踐",
+        "zh": "感謝不是單一感受，是一種會改變生活結構的實踐",
         "example": "Over time, gratitude became part of her structure."
       },
       {
@@ -2193,7 +2193,7 @@ export const WEEK_50: Episode[] = [
       },
       {
         "en": "precise thank you",
-        "zh": "不是空泛，而是很具體地表達感謝",
+        "zh": "不是空泛，是很具體地表達感謝",
         "example": "A precise thank you changed the conversation."
       }
     ]

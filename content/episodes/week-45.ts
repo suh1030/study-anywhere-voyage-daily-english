@@ -588,7 +588,7 @@ export const WEEK_45: Episode[] = [
     "keyPhrases": [
       {
         "en": "earn buy-in",
-        "zh": "不是靠權力，而是靠可信度爭取認同",
+        "zh": "不是靠權力，是靠可信度爭取認同",
         "example": "She had to earn buy-in before the plan could move."
       },
       {
@@ -891,7 +891,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. If you understand that, you understand why emotional intelligence is not a soft extra. It is part of the work itself.",
-            "zh": "放到真實生活裡，聽起來可能是這樣。如果你真的懂這件事，你就會知道情緒智商不是柔軟加分題，而是工作本身的一部分。"
+            "zh": "放到真實生活裡，聽起來可能是這樣。如果你真的懂這件事，你就會知道情緒智商不是柔軟加分題，是工作本身的一部分。"
           }
         ]
       }
@@ -1183,7 +1183,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because that is what people are often exhausted by. Not only the work itself, but the constant social self-protection around the work.",
-            "zh": "因為很多人真正累的就是那個。不是只有工作本身，而是工作周圍那種不斷的社交自我保護。"
+            "zh": "因為很多人真正累的就是那個。不是只有工作本身，是工作周圍那種不斷的社交自我保護。"
           },
           {
             "speaker": "b",
@@ -1250,7 +1250,7 @@ export const WEEK_45: Episode[] = [
       },
       {
         "en": "credible change",
-        "zh": "不是空話，而是聽起來真的做得到的改變",
+        "zh": "不是空話，是聽起來真的做得到的改變",
         "example": "People trusted the plan because the change sounded credible."
       }
     ]
@@ -1299,7 +1299,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Strong decision-makers do not remove pressure; they create a small pocket of thinking inside it.",
-            "zh": "對。好的決策者不是把壓力消除，而是在壓力裡硬生生創造出一小塊可以思考的空間。"
+            "zh": "對。好的決策者不是把壓力消除，是在壓力裡硬生生創造出一小塊可以思考的空間。"
           },
           {
             "speaker": "b",
@@ -1505,7 +1505,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not emotional relief. It is durable logic.",
-            "zh": "所以重點不是情緒先鬆掉，而是邏輯能撐得久。"
+            "zh": "所以重點不是情緒先鬆掉，是邏輯能撐得久。"
           },
           {
             "speaker": "a",
@@ -1822,7 +1822,7 @@ export const WEEK_45: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The best self-leadership is not self-obsession. It is building a version of yourself that makes life a little easier for other people too.",
-            "zh": "沒錯。最好的自我領導不是自我著迷，而是把自己練成一個版本，讓別人的生活也稍微容易一點。"
+            "zh": "沒錯。最好的自我領導不是自我著迷，是把自己練成一個版本，讓別人的生活也稍微容易一點。"
           },
           {
             "speaker": "b",
@@ -2163,7 +2163,7 @@ export const WEEK_45: Episode[] = [
       },
       {
         "en": "step in gently",
-        "zh": "不是強壓，而是適時溫和地站出來",
+        "zh": "不是強壓，是適時溫和地站出來",
         "example": "He knew when to step in gently and help the group decide."
       },
       {
@@ -2173,7 +2173,7 @@ export const WEEK_45: Episode[] = [
       },
       {
         "en": "practical initiative",
-        "zh": "不是空講，而是主動把事情往前推的行動力",
+        "zh": "不是空講，是主動把事情往前推的行動力",
         "example": "Practical initiative kept the family gathering from turning chaotic."
       },
       {

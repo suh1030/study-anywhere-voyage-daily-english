@@ -368,7 +368,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the whole point of useful feedback — to move the work forward, not just to name the problem.",
-            "zh": "這就是有用回饋的重點——讓工作往前推進，不只是指出問題。"
+            "zh": "這就是有用回饋的重點：讓工作往前推進，不只是指出問題。"
           }
         ]
       },
@@ -438,7 +438,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Lead with what the work is trying to do, then describe what is getting in the way. \"The goal is clarity — right now the third section slows the reader down.\"",
-            "zh": "先說這份工作想達成什麼，然後說明什麼阻礙了它。「目標是清楚——現在第三節讓讀者的速度慢了下來。」"
+            "zh": "先說這份工作想達成什麼，然後說明什麼阻礙了它。「目標是清楚：現在第三節讓讀者的速度慢了下來。」"
           },
           {
             "speaker": "b",
@@ -450,7 +450,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. You can also say \"One thing that would make this stronger is...\" — that positions it as a suggestion, not a verdict.",
-            "zh": "沒錯。你也可以說「有一件事可以讓這個更強...」——這把它定位成建議，而不是裁決。"
+            "zh": "沒錯。你也可以說「有一件事可以讓這個更強...」：這把它定位成建議，而不是裁決。"
           },
           {
             "speaker": "b",
@@ -701,7 +701,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's passive-aggressive behavior. The sting is usually deniable — they can always say \"I did not mean it that way.\"",
-            "zh": "這是被動攻擊行為。那個刺通常是可以被否認的——他們總是可以說「我不是那個意思」。"
+            "zh": "這是被動攻擊行為。那個刺通常是可以被否認的：他們總是可以說「我不是那個意思」。"
           },
           {
             "speaker": "b",
@@ -1035,7 +1035,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is neither control nor absence. It is structured autonomy.",
-            "zh": "所以目標不是控制也不是缺席，而是有結構的自主。"
+            "zh": "所以目標不是控制，也不是缺席，是有結構的自主。"
           },
           {
             "speaker": "a",
@@ -1082,7 +1082,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And when you are leading, try \"I want to give you full ownership on this — let me know if you want to check in before the deadline.\"",
-            "zh": "對。當你在帶人的時候，試著說「我想把這個完全交給你負責——如果你想在截止日期前確認，跟我說。」"
+            "zh": "對。當你在帶人的時候，試著說「我想把這個完全交給你負責：如果你想在截止日期前確認，跟我說。」"
           },
           {
             "speaker": "b",
@@ -1470,7 +1470,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a great move. That conversation itself will already improve the team culture — just by acknowledging that communication takes intentional design.",
-            "zh": "這一步很棒。那場對話本身就已經會改善團隊文化了——光是承認溝通需要刻意去設計，就有效果。"
+            "zh": "這一步很棒。那場對話本身就已經會改善團隊文化了：光是承認溝通需要刻意去設計，就有效果。"
           }
         ]
       },
@@ -1481,7 +1481,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think remote work has made me more aware of how much I relied on passive information in an office — just overhearing things, reading the room.",
-            "zh": "我覺得遠端工作讓我更意識到，我在辦公室有多依賴被動的資訊——只是聽到路過的對話，讀懂現場氣氛。"
+            "zh": "我覺得遠端工作讓我更意識到，我在辦公室有多依賴被動的資訊，只是聽到路過的對話，讀懂現場氣氛。"
           },
           {
             "speaker": "a",
@@ -1656,7 +1656,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Acknowledge it, then park it. Say, \"That's a great point — can we note it and come back to it after we've decided X?\" Write it somewhere visible so they know it won't be lost.",
-            "zh": "先認可它，再把它擱著。你可以說：「這個點很好——我們先記下來，等決定完X再回來討論好嗎？」把它寫在大家看得到的地方，讓對方知道它不會被漏掉。"
+            "zh": "先認可它，再把它擱著。你可以說：「這個點很好：我們先記下來，等決定完X再回來討論好嗎？」把它寫在大家看得到的地方，讓對方知道它不會被漏掉。"
           },
           {
             "speaker": "b",
@@ -1786,7 +1786,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Keep an eye on this part: Being selective is not being difficult. It is being honest about what the work actually requires.",
-            "zh": "這部分要多留意：有選擇性不是在為難別人，而是在對工作真正需要什麼保持誠實。"
+            "zh": "這部分要多留意：有選擇性不是在為難別人，是在對工作真正需要什麼保持誠實。"
           }
         ]
       },
@@ -1919,7 +1919,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's more concrete, at least. Now it's about specific actions — taking initiative and being visible across teams — instead of some vague quality you either have or don't.",
-            "zh": "至少這具體多了。現在它談的是具體行動——展現主動、在跨團隊之間有存在感——而不是某種你要嘛有、要嘛沒有的模糊特質。"
+            "zh": "至少這具體多了。現在它談的是具體行動（展現主動、在跨團隊之間有存在感）而不是某種你要嘛有、要嘛沒有的模糊特質。"
           },
           {
             "speaker": "b",
@@ -2025,7 +2025,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. You can also say \"I want to take on more responsibility in area X\" — that communicates ambition without demanding a specific outcome.",
-            "zh": "對。你也可以說「我想在X領域承擔更多責任」——這傳遞了野心，而不要求一個具體的結果。"
+            "zh": "對。你也可以說「我想在X領域承擔更多責任」：這傳遞了野心，而不要求一個具體的結果。"
           },
           {
             "speaker": "b",

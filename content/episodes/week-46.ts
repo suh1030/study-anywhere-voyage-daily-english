@@ -210,7 +210,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what matters is not grand language. It is usable help.",
-            "zh": "所以真正重要的不是很大的語言，而是可用的幫忙。"
+            "zh": "所以真正重要的不是很大的語言，是可用的幫忙。"
           },
           {
             "speaker": "a",
@@ -277,7 +277,7 @@ export const WEEK_46: Episode[] = [
     "keyPhrases": [
       {
         "en": "shared support",
-        "zh": "不是一個人硬撐，而是彼此支撐的支持網",
+        "zh": "不是一個人硬撐，是彼此支撐的支持網",
         "example": "Shared support changed the whole situation for them."
       },
       {
@@ -396,7 +396,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the listener is not solving the problem, but helping the problem become speakable. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以聽的人不是直接解決問題，而是在幫問題變得可以說得出來。也許我把它講得比實際感受起來更乾淨了。"
+            "zh": "所以聽的人不是直接解決問題，是在幫問題變得可以說得出來。也許我把它講得比實際感受起來更乾淨了。"
           },
           {
             "speaker": "a",
@@ -608,7 +608,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "shared untangling",
-        "zh": "不是自己一個人硬整理，而是有人陪你一起理開",
+        "zh": "不是自己一個人硬整理，是有人陪你一起理開",
         "example": "The conversation felt like shared untangling."
       },
       {
@@ -701,7 +701,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The lasting kind. Not only the change that gets noticed, but the change that keeps helping after the spotlight moves on.",
-            "zh": "是能留下來的那種。不是只有被看見的改變，而是聚光燈移走之後，還繼續有幫助的改變。"
+            "zh": "是能留下來的那種。不是只有被看見的改變，是聚光燈移走之後，還繼續有幫助的改變。"
           },
           {
             "speaker": "b",
@@ -866,7 +866,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the first move is not self-expression. It is observation and respect.",
-            "zh": "所以第一步不是自我發揮，而是觀察和尊重。"
+            "zh": "所以第一步不是自我發揮，是觀察和尊重。"
           },
           {
             "speaker": "a",
@@ -904,7 +904,7 @@ export const WEEK_46: Episode[] = [
     "keyPhrases": [
       {
         "en": "steady service",
-        "zh": "不是一次很亮眼，而是長期穩定地付出",
+        "zh": "不是一次很亮眼，是長期穩定地付出",
         "example": "Steady service mattered more than one big event."
       },
       {
@@ -929,7 +929,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "organized action",
-        "zh": "不是零散熱情，而是有安排、有方向的行動",
+        "zh": "不是零散熱情，是有安排、有方向的行動",
         "example": "He turned concern into organized action."
       },
       {
@@ -939,7 +939,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "earned trust",
-        "zh": "不是一開始就有，而是靠長期在場慢慢建立的信任",
+        "zh": "不是一開始就有，是靠長期在場慢慢建立的信任",
         "example": "Their project worked because they had earned trust first."
       }
     ]
@@ -1159,7 +1159,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can, because many conflicts do not explode from the issue itself. They explode from the meaning people attach to the issue.",
-            "zh": "確實可以。因為很多衝突不是從議題本身爆炸，而是從人賦予那個議題的意義爆炸。"
+            "zh": "確實可以。因為很多衝突不是從議題本身爆炸，是從人賦予那個議題的意義爆炸。"
           },
           {
             "speaker": "b",
@@ -1195,7 +1195,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Real community is not the absence of conflict. It is the presence of enough care, structure, and repair that conflict does not end everything.",
-            "zh": "它本來就是。真正的社群，不是沒有衝突，而是有足夠的照顧、結構和修復，讓衝突不會變成一切的終點。"
+            "zh": "它本來就是。真正的社群，不是沒有衝突，是有足夠的照顧、結構和修復，讓衝突不會變成一切的終點。"
           },
           {
             "speaker": "b",
@@ -1287,7 +1287,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Social-good technology is not impressive because it is advanced. It is impressive because it becomes useful where people are already struggling.",
-            "zh": "沒錯。為社會有益的科技，不是因為很先進才厲害，而是因為它在大家本來就很辛苦的地方變得有用。"
+            "zh": "沒錯。為社會有益的科技，不是因為很先進才厲害，是因為它在大家本來就很辛苦的地方變得有用。"
           },
           {
             "speaker": "b",
@@ -1536,7 +1536,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "practical usefulness",
-        "zh": "工具不是炫技，而是真的能用",
+        "zh": "工具不是炫技，是真的能用",
         "example": "Practical usefulness mattered more than novelty."
       },
       {
@@ -1546,7 +1546,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "local partnership",
-        "zh": "不是外面的人單做，而是和在地的人一起做",
+        "zh": "不是外面的人單做，是和在地的人一起做",
         "example": "Local partnership changed the whole design process."
       },
       {
@@ -1561,7 +1561,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "access problem",
-        "zh": "真正卡住人的不是軟體，而是使用門檻或資源差距",
+        "zh": "真正卡住人的不是軟體，是使用門檻或資源差距",
         "example": "The access problem was bigger than the technical one."
       },
       {
@@ -1591,7 +1591,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Definitely. Many people first learn service not as a principle, but as something they watched an older person quietly do again and again.",
-            "zh": "一定會。很多人第一次學會服務，不是靠道理，而是一直看著某個長輩安靜地做同一件事。"
+            "zh": "一定會。很多人第一次學會服務，不是靠道理，是一直看著某個長輩安靜地做同一件事。"
           },
           {
             "speaker": "b",
@@ -1852,7 +1852,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "observed value",
-        "zh": "不是聽來的，而是看著大人怎麼做而學到的價值",
+        "zh": "不是聽來的，是看著大人怎麼做而學到的價值",
         "example": "That value was observed long before it was explained."
       },
       {
@@ -2049,7 +2049,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because many people are not starving for solutions first. They are starving for shared reality.",
-            "zh": "因為很多人最缺的，不是解法，而是有人和自己一起承認現實。"
+            "zh": "因為很多人最缺的，不是解法，是有人和自己一起承認現實。"
           }
         ]
       },
@@ -2096,7 +2096,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to be impressive. It is to be reliable. But does that leave anything out?",
-            "zh": "所以重點不是讓自己很厲害，而是讓自己很可靠。但這樣會不會漏掉了什麼？"
+            "zh": "所以重點不是讓自己很厲害，是讓自己很可靠。但這樣會不會漏掉了什麼？"
           },
           {
             "speaker": "a",
@@ -2178,12 +2178,12 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "small practical acts",
-        "zh": "不是誇張的大動作，而是日常真的有幫助的小事",
+        "zh": "不是誇張的大動作，是日常真的有幫助的小事",
         "example": "Small practical acts often mean the most."
       },
       {
         "en": "survival structure",
-        "zh": "不是抽象概念，而是讓人活得下去的支撐結構",
+        "zh": "不是抽象概念，是讓人活得下去的支撐結構",
         "example": "For many people, community became a survival structure."
       },
       {

@@ -74,7 +74,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I was the opposite — I'd try anything. My parents encouraged adventurous eating from very young.",
-            "zh": "我剛好相反——什麼都敢試。我爸媽從小就鼓勵我勇於嘗鮮。"
+            "zh": "我剛好相反：什麼都敢試。我爸媽從小就鼓勵我勇於嘗鮮。"
           },
           {
             "speaker": "b",
@@ -110,7 +110,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Expectations, company, ambiance — they all contribute to what your brain registers as taste.",
-            "zh": "期待、同伴、環境氛圍——它們都影響你的大腦對口味的感知。"
+            "zh": "期待、同伴、環境氛圍：它們都影響你的大腦對口味的感知。"
           }
         ]
       },
@@ -127,7 +127,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Congee without question. My mom's congee specifically — plain with ginger and a little soy sauce on top.",
-            "zh": "不用想，是粥。尤其是我媽煮的那種——清清淡淡，加點薑絲，上面淋一點醬油。"
+            "zh": "不用想，是粥。尤其是我媽煮的那種：清清淡淡，加點薑絲，上面淋一點醬油。"
           },
           {
             "speaker": "b",
@@ -192,7 +192,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because the taste of home is irreplaceable. You can adjust language, habits, even values — but you don't want to let go of the food.",
-            "zh": "因為家鄉味無可取代。語言、習慣、甚至價值觀都可以調整——但食物，誰都不想放手。"
+            "zh": "因為家鄉味無可取代。語言、習慣、甚至價值觀都可以調整，但食物，誰都不想放手。"
           },
           {
             "speaker": "b",
@@ -210,7 +210,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And the reverse — when people are curious about your food, they're being curious about you.",
-            "zh": "反過來也一樣——當別人對你吃的東西好奇，其實是在對你這個人好奇。"
+            "zh": "反過來也一樣：當別人對你吃的東西好奇，其實是在對你這個人好奇。"
           },
           {
             "speaker": "a",
@@ -257,7 +257,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is revealing. We've lost the ability to simply sit with a meal.",
-            "zh": "那種不自在本身就很說明問題——我們已經不會單純地坐下來吃一頓飯了。"
+            "zh": "那種不自在本身就很說明問題：我們已經不會單純地坐下來吃一頓飯了。"
           },
           {
             "speaker": "b",
@@ -349,7 +349,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In that situation, the honest move is actually the confident one. \"I haven't tried this place before — what are you in the mood for?\" puts it back in their court.",
-            "zh": "在那種情況下，誠實其實是最有自信的做法。「我沒來過這裡——你想吃什麼口味的？」這樣就把球丟回給他們了。"
+            "zh": "在那種情況下，誠實其實是最有自信的做法。「我沒來過這裡：你想吃什麼口味的？」這樣就把球丟回給他們了。"
           },
           {
             "speaker": "b",
@@ -384,7 +384,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I generally overthink restaurant situations. Seating, ordering, splitting the bill — all of it stresses me out.",
-            "zh": "我覺得我在餐廳的情況普遍想太多。座位、點餐、分帳——每件事都讓我很有壓力。"
+            "zh": "我覺得我在餐廳的情況普遍想太多。座位、點餐、分帳：每件事都讓我很有壓力。"
           },
           {
             "speaker": "a",
@@ -402,7 +402,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And how you treat servers. Being polite to service staff in a natural way — not overly formal, not dismissive — takes practice.",
-            "zh": "還有怎麼對待服務人員。用自然的方式對服務人員有禮貌——不過度正式，也不忽視他們——是需要練習的。"
+            "zh": "還有怎麼對待服務人員。用自然的方式對服務人員有禮貌（不過度正式，也不忽視他們）是需要練習的。"
           },
           {
             "speaker": "b",
@@ -414,7 +414,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's normal. The social layer adds pressure. And honestly, how you treat servers on a work dinner is visible — it signals a lot about you.",
-            "zh": "這很正常。社交那一層讓人有壓力。老實說，你在工作餐時怎麼對待服務人員是看得見的——這傳遞了很多關於你的訊息。"
+            "zh": "這很正常。社交那一層讓人有壓力。老實說，你在工作餐時怎麼對待服務人員是看得見的：這傳遞了很多關於你的訊息。"
           },
           {
             "speaker": "b",
@@ -455,7 +455,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you're choosing where to eat, word of mouth still beats any app. Ask colleagues who eat out a lot — they usually know the real spots.",
-            "zh": "選擇去哪裡吃的時候，口耳相傳還是勝過任何 App。問常外食的同事——他們通常知道真正的好地方。"
+            "zh": "選擇去哪裡吃的時候，口耳相傳還是勝過任何 App。問常外食的同事：他們通常知道真正的好地方。"
           },
           {
             "speaker": "b",
@@ -467,19 +467,19 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And when you read reviews, skip the star rating — read the actual text. Specific descriptions are way more useful than generic five-star praise.",
-            "zh": "而且看評論時，跳過星評——直接讀文字內容。具體的描述比泛泛的五星好評有用多了。"
+            "zh": "而且看評論時，跳過星評：直接讀文字內容。具體的描述比泛泛的五星好評有用多了。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I do that already. \"Great food great service\" means nothing. But \"the braised pork was falling apart\" — now I know what to order.",
-            "zh": "我已經這樣做了。「食物好、服務好」沒有任何意義。但「滷肉鬆得要散開來了」——這樣我就知道點什麼了。"
+            "zh": "我已經這樣做了。「食物好、服務好」沒有任何意義。但「滷肉鬆得要散開來了」：這樣我就知道點什麼了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Specific details are the signal. Vague praise is often just noise — sometimes written by the restaurant's own people.",
-            "zh": "具體的細節才是訊號。模糊的稱讚往往只是雜訊——有時候還是餐廳自己人寫的。"
+            "zh": "具體的細節才是訊號。模糊的稱讚往往只是雜訊：有時候還是餐廳自己人寫的。"
           }
         ]
       },
@@ -490,13 +490,13 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have another client dinner coming up next month. Completely different restaurant — upscale place I've never been to.",
-            "zh": "我下個月還有另一場客戶晚餐。完全不同的餐廳——一個我從來沒去過的高檔地方。"
+            "zh": "我下個月還有另一場客戶晚餐。完全不同的餐廳：一個我從來沒去過的高檔地方。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Go look it up before you go. Read the menu. Pick two or three things you'd genuinely enjoy — not just safe choices.",
-            "zh": "去之前先查一下。看看菜單。選兩三樣你真心想吃的——不只是保險選項。"
+            "zh": "去之前先查一下。看看菜單。選兩三樣你真心想吃的，不只是保險選項。"
           },
           {
             "speaker": "b",
@@ -520,7 +520,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right, and there's more to it — when you show you've prepared, it signals that you respect the client's time. That impression sticks.",
-            "zh": "對，還有更多——當你表現出你有準備，這傳遞出你尊重客戶的時間。這個印象會留下來的。"
+            "zh": "對，還有更多：當你表現出你有準備，這傳遞出你尊重客戶的時間。這個印象會留下來的。"
           },
           {
             "speaker": "b",
@@ -532,7 +532,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The restaurant is just the setting. The real work is showing up ready to connect — and preparation is what gets you there.",
-            "zh": "餐廳只是個舞台。真正重要的是準備好去連結對方——而事前準備就是讓你做到這一點的方式。"
+            "zh": "餐廳只是個舞台。真正重要的是準備好去連結對方，而事前準備就是讓你做到這一點的方式。"
           }
         ]
       }
@@ -600,7 +600,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Worth every cent though. Night market food hits different — the air, the crowd, the sizzling sounds.",
-            "zh": "但每一塊錢都花得值得。夜市的食物就是不一樣——空氣裡的香味、人潮、鐵板滋滋的聲音。"
+            "zh": "但每一塊錢都花得值得。夜市的食物就是不一樣：空氣裡的香味、人潮、鐵板滋滋的聲音。"
           },
           {
             "speaker": "b",
@@ -624,7 +624,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Low overhead — no rent for a dining room, no waitstaff. The savings go into the ingredients and the recipe.",
-            "zh": "成本低嘛——不用租用餐空間、不用請外場。省下來的錢全都灌進食材和手藝裡。"
+            "zh": "成本低嘛，不用租用餐空間、不用請外場。省下來的錢全都灌進食材和手藝裡。"
           },
           {
             "speaker": "b",
@@ -665,7 +665,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's local knowledge — the kind you only get by living somewhere or knowing locals. Apps can't give you that.",
-            "zh": "那就是在地情報——只有住過那裡、或認識在地人才拿得到。App 給不了你這種東西。"
+            "zh": "那就是在地情報，只有住過那裡、或認識在地人才拿得到。App 給不了你這種東西。"
           },
           {
             "speaker": "b",
@@ -771,7 +771,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "High turnover also helps — when food moves quickly, it's not sitting around getting old.",
-            "zh": "周轉快也有幫助——東西賣得快，食材就不會放到不新鮮。"
+            "zh": "周轉快也有幫助：東西賣得快，食材就不會放到不新鮮。"
           },
           {
             "speaker": "b",
@@ -975,7 +975,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Output-based definition rather than input-based. Not \"I ate X grams of protein\" but \"how do I feel?\"",
-            "zh": "用結果來定義，而不是用吃進什麼來定義。不是「我吃了幾克蛋白質」，而是「我現在感覺如何」。"
+            "zh": "用結果來定義，而不是用吃進什麼來定義。重點不是「我吃了幾克蛋白質」，是「我現在感覺如何」。"
           },
           {
             "speaker": "a",
@@ -1093,7 +1093,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's not about weight — it's about neurochemistry. How food affects your brain directly.",
-            "zh": "這跟體重無關，是神經化學的問題——食物會直接影響大腦。"
+            "zh": "這跟體重無關，是神經化學的問題：食物會直接影響大腦。"
           },
           {
             "speaker": "a",
@@ -1123,7 +1123,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Orthorexia — the obsession with eating healthily — is itself a disorder. Too much focus on food is unhealthy.",
-            "zh": "完全同意。「健康飲食癡迷症」——過度執著於吃得健康——本身就是一種飲食失調。太在意食物，反而不健康。"
+            "zh": "完全同意。「健康飲食癡迷症」（過度執著於吃得健康）本身就是一種飲食失調。太在意食物，反而不健康。"
           },
           {
             "speaker": "b",
@@ -1227,7 +1227,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That sudden food memory is powerful. People sometimes call it a Proustian memory — a taste or smell can unlock a very specific moment in your past.",
-            "zh": "那種突然出現的食物記憶很有力量。有人把它叫做「普魯斯特記憶」——一種味道或氣味，可能會把你帶回過去某個很具體的時刻。"
+            "zh": "那種突然出現的食物記憶很有力量。有人把它叫做「普魯斯特記憶」：一種味道或氣味，可能會把你帶回過去某個很具體的時刻。"
           },
           {
             "speaker": "b",
@@ -1251,7 +1251,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It's why food memory is so emotionally potent. The food and the memory literally share the same neural real estate.",
-            "zh": "對。所以食物記憶的情感衝擊才會這麼強——食物和記憶真的住在大腦的同一個地址。"
+            "zh": "對。所以食物記憶的情感衝擊才會這麼強：食物和記憶真的住在大腦的同一個地址。"
           },
           {
             "speaker": "b",
@@ -1345,7 +1345,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Close but not quite. I think the altitude, the wood fire, the person who made it — those things can't be replicated in my kitchen.",
-            "zh": "接近，但就差那麼一點。我想是海拔、柴火、還有掌勺的那個人——這些在我家廚房裡怎樣都複製不出來。"
+            "zh": "接近，但就差那麼一點。我想是海拔、柴火、還有掌勺的那個人：這些在我家廚房裡怎樣都複製不出來。"
           },
           {
             "speaker": "b",
@@ -1363,7 +1363,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The memory is a guide, not a destination. You're not really trying to recreate the dish — you're having a conversation with it.",
-            "zh": "記憶是路標，不是終點。你其實不是在重現那道菜，而是在跟它對話。"
+            "zh": "記憶是路標，不是終點。你其實不是在重現那道菜，是在跟它對話。"
           },
           {
             "speaker": "a",
@@ -1392,7 +1392,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Substituting ingredients while keeping the spirit. Not the exact formula but the feeling.",
-            "zh": "換食材，但留住精神。重點不是一模一樣的配方，而是那個味道的感覺。"
+            "zh": "換食材，但留住精神。重點不在一模一樣的配方，而在那個味道的感覺。"
           },
           {
             "speaker": "a",
@@ -1410,7 +1410,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's adaptation in service of continuity. The most important thing survived — the ritual and the warmth.",
-            "zh": "那是為了讓它傳下去而做的調整。最重要的東西留住了——那個儀式，還有那份溫暖。"
+            "zh": "那是為了讓它傳下去而做的調整。最重要的東西留住了：那個儀式，還有那份溫暖。"
           },
           {
             "speaker": "b",
@@ -1445,7 +1445,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The best memories happen in the margins. Not the formal dinner, but the late-night snack you shared after.",
-            "zh": "最好的記憶常常發生在正戲之外——不是那頓正式晚餐，而是散場後一起吃的宵夜。"
+            "zh": "最好的記憶常常發生在正戲之外：不是那頓正式晚餐，是散場後一起吃的宵夜。"
           },
           {
             "speaker": "a",
@@ -1463,7 +1463,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because emotion does the encoding. High emotion — laughter, surprise, love — burns the memory in deeper.",
-            "zh": "因為記憶是靠情感寫入的。情緒越強烈——大笑、驚喜、愛——記憶就刻得越深。"
+            "zh": "因為記憶是靠情感寫入的。情緒越強烈（大笑、驚喜、愛）記憶就刻得越深。"
           },
           {
             "speaker": "b",
@@ -1626,7 +1626,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Giving credit, learning seriously, sharing profits fairly — those seem like the markers of respectful cross-cultural cooking.",
-            "zh": "註明出處、認真下功夫學、利益公平分配——這幾點大概就是「有敬意的跨文化料理」的指標。"
+            "zh": "註明出處、認真下功夫學、利益公平分配：這幾點大概就是「有敬意的跨文化料理」的指標。"
           },
           {
             "speaker": "a",
@@ -1649,7 +1649,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I tried a fermented shark from Iceland. The smell was almost unbearable but I got through it. One small piece.",
-            "zh": "我在冰島吃過發酵鯊魚肉。那個味道幾乎讓人受不了，但我還是撐完了——就一小塊。"
+            "zh": "我在冰島吃過發酵鯊魚肉。那個味道幾乎讓人受不了，但我還是撐完了：就一小塊。"
           },
           {
             "speaker": "b",
@@ -1708,7 +1708,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How much overlap there is. The spice combinations, the cooking techniques — so many parallels across different cultures.",
-            "zh": "發現重疊的地方超多。香料的搭配、烹調的手法——不同文化之間的共通點多到驚人。"
+            "zh": "發現重疊的地方超多。香料的搭配、烹調的手法，不同文化之間的共通點多到驚人。"
           },
           {
             "speaker": "a",
@@ -1726,7 +1726,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Braising, stewing, pot roasting — different names, same beautiful principle. Low and slow.",
-            "zh": "紅燒、燉煮、爐烤——名字不同，原理都一樣美：小火慢慢來。"
+            "zh": "紅燒、燉煮、爐烤：名字不同，原理都一樣美：小火慢慢來。"
           },
           {
             "speaker": "b",
@@ -1738,7 +1738,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfectly put. And every time you cook a new cuisine, you learn a new vocabulary. The grammar was always the same.",
-            "zh": "講得真準。而且每學做一種新料理，就像多學了一批單字——文法從頭到尾都是同一套。"
+            "zh": "講得真準。而且每學做一種新料理，就像多學了一批單字：文法從頭到尾都是同一套。"
           },
           {
             "speaker": "b",
@@ -1756,7 +1756,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The idea that \"I love your food\" can become \"I respect your culture\" which can become \"I want to understand you.\"",
-            "zh": "從「我愛你們的食物」，到「我尊重你們的文化」，再到「我想認識你們」——這條路是通的。"
+            "zh": "從「我愛你們的食物」，到「我尊重你們的文化」，再到「我想認識你們」：這條路是通的。"
           },
           {
             "speaker": "a",
@@ -1786,7 +1786,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ha! Maybe the other half isn't a joke. Shared meals, shared humanity. It's not the worst starting point.",
-            "zh": "哈！說不定另一半還真不是玩笑。一起吃飯，共享人性——當起點其實挺不錯的。"
+            "zh": "哈！說不定另一半還真不是玩笑。一起吃飯，共享人性：當起點其實挺不錯的。"
           }
         ]
       }
@@ -1890,7 +1890,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Language shapes perception. \"Shrimp\" sounds more appealing than \"sea bug\" even though that's basically what a shrimp is.",
-            "zh": "語言會左右認知。「蝦子」聽起來就是比「海裡的蟲」可口——雖然蝦子差不多就是那種東西。"
+            "zh": "語言會左右認知。「蝦子」聽起來就是比「海裡的蟲」可口：雖然蝦子差不多就是那種東西。"
           }
         ]
       },
@@ -1937,7 +1937,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Ha, true. The creativity is in how you execute, tweak, and adapt — not necessarily in inventing from scratch every time.",
-            "zh": "哈，也對。創意在於怎麼下手、怎麼微調、怎麼變化——不用每次都從零發明。"
+            "zh": "哈，也對。創意在於怎麼下手、怎麼微調、怎麼變化，不用每次都從零發明。"
           },
           {
             "speaker": "a",
@@ -1966,7 +1966,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That creates an ethical dimension to food choices that didn't exist fifty years ago. Every meal has an ecological footprint.",
-            "zh": "所以現在選擇吃什麼，多了一層五十年前沒有的倫理考量——每一餐都有它的生態足跡。"
+            "zh": "所以現在選擇吃什麼，多了一層五十年前沒有的倫理考量：每一餐都有它的生態足跡。"
           },
           {
             "speaker": "a",
@@ -1984,7 +1984,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The systemic level matters most. Policy, subsidies, food education — those reach everyone, not just people who can afford organic.",
-            "zh": "最關鍵的還是系統層面：政策、補貼、飲食教育——這些能照顧到所有人，不是只有買得起有機食品的人。"
+            "zh": "最關鍵的還是系統層面：政策、補貼、飲食教育：這些能照顧到所有人，不是只有買得起有機食品的人。"
           },
           {
             "speaker": "b",
@@ -2013,13 +2013,13 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Less time or different priorities. Cooking time hasn't disappeared — it's been reallocated. To other work, to screens, to commuting.",
-            "zh": "是時間變少，還是優先順序變了？煮飯的時間並沒有消失，只是被挪去別的地方了——加班、滑手機、通勤。"
+            "zh": "是時間變少，還是優先順序變了？煮飯的時間並沒有消失，只是被挪去別的地方了：加班、滑手機、通勤。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Meal kits are interesting — they meet you in the middle. Fresh ingredients, no planning, some skill still needed.",
-            "zh": "料理包滿有趣的——它剛好站在中間跟你會合：食材新鮮、不用自己規劃，但還是得動手做一點。"
+            "zh": "料理包滿有趣的：它剛好站在中間跟你會合：食材新鮮、不用自己規劃，但還是得動手做一點。"
           },
           {
             "speaker": "a",
@@ -2078,7 +2078,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And the generation that reconnected with food after decades of processed food dominance. The sourdough era, fermentation, farm-to-table.",
-            "zh": "還是在加工食品當道幾十年後，重新跟食物搭上線的一代——酸種麵包熱、發酵風潮、產地直送餐桌。"
+            "zh": "還是在加工食品當道幾十年後，重新跟食物搭上線的一代：酸種麵包熱、發酵風潮、產地直送餐桌。"
           },
           {
             "speaker": "b",
@@ -2102,7 +2102,7 @@ export const WEEK_06: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What a way to end the week. The plate holds everything. I think that might be the most important thing we've said.",
-            "zh": "用這句話收尾真好——小小一個盤子，裝著這一切。這大概是我們這週講過最重要的一句話。"
+            "zh": "用這句話收尾真好：小小一個盤子，裝著這一切。這大概是我們這週講過最重要的一句話。"
           }
         ]
       }

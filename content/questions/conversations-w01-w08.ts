@@ -289,7 +289,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     'Food & Eating Habits',
     'Monday',
     'When you need comfort, what food do you usually want, and what does it give you besides taste?',
-    '這題不只是在講食物，而是在講那個食物帶來的安全感、熟悉感或回憶。',
+    '這題講的不只是食物，更是那個食物帶來的安全感、熟悉感或回憶。',
     'Mention the food first, then move beyond flavor into mood, memory, or routine.',
   ),
   q(
@@ -403,7 +403,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     'Shopping & Money',
     'Monday',
     'What does your spending over the last month reveal about what you really care about?',
-    '這題不是在檢討自己，而是誠實看最近的錢都流去哪裡。',
+    '這題不是在檢討自己，是誠實看最近的錢都流去哪裡。',
     'Talk about patterns, not single purchases, and say what those patterns suggest.',
   ),
   q(

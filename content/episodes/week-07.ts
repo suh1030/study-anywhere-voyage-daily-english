@@ -80,7 +80,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Muggy — that is perfect for Taipei in the peak of summer. Hot and humid like breathing wet air.",
-            "zh": "「muggy」——這根本就是台北盛夏的寫照。又熱又濕，像在呼吸一口水。"
+            "zh": "「muggy」：這根本就是台北盛夏的寫照。又熱又濕，像在呼吸一口水。"
           },
           {
             "speaker": "a",
@@ -110,7 +110,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Crisp\" is another good one — cool and clear air with low humidity. Perfect autumn morning kind of weather.",
-            "zh": "「crisp」也很好用——空氣涼涼的、乾乾淨淨、濕度低，就是最完美的秋天早晨那種天氣。"
+            "zh": "「crisp」也很好用：空氣涼涼的、乾乾淨淨、濕度低，就是最完美的秋天早晨那種天氣。"
           }
         ]
       },
@@ -127,7 +127,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Seasonal Affective Disorder is real — the lack of sunlight in winter genuinely disrupts mood and energy regulation.",
-            "zh": "季節性憂鬱是真的存在的——冬天日照不足，確實會打亂情緒和精力的調節。"
+            "zh": "季節性憂鬱是真的存在的：冬天日照不足，確實會打亂情緒和精力的調節。"
           },
           {
             "speaker": "b",
@@ -139,7 +139,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Serotonin production is linked to light exposure. Less light means less serotonin. Melatonin disruption too — your body can't tell when to sleep or wake.",
-            "zh": "血清素的分泌跟光照有關：光越少，血清素越少。褪黑激素也會亂掉——身體分不清什麼時候該睡、什麼時候該醒。"
+            "zh": "血清素的分泌跟光照有關：光越少，血清素越少。褪黑激素也會亂掉：身體分不清什麼時候該睡、什麼時候該醒。"
           },
           {
             "speaker": "b",
@@ -198,7 +198,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Satellites, ocean buoys, weather stations, airplane sensors — all feeding into the model.",
-            "zh": "衛星、海上浮標、氣象站、飛機上的感測器——全部餵進同一個模型裡。"
+            "zh": "衛星、海上浮標、氣象站、飛機上的感測器：全部餵進同一個模型裡。"
           },
           {
             "speaker": "a",
@@ -216,7 +216,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exact timing and location of convective storms — thunderstorms that develop suddenly. And long-range beyond ten days is still quite uncertain.",
-            "zh": "對流性雷雨——那種突然冒出來的雷陣雨——確切的時間地點還抓不準。另外十天以上的長期預報，也還是很不可靠。"
+            "zh": "對流性雷雨（那種突然冒出來的雷陣雨）確切的時間地點還抓不準。另外十天以上的長期預報，也還是很不可靠。"
           },
           {
             "speaker": "b",
@@ -338,7 +338,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Plum rain — because it coincides with plum blossoms ripening. I love that naming.",
-            "zh": "梅雨——因為剛好是梅子熟成的季節。這個名字取得真好。"
+            "zh": "梅雨：因為剛好是梅子熟成的季節。這個名字取得真好。"
           },
           {
             "speaker": "a",
@@ -368,7 +368,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's how you know it's working. All that water was in your air. Better in the tank than in your walls.",
-            "zh": "會倒水才代表它有在做事啊。那些水本來全飄在你的空氣裡——進水箱總比滲進牆壁好。"
+            "zh": "會倒水才代表它有在做事啊。那些水本來全飄在你的空氣裡：進水箱總比滲進牆壁好。"
           }
         ]
       },
@@ -415,7 +415,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Japan has amazing umbrella culture — you leave it at the door in a plastic sleeve. Very organized.",
-            "zh": "日本的雨傘文化很厲害——進門前把傘套進塑膠袋裡，超有秩序。"
+            "zh": "日本的雨傘文化很厲害：進門前把傘套進塑膠袋裡，超有秩序。"
           },
           {
             "speaker": "a",
@@ -450,13 +450,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Some cultures do this well. In Scandinavia there's a concept called \"hygge\" — embracing coziness when it's cold and dark outside.",
-            "zh": "有些文化很擅長這件事。北歐有個概念叫「hygge」——外頭又冷又暗的時候，就專心把室內過得溫暖舒服。"
+            "zh": "有些文化很擅長這件事。北歐有個概念叫「hygge」：外頭又冷又暗的時候，就專心把室內過得溫暖舒服。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Candles, warm drinks, cozy blankets — making the inside so comfortable that the outside doesn't matter.",
-            "zh": "蠟燭、熱飲、軟綿綿的毯子——把家裡弄得舒服到外面什麼天氣都無所謂。"
+            "zh": "蠟燭、熱飲、軟綿綿的毯子：把家裡弄得舒服到外面什麼天氣都無所謂。"
           },
           {
             "speaker": "a",
@@ -485,7 +485,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "From a bigger picture, rainy season isn't just inconvenient — it's essential for the ecosystem and agriculture.",
-            "zh": "拉遠來看，雨季不只是麻煩而已——生態系和農業都少不了它。"
+            "zh": "拉遠來看，雨季不只是麻煩而已：生態系和農業都少不了它。"
           },
           {
             "speaker": "a",
@@ -550,7 +550,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The smell of rain on hot pavement — petrichor. That's one of my favorite things in the world.",
-            "zh": "雨落在曬燙的柏油路上那個味道——雨後的土味。那是我在這世界上最愛的東西之一。"
+            "zh": "雨落在曬燙的柏油路上那個味道：雨後的土味。那是我在這世界上最愛的東西之一。"
           },
           {
             "speaker": "a",
@@ -580,7 +580,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There's something primal about that. The storm outside, the safety inside. It's been comforting humans for thousands of years.",
-            "zh": "那是很原始的本能。外面風雨交加、裡面安全溫暖——這種安心感撫慰了人類幾千年。"
+            "zh": "那是很原始的本能。外面風雨交加、裡面安全溫暖：這種安心感撫慰了人類幾千年。"
           }
         ]
       }
@@ -701,7 +701,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Arcades on the ground floor too — the covered walkways. So you can walk the whole city without getting wet.",
-            "zh": "還有一樓的騎樓——有屋頂的走道，讓你走遍整座城市都不會淋濕。"
+            "zh": "還有一樓的騎樓：有屋頂的走道，讓你走遍整座城市都不會淋濕。"
           },
           {
             "speaker": "b",
@@ -719,7 +719,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Compare that to Nordic architecture — small windows to retain heat, thick walls as insulation.",
-            "zh": "對照北歐建築就相反——小窗戶留住熱氣，厚牆負責隔絕寒冷。"
+            "zh": "對照北歐建築就相反：小窗戶留住熱氣，厚牆負責隔絕寒冷。"
           },
           {
             "speaker": "a",
@@ -748,7 +748,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Almost every traditional community event is tied to a season or a moment in the weather — the long days of midsummer, the harvest, the turning point of the cold season.",
-            "zh": "幾乎每個傳統節慶都連著某個季節或天氣的節點——仲夏的長日、收成的時節、寒冬將至的轉折。"
+            "zh": "幾乎每個傳統節慶都連著某個季節或天氣的節點：仲夏的長日、收成的時節、寒冬將至的轉折。"
           },
           {
             "speaker": "a",
@@ -760,13 +760,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "A harvest gathering at harvest time made literal sense — you were marking that the crops were safely in before winter.",
-            "zh": "收成時節辦豐收聚會是有實際意義的——慶祝作物趕在冬天之前都平安入倉了。"
+            "zh": "收成時節辦豐收聚會是有實際意義的：慶祝作物趕在冬天之前都平安入倉了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And cold-season turning point, the longest night — gatherings helped people cope psychologically with the darkness ahead.",
-            "zh": "而寒帶的節慶傳統多半落在夜最長的時候——大家聚在一起，心理上才撐得過接下來的漫漫黑夜。"
+            "zh": "而寒帶的節慶傳統多半落在夜最長的時候：大家聚在一起，心理上才撐得過接下來的漫漫黑夜。"
           },
           {
             "speaker": "b",
@@ -843,7 +843,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Natural fibers are usually better in humidity. Linen especially — it's cool, breathable, and looks decent even when slightly crumpled.",
-            "zh": "潮濕天氣還是天然纖維好。尤其是亞麻——涼爽、透氣，就算有點皺看起來也不邋遢。"
+            "zh": "潮濕天氣還是天然纖維好。尤其是亞麻：涼爽、透氣，就算有點皺看起來也不邋遢。"
           },
           {
             "speaker": "b",
@@ -855,7 +855,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I started a seasonal food practice — eating what's actually in season locally. It forces you to notice what time of year it is.",
-            "zh": "我開始練習吃當令食材——只買本地真正當季的東西。這會逼你注意到現在是一年裡的哪個時節。"
+            "zh": "我開始練習吃當令食材，只買本地真正當季的東西。這會逼你注意到現在是一年裡的哪個時節。"
           },
           {
             "speaker": "b",
@@ -885,7 +885,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I get why it feels that way. It does feel like exposure therapy for weather aversion. But I get it — actually experiencing it instead of just enduring it.",
-            "zh": "聽起來像在做「怕天氣」的減敏訓練。但我懂你的意思——是去體驗它，而不是咬牙忍它。"
+            "zh": "聽起來像在做「怕天氣」的減敏訓練。但我懂你的意思，是去體驗它，而不是咬牙忍它。"
           },
           {
             "speaker": "a",
@@ -971,7 +971,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It's not decades away though. The effects are here now — more extreme weather, shifting seasons, ecological disruption.",
-            "zh": "但這根本不是幾十年後的事，影響現在就在眼前——極端天氣變多、季節錯亂、生態被打亂。"
+            "zh": "但這根本不是幾十年後的事，影響現在就在眼前：極端天氣變多、季節錯亂、生態被打亂。"
           },
           {
             "speaker": "b",
@@ -1083,7 +1083,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There's something to being part of a movement. Individual effort validated by collective direction.",
-            "zh": "參與一場運動的感覺真的不一樣——個人的努力，會被集體的方向接住。"
+            "zh": "參與一場運動的感覺真的不一樣：個人的努力，會被集體的方向接住。"
           },
           {
             "speaker": "a",
@@ -1130,7 +1130,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The speed of renewable energy adoption. Solar costs fell 90% in a decade. That speed of change was not predicted.",
-            "zh": "再生能源普及的速度。太陽能成本十年內掉了九成——當年沒有任何人預測到會這麼快。"
+            "zh": "再生能源普及的速度。太陽能成本十年內掉了九成：當年沒有任何人預測到會這麼快。"
           },
           {
             "speaker": "b",
@@ -1171,7 +1171,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I draw the circle small. My neighborhood, my community, the people in front of me. That I can affect directly.",
-            "zh": "我把圈圈畫小一點：我的社區、我的圈子、眼前的人——只顧好我能直接影響的範圍。"
+            "zh": "我把圈圈畫小一點：我的社區、我的圈子、眼前的人，只顧好我能直接影響的範圍。"
           },
           {
             "speaker": "b",
@@ -1201,7 +1201,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I feel most motivated after a hike — when I've actually seen the world I'm trying to protect.",
-            "zh": "我每次爬完山最有動力——因為親眼看見了自己想保護的世界。"
+            "zh": "我每次爬完山最有動力：因為親眼看見了自己想保護的世界。"
           },
           {
             "speaker": "a",
@@ -1311,7 +1311,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That sense of powerlessness is actually part of what makes weather events fascinating in retrospect. You survived something bigger than yourself.",
-            "zh": "那種無能為力，其實正是天災事後回想起來讓人著迷的原因之一——你在遠比自己巨大的力量面前活了下來。"
+            "zh": "那種無能為力，其實正是天災事後回想起來讓人著迷的原因之一：你在遠比自己巨大的力量面前活了下來。"
           }
         ]
       },
@@ -1470,7 +1470,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Be careful what you wish for! Blizzards are beautiful until you're trapped inside for three days.",
-            "zh": "許願要小心啊！暴風雪很美——美到你被困在屋裡三天為止。"
+            "zh": "許願要小心啊！暴風雪很美：美到你被困在屋裡三天為止。"
           }
         ]
       },
@@ -1523,7 +1523,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Never just meteorology. It's history, culture, politics, memory, emotion. The sky holds everything too.",
-            "zh": "從來不只是氣象。它是歷史、文化、政治、記憶、情感——天空也一樣裝著這一切。"
+            "zh": "從來不只是氣象。它是歷史、文化、政治、記憶、情感：天空也一樣裝著這一切。"
           }
         ]
       }
@@ -1609,13 +1609,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The classic study — people crossing a shaky bridge are more likely to call the interviewer. The fear was confused for attraction.",
-            "zh": "就是那個經典實驗——走過搖晃吊橋的人，事後更容易打電話給訪問者。大腦把恐懼誤認成心動了。"
+            "zh": "就是那個經典實驗：走過搖晃吊橋的人，事後更容易打電話給訪問者。大腦把恐懼誤認成心動了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. So cold weather date activities — ice skating, hot cocoa by the heater — work partly because of shared physical sensation.",
-            "zh": "沒錯。所以冬天的約會行程——溜冰、窩在暖爐邊喝熱可可——會有效，一部分就是因為那種共同的身體感受。"
+            "zh": "沒錯。所以冬天的約會行程（溜冰、窩在暖爐邊喝熱可可）會有效，一部分就是因為那種共同的身體感受。"
           },
           {
             "speaker": "b",
@@ -1638,13 +1638,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Weather has such a huge role in literature. \"It was a dark and stormy night\" — the ultimate cliché of setting a mood.",
-            "zh": "天氣在文學裡的戲份超重。「那是一個風雨交加的黑夜」——營造氣氛的頭號老梗。"
+            "zh": "天氣在文學裡的戲份超重。「那是一個風雨交加的黑夜」：營造氣氛的頭號老梗。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The pathetic fallacy — when weather reflects the emotional state of the characters or story. It's deeply effective even when overused.",
-            "zh": "這叫「情景交融」——用天氣去呼應角色或劇情的情緒。就算用到爛，還是很有效。"
+            "zh": "這叫「情景交融」：用天氣去呼應角色或劇情的情緒。就算用到爛，還是很有效。"
           },
           {
             "speaker": "b",
@@ -1662,7 +1662,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "There's something about a beautiful day after a loss. The world just keeps going regardless, which is both comforting and painful.",
-            "zh": "失去之後遇上大晴天，感覺很複雜。世界照常運轉——既是安慰，也是刺痛。"
+            "zh": "失去之後遇上大晴天，感覺很複雜。世界照常運轉：既是安慰，也是刺痛。"
           },
           {
             "speaker": "a",
@@ -1674,7 +1674,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Japanese art captures that beautifully — the natural world going on while human things happen within it.",
-            "zh": "日本的藝術把這一點抓得很美——自然靜靜運行，人間的事只是在其中流轉。"
+            "zh": "日本的藝術把這一點抓得很美：自然靜靜運行，人間的事只是在其中流轉。"
           },
           {
             "speaker": "a",
@@ -1733,7 +1733,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Presence is free. That's the most romantic thing about weather moments — they force you to be here now.",
-            "zh": "專心在當下是免費的。這就是天氣時刻最浪漫的地方——它逼你只能活在此時此刻。"
+            "zh": "專心在當下是免費的。這就是天氣時刻最浪漫的地方：它逼你只能活在此時此刻。"
           }
         ]
       },
@@ -1750,13 +1750,13 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a beautiful metaphor. Spring as new love — everything bright and growing and uncertain. Summer as the peak of connection and ease.",
-            "zh": "這比喻真美。春天是熱戀期——一切明亮、蓬勃、又充滿未知；夏天是感情最緊密、最自在的高峰。"
+            "zh": "這比喻真美。春天是熱戀期：一切明亮、蓬勃、又充滿未知；夏天是感情最緊密、最自在的高峰。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And autumn as depth and maturity — the relationship becomes richer, more complex, more beautiful in a quieter way.",
-            "zh": "秋天則是深度和成熟——關係變得更豐厚、更複雜，用一種安靜的方式變得更美。"
+            "zh": "秋天則是深度和成熟：關係變得更豐厚、更複雜，用一種安靜的方式變得更美。"
           },
           {
             "speaker": "a",
@@ -1833,7 +1833,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Choosing each other in bad weather is the whole point of a relationship. Not just the sunny days.",
-            "zh": "在壞天氣裡依然選擇對方，這就是感情的全部意義了——而不是只在晴天相愛。"
+            "zh": "在壞天氣裡依然選擇對方，這就是感情的全部意義了，而不是只在晴天相愛。"
           },
           {
             "speaker": "a",
@@ -1913,7 +1913,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I've always wanted to see cherry blossoms in Japan. That requires perfect timing — a week too early or late and you miss it.",
-            "zh": "我一直想去日本賞櫻。但時機要抓得超準——早一週或晚一週就整個錯過。"
+            "zh": "我一直想去日本賞櫻。但時機要抓得超準：早一週或晚一週就整個錯過。"
           },
           {
             "speaker": "a",
@@ -1931,7 +1931,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The Scandinavians do it with northern lights — chasing them across Norway, Iceland, Finland during winter. Weather-dependent adventure.",
-            "zh": "北歐人追極光就是這樣玩的——整個冬天穿越挪威、冰島、芬蘭去追。一場看天吃飯的冒險。"
+            "zh": "北歐人追極光就是這樣玩的：整個冬天穿越挪威、冰島、芬蘭去追。一場看天吃飯的冒險。"
           },
           {
             "speaker": "b",
@@ -1943,7 +1943,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the nature of it. Some travelers come back without seeing the aurora. But they saw winter Iceland, which is spectacular anyway.",
-            "zh": "這就是它的本質啊。有些人真的沒看到極光就回來了，但他們看到了冬天的冰島——那本身就夠壯觀了。"
+            "zh": "這就是它的本質啊。有些人真的沒看到極光就回來了，但他們看到了冬天的冰島：那本身就夠壯觀了。"
           }
         ]
       },
@@ -1960,7 +1960,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Depends on where in Southeast Asia. It's not uniform — when it's rainy season on one coast, the other coast is usually dry.",
-            "zh": "要看是東南亞的哪裡。那邊的雨季不是同步的——這個海岸下雨的時候，另一邊的海岸通常是乾季。"
+            "zh": "要看是東南亞的哪裡。那邊的雨季不是同步的：這個海岸下雨的時候，另一邊的海岸通常是乾季。"
           },
           {
             "speaker": "b",
@@ -2037,7 +2037,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's actually a travel philosophy — surrender to the detour. Weather delays, missed buses, wrong turns can all be where the real adventure is.",
-            "zh": "這根本是一種旅行哲學——順著意外走。天氣延誤、錯過的公車、走錯的路，往往才是冒險真正開始的地方。"
+            "zh": "這根本是一種旅行哲學：順著意外走。天氣延誤、錯過的公車、走錯的路，往往才是冒險真正開始的地方。"
           },
           {
             "speaker": "b",
@@ -2078,7 +2078,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The sublime — the sense of awe mixed with fear at something vast and powerful. It's a very specific and profound human experience.",
-            "zh": "這就是「崇高感」——面對巨大而強悍的事物時，敬畏混著恐懼的感覺。是一種很特別、很深刻的人類經驗。"
+            "zh": "這就是「崇高感」：面對巨大而強悍的事物時，敬畏混著恐懼的感覺。是一種很特別、很深刻的人類經驗。"
           },
           {
             "speaker": "b",
@@ -2090,7 +2090,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Humbling is the right word. You feel small but not in a bad way. Small in a larger-story kind of way.",
-            "zh": "「謙卑」這個詞下得好。你會覺得自己渺小，但不是難受的那種——是「原來我屬於一個更大的故事」的那種渺小。"
+            "zh": "「謙卑」這個詞下得好。你會覺得自己渺小，但不是難受的那種，是「原來我屬於一個更大的故事」的那種渺小。"
           },
           {
             "speaker": "b",
@@ -2126,19 +2126,19 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly my vibe. Though I'd also say Kyoto in early spring before the cherry blossom crowds arrive.",
-            "zh": "完全是我的菜。不過我也想說早春的京都——賞櫻人潮湧進來之前的那段。"
+            "zh": "完全是我的菜。不過我也想說早春的京都：賞櫻人潮湧進來之前的那段。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Mine would be Iceland in deep winter — the long nights, the possibility of northern lights, geothermal pools in the snow.",
-            "zh": "我的話會想去隆冬的冰島——漫長的夜晚、看見極光的可能，還有雪裡的地熱溫泉。"
+            "zh": "我的話會想去隆冬的冰島：漫長的夜晚、看見極光的可能，還有雪裡的地熱溫泉。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I can picture it vividly — sitting in hot water while it snows around you under a clear sky, hoping for aurora. What an image.",
-            "zh": "畫面感好強——泡在熱呼呼的水裡，雪在身邊飄，抬頭是晴朗的夜空，等著極光出現。太美了。"
+            "zh": "畫面感好強：泡在熱呼呼的水裡，雪在身邊飄，抬頭是晴朗的夜空，等著極光出現。太美了。"
           },
           {
             "speaker": "b",
@@ -2150,7 +2150,7 @@ export const WEEK_07: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The weather is the experience itself. Being in it, being moved by it. That's a kind of travel that goes very deep.",
-            "zh": "天氣本身就是那趟旅行的主角。走進它、被它打動——那是一種進到心裡很深的旅行。"
+            "zh": "天氣本身就是那趟旅行的主角。走進它、被它打動：那是一種進到心裡很深的旅行。"
           }
         ]
       }

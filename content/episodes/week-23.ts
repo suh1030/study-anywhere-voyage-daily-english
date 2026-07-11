@@ -1047,7 +1047,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "This makes me think of it less as self-promotion and more as helping people help me.",
-            "zh": "這讓我把它想成不是自我推銷，而是幫助別人幫助我。"
+            "zh": "這讓我把它想成不是自我推銷，是幫助別人幫助我。"
           },
           {
             "speaker": "a",

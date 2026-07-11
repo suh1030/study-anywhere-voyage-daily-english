@@ -277,7 +277,7 @@ export const WEEK_52: Episode[] = [
     "keyPhrases": [
       {
         "en": "honest review",
-        "zh": "不是自責，而是誠實地回頭整理經驗",
+        "zh": "不是自責，是誠實地回頭整理經驗",
         "example": "Honest review changed how she planned the next month."
       },
       {
@@ -555,7 +555,7 @@ export const WEEK_52: Episode[] = [
       },
       {
         "en": "alive connection",
-        "zh": "不是只存在形式上，而是真的有生命感的連結",
+        "zh": "不是只存在形式上，是真的有生命感的連結",
         "example": "The review helped her identify the alive connections."
       },
       {
@@ -876,7 +876,7 @@ export const WEEK_52: Episode[] = [
       },
       {
         "en": "reliable restoration",
-        "zh": "不是一時爽，而是穩定能讓人恢復的東西",
+        "zh": "不是一時爽，是穩定能讓人恢復的東西",
         "example": "Sleep became his most reliable restoration."
       },
       {
@@ -999,7 +999,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — the path matters because praise cannot make self-erasure healthy.",
-            "zh": "對——那條路本身很重要，因為再多稱讚，也沒辦法讓「自我消失」變得健康。"
+            "zh": "對：那條路本身很重要，因為再多稱讚，也沒辦法讓「自我消失」變得健康。"
           },
           {
             "speaker": "a",
@@ -1075,7 +1075,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone reviewed the last stretch of work and realized the projects they were proudest of were not the biggest ones, but the ones where they felt useful, trusted, and less split from themselves.",
-            "zh": "想像一個人回顧最近一段工作，發現自己最引以為傲的專案，不是最大的，而是那些讓他覺得有用、被信任，而且沒那麼和自己分裂的專案。"
+            "zh": "想像一個人回顧最近一段工作，發現自己最引以為傲的專案，不是最大的，是那些讓他覺得有用、被信任，而且沒那麼和自己分裂的專案。"
           },
           {
             "speaker": "b",
@@ -1357,7 +1357,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you need something more practical, say: \"What changed most was not my ambition. It was my capacity to stay with the process.\" That captures mature learning well.",
-            "zh": "如果你想講得更務實一點，也可以說：「改變最多的不是我的野心，而是我待在過程裡的能力。」這句很能抓到成熟學習的感覺。"
+            "zh": "如果你想講得更務實一點，也可以說：「改變最多的不是我的野心，是我待在過程裡的能力。」這句很能抓到成熟學習的感覺。"
           },
           {
             "speaker": "b",
@@ -1463,7 +1463,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The point is not to impress yourself. The point is to understand yourself better and carry the learning forward.",
-            "zh": "沒錯。重點不是要取悅自己，而是更理解自己，然後把學習帶去前面。"
+            "zh": "沒錯。重點不是要取悅自己，是更理解自己，然後把學習帶去前面。"
           },
           {
             "speaker": "b",
@@ -1573,7 +1573,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy review is not indulgent. It is diagnostic.",
-            "zh": "所以回顧快樂不是一種放縱，而是在做診斷。"
+            "zh": "所以回顧快樂不是一種放縱，是在做診斷。"
           },
           {
             "speaker": "a",
@@ -1702,7 +1702,7 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Imagine someone realizing that the happiest parts of the year were not the biggest milestones, but the evenings they spent making soup, sketching, singing badly, or laughing with one safe person.",
-            "zh": "想像一個人回頭看時發現：這段時間裡最開心的部分，不是最大的里程碑，而是那些煮湯的晚上、亂畫、唱得很差，或和某個安全的人一起笑的時候。"
+            "zh": "想像一個人回頭看時發現：這段時間裡最開心的部分，不是最大的里程碑，是那些煮湯的晚上、亂畫、唱得很差，或和某個安全的人一起笑的時候。"
           },
           {
             "speaker": "b",
@@ -1755,13 +1755,13 @@ export const WEEK_52: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That joy deserves seriousness too. Not heavy seriousness, but real respect. What delights a person may also be what keeps them psychologically alive.",
-            "zh": "就是：快樂也值得被認真看待。不是很重的認真，而是真正的重視。讓一個人感到喜悅的東西，也可能正是讓他在心理上保持活著的東西。"
+            "zh": "就是：快樂也值得被認真看待。不是很重的認真，是真正的重視。讓一個人感到喜悅的東西，也可能正是讓他在心理上保持活著的東西。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So joy is not a reward after life. It is part of life.",
-            "zh": "所以快樂不是生活做完之後才發的獎勵，而是生活本身的一部分。"
+            "zh": "所以快樂不是生活做完之後才發的獎勵，是生活本身的一部分。"
           },
           {
             "speaker": "a",

@@ -678,7 +678,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not whether I should use delivery apps. It is whether I am using them the way I actually intend to.",
-            "zh": "所以問題不是我是否應該用外送 app，而是我是否在以我真正想要的方式使用它們。"
+            "zh": "所以問題不是我是否應該用外送 app，是我是否在以我真正想要的方式使用它們。"
           },
           {
             "speaker": "a",
@@ -737,7 +737,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is also why keeping at least some of those skills alive is not about being old-fashioned. It is about staying functional.",
-            "zh": "所以保留至少一部分那些技能，並不是要守舊，而是關於保持有能力運作。"
+            "zh": "所以保留至少一部分那些技能，並不是要守舊，是為了保持有能力運作。"
           }
         ]
       },
@@ -1304,7 +1304,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What you felt is not a failure. It is feedback. It means the current setup is costing you more than it is giving you.",
-            "zh": "你感受到的不是失敗，而是回饋，它代表目前的設置消耗你的比它給你的更多。"
+            "zh": "你感受到的不是失敗，是回饋，它代表目前的設置消耗你的比它給你的更多。"
           },
           {
             "speaker": "b",
@@ -1931,7 +1931,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That discomfort is valuable. It means the data landed. The key is using it as a starting point rather than a reason to feel bad about yourself.",
-            "zh": "那種不舒服有它的價值——代表那些螢幕使用資料真的被你看進去了。重點是把它當起點，而不是拿來打擊自己。"
+            "zh": "那種不舒服有它的價值：代表那些螢幕使用資料真的被你看進去了。重點是把它當起點，而不是拿來打擊自己。"
           },
           {
             "speaker": "b",
@@ -1943,7 +1943,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. Data about your behavior is not a judgment. It is a map. And you need an accurate map to find a better route.",
-            "zh": "沒錯，關於你行為的資料不是評判，而是地圖。你需要一張準確的地圖才能找到更好的路線。"
+            "zh": "沒錯，關於你行為的資料不是評判，是地圖。你需要一張準確的地圖才能找到更好的路線。"
           }
         ]
       },
@@ -1972,7 +1972,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Healthy technology use is not about never using devices. It is about having clear beginnings and endings to the use.",
-            "zh": "沒錯，健康的科技使用不是關於從不使用裝置，而是關於使用有清楚的開始和結束。"
+            "zh": "沒錯，健康的科技使用不是從不使用裝置，是讓使用有清楚的開始和結束。"
           },
           {
             "speaker": "b",
@@ -1996,7 +1996,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why the edges matter so much. They are not restrictions. They are the space where the rest of your life can exist.",
-            "zh": "這就是為什麼邊界如此重要，它們不是限制，而是你生活其餘部分可以存在的空間。"
+            "zh": "這就是為什麼邊界如此重要，它們不是限制，是你生活其餘部分可以存在的空間。"
           }
         ]
       },
@@ -2102,7 +2102,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's exactly how it works. You are not fighting the habit. You are teaching yourself a different feeling is possible.",
-            "zh": "這正是它的運作方式，你不是在對抗習慣，而是在教自己不同的感覺是可能的。"
+            "zh": "這正是它的運作方式，你不是在對抗習慣，是在教自己不同的感覺是可能的。"
           }
         ]
       },
@@ -2137,7 +2137,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And the goal is not a perfect digital life. It is one that feels more like yours.",
-            "zh": "而目標不是完美的數位生活，而是一個感覺更像是你的生活。"
+            "zh": "至於目標，不是完美的數位生活，是一個感覺更像是你的生活。"
           },
           {
             "speaker": "a",

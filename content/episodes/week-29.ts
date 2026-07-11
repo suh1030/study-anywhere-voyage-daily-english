@@ -204,7 +204,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. The constraint is not limiting. It makes the one thing you pick feel worth your full attention.",
-            "zh": "沒錯。這個限制不是在縮減你，而是讓你選到的那一件事值得你全神貫注。"
+            "zh": "沒錯。這個限制不是在縮減你，是讓你選到的那一件事值得你全神貫注。"
           },
           {
             "speaker": "b",
@@ -263,7 +263,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not more audio or less audio, but more conscious choices about what you let in.",
-            "zh": "所以目標不是聽更多或聽更少，而是對你讓進來的東西做更有意識的選擇。"
+            "zh": "所以目標不是聽更多或聽更少，是對你讓進來的東西做更有意識的選擇。"
           },
           {
             "speaker": "a",
@@ -783,7 +783,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try naming the specific thing. Not \"I like her voice\" but \"her voice sounds like she already knows the ending, and I find that reassuring.\"",
-            "zh": "試著說出具體的東西。不是「我喜歡她的聲音」，而是「她的聲音聽起來像她早就知道結局了，我覺得這讓人安心」。"
+            "zh": "試著說出具體的東西。不是「我喜歡她的聲音」，是「她的聲音聽起來像她早就知道結局了，我覺得這讓人安心」。"
           },
           {
             "speaker": "b",
@@ -848,7 +848,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That happens. You were not in the right place for it yet. Music and timing are more connected than people realize.",
-            "zh": "這種事真的會發生——你當時就是還沒準備好接住它。音樂跟時機的關係，比大家以為的緊密得多。"
+            "zh": "這種事真的會發生：你當時就是還沒準備好接住它。音樂跟時機的關係，比大家以為的緊密得多。"
           },
           {
             "speaker": "b",
@@ -884,7 +884,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a sharp observation. The artists you used to love but cannot listen to anymore often mark something you have outgrown.",
-            "zh": "這是個很銳利的觀察。你曾經喜歡卻再也聽不下去的藝人，往往標誌著你已經超越的某樣東西。"
+            "zh": "這是個很銳利的觀察。你曾經喜歡卻再也聽不下去的藝人，往往代表你已經超越了某樣東西。"
           },
           {
             "speaker": "b",
@@ -1076,7 +1076,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So instead of \"This podcast talks about sleep science,\" I would say something like \"I heard something that made me question my whole approach to sleep.\"",
-            "zh": "所以不是說「這個 podcast 在講睡眠科學」，而是說「我聽到一個讓我重新審視我整個睡眠方式的東西」。"
+            "zh": "所以不是說「這個 podcast 在講睡眠科學」，是說「我聽到一個讓我重新審視我整個睡眠方式的東西」。"
           },
           {
             "speaker": "a",
@@ -1094,7 +1094,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Niche is fine. Just give one line of context and keep moving. Say \"It is a show about competitive dog grooming, and I know nothing about dogs, but—\"",
-            "zh": "小眾沒關係。給一行背景說明然後繼續往下說。說「這是一個關於競賽級寵物美容的節目，我對狗狗一無所知，但——」"
+            "zh": "小眾沒關係。給一行背景說明然後繼續往下說。說「這是一個關於競賽級寵物美容的節目，我對狗狗一無所知，但：」"
           },
           {
             "speaker": "b",
@@ -1422,7 +1422,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's a very human use of audio — creating the social feeling of a space without the actual people.",
-            "zh": "這是非常人性的聲音使用方式——創造出一個空間的社交感，卻不需要真正的人在場。"
+            "zh": "這是非常人性的聲音使用方式：創造出一個空間的社交感，卻不需要真正的人在場。"
           }
         ]
       },
@@ -1457,7 +1457,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the fix is not a strict schedule. It is just being awake to the moment of choosing.",
-            "zh": "所以解決方法不是嚴格的時間表，而是在選擇的那一刻保持清醒。"
+            "zh": "所以解決方法不是嚴格的時間表，是在選擇的那一刻保持清醒。"
           },
           {
             "speaker": "a",

@@ -69,7 +69,7 @@ export const CONVERSATIONS_W42_W53: ConversationQuestion[] = [
     'The Future',
     'Saturday',
     'How do you make plans when you know reality will not follow the script?',
-    '這題重點不是放棄計畫，而是怎麼讓計畫有彈性。',
+    '這題重點不在放棄計畫，而在怎麼讓計畫有彈性。',
     'Explain how you hold direction without demanding certainty.',
   ),
   q(
@@ -126,7 +126,7 @@ export const CONVERSATIONS_W42_W53: ConversationQuestion[] = [
     'Looking Back & Moving Forward',
     'Saturday',
     'What part of your past are you ready to carry differently now?',
-    '這題不是叫你否認過去，而是講你想換一種方式帶著它。',
+    '這題不是叫你否認過去，是講你想換一種方式帶著它。',
     'Describe what you are releasing and what you are choosing to keep instead.',
   ),
   q(
@@ -419,7 +419,7 @@ export const CONVERSATIONS_W42_W53: ConversationQuestion[] = [
     'Language & Identity',
     'Sunday',
     'Why is the ability to express yourself well such a gift in adult life?',
-    '這題不只是在講英文，而是在講一個人能說清楚自己有多重要。',
+    '這題講的不只是英文，更是一個人能把自己說清楚有多重要。',
     'Answer through the doors that clear expression opens in work, love, or self-understanding.',
   ),
 
@@ -574,7 +574,7 @@ export const CONVERSATIONS_W42_W53: ConversationQuestion[] = [
     'Goals & Intentions',
     'Friday',
     'Tell me about a time you bounced back after losing momentum.',
-    '這題重點不只是跌倒，而是你怎麼重新動起來。',
+    '這題重點不只在跌倒，更在你怎麼重新動起來。',
     'Use a setback-and-return story with one turning point that mattered.',
   ),
   q(

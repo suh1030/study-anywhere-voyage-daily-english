@@ -86,7 +86,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Comment on something shared — the room, the food, the occasion. \"Have you tried the dumplings? They are surprisingly good\" is a low-pressure opener.",
-            "zh": "評論一個共同的東西——房間、食物、場合。「你試過餃子了嗎？出乎意料地好吃」是個低壓力的開場白。"
+            "zh": "評論一個共同的東西：房間、食物、場合。「你試過餃子了嗎？出乎意料地好吃」是個低壓力的開場白。"
           },
           {
             "speaker": "b",
@@ -110,7 +110,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let it go easily. Not every conversation is meant to become a real exchange. Moving on is not failure — it is reading the situation.",
-            "zh": "輕鬆放開它。不是每段對話都注定成為真正的交流。繼續往前不是失敗，而是在讀懂情況。"
+            "zh": "輕鬆放開它。不是每段對話都注定成為真正的交流。繼續往前不是失敗，是在讀懂情況。"
           }
         ]
       },
@@ -133,7 +133,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Or \"I am selective about social events — I prefer quality over quantity.\"",
-            "zh": "或者「我對社交活動比較挑剔——我喜歡品質勝過數量。」"
+            "zh": "或者「我對社交活動比較挑剔：我喜歡品質勝過數量。」"
           },
           {
             "speaker": "a",
@@ -151,7 +151,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You can say \"She is very good at mingling — she never seems uncomfortable in a room full of strangers.\"",
-            "zh": "你可以說「她非常擅長跟大家交際——她在滿是陌生人的房間裡從來看不出不自在。」"
+            "zh": "你可以說「她非常擅長跟大家交際：她在滿是陌生人的房間裡從來看不出不自在。」"
           },
           {
             "speaker": "b",
@@ -233,7 +233,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly skill. Personality gives you a starting point, but the actual behaviors — starting conversations, asking follow-up questions, making people feel heard — those are learnable.",
-            "zh": "大部分是技能。個性給你一個起點，但實際的行為——開啟對話、問後續問題、讓人感到被傾聽——這些都是可以學的。"
+            "zh": "大部分是技能。個性給你一個起點，但實際的行為（開啟對話、問後續問題、讓人感到被傾聽）這些都是可以學的。"
           },
           {
             "speaker": "b",
@@ -355,7 +355,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the problem was not that I was bad at networking. It was that I was doing the wrong version of it.",
-            "zh": "所以問題不是我不擅長建立人脈，而是我在做錯誤版本的它。"
+            "zh": "所以問題不是我不擅長建立人脈，是我在做錯誤版本的它。"
           },
           {
             "speaker": "a",
@@ -467,7 +467,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Reference something specific from your conversation. \"I enjoyed talking about X at the event — I found an article that might interest you.\" That shows you were actually listening.",
-            "zh": "提到你們對話中某件具體的事。「我很享受在活動上關於X的討論——我找到了一篇你可能有興趣的文章。」這顯示你真的在聽。"
+            "zh": "提到你們對話中某件具體的事。「我很享受在活動上關於X的討論：我找到了一篇你可能有興趣的文章。」這顯示你真的在聽。"
           },
           {
             "speaker": "b",
@@ -543,7 +543,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think my best professional contacts are people I met accidentally — at a training, on a project, through a friend.",
-            "zh": "我最好的職業聯絡人，是我意外認識的人——在一個培訓、一個專案上、透過一個朋友。"
+            "zh": "我最好的職業聯絡人，是我意外認識的人：在一個培訓、一個專案上、透過一個朋友。"
           },
           {
             "speaker": "a",
@@ -771,7 +771,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Make a specific introduction. \"You should talk to David — he also just moved back from abroad\" is much more useful than \"this is David.\"",
-            "zh": "做一個具體的介紹。「你應該和David聊聊——他也剛從國外回來」比「這是David」有用多了。"
+            "zh": "做一個具體的介紹。「你應該和David聊聊：他也剛從國外回來」比「這是David」有用多了。"
           },
           {
             "speaker": "b",
@@ -783,7 +783,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Good hosting is partly social architecture — you create the conditions for connection. The guests do the rest.",
-            "zh": "對。好的款待有一部分是社交架構——你創造連結的條件。客人做剩下的。"
+            "zh": "對。好的款待有一部分是社交架構：你創造連結的條件。客人做剩下的。"
           },
           {
             "speaker": "b",
@@ -1304,7 +1304,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In that case, there is a more direct option. \"I'm so sorry — I want to make sure I have your name right in my phone\" is an honest way to ask without admitting you forgot entirely.",
-            "zh": "在那種情況下，還有一個更直接的選項。「對不起——我想確認我手機裡有你的名字是正確的」是一種誠實的詢問方式，而不用承認你完全忘了。"
+            "zh": "在那種情況下，還有一個更直接的選項。「對不起：我想確認我手機裡有你的名字是正確的」是一種誠實的詢問方式，而不用承認你完全忘了。"
           },
           {
             "speaker": "b",
@@ -1386,7 +1386,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Acknowledge it lightly and move on. \"Well, that came out wrong — anyway\" followed by a subject change is usually enough. Do not over-explain.",
-            "zh": "輕輕地承認它然後繼續。「呃，那句話出來的方式不太對——無論如何」後面跟著換話題，通常就夠了。不要過度解釋。"
+            "zh": "輕輕地承認它然後繼續。「呃，那句話出來的方式不太對：無論如何」後面跟著換話題，通常就夠了。不要過度解釋。"
           },
           {
             "speaker": "b",
@@ -1439,7 +1439,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Some are unavoidable. But many come from moving too fast — speaking before reading the room, assuming shared context, misjudging the tone.",
-            "zh": "有些是不可避免的。但很多來自移動太快——在讀懂現場之前開口、假設有共同的背景、誤判語氣。"
+            "zh": "有些是不可避免的。但很多來自移動太快：在讀懂現場之前開口、假設有共同的背景、誤判語氣。"
           },
           {
             "speaker": "b",
@@ -1469,7 +1469,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that as a useful reframe. Pausing is not weakness. It is poise.",
-            "zh": "這是個有用的重新框架。停頓不是軟弱，而是從容。"
+            "zh": "這是個有用的重新框架。停頓不是軟弱，是從容。"
           },
           {
             "speaker": "a",
@@ -1528,7 +1528,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Significantly less stressful. And you will still have awkward moments. Everybody does. The goal is not to eliminate them but to recover faster and care less.",
-            "zh": "少多了。而且你還是會有尷尬的時刻。每個人都有。目標不是消除它們，而是更快恢復，少在意一點。"
+            "zh": "少多了。而且你還是會有尷尬的時刻。每個人都有。目標不在消除它們，而在更快恢復，少在意一點。"
           }
         ]
       }
@@ -1596,7 +1596,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That specific sting — finding out after the fact — is one of the worst social feelings.",
-            "zh": "那種特定的刺痛——事後才發現——是最糟糕的社交感受之一。"
+            "zh": "那種特定的刺痛（事後才發現）是最糟糕的社交感受之一。"
           },
           {
             "speaker": "b",
@@ -1649,7 +1649,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Most adults have different groups for different contexts — work friends, old school friends, activity friends. Each group knows a different version of you.",
-            "zh": "完全不是。大多數成年人有不同情境的不同群體——工作朋友、老同學、活動朋友。每個群體認識不同版本的你。"
+            "zh": "完全不是。大多數成年人有不同情境的不同群體：工作朋友、老同學、活動朋友。每個群體認識不同版本的你。"
           },
           {
             "speaker": "b",
@@ -1661,7 +1661,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the friend group dynamics challenge. When circles collide, you sometimes become a bridge person — expected to manage both sides.",
-            "zh": "這就是朋友群體動態的挑戰。當圈子碰撞，你有時會成為橋樑人物——被期望管理兩側。"
+            "zh": "這就是朋友群體動態的挑戰。當圈子碰撞，你有時會成為橋樑人物：被期望管理兩側。"
           },
           {
             "speaker": "b",
@@ -1673,7 +1673,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the nature of the bridge position. You are valuable but also exposed. You do not have to solve every tension — sometimes just acknowledging them to yourself is enough.",
-            "zh": "這就是橋樑位置的本質。你很有價值，但也很暴露。你不必解決每一個張力——有時候只是對自己承認它們就夠了。"
+            "zh": "這就是橋樑位置的本質。你很有價值，但也很暴露。你不必解決每一個張力：有時候只是對自己承認它們就夠了。"
           },
           {
             "speaker": "b",
@@ -1702,7 +1702,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Be direct and light at the same time. \"Hey, I heard about the trip — next time keep me in the loop?\" is friendly, clear, and invites a response without creating a dramatic scene.",
-            "zh": "同時直接又輕鬆。「嘿，我聽說了那次旅行——下次讓我知道好嗎？」這很友善、清楚，並邀請回應而不製造戲劇性場面。"
+            "zh": "同時直接又輕鬆。「嘿，我聽說了那次旅行：下次讓我知道好嗎？」這很友善、清楚，並邀請回應而不製造戲劇性場面。"
           },
           {
             "speaker": "b",
@@ -1820,7 +1820,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And a group that can talk about things beyond the catch-up topics — work, kids, gossip — and get into something more personal.",
-            "zh": "對。還有一個群體，能談的不只是聚會話題——工作、孩子、八卦——而是深入到更個人的事情。"
+            "zh": "對。還有一個群體，能談的不只是聚會話題（工作、孩子、八卦）而是深入到更個人的事情。"
           },
           {
             "speaker": "b",
@@ -1832,7 +1832,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually one person being willing to go first — to say something real instead of something safe. That signals it is okay for others to do the same.",
-            "zh": "通常是一個人願意先走出那一步——說一些真實的事情而不是安全的事情。這傳遞了信號，說其他人這樣做也是可以的。"
+            "zh": "通常是一個人願意先走出那一步：說一些真實的事情而不是安全的事情。這傳遞了信號，說其他人這樣做也是可以的。"
           },
           {
             "speaker": "b",
@@ -2001,7 +2001,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And noticing the pattern — saying yes, dreading the thing, showing up empty — is usually what finally motivates the change.",
-            "zh": "對。而注意到模式——說好、害怕那件事、空著心去——通常是最終驅動改變的東西。"
+            "zh": "對。而注意到模式（說好、害怕那件事、空著心去）通常是最終驅動改變的東西。"
           }
         ]
       },
@@ -2030,7 +2030,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Over-explaining often signals guilt. A confident no is short and warm. \"I have plans that day — rain check?\" is enough.",
-            "zh": "過度解釋往往傳遞愧疚感。一個自信的不是簡短而溫暖的。「那天我有安排——可以改期嗎？」就夠了。"
+            "zh": "過度解釋往往傳遞愧疚感。一個自信的不是簡短而溫暖的。「那天我有安排，可以改期嗎？」就夠了。"
           },
           {
             "speaker": "b",
@@ -2042,7 +2042,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Repeat the no calmly without adding new reasons. \"I understand, but I still won't be able to make it\" is not aggressive — it is clear.",
-            "zh": "冷靜地重複那個不，不要加新的理由。「我理解，但我還是沒辦法去」不是攻擊性的，而是清楚的。"
+            "zh": "冷靜地重複那個不，不要加新的理由。「我理解，但我還是沒辦法去」不是攻擊性的，是清楚的。"
           },
           {
             "speaker": "b",
@@ -2083,7 +2083,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You do not need a spreadsheet. Just a quick note — \"felt good after that dinner\" or \"need tomorrow completely to myself\" — builds a picture quickly.",
-            "zh": "你不需要試算表。只需要一個快速記錄——「晚餐後感覺很好」或「明天完全需要獨自一人」——很快就能建立一個圖像。"
+            "zh": "你不需要試算表。只需要一個快速記錄（「晚餐後感覺很好」或「明天完全需要獨自一人」）很快就能建立一個圖像。"
           },
           {
             "speaker": "b",

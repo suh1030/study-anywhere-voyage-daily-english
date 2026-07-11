@@ -929,7 +929,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "feel personal",
-        "zh": "不是一般性的東西，而是真的和這個人有關",
+        "zh": "不是一般性的東西，是真的和這個人有關",
         "example": "The present felt personal and kind."
       },
       {
@@ -1446,7 +1446,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes — and that is exactly why gratitude matters so much around food.",
-            "zh": "對——而這正是為什麼在食物這件事上，感謝會特別重要。"
+            "zh": "對，而這正是為什麼在食物這件事上，感謝會特別重要。"
           },
           {
             "speaker": "b",
@@ -1511,7 +1511,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Sometimes what they miss is not the dish alone. It is the world around the dish.",
-            "zh": "對。有時候人想念的不是那道菜本身，而是圍繞著那道菜的整個世界。"
+            "zh": "對。有時候人想念的不是那道菜本身，是圍繞著那道菜的整個世界。"
           },
           {
             "speaker": "b",
@@ -1872,7 +1872,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "joined in",
-        "zh": "不是旁觀，而是真的一起參與進來",
+        "zh": "不是旁觀，是真的一起參與進來",
         "example": "Even the quiet guests joined in by the end."
       },
       {
@@ -2193,7 +2193,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "fade out slowly",
-        "zh": "不是突然結束，而是慢慢回到日常",
+        "zh": "不是突然結束，是慢慢回到日常",
         "example": "The evening faded out slowly in a very gentle way."
       }
     ]

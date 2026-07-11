@@ -50,7 +50,8 @@
   nav .dot .p { color: var(--pass); } nav .dot .f { color: var(--fail); } nav .dot .u { color: #c9c5bb; }
   nav button.active .dot .u { color: rgba(255,255,255,.5); }
 
-  main { flex: 1; padding: 20px; max-width: 980px; }
+  main { flex: 1; min-width: 0; padding: 20px; }
+  main > * { max-width: 900px; margin-left: auto; margin-right: auto; }
   .card {
     background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 18px 20px; margin-bottom: 16px;

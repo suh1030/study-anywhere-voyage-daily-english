@@ -909,12 +909,12 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "urban nature",
-        "zh": "不是荒野，而是城市裡那些仍然活著的自然元素",
+        "zh": "不是荒野，是城市裡那些仍然活著的自然元素",
         "example": "She learned to look for urban nature instead of dismissing the whole city."
       },
       {
         "en": "noticing practice",
-        "zh": "不是一直找新鮮刺激，而是反覆練習把注意力放回周圍世界",
+        "zh": "不是一直找新鮮刺激，是反覆練習把注意力放回周圍世界",
         "example": "Birdwatching turned into a noticing practice on the way to work."
       },
       {
@@ -924,7 +924,7 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "small reset",
-        "zh": "不是翻天覆地，而是讓自己稍微回來一點點的調整",
+        "zh": "不是翻天覆地，是讓自己稍微回來一點點的調整",
         "example": "Five minutes in the sun worked as a small reset."
       },
       {
@@ -939,7 +939,7 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "daily livability",
-        "zh": "不是精彩不精彩，而是這一天有沒有變得比較住得下去的感覺",
+        "zh": "不是精彩不精彩，是這一天有沒有變得比較住得下去的感覺",
         "example": "Those tiny rituals improved the daily livability of a stressful season."
       }
     ]
@@ -1220,7 +1220,7 @@ export const WEEK_33: Episode[] = [
     "keyPhrases": [
       {
         "en": "steady climb",
-        "zh": "不是衝刺，而是一步一步穩定往上爬的節奏",
+        "zh": "不是衝刺，是一步一步穩定往上爬的節奏",
         "example": "A steady climb mattered more than early speed."
       },
       {
@@ -1286,7 +1286,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is not about romanticizing childhood. It is about what the senses need.",
-            "zh": "所以重點不是在浪漫化童年，而是在說感官本來就需要什麼。"
+            "zh": "所以重點不是在浪漫化童年，是在說感官本來就需要什麼。"
           },
           {
             "speaker": "a",
@@ -1451,7 +1451,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The goal is not perfect outdoor parenting. It is more ordinary contact with the real world.",
-            "zh": "對。重點不是成為完美的戶外家長，而是讓孩子和真實世界有更多普通接觸。"
+            "zh": "對。重點不是成為完美的戶外家長，是讓孩子和真實世界有更多普通接觸。"
           },
           {
             "speaker": "b",
@@ -1571,7 +1571,7 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "world contact",
-        "zh": "孩子不是隔著畫面，而是真的和世界發生接觸的經驗",
+        "zh": "孩子不是隔著畫面，是真的和世界發生接觸的經驗",
         "example": "A healthy childhood needs a lot of world contact."
       }
     ]
@@ -1815,7 +1815,7 @@ export const WEEK_33: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A beautiful place is not a product. It is a relationship people enter briefly and should leave gently.",
-            "zh": "一個美麗的地方不是產品，而是一段人短暫進入的關係，而人離開時應該要輕一點。"
+            "zh": "一個美麗的地方不是產品，是一段人短暫進入的關係，人離開時應該要輕一點。"
           },
           {
             "speaker": "b",
@@ -2183,7 +2183,7 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "direct contact",
-        "zh": "不是隔著玻璃或畫面，而是真的和自然條件直接接觸",
+        "zh": "不是隔著玻璃或畫面，是真的和自然條件直接接觸",
         "example": "He wanted more direct contact with weather and daylight."
       },
       {
@@ -2198,7 +2198,7 @@ export const WEEK_33: Episode[] = [
       },
       {
         "en": "participatory life",
-        "zh": "不是只在旁邊消費世界，而是有意識地加入並回應世界的生活方式",
+        "zh": "不是只在旁邊消費世界，是有意識地加入並回應世界的生活方式",
         "example": "Gardening made his routine feel more like a participatory life."
       }
     ]

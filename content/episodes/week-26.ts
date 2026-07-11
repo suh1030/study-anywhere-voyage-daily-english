@@ -1189,7 +1189,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the point is not becoming unavailable. It is becoming intentional.",
-            "zh": "所以重點不是變得難聯絡，而是變得更有意識。"
+            "zh": "所以重點不是變得難聯絡，是變得更有意識。"
           },
           {
             "speaker": "a",
@@ -1230,7 +1230,7 @@ export const WEEK_26: Episode[] = [
       },
       {
         "en": "proper attention",
-        "zh": "不是敷衍，而是能好好處理的注意力",
+        "zh": "不是敷衍，是能好好處理的注意力",
         "example": "She could only give it proper attention once she finished the task already in front of her."
       },
       {
@@ -1250,7 +1250,7 @@ export const WEEK_26: Episode[] = [
       },
       {
         "en": "not-now",
-        "zh": "不是拒絕，而是清楚地說現在不是時候",
+        "zh": "不是拒絕，是清楚地說現在不是時候",
         "example": "Her calm not-now protected the work better than another rushed yes would have."
       }
     ]
@@ -1531,7 +1531,7 @@ export const WEEK_26: Episode[] = [
     "keyPhrases": [
       {
         "en": "hobby outside work",
-        "zh": "不是為了工作，而是屬於生活的興趣",
+        "zh": "不是為了工作，是屬於生活的興趣",
         "example": "Her hobby outside work gave her one part of the week that did not need to be monetized or measured."
       },
       {
@@ -1566,7 +1566,7 @@ export const WEEK_26: Episode[] = [
       },
       {
         "en": "play",
-        "zh": "不是拿來賺什麼，而是單純投入和享受",
+        "zh": "不是拿來賺什麼，是單純投入和享受",
         "example": "Play gave her back the part of her mind that work had made too careful."
       }
     ]
@@ -1786,7 +1786,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In real life, it might sound like this. People do not disappear all at once. They often just get undernourished in certain areas.",
-            "zh": "講白話一點就是：人不是一下子就消失，而是某些部分慢慢被餓到了。"
+            "zh": "講白話一點就是：人不是一下子就消失，是某些部分慢慢被餓到了。"
           }
         ]
       },
@@ -1960,7 +1960,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Recovery. Not because recovery is more important than work, but because without recovery the quality of everything else drops.",
-            "zh": "恢復。不是因為恢復比工作重要，而是因為沒有恢復，其他所有東西的品質最後都會掉。"
+            "zh": "恢復。不是因為恢復比工作重要，是因為沒有恢復，其他所有東西的品質最後都會掉。"
           },
           {
             "speaker": "b",
@@ -2090,7 +2090,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A livable pace is often less about optimization and more about repeatedly honoring the basics.",
-            "zh": "完全沒錯。住得下去的節奏，很多時候比較不是最佳化，而是一次又一次尊重那些最基本的事。"
+            "zh": "完全沒錯。住得下去的節奏，很多時候比較不是最佳化，是一次又一次尊重那些最基本的事。"
           },
           {
             "speaker": "b",
@@ -2155,7 +2155,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. Real sustainability is not small ambition. It is intelligent ambition that plans to last.",
-            "zh": "沒錯。真正能長久，靠的不是把野心變小，而是一種打算走遠的聰明野心。"
+            "zh": "沒錯。真正能長久，靠的不是把野心變小，是一種打算走遠的聰明野心。"
           }
         ]
       }
@@ -2188,7 +2188,7 @@ export const WEEK_26: Episode[] = [
       },
       {
         "en": "make time",
-        "zh": "不是等有空，而是主動替重要的事留位置",
+        "zh": "不是等有空，是主動替重要的事留位置",
         "example": "He had to make time for recovery because waiting for free time had never worked."
       },
       {

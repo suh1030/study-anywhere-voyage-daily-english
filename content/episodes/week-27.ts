@@ -520,7 +520,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is often where the deeper learning happens. Not in the sightseeing, but in the interpretation afterward.",
-            "zh": "對，而那很多時候才是比較深的學習真正發生的地方。不是在觀光的當下，而是在之後你怎麼解讀。"
+            "zh": "對，而那很多時候才是比較深的學習真正發生的地方。不是在觀光的當下，是在之後你怎麼解讀。"
           },
           {
             "speaker": "b",
@@ -678,7 +678,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real question is not whether to plan. It is how much room to leave.",
-            "zh": "所以真正的問題不是要不要規劃，而是要留多少空間。"
+            "zh": "所以真正的問題不在要不要規劃，而在要留多少空間。"
           },
           {
             "speaker": "a",
@@ -878,7 +878,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So maybe the win is not a perfect itinerary. It is a trip that still feels alive.",
-            "zh": "所以真正贏的，不是排出一份完美的行程表，而是一趟還有生命感的旅行。"
+            "zh": "所以真正贏的，不是排出一份完美的行程表，是一趟還有生命感的旅行。"
           },
           {
             "speaker": "a",
@@ -994,7 +994,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That resonates — the pattern really is there.",
-            "zh": "這說到點上——那個規律確實存在。"
+            "zh": "這說到點上：那個規律確實存在。"
           },
           {
             "speaker": "a",
@@ -1200,7 +1200,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Budget travel at its best is not deprivation. It is a sharper way of choosing.",
-            "zh": "預算旅行在最好的情況下，不是剝奪，而是一種更銳利的選擇方式。"
+            "zh": "預算旅行在最好的情況下，不是剝奪，是一種更銳利的選擇方式。"
           },
           {
             "speaker": "b",
@@ -1316,7 +1316,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much so. It is not weakness; it is the cost of processing a world that no longer feels automatic.",
-            "zh": "完全可以這樣說。那不是脆弱，而是你在處理一個不再自動順手的世界時必須付出的代價。"
+            "zh": "完全可以這樣說。那不是脆弱，是你在處理一個不再自動順手的世界時必須付出的代價。"
           }
         ]
       },
@@ -1333,7 +1333,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Respectful curiosity. Not the kind that treats people like a spectacle, but the kind that quietly notices before judging.",
-            "zh": "有禮貌的好奇心。不是那種把別人當景觀看的好奇，而是那種先安靜觀察、不要急著判斷的好奇。"
+            "zh": "有禮貌的好奇心。不是那種把別人當景觀看的好奇，是那種先安靜觀察、不要急著判斷的好奇。"
           },
           {
             "speaker": "b",
@@ -1351,7 +1351,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I guess the goal is not to avoid discomfort completely, but to stay open inside it.",
-            "zh": "我猜目標不是完全避免不舒服，而是在不舒服裡還是能保持打開。"
+            "zh": "我猜目標不是完全避免不舒服，是在不舒服裡還是能保持打開。"
           },
           {
             "speaker": "a",
@@ -1369,7 +1369,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This is the line I would practice. The point is not to perform competence. It is to build real contact with the place.",
-            "zh": "這句我會拿來練：重點不是表演自己很會，而是真的和那個地方建立接觸。"
+            "zh": "這句我會拿來練：重點不是表演自己很會，是真的和那個地方建立接觸。"
           }
         ]
       },
@@ -1756,7 +1756,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "True. Sometimes the problem is not disagreement but one person doing all the invisible labor.",
-            "zh": "是真的。有時候問題不是意見不同，而是某一個人在做所有看不見的勞動。"
+            "zh": "是真的。有時候問題不是意見不同，是某一個人在做所有看不見的勞動。"
           },
           {
             "speaker": "a",
@@ -1901,7 +1901,7 @@ export const WEEK_27: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I always think the strange part of travel is not leaving. It is that first night back when my apartment feels both familiar and oddly flat.",
-            "zh": "我一直覺得，旅行最奇怪的地方不是出發，而是回來的第一晚。房間明明很熟，卻又奇怪地有點扁掉。"
+            "zh": "我一直覺得，旅行最奇怪的地方不是出發，是回來的第一晚。房間明明很熟，卻又奇怪地有點扁掉。"
           },
           {
             "speaker": "a",

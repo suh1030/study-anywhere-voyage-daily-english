@@ -57,7 +57,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right — imitation gives you a grammar to work from, but it cannot tell you what to say.",
-            "zh": "對——模仿給你一套文法可以用，但它沒辦法告訴你要說什麼。"
+            "zh": "對：模仿給你一套文法可以用，但它沒辦法告訴你要說什麼。"
           }
         ]
       },
@@ -331,7 +331,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "A colleague told me she rearranged the corner of her desk — just a plant, a postcard, better lighting — and said the whole workday felt different.",
-            "zh": "一個同事跟我說，她重新安排了桌子的一個角落——一盆植物、一張明信片、換了燈光——然後說整個工作日感覺都不一樣了。"
+            "zh": "一個同事跟我說，她重新安排了桌子的一個角落（一盆植物、一張明信片、換了燈光）然後說整個工作日感覺都不一樣了。"
           },
           {
             "speaker": "a",
@@ -367,7 +367,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real issue is recognition — people live inside aesthetic decisions without naming them.",
-            "zh": "所以問題其實是辨認——人活在美感選擇裡，卻從來不把它叫做那個名字。"
+            "zh": "所以問題其實是辨認：人活在美感選擇裡，卻從來不把它叫做那個名字。"
           },
           {
             "speaker": "a",
@@ -449,7 +449,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So people defer beauty until conditions are better — which usually means never.",
-            "zh": "所以大家就把美感往後推，等條件更好的時候再說——而那個時候通常永遠不會來。"
+            "zh": "所以大家就把美感往後推，等條件更好的時候再說，而那個時候通常永遠不會來。"
           },
           {
             "speaker": "a",
@@ -473,7 +473,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the colleague who rearranged her desk was not procrastinating. She was fixing the condition.",
-            "zh": "所以那個整理桌子角落的同事，不是在拖延——她是在修復條件。"
+            "zh": "所以那個整理桌子角落的同事，不是在拖延：她是在修復條件。"
           },
           {
             "speaker": "a",
@@ -490,7 +490,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "If I wanted to explain this kind of choice in English — that I care about my environment — how do I say it without sounding precious?",
-            "zh": "如果我想用英文解釋這種選擇——說我在乎我的環境——我要怎麼說，才不會聽起來很做作？"
+            "zh": "如果我想用英文解釋這種選擇（說我在乎我的環境）我要怎麼說，才不會聽起來很做作？"
           },
           {
             "speaker": "a",
@@ -545,7 +545,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "everyday art",
-        "zh": "不是高高在上的作品，而是日常生活裡也會出現的藝術感",
+        "zh": "不是高高在上的作品，是日常生活裡也會出現的藝術感",
         "example": "Everyday art is easier to miss than to find."
       },
       {
@@ -891,7 +891,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "truthful telling",
-        "zh": "不是為了效果而誇張，而是如實講出故事的方式",
+        "zh": "不是為了效果而誇張，是如實講出故事的方式",
         "example": "Truthful telling changed the whole piece."
       }
     ]
@@ -916,7 +916,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people only realize design was bad once something stops frustrating them. A design lens flips that — it starts with noticing where life keeps catching on something unnecessary.",
-            "zh": "大多數人要等到某件事不再讓他們抓狂，才意識到設計本來就壞。設計視角把這個翻過來——它從看見生活一直卡在某個不必要的地方開始。"
+            "zh": "大多數人要等到某件事不再讓他們抓狂，才意識到設計本來就壞。設計視角把這個翻過來：它從看見生活一直卡在某個不必要的地方開始。"
           },
           {
             "speaker": "b",
@@ -1134,7 +1134,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want that feeling in more parts of my day — life actually cooperating instead of just putting up with me.",
-            "zh": "我想在更多的日常時刻裡感受到那種感覺——生活真的在配合我，而不只是在勉強應付。"
+            "zh": "我想在更多的日常時刻裡感受到那種感覺：生活真的在配合我，而不只是在勉強應付。"
           },
           {
             "speaker": "a",
@@ -1187,7 +1187,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "workable solution",
-        "zh": "不是理論上漂亮，而是在真實生活裡真的做得動的解法",
+        "zh": "不是理論上漂亮，是在真實生活裡真的做得動的解法",
         "example": "They needed a workable solution, not a clever one."
       },
       {
@@ -1197,7 +1197,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "thoughtful adjustment",
-        "zh": "不是大翻修，而是有想法地做出精準小調整",
+        "zh": "不是大翻修，是有想法地做出精準小調整",
         "example": "One thoughtful adjustment changed the routine."
       },
       {
@@ -1207,7 +1207,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "intentional system",
-        "zh": "不是隨便湊合，而是有意識設計過的生活或工作系統",
+        "zh": "不是隨便湊合，是有意識設計過的生活或工作系統",
         "example": "An intentional system saved her time and energy."
       }
     ]
@@ -1268,7 +1268,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The physical side of it — tempo, bass, volume — actually lands before the words do.",
-            "zh": "那個身體面——節奏、低音、音量——其實比歌詞更早抵達。"
+            "zh": "那個身體面（節奏、低音、音量）其實比歌詞更早抵達。"
           }
         ]
       },
@@ -1508,7 +1508,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "embodied feeling",
-        "zh": "不是只在腦中理解，而是身體也一起感受到的情緒",
+        "zh": "不是只在腦中理解，是身體也一起感受到的情緒",
         "example": "The music created an embodied feeling."
       },
       {
@@ -1567,7 +1567,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A lot of blank staring is not emptiness. It is the mind waiting for the truer sentence.",
-            "zh": "很多發呆其實不是空白，而是腦袋在等那句比較真的句子。"
+            "zh": "很多發呆其實不是空白，是腦袋在等那句比較真的句子。"
           },
           {
             "speaker": "b",
@@ -1930,7 +1930,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Think about the last time you abandoned something before it got good. Was that about talent, or about being scared of the unfinished version of yourself?",
-            "zh": "想想你上次在某件事變好之前就放棄的時候——那真的是因為沒天分，還是因為你怕那個還沒完成的自己？"
+            "zh": "想想你上次在某件事變好之前就放棄的時候：那真的是因為沒天分，還是因為你怕那個還沒完成的自己？"
           },
           {
             "speaker": "a",
@@ -2110,7 +2110,7 @@ export const WEEK_44: Episode[] = [
     "keyPhrases": [
       {
         "en": "creative habit",
-        "zh": "不是等靈感，而是平常就持續讓創作發生的習慣",
+        "zh": "不是等靈感，是平常就持續讓創作發生的習慣",
         "example": "Creative habit matters more than mood."
       },
       {
@@ -2135,7 +2135,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "creative energy",
-        "zh": "不是一直被消耗，而是會因創作而被喚醒的能量感",
+        "zh": "不是一直被消耗，是會因創作而被喚醒的能量感",
         "example": "Creative energy returned once he started making again."
       },
       {
@@ -2145,7 +2145,7 @@ export const WEEK_44: Episode[] = [
       },
       {
         "en": "lived creativity",
-        "zh": "不是只在想像中認同自己有創意，而是真的活出創作性",
+        "zh": "不是只在想像中認同自己有創意，是真的活出創作性",
         "example": "Lived creativity changed the shape of her week."
       }
     ]

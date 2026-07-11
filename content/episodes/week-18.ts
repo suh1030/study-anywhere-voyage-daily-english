@@ -568,7 +568,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good relationships are not built by never getting triggered. They are built by learning what to do in the first thirty seconds after you are.",
-            "zh": "好的關係不是靠你永遠不被觸發，而是靠你學會在被觸發後的前三十秒做什麼。"
+            "zh": "好的關係不是靠你永遠不被觸發，是靠你學會在被觸發後的前三十秒做什麼。"
           },
           {
             "speaker": "b",
@@ -660,7 +660,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then the skill is not staying silent. The skill is disagreeing without making the other person feel dismissed.",
-            "zh": "那真正需要的能力不是閉嘴，而是不同意的同時，不讓對方覺得自己被直接抹掉。"
+            "zh": "那真正需要的能力不是閉嘴，是不同意的同時，不讓對方覺得自己被直接抹掉。"
           },
           {
             "speaker": "b",
@@ -878,7 +878,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the point is not to avoid tension. It is to handle it cleanly.",
-            "zh": "所以重點不是避免緊張，而是把緊張處理乾淨。"
+            "zh": "所以重點不在避免緊張，而在把緊張處理乾淨。"
           },
           {
             "speaker": "a",
@@ -994,7 +994,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the first task is not to look clever. It is to own my part.",
-            "zh": "所以第一步不是讓自己看起來很圓滑，而是承認自己有責任。"
+            "zh": "所以第一步不是讓自己看起來很圓滑，是承認自己有責任。"
           },
           {
             "speaker": "a",
@@ -1200,7 +1200,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. An apology is not a trick for quick relief. It is a way of telling the truth about what you did.",
-            "zh": "本來就該少很多。道歉不是快速解除自己不舒服的技巧，而是你對自己做過什麼說出真話的方式。"
+            "zh": "本來就該少很多。道歉不是快速解除自己不舒服的技巧；它是你對自己做過什麼說出真話的方式。"
           },
           {
             "speaker": "b",
@@ -1333,13 +1333,13 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because good boundaries are not walls. They tell people how to stay close without causing damage.",
-            "zh": "因為好的界線不是高牆，而是在告訴人：要怎麼靠近，才不會造成傷害。"
+            "zh": "因為好的界線不是高牆；比較像在告訴人：要怎麼靠近，才不會造成傷害。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not distance for its own sake. It is about protecting the closeness that is still there.",
-            "zh": "所以目的不是為了把距離拉開而已，而是在保護那份還存在的親近。"
+            "zh": "所以目的不是為了把距離拉開而已，是在保護那份還存在的親近。"
           },
           {
             "speaker": "a",
@@ -1463,7 +1463,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is practical. Good boundaries make room for honesty instead of replacing it.",
-            "zh": "它本來就很實際。好的界線不是拿來取代誠實，而是替誠實留出空間。"
+            "zh": "它本來就很實際。好的界線不是拿來取代誠實，是替誠實留出空間。"
           },
           {
             "speaker": "b",
@@ -1732,7 +1732,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like it because it points to the future, not just the past.",
-            "zh": "我喜歡這句，因為它不是只盯著過去，而是把方向指向未來。"
+            "zh": "我喜歡這句，因為它不是只盯著過去，是把方向指向未來。"
           },
           {
             "speaker": "a",
@@ -1761,7 +1761,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So romance is not the answer here. Structure is.",
-            "zh": "所以在這種時候，答案不是浪漫，而是結構。"
+            "zh": "所以在這種時候，答案不是浪漫，是結構。"
           },
           {
             "speaker": "a",
@@ -2042,7 +2042,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That is the part worth practicing. Reflection is not romanticizing damage. It is refusing to waste it.",
-            "zh": "這部分最值得拿來練習。反思不是把傷害浪漫化，而是不想白白浪費它。"
+            "zh": "這部分最值得拿來練習。反思不是把傷害浪漫化，是不想白白浪費它。"
           },
           {
             "speaker": "b",
@@ -2131,7 +2131,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is. Strong relationships do not avoid every rupture. They learn how to come out stronger without becoming harder.",
-            "zh": "就是。一段強的關係不是避開每一次裂痕，而是學會怎麼在不變硬的前提下，變得更強。"
+            "zh": "就是。一段強的關係不是避開每一次裂痕，是學會怎麼在不變硬的前提下，變得更強。"
           },
           {
             "speaker": "b",
@@ -2143,7 +2143,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's right. The point is not to love conflict. The point is to use it well.",
-            "zh": "完全沒錯。重點不是愛上衝突，而是把衝突用好。"
+            "zh": "完全沒錯。重點不在愛上衝突，而在把衝突用好。"
           },
           {
             "speaker": "b",
@@ -2155,7 +2155,7 @@ export const WEEK_18: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think so too. Good relationships are not conflict-free. They are conflict-literate.",
-            "zh": "我也這麼覺得。好的關係不是沒有衝突，而是有能力讀懂衝突。"
+            "zh": "我也這麼覺得。好的關係不是沒有衝突，是有能力讀懂衝突。"
           }
         ]
       }

@@ -263,7 +263,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a fresh start is not magic. It is a decision you support with structure.",
-            "zh": "所以重新開始不是魔法，而是一個你用結構去支持的決定。"
+            "zh": "所以重新開始不是什麼魔法，比較像一個你用結構去支持的決定。"
           },
           {
             "speaker": "a",
@@ -414,7 +414,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly, yes. An intention works differently — it gives direction without punishing every stumble. If you miss a day, you still know where you are heading.",
-            "zh": "大致上是。意圖的運作方式不同——它給你方向，但不會在你每次絆倒時懲罰你。就算你有一天漏掉了，你還是知道自己往哪裡走。"
+            "zh": "大致上是。意圖的運作方式不同：它給你方向，但不會在你每次絆倒時懲罰你。就算你有一天漏掉了，你還是知道自己往哪裡走。"
           },
           {
             "speaker": "b",
@@ -455,7 +455,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Running three times, cycling, walking — all of those serve the intention. None of them is the only valid path.",
-            "zh": "對。跑步三次、騎車、走路——這些都在服務那個意圖。沒有哪一個是唯一正確的路。"
+            "zh": "對。跑步三次、騎車、走路：這些都在服務那個意圖。沒有哪一個是唯一正確的路。"
           },
           {
             "speaker": "b",
@@ -479,7 +479,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can be either. Pair it with \"even on hard days, I will come back to this\" — then it becomes an intention with staying power.",
-            "zh": "都可以。再加上「就算是難的日子，我還是會回來」——這樣就成了一個有持久力的意圖。"
+            "zh": "都可以。再加上「就算是難的日子，我還是會回來」：這樣就成了一個有持久力的意圖。"
           }
         ]
       },
@@ -496,7 +496,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "First, ask: what do you really want from studying? Not the goal itself — the feeling or the outcome underneath it.",
-            "zh": "首先，問自己：你學英文真正想要的是什麼？不是目標本身，而是它底下的那個感受或結果。"
+            "zh": "先問自己：你學英文真正想要的是什麼？不是目標本身，是它底下的那個感受或結果。"
           },
           {
             "speaker": "b",
@@ -830,7 +830,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not a perfect beginning. It is a beginning you can keep returning to.",
-            "zh": "所以重點不是完美的開始，而是一個你可以一直回來的開始。"
+            "zh": "所以重點不在完美的開始，而在一個你可以一直回來的開始。"
           },
           {
             "speaker": "a",
@@ -891,7 +891,7 @@ export const WEEK_01: Episode[] = [
       },
       {
         "en": "return to the practice",
-        "zh": "不是一次做很多，而是願意一再回到這個練習",
+        "zh": "重點不是一次做很多，是願意一再回到這個練習",
         "example": "The real win was learning to return to the practice."
       }
     ]
@@ -946,7 +946,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So people often keep things because they feel known, not because they feel good.",
-            "zh": "所以很多人會把某些東西留著，不是因為它真的好，而是因為它很熟悉。"
+            "zh": "所以很多人會把某些東西留著，不是因為它真的好，只是因為它很熟悉。"
           },
           {
             "speaker": "a",
@@ -1152,7 +1152,7 @@ export const WEEK_01: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For a life that fits better. For relationships that feel cleaner. For goals that come from truth instead of fear.",
-            "zh": "是為了準備一個更適合自己的生活、一種更乾淨的關係感，還有一個不是出於害怕、而是出於真實的目標。"
+            "zh": "是為了準備一個更適合自己的生活、一種更乾淨的關係感，還有一個出於真實、而不是出於害怕的目標。"
           },
           {
             "speaker": "b",

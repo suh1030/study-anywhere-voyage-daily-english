@@ -263,7 +263,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a great friendship is not about being perfect together. It is about being real together.",
-            "zh": "所以偉大的友誼不是關於一起完美，而是關於一起真實。"
+            "zh": "所以偉大的友誼不在一起完美，而在一起真實。"
           },
           {
             "speaker": "a",
@@ -443,7 +443,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Share something small and real about yourself first. Not a complaint, but something genuine. It gives the other person permission to do the same.",
-            "zh": "先分享一件關於你自己的真實小事。不是抱怨，而是真誠的事。這給了對方同樣做的許可。"
+            "zh": "先分享一件關於你自己的真實小事。不是抱怨，是真誠的事。這給了對方同樣做的許可。"
           },
           {
             "speaker": "b",
@@ -561,7 +561,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Often yes. Real friendship needs real information. And real information means sometimes people will not connect with you, and that is actually fine.",
-            "zh": "常常是這樣。真正的友誼需要真實的自己。而攤開真實的自己，代表有些人不會跟你合拍——那其實沒關係。"
+            "zh": "常常是這樣。真正的友誼需要真實的自己。而攤開真實的自己，代表有些人不會跟你合拍：那其實沒關係。"
           },
           {
             "speaker": "b",
@@ -683,13 +683,13 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the problem is not the distance itself. It is the silence that builds up around the distance.",
-            "zh": "所以問題不是距離本身，而是圍繞著距離積累起來的沉默。"
+            "zh": "所以問題不是距離本身，是圍繞著距離積累起來的沉默。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Most long-distance friendships do not end with a fight. They end because both people felt abandoned and neither one said so.",
-            "zh": "對。大多數遠距友誼不是以爭吵結束的，而是因為雙方都感到被遺棄，卻都沒有說出口。"
+            "zh": "對。大多數遠距友誼不是以爭吵結束的；多半是雙方都感到被遺棄，卻都沒有說出口。"
           }
         ]
       },
@@ -981,7 +981,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That fear is often a misunderstanding. Repair does not mean going back. It means building something that includes what happened.",
-            "zh": "那個恐懼常常是一個誤解。修復不是回到原點，而是建立一個把發生過的事納入其中的東西。"
+            "zh": "那個恐懼常常是一個誤解。修復不是回到原點，是建立一個把發生過的事納入其中的東西。"
           },
           {
             "speaker": "b",
@@ -1140,7 +1140,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Probably more. Ask what they experienced. Not what they think you did wrong, but what the moment felt like for them.",
-            "zh": "可能更多。問他們經歷了什麼。不是他們認為你做錯了什麼，而是那個時刻對他們的感覺是什麼。"
+            "zh": "可能更多。問他們經歷了什麼。不是他們認為你做錯了什麼，是那個時刻對他們的感覺是什麼。"
           },
           {
             "speaker": "b",
@@ -1626,7 +1626,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is not about similarity. It is about something deeper.",
-            "zh": "所以不是關於相似性，而是關於更深的東西。"
+            "zh": "所以重點不在相似性，而在更深的東西。"
           },
           {
             "speaker": "a",
@@ -1667,7 +1667,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What about describing the feeling of being with your best friend? Not what they do, but what it feels like.",
-            "zh": "那如何描述和你最好的朋友在一起的感覺？不是他們做什麼，而是感覺如何。"
+            "zh": "那如何描述和你最好的朋友在一起的感覺？不是他們做什麼，是感覺如何。"
           },
           {
             "speaker": "a",

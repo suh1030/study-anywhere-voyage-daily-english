@@ -502,7 +502,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So instead of asking, 'Where do I begin?' you ask, 'What would solved actually look like?'",
-            "zh": "所以不是一直問「我要從哪裡開始」，而是先問「如果真的解掉了，會長什麼樣子？」"
+            "zh": "所以不要一直問「我要從哪裡開始」，先問「如果真的解掉了，會長什麼樣子？」"
           },
           {
             "speaker": "a",
@@ -648,7 +648,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is usually the moment you need a fresh angle more than another louder opinion.",
-            "zh": "有，而且通常到了那個時候，你需要的比較不是另一個更大聲的意見，而是一個新的角度。"
+            "zh": "有，而且通常到了那個時候，你需要的比較不是另一個更大聲的意見，是一個新的角度。"
           },
           {
             "speaker": "b",
@@ -707,7 +707,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the messy part is not a failure. It is part of the route. Maybe I am making it sound cleaner than it feels.",
-            "zh": "所以前面那段混亂不是失敗，而是路的一部分。還是我把它講得比實際感覺更整齊了？"
+            "zh": "所以前面那段混亂不是失敗，是路的一部分。還是我把它講得比實際感覺更整齊了？"
           },
           {
             "speaker": "a",
@@ -1475,7 +1475,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The goal is not to erase uncertainty. It is to move through it intelligently.",
-            "zh": "目標不是把不確定消掉，而是有智慧地穿過它。"
+            "zh": "目標不在把不確定消掉，而在有智慧地穿過它。"
           }
         ]
       },
@@ -1632,7 +1632,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most teams do not need more ideas first. They need more shared understanding first.",
-            "zh": "很多團隊不是先缺點子，而是先缺共同理解。"
+            "zh": "很多團隊不是先缺點子，是先缺共同理解。"
           }
         ]
       },
@@ -1918,7 +1918,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So instead of collapsing into, 'This is a mess,' they lean in a little more?",
-            "zh": "所以他們不是立刻變成「這好亂喔」，而是會再往前靠一點？"
+            "zh": "所以他們不是立刻變成「這好亂喔」，是會再往前靠一點？"
           },
           {
             "speaker": "a",
@@ -2131,7 +2131,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Sometimes it is. Not because the problems are easy, but because your relationship to them is steadier.",
-            "zh": "有時候真的會。不是因為問題變簡單，而是因為你跟問題之間的關係變穩了。"
+            "zh": "有時候真的會。不是因為問題變簡單，是因為你跟問題之間的關係變穩了。"
           },
           {
             "speaker": "b",
@@ -2155,7 +2155,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The best confidence is not 'I always know.' It is 'I can work with what shows up.'",
-            "zh": "最好的自信不是「我永遠都知道」，而是「不管出現什麼，我都能和它工作。」"
+            "zh": "最好的自信不是「我永遠都知道」，是「不管出現什麼，我都能和它工作。」"
           }
         ]
       }

@@ -127,7 +127,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It's open plan — the kitchen blends into the living area. There's a counter that divides them.",
-            "zh": "是開放式的——廚房和客廳連在一起，有個吧台把它們分開。"
+            "zh": "是開放式的：廚房和客廳連在一起，有個吧台把它們分開。"
           },
           {
             "speaker": "b",
@@ -443,7 +443,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. A new roof, a boiler replacement — these things can cost tens of thousands all at once.",
-            "zh": "完全正確。換屋頂、換鍋爐——這些東西可能一次就花掉幾十萬。"
+            "zh": "完全正確。換屋頂、換鍋爐：這些東西可能一次就花掉幾十萬。"
           },
           {
             "speaker": "b",
@@ -479,7 +479,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It's one of the strongest arguments for owning — security of tenure. Nobody can evict you from your own home.",
-            "zh": "這是贊成買房最有力的論點之一——居住保障。沒有人能把你從自己的家裡趕走。"
+            "zh": "這是贊成買房最有力的論點之一：居住保障。沒有人能把你從自己的家裡趕走。"
           }
         ]
       },
@@ -725,13 +725,13 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And it requires a big time investment up front — going through everything at once.",
-            "zh": "對。而且一開始需要投入大量時間——一次把所有東西都整理過。"
+            "zh": "對。而且一開始需要投入大量時間：一次把所有東西都整理過。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I couldn't do it all at once. I do it in small chunks — one drawer at a time.",
-            "zh": "我沒辦法一次全部搞定。我一小塊一小塊來——每次一個抽屜。"
+            "zh": "我沒辦法一次全部搞定。我一小塊一小塊來：每次一個抽屜。"
           },
           {
             "speaker": "a",
@@ -801,7 +801,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Some people take minimalism really far — like, they own fewer than a hundred things total.",
-            "zh": "有些人把極簡主義做到很極端——比如，他們全部的東西不超過一百件。"
+            "zh": "有些人把極簡主義做到很極端：比如，他們全部的東西不超過一百件。"
           },
           {
             "speaker": "a",
@@ -843,7 +843,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For most people it lands somewhere in between: intentional living matters more than radical minimalism — keep what adds value, release the rest.",
-            "zh": "對大多數人來說，答案其實落在中間：刻意生活比激進極簡更重要——留下能增添價值的，其餘的放手。"
+            "zh": "對大多數人來說，答案其實落在中間：刻意生活比激進極簡更重要：留下能增添價值的，其餘的放手。"
           }
         ]
       },
@@ -1053,7 +1053,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Shared walls and floors require mutual respect. It goes both ways — be the neighbor you wish you had.",
-            "zh": "共用牆壁和地板需要相互尊重。是雙向的——做你希望別人成為的那種鄰居。"
+            "zh": "共用牆壁和地板需要相互尊重。是雙向的：做你希望別人成為的那種鄰居。"
           }
         ]
       },
@@ -1123,7 +1123,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I'd start by documenting everything — dates, times, what happened — before escalating.",
-            "zh": "我會先記錄下一切——日期、時間、發生什麼事——然後再升級處理。"
+            "zh": "我會先記錄下一切（日期、時間、發生什麼事）然後再升級處理。"
           },
           {
             "speaker": "b",
@@ -1292,13 +1292,13 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I find it meditative honestly. Chopping vegetables, following a recipe — it quiets my brain.",
-            "zh": "說實話我覺得像冥想。切菜、跟著食譜——讓我的大腦安靜下來。"
+            "zh": "說實話我覺得像冥想。切菜、跟著食譜：讓我的大腦安靜下來。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I've heard that before — cooking as mindfulness. Maybe I should try approaching it that way.",
-            "zh": "我以前聽說過——烹飪作為正念。也許我應該試著用那種方式來看待它。"
+            "zh": "我以前聽說過：烹飪作為正念。也許我應該試著用那種方式來看待它。"
           },
           {
             "speaker": "a",
@@ -1416,7 +1416,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's such a universal thing — food memories from childhood are impossible to fully recreate.",
-            "zh": "那是個很普遍的事——童年的食物記憶不可能完全重現。"
+            "zh": "那是個很普遍的事：童年的食物記憶不可能完全重現。"
           },
           {
             "speaker": "a",
@@ -1457,7 +1457,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's the problem — I buy ingredients without a plan and then improvise badly.",
-            "zh": "問題就在這——我在沒有計畫的情況下買食材，然後即興發揮得很差。"
+            "zh": "問題就在這：我在沒有計畫的情況下買食材，然後即興發揮得很差。"
           },
           {
             "speaker": "a",
@@ -1475,7 +1475,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Leftovers, simple eggs on toast, or yes — delivery. No guilt. Balance is key.",
-            "zh": "剩菜、簡單的吐司炒蛋，或者是——外送。沒有罪惡感。平衡最重要。"
+            "zh": "剩菜、簡單的吐司炒蛋，或者是：外送。沒有罪惡感。平衡最重要。"
           },
           {
             "speaker": "b",
@@ -1603,7 +1603,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the thing about design — it's about cohesion, not price. A consistent color palette goes a long way.",
-            "zh": "設計就是這樣——是關於協調性，不是價格。統一的色彩搭配很有幫助。"
+            "zh": "設計就是這樣，是關於協調性，不是價格。統一的色彩搭配很有幫助。"
           },
           {
             "speaker": "b",
@@ -1615,7 +1615,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That can be its own style though — eclectic and personal. Tells a story.",
-            "zh": "但那也可以是一種風格——折衷且個人化。訴說著一個故事。"
+            "zh": "但那也可以是一種風格：折衷且個人化。訴說著一個故事。"
           },
           {
             "speaker": "b",
@@ -1656,7 +1656,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And why casinos use reds and oranges — to keep people alert and spending.",
-            "zh": "就是。而賭場用紅色和橘色——讓人保持警覺和消費。"
+            "zh": "就是。而賭場用紅色和橘色：讓人保持警覺和消費。"
           },
           {
             "speaker": "b",
@@ -1691,7 +1691,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What's more important — good furniture or smart layout? If you could only fix one.",
-            "zh": "哪個更重要——好家具還是聰明的擺設？如果你只能改變一件事。"
+            "zh": "哪個更重要：好家具還是聰明的擺設？如果你只能改變一件事。"
           },
           {
             "speaker": "a",
@@ -1721,7 +1721,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And think about focal points — what's the first thing your eye goes to in the room? That should be intentional.",
-            "zh": "還要考慮視覺焦點——進入房間你的眼睛第一個看向哪裡？那應該是刻意設計的。"
+            "zh": "還要考慮視覺焦點：進入房間你的眼睛第一個看向哪裡？那應該是刻意設計的。"
           },
           {
             "speaker": "b",
@@ -1744,7 +1744,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I have a lot of things I love — travel souvenirs, photos, books — but I don't know how to display them nicely.",
-            "zh": "我有很多喜歡的東西——旅遊紀念品、照片、書——但我不知道怎麼漂亮地展示它們。"
+            "zh": "我有很多喜歡的東西（旅遊紀念品、照片、書）但我不知道怎麼漂亮地展示它們。"
           },
           {
             "speaker": "a",
@@ -1774,7 +1774,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Command strips are also life-changing — no nails needed, and you can adjust if you change your mind.",
-            "zh": "可撕式掛條也改變人生——不需要釘子，如果你改變主意可以調整。"
+            "zh": "可撕式掛條也改變人生，不需要釘子，如果你改變主意可以調整。"
           },
           {
             "speaker": "b",
@@ -1839,7 +1839,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Spaces can be refreshed without a renovation. New throw pillows, rearranging shelves, different lighting — small changes, big impact.",
-            "zh": "空間可以在不裝修的情況下煥然一新。新的抱枕、重新排列架子、不同的燈光——小改變，大影響。"
+            "zh": "空間可以在不裝修的情況下煥然一新。新的抱枕、重新排列架子、不同的燈光：小改變，大影響。"
           }
         ]
       }
@@ -1984,7 +1984,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It changed how I think about what a home needs. Not just aesthetically — psychologically.",
-            "zh": "那改變了我對家需要什麼的想法。不只是美學上的——而是心理上的。"
+            "zh": "那改變了我對家需要什麼的想法。不只是美學上的，而是心理上的。"
           },
           {
             "speaker": "b",
@@ -2013,7 +2013,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There's a concept called \"active rest\" — things that restore you without demanding mental effort.",
-            "zh": "有個概念叫「主動休息」——可以讓你恢復元氣但不需要費腦力的事情。"
+            "zh": "有個概念叫「主動休息」，可以讓你恢復元氣但不需要費腦力的事情。"
           },
           {
             "speaker": "b",
@@ -2066,7 +2066,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I journal most evenings. Not extensively — just a few lines about what stood out and how I felt.",
-            "zh": "我大多數晚上都寫日記。不會很多——只是幾行關於什麼事情讓我印象深刻，以及我的感受。"
+            "zh": "我大多數晚上都寫日記。不會很多，只是幾行關於什麼事情讓我印象深刻，以及我的感受。"
           },
           {
             "speaker": "b",
@@ -2108,7 +2108,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "If you could design your ideal home life — routines, space, everything — what would it look like?",
-            "zh": "如果你可以設計你理想的家庭生活——作息、空間、一切——它會是什麼樣子？"
+            "zh": "如果你可以設計你理想的家庭生活（作息、空間、一切）它會是什麼樣子？"
           },
           {
             "speaker": "a",
@@ -2120,7 +2120,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I can see why that would work — everything is already quiet before the noise begins. I check my phone the second I wake up.",
-            "zh": "我能理解為什麼這樣做會有效——在噪音開始之前一切還是安靜的。我一醒來就會看手機。"
+            "zh": "我能理解為什麼這樣做會有效：在噪音開始之前一切還是安靜的。我一醒來就會看手機。"
           },
           {
             "speaker": "a",

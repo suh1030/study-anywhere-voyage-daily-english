@@ -251,7 +251,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I hadn't heard it framed that way before — time as something to read, not just fill.",
-            "zh": "我以前沒有這樣聽過——把時間當成需要讀懂的東西，而不只是要填滿的東西。"
+            "zh": "我以前沒有這樣聽過：把時間當成需要讀懂的東西，而不只是要填滿的東西。"
           },
           {
             "speaker": "a",
@@ -367,7 +367,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real question is not whether I woke up early. It is what kind of beginning I walked into.",
-            "zh": "所以真正的問題不是我有沒有早起，而是我走進了什麼樣的開始。"
+            "zh": "所以真正的問題不是我有沒有早起，是我走進了什麼樣的開始。"
           },
           {
             "speaker": "a",
@@ -502,13 +502,13 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the win is not becoming impressive. It is becoming easier to start.",
-            "zh": "所以真正的成果不是讓自己看起來很厲害，而是讓自己更容易開始。"
+            "zh": "所以真正的成果不是讓自己看起來很厲害，是讓自己更容易開始。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. Most mornings do not fail because people are lazy. They fail because the setup is too heavy for the energy available.",
-            "zh": "正是。大多數早晨不是因為人懶才失敗，而是因為那套安排對當下的能量來說太重了。"
+            "zh": "正是。大多數早晨不是因為人懶才失敗，是那套安排對當下的能量來說太重了。"
           },
           {
             "speaker": "b",
@@ -1439,7 +1439,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Choosing one anchor for each day. Not a full plan, just one thing that matters.",
-            "zh": "幫每天各選一個定錨的重點。不是排滿整天，而是先決定一件最重要的事。"
+            "zh": "幫每天各選一個定錨的重點。不是排滿整天，是先決定一件最重要的事。"
           },
           {
             "speaker": "b",
@@ -1457,7 +1457,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a different way to think about free time — not wasted, just different work.",
-            "zh": "這是一種不同的看待空閒時間的方式——不是浪費，只是不同形式的工作。"
+            "zh": "這是一種不同的看待空閒時間的方式，不是浪費，只是不同形式的工作。"
           },
           {
             "speaker": "a",
@@ -1505,7 +1505,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So maybe the better question is not \"How much did I fit in?\" but \"Did Monday become less punishing?\"",
-            "zh": "所以更好的問題也許不是「我塞了多少進去」，而是「星期一有沒有因此比較不折磨人？」"
+            "zh": "所以更好的問題也許不是「我塞了多少進去」，是「星期一有沒有因此比較不折磨人？」"
           },
           {
             "speaker": "a",
@@ -1827,7 +1827,7 @@ export const WEEK_10: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because enoughness is not quitting. It is staying in contact with reality before exhaustion makes the choice for you.",
-            "zh": "因為所謂夠了，不是放棄，而是在筋疲力盡替你做決定之前，先跟現實保持接觸。"
+            "zh": "因為所謂夠了，不是放棄；是在筋疲力盡替你做決定之前，先跟現實保持接觸。"
           },
           {
             "speaker": "b",

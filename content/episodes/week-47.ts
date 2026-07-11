@@ -282,7 +282,7 @@ export const WEEK_47: Episode[] = [
       },
       {
         "en": "lived culture",
-        "zh": "不是理論，而是實際活在日常裡的文化",
+        "zh": "不是理論，是實際活在日常裡的文化",
         "example": "Lived culture shows up in small routines."
       },
       {
@@ -598,7 +598,7 @@ export const WEEK_47: Episode[] = [
       },
       {
         "en": "different operating system",
-        "zh": "對方不是怪，而是背後運作邏輯不同",
+        "zh": "對方不是怪，是背後運作邏輯不同",
         "example": "It helped to think of it as a different operating system."
       },
       {
@@ -623,7 +623,7 @@ export const WEEK_47: Episode[] = [
       },
       {
         "en": "meaningful contribution",
-        "zh": "不是有出席而已，而是真的能輸入有用內容",
+        "zh": "不是有出席而已，是真的能輸入有用內容",
         "example": "The new format created more meaningful contribution."
       }
     ]
@@ -1541,7 +1541,7 @@ export const WEEK_47: Episode[] = [
       },
       {
         "en": "real value clash",
-        "zh": "不是誤會，而是真的在價值層有衝突",
+        "zh": "不是誤會，是真的在價值層有衝突",
         "example": "This was a real value clash, not a small misunderstanding."
       },
       {
@@ -1842,7 +1842,7 @@ export const WEEK_47: Episode[] = [
     "keyPhrases": [
       {
         "en": "carry meaning",
-        "zh": "不是逐字搬過去，而是把真正意思傳過去",
+        "zh": "不是逐字搬過去，是把真正意思傳過去",
         "example": "A good translator knows how to carry meaning, not only words."
       },
       {
@@ -2138,7 +2138,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is the definition I trust. Bridge-building is not decoration for a diverse world. It is maintenance for one.",
-            "zh": "這就是我最相信的定義。搭橋不是多元世界裡的裝飾，而是讓那個世界能運作下去的維護。"
+            "zh": "這就是我最相信的定義。搭橋不是多元世界裡的裝飾，是讓那個世界能運作下去的維護。"
           },
           {
             "speaker": "b",
@@ -2163,7 +2163,7 @@ export const WEEK_47: Episode[] = [
       },
       {
         "en": "two-way movement",
-        "zh": "理解和調整不是單向要求，而是雙向流動",
+        "zh": "理解和調整不是單向要求，是雙向流動",
         "example": "A real bridge allows two-way movement."
       },
       {

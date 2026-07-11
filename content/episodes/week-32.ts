@@ -251,7 +251,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So maybe a hobby is not separate from life at all. Maybe it teaches you how to live it better.",
-            "zh": "所以也許興趣根本不是和生活分開的東西，而是在教你怎麼把生活過得更好。"
+            "zh": "所以也許興趣根本不是和生活分開的東西，是在教你怎麼把生活過得更好。"
           },
           {
             "speaker": "a",
@@ -618,7 +618,7 @@ export const WEEK_32: Episode[] = [
       },
       {
         "en": "sentimental value",
-        "zh": "不是市場價值，而是因為記憶和感情而顯得珍貴的價值",
+        "zh": "不是市場價值，是因為記憶和感情而顯得珍貴的價值",
         "example": "The mug had little market value but huge sentimental value."
       },
       {
@@ -665,7 +665,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because they are often returning to a part of themselves that was pushed aside, not lost.",
-            "zh": "因為很多時候，他們回去的不是一個消失的東西，而是一塊被擠到旁邊的自己。"
+            "zh": "因為很多時候，他們回去的不是一個消失的東西，是一塊被擠到旁邊的自己。"
           },
           {
             "speaker": "b",
@@ -824,7 +824,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. You are not rebuilding a brand. You are rebuilding a relationship.",
-            "zh": "完全沒錯。你不是在重建一個品牌，而是在重建一段關係。"
+            "zh": "完全沒錯。你不是在重建一個品牌，是在重建一段關係。"
           },
           {
             "speaker": "b",
@@ -914,7 +914,7 @@ export const WEEK_32: Episode[] = [
       },
       {
         "en": "recovery hobby",
-        "zh": "不是為了表現，而是為了讓自己慢慢恢復的興趣活動",
+        "zh": "不是為了表現，是為了讓自己慢慢恢復的興趣活動",
         "example": "Gardening became a recovery hobby after a year of burnout."
       },
       {
@@ -1135,7 +1135,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is the important shift. Most people quit not because they cannot learn, but because they misread the stage they are in.",
-            "zh": "這個地方很關鍵。大多數人放棄，不是真的學不會，而是把自己所在的階段讀錯了。"
+            "zh": "這個地方很關鍵。大多數人放棄，不是真的學不會，是把自己所在的階段讀錯了。"
           },
           {
             "speaker": "b",
@@ -1255,7 +1255,7 @@ export const WEEK_32: Episode[] = [
       },
       {
         "en": "earned confidence",
-        "zh": "不是空泛鼓勵，而是一步一步做出來的踏實自信",
+        "zh": "不是空泛鼓勵，是一步一步做出來的踏實自信",
         "example": "By winter, he had a quiet kind of earned confidence."
       }
     ]
@@ -1487,7 +1487,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It gives people a more truthful way to meet. Not through image first, but through attention first.",
-            "zh": "它會給人一種比較真實的相遇方式。不是先透過形象，而是先透過注意力。"
+            "zh": "它會給人一種比較真實的相遇方式。不是先透過形象，是先透過注意力。"
           },
           {
             "speaker": "b",
@@ -1756,7 +1756,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So privacy is not secrecy. It is selectivity.",
-            "zh": "所以隱私不是神秘兮兮地藏起來，而是一種選擇性。"
+            "zh": "所以隱私不是神秘兮兮地藏起來，是一種選擇性。"
           },
           {
             "speaker": "a",
@@ -1815,7 +1815,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A private hobby can become one of the places where your life stops being observed and starts being lived.",
-            "zh": "一個私人的興趣，最後可能會變成你生活裡少數幾個地方之一：它不是被觀察，而是真的被活出來。"
+            "zh": "一個私人的興趣，最後可能會變成你生活裡少數幾個地方之一：它不是被觀察，是真的被活出來。"
           },
           {
             "speaker": "b",
@@ -1862,7 +1862,7 @@ export const WEEK_32: Episode[] = [
       },
       {
         "en": "inward reward",
-        "zh": "不是外面給的讚賞，而是內在自己感覺到的回報",
+        "zh": "不是外面給的讚賞，是內在自己感覺到的回報",
         "example": "The inward reward mattered more than posting the result online."
       },
       {
@@ -2084,7 +2084,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not constant intensity. It is continued relationship.",
-            "zh": "所以目標不是永遠都要很強烈，而是讓那段關係可以一直活著。"
+            "zh": "所以目標不是永遠都要很強烈，是讓那段關係可以一直活著。"
           },
           {
             "speaker": "a",
@@ -2163,7 +2163,7 @@ export const WEEK_32: Episode[] = [
     "keyPhrases": [
       {
         "en": "passion project",
-        "zh": "不是因為必須，而是因為真心喜歡才持續投入的個人計畫或活動",
+        "zh": "不是因為必須，是因為真心喜歡才持續投入的個人計畫或活動",
         "example": "The small band remained a passion project long after college."
       },
       {
@@ -2188,17 +2188,17 @@ export const WEEK_32: Episode[] = [
       },
       {
         "en": "chosen life",
-        "zh": "不是被推著走，而是有一部分是自己真心選來活的生活",
+        "zh": "不是被推著走，是有一部分是自己真心選來活的生活",
         "example": "The weekly class made his schedule feel more like a chosen life."
       },
       {
         "en": "sustainable joy",
-        "zh": "不是一下子燒很旺，而是可以陪你很多年的快樂方式",
+        "zh": "不是一下子燒很旺，是可以陪你很多年的快樂方式",
         "example": "She stopped chasing intensity and started building sustainable joy."
       },
       {
         "en": "aliveness",
-        "zh": "不是單純有在運作，而是真的感覺自己活著的那種生命感",
+        "zh": "不是單純有在運作，是真的感覺自己活著的那種生命感",
         "example": "Music restored a sense of aliveness that deadlines had flattened."
       }
     ]

@@ -204,7 +204,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "So name it. \"Rest time\" or \"quiet time\" — whatever label feels right. The act of naming it makes it feel legitimate.",
-            "zh": "所以給它命名。「休息時間」或「安靜時間」——隨便什麼名字都好。命名這個動作會讓它感覺名正言順。"
+            "zh": "所以給它命名。「休息時間」或「安靜時間」：隨便什麼名字都好。命名這個動作會讓它感覺名正言順。"
           },
           {
             "speaker": "b",
@@ -896,7 +896,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the trap. The practice is learning to rest before the list is done. Not despite the list, but alongside it.",
-            "zh": "那就是陷阱。練習是學著在清單完成之前就休息。不是無視清單，而是和清單共存。"
+            "zh": "那就是陷阱。練習是學著在清單完成之前就休息。不是無視清單，是和清單共存。"
           }
         ]
       }
@@ -988,7 +988,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Input of a different kind. Not more information about your subject, but exposure to completely different things. Art, music, conversations, physical experiences.",
-            "zh": "不同種類的輸入。不是更多關於你的主題的資訊，而是接觸完全不同的事物。藝術、音樂、對話、身體上的體驗。"
+            "zh": "不同種類的輸入。不是更多關於你的主題的資訊，是接觸完全不同的事物。藝術、音樂、對話、身體上的體驗。"
           },
           {
             "speaker": "b",
@@ -1183,7 +1183,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The long walk, the interesting conversation, the afternoon you spend doing something completely different — all of that feeds back in.",
-            "zh": "對。那次長途散步、那次有趣的對話、那個你拿來做完全不同事情的下午——這些都會回饋回來。"
+            "zh": "對。那次長途散步、那次有趣的對話、那個你拿來做完全不同事情的下午：這些都會回饋回來。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Showing up means being engaged, not just present. And that takes energy you can only have if you are not already stretched too thin.",
-            "zh": "對。「出席」指的是全心投入，不是人到就好。而那需要餘裕——你沒被榨乾的時候才給得出來。"
+            "zh": "對。「出席」指的是全心投入，不是人到就好。而那需要餘裕：你沒被榨乾的時候才給得出來。"
           }
         ]
       },
@@ -1768,7 +1768,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So instead of running meetings back to back with no break, you stop for a moment in between.",
-            "zh": "所以不是一場接一場地開會沒有休息，而是在之間停下來片刻。"
+            "zh": "所以不是一場接一場地開會沒有休息，是在之間停下來片刻。"
           },
           {
             "speaker": "a",

@@ -884,7 +884,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For the most part, yes. The best outcome is not choosing one self over another. It is learning to trust the bridge between them.",
-            "zh": "大部分情況是這樣。最好的結果，不是選其中一個自己，而是學著信任它們之間那座橋。"
+            "zh": "大部分情況是這樣。最好的結果，不是選其中一個自己，是學著信任它們之間那座橋。"
           },
           {
             "speaker": "b",
@@ -1088,7 +1088,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That tracks — especially in practice.",
-            "zh": "這說得通——尤其在實際情況裡。"
+            "zh": "這說得通：尤其在實際情況裡。"
           },
           {
             "speaker": "a",
@@ -1135,7 +1135,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Narrative identity often changes not because memory changes, but because meaning does.",
-            "zh": "沒錯。敘事身份很多時候不是記憶變了，而是意義變了。"
+            "zh": "沒錯。敘事身份很多時候不是記憶變了，是意義變了。"
           },
           {
             "speaker": "b",
@@ -1147,7 +1147,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very much. A better story does not deny the pain. It just puts the pain in a larger and more workable frame.",
-            "zh": "沒錯。更好的故事不是否認痛，而是把痛放進一個更大、也更能活下去的框裡。"
+            "zh": "沒錯。更好的故事不是否認痛，是把痛放進一個更大、也更能活下去的框裡。"
           },
           {
             "speaker": "b",
@@ -1225,7 +1225,7 @@ export const WEEK_48: Episode[] = [
       },
       {
         "en": "inherited script",
-        "zh": "不是自己發明，而是從家庭或文化繼承來的人生腳本",
+        "zh": "不是自己發明，是從家庭或文化繼承來的人生腳本",
         "example": "She was trying to step outside an inherited script."
       },
       {
@@ -1440,7 +1440,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the word does not create the reality from nothing, but it sharpens it.",
-            "zh": "所以這個字不是平空創造現實，而是把它磨得更清楚。"
+            "zh": "所以這個字不是平空創造現實，是把它磨得更清楚。"
           },
           {
             "speaker": "a",
@@ -1750,7 +1750,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Imagine someone writing about a painful period and realizing, halfway through, that the story is not mainly about weakness. It is about endurance.",
-            "zh": "當然會。想像一個人寫一段痛苦時期，寫到一半突然發現：這段故事主要不是關於脆弱，而是關於撐住。"
+            "zh": "當然會。想像一個人寫一段痛苦時期，寫到一半突然發現：這段故事主要不是關於脆弱，是關於撐住。"
           },
           {
             "speaker": "b",
@@ -2138,7 +2138,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good. That is the real lesson here. The gift is not mastery first. The gift is movement: from hidden to visible, from stuck to speakable, from alone to accompanied.",
-            "zh": "這是我最想強調的一點。這個禮物首先不是精通，而是移動：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
+            "zh": "這是我最想強調的一點。這個禮物首先不是精通，是移動：從隱藏到可見、從卡住到可說、從孤單到有人陪。"
           },
           {
             "speaker": "b",

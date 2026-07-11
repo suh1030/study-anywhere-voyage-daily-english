@@ -257,7 +257,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The point is not to sell yourself harder. It is to describe your work honestly enough that people can see its shape.",
-            "zh": "重點不是更用力賣自己，而是誠實到一個程度，讓別人真的看得到你工作的形狀。"
+            "zh": "重點不是更用力賣自己，是誠實到一個程度，讓別人真的看得到你工作的形狀。"
           },
           {
             "speaker": "b",
@@ -514,7 +514,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So I need flexibility, not one perfect line.",
-            "zh": "所以我要練的不是一個完美句子，而是彈性。"
+            "zh": "所以我要練的不是一個完美句子，是彈性。"
           },
           {
             "speaker": "a",
@@ -807,7 +807,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Ask smaller questions. Not 'Is this my calling?' but 'What part of my week gave me energy, and what part drained it?'",
-            "zh": "問小一點的問題。不要直接問「這是不是我的天職」，而是問「這週哪一部分讓我有精神，哪一部分讓我被抽乾？」"
+            "zh": "問小一點的問題。不要直接問「這是不是我的天職」，改問「這週哪一部分讓我有精神，哪一部分讓我被抽乾？」"
           },
           {
             "speaker": "b",
@@ -994,7 +994,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So ownership is not about sounding guilty. It is about being useful.",
-            "zh": "所以當責其實不是要聽起來很有罪惡感，而是要真的有用。"
+            "zh": "所以當責其實不是要聽起來很有罪惡感，是要真的有用。"
           },
           {
             "speaker": "a",
@@ -1047,7 +1047,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So ownership is not heroic. It is preventative.",
-            "zh": "所以當責其實不是什麼英雄行為，而是預防工作。"
+            "zh": "所以當責其實不是什麼英雄行為，比較像預防工作。"
           },
           {
             "speaker": "a",
@@ -1357,7 +1357,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Perfect. That is the bridge. Customer success then becomes a continuation, not a random detour.",
-            "zh": "很好。那就是橋。這樣客戶成功聽起來就不是亂繞路，而是延續。"
+            "zh": "很好。那就是橋。這樣客戶成功聽起來就不是亂繞路，是延續。"
           },
           {
             "speaker": "b",
@@ -1463,7 +1463,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Your job is not to prove the path was perfect. It is to explain why it makes sense.",
-            "zh": "你的任務不是證明這條路完美，而是說明為什麼它講得通。"
+            "zh": "你的任務不是證明這條路完美，是說明為什麼它講得通。"
           },
           {
             "speaker": "b",
@@ -1523,7 +1523,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A strong career story does not hide the turns. It explains what the turns were turning you toward.",
-            "zh": "完全沒錯。好的職涯故事不是把轉彎藏起來，而是解釋那些轉彎最後把你帶向哪裡。"
+            "zh": "完全沒錯。好的職涯故事不是把轉彎藏起來，是解釋那些轉彎最後把你帶向哪裡。"
           }
         ]
       }
@@ -2149,7 +2149,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to sound bigger. It is to sound true at full size.",
-            "zh": "所以目標不是讓自己聽起來更大，而是用完整尺寸的真實去說話。"
+            "zh": "所以目標不在讓自己聽起來更大，而在用完整尺寸的真實去說話。"
           },
           {
             "speaker": "a",

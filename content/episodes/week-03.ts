@@ -21,7 +21,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a mix. Subway to the main station, then a ten-minute walk. On good days it takes thirty-five minutes. On bad days — signal problems, crowded platforms — it can be over an hour.",
-            "zh": "混搭的。先搭捷運到大站，再走十分鐘。順的話三十五分鐘就到，不順的話——號誌故障、月台塞滿人——有時候得花超過一小時。"
+            "zh": "混搭的。先搭捷運到大站，再走十分鐘。順的話三十五分鐘就到，不順的話（號誌故障、月台塞滿人）有時候得花超過一小時。"
           },
           {
             "speaker": "b",
@@ -33,7 +33,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It depends on my mindset going in. If I treat it as dead time — just waiting to arrive — it feels long and draining. If I use it intentionally, it is actually some of my most useful time in the day.",
-            "zh": "看我用什麼心態上車。如果把它當成死掉的時間——純粹在等到站——就會覺得又長又累。但如果有意識地去用它，它反而是我一天裡最好用的一段時間。"
+            "zh": "看我用什麼心態上車。如果把它當成死掉的時間（純粹在等到站）就會覺得又長又累。但如果有意識地去用它，它反而是我一天裡最好用的一段時間。"
           },
           {
             "speaker": "b",
@@ -45,7 +45,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Podcasts, audiobooks, or sometimes just thinking without a screen. The commute gives me a buffer between home mode and work mode — a kind of decompression that I actually need.",
-            "zh": "聽 Podcast、有聲書，或有時候就只是放下螢幕想想事情。通勤是「在家模式」跟「上班模式」之間的緩衝帶——那種轉換的空檔，其實我真的需要。"
+            "zh": "聽 Podcast、有聲書，或有時候就只是放下螢幕想想事情。通勤是「在家模式」跟「上班模式」之間的緩衝帶：那種轉換的空檔，其實我真的需要。"
           },
           {
             "speaker": "b",
@@ -57,7 +57,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's exactly it. I arrive at work already shifted into a different gear. And the same thing happens on the way home — by the time I walk through my door, I have mostly let go of the workday.",
-            "zh": "就是這個意思。到公司的時候，我已經切換到另一個檔位了。回家的路上也一樣——走進家門時，工作的事大部分都已經放下了。"
+            "zh": "就是這個意思。到公司的時候，我已經切換到另一個檔位了。回家的路上也一樣：走進家門時，工作的事大部分都已經放下了。"
           }
         ]
       },
@@ -98,7 +98,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A few times. Usually over seats — someone sitting in a reserved spot, someone spreading out too much. What I have noticed is that the people who intervene are usually brave enough to do it calmly, and that almost always de-escalates things.",
-            "zh": "看過幾次，通常都是為了座位——有人坐博愛座、有人一個人佔太多位置。我發現敢出面的人通常也有本事心平氣和地講，而心平氣和幾乎每次都能讓場面降溫。"
+            "zh": "看過幾次，通常都是為了座位：有人坐博愛座、有人一個人佔太多位置。我發現敢出面的人通常也有本事心平氣和地講，而心平氣和幾乎每次都能讓場面降溫。"
           },
           {
             "speaker": "b",
@@ -127,7 +127,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I finished an entire online course during my morning commutes over two months. Listening to recorded lectures on the train. I actually learned more than I expected because the context was consistent — same route, same time, same mental state.",
-            "zh": "我曾經靠著兩個月的早晨通勤，聽完一整門線上課程——就在捷運上聽課程錄音。學到的比預期多，因為情境完全固定：同一條路線、同一個時間、同樣的精神狀態。"
+            "zh": "我曾經靠著兩個月的早晨通勤，聽完一整門線上課程：就在捷運上聽課程錄音。學到的比預期多，因為情境完全固定：同一條路線、同一個時間、同樣的精神狀態。"
           },
           {
             "speaker": "b",
@@ -139,7 +139,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, and it is habit stacking — attaching a new behavior to an existing routine. The commute was already happening; I just changed what happened inside it.",
-            "zh": "對，這就是所謂的習慣堆疊——把新行為掛在既有的例行公事上。反正通勤本來就得通，我只是換掉了車廂裡做的事。"
+            "zh": "對，這就是所謂的習慣堆疊：把新行為掛在既有的例行公事上。反正通勤本來就得通，我只是換掉了車廂裡做的事。"
           },
           {
             "speaker": "b",
@@ -204,7 +204,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is real skill in that — knowing when you have done everything you can and the rest is out of your hands. I used the extra forty minutes to read. By the time the train moved, I was actually calm.",
-            "zh": "這其實是門真功夫——知道自己什麼時候已經做完能做的，剩下的就不歸你管了。我用多出來的四十分鐘看書，等車重新開動的時候，我居然是平靜的。"
+            "zh": "這其實是門真功夫：知道自己什麼時候已經做完能做的，剩下的就不歸你管了。我用多出來的四十分鐘看書，等車重新開動的時候，我居然是平靜的。"
           },
           {
             "speaker": "b",
@@ -252,7 +252,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Factor it into the salary calculation. An extra ninety minutes of commuting a day is seven and a half hours a week — almost a full extra working day. What is that worth to you?",
-            "zh": "把通勤算進薪水裡一起評估。每天多九十分鐘，一週就是七個半小時——幾乎等於多上一天班。你要問自己：這些時間值多少錢？"
+            "zh": "把通勤算進薪水裡一起評估。每天多九十分鐘，一週就是七個半小時：幾乎等於多上一天班。你要問自己：這些時間值多少錢？"
           },
           {
             "speaker": "b",
@@ -344,7 +344,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I noticed things I had never noticed before — a bakery I had walked past fifty times, a small park with a pond. I was moving through the city instead of being transported through it. It felt completely different.",
-            "zh": "我開始注意到以前從沒注意過的東西——一間我明明路過五十次的麵包店、一座有小池塘的公園。我是自己走過這座城市，而不是被載著穿過去，感覺完全不一樣。"
+            "zh": "我開始注意到以前從沒注意過的東西：一間我明明路過五十次的麵包店、一座有小池塘的公園。我是自己走過這座城市，而不是被載著穿過去，感覺完全不一樣。"
           },
           {
             "speaker": "b",
@@ -356,7 +356,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. And the physical movement — even just thirty minutes of walking — genuinely changed my morning mood. I arrived at work in a different state than when I had been crammed into the subway.",
-            "zh": "對。而且光是身體有在動——即使只是走三十分鐘——就真的改變了我早上的心情。走路到公司的狀態，跟被擠在捷運裡到公司的狀態，完全是兩個人。"
+            "zh": "對。而且光是身體有在動（即使只是走三十分鐘）就真的改變了我早上的心情。走路到公司的狀態，跟被擠在捷運裡到公司的狀態，完全是兩個人。"
           },
           {
             "speaker": "b",
@@ -368,7 +368,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Some days, yes. Not every day — the weather does not always cooperate. But on dry days when I have the time, I choose it.",
-            "zh": "有些日子會。不是天天——天氣不會天天賞臉。但天氣好、時間夠的日子，我會選擇用走的。"
+            "zh": "有些日子會。不是天天：天氣不會天天賞臉。但天氣好、時間夠的日子，我會選擇用走的。"
           }
         ]
       },
@@ -409,7 +409,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Weather and sweat. The rain is obviously a problem. But sweat is the one nobody talks about honestly — if your office does not have a shower, arriving soaked in sweat after cycling is not realistic for most people.",
-            "zh": "天氣，還有流汗。下雨當然麻煩，但流汗才是大家都避而不談的那個問題——如果公司沒有淋浴間，騎到滿身汗再進辦公室，對多數人來說真的不切實際。"
+            "zh": "天氣，還有流汗。下雨當然麻煩，但流汗才是大家都避而不談的那個問題：如果公司沒有淋浴間，騎到滿身汗再進辦公室，對多數人來說真的不切實際。"
           },
           {
             "speaker": "b",
@@ -438,7 +438,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not always. \"It is good for you\" is rarely enough motivation on a cold rainy morning. What lands more is the mood argument — that active commuting genuinely makes you feel better when you arrive.",
-            "zh": "不一定。在又冷又下雨的早上，「這對你身體好」根本撐不起動力。比較有力的說法是心情——用身體移動的通勤方式，真的會讓你到公司時心情好很多。"
+            "zh": "不一定。在又冷又下雨的早上，「這對你身體好」根本撐不起動力。比較有力的說法是心情：用身體移動的通勤方式，真的會讓你到公司時心情好很多。"
           },
           {
             "speaker": "b",
@@ -491,7 +491,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters enormously. I have traveled to cities where everything is designed around cars — no sidewalks, no shade, dangerous crossings. Even short distances feel hostile. You end up driving everywhere, which isolates you from the city you live in.",
-            "zh": "影響超大。我去過一些整座城市都繞著汽車設計的地方——沒有人行道、沒有遮蔭、路口很危險，連走一小段路都覺得處處跟你作對。最後你什麼地方都開車去，反而跟自己住的城市越來越疏離。"
+            "zh": "影響超大。我去過一些整座城市都繞著汽車設計的地方：沒有人行道、沒有遮蔭、路口很危險，連走一小段路都覺得處處跟你作對。最後你什麼地方都開車去，反而跟自己住的城市越來越疏離。"
           },
           {
             "speaker": "b",
@@ -503,7 +503,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Profoundly. When sidewalks are good, when distances are manageable, when there is shade — people walk. Not because they are virtuous, but because it is pleasant and possible.",
-            "zh": "而且影響得很深。人行道好走、距離合理、有樹蔭，人自然就會走路。不是因為他們特別有毅力，而是因為走起來舒服、也走得到。"
+            "zh": "而且影響得很深。人行道好走、距離合理、有樹蔭，人自然就會走路。不是因為他們特別有毅力，而是走起來舒服、也走得到。"
           },
           {
             "speaker": "b",
@@ -515,7 +515,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "More shade on the main walking routes. In summer, the heat is a genuine barrier — not laziness, just the biology of overheating. Canopy trees along commute paths would change everything.",
-            "zh": "主要步行路線上多一點遮蔭。夏天的高溫是很實際的障礙——不是人懶，是身體真的會過熱。如果通勤路線沿路都有大樹遮蔭，一切都會不一樣。"
+            "zh": "主要步行路線上多一點遮蔭。夏天的高溫是很實際的障礙，不是人懶，是身體真的會過熱。如果通勤路線沿路都有大樹遮蔭，一切都會不一樣。"
           },
           {
             "speaker": "b",
@@ -544,7 +544,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Start with one day a week, on the most relaxed morning, when you are not rushing. Do not start with Monday. Start with Wednesday or Thursday when you have a sense of the week already.",
-            "zh": "先從一週一天開始，挑最沒壓力、不趕時間的那個早上。不要挑星期一，挑星期三或星期四——那時候這一週的節奏你已經摸熟了。"
+            "zh": "先從一週一天開始，挑最沒壓力、不趕時間的那個早上。不要挑星期一，挑星期三或星期四：那時候這一週的節奏你已經摸熟了。"
           },
           {
             "speaker": "b",
@@ -568,7 +568,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Good shoes and a podcast or playlist they actually enjoy. The walk itself will do the rest. You rarely regret a walk — especially a morning one.",
-            "zh": "一雙好走的鞋，加上真心喜歡的 Podcast 或歌單。剩下的交給步行本身就好。很少有人會後悔去散了一次步——尤其是早上那種。"
+            "zh": "一雙好走的鞋，加上真心喜歡的 Podcast 或歌單。剩下的交給步行本身就好。很少有人會後悔去散了一次步：尤其是早上那種。"
           },
           {
             "speaker": "b",
@@ -648,7 +648,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Two days a week, typically. I like to keep the morning structure the same as an office day — get dressed, have a proper breakfast, start at the same time. The day falls apart if I stay in pajamas.",
-            "zh": "通常一週兩天。我會讓早上的流程跟進辦公室的日子一模一樣——換好衣服、好好吃早餐、同一個時間開工。只要整天穿著睡衣，這一天基本上就毀了。"
+            "zh": "通常一週兩天。我會讓早上的流程跟進辦公室的日子一模一樣：換好衣服、好好吃早餐、同一個時間開工。只要整天穿著睡衣，這一天基本上就毀了。"
           },
           {
             "speaker": "b",
@@ -701,7 +701,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "More productive for focused, solo work. Less productive for collaboration and spontaneous teamwork. Deep writing, analysis, complex thinking — home wins. Brainstorming with a team, quick decisions, reading the room — office wins.",
-            "zh": "要看工作性質。需要專注的個人作業，在家比較強；需要協作、臨時討論的，在家就弱掉了。深度寫作、分析、複雜思考——在家贏；跟團隊腦力激盪、快速拍板、察言觀色——辦公室贏。"
+            "zh": "要看工作性質。需要專注的個人作業，在家比較強；需要協作、臨時討論的，在家就弱掉了。深度寫作、分析、複雜思考（在家贏；跟團隊腦力激盪、快速拍板、察言觀色）辦公室贏。"
           },
           {
             "speaker": "b",
@@ -725,7 +725,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The fridge is a real one. The temptation to do one small household chore — just empty the dishwasher quickly — and then suddenly forty minutes are gone. The low-stakes distractions are actually more dangerous than big ones, because they feel harmless.",
-            "zh": "冰箱，這是真的。還有「順手做一件小家事」的誘惑——想說快速把洗碗機清一清就好——回過神來四十分鐘不見了。這種看似無害的小干擾，其實比大干擾更危險，就因為它們感覺起來沒什麼。"
+            "zh": "冰箱，這是真的。還有「順手做一件小家事」的誘惑（想說快速把洗碗機清一清就好）回過神來四十分鐘不見了。這種看似無害的小干擾，其實比大干擾更危險，就因為它們感覺起來沒什麼。"
           },
           {
             "speaker": "b",
@@ -737,7 +737,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And the solution is the same as for office interruptions — time blocking. I set a timer for ninety minutes of focused work with a specific task. During that block, the dishwasher can wait.",
-            "zh": "對。解法跟對付辦公室干擾一樣——切時間區塊。我會設一個九十分鐘的計時器，只做一件指定的事。在那段時間裡，洗碗機給我等著。"
+            "zh": "對。解法跟對付辦公室干擾一樣：切時間區塊。我會設一個九十分鐘的計時器，只做一件指定的事。在那段時間裡，洗碗機給我等著。"
           }
         ]
       },
@@ -766,7 +766,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Very hard. And a lot of organizational culture gets transmitted through those casual interactions — how things really work here, what is actually valued, who to ask about what. New employees miss this the most when working remotely.",
-            "zh": "超難。很多公司文化就是靠這些閒聊傳承的——這裡的事情實際上怎麼運作、大家真正在意什麼、遇到什麼問題該找誰。遠端上班的新人，最吃虧的就是這一塊。"
+            "zh": "超難。很多公司文化就是靠這些閒聊傳承的：這裡的事情實際上怎麼運作、大家真正在意什麼、遇到什麼問題該找誰。遠端上班的新人，最吃虧的就是這一塊。"
           },
           {
             "speaker": "b",
@@ -778,7 +778,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I make deliberate effort. A virtual coffee with one colleague each week with no agenda — just check in. I also stay active in the team chat even when I do not need to respond, so I do not feel or seem invisible.",
-            "zh": "要刻意經營。我每週會跟一位同事線上喝杯咖啡，不談公事，純聊天。另外就算沒有非回不可的訊息，我也會在團隊群組裡冒個泡，免得自己覺得——或讓別人覺得——我像個隱形人。"
+            "zh": "要刻意經營。我每週會跟一位同事線上喝杯咖啡，不談公事，純聊天。另外就算沒有非回不可的訊息，我也會在團隊群組裡冒個泡，免得自己覺得（或讓別人覺得）我像個隱形人。"
           },
           {
             "speaker": "b",
@@ -807,7 +807,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I have a physical end-of-day signal. I close my laptop and put it in a drawer — not on the desk, not in sight. Out of sight, out of mind is genuinely true for me with work.",
-            "zh": "我有一個實體的下班儀式：把筆電闔上、收進抽屜——不留在桌上、不留在視線裡。「眼不見為淨」用在我跟工作的關係上，百分之百成立。"
+            "zh": "我有一個實體的下班儀式：把筆電闔上、收進抽屜，不留在桌上、不留在視線裡。「眼不見為淨」用在我跟工作的關係上，百分之百成立。"
           },
           {
             "speaker": "b",
@@ -819,7 +819,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The open laptop on the desk at seven p.m. is an invitation I do not want to accept. So I remove it. Another thing I do is a short written brain dump at the end of the day — all the outstanding tasks in a list. It tells my brain: you do not need to hold onto these tonight.",
-            "zh": "晚上七點還開著的筆電，就是一張我不想收的邀請函，所以乾脆收起來。另外我還會在收工前把腦袋清空一次——把所有還沒做完的事全部列成清單。這等於告訴大腦：這些今晚不用你記著。"
+            "zh": "晚上七點還開著的筆電，就是一張我不想收的邀請函，所以乾脆收起來。另外我還會在收工前把腦袋清空一次：把所有還沒做完的事全部列成清單。這等於告訴大腦：這些今晚不用你記著。"
           },
           {
             "speaker": "b",
@@ -867,7 +867,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Collaboration, culture, and the kind of serendipitous interactions that cannot be engineered over video. Not solo desk work — that should stay home. If you go in and spend the day on tasks you could have done remotely, the commute was not worth it.",
-            "zh": "協作、公司文化，還有那種視訊裡怎樣都製造不出來的意外火花。不是一個人埋頭做事——那種工作留在家裡做就好。如果進了辦公室，卻花一整天做那些在家也能做的事，那趟通勤就白跑了。"
+            "zh": "協作、公司文化，還有那種視訊裡怎樣都製造不出來的意外火花。不是一個人埋頭做事：那種工作留在家裡做就好。如果進了辦公室，卻花一整天做那些在家也能做的事，那趟通勤就白跑了。"
           },
           {
             "speaker": "b",
@@ -879,7 +879,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the standard. And companies that design their in-office time around that standard — rather than just requiring presence — will probably retain people better and get more from the time together.",
-            "zh": "這就是標準。用這個標準來設計進辦公室時間的公司——而不是單純要求人到——通常更留得住人，大家聚在一起的時間也用得更有價值。"
+            "zh": "這就是標準。用這個標準來設計進辦公室時間的公司（而不是單純要求人到）通常更留得住人，大家聚在一起的時間也用得更有價值。"
           },
           {
             "speaker": "b",
@@ -971,7 +971,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Same principle as a doorway — stand aside so others can pass. Once enough people understand that, the whole system runs more smoothly.",
-            "zh": "跟過門口是同一個道理——先站到旁邊，讓別人過。只要夠多人懂這件事，整個系統就順了。"
+            "zh": "跟過門口是同一個道理：先站到旁邊，讓別人過。只要夠多人懂這件事，整個系統就順了。"
           },
           {
             "speaker": "b",
@@ -983,7 +983,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Loud speakerphone calls. A quick \"I will be there in ten minutes\" is fine. It is the twenty-minute personal drama I did not choose to hear that is the problem.",
-            "zh": "開擴音大聲講電話。快速講一句「我十分鐘後到」沒關係，問題是那種長達二十分鐘的私人八點檔——我又沒有要追這齣。"
+            "zh": "開擴音大聲講電話。快速講一句「我十分鐘後到」沒關係，問題是那種長達二十分鐘的私人八點檔：我又沒有要追這齣。"
           },
           {
             "speaker": "b",
@@ -995,7 +995,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And the failure is usually not malice — most people do not realize they are imposing. That is what makes etiquette interesting. It is about awareness, not character.",
-            "zh": "沒錯。而且失禮通常不是惡意，多數人根本沒發現自己在打擾別人。這正是禮儀有趣的地方——它比的是敏感度，不是人品。"
+            "zh": "沒錯。而且失禮通常不是惡意，多數人根本沒發現自己在打擾別人。這正是禮儀有趣的地方：它比的是敏感度，不是人品。"
           }
         ]
       },
@@ -1024,7 +1024,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The obvious categories: elderly, pregnant, people with visible disabilities, people with small children. The harder cases: someone who looks young and healthy but has invisible pain — chronic back problems, illness-related fatigue.",
-            "zh": "明顯的族群大家都知道：長輩、孕婦、行動不便的人、帶小小孩的人。難的是那些看不出來的——看起來年輕健康，其實有慢性背痛、或生病造成的疲累。"
+            "zh": "明顯的族群大家都知道：長輩、孕婦、行動不便的人、帶小小孩的人。難的是那些看不出來的：看起來年輕健康，其實有慢性背痛、或生病造成的疲累。"
           },
           {
             "speaker": "b",
@@ -1065,7 +1065,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Smell is genuinely underrated as a transit issue. Strong food, heavy perfume, smoke-related odor on clothes — these are hard to escape when you are packed in together. You have no exit.",
-            "zh": "氣味這件事在通勤裡真的被低估了。味道重的食物、噴太多的香水、衣服上的菸味——大家擠成一團的時候，你根本躲不掉，連退路都沒有。"
+            "zh": "氣味這件事在通勤裡真的被低估了。味道重的食物、噴太多的香水、衣服上的菸味：大家擠成一團的時候，你根本躲不掉，連退路都沒有。"
           },
           {
             "speaker": "b",
@@ -1112,13 +1112,13 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "When you see something unacceptable on transit — rudeness, someone in distress — what is your obligation?",
-            "zh": "在車上看到不對勁的事——有人很沒禮貌、或有人明顯需要幫忙——你覺得自己有義務做什麼嗎？"
+            "zh": "在車上看到不對勁的事（有人很沒禮貌、或有人明顯需要幫忙）你覺得自己有義務做什麼嗎？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For someone genuinely in distress — looking unwell, being followed, clearly frightened — I think there is a real obligation to do something, even if it is just asking \"are you okay?\"",
-            "zh": "如果對方是真的有狀況——看起來很不舒服、被人跟蹤、明顯嚇到了——我覺得是真的該做點什麼，哪怕只是問一句「你還好嗎？」"
+            "zh": "如果對方是真的有狀況（看起來很不舒服、被人跟蹤、明顯嚇到了）我覺得是真的該做點什麼，哪怕只是問一句「你還好嗎？」"
           },
           {
             "speaker": "b",
@@ -1130,7 +1130,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes — once one person acts, others tend to follow. The hardest part is being the first mover. Most people want to help but are waiting for someone else to go first.",
-            "zh": "對——只要有一個人動了，其他人就會跟上。最難的是當那第一個人。大多數人都想幫忙，只是都在等別人先開口。"
+            "zh": "對，只要有一個人動了，其他人就會跟上。最難的是當那第一個人。大多數人都想幫忙，只是都在等別人先開口。"
           },
           {
             "speaker": "b",
@@ -1171,7 +1171,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Tolerance. A practiced acceptance of people unlike you — different habits, noise levels, appearance. You cannot curate your train carriage the way you can curate your social media. That forced exposure is actually healthy.",
-            "zh": "包容。你會慢慢練習接受跟自己不一樣的人——不同的習慣、不同的音量、不同的樣子。車廂不像社群媒體可以自己挑要看什麼，而這種躲不掉的接觸，其實對人是健康的。"
+            "zh": "包容。你會慢慢練習接受跟自己不一樣的人，不同的習慣、不同的音量、不同的樣子。車廂不像社群媒體可以自己挑要看什麼，而這種躲不掉的接觸，其實對人是健康的。"
           },
           {
             "speaker": "b",
@@ -1195,7 +1195,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In the best moments, yes. When someone gives up a seat unprompted, when a stranger helps with heavy luggage, when people quietly make room for each other — that is the social contract made physical.",
-            "zh": "在最好的時刻是這樣沒錯。有人不用開口就讓座、陌生人幫忙提重行李、大家默默替彼此挪出空間——那一刻，社會的默契變成了看得見的東西。"
+            "zh": "在最好的時刻是這樣沒錯。有人不用開口就讓座、陌生人幫忙提重行李、大家默默替彼此挪出空間：那一刻，社會的默契變成了看得見的東西。"
           },
           {
             "speaker": "b",
@@ -1207,7 +1207,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And worth noticing when they happen. Most commutes have at least one of those moments — you just have to look up from your phone to see them.",
-            "zh": "而且這些時刻值得被看見。幾乎每一趟通勤裡至少會有一個——你只需要從手機裡抬起頭。"
+            "zh": "而且這些時刻值得被看見。幾乎每一趟通勤裡至少會有一個：你只需要從手機裡抬起頭。"
           }
         ]
       }
@@ -1275,7 +1275,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For two years when I lived farther out — there was no realistic transit option. I drove forty minutes each way. At first it felt like a genuine luxury. Private space, my music, total control of when I leave.",
-            "zh": "有兩年，那時我住比較遠，大眾運輸根本到不了，只能開車，單程四十分鐘。一開始真的覺得很享受——有自己的空間、放自己的音樂、想幾點出門就幾點出門。"
+            "zh": "有兩年，那時我住比較遠，大眾運輸根本到不了，只能開車，單程四十分鐘。一開始真的覺得很享受：有自己的空間、放自己的音樂、想幾點出門就幾點出門。"
           },
           {
             "speaker": "b",
@@ -1311,7 +1311,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why I think the driving commute is more cognitively draining than it looks — especially if traffic is unpredictable.",
-            "zh": "所以我才會覺得，開車通勤對腦力的消耗，比表面上看起來大得多——路況越難預測，消耗越兇。"
+            "zh": "所以我才會覺得，開車通勤對腦力的消耗，比表面上看起來大得多：路況越難預測，消耗越兇。"
           }
         ]
       },
@@ -1364,7 +1364,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Almost inevitably. Which is one more reason why how you commute matters — not just to you, but to everyone who interacts with you afterward.",
-            "zh": "幾乎躲不掉。所以通勤方式很重要，這又是一個理由——不只影響你自己，也影響之後跟你打交道的每一個人。"
+            "zh": "幾乎躲不掉。所以通勤方式很重要，這又是一個理由，不只影響你自己，也影響之後跟你打交道的每一個人。"
           }
         ]
       },
@@ -1375,7 +1375,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is there anything genuinely good about driving to work? Not just neutral — actually pleasurable?",
-            "zh": "開車上班有什麼真正的優點嗎？不是勉強可以接受，而是真的令人享受的那種。"
+            "zh": "開車上班有什麼真正的優點嗎？不是勉強可以接受那種，是真的令人享受的那種。"
           },
           {
             "speaker": "a",
@@ -1393,7 +1393,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And there is something about the forward motion — the changing scenery, the sense of physical progress — that can feel almost meditative on a clear road at the right time of day.",
-            "zh": "對。而且往前開這件事本身有種魔力——窗外的風景一直換、有種確實在前進的感覺。時間對、路又空的時候，開車幾乎像在冥想。"
+            "zh": "對。而且往前開這件事本身有種魔力：窗外的風景一直換、有種確實在前進的感覺。時間對、路又空的時候，開車幾乎像在冥想。"
           },
           {
             "speaker": "b",
@@ -1446,7 +1446,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. And electric vehicles change the emissions picture without changing the congestion picture. A city full of electric cars is still a city full of cars — with all the traffic, space consumption, and accident risk that implies.",
-            "zh": "對。而且電動車解決的是排放，不是塞車。滿街電動車的城市，還是一座滿街都是車的城市——塞車、佔空間、車禍風險，一樣都不會少。"
+            "zh": "對。而且電動車解決的是排放，不是塞車。滿街電動車的城市，還是一座滿街都是車的城市：塞車、佔空間、車禍風險，一樣都不會少。"
           },
           {
             "speaker": "b",
@@ -1488,13 +1488,13 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So you would not want zero commute — fully working from home.",
-            "zh": "所以你不想要零通勤——完全在家工作。"
+            "zh": "所以你不想要零通勤：完全在家工作。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A very short commute still gives you the transition. No commute at all — working from home full-time without built-in transitions — can make the boundary between work life and personal life genuinely hard to maintain.",
-            "zh": "很短的通勤還是保留了切換的過程。完全零通勤——全職在家、沒有任何內建的轉場——工作跟生活的界線反而會變得非常難守。"
+            "zh": "很短的通勤還是保留了切換的過程。完全零通勤（全職在家、沒有任何內建的轉場）工作跟生活的界線反而會變得非常難守。"
           },
           {
             "speaker": "b",
@@ -1512,7 +1512,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Whether you drive, walk, cycle, or take the train — the commute is what you make of it.",
-            "zh": "不管你是開車、走路、騎車還是搭捷運——通勤的樣子，取決於你怎麼過它。"
+            "zh": "不管你是開車、走路、騎車還是搭捷運：通勤的樣子，取決於你怎麼過它。"
           },
           {
             "speaker": "a",
@@ -1586,7 +1586,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A close friend — ninety minutes each way by high-speed train, three years running. He lives where costs are lower and works in the city. The financial math works. But the human math is harder.",
-            "zh": "有，一個很要好的朋友——搭高鐵單程九十分鐘，已經三年了。他住在生活開銷低的地方、到大城市上班。錢的帳算得過來，但人的帳就難算了。"
+            "zh": "有，一個很要好的朋友：搭高鐵單程九十分鐘，已經三年了。他住在生活開銷低的地方、到大城市上班。錢的帳算得過來，但人的帳就難算了。"
           },
           {
             "speaker": "b",
@@ -1598,7 +1598,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "He has done that math. But the bigger cost is what does not fit into a spreadsheet — missing his children's bedtimes, arriving home when his partner is already winding down, the slow erosion of everyday connection.",
-            "zh": "這筆帳他算過。但更大的成本是試算表放不進去的——趕不上陪小孩睡前的時光、到家時另一半已經準備休息了、日常的親密感一點一點被磨掉。"
+            "zh": "這筆帳他算過。但更大的成本是試算表放不進去的：趕不上陪小孩睡前的時光、到家時另一半已經準備休息了、日常的親密感一點一點被磨掉。"
           },
           {
             "speaker": "b",
@@ -1610,7 +1610,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which turn out to be the moments that matter. The conversation at dinner, the last twenty minutes before a child falls asleep — these things accumulate into the fabric of a relationship. Three hours of commuting a day pulls at that fabric.",
-            "zh": "而到頭來，最重要的就是那些時刻。晚餐桌上的對話、孩子睡著前的最後二十分鐘——這些東西一點一滴織成一段關係。每天三小時的通勤，就是在扯這塊布。"
+            "zh": "而到頭來，最重要的就是那些時刻。晚餐桌上的對話、孩子睡著前的最後二十分鐘：這些東西一點一滴織成一段關係。每天三小時的通勤，就是在扯這塊布。"
           },
           {
             "speaker": "b",
@@ -1639,7 +1639,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most resilient ones treat the train as a room in their life — not wasted time, but dedicated time. They have a specific project that belongs only to the train. My friend writes during his commute. He says he is more consistent with it than anything else he does.",
-            "zh": "撐得最好的人，會把車廂當成生活裡的一個房間——不是浪費掉的時間，而是專屬的時間。他們有一件只在車上做的事。我朋友就在通勤時寫作，他說這是他所有習慣裡維持得最穩的一個。"
+            "zh": "撐得最好的人，會把車廂當成生活裡的一個房間：不是浪費掉的時間，是專屬的時間。他們有一件只在車上做的事。我朋友就在通勤時寫作，他說這是他所有習慣裡維持得最穩的一個。"
           },
           {
             "speaker": "b",
@@ -1651,7 +1651,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Because nobody can interrupt him. No colleague can walk over. No meeting can be scheduled at that time. The constraint becomes a feature — two hours of uninterrupted focus, built into the working day whether you want it or not.",
-            "zh": "對。因為沒有人打擾得了他：同事走不過來、會議也排不進那個時段。限制反而變成優點——每天兩小時、不被打斷的專注時間，不管你要不要，它就是內建在你的日子裡。"
+            "zh": "對。因為沒有人打擾得了他：同事走不過來、會議也排不進那個時段。限制反而變成優點：每天兩小時、不被打斷的專注時間，不管你要不要，它就是內建在你的日子裡。"
           },
           {
             "speaker": "b",
@@ -1663,7 +1663,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They spend the whole journey in anxiety — checking messages, worrying about what is waiting for them, feeling guilty about not being home. They are in transit but not resting or working — just in a state of low-grade dread for three hours.",
-            "zh": "他們整趟路都泡在焦慮裡——一直看訊息、擔心待會要面對的事、為了不在家而愧疚。人在車上，卻既沒休息也沒做事，就這樣低度緊繃地熬三個小時。"
+            "zh": "他們整趟路都泡在焦慮裡：一直看訊息、擔心待會要面對的事、為了不在家而愧疚。人在車上，卻既沒休息也沒做事，就這樣低度緊繃地熬三個小時。"
           },
           {
             "speaker": "b",
@@ -1675,7 +1675,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Largely, yes. The deciding factor is not the length of the commute — it is whether you have made a deliberate choice about how to use it.",
-            "zh": "差不多是這樣。關鍵從來不是通勤有多長，而是你有沒有認真決定要怎麼用這段時間。"
+            "zh": "差不多是這樣。關鍵從來不在通勤有多長，而在你有沒有認真決定要怎麼用這段時間。"
           }
         ]
       },
@@ -1692,7 +1692,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "My friend describes it as having two lives. The professional in the city and the neighbor at home. He is known as different things in different places. That is unusual — most people only inhabit one world at a time.",
-            "zh": "我朋友說那像同時過著兩種人生：在城市裡是專業人士，回到家鄉是鄰居。兩個地方的人認識的是不同版本的他。這其實很少見——大多數人一次只活在一個世界裡。"
+            "zh": "我朋友說那像同時過著兩種人生：在城市裡是專業人士，回到家鄉是鄰居。兩個地方的人認識的是不同版本的他。這其實很少見：大多數人一次只活在一個世界裡。"
           },
           {
             "speaker": "b",
@@ -1704,7 +1704,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "He calls it that sometimes. And he says the train ride between the two is a kind of decompression chamber — a space where he is neither the professional nor the neighbor, just himself in transit.",
-            "zh": "他自己有時也這樣說。他說兩地之間的那段車程就像減壓艙——在那個空間裡，他既不是專業人士也不是誰的鄰居，就只是移動中的自己。"
+            "zh": "他自己有時也這樣說。他說兩地之間的那段車程就像減壓艙：在那個空間裡，他既不是專業人士也不是誰的鄰居，就只是移動中的自己。"
           },
           {
             "speaker": "b",
@@ -1745,7 +1745,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think it is when you start losing the things you were commuting to protect. You commute to give your family a better quality of life — but if the commute is taking away the family time, the logic collapses.",
-            "zh": "我覺得是當你開始失去「你當初為了保護而通勤」的那些東西時。你通勤是為了讓家人過更好的生活——但當通勤反過來吃掉家庭時間，整個邏輯就垮了。"
+            "zh": "我覺得是當你開始失去「你當初為了保護而通勤」的那些東西時。你通勤是為了讓家人過更好的生活，但當通勤反過來吃掉家庭時間，整個邏輯就垮了。"
           },
           {
             "speaker": "b",
@@ -1757,7 +1757,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. A friend I know stopped when she missed her nephew's birthday due to a train cancellation. Not because that was the worst thing that had happened — but because it was the moment the accumulated cost became impossible to ignore.",
-            "zh": "就是這樣。我認識一位朋友，是在因為列車停駛、錯過姪子的生日之後決定收手的。倒不是因為那是最嚴重的一次，而是在那一刻，累積已久的代價再也裝作看不見了。"
+            "zh": "就是這樣。我認識一位朋友，是在因為列車停駛、錯過姪子的生日之後決定收手的。倒不是因為那是最嚴重的一次；只是在那一刻，累積已久的代價再也裝作看不見了。"
           },
           {
             "speaker": "b",
@@ -1902,7 +1902,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The smartphone changed everything. Ten years ago, the commute was mostly passive — you read a newspaper, stared out the window, or chatted with someone next to you. Now it is almost entirely screen-based.",
-            "zh": "智慧型手機改變了一切。十年前的通勤多半是放空的——看報紙、看窗外，或跟旁邊的人聊兩句。現在幾乎整段路都黏在螢幕上。"
+            "zh": "智慧型手機改變了一切。十年前的通勤多半是放空的：看報紙、看窗外，或跟旁邊的人聊兩句。現在幾乎整段路都黏在螢幕上。"
           },
           {
             "speaker": "b",
@@ -1914,7 +1914,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mixed. The smartphone turned the commute into usable time — you can learn, stay connected, listen to things that matter. But it also took over what used to be genuine unstructured thinking time. I do not think we have fully reckoned with that loss.",
-            "zh": "好壞參半。手機讓通勤變成用得上的時間——可以學東西、跟人保持聯繫、聽有料的內容。但它也吃掉了以前那種完全放空、讓腦袋自由亂飄的時間。這個損失，我覺得我們到現在都還沒真正算清楚。"
+            "zh": "好壞參半。手機讓通勤變成用得上的時間，可以學東西、跟人保持聯繫、聽有料的內容。但它也吃掉了以前那種完全放空、讓腦袋自由亂飄的時間。這個損失，我覺得我們到現在都還沒真正算清楚。"
           },
           {
             "speaker": "b",
@@ -1926,7 +1926,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And creativity research consistently shows that mind-wandering — that unfocused drifting state — is when many of the best ideas emerge. We have accidentally engineered that out of the commute.",
-            "zh": "而創造力的研究一再顯示：放空神遊——那種沒有焦點、任思緒亂飄的狀態——正是很多好點子冒出來的時候。我們卻在不知不覺中，把這種狀態從通勤裡設計掉了。"
+            "zh": "而創造力的研究一再顯示：放空神遊（那種沒有焦點、任思緒亂飄的狀態）正是很多好點子冒出來的時候。我們卻在不知不覺中，把這種狀態從通勤裡設計掉了。"
           },
           {
             "speaker": "b",
@@ -1967,7 +1967,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Their situation has not changed, and in some ways their transit experience improved — peak-hour crowding has eased in many cities since more office workers started working from home some days. But the underlying inequality in who has flexibility and who does not has been made more visible.",
-            "zh": "他們的處境沒變，某方面通勤體驗甚至變好了——辦公室族開始部分在家上班後，很多城市的尖峰擁擠都緩解了。但「誰有彈性、誰沒有」這個根本的不平等，也因此被看得更清楚了。"
+            "zh": "他們的處境沒變，某方面通勤體驗甚至變好了：辦公室族開始部分在家上班後，很多城市的尖峰擁擠都緩解了。但「誰有彈性、誰沒有」這個根本的不平等，也因此被看得更清楚了。"
           },
           {
             "speaker": "b",
@@ -2008,7 +2008,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Autonomous vehicles are the most discussed. If your car drives itself, the forty-minute commute suddenly becomes productive time — you can work, read, rest. The value equation of the car commute completely changes.",
-            "zh": "討論最多的是自駕車。如果車子會自己開，四十分鐘的通勤瞬間變成可以運用的時間——工作、看書、補眠都行。開車通勤的整套價值計算會完全翻盤。"
+            "zh": "討論最多的是自駕車。如果車子會自己開，四十分鐘的通勤瞬間變成可以運用的時間：工作、看書、補眠都行。開車通勤的整套價值計算會完全翻盤。"
           },
           {
             "speaker": "b",
@@ -2020,7 +2020,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "But it does not solve the congestion problem. More comfortable cars does not mean fewer cars. Urban areas already have a land-use problem — parking, roads, space. Autonomous vehicles may improve the experience without fixing the underlying issue.",
-            "zh": "但它解決不了塞車。車變舒服，不代表車會變少。市區的土地問題早就很嚴重——停車場、馬路、空間全都不夠。自駕車可能讓體驗變好，但根本問題還是擺在那裡。"
+            "zh": "但它解決不了塞車。車變舒服，不代表車會變少。市區的土地問題早就很嚴重：停車場、馬路、空間全都不夠。自駕車可能讓體驗變好，但根本問題還是擺在那裡。"
           },
           {
             "speaker": "b",
@@ -2032,7 +2032,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "One of the most interesting urban design concepts right now. The idea that all essential services — work, schools, shopping, healthcare — should be within fifteen minutes on foot or by bike from your home. Eliminate the commute by changing where things are.",
-            "zh": "這是目前最有意思的都市設計概念之一：所有日常所需——工作、學校、採買、看病——都要在住家步行或騎車十五分鐘內搞定。不是縮短通勤，而是改變東西的位置，讓通勤直接消失。"
+            "zh": "這是目前最有意思的都市設計概念之一：所有日常所需（工作、學校、採買、看病），都要在住家步行或騎車十五分鐘內搞定。與其縮短通勤，不如改變東西的位置，讓通勤直接消失。"
           },
           {
             "speaker": "b",
@@ -2044,7 +2044,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. It is a design challenge, but mostly a political one. The interests that benefit from current urban sprawl are significant. Change is possible — it has happened in some European cities — but it is slow.",
-            "zh": "對。這是設計上的挑戰，但更多是政治上的。靠現在這種城市擴張模式賺錢的勢力很龐大。改變不是不可能——有些歐洲城市已經做到了——只是非常慢。"
+            "zh": "對。這是設計上的挑戰，但更多是政治上的。靠現在這種城市擴張模式賺錢的勢力很龐大。改變不是不可能（有些歐洲城市已經做到了）只是非常慢。"
           }
         ]
       },
@@ -2085,7 +2085,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Seating. More seated capacity on existing routes, not just more trains. A seated commute is genuinely less depleting than a standing one. Cities that have prioritized this — some lines in Tokyo, for example — have measurably lower commuter stress.",
-            "zh": "座位。在現有路線上增加座位數，而不只是加開班次。坐著通勤真的比站著省力很多。有把這件事當回事的城市——像東京的某些路線——通勤族實測的壓力程度就是明顯比較低。"
+            "zh": "座位。在現有路線上增加座位數，而不只是加開班次。坐著通勤真的比站著省力很多。有把這件事當回事的城市（像東京的某些路線）通勤族實測的壓力程度就是明顯比較低。"
           },
           {
             "speaker": "b",
@@ -2126,7 +2126,7 @@ export const WEEK_03: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Completely. The people I know who are most at peace with their commutes are the ones who have made a decision about it — either to use it well, or to accept it genuinely, or to change it. The ones who suffer are the ones in permanent passive resistance.",
-            "zh": "完全正確。我認識那些跟通勤和平共處的人，都是對它做過決定的人——好好利用它、真心接受它，或乾脆改變它，三選一。最痛苦的是那種一直消極抵抗、卻什麼都不改的人。"
+            "zh": "完全正確。我認識那些跟通勤和平共處的人，都是對它做過決定的人：好好利用它、真心接受它，或乾脆改變它，三選一。最痛苦的是那種一直消極抵抗、卻什麼都不改的人。"
           },
           {
             "speaker": "b",

@@ -48,7 +48,8 @@ Generates all SAV learning content following the product spec exactly.
 
 **結構（`content/articles/articles-wNN.ts`，export `WN_ARTICLES: SpeakArticle[]`）：**
 - 每週篇數與該週集數相同；topic = 該週 theme（**不是**獨立輪替類別）
-- 300–550 字、**恰好 5 段** `<p>`；`textZh` 與英文段落 1:1 對應
+- 約 300 字（280–320）、**恰好 3 段** `<p>`（每段約 100 字）；`textZh` 與英文段落 1:1 對應
+  （2026-07-11 由「300–550 字/5 段」調整為「約 300 字/3 段」，因每日泛讀以 3 分鐘內讀完為宜）
 - `wordCount` 元資料**不再手寫** —— seed 時以 `canonicalArticleWordCount` 實算；來源檔的值僅供參考，改文後跑 `check-article-wordcount.ts` 校正
 - **恰好 5 個** vocabulary：`{ word, definition(繁中), example }`，validator 要求 ≥5
 - 難度：B2 上限；平均句長 ≤ 22 字、單句 ≤ 28 字；禁學術詞（cognitive framework、

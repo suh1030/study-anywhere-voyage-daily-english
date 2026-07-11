@@ -45,7 +45,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     'Helping Others',
     'Wednesday',
     'When does helping cross the line into controlling?',
-    '重點不是批評別人，而是講那條界線怎麼出現。',
+    '重點不是批評別人，是講那條界線怎麼出現。',
     'Describe the turning point: when does support stop feeling supportive?',
   ),
   q(
@@ -86,7 +86,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     'Conflict & Resolution',
     'Monday',
     'When a disagreement begins, what is usually happening underneath the words?',
-    '這題不是只看表面句子，而是看情緒、需求、誤解或壓力。',
+    '這題不是只看表面句子，是看背後的情緒、需求、誤解或壓力。',
     'Name the hidden layer first, then explain how it shows up in speech.',
   ),
   q(
@@ -305,7 +305,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     'Deadlines & Pressure',
     'Sunday',
     'What would a healthier relationship with pressure look like for you?',
-    '這題不是要沒有壓力，而是講什麼樣的狀態比較能長期維持。',
+    '這題不是要你沒有壓力，是講什麼樣的狀態比較能長期維持。',
     'Describe the new relationship through habits, reactions, or limits you would keep.',
   ),
 
@@ -338,7 +338,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     'Problem Solving',
     'Thursday',
     'When the answer is unclear, how do you make a decision without perfect information?',
-    '重點不是假裝很確定，而是講你怎麼在不完整資訊下前進。',
+    '重點不是假裝很確定，是講你怎麼在資訊不完整時前進。',
     'Describe your decision rule under uncertainty and the kind of risk you accept.',
   ),
   q(
@@ -452,7 +452,7 @@ export const CONVERSATIONS_W17_W24: ConversationQuestion[] = [
     'Learning & Growth',
     'Thursday',
     'What does good practice look like when you are not feeling motivated?',
-    '這題不是談熱情，而是談你怎麼在普通日子也能繼續。',
+    '這題不是談熱情，是談你怎麼在普通日子也能繼續。',
     'Describe the version of practice that survives low-energy days.',
   ),
   q(

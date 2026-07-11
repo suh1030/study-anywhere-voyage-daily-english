@@ -180,7 +180,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Preparation. Not an elaborate system, just small preparation the night before.",
-            "zh": "準備。不是那種很複雜的系統，而是前一天晚上做一點點準備。"
+            "zh": "準備。不是那種很複雜的系統，就是前一天晚上做一點點準備。"
           },
           {
             "speaker": "b",
@@ -198,7 +198,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to become impressive. It is to become easier to help.",
-            "zh": "所以目標不是把自己弄得很厲害，而是讓自己更容易被照顧到。"
+            "zh": "所以目標不在把自己弄得很厲害，而在讓自己更容易被照顧到。"
           },
           {
             "speaker": "a",
@@ -491,7 +491,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A consistent wake-up time. Not because it is glamorous, but because it is stabilizing.",
-            "zh": "固定起床時間。不是因為它很厲害，而是因為它真的有穩定作用。"
+            "zh": "固定起床時間。不是因為它很厲害，是因為它真的有穩定作用。"
           },
           {
             "speaker": "b",
@@ -521,7 +521,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not, \"How do I feel okay right now?\" but \"How do I stop digging the hole deeper?\" I am not sure if that covers the messy middle.",
-            "zh": "所以問題不是「我現在怎麼立刻舒服一點」，而是「我怎麼不要把洞挖得更深」。我不太確定這樣有沒有講到中間最難的那一段。"
+            "zh": "所以問題不是「我現在怎麼立刻舒服一點」，是「我怎麼不要把洞挖得更深」。我不太確定這樣有沒有講到中間最難的那一段。"
           },
           {
             "speaker": "a",
@@ -725,13 +725,13 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Most people do not burn out in one dramatic moment. They burn out by treating overload like a personality trait.",
-            "zh": "大多數人不是在某個戲劇性的瞬間耗竭的，而是在把過載當成人設的過程裡慢慢耗竭。"
+            "zh": "大多數人不是在某個戲劇性的瞬間耗竭的；多半是在把過載當成人設的過程裡慢慢耗竭。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the silence around it is not really silence. It is just constant coping.",
-            "zh": "所以那種看似安靜其實不是真的安靜，而是不斷在硬撐。"
+            "zh": "所以那種看似安靜其實不是真的安靜，是一直在硬撐。"
           },
           {
             "speaker": "a",
@@ -784,7 +784,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to sound invincible. It is to sound clear.",
-            "zh": "所以重點不是讓自己聽起來無懈可擊，而是讓自己聽起來清楚。"
+            "zh": "所以重點不是讓自己聽起來無懈可擊，是讓自己聽起來清楚。"
           },
           {
             "speaker": "a",
@@ -890,7 +890,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Catching it early rather than waiting for a breakdown — that's a completely different relationship to work.",
-            "zh": "在早期就注意到，而不是等到崩潰再處理——這是完全不同的工作方式。"
+            "zh": "在早期就注意到，而不是等到崩潰再處理：這是完全不同的工作方式。"
           },
           {
             "speaker": "a",
@@ -1446,7 +1446,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Sometimes the right step is urgent care or a doctor visit, especially if you are getting worse instead of slowly stabilizing.",
-            "zh": "完全不是。有時候正確的一步就是去掛急診，或安排一次看診，尤其是在你不是慢慢穩住，而是越來越糟的情況下。"
+            "zh": "完全不是。有時候正確的一步就是去掛急診，或安排一次看診，尤其是在你不是慢慢穩住、反而越來越糟的情況下。"
           },
           {
             "speaker": "b",
@@ -1458,7 +1458,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Staying home then is not being weak. It is being responsible.",
-            "zh": "完全沒錯。那種時候待在家裡不是軟弱，而是負責任。"
+            "zh": "完全沒錯。那種時候待在家裡不是軟弱，是負責任。"
           },
           {
             "speaker": "b",
@@ -1762,7 +1762,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And an exercise buddy can help too, not because you need supervision, but because shared structure lowers friction.",
-            "zh": "另外有一個一起運動的夥伴也很有幫助，不是因為你需要被監督，而是因為有人一起，整個結構的阻力會更低。"
+            "zh": "另外有一個一起運動的夥伴也很有幫助，不是因為你需要被監督，是因為有人一起，整個結構的阻力會更低。"
           },
           {
             "speaker": "b",
@@ -1827,7 +1827,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the key shift. The point is not to win against your body. The point is to learn how to work with it.",
-            "zh": "這是最關鍵的轉變。重點不是打贏你的身體，而是學會怎麼和它合作。"
+            "zh": "這是最關鍵的轉變。重點不在打贏你的身體，而在學會怎麼和它合作。"
           },
           {
             "speaker": "b",
@@ -2120,7 +2120,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the danger is not falling off once. It is turning one miss into a whole identity story.",
-            "zh": "所以真正危險的不是中斷一次，而是把一次中斷變成一整套自我認定的故事。"
+            "zh": "所以真正危險的不是中斷一次，是把一次中斷變成一整套自我認定的故事。"
           },
           {
             "speaker": "a",

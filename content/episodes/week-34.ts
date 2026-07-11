@@ -302,7 +302,7 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "everyday fitness",
-        "zh": "不是靠一次很猛，而是靠每天一些小活動維持的身體狀態",
+        "zh": "不是靠一次很猛，是靠每天一些小活動維持的身體狀態",
         "example": "Everyday fitness mattered more to her than dramatic workouts."
       },
       {
@@ -544,7 +544,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That the point is not to have the most impressive reason. The point is to have one that keeps you in honest contact with your life.",
-            "zh": "就是重點不是要擁有最漂亮的理由，而是要有一個會讓你和自己真實生活保持接觸的理由。"
+            "zh": "就是重點不是要擁有最漂亮的理由，是要有一個會讓你和自己真實生活保持接觸的理由。"
           },
           {
             "speaker": "b",
@@ -588,7 +588,7 @@ export const WEEK_34: Episode[] = [
     "keyPhrases": [
       {
         "en": "intrinsic reason",
-        "zh": "不是外界逼出來，而是自己內在真的在乎的運動理由",
+        "zh": "不是外界逼出來，是自己內在真的在乎的運動理由",
         "example": "Her intrinsic reason had more staying power than external pressure."
       },
       {
@@ -623,7 +623,7 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "flexible motivation",
-        "zh": "不是只能靠單一理由撐著，而是會隨生活改變的運動動力",
+        "zh": "不是只能靠單一理由撐著，是會隨生活改變的運動動力",
         "example": "Flexible motivation helped her keep adapting instead of quitting."
       }
     ]
@@ -642,7 +642,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think one of the most useful things I ever learned was that the best workout is not the most impressive one. It is the one I stop avoiding.",
-            "zh": "我覺得我學過最有用的事之一，就是最好的運動不是看起來最厲害的那個，而是那個我不會一直逃避的。"
+            "zh": "我覺得我學過最有用的事之一，就是最好的運動不是看起來最厲害的那個，是那個我不會一直逃避的。"
           },
           {
             "speaker": "a",
@@ -654,7 +654,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So preference is not weakness. It is information.",
-            "zh": "所以偏好不是軟弱，而是一種資訊。"
+            "zh": "所以偏好不是軟弱，是一種資訊。"
           },
           {
             "speaker": "a",
@@ -914,12 +914,12 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "realistic routine",
-        "zh": "不是看起來完美，而是真的有機會做得下去的運動安排",
+        "zh": "不是看起來完美，是真的有機會做得下去的運動安排",
         "example": "A realistic routine beat an ideal schedule every time."
       },
       {
         "en": "sustainable movement",
-        "zh": "不是一下子衝很猛，而是能長久陪著你的運動方式",
+        "zh": "不是一下子衝很猛，是能長久陪著你的運動方式",
         "example": "Walking became her version of sustainable movement."
       },
       {
@@ -929,7 +929,7 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "consistency win",
-        "zh": "不是一次爆發，而是靠穩定出現所得到的勝利感",
+        "zh": "不是一次爆發，是靠穩定出現所得到的勝利感",
         "example": "Three weeks of consistency gave him a real consistency win."
       },
       {
@@ -1230,7 +1230,7 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "fair play",
-        "zh": "不是只守規則，而是真的願意在競爭中維持公平和尊重",
+        "zh": "不是只守規則，是真的願意在競爭中維持公平和尊重",
         "example": "The match stayed intense without losing fair play."
       },
       {
@@ -1621,7 +1621,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — durable training is the version that can keep aging with you.",
-            "zh": "對——而那個才是站得住腳的版本。"
+            "zh": "對，而那個才是站得住腳的版本。"
           },
           {
             "speaker": "a",
@@ -1727,7 +1727,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That tracks — especially in practice.",
-            "zh": "這說得通——尤其在實際情況裡。"
+            "zh": "這說得通：尤其在實際情況裡。"
           },
           {
             "speaker": "a",
@@ -1756,7 +1756,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So adapting is not weakness. It is maturity.",
-            "zh": "所以調整不是軟弱，而是成熟。"
+            "zh": "所以調整不是軟弱，是成熟。"
           },
           {
             "speaker": "a",
@@ -1815,7 +1815,7 @@ export const WEEK_34: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Long-term exercise is not about fighting age. It is about building a wiser partnership with time.",
-            "zh": "長期運動不是在對抗年紀，而是在和時間建立一段比較聰明的合作關係。"
+            "zh": "長期運動不是在對抗年紀，是在和時間建立一段比較聰明的合作關係。"
           },
           {
             "speaker": "b",
@@ -1852,12 +1852,12 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "long game",
-        "zh": "不是只看今天練多猛，而是看這個做法能不能陪你很多年",
+        "zh": "不是只看今天練多猛，是看這個做法能不能陪你很多年",
         "example": "She started training with the long game in mind."
       },
       {
         "en": "training age",
-        "zh": "不是實際年齡，而是身體累積訓練經驗和磨損的總體狀態",
+        "zh": "不是實際年齡，是身體累積訓練經驗和磨損的總體狀態",
         "example": "His training age was higher than he realized."
       },
       {
@@ -1867,7 +1867,7 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "durable strength",
-        "zh": "不是一下子爆發，而是能陪你很多年、也比較不容易壞掉的力量",
+        "zh": "不是一下子爆發，是能陪你很多年、也比較不容易壞掉的力量",
         "example": "She cared more about durable strength than flashy performance."
       },
       {
@@ -1882,7 +1882,7 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "aging well",
-        "zh": "不是完全不變老，而是在變老過程裡依然保有功能、力量和生活感",
+        "zh": "不是完全不變老，是在變老過程裡依然保有功能、力量和生活感",
         "example": "Her definition of success became aging well, not looking younger."
       }
     ]
@@ -2163,7 +2163,7 @@ export const WEEK_34: Episode[] = [
     "keyPhrases": [
       {
         "en": "body respect",
-        "zh": "不是一直嫌棄或逼迫身體，而是用比較尊重的方式和它相處",
+        "zh": "不是一直嫌棄或逼迫身體，是用比較尊重的方式和它相處",
         "example": "Body respect changed the tone of her training completely."
       },
       {
@@ -2188,12 +2188,12 @@ export const WEEK_34: Episode[] = [
       },
       {
         "en": "compassionate discipline",
-        "zh": "不是放縱，而是帶著善意和穩定去維持紀律的方式",
+        "zh": "不是放縱，是帶著善意和穩定去維持紀律的方式",
         "example": "She finally found a form of compassionate discipline."
       },
       {
         "en": "embodied life",
-        "zh": "不是活在腦袋裡，而是把身體也真正算進生活裡的活法",
+        "zh": "不是活在腦袋裡，是把身體也真正算進生活裡的活法",
         "example": "Yoga helped him move toward a more embodied life."
       },
       {

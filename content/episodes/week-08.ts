@@ -39,7 +39,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the habit is not really about money first. It is about momentum.",
-            "zh": "所以這個習慣嚴格來說不是先關於錢，而是先關於慣性。"
+            "zh": "所以這個習慣嚴格來說不是先關於錢，是先關於慣性。"
           },
           {
             "speaker": "a",
@@ -74,7 +74,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly afterwards. In the moment, people are often buying relief, convenience, or a better mood.",
-            "zh": "大多是事後。因為在當下，人買的常常不是物品本身，而是鬆一口氣、方便，或比較好的心情。"
+            "zh": "大多是事後。因為在當下，人買的常常不是物品本身，是鬆一口氣、方便，或比較好的心情。"
           },
           {
             "speaker": "b",
@@ -233,7 +233,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. The goal is not purity. The goal is awareness.",
-            "zh": "完全不是。目標不是要變得毫無慾望，而是要變得更有覺察。"
+            "zh": "完全不是。目標不在變得毫無慾望，而在變得更有覺察。"
           },
           {
             "speaker": "b",
@@ -373,7 +373,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It did not disappear. It was already spoken for.",
-            "zh": "它不是消失了，而是早就被分配出去了。"
+            "zh": "它不是消失了，是早就被分配出去了。"
           }
         ]
       },
@@ -1123,7 +1123,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's where walking away becomes important. Not as punishment, just as information.",
-            "zh": "那時候，「離開」這件事就很重要。不是為了懲罰對方，而是為了讓資訊變得清楚。"
+            "zh": "那時候，「離開」這件事就很重要。不是為了懲罰對方，只是為了讓資訊變得清楚。"
           },
           {
             "speaker": "b",
@@ -1135,7 +1135,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes — and sometimes the other person changes their mind once they realize you were serious.",
-            "zh": "對——有時候對方看到你是真的願意離開，也會重新思考自己的價格。"
+            "zh": "對：有時候對方看到你是真的願意離開，也會重新思考自己的價格。"
           },
           {
             "speaker": "b",
@@ -1188,7 +1188,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It should. Negotiation is not about proving you are clever. It is about deciding what the thing is worth to you.",
-            "zh": "本來就該是這樣。談價不是為了證明自己多聰明，而是為了弄清楚，那個東西對你來說值多少。"
+            "zh": "本來就該是這樣。談價不是為了證明自己多聰明，是為了弄清楚，那個東西對你來說值多少。"
           },
           {
             "speaker": "b",
@@ -1363,7 +1363,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So honesty is not the opposite of ambition. It is what gives ambition structure.",
-            "zh": "所以誠實並不是野心的反面，而是讓野心有結構的東西。"
+            "zh": "所以誠實並不是野心的反面；它是讓野心有結構的東西。"
           },
           {
             "speaker": "a",
@@ -1487,7 +1487,7 @@ export const WEEK_08: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That the future is not built from one heroic month. It is built from repeatable months.",
-            "zh": "就是：未來不是靠一個英雄式的月份建立起來的，而是靠那些能被重複的月份。"
+            "zh": "就是：未來不是靠一個英雄式的月份建立起來的，是靠那些能被重複的月份。"
           },
           {
             "speaker": "b",

@@ -110,7 +110,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's right. A lot of support is not about solving. It is about making the difficult moment less solitary.",
-            "zh": "沒錯。很多支持不是在解決問題，而是在讓那個困難時刻不要那麼孤單。"
+            "zh": "沒錯。很多支持不是在解決問題，是在讓那個困難時刻不要那麼孤單。"
           }
         ]
       },
@@ -239,7 +239,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Not the smartest person in the room. Just the person who stayed.",
-            "zh": "記住的不是房間裡最聰明的人，而是那個留下來的人。"
+            "zh": "被記住的不是房間裡最聰明的人，是那個留下來的人。"
           },
           {
             "speaker": "a",
@@ -426,7 +426,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. A lot of helping starts with recognition more than principle — you help because you see the need, not because a rule tells you to.",
-            "zh": "對。很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則——你會幫，是因為你看見了那個需要，而不是因為有規則叫你去做。"
+            "zh": "對。很多出手幫忙，真正的起點比較像是認出對方，而不只是遵守原則：你會幫，是因為你看見了那個需要，而不是因為有規則叫你去做。"
           }
         ]
       },
@@ -1522,7 +1522,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Not perfectly balanced every week, but balanced over a life.",
-            "zh": "不是每一週都完美平衡，而是在整段人生裡慢慢平衡。"
+            "zh": "不是每一週都完美平衡，是在整段人生裡慢慢平衡。"
           },
           {
             "speaker": "a",
@@ -1620,7 +1620,7 @@ export const WEEK_17: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's how a local community starts to exist. Not with a slogan. With repeated practical exchanges.",
-            "zh": "這就是在地社群開始長出來的方式。不是從口號開始，而是從一來一往的實際互助開始。"
+            "zh": "這就是在地社群開始長出來的方式。不是從口號開始，是從一來一往的實際互助開始。"
           },
           {
             "speaker": "b",

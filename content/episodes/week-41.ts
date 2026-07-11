@@ -210,7 +210,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So integrity is not perfection. It is pattern.",
-            "zh": "所以所謂完整一致，不是完美，而是一種模式。"
+            "zh": "所以所謂完整一致，不是完美，是一種模式。"
           },
           {
             "speaker": "a",
@@ -312,7 +312,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "lived belief",
-        "zh": "不是嘴上說說，而是實際活出來的信念",
+        "zh": "不是嘴上說說，是實際活出來的信念",
         "example": "A lived belief is harder to fake."
       }
     ]
@@ -598,7 +598,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "inherited belief",
-        "zh": "不是自己重新思考後形成，而是先從他人那裡接下來的信念",
+        "zh": "不是自己重新思考後形成，是先從他人那裡接下來的信念",
         "example": "He was finally questioning an inherited belief."
       },
       {
@@ -623,7 +623,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "chosen principle",
-        "zh": "不是被動接收，而是經過思考後主動選擇的原則",
+        "zh": "不是被動接收，是經過思考後主動選擇的原則",
         "example": "A chosen principle gave him more peace."
       }
     ]
@@ -934,7 +934,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "honest doubt",
-        "zh": "不是敷衍懷疑，而是願意誠實面對不確定的狀態",
+        "zh": "不是敷衍懷疑，是願意誠實面對不確定的狀態",
         "example": "Honest doubt can be the start of better thinking."
       },
       {
@@ -970,7 +970,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the problem is often less about clarity than about stamina.",
-            "zh": "所以問題常常不是不夠清楚，而是撐不撐得住。"
+            "zh": "所以問題常常不是不夠清楚，是撐不撐得住。"
           },
           {
             "speaker": "a",
@@ -1023,7 +1023,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is usually a series of small permissions.",
-            "zh": "所以通常都不是一個大背叛，而是一連串小小的放行。"
+            "zh": "所以通常都不是一個大背叛，是一連串小小的放行。"
           },
           {
             "speaker": "a",
@@ -1230,7 +1230,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "private behavior",
-        "zh": "不是做給別人看，而是私底下真正反覆出現的行為模式",
+        "zh": "不是做給別人看，是私底下真正反覆出現的行為模式",
         "example": "Private behavior reveals more than branding does."
       },
       {
@@ -1240,7 +1240,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "repeated choice",
-        "zh": "不是一次性的決定，而是日復一日累積方向的反覆選擇",
+        "zh": "不是一次性的決定，是日復一日累積方向的反覆選擇",
         "example": "Repeated choice slowly built trust."
       },
       {
@@ -1463,7 +1463,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is practical because most relationships do not break from one difference. They break from repeated contempt and avoidance.",
-            "zh": "它很實際，因為大多數關係不是被一次不同意弄壞的，而是被反覆的輕蔑和逃避弄壞的。"
+            "zh": "它很實際，因為大多數關係不是被一次不同意弄壞的，是被反覆的輕蔑和逃避弄壞的。"
           },
           {
             "speaker": "b",
@@ -1551,7 +1551,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "listening stance",
-        "zh": "不是只等著反駁，而是真正準備接住對方的傾聽姿態",
+        "zh": "不是只等著反駁，是真正準備接住對方的傾聽姿態",
         "example": "His listening stance changed the whole tone."
       },
       {
@@ -1561,7 +1561,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "principled boundary",
-        "zh": "不是情緒化切斷，而是基於原則說清楚界線",
+        "zh": "不是情緒化切斷，是基於原則說清楚界線",
         "example": "A principled boundary protected the friendship."
       },
       {
@@ -1585,7 +1585,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Sometimes people do not know their line until they cross it once and feel terrible afterward.",
-            "zh": "有時候人不是一開始就知道自己的底線，而是踩過去一次、事後很難受，才終於知道。"
+            "zh": "有時候人不是一開始就知道自己的底線，是踩過去一次、事後很難受，才終於知道。"
           },
           {
             "speaker": "a",
@@ -1877,7 +1877,7 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "long regret",
-        "zh": "不是一瞬間的後悔，而是長時間留在心裡的遺憾",
+        "zh": "不是一瞬間的後悔，是長時間留在心裡的遺憾",
         "example": "He was trying to avoid long regret."
       },
       {
@@ -2188,17 +2188,17 @@ export const WEEK_41: Episode[] = [
       },
       {
         "en": "lasting importance",
-        "zh": "不是只吵一陣子，而是真的長期重要的事情",
+        "zh": "不是只吵一陣子，是真的長期重要的事情",
         "example": "Lasting importance is often quieter than hype."
       },
       {
         "en": "wise limit",
-        "zh": "不是僵硬控制，而是幫自己守住注意力和能量的限制",
+        "zh": "不是僵硬控制，是幫自己守住注意力和能量的限制",
         "example": "A wise limit protected her energy."
       },
       {
         "en": "chosen meaning",
-        "zh": "不是被推著跑，而是自己有意識選出來的人生意義",
+        "zh": "不是被推著跑，是自己有意識選出來的人生意義",
         "example": "Chosen meaning gave the week a different shape."
       }
     ]

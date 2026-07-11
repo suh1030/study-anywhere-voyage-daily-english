@@ -210,7 +210,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that. Not a performance, but a place in my life.",
-            "zh": "我喜歡這個說法。不是一場表演，而是在我生活裡真的有位置。"
+            "zh": "我喜歡這個說法。不是一場表演，是在我生活裡真的有位置。"
           },
           {
             "speaker": "a",
@@ -409,7 +409,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that can feel like an ego bruise. Not because anything is wrong, but because the old identity is losing authority.",
-            "zh": "完全沒錯，而那常常會讓人有一種 ego 被磨到的感覺。不是因為哪裡出錯，而是因為舊身份正在失去主導權。"
+            "zh": "完全沒錯，而那常常會讓人有一種 ego 被磨到的感覺。不是因為哪裡出錯，是因為舊身份正在失去主導權。"
           },
           {
             "speaker": "b",
@@ -515,7 +515,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Healthy growth does not ask you to suffer forever. It asks you to stay honest long enough to adapt.",
-            "zh": "健康的成長，不是叫你永遠受苦，而是叫你誠實地待在這裡，待到足夠調整為止。"
+            "zh": "健康的成長，不是叫你永遠受苦，是叫你誠實地待在這裡，待到足夠調整為止。"
           },
           {
             "speaker": "b",
@@ -1487,7 +1487,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It teaches trust. Not blind trust, but the kind that grows from watching yourself stay with something honestly.",
-            "zh": "它會教你信任。不是盲目的那種，而是那種你看著自己誠實地待在一件事裡，慢慢長出來的信任。"
+            "zh": "它會教你信任。不是盲目的那種，是那種你看著自己誠實地待在一件事裡，慢慢長出來的信任。"
           },
           {
             "speaker": "b",
@@ -1733,7 +1733,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Precisely. The goal is not cloning. The goal is translation.",
-            "zh": "完全沒錯。目標不是複製，而是翻譯成自己的版本。"
+            "zh": "完全沒錯。目標不是複製，是翻譯成自己的版本。"
           }
         ]
       },
@@ -2143,7 +2143,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. The best growth is not the loudest. It is the kind you can live inside.",
-            "zh": "這一點特別重要。最好的成長，不是最大聲的那種，而是那種你真的住得進去的成長。"
+            "zh": "這一點特別重要。最好的成長，不是最大聲的那種，是那種你真的住得進去的成長。"
           },
           {
             "speaker": "b",

@@ -240,7 +240,7 @@ export const CONVERSATIONS_W33_W41: ConversationQuestion[] = [
     'Artificial Intelligence',
     'Saturday',
     'Have you seen a task that should not be automated, even if it could be?',
-    '這題重點不是技術能不能，而是人該不該放手。',
+    '這題重點不在技術能不能，而在人該不該放手。',
     'Describe the task and the human value you do not want to remove from it.',
   ),
   q(
@@ -387,7 +387,7 @@ export const CONVERSATIONS_W33_W41: ConversationQuestion[] = [
     'Money & Financial Goals',
     'Wednesday',
     'When you spend money, what personal priority are you really protecting?',
-    '這題不只是講花錢，而是在講你在保護什麼價值。',
+    '這題講的不只是花錢，更是你在保護什麼價值。',
     'Link spending to a value such as convenience, safety, beauty, time, or connection.',
   ),
   q(
@@ -493,7 +493,7 @@ export const CONVERSATIONS_W33_W41: ConversationQuestion[] = [
     'Values & Beliefs',
     'Tuesday',
     'Has there been a time when you changed your mind about something important?',
-    '這題重點不是證明你以前錯，而是講你怎麼成熟地修正看法。',
+    '這題重點不是證明你以前錯，是講你怎麼成熟地修正看法。',
     'Describe the old belief, the turning point, and the newer view.',
   ),
   q(

@@ -92,7 +92,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — and that's where the real difference shows up.",
-            "zh": "對——那也是真正的差異出現的地方。"
+            "zh": "對：那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
@@ -302,7 +302,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "deliberate use",
-        "zh": "不是習慣性亂用，而是知道自己為什麼在這裡用 AI 的用法",
+        "zh": "不是習慣性亂用，是知道自己為什麼在這裡用 AI 的用法",
         "example": "Deliberate use matters more than excitement."
       },
       {
@@ -608,7 +608,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "reliable output",
-        "zh": "不是只聽起來順，而是真的夠穩、夠準、能放心使用的輸出",
+        "zh": "不是只聽起來順，是真的夠穩、夠準、能放心使用的輸出",
         "example": "Fast output is not the same as reliable output."
       },
       {
@@ -1017,7 +1017,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It becomes even more important. Humans are not just there to receive answers. They are there to assess stakes, context, and fit.",
-            "zh": "它反而變得更重要。人不是只坐在那裡接收答案，而是要評估風險、背景和適不適合。"
+            "zh": "它反而變得更重要。人不是只坐在那裡接收答案，是要評估風險、背景和適不適合。"
           },
           {
             "speaker": "b",
@@ -1183,7 +1183,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The point is not to distrust everything. The point is to remember what kind of thing AI actually is.",
-            "zh": "重點不是要懷疑一切，而是要記得 AI 到底是什麼樣的東西。"
+            "zh": "重點不是要懷疑一切，是要記得 AI 到底是什麼樣的東西。"
           },
           {
             "speaker": "b",
@@ -1250,7 +1250,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "calibrated trust",
-        "zh": "不是全信或全不信，而是根據風險和情境調整信任程度",
+        "zh": "不是全信或全不信，是根據風險和情境調整信任程度",
         "example": "Using AI well requires calibrated trust."
       }
     ]
@@ -1556,7 +1556,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "creative partner",
-        "zh": "不是作者本身，而是幫忙刺激想法或展開草稿的合作型工具角色",
+        "zh": "不是作者本身，是幫忙刺激想法或展開草稿的合作型工具角色",
         "example": "She treated AI more like a creative partner than a ghostwriter."
       },
       {
@@ -1852,7 +1852,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "embedded bias",
-        "zh": "不是明說的偏見，而是已經被埋進資料和系統裡的偏差",
+        "zh": "不是明說的偏見，是已經被埋進資料和系統裡的偏差",
         "example": "The tool reproduced embedded bias from earlier decisions."
       },
       {
@@ -1901,19 +1901,19 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What feels wild to me is not futuristic robots. It is how quickly AI has started showing up in very ordinary parts of the day.",
-            "zh": "對我來說真正很驚人的，不是什麼未來機器人，而是 AI 這麼快就開始出現在一天裡超普通的部分。"
+            "zh": "對我來說真正很驚人的，不是什麼未來機器人，是 AI 這麼快就開始出現在一天裡超普通的部分。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's how technological eras usually become real. Not through spectacle, but through ordinary repetition.",
-            "zh": "科技時代真正變真，很多時候本來就不是透過什麼壯觀場面，而是透過普通事情一再重複。"
+            "zh": "科技時代真正變真，很多時候本來就不是透過什麼壯觀場面，是透過普通事情一再重複。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the real question becomes less 'Can it do this?' and more 'What kind of life does this create?'",
-            "zh": "所以真正的問題就比較不是『它能不能做』，而是『它會創造出什麼樣的生活』。"
+            "zh": "所以真正的問題就比較不是『它能不能做』，是『它會創造出什麼樣的生活』。"
           },
           {
             "speaker": "a",
@@ -2031,7 +2031,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That tracks — especially in practice.",
-            "zh": "這說得通——尤其在實際情況裡。"
+            "zh": "這說得通：尤其在實際情況裡。"
           },
           {
             "speaker": "a",
@@ -2143,7 +2143,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's mostly true. The best outcome is not machine worship or machine fear. It is wiser coexistence.",
-            "zh": "大致沒錯。最好的結果不是機器崇拜，也不是機器恐懼，而是比較有智慧的共存。"
+            "zh": "大致沒錯。最好的結果不是機器崇拜，也不是機器恐懼，是比較有智慧的共存。"
           },
           {
             "speaker": "b",
@@ -2173,7 +2173,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "meaning-making",
-        "zh": "不是只處理資訊，而是替經驗和選擇賦予意義的能力",
+        "zh": "不是只處理資訊，是替經驗和選擇賦予意義的能力",
         "example": "Meaning-making still belongs largely to people."
       },
       {
@@ -2193,7 +2193,7 @@ export const WEEK_36: Episode[] = [
       },
       {
         "en": "adaptive human",
-        "zh": "不是被技術拖著跑，而是會調整自己、又守住判斷的人",
+        "zh": "不是被技術拖著跑，是會調整自己、又守住判斷的人",
         "example": "The future may belong to the adaptive human, not the passive user."
       },
       {

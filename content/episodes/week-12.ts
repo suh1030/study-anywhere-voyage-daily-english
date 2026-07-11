@@ -33,7 +33,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That moment — when you see a different family dynamic up close — is usually when you start noticing your own.",
-            "zh": "就是那個時刻——當你近距離看到不同的家庭相處模式——你才開始注意到自己家裡的。"
+            "zh": "就是那個時刻（當你近距離看到不同的家庭相處模式）你才開始注意到自己家裡的。"
           },
           {
             "speaker": "b",
@@ -402,7 +402,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That shift — from feeling like a child to seeing your parents as people — is one of the quieter milestones of growing up.",
-            "zh": "那個轉變——從用孩子的眼光看，到把父母當作一個人來看——是成長中比較安靜的一個里程碑。"
+            "zh": "那個轉變（從用孩子的眼光看，到把父母當作一個人來看）是成長中比較安靜的一個里程碑。"
           },
           {
             "speaker": "b",
@@ -896,7 +896,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "They are. The people who remember your worst moments and stayed anyway — those relationships are worth keeping.",
-            "zh": "確實。那些記得你最糟糕時刻、卻還是留下來的人——那些關係值得好好珍惜。"
+            "zh": "確實。那些記得你最糟糕時刻、卻還是留下來的人：那些關係值得好好珍惜。"
           }
         ]
       }
@@ -1159,7 +1159,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The best family conversations often happen sideways — while doing something else.",
-            "zh": "對。最好的家庭對話常常是「順便」發生的——在做別的事情的時候。"
+            "zh": "對。最好的家庭對話常常是「順便」發生的：在做別的事情的時候。"
           }
         ]
       },
@@ -1194,7 +1194,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to have a perfect gathering. It is to create a few of those moments.",
-            "zh": "所以目標不是要有一個完美的聚會，而是創造幾個那樣的時刻。"
+            "zh": "所以目標不是要有一個完美的聚會，是創造幾個那樣的時刻。"
           },
           {
             "speaker": "a",
@@ -1345,7 +1345,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's what happens when people bottle up emotions. The pressure builds and it usually comes out sideways — an argument about dishes instead of the real thing.",
-            "zh": "情緒被壓下去就會這樣。壓力越積越多，最後從旁邊的縫隙洩出來——吵的是碗盤，真正的問題卻沒人碰。"
+            "zh": "情緒被壓下去就會這樣。壓力越積越多，最後從旁邊的縫隙洩出來：吵的是碗盤，真正的問題卻沒人碰。"
           },
           {
             "speaker": "b",
@@ -1398,7 +1398,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "In most cases, yes. You can also try, \"I want to talk about something — can we do that without getting defensive?\" That sounds direct but respectful.",
-            "zh": "多數情況下是。你也可以試試說：「我想談一件事——我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
+            "zh": "多數情況下是。你也可以試試說：「我想談一件事：我們可以不帶防衛心嗎？」這聽起來直接但很尊重。"
           },
           {
             "speaker": "b",
@@ -1516,7 +1516,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's what good family communication eventually becomes. Not perfect — but genuine. Everyone can say what they feel and know they will be heard.",
-            "zh": "這就是好的家庭溝通最終的樣子。不是完美的，而是真實的。每個人都能說出自己的感受，也知道會被聽見。"
+            "zh": "這就是好的家庭溝通最終的樣子。不是完美，是真實。每個人都能說出自己的感受，也知道會被聽見。"
           },
           {
             "speaker": "b",
@@ -1649,7 +1649,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's very common. The conversation feels like an admission — like having it means something bad is already happening.",
-            "zh": "這很常見。那場對話感覺像是一種承認——好像開口談這件事，就代表壞事已經在發生了。"
+            "zh": "這很常見。那場對話感覺像是一種承認：好像開口談這件事，就代表壞事已經在發生了。"
           },
           {
             "speaker": "b",
@@ -1726,7 +1726,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. You can also say \"We are figuring it out as we go\" — that sounds honest and most people relate to it immediately.",
-            "zh": "沒錯。你也可以說「我們邊走邊摸索」——這聽起來誠實，而且大多數人馬上就能感同身受。"
+            "zh": "沒錯。你也可以說「我們邊走邊摸索」：這聽起來誠實，而且大多數人馬上就能感同身受。"
           },
           {
             "speaker": "b",
@@ -1815,7 +1815,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's why you keep going. Not because every visit is meaningful in an obvious way. But because sometimes one Saturday changes the texture of the whole relationship.",
-            "zh": "也就是為什麼你要繼續去。不是因為每次探訪都以顯而易見的方式有意義，而是因為有時候一個週六就改變了整段關係的質地。"
+            "zh": "也就是為什麼你要繼續去。不是因為每次探訪都以顯而易見的方式有意義，是有時候一個週六就改變了整段關係的質地。"
           },
           {
             "speaker": "b",
@@ -1972,7 +1972,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That absence of transaction — no calculation, no \"do I have to\" — that is what the best relationships feel like. Found family or otherwise.",
-            "zh": "那種沒有交換條件的感覺——沒有計算，沒有「我需要去嗎」——這就是最好的關係有的感覺。不管是後天的家人還是其他關係。"
+            "zh": "那種沒有交換條件的感覺（沒有計算，沒有「我需要去嗎」）這就是最好的關係有的感覺。不管是後天的家人還是其他關係。"
           },
           {
             "speaker": "b",

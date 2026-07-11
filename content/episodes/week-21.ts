@@ -678,7 +678,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the point is not to work faster first. It is to sort reality first.",
-            "zh": "所以重點不是先工作更快，而是先把現實排出來。"
+            "zh": "所以重點不是先工作更快，是先把現實排出來。"
           },
           {
             "speaker": "a",
@@ -1135,7 +1135,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Simple is good. People get into trouble because they notice overload vaguely but not specifically.",
-            "zh": "簡單很好。很多人會出事，不是因為完全沒察覺過載，而是因為他察覺得很模糊。"
+            "zh": "簡單很好。很多人會出事，不是因為完全沒察覺過載，是因為他察覺得很模糊。"
           },
           {
             "speaker": "b",
@@ -1165,7 +1165,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "This makes me think early help is less about me and more about the whole system around me.",
-            "zh": "這樣一想，我覺得及早求助比較不是為了我自己，而是為了我周圍整個系統。"
+            "zh": "這樣一想，我覺得及早求助比較不是為了我自己，是為了我周圍整個系統。"
           },
           {
             "speaker": "a",
@@ -1189,7 +1189,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So asking earlier is not making trouble. It is reducing the radius of trouble.",
-            "zh": "所以比較早開口，不是在製造麻煩，而是在縮小麻煩會炸到的半徑。"
+            "zh": "所以比較早開口，不是在製造麻煩，是在縮小麻煩會炸到的半徑。"
           },
           {
             "speaker": "a",
@@ -1821,7 +1821,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to remove all stress. It is to help people carry it better together.",
-            "zh": "所以目標不是把壓力全部移除，而是幫大家一起把它扛得更好。"
+            "zh": "所以目標不是把壓力全部移除，是幫大家一起把它扛得更好。"
           },
           {
             "speaker": "a",
@@ -2084,7 +2084,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So margin is not laziness. It is protection.",
-            "zh": "所以空白不是懶，而是保護。"
+            "zh": "所以空白不是懶，是保護。"
           },
           {
             "speaker": "a",
@@ -2113,7 +2113,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "This makes me think the healthiest people are not the ones with no pressure, but the ones who do not worship it.",
-            "zh": "這讓我覺得，最健康的人不是完全沒有壓力的人，而是那些不把壓力當神拜的人。"
+            "zh": "這讓我覺得，最健康的人不是完全沒有壓力的人，是那些不把壓力當神拜的人。"
           },
           {
             "speaker": "a",
@@ -2137,7 +2137,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the goal is not to never feel pressure. It is to carry it without building my whole self around it.",
-            "zh": "所以目標不是永遠都不感到壓力，而是扛著它走，同時不要把整個自我都蓋在它上面。"
+            "zh": "所以目標不在永遠都不感到壓力，而在扛著它走，同時不要把整個自我都蓋在它上面。"
           },
           {
             "speaker": "a",

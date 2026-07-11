@@ -45,7 +45,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I think pausing to actually mark the win helps. Not mark for days — just acknowledge it properly before moving on.",
-            "zh": "我覺得真的停下來慶祝一下是有幫助的。不用連歡好幾天——只要在往前走之前，好好承認這個成果。"
+            "zh": "我覺得真的停下來慶祝一下是有幫助的。不用連歡好幾天，只要在往前走之前，好好承認這個成果。"
           },
           {
             "speaker": "b",
@@ -57,7 +57,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You skipped the moment entirely. Wins teach you something too — if you give them a few days.",
-            "zh": "你把那個時刻整個跳過去了。勝利也有東西可以教你——前提是你給它幾天的時間。"
+            "zh": "你把那個時刻整個跳過去了。勝利也有東西可以教你：前提是你給它幾天的時間。"
           }
         ]
       },
@@ -139,7 +139,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Asking what actually worked — not just that it worked. Was it skill, timing, luck, the team? All of the above?",
-            "zh": "去問到底是什麼奏效了——不只是「有效」而已。是實力、時機、運氣、還是團隊？或是全部都有？"
+            "zh": "去問到底是什麼奏效了，不只是「有效」而已。是實力、時機、運氣、還是團隊？或是全部都有？"
           },
           {
             "speaker": "b",
@@ -263,7 +263,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Which is why intentionally writing down wins — even small ones — creates a more accurate picture over time.",
-            "zh": "這就是為什麼刻意寫下勝利——哪怕是小的——長期下來能創造一個更準確的圖像。"
+            "zh": "這就是為什麼刻意寫下勝利（哪怕是小的）長期下來能創造一個更準確的圖像。"
           },
           {
             "speaker": "b",
@@ -420,7 +420,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because I kept getting distracted by metrics that were visible to others — title, salary band, headcount.",
-            "zh": "因為我一直被對他人可見的指標分心——頭銜、薪資級別、管理人數。"
+            "zh": "因為我一直被對他人可見的指標分心：頭銜、薪資級別、管理人數。"
           },
           {
             "speaker": "b",
@@ -473,7 +473,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That version becomes your anchor when professional success fluctuates, which it always does eventually.",
-            "zh": "對。當職業成功起伏時——而它最終總是會的——那個版本成為你的錨。"
+            "zh": "對。當職業成功起伏時（而它最終總是會的）那個版本成為你的錨。"
           },
           {
             "speaker": "b",
@@ -485,7 +485,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is more to lose and no other structure to hold you up. Diversifying your identity is not a luxury — it is protection.",
-            "zh": "可以失去的更多，也沒有其他結構來支撐你。多元化你的身份認同不是奢侈——而是保護。"
+            "zh": "可以失去的更多，也沒有其他結構來支撐你。多元化你的身份認同不是奢侈，而是保護。"
           }
         ]
       },
@@ -520,7 +520,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And confidence. Not arrogance — but the quiet knowledge that you have gotten through hard things before.",
-            "zh": "還有自信。不是傲慢——而是那種安靜的知道，你以前曾經渡過艱難時刻。"
+            "zh": "還有自信。不是傲慢，是那種安靜的知道，你以前曾經渡過艱難時刻。"
           },
           {
             "speaker": "a",
@@ -666,7 +666,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That loop — the replaying and imagining the judgment — is the shame spiral. The mistake is one event. The spiral is something you add.",
-            "zh": "那個循環——重播和想像評判——是羞恥螺旋。錯誤是一件事。螺旋是你額外加上去的。"
+            "zh": "那個循環（重播和想像評判）是羞恥螺旋。錯誤是一件事。螺旋是你額外加上去的。"
           },
           {
             "speaker": "b",
@@ -678,7 +678,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I know. But the faster you can get back to the event itself — what actually happened, what to do now — the less damage the spiral does.",
-            "zh": "我知道。但你越快能回到事件本身——實際發生了什麼、現在該怎麼做——螺旋造成的傷害就越少。"
+            "zh": "我知道。但你越快能回到事件本身（實際發生了什麼、現在該怎麼做）螺旋造成的傷害就越少。"
           },
           {
             "speaker": "b",
@@ -719,7 +719,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — and that's where the real difference shows up.",
-            "zh": "對——那也是真正的差異出現的地方。"
+            "zh": "對：那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",
@@ -976,7 +976,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Or the project that failed for boring reasons — miscommunication, under-resourcing, nobody really caring enough.",
-            "zh": "或者那個因為無聊原因失敗的專案——溝通不良、資源不足、沒人真的夠在意。"
+            "zh": "或者那個因為無聊原因失敗的專案：溝通不良、資源不足、沒人真的夠在意。"
           },
           {
             "speaker": "a",
@@ -1475,7 +1475,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Abundance thinking is not about being naive — it is trusting that more than one good version of your life is possible.",
-            "zh": "對。豐盛思維不是天真——而是相信你生命中有超過一個好版本是可能的。"
+            "zh": "對。豐盛思維不是天真，是相信你生命中有超過一個好版本是可能的。"
           },
           {
             "speaker": "b",
@@ -1602,7 +1602,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's high-value invisible work. The measure is not applause — it is that something quietly stopped going wrong.",
-            "zh": "那是高價值的隱形工作。衡量標準不是掌聲——而是某件事悄悄地停止出錯了。"
+            "zh": "那是高價值的隱形工作。衡量標準不是掌聲，是某件事悄悄地停止出錯了。"
           },
           {
             "speaker": "b",
@@ -1755,7 +1755,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The most quietly valued person on my team is someone who almost never gets public praise. But ask anyone — they always say her name when something needs doing well.",
-            "zh": "我團隊中最默默被重視的人，幾乎從來不獲得公開稱讚。但問任何人——需要把某件事做好時，他們總是說她的名字。"
+            "zh": "我團隊中最默默被重視的人，幾乎從來不獲得公開稱讚。但問任何人：需要把某件事做好時，他們總是說她的名字。"
           },
           {
             "speaker": "b",
@@ -1809,7 +1809,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "By being specific. Not \"I did good work this quarter\" — but \"I held my composure in the Tuesday meeting when I really wanted to push back hard.\"",
-            "zh": "透過具體化。不是「這季我表現很好」——而是「在週二的會議上，我在真的很想強力反駁時，仍然保持了冷靜。」"
+            "zh": "透過具體化。不是「這季我表現很好」，是「在週二的會議上，我在真的很想強力反駁時，仍然保持了冷靜。」"
           },
           {
             "speaker": "b",
@@ -1925,7 +1925,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Systems and small commitments. Not \"I will work out every day\" — but \"I go at seven on Tuesdays regardless of how I feel.\"",
-            "zh": "系統和小承諾。不是「我每天都會運動」——而是「無論我的感覺如何，我週二七點去」。"
+            "zh": "系統和小承諾。不是「我每天都會運動」，是「無論我的感覺如何，我週二七點去」。"
           },
           {
             "speaker": "b",
@@ -1960,7 +1960,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I used to work in intense sprints — massive output for three weeks and then total collapse.",
-            "zh": "我以前以強烈的衝刺方式工作——三週大量產出，然後完全崩潰。"
+            "zh": "我以前以強烈的衝刺方式工作：三週大量產出，然後完全崩潰。"
           },
           {
             "speaker": "b",
@@ -1978,7 +1978,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the sprint style is not actually more productive — it just feels more dramatic.",
-            "zh": "所以衝刺式工作其實沒有比較高產——只是比較有戲劇效果而已。"
+            "zh": "所以衝刺式工作其實沒有比較高產，只是比較有戲劇效果而已。"
           },
           {
             "speaker": "a",
@@ -1996,7 +1996,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A doctor telling me my cortisol levels were too high and I needed to make structural changes. Not motivational — medical.",
-            "zh": "一個醫生告訴我我的皮質醇濃度太高，需要做結構性改變。不是動力性的——是醫療性的。"
+            "zh": "一個醫生告訴我我的皮質醇濃度太高，需要做結構性改變。不是動力性的，是醫療性的。"
           },
           {
             "speaker": "b",
@@ -2019,7 +2019,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That belief — that rest is a reward for productivity rather than a condition for it — is very common and very costly.",
-            "zh": "那個信念——休息是生產力的獎勵而不是條件——非常普遍也非常代價高昂。"
+            "zh": "那個信念（休息是生產力的獎勵而不是條件）非常普遍也非常代價高昂。"
           },
           {
             "speaker": "b",
@@ -2149,7 +2149,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Not the moments of inspiration — the accumulated ordinary effort.",
-            "zh": "不是靈感的時刻——而是積累起來的平凡努力。"
+            "zh": "不是靈感的時刻，是積累起來的平凡努力。"
           },
           {
             "speaker": "a",

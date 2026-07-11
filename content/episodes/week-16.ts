@@ -790,7 +790,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The skill is not fancy wording. It is accurate noticing.",
-            "zh": "對。真正的技能不是把話說漂亮，而是你有沒有準確注意到。"
+            "zh": "對。真正的技能不在把話說漂亮，而在你有沒有準確注意到。"
           }
         ]
       },
@@ -807,7 +807,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Pause before replying. Not forever, just long enough to let the other person's sentence land in you.",
-            "zh": "回覆前先停一下。不是要停超久，而是停到對方那句話真的落進你裡面為止。"
+            "zh": "回覆前先停一下。不是要停超久，是停到對方那句話真的落進你裡面為止。"
           },
           {
             "speaker": "b",
@@ -1201,7 +1201,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So respect is not silence. It is how you carry the truth.",
-            "zh": "所以尊重不是安靜，而是你怎麼把真話帶進來。"
+            "zh": "所以尊重不是安靜，是你怎麼把真話帶進來。"
           },
           {
             "speaker": "a",
@@ -1458,7 +1458,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Not fake sweetness, just enough context so the message does not come off cold.",
-            "zh": "對。不是假甜，而是給足夠的脈絡，讓訊息不要顯得太冷。"
+            "zh": "對。不是假甜，是給足夠的脈絡，讓訊息不要顯得太冷。"
           },
           {
             "speaker": "b",
@@ -1668,7 +1668,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, but good follow-up questions are not interrogation. They are signals that you are still with the person.",
-            "zh": "對，但好的追問不是審問，而是在告訴對方：你還在這裡，還跟著他。"
+            "zh": "對，但好的追問不是審問；比較像在告訴對方：你還在這裡，還跟著他。"
           },
           {
             "speaker": "b",
@@ -2096,7 +2096,7 @@ export const WEEK_16: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So preparation is not fake. It is compassionate.",
-            "zh": "所以準備不是假，而是一種對自己的體貼。"
+            "zh": "所以準備不是假，是一種對自己的體貼。"
           },
           {
             "speaker": "a",

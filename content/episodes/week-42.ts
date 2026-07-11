@@ -521,7 +521,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the future is not something to stare at. It is something to work your way toward. I can imagine someone pushing back on that.",
-            "zh": "所以未來不是一個你要凝視的東西，而是一個你一步步走向的地方。 我可以想像有人會反駁這個說法。"
+            "zh": "所以未來不是一個你要凝視的東西，是一個你一步步走向的地方。 我可以想像有人會反駁這個說法。"
           },
           {
             "speaker": "a",
@@ -672,7 +672,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The question is not how to eliminate the fear. It is how to let the hope be louder than the fear.",
-            "zh": "對。問題不是如何消除恐懼，而是如何讓希望比恐懼更響亮。"
+            "zh": "對。問題不是如何消除恐懼，是如何讓希望比恐懼更響亮。"
           },
           {
             "speaker": "b",
@@ -784,7 +784,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the goal. Mature English communication around the future is not about being positive or negative. It is about being complete.",
-            "zh": "這就是目標。關於未來的成熟英語溝通，不是要積極或消極，而是要完整。"
+            "zh": "這就是目標。關於未來的成熟英語溝通，不是要積極或消極，是要完整。"
           },
           {
             "speaker": "b",
@@ -831,7 +831,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is not about pretending the bad thing will not happen. It is about already having a plan B.",
-            "zh": "所以不是假裝壞事不會發生，而是已經有了備案。"
+            "zh": "所以不是假裝壞事不會發生，是已經有了備案。"
           },
           {
             "speaker": "a",
@@ -866,7 +866,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Honestly, it is not optimism in the abstract. It is watching people solve specific problems in front of me. That keeps me grounded.",
-            "zh": "老實說，撐住我的不是抽象的樂觀，而是親眼看著身邊的人解決一個個具體的問題。這讓我很踏實。"
+            "zh": "老實說，撐住我的不是抽象的樂觀，是親眼看著身邊的人解決一個個具體的問題。這讓我很踏實。"
           },
           {
             "speaker": "b",
@@ -1029,7 +1029,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not whether my industry survives. It is whether my specific role survives. Tell me if I am smoothing over the hard part.",
-            "zh": "所以問題不是我的行業能不能生存，而是我具體的職位能不能生存。 如果我把難的地方輕描淡寫了，要告訴我。"
+            "zh": "所以問題不是我的行業能不能生存，是我具體的職位能不能生存。 如果我把難的地方輕描淡寫了，要告訴我。"
           },
           {
             "speaker": "a",
@@ -1183,7 +1183,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not what the technology does, but what kind of culture it is landing in.",
-            "zh": "所以問題不是技術做什麼，而是它帶來的是什麼樣的文化。"
+            "zh": "所以問題不是技術做什麼，是它帶來的是什麼樣的文化。"
           },
           {
             "speaker": "a",
@@ -1340,7 +1340,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is not about willpower. It is about how the brain processes time.",
-            "zh": "所以這不是意志力的問題，而是大腦如何處理時間的問題。"
+            "zh": "所以這不是意志力的問題，是大腦如何處理時間的問題。"
           },
           {
             "speaker": "a",
@@ -1803,7 +1803,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I want to get better at actually being okay with not knowing. Not just intellectually, but actually feeling okay.",
-            "zh": "我想更能接受「不知道」這件事——不只是道理上接受，而是真的感覺沒關係。"
+            "zh": "我想更能接受「不知道」這件事，不只是道理上接受，而是真的感覺沒關係。"
           },
           {
             "speaker": "a",
@@ -1960,7 +1960,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What I find interesting is that some of my biggest regrets are not about big decisions. They are about small things I kept doing or not doing.",
-            "zh": "我發現有趣的是，我最大的遺憾不是關於大決定，而是關於我一直在做或不做的小事。"
+            "zh": "我發現有趣的是，我最大的遺憾不是關於大決定，是關於我一直在做或不做的小事。"
           },
           {
             "speaker": "a",
@@ -2161,7 +2161,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try it once a week. Not as a pressure, but as a compass check. Just to make sure the direction still feels right.",
-            "zh": "每週試一次。不是作為一種壓力，而是作為指南針的校準。只是確保方向感覺仍然是對的。"
+            "zh": "每週試一次。不是作為一種壓力，是作為指南針的校準。只是確保方向感覺仍然是對的。"
           }
         ]
       }

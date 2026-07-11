@@ -598,12 +598,12 @@ export const WEEK_38: Episode[] = [
       },
       {
         "en": "systems problem",
-        "zh": "不是單一人做錯，而是整個制度和環境一起造成的問題",
+        "zh": "不是單一人做錯，是整個制度和環境一起造成的問題",
         "example": "She kept reminding people it was a systems problem."
       },
       {
         "en": "distant consequence",
-        "zh": "某個行為的後果不是立刻出現，而是在之後或別處才顯現",
+        "zh": "某個行為的後果不是立刻出現，是在之後或別處才顯現",
         "example": "The distant consequence was hard to emotionally grasp."
       },
       {
@@ -613,7 +613,7 @@ export const WEEK_38: Episode[] = [
       },
       {
         "en": "meaningful action",
-        "zh": "不是表面做一下，而是真的對方向和結果有幫助的行動",
+        "zh": "不是表面做一下，是真的對方向和結果有幫助的行動",
         "example": "She was searching for one meaningful action she could keep."
       },
       {
@@ -1047,7 +1047,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That resonates — the pattern really is there.",
-            "zh": "這說到點上——那個規律確實存在。"
+            "zh": "這說到點上：那個規律確實存在。"
           },
           {
             "speaker": "a",
@@ -1457,7 +1457,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes community feel emotionally necessary, not optional.",
-            "zh": "這樣一講，社群就不是可有可無，而是情緒上也很必要。"
+            "zh": "這樣一講，社群就不是可有可無，是情緒上也很必要。"
           },
           {
             "speaker": "a",
@@ -1541,12 +1541,12 @@ export const WEEK_38: Episode[] = [
       },
       {
         "en": "grounded hope",
-        "zh": "不是自我安慰，而是立基於現實後仍然保有方向感的希望",
+        "zh": "不是自我安慰，是立基於現實後仍然保有方向感的希望",
         "example": "Grounded hope helped the team keep going."
       },
       {
         "en": "active hope",
-        "zh": "不是空想，而是會推著人往前做事的希望方式",
+        "zh": "不是空想，是會推著人往前做事的希望方式",
         "example": "They wanted active hope, not empty slogans."
       },
       {
@@ -1556,12 +1556,12 @@ export const WEEK_38: Episode[] = [
       },
       {
         "en": "honest optimism",
-        "zh": "不是盲目樂觀，而是承認困難後仍願意往前看的樂觀",
+        "zh": "不是盲目樂觀，是承認困難後仍願意往前看的樂觀",
         "example": "Honest optimism felt more trustworthy than hype."
       },
       {
         "en": "shared effort",
-        "zh": "不是一個人獨自扛，而是和別人一起分擔的行動與責任",
+        "zh": "不是一個人獨自扛，是和別人一起分擔的行動與責任",
         "example": "Shared effort made the work feel possible."
       },
       {
@@ -1715,7 +1715,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The reason I like it is that it sounds grounded.",
-            "zh": "我喜歡這句，因為它很接地氣。"
+            "zh": "我喜歡這句，因為它很貼近生活。"
           },
           {
             "speaker": "a",
@@ -2084,7 +2084,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Right — and that's where the real difference shows up.",
-            "zh": "對——那也是真正的差異出現的地方。"
+            "zh": "對：那也是真正的差異出現的地方。"
           },
           {
             "speaker": "a",

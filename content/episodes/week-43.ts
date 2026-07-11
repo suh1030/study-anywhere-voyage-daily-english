@@ -608,7 +608,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "inner update",
-        "zh": "不是外在大事件，而是內在反應和理解正在悄悄更新",
+        "zh": "不是外在大事件，是內在反應和理解正在悄悄更新",
         "example": "Her inner update came before the career change."
       },
       {
@@ -730,7 +730,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Many people can. The hard part later is not learning the lesson. It is carrying it without letting it harden the whole self.",
-            "zh": "很多人都能。後來真正難的不是學到那個教訓，而是帶著它往前走時，不讓整個自己都變硬。"
+            "zh": "很多人都能。後來真正難的不是學到那個教訓，是帶著它往前走時，不讓整個自己都變硬。"
           },
           {
             "speaker": "b",
@@ -824,7 +824,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Indeed. Recovered strength matters because the goal is not to admire the wound. It is to notice what was built around it.",
-            "zh": "完全沒錯。修復後的力量很重要，因為目標不是崇拜那道傷，而是看見傷的周圍到底長出了什麼。"
+            "zh": "完全沒錯。修復後的力量很重要，因為目標不是崇拜那道傷，是看見傷的周圍到底長出了什麼。"
           },
           {
             "speaker": "b",
@@ -904,7 +904,7 @@ export const WEEK_43: Episode[] = [
     "keyPhrases": [
       {
         "en": "hard-earned wisdom",
-        "zh": "不是聽來的，而是經過辛苦與代價才真正學到的智慧",
+        "zh": "不是聽來的，是經過辛苦與代價才真正學到的智慧",
         "example": "Hard-earned wisdom changed how she chose."
       },
       {
@@ -939,7 +939,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "earned perspective",
-        "zh": "不是空想出來，而是經歷過後才有的成熟視角",
+        "zh": "不是空想出來，是經歷過後才有的成熟視角",
         "example": "Earned perspective changed the whole story."
       }
     ]
@@ -1345,7 +1345,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right, and gratitude perspective helps because it does not erase regret. It simply widens the frame around it.",
-            "zh": "對，而且感謝視角有幫助，不是因為它把後悔擦掉，而是因為它把後悔放進比較大的框裡。"
+            "zh": "對，而且感謝視角有幫助，不是因為它把後悔擦掉，是因為它把後悔放進比較大的框裡。"
           },
           {
             "speaker": "b",
@@ -1556,7 +1556,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "gratitude perspective",
-        "zh": "不是否認困難，而是能同時看見其中仍值得感謝的視角",
+        "zh": "不是否認困難，是能同時看見其中仍值得感謝的視角",
         "example": "Gratitude perspective widened the story."
       },
       {
@@ -1887,7 +1887,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "quiet release",
-        "zh": "不是大張旗鼓，而是很安靜但很真地把某些東西放下",
+        "zh": "不是大張旗鼓，是很安靜但很真地把某些東西放下",
         "example": "The quiet release mattered more than the announcement."
       }
     ]
@@ -2131,7 +2131,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Repeatable choice matters because the future is built more by pattern than by intensity.",
-            "zh": "可重複選擇很重要，因為未來很多時候不是被強度蓋起來的，而是被模式蓋起來的。"
+            "zh": "可重複選擇很重要，因為未來很多時候不是被強度蓋起來的，是被模式蓋起來的。"
           },
           {
             "speaker": "b",
@@ -2173,7 +2173,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "deliberate step",
-        "zh": "不是被推著走，而是有意識選出來的下一步",
+        "zh": "不是被推著走，是有意識選出來的下一步",
         "example": "A deliberate step mattered more than speed."
       },
       {
@@ -2183,12 +2183,12 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "repeatable choice",
-        "zh": "不是一時衝動，而是能在日常中一再實行的選擇",
+        "zh": "不是一時衝動，是能在日常中一再實行的選擇",
         "example": "A repeatable choice changed the month."
       },
       {
         "en": "conscious direction",
-        "zh": "不是盲目前進，而是帶著清楚方向感的前進",
+        "zh": "不是盲目前進，是帶著清楚方向感的前進",
         "example": "Conscious direction made the plan gentler."
       },
       {
@@ -2198,7 +2198,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "chosen pace",
-        "zh": "不是被外界拖著跑，而是自己有意識選的前進速度",
+        "zh": "不是被外界拖著跑，是自己有意識選的前進速度",
         "example": "He was learning to trust a chosen pace."
       }
     ]
