@@ -21,7 +21,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That question hits differently in your thirties. It is not just about a job title anymore.",
-            "zh": "這個問題在三十歲之後感覺完全不一樣了。它不再只是關於職稱而已。"
+            "zh": "這個問題在三十歲之後感覺完全不一樣了。它不再只是職稱的問題而已。"
           },
           {
             "speaker": "b",
@@ -239,7 +239,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a goal is less about the destination and more about what you choose to practice.",
-            "zh": "所以目標與其說是關於終點，不如說是關於你選擇練習什麼。"
+            "zh": "所以目標與其說是終點，不如說是你選擇要練習什麼。"
           },
           {
             "speaker": "a",
@@ -349,7 +349,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "She probably wanted to hear something about your values, not just your targets. Those are very different conversations.",
-            "zh": "她可能想聽的是關於你的價值觀，不只是你的目標。那是完全不同的對話。"
+            "zh": "她可能想聽的是你的價值觀，不只是你的數字目標。那是完全不同的對話。"
           },
           {
             "speaker": "b",
@@ -461,7 +461,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And what if I want to be honest that success is partly about security and stability?",
-            "zh": "如果我想誠實地說，成功有一部分是關於安全感和穩定性呢？"
+            "zh": "如果我想誠實地說，成功對我來說有一部分就是安全感和穩定呢？"
           },
           {
             "speaker": "a",
@@ -890,7 +890,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And if it is about the work itself, losing something you genuinely love?",
-            "zh": "如果它是關於工作本身，失去你真正喜歡的東西呢？"
+            "zh": "那如果癥結是工作本身呢？失去的是你真正喜歡的東西？"
           },
           {
             "speaker": "a",
@@ -1206,7 +1206,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So clarity is not just about communication. It is a form of energy management.",
-            "zh": "所以清晰不只是關於溝通。它是一種能量管理的形式。"
+            "zh": "所以清晰不只是溝通的事，它也是一種能量管理。"
           },
           {
             "speaker": "a",

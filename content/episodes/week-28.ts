@@ -976,7 +976,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Not at all. Selection is where you decide what the day was really about.",
-            "zh": "完全不是。真正挑照片的時候，你才是在決定那一天到底是關於什麼。"
+            "zh": "完全不是。真正挑照片的時候，你才是在決定那一天真正的意義是什麼。"
           },
           {
             "speaker": "b",
@@ -1505,7 +1505,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So even a tiny daily sketch can be an act of protecting something human.",
-            "zh": "所以就算只是每天一張小小速寫，也可能是在保護某個很人的部分。"
+            "zh": "所以就算只是每天一張小小速寫，也可能是在保護自己身上很珍貴的人性。"
           },
           {
             "speaker": "a",
@@ -1644,7 +1644,7 @@ export const WEEK_28: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because metrics feel objective, even when they are measuring a very narrow kind of response.",
-            "zh": "因為資料會給人一種很客觀的感覺，即使它測量的其實只是很窄的一種反應。"
+            "zh": "因為指標會給人一種很客觀的感覺，即使它測量的其實只是很窄的一種反應。"
           },
           {
             "speaker": "b",

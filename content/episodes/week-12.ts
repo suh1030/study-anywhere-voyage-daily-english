@@ -1931,7 +1931,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Feel at home\" is the key phrase. It is about safety and recognition, not just familiarity.",
-            "zh": "「有家的感覺」是關鍵。它是關於安全感和被理解，不只是熟悉。"
+            "zh": "「有家的感覺」是關鍵。它講的是安全感和被理解，不只是熟悉。"
           },
           {
             "speaker": "b",

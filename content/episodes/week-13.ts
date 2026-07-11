@@ -1189,7 +1189,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So leadership is partly about tolerating a slightly different approach to get a better long-term outcome.",
-            "zh": "所以領導力有一部分是關於容忍稍微不同的方式，以換取更好的長期結果。"
+            "zh": "所以領導力有一部分，就是容忍稍微不同的做法，換來更好的長期結果。"
           },
           {
             "speaker": "a",
@@ -1937,7 +1937,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So visibility is really about showing how you think, not just what you produce.",
-            "zh": "所以能見度真的是關於展示你怎麼思考，而不只是你產出什麼。"
+            "zh": "所以能見度的重點，是讓人看見你怎麼思考，而不只是你產出什麼。"
           },
           {
             "speaker": "a",
@@ -2043,7 +2043,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the story should be about where you are going, not where you are leaving.",
-            "zh": "所以這個故事應該是關於你要去哪裡，而不是你在離開哪裡。"
+            "zh": "所以這個故事說的應該是你要去哪裡，而不是你在離開哪裡。"
           },
           {
             "speaker": "a",

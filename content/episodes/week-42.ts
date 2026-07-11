@@ -562,7 +562,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is about being selective with your future-directed energy.",
-            "zh": "所以是關於選擇性地使用你朝向未來的能量。"
+            "zh": "所以重點是，把朝向未來的能量用在真正值得的地方。"
           },
           {
             "speaker": "a",
@@ -807,7 +807,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "A lot of my future anxiety is about things I genuinely cannot control. Economic conditions, global events, industry trends. What do I do with that?",
-            "zh": "我很多對未來的焦慮是關於我真的無法控制的事情，比如經濟狀況、全球事件、行業趨勢。對於這些，我能做什麼？"
+            "zh": "我很多對未來的焦慮，都是我真的無法控制的事情，比如經濟狀況、國際情勢、產業趨勢。對於這些，我能做什麼？"
           },
           {
             "speaker": "a",
@@ -970,7 +970,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That split is almost always about what the tool is replacing. People who felt the old task was tedious welcome it. People who saw it as skilled work feel threatened.",
-            "zh": "那種分歧幾乎總是關於這個工具在替代什麼。覺得舊任務很枯燥的人歡迎它，覺得那是需要技能的工作的人感到被威脅。"
+            "zh": "那種分歧，幾乎都取決於這個工具在替代什麼。覺得舊任務很枯燥的人歡迎它；覺得那是需要技能的工作的人，就會感到被威脅。"
           },
           {
             "speaker": "b",
@@ -1680,7 +1680,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And if you are attached to the destination, a detour is just information about which road works better.",
-            "zh": "而如果你執著的是目的地，繞行就只是關於哪條路更好走的資訊。"
+            "zh": "而如果你在意的是目的地，繞路就只是一筆資訊，告訴你哪條路更好走。"
           },
           {
             "speaker": "a",
@@ -1845,7 +1845,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The past is evidence about who you are. The future is where you use it.",
-            "zh": "過去是關於你是誰的證據，未來是你使用它的地方。"
+            "zh": "過去累積的是「你是誰」的證據，未來則是你拿這些證據去用的地方。"
           }
         ]
       }
@@ -1960,7 +1960,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What I find interesting is that some of my biggest regrets are not about big decisions. They are about small things I kept doing or not doing.",
-            "zh": "我發現有趣的是，我最大的遺憾不是關於大決定，是關於我一直在做或不做的小事。"
+            "zh": "我發現有趣的是，我最大的遺憾都不是什麼重大決定，而是那些我一直在做、或一直沒做的小事。"
           },
           {
             "speaker": "a",
@@ -2161,7 +2161,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Try it once a week. Not as a pressure, but as a compass check. Just to make sure the direction still feels right.",
-            "zh": "每週試一次。不是作為一種壓力，是作為指南針的校準。只是確保方向感覺仍然是對的。"
+            "zh": "每週試一次。不是給自己壓力，比較像在校準指南針，確認方向仍然是對的。"
           }
         ]
       }

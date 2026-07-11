@@ -2060,7 +2060,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would a genuine listening practice look like? Not as a wellness trend, just as a normal thing someone might do.",
-            "zh": "真正的聆聽練習會是什麼樣子？不是作為一種健康趨勢，只是作為一個普通人可能做的事。"
+            "zh": "真正的聆聽練習會是什麼樣子？不是當成什麼健康風潮，就只是一個普通人做得到的事。"
           },
           {
             "speaker": "a",

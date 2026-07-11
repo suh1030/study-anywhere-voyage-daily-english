@@ -1076,7 +1076,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "What was the anxiety about?",
-            "zh": "焦慮是關於什麼的？"
+            "zh": "那時候的焦慮，到底在焦慮什麼？"
           },
           {
             "speaker": "b",
@@ -1094,7 +1094,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that as a useful reframe. The anxiety is information about my own desires, not a verdict on my progress.",
-            "zh": "這是個有用的重新框架。那個焦慮是關於我自己渴望的資訊，不是對我進展的裁決。"
+            "zh": "這個轉念很有用。那個焦慮透露的其實是我自己想要什麼，而不是在裁定我的進度。"
           },
           {
             "speaker": "a",
@@ -1626,7 +1626,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That number is actually strong. Most people leave that kind of impact uncounted because they cannot see it as a success.",
-            "zh": "那個數字其實很有力。大多數人把那種影響留在未計算的狀態，因為他們看不到它作為一種成功。"
+            "zh": "那個數字其實很有力。大多數人從來沒去算過那種影響，因為他們沒把它當成一種成功。"
           },
           {
             "speaker": "b",

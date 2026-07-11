@@ -1141,7 +1141,7 @@ export const WEEK_20: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's honestly a human truth about meetings.",
-            "zh": "這真的很會議，也很人。"
+            "zh": "這與其說是在講會議，不如說是在講人性，真的很中肯。"
           },
           {
             "speaker": "a",

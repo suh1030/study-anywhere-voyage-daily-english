@@ -1603,7 +1603,7 @@ export const WEEK_04: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the thing about design — it's about cohesion, not price. A consistent color palette goes a long way.",
-            "zh": "設計就是這樣，是關於協調性，不是價格。統一的色彩搭配很有幫助。"
+            "zh": "設計就是這樣，重點是整體協調，不是價格。統一的色彩搭配很有幫助。"
           },
           {
             "speaker": "b",

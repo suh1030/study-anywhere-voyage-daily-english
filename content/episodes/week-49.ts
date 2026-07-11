@@ -994,7 +994,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So creative renewal is not about doing nothing. It is about feeding the mind from different sources.",
-            "zh": "所以創意更新不是關於什麼都不做。而是從不同的來源滋養大腦。"
+            "zh": "所以創意更新不等於什麼都不做，而是從不同的來源滋養大腦。"
           },
           {
             "speaker": "a",
@@ -1129,7 +1129,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's more about observation than consumption.",
-            "zh": "那比較是關於觀察而不是消費。"
+            "zh": "那比較偏向觀察，而不是消費。"
           },
           {
             "speaker": "a",
@@ -2120,7 +2120,7 @@ export const WEEK_49: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the work is actually self-knowledge more than discipline.",
-            "zh": "所以這件事更多是關於自我認識，而不是紀律。"
+            "zh": "所以這件事考驗的其實是自我認識，多過紀律。"
           },
           {
             "speaker": "a",

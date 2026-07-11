@@ -10,7 +10,7 @@ export const W29_ARTICLES: SpeakArticle[] = [
     vocabulary: [
       { word: 'ubiquity', definition: '無所不在（存在於所有地方的狀態）', example: 'The ubiquity of headphones has changed how people experience public space.' },
       { word: 'emotional regulation', definition: '情緒調節（管理和引導情緒反應的能力）', example: 'Music is one of the most accessible tools for emotional regulation in daily life.' },
-      { word: 'cognitive channel', definition: '認知渠道（大腦處理特定類型資訊的管道）', example: 'Instrumental music occupies a different cognitive channel than language-based tasks.' },
+      { word: 'cognitive channel', definition: '認知通道（大腦處理特定類型資訊的管道）', example: 'Instrumental music occupies a different cognitive channel than language-based tasks.' },
       { word: 'cultural affiliation', definition: '文化歸屬（與某個文化群體的認同和連結）', example: 'Musical taste signals cultural affiliation in ways that are instantly readable to insiders.' },
       { word: 'silence deprivation', definition: '沉默剝奪（持續暴露於聲音中而缺乏安靜的狀態）', example: 'Constant audio use can create silence deprivation that makes unaccompanied quiet feel uncomfortable.' },
     ],

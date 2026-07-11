@@ -928,7 +928,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the trap. Reaching out first is not about who was right. It is about whether you value the friendship enough to take the risk.",
-            "zh": "那就是陷阱所在。先主動聯絡不是關於誰對誰錯。它是關於你是否夠珍視這段友誼，願意承擔那個風險。"
+            "zh": "那就是陷阱所在。先主動聯絡，重點不在誰對誰錯，而在你是否夠珍視這段友誼，願意承擔那個風險。"
           },
           {
             "speaker": "b",
@@ -1469,7 +1469,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's a way of thinking about it I had not considered before. Digital discipline as a friendship skill.",
-            "zh": "那是我以前沒有想過的思考方式。數位自律作為一種友誼技能。"
+            "zh": "這個想法我以前沒想過：把數位自律當成一種友誼的技能。"
           },
           {
             "speaker": "a",
@@ -1549,7 +1549,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So it is about the order in which you share things.",
-            "zh": "所以這是關於你分享事情的順序。"
+            "zh": "所以重點在於你分享事情的順序。"
           },
           {
             "speaker": "a",

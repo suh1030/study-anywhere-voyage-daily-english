@@ -1685,7 +1685,7 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Friend group tensions are almost always about the group's structure, not about individuals being bad people.",
-            "zh": "對。朋友群體的張力幾乎總是關於群體的結構，而不是個人是壞人。"
+            "zh": "對。朋友群體會緊張，幾乎都是群體結構的問題，不是誰是壞人。"
           }
         ]
       },
@@ -1965,13 +1965,13 @@ export const WEEK_14: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That feeling is usually about your own discomfort with causing disappointment, not about the actual harm to the other person.",
-            "zh": "那種感覺通常是關於你自己對造成失望的不適，而不是對對方的實際傷害。"
+            "zh": "那種感覺通常來自你不想讓人失望的不安，而不是真的對對方造成了什麼傷害。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that as a useful reframe. I am protecting myself from the awkward moment, not them from pain.",
-            "zh": "這是個有用的重新框架。我是在保護自己免受那個尷尬時刻，而不是保護他們免受痛苦。"
+            "zh": "這樣一換角度就清楚了。我其實是在保護自己躲開那個尷尬時刻，而不是在保護他們不受傷。"
           },
           {
             "speaker": "a",

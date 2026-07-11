@@ -1750,7 +1750,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Absolutely. Imagine someone writing about a painful period and realizing, halfway through, that the story is not mainly about weakness. It is about endurance.",
-            "zh": "當然會。想像一個人寫一段痛苦時期，寫到一半突然發現：這段故事主要不是關於脆弱，是關於撐住。"
+            "zh": "當然會。想像一個人寫一段痛苦時期，寫到一半突然發現：這段故事真正在講的不是脆弱，是撐住。"
           },
           {
             "speaker": "b",
@@ -1985,13 +1985,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes expressive skill sound much more human than academic.",
-            "zh": "這讓表達能力聽起來很人，也很不學院。"
+            "zh": "這讓表達能力聽起來更貼近人本身，而不是什麼學院裡的功課。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is deeply human. It shapes intimacy, self-respect, and how much of your life can be shared truthfully.",
-            "zh": "它本來就很人。它會影響親密感、自尊，也會影響你有多少人生能被真實地分享出來。"
+            "zh": "它本來就是很深的人性。它會影響親密感、自尊，也會影響你有多少人生能被真實地分享出來。"
           }
         ]
       },

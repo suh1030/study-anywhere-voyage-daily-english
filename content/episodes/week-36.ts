@@ -1615,7 +1615,7 @@ export const WEEK_36: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is structural. That is why individual caution matters, but system design matters even more.",
-            "zh": "它本來就很結構。也因此，個人小心當然重要，但系統設計很多時候更重要。"
+            "zh": "它本來就是結構性的問題。也因此，個人小心當然重要，但系統設計很多時候更重要。"
           },
           {
             "speaker": "b",

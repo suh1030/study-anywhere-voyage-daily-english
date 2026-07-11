@@ -713,13 +713,13 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Then ask what is truly a must-have and what is only a nice-to-have under ideal conditions.",
-            "zh": "接著再問：什麼是真正的必要項目，什麼只是理想狀態下的加分項目。"
+            "zh": "接著再問：哪些是真正非有不可的，哪些只是理想狀態下的加分而已。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think I often treat nice-to-haves like proof that I care.",
-            "zh": "我覺得我很常把那些加分項目當成自己有沒有用心的證明。"
+            "zh": "我覺得我很常把那些加分的東西，當成自己有沒有用心的證明。"
           },
           {
             "speaker": "a",
@@ -1797,7 +1797,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "This makes leading under pressure sound much more human than heroic.",
-            "zh": "這樣一講，壓力下的領導聽起來就比較像很人，而不是很英雄。"
+            "zh": "這樣一講，壓力下的領導聽起來就比較像一個平凡人在撐住，而不是什麼英雄。"
           },
           {
             "speaker": "a",

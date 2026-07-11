@@ -343,7 +343,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the shift was not about budget — it was about intention.",
-            "zh": "所以那個改變不是關於預算，而是關於有沒有意圖。"
+            "zh": "所以那個改變的關鍵不在預算，而在有沒有意圖。"
           },
           {
             "speaker": "a",
@@ -600,7 +600,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's because story instinct is deeply human. We use narrative to turn events into something we can live with.",
-            "zh": "那是因為故事本能本來就很人。人會用敘事把事件變成自己比較活得下去的東西。"
+            "zh": "那是因為說故事的本能，本來就深植在人性裡。人會用敘事把事件變成自己比較活得下去的東西。"
           },
           {
             "speaker": "b",
@@ -612,7 +612,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Here is what usually stays invisible: Narrative order helps when life feels messy, because sequence can create relief.",
-            "zh": "通常看不見的是這個：當生活很亂時，敘事秩序會有幫助，因為順序本身就能創造一點鬆一口氣。"
+            "zh": "有個常被忽略的地方：當生活很亂時，敘事的秩序會有幫助，因為把事情排出先後，本身就能讓人鬆一口氣。"
           },
           {
             "speaker": "b",

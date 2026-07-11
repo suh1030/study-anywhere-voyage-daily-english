@@ -568,7 +568,7 @@ export const WEEK_09: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "No. It is about giving the body enough repeated chances to recover honestly.",
-            "zh": "不是。它其實是關於你有沒有一再地給身體誠實恢復的機會。"
+            "zh": "不是。重點其實在於，你有沒有一再給身體誠實恢復的機會。"
           },
           {
             "speaker": "b",

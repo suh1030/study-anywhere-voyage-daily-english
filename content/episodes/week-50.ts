@@ -216,7 +216,7 @@ export const WEEK_50: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is deeply human. That is why the smallest moments can matter so much.",
-            "zh": "它本來就很人。也正因如此，最小的時刻有時候才會那麼重要。"
+            "zh": "它本來就是很深的人性。也正因如此，最小的時刻有時候才會那麼重要。"
           }
         ]
       },

@@ -1966,7 +1966,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Those are all about creating edges.",
-            "zh": "這些都是關於創造邊界的。"
+            "zh": "這些做法，都是在替生活創造邊界。"
           },
           {
             "speaker": "a",
@@ -2078,7 +2078,7 @@ export const WEEK_35: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And the five minutes is not just about the time. It is about the experience of feeling okay without the screen. That feeling is what you are actually trying to build.",
-            "zh": "而且那五分鐘不只是關於時間，而是關於體驗沒有螢幕也沒關係的感覺。那種感覺才是你真正試著建立的。"
+            "zh": "而且那五分鐘重要的不只是時間本身，而是讓你體驗到沒有螢幕也沒關係。那種感覺才是你真正要建立的。"
           },
           {
             "speaker": "b",

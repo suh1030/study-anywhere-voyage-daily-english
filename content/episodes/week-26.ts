@@ -1287,7 +1287,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that is part of the point. Hobbies are not only about output. They can give you a different relationship to time and attention.",
-            "zh": "完全沒錯，而那本來就是重點之一。興趣不只是關於產出，它也會給你一種不同的時間感和注意力關係。"
+            "zh": "完全沒錯，而那本來就是重點之一。興趣的價值不只在產出，它也會給你一種不同的時間感和注意力關係。"
           },
           {
             "speaker": "b",

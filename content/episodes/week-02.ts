@@ -156,8 +156,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the snooze button is not a failure of willpower — it is just biology.",
-            "zh": "所以按貪睡不算意志力薄弱，只是生理反應而已。"
+            "en": "So hitting snooze is really just biology, then. Not weak willpower.",
+            "zh": "所以按貪睡其實只是生理反應而已，不算意志力薄弱。"
           },
           {
             "speaker": "a",
@@ -1022,8 +1022,8 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So morning exercise is not just about fitness — it is about cognitive performance.",
-            "zh": "所以晨間運動不只是練身體，也是在練腦。"
+            "en": "So morning exercise pays off twice: once for the body, and again for cognitive performance.",
+            "zh": "所以晨間運動等於賺兩次：一次練身體，一次練腦。"
           },
           {
             "speaker": "a",

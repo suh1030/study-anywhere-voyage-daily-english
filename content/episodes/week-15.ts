@@ -988,7 +988,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Remembering details is a form of respect. It says your words mattered enough to keep.",
-            "zh": "記住細節是一種尊重的形式。它說明你說的話值得被保留。"
+            "zh": "記住細節本身就是一種尊重。它說明你說的話值得被保留。"
           },
           {
             "speaker": "b",
@@ -2013,7 +2013,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "For the most part, yes. Authenticity is about acting from your real values, not about having zero filter.",
-            "zh": "大部分情況是這樣。真實性是關於從你真正的價值觀行動，不是關於完全沒有過濾器。"
+            "zh": "大部分情況是這樣。所謂真實，是依照你真正的價值觀行動，而不是毫無過濾、想說什麼就說什麼。"
           },
           {
             "speaker": "b",
