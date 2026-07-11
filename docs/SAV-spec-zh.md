@@ -326,8 +326,8 @@
     ├── theme: string            // 當週主題
     ├── title: string            // 當集標題
     ├── phase: string            // p1–p6
-    ├── parts: EpisodePart[]     // 5 段落
-    │   └── lines: EpisodeLine[] // 35–45 行對話
+    ├── parts: EpisodePart[]     // 4–5 段
+    │   └── lines: EpisodeLine[] // 32–42 行對話
     │       ├── speaker: 'a' | 'b'
     │       ├── speakerName: 'Mira' | 'Jamie'
     │       ├── en: string
