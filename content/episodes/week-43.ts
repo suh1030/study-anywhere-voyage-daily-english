@@ -741,7 +741,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that; it is beautifully said.",
+            "en": "I like that. It is beautifully said.",
             "zh": "這句說得很好。"
           }
         ]
@@ -1193,8 +1193,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I am leaving this conversation more grateful for the people who found me at exactly the right moment.",
-            "zh": "我帶著更深的感謝離開，感謝那些在正確時刻出現的人。"
+            "en": "I am also starting to wonder how I could become that kind of person for someone else.",
+            "zh": "我也開始在想，自己要怎麼成為別人生命裡那樣的人。"
           },
           {
             "speaker": "a",
@@ -1521,8 +1521,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I think I am leaving with a kinder way to look back.",
-            "zh": "我現在真的比較知道，怎麼用一種更溫柔的方式回頭看了。"
+            "en": "And I want to try using that gentler lens the next time an old memory comes up.",
+            "zh": "下次有舊回憶浮上來時，我想試著用這個比較溫柔的視角去看。"
           },
           {
             "speaker": "a",
@@ -2148,8 +2148,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I think I want fewer dramatic changes and more honest ones.",
-            "zh": "我現在真的比較想要少一點戲劇性改變，多一點誠實的改變。"
+            "en": "And I want to start with one honest change this week.",
+            "zh": "而且我想這禮拜就先從一個誠實的小改變開始。"
           },
           {
             "speaker": "a",

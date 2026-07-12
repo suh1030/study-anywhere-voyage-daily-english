@@ -525,7 +525,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is kind of comforting and kind of sad at the same time.",
+            "en": "I like that. It is kind of comforting and kind of sad at the same time.",
             "zh": "這讓我覺得有點安慰，又有點難過。"
           },
           {

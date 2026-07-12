@@ -2143,7 +2143,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is kind and specific at the same time. Thank you.",
+            "en": "I like that. It is kind and specific at the same time. Thank you.",
             "zh": "這既溫柔又具體。謝謝你。"
           },
           {

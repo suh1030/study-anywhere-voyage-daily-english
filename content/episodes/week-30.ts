@@ -313,7 +313,7 @@ export const WEEK_30: Episode[] = [
       {
         "en": "enjoy your own company",
         "zh": "有能力自在地和自己相處，而不只是被空白吞掉",
-        "example": "Books helped her enjoy your own company during a lonely season."
+        "example": "Books helped her enjoy her own company during a lonely season."
       }
     ]
   },
@@ -940,7 +940,7 @@ export const WEEK_30: Episode[] = [
       {
         "en": "trust your attention",
         "zh": "相信自己有能力把心穩穩放在一件事上",
-        "example": "Once the routine settled in, she started to trust your attention again."
+        "example": "Once the routine settled in, she started to trust her attention again."
       }
     ]
   },
@@ -1391,7 +1391,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is good and a little scary.",
+            "en": "I like that. It is good and a little scary.",
             "zh": "這句很好，而且有點可怕。"
           },
           {
@@ -1619,7 +1619,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. It is intimacy with language, thought, and another mind.",
+            "en": "Right. That is exactly the point. It is intimacy with language, thought, and another mind.",
             "zh": "這是整段的重點。那是一種和語言、思想，還有另一個頭腦之間的親密。"
           },
           {
@@ -1707,7 +1707,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is beautiful and very usable.",
+            "en": "I like that. It is beautiful and very usable.",
             "zh": "這句很美，而且真的很好用。"
           },
           {
@@ -1911,7 +1911,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that; it is beautiful, and very true. A shelf is often a record of changing questions as much as changing taste.",
+            "en": "I like that. It is beautiful, and very true. A shelf is often a record of changing questions as much as changing taste.",
             "zh": "這很美，而且真的很真。書架很多時候記錄的，不只是品味怎麼變，還有你問的問題怎麼變。"
           },
           {
@@ -2154,7 +2154,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It feels more like a good response to this conversation.",
+            "en": "That sounds like the best possible response to this conversation.",
             "zh": "這聽起來就是對這場對話最好的回應。"
           }
         ]

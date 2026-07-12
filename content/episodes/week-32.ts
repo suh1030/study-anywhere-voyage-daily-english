@@ -2018,7 +2018,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is strong and very clear.",
+            "en": "I like that. It is strong and very clear.",
             "zh": "這句很有力，也很清楚。"
           },
           {

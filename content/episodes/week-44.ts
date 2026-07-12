@@ -829,8 +829,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the creative block is not really about ideas. It is about permission.",
-            "zh": "所以創作卡住，其實不完全是沒有點子，而是沒有給自己允許。"
+            "en": "So stories do not just entertain us. They train us to imagine each other.",
+            "zh": "所以故事不只是娛樂我們，它其實也在訓練我們想像彼此。"
           },
           {
             "speaker": "a",
@@ -1427,7 +1427,7 @@ export const WEEK_44: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is a very important one.",
-            "zh": "這真的是很重要的區分。"
+            "zh": "它真的非常重要。"
           },
           {
             "speaker": "b",
@@ -1456,8 +1456,8 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I have been waiting for the right conditions, and I think that is exactly what you are describing as the trap.",
-            "zh": "我一直都在等那個剛剛好的條件，而我覺得你說的陷阱就是這個。"
+            "en": "I think I have been holding a few feelings still for far too long.",
+            "zh": "我覺得我真的把某些感受按住不動太久了。"
           },
           {
             "speaker": "a",

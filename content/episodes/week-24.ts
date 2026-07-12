@@ -2142,7 +2142,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. The best growth is not the loudest. It is the kind you can live inside.",
+            "en": "Right. That part matters most. The best growth is not the loudest. It is the kind you can live inside.",
             "zh": "這一點特別重要。最好的成長，不是最大聲的那種，是那種你真的住得進去的成長。"
           },
           {

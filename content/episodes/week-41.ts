@@ -1924,8 +1924,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That takes the pressure off.",
-            "zh": "這讓壓力小多了。"
+            "en": "That is a little sobering, honestly.",
+            "zh": "老實說，這句有點讓人警醒。"
           },
           {
             "speaker": "a",
@@ -1971,7 +1971,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. A priority test helps because it forces you to ask whether something feels urgent, or whether it is truly worth your life energy.",
+            "en": "Right. That is worth sitting with. A priority test helps because it forces you to ask whether something feels urgent, or whether it is truly worth your life energy.",
             "zh": "這一點值得停下來想一下。優先測試很有幫助，因為它會逼你問：這件事只是很急，還是真的值得你的人生能量。"
           },
           {

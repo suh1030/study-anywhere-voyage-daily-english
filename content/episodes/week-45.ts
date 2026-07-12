@@ -144,7 +144,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is useful for leaders who are calm but not passive.",
+            "en": "I like that. It is useful for leaders who are calm but not passive.",
             "zh": "這句很適合形容冷靜但不被動的領導者。"
           },
           {

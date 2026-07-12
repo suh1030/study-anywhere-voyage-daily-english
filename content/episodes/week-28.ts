@@ -443,7 +443,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is great. It sounds gentle and specific.",
+            "en": "I like that. It is great. It sounds gentle and specific.",
             "zh": "這句很好，聽起來很溫柔，也很具體。"
           },
           {
@@ -1099,7 +1099,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is useful because sometimes one photo is average alone but strong in a set.",
+            "en": "I like that. It is useful because sometimes one photo is average alone but strong in a set.",
             "zh": "這句很有用，因為有時候一張照片單看普通，可是放進一組裡就會變強。"
           },
           {
@@ -1386,7 +1386,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is lovely. It sounds emotional, but not overblown.",
+            "en": "I like that. It is lovely. It sounds emotional, but not overblown.",
             "zh": "這句很美，情緒有到，可是又不會太滿。"
           },
           {

@@ -801,7 +801,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What makes saving feel sustainable instead of punishing?",
-            "zh": "什麼會讓存錢比較像能長期維持，而不是像在處罰自己？"
+            "zh": "什麼會讓存錢比較像一件撐得下去的事，而不是像在處罰自己？"
           },
           {
             "speaker": "a",
@@ -1452,7 +1452,7 @@ export const WEEK_39: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That's much more sustainable.",
-            "zh": "那真的能長期維持多了。"
+            "zh": "那樣真的撐得久多了。"
           },
           {
             "speaker": "a",

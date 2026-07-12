@@ -1707,7 +1707,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is strong.",
+            "en": "I like that. It is strong.",
             "zh": "這句很有力。"
           },
           {

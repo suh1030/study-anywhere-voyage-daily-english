@@ -1870,7 +1870,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. It lets a person speak across time with more care than daily life usually allows.",
+            "en": "Right. That is the deeper point. It lets a person speak across time with more care than daily life usually allows.",
             "zh": "這是整段的重點。它讓一個人能用比日常生活裡平常更細緻的方式，跨時間對自己說話。"
           },
           {

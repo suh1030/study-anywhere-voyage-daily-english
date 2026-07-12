@@ -232,7 +232,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     'Traditions & Gatherings',
     'Monday',
     'Think of a gathering you actually enjoyed. What made it feel meaningful instead of tiring?',
-    '不要只說很好玩，重點是說出那場標記為什麼有重量、有人味或有記憶點。',
+    '不要只說很好玩，重點是說出那場聚會為什麼有重量、有人味或有記憶點。',
     'Describe the event briefly, then explain which detail gave it emotional meaning.',
   ),
   q(

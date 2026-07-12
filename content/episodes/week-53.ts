@@ -993,8 +993,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "That makes the ending feel less blurry.",
-            "zh": "這樣確實會讓結束不那麼模糊。"
+            "en": "That gives the goodbye a clear shape.",
+            "zh": "這樣道別就有了一個清楚的形狀。"
           },
           {
             "speaker": "a",

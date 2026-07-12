@@ -1971,7 +1971,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is interesting. Because thoughts can be rationalizations.",
+            "en": "I like that. It is interesting. Because thoughts can be rationalizations.",
             "zh": "這很有意思。因為思想可能是合理化的藉口。"
           },
           {

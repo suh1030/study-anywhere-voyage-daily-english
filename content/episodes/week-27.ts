@@ -759,7 +759,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is perfect.",
+            "en": "I like that. It is perfect.",
             "zh": "這句真的很剛好。"
           },
           {
@@ -2018,7 +2018,7 @@ export const WEEK_27: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is beautiful.",
+            "en": "I like that. It is beautiful.",
             "zh": "這句很漂亮。"
           },
           {

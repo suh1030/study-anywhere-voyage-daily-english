@@ -21,7 +21,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's often how sustainability becomes real. It stops being a slogan and starts becoming visible in ordinary material form.",
-            "zh": "能長期維持這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。"
+            "zh": "永續這件事很多時候就是這樣變真的。它不再只是口號，而是開始用很物質、很日常的形式出現在你眼前。"
           },
           {
             "speaker": "b",
@@ -121,7 +121,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would be a natural English way to talk about trying to live more sustainably?",
-            "zh": "如果我想用英文談自己正在努力活得更能長期維持，可以怎麼說？"
+            "zh": "如果我想用英文談自己正在努力活得更永續，可以怎麼說？"
           },
           {
             "speaker": "a",
@@ -163,7 +163,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It lands because sustainability is moral language when it is spoken clearly.",
-            "zh": "它有力，是因為能長期維持這件事講清楚之後，本來就帶著道德重量。"
+            "zh": "它有力，是因為永續這件事講清楚之後，本來就帶著道德重量。"
           }
         ]
       },
@@ -174,7 +174,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is one sustainable habit that actually holds up in real life?",
-            "zh": "有沒有哪一個能長期維持習慣，是真的在現實生活裡也撐得住的？"
+            "zh": "有沒有哪一個永續習慣，是真的在現實生活裡也撐得住的？"
           },
           {
             "speaker": "a",
@@ -227,7 +227,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does sustainability ask from people in the end?",
-            "zh": "所以說到底，能長期維持這件事最後是在要求人做到什麼？"
+            "zh": "所以說到底，永續這件事最後是在要求人做到什麼？"
           },
           {
             "speaker": "a",
@@ -790,7 +790,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That matters. Sustainable language should sound possible enough to live with.",
-            "zh": "這很重要。能長期維持的語言，應該聽起來是人住得進去的。"
+            "zh": "這很重要。談永續的語言，應該聽起來是人住得進去的。"
           }
         ]
       },
@@ -866,7 +866,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes sustainability feel almost like character.",
-            "zh": "這樣一講，能長期維持這件事幾乎有點像品格。"
+            "zh": "這樣一講，永續這件事幾乎有點像品格。"
           },
           {
             "speaker": "a",
@@ -1638,7 +1638,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What makes a city more sustainable in daily life?",
-            "zh": "在日常層面上，什麼會讓一座城市變得更能長期維持？"
+            "zh": "在日常層面上，什麼會讓一座城市變得更永續？"
           },
           {
             "speaker": "a",
@@ -1650,7 +1650,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So sustainability is partly about whether the better option is physically possible.",
-            "zh": "所以能長期維持有一部分是在看，比較好的選項在身體上到底做不做得到。"
+            "zh": "所以永續有一部分是在看，比較好的選項在身體上到底做不做得到。"
           },
           {
             "speaker": "a",
@@ -1691,7 +1691,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "How could I phrase it if I wanted to describe a city that feels more sustainable?",
-            "zh": "如果我想用英文描述一座感覺更能長期維持的城市，可以怎麼講？"
+            "zh": "如果我想用英文描述一座感覺更永續的城市，可以怎麼講？"
           },
           {
             "speaker": "a",
@@ -1774,7 +1774,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is, and community garden spaces matter too because they turn abstract sustainability into shared local practice.",
-            "zh": "對，而且社區花園空間也很重要，因為它會把抽象的能長期維持，變成共享的在地練習。"
+            "zh": "對，而且社區花園空間也很重要，因為它會把抽象的永續，變成共享的在地練習。"
           },
           {
             "speaker": "b",
@@ -1797,7 +1797,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does sustainable design ultimately offer people?",
-            "zh": "所以能長期維持設計到最後，真正給人的會是什麼？"
+            "zh": "所以永續設計到最後，真正給人的會是什麼？"
           },
           {
             "speaker": "a",
@@ -1954,7 +1954,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What should a sustainable future offer beyond just 'less damage'?",
-            "zh": "一個能長期維持的未來，除了『少一點傷害』之外，還應該給人什麼？"
+            "zh": "一個永續的未來，除了『少一點傷害』之外，還應該給人什麼？"
           },
           {
             "speaker": "a",
@@ -1966,7 +1966,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So sustainability should feel like improvement, not punishment.",
-            "zh": "所以能長期維持應該讓人感覺是改善，不是處罰。"
+            "zh": "所以永續應該讓人感覺是改善，不是處罰。"
           },
           {
             "speaker": "a",
@@ -2007,7 +2007,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What would be a natural English way to describe a future that feels sustainable and desirable?",
-            "zh": "如果我想用英文描述一個既能長期維持又讓人想住進去的未來，可以怎麼講？"
+            "zh": "如果我想用英文描述一個既永續又讓人想住進去的未來，可以怎麼講？"
           },
           {
             "speaker": "a",
@@ -2113,7 +2113,7 @@ export const WEEK_38: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what is the most important thing people should keep in mind about a sustainable future?",
-            "zh": "所以關於能長期維持未來，人最該記得的一件事是什麼？"
+            "zh": "所以關於永續的未來，人最該記得的一件事是什麼？"
           },
           {
             "speaker": "a",

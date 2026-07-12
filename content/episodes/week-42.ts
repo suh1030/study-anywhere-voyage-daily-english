@@ -1046,7 +1046,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. The question to ask is not \"is my job safe?\" but \"which parts of what I do are hardest to replicate?\"",
+            "en": "Right. That is worth remembering. The question to ask is not \"is my job safe?\" but \"which parts of what I do are hardest to replicate?\"",
             "zh": "這裡值得特別記住。要問的問題不是「我的工作安全嗎？」而是「我所做的事情中，哪些部分最難被複製？」"
           },
           {
@@ -1596,8 +1596,8 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That reframing helps a lot.",
-            "zh": "這樣換個角度看，幫助很大。"
+            "en": "That Sunday was still worth more than you think, though.",
+            "zh": "不過那個週日的價值，其實比你以為的高。"
           },
           {
             "speaker": "b",
@@ -1732,7 +1732,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is better than either pretending to know or just saying nothing.",
+            "en": "I like that. It is better than either pretending to know or just saying nothing.",
             "zh": "這比假裝知道或什麼都不說要好。"
           },
           {

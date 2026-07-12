@@ -817,7 +817,7 @@ export const WEEK_17: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is good. It assumes they still own the process.",
+            "en": "I like that. It is good. It assumes they still own the process.",
             "zh": "這句很好，因為它預設對方還是擁有整個過程的人。"
           },
           {

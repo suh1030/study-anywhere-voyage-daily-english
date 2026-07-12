@@ -343,8 +343,8 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes, and aI is often strong at pattern tasks and weak at real accountability.",
-            "zh": "對，而且AI 常常很擅長模式型任務，但不擅長真正的責任承擔。"
+            "en": "Yes, and AI is often strong at pattern tasks and weak at real accountability.",
+            "zh": "對，而且 AI 常常很擅長模式型任務，但不擅長真正的責任承擔。"
           },
           {
             "speaker": "b",
@@ -865,7 +865,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is interesting because it makes some human skills more important, not less.",
+            "en": "I like that. It is interesting because it makes some human skills more important, not less.",
             "zh": "這很有意思，因為它會讓某些人類能力變得更重要，不是更不重要。"
           },
           {
@@ -1386,7 +1386,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is beautifully done.",
+            "en": "I like that. It is beautifully done.",
             "zh": "這做得很漂亮。"
           },
           {

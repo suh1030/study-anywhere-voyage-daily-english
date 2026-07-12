@@ -1679,7 +1679,7 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. Support is just harder to show off than exhaustion.",
+            "en": "Right. That is the heart of it. Support is just harder to show off than exhaustion.",
             "zh": "這是整段的重點。只是支撐這件事，比起筋疲力盡，看起來更不容易拿來炫耀。"
           }
         ]

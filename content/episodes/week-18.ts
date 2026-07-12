@@ -1719,7 +1719,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is strong. It sounds like work, not performance.",
+            "en": "I like that. It is strong. It sounds like work, not performance.",
             "zh": "這句很有力量。它聽起來像在說要做功課，不是在表演。"
           },
           {

@@ -1510,7 +1510,7 @@ export const WEEK_37: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That removes a lot of the pressure I have been carrying around this.",
-            "zh": "這句話真的會留在我心裡。"
+            "zh": "這句話真的把我一直背著的壓力卸掉了很多。"
           },
           {
             "speaker": "a",
@@ -2023,7 +2023,7 @@ export const WEEK_37: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is beautifully put.",
+            "en": "I like that. It is beautifully put.",
             "zh": "這句講得很漂亮。"
           },
           {

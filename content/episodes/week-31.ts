@@ -343,8 +343,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Right. That is what makes the sentence work. Animals can bypass cynicism.",
-            "zh": "對，這正是那句話有力的原因。動物常常會直接繞過人的那層防備和嘲諷。"
+            "en": "Right, and that is exactly why it moves people. Animals can bypass cynicism.",
+            "zh": "對，這也正是它那麼打動人的原因。動物常常會直接繞過人的那層防備和嘲諷。"
           },
           {
             "speaker": "b",
@@ -420,8 +420,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "It really is.",
-            "zh": "真的很好用。"
+            "en": "Good. That distinction keeps the love honest.",
+            "zh": "很好。這個區分會讓那種愛一直保持誠實。"
           }
         ]
       },
@@ -1785,8 +1785,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Most of us do.",
-            "zh": "我們大多數人都需要。"
+            "en": "It is, once the reflection stays that grounded.",
+            "zh": "只要反思一直維持得夠接地，它就真的沒那麼難。"
           }
         ]
       },
@@ -2018,7 +2018,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is beautiful.",
+            "en": "I like that. It is beautiful.",
             "zh": "這句很美。"
           },
           {

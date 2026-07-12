@@ -1146,7 +1146,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that; it is useful self-knowledge. If you know large groups are your weak spot, you can compensate by being more deliberately observant when you are in them.",
+            "en": "I like that. It is useful self-knowledge. If you know large groups are your weak spot, you can compensate by being more deliberately observant when you are in them.",
             "zh": "這是有用的自我認知。如果你知道大群體是你的弱點，你可以在身處其中時更刻意地去觀察來彌補。"
           },
           {
@@ -1707,7 +1707,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is better than either suffering in silence or making a big deal of it.",
+            "en": "I like that. It is better than either suffering in silence or making a big deal of it.",
             "zh": "這比默默承受或把它搞成大事都要好。"
           },
           {

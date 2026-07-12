@@ -1726,7 +1726,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is useful because it does not pick a side — it just moves things forward.",
+            "en": "I like that. It is useful because it does not pick a side — it just moves things forward.",
             "zh": "這個很有用，因為它不是在選邊站，只是在推動事情往前。"
           },
           {
@@ -2071,7 +2071,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that; it is useful for performance reviews and also for your own sense of progress.",
+            "en": "I like that. It is useful for performance reviews and also for your own sense of progress.",
             "zh": "這對績效評估有用，對你自己的進步感也有幫助。"
           },
           {
