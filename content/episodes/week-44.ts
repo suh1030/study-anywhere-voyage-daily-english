@@ -238,7 +238,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful description.",
+            "en": "That is a beautiful description.",
             "zh": "這真的很美。"
           },
           {
@@ -817,7 +817,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful answer.",
+            "en": "That is a beautiful answer.",
             "zh": "這真的是很美的答案。"
           },
           {
@@ -1719,7 +1719,7 @@ export const WEEK_44: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a helpful reminder for every creative field.",
+            "en": "That is a helpful reminder for every creative field.",
             "zh": "這真的對所有創作領域都很有提醒。"
           },
           {

@@ -348,8 +348,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "How much are we talking? In Taipei, even a small apartment in a decent area is several million.",
-            "zh": "大概多少？在台北，就算是一個普通地段的小公寓也要幾百萬。"
+            "en": "How much are we talking? In Taipei, even a small apartment in a decent area costs well over ten million.",
+            "zh": "大概多少？在台北，就算是一個普通地段的小公寓，也要上千萬。"
           },
           {
             "speaker": "b",
@@ -1918,8 +1918,8 @@ export const WEEK_04: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. That is the line I would hold on to. Or a city you keep returning to and it feels familiar in a deep way.",
-            "zh": "這一點值得停下來想一下。或者你一直回去的城市，有種深層的熟悉感。"
+            "en": "Exactly. Or a city you keep returning to and it feels familiar in a deep way.",
+            "zh": "就是這樣。或者是一座你一去再去的城市，它讓你有種很深的熟悉感。"
           },
           {
             "speaker": "b",

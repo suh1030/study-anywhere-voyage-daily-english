@@ -520,7 +520,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. A short, casual plan protects both of you. It is easy to say yes and easy to recover if it does not go perfectly.",
-            "zh": "這裡值得畫一條線。短而隨興的計畫保護了你們兩個。很容易答應，即使不夠完美也容易恢復。"
+            "zh": "這正是這個做法有效的原因。短而隨興的計畫保護了你們兩個：很容易答應，即使不夠完美也容易恢復。"
           },
           {
             "speaker": "b",
@@ -2095,7 +2095,7 @@ export const WEEK_11: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "I like that framing. A small act with large implications. Most of us can only really influence the people in our direct lives.",
-            "zh": "我喜歡這個框架。一個有著巨大含義的小行動。我們大多數人只能真正影響我們直接生活中的人。"
+            "zh": "我喜歡這個想法：一個意義重大的小行動。我們大多數人，真正影響得到的就是身邊的人。"
           },
           {
             "speaker": "b",

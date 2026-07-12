@@ -514,8 +514,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. People often think peace comes from finishing everything, but often it comes from holding things more gently.",
-            "zh": "想一個真實的場景。很多人以為平靜是把所有事都做完才來，可是很多時候，它其實是從更溫柔地拿著那些事開始。"
+            "en": "That is worth pausing on. People often think peace comes from finishing everything, but often it comes from holding things more gently.",
+            "zh": "這裡值得停一下。很多人以為平靜是把所有事都做完才來，可是很多時候，它其實是從更溫柔地拿著那些事開始。"
           },
           {
             "speaker": "b",
@@ -567,7 +567,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a beautiful way to say it. A good evening feels inhabited, not merely unoccupied by tasks.",
+            "en": "That is a beautiful way to say it. A good evening feels inhabited, not merely unoccupied by tasks.",
             "zh": "這個說法很美。好的晚上，感覺起來是被你住進去的，不只是剛好沒有工作而已。"
           },
           {
@@ -1310,7 +1310,7 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Some hobbies are not extra. They are repair.",
+            "en": "Here is how I would put it. Some hobbies are not extra. They are repair.",
             "zh": "我自己會這樣講：有些興趣不是額外加分，它本身就是修復。"
           }
         ]
@@ -1352,7 +1352,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Also a fuller identity. When work is hard, it helps to remember you are more than your inbox and your role.",
-            "zh": "對，而且它也會把比較完整的身份感還給你。當工作很重的時候，記得自己不只是一個收件匣和一個職位，真的很重要。"
+            "zh": "對，而且它也會把比較完整的身分感還給你。當工作很重的時候，記得自己不只是一個收件匣和一個職位，真的很重要。"
           },
           {
             "speaker": "b",
@@ -1405,7 +1405,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "When you need to emphasize identity, another option is, 'It reminds me that I am a whole person, not only a worker.'",
-            "zh": "如果你想強調身份感，也可以說：「It reminds me that I am a whole person, not only a worker.」"
+            "zh": "如果你想強調身分感，也可以說：「It reminds me that I am a whole person, not only a worker.」"
           },
           {
             "speaker": "b",
@@ -1591,7 +1591,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That can be a strong signal that work has become too much of your identity, not just too much of your schedule.",
-            "zh": "那很可能是一個很強的訊號，表示工作佔掉的已經不只是你的時間表，而是你的身份感。"
+            "zh": "那很可能是一個很強的訊號，表示工作佔掉的已經不只是你的時間表，而是你的身分感。"
           },
           {
             "speaker": "b",
@@ -1668,7 +1668,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, because the boundaries inside your identity get too thin. A comment about a task starts sounding like a verdict on your whole self.",
-            "zh": "對，因為你內心身份之間的界線變得太薄。對一個任務的評論，就會開始聽起來像在判你整個人。"
+            "zh": "對，因為你內心身分之間的界線變得太薄。對一個任務的評論，就會開始聽起來像在判你整個人。"
           },
           {
             "speaker": "b",
@@ -1815,7 +1815,7 @@ export const WEEK_26: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It usually is. A healthier identity gives work the right size instead of letting it become the only weather in your life.",
-            "zh": "通常真的就是。比較健康的身份感，會給工作一個剛剛好的尺寸，而不是讓它變成你人生裡唯一的天氣。"
+            "zh": "通常真的就是。比較健康的身分感，會給工作一個剛剛好的尺寸，而不是讓它變成你人生裡唯一的天氣。"
           },
           {
             "speaker": "b",
@@ -1838,8 +1838,8 @@ export const WEEK_26: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. The best identity work usually begins in very ordinary hours.",
-            "zh": "想一個真實的時刻：最好的自我重整，通常都是從很平凡的時光裡開始的。"
+            "en": "Notice where it starts. The best identity work usually begins in very ordinary hours.",
+            "zh": "注意它是從哪裡開始的：最好的自我重整，通常都是從很平凡的時光裡開始的。"
           }
         ]
       }
@@ -1847,7 +1847,7 @@ export const WEEK_26: Episode[] = [
     "keyPhrases": [
       {
         "en": "work identity",
-        "zh": "把自己主要定義成工作的那個身份感",
+        "zh": "把自己主要定義成工作的那個身分感",
         "example": "His work identity had grown so large that he barely knew how to answer simple questions about himself outside the office."
       },
       {
@@ -1867,7 +1867,7 @@ export const WEEK_26: Episode[] = [
       },
       {
         "en": "tie your identity to",
-        "zh": "把身份感緊緊綁在某件事上",
+        "zh": "把身分感緊緊綁在某件事上",
         "example": "She had tied too much of her identity to recognition at work and could feel the cost of it."
       },
       {

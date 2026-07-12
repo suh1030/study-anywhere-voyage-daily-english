@@ -543,7 +543,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a useful frame. Attention is finite and it gets spent whether you plan it or not.",
+            "en": "That is a useful frame. Attention is finite and it gets spent whether you plan it or not.",
             "zh": "那是個很有用的框架。注意力是有限的，而且無論你有沒有計畫，它都在被消耗。"
           },
           {
@@ -1797,12 +1797,12 @@ export const WEEK_35: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I feel like this whole topic of technology and everyday life is really a conversation about identity.",
-            "zh": "我覺得整個科技和日常生活的主題，其實是一個關於身份認同的對話。"
+            "zh": "我覺得整個科技和日常生活的主題，其實是一個關於身分認同的對話。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as an interesting read. Say more.",
+            "en": "That is an interesting read. Say more.",
             "zh": "這是個有趣的解讀，再說說看。"
           },
           {
@@ -1983,7 +1983,7 @@ export const WEEK_35: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good way to put it. Technology without edges does not feel like a tool anymore. It feels like the whole room.",
+            "en": "That is a good way to put it. Technology without edges does not feel like a tool anymore. It feels like the whole room.",
             "zh": "這是個很好的說法，沒有邊界的科技感覺不再像工具了，它感覺像整個房間。"
           },
           {

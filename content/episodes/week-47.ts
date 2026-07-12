@@ -162,8 +162,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. The best language for this topic usually sounds observant rather than superior.",
-            "zh": "這是我真的會拿來用的版本。這個主題最好用的語言，通常是觀察式的，不是高高在上的。"
+            "en": "That one is worth keeping. The best language for this topic usually sounds observant rather than superior.",
+            "zh": "這句值得留著。這個主題最好用的語言，通常是觀察式的，不是高高在上的。"
           }
         ]
       },
@@ -240,7 +240,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is not easy, because culture touches identity. When our habits feel challenged, it can feel personal even when nobody meant harm.",
-            "zh": "它確實不容易，因為文化會碰到身份認同。當我們的習慣被碰到時，就算沒人有惡意，也很容易覺得那是在碰我們這個人。"
+            "zh": "它確實不容易，因為文化會碰到身分認同。當我們的習慣被碰到時，就算沒人有惡意，也很容易覺得那是在碰我們這個人。"
           },
           {
             "speaker": "b",
@@ -659,8 +659,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "That's true. Food often carries migration, class, gathering, care, religion, and identity without announcing all of that directly.",
-            "zh": "沒錯。食物常常默默背著移動史、階級、標記、照顧、宗教和身份認同，但它不會直接把這些全部講出來。"
+            "en": "That's true. Food often carries migration, class, celebration, care, religion, and identity without announcing all of that directly.",
+            "zh": "沒錯。食物常常默默背著移動史、階級、慶祝、照顧、宗教和身分認同，但它不會直接把這些全部講出來。"
           },
           {
             "speaker": "b",
@@ -759,7 +759,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful line.",
+            "en": "That is a beautiful line.",
             "zh": "這句很美。"
           },
           {
@@ -1188,7 +1188,7 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to travel.",
+            "en": "That is a beautiful way to travel.",
             "zh": "這是一種很美的旅行方式。"
           },
           {
@@ -1716,7 +1716,7 @@ export const WEEK_47: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "If you want something simpler, say: \"It sounded fine in English, but it stopped sounding like the same person.\" That is powerful in identity conversations.",
-            "zh": "如果你想更簡單一點，可以說：「It sounded fine in English, but it stopped sounding like the same person.」這句在身份和語氣的討論裡很有力。"
+            "zh": "如果你想更簡單一點，可以說：「It sounded fine in English, but it stopped sounding like the same person.」這句在身分和語氣的討論裡很有力。"
           },
           {
             "speaker": "b",
@@ -2149,8 +2149,8 @@ export const WEEK_47: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The useful version should fit in your mouth. It should, because the skill is only becoming more necessary from here.",
-            "zh": "好用的版本應該讓你說得順口。它本來就該留下來，因為從現在往後，這個能力只會越來越必要。"
+            "en": "I hope it stays with you. It should, because the skill is only becoming more necessary from here.",
+            "zh": "希望它真的留在你心裡。它也值得留下來，因為從現在往後，這個能力只會越來越必要。"
           }
         ]
       }

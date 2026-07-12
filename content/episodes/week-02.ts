@@ -865,7 +865,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful piece of self-knowledge.",
+            "en": "That is a useful piece of self-knowledge.",
             "zh": "這種自我認識很實用。"
           },
           {
@@ -1679,7 +1679,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a perfect analogy. And nobody tunes an instrument in a hurry.",
+            "en": "That is a perfect analogy. And nobody tunes an instrument in a hurry.",
             "zh": "這個比喻太好了。從來沒有人是用趕的在調音的。"
           }
         ]
@@ -1931,7 +1931,7 @@ export const WEEK_02: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as an interesting reframe — the broken morning as information.",
+            "en": "That is an interesting reframe — the broken morning as information.",
             "zh": "這個角度很有意思：把爆炸的早晨當成情報來源。"
           },
           {

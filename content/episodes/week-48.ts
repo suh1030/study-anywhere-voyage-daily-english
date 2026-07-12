@@ -57,7 +57,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It matters because identity does not stay abstract when language enters it. It becomes audible.",
-            "zh": "這件事很重要，因為當語言碰到身份時，身份就不再抽象，它會變得聽得見。"
+            "zh": "這件事很重要，因為當語言碰到身分時，身分就不再抽象，它會變得聽得見。"
           }
         ]
       },
@@ -110,7 +110,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Mostly, yes. Identity is not only about fluency. It is also about where a language lets you breathe.",
-            "zh": "大致上是。身份認同不只跟流利度有關，也跟哪一種語言讓你比較能呼吸有關。"
+            "zh": "大致上是。身分認同不只跟流利度有關，也跟哪一種語言讓你比較能呼吸有關。"
           }
         ]
       },
@@ -139,7 +139,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could keep it simple and say, \"My first language feels like instinct, and my second language feels like construction.\" That is strong when talking about effort and identity.",
-            "zh": "另一句也很好：「My first language feels like instinct, and my second language feels like construction.」這句很適合談努力和身份。"
+            "zh": "另一句也很好：「My first language feels like instinct, and my second language feels like construction.」這句很適合談努力和身分。"
           },
           {
             "speaker": "b",
@@ -227,7 +227,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So does speaking more than one language split identity or expand it?",
-            "zh": "所以多說一種語言，會把身份切裂，還是把它擴大？"
+            "zh": "所以多說一種語言，會把身分切裂，還是把它擴大？"
           },
           {
             "speaker": "a",
@@ -263,7 +263,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The idea that identity can expand rather than split — that actually reassures me.",
-            "zh": "身份是擴大而不是分裂的這個想法，真的讓我比較安心。"
+            "zh": "身分是擴大而不是分裂的這個想法，真的讓我比較安心。"
           },
           {
             "speaker": "a",
@@ -737,7 +737,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that is part of why it shapes identity so deeply.",
-            "zh": "沒錯。而這也是它會那麼深地塑造身份的原因之一。"
+            "zh": "沒錯。而這也是它會那麼深地塑造身分的原因之一。"
           }
         ]
       },
@@ -939,7 +939,7 @@ export const WEEK_48: Episode[] = [
       },
       {
         "en": "earned sensitivity",
-        "zh": "因為經歷語言與身份拉扯而長出的敏感度",
+        "zh": "因為經歷語言與身分拉扯而長出的敏感度",
         "example": "Her earned sensitivity made her a better listener."
       }
     ]
@@ -958,7 +958,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Why does storytelling matter so much to identity?",
-            "zh": "為什麼說故事對身份這麼重要？"
+            "zh": "為什麼說故事對身分這麼重要？"
           },
           {
             "speaker": "a",
@@ -970,7 +970,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So identity is not only lived. It is told.",
-            "zh": "所以身份不只是活出來，也會被說出來。"
+            "zh": "所以身分不只是活出來，也會被說出來。"
           },
           {
             "speaker": "a",
@@ -994,7 +994,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So narrative identity is shaped by interpretation.",
-            "zh": "所以敘事身份其實是被解讀塑造的。"
+            "zh": "所以敘事身分其實是被解讀塑造的。"
           },
           {
             "speaker": "a",
@@ -1129,13 +1129,13 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "The facts stay the same, but the identity inside them shifts.",
-            "zh": "事實沒有變，但裡面的身份位置變了。"
+            "zh": "事實沒有變，但裡面的身分位置變了。"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "True. Narrative identity often changes not because memory changes, but because meaning does.",
-            "zh": "沒錯。敘事身份很多時候不是記憶變了，是意義變了。"
+            "zh": "沒錯。敘事身分很多時候不是記憶變了，是意義變了。"
           },
           {
             "speaker": "b",
@@ -1189,7 +1189,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So narrative identity is not fixed at all.",
-            "zh": "所以敘事身份根本不是固定的。"
+            "zh": "所以敘事身分根本不是固定的。"
           },
           {
             "speaker": "a",
@@ -1393,7 +1393,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You might put it this way: \"Once I had language for it, the experience stopped feeling so vague.\" That works for emotion and identity topics too.",
-            "zh": "另一句也很好：「Once I had language for it, the experience stopped feeling so vague.」這句在情緒和身份主題裡也很好用。"
+            "zh": "另一句也很好：「Once I had language for it, the experience stopped feeling so vague.」這句在情緒和身分主題裡也很好用。"
           },
           {
             "speaker": "b",
@@ -1516,7 +1516,7 @@ export const WEEK_48: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a meaningful way to end.",
+            "en": "That is a meaningful way to end.",
             "zh": "這是一個很有意思的結尾。"
           },
           {
@@ -1609,7 +1609,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes writing sound like a private rehearsal for identity.",
-            "zh": "這讓寫作聽起來像一種身份的私下排練。"
+            "zh": "這讓寫作聽起來像一種身分的私下排練。"
           },
           {
             "speaker": "a",
@@ -1709,7 +1709,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You could keep it simple and say, \"I sound more like myself when I have time to shape the sentence.\" That works well when you want to talk about pace and identity.",
-            "zh": "另一句也很好：「I sound more like myself when I have time to shape the sentence.」如果你想談節奏和身份，這句很好用。"
+            "zh": "另一句也很好：「I sound more like myself when I have time to shape the sentence.」如果你想談節奏和身分，這句很好用。"
           },
           {
             "speaker": "b",
@@ -1762,7 +1762,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The page reflects back more than memory. It reflects back emphasis, and emphasis changes identity.",
-            "zh": "沒錯。紙面反射回來的不只是記憶，也包括重點的配置；而重點一改，身份感就會跟著改。"
+            "zh": "沒錯。紙面反射回來的不只是記憶，也包括重點的配置；而重點一改，身分感就會跟著改。"
           },
           {
             "speaker": "b",
@@ -2020,7 +2020,7 @@ export const WEEK_48: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Another natural line is, \"Expression gives me a way to meet other people without leaving myself behind.\" That works beautifully for identity topics.",
-            "zh": "另一句也很美：「Expression gives me a way to meet other people without leaving myself behind.」它很適合身份主題。"
+            "zh": "另一句也很美：「Expression gives me a way to meet other people without leaving myself behind.」它很適合身分主題。"
           },
           {
             "speaker": "b",

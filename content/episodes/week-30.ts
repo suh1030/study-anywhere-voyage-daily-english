@@ -561,7 +561,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful defense of books.",
+            "en": "That is a beautiful defense of books.",
             "zh": "這真的是很美的一段替書辯護。"
           },
           {
@@ -759,7 +759,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong sentence.",
+            "en": "That is a strong sentence.",
             "zh": "這句很有力。"
           },
           {
@@ -890,7 +890,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I like that identity much more than just calling myself productive.",
-            "zh": "比起只說自己很有效率，我更喜歡那個身份。"
+            "zh": "比起只說自己很有效率，我更喜歡那個身分。"
           },
           {
             "speaker": "a",
@@ -1099,7 +1099,7 @@ export const WEEK_30: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to talk about unfinished thinking.",
+            "en": "That is a beautiful way to talk about unfinished thinking.",
             "zh": "這真的是很美地在說那種還沒完成的思考。"
           },
           {
@@ -2083,7 +2083,7 @@ export const WEEK_30: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. A lifelong reading life is adaptable. It bends instead of breaking, and that is how a reading identity survives.",
-            "zh": "完全沒錯。一個能維持一輩子的閱讀生活，是會調整的。它會彎，不會直接斷，而讀者這個身份感也就是這樣活下來的。"
+            "zh": "完全沒錯。一個能維持一輩子的閱讀生活，是會調整的。它會彎，不會直接斷，而讀者這個身分感也就是這樣活下來的。"
           },
           {
             "speaker": "b",
@@ -2188,7 +2188,7 @@ export const WEEK_30: Episode[] = [
       },
       {
         "en": "reading identity",
-        "zh": "一個人把自己視為讀者、願意長期和書相處的身份感",
+        "zh": "一個人把自己視為讀者、願意長期和書相處的身分感",
         "example": "He stopped chasing quantity and started building a steadier reading identity."
       },
       {

@@ -573,7 +573,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful reason to keep going back.",
+            "en": "That is a beautiful reason to keep going back.",
             "zh": "這真的是一個很美、很值得反覆回去的理由。"
           },
           {
@@ -889,7 +889,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a lovely sentence.",
+            "en": "That is a lovely sentence.",
             "zh": "這句真的很可愛。"
           },
           {
@@ -1497,7 +1497,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong answer.",
+            "en": "That is a strong answer.",
             "zh": "這個答案很有力量。"
           },
           {
@@ -1521,7 +1521,7 @@ export const WEEK_33: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a lovely place to end.",
+            "en": "That is a lovely place to end.",
             "zh": "這真的是一個很好的收尾。"
           },
           {

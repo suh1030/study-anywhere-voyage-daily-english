@@ -390,8 +390,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the emotional price is sometimes paid long before the actual bill. I am not sure if that covers the messy middle.",
-            "zh": "所以很多時候，情緒上的代價比帳單本身更早出現。 只是我不確定這樣有沒有把中間那段混亂也講進去。"
+            "en": "So the emotional price is sometimes paid long before the actual bill. Though maybe I am oversimplifying it.",
+            "zh": "所以很多時候，情緒上的代價比帳單本身更早出現。不過也許是我把它講得太簡單了。"
           },
           {
             "speaker": "a",
@@ -999,8 +999,8 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. Difficult does not have to mean doomed.",
-            "zh": "想一個真實的當下。困難不代表注定失敗。"
+            "en": "Hold on to that. Difficult does not have to mean doomed.",
+            "zh": "把這句話留著。困難不代表注定失敗。"
           }
         ]
       },
@@ -1504,7 +1504,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a line I want to remember.",
+            "en": "That is a line I want to remember.",
             "zh": "這句我真的想記住。"
           },
           {
@@ -2048,7 +2048,7 @@ export const WEEK_39: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Good money language should reduce noise, not add to it.",
+            "en": "Here is how I would sum it up. Good money language should reduce noise, not add to it.",
             "zh": "我自己會這樣講：好的金錢語言應該減少雜音，不是增加雜音。"
           }
         ]

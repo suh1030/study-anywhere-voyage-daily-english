@@ -103,7 +103,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful definition of care.",
+            "en": "That is a beautiful definition of care.",
             "zh": "這真的是很美的照顧定義。"
           },
           {
@@ -344,7 +344,7 @@ export const WEEK_31: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. That is what makes the sentence work. Animals can bypass cynicism.",
-            "zh": "這裡值得畫一條線。動物常常會直接繞過人的那層防備和嘲諷。"
+            "zh": "對，這正是那句話有力的原因。動物常常會直接繞過人的那層防備和嘲諷。"
           },
           {
             "speaker": "b",
@@ -467,7 +467,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great line.",
+            "en": "That is a great line.",
             "zh": "這句真的很棒。"
           },
           {
@@ -889,7 +889,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to end the conversation.",
+            "en": "That is a beautiful way to end the conversation.",
             "zh": "這真的是一個很好的收尾。"
           },
           {
@@ -1194,7 +1194,7 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good place to start.",
+            "en": "That is a good place to start.",
             "zh": "那就是一個很好的開始。"
           },
           {
@@ -1416,8 +1416,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. It keeps the power difference visible.",
-            "zh": "想一個真實的當下。它會讓那個權力差一直留在畫面裡。"
+            "en": "That detail matters. It keeps the power difference visible.",
+            "zh": "這個細節很重要。它會讓那個權力差一直留在畫面裡。"
           }
         ]
       },
@@ -2101,8 +2101,8 @@ export const WEEK_31: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Possibility matters.",
-            "zh": "這是我真的會拿來用的版本。做得到的感覺真的很重要。"
+            "en": "That is the heart of it. Possibility matters.",
+            "zh": "核心就在這裡。做得到的感覺真的很重要。"
           }
         ]
       },

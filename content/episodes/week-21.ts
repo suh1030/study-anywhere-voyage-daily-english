@@ -1919,7 +1919,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's where pressure stops being situational and starts becoming identity-shaped.",
-            "zh": "那就是壓力不再只是情境，而開始變成身份感的一部分的地方。"
+            "zh": "那就是壓力不再只是情境，而開始變成身分感的一部分的地方。"
           },
           {
             "speaker": "b",
@@ -2131,7 +2131,7 @@ export const WEEK_21: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Indeed. A hard week can be real without becoming your identity.",
-            "zh": "完全沒錯。艱難的一週可以是真的，但它不需要變成你的身份。"
+            "zh": "完全沒錯。艱難的一週可以是真的，但它不需要變成你的身分。"
           },
           {
             "speaker": "b",

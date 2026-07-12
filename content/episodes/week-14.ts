@@ -1181,7 +1181,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good distinction. That is not inauthenticity. That is range.",
+            "en": "That is a good distinction. That is not inauthenticity. That is range.",
             "zh": "這是個好的區分。那不是不真實，那是廣度。"
           },
           {
@@ -1468,7 +1468,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful reframe. Pausing is not weakness. It is poise.",
+            "en": "That is a useful reframe. Pausing is not weakness. It is poise.",
             "zh": "這是個有用的重新框架。停頓不是軟弱，是從容。"
           },
           {
@@ -1970,7 +1970,7 @@ export const WEEK_14: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful reframe. I am protecting myself from the awkward moment, not them from pain.",
+            "en": "That is a useful reframe. I am protecting myself from the awkward moment, not them from pain.",
             "zh": "這樣一換角度就清楚了。我其實是在保護自己躲開那個尷尬時刻，而不是在保護他們不受傷。"
           },
           {

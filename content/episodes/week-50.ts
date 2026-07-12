@@ -573,7 +573,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong reminder.",
+            "en": "That is a strong reminder.",
             "zh": "這個提醒很強。"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great way to end this episode.",
+            "en": "That is a great way to end this episode.",
             "zh": "這是個很棒的收尾。"
           },
           {
@@ -2143,7 +2143,7 @@ export const WEEK_50: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful ending.",
+            "en": "That is a beautiful ending.",
             "zh": "這是個很美的結尾。"
           },
           {

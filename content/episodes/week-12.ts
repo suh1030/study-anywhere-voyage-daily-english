@@ -150,7 +150,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. English is most convincing when it is specific. Listeners do not need the full picture — they just need one true detail.",
+            "en": "Here is how I would put it. English is most convincing when it is specific. Listeners do not need the full picture — they just need one true detail.",
             "zh": "我自己會這樣講：英文最有說服力的時候，就是它很具體的時候。聽的人不需要完整全貌，只需要一個真實的細節。"
           },
           {
@@ -2049,7 +2049,7 @@ export const WEEK_12: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that is exactly when chosen family tends to form. When you are away from your original household and building an adult identity.",
-            "zh": "而那正是自己選的家人最容易形成的時候。當你離開原本的家，在建立成年人的身份認同。"
+            "zh": "而那正是自己選的家人最容易形成的時候。當你離開原本的家，在建立成年人的身分認同。"
           }
         ]
       },
@@ -2130,7 +2130,7 @@ export const WEEK_12: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good definition. Broad enough to include chosen family and specific enough to exclude anyone who is just physically present.",
+            "en": "That is a good definition. Broad enough to include chosen family and specific enough to exclude anyone who is just physically present.",
             "zh": "這是個好定義。夠寬廣，可以包含自己選的家人；也夠具體，可以排除那些只是人在場的人。"
           },
           {

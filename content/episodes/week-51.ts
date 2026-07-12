@@ -344,7 +344,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Without vision, a goal can become a task that drains you. With vision, the same goal can feel connected to identity and direction.",
-            "zh": "沒錯。沒有願景的時候，目標很容易變成只會耗你的任務；有了願景，同樣的目標就會和身份和方向感連起來。"
+            "zh": "沒錯。沒有願景的時候，目標很容易變成只會耗你的任務；有了願景，同樣的目標就會和身分和方向感連起來。"
           },
           {
             "speaker": "b",
@@ -397,7 +397,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "This deserves a second look: Another problem is that every setback starts feeling like identity collapse, because the goal is carrying too much of the whole story.",
-            "zh": "這裡值得多看一眼：另一個問題是：每一次挫折都會變得像身份崩潰，因為那個目標扛了太多整個人生故事。"
+            "zh": "這裡值得多看一眼：另一個問題是：每一次挫折都會變得像身分崩潰，因為那個目標扛了太多整個人生故事。"
           },
           {
             "speaker": "b",
@@ -725,7 +725,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It is patient, and also smarter. People overestimate intensity and underestimate how much identity shifts through small repeated evidence.",
-            "zh": "它不只更有耐心，也更聰明。很多人高估強度，卻低估了身份其實是怎麼透過小小的重複證據慢慢移動的。"
+            "zh": "它不只更有耐心，也更聰明。很多人高估強度，卻低估了身分其實是怎麼透過小小的重複證據慢慢移動的。"
           },
           {
             "speaker": "b",
@@ -872,7 +872,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great way to say it.",
+            "en": "That is a great way to say it.",
             "zh": "這個說法很好。"
           },
           {
@@ -884,7 +884,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong ending for this episode.",
+            "en": "That is a strong ending for this episode.",
             "zh": "這是這集很強的結尾。"
           },
           {
@@ -1048,7 +1048,7 @@ export const WEEK_51: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That is why people need honest language around work, not just celebratory language.",
-            "zh": "對。也正因如此，人需要一套誠實談工作的語言，不只是標記用的語言。"
+            "zh": "對。也正因如此，人需要一套能誠實談工作的語言，不只是慶祝、講好話用的語言。"
           }
         ]
       },
@@ -1100,8 +1100,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. It helps people talk about ambition without losing honesty.",
-            "zh": "想一個真實的當下。它會幫人談野心，同時又不失去誠實。"
+            "en": "Keep that phrase handy. It helps people talk about ambition without losing honesty.",
+            "zh": "把這個說法放在手邊。它會幫人談野心，同時又不失去誠實。"
           }
         ]
       },
@@ -1990,8 +1990,8 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. It should.",
-            "zh": "如果你要跟別人講這件事，可以從這裡開始。它本來就該被重新定義。"
+            "en": "It should be redefined. Most of us inherited the old definition without ever examining it.",
+            "zh": "它本來就該被重新定義。我們大多數人都是直接繼承了舊定義，從來沒有真正檢視過它。"
           }
         ]
       },
@@ -2131,7 +2131,7 @@ export const WEEK_51: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to end this week.",
+            "en": "That is a beautiful way to end this week.",
             "zh": "這是個很美的結尾。"
           },
           {

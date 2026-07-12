@@ -549,7 +549,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful sentence.",
+            "en": "That is a beautiful sentence.",
             "zh": "這句話真的很美。"
           },
           {
@@ -783,7 +783,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to explain why some photos feel more poetic.",
+            "en": "That is a beautiful way to explain why some photos feel more poetic.",
             "zh": "這真的很適合拿來解釋，為什麼有些照片會比較有詩意。"
           },
           {
@@ -1410,7 +1410,7 @@ export const WEEK_28: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence I will actually use.",
+            "en": "That is a sentence I will actually use.",
             "zh": "這句我真的會拿去用。"
           },
           {

@@ -257,7 +257,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great place to start the week.",
+            "en": "That is a great place to start the week.",
             "zh": "這真的是很好的開週方式。"
           },
           {
@@ -573,7 +573,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good note to carry into the week.",
+            "en": "That is a good note to carry into the week.",
             "zh": "這真的是很好的開週提醒。"
           },
           {
@@ -836,7 +836,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence more people need.",
+            "en": "That is a sentence more people need.",
             "zh": "這句真的該讓更多人聽到。"
           },
           {
@@ -2136,7 +2136,7 @@ export const WEEK_34: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a lovely idea.",
+            "en": "That is a lovely idea.",
             "zh": "這個想法真的很好。"
           },
           {

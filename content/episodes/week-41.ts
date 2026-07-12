@@ -238,7 +238,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a clearer definition than most people give.",
+            "en": "That is a clearer definition than most people give.",
             "zh": "這真的比很多人會給的定義清楚太多了。"
           },
           {
@@ -532,7 +532,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Balance matters when identity and history are both involved.",
-            "zh": "當身份和歷史都被拉進來時，平衡就很重要。"
+            "zh": "當身分和歷史都被拉進來時，平衡就很重要。"
           },
           {
             "speaker": "b",
@@ -561,7 +561,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence worth keeping.",
+            "en": "That is a sentence worth keeping.",
             "zh": "這真的是值得留下來的一句話。"
           },
           {
@@ -672,7 +672,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can feel physical because the mind is not the only thing attached to a belief. Identity is often attached too.",
-            "zh": "它會有身體感，是因為綁在信念上的不只有思考，常常還有身份感。"
+            "zh": "它會有身體感，是因為綁在信念上的不只有思考，常常還有身分感。"
           },
           {
             "speaker": "b",
@@ -701,7 +701,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Because contradictory evidence does not only threaten an idea. It can threaten a whole identity structure.",
-            "zh": "因為互相矛盾的證據威脅的常常不只是一個觀點，而是整個身份結構。"
+            "zh": "因為互相矛盾的證據威脅的常常不只是一個觀點，而是整個身分結構。"
           },
           {
             "speaker": "b",
@@ -713,7 +713,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's true. Identity defense is powerful because people want continuity more than they want embarrassment.",
-            "zh": "完全沒錯。身份防衛很強，是因為人通常更想要連續感，而不是尷尬地承認自己錯了。"
+            "zh": "完全沒錯。身分防衛很強，是因為人通常更想要連續感，而不是尷尬地承認自己錯了。"
           },
           {
             "speaker": "b",
@@ -724,8 +724,8 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Intellectual humility grows faster when you understand the emotional cost of updating a belief.",
-            "zh": "如果是我，我會這樣說。當你理解更新信念的情緒代價時，智識上的謙卑反而會長得更快。"
+            "en": "Exactly. Intellectual humility grows faster when you understand the emotional cost of updating a belief.",
+            "zh": "就是這樣。當你理解更新信念的情緒代價時，智識上的謙卑反而會長得更快。"
           },
           {
             "speaker": "b",
@@ -865,7 +865,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong ending.",
+            "en": "That is a strong ending.",
             "zh": "這真的是很有力量的收尾。"
           },
           {
@@ -1193,7 +1193,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful reason to care about it.",
+            "en": "That is a beautiful reason to care about it.",
             "zh": "這真的是一個很美的理由去在乎這件事。"
           },
           {
@@ -1339,7 +1339,7 @@ export const WEEK_41: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So disagreement turns into identity threat very quickly.",
-            "zh": "所以分歧很快就會轉成身份威脅。"
+            "zh": "所以分歧很快就會轉成身分威脅。"
           },
           {
             "speaker": "a",
@@ -1492,7 +1492,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a better outcome than just winning.",
+            "en": "That is a better outcome than just winning.",
             "zh": "這真的比單純贏一場爭論好多了。"
           },
           {
@@ -2142,7 +2142,7 @@ export const WEEK_41: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good note to end on.",
+            "en": "That is a good note to end on.",
             "zh": "這是一個很好的收尾點。"
           },
           {

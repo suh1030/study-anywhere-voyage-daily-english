@@ -904,7 +904,7 @@ export const WEEK_27: Episode[] = [
     "keyPhrases": [
       {
         "en": "plan an itinerary",
-        "zh": "先替旅行做出行程安排和順序",
+        "zh": "事先排好旅行的行程和先後順序",
         "example": "Planning an itinerary helped at first, but it only worked once she stopped treating it like a law."
       },
       {

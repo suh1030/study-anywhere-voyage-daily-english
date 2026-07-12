@@ -50,7 +50,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful distinction. Anxiety feels like certainty even when it is not.",
+            "en": "That is a useful distinction. Anxiety feels like certainty even when it is not.",
             "zh": "這個區分很實用。焦慮很像確定感，即使它根本不是。"
           },
           {
@@ -144,7 +144,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful difference. What about expressing optimism without sounding naive?",
+            "en": "That is a useful difference. What about expressing optimism without sounding naive?",
             "zh": "這個差別很有用。那如果想表達樂觀，但又不想聽起來太天真，要怎麼說？"
           },
           {
@@ -742,7 +742,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good question. It makes the stuck feeling smaller.",
+            "en": "That is a good question. It makes the stuck feeling smaller.",
             "zh": "這是個好問題。它讓那種卡住的感覺變小了。"
           }
         ]
@@ -1029,7 +1029,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the question is not whether my industry survives. It is whether my specific role survives. Tell me if I am smoothing over the hard part.",
-            "zh": "所以問題不是我的行業能不能生存，是我具體的職位能不能生存。 如果我把難的地方輕描淡寫了，要告訴我。"
+            "zh": "所以問題不是我的產業能不能生存，是我具體的職位能不能生存。如果我把難的地方輕描淡寫了，要告訴我。"
           },
           {
             "speaker": "a",
@@ -1123,7 +1123,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is there a practical approach to staying relevant when your industry is changing quickly?",
-            "zh": "當你的行業快速變化時，有沒有什麼實際的方法可以保持競爭力？"
+            "zh": "當你的產業快速變化時，有沒有什麼實際的方法可以保持競爭力？"
           },
           {
             "speaker": "a",
@@ -1458,7 +1458,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Identity and action feed each other.",
-            "zh": "身份認同和行動是互相滋養的。"
+            "zh": "身分認同和行動是互相滋養的。"
           },
           {
             "speaker": "a",
@@ -1470,7 +1470,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So the identity shift can come before the skill is fully developed. Does that match what you mean?",
-            "zh": "所以身份認同的轉變可以在技能完全發展之前就發生。 這樣理解符合你的意思嗎？"
+            "zh": "所以身分認同的轉變可以在技能完全發展之前就發生。 這樣理解符合你的意思嗎？"
           },
           {
             "speaker": "a",
@@ -2048,7 +2048,7 @@ export const WEEK_42: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good reminder that tense choice actually carries meaning. Present continuous really does signal something still in motion.",
+            "en": "That is a good reminder that tense choice actually carries meaning. Present continuous really does signal something still in motion.",
             "zh": "這提醒了我時態的選擇確實帶有意義。現在進行時確實表示某件事還在進行中。"
           },
           {
@@ -2137,7 +2137,7 @@ export const WEEK_42: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Usually something about investing more in relationships, or taking a creative risk I was afraid of. Almost never the thing that felt urgent in the moment.",
-            "zh": "通常是關於在人際關係上投入更多，或者去冒一個我害怕的創意風險。幾乎從來不是那個在當下感覺緊急的事情。"
+            "zh": "通常是想在人際關係上投入更多，或者去冒一個我害怕的創意風險。幾乎從來不是那個在當下感覺緊急的事情。"
           },
           {
             "speaker": "b",

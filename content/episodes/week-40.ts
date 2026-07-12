@@ -97,8 +97,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. People need more permission to be awkward while becoming someone new.",
-            "zh": "想一個真實的場景。人在慢慢成為一個新的自己時，真的需要更多被允許不那麼順的空間。"
+            "en": "I feel that too. People need more permission to be awkward while becoming someone new.",
+            "zh": "我也有同感。人在慢慢成為一個新的自己時，真的需要更多被允許不那麼順的空間。"
           },
           {
             "speaker": "b",
@@ -525,7 +525,7 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong reminder.",
+            "en": "That is a strong reminder.",
             "zh": "這真的是很強的提醒。"
           },
           {
@@ -1040,8 +1040,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. People need permission to believe their earlier years still count, even if the path changes.",
-            "zh": "如果要跟別人講，可以從這裡開始：人需要被允許相信，就算路改了，前面的那些年也還是算數。"
+            "en": "One good place to start is this: people need permission to believe their earlier years still count, even if the path changes.",
+            "zh": "有個很好的起點是這句：人需要被允許相信，就算路改了，前面的那些年也還是算數。"
           },
           {
             "speaker": "b",
@@ -1421,8 +1421,8 @@ export const WEEK_40: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. It gives people language for a very common fear.",
-            "zh": "這是我真的會拿來用的版本。它會給人一種很常見的害怕一個可以說出來的方式。"
+            "en": "That is exactly why it works. It gives people language for a very common fear.",
+            "zh": "它會有用就是因為這樣。它給了人一種方式，把一個很常見的害怕說出口。"
           }
         ]
       },
@@ -1546,7 +1546,7 @@ export const WEEK_40: Episode[] = [
       },
       {
         "en": "flexible identity",
-        "zh": "外在可以調整，但核心不會輕易散掉的身份感",
+        "zh": "外在可以調整，但核心不會輕易散掉的身分感",
         "example": "A flexible identity helped him adapt better."
       },
       {
@@ -1882,7 +1882,7 @@ export const WEEK_40: Episode[] = [
       },
       {
         "en": "unused identity",
-        "zh": "明明已經不再活著，卻還一直被帶在身上的舊身份感",
+        "zh": "明明已經不再活著，卻還一直被帶在身上的舊身分感",
         "example": "He was still carrying an unused identity."
       }
     ]

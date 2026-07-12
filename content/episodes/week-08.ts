@@ -1655,8 +1655,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Yes. To treat someone can mean affection, gratitude, gathering, or seniority, depending on the context.",
-            "zh": "對。請客可能代表的是疼愛、感謝、標記，或在某些情境裡也可能是資歷上的位置。"
+            "en": "Yes. To treat someone can mean affection, gratitude, celebration, or seniority, depending on the context.",
+            "zh": "對。請客可能代表的是疼愛、感謝、慶祝，或在某些情境裡也可能是資歷上的位置。"
           },
           {
             "speaker": "b",
@@ -1785,7 +1785,7 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a perfect way to put it.",
+            "en": "That is a perfect way to put it.",
             "zh": "這個說法非常準。"
           },
           {
@@ -2096,8 +2096,8 @@ export const WEEK_08: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "The useful version should fit in your mouth. Anything that keeps charging you after your attention has left deserves a regular review.",
-            "zh": "真正好用的版本，要能順口說出來。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
+            "en": "It deserves that second look. Anything that keeps charging you after your attention has left deserves a regular review.",
+            "zh": "它確實值得你多看一眼。只要一樣東西會在你的注意力早就離開後繼續向你收費，它就值得被定期檢查。"
           }
         ]
       },

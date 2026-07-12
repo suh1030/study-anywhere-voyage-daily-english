@@ -209,7 +209,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence worth remembering.",
+            "en": "That is a sentence worth remembering.",
             "zh": "這句真的值得記住。"
           },
           {
@@ -361,7 +361,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "You should. Identity stretch often happens in boring weeks, not only in dramatic breakthroughs.",
-            "zh": "你本來就該尊重。身份伸展很多時候是在那些普通到有點無聊的星期裡發生，不只是在大突破裡。"
+            "zh": "你本來就該尊重。身分伸展很多時候是在那些普通到有點無聊的星期裡發生，不只是在大突破裡。"
           },
           {
             "speaker": "b",
@@ -860,7 +860,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Let them become guidance, not identity. Let them inform you without becoming the only story you know how to tell.",
-            "zh": "要讓它們變成指引，而不是整個身份。讓它們能提供資訊，但不要變成你唯一會講的故事。"
+            "zh": "要讓它們變成指引，而不是整個身分。讓它們能提供資訊，但不要變成你唯一會講的故事。"
           },
           {
             "speaker": "b",
@@ -1338,8 +1338,8 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the pain is pointing at a value, not only a mistake. I am not sure if that covers the messy middle.",
-            "zh": "所以那個痛指向的，不只是錯誤，也是一個價值。我不太確定這樣有沒有涵蓋到中間那段混亂。"
+            "en": "So the pain is pointing at a value, not only a mistake. Or is that too tidy?",
+            "zh": "所以那個痛指向的，不只是錯誤，也是一個價值。還是這樣講太整齊了？"
           },
           {
             "speaker": "a",
@@ -1784,7 +1784,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good reminder.",
+            "en": "That is a good reminder.",
             "zh": "這真的是很好的提醒。"
           },
           {
@@ -1820,7 +1820,7 @@ export const WEEK_43: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Identity residue matters because what you leave behind still shapes how much freedom you feel in the next chapter.",
-            "zh": "身份殘留很重要，因為你留下什麼不放，會直接影響你在下一章到底感覺自己有多少自由。"
+            "zh": "身分殘留很重要，因為你留下什麼不放，會直接影響你在下一章到底感覺自己有多少自由。"
           },
           {
             "speaker": "b",
@@ -1862,7 +1862,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "identity residue",
-        "zh": "某種已經不再適合，卻還留在身上的舊身份殘留",
+        "zh": "某種已經不再適合，卻還留在身上的舊身分殘留",
         "example": "Identity residue was making the transition heavier."
       },
       {
@@ -1872,7 +1872,7 @@ export const WEEK_43: Episode[] = [
       },
       {
         "en": "lingering loyalty",
-        "zh": "對過去某種模式或身份還有情感忠誠，因而很難放下",
+        "zh": "對過去某種模式或身分還有情感忠誠，因而很難放下",
         "example": "Lingering loyalty kept him attached to pain."
       },
       {
@@ -2094,7 +2094,7 @@ export const WEEK_43: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good reading of it. The best future plans often sound more caring than heroic.",
+            "en": "That is a good reading of it. The best future plans often sound more caring than heroic.",
             "zh": "這個理解很好。最好的未來計畫，很多時候聽起來比較像照顧，不像英雄式衝刺。"
           },
           {

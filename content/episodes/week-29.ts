@@ -730,7 +730,7 @@ export const WEEK_29: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "And that is fine to notice. The problem is when the snobbery stops you from discovering things that do not fit your current identity.",
-            "zh": "注意到這一點是好事。問題是當那種精英心態阻止你去發現不符合你目前身份框架的東西。"
+            "zh": "注意到這一點是好事。問題是當那種精英心態阻止你去發現不符合你目前身分框架的東西。"
           },
           {
             "speaker": "b",
@@ -904,7 +904,7 @@ export const WEEK_29: Episode[] = [
     "keyPhrases": [
       {
         "en": "attach identity to",
-        "zh": "將身份認同依附於……",
+        "zh": "將身分認同依附於……",
         "example": "She had attached so much identity to her music taste that a bad review of her favorite album felt personal."
       },
       {

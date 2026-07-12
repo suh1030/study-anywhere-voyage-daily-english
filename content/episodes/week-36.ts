@@ -233,7 +233,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good answer.",
+            "en": "That is a good answer.",
             "zh": "這是很好的答案。"
           },
           {
@@ -573,7 +573,7 @@ export const WEEK_36: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good place to stop.",
+            "en": "That is a good place to stop.",
             "zh": "這真的是很好的停點。"
           },
           {

@@ -56,7 +56,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a beautiful way to put it.",
+            "en": "That is a beautiful way to put it.",
             "zh": "這個說法很美。"
           }
         ]
@@ -133,7 +133,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That could fit a family dinner, reunion, or graduation.",
-            "zh": "這句用在家庭里程碑、家庭聚餐或畢業都很適合。"
+            "zh": "這句用在家庭聚餐、家族團聚或畢業都很適合。"
           },
           {
             "speaker": "a",
@@ -192,7 +192,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes, or having cake after someone passes an exam, or lighting a candle for a quiet dinner at home.",
-            "zh": "對，而且或者某人考試過了就一起吃蛋糕，或者在家裡安靜地吃晚餐時點一根蠟燭。"
+            "zh": "對，或者有人考試過了就一起吃塊蛋糕，或者在家安靜吃晚餐時點一根蠟燭。"
           },
           {
             "speaker": "b",
@@ -408,7 +408,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a perfect example. One taste can hold years of family memory.",
+            "en": "That is a perfect example. One taste can hold years of family memory.",
             "zh": "那就是很好的例子。一個味道，就可以裝下很多年的家庭記憶。"
           },
           {
@@ -895,8 +895,8 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For everyday English, try this shape. Giving should feel human, not like a performance test.",
-            "zh": "日常英文可以試試這個句型。送禮本來就該很有人味，不該像一場表現考試。"
+            "en": "It should feel soft. Giving is meant to feel human, not like a performance test.",
+            "zh": "它本來就該是柔軟的。送禮本來就該很有人味，不該像一場表現考試。"
           }
         ]
       }
@@ -1046,7 +1046,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a lovely way to say it.",
+            "en": "That is a lovely way to say it.",
             "zh": "這個說法很美。"
           },
           {
@@ -1140,7 +1140,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful reminder.",
+            "en": "That is a useful reminder.",
             "zh": "這是個很有用的提醒。"
           },
           {
@@ -1231,7 +1231,7 @@ export const WEEK_05: Episode[] = [
       {
         "en": "carry warmth",
         "zh": "帶著明顯的溫暖和關心",
-        "example": "That small gesture carry warmth for the whole evening."
+        "example": "That small gesture carried warmth for the whole evening."
       },
       {
         "en": "everyone in one place",
@@ -1281,7 +1281,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So a gathering meal does more than fill people up.",
-            "zh": "所以一頓聚會傳統餐，不只是把人餵飽而已。"
+            "zh": "所以聚會裡的一頓飯，不只是把人餵飽而已。"
           },
           {
             "speaker": "a",
@@ -1305,7 +1305,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "That makes gathering food sound very deep.",
-            "zh": "這樣一講，聚會傳統食物就變得很深。"
+            "zh": "這樣一講，聚會裡的食物就變得很深。"
           },
           {
             "speaker": "a",
@@ -1481,7 +1481,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So what does gathering food keep alive?",
-            "zh": "那聚會傳統食物最後到底在讓什麼繼續活著？"
+            "zh": "那聚會裡的食物，最後到底在讓什麼繼續活著？"
           },
           {
             "speaker": "a",
@@ -1516,7 +1516,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a lovely way to end this topic.",
+            "en": "That is a lovely way to end this topic.",
             "zh": "這很適合當這個主題的結尾。"
           },
           {
@@ -1638,7 +1638,7 @@ export const WEEK_05: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And what about dance? Why is dancing part of so many community gatherings too?",
-            "zh": "那跳舞呢？為什麼那麼多聚會傳統裡也都會有舞蹈？"
+            "zh": "那跳舞呢？為什麼那麼多社群聚會裡也都會有舞蹈？"
           },
           {
             "speaker": "a",
@@ -1779,7 +1779,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a lovely thought.",
+            "en": "That is a lovely thought.",
             "zh": "這個想法很美。"
           },
           {
@@ -2125,7 +2125,7 @@ export const WEEK_05: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a lovely way to put it.",
+            "en": "That is a lovely way to put it.",
             "zh": "你這樣說真的很美。"
           },
           {
@@ -2183,7 +2183,7 @@ export const WEEK_05: Episode[] = [
       },
       {
         "en": "ordinary life",
-        "zh": "聚會傳統之外、平常每天在過的生活",
+        "zh": "聚會之外、平常每天在過的生活",
         "example": "The goal was to bring warmth back into ordinary life."
       },
       {

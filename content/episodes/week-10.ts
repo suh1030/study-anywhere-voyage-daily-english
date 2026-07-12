@@ -531,8 +531,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. A useful routine should feel repeatable on an ordinary day, not only admirable on a perfect one.",
-            "zh": "想一個真實的當下。真正有用的慣例，應該在普通的一天也重複得下去，而不是只在完美日子裡看起來值得佩服。"
+            "en": "Test it against a real morning. A useful routine should feel repeatable on an ordinary day, not only admirable on a perfect one.",
+            "zh": "拿一個真實的早晨去檢驗它。真正有用的慣例，應該在普通的一天也重複得下去，而不是只在完美日子裡看起來值得佩服。"
           },
           {
             "speaker": "b",
@@ -1152,8 +1152,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the ritual matters because it keeps work from stretching invisibly into the night. I am not sure if that covers the messy middle.",
-            "zh": "所以儀式重要，是因為它能防止工作在你沒發現的情況下，一路拉進整個晚上。我不太確定這樣有沒有講到中間最難的那一段。"
+            "en": "So the ritual matters because it keeps work from stretching invisibly into the night. Or am I making it sound too neat?",
+            "zh": "所以儀式重要，是因為它能防止工作在你沒發現的情況下，一路拉進整個晚上。還是我把它講得太乾淨了？"
           },
           {
             "speaker": "a",
@@ -1522,8 +1522,8 @@ export const WEEK_10: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. That means you are finally asking the weekend for something human instead of something heroic.",
-            "zh": "如果是我，我會這樣說。那代表你終於是在向週末要一種比較像人的東西，而不是要一種英雄任務。"
+            "en": "I would frame it that way too. It means you are finally asking the weekend for something human instead of something heroic.",
+            "zh": "我也會這樣理解。那代表你終於是在向週末要一種比較像人的東西，而不是要一種英雄任務。"
           }
         ]
       }

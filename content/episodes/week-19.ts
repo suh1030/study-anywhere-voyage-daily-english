@@ -1603,7 +1603,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A title change can feel bigger when the role had become part of your identity.",
-            "zh": "如果那個角色早就變成你身份感的一部分，職稱變動當然就會感覺更大。"
+            "zh": "如果那個角色早就變成你身分感的一部分，職稱變動當然就會感覺更大。"
           },
           {
             "speaker": "b",
@@ -1638,13 +1638,13 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So how do you tell the difference between your role and your identity?",
-            "zh": "所以你要怎麼分辨，什麼是角色，什麼又是身份？"
+            "zh": "所以你要怎麼分辨，什麼是角色，什麼又是身分？"
           },
           {
             "speaker": "a",
             "speakerName": "Mira",
             "en": "A role is what you do on the clock. Identity is bigger than the hours you are paid for.",
-            "zh": "角色比較像是你在上班時間做的事，而身份比那幾個領薪的時數大得多。"
+            "zh": "角色比較像是你在上班時間做的事，而身分比那幾個領薪的時數大得多。"
           },
           {
             "speaker": "b",
@@ -1680,7 +1680,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. The more places your life can stand, the less one workplace has to carry your whole identity.",
-            "zh": "對。你的人生能站立的地方越多，一個職場就越不需要扛起你全部的身份。"
+            "zh": "對。你的人生能站立的地方越多，一個職場就越不需要扛起你全部的身分。"
           }
         ]
       },
@@ -1744,7 +1744,7 @@ export const WEEK_19: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "What is one practical thing people can do so work is not their whole identity?",
-            "zh": "如果想讓工作不要變成自己全部的身份，有沒有一個很實際的做法？"
+            "zh": "如果想讓工作不要變成自己全部的身分，有沒有一個很實際的做法？"
           },
           {
             "speaker": "a",
@@ -1779,7 +1779,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to say it.",
+            "en": "That is a beautiful way to say it.",
             "zh": "這個說法真的很漂亮。"
           },
           {
@@ -1832,7 +1832,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence I needed.",
+            "en": "That is a sentence I needed.",
             "zh": "這句話我真的很需要。"
           },
           {
@@ -2136,7 +2136,7 @@ export const WEEK_19: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a definition I can actually use.",
+            "en": "That is a definition I can actually use.",
             "zh": "這真的是一個我可以拿來用的定義。"
           },
           {

@@ -29,7 +29,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     'Fresh Starts & New Beginnings',
     'Monday',
     'Introduce yourself in English: tell me your name, where you live, and what you do for work or study.',
-    '把三個基本資訊都說到：你的名字、你住哪個城市或地區、你的工作或學生身份。',
+    '把三個基本資訊都說到：你的名字、你住哪個城市或地區、你的工作或學生身分。',
     'Say your name first, then your city or area, then your job title or what you study — one clear sentence each.',
   ),
   q(
@@ -199,7 +199,7 @@ export const CONVERSATIONS_W01_W08: ConversationQuestion[] = [
     'Home & Living Space',
     'Thursday',
     'What kind of relationship do you want with your neighbors: close, polite, or distant? Why?',
-    '先選一種，再說是什麼讓你偏好這樣的邊界——可以談個性、過去的經驗，或你現在的生活狀況。',
+    '先選一種，再說是什麼讓你偏好這樣的邊界，可以談個性、過去的經驗，或你現在的生活狀況。',
     'State your preferred distance clearly, then explain what experience or personality shaped that preference.',
   ),
   q(

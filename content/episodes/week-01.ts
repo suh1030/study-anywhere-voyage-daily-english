@@ -670,7 +670,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a helpful distinction.",
+            "en": "That is a helpful distinction.",
             "zh": "這個區別很有幫助。"
           },
           {
@@ -788,7 +788,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a kinder question.",
+            "en": "That is a kinder question.",
             "zh": "這是一個更溫柔的問題。"
           },
           {
@@ -998,7 +998,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence I want to remember.",
+            "en": "That is a sentence I want to remember.",
             "zh": "這句話我想記住。"
           },
           {
@@ -1039,7 +1039,7 @@ export const WEEK_01: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful line.",
+            "en": "That is a beautiful line.",
             "zh": "這句很美。"
           },
           {

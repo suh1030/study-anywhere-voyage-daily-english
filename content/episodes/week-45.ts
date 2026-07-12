@@ -1492,7 +1492,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great test.",
+            "en": "That is a great test.",
             "zh": "這真的是個很好的測試。"
           },
           {
@@ -1626,8 +1626,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. Many mature shifts begin with that kind of discomfort.",
-            "zh": "想一個真實的時刻：很多成熟的轉變，就是從那種不太舒服的看見開始的。"
+            "en": "Sit with that for a second. Many mature shifts begin with that kind of discomfort.",
+            "zh": "讓那個感覺多停留一下：很多成熟的轉變，就是從那種不太舒服的看見開始的。"
           }
         ]
       },
@@ -1833,8 +1833,8 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. Once leadership reaches that level, it stops being performance and starts becoming character.",
-            "zh": "如果要說給別人聽，可以從這句開始。當領導走到那個層次時，它就不再只是表演，而開始變成性格。"
+            "en": "That is the part worth repeating. Once leadership reaches that level, it stops being performance and starts becoming character.",
+            "zh": "這一段值得一講再講。當領導走到那個層次時，它就不再只是表演，而開始變成性格。"
           }
         ]
       }
@@ -2137,7 +2137,7 @@ export const WEEK_45: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Leadership becomes more real when it returns to ordinary rooms and ordinary people.",
+            "en": "Here is how I would put it. Leadership becomes more real when it returns to ordinary rooms and ordinary people.",
             "zh": "我自己會這樣講：當領導回到普通房間和普通人身上時，它就會變得比較真。"
           },
           {

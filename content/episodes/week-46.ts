@@ -262,7 +262,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful place to begin from.",
+            "en": "That is a beautiful place to begin from.",
             "zh": "那是一個很美的起點。"
           },
           {
@@ -549,7 +549,7 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful way to put it.",
+            "en": "That is a beautiful way to put it.",
             "zh": "這個說法很美。"
           },
           {
@@ -1135,7 +1135,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly. That is the useful point. A helpful leader might say, \"It sounds like we all care about the neighborhood, but we are protecting different parts of it.\" That reframes the room.",
-            "zh": "這裡值得畫一條線。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
+            "zh": "完全正確，這一點很實用。這時一個有幫助的帶領者可以說：「It sounds like we all care about the neighborhood, but we are protecting different parts of it.」這句會重新框住整個房間。"
           },
           {
             "speaker": "b",
@@ -1147,7 +1147,7 @@ export const WEEK_46: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. Once people feel less attacked, they can start bargaining over details instead of identities.",
-            "zh": "對。當人不再覺得自己被攻擊時，大家就有可能開始談細節，而不是開始捍衛身份。"
+            "zh": "對。當人不再覺得自己被攻擊時，大家就有可能開始談細節，而不是開始捍衛身分。"
           },
           {
             "speaker": "b",
@@ -1206,8 +1206,8 @@ export const WEEK_46: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "For everyday English, try this shape. It is also the version that lasts longer than idealism alone.",
-            "zh": "日常英文裡，試試這個形狀的句子。而且這個版本，也比單靠理想主義更撐得久。"
+            "en": "And it is the version that lasts longer than idealism alone.",
+            "zh": "而且這個版本，也比單靠理想主義更撐得久。"
           }
         ]
       }
@@ -1250,7 +1250,7 @@ export const WEEK_46: Episode[] = [
       },
       {
         "en": "detail-level problem solving",
-        "zh": "把衝突從身份對打，拉回到具體細節的處理",
+        "zh": "把衝突從身分對打，拉回到具體細節的處理",
         "example": "Detail-level problem solving helped the group move forward."
       }
     ]

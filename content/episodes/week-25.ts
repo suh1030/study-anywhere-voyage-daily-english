@@ -449,7 +449,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's the danger of fusing your identity too completely with a role or achievement.",
-            "zh": "這就是把你的身份認同與一個角色或成就融合得太完全的危險。"
+            "zh": "這就是把你的身分認同與一個角色或成就融合得太完全的危險。"
           },
           {
             "speaker": "b",
@@ -485,7 +485,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "There is more to lose and no other structure to hold you up. Diversifying your identity is not a luxury — it is protection.",
-            "zh": "可以失去的更多，也沒有其他結構來支撐你。多元化你的身份認同不是奢侈，而是保護。"
+            "zh": "可以失去的更多，也沒有其他結構來支撐你。多元化你的身分認同不是奢侈，而是保護。"
           }
         ]
       },
@@ -872,7 +872,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. That generalization from one event to an identity claim is where failure becomes most dangerous.",
-            "zh": "對。從一件事過度概括到一個身份認定，是失敗最危險的地方。"
+            "zh": "對。從一件事過度概括到一個身分認定，是失敗最危險的地方。"
           },
           {
             "speaker": "b",
@@ -884,13 +884,13 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "The language matters a lot. Specific events are fixable. Identity claims feel permanent.",
-            "zh": "語言非常重要。具體的事件是可以解決的。身份認定感覺是永久的。"
+            "zh": "語言非常重要。具體的事件是可以解決的。身分認定感覺是永久的。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "And if you believe the identity version, you stop trying to change the behavior.",
-            "zh": "如果你相信身份版本，你就停止嘗試改變行為了。"
+            "zh": "如果你相信身分版本，你就停止嘗試改變行為了。"
           },
           {
             "speaker": "a",
@@ -1093,7 +1093,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful reframe. The anxiety is information about my own desires, not a verdict on my progress.",
+            "en": "That is a useful reframe. The anxiety is information about my own desires, not a verdict on my progress.",
             "zh": "這個轉念很有用。那個焦慮透露的其實是我自己想要什麼，而不是在裁定我的進度。"
           },
           {
@@ -1123,7 +1123,7 @@ export const WEEK_25: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Some industries have very aggressive success cultures. Banking, consulting, tech startups. You are expected to signal ambition constantly.",
-            "zh": "某些行業有非常激進的成功文化。銀行、顧問、科技新創公司。你被期望不斷展示雄心。"
+            "zh": "某些產業有非常激進的成功文化。銀行、顧問、科技新創公司。你被期望不斷展示雄心。"
           },
           {
             "speaker": "b",
@@ -1690,7 +1690,7 @@ export const WEEK_25: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a reminder to say it while it still counts. Invisible work is already lonely enough without the recognition also being invisible.",
+            "en": "That is a reminder to say it while it still counts. Invisible work is already lonely enough without the recognition also being invisible.",
             "zh": "這提醒我在它還有意義的時候說出來。隱形工作已經足夠孤獨了，不需要連認可也是隱形的。"
           }
         ]

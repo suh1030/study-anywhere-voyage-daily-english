@@ -384,7 +384,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "I think a lot of people are chasing a version of success that their parents or industry defined, not themselves.",
-            "zh": "我覺得很多人追求的是父母或行業定義的成功，不是他們自己定義的。"
+            "zh": "我覺得很多人追求的是父母或整個產業定義的成功，不是他們自己定義的。"
           },
           {
             "speaker": "a",
@@ -1140,7 +1140,7 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful quality filter.",
+            "en": "That is a useful quality filter.",
             "zh": "那是一個有用的品質過濾器。"
           },
           {
@@ -2007,7 +2007,7 @@ export const WEEK_23: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Is there natural English for talking about career identity without sounding like you are in therapy?",
-            "zh": "有沒有自然的英文可以談論職涯身份，而不聽起來像你在做治療？"
+            "zh": "有沒有自然的英文可以談論職涯身分，而不聽起來像你在做治療？"
           },
           {
             "speaker": "a",
@@ -2024,8 +2024,8 @@ export const WEEK_23: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a strong line. Who I am becoming implies ongoing development rather than a fixed identity. That is accurate.",
-            "zh": "那是一句強有力的話。「who I am becoming」暗示了持續的發展而不是固定的身份。這是準確的。"
+            "en": "That is a strong line. Who I am becoming implies ongoing development rather than a fixed identity. That is accurate.",
+            "zh": "那是一句強有力的話。「who I am becoming」暗示了持續的發展而不是固定的身分。這是準確的。"
           },
           {
             "speaker": "b",
@@ -2183,7 +2183,7 @@ export const WEEK_23: Episode[] = [
       },
       {
         "en": "career identity",
-        "zh": "職涯身份；職業自我認同",
+        "zh": "職涯身分；職業自我認同",
         "example": "She built her career identity around solving problems with language, which helped her explain her path across different industries."
       },
       {

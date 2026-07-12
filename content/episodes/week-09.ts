@@ -203,7 +203,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a beautiful way to say it. Good routines reduce friction between what you need and what you actually do.",
+            "en": "That is a beautiful way to say it. Good routines reduce friction between what you need and what you actually do.",
             "zh": "你這句說得很好。好的日常，就是在降低「你需要什麼」和「你實際會做什麼」之間的摩擦。"
           },
           {
@@ -671,7 +671,7 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a useful phrase because it does not pretend the problem is physical tiredness alone.",
+            "en": "That is a useful phrase because it does not pretend the problem is physical tiredness alone.",
             "zh": "這個說法很好用，因為它不會假裝問題只是身體累而已。"
           },
           {
@@ -1838,8 +1838,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. That is where lasting habits usually begin.",
-            "zh": "想一個真實的當下。持久的習慣，通常就是從那個地方開始的。"
+            "en": "Start from one real moment. That is where lasting habits usually begin.",
+            "zh": "就從一個真實的當下開始。持久的習慣，通常就是從那個地方開始的。"
           }
         ]
       }
@@ -2137,8 +2137,8 @@ export const WEEK_09: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Because habit-building is not a performance of discipline. It is a relationship with repetition.",
-            "zh": "如果是我，我會這樣說。因為建立習慣從來不是一場自律表演，它其實是一段和重複相處的關係。"
+            "en": "Put it this way: habit-building is not a performance of discipline. It is a relationship with repetition.",
+            "zh": "可以這樣說：建立習慣從來不是一場自律表演，它其實是一段和重複相處的關係。"
           },
           {
             "speaker": "b",

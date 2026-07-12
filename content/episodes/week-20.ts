@@ -525,7 +525,7 @@ export const WEEK_20: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great way to think about it.",
+            "en": "That is a great way to think about it.",
             "zh": "這個想法真的很好。"
           },
           {

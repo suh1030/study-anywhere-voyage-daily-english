@@ -27,7 +27,7 @@ export const WEEK_22: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "Yes. That is the line I would hold on to. People were already throwing solutions around before anyone knew what was actually failing.",
-            "zh": "這裡值得畫一條線。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
+            "zh": "這句話值得記住。大家連到底是哪裡失效都還沒弄清楚，就已經開始丟解法了。"
           },
           {
             "speaker": "a",

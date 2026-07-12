@@ -238,7 +238,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful answer.",
+            "en": "That is a beautiful answer.",
             "zh": "這真的是很美的答案。"
           },
           {
@@ -268,8 +268,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. They are probably taking care of you more than you think.",
-            "zh": "想一個真實的場景。它們大概比你以為的更正在照顧你。"
+            "en": "Look around your own room. They are probably taking care of you more than you think.",
+            "zh": "看看你自己的房間。它們其實比你以為的，更在照顧你。"
           }
         ]
       }
@@ -525,7 +525,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful standard.",
+            "en": "That is a useful standard.",
             "zh": "這真的是一個很好用的標準。"
           },
           {
@@ -729,8 +729,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. People should be allowed to do things badly, slowly, and happily.",
-            "zh": "如果要說給別人聽，可以從這句開始。人本來就應該被允許做一些不必做得很好、可以慢慢來，而且還能很開心的事。"
+            "en": "That is the sentence I would lead with. People should be allowed to do things badly, slowly, and happily.",
+            "zh": "如果只能挑一句，我會先講這句：人本來就應該被允許做一些不必做得很好、可以慢慢來，而且還能很開心的事。"
           },
           {
             "speaker": "b",
@@ -877,7 +877,7 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence I want to remember.",
+            "en": "That is a sentence I want to remember.",
             "zh": "這句我很想記住。"
           },
           {
@@ -1421,8 +1421,8 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Here is the version I would actually use. Sometimes the simplest line is the truest one.",
-            "zh": "如果是我，我會這樣說。有時候最簡單的句子反而最真。"
+            "en": "I agree completely. Sometimes the simplest line is the truest one.",
+            "zh": "我完全同意。有時候最簡單的句子反而最真。"
           }
         ]
       },
@@ -1439,7 +1439,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Only the usual human one. Any good thing can turn narrow if people start building identity only through agreement.",
-            "zh": "缺點其實還是一般人的老問題。任何好的東西都可能變窄，如果大家開始只靠一致來建立身份認同。"
+            "zh": "缺點其實還是一般人的老問題。任何好的東西都可能變窄，如果大家開始只靠一致來建立身分認同。"
           },
           {
             "speaker": "b",
@@ -1960,7 +1960,7 @@ export const WEEK_32: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "It can relieve stress, but it also gives identity beyond work. That is the deeper part.",
-            "zh": "它當然可以舒壓，但它也會給一個人工作之外的身份感。那才是更深的部分。"
+            "zh": "它當然可以舒壓，但它也會給一個人工作之外的身分感。那才是更深的部分。"
           },
           {
             "speaker": "b",
@@ -2142,13 +2142,13 @@ export const WEEK_32: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "Think of a real moment. The things you love may be helping you become someone deeper, not just someone busier.",
-            "zh": "想一個真實的時刻：你真正喜歡的那些事，也許正在幫你變成一個更深的人，不只是一個更忙的人。"
+            "en": "Take that seriously. The things you love may be helping you become someone deeper, not just someone busier.",
+            "zh": "認真看待這件事：你真正喜歡的那些事，也許正在幫你變成一個更深的人，不只是一個更忙的人。"
           },
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a great place to end the week.",
+            "en": "That is a great place to end the week.",
             "zh": "這真的是很適合拿來結束這一週的一句話。"
           },
           {
@@ -2178,12 +2178,12 @@ export const WEEK_32: Episode[] = [
       },
       {
         "en": "identity beyond work",
-        "zh": "不只靠工作來定義自己，而有別的身份與存在感",
+        "zh": "不只靠工作來定義自己，而有別的身分與存在感",
         "example": "Her choir gave her an identity beyond work."
       },
       {
         "en": "identity thread",
-        "zh": "把人生不同階段串起來的那一條身份線索",
+        "zh": "把人生不同階段串起來的那一條身分線索",
         "example": "Writing stayed as an identity thread through three different careers."
       },
       {

@@ -103,7 +103,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful move. Engaged without exposed.",
+            "en": "That is a useful move. Engaged without exposed.",
             "zh": "這是個很實用的做法。投入，但不暴露。"
           },
           {
@@ -759,7 +759,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a good one because it is hard to argue with someone who is trying to understand you.",
+            "en": "That is a good one because it is hard to argue with someone who is trying to understand you.",
             "zh": "這句很好，因為你很難跟一個試著理解你的人爭辯。"
           },
           {
@@ -1040,7 +1040,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good way to put it. Clear on the what. Flexible on the how.",
+            "en": "That is a good way to put it. Clear on the what. Flexible on the how.",
             "zh": "這是個很好的說法。在「做什麼」上清楚，在「怎麼做」上靈活。"
           },
           {
@@ -1094,7 +1094,7 @@ export const WEEK_13: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "\"Here is what I need, here is the timeline, I trust you to figure out the approach\" is one of the most empowering things a manager can say.",
-            "zh": "「這是我需要的，這是時間表，我相信你能找出方法」是主管能說的最有賦能感的話之一。"
+            "zh": "「這是我需要的，這是時間表，我相信你能找出方法」是主管能說出口、最能讓人放手去做的話之一。"
           },
           {
             "speaker": "b",
@@ -2124,7 +2124,7 @@ export const WEEK_13: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful distinction. Their highlight reel versus my behind-the-scenes.",
+            "en": "That is a useful distinction. Their highlight reel versus my behind-the-scenes.",
             "zh": "這是個有用的區分。他們的精彩片段對比我的幕後花絮。"
           },
           {

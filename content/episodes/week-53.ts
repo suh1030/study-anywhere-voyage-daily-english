@@ -80,7 +80,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "b",
             "speakerName": "Jamie",
             "en": "So you are standing between identities a little.",
-            "zh": "所以某種程度上，你有點站在兩種身份中間。"
+            "zh": "所以某種程度上，你有點站在兩種身分中間。"
           },
           {
             "speaker": "a",
@@ -361,7 +361,7 @@ export const WEEK_53: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Right. The old script may have given you identity, approval, or predictability, so releasing it can feel like betrayal at first.",
-            "zh": "對。那個舊劇本可能曾經給過你身份感、認可感，或某種可預測性，所以一開始要放掉它時，真的會像是在背叛它。"
+            "zh": "對。那個舊劇本可能曾經給過你身分感、認可感，或某種可預測性，所以一開始要放掉它時，真的會像是在背叛它。"
           },
           {
             "speaker": "b",
@@ -613,7 +613,7 @@ export const WEEK_53: Episode[] = [
       },
       {
         "en": "carry the lesson",
-        "zh": "把收穫帶走，但不把整套舊身份一起背走",
+        "zh": "把收穫帶走，但不把整套舊身分一起背走",
         "example": "He wanted to carry the lesson without carrying the whole role."
       },
       {
@@ -1075,7 +1075,7 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a beautiful line for saying goodbye.",
+            "en": "That is a beautiful line for saying goodbye.",
             "zh": "這句拿來道別真的很美。"
           },
           {
@@ -1158,8 +1158,8 @@ export const WEEK_53: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "If you were saying this to someone, you might start here. A first step should invite movement, not demand a performance.",
-            "zh": "如果要跟別人講，可以從這裡開始：第一步本來就應該邀請你移動，而不是要求你表演。"
+            "en": "Hold on to this one idea. A first step should invite movement, not demand a performance.",
+            "zh": "把這一個想法留著就好：第一步本來就應該邀請你移動，而不是要求你表演。"
           },
           {
             "speaker": "b",

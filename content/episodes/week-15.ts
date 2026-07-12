@@ -1493,7 +1493,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Slowly. Therapy helped. But the main shift was separating the behavior from my identity.",
-            "zh": "慢慢地。諮商有幫助。但主要的轉變是把行為和我的身份分開來。"
+            "zh": "慢慢地。諮商有幫助。但主要的轉變是把行為和我的身分分開來。"
           },
           {
             "speaker": "b",
@@ -1505,7 +1505,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Yes. Behavior is changeable. Identity feels fixed. The language you use matters enormously.",
-            "zh": "就是這樣。行為是可以改變的。身份感覺是固定的。你用的語言非常重要。"
+            "zh": "就是這樣。行為是可以改變的。身分感覺是固定的。你用的語言非常重要。"
           },
           {
             "speaker": "b",
@@ -1608,7 +1608,7 @@ export const WEEK_15: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a useful way to think about it. I never framed it as expansive before.",
+            "en": "That is a useful way to think about it. I never framed it as expansive before.",
             "zh": "這是個有用的思考方式。我以前從來沒有把它框架成「廣闊」。"
           },
           {
@@ -2037,7 +2037,7 @@ export const WEEK_15: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Authenticity includes integrity. How you say something is as much a part of who you are as what you say.",
-            "zh": "真實性包含正直。你怎麼說，和你說什麼，一樣都是你身份的一部分。"
+            "zh": "真實性包含正直。你怎麼說，和你說什麼，一樣都是你身分的一部分。"
           },
           {
             "speaker": "b",

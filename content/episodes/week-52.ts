@@ -525,8 +525,8 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "So the word \"busy\" often does less work than people expect it to. I am not sure if that covers the messy middle.",
-            "zh": "所以「忙」這個字，常常沒有大家以為的那麼管用。不過我不太確定，這樣有沒有把中間那段亂糟糟的過程也講進去。"
+            "en": "So the word \"busy\" often does less work than people expect it to. Though I wonder what it leaves out.",
+            "zh": "所以「忙」這個字，常常沒有大家以為的那麼管用。不過我也在想，它到底漏掉了什麼。"
           },
           {
             "speaker": "a",
@@ -1152,7 +1152,7 @@ export const WEEK_52: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a strong final note.",
+            "en": "That is a strong final note.",
             "zh": "這是一個很有力的收尾。"
           },
           {

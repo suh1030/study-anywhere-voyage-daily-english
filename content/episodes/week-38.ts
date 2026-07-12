@@ -561,7 +561,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a line I really needed.",
+            "en": "That is a line I really needed.",
             "zh": "這句真的就是我需要的。"
           },
           {
@@ -877,7 +877,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a thoughtful way to describe it.",
+            "en": "That is a thoughtful way to describe it.",
             "zh": "這真的是很有想法的說法。"
           },
           {
@@ -1510,7 +1510,7 @@ export const WEEK_38: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good note to end on.",
+            "en": "That is a good note to end on.",
             "zh": "這是一個很好的收尾點。"
           },
           {

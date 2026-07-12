@@ -1368,7 +1368,7 @@ export const WEEK_18: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a good word for it. A healthy boundary helps the relationship find a shape both people can live with.",
+            "en": "That is a good word for it. A healthy boundary helps the relationship find a shape both people can live with.",
             "zh": "導航這個字很好。健康的界線，是在幫關係找到一個雙方都住得下去的形狀。"
           }
         ]

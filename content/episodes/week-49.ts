@@ -251,7 +251,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a perfect analogy. And rest is not selfish either. When you are restored, you have more to give everyone around you.",
+            "en": "That is a perfect analogy. And rest is not selfish either. When you are restored, you have more to give everyone around you.",
             "zh": "這個比喻很貼切。而且休息也不自私。當你恢復了，你能給身邊每個人的也更多。"
           },
           {
@@ -1510,7 +1510,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a great way to put it. And catching things early almost always means the recovery is quicker too.",
+            "en": "That is a great way to put it. And catching things early almost always means the recovery is quicker too.",
             "zh": "這說法很好。而且越早接收到訊號，幾乎永遠代表恢復得越快。"
           },
           {
@@ -2089,7 +2089,7 @@ export const WEEK_49: Episode[] = [
           {
             "speaker": "a",
             "speakerName": "Mira",
-            "en": "I like that as a beautiful way to measure it. Rest is successful when it brings you back to yourself.",
+            "en": "That is a beautiful way to measure it. Rest is successful when it brings you back to yourself.",
             "zh": "這是一個很美的衡量方式。休息成功的時候，就是它把你帶回自己。"
           },
           {

@@ -409,7 +409,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Exactly, and that can feel like an ego bruise. Not because anything is wrong, but because the old identity is losing authority.",
-            "zh": "完全沒錯，而那常常會讓人有一種 ego 被磨到的感覺。不是因為哪裡出錯，是因為舊身份正在失去主導權。"
+            "zh": "完全沒錯，而那常常會讓人有一種 ego 被磨到的感覺。不是因為哪裡出錯，是因為舊身分正在失去主導權。"
           },
           {
             "speaker": "b",
@@ -1644,7 +1644,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "Borrow a method, not an identity. Take the useful piece without deciding you have to become their whole personality.",
-            "zh": "借一個方法，不要借整個身份。把有用的部分拿走，但不要因此以為自己也得變成他那整個人。"
+            "zh": "借一個方法，不要借整個身分。把有用的部分拿走，但不要因此以為自己也得變成他那整個人。"
           },
           {
             "speaker": "b",
@@ -1832,7 +1832,7 @@ export const WEEK_24: Episode[] = [
           {
             "speaker": "b",
             "speakerName": "Jamie",
-            "en": "I like that as a sentence I needed at least five years ago.",
+            "en": "That is a sentence I needed at least five years ago.",
             "zh": "這句我至少五年前就該聽到了。"
           },
           {
@@ -1972,7 +1972,7 @@ export const WEEK_24: Episode[] = [
             "speaker": "a",
             "speakerName": "Mira",
             "en": "That's not unusual. The more identity you build, the more careful you have to be not to confuse identity with completion.",
-            "zh": "這很不稀奇。你建立的身份越多，就越要小心，不要把身份感誤認成已經完成。"
+            "zh": "這很不稀奇。你建立的身分越多，就越要小心，不要把身分感誤認成已經完成。"
           },
           {
             "speaker": "b",
